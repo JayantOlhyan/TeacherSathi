@@ -6,6 +6,7 @@ import { Link } from "@/i18n/routing";
 import { useTranslations } from "next-intl";
 import { Button } from "@/components/ui/Button";
 import { Eye, EyeOff, GraduationCap } from "lucide-react";
+import EducatorFAQAccordion from "@/components/EducatorFAQAccordion";
 
 export default function SignupPage() {
   const t = useTranslations("Signup");
@@ -13,7 +14,8 @@ export default function SignupPage() {
   const [showPassword, setShowPassword] = useState(false);
 
   return (
-    <div className="min-h-screen flex font-sans bg-[#F9F9F4]">
+    <div className="min-h-screen flex flex-col font-sans bg-[#F9F9F4]">
+      <div className="flex-1 flex">
       {/* Left side - Illustration */}
       <div className="hidden lg:flex flex-1 relative bg-[#E1A140] flex-col justify-end p-12 overflow-hidden">
         <div className="absolute inset-0 w-full h-full">
@@ -138,6 +140,9 @@ export default function SignupPage() {
           </p>
         </div>
       </div>
+      </div>
+
+      <EducatorFAQAccordion />
     </div>
   );
 }

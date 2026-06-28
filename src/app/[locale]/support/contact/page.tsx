@@ -4,6 +4,7 @@ import { useState } from "react";
 import { useLocale } from "next-intl";
 import { Link } from "@/i18n/routing";
 import { Mail, Phone, Check, ArrowLeft, MessageSquare } from "lucide-react";
+import EducatorFAQAccordion from "@/components/EducatorFAQAccordion";
 
 export default function ContactSupportPage() {
   const locale = useLocale();
@@ -229,6 +230,7 @@ export default function ContactSupportPage() {
 
         </div>
 
+        <EducatorFAQAccordion />
       </div>
     </div>
   );

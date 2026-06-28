@@ -33,10 +33,23 @@ export async function generateMetadata({ params: { locale } }: { params: { local
     description: isHi 
       ? 'भारतीय शिक्षकों के लिए NCERT आधारित AI लेसन प्लान, इंटरेक्टिव माइंड मैप और क्विज़ जनरेटर कुछ ही सेकंड में तैयार करें। आपका विश्वसनीय शिक्षण साथी।' 
       : 'Generate NCERT-aligned AI lesson plans, interactive mind maps, and quiz generators in seconds. The ultimate AI teaching assistant for Indian educators.',
-    keywords: ['NCERT', 'AI Education', 'Teacher Tools', 'Lesson Planning', 'Indian Education', 'CBSE'],
+    keywords: [
+      'AI teaching assistant India',
+      'CBSE lesson plan generator AI',
+      'NCERT class 10 solutions AI',
+      'automatic question paper generator CBSE',
+      'bilingual Hindi English teacher tools',
+      'NCERT',
+      'AI Education',
+      'Teacher Tools',
+      'Lesson Planning',
+      'Indian Education',
+      'CBSE'
+    ],
     openGraph: {
       type: 'website',
       locale: locale === 'hi' ? 'hi_IN' : 'en_IN',
+      alternateLocale: locale === 'hi' ? ['en_IN'] : ['hi_IN'],
       url: `https://teacher-sathi.online/${locale}`,
       siteName: 'TeacherSathi',
       images: [
