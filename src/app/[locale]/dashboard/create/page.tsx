@@ -8,8 +8,10 @@ export default function AssessmentEditorPage() {
       {/* Editor Header */}
       <div className="flex items-center justify-between mb-8 pb-6 border-b border-gray-800">
         <div>
-          <h2 className="text-2xl font-bold text-white mb-1">Create New Quiz</h2>
-          <p className="text-gray-400 text-sm">Physics - Light Reflection & Refraction</p>
+          <h1 className="text-2xl sm:text-3xl font-bold text-white mb-1">AI Quiz & Lesson Creator</h1>
+          <p className="text-gray-300 mt-2 text-sm leading-relaxed max-w-2xl">
+            Create customized NCERT practice quizzes, bilingual chapter assessments, and structured AI lesson plans tailored for your Indian classroom curriculum in seconds. (Physics - Light Reflection & Refraction)
+          </p>
         </div>
         <div className="flex items-center gap-4">
           <div className="flex items-center gap-2 bg-gray-800 px-3 py-1.5 rounded-lg border border-gray-700">
@@ -55,7 +57,7 @@ export default function AssessmentEditorPage() {
 
           {/* Options Grid */}
           <div className="space-y-3">
-            <h3 className="text-sm font-semibold text-gray-400 uppercase tracking-wider mb-2">Options</h3>
+            <h2 className="text-sm font-semibold text-gray-400 uppercase tracking-wider mb-2">Options</h2>
             {['A', 'B', 'C', 'D'].map((opt, i) => (
               <div key={opt} className={`flex items-center gap-4 bg-gray-800 p-3 rounded-lg border ${i === 0 ? 'border-green-500/50 bg-green-500/5' : 'border-gray-700'}`}>
                 <div className={`w-8 h-8 rounded-md flex items-center justify-center font-bold text-sm ${i === 0 ? 'bg-green-500/20 text-green-400' : 'bg-gray-700 text-gray-400'}`}>

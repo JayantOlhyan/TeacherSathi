@@ -5,6 +5,7 @@ import { Link } from "@/i18n/routing";
 import { useLocale } from "next-intl";
 import { FileText, Sparkles, Wand2, Clock, CheckCircle2, ArrowLeft, Loader2, Settings } from "lucide-react";
 import { Button } from "@/components/ui/Button";
+import SEOAuthorityLinks from "@/components/SEOAuthorityLinks";
 
 export default function LessonPlansPage() {
   const locale = useLocale();
@@ -116,10 +117,10 @@ export default function LessonPlansPage() {
         <h1 className="text-4xl sm:text-5xl font-black tracking-tight text-[#166534] leading-tight">
           {isHi ? "AI-संचालित पाठ योजना (Lesson Plans)" : "AI-Powered Lesson Plans"}
         </h1>
-        <p className="text-lg text-[#3C4B3A]/80 max-w-2xl mx-auto">
+        <p className="text-lg text-[#3C4B3A]/80 max-w-2xl mx-auto leading-relaxed">
           {isHi 
             ? "पाठ्यक्रम तैयार करने में घंटे बर्बाद करना बंद करें। TeacherSathi सेकंडों में NCERT पर आधारित पाठ योजनाएं, अवधारणा रूपरेखा और वर्कशीट तैयार करता है।"
-            : "Generate comprehensive, structured lesson plans in seconds. Infused with Bloom's Taxonomy, class hook activities, and timeline breakdowns tailored for smart screens."}
+            : "Generate comprehensive AI lesson plans aligned with NCERT Class 6–10 syllabus in seconds. Built for Indian government school teachers with Bloom's Taxonomy, class activities, and quizzes tailored for smart classrooms."}
         </p>
       </section>
 
@@ -128,10 +129,10 @@ export default function LessonPlansPage() {
         
         {/* Selector panel */}
         <div className="lg:col-span-4 bg-white border border-[#DCE4D7] rounded-3xl p-6 shadow-sm h-fit space-y-6">
-          <h3 className="text-base font-bold text-[#1C2B1C] border-b border-[#DCE4D7] pb-3 flex items-center gap-2">
+          <h2 className="text-base font-bold text-[#1C2B1C] border-b border-[#DCE4D7] pb-3 flex items-center gap-2">
             <Settings className="w-4 h-4 text-[#166534]" />
             {isHi ? "पाठ सेटिंग्स" : "Lesson Settings"}
-          </h3>
+          </h2>
 
           {/* Subject Selector */}
           <div className="space-y-2">
@@ -208,9 +209,9 @@ export default function LessonPlansPage() {
                     <FileText className="w-6 h-6" />
                   </div>
                   <div>
-                    <h3 className="text-xl font-extrabold text-brand">
+                    <h2 className="text-xl font-extrabold text-brand">
                       {isHi ? plan.topicHi : plan.topic}
-                    </h3>
+                    </h2>
                     <p className="text-xs text-[#5E6C5A] uppercase tracking-wider font-semibold">
                       Class {grade} · NCERT Blueprint
                     </p>
@@ -281,6 +282,7 @@ export default function LessonPlansPage() {
 
       </section>
 
+      <SEOAuthorityLinks />
     </div>
   );
 }

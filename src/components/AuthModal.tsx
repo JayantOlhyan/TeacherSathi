@@ -3,6 +3,7 @@
 import { useState } from "react";
 import { Eye, EyeOff, X, GraduationCap, Sparkles, Loader2 } from "lucide-react";
 import { Button } from "@/components/ui/Button";
+import Image from "next/image";
 
 interface AuthModalProps {
   isOpen: boolean;
@@ -64,9 +65,11 @@ export default function AuthModal({ isOpen, onClose, onSuccess }: AuthModalProps
 
           {/* Local File Asset (Mascot) */}
           <div className="relative z-10 flex flex-col items-center justify-center flex-grow py-6 gap-4">
-            <img 
+            <Image 
               src="/assets/owl-mascot.png" 
-              alt="TeacherSathi Mascot" 
+              alt="TeacherSathi Official Brand Mascot Logo representing AI teaching assistance for Indian educators" 
+              width={192}
+              height={192}
               className="w-48 h-auto object-contain drop-shadow-[0_20px_24px_rgba(28,43,28,0.25)] animate-pulse-slow" 
             />
             <p className="text-white/90 text-sm font-semibold uppercase tracking-wider flex items-center gap-1.5 bg-white/10 px-3 py-1 rounded-full backdrop-blur-xs">
@@ -227,7 +230,7 @@ export default function AuthModal({ isOpen, onClose, onSuccess }: AuthModalProps
               onClick={handleSubmit}
               className="w-full bg-white border border-line hover:bg-cream/40 py-3 rounded-xl text-sm font-bold flex items-center justify-center gap-3 shadow-xs cursor-pointer transition-colors"
             >
-              <img src="https://www.svgrepo.com/show/475656/google-color.svg" alt="Google" width={18} height={18} />
+              <Image src="https://www.svgrepo.com/show/475656/google-color.svg" alt="Google Single Sign On Authentication Logo for Indian Government Teachers" width={18} height={18} />
               Continue with Google
             </button>
           </div>

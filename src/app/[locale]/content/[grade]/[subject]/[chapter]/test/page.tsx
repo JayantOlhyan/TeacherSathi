@@ -37,8 +37,11 @@ export default function ChapterTestPage() {
       <header className="bg-white border-b border-line px-6 sm:px-8 py-4 flex items-center justify-between sticky top-0 z-50 shadow-sm">
         <div className="flex-1">
           <h1 className="text-xl sm:text-2xl font-extrabold text-ink">
-            Class 10 Science — <br className="sm:hidden" /> Chapter Test (Hard)
+            TeacherSathi NCERT Chapter Test — <br className="sm:hidden" /> Class 10 Science
           </h1>
+          <p className="text-xs text-ink-2 mt-1 hidden sm:block">
+            Rigorous CBSE competency assessment tailored for Indian government school educators and classroom evaluations.
+          </p>
         </div>
         
         <div className="flex-1 flex justify-center">

@@ -7,6 +7,7 @@ import { Menu, X, User, LogOut, Settings, HelpCircle, ChevronUp, ChevronDown, Ch
 import { motion, AnimatePresence } from "framer-motion";
 import { supabase } from "@/lib/supabase";
 import { useTranslations } from "next-intl";
+import Image from "next/image";
 import AuthModal from "./AuthModal";
 
 export default function Navbar() {
@@ -201,7 +202,7 @@ export default function Navbar() {
             {/* Logo & Brand */}
             <div className="flex items-center gap-3">
               <Link href={isAuthenticated ? "/dashboard" : "/"} className="flex items-center gap-2 hover:scale-[1.02] transition-all duration-200">
-                <img src="/logo-horizontal.png" alt="TeacherSathi Logo" className="h-8 w-auto object-contain" />
+                <Image src="/logo-horizontal.png" alt="TeacherSathi AI Official Brand Header Logo for Indian Government School Teachers" width={140} height={32} className="h-8 w-auto object-contain" priority />
               </Link>
             </div>
 

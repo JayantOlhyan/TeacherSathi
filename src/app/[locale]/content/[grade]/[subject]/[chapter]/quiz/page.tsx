@@ -30,6 +30,14 @@ export default function QuickQuizPage() {
 
   return (
     <div className="min-h-screen bg-dark-bg text-[#F4F8F1] font-sans flex flex-col items-center py-10 px-4">
+      <div className="w-full max-w-4xl mb-6 text-center sm:text-left">
+        <h1 className="text-xl sm:text-2xl font-black text-white">
+          TeacherSathi NCERT Classroom Interactive Quiz
+        </h1>
+        <p className="text-xs text-[#B9C7B6] mt-1">
+          Live CBSE competency-based assessment formatted for Indian government school smart classrooms.
+        </p>
+      </div>
       
       {/* Top Header Bar with Quit Button */}
       <div className="w-full max-w-4xl flex flex-col sm:flex-row sm:items-center justify-between gap-4 mb-6">

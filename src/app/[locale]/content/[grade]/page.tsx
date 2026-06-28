@@ -38,8 +38,11 @@ export default function ClassContentPage() {
         
         <div className="text-center space-y-6 mb-16">
           <h1 className="text-3xl sm:text-4xl font-extrabold text-ink">
-            Choose Your Chapter / <span className="font-sans font-medium text-ink">अध्याय चुनें</span>
+            TeacherSathi NCERT Chapters / <span className="font-sans font-medium text-ink">अध्याय चुनें</span>
           </h1>
+          <p className="text-base sm:text-lg text-ink-2 max-w-2xl mx-auto mt-2">
+            Access NCERT-aligned chapters, AI lesson plans, and interactive resources tailored for Indian government school educators and smart classroom displays.
+          </p>
           
           <div className="flex flex-wrap justify-center gap-6 text-ink-2">
             {classes.map((cls) => (
@@ -59,7 +62,7 @@ export default function ClassContentPage() {
             <div key={sIdx} className="flex flex-col md:flex-row gap-8 items-end relative">
               <div className="w-48 shrink-0 pb-4">
                 <h2 className={`text-2xl font-serif ${subject.text}`}>{subject.name}</h2>
-                <h3 className={`text-xl font-sans font-medium ${subject.text}`}>{subject.hiName}</h3>
+                <div className={`text-xl font-sans font-medium ${subject.text}`}>{subject.hiName}</div>
               </div>
               
               <div className="flex-1 relative pb-2 w-full overflow-x-auto">

@@ -18,9 +18,14 @@ export default function AdminPipelinePage() {
       
       {/* Header */}
       <header className="flex items-center justify-between border-b border-[#333] pb-4 mb-6">
-        <div className="flex items-center gap-2 text-xl font-bold text-[#4ADE80]">
-          <Terminal className="w-6 h-6" />
-          Pipeline Control <span className="text-[#666]">· TeacherSathi Admin</span>
+        <div>
+          <h1 className="flex items-center gap-2 text-xl font-bold text-[#4ADE80]">
+            <Terminal className="w-6 h-6" />
+            TeacherSathi AI Pipeline Control <span className="text-[#666]">· Admin Dashboard</span>
+          </h1>
+          <p className="text-xs text-[#888] mt-1">
+            Automated content generation pipeline managing NCERT and CBSE classroom resources for Indian government school educators.
+          </p>
         </div>
         <div className="flex items-center gap-6 text-sm">
           <div className="flex items-center gap-2">

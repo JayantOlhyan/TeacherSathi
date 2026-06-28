@@ -4,6 +4,7 @@ import { useEffect, useState } from "react";
 import { Link, usePathname } from "@/i18n/routing";
 import { Mail, Heart, Settings, X, Eye, Type, Volume2, Moon, Sun, Layout, Phone } from "lucide-react";
 import { useTranslations, useLocale } from "next-intl";
+import Image from "next/image";
 
 export default function Footer() {
   const t = useTranslations("Footer");
@@ -90,7 +91,7 @@ export default function Footer() {
           {/* Brand */}
           <div className="space-y-4">
             <div className="flex items-center gap-2">
-              <img src="/logo-horizontal-on-dark.png" alt="TeacherSathi Logo" className="h-9 w-auto object-contain" />
+              <Image src="/logo-horizontal-on-dark.png" alt="TeacherSathi AI Lesson Plan & Classroom Quiz Generator Logo for Indian Government Schools" width={160} height={36} className="h-9 w-auto object-contain" />
             </div>
             <p className="text-white/60 text-sm leading-relaxed">
               {t("tagline")}

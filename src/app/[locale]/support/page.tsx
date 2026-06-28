@@ -3,6 +3,7 @@
 import { useState } from "react";
 import { Link } from "@/i18n/routing";
 import { useTranslations } from "next-intl";
+import SEOAuthorityLinks from "@/components/SEOAuthorityLinks";
 import { 
   Search, Mail, Phone, User, FileText, BookOpen, Layout, 
   Users, BarChart, Monitor, Play, CheckSquare, Sparkles, 
@@ -289,6 +290,7 @@ export default function SupportPage() {
           </div>
         </div>
 
+        <SEOAuthorityLinks />
       </div>
     </div>
   );

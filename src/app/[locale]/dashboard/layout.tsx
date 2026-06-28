@@ -1,5 +1,11 @@
+import { Metadata } from "next";
 import { Sidebar } from "@/components/dashboard/Sidebar";
 import { Header } from "@/components/dashboard/Header";
+
+export const metadata: Metadata = {
+  title: "Educator Dashboard",
+  description: "Manage your Indian classrooms, generate AI lesson plans, access interactive whiteboards, and track student activity on your TeacherSathi dashboard.",
+};
 
 export default function DashboardLayout({
   children,

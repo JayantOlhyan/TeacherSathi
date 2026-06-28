@@ -40,9 +40,12 @@ export default function LoginPage() {
       <div className="flex-1 flex flex-col items-center justify-center p-8 sm:p-16">
         <div className="w-full max-w-[400px] space-y-8">
           <div className="text-center space-y-2">
-            <h1 className="text-4xl font-serif text-[#4A3B2C]">
-              {t('greeting')}
+            <h1 className="text-3xl font-serif text-[#4A3B2C] font-bold">
+              {t('greeting')} – Educator Portal Login
             </h1>
+            <p className="text-xs text-ink-3 mt-1 leading-relaxed">
+              Log in to your TeacherSathi educator account to access saved AI lesson plans, NCERT mind maps, classroom quizzes, and reports tailored for Indian government schools.
+            </p>
           </div>
 
           <div className="flex bg-white rounded-full p-1 border border-line shadow-sm">

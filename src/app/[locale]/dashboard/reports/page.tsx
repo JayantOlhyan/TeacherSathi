@@ -20,8 +20,10 @@ export default function ReportsPage() {
       {/* Header Section */}
       <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 bg-white p-6 rounded-2xl shadow-sm border border-gray-100">
         <div>
-          <h2 className="text-3xl font-extrabold text-gray-800">Learning & Performance Reports</h2>
-          <p className="text-gray-500 mt-1">Monitor real-time grades, quiz analytics, and custom test metrics.</p>
+          <h1 className="text-2xl sm:text-3xl font-extrabold text-gray-800">Learning & Performance Reports</h1>
+          <p className="text-gray-600 mt-2 text-sm leading-relaxed">
+            Analyze real-time student grades, review NCERT quiz analytics, evaluate classroom learning progress, and export diagnostic progress reports tailored for Indian government school educators.
+          </p>
         </div>
 
         <Button className="bg-[#16A34A] hover:bg-cta-hover text-white px-5 py-2.5 rounded-xl font-bold shadow-md flex items-center gap-2 transition-all">
@@ -43,7 +45,7 @@ export default function ReportsPage() {
             </div>
             <div>
               <p className="text-xs font-semibold text-gray-500">{card.label}</p>
-              <h3 className="text-xl font-bold text-gray-800 mt-0.5">{card.value}</h3>
+              <p className="text-xl font-bold text-gray-800 mt-0.5">{card.value}</p>
               <p className="text-[10px] text-gray-400 mt-1 font-medium">{card.desc}</p>
             </div>
           </div>

@@ -59,6 +59,9 @@ export default function PricingPage() {
           <h1 className="text-4xl sm:text-5xl font-bold text-[#111827]">
             Choose Your Plan / <span className="font-sans">अपनी योजना चुनें</span>
           </h1>
+          <p className="text-sm sm:text-base text-gray-600 max-w-xl mx-auto leading-relaxed">
+            Explore affordable TeacherSathi pricing plans for Indian educators and students. Get unlimited AI lesson plans, NCERT mind maps, and practice test generators designed for CBSE schools.
+          </p>
           
           <div className="inline-flex bg-white rounded-full p-1 border border-line shadow-sm" role="tablist">
             <button 

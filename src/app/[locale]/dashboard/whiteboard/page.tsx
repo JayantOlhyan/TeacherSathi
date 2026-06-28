@@ -4,7 +4,14 @@ import { Pen, Eraser, Square, Circle, Type, MousePointer2, Image as ImageIcon, R
 
 export default function WhiteboardPlaceholder() {
   return (
-    <div className="h-[calc(100vh-8rem)] bg-white rounded-2xl shadow-sm border border-gray-200 overflow-hidden flex flex-col relative">
+    <div className="space-y-4">
+      <div className="bg-white p-6 rounded-2xl shadow-sm border border-gray-100">
+        <h1 className="text-2xl sm:text-3xl font-extrabold text-gray-900 mb-2">Interactive Classroom Whiteboard</h1>
+        <p className="text-gray-600 text-sm sm:text-base leading-relaxed">
+          Use the online digital whiteboard to sketch diagrams, teach visual math and science concepts, and conduct engaging live classroom sessions for Indian government schools.
+        </p>
+      </div>
+      <div className="h-[calc(100vh-14rem)] bg-white rounded-2xl shadow-sm border border-gray-200 overflow-hidden flex flex-col relative">
       
       {/* Toolbar - Top */}
       <div className="bg-gray-50 border-b border-gray-200 p-2 flex justify-between items-center z-10">
@@ -56,12 +63,13 @@ export default function WhiteboardPlaceholder() {
         <div className="absolute inset-0 flex items-center justify-center pointer-events-none">
           <div className="text-center bg-white/80 backdrop-blur-sm p-8 rounded-2xl border border-gray-100 shadow-sm">
             <Ruler className="w-12 h-12 text-indigo-400 mx-auto mb-4" />
-            <h3 className="text-xl font-bold text-gray-800 mb-2">Interactive Whiteboard</h3>
+            <h2 className="text-xl font-bold text-gray-800 mb-2">Digital Canvas Ready</h2>
             <p className="text-gray-500 max-w-sm">This is a placeholder for the complex whiteboard integration (e.g. TLDraw or Excalidraw). The canvas is ready for drawing!</p>
           </div>
         </div>
 
       </div>
+    </div>
     </div>
   );
 }

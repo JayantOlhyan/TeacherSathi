@@ -3,6 +3,7 @@
 import { useState } from "react";
 import { Link } from "@/i18n/routing";
 import { useLocale } from "next-intl";
+import SEOAuthorityLinks from "@/components/SEOAuthorityLinks";
 import { 
   ArrowLeft, 
   Wand2, 
@@ -232,12 +233,12 @@ export default function MindMapsPage() {
           <Network className="w-4 h-4 text-emerald-600 animate-pulse-slow" /> NCERT Concept Cartography
         </div>
         <h1 className="text-4xl sm:text-5xl font-black tracking-tight text-[#166534] leading-tight">
-          {"Interactive Visual Mind Maps"}
+          {isHi ? "TeacherSathi NCERT विज़ुअल माइंड मैप्स" : "TeacherSathi NCERT Visual Mind Maps"}
         </h1>
-        <p className="text-lg text-[#3C4B3A]/80 max-w-2xl mx-auto">
+        <p className="text-lg text-[#3C4B3A]/80 max-w-2xl mx-auto leading-relaxed">
           {isHi 
-            ? "जटिल विज्ञान और गणितीय सूत्रों को सुंदर दृश्य रूपरेखा में तोड़ें। स्मार्ट स्क्रीन पर अध्यापन और त्वरित दोहराव (Quick Revision) के लिए सर्वोत्तम।"
-            : "Synthesize complex CBSE structures into clickable visual nodes. Perfect for mapping relational concepts, logical flowcharts, and quick memory anchoring on board screens."}
+            ? "जटिल विज्ञान और गणितीय सूत्रों को सुंदर दृश्य रूपरेखा में तोड़ें। भारतीय सरकारी स्कूलों के शिक्षकों के लिए स्मार्ट स्क्रीन पर अध्यापन और त्वरित दोहराव हेतु सर्वोत्तम।"
+            : "Synthesize complex CBSE and NCERT Science and Math concepts into visual mind maps. Built for Indian government school teachers for quick class revision and interactive smart boards."}
         </p>
       </section>
 
@@ -246,10 +247,10 @@ export default function MindMapsPage() {
         
         {/* Left Control Panel */}
         <div className="lg:col-span-4 bg-white border border-[#DCE4D7] rounded-3xl p-6 shadow-sm h-fit space-y-6">
-          <h3 className="text-base font-bold text-[#1C2B1C] border-b border-[#DCE4D7] pb-3 flex items-center gap-2">
+          <h2 className="text-base font-bold text-[#1C2B1C] border-b border-[#DCE4D7] pb-3 flex items-center gap-2">
             <Settings className="w-4 h-4 text-[#166534]" />
             {"Map Cartography Settings"}
-          </h3>
+          </h2>
 
           {/* Subject Selector */}
           <div className="space-y-2">
@@ -507,14 +508,14 @@ export default function MindMapsPage() {
 
       {/* Feature Grid Details */}
       <section className="max-w-[900px] mx-auto px-4 mt-20 space-y-8">
-        <h3 className="text-2xl font-black text-center text-[#166534]">
+        <h2 className="text-2xl font-black text-center text-[#166534]">
           {"Optimized for High-Impact Classrooms"}
-        </h3>
+        </h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
           <div className="bg-white border border-[#DCE4D7] rounded-2xl p-6 space-y-2">
-            <h4 className="font-bold text-base text-[#1C2B1C]">
+            <h3 className="font-bold text-base text-[#1C2B1C]">
               {"Stylus & Smart Board Compatible"}
-            </h4>
+            </h3>
             <p className="text-sm text-[#5E6C5A] leading-relaxed">
               {isHi 
                 ? "हमारे माइंड मैप्स बड़े डिस्प्ले पर ड्रा करने, ज़ूम करने और स्टायलस पेन से नोट्स लिखने के लिए पूरी तरह से प्रतिक्रियाशील हैं।"
@@ -522,9 +523,9 @@ export default function MindMapsPage() {
             </p>
           </div>
           <div className="bg-white border border-[#DCE4D7] rounded-2xl p-6 space-y-2">
-            <h4 className="font-bold text-base text-[#1C2B1C]">
+            <h3 className="font-bold text-base text-[#1C2B1C]">
               {"Bilingual Nodes Switching"}
-            </h4>
+            </h3>
             <p className="text-sm text-[#5E6C5A] leading-relaxed">
               {isHi 
                 ? "बिना किसी विकृति के सभी वैज्ञानिक शब्दावली को तुरंत हिंदी और अंग्रेज़ी अनुवाद में टॉगल करें।"
@@ -534,6 +535,7 @@ export default function MindMapsPage() {
         </div>
       </section>
 
+      <SEOAuthorityLinks />
     </div>
   );
 }

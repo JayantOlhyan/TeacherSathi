@@ -175,7 +175,7 @@ export function Header() {
       )}
 
       <div className="flex flex-col">
-        <h1 className="text-lg sm:text-2xl font-bold text-gray-800">{firstName}&apos;s Classroom</h1>
+        <p className="text-lg sm:text-2xl font-bold text-gray-800">{firstName}&apos;s Classroom</p>
         <div className="text-xs sm:text-sm text-gray-500 font-medium hidden sm:block">Home / Dashboard</div>
       </div>
 

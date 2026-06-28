@@ -125,11 +125,13 @@ export default function MyClassPage() {
       {/* Header Section */}
       <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 bg-white p-6 rounded-2xl shadow-sm border border-gray-100">
         <div>
-          <h2 className="text-3xl font-bold text-gray-800 flex items-center gap-3">
-            Class 10-A Science
+          <h1 className="text-2xl sm:text-3xl font-bold text-gray-800 flex items-center gap-3">
+            Classroom Roster & Student Management
             <span className="bg-green-100 text-green-700 text-sm font-semibold px-3 py-1 rounded-full">Active</span>
-          </h2>
-          <p className="text-gray-500 mt-1">{students.length} Students Registered • Physics, Chemistry, Biology</p>
+          </h1>
+          <p className="text-gray-600 mt-2 text-sm leading-relaxed">
+            Manage your registered Indian government school students, monitor attendance rosters, organize CBSE and NCERT subject groups, and pair interactive classroom clickers effortlessly. ({students.length} Students Active • Physics, Chemistry, Biology)
+          </p>
         </div>
 
         <div className="flex flex-wrap items-center gap-3">
@@ -208,7 +210,7 @@ export default function MyClassPage() {
                     className="rounded-full object-cover border-2 border-gray-100"
                   />
                 </div>
-                <h3 className="font-extrabold text-gray-800 text-sm leading-tight mb-1">{student.name}</h3>
+                <h2 className="font-extrabold text-gray-800 text-sm leading-tight mb-1">{student.name}</h2>
                 <p className="text-xs text-gray-500 font-bold">Roll: {student.rollNo}</p>
               </div>
             </div>
@@ -216,7 +218,7 @@ export default function MyClassPage() {
         ) : (
           <div className="col-span-full py-12 text-center bg-white rounded-2xl border border-gray-100 shadow-sm space-y-2">
             <p className="text-xl">🔍</p>
-            <h4 className="font-bold text-gray-700">No students matched search</h4>
+            <h2 className="font-bold text-gray-700">No students matched search</h2>
             <p className="text-sm text-gray-400">Try checking spelling or type another roll number.</p>
           </div>
         )}
@@ -235,7 +237,7 @@ export default function MyClassPage() {
             >
               <X className="w-5 h-5" />
             </button>
-            <h3 className="text-xl font-extrabold text-gray-800 mb-4">Add New Student</h3>
+            <h2 className="text-xl font-extrabold text-gray-800 mb-4">Add New Student</h2>
             <form onSubmit={handleAddStudentSubmit} className="space-y-4">
               
               {/* Photo Upload Area */}
@@ -337,7 +339,7 @@ export default function MyClassPage() {
               )}
             </div>
 
-            <h3 className="text-xl font-extrabold text-gray-800 mb-2">Register Student Clickers</h3>
+            <h2 className="text-xl font-extrabold text-gray-800 mb-2">Register Student Clickers</h2>
             
             <div className="space-y-4 py-4">
               {pairingStatus === "scanning" && (

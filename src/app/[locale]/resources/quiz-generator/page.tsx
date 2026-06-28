@@ -3,6 +3,7 @@
 import { useState } from "react";
 import { Link } from "@/i18n/routing";
 import { useLocale } from "next-intl";
+import SEOAuthorityLinks from "@/components/SEOAuthorityLinks";
 import { 
   ArrowLeft, 
   Wand2, 
@@ -182,12 +183,12 @@ export default function QuizGeneratorPage() {
           <Sparkles className="w-4 h-4 text-emerald-600 animate-pulse-slow" /> Interactive Evaluator
         </div>
         <h1 className="text-4xl sm:text-5xl font-black tracking-tight text-[#166534] leading-tight">
-          {isHi ? "AI-संचालित परीक्षा प्रश्नोत्तरी (Quiz Generator)" : "AI-Powered Quiz Generator"}
+          {isHi ? "TeacherSathi AI परीक्षा प्रश्नोत्तरी (Quiz Generator)" : "TeacherSathi AI Quiz Generator"}
         </h1>
-        <p className="text-lg text-[#3C4B3A]/80 max-w-2xl mx-auto">
+        <p className="text-lg text-[#3C4B3A]/80 max-w-2xl mx-auto leading-relaxed">
           {isHi 
-            ? "कक्षा के लिए तुरंत प्रश्न और हल तैयार करें। बहुविकल्पीय प्रश्न (MCQ), संक्षिप्त उत्तर और योग्यता-आधारित प्रश्न, सभी पूरी तरह से NCERT मानकों के अनुरूप।"
-            : "Generate curriculum-aligned classroom questions and diagnostic worksheets in seconds. Format as instant-scoring interactive screen plays or exportable printable sheets."}
+            ? "कक्षा के लिए तुरंत प्रश्न और हल तैयार करें। भारतीय सरकारी स्कूलों के शिक्षकों हेतु बहुविकल्पीय प्रश्न (MCQ) और योग्यता-आधारित प्रश्न, सभी पूरी तरह से NCERT मानकों के अनुरूप।"
+            : "Generate curriculum-aligned CBSE and NCERT quizzes and diagnostic worksheets in seconds. Built for Indian government school teachers with instant scoring for interactive smart boards or printable PDFs."}
         </p>
       </section>
 
@@ -196,10 +197,10 @@ export default function QuizGeneratorPage() {
         
         {/* Sidebar Quiz Customizer */}
         <div className="lg:col-span-4 bg-white border border-[#DCE4D7] rounded-3xl p-6 shadow-sm h-fit space-y-6">
-          <h3 className="text-base font-bold text-[#1C2B1C] border-b border-[#DCE4D7] pb-3 flex items-center gap-2">
+          <h2 className="text-base font-bold text-[#1C2B1C] border-b border-[#DCE4D7] pb-3 flex items-center gap-2">
             <Settings className="w-4 h-4 text-[#166534]" />
             {isHi ? "प्रश्नोत्तरी सेटिंग्स" : "Quiz Engine Settings"}
-          </h3>
+          </h2>
 
           {/* Subject */}
           <div className="space-y-2">
@@ -327,9 +328,9 @@ export default function QuizGeneratorPage() {
                   <div className="w-8 h-8 rounded-full bg-[#166534]/10 text-[#166534] flex items-center justify-center shrink-0 mt-0.5">
                     <HelpCircle className="w-4 h-4" />
                   </div>
-                  <h3 className="text-lg sm:text-xl font-bold text-brand leading-snug">
+                  <h2 className="text-lg sm:text-xl font-bold text-brand leading-snug">
                     {isHi ? currentQuestion.qHi : currentQuestion.qEn}
-                  </h3>
+                  </h2>
                 </div>
               </div>
 
@@ -418,9 +419,9 @@ export default function QuizGeneratorPage() {
               </div>
               
               <div className="space-y-2">
-                <h3 className="text-3xl font-black text-brand">
+                <h2 className="text-3xl font-black text-brand">
                   {isHi ? "क्विज़ संपन्न हुआ!" : "Quiz Completed!"}
-                </h3>
+                </h2>
                 <p className="text-sm font-bold text-[#5E6C5A] uppercase tracking-wider">
                   {isHi ? "आपका अंतिम परिणाम" : "Your Final Result Summary"}
                 </p>
@@ -472,14 +473,14 @@ export default function QuizGeneratorPage() {
 
       {/* Feature Grid Details */}
       <section className="max-w-[900px] mx-auto px-4 mt-20 space-y-8">
-        <h3 className="text-2xl font-black text-center text-[#166534]">
+        <h2 className="text-2xl font-black text-center text-[#166534]">
           {isHi ? "क्विज़ इंजन की विशेषताएं" : "Engineered for Classroom Excellence"}
-        </h3>
+        </h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
           <div className="bg-white border border-[#DCE4D7] rounded-2xl p-6 space-y-2">
-            <h4 className="font-bold text-base text-[#1C2B1C]">
+            <h3 className="font-bold text-base text-[#1C2B1C]">
               {isHi ? "प्रिंट करने योग्य वर्कशीट निर्यात" : "One-Click PDF Worksheets"}
-            </h4>
+            </h3>
             <p className="text-sm text-[#5E6C5A] leading-relaxed">
               {isHi 
                 ? "केवल एक क्लिक में पूरी उत्तर कुंजी और व्याख्या सहित क्विज़ को सुंदर प्रिंट करने योग्य पीडीएफ में बदलें।"
@@ -487,9 +488,9 @@ export default function QuizGeneratorPage() {
             </p>
           </div>
           <div className="bg-white border border-[#DCE4D7] rounded-2xl p-6 space-y-2">
-            <h4 className="font-bold text-base text-[#1C2B1C]">
+            <h3 className="font-bold text-base text-[#1C2B1C]">
               {isHi ? "योग्यता और Bloom के शिक्षाशास्त्र पर आधारित" : "CBSE Competency Aligned"}
-            </h4>
+            </h3>
             <p className="text-sm text-[#5E6C5A] leading-relaxed">
               {isHi 
                 ? "सभी प्रश्न नवीनतम सीबीएसई योग्यता-आधारित और केस-स्टडी दिशानिर्देशों का कड़ाई से पालन करते हैं।"
@@ -499,6 +500,7 @@ export default function QuizGeneratorPage() {
         </div>
       </section>
 
+      <SEOAuthorityLinks />
     </div>
   );
 }

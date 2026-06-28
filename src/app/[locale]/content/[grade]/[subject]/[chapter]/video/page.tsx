@@ -40,6 +40,16 @@ export default function VideoPlayerPage() {
         </div>
       </header>
 
+      {/* SEO Title Banner */}
+      <div className="px-6 py-3 bg-[#14532D]/50 border-b border-white/5 shrink-0">
+        <h1 className="text-base sm:text-lg font-bold text-white">
+          TeacherSathi NCERT Smart Classroom Video Lesson
+        </h1>
+        <p className="text-xs text-[#B9C7B6] mt-0.5">
+          High-definition CBSE curriculum video lecture tailored for Indian government school educators and interactive display screens.
+        </p>
+      </div>
+
       {/* Main Content */}
       <div className="flex-1 flex flex-col lg:flex-row gap-6 p-6 overflow-y-auto">
         
@@ -147,7 +157,7 @@ export default function VideoPlayerPage() {
           
           {/* Jump To */}
           <div className="bg-[#14532D] rounded-xl p-5 border border-white/5 shadow-lg">
-            <h3 className="font-semibold text-lg mb-4 text-white">Jump To</h3>
+            <h2 className="font-semibold text-lg mb-4 text-white">Jump To</h2>
             <div className="space-y-1">
               {[
                 { time: "0:00:00", label: "Introduction to Light", active: true },
@@ -166,7 +176,7 @@ export default function VideoPlayerPage() {
 
           {/* Key Concepts */}
           <div className="bg-[#14532D] rounded-xl p-5 border border-white/5 shadow-lg">
-            <h3 className="font-semibold text-lg mb-4 text-white">Key Concepts</h3>
+            <h2 className="font-semibold text-lg mb-4 text-white">Key Concepts</h2>
             <div className="space-y-2">
               {[
                 "Reflection | परावर्तन",
@@ -183,7 +193,7 @@ export default function VideoPlayerPage() {
 
           {/* Next Up */}
           <div className="bg-[#14532D] rounded-xl p-5 border border-white/5 shadow-lg relative overflow-hidden group cursor-pointer">
-            <h3 className="font-semibold text-sm mb-3 text-white">Next Up</h3>
+            <h2 className="font-semibold text-sm mb-3 text-white">Next Up</h2>
             <div className="flex gap-3 items-center">
               <div className="w-24 h-14 bg-black rounded-md border border-white/10 shrink-0"></div>
               <div>

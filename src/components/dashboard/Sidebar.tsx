@@ -4,6 +4,7 @@ import { useState } from "react";
 import { Link, usePathname } from "@/i18n/routing";
 import { Home, Activity, Users, BarChart2, Menu, X } from "lucide-react";
 import { AnimatePresence, motion } from "framer-motion";
+import Image from "next/image";
 
 const navItems = [
   { name: "Home", href: "/dashboard", icon: Home },
@@ -19,7 +20,7 @@ function SidebarNav() {
     <>
       <div className="p-6 mb-6 border-b border-white/10 flex items-center justify-start">
         <Link href="/" className="hover:opacity-95 transition-opacity">
-          <img src="/logo-horizontal-on-dark.png" alt="TeacherSathi Logo" className="h-9 w-auto object-contain" />
+          <Image src="/logo-horizontal-on-dark.png" alt="TeacherSathi AI Dashboard Brand Navigation Logo for Indian Educators" width={160} height={36} className="h-9 w-auto object-contain" priority />
         </Link>
       </div>
       <nav className="flex-1 px-4 space-y-3">

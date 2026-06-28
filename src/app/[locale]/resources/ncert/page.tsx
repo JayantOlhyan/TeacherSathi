@@ -4,6 +4,7 @@ import { useState } from "react";
 import { Link } from "@/i18n/routing";
 import { useLocale } from "next-intl";
 import { BookOpen, GraduationCap, Sparkles, Check, ArrowLeft } from "lucide-react";
+import SEOAuthorityLinks from "@/components/SEOAuthorityLinks";
 
 export default function NcertPage() {
   const locale = useLocale();
@@ -96,12 +97,12 @@ export default function NcertPage() {
           <GraduationCap className="w-4 h-4" /> Classes 6 - 10 Coverage
         </div>
         <h1 className="text-4xl sm:text-5xl font-black tracking-tight text-[#166534] leading-tight">
-          {"NCERT Class 6-10 Syllabus Hub"}
+          {isHi ? "TeacherSathi NCERT कक्षा 6-10 पाठ्यक्रम हब" : "TeacherSathi NCERT Class 6-10 Syllabus Hub"}
         </h1>
-        <p className="text-lg text-[#3C4B3A]/80 max-w-2xl mx-auto">
+        <p className="text-lg text-[#3C4B3A]/80 max-w-2xl mx-auto leading-relaxed">
           {isHi 
-            ? "विज्ञान, गणित, सामाजिक विज्ञान, अंग्रेज़ी और हिंदी के लिए पूरी तरह से NCERT और CBSE बोर्ड के अनुकूल AI सामग्री प्राप्त करें। 75-इंच स्मार्ट स्क्रीन के लिए विशेष रूप से डिज़ाइन किया गया।"
-            : "Access comprehensive CBSE-aligned AI learning content, videos, tests, and summaries built directly from NCERT textbooks. Specially formatted for 75-inch smart screens."}
+            ? "विज्ञान, गणित, सामाजिक विज्ञान, अंग्रेज़ी और हिंदी के लिए भारतीय सरकारी स्कूलों के शिक्षकों हेतु पूरी तरह से NCERT और CBSE बोर्ड के अनुकूल AI सामग्री प्राप्त करें। 75-इंच स्मार्ट स्क्रीन के लिए विशेष रूप से डिज़ाइन किया गया।"
+            : "Access comprehensive TeacherSathi AI lesson plans, mind maps, quizzes, and videos built directly from NCERT textbooks for Indian government school educators. Specially formatted for 75-inch smart classrooms."}
         </p>
       </section>
 
@@ -201,12 +202,12 @@ export default function NcertPage() {
 
       {/* Feature Grid Details */}
       <section className="max-w-[900px] mx-auto px-4 mt-20 space-y-8">
-        <h3 className="text-2xl font-black text-center text-[#166534]">
+        <h2 className="text-2xl font-black text-center text-[#166534]">
           {"Ready for Classroom Smart Screens"}
-        </h3>
+        </h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
           <div className="bg-white border border-[#DCE4D7] rounded-2xl p-6 space-y-2">
-            <h4 className="font-bold text-base text-[#1C2B1C]">{"15-Foot Legibility"}</h4>
+            <h3 className="font-bold text-base text-[#1C2B1C]">{"15-Foot Legibility"}</h3>
             <p className="text-sm text-[#5E6C5A] leading-relaxed">
               {isHi 
                 ? "Plus Jakarta Sans और Mukta फॉन्ट संयोजन के कारण कक्षा में पीछे बैठे छात्रों को भी स्क्रीन साफ दिखती है।"
@@ -214,7 +215,7 @@ export default function NcertPage() {
             </p>
           </div>
           <div className="bg-white border border-[#DCE4D7] rounded-2xl p-6 space-y-2">
-            <h4 className="font-bold text-base text-[#1C2B1C]">{"Instant Language Swap"}</h4>
+            <h3 className="font-bold text-base text-[#1C2B1C]">{"Instant Language Swap"}</h3>
             <p className="text-sm text-[#5E6C5A] leading-relaxed">
               {isHi 
                 ? "बिना किसी पेज रीलोड के पूरे व्याख्यान, प्रश्नोत्तरी और नोट्स को तुरंत हिंदी से अंग्रेज़ी में बदलें।"
@@ -224,6 +225,7 @@ export default function NcertPage() {
         </div>
       </section>
 
+      <SEOAuthorityLinks />
     </div>
   );
 }

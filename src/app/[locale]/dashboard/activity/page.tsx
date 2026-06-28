@@ -7,6 +7,7 @@ import { Button } from "@/components/ui/Button";
 
 export default function ActivityPage() {
   const [filter, setFilter] = useState<"all" | "plans" | "quizzes" | "videos" | "tests">("all");
+  const [search, setSearch] = useState("");
   const [lastView, setLastView] = useState<{ url: string; title: string } | null>(null);
 
   useEffect(() => {
@@ -80,9 +81,12 @@ export default function ActivityPage() {
     }
   ];
 
-  const filteredActivities = filter === "all" 
-    ? activities 
-    : activities.filter(act => act.type === filter);
+  const filteredActivities = activities.filter(act => {
+    const matchesFilter = filter === "all" || act.type === filter;
+    const matchesSearch = act.title.toLowerCase().includes(search.toLowerCase()) || 
+                          act.description.toLowerCase().includes(search.toLowerCase());
+    return matchesFilter && matchesSearch;
+  });
 
   return (
     <div className="max-w-6xl mx-auto space-y-8 pb-12">
@@ -90,8 +94,10 @@ export default function ActivityPage() {
       {/* Header Section */}
       <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 bg-white p-6 rounded-2xl shadow-sm border border-gray-100">
         <div>
-          <h2 className="text-3xl font-extrabold text-gray-800">Activity Log</h2>
-          <p className="text-gray-500 mt-1">Track and manage your recent AI classroom interactions.</p>
+          <h1 className="text-2xl sm:text-3xl font-extrabold text-gray-800">Student Activity Log & Teaching Analytics</h1>
+          <p className="text-gray-600 mt-2 text-sm leading-relaxed">
+            Monitor real-time student activity logs, track NCERT quiz completions, review classroom learning engagement, and analyze AI lesson plan interactions across Indian schools.
+          </p>
         </div>
 
         {lastView && (
@@ -116,7 +122,7 @@ export default function ActivityPage() {
             </div>
             <div>
               <p className="text-sm font-semibold text-gray-500">{stat.label}</p>
-              <h3 className="text-2xl font-bold text-gray-800 mt-0.5">{stat.value}</h3>
+              <div className="text-2xl font-bold text-gray-800 mt-0.5">{stat.value}</div>
               <p className="text-xs text-gray-400 mt-1 font-medium">{stat.desc}</p>
             </div>
           </div>
@@ -147,11 +153,13 @@ export default function ActivityPage() {
           </div>
 
           <div className="relative w-full sm:w-64">
-            <Search className="w-4 h-4 absolute left-3 top-1/2 -translate-y-1/2 text-gray-400" />
-            <input 
-              type="text" 
-              placeholder="Search recent logs..." 
-              className="w-full pl-9 pr-4 py-2.5 rounded-xl border border-gray-200 focus:outline-none focus:ring-2 focus:ring-green-500/20 focus:border-green-500 text-sm transition-all"
+            <Search className="w-4 h-4 text-gray-400 absolute left-3.5 top-1/2 -translate-y-1/2" />
+            <input
+              type="text"
+              placeholder="Search history..."
+              value={search}
+              onChange={(e) => setSearch(e.target.value)}
+              className="w-full pl-9 pr-4 py-2 bg-cream border border-line rounded-full text-sm focus:outline-none focus:border-[#14532D] transition-colors"
             />
           </div>
         </div>
@@ -166,7 +174,7 @@ export default function ActivityPage() {
                     <act.icon className="w-5 h-5" />
                   </div>
                   <div>
-                    <h4 className="font-extrabold text-gray-800 group-hover:text-[#14532D] transition-colors leading-tight mb-1">{act.title}</h4>
+                    <h2 className="font-extrabold text-gray-800 group-hover:text-[#14532D] transition-colors leading-tight mb-1">{act.title}</h2>
                     <p className="text-gray-600 text-sm">{act.description}</p>
                     <div className="flex items-center gap-1 text-gray-400 text-xs mt-2 font-semibold">
                       <Clock className="w-3.5 h-3.5" />
@@ -185,7 +193,7 @@ export default function ActivityPage() {
           ) : (
             <div className="text-center py-12 space-y-3">
               <div className="w-16 h-16 bg-gray-50 border rounded-2xl flex items-center justify-center mx-auto text-gray-400 text-xl font-bold">📭</div>
-              <h4 className="text-lg font-bold text-gray-600">No activity logs found</h4>
+              <h2 className="text-lg font-bold text-gray-600">No activity logs found</h2>
               <p className="text-sm text-gray-400 max-w-xs mx-auto">Try switching filters or check back later after running some AI features.</p>
             </div>
           )}

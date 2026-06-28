@@ -123,6 +123,9 @@ export default function ChapterHubPage() {
           <h1 className="text-4xl sm:text-5xl font-extrabold text-ink leading-tight mb-2">
             Light — Reflection & Refraction
           </h1>
+          <p className="text-base sm:text-lg text-ink-2 max-w-3xl mt-3 leading-relaxed">
+            Comprehensive NCERT Class 10 Science chapter resources tailored for Indian government school teachers. Includes interactive smart classroom teaching modules, question banks, and revision summaries.
+          </p>
           
           
           <div className="flex flex-wrap items-center gap-4 mt-6">
@@ -158,7 +161,7 @@ export default function ChapterHubPage() {
                 <div className="w-10 h-10 bg-white/10 rounded-lg flex items-center justify-center mb-3">
                   <res.icon className={`w-5 h-5 ${res.iconColor}`} />
                 </div>
-                <h3 className="text-white font-bold text-lg leading-tight mb-1">{res.title}</h3>
+                <h2 className="text-white font-bold text-lg leading-tight mb-1">{res.title}</h2>
                 {res.subtitle && <div className="text-gray-400 text-xs">{res.subtitle}</div>}
               </div>
 

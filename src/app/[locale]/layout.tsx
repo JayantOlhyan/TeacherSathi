@@ -4,6 +4,8 @@ import { NextIntlClientProvider } from "next-intl";
 import { getMessages } from "next-intl/server";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
+import SEOLinks from "@/components/SEOLinks";
+import Breadcrumbs from "@/components/Breadcrumbs";
 import "../globals.css";
 
 export const dynamic = "force-dynamic";
@@ -23,13 +25,14 @@ export async function generateMetadata({ params: { locale } }: { params: { local
   const isHi = locale === 'hi';
   
   return {
+    metadataBase: new URL("https://teacher-sathi.online"),
     title: {
-      template: '%s | TeacherSathi',
-      default: isHi ? 'TeacherSathi | शिक्षकों का सुपरपावर' : 'TeacherSathi | Teachers ka Superpower',
+      template: '%s – TeacherSathi',
+      default: isHi ? 'AI टीचिंग असिस्टेंट – TeacherSathi' : 'AI Teaching Assistant – TeacherSathi',
     },
     description: isHi 
-      ? 'TeacherSathi: NCERT आधारित AI कंटेंट, वीडियो, क्विज़ और माइंड मैप तुरंत तैयार करें।' 
-      : 'TeacherSathi: Generate NCERT-aligned AI content, videos, quizzes, and mind maps instantly.',
+      ? 'भारतीय शिक्षकों के लिए NCERT आधारित AI लेसन प्लान, इंटरेक्टिव माइंड मैप और क्विज़ जनरेटर कुछ ही सेकंड में तैयार करें। आपका विश्वसनीय शिक्षण साथी।' 
+      : 'Generate NCERT-aligned AI lesson plans, interactive mind maps, and quiz generators in seconds. The ultimate AI teaching assistant for Indian educators.',
     keywords: ['NCERT', 'AI Education', 'Teacher Tools', 'Lesson Planning', 'Indian Education', 'CBSE'],
     openGraph: {
       type: 'website',
@@ -74,6 +77,7 @@ export default async function RootLayout({
     <html lang={locale} suppressHydrationWarning>
       <head>
         <meta name="google-site-verification" content="-a0wyjaTybF3gldEtwwHLwq_ChLau7TLls8Q1KFF7lE" />
+        <SEOLinks />
       </head>
       <body
         className={`${plusJakartaSans.variable} ${mukta.variable} font-sans antialiased bg-background text-foreground`}
@@ -81,6 +85,7 @@ export default async function RootLayout({
       >
         <NextIntlClientProvider messages={messages}>
           <Navbar />
+          <Breadcrumbs />
           {children}
           <Footer />
         </NextIntlClientProvider>

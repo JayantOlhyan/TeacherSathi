@@ -144,7 +144,7 @@ export default function Home() {
                     <feature.icon className="w-5 h-5 text-brand" />
                   </div>
                   <div>
-                    <h3 className="font-bold text-base mb-1 text-ink">{feature.title}</h3>
+                    <h2 className="font-bold text-base mb-1 text-ink">{feature.title}</h2>
                     <p className="text-xs text-ink-3 leading-relaxed">{feature.desc}</p>
                   </div>
                 </div>

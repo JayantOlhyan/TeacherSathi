@@ -11,7 +11,7 @@ export default function TermsOfUsePage() {
   const content = {
     en: {
       title: "Terms of Use",
-      subtitle: "Please read these terms carefully before using TeacherSathi services.",
+      subtitle: "Please read these terms carefully before accessing TeacherSathi AI lesson plans, NCERT mind maps, and interactive classroom tools.",
       lastUpdated: "Last Updated: June 2026",
       backLink: "Back to Home",
       sections: [

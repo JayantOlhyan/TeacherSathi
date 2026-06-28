@@ -11,7 +11,7 @@ export default function PrivacyPolicyPage() {
   const content = {
     en: {
       title: "Privacy Policy",
-      subtitle: "Your privacy is extremely important to us. Learn how we handle and protect your personal data.",
+      subtitle: "Your privacy is extremely important to us. Learn how TeacherSathi handles and protects personal data for Indian school educators, student quizzes, and AI lesson plans.",
       lastUpdated: "Last Updated: June 2026",
       backLink: "Back to Home",
       sections: [

@@ -106,6 +106,14 @@ export default function DashboardPage() {
   return (
     <div className="max-w-6xl mx-auto space-y-8 pb-12 relative">
       
+      {/* Page Title & SEO Introductory Paragraph */}
+      <div className="bg-white p-6 rounded-2xl shadow-sm border border-gray-100">
+        <h1 className="text-2xl sm:text-3xl font-extrabold text-gray-900 mb-2">Educator Dashboard & Classroom Management</h1>
+        <p className="text-gray-600 text-sm sm:text-base leading-relaxed">
+          Welcome to your central TeacherSathi dashboard. Easily manage Indian government school classrooms, generate NCERT aligned AI lesson plans, launch interactive classroom clickers, and track daily student progress in real-time.
+        </p>
+      </div>
+
       {/* Attention Bell Flashing Overlay */}
       {isAttentionBellActive && (
         <div className="fixed inset-0 z-[100] bg-red-600/95 flex flex-col items-center justify-center text-white p-6 animate-pulse select-none">
@@ -184,7 +192,7 @@ export default function DashboardPage() {
 
       {/* Action Cards */}
       <section>
-        <h3 className="text-xl font-bold text-gray-800 mb-4">Quick Actions</h3>
+        <h2 className="text-xl font-bold text-gray-800 mb-4">Quick Actions</h2>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
           
           <Link href="/content/class-10/science/chapter-10" className="bg-gradient-to-br from-blue-500 to-blue-600 p-6 rounded-2xl text-white shadow-lg shadow-blue-500/20 hover:-translate-y-1 transition-all flex flex-col justify-between min-h-[160px]">
@@ -192,7 +200,7 @@ export default function DashboardPage() {
               <Play className="w-5 h-5" />
             </div>
             <div>
-              <h4 className="text-lg font-extrabold mb-1">Play</h4>
+              <h3 className="text-lg font-extrabold mb-1">Play</h3>
               <p className="text-blue-100 text-xs leading-relaxed">Start an interactive session or quiz.</p>
             </div>
           </Link>
@@ -202,7 +210,7 @@ export default function DashboardPage() {
               <PlusCircle className="w-5 h-5" />
             </div>
             <div>
-              <h4 className="text-lg font-extrabold mb-1">Create</h4>
+              <h3 className="text-lg font-extrabold mb-1">Create</h3>
               <p className="text-purple-100 text-xs leading-relaxed">Build new assessments and content.</p>
             </div>
           </Link>
@@ -212,7 +220,7 @@ export default function DashboardPage() {
               <Search className="w-5 h-5" />
             </div>
             <div>
-              <h4 className="text-lg font-extrabold mb-1">Discover</h4>
+              <h3 className="text-lg font-extrabold mb-1">Discover</h3>
               <p className="text-amber-100 text-xs leading-relaxed">Explore NCERT-aligned resources.</p>
             </div>
           </Link>
@@ -222,7 +230,7 @@ export default function DashboardPage() {
               <Users className="w-5 h-5" />
             </div>
             <div>
-              <h4 className="text-lg font-extrabold mb-1">Engage</h4>
+              <h3 className="text-lg font-extrabold mb-1">Engage</h3>
               <p className="text-emerald-100 text-xs leading-relaxed">Monitor student participation.</p>
             </div>
           </Link>

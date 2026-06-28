@@ -1,6 +1,7 @@
 'use client';
 
 import './globals.css';
+import Image from 'next/image';
 
 export default function RootNotFound() {
   return (
@@ -18,7 +19,7 @@ export default function RootNotFound() {
         {/* Minimal Header */}
         <header className="relative z-10 flex items-center justify-between px-6 sm:px-12 py-6 border-b border-[#E2E8DE] bg-white/50 backdrop-blur-md">
           <a href="/en" className="flex items-center gap-2.5 transition-opacity hover:opacity-80">
-            <img src="/assets/owl-mascot-green.png" alt="TeacherSathi Logo" className="w-9 h-9 object-contain" />
+            <Image src="/assets/owl-mascot-green.png" alt="TeacherSathi AI Official Brand Mascot Logo for Indian CBSE Educators" width={36} height={36} className="w-9 h-9 object-contain" />
             <span className="font-extrabold text-xl tracking-tight text-[#166534]">
               Teacher<span className="text-[#1C2B1C]">Sathi</span>
             </span>
@@ -37,9 +38,11 @@ export default function RootNotFound() {
           <div className="relative mb-8 group">
             <div className="absolute inset-0 bg-emerald-500/20 rounded-full blur-xl transform group-hover:scale-110 transition-transform duration-500" />
             <div className="relative w-28 h-28 sm:w-32 sm:h-32 rounded-3xl bg-white border border-[#DCE4D7] shadow-xl flex items-center justify-center p-3 mx-auto transform -rotate-3 hover:rotate-0 transition-transform duration-300">
-              <img 
+              <Image 
                 src="/assets/owl-mascot-green.png" 
-                alt="TeacherSathi Mascot" 
+                alt="TeacherSathi AI Owl Mascot indicating 404 global page not found on the Indian school portal" 
+                width={128}
+                height={128}
                 className="w-full h-full object-contain"
               />
             </div>

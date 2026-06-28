@@ -1,6 +1,7 @@
 "use client";
 
 import { Link } from "@/i18n/routing";
+import SEOAuthorityLinks from "@/components/SEOAuthorityLinks";
 
 export default function SitemapPage() {
   return (
@@ -8,10 +9,10 @@ export default function SitemapPage() {
       {/* Sitemap Header */}
       <div className="max-w-6xl mx-auto px-6 pt-16 pb-12 border-b border-[#DCE4D7]">
         <h1 className="text-4xl sm:text-5xl font-black tracking-tight text-[#166534] leading-tight">
-          Site Map
+          TeacherSathi Site Map – AI Educator Directory
         </h1>
-        <p className="text-lg text-[#3C4B3A]/80 mt-4 max-w-2xl">
-          Use the sitemap to find your way around TeacherSathi. Explore our products, resources, and support tools.
+        <p className="text-lg text-[#3C4B3A]/80 mt-4 max-w-2xl leading-relaxed">
+          Use the TeacherSathi sitemap to navigate our complete directory of AI lesson plans, NCERT quiz tools, classroom features, and resources for Indian government schools.
         </p>
       </div>
 
@@ -101,6 +102,8 @@ export default function SitemapPage() {
           </div>
           
         </div>
+
+        <SEOAuthorityLinks />
       </div>
     </div>
   );

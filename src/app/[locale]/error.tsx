@@ -2,6 +2,7 @@
 
 import { useEffect } from 'react';
 import { Link } from '@/i18n/routing';
+import Image from 'next/image';
 
 export default function ErrorPage({
   error,
@@ -28,9 +29,11 @@ export default function ErrorPage({
         <div className="relative mb-8 group">
           <div className="absolute inset-0 bg-red-500/15 rounded-full blur-xl transform group-hover:scale-110 transition-transform duration-500" />
           <div className="relative w-28 h-28 sm:w-32 sm:h-32 rounded-3xl bg-white border border-[#DCE4D7] shadow-xl flex items-center justify-center p-3 mx-auto transform rotate-2 hover:rotate-0 transition-transform duration-300">
-            <img 
+            <Image 
               src="/assets/owl-mascot-green.png" 
-              alt="TeacherSathi Mascot" 
+              alt="TeacherSathi AI Owl Mascot indicating a system error on the Indian government school teacher platform" 
+              width={128}
+              height={128}
               className="w-full h-full object-contain"
             />
           </div>

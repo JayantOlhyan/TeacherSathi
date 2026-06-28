@@ -19,7 +19,7 @@ export default function ContactSupportPage() {
   const t = {
     en: {
       title: "Contact Support",
-      subtitle: "Got a question or encountering a technical bug? Send us a message and our support team will get back to you within 24 hours.",
+      subtitle: "Got a question about TeacherSathi AI lesson plans, NCERT quizzes, or need help with your school educator account? Send our support team a message.",
       backToHelp: "Back to Help Center",
       labelName: "Full Name",
       labelEmail: "Email Address",
