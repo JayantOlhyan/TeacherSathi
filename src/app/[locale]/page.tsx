@@ -4,7 +4,7 @@ import { useEffect, useState } from "react";
 import { Link } from "@/i18n/routing";
 import { useTranslations } from "next-intl";
 import { Button } from "@/components/ui/Button";
-import { CheckSquare, FileText, Download, BarChart, BookOpen, GraduationCap, Sparkles, Wand2, Rocket, Heart, Monitor, Wifi } from "lucide-react";
+import { CheckSquare, FileText, Download, BarChart, BookOpen, GraduationCap, Sparkles, Wand2, Rocket, Heart, Monitor, Wifi, Clock } from "lucide-react";
 import { FadeIn, StaggerChildren, StaggerItem } from "@/components/animations/FadeIn";
 import { supabase } from "@/lib/supabase";
 
@@ -55,37 +55,45 @@ export default function Home() {
   ];
 
   return (
-    <div className="min-h-screen flex flex-col font-sans bg-cream text-ink overflow-hidden transition-colors duration-200">
+    <div className="min-h-screen flex flex-col font-sans bg-cream text-ink overflow-hidden transition-colors duration-200 relative">
 
-      <main className="flex-1 flex flex-col items-center w-full">
+      {/* Modern Premium Background Glow Orb */}
+      <div className="absolute top-[20%] left-1/2 -translate-x-1/2 -translate-y-1/2 w-[550px] h-[550px] bg-gradient-to-tr from-emerald-400/10 to-teal-400/5 rounded-full blur-3xl pointer-events-none z-0" />
+
+      <main className="flex-1 flex flex-col items-center w-full relative z-10">
         {/* Hero Section */}
         <section className="w-full py-20 px-4 sm:px-12 max-w-[1200px] mx-auto text-center">
-          <div className="max-w-4xl mx-auto space-y-6 flex flex-col items-center">
+          <div className="max-w-4xl mx-auto space-y-8 flex flex-col items-center">
             <FadeIn delay={0}>
-              <h1 className="text-5xl sm:text-6xl lg:text-7xl font-extrabold tracking-tight text-balance leading-tight text-brand">
-                {t('title')}
+              <h1 className="text-5xl sm:text-6xl lg:text-7xl font-black tracking-tight text-balance leading-tight text-slate-900 font-serif">
+                Teachers ka Superpower.
+                <span className="block mt-2 bg-clip-text text-transparent bg-gradient-to-r from-emerald-600 to-teal-500 font-sans font-extrabold pb-2">
+                  NCERT-Aligned AI Content
+                </span>
+                <span className="text-3xl sm:text-4xl lg:text-5xl font-black text-slate-500/80 block mt-2 font-sans">— Instantly.</span>
               </h1>
             </FadeIn>
             <FadeIn delay={0.15}>
-              <p className="text-xl text-ink-2 max-w-2xl leading-relaxed">
+              <p className="text-base sm:text-lg text-slate-600 max-w-2xl leading-relaxed font-medium">
                 {t('subtitle')}
               </p>
             </FadeIn>
             <FadeIn delay={0.3}>
-              <div className="flex flex-wrap gap-4 pt-4 justify-center min-h-[60px]">
+              <div className="flex flex-wrap gap-4 pt-2 justify-center min-h-[60px]">
                 {isAuthenticated === null ? (
                   // Simple loading skeleton to avoid content jumps
                   <div className="h-12 w-48 bg-brand/10 animate-pulse rounded-xl" />
                 ) : isAuthenticated ? (
                   <>
-                    <Button asChild className="bg-[#16A34A] hover:bg-cta-hover text-white px-8 py-6 rounded-xl text-lg font-bold shadow-brand hover:scale-[1.02] active:scale-[0.98] transition-all duration-150">
-                      <Link href="/dashboard">
-                        {t('cta_dashboard')}
+                    <Button asChild className="bg-gradient-to-r from-emerald-600 to-teal-500 hover:from-emerald-700 hover:to-teal-600 text-white px-8 py-6 rounded-2xl text-lg font-extrabold shadow-lg shadow-emerald-500/20 active:scale-95 transition-all duration-150 flex items-center gap-2 group border-0 cursor-pointer">
+                      <Link href="/dashboard" className="flex items-center gap-2">
+                        {t('cta_dashboard')} <Rocket className="w-5 h-5 group-hover:translate-x-0.5 transition-transform" />
                       </Link>
                     </Button>
-                    <Button asChild variant="outline" className="border-brand/20 hover:bg-brand/5 text-brand px-8 py-6 rounded-xl text-lg font-bold transition-all duration-150 max-w-xs truncate">
-                      <Link href={lastView ? lastView.url : "/content/class-10"}>
-                        {lastView ? `${t('cta_resume_activity')}: ${lastView.title}` : tNav('content_library')}
+                    <Button asChild variant="outline" className="bg-white/90 border-2 border-emerald-500/10 hover:border-emerald-500/30 text-emerald-800 px-8 py-6 rounded-2xl text-lg font-bold shadow-sm active:scale-95 transition-all duration-150 max-w-xs truncate flex items-center gap-2 cursor-pointer">
+                      <Link href={lastView ? lastView.url : "/content/class-10"} className="flex items-center gap-2">
+                        <Clock className="w-5 h-5 text-emerald-700 shrink-0" />
+                        <span className="truncate">{lastView ? `${t('cta_resume_activity')}: ${lastView.title}` : tNav('content_library')}</span>
                       </Link>
                     </Button>
                   </>
@@ -93,12 +101,13 @@ export default function Home() {
                   <>
                     <Button 
                       onClick={() => window.dispatchEvent(new Event("open-auth-modal"))}
-                      className="bg-[#16A34A] hover:bg-cta-hover text-white px-8 py-6 rounded-xl text-lg font-bold shadow-brand hover:scale-[1.02] active:scale-[0.98] transition-all duration-150 cursor-pointer"
+                      className="bg-gradient-to-r from-emerald-600 to-teal-500 hover:from-emerald-700 hover:to-teal-600 text-white px-8 py-6 rounded-2xl text-lg font-extrabold shadow-lg shadow-emerald-500/20 active:scale-95 transition-all duration-150 flex items-center gap-2 group cursor-pointer border-0"
                     >
-                      {t('cta_primary')}
+                      {t('cta_primary')} <Sparkles className="w-5 h-5 text-amber-300 group-hover:scale-110 transition-transform" />
                     </Button>
-                    <Button asChild variant="outline" className="border-brand/20 hover:bg-brand/5 text-brand px-8 py-6 rounded-xl text-lg font-bold transition-all duration-150">
-                      <Link href="/#how-it-works">
+                    <Button asChild variant="outline" className="bg-white/90 border-2 border-emerald-500/10 hover:border-emerald-500/30 text-emerald-800 px-8 py-6 rounded-2xl text-lg font-bold shadow-sm active:scale-95 transition-all duration-150 flex items-center gap-2 cursor-pointer">
+                      <Link href="/#how-it-works" className="flex items-center gap-2">
+                        <Wand2 className="w-5 h-5 text-emerald-700 animate-pulse" />
                         {t('cta_secondary')}
                       </Link>
                     </Button>

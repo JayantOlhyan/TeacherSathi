@@ -1,7 +1,7 @@
 # TeacherSathi
 
 AI-powered EdTech platform for Indian government school teachers.
-Live at: https://teachersathi.in
+Live at: https://teacher-sathi.online
 
 ## Stack
 

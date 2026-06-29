@@ -1,9 +1,9 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useEffect, useState, useRef } from "react";
 import { createPortal } from "react-dom";
 import { Link, usePathname } from "@/i18n/routing";
-import { Menu, X, User, LogOut, Settings, HelpCircle, ChevronUp, ChevronDown, Check, Mail } from "lucide-react";
+import { Menu, X, User, LogOut, Settings, HelpCircle, ChevronUp, ChevronDown, Check, Mail, Terminal, Bell, RefreshCw } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
 import { supabase } from "@/lib/supabase";
 import { useTranslations } from "next-intl";
@@ -21,6 +21,28 @@ export default function Navbar() {
   const [mounted, setMounted] = useState(false);
   const [displayName, setDisplayName] = useState("Teacher");
   const [toastMessage, setToastMessage] = useState<string | null>(null);
+  const [isAdmin, setIsAdmin] = useState(false);
+  const [isScrolled, setIsScrolled] = useState(false);
+
+  const [isSyncing, setIsSyncing] = useState(false);
+  const [showNotifications, setShowNotifications] = useState(false);
+  const [hasUnread, setHasUnread] = useState(true);
+  const [notifications, setNotifications] = useState([
+    { id: 1, text: "Class 10-A Science has 24 active students logged in.", read: false },
+    { id: 2, text: "MCQ Quiz 7 on Laws of Reflection completed successfully.", read: false },
+    { id: 3, text: "AI Lesson Plan for Reflection and Refraction updated.", read: true },
+  ]);
+
+  const notificationsRef = useRef<HTMLDivElement>(null);
+  const profileRef = useRef<HTMLDivElement>(null);
+
+  const handleSync = () => {
+    setIsSyncing(true);
+    setTimeout(() => {
+      setIsSyncing(false);
+      setToastMessage("Classroom data synced successfully!");
+    }, 1500);
+  };
 
   // Form & Modal States
   const [isAccountOpen, setIsAccountOpen] = useState(false);
@@ -71,16 +93,41 @@ export default function Navbar() {
       setIsAuthenticated(true);
     }
 
+    const isMockAdmin = localStorage.getItem("is_admin_user") === "true" || 
+                        (storedName && (
+                          storedName.toLowerCase().includes("admin") || 
+                          storedName.toLowerCase().includes("founder")
+                        )) ||
+                        (typeof window !== "undefined" && window.location.hostname === "localhost");
+    setIsAdmin(!!isMockAdmin);
+
+    const handleScroll = () => {
+      setIsScrolled(window.scrollY > 15);
+    };
+    window.addEventListener("scroll", handleScroll);
+
     // Listen to custom open-auth-modal event
     const handleOpenAuth = () => {
       setIsAuthOpen(true);
     };
     window.addEventListener("open-auth-modal", handleOpenAuth);
 
+    const handleClickOutside = (event: MouseEvent) => {
+      if (profileRef.current && !profileRef.current.contains(event.target as Node)) {
+        setIsProfileOpen(false);
+      }
+      if (notificationsRef.current && !notificationsRef.current.contains(event.target as Node)) {
+        setShowNotifications(false);
+      }
+    };
+    document.addEventListener("mousedown", handleClickOutside);
+
     if (!supabase) {
       if (!isMockAuth) setIsAuthenticated(false);
       return () => {
         window.removeEventListener("open-auth-modal", handleOpenAuth);
+        window.removeEventListener("scroll", handleScroll);
+        document.removeEventListener("mousedown", handleClickOutside);
       };
     }
 
@@ -120,6 +167,8 @@ export default function Navbar() {
     return () => {
       subscription.unsubscribe();
       window.removeEventListener("open-auth-modal", handleOpenAuth);
+      window.removeEventListener("scroll", handleScroll);
+      document.removeEventListener("mousedown", handleClickOutside);
     };
   }, []);
 
@@ -195,33 +244,44 @@ export default function Navbar() {
 
   return (
     <>
-      <nav className="sticky top-0 z-50 w-full bg-cream/90 text-ink border-b border-line shadow-sm backdrop-blur-md transition-all duration-200">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="flex items-center justify-between h-16">
-            
-            {/* Logo & Brand */}
-            <div className="flex items-center gap-3">
-              <Link href={isAuthenticated ? "/dashboard" : "/"} className="flex items-center gap-2 hover:scale-[1.02] transition-all duration-200">
-                <Image src="/logo-horizontal.png" alt="TeacherSathi AI Official Brand Header Logo for Indian Government School Teachers" width={140} height={32} className="h-8 w-auto object-contain" priority />
-              </Link>
-            </div>
+      <div className={`sticky top-0 z-50 w-full transition-all duration-300 ${
+        isScrolled 
+          ? "px-4 pt-3 pb-0" 
+          : "px-0 pt-0 pb-0"
+      }`}>
+        <nav className={`w-full transition-all duration-300 ${
+          isScrolled 
+            ? "max-w-7xl mx-auto bg-white/90 backdrop-blur-md border border-slate-200/60 rounded-2xl shadow-lg shadow-slate-900/5 px-4 sm:px-6 py-1.5" 
+            : "bg-[#F7F9F4]/90 backdrop-blur-md border-b border-slate-200/50 shadow-sm px-0 py-0"
+        }`}>
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div className={`w-full flex items-center justify-between transition-all duration-300 ${
+              isScrolled ? "h-14" : "h-16"
+            }`}>
+              
+              {/* Logo & Brand */}
+              <div className="flex items-center gap-3">
+                <Link href={isAuthenticated ? "/dashboard" : "/"} className="flex items-center gap-2 hover:scale-[1.02] transition-all duration-200">
+                  <Image src="/logo-horizontal.png" alt="TeacherSathi AI Official Brand Header Logo for Indian Government School Teachers" width={140} height={32} className="h-8 w-auto object-contain" priority />
+                </Link>
+              </div>
 
             {/* Desktop Navigation */}
-            <div className="hidden md:flex items-center space-x-8 text-sm">
+            <div className="hidden md:flex items-center space-x-8 text-xs font-bold uppercase tracking-wider">
               {isAuthenticated ? (
                 // Authenticated Links
                 <>
-                  <Link href="/dashboard" className={`text-ink/80 hover:text-brand transition-colors font-medium ${pathname === "/dashboard" ? "text-brand font-bold border-b-2 border-brand pb-1" : ""}`}>{t("dashboard")}</Link>
-                  <Link href="/content/class-10" className={`text-ink/80 hover:text-brand transition-colors font-medium ${pathname?.includes("/content") ? "text-brand font-bold border-b-2 border-brand pb-1" : ""}`}>{t("content_library")}</Link>
-                  <Link href="/dashboard/classes" className="text-ink/80 hover:text-brand transition-colors font-medium">{t("my_classes")}</Link>
-                  <Link href="/dashboard/reports" className="text-ink/80 hover:text-brand transition-colors font-medium">{t("reports")}</Link>
+                  <Link href="/dashboard" className={`relative py-1.5 transition-colors ${pathname === "/dashboard" ? "text-emerald-800 font-black after:absolute after:bottom-0 after:left-0 after:right-0 after:h-[2px] after:bg-emerald-600 after:scale-x-100" : "text-slate-600 hover:text-emerald-700 after:absolute after:bottom-0 after:left-0 after:right-0 after:h-[2px] after:bg-emerald-600 after:scale-x-0 hover:after:scale-x-100 after:transition-transform after:duration-200"}`}>{t("dashboard")}</Link>
+                  <Link href="/content/class-10" className={`relative py-1.5 transition-colors ${pathname?.includes("/content") ? "text-emerald-800 font-black after:absolute after:bottom-0 after:left-0 after:right-0 after:h-[2px] after:bg-emerald-600 after:scale-x-100" : "text-slate-600 hover:text-emerald-700 after:absolute after:bottom-0 after:left-0 after:right-0 after:h-[2px] after:bg-emerald-600 after:scale-x-0 hover:after:scale-x-100 after:transition-transform after:duration-200"}`}>{t("content_library")}</Link>
+                  <Link href="/dashboard/classes" className={`relative py-1.5 transition-colors ${pathname === "/dashboard/classes" ? "text-emerald-800 font-black after:absolute after:bottom-0 after:left-0 after:right-0 after:h-[2px] after:bg-emerald-600 after:scale-x-100" : "text-slate-600 hover:text-emerald-700 after:absolute after:bottom-0 after:left-0 after:right-0 after:h-[2px] after:bg-emerald-600 after:scale-x-0 hover:after:scale-x-100 after:transition-transform after:duration-200"}`}>{t("my_classes")}</Link>
+                  <Link href="/dashboard/reports" className={`relative py-1.5 transition-colors ${pathname === "/dashboard/reports" ? "text-emerald-800 font-black after:absolute after:bottom-0 after:left-0 after:right-0 after:h-[2px] after:bg-emerald-600 after:scale-x-100" : "text-slate-600 hover:text-emerald-700 after:absolute after:bottom-0 after:left-0 after:right-0 after:h-[2px] after:bg-emerald-600 after:scale-x-0 hover:after:scale-x-100 after:transition-transform after:duration-200"}`}>{t("reports")}</Link>
                 </>
               ) : (
                 // Public Links
                 <>
-                  <Link href="/#features" className="text-ink/80 hover:text-brand transition-colors font-medium">{t("features")}</Link>
-                  <Link href="/pricing" className={`text-ink/80 hover:text-brand transition-colors font-medium ${pathname === "/pricing" ? "text-brand font-bold border-b-2 border-brand pb-1" : ""}`}>{t("pricing")}</Link>
-                  <Link href="/#mission" className="text-ink/80 hover:text-brand transition-colors font-medium">{t("mission")}</Link>
+                  <Link href="/#features" className="relative py-1.5 text-slate-600 hover:text-emerald-700 after:absolute after:bottom-0 after:left-0 after:right-0 after:h-[2px] after:bg-emerald-600 after:scale-x-0 hover:after:scale-x-100 after:transition-transform after:duration-200 transition-all">{t("features")}</Link>
+                  <Link href="/pricing" className={`relative py-1.5 transition-colors ${pathname === "/pricing" ? "text-emerald-800 font-black after:absolute after:bottom-0 after:left-0 after:right-0 after:h-[2px] after:bg-emerald-600 after:scale-x-100" : "text-slate-600 hover:text-emerald-700 after:absolute after:bottom-0 after:left-0 after:right-0 after:h-[2px] after:bg-emerald-600 after:scale-x-0 hover:after:scale-x-100 after:transition-transform after:duration-200"}`}>{t("pricing")}</Link>
+                  <Link href="/#mission" className="relative py-1.5 text-slate-600 hover:text-emerald-700 after:absolute after:bottom-0 after:left-0 after:right-0 after:h-[2px] after:bg-emerald-600 after:scale-x-0 hover:after:scale-x-100 after:transition-transform after:duration-200 transition-all">{t("mission")}</Link>
                 </>
               )}
             </div>
@@ -229,49 +289,144 @@ export default function Navbar() {
             {/* Right Actions (Desktop) */}
             <div className="hidden md:flex items-center gap-4">
               {isAuthenticated ? (
-                <div className="relative">
+                <div className="flex items-center gap-4">
+                  {/* Sync Button */}
                   <button 
-                    onClick={() => setIsProfileOpen(!isProfileOpen)}
-                    className="flex items-center gap-2 bg-brand/5 hover:bg-brand/10 border border-brand/10 text-brand p-1.5 pr-3 rounded-full transition-all cursor-pointer"
+                    onClick={handleSync}
+                    disabled={isSyncing}
+                    className={`flex items-center gap-1.5 text-xs font-bold px-3 py-1.5 rounded-full cursor-pointer transition-all border ${
+                      isSyncing 
+                        ? "bg-green-50 border-green-200 text-green-600" 
+                        : "bg-[#EDF7EF] hover:bg-[#D8EEDD] border-green-200 text-emerald-700 shadow-sm active:scale-95"
+                    }`}
                   >
-                    <div className="w-7 h-7 bg-brand text-white rounded-full flex items-center justify-center">
-                      <User className="w-4 h-4" />
-                    </div>
-                    <span className="text-sm font-semibold">{firstName}</span>
+                    <RefreshCw className={`w-3.5 h-3.5 ${isSyncing ? "animate-spin" : ""}`} />
+                    <span>{isSyncing ? "Syncing..." : "Synced"}</span>
                   </button>
 
-                  {/* Profile Dropdown */}
-                  {isProfileOpen && (
-                    <div className="absolute right-0 mt-2 w-48 bg-white rounded-xl shadow-lg py-1.5 border border-line text-ink z-50">
-                      <button 
-                        onClick={() => {
-                          setIsProfileOpen(false);
-                          setIsAccountOpen(true);
-                        }} 
-                        className="w-full text-left flex items-center gap-2 px-4 py-2.5 hover:bg-brand-tint text-sm font-medium transition-colors cursor-pointer"
-                      >
-                        <Settings className="w-4 h-4 text-ink-3" /> {t("account_settings")}
-                      </button>
-                      <button 
-                        onClick={() => {
-                          setIsProfileOpen(false);
-                          setIsHelpOpen(true);
-                        }} 
-                        className="w-full text-left flex items-center gap-2 px-4 py-2.5 hover:bg-brand-tint text-sm font-medium transition-colors cursor-pointer"
-                      >
-                        <HelpCircle className="w-4 h-4 text-ink-3" /> {t("help_support")}
-                      </button>
-                      <div className="border-t border-line my-1.5"></div>
-                      <button onClick={handleSignOut} className="w-full flex items-center gap-2 px-4 py-2.5 hover:bg-danger-bg text-danger text-sm font-bold transition-colors cursor-pointer">
-                        <LogOut className="w-4 h-4" /> {t("sign_out")}
-                      </button>
+                  {/* Notifications Bell */}
+                  <div className="relative" ref={notificationsRef}>
+                    <button 
+                      onClick={() => {
+                        setShowNotifications(!showNotifications);
+                        setIsProfileOpen(false);
+                      }}
+                      className={`relative p-2 text-gray-650 hover:text-gray-900 transition-all rounded-full hover:bg-slate-100 ${
+                        showNotifications ? "bg-slate-100 text-gray-900" : ""
+                      }`}
+                    >
+                      <Bell className="w-5 h-5" />
+                      {hasUnread && (
+                        <span className="absolute top-1 right-1 w-2.5 h-2.5 bg-red-500 border-2 border-white rounded-full"></span>
+                      )}
+                    </button>
+
+                    {/* Notifications Dropdown */}
+                    {showNotifications && (
+                      <div className="absolute right-0 mt-3 w-80 bg-white border border-gray-150 rounded-2xl shadow-xl p-4 z-50 animate-fadeIn text-sm text-gray-700">
+                        <div className="flex items-center justify-between border-b border-gray-100 pb-2 mb-3">
+                          <h4 className="font-bold text-gray-800 text-base">Notifications</h4>
+                          {hasUnread && (
+                            <button 
+                              onClick={() => {
+                                setHasUnread(false);
+                                setNotifications(prev => prev.map(n => ({ ...n, read: true })));
+                                setToastMessage("All notifications marked as read.");
+                              }} 
+                              className="text-xs text-green-700 hover:text-green-900 font-bold"
+                            >
+                              Mark all read
+                            </button>
+                          )}
+                        </div>
+                        <div className="space-y-2.5 max-h-60 overflow-y-auto pr-1">
+                          {notifications.map(n => (
+                            <div 
+                              key={n.id} 
+                              onClick={() => {
+                                setNotifications(prev => prev.map(item => item.id === n.id ? { ...item, read: true } : item));
+                                setTimeout(() => {
+                                  setHasUnread(notifications.some(item => !item.read && item.id !== n.id));
+                                }, 50);
+                              }}
+                              className={`p-3 rounded-xl cursor-pointer transition-colors border text-xs leading-relaxed ${
+                                n.read 
+                                  ? "bg-white border-transparent text-gray-500 hover:bg-gray-50" 
+                                  : "bg-green-50/40 border-green-100 text-gray-800 font-bold hover:bg-green-50/60"
+                              }`}
+                            >
+                              {n.text}
+                            </div>
+                          ))}
+                        </div>
+                      </div>
+                    )}
+                  </div>
+
+                  {/* Profile Dropdown Container */}
+                  <div className="relative" ref={profileRef}>
+                    <div 
+                      onClick={() => {
+                        setIsProfileOpen(!isProfileOpen);
+                        setShowNotifications(false);
+                      }}
+                      className="flex items-center gap-2 bg-white p-1 pl-2 pr-4 py-1.5 rounded-full shadow-sm border border-gray-100 cursor-pointer hover:shadow-md hover:border-gray-200 transition-all select-none"
+                    >
+                      <div className="w-7 h-7 bg-blue-100 text-blue-700 rounded-full flex items-center justify-center font-bold">
+                        <User className="w-4 h-4" />
+                      </div>
+                      <span className="text-sm font-extrabold text-gray-700">{firstName}</span>
                     </div>
-                  )}
+
+                    {/* Profile Dropdown Menu */}
+                    {isProfileOpen && (
+                      <div className="absolute right-0 mt-3 w-52 bg-white border border-gray-150 rounded-2xl shadow-xl py-2 z-50 animate-fadeIn text-sm text-gray-750">
+                        <div className="px-4 py-2 border-b border-gray-100 mb-1.5 bg-gray-50/50">
+                          <p className="font-extrabold text-gray-800 truncate">{displayName || "Teacher"}</p>
+                          <p className="text-[10px] text-gray-400 font-bold tracking-wider uppercase mt-0.5">Teacher Session</p>
+                        </div>
+                        <button 
+                          onClick={() => {
+                            setIsProfileOpen(false);
+                            setIsAccountOpen(true);
+                          }} 
+                          className="w-full text-left px-4 py-2.5 hover:bg-gray-50 font-semibold flex items-center gap-2 transition-colors cursor-pointer text-gray-650"
+                        >
+                          <Settings className="w-4 h-4 text-gray-400" /> Account Settings
+                        </button>
+                        <button 
+                          onClick={() => {
+                            setIsProfileOpen(false);
+                            setIsHelpOpen(true);
+                          }} 
+                          className="w-full text-left px-4 py-2.5 hover:bg-gray-50 font-semibold flex items-center gap-2 transition-colors cursor-pointer text-gray-650"
+                        >
+                          <HelpCircle className="w-4 h-4 text-gray-400" /> Help & Support
+                        </button>
+                        {isAdmin && (
+                          <Link 
+                            href="/admin"
+                            onClick={() => setIsProfileOpen(false)}
+                            className="w-full text-left px-4 py-2.5 hover:bg-emerald-50 text-emerald-700 font-bold flex items-center gap-2 transition-colors cursor-pointer"
+                          >
+                            <Terminal className="w-4 h-4 text-emerald-600" /> Admin Portal
+                          </Link>
+                        )}
+                        <div className="border-t border-gray-100 my-1.5"></div>
+                        <button 
+                          onClick={handleSignOut} 
+                          className="w-full text-left px-4 py-2.5 hover:bg-red-50 text-red-600 font-bold flex items-center gap-2 transition-colors cursor-pointer"
+                        >
+                          <LogOut className="w-4 h-4" /> Sign Out
+                        </button>
+                      </div>
+                    )}
+                  </div>
                 </div>
               ) : (
                 <button 
                   onClick={() => setIsAuthOpen(true)}
-                  className="bg-[#16A34A] text-white hover:bg-[#128A3E] px-5 py-2.5 rounded-xl font-bold text-sm shadow-brand hover:scale-[1.02] active:scale-[0.98] transition-all duration-150 cursor-pointer"
+                  className="bg-emerald-700 text-white hover:bg-emerald-800 hover:shadow-lg hover:shadow-emerald-700/10 px-6 py-2.5 rounded-xl font-bold text-sm hover:scale-[1.02] active:scale-[0.98] transition-all duration-150 cursor-pointer"
                 >
                   {t("login_signup")}
                 </button>
@@ -319,6 +474,15 @@ export default function Navbar() {
                     >
                       <User className="w-5 h-5 opacity-70" /> {t("profile")}
                     </button>
+                    {isAdmin && (
+                      <Link 
+                        href="/admin"
+                        onClick={() => setIsOpen(false)}
+                        className="w-full flex items-center gap-3 px-3 py-3 rounded-lg text-emerald-700 hover:bg-emerald-50 font-bold transition-colors cursor-pointer"
+                      >
+                        <Terminal className="w-5 h-5 opacity-70" /> Admin Portal
+                      </Link>
+                    )}
                     <button onClick={handleSignOut} className="w-full flex items-center gap-3 px-3 py-3 rounded-lg text-danger hover:bg-danger-bg font-bold text-left transition-colors cursor-pointer">
                       <LogOut className="w-5 h-5 opacity-70" /> {t("sign_out")}
                     </button>
@@ -346,7 +510,8 @@ export default function Navbar() {
           </motion.div>
         )}
         </AnimatePresence>
-      </nav>
+        </nav>
+      </div>
 
       {/* Global Auth Modal Popup */}
       <AuthModal 

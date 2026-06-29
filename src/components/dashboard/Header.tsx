@@ -2,7 +2,8 @@
 
 import { useEffect, useState, useRef } from "react";
 import { createPortal } from "react-dom";
-import { Bell, RefreshCw, User, LogOut, Settings, HelpCircle, Check, X, ChevronDown, ChevronUp, Mail } from "lucide-react";
+import { Bell, RefreshCw, User, LogOut, Settings, HelpCircle, Check, X, ChevronDown, ChevronUp, Mail, Terminal } from "lucide-react";
+import { Link } from "@/i18n/routing";
 import { supabase } from "@/lib/supabase";
 
 export function Header() {
@@ -12,6 +13,7 @@ export function Header() {
   const [hasUnread, setHasUnread] = useState(true);
   const [showProfileMenu, setShowProfileMenu] = useState(false);
   const [toastMessage, setToastMessage] = useState<string | null>(null);
+  const [isAdmin, setIsAdmin] = useState(false);
 
   const [mounted, setMounted] = useState(false);
 
@@ -82,6 +84,13 @@ export function Header() {
         setProfileName(fallbackName);
       }
     });
+    const isMockAdmin = localStorage.getItem("is_admin_user") === "true" || 
+                        (storedName && (
+                          storedName.toLowerCase().includes("admin") || 
+                          storedName.toLowerCase().includes("founder")
+                        )) ||
+                        (typeof window !== "undefined" && window.location.hostname === "localhost");
+    setIsAdmin(!!isMockAdmin);
   }, []);
 
   // Close menus when clicking outside
@@ -294,6 +303,15 @@ export function Header() {
               >
                 <HelpCircle className="w-4 h-4 text-gray-400" /> Help & Support
               </button>
+              {isAdmin && (
+                <Link 
+                  href="/admin"
+                  onClick={() => setShowProfileMenu(false)}
+                  className="w-full text-left px-4 py-2.5 hover:bg-emerald-50 text-emerald-700 font-bold flex items-center gap-2 transition-colors cursor-pointer"
+                >
+                  <Terminal className="w-4 h-4 text-emerald-600" /> Admin Portal
+                </Link>
+              )}
               <div className="border-t border-gray-100 my-1.5"></div>
               <button 
                 onClick={handleSignOut} 

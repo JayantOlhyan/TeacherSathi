@@ -31,6 +31,22 @@ export default function AuthModal({ isOpen, onClose, onSuccess }: AuthModalProps
     setTimeout(() => {
       setLoading(false);
       setSuccess(true);
+      
+      localStorage.setItem("mock_authenticated", "true");
+      
+      // Determine if credentials match mock admin conditions
+      const isCredentialAdmin = email.toLowerCase().includes("admin") || 
+                                email.toLowerCase().includes("founder") || 
+                                name.toLowerCase().includes("admin") || 
+                                name.toLowerCase().includes("founder");
+      
+      if (isCredentialAdmin) {
+        localStorage.setItem("is_admin_user", "true");
+        localStorage.setItem("last_sathi_teacher_name", name || "Founder Admin");
+      } else {
+        localStorage.setItem("last_sathi_teacher_name", name || "Educator");
+      }
+
       setTimeout(() => {
         setSuccess(false);
         onSuccess();
@@ -216,6 +232,33 @@ export default function AuthModal({ isOpen, onClose, onSuccess }: AuthModalProps
                 )}
               </Button>
             </form>
+
+            {tab === "login" && (
+              <div className="bg-emerald-50 border border-emerald-500/10 rounded-2xl p-4 text-center mt-2">
+                <p className="text-xs text-emerald-800 font-bold mb-2">💡 Want to test the Admin CMS Portal?</p>
+                <button 
+                  type="button"
+                  onClick={() => {
+                    setLoading(true);
+                    setTimeout(() => {
+                      setLoading(false);
+                      setSuccess(true);
+                      localStorage.setItem("mock_authenticated", "true");
+                      localStorage.setItem("is_admin_user", "true");
+                      localStorage.setItem("last_sathi_teacher_name", "Founder Admin");
+                      setTimeout(() => {
+                        setSuccess(false);
+                        onSuccess();
+                        onClose();
+                      }, 800);
+                    }, 1000);
+                  }}
+                  className="bg-emerald-600 hover:bg-emerald-700 text-white text-xs font-extrabold px-4 py-2 rounded-xl transition-all hover:scale-102 cursor-pointer shadow-sm shadow-emerald-600/15"
+                >
+                  Quick Login as Admin
+                </button>
+              </div>
+            )}
 
             <div className="relative">
               <div className="absolute inset-0 flex items-center">
