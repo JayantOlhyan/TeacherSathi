@@ -4,6 +4,7 @@ import { useState, useMemo } from "react";
 import { Link, useRouter } from "@/i18n/routing";
 import { Lock, BookOpen, Search, LayoutGrid, CheckCircle2, ChevronRight, Compass, Info } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
+import { NCERT_SYLLABUS } from "@/lib/data/ncertSyllabus";
 
 interface Chapter {
   id: number;
@@ -564,8 +565,55 @@ const MOCK_CHAPTERS_INFO: Record<string, Array<{ en: string; hi: string; descEn:
 };
 
 // Fill in the rest of the database dynamically
+// Fill in the rest of the database dynamically using NCERT_SYLLABUS or fallback
 CLASSES.forEach((cls) => {
-  if (!CONTENT_DATABASE[cls]) {
+  const ncertClass = NCERT_SYLLABUS[cls];
+  if (ncertClass) {
+    CONTENT_DATABASE[cls] = SUBJECTS_CONFIG.map((subj) => {
+      // Match subject key in NCERT_SYLLABUS
+      const matchedKey = Object.keys(ncertClass).find(
+        k => k.toLowerCase().replace(/[-\s]/g, "") === subj.name.toLowerCase().replace(/[-\s]/g, "")
+      );
+      const ncertChapters = matchedKey ? ncertClass[matchedKey] : [];
+
+      if (ncertChapters.length > 0) {
+        return {
+          ...subj,
+          chapters: ncertChapters.map((ch) => ({
+            id: ch.id,
+            titleEn: ch.en,
+            titleHi: ch.hi,
+            isLocked: false,
+            descriptionEn: ch.descEn,
+            descriptionHi: ch.descHi,
+            resources: {
+              video: true,
+              quiz: true,
+              mindmap: true,
+              lessonPlan: true
+            }
+          }))
+        };
+      }
+
+      // Fallback if subject not in NCERT_SYLLABUS for this class
+      const defaultInfo = MOCK_CHAPTERS_INFO[subj.name] || [];
+      const chapters = Array.from({ length: 12 }, (_, idx) => {
+        const info = defaultInfo[idx % defaultInfo.length];
+        const chNum = idx + 1;
+        return {
+          id: chNum,
+          titleEn: info ? `${info.en}` : `Chapter ${chNum}`,
+          titleHi: info ? `${info.hi}` : `अध्याय ${chNum}`,
+          isLocked: false,
+          descriptionEn: info ? info.descEn : `NCERT standard syllabus chapter resources for class curriculum.`,
+          descriptionHi: info ? info.descHi : `कक्षा पाठ्यक्रम के लिए NCERT मानक पाठ्यक्रम अध्याय संसाधन।`,
+          resources: { video: true, quiz: true, mindmap: true, lessonPlan: true }
+        };
+      });
+      return { ...subj, chapters };
+    });
+  } else if (!CONTENT_DATABASE[cls]) {
     CONTENT_DATABASE[cls] = SUBJECTS_CONFIG.map((subj) => {
       const defaultInfo = MOCK_CHAPTERS_INFO[subj.name] || [];
       const chapters = Array.from({ length: 12 }, (_, idx) => {
@@ -578,12 +626,7 @@ CLASSES.forEach((cls) => {
           isLocked: false,
           descriptionEn: info ? info.descEn : `NCERT standard syllabus chapter resources for class curriculum.`,
           descriptionHi: info ? info.descHi : `कक्षा पाठ्यक्रम के लिए NCERT मानक पाठ्यक्रम अध्याय संसाधन।`,
-          resources: {
-            video: true,
-            quiz: true,
-            mindmap: true,
-            lessonPlan: true
-          }
+          resources: { video: true, quiz: true, mindmap: true, lessonPlan: true }
         };
       });
 
