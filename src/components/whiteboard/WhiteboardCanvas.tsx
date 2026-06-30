@@ -21,9 +21,9 @@ import {
 } from "lucide-react";
 
 // --- Types & Data Models ---
-export type Point = { x: number; y: number };
+type Point = { x: number; y: number };
 
-export interface BaseElement {
+interface BaseElement {
   id: string;
   type: "pen" | "rectangle" | "circle" | "line" | "text" | "image";
   x: number;
@@ -32,42 +32,42 @@ export interface BaseElement {
   strokeWidth: number;
 }
 
-export interface PenElement extends BaseElement {
+interface PenElement extends BaseElement {
   type: "pen";
   points: Point[];
 }
 
-export interface RectElement extends BaseElement {
+interface RectElement extends BaseElement {
   type: "rectangle";
   width: number;
   height: number;
 }
 
-export interface CircleElement extends BaseElement {
+interface CircleElement extends BaseElement {
   type: "circle";
   radius: number;
 }
 
-export interface LineElement extends BaseElement {
+interface LineElement extends BaseElement {
   type: "line";
   endX: number;
   endY: number;
 }
 
-export interface TextElement extends BaseElement {
+interface TextElement extends BaseElement {
   type: "text";
   text: string;
   fontSize: number;
 }
 
-export interface ImageElement extends BaseElement {
+interface ImageElement extends BaseElement {
   type: "image";
   src: string;
   width: number;
   height: number;
 }
 
-export type WhiteboardElement =
+type WhiteboardElement =
   | PenElement
   | RectElement
   | CircleElement
@@ -75,7 +75,7 @@ export type WhiteboardElement =
   | TextElement
   | ImageElement;
 
-export type ToolType =
+type ToolType =
   | "select"
   | "pen"
   | "eraser"
