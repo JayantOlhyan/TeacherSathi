@@ -1,6 +1,6 @@
 import { NCERT_SYLLABUS } from "./ncertSyllabus";
 
-export interface ChapterDetails {
+interface ChapterDetails {
   title: string;
   titleHi?: string;
   description: string;

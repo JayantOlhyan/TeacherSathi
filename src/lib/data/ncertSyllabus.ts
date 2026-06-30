@@ -1,4 +1,4 @@
-export interface ChapterInfo {
+interface ChapterInfo {
   id: number;
   en: string;
   hi: string;
@@ -6,8 +6,8 @@ export interface ChapterInfo {
   descHi: string;
 }
 
-export type SubjectSyllabus = Record<string, ChapterInfo[]>;
-export type ClassSyllabus = Record<string, SubjectSyllabus>;
+type SubjectSyllabus = Record<string, ChapterInfo[]>;
+type ClassSyllabus = Record<string, SubjectSyllabus>;
 
 export const NCERT_SYLLABUS: ClassSyllabus = {
   "Class 6": {
@@ -170,94 +170,55 @@ export const NCERT_SYLLABUS: ClassSyllabus = {
       }
     ],
     "Hindi": [
-      {
-        "id": 1,
-        "en": "Matribhumi (Poem)",
-        "hi": "मातृभूमि (कविता)",
+      {"id": 1, "en": "मातृभूमि (कविता)", "hi": "मातृभूमि (कविता)",
         "descEn": "Poem expressing deep patriotism and reverence for our motherland.",
         "descHi": "मातृभूमि के प्रति अटूट प्रेम और सम्मान प्रकट करने वाली कविता।"
       },
-      {
-        "id": 2,
-        "en": "Gol (Memoir)",
-        "hi": "गोल (संस्मरण)",
+      {"id": 2, "en": "गोल (संस्मरण)", "hi": "गोल (संस्मरण)",
         "descEn": "Memoir of hockey legend Major Dhyan Chand emphasizing discipline and teamwork.",
         "descHi": "हॉकी के जादूगर मेजर ध्यानचंद का अनुशासन और टीम भावना सिखाने वाला संस्मरण।"
       },
-      {
-        "id": 3,
-        "en": "Pahli Boond (Poem)",
-        "hi": "पहली बूँद (कविता)",
+      {"id": 3, "en": "पहली बूँद (कविता)", "hi": "पहली बूँद (कविता)",
         "descEn": "Poem capturing the refreshing joy and beauty of the first summer rain.",
         "descHi": "ग्रीष्म ऋतु के बाद पहली बारिश के आनंद और प्रकृति के सौंदर्य की कविता।"
       },
-      {
-        "id": 4,
-        "en": "Haar Ki Jeet (Story)",
-        "hi": "हार की जीत (कहानी)",
+      {"id": 4, "en": "हार की जीत (कहानी)", "hi": "हार की जीत (कहानी)",
         "descEn": "Inspiring moral story by Sudarshan about compassion transforming a hardened heart.",
         "descHi": "सुदर्शन की मार्मिक कहानी जो दर्शाती है कि करुणा पत्थर दिल को भी बदल सकती है।"
       },
-      {
-        "id": 5,
-        "en": "Rahim Ke Dohe",
-        "hi": "रहीम के दोहे",
+      {"id": 5, "en": "रहीम के दोहे", "hi": "रहीम के दोहे",
         "descEn": "Timeless couplets of Rahim offering practical wisdom and ethical teachings.",
         "descHi": "जीवन के व्यावहारिक ज्ञान और नैतिक आचरण को सिखाने वाले रहीम के अनमोल दोहे।"
       },
-      {
-        "id": 6,
-        "en": "Meri Maa (Autobiography)",
-        "hi": "मेरी माँ (आत्मकथा)",
+      {"id": 6, "en": "मेरी माँ (आत्मकथा)", "hi": "मेरी माँ (आत्मकथा)",
         "descEn": "Ram Prasad Bismil's heartfelt autobiographical tribute to his mother's inspiration.",
         "descHi": "क्रांतिकारी रामप्रसाद बिस्मिल का अपनी माता के त्याग और प्रेरणा को समर्पित संस्मरण।"
       },
-      {
-        "id": 7,
-        "en": "Jalate Chalo (Poem)",
-        "hi": "जलाते चलो (कविता)",
+      {"id": 7, "en": "जलाते चलो (कविता)", "hi": "जलाते चलो (कविता)",
         "descEn": "Poem motivating us to spread hope and optimism even in dark times.",
         "descHi": "अंधकार और कठिनाइयों के बीच आशा और उत्साह का दीप जलाए रखने की प्रेरक कविता।"
       },
-      {
-        "id": 8,
-        "en": "Sattriya Aur Bihu Nritya (Essay)",
-        "hi": "सत्रिया और बिहू नृत्य (निबंध)",
+      {"id": 8, "en": "सत्रिया और बिहू नृत्य (निबंध)", "hi": "सत्रिया और बिहू नृत्य (निबंध)",
         "descEn": "Essay celebrating the traditional classical and folk dance forms of Assam.",
         "descHi": "असम के शास्त्रीय नृत्य 'सत्रिया' और लोक नृत्य 'बिहू' की समृद्ध संस्कृति का निबंध।"
       },
-      {
-        "id": 9,
-        "en": "Maiya Main Nahin Makhan Khayo (Pad)",
-        "hi": "मैया मैं नहिं माखन खायो (पद)",
+      {"id": 9, "en": "मैया मैं नहिं माखन खायो (पद)", "hi": "मैया मैं नहिं माखन खायो (पद)",
         "descEn": "Surdas's affectionate verses depicting child Krishna's sweet explanation to Yashoda.",
         "descHi": "बाल कृष्ण द्वारा यशोदा माता के समक्ष माखन चोरी पर दी गई मधुर सफाई के सूरदास के पद।"
       },
-      {
-        "id": 10,
-        "en": "Pariksha (Poem)",
-        "hi": "परीक्षा (कविता)",
+      {"id": 10, "en": "परीक्षा (कविता)", "hi": "परीक्षा (कविता)",
         "descEn": "Reflective poem assessing the real tests of character and perseverance in life.",
         "descHi": "जीवन के संघर्षों, धैर्य और वास्तविक योग्यता को परखने वाली कविता।"
       },
-      {
-        "id": 11,
-        "en": "Chetak Ki Veerta (Poem)",
-        "hi": "चेतक की वीरता (कविता)",
+      {"id": 11, "en": "चेतक की वीरता (कविता)", "hi": "चेतक की वीरता (कविता)",
         "descEn": "Shyam Narayan Pandey's heroic ballad honoring Maharana Pratap's loyal steed Chetak.",
         "descHi": "महाराणा प्रताप के स्वामिभक्त घोड़े चेतक के साहस और युद्ध कौशल का वीर रस काव्य।"
       },
-      {
-        "id": 12,
-        "en": "Hind Mahasagar Mein Chhota-sa Hindustan (Travelogue)",
-        "hi": "हिंद महासागर में छोटा-सा हिंदुस्तान (यात्रा-वृत्तांत)",
+      {"id": 12, "en": "हिंद महासागर में छोटा-सा हिंदुस्तान (यात्रा-वृत्तांत)", "hi": "हिंद महासागर में छोटा-सा हिंदुस्तान (यात्रा-वृत्तांत)",
         "descEn": "Ramdhari Singh Dinkar's travelogue depicting Indian cultural ties in Mauritius.",
         "descHi": "मॉरीशस में भारतीय संस्कृति की अमिट छाप को दर्शाता रामधारी सिंह 'दिनकर' का यात्रा-वृत्तांत।"
       },
-      {
-        "id": 13,
-        "en": "Ped Ki Baat (Essay)",
-        "hi": "पेड़ की बात (निबंध)",
+      {"id": 13, "en": "पेड़ की बात (निबंध)", "hi": "पेड़ की बात (निबंध)",
         "descEn": "Jagdish Chandra Bose's classic essay proving life and sensitivity in plants.",
         "descHi": "जगदीश चंद्र बोस का वैज्ञानिक निबंध जो सिद्ध करता है कि वृक्षों में भी जीवन और संवेदना होती है।"
       }
@@ -510,16 +471,16 @@ export const NCERT_SYLLABUS: ClassSyllabus = {
       {"id": 12, "en": "Earth, Moon, and the Sun", "hi": "पृथ्वी, चंद्रमा और सूर्य", "descEn": "Exploring our solar system's key celestial bodies.", "descHi": "हमारे सौर मंडल के प्रमुख खगोलीय पिंडों का अन्वेषण।"}
     ],
     "Hindi": [
-      {"id": 1, "en": "Maa, Kah Ek Kahani", "hi": "माँ, कह एक कहानी", "descEn": "A classic poem by Maithili Sharan Gupt.", "descHi": "मैथिलीशरण गुप्त की एक क्लासिक कविता।"},
-      {"id": 2, "en": "Teen Buddhiman", "hi": "तीन बुद्धिमान", "descEn": "An interesting tale of three wise individuals.", "descHi": "तीन बुद्धिमान व्यक्तियों की एक दिलचस्प कहानी।"},
-      {"id": 3, "en": "Phool Aur Kaanta", "hi": "फूल और काँटा", "descEn": "A poem highlighting the contrasting nature of a flower and a thorn.", "descHi": "फूल और काँटे की विपरीत प्रकृति को उजागर करने वाली कविता।"},
-      {"id": 4, "en": "Pani Re Pani", "hi": "पानी रे पानी", "descEn": "An essay on the importance and conservation of water.", "descHi": "जल के महत्व और संरक्षण पर एक निबंध।"},
-      {"id": 5, "en": "Nahi Hona Beemar", "hi": "नहीं होना बीमार", "descEn": "A lesson on health and hygiene.", "descHi": "स्वास्थ्य और स्वच्छता पर एक पाठ।"},
-      {"id": 6, "en": "Giridhar", "hi": "गिरिधर", "descEn": "Devotional verses dedicated to Lord Krishna.", "descHi": "भगवान कृष्ण को समर्पित भक्ति पद।"},
-      {"id": 7, "en": "Varsha-Bahar", "hi": "वर्षा-बहार", "descEn": "A poem describing the beauty of the rainy season.", "descHi": "वर्षा ऋतु के सौंदर्य का वर्णन करने वाली कविता।"},
-      {"id": 8, "en": "Birju Maharaj Se Sakshatkar", "hi": "बिरजू महाराज से साक्षात्कार", "descEn": "An interview with the legendary Kathak dancer, Pandit Birju Maharaj.", "descHi": "महान कथक नर्तक पंडित बिरजू महाराज के साथ एक साक्षात्कार।"},
-      {"id": 9, "en": "Chidiya", "hi": "चिड़िया", "descEn": "A sweet poem about a little bird.", "descHi": "एक छोटी चिड़िया के बारे में एक प्यारी कविता।"},
-      {"id": 10, "en": "Meera Ke Pad", "hi": "मीरा के पद", "descEn": "Devotional songs by the poet-saint Meera Bai.", "descHi": "कवयित्री-संत मीरा बाई के भक्ति गीत।"}
+      {"id": 1, "en": "माँ, कह एक कहानी", "hi": "माँ, कह एक कहानी", "descEn": "A classic poem by Maithili Sharan Gupt.", "descHi": "मैथिलीशरण गुप्त की एक क्लासिक कविता।"},
+      {"id": 2, "en": "तीन बुद्धिमान", "hi": "तीन बुद्धिमान", "descEn": "An interesting tale of three wise individuals.", "descHi": "तीन बुद्धिमान व्यक्तियों की एक दिलचस्प कहानी।"},
+      {"id": 3, "en": "फूल और काँटा", "hi": "फूल और काँटा", "descEn": "A poem highlighting the contrasting nature of a flower and a thorn.", "descHi": "फूल और काँटे की विपरीत प्रकृति को उजागर करने वाली कविता।"},
+      {"id": 4, "en": "पानी रे पानी", "hi": "पानी रे पानी", "descEn": "An essay on the importance and conservation of water.", "descHi": "जल के महत्व और संरक्षण पर एक निबंध।"},
+      {"id": 5, "en": "नहीं होना बीमार", "hi": "नहीं होना बीमार", "descEn": "A lesson on health and hygiene.", "descHi": "स्वास्थ्य और स्वच्छता पर एक पाठ।"},
+      {"id": 6, "en": "गिरिधर", "hi": "गिरिधर", "descEn": "Devotional verses dedicated to Lord Krishna.", "descHi": "भगवान कृष्ण को समर्पित भक्ति पद।"},
+      {"id": 7, "en": "वर्षा-बहार", "hi": "वर्षा-बहार", "descEn": "A poem describing the beauty of the rainy season.", "descHi": "वर्षा ऋतु के सौंदर्य का वर्णन करने वाली कविता।"},
+      {"id": 8, "en": "बिरजू महाराज से साक्षात्कार", "hi": "बिरजू महाराज से साक्षात्कार", "descEn": "An interview with the legendary Kathak dancer, Pandit Birju Maharaj.", "descHi": "महान कथक नर्तक पंडित बिरजू महाराज के साथ एक साक्षात्कार।"},
+      {"id": 9, "en": "चिड़िया", "hi": "चिड़िया", "descEn": "A sweet poem about a little bird.", "descHi": "एक छोटी चिड़िया के बारे में एक प्यारी कविता।"},
+      {"id": 10, "en": "मीरा के पद", "hi": "मीरा के पद", "descEn": "Devotional songs by the poet-saint Meera Bai.", "descHi": "कवयित्री-संत मीरा बाई के भक्ति गीत।"}
     ],
     "English": [
       {"id": 1, "en": "Try Again", "hi": "फिर से कोशिश करें", "descEn": "Unit 1: Learning Together - A poem encouraging persistence.", "descHi": "इकाई 1: दृढ़ता को प्रोत्साहित करने वाली कविता।"},
@@ -595,20 +556,20 @@ export const NCERT_SYLLABUS: ClassSyllabus = {
       {"id": 13, "en": "Our Environment", "hi": "हमारा पर्यावरण", "descEn": "Ecosystems, food chains, and ozone depletion.", "descHi": "पारिस्थितिक तंत्र, खाद्य श्रृंखला और ओजोन परत।"}
     ],
     "Hindi": [
-      {"id": 1, "en": "Bade Bhai Sahab", "hi": "बड़े भाई साहब", "descEn": "A story by Premchand.", "descHi": "प्रेमचंद की एक कहानी।"},
-      {"id": 2, "en": "Diary Ka Ek Panna", "hi": "डायरी का एक पन्ना", "descEn": "An excerpt from Sitaram Seksaria's diary.", "descHi": "सीताराम सेकसरिया की डायरी का एक अंश।"},
-      {"id": 3, "en": "Tatara-Vamiro Katha", "hi": "तताँरा-वामीरो कथा", "descEn": "A folk tale of Andaman.", "descHi": "अंडमान की एक लोककथा।"},
-      {"id": 4, "en": "Teesri Kasam Ke Shilpkar Shailendra", "hi": "तीसरी कसम के शिल्पकार शैलेंद्र", "descEn": "An essay on lyricist Shailendra.", "descHi": "गीतकार शैलेंद्र पर एक निबंध।"},
-      {"id": 5, "en": "Ab Kahan Doosre Ke Dukh Se Dukhi Hone Wale", "hi": "अब कहाँ दूसरे के दुख से दुखी होने वाले", "descEn": "A thoughtful essay.", "descHi": "एक विचारोत्तेजक निबंध।"},
-      {"id": 6, "en": "Patjhar Mein Tooti Pattiyan", "hi": "पतझर में टूटी पत्तियाँ", "descEn": "A story about Zen philosophy.", "descHi": "ज़ेन दर्शन के बारे में एक कहानी।"},
-      {"id": 7, "en": "Kartoos", "hi": "कारतूस", "descEn": "A one-act play.", "descHi": "एक एकांकी।"},
-      {"id": 8, "en": "Saakhi", "hi": "साखी", "descEn": "Couplets of Kabir.", "descHi": "कबीर की साखी।"},
-      {"id": 9, "en": "Pad", "hi": "पद", "descEn": "Verses of Meerabai.", "descHi": "मीराबाई के पद।"},
-      {"id": 10, "en": "Manushyata", "hi": "मनुष्यता", "descEn": "A poem by Maithili Sharan Gupt.", "descHi": "मैथिलीशरण गुप्त की कविता।"},
-      {"id": 11, "en": "Parvat Pradesh Mein Pavas", "hi": "पर्वत प्रदेश में पावस", "descEn": "A poem by Sumitranandan Pant.", "descHi": "सुमित्रानंदन पंत की एक कविता।"},
-      {"id": 12, "en": "Top", "hi": "तोप", "descEn": "A poem by Viren Dangwal.", "descHi": "वीरेन डंगवाल की एक कविता।"},
-      {"id": 13, "en": "Kar Chale Hum Fida", "hi": "कर चले हम फ़िदा", "descEn": "A patriotic poem by Kaifi Azmi.", "descHi": "कैफ़ी आज़मी की एक देशभक्ति कविता।"},
-      {"id": 14, "en": "Aatmatraan", "hi": "आत्मत्राण", "descEn": "A poem by Rabindranath Tagore.", "descHi": "रवींद्रनाथ टैगोर की एक कविता।"}
+      {"id": 1, "en": "बड़े भाई साहब", "hi": "बड़े भाई साहब", "descEn": "A story by Premchand.", "descHi": "प्रेमचंद की एक कहानी।"},
+      {"id": 2, "en": "डायरी का एक पन्ना", "hi": "डायरी का एक पन्ना", "descEn": "An excerpt from Sitaram Seksaria's diary.", "descHi": "सीताराम सेकसरिया की डायरी का एक अंश।"},
+      {"id": 3, "en": "तताँरा-वामीरो कथा", "hi": "तताँरा-वामीरो कथा", "descEn": "A folk tale of Andaman.", "descHi": "अंडमान की एक लोककथा।"},
+      {"id": 4, "en": "तीसरी कसम के शिल्पकार शैलेंद्र", "hi": "तीसरी कसम के शिल्पकार शैलेंद्र", "descEn": "An essay on lyricist Shailendra.", "descHi": "गीतकार शैलेंद्र पर एक निबंध।"},
+      {"id": 5, "en": "अब कहाँ दूसरे के दुख से दुखी होने वाले", "hi": "अब कहाँ दूसरे के दुख से दुखी होने वाले", "descEn": "A thoughtful essay.", "descHi": "एक विचारोत्तेजक निबंध।"},
+      {"id": 6, "en": "पतझर में टूटी पत्तियाँ", "hi": "पतझर में टूटी पत्तियाँ", "descEn": "A story about Zen philosophy.", "descHi": "ज़ेन दर्शन के बारे में एक कहानी।"},
+      {"id": 7, "en": "कारतूस", "hi": "कारतूस", "descEn": "A one-act play.", "descHi": "एक एकांकी।"},
+      {"id": 8, "en": "साखी", "hi": "साखी", "descEn": "Couplets of Kabir.", "descHi": "कबीर की साखी।"},
+      {"id": 9, "en": "पद", "hi": "पद", "descEn": "Verses of Meerabai.", "descHi": "मीराबाई के पद।"},
+      {"id": 10, "en": "मनुष्यता", "hi": "मनुष्यता", "descEn": "A poem by Maithili Sharan Gupt.", "descHi": "मैथिलीशरण गुप्त की कविता।"},
+      {"id": 11, "en": "पर्वत प्रदेश में पावस", "hi": "पर्वत प्रदेश में पावस", "descEn": "A poem by Sumitranandan Pant.", "descHi": "सुमित्रानंदन पंत की एक कविता।"},
+      {"id": 12, "en": "तोप", "hi": "तोप", "descEn": "A poem by Viren Dangwal.", "descHi": "वीरेन डंगवाल की एक कविता।"},
+      {"id": 13, "en": "कर चले हम फ़िदा", "hi": "कर चले हम फ़िदा", "descEn": "A patriotic poem by Kaifi Azmi.", "descHi": "कैफ़ी आज़मी की एक देशभक्ति कविता।"},
+      {"id": 14, "en": "आत्मत्राण", "hi": "आत्मत्राण", "descEn": "A poem by Rabindranath Tagore.", "descHi": "रवींद्रनाथ टैगोर की एक कविता।"}
     ],
     "English": [
       {"id": 1, "en": "A Letter to God", "hi": "भगवान को एक पत्र", "descEn": "First Flight: A story of extreme faith.", "descHi": "अत्यधिक विश्वास की एक कहानी।"},
@@ -693,16 +654,16 @@ export const NCERT_SYLLABUS: ClassSyllabus = {
       {"id": 13, "en": "Our Home: Earth, a Unique Life-Sustaining Planet", "hi": "हमारा घर: पृथ्वी, एक अनूठा जीवन-निर्वाह करने वाला ग्रह", "descEn": "Earth's unique features supporting life.", "descHi": "जीवन का समर्थन करने वाली पृथ्वी की अनूठी विशेषताएं।"}
     ],
     "Hindi": [
-      {"id": 1, "en": "Lakh Ki Choodiyan", "hi": "लाख की चूड़ियाँ", "descEn": "A poignant story by Kamtanath.", "descHi": "कामतानाथ की एक मार्मिक कहानी।"},
-      {"id": 2, "en": "Resham Ki Dori", "hi": "रेशम की डोरी", "descEn": "A tale highlighting relationships and emotions.", "descHi": "रिश्तों और भावनाओं को उजागर करने वाली कहानी।"},
-      {"id": 3, "en": "Saccha Mitra", "hi": "सच्चा मित्र", "descEn": "A story about true friendship.", "descHi": "सच्ची दोस्ती के बारे में एक कहानी।"},
-      {"id": 4, "en": "Vigyan Ki Duniya", "hi": "विज्ञान की दुनिया", "descEn": "An essay on the wonders of science.", "descHi": "विज्ञान के चमत्कारों पर एक निबंध।"},
-      {"id": 5, "en": "Bharat Ki Khoj", "hi": "भारत की खोज", "descEn": "Excerpts from Discovery of India.", "descHi": "डिस्कवरी ऑफ इंडिया के अंश।"},
-      {"id": 6, "en": "Karmveer", "hi": "कर्मवीर", "descEn": "A poem celebrating hard work and dedication.", "descHi": "कड़ी मेहनत और समर्पण का जश्न मनाने वाली कविता।"},
-      {"id": 7, "en": "Prakriti Ka Sandesh", "hi": "प्रकृति का संदेश", "descEn": "A poem about the message of nature.", "descHi": "प्रकृति के संदेश के बारे में एक कविता।"},
-      {"id": 8, "en": "Samay Ka Mahatva", "hi": "समय का महत्व", "descEn": "An essay on the importance of time.", "descHi": "समय के महत्व पर एक निबंध।"},
-      {"id": 9, "en": "Prerna", "hi": "प्रेरणा", "descEn": "A lesson providing inspiration.", "descHi": "प्रेरणा देने वाला एक पाठ।"},
-      {"id": 10, "en": "Nayi Raahein", "hi": "नई राहें", "descEn": "A story about forging new paths.", "descHi": "नए रास्ते बनाने के बारे में एक कहानी।"}
+      {"id": 1, "en": "लाख की चूड़ियाँ", "hi": "लाख की चूड़ियाँ", "descEn": "A poignant story by Kamtanath.", "descHi": "कामतानाथ की एक मार्मिक कहानी।"},
+      {"id": 2, "en": "रेशम की डोरी", "hi": "रेशम की डोरी", "descEn": "A tale highlighting relationships and emotions.", "descHi": "रिश्तों और भावनाओं को उजागर करने वाली कहानी।"},
+      {"id": 3, "en": "सच्चा मित्र", "hi": "सच्चा मित्र", "descEn": "A story about true friendship.", "descHi": "सच्ची दोस्ती के बारे में एक कहानी।"},
+      {"id": 4, "en": "विज्ञान की दुनिया", "hi": "विज्ञान की दुनिया", "descEn": "An essay on the wonders of science.", "descHi": "विज्ञान के चमत्कारों पर एक निबंध।"},
+      {"id": 5, "en": "भारत की खोज", "hi": "भारत की खोज", "descEn": "Excerpts from Discovery of India.", "descHi": "डिस्कवरी ऑफ इंडिया के अंश।"},
+      {"id": 6, "en": "कर्मवीर", "hi": "कर्मवीर", "descEn": "A poem celebrating hard work and dedication.", "descHi": "कड़ी मेहनत और समर्पण का जश्न मनाने वाली कविता।"},
+      {"id": 7, "en": "प्रकृति का संदेश", "hi": "प्रकृति का संदेश", "descEn": "A poem about the message of nature.", "descHi": "प्रकृति के संदेश के बारे में एक कविता।"},
+      {"id": 8, "en": "समय का महत्व", "hi": "समय का महत्व", "descEn": "An essay on the importance of time.", "descHi": "समय के महत्व पर एक निबंध।"},
+      {"id": 9, "en": "प्रेरणा", "hi": "प्रेरणा", "descEn": "A lesson providing inspiration.", "descHi": "प्रेरणा देने वाला एक पाठ।"},
+      {"id": 10, "en": "नई राहें", "hi": "नई राहें", "descEn": "A story about forging new paths.", "descHi": "नए रास्ते बनाने के बारे में एक कहानी।"}
     ],
     "English": [
       {"id": 1, "en": "The Wit That Won Hearts", "hi": "वह बुद्धि जिसने दिल जीत लिया", "descEn": "Unit 1: Wit and Wisdom - A tale of cleverness.", "descHi": "इकाई 1: चतुराई की एक कहानी।"},
@@ -765,17 +726,17 @@ export const NCERT_SYLLABUS: ClassSyllabus = {
       {"id": 12, "en": "Improvement in Food Resources", "hi": "खाद्य संसाधनों में सुधार", "descEn": "Crop yields, animal husbandry, and agriculture.", "descHi": "फसल की पैदावार, पशुपालन और कृषि।"}
     ],
     "Hindi": [
-      {"id": 1, "en": "Dukh Ka Adhikar", "hi": "दुःख का अधिकार", "descEn": "A poignant story by Yashpal.", "descHi": "यशपाल की एक मार्मिक कहानी।"},
-      {"id": 2, "en": "Everest: Meri Shikhar Yatra", "hi": "एवरेस्ट : मेरी शिखर यात्रा", "descEn": "Bachendri Pal's journey to Everest.", "descHi": "बछेंद्री पाल की एवरेस्ट यात्रा।"},
-      {"id": 3, "en": "Tum Kab Jaaoge, Atithi", "hi": "तुम कब जाओगे, अतिथि", "descEn": "A satirical essay by Sharad Joshi.", "descHi": "शरद जोशी का व्यंग्यात्मक निबंध।"},
-      {"id": 4, "en": "Vaigyanik Chetna Ke Vahak: C.V. Raman", "hi": "वैज्ञानिक चेतना के वाहक – चंद्रशेखर वेंकट रमन", "descEn": "Biography of C.V. Raman.", "descHi": "सी.वी. रमन की जीवनी।"},
-      {"id": 5, "en": "Shukratare Ke Saman", "hi": "शुक्रतारे के समान", "descEn": "An essay on Mahadev Desai.", "descHi": "महादेव देसाई पर एक निबंध।"},
-      {"id": 6, "en": "Keechad Ka Kavya", "hi": "कीचड़ का काव्य", "descEn": "An essay by Kaka Kalelkar.", "descHi": "काका कालेलकर का निबंध।"},
-      {"id": 7, "en": "Rahim Ke Dohe", "hi": "रहीम के दोहे", "descEn": "Couplets of Rahim.", "descHi": "रहीम के दोहे।"},
-      {"id": 8, "en": "Geet-Ageet", "hi": "गीत-अगीत", "descEn": "A poem by Ramdhari Singh Dinkar.", "descHi": "रामधारी सिंह दिनकर की एक कविता।"},
-      {"id": 9, "en": "Agnipath", "hi": "अग्निपथ", "descEn": "A motivational poem by Harivansh Rai Bachchan.", "descHi": "हरिवंश राय बच्चन की एक प्रेरक कविता।"},
-      {"id": 10, "en": "Naye Ilake Mein / Khushboo Rachte Hain Haath", "hi": "नए इलाके में / खुशबू रचते हैं हाथ", "descEn": "Poems by Arun Kamal.", "descHi": "अरुण कमल की कविताएँ।"},
-      {"id": 11, "en": "Bachche Kaam Par Jaa Rahe Hain", "hi": "बच्चे काम पर जा रहे हैं", "descEn": "A poem highlighting child labor.", "descHi": "बाल श्रम को उजागर करने वाली एक कविता।"}
+      {"id": 1, "en": "दुःख का अधिकार", "hi": "दुःख का अधिकार", "descEn": "A poignant story by Yashpal.", "descHi": "यशपाल की एक मार्मिक कहानी।"},
+      {"id": 2, "en": "एवरेस्ट : मेरी शिखर यात्रा", "hi": "एवरेस्ट : मेरी शिखर यात्रा", "descEn": "Bachendri Pal's journey to Everest.", "descHi": "बछेंद्री पाल की एवरेस्ट यात्रा।"},
+      {"id": 3, "en": "तुम कब जाओगे, अतिथि", "hi": "तुम कब जाओगे, अतिथि", "descEn": "A satirical essay by Sharad Joshi.", "descHi": "शरद जोशी का व्यंग्यात्मक निबंध।"},
+      {"id": 4, "en": "वैज्ञानिक चेतना के वाहक – चंद्रशेखर वेंकट रमन", "hi": "वैज्ञानिक चेतना के वाहक – चंद्रशेखर वेंकट रमन", "descEn": "Biography of C.V. Raman.", "descHi": "सी.वी. रमन की जीवनी।"},
+      {"id": 5, "en": "शुक्रतारे के समान", "hi": "शुक्रतारे के समान", "descEn": "An essay on Mahadev Desai.", "descHi": "महादेव देसाई पर एक निबंध।"},
+      {"id": 6, "en": "कीचड़ का काव्य", "hi": "कीचड़ का काव्य", "descEn": "An essay by Kaka Kalelkar.", "descHi": "काका कालेलकर का निबंध।"},
+      {"id": 7, "en": "रहीम के दोहे", "hi": "रहीम के दोहे", "descEn": "Couplets of Rahim.", "descHi": "रहीम के दोहे।"},
+      {"id": 8, "en": "गीत-अगीत", "hi": "गीत-अगीत", "descEn": "A poem by Ramdhari Singh Dinkar.", "descHi": "रामधारी सिंह दिनकर की एक कविता।"},
+      {"id": 9, "en": "अग्निपथ", "hi": "अग्निपथ", "descEn": "A motivational poem by Harivansh Rai Bachchan.", "descHi": "हरिवंश राय बच्चन की एक प्रेरक कविता।"},
+      {"id": 10, "en": "नए इलाके में / खुशबू रचते हैं हाथ", "hi": "नए इलाके में / खुशबू रचते हैं हाथ", "descEn": "Poems by Arun Kamal.", "descHi": "अरुण कमल की कविताएँ।"},
+      {"id": 11, "en": "बच्चे काम पर जा रहे हैं", "hi": "बच्चे काम पर जा रहे हैं", "descEn": "A poem highlighting child labor.", "descHi": "बाल श्रम को उजागर करने वाली एक कविता।"}
     ],
     "English": [
       {"id": 1, "en": "The Fun They Had", "hi": "वे मज़े जो उन्होंने किए", "descEn": "Beehive: A story about future schools.", "descHi": "भविष्य के स्कूलों के बारे में एक कहानी।"},
