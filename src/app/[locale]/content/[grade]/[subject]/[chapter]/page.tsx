@@ -8,6 +8,7 @@ import {
   BrainCircuit, Clock, CheckCircle2, ChevronRight, X, Sparkles, FileCheck, Tv, RefreshCw
 } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
+import { getChapterDetails } from "@/lib/data/chapters";
 
 interface Resource {
   id: string;
@@ -31,6 +32,8 @@ export default function ChapterHubPage() {
   const grade = (params.grade as string) || "class-10";
   const subject = (params.subject as string) || "science";
   const chapter = (params.chapter as string) || "chapter-10";
+
+  const chapterDetails = getChapterDetails(grade, subject, chapter);
 
   const [completedResources, setCompletedResources] = useState<string[]>([]);
   const [isProModalOpen, setIsProModalOpen] = useState(false);
@@ -159,7 +162,7 @@ export default function ChapterHubPage() {
       borderColor: "border-rose-500/50",
       cta: "Start Test",
       ctaHi: "टेस्ट शुरू करें",
-      locked: true,
+      locked: false,
       href: `/content/${grade}/${subject}/${chapter}/test`,
     },
     {
@@ -174,7 +177,7 @@ export default function ChapterHubPage() {
       borderColor: "border-teal-500/50",
       cta: "View Mind Map",
       ctaHi: "माइंड मैप देखें",
-      locked: true,
+      locked: false,
     },
     {
       id: "cheat-sheet",
@@ -248,17 +251,17 @@ export default function ChapterHubPage() {
           
           <div className="space-y-4">
             <h1 className="text-3xl sm:text-5xl font-black text-slate-900 tracking-tight leading-tight font-serif">
-              Light — Reflection & Refraction
+              {chapterDetails.title}
             </h1>
             
             <p className="text-sm sm:text-base text-slate-600/95 max-w-3xl leading-relaxed font-medium">
-              Comprehensive NCERT Class 10 Science chapter resources tailored for Indian government school teachers. Includes interactive smart classroom teaching modules, question banks, and revision summaries.
+              {chapterDetails.description}
             </p>
             
             <div className="flex flex-wrap items-center gap-3 pt-3">
               <div className="flex items-center gap-2 bg-white/90 border border-slate-200 px-4 py-2.5 rounded-xl shadow-sm text-xs font-black text-slate-600 uppercase tracking-wider">
                 <Clock className="w-4 h-4 text-emerald-700" />
-                Total Study Time: 2h 40min
+                Total Study Time: {chapterDetails.studyTime}
               </div>
               
               <button className="bg-emerald-700 hover:bg-emerald-800 text-white px-5 py-2.5 rounded-xl font-bold text-xs shadow-md shadow-emerald-950/10 flex items-center gap-2 transition-all">

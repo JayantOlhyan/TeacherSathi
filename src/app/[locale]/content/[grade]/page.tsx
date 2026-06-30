@@ -117,7 +117,7 @@ const CONTENT_DATABASE: Record<string, SubjectData[]> = {
           id: 9,
           titleEn: "Friction",
           titleHi: "घर्षण",
-          isLocked: true,
+          isLocked: false,
           descriptionEn: "Understand factors affecting friction, its advantages, and reduction techniques.",
           descriptionHi: "घर्षण को प्रभावित करने वाले कारकों, इसके लाभों और कम करने की तकनीकों को समझें।",
           resources: { video: false, quiz: false, mindmap: true, lessonPlan: false }
@@ -126,7 +126,7 @@ const CONTENT_DATABASE: Record<string, SubjectData[]> = {
           id: 10,
           titleEn: "Sound",
           titleHi: "ध्वनि",
-          isLocked: true,
+          isLocked: false,
           descriptionEn: "Learn how sound is produced, propagated, and heard by the human ear.",
           descriptionHi: "जानें कि ध्वनि कैसे उत्पन्न होती है, कैसे फैलती है और मानव कान द्वारा कैसे सुनी जाती है।",
           resources: { video: false, quiz: false, mindmap: false, lessonPlan: false }
@@ -135,7 +135,7 @@ const CONTENT_DATABASE: Record<string, SubjectData[]> = {
           id: 11,
           titleEn: "Chemical Effects of Electric Current",
           titleHi: "विद्युत धारा के रासायनिक प्रभाव",
-          isLocked: true,
+          isLocked: false,
           descriptionEn: "Explore conduction in liquids and the process of electroplating.",
           descriptionHi: "तरल पदार्थों में विद्युत चालन और इलेक्ट्रोप्लेटिंग की प्रक्रिया का अन्वेषण करें।",
           resources: { video: false, quiz: false, mindmap: false, lessonPlan: false }
@@ -144,7 +144,7 @@ const CONTENT_DATABASE: Record<string, SubjectData[]> = {
           id: 12,
           titleEn: "Some Natural Phenomena",
           titleHi: "कुछ प्राकृतिक परिघटनाएँ",
-          isLocked: true,
+          isLocked: false,
           descriptionEn: "Study natural events like lightning, static charges, and earthquakes.",
           descriptionHi: "बिजली, स्थैतिक आवेश और भूकंप जैसी प्राकृतिक घटनाओं का अध्ययन करें।",
           resources: { video: false, quiz: false, mindmap: false, lessonPlan: false }
@@ -235,7 +235,7 @@ const CONTENT_DATABASE: Record<string, SubjectData[]> = {
           id: 9,
           titleEn: "Mensuration",
           titleHi: "क्षेत्रमिति",
-          isLocked: true,
+          isLocked: false,
           descriptionEn: "Calculate area and volume of trapeziums, cuboids, cylinders, and prisms.",
           descriptionHi: "समलंब, घनाभ, बेलन और प्रिज्म के क्षेत्रफल और आयतन की गणना करें।",
           resources: { video: false, quiz: false, mindmap: true, lessonPlan: false }
@@ -244,7 +244,7 @@ const CONTENT_DATABASE: Record<string, SubjectData[]> = {
           id: 10,
           titleEn: "Exponents and Powers",
           titleHi: "घातांक और घात",
-          isLocked: true,
+          isLocked: false,
           descriptionEn: "Apply laws of exponents for negative powers and scientific notations.",
           descriptionHi: "ऋणात्मक घातों और वैज्ञानिक संकेतनों के लिए घातांक के नियमों को लागू करें।",
           resources: { video: false, quiz: false, mindmap: false, lessonPlan: false }
@@ -575,14 +575,14 @@ CLASSES.forEach((cls) => {
           id: chNum,
           titleEn: info ? `${info.en}` : `Chapter ${chNum}`,
           titleHi: info ? `${info.hi}` : `अध्याय ${chNum}`,
-          isLocked: chNum > 8,
+          isLocked: false,
           descriptionEn: info ? info.descEn : `NCERT standard syllabus chapter resources for class curriculum.`,
           descriptionHi: info ? info.descHi : `कक्षा पाठ्यक्रम के लिए NCERT मानक पाठ्यक्रम अध्याय संसाधन।`,
           resources: {
-            video: chNum <= 8,
-            quiz: chNum <= 8,
-            mindmap: chNum <= 8,
-            lessonPlan: chNum <= 8
+            video: true,
+            quiz: true,
+            mindmap: true,
+            lessonPlan: true
           }
         };
       });
