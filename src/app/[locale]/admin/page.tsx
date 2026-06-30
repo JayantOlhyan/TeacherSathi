@@ -38,13 +38,13 @@ export default function AdminCMSPage() {
       "Science": [
         { id: 1, titleEn: "Crop Production and Management", descriptionEn: "Learn about agricultural practices, traditional methods, and modern irrigation tools.", isLocked: false },
         { id: 2, titleEn: "Microorganisms: Friend and Foe", descriptionEn: "Explore the microscopic world, helpful microbes, and viral diseases.", isLocked: false },
-        { id: 3, titleEn: "Coal and Petroleum", descriptionEn: "Study fossil fuels, refining processes, and conservation of exhaustible resources.", isLocked: true },
-        { id: 4, titleEn: "Combustion and Flame", descriptionEn: "Understand chemical process of burning, structure of candle flames, and fuel efficiency.", isLocked: true }
+        { id: 3, titleEn: "Coal and Petroleum", descriptionEn: "Study fossil fuels, refining processes, and conservation of exhaustible resources.", isLocked: false },
+        { id: 4, titleEn: "Combustion and Flame", descriptionEn: "Understand chemical process of burning, structure of candle flames, and fuel efficiency.", isLocked: false }
       ],
       "Mathematics": [
         { id: 1, titleEn: "Rational Numbers", descriptionEn: "Understand properties, representation on number line, and finding rational numbers between any two rational numbers.", isLocked: false },
         { id: 2, titleEn: "Linear Equations in One Variable", descriptionEn: "Learn to solve algebraic equations with single variables and apply them to word problems.", isLocked: false },
-        { id: 3, titleEn: "Understanding Quadrilaterals", descriptionEn: "Explore polygons, curves, angle sum properties, and types of quadrilaterals like parallelograms.", isLocked: true }
+        { id: 3, titleEn: "Understanding Quadrilaterals", descriptionEn: "Explore polygons, curves, angle sum properties, and types of quadrilaterals like parallelograms.", isLocked: false }
       ],
       "Social Science": [
         { id: 1, titleEn: "How, When and Where", descriptionEn: "Study the importance of dates, colonial archives, and historical survey techniques.", isLocked: false },
@@ -52,17 +52,17 @@ export default function AdminCMSPage() {
       ],
       "English": [
         { id: 1, titleEn: "A Letter to God", descriptionEn: "A story about a farmer's absolute faith in God.", isLocked: false },
-        { id: 2, titleEn: "Long Walk to Freedom", descriptionEn: "Nelson Mandela's journey against apartheid in South Africa.", isLocked: true }
+        { id: 2, titleEn: "Long Walk to Freedom", descriptionEn: "Nelson Mandela's journey against apartheid in South Africa.", isLocked: false }
       ],
       "Hindi": [
         { id: 1, titleEn: "Surdas ke Pad", descriptionEn: "Poetic verses expressing devotion to Lord Krishna.", isLocked: false },
-        { id: 2, titleEn: "Lakh ki Chudiyan", descriptionEn: "A story on traditional craftsmen in a changing economic landscape.", isLocked: true }
+        { id: 2, titleEn: "Lakh ki Chudiyan", descriptionEn: "A story on traditional craftsmen in a changing economic landscape.", isLocked: false }
       ]
     },
     "Class 10": {
       "Science": [
         { id: 10, titleEn: "Light — Reflection & Refraction", descriptionEn: "Study plane/spherical mirrors, lens formula, and magnification calculations.", isLocked: false },
-        { id: 11, titleEn: "Human Eye & Colorful World", descriptionEn: "Explore lens defects, glass prism dispersion, atmospheric refraction, and scattering.", isLocked: true }
+        { id: 11, titleEn: "Human Eye & Colorful World", descriptionEn: "Explore lens defects, glass prism dispersion, atmospheric refraction, and scattering.", isLocked: false }
       ]
     }
   });
@@ -149,7 +149,7 @@ export default function AdminCMSPage() {
       id: newChapterId,
       titleEn: newChapterTitle,
       descriptionEn: newChapterDesc,
-      isLocked: true
+      isLocked: false
     };
 
     setDb({
