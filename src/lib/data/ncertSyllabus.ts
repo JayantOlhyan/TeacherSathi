@@ -563,200 +563,101 @@ export const NCERT_SYLLABUS: ClassSyllabus = {
     ]
   },
   "Class 10": {
-    "Science": [
-      {
-        "id": 1,
-        "en": "Chemical Reactions and Equations",
-        "hi": "रासायनिक अभिक्रियाएँ एवं समीकरण",
-        "descEn": "Learn about balancing chemical equations and reaction types.",
-        "descHi": "रासायनिक समीकरणों को संतुलित करना सीखें।"
-      },
-      {
-        "id": 2,
-        "en": "Acids, Bases and Salts",
-        "hi": "अम्ल, क्षारक एवं लवण",
-        "descEn": "Properties of acids, bases, and pH scale.",
-        "descHi": "अम्ल, क्षार और pH स्केल के गुण।"
-      },
-      {
-        "id": 3,
-        "en": "Metals and Non-metals",
-        "hi": "धातु एवं अधातु",
-        "descEn": "Physical and chemical properties, extraction of metals.",
-        "descHi": "धातुओं के भौतिक और रासायनिक गुण।"
-      },
-      {
-        "id": 4,
-        "en": "Carbon and its Compounds",
-        "hi": "कार्बन एवं उसके यौगिक",
-        "descEn": "Covalent bonding, versatile nature of carbon.",
-        "descHi": "सहसंयोजक बंधन, कार्बन की बहुमुखी प्रकृति।"
-      },
-      {
-        "id": 5,
-        "en": "Life Processes",
-        "hi": "जैव प्रक्रम",
-        "descEn": "Nutrition, respiration, transportation, and excretion.",
-        "descHi": "पोषण, श्वसन, परिवहन और उत्सर्जन।"
-      },
-      {
-        "id": 6,
-        "en": "Control and Coordination",
-        "hi": "नियंत्रण एवं समन्वय",
-        "descEn": "Nervous system and hormones in plants and animals.",
-        "descHi": "तंत्रिका तंत्र और हार्मोन।"
-      },
-      {
-        "id": 7,
-        "en": "How do Organisms Reproduce?",
-        "hi": "जीव जनन कैसे करते हैं?",
-        "descEn": "Asexual and sexual reproduction.",
-        "descHi": "अलैंगिक और लैंगिक प्रजनन।"
-      },
-      {
-        "id": 8,
-        "en": "Heredity",
-        "hi": "आनुवंशिकता",
-        "descEn": "Mendel's laws and inheritance of traits.",
-        "descHi": "मेंडल के नियम और लक्षणों की विरासत।"
-      },
-      {
-        "id": 9,
-        "en": "Light — Reflection and Refraction",
-        "hi": "प्रकाश — परावर्तन तथा अपवर्तन",
-        "descEn": "Mirrors, lenses, and properties of light.",
-        "descHi": "दर्पण, लेंस और प्रकाश के गुण।"
-      },
-      {
-        "id": 10,
-        "en": "The Human Eye and the Colourful World",
-        "hi": "मानव नेत्र तथा रंगबिरंगा संसार",
-        "descEn": "Defects of vision and dispersion of light.",
-        "descHi": "दृष्टि दोष और प्रकाश का विक्षेपण।"
-      },
-      {
-        "id": 11,
-        "en": "Electricity",
-        "hi": "विद्युत्",
-        "descEn": "Ohm's law, resistance, and heating effect of current.",
-        "descHi": "ओम का नियम, प्रतिरोध और धारा का ताप प्रभाव।"
-      },
-      {
-        "id": 12,
-        "en": "Magnetic Effects of Electric Current",
-        "hi": "विद्युत् धारा के चुंबकीय प्रभाव",
-        "descEn": "Magnetic fields, electromagnets, and motors.",
-        "descHi": "चुंबकीय क्षेत्र, विद्युत चुंबक और मोटर।"
-      },
-      {
-        "id": 13,
-        "en": "Our Environment",
-        "hi": "हमारा पर्यावरण",
-        "descEn": "Ecosystems, food chains, and ozone depletion.",
-        "descHi": "पारिस्थितिक तंत्र, खाद्य श्रृंखला और ओजोन परत।"
-      }
-    ],
     "Mathematics": [
-      {
-        "id": 1,
-        "en": "Real Numbers",
-        "hi": "वास्तविक संख्याएँ",
-        "descEn": "Fundamental Theorem of Arithmetic and irrational numbers.",
-        "descHi": "अंकगणित का आधारभूत प्रमेय।"
-      },
-      {
-        "id": 2,
-        "en": "Polynomials",
-        "hi": "बहुपद",
-        "descEn": "Zeroes of a polynomial and relationship with coefficients.",
-        "descHi": "बहुपद के शून्यक।"
-      },
-      {
-        "id": 3,
-        "en": "Pair of Linear Equations in Two Variables",
-        "hi": "दो चर वाले रैखिक समीकरण युग्म",
-        "descEn": "Algebraic and graphical methods of solving.",
-        "descHi": "हल करने की बीजगणितीय और ग्राफिक विधियाँ।"
-      },
-      {
-        "id": 4,
-        "en": "Quadratic Equations",
-        "hi": "द्विघात समीकरण",
-        "descEn": "Solving by factorization and quadratic formula.",
-        "descHi": "गुणनखंड द्वारा द्विघात समीकरण हल करना।"
-      },
-      {
-        "id": 5,
-        "en": "Arithmetic Progressions",
-        "hi": "समांतर श्रेढ़ियाँ",
-        "descEn": "Nth term and sum of first n terms of an AP.",
-        "descHi": "समांतर श्रेणी का nवाँ पद।"
-      },
-      {
-        "id": 6,
-        "en": "Triangles",
-        "hi": "त्रिभुज",
-        "descEn": "Similarity of triangles and Pythagoras theorem.",
-        "descHi": "त्रिभुजों की समरूपता और पाइथागोरस प्रमेय।"
-      },
-      {
-        "id": 7,
-        "en": "Coordinate Geometry",
-        "hi": "निर्देशांक ज्यामिति",
-        "descEn": "Distance formula and section formula.",
-        "descHi": "दूरी सूत्र और विभाजन सूत्र।"
-      },
-      {
-        "id": 8,
-        "en": "Introduction to Trigonometry",
-        "hi": "त्रिकोणमिति का परिचय",
-        "descEn": "Trigonometric ratios and identities.",
-        "descHi": "त्रिकोणमितीय अनुपात और सर्वसमिकाएँ।"
-      },
-      {
-        "id": 9,
-        "en": "Some Applications of Trigonometry",
-        "hi": "त्रिकोणमिति के कुछ अनुप्रयोग",
-        "descEn": "Heights and distances problems.",
-        "descHi": "ऊंचाई और दूरी की समस्याएं।"
-      },
-      {
-        "id": 10,
-        "en": "Circles",
-        "hi": "वृत्त",
-        "descEn": "Tangents to a circle and their properties.",
-        "descHi": "वृत्त की स्पर्श रेखाएँ।"
-      },
-      {
-        "id": 11,
-        "en": "Areas Related to Circles",
-        "hi": "वृत्तों से संबंधित क्षेत्रफल",
-        "descEn": "Perimeter and area of a circle, sector, and segment.",
-        "descHi": "वृत्त के त्रिज्यखंड और वृत्तखंड का क्षेत्रफल।"
-      },
-      {
-        "id": 12,
-        "en": "Surface Areas and Volumes",
-        "hi": "पृष्ठीय क्षेत्रफल और आयतन",
-        "descEn": "Combinations of solids.",
-        "descHi": "ठोसों का संयोजन।"
-      },
-      {
-        "id": 13,
-        "en": "Statistics",
-        "hi": "सांख्यिकी",
-        "descEn": "Mean, median, and mode of grouped data.",
-        "descHi": "वर्गीकृत आंकड़ों का माध्य, माध्यिका और बहुलक।"
-      },
-      {
-        "id": 14,
-        "en": "Probability",
-        "hi": "प्रायिकता",
-        "descEn": "Theoretical probability of events.",
-        "descHi": "घटनाओं की सैद्धांतिक प्रायिकता।"
-      }
+      {"id": 1, "en": "Real Numbers", "hi": "वास्तविक संख्याएँ", "descEn": "Fundamental Theorem of Arithmetic and irrational numbers.", "descHi": "अंकगणित का आधारभूत प्रमेय।"},
+      {"id": 2, "en": "Polynomials", "hi": "बहुपद", "descEn": "Zeroes of a polynomial and relationship with coefficients.", "descHi": "बहुपद के शून्यक।"},
+      {"id": 3, "en": "Pair of Linear Equations in Two Variables", "hi": "दो चर वाले रैखिक समीकरण युग्म", "descEn": "Algebraic and graphical methods of solving.", "descHi": "हल करने की बीजगणितीय और ग्राफिक विधियाँ।"},
+      {"id": 4, "en": "Quadratic Equations", "hi": "द्विघात समीकरण", "descEn": "Solving by factorization and quadratic formula.", "descHi": "गुणनखंड द्वारा द्विघात समीकरण हल करना।"},
+      {"id": 5, "en": "Arithmetic Progressions", "hi": "समांतर श्रेढ़ियाँ", "descEn": "Nth term and sum of first n terms of an AP.", "descHi": "समांतर श्रेणी का nवाँ पद।"},
+      {"id": 6, "en": "Triangles", "hi": "त्रिभुज", "descEn": "Similarity of triangles and Pythagoras theorem.", "descHi": "त्रिभुजों की समरूपता और पाइथागोरस प्रमेय।"},
+      {"id": 7, "en": "Coordinate Geometry", "hi": "निर्देशांक ज्यामिति", "descEn": "Distance formula and section formula.", "descHi": "दूरी सूत्र और विभाजन सूत्र।"},
+      {"id": 8, "en": "Introduction to Trigonometry", "hi": "त्रिकोणमिति का परिचय", "descEn": "Trigonometric ratios and identities.", "descHi": "त्रिकोणमितीय अनुपात और सर्वसमिकाएँ।"},
+      {"id": 9, "en": "Some Applications of Trigonometry", "hi": "त्रिकोणमिति के कुछ अनुप्रयोग", "descEn": "Heights and distances problems.", "descHi": "ऊंचाई और दूरी की समस्याएं।"},
+      {"id": 10, "en": "Circles", "hi": "वृत्त", "descEn": "Tangents to a circle and their properties.", "descHi": "वृत्त की स्पर्श रेखाएँ।"},
+      {"id": 11, "en": "Areas Related to Circles", "hi": "वृत्तों से संबंधित क्षेत्रफल", "descEn": "Perimeter and area of a circle, sector, and segment.", "descHi": "वृत्त के त्रिज्यखंड और वृत्तखंड का क्षेत्रफल।"},
+      {"id": 12, "en": "Surface Areas and Volumes", "hi": "पृष्ठीय क्षेत्रफल और आयतन", "descEn": "Combinations of solids.", "descHi": "ठोसों का संयोजन।"},
+      {"id": 13, "en": "Statistics", "hi": "सांख्यिकी", "descEn": "Mean, median, and mode of grouped data.", "descHi": "वर्गीकृत आंकड़ों का माध्य, माध्यिका और बहुलक।"},
+      {"id": 14, "en": "Probability", "hi": "प्रायिकता", "descEn": "Theoretical probability of events.", "descHi": "घटनाओं की सैद्धांतिक प्रायिकता।"}
+    ],
+    "Science": [
+      {"id": 1, "en": "Chemical Reactions and Equations", "hi": "रासायनिक अभिक्रियाएँ एवं समीकरण", "descEn": "Learn about balancing chemical equations and reaction types.", "descHi": "रासायनिक समीकरणों को संतुलित करना सीखें।"},
+      {"id": 2, "en": "Acids, Bases and Salts", "hi": "अम्ल, क्षारक एवं लवण", "descEn": "Properties of acids, bases, and pH scale.", "descHi": "अम्ल, क्षार और pH स्केल के गुण।"},
+      {"id": 3, "en": "Metals and Non-metals", "hi": "धातु एवं अधातु", "descEn": "Physical and chemical properties, extraction of metals.", "descHi": "धातुओं के भौतिक और रासायनिक गुण।"},
+      {"id": 4, "en": "Carbon and Its Compounds", "hi": "कार्बन एवं उसके यौगिक", "descEn": "Covalent bonding, versatile nature of carbon.", "descHi": "सहसंयोजक बंधन, कार्बन की बहुमुखी प्रकृति।"},
+      {"id": 5, "en": "Life Processes", "hi": "जैव प्रक्रम", "descEn": "Nutrition, respiration, transportation, and excretion.", "descHi": "पोषण, श्वसन, परिवहन और उत्सर्जन।"},
+      {"id": 6, "en": "Control and Coordination", "hi": "नियंत्रण एवं समन्वय", "descEn": "Nervous system and hormones in plants and animals.", "descHi": "तंत्रिका तंत्र और हार्मोन।"},
+      {"id": 7, "en": "How Do Organisms Reproduce?", "hi": "जीव जनन कैसे करते हैं?", "descEn": "Asexual and sexual reproduction.", "descHi": "अलैंगिक और लैंगिक प्रजनन।"},
+      {"id": 8, "en": "Heredity", "hi": "आनुवंशिकता", "descEn": "Mendel's laws and inheritance of traits.", "descHi": "मेंडल के नियम और लक्षणों की विरासत।"},
+      {"id": 9, "en": "Light – Reflection and Refraction", "hi": "प्रकाश — परावर्तन तथा अपवर्तन", "descEn": "Mirrors, lenses, and properties of light.", "descHi": "दर्पण, लेंस और प्रकाश के गुण।"},
+      {"id": 10, "en": "The Human Eye and the Colourful World", "hi": "मानव नेत्र तथा रंगबिरंगा संसार", "descEn": "Defects of vision and dispersion of light.", "descHi": "दृष्टि दोष और प्रकाश का विक्षेपण।"},
+      {"id": 11, "en": "Electricity", "hi": "विद्युत्", "descEn": "Ohm's law, resistance, and heating effect of current.", "descHi": "ओम का नियम, प्रतिरोध और धारा का ताप प्रभाव।"},
+      {"id": 12, "en": "Magnetic Effects of Electric Current", "hi": "विद्युत् धारा के चुंबकीय प्रभाव", "descEn": "Magnetic fields, electromagnets, and motors.", "descHi": "चुंबकीय क्षेत्र, विद्युत चुंबक और मोटर।"},
+      {"id": 13, "en": "Our Environment", "hi": "हमारा पर्यावरण", "descEn": "Ecosystems, food chains, and ozone depletion.", "descHi": "पारिस्थितिक तंत्र, खाद्य श्रृंखला और ओजोन परत।"}
+    ],
+    "Hindi": [
+      {"id": 1, "en": "Bade Bhai Sahab", "hi": "बड़े भाई साहब", "descEn": "A story by Premchand.", "descHi": "प्रेमचंद की एक कहानी।"},
+      {"id": 2, "en": "Diary Ka Ek Panna", "hi": "डायरी का एक पन्ना", "descEn": "An excerpt from Sitaram Seksaria's diary.", "descHi": "सीताराम सेकसरिया की डायरी का एक अंश।"},
+      {"id": 3, "en": "Tatara-Vamiro Katha", "hi": "तताँरा-वामीरो कथा", "descEn": "A folk tale of Andaman.", "descHi": "अंडमान की एक लोककथा।"},
+      {"id": 4, "en": "Teesri Kasam Ke Shilpkar Shailendra", "hi": "तीसरी कसम के शिल्पकार शैलेंद्र", "descEn": "An essay on lyricist Shailendra.", "descHi": "गीतकार शैलेंद्र पर एक निबंध।"},
+      {"id": 5, "en": "Ab Kahan Doosre Ke Dukh Se Dukhi Hone Wale", "hi": "अब कहाँ दूसरे के दुख से दुखी होने वाले", "descEn": "A thoughtful essay.", "descHi": "एक विचारोत्तेजक निबंध।"},
+      {"id": 6, "en": "Patjhar Mein Tooti Pattiyan", "hi": "पतझर में टूटी पत्तियाँ", "descEn": "A story about Zen philosophy.", "descHi": "ज़ेन दर्शन के बारे में एक कहानी।"},
+      {"id": 7, "en": "Kartoos", "hi": "कारतूस", "descEn": "A one-act play.", "descHi": "एक एकांकी।"},
+      {"id": 8, "en": "Saakhi", "hi": "साखी", "descEn": "Couplets of Kabir.", "descHi": "कबीर की साखी।"},
+      {"id": 9, "en": "Pad", "hi": "पद", "descEn": "Verses of Meerabai.", "descHi": "मीराबाई के पद।"},
+      {"id": 10, "en": "Manushyata", "hi": "मनुष्यता", "descEn": "A poem by Maithili Sharan Gupt.", "descHi": "मैथिलीशरण गुप्त की कविता।"},
+      {"id": 11, "en": "Parvat Pradesh Mein Pavas", "hi": "पर्वत प्रदेश में पावस", "descEn": "A poem by Sumitranandan Pant.", "descHi": "सुमित्रानंदन पंत की एक कविता।"},
+      {"id": 12, "en": "Top", "hi": "तोप", "descEn": "A poem by Viren Dangwal.", "descHi": "वीरेन डंगवाल की एक कविता।"},
+      {"id": 13, "en": "Kar Chale Hum Fida", "hi": "कर चले हम फ़िदा", "descEn": "A patriotic poem by Kaifi Azmi.", "descHi": "कैफ़ी आज़मी की एक देशभक्ति कविता।"},
+      {"id": 14, "en": "Aatmatraan", "hi": "आत्मत्राण", "descEn": "A poem by Rabindranath Tagore.", "descHi": "रवींद्रनाथ टैगोर की एक कविता।"}
+    ],
+    "English": [
+      {"id": 1, "en": "A Letter to God", "hi": "भगवान को एक पत्र", "descEn": "First Flight: A story of extreme faith.", "descHi": "अत्यधिक विश्वास की एक कहानी।"},
+      {"id": 2, "en": "Nelson Mandela: Long Walk to Freedom", "hi": "नेल्सन मंडेला: आज़ादी की लंबी यात्रा", "descEn": "First Flight: An autobiography excerpt.", "descHi": "एक आत्मकथा का अंश।"},
+      {"id": 3, "en": "Two Stories about Flying", "hi": "उड़ान के बारे में दो कहानियाँ", "descEn": "First Flight: Overcoming fear and taking risks.", "descHi": "डर पर काबू पाना और जोखिम उठाना।"},
+      {"id": 4, "en": "From the Diary of Anne Frank", "hi": "ऐनी फ्रैंक की डायरी से", "descEn": "First Flight: Insights into Anne Frank's life.", "descHi": "ऐनी फ्रैंक के जीवन की अंतर्दृष्टि।"},
+      {"id": 5, "en": "The Hundred Dresses – I", "hi": "सौ पोशाकें - 1", "descEn": "First Flight: A story about a Polish girl.", "descHi": "एक पोलिश लड़की के बारे में कहानी।"},
+      {"id": 6, "en": "The Hundred Dresses – II", "hi": "सौ पोशाकें - 2", "descEn": "First Flight: Conclusion of Wanda's story.", "descHi": "वांडा की कहानी का निष्कर्ष।"},
+      {"id": 7, "en": "Glimpses of India", "hi": "भारत की झलकियाँ", "descEn": "First Flight: Three travelogues.", "descHi": "तीन यात्रा वृत्तांत।"},
+      {"id": 8, "en": "Mijbil the Otter", "hi": "मिजबिल ऊदबिलाव", "descEn": "First Flight: Keeping an otter as a pet.", "descHi": "ऊदबिलाव को पालतू जानवर के रूप में रखना।"},
+      {"id": 9, "en": "Madam Rides the Bus", "hi": "मैडम बस की सवारी करती हैं", "descEn": "First Flight: A young girl's first bus ride.", "descHi": "एक युवा लड़की की पहली बस सवारी।"},
+      {"id": 10, "en": "The Sermon at Benares", "hi": "बनारस में उपदेश", "descEn": "First Flight: Lord Buddha's first sermon.", "descHi": "भगवान बुद्ध का प्रथम उपदेश।"},
+      {"id": 11, "en": "The Proposal", "hi": "प्रस्ताव", "descEn": "First Flight: A Russian one-act play.", "descHi": "एक रूसी एकांकी।"},
+      {"id": 12, "en": "A Triumph of Surgery", "hi": "सर्जरी की जीत", "descEn": "Footprints Without Feet: A story of an overfed dog.", "descHi": "ज्यादा खिलाए गए कुत्ते की कहानी।"},
+      {"id": 13, "en": "The Thief's Story", "hi": "चोर की कहानी", "descEn": "Footprints Without Feet: A story of transformation.", "descHi": "परिवर्तन की एक कहानी।"},
+      {"id": 14, "en": "The Midnight Visitor", "hi": "मध्यरात्रि का आगंतुक", "descEn": "Footprints Without Feet: A spy story.", "descHi": "एक जासूसी कहानी।"},
+      {"id": 15, "en": "A Question of Trust", "hi": "विश्वास का सवाल", "descEn": "Footprints Without Feet: A story about a thief.", "descHi": "एक चोर के बारे में कहानी।"},
+      {"id": 16, "en": "Footprints Without Feet", "hi": "बिना पैरों के निशान", "descEn": "Footprints Without Feet: An invisible man's tale.", "descHi": "एक अदृश्य आदमी की कहानी।"},
+      {"id": 17, "en": "The Making of a Scientist", "hi": "वैज्ञानिक का निर्माण", "descEn": "Footprints Without Feet: Richard Ebright's journey.", "descHi": "रिचर्ड एब्राइट की यात्रा।"},
+      {"id": 18, "en": "The Necklace", "hi": "हार", "descEn": "Footprints Without Feet: A story about greed.", "descHi": "लालच के बारे में एक कहानी।"},
+      {"id": 19, "en": "Bholi", "hi": "भोली", "descEn": "Footprints Without Feet: A story about a neglected girl.", "descHi": "उपेक्षित लड़की की कहानी।"},
+      {"id": 20, "en": "The Book That Saved the Earth", "hi": "वह किताब जिसने पृथ्वी को बचाया", "descEn": "Footprints Without Feet: A science fiction play.", "descHi": "एक विज्ञान कथा नाटक।"}
+    ],
+    "Social Science": [
+      {"id": 1, "en": "The Rise of Nationalism in Europe", "hi": "यूरोप में राष्ट्रवाद का उदय", "descEn": "History: The emergence of modern nation-states in Europe.", "descHi": "इतिहास: यूरोप में आधुनिक राष्ट्र-राज्यों का उदय।"},
+      {"id": 2, "en": "Nationalism in India", "hi": "भारत में राष्ट्रवाद", "descEn": "History: The Indian freedom struggle and Mahatma Gandhi.", "descHi": "इतिहास: भारतीय स्वतंत्रता संग्राम और महात्मा गांधी।"},
+      {"id": 3, "en": "The Making of a Global World", "hi": "भूमंडलीकृत विश्व का बनना", "descEn": "History: History of globalization and trade.", "descHi": "इतिहास: वैश्वीकरण और व्यापार का इतिहास।"},
+      {"id": 4, "en": "The Age of Industrialisation", "hi": "औद्योगीकरण का युग", "descEn": "History: The industrial revolution and its impact.", "descHi": "इतिहास: औद्योगिक क्रांति और उसका प्रभाव।"},
+      {"id": 5, "en": "Print Culture and the Modern World", "hi": "मुद्रण संस्कृति और आधुनिक दुनिया", "descEn": "History: Development of print technology.", "descHi": "इतिहास: मुद्रण तकनीक का विकास।"},
+      {"id": 6, "en": "Resources and Development", "hi": "संसाधन और विकास", "descEn": "Geography: Types of resources and land use.", "descHi": "भूगोल: संसाधनों के प्रकार और भूमि उपयोग।"},
+      {"id": 7, "en": "Forest and Wildlife Resources", "hi": "वन और वन्यजीव संसाधन", "descEn": "Geography: Biodiversity and conservation.", "descHi": "भूगोल: जैव विविधता और संरक्षण।"},
+      {"id": 8, "en": "Water Resources", "hi": "जल संसाधन", "descEn": "Geography: Water scarcity and multipurpose projects.", "descHi": "भूगोल: जल की कमी और बहुउद्देशीय परियोजनाएँ।"},
+      {"id": 9, "en": "Agriculture", "hi": "कृषि", "descEn": "Geography: Types of farming and major crops.", "descHi": "भूगोल: खेती के प्रकार और प्रमुख फसलें।"},
+      {"id": 10, "en": "Minerals and Energy Resources", "hi": "खनिज और ऊर्जा संसाधन", "descEn": "Geography: Distribution and conservation of minerals.", "descHi": "भूगोल: खनिजों का वितरण और संरक्षण।"},
+      {"id": 11, "en": "Manufacturing Industries", "hi": "विनिर्माण उद्योग", "descEn": "Geography: Importance and types of manufacturing.", "descHi": "भूगोल: विनिर्माण का महत्व और प्रकार।"},
+      {"id": 12, "en": "Lifelines of National Economy", "hi": "राष्ट्रीय अर्थव्यवस्था की जीवन रेखाएँ", "descEn": "Geography: Transport and communication networks.", "descHi": "भूगोल: परिवहन और संचार नेटवर्क।"},
+      {"id": 13, "en": "Power Sharing", "hi": "सत्ता की साझेदारी", "descEn": "Political Science: Importance of sharing power in democracies.", "descHi": "राजनीति विज्ञान: लोकतंत्र में सत्ता साझा करने का महत्व।"},
+      {"id": 14, "en": "Federalism", "hi": "संघवाद", "descEn": "Political Science: Features of a federal government.", "descHi": "राजनीति विज्ञान: संघीय सरकार की विशेषताएं।"},
+      {"id": 15, "en": "Gender, Religion and Caste", "hi": "लिंग, धर्म और जाति", "descEn": "Political Science: Inequalities in society and politics.", "descHi": "राजनीति विज्ञान: समाज और राजनीति में असमानताएं।"},
+      {"id": 16, "en": "Political Parties", "hi": "राजनीतिक दल", "descEn": "Political Science: Role and functions of political parties.", "descHi": "राजनीति विज्ञान: राजनीतिक दलों की भूमिका और कार्य।"},
+      {"id": 17, "en": "Outcomes of Democracy", "hi": "लोकतंत्र के परिणाम", "descEn": "Political Science: Evaluating democratic outcomes.", "descHi": "राजनीति विज्ञान: लोकतांत्रिक परिणामों का मूल्यांकन।"},
+      {"id": 18, "en": "Development", "hi": "विकास", "descEn": "Economics: Concept of development and its indicators.", "descHi": "अर्थशास्त्र: विकास की अवधारणा और उसके संकेतक।"},
+      {"id": 19, "en": "Sectors of the Indian Economy", "hi": "भारतीय अर्थव्यवस्था के क्षेत्रक", "descEn": "Economics: Primary, secondary, and tertiary sectors.", "descHi": "अर्थशास्त्र: प्राथमिक, द्वितीयक और तृतीयक क्षेत्र।"},
+      {"id": 20, "en": "Money and Credit", "hi": "मुद्रा और साख", "descEn": "Economics: Formal and informal credit systems.", "descHi": "अर्थशास्त्र: औपचारिक और अनौपचारिक ऋण प्रणाली।"},
+      {"id": 21, "en": "Globalisation and the Indian Economy", "hi": "वैश्वीकरण और भारतीय अर्थव्यवस्था", "descEn": "Economics: Impact of globalization on India.", "descHi": "अर्थशास्त्र: भारत पर वैश्वीकरण का प्रभाव।"},
+      {"id": 22, "en": "Consumer Rights", "hi": "उपभोक्ता अधिकार", "descEn": "Economics: Protection of consumer interests.", "descHi": "अर्थशास्त्र: उपभोक्ता हितों का संरक्षण।"}
     ]
   },
+
 
   "Class 8": {
     "Mathematics": [
