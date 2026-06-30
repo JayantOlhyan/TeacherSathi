@@ -759,302 +759,76 @@ export const NCERT_SYLLABUS: ClassSyllabus = {
   },
 
   "Class 8": {
-    "Science": [
-      {
-        "id": 1,
-        "en": "Components of Food",
-        "hi": "भोजन के घटक",
-        "descEn": "Learn about nutrients, balanced diet, and deficiency diseases.",
-        "descHi": "पोषक तत्वों और संतुलित आहार के बारे में जानें।"
-      },
-      {
-        "id": 2,
-        "en": "Sorting Materials into Groups",
-        "hi": "वस्तुओं के समूह बनाना",
-        "descEn": "Classify materials based on properties like appearance, hardness.",
-        "descHi": "विशेषताओं के आधार पर सामग्रियों का वर्गीकरण।"
-      },
-      {
-        "id": 3,
-        "en": "Separation of Substances",
-        "hi": "पदार्थों का पृथक्करण",
-        "descEn": "Study filtration, sedimentation, decantation, and evaporation.",
-        "descHi": "निस्पंदन, अवसादन और वाष्पीकरण का अध्ययन करें।"
-      },
-      {
-        "id": 4,
-        "en": "Getting to Know Plants",
-        "hi": "पौधों को जानिए",
-        "descEn": "Explore structures of herbs, shrubs, trees, roots, and flowers.",
-        "descHi": "पौधों, जड़ों और फूलों की संरचना का अन्वेषण।"
-      },
-      {
-        "id": 5,
-        "en": "Body Movements",
-        "hi": "शरीर में गति",
-        "descEn": "Study bones, joints, cartilage, and locomotion in animals.",
-        "descHi": "हड्डियों, जोड़ों और गतिशीलता का अध्ययन।"
-      },
-      {
-        "id": 6,
-        "en": "The Living Organisms — Characteristics and Habitats",
-        "hi": "सजीव - विशेषताएँ एवं आवास",
-        "descEn": "Understand adaptations and habitats of living beings.",
-        "descHi": "सजीवों के अनुकूलन और आवास को समझें।"
-      },
-      {
-        "id": 7,
-        "en": "Motion and Measurement of Distances",
-        "hi": "गति एवं दूरियों का मापन",
-        "descEn": "Learn about standard units of measurement and types of motion.",
-        "descHi": "मापन की मानक इकाइयों और गति के प्रकारों के बारे में जानें।"
-      },
-      {
-        "id": 8,
-        "en": "Light, Shadows and Reflections",
-        "hi": "प्रकाश, छायाएँ एवं परावर्तन",
-        "descEn": "Understand luminous objects, shadows, and pinhole cameras.",
-        "descHi": "चमकदार वस्तुओं, छाया और पिनहोल कैमरे को समझें।"
-      },
-      {
-        "id": 9,
-        "en": "Electricity and Circuits",
-        "hi": "विद्युत् तथा परिपथ",
-        "descEn": "Study electric cells, circuits, switches, and conductors.",
-        "descHi": "विद्युत सेल, सर्किट, स्विच और सुचालक का अध्ययन।"
-      },
-      {
-        "id": 10,
-        "en": "Fun with Magnets",
-        "hi": "चुंबकों द्वारा मनोरंजन",
-        "descEn": "Explore magnetic poles, attraction, and repulsion.",
-        "descHi": "चुंबकीय ध्रुवों, आकर्षण और प्रतिकर्षण का अन्वेषण।"
-      },
-      {
-        "id": 11,
-        "en": "Air Around Us",
-        "hi": "हमारे चारों ओर वायु",
-        "descEn": "Learn about the composition and importance of air.",
-        "descHi": "वायु की संरचना और महत्व के बारे में जानें।"
-      }
-    ],
     "Mathematics": [
-      {
-        "id": 1,
-        "en": "Knowing Our Numbers",
-        "hi": "अपनी संख्याओं की जानकारी",
-        "descEn": "Learn comparing numbers, place value, and large numbers.",
-        "descHi": "बड़ी संख्याओं और स्थानीय मान को सीखें।"
-      },
-      {
-        "id": 2,
-        "en": "Whole Numbers",
-        "hi": "पूर्ण संख्याएँ",
-        "descEn": "Study natural numbers, whole numbers, and number line.",
-        "descHi": "पूर्ण संख्याएं और संख्या रेखा।"
-      },
-      {
-        "id": 3,
-        "en": "Playing with Numbers",
-        "hi": "संख्याओं के साथ खेलना",
-        "descEn": "Learn factors, multiples, prime numbers, and LCM.",
-        "descHi": "गुणनखंड, अभाज्य संख्याएँ, और लघुत्तम समापवर्त्य सीखें।"
-      },
-      {
-        "id": 4,
-        "en": "Basic Geometrical Ideas",
-        "hi": "आधारभूत ज्यामितीय अवधारणाएँ",
-        "descEn": "Understand points, lines, segments, angles, and polygons.",
-        "descHi": "बिंदुओं, रेखाओं, और बहुभुजों को समझें।"
-      },
-      {
-        "id": 5,
-        "en": "Understanding Elementary Shapes",
-        "hi": "प्रारंभिक आकारों को समझना",
-        "descEn": "Study angles, triangles, and 3D shapes.",
-        "descHi": "त्रिभुजों और 3D आकारों का अध्ययन करें।"
-      },
-      {
-        "id": 6,
-        "en": "Integers",
-        "hi": "पूर्णांक",
-        "descEn": "Learn positive and negative numbers and operations.",
-        "descHi": "धनात्मक और ऋणात्मक संख्याएँ।"
-      },
-      {
-        "id": 7,
-        "en": "Fractions",
-        "hi": "भिन्न",
-        "descEn": "Understand proper, improper, mixed fractions.",
-        "descHi": "भिन्न और उनके संचालन को समझें।"
-      },
-      {
-        "id": 8,
-        "en": "Decimals",
-        "hi": "दशमलव",
-        "descEn": "Learn decimal representations and operations.",
-        "descHi": "दशमलव निरूपण और संक्रियाएँ।"
-      },
-      {
-        "id": 9,
-        "en": "Data Handling",
-        "hi": "आँकड़ों का प्रबंधन",
-        "descEn": "Study pictographs, bar graphs, and data organization.",
-        "descHi": "पिक्टोग्राफ और बार ग्राफ का अध्ययन।"
-      },
-      {
-        "id": 10,
-        "en": "Mensuration",
-        "hi": "क्षेत्रमिति",
-        "descEn": "Calculate perimeter and area of basic shapes.",
-        "descHi": "परिमाप और क्षेत्रफल की गणना।"
-      },
-      {
-        "id": 11,
-        "en": "Algebra",
-        "hi": "बीजगणित",
-        "descEn": "Introduction to variables and basic algebraic expressions.",
-        "descHi": "चर और बीजगणितीय व्यंजकों का परिचय।"
-      },
-      {
-        "id": 12,
-        "en": "Ratio and Proportion",
-        "hi": "अनुपात और समानुपात",
-        "descEn": "Understand ratios, equivalent ratios, and unitary method.",
-        "descHi": "अनुपात और एकात्मक विधि को समझें।"
-      }
+      {"id": 1, "en": "A Square and A Cube", "hi": "एक वर्ग और एक घन", "descEn": "Understanding squares, square roots, cubes, and cube roots.", "descHi": "वर्ग, वर्गमूल, घन और घनमूल को समझना।"},
+      {"id": 2, "en": "Power Play", "hi": "घातों का खेल", "descEn": "Working with exponents and powers.", "descHi": "घातांक और घात के साथ कार्य करना।"},
+      {"id": 3, "en": "A Story of Numbers", "hi": "संख्याओं की कहानी", "descEn": "Exploring properties and history of numbers.", "descHi": "संख्याओं के गुणों और इतिहास की खोज।"},
+      {"id": 4, "en": "Quadrilaterals", "hi": "चतुर्भुज", "descEn": "Properties of different types of quadrilaterals.", "descHi": "विभिन्न प्रकार के चतुर्भुजों के गुण।"},
+      {"id": 5, "en": "Number Play", "hi": "संख्याओं का खेल", "descEn": "Fun properties and patterns of numbers.", "descHi": "संख्याओं के मज़ेदार गुण और पैटर्न।"},
+      {"id": 6, "en": "We Distribute, Yet Things Multiply", "hi": "हम बाँटते हैं, फिर भी चीज़ें गुणा होती हैं", "descEn": "Understanding algebraic expressions and distribution.", "descHi": "बीजीय व्यंजकों और वितरण को समझना।"},
+      {"id": 7, "en": "Proportional Reasoning", "hi": "आनुपातिक तर्क", "descEn": "Direct and inverse proportions.", "descHi": "प्रत्यक्ष और व्युत्क्रमानुपाती।"},
+      {"id": 8, "en": "Fractions in Disguise", "hi": "भेष में भिन्न", "descEn": "Advanced concepts in fractions and decimals.", "descHi": "भिन्न और दशमलव में उन्नत अवधारणाएँ।"},
+      {"id": 9, "en": "The Baudhayana–Pythagoras Theorem", "hi": "बौधायन-पाइथागोरस प्रमेय", "descEn": "Understanding right-angled triangles and the theorem.", "descHi": "समकोण त्रिभुज और प्रमेय को समझना।"},
+      {"id": 10, "en": "Playing with Data", "hi": "आँकड़ों के साथ खेलना", "descEn": "Data representation and interpretation.", "descHi": "आँकड़ों का प्रतिनिधित्व और व्याख्या।"},
+      {"id": 11, "en": "Building with Bricks", "hi": "ईंटों से निर्माण", "descEn": "Visualising solid shapes and their properties.", "descHi": "ठोस आकृतियों और उनके गुणों की कल्पना करना।"},
+      {"id": 12, "en": "Exploring 3D Shapes", "hi": "3D आकारों की खोज", "descEn": "Understanding faces, edges, and vertices of 3D shapes.", "descHi": "3D आकारों के फलक, किनारे और शीर्ष को समझना।"},
+      {"id": 13, "en": "Visualising Solids", "hi": "ठोसों का दृश्य चित्रण", "descEn": "Representing 3D objects in 2D.", "descHi": "2D में 3D वस्तुओं का प्रतिनिधित्व करना।"},
+      {"id": 14, "en": "Introducing Algebraic Identities", "hi": "बीजीय सर्वसमिकाओं का परिचय", "descEn": "Standard algebraic identities and their applications.", "descHi": "मानक बीजीय सर्वसमिकाएँ और उनके अनुप्रयोग।"},
+      {"id": 15, "en": "Chances and Probability", "hi": "संभावना और प्रायिकता", "descEn": "Understanding probability and chance events.", "descHi": "प्रायिकता और संभावित घटनाओं को समझना।"}
     ],
-    "Social Science": [
-      {
-        "id": 1,
-        "en": "What, Where, How and When?",
-        "hi": "क्या, कब, कहाँ और कैसे?",
-        "descEn": "Introduction to history and historical sources.",
-        "descHi": "इतिहास और ऐतिहासिक स्रोतों का परिचय।"
-      },
-      {
-        "id": 2,
-        "en": "From Hunting-Gathering to Growing Food",
-        "hi": "आखेट-खाद्य संग्रह से भोजन उत्पादन तक",
-        "descEn": "Early human life and beginning of agriculture.",
-        "descHi": "प्रारंभिक मानव जीवन और कृषि की शुरुआत।"
-      },
-      {
-        "id": 3,
-        "en": "In the Earliest Cities",
-        "hi": "आरंभिक नगर",
-        "descEn": "The Harappan civilization and town planning.",
-        "descHi": "हड़प्पा सभ्यता और नगर नियोजन।"
-      },
-      {
-        "id": 4,
-        "en": "The Earth in the Solar System",
-        "hi": "सौरमंडल में पृथ्वी",
-        "descEn": "Study planets, stars, and the solar system.",
-        "descHi": "ग्रहों, तारों और सौरमंडल का अध्ययन।"
-      },
-      {
-        "id": 5,
-        "en": "Globe: Latitudes and Longitudes",
-        "hi": "ग्लोब: अक्षांश एवं देशांतर",
-        "descEn": "Understand coordinates, time zones, and Earth's grid.",
-        "descHi": "अक्षांश, देशांतर और समय क्षेत्रों को समझें।"
-      },
-      {
-        "id": 6,
-        "en": "Understanding Diversity",
-        "hi": "विविधता की समझ",
-        "descEn": "Explore cultural and geographic diversity in India.",
-        "descHi": "भारत में सांस्कृतिक विविधता का अन्वेषण।"
-      },
-      {
-        "id": 7,
-        "en": "Diversity and Discrimination",
-        "hi": "विविधता एवं भेदभाव",
-        "descEn": "Learn about prejudice, stereotypes, and inequality.",
-        "descHi": "पूर्वाग्रह, रूढ़िवादिता और असमानता के बारे में जानें।"
-      },
-      {
-        "id": 8,
-        "en": "What is Government?",
-        "hi": "सरकार क्या है?",
-        "descEn": "Levels of government and types of government.",
-        "descHi": "सरकार के स्तर और प्रकार।"
-      }
-    ],
-    "English": [
-      {
-        "id": 1,
-        "en": "Who Did Patrick's Homework?",
-        "hi": "पैट्रिक का होमवर्क किसने किया?",
-        "descEn": "A story about taking responsibility.",
-        "descHi": "जिम्मेदारी लेने के बारे में एक कहानी।"
-      },
-      {
-        "id": 2,
-        "en": "How the Dog Found Himself a New Master!",
-        "hi": "कुत्ते ने अपना नया मालिक कैसे पाया!",
-        "descEn": "A folktale about the domestication of dogs.",
-        "descHi": "कुत्तों के पालतू बनने की एक लोककथा।"
-      },
-      {
-        "id": 3,
-        "en": "Taro's Reward",
-        "hi": "टैरो का इनाम",
-        "descEn": "A Japanese tale about a devoted son.",
-        "descHi": "एक समर्पित बेटे की जापानी कहानी।"
-      },
-      {
-        "id": 4,
-        "en": "An Indian – American Woman in Space: Kalpana Chawla",
-        "hi": "अंतरिक्ष में एक भारतीय-अमेरिकी महिला: कल्पना चावला",
-        "descEn": "Biography of the famous astronaut.",
-        "descHi": "प्रसिद्ध अंतरिक्ष यात्री की जीवनी।"
-      },
-      {
-        "id": 5,
-        "en": "A Different Kind of School",
-        "hi": "एक अलग तरह का स्कूल",
-        "descEn": "A story promoting empathy and understanding.",
-        "descHi": "सहानुभूति को बढ़ावा देने वाली एक कहानी।"
-      }
+    "Science": [
+      {"id": 1, "en": "Exploring the Investigative World of Science", "hi": "विज्ञान की खोजी दुनिया की खोज", "descEn": "Introduction to scientific investigation and methodology.", "descHi": "वैज्ञानिक जाँच और कार्यप्रणाली का परिचय।"},
+      {"id": 2, "en": "The Invisible Living World: Beyond Our Naked Eye", "hi": "अदृश्य सजीव दुनिया: हमारी नंगी आँखों से परे", "descEn": "Microorganisms and their roles.", "descHi": "सूक्ष्मजीव और उनकी भूमिकाएँ।"},
+      {"id": 3, "en": "Health: The Ultimate Treasure", "hi": "स्वास्थ्य: अंतिम खजाना", "descEn": "Understanding diseases and maintaining good health.", "descHi": "बीमारियों को समझना और अच्छे स्वास्थ्य को बनाए रखना।"},
+      {"id": 4, "en": "Electricity: Magnetic and Heating Effects", "hi": "विद्युत: चुंबकीय और उष्मीय प्रभाव", "descEn": "Effects of electric current.", "descHi": "विद्युत धारा के प्रभाव।"},
+      {"id": 5, "en": "Exploring Forces", "hi": "बलों की खोज", "descEn": "Understanding different types of forces.", "descHi": "विभिन्न प्रकार के बलों को समझना।"},
+      {"id": 6, "en": "Pressure, Winds, Storms, and Cyclones", "hi": "दबाव, हवाएँ, तूफान और चक्रवात", "descEn": "Atmospheric pressure and weather phenomena.", "descHi": "वायुमंडलीय दबाव और मौसम की घटनाएं।"},
+      {"id": 7, "en": "Particulate Nature of Matter", "hi": "पदार्थ की कणिका प्रकृति", "descEn": "Understanding atoms, molecules, and states of matter.", "descHi": "परमाणु, अणु और पदार्थ की अवस्थाओं को समझना।"},
+      {"id": 8, "en": "Carbon: The Building Block of Life", "hi": "कार्बन: जीवन का निर्माण खंड", "descEn": "Properties and importance of carbon compounds.", "descHi": "कार्बन यौगिकों के गुण और महत्व।"},
+      {"id": 9, "en": "Light: Exploring Common Phenomena", "hi": "प्रकाश: सामान्य घटनाओं की खोज", "descEn": "Reflection, refraction, and optical instruments.", "descHi": "परावर्तन, अपवर्तन और ऑप्टिकल उपकरण।"},
+      {"id": 10, "en": "Reaching the Age of Adolescence", "hi": "किशोरावस्था की ओर", "descEn": "Physical and emotional changes during puberty.", "descHi": "यौवन के दौरान शारीरिक और भावनात्मक परिवर्तन।"},
+      {"id": 11, "en": "Keeping Time with the Skies", "hi": "आसमान के साथ समय का तालमेल", "descEn": "Astronomy and celestial movements.", "descHi": "खगोल विज्ञान और खगोलीय हलचलें।"},
+      {"id": 12, "en": "How Nature Works in Harmony", "hi": "प्रकृति सद्भाव में कैसे काम करती है", "descEn": "Ecosystems and environmental balance.", "descHi": "पारिस्थितिक तंत्र और पर्यावरण संतुलन।"},
+      {"id": 13, "en": "Our Home: Earth, a Unique Life-Sustaining Planet", "hi": "हमारा घर: पृथ्वी, एक अनूठा जीवन-निर्वाह करने वाला ग्रह", "descEn": "Earth's unique features supporting life.", "descHi": "जीवन का समर्थन करने वाली पृथ्वी की अनूठी विशेषताएं।"}
     ],
     "Hindi": [
-      {
-        "id": 1,
-        "en": "Wah Chidiya Jo",
-        "hi": "वह चिड़िया जो",
-        "descEn": "A poem about a small, contented bird.",
-        "descHi": "एक छोटी, संतोषी चिड़िया के बारे में कविता।"
-      },
-      {
-        "id": 2,
-        "en": "Bachpan",
-        "hi": "बचपन",
-        "descEn": "Memories of childhood by Krishna Sobti.",
-        "descHi": "कृष्णा सोबती की बचपन की यादें।"
-      },
-      {
-        "id": 3,
-        "en": "Nadaan Dost",
-        "hi": "नादान दोस्त",
-        "descEn": "A story by Premchand about innocent mistakes.",
-        "descHi": "प्रेमचंद की मासूम गलतियों के बारे में एक कहानी।"
-      },
-      {
-        "id": 4,
-        "en": "Chand Se Thodi Si Gappe",
-        "hi": "चाँद से थोड़ी सी गप्पें",
-        "descEn": "A child's conversation with the moon.",
-        "descHi": "चाँद के साथ एक बच्चे की बातचीत।"
-      },
-      {
-        "id": 5,
-        "en": "Aksharon Ka Mahatva",
-        "hi": "अक्षरों का महत्व",
-        "descEn": "The importance and history of alphabets.",
-        "descHi": "अक्षरों का महत्व और इतिहास।"
-      }
+      {"id": 1, "en": "Lakh Ki Choodiyan", "hi": "लाख की चूड़ियाँ", "descEn": "A poignant story by Kamtanath.", "descHi": "कामतानाथ की एक मार्मिक कहानी।"},
+      {"id": 2, "en": "Resham Ki Dori", "hi": "रेशम की डोरी", "descEn": "A tale highlighting relationships and emotions.", "descHi": "रिश्तों और भावनाओं को उजागर करने वाली कहानी।"},
+      {"id": 3, "en": "Saccha Mitra", "hi": "सच्चा मित्र", "descEn": "A story about true friendship.", "descHi": "सच्ची दोस्ती के बारे में एक कहानी।"},
+      {"id": 4, "en": "Vigyan Ki Duniya", "hi": "विज्ञान की दुनिया", "descEn": "An essay on the wonders of science.", "descHi": "विज्ञान के चमत्कारों पर एक निबंध।"},
+      {"id": 5, "en": "Bharat Ki Khoj", "hi": "भारत की खोज", "descEn": "Excerpts from Discovery of India.", "descHi": "डिस्कवरी ऑफ इंडिया के अंश।"},
+      {"id": 6, "en": "Karmveer", "hi": "कर्मवीर", "descEn": "A poem celebrating hard work and dedication.", "descHi": "कड़ी मेहनत और समर्पण का जश्न मनाने वाली कविता।"},
+      {"id": 7, "en": "Prakriti Ka Sandesh", "hi": "प्रकृति का संदेश", "descEn": "A poem about the message of nature.", "descHi": "प्रकृति के संदेश के बारे में एक कविता।"},
+      {"id": 8, "en": "Samay Ka Mahatva", "hi": "समय का महत्व", "descEn": "An essay on the importance of time.", "descHi": "समय के महत्व पर एक निबंध।"},
+      {"id": 9, "en": "Prerna", "hi": "प्रेरणा", "descEn": "A lesson providing inspiration.", "descHi": "प्रेरणा देने वाला एक पाठ।"},
+      {"id": 10, "en": "Nayi Raahein", "hi": "नई राहें", "descEn": "A story about forging new paths.", "descHi": "नए रास्ते बनाने के बारे में एक कहानी।"}
+    ],
+    "English": [
+      {"id": 1, "en": "The Wit That Won Hearts", "hi": "वह बुद्धि जिसने दिल जीत लिया", "descEn": "Unit 1: Wit and Wisdom - A tale of cleverness.", "descHi": "इकाई 1: चतुराई की एक कहानी।"},
+      {"id": 2, "en": "A Concrete Example", "hi": "एक ठोस उदाहरण", "descEn": "Unit 1: Wit and Wisdom - A story demonstrating practical intelligence.", "descHi": "इकाई 1: व्यावहारिक बुद्धिमत्ता प्रदर्शित करने वाली कहानी।"},
+      {"id": 3, "en": "Wisdom Paves the Way", "hi": "बुद्धिमत्ता मार्ग प्रशस्त करती है", "descEn": "Unit 1: Wit and Wisdom - How wisdom helps overcome challenges.", "descHi": "इकाई 1: बुद्धिमत्ता चुनौतियों को दूर करने में कैसे मदद करती है।"},
+      {"id": 4, "en": "A Tale of Valour: Major Somnath Sharma", "hi": "वीरता की एक कहानी: मेजर सोमनाथ शर्मा", "descEn": "Unit 2: Values and Dispositions - A story of a braveheart.", "descHi": "इकाई 2: एक वीर की कहानी।"},
+      {"id": 5, "en": "Somebody's Mother", "hi": "किसी की माँ", "descEn": "Unit 2: Values and Dispositions - A poem about empathy.", "descHi": "इकाई 2: सहानुभूति के बारे में एक कविता।"},
+      {"id": 6, "en": "Verghese Kurien – I Too Had a Dream", "hi": "वर्गीज कुरियन - मेरा भी एक सपना था", "descEn": "Unit 2: Values and Dispositions - Biography of the Milkman of India.", "descHi": "इकाई 2: भारत के मिल्कमैन की जीवनी।"},
+      {"id": 7, "en": "The Case of the Fifth Word", "hi": "पांचवें शब्द का मामला", "descEn": "Unit 3: Mystery and Magic - A mysterious detective story.", "descHi": "इकाई 3: एक रहस्यमय जासूसी कहानी।"},
+      {"id": 8, "en": "The Last Bargain", "hi": "अंतिम सौदा", "descEn": "Unit 3: Mystery and Magic - A poem by Rabindranath Tagore.", "descHi": "इकाई 3: रवींद्रनाथ टैगोर की एक कविता।"},
+      {"id": 9, "en": "The Magic Paintbrush", "hi": "जादुई पेंटब्रश", "descEn": "Unit 3: Mystery and Magic - A magical folktale.", "descHi": "इकाई 3: एक जादुई लोककथा।"},
+      {"id": 10, "en": "The Cherry Tree", "hi": "चेरी का पेड़", "descEn": "Unit 4: Environment - A story by Ruskin Bond.", "descHi": "इकाई 4: रस्किन बॉन्ड की एक कहानी।"},
+      {"id": 11, "en": "Nature's Gift", "hi": "प्रकृति का उपहार", "descEn": "Unit 4: Environment - Appreciating the environment.", "descHi": "इकाई 4: पर्यावरण की सराहना।"},
+      {"id": 12, "en": "The Blue Umbrella", "hi": "नीली छतरी", "descEn": "Unit 4: Environment - A heartwarming story about a little girl.", "descHi": "इकाई 4: एक छोटी लड़की के बारे में एक दिल छू लेने वाली कहानी।"},
+      {"id": 13, "en": "Feathered Friend", "hi": "पंखों वाला दोस्त", "descEn": "Unit 5: Science and Curiosity - A science fiction story.", "descHi": "इकाई 5: एक विज्ञान कथा।"},
+      {"id": 14, "en": "A Journey into Space", "hi": "अंतरिक्ष की यात्रा", "descEn": "Unit 5: Science and Curiosity - Exploring space.", "descHi": "इकाई 5: अंतरिक्ष की खोज।"},
+      {"id": 15, "en": "Innovation for Tomorrow", "hi": "कल के लिए नवाचार", "descEn": "Unit 5: Science and Curiosity - The power of invention.", "descHi": "इकाई 5: आविष्कार की शक्ति।"},
+      {"id": 16, "en": "The Wonder of Discovery", "hi": "खोज का आश्चर्य", "descEn": "Unit 5: Science and Curiosity - Excitement of scientific discovery.", "descHi": "इकाई 5: वैज्ञानिक खोज का उत्साह।"}
+    ],
+    "Social Science": [
+      {"id": 1, "en": "Natural Resources and Their Use", "hi": "प्राकृतिक संसाधन और उनका उपयोग", "descEn": "Understanding types and conservation of natural resources.", "descHi": "प्राकृतिक संसाधनों के प्रकार और संरक्षण को समझना।"},
+      {"id": 2, "en": "Reshaping India's Political Map", "hi": "भारत के राजनीतिक मानचित्र को नया आकार देना", "descEn": "Historical geography and political changes.", "descHi": "ऐतिहासिक भूगोल और राजनीतिक परिवर्तन।"},
+      {"id": 3, "en": "The Rise of the Marathas", "hi": "मराठों का उदय", "descEn": "History of the Maratha empire.", "descHi": "मराठा साम्राज्य का इतिहास।"},
+      {"id": 4, "en": "The Colonial Era in India", "hi": "भारत में औपनिवेशिक युग", "descEn": "Impact and history of British rule in India.", "descHi": "भारत में ब्रिटिश शासन का प्रभाव और इतिहास।"},
+      {"id": 5, "en": "Universal Franchise and India's Electoral System", "hi": "सार्वभौमिक मताधिकार और भारत की चुनाव प्रणाली", "descEn": "Understanding elections and voting rights.", "descHi": "चुनाव और मतदान के अधिकार को समझना।"},
+      {"id": 6, "en": "The Parliamentary System: Legislature and Executive", "hi": "संसदीय प्रणाली: विधायिका और कार्यपालिका", "descEn": "Functions of the Parliament and the Executive.", "descHi": "संसद और कार्यपालिका के कार्य।"},
+      {"id": 7, "en": "Factors of Production", "hi": "उत्पादन के कारक", "descEn": "Understanding land, labor, capital, and enterprise.", "descHi": "भूमि, श्रम, पूंजी और उद्यम को समझना।"}
     ]
   },
   "Class 9": {
