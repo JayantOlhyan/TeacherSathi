@@ -45,7 +45,7 @@ export default function ChapterHubPage() {
   // Load completed resources from localstorage
   useEffect(() => {
     if (typeof window !== "undefined") {
-      const cleanSubject = subject.charAt(0).toUpperCase() + subject.slice(1);
+      const cleanSubject = subject.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
       const cleanChapter = chapter.replace("chapter-", "");
       localStorage.setItem("last_sathi_view", window.location.pathname);
       localStorage.setItem("last_sathi_view_title", `${cleanSubject} (Ch. ${cleanChapter})`);
@@ -87,7 +87,7 @@ export default function ChapterHubPage() {
     return `${mins.toString().padStart(2, "0")}:${secs.toString().padStart(2, "0")}`;
   };
 
-  const cleanSubjectName = subject.charAt(0).toUpperCase() + subject.slice(1);
+  const cleanSubjectName = subject.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
   const cleanChapterNum = chapter.replace("chapter-", "");
 
   const resources: Resource[] = [
@@ -250,13 +250,25 @@ export default function ChapterHubPage() {
           <div className="absolute top-0 right-0 w-32 h-32 bg-emerald-800/5 rounded-bl-full pointer-events-none" />
           
           <div className="space-y-4">
-            <h1 className="text-3xl sm:text-5xl font-black text-slate-900 tracking-tight leading-tight font-serif">
-              {chapterDetails.title}
-            </h1>
+            <div>
+              <h1 className="text-3xl sm:text-5xl font-black text-slate-900 tracking-tight leading-tight font-serif">
+                {chapterDetails.title}
+              </h1>
+              {chapterDetails.titleHi && (
+                <h2 className="text-2xl sm:text-3xl font-bold text-amber-800 mt-1.5 font-serif">
+                  {chapterDetails.titleHi}
+                </h2>
+              )}
+            </div>
             
             <p className="text-sm sm:text-base text-slate-600/95 max-w-3xl leading-relaxed font-medium">
               {chapterDetails.description}
             </p>
+            {chapterDetails.descriptionHi && (
+              <p className="text-sm sm:text-base text-slate-700 max-w-3xl leading-relaxed font-normal bg-amber-50/70 p-3 rounded-xl border border-amber-200/50">
+                {chapterDetails.descriptionHi}
+              </p>
+            )}
             
             <div className="flex flex-wrap items-center gap-3 pt-3">
               <div className="flex items-center gap-2 bg-white/90 border border-slate-200 px-4 py-2.5 rounded-xl shadow-sm text-xs font-black text-slate-600 uppercase tracking-wider">
