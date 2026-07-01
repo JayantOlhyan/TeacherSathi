@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "Why did people travel in ancient times?",
+      "options": [
+        {
+          "id": "A",
+          "text": "For pilgrimage, trade and learning"
+        },
+        {
+          "id": "B",
+          "text": "Only for sports"
+        },
+        {
+          "id": "C",
+          "text": "Only for entertainment"
+        },
+        {
+          "id": "D",
+          "text": "Only for wars"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "2",
+      "question": "Which route connected India with many other countries?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Land and sea trade routes"
+        },
+        {
+          "id": "B",
+          "text": "Metro routes"
+        },
+        {
+          "id": "C",
+          "text": "Railway routes"
+        },
+        {
+          "id": "D",
+          "text": "Airways"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "3",
+      "question": "Ancient Indian merchants traded _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Spices, textiles and precious stones"
+        },
+        {
+          "id": "B",
+          "text": "Cars"
+        },
+        {
+          "id": "C",
+          "text": "Computers"
+        },
+        {
+          "id": "D",
+          "text": "Aircraft"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "4",
+      "question": "Which ocean helped India's maritime trade?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Indian Ocean"
+        },
+        {
+          "id": "B",
+          "text": "Arctic Ocean"
+        },
+        {
+          "id": "C",
+          "text": "Atlantic Ocean"
+        },
+        {
+          "id": "D",
+          "text": "Southern Ocean"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "5",
+      "question": "What did travellers carry besides goods?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ideas, culture and knowledge"
+        },
+        {
+          "id": "B",
+          "text": "Only money"
+        },
+        {
+          "id": "C",
+          "text": "Only weapons"
+        },
+        {
+          "id": "D",
+          "text": "Only food"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "6",
+      "question": "Which activity helped spread religions such as Buddhism?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pilgrimage and travel"
+        },
+        {
+          "id": "B",
+          "text": "Air transport"
+        },
+        {
+          "id": "C",
+          "text": "Television"
+        },
+        {
+          "id": "D",
+          "text": "Internet"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "7",
+      "question": "Ancient Indian ports were important because they _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Connected India with foreign countries"
+        },
+        {
+          "id": "B",
+          "text": "Produced minerals"
+        },
+        {
+          "id": "C",
+          "text": "Built mountains"
+        },
+        {
+          "id": "D",
+          "text": "Controlled the weather"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "8",
+      "question": "Which occupation benefited greatly from trade?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Merchants"
+        },
+        {
+          "id": "B",
+          "text": "Astronauts"
+        },
+        {
+          "id": "C",
+          "text": "Pilots"
+        },
+        {
+          "id": "D",
+          "text": "Programmers"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "9",
+      "question": "Trade between countries promotes _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Exchange of goods and ideas"
+        },
+        {
+          "id": "B",
+          "text": "Isolation"
+        },
+        {
+          "id": "C",
+          "text": "Reduction of communication"
+        },
+        {
+          "id": "D",
+          "text": "Elimination of culture"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "10",
+      "question": "The chapter mainly explains India's connections with _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Other regions of the world"
+        },
+        {
+          "id": "B",
+          "text": "Antarctica only"
+        },
+        {
+          "id": "C",
+          "text": "The Moon"
+        },
+        {
+          "id": "D",
+          "text": "The Arctic region only"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "11",
+      "question": "Why were sea routes important for ancient India?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They made overseas trade faster and easier."
+        },
+        {
+          "id": "B",
+          "text": "They reduced communication."
+        },
+        {
+          "id": "C",
+          "text": "They prevented trade."
+        },
+        {
+          "id": "D",
+          "text": "They stopped cultural exchanges."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "12",
+      "question": "How did trade influence Indian culture?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It encouraged the exchange of ideas, customs and technologies."
+        },
+        {
+          "id": "B",
+          "text": "It reduced cultural diversity."
+        },
+        {
+          "id": "C",
+          "text": "It isolated India from the world."
+        },
+        {
+          "id": "D",
+          "text": "It stopped religious interactions."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "13",
+      "question": "Why were ports important in ancient India?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They became centres of commerce and cultural interaction."
+        },
+        {
+          "id": "B",
+          "text": "They were used only for defence."
+        },
+        {
+          "id": "C",
+          "text": "They had no economic role."
+        },
+        {
+          "id": "D",
+          "text": "They existed only for fishing."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "14",
+      "question": "Which factor helped Indian traders establish international trade?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Strategic location and maritime routes"
+        },
+        {
+          "id": "B",
+          "text": "Isolation from neighbouring countries"
+        },
+        {
+          "id": "C",
+          "text": "Lack of transport"
+        },
+        {
+          "id": "D",
+          "text": "Absence of ports"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "15",
+      "question": "Why did pilgrims and traders often use the same routes?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The routes connected important religious and commercial centres."
+        },
+        {
+          "id": "B",
+          "text": "They travelled for the same purpose only."
+        },
+        {
+          "id": "C",
+          "text": "There were no roads elsewhere."
+        },
+        {
+          "id": "D",
+          "text": "They avoided towns and cities."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "16",
+      "question": "Which of the following was a major export from ancient India?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Spices and cotton textiles"
+        },
+        {
+          "id": "B",
+          "text": "Petroleum"
+        },
+        {
+          "id": "C",
+          "text": "Automobiles"
+        },
+        {
+          "id": "D",
+          "text": "Computers"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "17",
+      "question": "Why are travel accounts important historical sources?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They describe the society, economy and culture of the time."
+        },
+        {
+          "id": "B",
+          "text": "They predict future events."
+        },
+        {
+          "id": "C",
+          "text": "They explain weather forecasts."
+        },
+        {
+          "id": "D",
+          "text": "They replace archaeological evidence."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "18",
+      "question": "Which statement best explains cultural exchange?",
+      "options": [
+        {
+          "id": "A",
+          "text": "People shared ideas, beliefs and customs through travel and trade."
+        },
+        {
+          "id": "B",
+          "text": "Cultures remained completely isolated."
+        },
+        {
+          "id": "C",
+          "text": "Trade reduced communication."
+        },
+        {
+          "id": "D",
+          "text": "Ideas never travelled across regions."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "19",
+      "question": "Which value is promoted through international interactions?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mutual understanding and cooperation"
+        },
+        {
+          "id": "B",
+          "text": "Isolation"
+        },
+        {
+          "id": "C",
+          "text": "Intolerance"
+        },
+        {
+          "id": "D",
+          "text": "Conflict"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "20",
+      "question": "What is the central idea of this chapter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pilgrimage and trade connected India with other parts of the world through cultural and economic exchanges."
+        },
+        {
+          "id": "B",
+          "text": "Ancient India remained isolated from other countries."
+        },
+        {
+          "id": "C",
+          "text": "Trade had no influence on culture."
+        },
+        {
+          "id": "D",
+          "text": "Pilgrimage affected only religion."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "21",
+      "question": "Why did trade contribute to the spread of ideas and religions?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Traders and travellers carried beliefs, customs and knowledge along with goods."
+        },
+        {
+          "id": "B",
+          "text": "Trade discouraged communication."
+        },
+        {
+          "id": "C",
+          "text": "Religions spread only through wars."
+        },
+        {
+          "id": "D",
+          "text": "Goods alone travelled between countries."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "22",
+      "question": "If ancient maritime trade had declined, which would most likely have been affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Economic growth and cultural exchange between India and other regions."
+        },
+        {
+          "id": "B",
+          "text": "Formation of rivers."
+        },
+        {
+          "id": "C",
+          "text": "Mountain building."
+        },
+        {
+          "id": "D",
+          "text": "Earth's climate."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "23",
+      "question": "Which example best illustrates the relationship between pilgrimage and trade?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pilgrimage centres attracted merchants who sold goods to travellers."
+        },
+        {
+          "id": "B",
+          "text": "Pilgrimage reduced trade completely."
+        },
+        {
+          "id": "C",
+          "text": "Trade routes avoided religious centres."
+        },
+        {
+          "id": "D",
+          "text": "Pilgrims never interacted with traders."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "24",
+      "question": "Why were Indian ports considered gateways to the world?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They connected India with distant countries through sea trade."
+        },
+        {
+          "id": "B",
+          "text": "They prevented international contact."
+        },
+        {
+          "id": "C",
+          "text": "They were used only for military purposes."
+        },
+        {
+          "id": "D",
+          "text": "They had no economic importance."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "25",
+      "question": "Which statement best explains the importance of travel accounts?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They provide valuable information about ancient societies and international contacts."
+        },
+        {
+          "id": "B",
+          "text": "They are fictional stories only."
+        },
+        {
+          "id": "C",
+          "text": "They have no historical value."
+        },
+        {
+          "id": "D",
+          "text": "They describe only battles."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "26",
+      "question": "A merchant from India exchanges spices for silk in another country and learns new ideas during the journey. Which concept does this represent?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Economic and cultural exchange"
+        },
+        {
+          "id": "B",
+          "text": "Political conflict"
+        },
+        {
+          "id": "C",
+          "text": "Climate change"
+        },
+        {
+          "id": "D",
+          "text": "Agricultural decline"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "27",
+      "question": "Which lesson from this chapter is most relevant today?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Trade and cultural exchange strengthen understanding between different societies."
+        },
+        {
+          "id": "B",
+          "text": "Countries should avoid international cooperation."
+        },
+        {
+          "id": "C",
+          "text": "Trade has no role in development."
+        },
+        {
+          "id": "D",
+          "text": "Cultural exchanges weaken societies."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "28",
+      "question": "Why was India's geographical location advantageous for trade?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It connected important land and sea routes linking Asia with other regions."
+        },
+        {
+          "id": "B",
+          "text": "It was completely isolated from the oceans."
+        },
+        {
+          "id": "C",
+          "text": "It had no coastline."
+        },
+        {
+          "id": "D",
+          "text": "It prevented international trade."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "29",
+      "question": "Which action would have encouraged international trade in ancient India?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Developing ports, protecting trade routes and supporting merchants."
+        },
+        {
+          "id": "B",
+          "text": "Closing ports permanently."
+        },
+        {
+          "id": "C",
+          "text": "Discouraging overseas travel."
+        },
+        {
+          "id": "D",
+          "text": "Banning markets."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "30",
+      "question": "Which statement best summarizes the main idea of this chapter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pilgrimage, trade and travel connected India with the wider world, promoting economic prosperity, cultural exchange and the spread of knowledge."
+        },
+        {
+          "id": "B",
+          "text": "Ancient India remained isolated from other civilizations."
+        },
+        {
+          "id": "C",
+          "text": "Trade affected only the economy, not culture."
+        },
+        {
+          "id": "D",
+          "text": "Pilgrimage had no influence beyond religion."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    }
+  ]
+}

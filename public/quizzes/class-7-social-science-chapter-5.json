@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "What is an empire?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A large kingdom ruled by one ruler"
+        },
+        {
+          "id": "B",
+          "text": "A small village"
+        },
+        {
+          "id": "C",
+          "text": "A group of families"
+        },
+        {
+          "id": "D",
+          "text": "A marketplace"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "2",
+      "question": "Which empire became one of the largest in ancient India?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mauryan Empire"
+        },
+        {
+          "id": "B",
+          "text": "Mughal Empire"
+        },
+        {
+          "id": "C",
+          "text": "Delhi Sultanate"
+        },
+        {
+          "id": "D",
+          "text": "Gupta Empire"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "3",
+      "question": "Who founded the Mauryan Empire?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Chandragupta Maurya"
+        },
+        {
+          "id": "B",
+          "text": "Ashoka"
+        },
+        {
+          "id": "C",
+          "text": "Harshavardhana"
+        },
+        {
+          "id": "D",
+          "text": "Samudragupta"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "4",
+      "question": "Who was the famous Mauryan ruler known for spreading the message of peace?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ashoka"
+        },
+        {
+          "id": "B",
+          "text": "Bindusara"
+        },
+        {
+          "id": "C",
+          "text": "Bimbisara"
+        },
+        {
+          "id": "D",
+          "text": "Ajatashatru"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "5",
+      "question": "Which battle changed Ashoka's life?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kalinga War"
+        },
+        {
+          "id": "B",
+          "text": "Battle of Plassey"
+        },
+        {
+          "id": "C",
+          "text": "First Battle of Panipat"
+        },
+        {
+          "id": "D",
+          "text": "Battle of Haldighati"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "6",
+      "question": "After the Kalinga War, Ashoka followed the path of _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Peace and Dhamma"
+        },
+        {
+          "id": "B",
+          "text": "Expansion through wars"
+        },
+        {
+          "id": "C",
+          "text": "Trade only"
+        },
+        {
+          "id": "D",
+          "text": "Hunting"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "7",
+      "question": "What were Ashoka's messages mainly written on?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rocks and pillars"
+        },
+        {
+          "id": "B",
+          "text": "Paper only"
+        },
+        {
+          "id": "C",
+          "text": "Cloth only"
+        },
+        {
+          "id": "D",
+          "text": "Wooden boards only"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "8",
+      "question": "The capital of the Mauryan Empire was _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pataliputra"
+        },
+        {
+          "id": "B",
+          "text": "Delhi"
+        },
+        {
+          "id": "C",
+          "text": "Ujjain"
+        },
+        {
+          "id": "D",
+          "text": "Taxila"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "9",
+      "question": "Ashoka encouraged the spread of _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dhamma (moral values)"
+        },
+        {
+          "id": "B",
+          "text": "Warfare"
+        },
+        {
+          "id": "C",
+          "text": "Slavery"
+        },
+        {
+          "id": "D",
+          "text": "Heavy taxation"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "10",
+      "question": "The Mauryan Empire is important because it _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Unified a large part of India under one administration"
+        },
+        {
+          "id": "B",
+          "text": "Built the Taj Mahal"
+        },
+        {
+          "id": "C",
+          "text": "Introduced railways"
+        },
+        {
+          "id": "D",
+          "text": "Started modern industries"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "11",
+      "question": "Why was the Mauryan Empire considered powerful?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It had a strong administration, army and extensive territory."
+        },
+        {
+          "id": "B",
+          "text": "It consisted only of villages."
+        },
+        {
+          "id": "C",
+          "text": "It had no organised government."
+        },
+        {
+          "id": "D",
+          "text": "It depended only on trade."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "12",
+      "question": "Why is Ashoka remembered as a great ruler?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He promoted peace, justice and welfare after the Kalinga War."
+        },
+        {
+          "id": "B",
+          "text": "He fought wars throughout his life."
+        },
+        {
+          "id": "C",
+          "text": "He ruled only one village."
+        },
+        {
+          "id": "D",
+          "text": "He discouraged public welfare."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "13",
+      "question": "What do Ashoka's inscriptions tell us?",
+      "options": [
+        {
+          "id": "A",
+          "text": "His policies, moral values and concern for his people"
+        },
+        {
+          "id": "B",
+          "text": "Details of modern technology"
+        },
+        {
+          "id": "C",
+          "text": "Information about railways"
+        },
+        {
+          "id": "D",
+          "text": "Weather reports"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "14",
+      "question": "Why was Pataliputra an important city?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It was the capital and administrative centre of the Mauryan Empire."
+        },
+        {
+          "id": "B",
+          "text": "It was a desert town."
+        },
+        {
+          "id": "C",
+          "text": "It had no trade routes."
+        },
+        {
+          "id": "D",
+          "text": "It was a small village."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "15",
+      "question": "Which value did Ashoka promote through Dhamma?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kindness, tolerance and non-violence"
+        },
+        {
+          "id": "B",
+          "text": "Continuous warfare"
+        },
+        {
+          "id": "C",
+          "text": "Religious conflict"
+        },
+        {
+          "id": "D",
+          "text": "Discrimination"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "16",
+      "question": "Why are inscriptions valuable historical sources?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They provide direct evidence about rulers and their policies."
+        },
+        {
+          "id": "B",
+          "text": "They predict future events."
+        },
+        {
+          "id": "C",
+          "text": "They describe modern governments."
+        },
+        {
+          "id": "D",
+          "text": "They explain weather conditions."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "17",
+      "question": "How did the Mauryan rulers manage such a large empire?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Through an organised system of administration and officials"
+        },
+        {
+          "id": "B",
+          "text": "Without any government"
+        },
+        {
+          "id": "C",
+          "text": "By allowing every region to function independently"
+        },
+        {
+          "id": "D",
+          "text": "By eliminating trade"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "18",
+      "question": "Which statement about the Kalinga War is correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It led Ashoka to adopt a policy of peace and welfare."
+        },
+        {
+          "id": "B",
+          "text": "It marked the end of the Mauryan Empire immediately."
+        },
+        {
+          "id": "C",
+          "text": "It was fought against the Gupta Empire."
+        },
+        {
+          "id": "D",
+          "text": "It had no effect on Ashoka."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "19",
+      "question": "Which factor helped the Mauryan Empire remain united?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Efficient administration and communication"
+        },
+        {
+          "id": "B",
+          "text": "Lack of roads"
+        },
+        {
+          "id": "C",
+          "text": "No officials"
+        },
+        {
+          "id": "D",
+          "text": "Isolation between regions"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "20",
+      "question": "What is the central idea of this chapter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Strong leadership, administration and moral governance helped build and strengthen the Mauryan Empire."
+        },
+        {
+          "id": "B",
+          "text": "Empires grew only because of wars."
+        },
+        {
+          "id": "C",
+          "text": "Administration had no role in governance."
+        },
+        {
+          "id": "D",
+          "text": "Ancient rulers ignored public welfare."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "21",
+      "question": "Why is Ashoka's transformation after the Kalinga War considered historically significant?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He replaced military conquest with moral governance and public welfare."
+        },
+        {
+          "id": "B",
+          "text": "He expanded his empire through more wars."
+        },
+        {
+          "id": "C",
+          "text": "He abandoned administration completely."
+        },
+        {
+          "id": "D",
+          "text": "He ruled only Kalinga thereafter."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "22",
+      "question": "If Ashoka had continued fighting wars after Kalinga, which outcome would have been least likely?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The spread of Dhamma and policies promoting peace."
+        },
+        {
+          "id": "B",
+          "text": "More military campaigns."
+        },
+        {
+          "id": "C",
+          "text": "Greater use of the army."
+        },
+        {
+          "id": "D",
+          "text": "Expansion through conquest."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "23",
+      "question": "Which example best demonstrates Ashoka's concern for his subjects?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Building roads, planting trees and promoting welfare measures."
+        },
+        {
+          "id": "B",
+          "text": "Increasing taxes without public benefit."
+        },
+        {
+          "id": "C",
+          "text": "Closing trade routes."
+        },
+        {
+          "id": "D",
+          "text": "Ignoring public needs."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "24",
+      "question": "Why was a well-organised administration necessary for the Mauryan Empire?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To govern a vast territory effectively and maintain law and order."
+        },
+        {
+          "id": "B",
+          "text": "To stop agriculture."
+        },
+        {
+          "id": "C",
+          "text": "To reduce communication."
+        },
+        {
+          "id": "D",
+          "text": "To discourage trade."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "25",
+      "question": "Which statement best explains the importance of Ashoka's inscriptions?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They provide reliable evidence about his ideas, governance and policies."
+        },
+        {
+          "id": "B",
+          "text": "They describe only battles."
+        },
+        {
+          "id": "C",
+          "text": "They contain myths only."
+        },
+        {
+          "id": "D",
+          "text": "They have no historical value."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "26",
+      "question": "A ruler builds roads, appoints officials and ensures justice across the kingdom. Which quality of governance is being demonstrated?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Efficient administration"
+        },
+        {
+          "id": "B",
+          "text": "Religious reform only"
+        },
+        {
+          "id": "C",
+          "text": "Military expansion only"
+        },
+        {
+          "id": "D",
+          "text": "Cultural isolation"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "27",
+      "question": "Which lesson from Ashoka's life is most relevant today?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Peace, compassion and good governance are stronger than violence."
+        },
+        {
+          "id": "B",
+          "text": "Wars are the best way to solve every problem."
+        },
+        {
+          "id": "C",
+          "text": "Public welfare is unimportant."
+        },
+        {
+          "id": "D",
+          "text": "Leaders should ignore people's needs."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "28",
+      "question": "Why are empires like the Mauryan Empire important in Indian history?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They introduced organised administration, political unity and welfare measures."
+        },
+        {
+          "id": "B",
+          "text": "They existed only for trade."
+        },
+        {
+          "id": "C",
+          "text": "They had no influence on later governments."
+        },
+        {
+          "id": "D",
+          "text": "They discouraged communication."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "29",
+      "question": "Which action would best strengthen a large empire?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Developing roads, communication, justice and efficient administration."
+        },
+        {
+          "id": "B",
+          "text": "Closing all markets."
+        },
+        {
+          "id": "C",
+          "text": "Ignoring distant regions."
+        },
+        {
+          "id": "D",
+          "text": "Eliminating public services."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "30",
+      "question": "Which statement best summarizes the main idea of this chapter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The rise of the Mauryan Empire shows how strong leadership, efficient administration and ethical governance can build a powerful and enduring empire."
+        },
+        {
+          "id": "B",
+          "text": "Empires depended only on military strength."
+        },
+        {
+          "id": "C",
+          "text": "Administration was unimportant in ancient empires."
+        },
+        {
+          "id": "D",
+          "text": "Ashoka is remembered only for winning battles."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    }
+  ]
+}

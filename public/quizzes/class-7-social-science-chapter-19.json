@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "What is a market?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A place where goods and services are bought and sold"
+        },
+        {
+          "id": "B",
+          "text": "A place for studying"
+        },
+        {
+          "id": "C",
+          "text": "A place for farming only"
+        },
+        {
+          "id": "D",
+          "text": "A place for worship"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "2",
+      "question": "Who sells goods in a market?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Seller"
+        },
+        {
+          "id": "B",
+          "text": "Buyer"
+        },
+        {
+          "id": "C",
+          "text": "Teacher"
+        },
+        {
+          "id": "D",
+          "text": "Doctor"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "3",
+      "question": "Who purchases goods in a market?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Buyer (Consumer)"
+        },
+        {
+          "id": "B",
+          "text": "Seller"
+        },
+        {
+          "id": "C",
+          "text": "Farmer"
+        },
+        {
+          "id": "D",
+          "text": "Manufacturer"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "4",
+      "question": "Which of the following is an example of a local market?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Weekly market"
+        },
+        {
+          "id": "B",
+          "text": "Airport"
+        },
+        {
+          "id": "C",
+          "text": "Railway station"
+        },
+        {
+          "id": "D",
+          "text": "Hospital"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "5",
+      "question": "Which factor mainly affects the price of goods?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Demand and supply"
+        },
+        {
+          "id": "B",
+          "text": "Colour of the product"
+        },
+        {
+          "id": "C",
+          "text": "Population only"
+        },
+        {
+          "id": "D",
+          "text": "Weather only"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "6",
+      "question": "Which market allows people to buy goods using the internet?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Online market"
+        },
+        {
+          "id": "B",
+          "text": "Weekly market"
+        },
+        {
+          "id": "C",
+          "text": "Wholesale market"
+        },
+        {
+          "id": "D",
+          "text": "Village market"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "7",
+      "question": "What is the main purpose of a market?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Exchange of goods and services"
+        },
+        {
+          "id": "B",
+          "text": "Conducting elections"
+        },
+        {
+          "id": "C",
+          "text": "Teaching students"
+        },
+        {
+          "id": "D",
+          "text": "Building roads"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "8",
+      "question": "Which of the following is a consumer?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A person who buys and uses goods"
+        },
+        {
+          "id": "B",
+          "text": "A person who manufactures goods only"
+        },
+        {
+          "id": "C",
+          "text": "A wholesaler only"
+        },
+        {
+          "id": "D",
+          "text": "A shop owner only"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "9",
+      "question": "Which activity takes place in a wholesale market?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Goods are sold in large quantities."
+        },
+        {
+          "id": "B",
+          "text": "Goods are sold one by one to consumers only."
+        },
+        {
+          "id": "C",
+          "text": "Only vegetables are sold."
+        },
+        {
+          "id": "D",
+          "text": "No buying or selling takes place."
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "10",
+      "question": "Markets help people to _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Buy and sell goods conveniently"
+        },
+        {
+          "id": "B",
+          "text": "Reduce production"
+        },
+        {
+          "id": "C",
+          "text": "Stop trade"
+        },
+        {
+          "id": "D",
+          "text": "Increase pollution"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "11",
+      "question": "Why are markets important in an economy?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They connect producers and consumers."
+        },
+        {
+          "id": "B",
+          "text": "They reduce production."
+        },
+        {
+          "id": "C",
+          "text": "They stop trade."
+        },
+        {
+          "id": "D",
+          "text": "They discourage business."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "12",
+      "question": "What is the difference between a wholesale and a retail market?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wholesale sells in bulk; retail sells directly to consumers."
+        },
+        {
+          "id": "B",
+          "text": "Both sell in the same way."
+        },
+        {
+          "id": "C",
+          "text": "Retail sells only to shopkeepers."
+        },
+        {
+          "id": "D",
+          "text": "Wholesale sells only online."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "13",
+      "question": "Why do prices change in markets?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because of changes in demand and supply."
+        },
+        {
+          "id": "B",
+          "text": "Because of school holidays."
+        },
+        {
+          "id": "C",
+          "text": "Because of language differences."
+        },
+        {
+          "id": "D",
+          "text": "Because of population only."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "14",
+      "question": "Which advantage does an online market provide?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Shopping from home with a wider choice of products."
+        },
+        {
+          "id": "B",
+          "text": "It eliminates all physical shops."
+        },
+        {
+          "id": "C",
+          "text": "It has no payment options."
+        },
+        {
+          "id": "D",
+          "text": "It sells only food items."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "15",
+      "question": "Why is competition important in markets?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It encourages better quality and fair prices."
+        },
+        {
+          "id": "B",
+          "text": "It reduces product quality."
+        },
+        {
+          "id": "C",
+          "text": "It discourages innovation."
+        },
+        {
+          "id": "D",
+          "text": "It stops production."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "16",
+      "question": "Which statement about consumers is correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Consumers should make informed choices before buying."
+        },
+        {
+          "id": "B",
+          "text": "Consumers do not need information."
+        },
+        {
+          "id": "C",
+          "text": "Consumers cannot compare products."
+        },
+        {
+          "id": "D",
+          "text": "Consumers have no rights."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "17",
+      "question": "Why are markets connected with transportation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Goods must be moved from producers to consumers."
+        },
+        {
+          "id": "B",
+          "text": "Transport has no role in trade."
+        },
+        {
+          "id": "C",
+          "text": "Markets produce vehicles."
+        },
+        {
+          "id": "D",
+          "text": "Roads reduce trade."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "18",
+      "question": "Which factor helps businesses attract more customers?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Good quality products and fair prices"
+        },
+        {
+          "id": "B",
+          "text": "Poor service"
+        },
+        {
+          "id": "C",
+          "text": "High prices without quality"
+        },
+        {
+          "id": "D",
+          "text": "Misleading information"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "19",
+      "question": "Which statement best explains the role of markets?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Markets support economic activities by facilitating exchange."
+        },
+        {
+          "id": "B",
+          "text": "Markets reduce employment."
+        },
+        {
+          "id": "C",
+          "text": "Markets discourage production."
+        },
+        {
+          "id": "D",
+          "text": "Markets have no role in development."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "20",
+      "question": "What is the central idea of this chapter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Markets connect producers and consumers while supporting economic growth."
+        },
+        {
+          "id": "B",
+          "text": "Markets are useful only in cities."
+        },
+        {
+          "id": "C",
+          "text": "Online markets have replaced all other markets."
+        },
+        {
+          "id": "D",
+          "text": "Trade is unnecessary in modern society."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "21",
+      "question": "Why are efficient markets important for economic development?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They ensure smooth exchange of goods, services and income generation."
+        },
+        {
+          "id": "B",
+          "text": "They reduce production."
+        },
+        {
+          "id": "C",
+          "text": "They eliminate employment."
+        },
+        {
+          "id": "D",
+          "text": "They prevent trade."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "22",
+      "question": "If transport facilities between villages and cities become poor, what is the most likely consequence?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Markets will receive fewer goods and trade will decline."
+        },
+        {
+          "id": "B",
+          "text": "Prices will always decrease."
+        },
+        {
+          "id": "C",
+          "text": "Production will automatically increase."
+        },
+        {
+          "id": "D",
+          "text": "Consumers will have more choices."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "23",
+      "question": "A farmer sells vegetables to a wholesaler, who then supplies retailers before consumers buy them. Which concept does this illustrate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Supply chain in a market economy"
+        },
+        {
+          "id": "B",
+          "text": "Barter system"
+        },
+        {
+          "id": "C",
+          "text": "Political administration"
+        },
+        {
+          "id": "D",
+          "text": "Judicial process"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "24",
+      "question": "Why do governments regulate certain markets?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To protect consumers and ensure fair trade practices."
+        },
+        {
+          "id": "B",
+          "text": "To stop all business activities."
+        },
+        {
+          "id": "C",
+          "text": "To eliminate competition."
+        },
+        {
+          "id": "D",
+          "text": "To prevent production."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "25",
+      "question": "Which statement best explains the relationship between producers and consumers?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Producers supply goods that consumers demand."
+        },
+        {
+          "id": "B",
+          "text": "Consumers manufacture all goods."
+        },
+        {
+          "id": "C",
+          "text": "Producers do not depend on consumers."
+        },
+        {
+          "id": "D",
+          "text": "Markets function without buyers."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "26",
+      "question": "A customer compares product quality, price and reviews before buying online. Which skill is demonstrated?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Informed consumer decision-making"
+        },
+        {
+          "id": "B",
+          "text": "Barter trade"
+        },
+        {
+          "id": "C",
+          "text": "Political participation"
+        },
+        {
+          "id": "D",
+          "text": "Agricultural planning"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "27",
+      "question": "Which lesson from this chapter is most relevant today?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Responsible consumers and fair markets contribute to a healthy economy."
+        },
+        {
+          "id": "B",
+          "text": "Consumers should buy without comparing products."
+        },
+        {
+          "id": "C",
+          "text": "Competition should be avoided."
+        },
+        {
+          "id": "D",
+          "text": "Markets are unnecessary for development."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "28",
+      "question": "Why are online markets growing rapidly?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They provide convenience, wider choices and easy digital payments."
+        },
+        {
+          "id": "B",
+          "text": "They eliminate the need for producers."
+        },
+        {
+          "id": "C",
+          "text": "They work without the internet."
+        },
+        {
+          "id": "D",
+          "text": "They replace agriculture."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "29",
+      "question": "Which action best promotes a fair marketplace?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Selling quality products at transparent prices and following consumer protection rules."
+        },
+        {
+          "id": "B",
+          "text": "Misleading customers about products."
+        },
+        {
+          "id": "C",
+          "text": "Selling unsafe goods knowingly."
+        },
+        {
+          "id": "D",
+          "text": "Ignoring consumer complaints."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "30",
+      "question": "Which statement best summarizes the main idea of this chapter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Markets are essential institutions that connect producers and consumers, support trade, create employment and contribute to economic development through fair exchange."
+        },
+        {
+          "id": "B",
+          "text": "Markets are useful only for buying food."
+        },
+        {
+          "id": "C",
+          "text": "Online shopping has made physical markets unnecessary."
+        },
+        {
+          "id": "D",
+          "text": "Markets have little role in the economy."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    }
+  ]
+}

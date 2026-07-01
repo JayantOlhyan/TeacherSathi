@@ -175,6 +175,15 @@ export default function WhiteboardCanvas() {
   const containerRef = useRef<HTMLDivElement | null>(null);
   const animationFrameIdRef = useRef<number | null>(null);
   const imageCacheRef = useRef<Map<string, HTMLImageElement>>(new Map());
+  const bgCanvasRef = useRef<HTMLCanvasElement | null>(null);
+  const bgDirtyRef = useRef<boolean>(true);
+  const lastRenderStateRef = useRef<{
+    elements: WhiteboardElement[];
+    panX: number;
+    panY: number;
+    zoom: number;
+    isInfinityMode: boolean;
+  }>({ elements: [], panX: 0, panY: 0, zoom: 1, isInfinityMode: true });
 
   // Track drawing/dragging details in refs to prevent React state lag
   const isDrawingRef = useRef<boolean>(false);
@@ -376,34 +385,91 @@ export default function WhiteboardCanvas() {
     const ctx = canvas.getContext("2d");
     if (!ctx) return;
 
-    const width = canvas.width / (window.devicePixelRatio || 1);
-    const height = canvas.height / (window.devicePixelRatio || 1);
+    const dpr = window.devicePixelRatio || 1;
+    const width = canvas.width / dpr;
+    const height = canvas.height / dpr;
 
-    // Clear Canvas
+    let bgCanvas = bgCanvasRef.current;
+    if (!bgCanvas) {
+      bgCanvas = document.createElement("canvas");
+      bgCanvasRef.current = bgCanvas;
+    }
+
+    if (bgCanvas.width !== canvas.width || bgCanvas.height !== canvas.height) {
+      bgCanvas.width = canvas.width;
+      bgCanvas.height = canvas.height;
+      bgDirtyRef.current = true;
+    }
+
+    if (
+      bgDirtyRef.current ||
+      lastRenderStateRef.current.elements !== elements ||
+      lastRenderStateRef.current.panX !== panX ||
+      lastRenderStateRef.current.panY !== panY ||
+      lastRenderStateRef.current.zoom !== zoom ||
+      lastRenderStateRef.current.isInfinityMode !== isInfinityMode
+    ) {
+      bgDirtyRef.current = true;
+      lastRenderStateRef.current = { elements, panX, panY, zoom, isInfinityMode };
+    }
+
+    if (bgDirtyRef.current) {
+      const bgCtx = bgCanvas.getContext("2d");
+      if (bgCtx) {
+        bgCtx.save();
+        bgCtx.setTransform(1, 0, 0, 1, 0, 0);
+        bgCtx.clearRect(0, 0, bgCanvas.width, bgCanvas.height);
+        bgCtx.scale(dpr, dpr);
+        
+        drawGrid(bgCtx, width, height);
+        
+        bgCtx.save();
+        bgCtx.translate(panX, panY);
+        bgCtx.scale(zoom, zoom);
+        
+        for (const el of elements) {
+          const bounds = getElementBounds(el);
+          if (bounds) {
+            const viewX = -panX / zoom;
+            const viewY = -panY / zoom;
+            const viewW = width / zoom;
+            const viewH = height / zoom;
+            
+            // Viewport Culling
+            if (
+              bounds.x > viewX + viewW ||
+              bounds.x + bounds.width < viewX ||
+              bounds.y > viewY + viewH ||
+              bounds.y + bounds.height < viewY
+            ) {
+              continue; // Cull this element (not in viewport)
+            }
+          }
+          drawElement(bgCtx, el);
+        }
+        bgCtx.restore();
+        bgCtx.restore();
+      }
+      bgDirtyRef.current = false;
+    }
+
+    // Main Canvas Render
     ctx.save();
     ctx.setTransform(1, 0, 0, 1, 0, 0);
     ctx.clearRect(0, 0, canvas.width, canvas.height);
+    // Draw cached background layer
+    ctx.drawImage(bgCanvas, 0, 0);
     ctx.restore();
 
-    // Draw grid background
-    drawGrid(ctx, width, height);
-
-    // Apply viewport scale and translate
+    // Render active interactive elements on top
     ctx.save();
     ctx.translate(panX, panY);
     ctx.scale(zoom, zoom);
 
-    // Render elements
-    for (const el of elements) {
-      drawElement(ctx, el);
-    }
-
-    // Render current preview element
     if (activeElementRef.current) {
       drawElement(ctx, activeElementRef.current);
     }
 
-    // Render selection box
     if (selectedElementId && tool === "select") {
       const el = elements.find((e) => e.id === selectedElementId);
       if (el) {
@@ -452,8 +518,16 @@ export default function WhiteboardCanvas() {
         if (el.points.length < 2) return;
         ctx.beginPath();
         ctx.moveTo(el.points[0].x, el.points[0].y);
-        for (let i = 1; i < el.points.length; i++) {
-          ctx.lineTo(el.points[i].x, el.points[i].y);
+        if (el.points.length === 2) {
+          ctx.lineTo(el.points[1].x, el.points[1].y);
+        } else {
+          for (let i = 1; i < el.points.length - 1; i++) {
+            const xc = (el.points[i].x + el.points[i + 1].x) / 2;
+            const yc = (el.points[i].y + el.points[i + 1].y) / 2;
+            ctx.quadraticCurveTo(el.points[i].x, el.points[i].y, xc, yc);
+          }
+          // Connect to the final point
+          ctx.lineTo(el.points[el.points.length - 1].x, el.points[el.points.length - 1].y);
         }
         ctx.stroke();
         break;

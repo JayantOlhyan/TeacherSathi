@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "After the Vedic period, many new ____ emerged in India.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cities and States"
+        },
+        {
+          "id": "B",
+          "text": "Oceans"
+        },
+        {
+          "id": "C",
+          "text": "Mountains"
+        },
+        {
+          "id": "D",
+          "text": "Deserts"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "2",
+      "question": "What were the large kingdoms of ancient India called?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mahajanapadas"
+        },
+        {
+          "id": "B",
+          "text": "Sultanates"
+        },
+        {
+          "id": "C",
+          "text": "Presidencies"
+        },
+        {
+          "id": "D",
+          "text": "Provinces"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "3",
+      "question": "How many Mahajanapadas are generally mentioned in ancient Indian texts?",
+      "options": [
+        {
+          "id": "A",
+          "text": "16"
+        },
+        {
+          "id": "B",
+          "text": "10"
+        },
+        {
+          "id": "C",
+          "text": "20"
+        },
+        {
+          "id": "D",
+          "text": "8"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "4",
+      "question": "Which Mahajanapada later became a powerful empire?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Magadha"
+        },
+        {
+          "id": "B",
+          "text": "Kuru"
+        },
+        {
+          "id": "C",
+          "text": "Gandhara"
+        },
+        {
+          "id": "D",
+          "text": "Avanti"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "5",
+      "question": "Which river valley helped the growth of many early cities?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ganga River Valley"
+        },
+        {
+          "id": "B",
+          "text": "Nile River Valley"
+        },
+        {
+          "id": "C",
+          "text": "Thames River Valley"
+        },
+        {
+          "id": "D",
+          "text": "Amazon River Valley"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "6",
+      "question": "Why did cities develop in ancient India?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Due to trade, agriculture and administration"
+        },
+        {
+          "id": "B",
+          "text": "Because of heavy snowfall"
+        },
+        {
+          "id": "C",
+          "text": "Because of deserts"
+        },
+        {
+          "id": "D",
+          "text": "Because of earthquakes"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "7",
+      "question": "Which occupation became more important with the growth of cities?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Trade and crafts"
+        },
+        {
+          "id": "B",
+          "text": "Hunting only"
+        },
+        {
+          "id": "C",
+          "text": "Fishing only"
+        },
+        {
+          "id": "D",
+          "text": "Herding only"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "8",
+      "question": "Ancient cities became centres of _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Trade, education and administration"
+        },
+        {
+          "id": "B",
+          "text": "Space research"
+        },
+        {
+          "id": "C",
+          "text": "Aviation"
+        },
+        {
+          "id": "D",
+          "text": "Banking only"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "9",
+      "question": "Which metal became widely used during this period?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Iron"
+        },
+        {
+          "id": "B",
+          "text": "Aluminium"
+        },
+        {
+          "id": "C",
+          "text": "Platinum"
+        },
+        {
+          "id": "D",
+          "text": "Titanium"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "10",
+      "question": "The growth of cities led to _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Better trade and organised administration"
+        },
+        {
+          "id": "B",
+          "text": "Less economic activity"
+        },
+        {
+          "id": "C",
+          "text": "No social changes"
+        },
+        {
+          "id": "D",
+          "text": "End of agriculture"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "11",
+      "question": "Why did Magadha become the most powerful Mahajanapada?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It had fertile land, iron resources and efficient rulers."
+        },
+        {
+          "id": "B",
+          "text": "It had no rivers."
+        },
+        {
+          "id": "C",
+          "text": "It was surrounded by deserts."
+        },
+        {
+          "id": "D",
+          "text": "It had no trade routes."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "12",
+      "question": "Why did many early cities develop near rivers?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rivers provided water, fertile land and transport."
+        },
+        {
+          "id": "B",
+          "text": "Rivers reduced farming."
+        },
+        {
+          "id": "C",
+          "text": "Rivers prevented trade."
+        },
+        {
+          "id": "D",
+          "text": "Rivers caused permanent droughts."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "13",
+      "question": "Which factor encouraged the growth of trade in ancient cities?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Better roads and trade routes"
+        },
+        {
+          "id": "B",
+          "text": "Lack of agriculture"
+        },
+        {
+          "id": "C",
+          "text": "Isolation from neighbouring regions"
+        },
+        {
+          "id": "D",
+          "text": "Absence of markets"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "14",
+      "question": "How did the use of iron contribute to the growth of states?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It improved farming tools and weapons."
+        },
+        {
+          "id": "B",
+          "text": "It reduced agricultural production."
+        },
+        {
+          "id": "C",
+          "text": "It stopped trade."
+        },
+        {
+          "id": "D",
+          "text": "It decreased settlements."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "15",
+      "question": "Which of the following best explains the rise of cities?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Surplus agricultural production supported trade and urban growth."
+        },
+        {
+          "id": "B",
+          "text": "Cities developed without farming."
+        },
+        {
+          "id": "C",
+          "text": "Cities grew only because of wars."
+        },
+        {
+          "id": "D",
+          "text": "Agriculture had no role in urbanisation."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "16",
+      "question": "Why were markets important in ancient cities?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They promoted trade and exchange of goods."
+        },
+        {
+          "id": "B",
+          "text": "They were used only for festivals."
+        },
+        {
+          "id": "C",
+          "text": "They reduced production."
+        },
+        {
+          "id": "D",
+          "text": "They had no economic role."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "17",
+      "question": "Which feature distinguished a city from a village in ancient times?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Greater trade, administration and specialised occupations"
+        },
+        {
+          "id": "B",
+          "text": "More forests only"
+        },
+        {
+          "id": "C",
+          "text": "Less population only"
+        },
+        {
+          "id": "D",
+          "text": "Only farming activities"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "18",
+      "question": "Why did rulers establish capitals in important cities?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To manage administration and control their kingdoms effectively."
+        },
+        {
+          "id": "B",
+          "text": "To reduce trade."
+        },
+        {
+          "id": "C",
+          "text": "To avoid communication."
+        },
+        {
+          "id": "D",
+          "text": "To stop economic growth."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "19",
+      "question": "Which statement about the Mahajanapadas is correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They were important political units of ancient India."
+        },
+        {
+          "id": "B",
+          "text": "They were modern Indian states."
+        },
+        {
+          "id": "C",
+          "text": "They existed during British rule."
+        },
+        {
+          "id": "D",
+          "text": "They were foreign kingdoms."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "20",
+      "question": "What is the central idea of this chapter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Agricultural growth, trade and strong administration led to the rise of cities and states."
+        },
+        {
+          "id": "B",
+          "text": "Ancient cities developed without trade."
+        },
+        {
+          "id": "C",
+          "text": "Agriculture had no role in state formation."
+        },
+        {
+          "id": "D",
+          "text": "States emerged only because of climate."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "21",
+      "question": "Why did surplus agricultural production contribute to the growth of cities?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It allowed people to engage in trade, crafts and administration instead of farming alone."
+        },
+        {
+          "id": "B",
+          "text": "It reduced population growth."
+        },
+        {
+          "id": "C",
+          "text": "It eliminated trade."
+        },
+        {
+          "id": "D",
+          "text": "It discouraged settlements."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "22",
+      "question": "If iron tools had not been developed, what would most likely have happened?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Agricultural expansion and the growth of powerful states would have been slower."
+        },
+        {
+          "id": "B",
+          "text": "Trade would have increased immediately."
+        },
+        {
+          "id": "C",
+          "text": "Cities would have grown faster."
+        },
+        {
+          "id": "D",
+          "text": "Rivers would have changed direction."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "23",
+      "question": "Which example best shows the relationship between agriculture and urbanisation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Increased food production supported larger populations and city development."
+        },
+        {
+          "id": "B",
+          "text": "Cities developed without food production."
+        },
+        {
+          "id": "C",
+          "text": "Agriculture declined as cities expanded."
+        },
+        {
+          "id": "D",
+          "text": "Trade replaced farming completely."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "24",
+      "question": "Why did rulers encourage trade in ancient cities?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Trade increased wealth and strengthened the kingdom."
+        },
+        {
+          "id": "B",
+          "text": "Trade reduced tax collection."
+        },
+        {
+          "id": "C",
+          "text": "Trade weakened administration."
+        },
+        {
+          "id": "D",
+          "text": "Trade discouraged economic growth."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "25",
+      "question": "Which statement best explains the success of Magadha?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It combined natural resources, fertile land, river transport and capable rulers."
+        },
+        {
+          "id": "B",
+          "text": "It had no agricultural land."
+        },
+        {
+          "id": "C",
+          "text": "It depended only on foreign trade."
+        },
+        {
+          "id": "D",
+          "text": "It was isolated from neighbouring kingdoms."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "26",
+      "question": "A city develops because farmers produce surplus food, artisans make goods and merchants trade them. Which concept does this illustrate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Economic interdependence"
+        },
+        {
+          "id": "B",
+          "text": "Political conflict"
+        },
+        {
+          "id": "C",
+          "text": "Religious reform"
+        },
+        {
+          "id": "D",
+          "text": "Climate change"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "27",
+      "question": "Why were early cities important centres of culture and education?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They attracted scholars, traders, artisans and administrators."
+        },
+        {
+          "id": "B",
+          "text": "They had no population."
+        },
+        {
+          "id": "C",
+          "text": "Only soldiers lived there."
+        },
+        {
+          "id": "D",
+          "text": "Farming was the only activity."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "28",
+      "question": "Which lesson from this chapter is most relevant today?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Strong economies grow when agriculture, trade and administration support one another."
+        },
+        {
+          "id": "B",
+          "text": "Cities develop without planning."
+        },
+        {
+          "id": "C",
+          "text": "Trade has little importance in development."
+        },
+        {
+          "id": "D",
+          "text": "Agriculture is not connected to urban growth."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "29",
+      "question": "Which action by an ancient ruler would most likely strengthen a kingdom?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Building roads, encouraging trade and improving irrigation."
+        },
+        {
+          "id": "B",
+          "text": "Closing markets permanently."
+        },
+        {
+          "id": "C",
+          "text": "Discouraging agriculture."
+        },
+        {
+          "id": "D",
+          "text": "Preventing communication between cities."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "30",
+      "question": "Which statement best summarizes the main idea of this chapter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The growth of agriculture, iron technology, trade and efficient administration led to the rise of cities and powerful states in ancient India."
+        },
+        {
+          "id": "B",
+          "text": "Ancient cities developed only because of wars."
+        },
+        {
+          "id": "C",
+          "text": "Trade had no role in state formation."
+        },
+        {
+          "id": "D",
+          "text": "Agriculture was unrelated to urban development."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    }
+  ]
+}

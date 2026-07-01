@@ -4,6 +4,7 @@ interface ChapterInfo {
   hi: string;
   descEn: string;
   descHi: string;
+  videoId?: string;
 }
 
 type SubjectSyllabus = Record<string, ChapterInfo[]>;
@@ -471,16 +472,16 @@ export const NCERT_SYLLABUS: ClassSyllabus = {
       {"id": 12, "en": "Earth, Moon, and the Sun", "hi": "पृथ्वी, चंद्रमा और सूर्य", "descEn": "Exploring our solar system's key celestial bodies.", "descHi": "हमारे सौर मंडल के प्रमुख खगोलीय पिंडों का अन्वेषण।"}
     ],
     "Hindi": [
-      {"id": 1, "en": "माँ, कह एक कहानी", "hi": "माँ, कह एक कहानी", "descEn": "A classic poem by Maithili Sharan Gupt.", "descHi": "मैथिलीशरण गुप्त की एक क्लासिक कविता।"},
-      {"id": 2, "en": "तीन बुद्धिमान", "hi": "तीन बुद्धिमान", "descEn": "An interesting tale of three wise individuals.", "descHi": "तीन बुद्धिमान व्यक्तियों की एक दिलचस्प कहानी।"},
-      {"id": 3, "en": "फूल और काँटा", "hi": "फूल और काँटा", "descEn": "A poem highlighting the contrasting nature of a flower and a thorn.", "descHi": "फूल और काँटे की विपरीत प्रकृति को उजागर करने वाली कविता।"},
-      {"id": 4, "en": "पानी रे पानी", "hi": "पानी रे पानी", "descEn": "An essay on the importance and conservation of water.", "descHi": "जल के महत्व और संरक्षण पर एक निबंध।"},
+      {"id": 1, "en": "माँ, कह एक कहानी", "hi": "माँ, कह एक कहानी", "descEn": "A classic poem by Maithili Sharan Gupt.", "descHi": "मैथिलीशरण गुप्त की एक क्लासिक कविता।", "videoId": "HGAX8TTqpyI"},
+      {"id": 2, "en": "तीन बुद्धिमान", "hi": "तीन बुद्धिमान", "descEn": "An interesting tale of three wise individuals.", "descHi": "तीन बुद्धिमान व्यक्तियों की एक दिलचस्प कहानी।", "videoId": "V2yCISrIhc8"},
+      {"id": 3, "en": "फूल और काँटा", "hi": "फूल और काँटा", "descEn": "A poem highlighting the contrasting nature of a flower and a thorn.", "descHi": "फूल और काँटे की विपरीत प्रकृति को उजागर करने वाली कविता।", "videoId": "pX24w8iE7Bc"},
+      {"id": 4, "en": "पानी रे पानी", "hi": "पानी रे पानी", "descEn": "An essay on the importance and conservation of water.", "descHi": "जल के महत्व और संरक्षण पर एक निबंध।", "videoId": "l-LADcWKeAM"},
       {"id": 5, "en": "नहीं होना बीमार", "hi": "नहीं होना बीमार", "descEn": "A lesson on health and hygiene.", "descHi": "स्वास्थ्य और स्वच्छता पर एक पाठ।"},
       {"id": 6, "en": "गिरिधर", "hi": "गिरिधर", "descEn": "Devotional verses dedicated to Lord Krishna.", "descHi": "भगवान कृष्ण को समर्पित भक्ति पद।"},
-      {"id": 7, "en": "वर्षा-बहार", "hi": "वर्षा-बहार", "descEn": "A poem describing the beauty of the rainy season.", "descHi": "वर्षा ऋतु के सौंदर्य का वर्णन करने वाली कविता।"},
-      {"id": 8, "en": "बिरजू महाराज से साक्षात्कार", "hi": "बिरजू महाराज से साक्षात्कार", "descEn": "An interview with the legendary Kathak dancer, Pandit Birju Maharaj.", "descHi": "महान कथक नर्तक पंडित बिरजू महाराज के साथ एक साक्षात्कार।"},
-      {"id": 9, "en": "चिड़िया", "hi": "चिड़िया", "descEn": "A sweet poem about a little bird.", "descHi": "एक छोटी चिड़िया के बारे में एक प्यारी कविता।"},
-      {"id": 10, "en": "मीरा के पद", "hi": "मीरा के पद", "descEn": "Devotional songs by the poet-saint Meera Bai.", "descHi": "कवयित्री-संत मीरा बाई के भक्ति गीत।"}
+      {"id": 7, "en": "वर्षा-बहार", "hi": "वर्षा-बहार", "descEn": "A poem describing the beauty of the rainy season.", "descHi": "वर्षा ऋतु के सौंदर्य का वर्णन करने वाली कविता।", "videoId": "9RhyTmlyehw"},
+      {"id": 8, "en": "बिरजू महाराज से साक्षात्कार", "hi": "बिरजू महाराज से साक्षात्कार", "descEn": "An interview with the legendary Kathak dancer, Pandit Birju Maharaj.", "descHi": "महान कथक नर्तक पंडित बिरजू महाराज के साथ एक साक्षात्कार।", "videoId": "ZQzfSIgEp70"},
+      {"id": 9, "en": "चिड़िया", "hi": "चिड़िया", "descEn": "A sweet poem about a little bird.", "descHi": "एक छोटी चिड़िया के बारे में एक प्यारी कविता।", "videoId": "pQoejdXSJXY"},
+      {"id": 10, "en": "मीरा के पद", "hi": "मीरा के पद", "descEn": "Devotional songs by the poet-saint Meera Bai.", "descHi": "कवयित्री-संत मीरा बाई के भक्ति गीत।", "videoId": "yMP5Jt-7Q7A"}
     ],
     "English": [
       {"id": 1, "en": "Try Again", "hi": "फिर से कोशिश करें", "descEn": "Unit 1: Learning Together - A poem encouraging persistence.", "descHi": "इकाई 1: दृढ़ता को प्रोत्साहित करने वाली कविता।"},
@@ -654,16 +655,16 @@ export const NCERT_SYLLABUS: ClassSyllabus = {
       {"id": 13, "en": "Our Home: Earth, a Unique Life-Sustaining Planet", "hi": "हमारा घर: पृथ्वी, एक अनूठा जीवन-निर्वाह करने वाला ग्रह", "descEn": "Earth's unique features supporting life.", "descHi": "जीवन का समर्थन करने वाली पृथ्वी की अनूठी विशेषताएं।"}
     ],
     "Hindi": [
-      {"id": 1, "en": "लाख की चूड़ियाँ", "hi": "लाख की चूड़ियाँ", "descEn": "A poignant story by Kamtanath.", "descHi": "कामतानाथ की एक मार्मिक कहानी।"},
-      {"id": 2, "en": "रेशम की डोरी", "hi": "रेशम की डोरी", "descEn": "A tale highlighting relationships and emotions.", "descHi": "रिश्तों और भावनाओं को उजागर करने वाली कहानी।"},
-      {"id": 3, "en": "सच्चा मित्र", "hi": "सच्चा मित्र", "descEn": "A story about true friendship.", "descHi": "सच्ची दोस्ती के बारे में एक कहानी।"},
-      {"id": 4, "en": "विज्ञान की दुनिया", "hi": "विज्ञान की दुनिया", "descEn": "An essay on the wonders of science.", "descHi": "विज्ञान के चमत्कारों पर एक निबंध।"},
-      {"id": 5, "en": "भारत की खोज", "hi": "भारत की खोज", "descEn": "Excerpts from Discovery of India.", "descHi": "डिस्कवरी ऑफ इंडिया के अंश।"},
-      {"id": 6, "en": "कर्मवीर", "hi": "कर्मवीर", "descEn": "A poem celebrating hard work and dedication.", "descHi": "कड़ी मेहनत और समर्पण का जश्न मनाने वाली कविता।"},
-      {"id": 7, "en": "प्रकृति का संदेश", "hi": "प्रकृति का संदेश", "descEn": "A poem about the message of nature.", "descHi": "प्रकृति के संदेश के बारे में एक कविता।"},
-      {"id": 8, "en": "समय का महत्व", "hi": "समय का महत्व", "descEn": "An essay on the importance of time.", "descHi": "समय के महत्व पर एक निबंध।"},
-      {"id": 9, "en": "प्रेरणा", "hi": "प्रेरणा", "descEn": "A lesson providing inspiration.", "descHi": "प्रेरणा देने वाला एक पाठ।"},
-      {"id": 10, "en": "नई राहें", "hi": "नई राहें", "descEn": "A story about forging new paths.", "descHi": "नए रास्ते बनाने के बारे में एक कहानी।"}
+      {"id": 1, "en": "स्वदेश", "hi": "स्वदेश", "descEn": "A poem on love for the motherland.", "descHi": "मातृभूमि प्रेम पर एक कविता।", "videoId": "YroXHlMZzm8"},
+      {"id": 2, "en": "दो गौरैया", "hi": "दो गौरैया", "descEn": "A story of two sparrows.", "descHi": "दो गौरैयों की कहानी।", "videoId": "mn8xvs1Z2hc"},
+      {"id": 3, "en": "एक आशीर्वाद", "hi": "एक आशीर्वाद", "descEn": "A blessing in life.", "descHi": "जीवन में एक आशीर्वाद।", "videoId": "rhbNpL0h7js"},
+      {"id": 4, "en": "तरुण के स्वप्न", "hi": "तरुण के स्वप्न", "descEn": "The dreams of the youth.", "descHi": "युवाओं के सपने।", "videoId": "d1YwCovhwqI"},
+      {"id": 5, "en": "कबीर के दोहे", "hi": "कबीर के दोहे", "descEn": "The profound couplets of Kabir.", "descHi": "कबीर के गूढ़ दोहे।", "videoId": "KmQGjjWHmJw"},
+      {"id": 6, "en": "एक टोकरी भर मिट्टी", "hi": "एक टोकरी भर मिट्टी", "descEn": "A story about humility and land.", "descHi": "विनम्रता और भूमि के बारे में एक कहानी।", "videoId": "A_kNi-YGpis"},
+      {"id": 7, "en": "मत बाँधो", "hi": "मत बाँधो", "descEn": "A poem about freedom.", "descHi": "स्वतंत्रता के बारे में एक कविता।", "videoId": "DvOzCn-UIpA"},
+      {"id": 8, "en": "नए मेहमान", "hi": "नए मेहमान", "descEn": "The arrival of new guests.", "descHi": "नए मेहमानों का आगमन।", "videoId": "WK23IxCas4k"},
+      {"id": 9, "en": "आदमी का अनुपात", "hi": "आदमी का अनुपात", "descEn": "A poem on human perspective.", "descHi": "मानवीय दृष्टिकोण पर एक कविता।", "videoId": "zr6DYfRdtZE"},
+      {"id": 10, "en": "हरिद्वार", "hi": "हरिद्वार", "descEn": "A journey to Haridwar.", "descHi": "हरिद्वार की यात्रा।", "videoId": "reSMOzN2K3Q"}
     ],
     "English": [
       {"id": 1, "en": "The Wit That Won Hearts", "hi": "वह बुद्धि जिसने दिल जीत लिया", "descEn": "Unit 1: Wit and Wisdom - A tale of cleverness.", "descHi": "इकाई 1: चतुराई की एक कहानी।"},

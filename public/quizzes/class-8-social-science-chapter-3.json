@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "Who founded the Maratha Empire?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Shivaji Maharaj"
+        },
+        {
+          "id": "B",
+          "text": "Akbar"
+        },
+        {
+          "id": "C",
+          "text": "Babur"
+        },
+        {
+          "id": "D",
+          "text": "Ashoka"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "2",
+      "question": "Which fort is closely associated with Shivaji Maharaj's coronation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Raigad Fort"
+        },
+        {
+          "id": "B",
+          "text": "Red Fort"
+        },
+        {
+          "id": "C",
+          "text": "Agra Fort"
+        },
+        {
+          "id": "D",
+          "text": "Golconda Fort"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "3",
+      "question": "Shivaji Maharaj is remembered mainly for _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Establishing a strong Maratha kingdom"
+        },
+        {
+          "id": "B",
+          "text": "Building the Taj Mahal"
+        },
+        {
+          "id": "C",
+          "text": "Founding the Delhi Sultanate"
+        },
+        {
+          "id": "D",
+          "text": "Introducing railways"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "4",
+      "question": "Which style of warfare was effectively used by Shivaji Maharaj?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Guerrilla warfare"
+        },
+        {
+          "id": "B",
+          "text": "Naval warfare only"
+        },
+        {
+          "id": "C",
+          "text": "Trench warfare"
+        },
+        {
+          "id": "D",
+          "text": "Air warfare"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "5",
+      "question": "The Maratha Empire mainly rose in which present-day state?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Maharashtra"
+        },
+        {
+          "id": "B",
+          "text": "Punjab"
+        },
+        {
+          "id": "C",
+          "text": "Kerala"
+        },
+        {
+          "id": "D",
+          "text": "Assam"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "6",
+      "question": "What was the council of eight ministers under Shivaji called?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ashtapradhan"
+        },
+        {
+          "id": "B",
+          "text": "Sabha"
+        },
+        {
+          "id": "C",
+          "text": "Panchayat"
+        },
+        {
+          "id": "D",
+          "text": "Durbar"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "7",
+      "question": "Shivaji Maharaj encouraged the construction of _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Forts"
+        },
+        {
+          "id": "B",
+          "text": "Airports"
+        },
+        {
+          "id": "C",
+          "text": "Railways"
+        },
+        {
+          "id": "D",
+          "text": "Metro stations"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "8",
+      "question": "Which quality is most associated with Shivaji Maharaj?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Courage and good administration"
+        },
+        {
+          "id": "B",
+          "text": "Laziness"
+        },
+        {
+          "id": "C",
+          "text": "Isolation"
+        },
+        {
+          "id": "D",
+          "text": "Neglect of public welfare"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "9",
+      "question": "The Marathas became an important political power in _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Medieval India"
+        },
+        {
+          "id": "B",
+          "text": "Ancient Egypt"
+        },
+        {
+          "id": "C",
+          "text": "Modern Europe"
+        },
+        {
+          "id": "D",
+          "text": "Colonial America"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "10",
+      "question": "The chapter mainly explains _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "The rise and achievements of the Marathas"
+        },
+        {
+          "id": "B",
+          "text": "The Industrial Revolution"
+        },
+        {
+          "id": "C",
+          "text": "India's Constitution"
+        },
+        {
+          "id": "D",
+          "text": "Weather and climate"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "11",
+      "question": "Why is Shivaji Maharaj regarded as an able administrator?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He established an efficient administration and promoted justice."
+        },
+        {
+          "id": "B",
+          "text": "He discouraged governance."
+        },
+        {
+          "id": "C",
+          "text": "He abolished revenue collection."
+        },
+        {
+          "id": "D",
+          "text": "He ruled without officials."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "12",
+      "question": "Why was guerrilla warfare successful for the Marathas?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It used speed, surprise and knowledge of local terrain."
+        },
+        {
+          "id": "B",
+          "text": "It depended only on large armies."
+        },
+        {
+          "id": "C",
+          "text": "It required modern weapons."
+        },
+        {
+          "id": "D",
+          "text": "It was fought only at sea."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "13",
+      "question": "Why were forts important to the Marathas?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They provided defence and strategic control over territories."
+        },
+        {
+          "id": "B",
+          "text": "They were only places for trade."
+        },
+        {
+          "id": "C",
+          "text": "They had no military importance."
+        },
+        {
+          "id": "D",
+          "text": "They were built only for decoration."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "14",
+      "question": "Which feature strengthened the Maratha administration?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Ashtapradhan Council assisted the ruler in governance."
+        },
+        {
+          "id": "B",
+          "text": "There were no ministers."
+        },
+        {
+          "id": "C",
+          "text": "Administration depended only on soldiers."
+        },
+        {
+          "id": "D",
+          "text": "Laws were not enforced."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "15",
+      "question": "Why did the Maratha Empire expand rapidly?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Strong leadership, military strategy and efficient administration."
+        },
+        {
+          "id": "B",
+          "text": "Absence of forts."
+        },
+        {
+          "id": "C",
+          "text": "Lack of planning."
+        },
+        {
+          "id": "D",
+          "text": "Isolation from neighbouring regions."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "16",
+      "question": "Which statement about Shivaji Maharaj is correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He respected different religions and promoted good governance."
+        },
+        {
+          "id": "B",
+          "text": "He discouraged administration."
+        },
+        {
+          "id": "C",
+          "text": "He ruled only one village."
+        },
+        {
+          "id": "D",
+          "text": "He abolished forts."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "17",
+      "question": "Why did the Marathas become a major power after Shivaji?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Capable leaders and organised administration continued the expansion."
+        },
+        {
+          "id": "B",
+          "text": "They abandoned governance."
+        },
+        {
+          "id": "C",
+          "text": "They stopped military activities."
+        },
+        {
+          "id": "D",
+          "text": "They closed trade routes."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "18",
+      "question": "Which value is reflected in Shivaji Maharaj's leadership?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Courage, justice and public welfare"
+        },
+        {
+          "id": "B",
+          "text": "Discrimination"
+        },
+        {
+          "id": "C",
+          "text": "Corruption"
+        },
+        {
+          "id": "D",
+          "text": "Isolation"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "19",
+      "question": "Why is Shivaji Maharaj respected in Indian history?",
+      "options": [
+        {
+          "id": "A",
+          "text": "For his leadership, administration and military achievements."
+        },
+        {
+          "id": "B",
+          "text": "For introducing modern industries."
+        },
+        {
+          "id": "C",
+          "text": "For abolishing agriculture."
+        },
+        {
+          "id": "D",
+          "text": "For ending trade."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "20",
+      "question": "What is the central idea of this chapter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Marathas emerged as a powerful force through effective leadership, administration and military strategy."
+        },
+        {
+          "id": "B",
+          "text": "Their success depended only on warfare."
+        },
+        {
+          "id": "C",
+          "text": "Administration had no role in their growth."
+        },
+        {
+          "id": "D",
+          "text": "The Marathas had no influence on Indian history."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "21",
+      "question": "Why did Shivaji Maharaj succeed against stronger enemies?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He combined guerrilla warfare, strong forts, efficient administration and popular support."
+        },
+        {
+          "id": "B",
+          "text": "He depended only on large armies."
+        },
+        {
+          "id": "C",
+          "text": "He avoided strategic planning."
+        },
+        {
+          "id": "D",
+          "text": "He never built forts."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "22",
+      "question": "If the Marathas had not controlled important forts, what would most likely have happened?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Their defence and territorial control would have become weaker."
+        },
+        {
+          "id": "B",
+          "text": "Trade would have increased automatically."
+        },
+        {
+          "id": "C",
+          "text": "Agriculture would have stopped."
+        },
+        {
+          "id": "D",
+          "text": "The climate would have changed."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "23",
+      "question": "A ruler appoints ministers, strengthens forts and protects farmers while maintaining justice. Which principle is demonstrated?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Effective and welfare-oriented governance"
+        },
+        {
+          "id": "B",
+          "text": "Military rule only"
+        },
+        {
+          "id": "C",
+          "text": "Political instability"
+        },
+        {
+          "id": "D",
+          "text": "Economic isolation"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "24",
+      "question": "Why was the Ashtapradhan Council important?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It helped the ruler manage different aspects of administration efficiently."
+        },
+        {
+          "id": "B",
+          "text": "It controlled foreign countries."
+        },
+        {
+          "id": "C",
+          "text": "It replaced the army."
+        },
+        {
+          "id": "D",
+          "text": "It collected taxes without supervision."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "25",
+      "question": "Which statement best explains the success of the Marathas?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Strong leadership, public support, efficient administration and military innovation contributed to their rise."
+        },
+        {
+          "id": "B",
+          "text": "They depended only on luck."
+        },
+        {
+          "id": "C",
+          "text": "They ignored governance."
+        },
+        {
+          "id": "D",
+          "text": "They discouraged local participation."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "26",
+      "question": "A commander uses the hills and forests to surprise a larger enemy force. Which military strategy is illustrated?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Guerrilla warfare"
+        },
+        {
+          "id": "B",
+          "text": "Naval warfare"
+        },
+        {
+          "id": "C",
+          "text": "Trench warfare"
+        },
+        {
+          "id": "D",
+          "text": "Air warfare"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "27",
+      "question": "Which lesson from this chapter is most relevant today?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Good leadership, planning and efficient administration are essential for lasting success."
+        },
+        {
+          "id": "B",
+          "text": "Administration is less important than force."
+        },
+        {
+          "id": "C",
+          "text": "Public welfare has no role in governance."
+        },
+        {
+          "id": "D",
+          "text": "Strategy is unnecessary in leadership."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "28",
+      "question": "Why do historians consider Shivaji Maharaj an important nation-builder?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He established a stable administration while protecting his people's interests."
+        },
+        {
+          "id": "B",
+          "text": "He focused only on battles."
+        },
+        {
+          "id": "C",
+          "text": "He discouraged local governance."
+        },
+        {
+          "id": "D",
+          "text": "He ignored public welfare."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "29",
+      "question": "Which action would most strengthen a kingdom like the Maratha Empire?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Building strong forts, maintaining justice and supporting agriculture and trade."
+        },
+        {
+          "id": "B",
+          "text": "Closing markets permanently."
+        },
+        {
+          "id": "C",
+          "text": "Ignoring defence."
+        },
+        {
+          "id": "D",
+          "text": "Discouraging administration."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "30",
+      "question": "Which statement best summarizes the main idea of this chapter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The rise of the Marathas was driven by visionary leadership, effective administration, military innovation and public support, making them one of the most influential powers in Indian history."
+        },
+        {
+          "id": "B",
+          "text": "The Marathas succeeded only because of warfare."
+        },
+        {
+          "id": "C",
+          "text": "Administration played no role in their success."
+        },
+        {
+          "id": "D",
+          "text": "The Marathas had little impact on Indian history."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    }
+  ]
+}

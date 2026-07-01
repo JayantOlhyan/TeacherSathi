@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "The 11th and 12th centuries were marked by _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Political and social changes"
+        },
+        {
+          "id": "B",
+          "text": "Industrial Revolution"
+        },
+        {
+          "id": "C",
+          "text": "British rule"
+        },
+        {
+          "id": "D",
+          "text": "Space exploration"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "2",
+      "question": "During this period, many regional kingdoms became _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "More powerful"
+        },
+        {
+          "id": "B",
+          "text": "Smaller villages"
+        },
+        {
+          "id": "C",
+          "text": "Independent countries outside India"
+        },
+        {
+          "id": "D",
+          "text": "Desert settlements"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "3",
+      "question": "Which activity continued to grow during this period?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Trade"
+        },
+        {
+          "id": "B",
+          "text": "Air travel"
+        },
+        {
+          "id": "C",
+          "text": "Rail transport"
+        },
+        {
+          "id": "D",
+          "text": "Internet communication"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "4",
+      "question": "Temples during this period were important centres of _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Religion and culture"
+        },
+        {
+          "id": "B",
+          "text": "Mining"
+        },
+        {
+          "id": "C",
+          "text": "Aviation"
+        },
+        {
+          "id": "D",
+          "text": "Banking"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "5",
+      "question": "Which type of trade connected India with other countries?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Land and sea trade"
+        },
+        {
+          "id": "B",
+          "text": "Space trade"
+        },
+        {
+          "id": "C",
+          "text": "Air cargo only"
+        },
+        {
+          "id": "D",
+          "text": "Railway trade"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "6",
+      "question": "Many rulers built ____ to improve water supply.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tanks and canals"
+        },
+        {
+          "id": "B",
+          "text": "Airports"
+        },
+        {
+          "id": "C",
+          "text": "Flyovers"
+        },
+        {
+          "id": "D",
+          "text": "Metro stations"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "7",
+      "question": "Which occupation benefited from expanding trade?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Merchants"
+        },
+        {
+          "id": "B",
+          "text": "Astronauts"
+        },
+        {
+          "id": "C",
+          "text": "Pilots"
+        },
+        {
+          "id": "D",
+          "text": "Software engineers"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "8",
+      "question": "Which factor helped towns grow during this period?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Trade and commerce"
+        },
+        {
+          "id": "B",
+          "text": "Lack of agriculture"
+        },
+        {
+          "id": "C",
+          "text": "Desert expansion"
+        },
+        {
+          "id": "D",
+          "text": "Heavy snowfall"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "9",
+      "question": "This period witnessed the rise of many _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Regional powers"
+        },
+        {
+          "id": "B",
+          "text": "Modern democracies"
+        },
+        {
+          "id": "C",
+          "text": "Colonies"
+        },
+        {
+          "id": "D",
+          "text": "Republics"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "10",
+      "question": "The chapter mainly explains _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Political, economic and cultural changes in the 11th and 12th centuries"
+        },
+        {
+          "id": "B",
+          "text": "India's Independence Movement"
+        },
+        {
+          "id": "C",
+          "text": "British administration"
+        },
+        {
+          "id": "D",
+          "text": "The Industrial Revolution"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "11",
+      "question": "Why are the 11th and 12th centuries called a period of 'Turning Tides'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "India experienced important political, economic and cultural changes."
+        },
+        {
+          "id": "B",
+          "text": "Rivers changed direction permanently."
+        },
+        {
+          "id": "C",
+          "text": "The climate changed completely."
+        },
+        {
+          "id": "D",
+          "text": "Agriculture stopped."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "12",
+      "question": "Why did towns become important during this period?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They became centres of trade, crafts and administration."
+        },
+        {
+          "id": "B",
+          "text": "They were used only for farming."
+        },
+        {
+          "id": "C",
+          "text": "They discouraged commerce."
+        },
+        {
+          "id": "D",
+          "text": "They had no economic role."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "13",
+      "question": "Which factor contributed to the prosperity of regional kingdoms?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Agriculture, trade and efficient administration"
+        },
+        {
+          "id": "B",
+          "text": "Isolation from neighbours"
+        },
+        {
+          "id": "C",
+          "text": "Closing markets"
+        },
+        {
+          "id": "D",
+          "text": "Ending irrigation"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "14",
+      "question": "Why did rulers invest in irrigation projects?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To improve agriculture and increase food production."
+        },
+        {
+          "id": "B",
+          "text": "To reduce farming."
+        },
+        {
+          "id": "C",
+          "text": "To stop trade."
+        },
+        {
+          "id": "D",
+          "text": "To increase drought."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "15",
+      "question": "Which statement correctly describes trade during this period?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It connected India with different regions through land and sea routes."
+        },
+        {
+          "id": "B",
+          "text": "Trade completely stopped."
+        },
+        {
+          "id": "C",
+          "text": "Only local trade existed."
+        },
+        {
+          "id": "D",
+          "text": "India remained isolated."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "16",
+      "question": "Why were temples significant in this period?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They promoted religion, education, art and local economy."
+        },
+        {
+          "id": "B",
+          "text": "They served only military purposes."
+        },
+        {
+          "id": "C",
+          "text": "They discouraged learning."
+        },
+        {
+          "id": "D",
+          "text": "They had no role beyond worship."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "17",
+      "question": "Which value is reflected by rulers building irrigation facilities?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Public welfare and sustainable development"
+        },
+        {
+          "id": "B",
+          "text": "Isolation"
+        },
+        {
+          "id": "C",
+          "text": "Conflict"
+        },
+        {
+          "id": "D",
+          "text": "Economic decline"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "18",
+      "question": "Which statement about this period is correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Regional kingdoms contributed to economic and cultural development."
+        },
+        {
+          "id": "B",
+          "text": "Agriculture disappeared."
+        },
+        {
+          "id": "C",
+          "text": "Trade declined everywhere."
+        },
+        {
+          "id": "D",
+          "text": "Education ended completely."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "19",
+      "question": "Why did markets become more active during this period?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Increased agricultural production and trade encouraged commercial activities."
+        },
+        {
+          "id": "B",
+          "text": "People stopped buying goods."
+        },
+        {
+          "id": "C",
+          "text": "Farming declined completely."
+        },
+        {
+          "id": "D",
+          "text": "Merchants disappeared."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "20",
+      "question": "What is the central idea of this chapter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Political changes, expanding trade and cultural growth transformed India during the 11th and 12th centuries."
+        },
+        {
+          "id": "B",
+          "text": "The period had no historical importance."
+        },
+        {
+          "id": "C",
+          "text": "Trade had no role in development."
+        },
+        {
+          "id": "D",
+          "text": "Only wars shaped Indian society."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "21",
+      "question": "Why are the 11th and 12th centuries considered a transitional period in Indian history?",
+      "options": [
+        {
+          "id": "A",
+          "text": "New political powers, economic growth and cultural developments prepared the way for later historical changes."
+        },
+        {
+          "id": "B",
+          "text": "Nothing significant happened."
+        },
+        {
+          "id": "C",
+          "text": "Agriculture disappeared completely."
+        },
+        {
+          "id": "D",
+          "text": "India became isolated from the world."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "22",
+      "question": "If irrigation systems had not been improved during this period, what would most likely have been affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Agricultural productivity would have been lower."
+        },
+        {
+          "id": "B",
+          "text": "Trade would have increased automatically."
+        },
+        {
+          "id": "C",
+          "text": "Towns would have grown faster."
+        },
+        {
+          "id": "D",
+          "text": "Rainfall would have increased."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "23",
+      "question": "Which example best demonstrates the relationship between agriculture and urban growth?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Surplus food production supported larger towns and markets."
+        },
+        {
+          "id": "B",
+          "text": "Towns developed without agriculture."
+        },
+        {
+          "id": "C",
+          "text": "Agriculture reduced trade."
+        },
+        {
+          "id": "D",
+          "text": "Markets functioned without producers."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "24",
+      "question": "Why did rulers encourage trade?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It increased revenue and strengthened their kingdoms."
+        },
+        {
+          "id": "B",
+          "text": "It reduced economic activity."
+        },
+        {
+          "id": "C",
+          "text": "It discouraged merchants."
+        },
+        {
+          "id": "D",
+          "text": "It prevented cultural exchanges."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "25",
+      "question": "Which statement best explains the importance of regional markets?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They connected producers, traders and consumers, strengthening the economy."
+        },
+        {
+          "id": "B",
+          "text": "They existed only for festivals."
+        },
+        {
+          "id": "C",
+          "text": "They discouraged commerce."
+        },
+        {
+          "id": "D",
+          "text": "They had no economic role."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "26",
+      "question": "A king constructs roads, irrigation canals and market centres. Which principle of governance does this represent?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Economic development through public infrastructure"
+        },
+        {
+          "id": "B",
+          "text": "Military expansion only"
+        },
+        {
+          "id": "C",
+          "text": "Religious conflict"
+        },
+        {
+          "id": "D",
+          "text": "Political isolation"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "27",
+      "question": "Which lesson from this chapter is most relevant today?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Investment in infrastructure, agriculture and trade supports long-term economic growth."
+        },
+        {
+          "id": "B",
+          "text": "Trade weakens society."
+        },
+        {
+          "id": "C",
+          "text": "Irrigation is unnecessary."
+        },
+        {
+          "id": "D",
+          "text": "Markets reduce development."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "28",
+      "question": "Why are inscriptions and temples important sources for studying this period?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They provide evidence about rulers, society, economy and culture."
+        },
+        {
+          "id": "B",
+          "text": "They only describe climate."
+        },
+        {
+          "id": "C",
+          "text": "They contain no historical information."
+        },
+        {
+          "id": "D",
+          "text": "They explain modern politics."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "29",
+      "question": "Which action would most strengthen a kingdom during the 11th and 12th centuries?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Supporting agriculture, trade and public welfare projects."
+        },
+        {
+          "id": "B",
+          "text": "Closing markets permanently."
+        },
+        {
+          "id": "C",
+          "text": "Discouraging irrigation."
+        },
+        {
+          "id": "D",
+          "text": "Preventing communication."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "30",
+      "question": "Which statement best summarizes the main idea of this chapter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The 11th and 12th centuries were a period of transition marked by political change, economic expansion, improved agriculture and vibrant cultural development, laying the foundation for later medieval India."
+        },
+        {
+          "id": "B",
+          "text": "The period was important only because of wars."
+        },
+        {
+          "id": "C",
+          "text": "Agriculture and trade declined everywhere."
+        },
+        {
+          "id": "D",
+          "text": "Regional kingdoms had no impact on Indian history."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    }
+  ]
+}

@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "How many continents are there on Earth?",
+      "options": [
+        {
+          "id": "A",
+          "text": "5"
+        },
+        {
+          "id": "B",
+          "text": "6"
+        },
+        {
+          "id": "C",
+          "text": "7"
+        },
+        {
+          "id": "D",
+          "text": "8"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "2",
+      "question": "How many oceans are there on Earth?",
+      "options": [
+        {
+          "id": "A",
+          "text": "3"
+        },
+        {
+          "id": "B",
+          "text": "4"
+        },
+        {
+          "id": "C",
+          "text": "5"
+        },
+        {
+          "id": "D",
+          "text": "6"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "3",
+      "question": "Which is the largest continent?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Africa"
+        },
+        {
+          "id": "B",
+          "text": "Asia"
+        },
+        {
+          "id": "C",
+          "text": "Europe"
+        },
+        {
+          "id": "D",
+          "text": "Australia"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "4",
+      "question": "Which is the largest ocean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Atlantic Ocean"
+        },
+        {
+          "id": "B",
+          "text": "Indian Ocean"
+        },
+        {
+          "id": "C",
+          "text": "Arctic Ocean"
+        },
+        {
+          "id": "D",
+          "text": "Pacific Ocean"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "D",
+      "explanation": "The correct answer is D."
+    },
+    {
+      "id": "5",
+      "question": "Which is the smallest continent?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Europe"
+        },
+        {
+          "id": "B",
+          "text": "Australia"
+        },
+        {
+          "id": "C",
+          "text": "Antarctica"
+        },
+        {
+          "id": "D",
+          "text": "South America"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "6",
+      "question": "Which continent is known as the 'Frozen Continent'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Europe"
+        },
+        {
+          "id": "B",
+          "text": "Antarctica"
+        },
+        {
+          "id": "C",
+          "text": "Africa"
+        },
+        {
+          "id": "D",
+          "text": "Asia"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "7",
+      "question": "India is located in which continent?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Europe"
+        },
+        {
+          "id": "B",
+          "text": "Africa"
+        },
+        {
+          "id": "C",
+          "text": "Asia"
+        },
+        {
+          "id": "D",
+          "text": "Australia"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "8",
+      "question": "Which ocean lies to the south of India?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pacific Ocean"
+        },
+        {
+          "id": "B",
+          "text": "Atlantic Ocean"
+        },
+        {
+          "id": "C",
+          "text": "Arctic Ocean"
+        },
+        {
+          "id": "D",
+          "text": "Indian Ocean"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "D",
+      "explanation": "The correct answer is D."
+    },
+    {
+      "id": "9",
+      "question": "Which continent is also a country?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Europe"
+        },
+        {
+          "id": "B",
+          "text": "Australia"
+        },
+        {
+          "id": "C",
+          "text": "Asia"
+        },
+        {
+          "id": "D",
+          "text": "Africa"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "10",
+      "question": "Which ocean is the smallest?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Arctic Ocean"
+        },
+        {
+          "id": "B",
+          "text": "Indian Ocean"
+        },
+        {
+          "id": "C",
+          "text": "Atlantic Ocean"
+        },
+        {
+          "id": "D",
+          "text": "Pacific Ocean"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "11",
+      "question": "Why is Asia the most significant continent in terms of population?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It has the highest population in the world."
+        },
+        {
+          "id": "B",
+          "text": "It is the smallest continent."
+        },
+        {
+          "id": "C",
+          "text": "It has the fewest countries."
+        },
+        {
+          "id": "D",
+          "text": "It has no rivers."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "12",
+      "question": "Which continent is completely surrounded by the Southern Ocean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Australia"
+        },
+        {
+          "id": "B",
+          "text": "Antarctica"
+        },
+        {
+          "id": "C",
+          "text": "Africa"
+        },
+        {
+          "id": "D",
+          "text": "Europe"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "13",
+      "question": "Why are oceans important for human life?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They influence climate, support marine life and facilitate trade."
+        },
+        {
+          "id": "B",
+          "text": "They only provide drinking water."
+        },
+        {
+          "id": "C",
+          "text": "They reduce the Earth's size."
+        },
+        {
+          "id": "D",
+          "text": "They prevent rainfall."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "14",
+      "question": "Which continent is known for having the Sahara Desert?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Asia"
+        },
+        {
+          "id": "B",
+          "text": "Africa"
+        },
+        {
+          "id": "C",
+          "text": "Europe"
+        },
+        {
+          "id": "D",
+          "text": "Australia"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "15",
+      "question": "Which ocean separates Asia and North America?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Atlantic Ocean"
+        },
+        {
+          "id": "B",
+          "text": "Indian Ocean"
+        },
+        {
+          "id": "C",
+          "text": "Pacific Ocean"
+        },
+        {
+          "id": "D",
+          "text": "Arctic Ocean"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "16",
+      "question": "Which of the following correctly matches a continent with a characteristic?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Antarctica – No permanent human population"
+        },
+        {
+          "id": "B",
+          "text": "Europe – Largest desert"
+        },
+        {
+          "id": "C",
+          "text": "Australia – Highest population"
+        },
+        {
+          "id": "D",
+          "text": "Africa – Smallest continent"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "17",
+      "question": "Why are oceans called the Earth's 'life support system'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They regulate climate and support biodiversity."
+        },
+        {
+          "id": "B",
+          "text": "They increase earthquakes."
+        },
+        {
+          "id": "C",
+          "text": "They reduce rainfall everywhere."
+        },
+        {
+          "id": "D",
+          "text": "They stop winds."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "18",
+      "question": "Which continent has the largest number of countries?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Africa"
+        },
+        {
+          "id": "B",
+          "text": "Europe"
+        },
+        {
+          "id": "C",
+          "text": "Asia"
+        },
+        {
+          "id": "D",
+          "text": "South America"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "19",
+      "question": "Which ocean lies between Africa and Australia?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pacific Ocean"
+        },
+        {
+          "id": "B",
+          "text": "Arctic Ocean"
+        },
+        {
+          "id": "C",
+          "text": "Indian Ocean"
+        },
+        {
+          "id": "D",
+          "text": "Atlantic Ocean"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "20",
+      "question": "Which statement about continents is correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Continents differ in size, climate and physical features."
+        },
+        {
+          "id": "B",
+          "text": "All continents have the same climate."
+        },
+        {
+          "id": "C",
+          "text": "Every continent is surrounded by land."
+        },
+        {
+          "id": "D",
+          "text": "Every continent has permanent human settlements."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "21",
+      "question": "Why do geographers study oceans and continents together?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They are interconnected and influence climate, biodiversity and human life."
+        },
+        {
+          "id": "B",
+          "text": "Oceans and continents have no relationship."
+        },
+        {
+          "id": "C",
+          "text": "Oceans only affect marine animals."
+        },
+        {
+          "id": "D",
+          "text": "Continents only affect agriculture."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "22",
+      "question": "If all oceans disappeared, which would be the most immediate global impact?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Major changes in climate and loss of marine ecosystems"
+        },
+        {
+          "id": "B",
+          "text": "Mountains would disappear."
+        },
+        {
+          "id": "C",
+          "text": "Continents would stop moving immediately."
+        },
+        {
+          "id": "D",
+          "text": "The Equator would shift."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "23",
+      "question": "A ship travels from India to South Africa without crossing another continent. Which ocean will it mainly cross?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Atlantic Ocean"
+        },
+        {
+          "id": "B",
+          "text": "Pacific Ocean"
+        },
+        {
+          "id": "C",
+          "text": "Indian Ocean"
+        },
+        {
+          "id": "D",
+          "text": "Arctic Ocean"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "24",
+      "question": "Why is Antarctica unsuitable for permanent human settlements?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because of its extremely cold climate and harsh conditions"
+        },
+        {
+          "id": "B",
+          "text": "Because it has no land"
+        },
+        {
+          "id": "C",
+          "text": "Because it has no ice"
+        },
+        {
+          "id": "D",
+          "text": "Because it has no coastline"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "25",
+      "question": "Which continent would experience the greatest impact if the Arctic Ocean's ice melted rapidly?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Europe only"
+        },
+        {
+          "id": "B",
+          "text": "Australia only"
+        },
+        {
+          "id": "C",
+          "text": "North America, Europe and Asia"
+        },
+        {
+          "id": "D",
+          "text": "South America only"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "26",
+      "question": "Which statement best explains the importance of the Indian Ocean for India?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It supports trade, fishing, climate and maritime connections."
+        },
+        {
+          "id": "B",
+          "text": "It separates India from Asia."
+        },
+        {
+          "id": "C",
+          "text": "It has no economic importance."
+        },
+        {
+          "id": "D",
+          "text": "It is the smallest ocean."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "27",
+      "question": "Why do coastal regions often have a more moderate climate than inland areas?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Oceans absorb and release heat slowly, reducing temperature extremes."
+        },
+        {
+          "id": "B",
+          "text": "Oceans increase earthquakes."
+        },
+        {
+          "id": "C",
+          "text": "Oceans stop sunlight."
+        },
+        {
+          "id": "D",
+          "text": "Oceans reduce gravity."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "28",
+      "question": "Which of the following is the best example of the relationship between oceans and continents?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Oceans influence rainfall and climate over nearby continents."
+        },
+        {
+          "id": "B",
+          "text": "Continents prevent ocean waves."
+        },
+        {
+          "id": "C",
+          "text": "Oceans stop mountain formation."
+        },
+        {
+          "id": "D",
+          "text": "Continents reduce ocean depth."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "29",
+      "question": "If a country wants to expand international sea trade, which geographical feature is most important?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Access to an ocean or sea"
+        },
+        {
+          "id": "B",
+          "text": "High mountains"
+        },
+        {
+          "id": "C",
+          "text": "Dense forests"
+        },
+        {
+          "id": "D",
+          "text": "Large deserts"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "30",
+      "question": "Which option best summarizes the main idea of this chapter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Continents and oceans together shape Earth's environment, climate, biodiversity and human activities."
+        },
+        {
+          "id": "B",
+          "text": "Oceans are important only for ships."
+        },
+        {
+          "id": "C",
+          "text": "Continents and oceans exist independently without influencing each other."
+        },
+        {
+          "id": "D",
+          "text": "Continents are more important than oceans."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    }
+  ]
+}

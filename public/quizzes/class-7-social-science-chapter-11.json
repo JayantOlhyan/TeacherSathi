@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "What is the Constitution of India?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The supreme law of the country"
+        },
+        {
+          "id": "B",
+          "text": "A history textbook"
+        },
+        {
+          "id": "C",
+          "text": "A law made by one state"
+        },
+        {
+          "id": "D",
+          "text": "A school rule book"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "2",
+      "question": "When did the Constitution of India come into force?",
+      "options": [
+        {
+          "id": "A",
+          "text": "26 January 1950"
+        },
+        {
+          "id": "B",
+          "text": "15 August 1947"
+        },
+        {
+          "id": "C",
+          "text": "2 October 1948"
+        },
+        {
+          "id": "D",
+          "text": "26 November 1949"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "3",
+      "question": "Who is known as the chief architect of the Indian Constitution?",
+      "options": [
+        {
+          "id": "A",
+          "text": "B. R. Ambedkar"
+        },
+        {
+          "id": "B",
+          "text": "Mahatma Gandhi"
+        },
+        {
+          "id": "C",
+          "text": "Jawaharlal Nehru"
+        },
+        {
+          "id": "D",
+          "text": "Sardar Vallabhbhai Patel"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "4",
+      "question": "The Constitution guarantees _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fundamental Rights"
+        },
+        {
+          "id": "B",
+          "text": "Unlimited powers to rulers"
+        },
+        {
+          "id": "C",
+          "text": "Rule by kings"
+        },
+        {
+          "id": "D",
+          "text": "No elections"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "5",
+      "question": "India is a _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sovereign, Socialist, Secular, Democratic Republic"
+        },
+        {
+          "id": "B",
+          "text": "Monarchy"
+        },
+        {
+          "id": "C",
+          "text": "Dictatorship"
+        },
+        {
+          "id": "D",
+          "text": "Colony"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "6",
+      "question": "Which document protects the rights of Indian citizens?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Constitution of India"
+        },
+        {
+          "id": "B",
+          "text": "School diary"
+        },
+        {
+          "id": "C",
+          "text": "Atlas"
+        },
+        {
+          "id": "D",
+          "text": "Calendar"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "7",
+      "question": "Who makes the Constitution?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Constituent Assembly"
+        },
+        {
+          "id": "B",
+          "text": "Parliament alone"
+        },
+        {
+          "id": "C",
+          "text": "Supreme Court"
+        },
+        {
+          "id": "D",
+          "text": "Election Commission"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "8",
+      "question": "Which of the following is a Fundamental Duty?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Respect the National Flag and National Anthem"
+        },
+        {
+          "id": "B",
+          "text": "Ignore public property"
+        },
+        {
+          "id": "C",
+          "text": "Break traffic rules"
+        },
+        {
+          "id": "D",
+          "text": "Avoid voting"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "9",
+      "question": "Why is the Constitution important?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It guides the government and protects citizens' rights."
+        },
+        {
+          "id": "B",
+          "text": "It controls the weather."
+        },
+        {
+          "id": "C",
+          "text": "It decides school holidays."
+        },
+        {
+          "id": "D",
+          "text": "It regulates international sports."
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "10",
+      "question": "The Constitution applies to _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Every citizen of India"
+        },
+        {
+          "id": "B",
+          "text": "Only government officials"
+        },
+        {
+          "id": "C",
+          "text": "Only Members of Parliament"
+        },
+        {
+          "id": "D",
+          "text": "Only judges"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "11",
+      "question": "Why is the Constitution called the supreme law of India?",
+      "options": [
+        {
+          "id": "A",
+          "text": "All other laws must follow its principles."
+        },
+        {
+          "id": "B",
+          "text": "It is written only for Parliament."
+        },
+        {
+          "id": "C",
+          "text": "It applies only during elections."
+        },
+        {
+          "id": "D",
+          "text": "It changes every year."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "12",
+      "question": "Why are Fundamental Rights important?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They protect the freedom, equality and dignity of citizens."
+        },
+        {
+          "id": "B",
+          "text": "They give unlimited powers to the government."
+        },
+        {
+          "id": "C",
+          "text": "They apply only to adults."
+        },
+        {
+          "id": "D",
+          "text": "They remove equality."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "13",
+      "question": "Which principle is essential to the Indian Constitution?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Equality before the law"
+        },
+        {
+          "id": "B",
+          "text": "Rule by one family"
+        },
+        {
+          "id": "C",
+          "text": "Discrimination among citizens"
+        },
+        {
+          "id": "D",
+          "text": "No elections"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "14",
+      "question": "Why do citizens also have Fundamental Duties?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rights and duties together strengthen democracy."
+        },
+        {
+          "id": "B",
+          "text": "Duties replace rights."
+        },
+        {
+          "id": "C",
+          "text": "Duties are optional."
+        },
+        {
+          "id": "D",
+          "text": "Only the government has duties."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "15",
+      "question": "What is the role of the Constitution in a democracy?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It defines the powers of government and protects citizens' rights."
+        },
+        {
+          "id": "B",
+          "text": "It only collects taxes."
+        },
+        {
+          "id": "C",
+          "text": "It conducts elections."
+        },
+        {
+          "id": "D",
+          "text": "It controls weather conditions."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "16",
+      "question": "Which institution drafted the Constitution?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Constituent Assembly"
+        },
+        {
+          "id": "B",
+          "text": "Supreme Court"
+        },
+        {
+          "id": "C",
+          "text": "Lok Sabha"
+        },
+        {
+          "id": "D",
+          "text": "Election Commission"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "17",
+      "question": "Which statement about equality is correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Every citizen is equal before the law."
+        },
+        {
+          "id": "B",
+          "text": "Only rich people have equal rights."
+        },
+        {
+          "id": "C",
+          "text": "Equality applies only in schools."
+        },
+        {
+          "id": "D",
+          "text": "Equality depends on religion."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "18",
+      "question": "Why should citizens follow the Constitution?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It helps maintain justice, peace and democracy."
+        },
+        {
+          "id": "B",
+          "text": "It is only for government officials."
+        },
+        {
+          "id": "C",
+          "text": "It has no role in daily life."
+        },
+        {
+          "id": "D",
+          "text": "It applies only during elections."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "19",
+      "question": "Which action best reflects a Fundamental Duty?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Protecting public property and respecting national symbols"
+        },
+        {
+          "id": "B",
+          "text": "Damaging government property"
+        },
+        {
+          "id": "C",
+          "text": "Breaking laws intentionally"
+        },
+        {
+          "id": "D",
+          "text": "Ignoring civic responsibilities"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "20",
+      "question": "What is the central idea of this chapter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Constitution protects democracy, rights, equality and justice while guiding the government."
+        },
+        {
+          "id": "B",
+          "text": "The Constitution is only a history document."
+        },
+        {
+          "id": "C",
+          "text": "Rights are more important than duties."
+        },
+        {
+          "id": "D",
+          "text": "The Constitution applies only to leaders."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "21",
+      "question": "Why is the Constitution essential for a democratic country?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It limits government power and protects citizens' rights."
+        },
+        {
+          "id": "B",
+          "text": "It gives unlimited powers to leaders."
+        },
+        {
+          "id": "C",
+          "text": "It removes equality."
+        },
+        {
+          "id": "D",
+          "text": "It discourages public participation."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "22",
+      "question": "If India did not have a Constitution, which would most likely be affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Protection of citizens' rights and the rule of law."
+        },
+        {
+          "id": "B",
+          "text": "Earth's rotation."
+        },
+        {
+          "id": "C",
+          "text": "The climate."
+        },
+        {
+          "id": "D",
+          "text": "Ocean currents."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "23",
+      "question": "A citizen peacefully approaches a court when their rights are violated. Which constitutional principle is being exercised?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Protection of Fundamental Rights through the rule of law"
+        },
+        {
+          "id": "B",
+          "text": "Rule by force"
+        },
+        {
+          "id": "C",
+          "text": "Dictatorship"
+        },
+        {
+          "id": "D",
+          "text": "Hereditary rule"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "24",
+      "question": "Why is equality before the law an important constitutional principle?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It ensures that every citizen is treated fairly without discrimination."
+        },
+        {
+          "id": "B",
+          "text": "It gives special rights to rulers."
+        },
+        {
+          "id": "C",
+          "text": "It applies only to elected representatives."
+        },
+        {
+          "id": "D",
+          "text": "It benefits only wealthy citizens."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "25",
+      "question": "Which example best demonstrates responsible citizenship?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Respecting the Constitution, obeying laws and performing Fundamental Duties"
+        },
+        {
+          "id": "B",
+          "text": "Ignoring public responsibilities"
+        },
+        {
+          "id": "C",
+          "text": "Damaging national property"
+        },
+        {
+          "id": "D",
+          "text": "Refusing to follow laws"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "26",
+      "question": "Why are Fundamental Rights and Fundamental Duties closely related?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rights protect individual freedom, while duties promote responsibility towards society and the nation."
+        },
+        {
+          "id": "B",
+          "text": "Duties replace rights completely."
+        },
+        {
+          "id": "C",
+          "text": "Rights are more important than duties."
+        },
+        {
+          "id": "D",
+          "text": "Duties apply only to government officials."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "27",
+      "question": "Which lesson from the Constitution is most relevant today?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Democracy succeeds when citizens respect equality, justice, liberty and responsibility."
+        },
+        {
+          "id": "B",
+          "text": "Only governments are responsible for democracy."
+        },
+        {
+          "id": "C",
+          "text": "Rights can exist without responsibilities."
+        },
+        {
+          "id": "D",
+          "text": "Laws apply only to leaders."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "28",
+      "question": "Which action would strengthen constitutional values the most?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Respecting diversity, protecting public property and treating everyone equally."
+        },
+        {
+          "id": "B",
+          "text": "Discriminating against others."
+        },
+        {
+          "id": "C",
+          "text": "Ignoring laws."
+        },
+        {
+          "id": "D",
+          "text": "Damaging national symbols."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "29",
+      "question": "Which statement best explains the purpose of the Constitution?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It provides the framework for governance while safeguarding citizens' rights and democratic values."
+        },
+        {
+          "id": "B",
+          "text": "It only explains India's history."
+        },
+        {
+          "id": "C",
+          "text": "It only conducts elections."
+        },
+        {
+          "id": "D",
+          "text": "It only defines state boundaries."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "30",
+      "question": "Which statement best summarizes the main idea of this chapter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Constitution of India is the foundation of the nation's democracy, ensuring justice, liberty, equality and dignity for all citizens while guiding the functioning of the government."
+        },
+        {
+          "id": "B",
+          "text": "The Constitution is important only during elections."
+        },
+        {
+          "id": "C",
+          "text": "The Constitution applies only to Parliament."
+        },
+        {
+          "id": "D",
+          "text": "Rights are more important than constitutional values."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    }
+  ]
+}

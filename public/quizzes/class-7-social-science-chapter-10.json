@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "What is a government?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A system that governs and administers a country or region"
+        },
+        {
+          "id": "B",
+          "text": "A market where people buy goods"
+        },
+        {
+          "id": "C",
+          "text": "A school for higher education"
+        },
+        {
+          "id": "D",
+          "text": "A place of worship"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "2",
+      "question": "Which type of government exists in India?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Democracy"
+        },
+        {
+          "id": "B",
+          "text": "Monarchy"
+        },
+        {
+          "id": "C",
+          "text": "Dictatorship"
+        },
+        {
+          "id": "D",
+          "text": "Oligarchy"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "3",
+      "question": "In a democracy, the government is chosen by _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "The people through elections"
+        },
+        {
+          "id": "B",
+          "text": "Kings and queens"
+        },
+        {
+          "id": "C",
+          "text": "The military"
+        },
+        {
+          "id": "D",
+          "text": "Judges only"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "4",
+      "question": "In a monarchy, the ruler usually gets power through _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Heredity"
+        },
+        {
+          "id": "B",
+          "text": "Elections"
+        },
+        {
+          "id": "C",
+          "text": "Lottery"
+        },
+        {
+          "id": "D",
+          "text": "Public examination"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "5",
+      "question": "Which type of government gives complete power to one ruler?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dictatorship"
+        },
+        {
+          "id": "B",
+          "text": "Democracy"
+        },
+        {
+          "id": "C",
+          "text": "Republic"
+        },
+        {
+          "id": "D",
+          "text": "Federal system"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "6",
+      "question": "Which feature is most closely associated with democracy?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Free and fair elections"
+        },
+        {
+          "id": "B",
+          "text": "Rule by force"
+        },
+        {
+          "id": "C",
+          "text": "No voting rights"
+        },
+        {
+          "id": "D",
+          "text": "Hereditary rule"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "7",
+      "question": "Who are called citizens?",
+      "options": [
+        {
+          "id": "A",
+          "text": "People who legally belong to a country"
+        },
+        {
+          "id": "B",
+          "text": "Only government employees"
+        },
+        {
+          "id": "C",
+          "text": "Only voters above 18 years"
+        },
+        {
+          "id": "D",
+          "text": "Only elected leaders"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "8",
+      "question": "Why do governments make laws?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To maintain order and protect citizens"
+        },
+        {
+          "id": "B",
+          "text": "To increase pollution"
+        },
+        {
+          "id": "C",
+          "text": "To stop education"
+        },
+        {
+          "id": "D",
+          "text": "To reduce trade"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "9",
+      "question": "Which of the following is an example of citizen participation in democracy?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Voting in elections"
+        },
+        {
+          "id": "B",
+          "text": "Ignoring laws"
+        },
+        {
+          "id": "C",
+          "text": "Damaging public property"
+        },
+        {
+          "id": "D",
+          "text": "Avoiding civic duties"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "10",
+      "question": "The main purpose of government is to _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Serve the people and ensure their welfare"
+        },
+        {
+          "id": "B",
+          "text": "Benefit only a few people"
+        },
+        {
+          "id": "C",
+          "text": "Prevent education"
+        },
+        {
+          "id": "D",
+          "text": "Increase inequality"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "11",
+      "question": "Why is democracy often called the 'government of the people'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because people elect their representatives and participate in governance."
+        },
+        {
+          "id": "B",
+          "text": "Because rulers inherit power."
+        },
+        {
+          "id": "C",
+          "text": "Because only officials make decisions."
+        },
+        {
+          "id": "D",
+          "text": "Because citizens have no role."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "12",
+      "question": "What is the main difference between a monarchy and a democracy?",
+      "options": [
+        {
+          "id": "A",
+          "text": "In a monarchy, rulers inherit power; in a democracy, leaders are elected."
+        },
+        {
+          "id": "B",
+          "text": "Both are exactly the same."
+        },
+        {
+          "id": "C",
+          "text": "In democracy, there are no elections."
+        },
+        {
+          "id": "D",
+          "text": "In monarchy, citizens elect the king."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "13",
+      "question": "Why are elections important in a democracy?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They allow citizens to choose their representatives peacefully."
+        },
+        {
+          "id": "B",
+          "text": "They appoint judges."
+        },
+        {
+          "id": "C",
+          "text": "They remove the Constitution."
+        },
+        {
+          "id": "D",
+          "text": "They replace laws."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "14",
+      "question": "Which quality is essential for good governance?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Accountability"
+        },
+        {
+          "id": "B",
+          "text": "Secrecy"
+        },
+        {
+          "id": "C",
+          "text": "Discrimination"
+        },
+        {
+          "id": "D",
+          "text": "Corruption"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "15",
+      "question": "Why do citizens have responsibilities as well as rights?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rights and responsibilities together strengthen democracy."
+        },
+        {
+          "id": "B",
+          "text": "Only rights are important."
+        },
+        {
+          "id": "C",
+          "text": "Responsibilities reduce freedom."
+        },
+        {
+          "id": "D",
+          "text": "Citizens have no duties."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "16",
+      "question": "Which example best reflects responsible citizenship?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Following laws and participating in community activities"
+        },
+        {
+          "id": "B",
+          "text": "Ignoring elections"
+        },
+        {
+          "id": "C",
+          "text": "Damaging public property"
+        },
+        {
+          "id": "D",
+          "text": "Breaking traffic rules"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "17",
+      "question": "Why is the rule of law important?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It ensures that everyone is treated equally under the law."
+        },
+        {
+          "id": "B",
+          "text": "It gives special privileges to rulers."
+        },
+        {
+          "id": "C",
+          "text": "It allows some people to ignore laws."
+        },
+        {
+          "id": "D",
+          "text": "It removes equality."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "18",
+      "question": "Which type of government allows citizens to express their opinions freely?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Democracy"
+        },
+        {
+          "id": "B",
+          "text": "Dictatorship"
+        },
+        {
+          "id": "C",
+          "text": "Absolute monarchy"
+        },
+        {
+          "id": "D",
+          "text": "Military rule"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "19",
+      "question": "Which statement about democracy is correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Citizens participate in decision-making through elected representatives."
+        },
+        {
+          "id": "B",
+          "text": "One ruler has unlimited power."
+        },
+        {
+          "id": "C",
+          "text": "Elections are unnecessary."
+        },
+        {
+          "id": "D",
+          "text": "Citizens cannot question the government."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "20",
+      "question": "What is the central idea of this chapter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Different forms of government exist, but democracy values participation, equality and accountability."
+        },
+        {
+          "id": "B",
+          "text": "All governments function in the same way."
+        },
+        {
+          "id": "C",
+          "text": "Democracy has no role for citizens."
+        },
+        {
+          "id": "D",
+          "text": "Governments do not make laws."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "21",
+      "question": "Why is democracy considered more participatory than other forms of government?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Citizens have the right to vote, express opinions and hold leaders accountable."
+        },
+        {
+          "id": "B",
+          "text": "Only rulers make decisions."
+        },
+        {
+          "id": "C",
+          "text": "Elections are not conducted."
+        },
+        {
+          "id": "D",
+          "text": "Citizens cannot question the government."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "22",
+      "question": "If citizens stop participating in elections, what is the most likely consequence?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Democracy becomes weaker because public participation decreases."
+        },
+        {
+          "id": "B",
+          "text": "Democracy becomes stronger automatically."
+        },
+        {
+          "id": "C",
+          "text": "Elections become unnecessary."
+        },
+        {
+          "id": "D",
+          "text": "Laws stop functioning."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "23",
+      "question": "A government listens to public complaints and improves local services. Which democratic principle is demonstrated?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Accountability and responsiveness"
+        },
+        {
+          "id": "B",
+          "text": "Dictatorship"
+        },
+        {
+          "id": "C",
+          "text": "Hereditary rule"
+        },
+        {
+          "id": "D",
+          "text": "Military governance"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "24",
+      "question": "Why is the rule of law essential in a democracy?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It ensures justice and equality for every citizen."
+        },
+        {
+          "id": "B",
+          "text": "It allows leaders to ignore laws."
+        },
+        {
+          "id": "C",
+          "text": "It applies only to government officials."
+        },
+        {
+          "id": "D",
+          "text": "It benefits only wealthy people."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "25",
+      "question": "Which example best shows active citizenship?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Voting, following laws and participating in community welfare"
+        },
+        {
+          "id": "B",
+          "text": "Ignoring civic duties"
+        },
+        {
+          "id": "C",
+          "text": "Damaging public property"
+        },
+        {
+          "id": "D",
+          "text": "Avoiding elections permanently"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "26",
+      "question": "Why should governments remain accountable to citizens?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Governments derive their authority from the people in a democracy."
+        },
+        {
+          "id": "B",
+          "text": "Governments are above the law."
+        },
+        {
+          "id": "C",
+          "text": "Citizens have no role after elections."
+        },
+        {
+          "id": "D",
+          "text": "Accountability slows development."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "27",
+      "question": "Which lesson from this chapter is most relevant today?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Democracy succeeds when citizens actively participate and governments remain accountable."
+        },
+        {
+          "id": "B",
+          "text": "Elections are the responsibility of leaders only."
+        },
+        {
+          "id": "C",
+          "text": "Rights are more important than responsibilities."
+        },
+        {
+          "id": "D",
+          "text": "Citizens do not influence governance."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "28",
+      "question": "Which action would strengthen democracy the most?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Conducting free and fair elections and encouraging informed citizen participation."
+        },
+        {
+          "id": "B",
+          "text": "Preventing people from voting."
+        },
+        {
+          "id": "C",
+          "text": "Giving unlimited power to one leader."
+        },
+        {
+          "id": "D",
+          "text": "Ignoring the Constitution."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "29",
+      "question": "Which statement best explains the evolution from rulers to the ruled?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Political systems gradually shifted from rule by a few individuals to governments accountable to citizens."
+        },
+        {
+          "id": "B",
+          "text": "Modern governments are all monarchies."
+        },
+        {
+          "id": "C",
+          "text": "Democracy existed unchanged throughout history."
+        },
+        {
+          "id": "D",
+          "text": "Citizens have always had no role in governance."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "30",
+      "question": "Which statement best summarizes the main idea of this chapter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Governments have evolved over time, and democracy empowers citizens through participation, equality, rights and accountability."
+        },
+        {
+          "id": "B",
+          "text": "Monarchy and democracy are identical systems."
+        },
+        {
+          "id": "C",
+          "text": "Citizens have no role in modern governance."
+        },
+        {
+          "id": "D",
+          "text": "Governments exist only to make laws."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    }
+  ]
+}

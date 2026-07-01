@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "Which system of local government functions in rural areas?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Panchayati Raj System"
+        },
+        {
+          "id": "B",
+          "text": "Municipal Corporation"
+        },
+        {
+          "id": "C",
+          "text": "Parliament"
+        },
+        {
+          "id": "D",
+          "text": "High Court"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "2",
+      "question": "What is the village assembly called?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gram Sabha"
+        },
+        {
+          "id": "B",
+          "text": "Lok Sabha"
+        },
+        {
+          "id": "C",
+          "text": "Rajya Sabha"
+        },
+        {
+          "id": "D",
+          "text": "Nagar Sabha"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "3",
+      "question": "Who are the members of the Gram Sabha?",
+      "options": [
+        {
+          "id": "A",
+          "text": "All registered voters of the village"
+        },
+        {
+          "id": "B",
+          "text": "Only the Sarpanch"
+        },
+        {
+          "id": "C",
+          "text": "Only teachers"
+        },
+        {
+          "id": "D",
+          "text": "Only government officials"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "4",
+      "question": "Who is the elected head of the Gram Panchayat?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sarpanch"
+        },
+        {
+          "id": "B",
+          "text": "Governor"
+        },
+        {
+          "id": "C",
+          "text": "Chief Minister"
+        },
+        {
+          "id": "D",
+          "text": "Collector"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "5",
+      "question": "The Panchayati Raj System mainly works for _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rural development"
+        },
+        {
+          "id": "B",
+          "text": "Space research"
+        },
+        {
+          "id": "C",
+          "text": "Foreign trade"
+        },
+        {
+          "id": "D",
+          "text": "Railway management"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "6",
+      "question": "Which level is the lowest in the Panchayati Raj System?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gram Panchayat"
+        },
+        {
+          "id": "B",
+          "text": "Zila Parishad"
+        },
+        {
+          "id": "C",
+          "text": "State Government"
+        },
+        {
+          "id": "D",
+          "text": "Parliament"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "7",
+      "question": "Which institution plans development work at the village level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gram Panchayat"
+        },
+        {
+          "id": "B",
+          "text": "Supreme Court"
+        },
+        {
+          "id": "C",
+          "text": "Election Commission"
+        },
+        {
+          "id": "D",
+          "text": "Reserve Bank of India"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "8",
+      "question": "Which of the following is a function of the Gram Panchayat?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Maintaining village roads and sanitation"
+        },
+        {
+          "id": "B",
+          "text": "Conducting national elections"
+        },
+        {
+          "id": "C",
+          "text": "Managing airports"
+        },
+        {
+          "id": "D",
+          "text": "Printing currency"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "9",
+      "question": "Why is the Gram Sabha important?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It allows villagers to participate in decision-making."
+        },
+        {
+          "id": "B",
+          "text": "It appoints the President of India."
+        },
+        {
+          "id": "C",
+          "text": "It makes laws for the whole country."
+        },
+        {
+          "id": "D",
+          "text": "It controls the armed forces."
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "10",
+      "question": "The main purpose of Panchayati Raj is to _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Strengthen local self-government in villages"
+        },
+        {
+          "id": "B",
+          "text": "Control international trade"
+        },
+        {
+          "id": "C",
+          "text": "Conduct Parliament sessions"
+        },
+        {
+          "id": "D",
+          "text": "Manage universities"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "11",
+      "question": "Why is the Gram Sabha considered the foundation of rural democracy?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It gives every eligible voter an opportunity to participate in local decisions."
+        },
+        {
+          "id": "B",
+          "text": "It appoints judges."
+        },
+        {
+          "id": "C",
+          "text": "It makes national laws."
+        },
+        {
+          "id": "D",
+          "text": "It manages state finances."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "12",
+      "question": "Which function is mainly performed by the Gram Panchayat?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Providing civic services and implementing development programmes"
+        },
+        {
+          "id": "B",
+          "text": "Conducting international relations"
+        },
+        {
+          "id": "C",
+          "text": "Managing defence services"
+        },
+        {
+          "id": "D",
+          "text": "Printing textbooks"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "13",
+      "question": "Why are Panchayat elections important?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They allow villagers to elect their local representatives."
+        },
+        {
+          "id": "B",
+          "text": "They select the Prime Minister."
+        },
+        {
+          "id": "C",
+          "text": "They appoint Governors."
+        },
+        {
+          "id": "D",
+          "text": "They elect Members of Parliament."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "14",
+      "question": "Which value is promoted through Panchayati Raj?",
+      "options": [
+        {
+          "id": "A",
+          "text": "People's participation in governance"
+        },
+        {
+          "id": "B",
+          "text": "Rule by one person"
+        },
+        {
+          "id": "C",
+          "text": "Social inequality"
+        },
+        {
+          "id": "D",
+          "text": "Lack of accountability"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "15",
+      "question": "Why should villagers attend Gram Sabha meetings?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To express opinions and participate in village development."
+        },
+        {
+          "id": "B",
+          "text": "To conduct court cases."
+        },
+        {
+          "id": "C",
+          "text": "To collect taxes only."
+        },
+        {
+          "id": "D",
+          "text": "To appoint ministers."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "16",
+      "question": "Which of the following is an example of rural development?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Constructing village roads and improving sanitation"
+        },
+        {
+          "id": "B",
+          "text": "Building international airports"
+        },
+        {
+          "id": "C",
+          "text": "Managing seaports"
+        },
+        {
+          "id": "D",
+          "text": "Conducting space missions"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "17",
+      "question": "Which institution works at the district level in the Panchayati Raj System?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Zila Parishad"
+        },
+        {
+          "id": "B",
+          "text": "Gram Sabha"
+        },
+        {
+          "id": "C",
+          "text": "Gram Panchayat"
+        },
+        {
+          "id": "D",
+          "text": "Lok Sabha"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "18",
+      "question": "Why is decentralisation important in rural governance?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It allows decisions to be taken closer to the people."
+        },
+        {
+          "id": "B",
+          "text": "It reduces public participation."
+        },
+        {
+          "id": "C",
+          "text": "It increases central control over villages."
+        },
+        {
+          "id": "D",
+          "text": "It removes local leadership."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "19",
+      "question": "Which action best reflects active participation in rural democracy?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Villagers attending Gram Sabha meetings and suggesting development projects"
+        },
+        {
+          "id": "B",
+          "text": "Ignoring village meetings"
+        },
+        {
+          "id": "C",
+          "text": "Damaging public property"
+        },
+        {
+          "id": "D",
+          "text": "Refusing to vote"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "20",
+      "question": "What is the central idea of this chapter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rural development becomes more effective when people actively participate in local self-government."
+        },
+        {
+          "id": "B",
+          "text": "Villages do not need elected representatives."
+        },
+        {
+          "id": "C",
+          "text": "Rural governance depends only on the State Government."
+        },
+        {
+          "id": "D",
+          "text": "Gram Sabha has no role in democracy."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "21",
+      "question": "Why is the Panchayati Raj System considered an important feature of democracy?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It brings governance closer to the people and encourages public participation."
+        },
+        {
+          "id": "B",
+          "text": "It replaces Parliament."
+        },
+        {
+          "id": "C",
+          "text": "It works only during elections."
+        },
+        {
+          "id": "D",
+          "text": "It has no role in development."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "22",
+      "question": "If villagers do not participate in Gram Sabha meetings, what is the most likely impact?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Local development may not reflect the actual needs of the community."
+        },
+        {
+          "id": "B",
+          "text": "Village roads will disappear automatically."
+        },
+        {
+          "id": "C",
+          "text": "Elections will stop permanently."
+        },
+        {
+          "id": "D",
+          "text": "State Governments will be dissolved."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "23",
+      "question": "A Gram Panchayat decides to improve drinking water facilities after consulting villagers. Which democratic principle is demonstrated?",
+      "options": [
+        {
+          "id": "A",
+          "text": "People's participation in decision-making"
+        },
+        {
+          "id": "B",
+          "text": "Centralised governance"
+        },
+        {
+          "id": "C",
+          "text": "Rule without consultation"
+        },
+        {
+          "id": "D",
+          "text": "Lack of transparency"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "24",
+      "question": "Which statement best explains the importance of decentralisation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Local problems can be solved more efficiently by local representatives."
+        },
+        {
+          "id": "B",
+          "text": "All decisions should be taken only by the Central Government."
+        },
+        {
+          "id": "C",
+          "text": "Villages should not have elected bodies."
+        },
+        {
+          "id": "D",
+          "text": "Local governments are unnecessary."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "25",
+      "question": "Which situation best demonstrates accountability in a Gram Panchayat?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Sarpanch explains how village development funds were used during a Gram Sabha meeting."
+        },
+        {
+          "id": "B",
+          "text": "Development funds are kept secret."
+        },
+        {
+          "id": "C",
+          "text": "Public complaints are ignored."
+        },
+        {
+          "id": "D",
+          "text": "Meetings are never conducted."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "26",
+      "question": "Why is the Gram Sabha often called the 'voice of the village'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because every registered voter can participate and express opinions."
+        },
+        {
+          "id": "B",
+          "text": "Because only officials can speak."
+        },
+        {
+          "id": "C",
+          "text": "Because only the Sarpanch attends."
+        },
+        {
+          "id": "D",
+          "text": "Because it functions only during elections."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "27",
+      "question": "Which responsibility best belongs to villagers in a democratic Panchayati Raj System?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Participating in meetings, voting and supporting community development"
+        },
+        {
+          "id": "B",
+          "text": "Ignoring public issues"
+        },
+        {
+          "id": "C",
+          "text": "Damaging village property"
+        },
+        {
+          "id": "D",
+          "text": "Avoiding local elections"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "28",
+      "question": "Which example best reflects effective local self-government?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Villagers and the Gram Panchayat working together to solve sanitation and water problems"
+        },
+        {
+          "id": "B",
+          "text": "Waiting only for the Central Government to solve every local issue"
+        },
+        {
+          "id": "C",
+          "text": "Ignoring community needs"
+        },
+        {
+          "id": "D",
+          "text": "Cancelling Gram Sabha meetings"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "29",
+      "question": "Which lesson from this chapter is most relevant for responsible citizenship?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Democracy becomes stronger when citizens actively participate in local governance."
+        },
+        {
+          "id": "B",
+          "text": "Local governments are not important."
+        },
+        {
+          "id": "C",
+          "text": "Voting is the only responsibility of citizens."
+        },
+        {
+          "id": "D",
+          "text": "Development depends only on higher levels of government."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "30",
+      "question": "Which statement best summarizes the main idea of this chapter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Panchayati Raj System empowers rural communities through democratic participation, decentralisation and local self-governance."
+        },
+        {
+          "id": "B",
+          "text": "Rural governance is managed only by the Central Government."
+        },
+        {
+          "id": "C",
+          "text": "Gram Sabha has no role in village development."
+        },
+        {
+          "id": "D",
+          "text": "Local governments are unnecessary in a democracy."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    }
+  ]
+}

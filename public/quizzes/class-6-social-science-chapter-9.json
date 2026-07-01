@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "What is the smallest unit of society?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Family"
+        },
+        {
+          "id": "B",
+          "text": "Village"
+        },
+        {
+          "id": "C",
+          "text": "State"
+        },
+        {
+          "id": "D",
+          "text": "Country"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "2",
+      "question": "A community is a group of people who _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Live together and help one another"
+        },
+        {
+          "id": "B",
+          "text": "Always belong to the same family"
+        },
+        {
+          "id": "C",
+          "text": "Speak only one language"
+        },
+        {
+          "id": "D",
+          "text": "Work in one office"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "3",
+      "question": "Which is an important function of a family?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Providing love, care and support"
+        },
+        {
+          "id": "B",
+          "text": "Conducting elections"
+        },
+        {
+          "id": "C",
+          "text": "Making laws"
+        },
+        {
+          "id": "D",
+          "text": "Collecting taxes"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "4",
+      "question": "Which value is learned first in a family?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Respect and cooperation"
+        },
+        {
+          "id": "B",
+          "text": "Competition only"
+        },
+        {
+          "id": "C",
+          "text": "Anger"
+        },
+        {
+          "id": "D",
+          "text": "Discrimination"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "5",
+      "question": "Community members help each other during _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Festivals and emergencies"
+        },
+        {
+          "id": "B",
+          "text": "Exams only"
+        },
+        {
+          "id": "C",
+          "text": "Sports only"
+        },
+        {
+          "id": "D",
+          "text": "Holidays only"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "6",
+      "question": "Which of the following is an example of cooperation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Helping to clean the neighbourhood"
+        },
+        {
+          "id": "B",
+          "text": "Throwing garbage on the road"
+        },
+        {
+          "id": "C",
+          "text": "Damaging public property"
+        },
+        {
+          "id": "D",
+          "text": "Ignoring others' problems"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "7",
+      "question": "A good family is based on _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Trust and mutual respect"
+        },
+        {
+          "id": "B",
+          "text": "Fear"
+        },
+        {
+          "id": "C",
+          "text": "Hatred"
+        },
+        {
+          "id": "D",
+          "text": "Selfishness"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "8",
+      "question": "Which of the following is a community place?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Public park"
+        },
+        {
+          "id": "B",
+          "text": "Personal bedroom"
+        },
+        {
+          "id": "C",
+          "text": "Private cupboard"
+        },
+        {
+          "id": "D",
+          "text": "School bag"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "9",
+      "question": "Why should we protect community property?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because it belongs to everyone"
+        },
+        {
+          "id": "B",
+          "text": "Because it belongs to one family"
+        },
+        {
+          "id": "C",
+          "text": "Because it has no value"
+        },
+        {
+          "id": "D",
+          "text": "Because it is temporary"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "10",
+      "question": "The main idea of this chapter is _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Families and communities shape responsible citizens."
+        },
+        {
+          "id": "B",
+          "text": "Families are not important."
+        },
+        {
+          "id": "C",
+          "text": "Communities have no role in society."
+        },
+        {
+          "id": "D",
+          "text": "Only schools teach values."
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "11",
+      "question": "Why is the family called the first school of a child?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because children first learn values, behaviour and responsibilities at home."
+        },
+        {
+          "id": "B",
+          "text": "Because schools are not necessary."
+        },
+        {
+          "id": "C",
+          "text": "Because families conduct examinations."
+        },
+        {
+          "id": "D",
+          "text": "Because families issue certificates."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "12",
+      "question": "How does a community contribute to people's lives?",
+      "options": [
+        {
+          "id": "A",
+          "text": "By encouraging cooperation, safety and social support"
+        },
+        {
+          "id": "B",
+          "text": "By promoting conflicts"
+        },
+        {
+          "id": "C",
+          "text": "By reducing social interaction"
+        },
+        {
+          "id": "D",
+          "text": "By preventing development"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "13",
+      "question": "Which action shows responsibility towards the community?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Keeping public places clean"
+        },
+        {
+          "id": "B",
+          "text": "Damaging streetlights"
+        },
+        {
+          "id": "C",
+          "text": "Wasting public water"
+        },
+        {
+          "id": "D",
+          "text": "Ignoring public rules"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "14",
+      "question": "Why are responsibilities shared among family members?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To ensure cooperation and smooth functioning of the family"
+        },
+        {
+          "id": "B",
+          "text": "To increase conflicts"
+        },
+        {
+          "id": "C",
+          "text": "To reduce communication"
+        },
+        {
+          "id": "D",
+          "text": "To create inequality"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "15",
+      "question": "Which value helps strengthen relationships within a family?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Honesty and respect"
+        },
+        {
+          "id": "B",
+          "text": "Jealousy"
+        },
+        {
+          "id": "C",
+          "text": "Selfishness"
+        },
+        {
+          "id": "D",
+          "text": "Dishonesty"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "16",
+      "question": "Which of the following best reflects active participation in the community?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Volunteering in a cleanliness drive"
+        },
+        {
+          "id": "B",
+          "text": "Damaging public property"
+        },
+        {
+          "id": "C",
+          "text": "Ignoring neighbourhood problems"
+        },
+        {
+          "id": "D",
+          "text": "Refusing to help others"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "17",
+      "question": "Why are community rules important?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They help maintain peace, safety and cooperation."
+        },
+        {
+          "id": "B",
+          "text": "They reduce equality."
+        },
+        {
+          "id": "C",
+          "text": "They prevent development."
+        },
+        {
+          "id": "D",
+          "text": "They benefit only a few people."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "18",
+      "question": "Which institution teaches both rights and responsibilities in everyday life?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Family and community"
+        },
+        {
+          "id": "B",
+          "text": "Market only"
+        },
+        {
+          "id": "C",
+          "text": "Factory only"
+        },
+        {
+          "id": "D",
+          "text": "Railway station only"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "19",
+      "question": "Which example best shows community cooperation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Residents planting trees together in a park"
+        },
+        {
+          "id": "B",
+          "text": "People damaging public benches"
+        },
+        {
+          "id": "C",
+          "text": "Throwing waste into rivers"
+        },
+        {
+          "id": "D",
+          "text": "Ignoring common problems"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "20",
+      "question": "What is the central idea of this chapter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Strong families and communities help build a responsible and caring society."
+        },
+        {
+          "id": "B",
+          "text": "Families are separate from society."
+        },
+        {
+          "id": "C",
+          "text": "Communities have no importance."
+        },
+        {
+          "id": "D",
+          "text": "Individual success alone matters."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "21",
+      "question": "Why are families and communities essential for the development of responsible citizens?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They teach values, responsibilities, cooperation and respect from an early age."
+        },
+        {
+          "id": "B",
+          "text": "They provide only financial support."
+        },
+        {
+          "id": "C",
+          "text": "They replace schools completely."
+        },
+        {
+          "id": "D",
+          "text": "They have no role in character development."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "22",
+      "question": "If community members stop cooperating with one another, what is the most likely result?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Social harmony and collective well-being will be affected."
+        },
+        {
+          "id": "B",
+          "text": "Public services will improve automatically."
+        },
+        {
+          "id": "C",
+          "text": "Community relationships will become stronger."
+        },
+        {
+          "id": "D",
+          "text": "Everyone will become more responsible."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "23",
+      "question": "Which situation best demonstrates responsible citizenship?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Participating in a neighbourhood cleanliness campaign and protecting public property"
+        },
+        {
+          "id": "B",
+          "text": "Ignoring damaged public facilities"
+        },
+        {
+          "id": "C",
+          "text": "Wasting water in public places"
+        },
+        {
+          "id": "D",
+          "text": "Refusing to follow community rules"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "24",
+      "question": "Why is sharing responsibilities within a family important?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It promotes teamwork, equality and mutual understanding."
+        },
+        {
+          "id": "B",
+          "text": "It increases conflicts."
+        },
+        {
+          "id": "C",
+          "text": "It reduces trust."
+        },
+        {
+          "id": "D",
+          "text": "It discourages cooperation."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "25",
+      "question": "A neighbourhood comes together to help families affected by floods. Which value is best demonstrated?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Community solidarity and compassion"
+        },
+        {
+          "id": "B",
+          "text": "Competition"
+        },
+        {
+          "id": "C",
+          "text": "Self-interest"
+        },
+        {
+          "id": "D",
+          "text": "Discrimination"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "26",
+      "question": "Which statement best explains the relationship between family and community?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Strong families contribute to strong communities, and strong communities support families."
+        },
+        {
+          "id": "B",
+          "text": "Families and communities are completely unrelated."
+        },
+        {
+          "id": "C",
+          "text": "Communities replace families."
+        },
+        {
+          "id": "D",
+          "text": "Families do not influence society."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "27",
+      "question": "Which action best protects community resources?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Using public facilities responsibly and encouraging others to do the same"
+        },
+        {
+          "id": "B",
+          "text": "Damaging public property"
+        },
+        {
+          "id": "C",
+          "text": "Wasting electricity in public buildings"
+        },
+        {
+          "id": "D",
+          "text": "Ignoring maintenance of common spaces"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "28",
+      "question": "Why is mutual respect important in both families and communities?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It builds trust, cooperation and peaceful relationships."
+        },
+        {
+          "id": "B",
+          "text": "It creates misunderstandings."
+        },
+        {
+          "id": "C",
+          "text": "It discourages teamwork."
+        },
+        {
+          "id": "D",
+          "text": "It reduces equality."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "29",
+      "question": "Which lesson from this chapter can be applied in school life?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Working together, respecting others and sharing responsibilities"
+        },
+        {
+          "id": "B",
+          "text": "Avoiding teamwork"
+        },
+        {
+          "id": "C",
+          "text": "Ignoring school rules"
+        },
+        {
+          "id": "D",
+          "text": "Competing unfairly with classmates"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "30",
+      "question": "Which statement best summarizes the main idea of this chapter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Families and communities play a vital role in developing responsible, cooperative and caring citizens who contribute positively to society."
+        },
+        {
+          "id": "B",
+          "text": "Families are important only for children."
+        },
+        {
+          "id": "C",
+          "text": "Communities have no influence on personal development."
+        },
+        {
+          "id": "D",
+          "text": "Society develops without cooperation."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    }
+  ]
+}

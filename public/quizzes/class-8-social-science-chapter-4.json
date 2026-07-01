@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "What does the term 'colonialism' mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Control of one country by another for political and economic benefit"
+        },
+        {
+          "id": "B",
+          "text": "Rule by local villages"
+        },
+        {
+          "id": "C",
+          "text": "Democratic elections"
+        },
+        {
+          "id": "D",
+          "text": "Local self-government"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "2",
+      "question": "Which European company established its rule over large parts of India?",
+      "options": [
+        {
+          "id": "A",
+          "text": "East India Company"
+        },
+        {
+          "id": "B",
+          "text": "Microsoft"
+        },
+        {
+          "id": "C",
+          "text": "Google"
+        },
+        {
+          "id": "D",
+          "text": "Apple"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "3",
+      "question": "Which battle marked the beginning of British political control in India?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Battle of Plassey"
+        },
+        {
+          "id": "B",
+          "text": "First Battle of Panipat"
+        },
+        {
+          "id": "C",
+          "text": "Battle of Haldighati"
+        },
+        {
+          "id": "D",
+          "text": "Third Battle of Panipat"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "4",
+      "question": "Which year did India gain independence?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1947"
+        },
+        {
+          "id": "B",
+          "text": "1950"
+        },
+        {
+          "id": "C",
+          "text": "1857"
+        },
+        {
+          "id": "D",
+          "text": "1930"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "5",
+      "question": "Which uprising is known as the First War of Independence by many historians?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Indian Rebellion of 1857"
+        },
+        {
+          "id": "B",
+          "text": "Quit India Movement"
+        },
+        {
+          "id": "C",
+          "text": "Non-Cooperation Movement"
+        },
+        {
+          "id": "D",
+          "text": "Civil Disobedience Movement"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "6",
+      "question": "What was the main aim of the East India Company?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Trade and profit"
+        },
+        {
+          "id": "B",
+          "text": "Education only"
+        },
+        {
+          "id": "C",
+          "text": "Sports promotion"
+        },
+        {
+          "id": "D",
+          "text": "Scientific research"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "7",
+      "question": "Which crop was often grown under British rule for export?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Indigo"
+        },
+        {
+          "id": "B",
+          "text": "Apple"
+        },
+        {
+          "id": "C",
+          "text": "Grapes"
+        },
+        {
+          "id": "D",
+          "text": "Orange"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "8",
+      "question": "Colonial rule mainly affected India's _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Economy, society and politics"
+        },
+        {
+          "id": "B",
+          "text": "Climate only"
+        },
+        {
+          "id": "C",
+          "text": "Rivers only"
+        },
+        {
+          "id": "D",
+          "text": "Mountains only"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "9",
+      "question": "Which country ruled India during the colonial period?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Britain"
+        },
+        {
+          "id": "B",
+          "text": "France"
+        },
+        {
+          "id": "C",
+          "text": "Russia"
+        },
+        {
+          "id": "D",
+          "text": "Japan"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "10",
+      "question": "The chapter mainly explains _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "British colonial rule and its impact on India"
+        },
+        {
+          "id": "B",
+          "text": "Ancient Indian kingdoms"
+        },
+        {
+          "id": "C",
+          "text": "India's Constitution"
+        },
+        {
+          "id": "D",
+          "text": "Weather and climate"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "11",
+      "question": "Why did the East India Company gradually gain political power in India?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It used military strength, diplomacy and alliances with Indian rulers."
+        },
+        {
+          "id": "B",
+          "text": "It focused only on education."
+        },
+        {
+          "id": "C",
+          "text": "It avoided trade."
+        },
+        {
+          "id": "D",
+          "text": "It had no army."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "12",
+      "question": "Why is the Battle of Plassey considered a turning point?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It marked the beginning of British political dominance in India."
+        },
+        {
+          "id": "B",
+          "text": "It ended British rule."
+        },
+        {
+          "id": "C",
+          "text": "It established the Mughal Empire."
+        },
+        {
+          "id": "D",
+          "text": "It introduced democracy."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "13",
+      "question": "How did colonial rule affect Indian industries?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Many traditional industries declined due to British economic policies."
+        },
+        {
+          "id": "B",
+          "text": "All industries expanded equally."
+        },
+        {
+          "id": "C",
+          "text": "Industries received complete protection."
+        },
+        {
+          "id": "D",
+          "text": "Agriculture disappeared."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "14",
+      "question": "Why did farmers suffer under colonial rule?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Heavy taxes and forced cultivation of cash crops created hardships."
+        },
+        {
+          "id": "B",
+          "text": "Taxes were abolished completely."
+        },
+        {
+          "id": "C",
+          "text": "Farmers received unlimited financial support."
+        },
+        {
+          "id": "D",
+          "text": "Agriculture became tax-free."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "15",
+      "question": "Why did many Indians oppose colonial rule?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They wanted political freedom and economic justice."
+        },
+        {
+          "id": "B",
+          "text": "They opposed education."
+        },
+        {
+          "id": "C",
+          "text": "They wanted more foreign rule."
+        },
+        {
+          "id": "D",
+          "text": "They opposed agriculture."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "16",
+      "question": "Which statement about colonialism is correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It changed India's economy, administration and society."
+        },
+        {
+          "id": "B",
+          "text": "It affected only trade."
+        },
+        {
+          "id": "C",
+          "text": "It had no influence on education."
+        },
+        {
+          "id": "D",
+          "text": "It changed only the climate."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "17",
+      "question": "Why are historical sources from the colonial period important?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They help us understand political, social and economic changes."
+        },
+        {
+          "id": "B",
+          "text": "They describe only weather conditions."
+        },
+        {
+          "id": "C",
+          "text": "They have no historical value."
+        },
+        {
+          "id": "D",
+          "text": "They explain only geography."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "18",
+      "question": "Which value, inspired the Indian freedom movement?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Freedom, equality and self-rule"
+        },
+        {
+          "id": "B",
+          "text": "Colonial control"
+        },
+        {
+          "id": "C",
+          "text": "Discrimination"
+        },
+        {
+          "id": "D",
+          "text": "Isolation"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "19",
+      "question": "Which factor contributed to the growth of nationalism in India?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Opposition to colonial policies and growing national awareness"
+        },
+        {
+          "id": "B",
+          "text": "Reduced communication"
+        },
+        {
+          "id": "C",
+          "text": "Lack of education"
+        },
+        {
+          "id": "D",
+          "text": "Isolation between regions"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "20",
+      "question": "What is the central idea of this chapter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Colonial rule transformed India politically, socially and economically, leading to the growth of the freedom movement."
+        },
+        {
+          "id": "B",
+          "text": "Colonialism had no impact on India."
+        },
+        {
+          "id": "C",
+          "text": "Only trade changed during British rule."
+        },
+        {
+          "id": "D",
+          "text": "Nationalism developed without colonial rule."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "21",
+      "question": "Why is colonialism considered both a political and an economic system?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It involved controlling territories while exploiting their resources for economic benefit."
+        },
+        {
+          "id": "B",
+          "text": "It focused only on education."
+        },
+        {
+          "id": "C",
+          "text": "It promoted equal development everywhere."
+        },
+        {
+          "id": "D",
+          "text": "It had no economic objectives."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "22",
+      "question": "If the East India Company had remained only a trading company, what would most likely have been different?",
+      "options": [
+        {
+          "id": "A",
+          "text": "British political control over India would have developed differently or more slowly."
+        },
+        {
+          "id": "B",
+          "text": "India would not have traded with any country."
+        },
+        {
+          "id": "C",
+          "text": "The Constitution would have been written earlier."
+        },
+        {
+          "id": "D",
+          "text": "Agriculture would have disappeared."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "23",
+      "question": "A farmer is forced to grow indigo instead of food crops under colonial policies. Which impact of colonialism does this illustrate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Economic exploitation of agriculture"
+        },
+        {
+          "id": "B",
+          "text": "Democratic governance"
+        },
+        {
+          "id": "C",
+          "text": "Environmental conservation"
+        },
+        {
+          "id": "D",
+          "text": "Scientific progress"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "24",
+      "question": "Why did traditional Indian handicrafts decline during colonial rule?",
+      "options": [
+        {
+          "id": "A",
+          "text": "British manufactured goods and economic policies reduced demand for local products."
+        },
+        {
+          "id": "B",
+          "text": "Indian artisans stopped working voluntarily."
+        },
+        {
+          "id": "C",
+          "text": "There were no consumers in India."
+        },
+        {
+          "id": "D",
+          "text": "Agriculture replaced all industries."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "25",
+      "question": "Which statement best explains the rise of Indian nationalism?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Shared experiences under colonial rule encouraged people to unite for freedom."
+        },
+        {
+          "id": "B",
+          "text": "Colonial rule reduced national awareness."
+        },
+        {
+          "id": "C",
+          "text": "Nationalism developed without political causes."
+        },
+        {
+          "id": "D",
+          "text": "Trade alone created nationalism."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "26",
+      "question": "A government controls another country's economy mainly to benefit itself. Which concept is illustrated?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Colonial exploitation"
+        },
+        {
+          "id": "B",
+          "text": "Federalism"
+        },
+        {
+          "id": "C",
+          "text": "Democracy"
+        },
+        {
+          "id": "D",
+          "text": "Local self-government"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "27",
+      "question": "Which lesson from this chapter is most relevant today?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Political freedom, economic justice and self-governance are essential for national development."
+        },
+        {
+          "id": "B",
+          "text": "Colonies benefit equally from foreign rule."
+        },
+        {
+          "id": "C",
+          "text": "Economic independence is unimportant."
+        },
+        {
+          "id": "D",
+          "text": "National unity has little value."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "28",
+      "question": "Why do historians study colonial records carefully?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They provide valuable information but must be analysed critically because they often reflect the viewpoint of the colonial rulers."
+        },
+        {
+          "id": "B",
+          "text": "They contain only fictional stories."
+        },
+        {
+          "id": "C",
+          "text": "They have no historical importance."
+        },
+        {
+          "id": "D",
+          "text": "They describe only weather patterns."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "29",
+      "question": "Which action would have strengthened India's economy during the colonial period?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Supporting local industries, agriculture and fair trade."
+        },
+        {
+          "id": "B",
+          "text": "Increasing dependence on imported goods."
+        },
+        {
+          "id": "C",
+          "text": "Discouraging Indian businesses."
+        },
+        {
+          "id": "D",
+          "text": "Raising taxes without public welfare."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "30",
+      "question": "Which statement best summarizes the main idea of this chapter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The colonial era reshaped India's political, economic and social life, while also inspiring the growth of nationalism and the struggle for independence."
+        },
+        {
+          "id": "B",
+          "text": "Colonial rule affected only trade."
+        },
+        {
+          "id": "C",
+          "text": "The colonial period had no lasting influence on India."
+        },
+        {
+          "id": "D",
+          "text": "Nationalism developed independently of colonial rule."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    }
+  ]
+}

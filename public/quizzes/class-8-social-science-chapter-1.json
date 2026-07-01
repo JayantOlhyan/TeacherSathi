@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "What are natural resources?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Resources obtained from nature that are useful to humans"
+        },
+        {
+          "id": "B",
+          "text": "Resources made only in factories"
+        },
+        {
+          "id": "C",
+          "text": "Resources found only in cities"
+        },
+        {
+          "id": "D",
+          "text": "Resources produced only by machines"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "2",
+      "question": "Which of the following is a renewable natural resource?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Solar energy"
+        },
+        {
+          "id": "B",
+          "text": "Coal"
+        },
+        {
+          "id": "C",
+          "text": "Petroleum"
+        },
+        {
+          "id": "D",
+          "text": "Natural gas"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "3",
+      "question": "Which natural resource is essential for drinking and irrigation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Water"
+        },
+        {
+          "id": "B",
+          "text": "Gold"
+        },
+        {
+          "id": "C",
+          "text": "Iron"
+        },
+        {
+          "id": "D",
+          "text": "Coal"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "4",
+      "question": "Which of the following is a non-renewable resource?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Petroleum"
+        },
+        {
+          "id": "B",
+          "text": "Wind"
+        },
+        {
+          "id": "C",
+          "text": "Sunlight"
+        },
+        {
+          "id": "D",
+          "text": "Air"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "5",
+      "question": "Which natural resource provides oxygen for living organisms?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Forests"
+        },
+        {
+          "id": "B",
+          "text": "Coal mines"
+        },
+        {
+          "id": "C",
+          "text": "Oil wells"
+        },
+        {
+          "id": "D",
+          "text": "Factories"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "6",
+      "question": "Which resource is mainly used to generate hydroelectric power?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Water"
+        },
+        {
+          "id": "B",
+          "text": "Coal"
+        },
+        {
+          "id": "C",
+          "text": "Petroleum"
+        },
+        {
+          "id": "D",
+          "text": "Natural gas"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "7",
+      "question": "Which of the following is a fossil fuel?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Coal"
+        },
+        {
+          "id": "B",
+          "text": "Wind"
+        },
+        {
+          "id": "C",
+          "text": "Sunlight"
+        },
+        {
+          "id": "D",
+          "text": "Water"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "8",
+      "question": "Why should natural resources be conserved?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To ensure their availability for future generations"
+        },
+        {
+          "id": "B",
+          "text": "To increase pollution"
+        },
+        {
+          "id": "C",
+          "text": "To reduce biodiversity"
+        },
+        {
+          "id": "D",
+          "text": "To waste resources"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "9",
+      "question": "Which resource is most suitable for producing clean energy?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Solar energy"
+        },
+        {
+          "id": "B",
+          "text": "Coal"
+        },
+        {
+          "id": "C",
+          "text": "Petroleum"
+        },
+        {
+          "id": "D",
+          "text": "Diesel"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "10",
+      "question": "The chapter mainly explains _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "The importance and sustainable use of natural resources"
+        },
+        {
+          "id": "B",
+          "text": "The Industrial Revolution"
+        },
+        {
+          "id": "C",
+          "text": "India's electoral system"
+        },
+        {
+          "id": "D",
+          "text": "Ancient kingdoms"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "11",
+      "question": "Why are natural resources important for economic development?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They provide raw materials, energy and support livelihoods."
+        },
+        {
+          "id": "B",
+          "text": "They reduce production."
+        },
+        {
+          "id": "C",
+          "text": "They discourage industries."
+        },
+        {
+          "id": "D",
+          "text": "They have no economic value."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "12",
+      "question": "What is the main difference between renewable and non-renewable resources?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Renewable resources can be replenished naturally, while non-renewable resources are limited."
+        },
+        {
+          "id": "B",
+          "text": "Renewable resources are always underground."
+        },
+        {
+          "id": "C",
+          "text": "Non-renewable resources never get exhausted."
+        },
+        {
+          "id": "D",
+          "text": "Both are unlimited."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "13",
+      "question": "Why is water conservation necessary?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Freshwater resources are limited and essential for life."
+        },
+        {
+          "id": "B",
+          "text": "Water is unlimited everywhere."
+        },
+        {
+          "id": "C",
+          "text": "Water has no role in agriculture."
+        },
+        {
+          "id": "D",
+          "text": "Rainfall is always sufficient."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "14",
+      "question": "Which activity promotes sustainable use of forests?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Afforestation and controlled harvesting"
+        },
+        {
+          "id": "B",
+          "text": "Illegal logging"
+        },
+        {
+          "id": "C",
+          "text": "Deforestation without replanting"
+        },
+        {
+          "id": "D",
+          "text": "Burning forests"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "15",
+      "question": "Which natural resource is most important for agriculture?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fertile soil"
+        },
+        {
+          "id": "B",
+          "text": "Coal"
+        },
+        {
+          "id": "C",
+          "text": "Petroleum"
+        },
+        {
+          "id": "D",
+          "text": "Iron ore"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "16",
+      "question": "Why is overuse of fossil fuels harmful?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It causes pollution and contributes to climate change."
+        },
+        {
+          "id": "B",
+          "text": "It increases forest cover."
+        },
+        {
+          "id": "C",
+          "text": "It improves biodiversity."
+        },
+        {
+          "id": "D",
+          "text": "It reduces greenhouse gases."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "17",
+      "question": "Which statement about natural resources is correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Their wise use is essential for sustainable development."
+        },
+        {
+          "id": "B",
+          "text": "They should be used without planning."
+        },
+        {
+          "id": "C",
+          "text": "Conservation is unnecessary."
+        },
+        {
+          "id": "D",
+          "text": "Only industries use natural resources."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "18",
+      "question": "Which of the following is an example of resource conservation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rainwater harvesting"
+        },
+        {
+          "id": "B",
+          "text": "Wasting electricity"
+        },
+        {
+          "id": "C",
+          "text": "Excessive mining"
+        },
+        {
+          "id": "D",
+          "text": "Cutting forests illegally"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "19",
+      "question": "Why should renewable energy sources be promoted?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They are cleaner and reduce dependence on fossil fuels."
+        },
+        {
+          "id": "B",
+          "text": "They increase pollution."
+        },
+        {
+          "id": "C",
+          "text": "They are available only for a short time."
+        },
+        {
+          "id": "D",
+          "text": "They are more harmful than coal."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "20",
+      "question": "What is the central idea of this chapter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Natural resources must be used wisely to support development while protecting the environment."
+        },
+        {
+          "id": "B",
+          "text": "Natural resources are unlimited."
+        },
+        {
+          "id": "C",
+          "text": "Only non-renewable resources are important."
+        },
+        {
+          "id": "D",
+          "text": "Conservation slows development."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "21",
+      "question": "Why is sustainable management of natural resources essential?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It balances present needs with the needs of future generations."
+        },
+        {
+          "id": "B",
+          "text": "It encourages overexploitation."
+        },
+        {
+          "id": "C",
+          "text": "It eliminates economic development."
+        },
+        {
+          "id": "D",
+          "text": "It reduces agricultural productivity."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "22",
+      "question": "If groundwater continues to be overused without recharge, what is the most likely consequence?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Water scarcity and declining groundwater levels."
+        },
+        {
+          "id": "B",
+          "text": "Increased rainfall."
+        },
+        {
+          "id": "C",
+          "text": "Better soil fertility."
+        },
+        {
+          "id": "D",
+          "text": "More forests."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "23",
+      "question": "A village installs solar panels and rainwater harvesting systems. Which principle does this demonstrate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sustainable resource management"
+        },
+        {
+          "id": "B",
+          "text": "Industrial pollution"
+        },
+        {
+          "id": "C",
+          "text": "Overexploitation of resources"
+        },
+        {
+          "id": "D",
+          "text": "Urbanisation only"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "24",
+      "question": "Why is biodiversity important for natural resources?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It maintains ecological balance and supports healthy ecosystems."
+        },
+        {
+          "id": "B",
+          "text": "It reduces soil fertility."
+        },
+        {
+          "id": "C",
+          "text": "It increases pollution."
+        },
+        {
+          "id": "D",
+          "text": "It has no connection with natural resources."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "25",
+      "question": "Which statement best explains the relationship between natural resources and human development?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Responsible use of resources supports economic growth and environmental protection."
+        },
+        {
+          "id": "B",
+          "text": "Natural resources are unrelated to development."
+        },
+        {
+          "id": "C",
+          "text": "Economic growth requires unlimited exploitation of resources."
+        },
+        {
+          "id": "D",
+          "text": "Conservation prevents progress."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "26",
+      "question": "A factory adopts recycling and uses renewable energy instead of coal. Which concept is being applied?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sustainable industrial development"
+        },
+        {
+          "id": "B",
+          "text": "Resource depletion"
+        },
+        {
+          "id": "C",
+          "text": "Environmental degradation"
+        },
+        {
+          "id": "D",
+          "text": "Unsustainable production"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "27",
+      "question": "Which lesson from this chapter is most relevant today?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Conservation of natural resources is everyone's responsibility."
+        },
+        {
+          "id": "B",
+          "text": "Resources should be used without limits."
+        },
+        {
+          "id": "C",
+          "text": "Fossil fuels should replace renewable energy."
+        },
+        {
+          "id": "D",
+          "text": "Environmental protection is unnecessary."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "28",
+      "question": "Which action would most effectively conserve natural resources?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Reducing waste, recycling and using renewable energy."
+        },
+        {
+          "id": "B",
+          "text": "Increasing deforestation."
+        },
+        {
+          "id": "C",
+          "text": "Wasting water and electricity."
+        },
+        {
+          "id": "D",
+          "text": "Over-mining mineral resources."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "29",
+      "question": "Which example best demonstrates sustainable agriculture?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Using drip irrigation, crop rotation and soil conservation methods."
+        },
+        {
+          "id": "B",
+          "text": "Excessive use of groundwater without planning."
+        },
+        {
+          "id": "C",
+          "text": "Burning crop residues regularly."
+        },
+        {
+          "id": "D",
+          "text": "Continuous cultivation without restoring soil fertility."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "30",
+      "question": "Which statement best summarizes the main idea of this chapter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Natural resources are the foundation of human life and economic development, and their sustainable use is essential for environmental balance and future generations."
+        },
+        {
+          "id": "B",
+          "text": "Natural resources should be used as quickly as possible."
+        },
+        {
+          "id": "C",
+          "text": "Only industries benefit from natural resources."
+        },
+        {
+          "id": "D",
+          "text": "Conservation and development cannot exist together."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    }
+  ]
+}

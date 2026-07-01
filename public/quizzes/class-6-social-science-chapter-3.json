@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "What are landforms?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Natural features on the Earth's surface"
+        },
+        {
+          "id": "B",
+          "text": "Types of weather"
+        },
+        {
+          "id": "C",
+          "text": "Types of rivers"
+        },
+        {
+          "id": "D",
+          "text": "Human-made buildings"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "2",
+      "question": "Which of the following is a major landform?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mountain"
+        },
+        {
+          "id": "B",
+          "text": "Road"
+        },
+        {
+          "id": "C",
+          "text": "Bridge"
+        },
+        {
+          "id": "D",
+          "text": "Railway station"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "3",
+      "question": "Which landform is generally the highest?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Plateau"
+        },
+        {
+          "id": "B",
+          "text": "Plain"
+        },
+        {
+          "id": "C",
+          "text": "Mountain"
+        },
+        {
+          "id": "D",
+          "text": "Valley"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "4",
+      "question": "Which landform is most suitable for agriculture?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Plains"
+        },
+        {
+          "id": "B",
+          "text": "Mountains"
+        },
+        {
+          "id": "C",
+          "text": "Plateaus"
+        },
+        {
+          "id": "D",
+          "text": "Hills"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "5",
+      "question": "A valley is usually found between _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mountains or hills"
+        },
+        {
+          "id": "B",
+          "text": "Rivers and seas"
+        },
+        {
+          "id": "C",
+          "text": "Deserts and forests"
+        },
+        {
+          "id": "D",
+          "text": "Plateaus and plains"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "6",
+      "question": "Which landform is known as a 'tableland'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Plateau"
+        },
+        {
+          "id": "B",
+          "text": "Plain"
+        },
+        {
+          "id": "C",
+          "text": "Valley"
+        },
+        {
+          "id": "D",
+          "text": "Desert"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "7",
+      "question": "Which landform usually has steep slopes?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mountain"
+        },
+        {
+          "id": "B",
+          "text": "Plain"
+        },
+        {
+          "id": "C",
+          "text": "Delta"
+        },
+        {
+          "id": "D",
+          "text": "Coast"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "8",
+      "question": "Which landform is generally densely populated?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Plains"
+        },
+        {
+          "id": "B",
+          "text": "Mountains"
+        },
+        {
+          "id": "C",
+          "text": "Deserts"
+        },
+        {
+          "id": "D",
+          "text": "Plateaus"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "9",
+      "question": "Which natural process mainly shapes landforms over time?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Erosion"
+        },
+        {
+          "id": "B",
+          "text": "Printing"
+        },
+        {
+          "id": "C",
+          "text": "Painting"
+        },
+        {
+          "id": "D",
+          "text": "Weaving"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "10",
+      "question": "Why do people adapt their lifestyle according to landforms?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because landforms influence climate, occupations and settlements."
+        },
+        {
+          "id": "B",
+          "text": "Because landforms change every day."
+        },
+        {
+          "id": "C",
+          "text": "Because landforms have the same features everywhere."
+        },
+        {
+          "id": "D",
+          "text": "Because landforms do not affect human life."
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "11",
+      "question": "Why are plains often called the 'food baskets' of a country?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They have fertile soil suitable for agriculture."
+        },
+        {
+          "id": "B",
+          "text": "They receive no rainfall."
+        },
+        {
+          "id": "C",
+          "text": "They have very steep slopes."
+        },
+        {
+          "id": "D",
+          "text": "They are covered with forests only."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "12",
+      "question": "Why do fewer people live in mountainous regions?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Due to steep slopes, cold climate and limited transport."
+        },
+        {
+          "id": "B",
+          "text": "Because mountains have no water."
+        },
+        {
+          "id": "C",
+          "text": "Because farming is impossible everywhere."
+        },
+        {
+          "id": "D",
+          "text": "Because there are no natural resources."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "13",
+      "question": "Which landform is rich in minerals and mineral resources?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Plateau"
+        },
+        {
+          "id": "B",
+          "text": "Plain"
+        },
+        {
+          "id": "C",
+          "text": "Delta"
+        },
+        {
+          "id": "D",
+          "text": "Valley"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "14",
+      "question": "How do rivers help in forming plains?",
+      "options": [
+        {
+          "id": "A",
+          "text": "By depositing fertile sediments over time."
+        },
+        {
+          "id": "B",
+          "text": "By increasing mountain height."
+        },
+        {
+          "id": "C",
+          "text": "By reducing rainfall."
+        },
+        {
+          "id": "D",
+          "text": "By forming deserts."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "15",
+      "question": "Which occupation is most common in fertile plains?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Farming"
+        },
+        {
+          "id": "B",
+          "text": "Mining"
+        },
+        {
+          "id": "C",
+          "text": "Fishing in deep oceans"
+        },
+        {
+          "id": "D",
+          "text": "Mountaineering"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "16",
+      "question": "Why are valleys suitable for human settlements?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They often have water, fertile land and a moderate climate."
+        },
+        {
+          "id": "B",
+          "text": "They are always dry."
+        },
+        {
+          "id": "C",
+          "text": "They are covered with glaciers only."
+        },
+        {
+          "id": "D",
+          "text": "They have no vegetation."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "17",
+      "question": "Which statement correctly explains the relationship between landforms and human life?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Landforms influence occupations, transport and settlements."
+        },
+        {
+          "id": "B",
+          "text": "Landforms only affect animals."
+        },
+        {
+          "id": "C",
+          "text": "Landforms do not influence people."
+        },
+        {
+          "id": "D",
+          "text": "Landforms affect weather only."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "18",
+      "question": "Why is terrace farming practised in mountainous regions?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To cultivate crops on steep slopes."
+        },
+        {
+          "id": "B",
+          "text": "To increase rainfall."
+        },
+        {
+          "id": "C",
+          "text": "To prevent rivers from flowing."
+        },
+        {
+          "id": "D",
+          "text": "To grow crops in deserts."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "19",
+      "question": "Which landform is generally formed by volcanic activity or uplift of the Earth's crust?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Plateau"
+        },
+        {
+          "id": "B",
+          "text": "Plain"
+        },
+        {
+          "id": "C",
+          "text": "Delta"
+        },
+        {
+          "id": "D",
+          "text": "Beach"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "20",
+      "question": "Which factor mainly determines the type of houses people build?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Local landforms and climate"
+        },
+        {
+          "id": "B",
+          "text": "Favourite colours"
+        },
+        {
+          "id": "C",
+          "text": "Population only"
+        },
+        {
+          "id": "D",
+          "text": "Festivals only"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "21",
+      "question": "Why do different landforms lead to different ways of life?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They influence climate, resources, transport, occupations and settlement patterns."
+        },
+        {
+          "id": "B",
+          "text": "They only change the scenery."
+        },
+        {
+          "id": "C",
+          "text": "They affect wildlife only."
+        },
+        {
+          "id": "D",
+          "text": "They influence language only."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "22",
+      "question": "If a fertile plain suddenly became rocky and uneven, which activity would be affected the most?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Agriculture"
+        },
+        {
+          "id": "B",
+          "text": "Space research"
+        },
+        {
+          "id": "C",
+          "text": "Banking"
+        },
+        {
+          "id": "D",
+          "text": "Tourism only"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "23",
+      "question": "A company wants to establish a mining project. Which landform would be the most suitable?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Plateau"
+        },
+        {
+          "id": "B",
+          "text": "Plain"
+        },
+        {
+          "id": "C",
+          "text": "Delta"
+        },
+        {
+          "id": "D",
+          "text": "Coastal beach"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "24",
+      "question": "Why do rivers play an important role in shaping landforms?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They erode, transport and deposit materials over time."
+        },
+        {
+          "id": "B",
+          "text": "They increase mountain height directly."
+        },
+        {
+          "id": "C",
+          "text": "They stop soil formation."
+        },
+        {
+          "id": "D",
+          "text": "They prevent weathering."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "25",
+      "question": "A village depends mainly on terrace farming and apple orchards. Which landform is it most likely located in?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mountains"
+        },
+        {
+          "id": "B",
+          "text": "Plains"
+        },
+        {
+          "id": "C",
+          "text": "Plateau"
+        },
+        {
+          "id": "D",
+          "text": "Desert"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "26",
+      "question": "Which statement best explains sustainable use of landforms?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Using natural resources without damaging the environment for future generations."
+        },
+        {
+          "id": "B",
+          "text": "Cutting all forests for farming."
+        },
+        {
+          "id": "C",
+          "text": "Mining without restrictions."
+        },
+        {
+          "id": "D",
+          "text": "Building everywhere without planning."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "27",
+      "question": "Why is transport generally more developed in plains than in mountains?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Flat land makes road and railway construction easier."
+        },
+        {
+          "id": "B",
+          "text": "Mountains have no people."
+        },
+        {
+          "id": "C",
+          "text": "Plains receive more sunlight."
+        },
+        {
+          "id": "D",
+          "text": "Mountains have no rivers."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "28",
+      "question": "Which example best shows the relationship between landforms and occupations?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fishing in coastal areas, farming in plains and mining on plateaus."
+        },
+        {
+          "id": "B",
+          "text": "Mining in rivers and fishing in mountains."
+        },
+        {
+          "id": "C",
+          "text": "Farming in deserts without irrigation."
+        },
+        {
+          "id": "D",
+          "text": "Shipping on plateaus."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "29",
+      "question": "If climate change causes rapid melting of glaciers in mountain regions, which is the most likely impact?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Increased river flow and greater risk of floods downstream."
+        },
+        {
+          "id": "B",
+          "text": "Immediate formation of deserts."
+        },
+        {
+          "id": "C",
+          "text": "Disappearance of all plateaus."
+        },
+        {
+          "id": "D",
+          "text": "Reduction in sea level."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "30",
+      "question": "Which statement best summarizes the main idea of this chapter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Landforms and human life are closely connected, with each landform influencing how people live, work and interact with the environment."
+        },
+        {
+          "id": "B",
+          "text": "All landforms provide the same opportunities for people."
+        },
+        {
+          "id": "C",
+          "text": "Human life is not affected by landforms."
+        },
+        {
+          "id": "D",
+          "text": "Only mountains are important for development."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    }
+  ]
+}

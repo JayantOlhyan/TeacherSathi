@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "Which system of government does India follow?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Parliamentary system"
+        },
+        {
+          "id": "B",
+          "text": "Presidential system"
+        },
+        {
+          "id": "C",
+          "text": "Monarchy"
+        },
+        {
+          "id": "D",
+          "text": "Dictatorship"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "2",
+      "question": "Who is the Head of the Indian State?",
+      "options": [
+        {
+          "id": "A",
+          "text": "President of India"
+        },
+        {
+          "id": "B",
+          "text": "Prime Minister"
+        },
+        {
+          "id": "C",
+          "text": "Chief Minister"
+        },
+        {
+          "id": "D",
+          "text": "Governor"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "3",
+      "question": "Who is the Head of the Government in India?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Prime Minister"
+        },
+        {
+          "id": "B",
+          "text": "President"
+        },
+        {
+          "id": "C",
+          "text": "Chief Justice"
+        },
+        {
+          "id": "D",
+          "text": "Governor"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "4",
+      "question": "The Parliament of India consists of _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "President, Lok Sabha and Rajya Sabha"
+        },
+        {
+          "id": "B",
+          "text": "Lok Sabha only"
+        },
+        {
+          "id": "C",
+          "text": "Rajya Sabha only"
+        },
+        {
+          "id": "D",
+          "text": "Supreme Court and Parliament"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "5",
+      "question": "Which House of Parliament is directly elected by the people?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lok Sabha"
+        },
+        {
+          "id": "B",
+          "text": "Rajya Sabha"
+        },
+        {
+          "id": "C",
+          "text": "Legislative Council"
+        },
+        {
+          "id": "D",
+          "text": "Gram Sabha"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "6",
+      "question": "Which House is known as the Upper House of Parliament?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rajya Sabha"
+        },
+        {
+          "id": "B",
+          "text": "Lok Sabha"
+        },
+        {
+          "id": "C",
+          "text": "Vidhan Sabha"
+        },
+        {
+          "id": "D",
+          "text": "Panchayat"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "7",
+      "question": "Which organ of government makes laws?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Legislature"
+        },
+        {
+          "id": "B",
+          "text": "Judiciary"
+        },
+        {
+          "id": "C",
+          "text": "Executive"
+        },
+        {
+          "id": "D",
+          "text": "Election Commission"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "8",
+      "question": "Which organ implements laws?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Executive"
+        },
+        {
+          "id": "B",
+          "text": "Legislature"
+        },
+        {
+          "id": "C",
+          "text": "Judiciary"
+        },
+        {
+          "id": "D",
+          "text": "Media"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "9",
+      "question": "Who appoints the Prime Minister of India?",
+      "options": [
+        {
+          "id": "A",
+          "text": "President of India"
+        },
+        {
+          "id": "B",
+          "text": "Chief Justice of India"
+        },
+        {
+          "id": "C",
+          "text": "Governor"
+        },
+        {
+          "id": "D",
+          "text": "Election Commission"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "10",
+      "question": "The chapter mainly explains _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "The working of the Legislature and Executive in India"
+        },
+        {
+          "id": "B",
+          "text": "Ancient kingdoms"
+        },
+        {
+          "id": "C",
+          "text": "Climate and weather"
+        },
+        {
+          "id": "D",
+          "text": "Agriculture and trade"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "11",
+      "question": "Why is India called a parliamentary democracy?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The executive is responsible to the elected legislature."
+        },
+        {
+          "id": "B",
+          "text": "The President has all executive powers independently."
+        },
+        {
+          "id": "C",
+          "text": "Parliament is not elected."
+        },
+        {
+          "id": "D",
+          "text": "The judiciary forms the government."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "12",
+      "question": "What is the main function of the Lok Sabha?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To make laws and represent the people directly."
+        },
+        {
+          "id": "B",
+          "text": "To appoint judges."
+        },
+        {
+          "id": "C",
+          "text": "To conduct elections."
+        },
+        {
+          "id": "D",
+          "text": "To interpret the Constitution."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "13",
+      "question": "Why is the Rajya Sabha called the Council of States?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It represents the states and Union Territories in Parliament."
+        },
+        {
+          "id": "B",
+          "text": "It elects the President directly."
+        },
+        {
+          "id": "C",
+          "text": "It manages local governments."
+        },
+        {
+          "id": "D",
+          "text": "It conducts elections."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "14",
+      "question": "Why is the Council of Ministers collectively responsible to the Lok Sabha?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The government must retain the confidence of the elected House."
+        },
+        {
+          "id": "B",
+          "text": "The Rajya Sabha alone controls the government."
+        },
+        {
+          "id": "C",
+          "text": "The President alone governs the country."
+        },
+        {
+          "id": "D",
+          "text": "The judiciary supervises the executive."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "15",
+      "question": "Which statement about the Executive is correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It implements laws passed by Parliament."
+        },
+        {
+          "id": "B",
+          "text": "It interprets laws."
+        },
+        {
+          "id": "C",
+          "text": "It conducts elections only."
+        },
+        {
+          "id": "D",
+          "text": "It writes the Constitution."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "16",
+      "question": "Why is Parliament important in a democracy?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It represents the people and makes laws."
+        },
+        {
+          "id": "B",
+          "text": "It controls the judiciary completely."
+        },
+        {
+          "id": "C",
+          "text": "It appoints all government employees."
+        },
+        {
+          "id": "D",
+          "text": "It conducts court proceedings."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "17",
+      "question": "Which democratic principle is reflected in collective responsibility?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Accountability of the Executive to the Legislature."
+        },
+        {
+          "id": "B",
+          "text": "Rule by monarchy."
+        },
+        {
+          "id": "C",
+          "text": "Judicial supremacy."
+        },
+        {
+          "id": "D",
+          "text": "Colonial administration."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "18",
+      "question": "Which statement about the President is correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The President is the constitutional head of the Union."
+        },
+        {
+          "id": "B",
+          "text": "The President is directly responsible for running the daily government."
+        },
+        {
+          "id": "C",
+          "text": "The President is the head of the judiciary."
+        },
+        {
+          "id": "D",
+          "text": "The President is elected by the Lok Sabha only."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "19",
+      "question": "Why are debates in Parliament important?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They help examine policies and improve law-making."
+        },
+        {
+          "id": "B",
+          "text": "They delay governance unnecessarily."
+        },
+        {
+          "id": "C",
+          "text": "They replace elections."
+        },
+        {
+          "id": "D",
+          "text": "They remove the need for laws."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "20",
+      "question": "What is the central idea of this chapter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Legislature makes laws, while the Executive implements them under the parliamentary system."
+        },
+        {
+          "id": "B",
+          "text": "Parliament and the Executive perform exactly the same function."
+        },
+        {
+          "id": "C",
+          "text": "Only the President governs India."
+        },
+        {
+          "id": "D",
+          "text": "The Executive makes all laws independently."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "21",
+      "question": "Why is collective responsibility an important feature of the parliamentary system?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It ensures that the Council of Ministers remains accountable to the elected representatives of the people."
+        },
+        {
+          "id": "B",
+          "text": "It gives unlimited power to the Prime Minister."
+        },
+        {
+          "id": "C",
+          "text": "It removes the role of Parliament."
+        },
+        {
+          "id": "D",
+          "text": "It allows ministers to work independently without accountability."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "22",
+      "question": "If the Council of Ministers loses the confidence of the Lok Sabha, what is the most likely consequence?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The government must resign or seek a fresh mandate."
+        },
+        {
+          "id": "B",
+          "text": "Parliament is permanently dissolved."
+        },
+        {
+          "id": "C",
+          "text": "The President resigns immediately."
+        },
+        {
+          "id": "D",
+          "text": "Elections are cancelled."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "23",
+      "question": "A minister answers questions raised by Members of Parliament regarding government policies. Which democratic principle is demonstrated?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Executive accountability to the Legislature"
+        },
+        {
+          "id": "B",
+          "text": "Judicial independence"
+        },
+        {
+          "id": "C",
+          "text": "Separation from Parliament"
+        },
+        {
+          "id": "D",
+          "text": "Rule by decree"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "24",
+      "question": "Why does India have two Houses of Parliament?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To represent both the people and the states while ensuring careful law-making."
+        },
+        {
+          "id": "B",
+          "text": "To reduce the number of laws passed."
+        },
+        {
+          "id": "C",
+          "text": "To replace state governments."
+        },
+        {
+          "id": "D",
+          "text": "To eliminate democratic debate."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "25",
+      "question": "Which statement best explains the relationship between the Legislature and the Executive?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Legislature makes laws and supervises the Executive, while the Executive implements those laws."
+        },
+        {
+          "id": "B",
+          "text": "Both function independently without any accountability."
+        },
+        {
+          "id": "C",
+          "text": "The Executive makes laws without Parliament."
+        },
+        {
+          "id": "D",
+          "text": "Parliament implements government schemes."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "26",
+      "question": "Parliament questions the government regarding the use of public funds. Which function of Parliament is illustrated?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Parliamentary oversight and accountability"
+        },
+        {
+          "id": "B",
+          "text": "Judicial review"
+        },
+        {
+          "id": "C",
+          "text": "Election management"
+        },
+        {
+          "id": "D",
+          "text": "Local self-government"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "27",
+      "question": "Which lesson from this chapter is most relevant today?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A parliamentary democracy functions effectively when the government remains accountable to elected representatives."
+        },
+        {
+          "id": "B",
+          "text": "Accountability weakens governance."
+        },
+        {
+          "id": "C",
+          "text": "Parliament has no role after elections."
+        },
+        {
+          "id": "D",
+          "text": "Debate is unnecessary in democracy."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "28",
+      "question": "Why are parliamentary committees important?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They examine bills, policies and government functioning in detail."
+        },
+        {
+          "id": "B",
+          "text": "They conduct elections."
+        },
+        {
+          "id": "C",
+          "text": "They replace the judiciary."
+        },
+        {
+          "id": "D",
+          "text": "They appoint the President."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "29",
+      "question": "Which action best strengthens parliamentary democracy?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Active debates, transparent governance and accountability to Parliament."
+        },
+        {
+          "id": "B",
+          "text": "Ignoring parliamentary discussions."
+        },
+        {
+          "id": "C",
+          "text": "Making laws without debate."
+        },
+        {
+          "id": "D",
+          "text": "Preventing opposition from participating."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "30",
+      "question": "Which statement best summarizes the main idea of this chapter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "India's parliamentary system ensures democratic governance by dividing responsibilities between the Legislature and the Executive while maintaining accountability, representation and the rule of law."
+        },
+        {
+          "id": "B",
+          "text": "Parliament has no role in governance after elections."
+        },
+        {
+          "id": "C",
+          "text": "The Executive functions without accountability."
+        },
+        {
+          "id": "D",
+          "text": "The President independently governs India without Parliament."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    }
+  ]
+}

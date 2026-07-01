@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "What does the Constitution of India state about the name of our country?",
+      "options": [
+        {
+          "id": "A",
+          "text": "India, that is Bharat"
+        },
+        {
+          "id": "B",
+          "text": "Hindustan only"
+        },
+        {
+          "id": "C",
+          "text": "Aryavarta only"
+        },
+        {
+          "id": "D",
+          "text": "Jambudvipa only"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "2",
+      "question": "Which document declares \"India, that is Bharat\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Constitution of India"
+        },
+        {
+          "id": "B",
+          "text": "National Anthem"
+        },
+        {
+          "id": "C",
+          "text": "National Flag Code"
+        },
+        {
+          "id": "D",
+          "text": "Census Report"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "3",
+      "question": "India is located in which continent?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Africa"
+        },
+        {
+          "id": "B",
+          "text": "Asia"
+        },
+        {
+          "id": "C",
+          "text": "Europe"
+        },
+        {
+          "id": "D",
+          "text": "Australia"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "4",
+      "question": "Which mountain range lies in the north of India?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Himalayas"
+        },
+        {
+          "id": "B",
+          "text": "Aravallis"
+        },
+        {
+          "id": "C",
+          "text": "Western Ghats"
+        },
+        {
+          "id": "D",
+          "text": "Vindhyas"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "5",
+      "question": "India is known for its _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Unity in Diversity"
+        },
+        {
+          "id": "B",
+          "text": "One language only"
+        },
+        {
+          "id": "C",
+          "text": "One culture only"
+        },
+        {
+          "id": "D",
+          "text": "One religion only"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "6",
+      "question": "Which ocean lies to the south of India?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pacific Ocean"
+        },
+        {
+          "id": "B",
+          "text": "Atlantic Ocean"
+        },
+        {
+          "id": "C",
+          "text": "Indian Ocean"
+        },
+        {
+          "id": "D",
+          "text": "Arctic Ocean"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "7",
+      "question": "Which of the following is a symbol of India's rich cultural heritage?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Festivals"
+        },
+        {
+          "id": "B",
+          "text": "Only modern buildings"
+        },
+        {
+          "id": "C",
+          "text": "Factories only"
+        },
+        {
+          "id": "D",
+          "text": "Airports only"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "8",
+      "question": "India is a _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sovereign democratic republic"
+        },
+        {
+          "id": "B",
+          "text": "Kingdom"
+        },
+        {
+          "id": "C",
+          "text": "Colony"
+        },
+        {
+          "id": "D",
+          "text": "Empire"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "9",
+      "question": "Which feature has helped India develop diverse cultures?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Its varied geography and climate"
+        },
+        {
+          "id": "B",
+          "text": "One uniform climate everywhere"
+        },
+        {
+          "id": "C",
+          "text": "One type of landform only"
+        },
+        {
+          "id": "D",
+          "text": "No rivers"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "10",
+      "question": "The chapter mainly highlights India's _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Identity and heritage"
+        },
+        {
+          "id": "B",
+          "text": "Weather only"
+        },
+        {
+          "id": "C",
+          "text": "Sports only"
+        },
+        {
+          "id": "D",
+          "text": "Industries only"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "11",
+      "question": "Why does the Constitution use the phrase \"India, that is Bharat\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To recognise both names as official names of the country."
+        },
+        {
+          "id": "B",
+          "text": "To replace the name Bharat."
+        },
+        {
+          "id": "C",
+          "text": "To recognise only English names."
+        },
+        {
+          "id": "D",
+          "text": "To name only one state."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "12",
+      "question": "Why is India called a land of diversity?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because people differ in languages, cultures, traditions and geography."
+        },
+        {
+          "id": "B",
+          "text": "Because everyone speaks the same language."
+        },
+        {
+          "id": "C",
+          "text": "Because all states have the same culture."
+        },
+        {
+          "id": "D",
+          "text": "Because only one religion is followed."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "13",
+      "question": "Which geographical feature has greatly influenced India's climate and rivers?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Himalayas"
+        },
+        {
+          "id": "B",
+          "text": "The Sahara Desert"
+        },
+        {
+          "id": "C",
+          "text": "The Alps"
+        },
+        {
+          "id": "D",
+          "text": "The Andes"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "14",
+      "question": "Which value helps keep India's diversity united?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mutual respect and constitutional values"
+        },
+        {
+          "id": "B",
+          "text": "Regional conflicts"
+        },
+        {
+          "id": "C",
+          "text": "Language differences only"
+        },
+        {
+          "id": "D",
+          "text": "Economic inequality"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "15",
+      "question": "Why is India's geographical location important?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It connects Asia with important sea routes and neighbouring regions."
+        },
+        {
+          "id": "B",
+          "text": "It has no access to the sea."
+        },
+        {
+          "id": "C",
+          "text": "It is isolated from all countries."
+        },
+        {
+          "id": "D",
+          "text": "It has only deserts."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "16",
+      "question": "Which of the following best reflects India's cultural heritage?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Festivals, monuments, languages and traditions"
+        },
+        {
+          "id": "B",
+          "text": "Factories only"
+        },
+        {
+          "id": "C",
+          "text": "Highways only"
+        },
+        {
+          "id": "D",
+          "text": "Shopping malls only"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "17",
+      "question": "Why is the Constitution important in defining India's identity?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It provides the guiding principles and values of the nation."
+        },
+        {
+          "id": "B",
+          "text": "It describes only rivers."
+        },
+        {
+          "id": "C",
+          "text": "It lists only cities."
+        },
+        {
+          "id": "D",
+          "text": "It explains weather conditions."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "18",
+      "question": "Which factor has contributed most to India's cultural exchanges throughout history?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Trade, travel and interaction among people"
+        },
+        {
+          "id": "B",
+          "text": "Complete isolation from other regions"
+        },
+        {
+          "id": "C",
+          "text": "Lack of transportation"
+        },
+        {
+          "id": "D",
+          "text": "Absence of rivers"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "19",
+      "question": "Which statement about India is correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "India's diversity is one of its greatest strengths."
+        },
+        {
+          "id": "B",
+          "text": "Diversity weakens the nation."
+        },
+        {
+          "id": "C",
+          "text": "India has only one culture."
+        },
+        {
+          "id": "D",
+          "text": "India has only one language."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "20",
+      "question": "What is the central idea of this chapter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "India's identity is shaped by its geography, history, culture and constitutional values."
+        },
+        {
+          "id": "B",
+          "text": "Geography alone defines India."
+        },
+        {
+          "id": "C",
+          "text": "Only history is important."
+        },
+        {
+          "id": "D",
+          "text": "Only culture matters."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "21",
+      "question": "Why is the phrase \"India, that is Bharat\" considered significant?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It reflects the continuity between India's ancient heritage and its modern constitutional identity."
+        },
+        {
+          "id": "B",
+          "text": "It refers to two different countries."
+        },
+        {
+          "id": "C",
+          "text": "It recognises only ancient India."
+        },
+        {
+          "id": "D",
+          "text": "It refers only to geography."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "22",
+      "question": "If India had not developed cultural exchanges through trade and travel, what would most likely have been affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The richness and diversity of its cultural traditions"
+        },
+        {
+          "id": "B",
+          "text": "The movement of the Earth"
+        },
+        {
+          "id": "C",
+          "text": "The formation of mountains"
+        },
+        {
+          "id": "D",
+          "text": "The number of oceans"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "23",
+      "question": "Which example best reflects the idea of \"Unity in Diversity\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "People of different languages and religions celebrating national festivals together"
+        },
+        {
+          "id": "B",
+          "text": "Everyone following exactly the same customs"
+        },
+        {
+          "id": "C",
+          "text": "Every state speaking only one language"
+        },
+        {
+          "id": "D",
+          "text": "All regions having the same climate"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "24",
+      "question": "How has India's geographical diversity influenced its civilisation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It has shaped different lifestyles, occupations, food habits and cultures."
+        },
+        {
+          "id": "B",
+          "text": "It has prevented cultural development."
+        },
+        {
+          "id": "C",
+          "text": "It has made all regions identical."
+        },
+        {
+          "id": "D",
+          "text": "It has reduced agricultural activities everywhere."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "25",
+      "question": "Why is the Constitution regarded as a unifying document for India?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It guarantees equal rights and shared democratic values for all citizens."
+        },
+        {
+          "id": "B",
+          "text": "It promotes only one community."
+        },
+        {
+          "id": "C",
+          "text": "It applies only to some states."
+        },
+        {
+          "id": "D",
+          "text": "It focuses only on economic activities."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "26",
+      "question": "Which situation best demonstrates constitutional values in everyday life?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Respecting people from different cultures and treating everyone equally"
+        },
+        {
+          "id": "B",
+          "text": "Discriminating against others based on language"
+        },
+        {
+          "id": "C",
+          "text": "Ignoring others' rights"
+        },
+        {
+          "id": "D",
+          "text": "Refusing to cooperate with people from different regions"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "27",
+      "question": "If India's geographical diversity did not exist, which aspect would most likely become less varied?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Food, clothing, occupations and cultural practices"
+        },
+        {
+          "id": "B",
+          "text": "The Earth's rotation"
+        },
+        {
+          "id": "C",
+          "text": "Ocean currents"
+        },
+        {
+          "id": "D",
+          "text": "Length of the day"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "28",
+      "question": "Which statement best explains why India is described as both ancient and modern?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It preserves its rich heritage while following democratic constitutional values."
+        },
+        {
+          "id": "B",
+          "text": "It has only ancient traditions."
+        },
+        {
+          "id": "C",
+          "text": "It follows only modern practices."
+        },
+        {
+          "id": "D",
+          "text": "It has no historical heritage."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "29",
+      "question": "Which principle best connects the ideas of Bharat and modern India?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Respect for heritage along with commitment to democracy and equality"
+        },
+        {
+          "id": "B",
+          "text": "Rejection of all traditions"
+        },
+        {
+          "id": "C",
+          "text": "Dependence only on geography"
+        },
+        {
+          "id": "D",
+          "text": "Uniformity in every aspect of life"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "30",
+      "question": "Which option best summarizes the main idea of this chapter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "India's identity is built on its ancient heritage, geographical diversity, cultural richness and constitutional ideals."
+        },
+        {
+          "id": "B",
+          "text": "India's identity depends only on its geography."
+        },
+        {
+          "id": "C",
+          "text": "India's identity depends only on its economy."
+        },
+        {
+          "id": "D",
+          "text": "India's identity depends only on its population."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    }
+  ]
+}

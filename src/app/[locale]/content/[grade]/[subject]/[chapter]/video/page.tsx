@@ -4,6 +4,7 @@ import { Link } from "@/i18n/routing";
 import { useState, useEffect } from "react";
 import { useParams } from "next/navigation";
 import { Play, Pause, Volume2, Maximize, MonitorSmartphone, ChevronDown, Share2, Clock } from "lucide-react";
+import { NCERT_SYLLABUS } from "@/lib/data/ncertSyllabus";
 
 export default function VideoPlayerPage() {
   const [isPlaying, setIsPlaying] = useState(false);
@@ -11,6 +12,20 @@ export default function VideoPlayerPage() {
   const grade = params.grade as string;
   const subject = params.subject as string;
   const chapter = params.chapter as string;
+
+  let videoId = "6YI7YqW8-rA"; // fallback
+  try {
+    const gradeData = NCERT_SYLLABUS[grade as keyof typeof NCERT_SYLLABUS];
+    const cleanSub = subject.charAt(0).toUpperCase() + subject.slice(1);
+    const subjectData = gradeData ? gradeData[cleanSub as keyof typeof gradeData] : null;
+    const chapNum = parseInt(chapter.replace("chapter-", ""), 10);
+    const chapterData = subjectData ? subjectData.find((c: { id: number }) => c.id === chapNum) : null;
+    if (chapterData && chapterData.videoId) {
+      videoId = chapterData.videoId;
+    }
+  } catch (e) {
+    console.error("Could not load video ID", e);
+  }
 
   useEffect(() => {
     if (typeof window !== "undefined" && grade && subject && chapter) {
@@ -78,7 +93,7 @@ export default function VideoPlayerPage() {
             <div className="flex-1 bg-black flex items-center justify-center relative">
                <iframe 
                  className="w-full h-full"
-                 src={`https://www.youtube.com/embed/6YI7YqW8-rA?enablejsapi=1&autoplay=${isPlaying ? 1 : 0}&controls=0`}
+                 src={`https://www.youtube.com/embed/${videoId}?enablejsapi=1&autoplay=${isPlaying ? 1 : 0}&controls=0`}
                  title="YouTube video player"
                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                  allowFullScreen

@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "What are economic activities?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Activities done to earn income and satisfy human needs"
+        },
+        {
+          "id": "B",
+          "text": "Activities done only for entertainment"
+        },
+        {
+          "id": "C",
+          "text": "Activities related only to sports"
+        },
+        {
+          "id": "D",
+          "text": "Activities done only during festivals"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "2",
+      "question": "Which of the following is an economic activity?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Farming"
+        },
+        {
+          "id": "B",
+          "text": "Sleeping"
+        },
+        {
+          "id": "C",
+          "text": "Playing a game for fun"
+        },
+        {
+          "id": "D",
+          "text": "Watching television"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "3",
+      "question": "Which sector includes farming and fishing?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Primary sector"
+        },
+        {
+          "id": "B",
+          "text": "Secondary sector"
+        },
+        {
+          "id": "C",
+          "text": "Tertiary sector"
+        },
+        {
+          "id": "D",
+          "text": "Quaternary sector"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "4",
+      "question": "Which sector converts raw materials into finished goods?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Secondary sector"
+        },
+        {
+          "id": "B",
+          "text": "Primary sector"
+        },
+        {
+          "id": "C",
+          "text": "Tertiary sector"
+        },
+        {
+          "id": "D",
+          "text": "Agricultural sector only"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "5",
+      "question": "Which sector provides services such as banking and transport?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tertiary sector"
+        },
+        {
+          "id": "B",
+          "text": "Primary sector"
+        },
+        {
+          "id": "C",
+          "text": "Secondary sector"
+        },
+        {
+          "id": "D",
+          "text": "Mining sector"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "6",
+      "question": "Which of the following is an example of manufacturing?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Making clothes in a factory"
+        },
+        {
+          "id": "B",
+          "text": "Growing wheat"
+        },
+        {
+          "id": "C",
+          "text": "Catching fish"
+        },
+        {
+          "id": "D",
+          "text": "Driving a taxi"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "7",
+      "question": "Which activity belongs to the service sector?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Teaching in a school"
+        },
+        {
+          "id": "B",
+          "text": "Mining coal"
+        },
+        {
+          "id": "C",
+          "text": "Growing rice"
+        },
+        {
+          "id": "D",
+          "text": "Making bricks"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "8",
+      "question": "Why are economic activities important?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They provide goods, services and employment."
+        },
+        {
+          "id": "B",
+          "text": "They reduce production."
+        },
+        {
+          "id": "C",
+          "text": "They stop trade."
+        },
+        {
+          "id": "D",
+          "text": "They increase unemployment."
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "9",
+      "question": "Which natural resource is directly used in agriculture?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Land"
+        },
+        {
+          "id": "B",
+          "text": "Plastic"
+        },
+        {
+          "id": "C",
+          "text": "Steel"
+        },
+        {
+          "id": "D",
+          "text": "Glass"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "10",
+      "question": "The main aim of economic activities is to _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Meet human needs and improve living standards"
+        },
+        {
+          "id": "B",
+          "text": "Waste natural resources"
+        },
+        {
+          "id": "C",
+          "text": "Increase pollution only"
+        },
+        {
+          "id": "D",
+          "text": "Reduce production"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "11",
+      "question": "Why are all three economic sectors important?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They depend on one another to produce goods and provide services."
+        },
+        {
+          "id": "B",
+          "text": "They work independently without any connection."
+        },
+        {
+          "id": "C",
+          "text": "Only the service sector is important."
+        },
+        {
+          "id": "D",
+          "text": "Only farming is necessary."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "12",
+      "question": "Which activity is an example of the secondary sector?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Converting cotton into cloth"
+        },
+        {
+          "id": "B",
+          "text": "Growing cotton"
+        },
+        {
+          "id": "C",
+          "text": "Driving a bus"
+        },
+        {
+          "id": "D",
+          "text": "Fishing in a river"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "13",
+      "question": "Which of the following belongs to the tertiary sector?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Banking services"
+        },
+        {
+          "id": "B",
+          "text": "Wheat cultivation"
+        },
+        {
+          "id": "C",
+          "text": "Coal mining"
+        },
+        {
+          "id": "D",
+          "text": "Brick making"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "14",
+      "question": "Why is transport considered an economic activity?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It helps move people and goods from one place to another."
+        },
+        {
+          "id": "B",
+          "text": "It produces crops."
+        },
+        {
+          "id": "C",
+          "text": "It manufactures machines."
+        },
+        {
+          "id": "D",
+          "text": "It extracts minerals."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "15",
+      "question": "Which factor mainly influences the type of economic activity in an area?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Availability of natural resources and human skills"
+        },
+        {
+          "id": "B",
+          "text": "Colour of buildings"
+        },
+        {
+          "id": "C",
+          "text": "Number of festivals"
+        },
+        {
+          "id": "D",
+          "text": "Type of clothing"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "16",
+      "question": "Why is trade important in the economy?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It helps exchange goods and services between producers and consumers."
+        },
+        {
+          "id": "B",
+          "text": "It reduces production."
+        },
+        {
+          "id": "C",
+          "text": "It prevents employment."
+        },
+        {
+          "id": "D",
+          "text": "It discourages development."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "17",
+      "question": "Which occupation belongs to the primary sector?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dairy farming"
+        },
+        {
+          "id": "B",
+          "text": "Teacher"
+        },
+        {
+          "id": "C",
+          "text": "Shopkeeper"
+        },
+        {
+          "id": "D",
+          "text": "Factory worker"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "18",
+      "question": "Which quality is important for successful economic activities?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Skill and hard work"
+        },
+        {
+          "id": "B",
+          "text": "Laziness"
+        },
+        {
+          "id": "C",
+          "text": "Carelessness"
+        },
+        {
+          "id": "D",
+          "text": "Irresponsibility"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "19",
+      "question": "Which statement about economic activities is correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They help improve people's standard of living."
+        },
+        {
+          "id": "B",
+          "text": "They have no effect on society."
+        },
+        {
+          "id": "C",
+          "text": "They are limited to cities only."
+        },
+        {
+          "id": "D",
+          "text": "They are limited to factories only."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "20",
+      "question": "What is the central idea of this chapter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Different economic activities work together to support society and the economy."
+        },
+        {
+          "id": "B",
+          "text": "Only agriculture is important."
+        },
+        {
+          "id": "C",
+          "text": "Only industries contribute to development."
+        },
+        {
+          "id": "D",
+          "text": "Services are not economic activities."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "21",
+      "question": "Why are the primary, secondary and tertiary sectors interdependent?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Each sector supports the others by producing raw materials, manufactured goods and essential services."
+        },
+        {
+          "id": "B",
+          "text": "They work completely independently."
+        },
+        {
+          "id": "C",
+          "text": "Only the tertiary sector is necessary."
+        },
+        {
+          "id": "D",
+          "text": "Only agriculture supports the economy."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "22",
+      "question": "If farmers stop producing crops, which sector would be affected first?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Secondary sector (food processing and manufacturing)"
+        },
+        {
+          "id": "B",
+          "text": "Space research"
+        },
+        {
+          "id": "C",
+          "text": "Tourism only"
+        },
+        {
+          "id": "D",
+          "text": "Banking only"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "23",
+      "question": "A company purchases cotton from farmers, makes clothes and sells them through shops. Which sectors are involved?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Primary, Secondary and Tertiary sectors"
+        },
+        {
+          "id": "B",
+          "text": "Primary sector only"
+        },
+        {
+          "id": "C",
+          "text": "Secondary sector only"
+        },
+        {
+          "id": "D",
+          "text": "Tertiary sector only"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "24",
+      "question": "Why are skilled workers important in economic development?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They improve productivity, quality and innovation."
+        },
+        {
+          "id": "B",
+          "text": "They reduce production."
+        },
+        {
+          "id": "C",
+          "text": "They increase unemployment."
+        },
+        {
+          "id": "D",
+          "text": "They prevent industrial growth."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "25",
+      "question": "Which example best demonstrates the relationship between natural resources and economic activities?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fertile land supports farming, which provides raw materials for industries."
+        },
+        {
+          "id": "B",
+          "text": "Roads produce crops."
+        },
+        {
+          "id": "C",
+          "text": "Banks grow food grains."
+        },
+        {
+          "id": "D",
+          "text": "Schools manufacture machines."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "26",
+      "question": "Which situation best reflects sustainable economic activity?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Using natural resources wisely while protecting the environment."
+        },
+        {
+          "id": "B",
+          "text": "Wasting water and forests for short-term profit."
+        },
+        {
+          "id": "C",
+          "text": "Polluting rivers during production."
+        },
+        {
+          "id": "D",
+          "text": "Overusing resources without planning."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "27",
+      "question": "Which action contributes most to economic growth?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Producing goods efficiently and providing quality services."
+        },
+        {
+          "id": "B",
+          "text": "Wasting raw materials."
+        },
+        {
+          "id": "C",
+          "text": "Ignoring workers' skills."
+        },
+        {
+          "id": "D",
+          "text": "Reducing production unnecessarily."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "28",
+      "question": "A transport company delivers vegetables from villages to cities every day. Which economic role is it performing?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Connecting producers and consumers through the service sector"
+        },
+        {
+          "id": "B",
+          "text": "Manufacturing food products"
+        },
+        {
+          "id": "C",
+          "text": "Growing crops"
+        },
+        {
+          "id": "D",
+          "text": "Mining minerals"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "29",
+      "question": "Which lesson from this chapter is most relevant in daily life?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Every economic activity and every worker contributes to society's development."
+        },
+        {
+          "id": "B",
+          "text": "Only factory jobs are valuable."
+        },
+        {
+          "id": "C",
+          "text": "Agriculture is no longer important."
+        },
+        {
+          "id": "D",
+          "text": "Services do not contribute to the economy."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "30",
+      "question": "Which statement best summarizes the main idea of this chapter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Economic activities in the primary, secondary and tertiary sectors are interconnected and together improve livelihoods, employment and national development."
+        },
+        {
+          "id": "B",
+          "text": "Only one economic sector is important."
+        },
+        {
+          "id": "C",
+          "text": "Economic activities are limited to industries."
+        },
+        {
+          "id": "D",
+          "text": "Economic development depends only on trade."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    }
+  ]
+}

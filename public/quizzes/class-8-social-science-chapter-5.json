@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "What does Universal Adult Franchise mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Every adult citizen has the right to vote, regardless of caste, religion, gender or wealth."
+        },
+        {
+          "id": "B",
+          "text": "Only government employees can vote."
+        },
+        {
+          "id": "C",
+          "text": "Only educated people can vote."
+        },
+        {
+          "id": "D",
+          "text": "Only rich people can vote."
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "2",
+      "question": "What is the minimum voting age in India?",
+      "options": [
+        {
+          "id": "A",
+          "text": "18 years"
+        },
+        {
+          "id": "B",
+          "text": "16 years"
+        },
+        {
+          "id": "C",
+          "text": "21 years"
+        },
+        {
+          "id": "D",
+          "text": "25 years"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "3",
+      "question": "Which body conducts elections in India?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Election Commission of India"
+        },
+        {
+          "id": "B",
+          "text": "Supreme Court of India"
+        },
+        {
+          "id": "C",
+          "text": "Parliament"
+        },
+        {
+          "id": "D",
+          "text": "Gram Panchayat"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "4",
+      "question": "What is the main purpose of elections?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To choose representatives for the government"
+        },
+        {
+          "id": "B",
+          "text": "To appoint judges"
+        },
+        {
+          "id": "C",
+          "text": "To make school rules"
+        },
+        {
+          "id": "D",
+          "text": "To collect taxes"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "5",
+      "question": "India is a _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Democracy"
+        },
+        {
+          "id": "B",
+          "text": "Monarchy"
+        },
+        {
+          "id": "C",
+          "text": "Dictatorship"
+        },
+        {
+          "id": "D",
+          "text": "Colony"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "6",
+      "question": "Which document is used as proof of identity during voting?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Voter ID Card (EPIC)"
+        },
+        {
+          "id": "B",
+          "text": "Library Card"
+        },
+        {
+          "id": "C",
+          "text": "School ID Card"
+        },
+        {
+          "id": "D",
+          "text": "Bus Pass"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "7",
+      "question": "What is the secret ballot?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A system in which a person's vote remains private"
+        },
+        {
+          "id": "B",
+          "text": "Voting in public"
+        },
+        {
+          "id": "C",
+          "text": "Voting without candidates"
+        },
+        {
+          "id": "D",
+          "text": "Voting by voice only"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "8",
+      "question": "Which machine is commonly used for voting in India?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Electronic Voting Machine (EVM)"
+        },
+        {
+          "id": "B",
+          "text": "Calculator"
+        },
+        {
+          "id": "C",
+          "text": "ATM Machine"
+        },
+        {
+          "id": "D",
+          "text": "Computer Printer"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "9",
+      "question": "Why is voting important?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It allows citizens to participate in democracy"
+        },
+        {
+          "id": "B",
+          "text": "It increases taxes"
+        },
+        {
+          "id": "C",
+          "text": "It changes the Constitution automatically"
+        },
+        {
+          "id": "D",
+          "text": "It appoints judges directly"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "10",
+      "question": "The chapter mainly explains _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "India's electoral system and the importance of voting"
+        },
+        {
+          "id": "B",
+          "text": "Ancient kingdoms"
+        },
+        {
+          "id": "C",
+          "text": "Weather and climate"
+        },
+        {
+          "id": "D",
+          "text": "Agriculture and trade"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "11",
+      "question": "Why is Universal Adult Franchise considered an important democratic principle?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It gives every eligible citizen an equal opportunity to participate in governance."
+        },
+        {
+          "id": "B",
+          "text": "It allows only educated people to vote."
+        },
+        {
+          "id": "C",
+          "text": "It gives voting rights only to wealthy citizens."
+        },
+        {
+          "id": "D",
+          "text": "It limits democracy."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "12",
+      "question": "Why is the Election Commission of India independent?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To ensure free and fair elections without political interference."
+        },
+        {
+          "id": "B",
+          "text": "To support only one political party."
+        },
+        {
+          "id": "C",
+          "text": "To make laws."
+        },
+        {
+          "id": "D",
+          "text": "To appoint ministers."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "13",
+      "question": "What is the purpose of the Model Code of Conduct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To ensure fair campaigning during elections."
+        },
+        {
+          "id": "B",
+          "text": "To select candidates."
+        },
+        {
+          "id": "C",
+          "text": "To count votes."
+        },
+        {
+          "id": "D",
+          "text": "To prepare the Constitution."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "14",
+      "question": "Why is the secret ballot important?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It protects voters from pressure or fear while voting."
+        },
+        {
+          "id": "B",
+          "text": "It allows others to know every vote."
+        },
+        {
+          "id": "C",
+          "text": "It increases corruption."
+        },
+        {
+          "id": "D",
+          "text": "It prevents elections."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "15",
+      "question": "Which statement about elections is correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Elections allow citizens to hold governments accountable."
+        },
+        {
+          "id": "B",
+          "text": "Elections are unnecessary in a democracy."
+        },
+        {
+          "id": "C",
+          "text": "Citizens have no role after voting."
+        },
+        {
+          "id": "D",
+          "text": "Elections are held only once in a country's history."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "16",
+      "question": "Why should every eligible citizen vote?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Voting strengthens democracy and ensures representation."
+        },
+        {
+          "id": "B",
+          "text": "Voting has no impact on governance."
+        },
+        {
+          "id": "C",
+          "text": "Voting is only for government officials."
+        },
+        {
+          "id": "D",
+          "text": "Voting is optional for democracy to function."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "17",
+      "question": "Which democratic value is reflected by Universal Adult Franchise?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Equality"
+        },
+        {
+          "id": "B",
+          "text": "Discrimination"
+        },
+        {
+          "id": "C",
+          "text": "Monarchy"
+        },
+        {
+          "id": "D",
+          "text": "Colonialism"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "18",
+      "question": "Why are free and fair elections essential?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They ensure that the people's representatives are chosen democratically."
+        },
+        {
+          "id": "B",
+          "text": "They reduce public participation."
+        },
+        {
+          "id": "C",
+          "text": "They eliminate democracy."
+        },
+        {
+          "id": "D",
+          "text": "They remove accountability."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "19",
+      "question": "Which statement best explains the role of voters?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Voters choose representatives and influence public policies."
+        },
+        {
+          "id": "B",
+          "text": "Voters only pay taxes."
+        },
+        {
+          "id": "C",
+          "text": "Voters cannot influence governance."
+        },
+        {
+          "id": "D",
+          "text": "Voters appoint judges."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "20",
+      "question": "What is the central idea of this chapter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Universal Adult Franchise and free elections are essential for a successful democracy."
+        },
+        {
+          "id": "B",
+          "text": "Democracy functions without elections."
+        },
+        {
+          "id": "C",
+          "text": "Voting is only a legal formality."
+        },
+        {
+          "id": "D",
+          "text": "Elections benefit only political parties."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "21",
+      "question": "Why is Universal Adult Franchise considered the foundation of democracy?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It ensures political equality by giving every eligible citizen an equal vote."
+        },
+        {
+          "id": "B",
+          "text": "It gives more votes to educated citizens."
+        },
+        {
+          "id": "C",
+          "text": "It limits participation in elections."
+        },
+        {
+          "id": "D",
+          "text": "It benefits only elected representatives."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "22",
+      "question": "If elections were not conducted freely and fairly, what would most likely happen?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Public trust in democracy would decline."
+        },
+        {
+          "id": "B",
+          "text": "Democracy would become stronger automatically."
+        },
+        {
+          "id": "C",
+          "text": "Citizens would gain more rights."
+        },
+        {
+          "id": "D",
+          "text": "Elections would become unnecessary."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "23",
+      "question": "A voter refuses money offered by a candidate and votes according to personal judgment. Which democratic principle is demonstrated?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ethical and independent voting"
+        },
+        {
+          "id": "B",
+          "text": "Political corruption"
+        },
+        {
+          "id": "C",
+          "text": "Rule by force"
+        },
+        {
+          "id": "D",
+          "text": "Electoral manipulation"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "24",
+      "question": "Why is the Election Commission given constitutional status?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To protect the independence and fairness of the electoral process."
+        },
+        {
+          "id": "B",
+          "text": "To support political parties."
+        },
+        {
+          "id": "C",
+          "text": "To make government policies."
+        },
+        {
+          "id": "D",
+          "text": "To replace Parliament."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "25",
+      "question": "Which statement best explains the importance of voter participation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High voter participation strengthens democratic legitimacy and representation."
+        },
+        {
+          "id": "B",
+          "text": "Low voter turnout improves democracy."
+        },
+        {
+          "id": "C",
+          "text": "Voting has no effect on governance."
+        },
+        {
+          "id": "D",
+          "text": "Only candidates influence democracy."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "26",
+      "question": "A polling officer checks voter identity before allowing a person to vote. Which principle is being protected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Integrity of the electoral process"
+        },
+        {
+          "id": "B",
+          "text": "Freedom of speech"
+        },
+        {
+          "id": "C",
+          "text": "Judicial independence"
+        },
+        {
+          "id": "D",
+          "text": "Separation of powers"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "27",
+      "question": "Which lesson from this chapter is most relevant today?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Informed, ethical and active participation by citizens is essential for a healthy democracy."
+        },
+        {
+          "id": "B",
+          "text": "Elections are the responsibility of political parties alone."
+        },
+        {
+          "id": "C",
+          "text": "Voting is unnecessary if governments already exist."
+        },
+        {
+          "id": "D",
+          "text": "Democracy depends only on elected leaders."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "28",
+      "question": "Why is voter awareness important?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Informed voters are more likely to make responsible democratic choices."
+        },
+        {
+          "id": "B",
+          "text": "It reduces participation in elections."
+        },
+        {
+          "id": "C",
+          "text": "It encourages misinformation."
+        },
+        {
+          "id": "D",
+          "text": "It eliminates competition among candidates."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "29",
+      "question": "Which action best strengthens India's electoral democracy?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Voting responsibly, respecting election rules and rejecting corrupt practices."
+        },
+        {
+          "id": "B",
+          "text": "Accepting money for votes."
+        },
+        {
+          "id": "C",
+          "text": "Spreading false election information."
+        },
+        {
+          "id": "D",
+          "text": "Preventing eligible citizens from voting."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "30",
+      "question": "Which statement best summarizes the main idea of this chapter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Universal Adult Franchise and an independent electoral system ensure that every eligible citizen can participate equally in choosing a representative government, making democracy stronger and more accountable."
+        },
+        {
+          "id": "B",
+          "text": "Elections are useful only during political crises."
+        },
+        {
+          "id": "C",
+          "text": "Voting is important only for political leaders."
+        },
+        {
+          "id": "D",
+          "text": "Democracy can function effectively without citizen participation."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    }
+  ]
+}

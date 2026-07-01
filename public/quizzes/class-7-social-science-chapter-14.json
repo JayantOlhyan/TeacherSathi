@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "How many countries share a land border with India?",
+      "options": [
+        {
+          "id": "A",
+          "text": "7"
+        },
+        {
+          "id": "B",
+          "text": "5"
+        },
+        {
+          "id": "C",
+          "text": "9"
+        },
+        {
+          "id": "D",
+          "text": "10"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "2",
+      "question": "Which country lies to the north of India?",
+      "options": [
+        {
+          "id": "A",
+          "text": "China"
+        },
+        {
+          "id": "B",
+          "text": "Sri Lanka"
+        },
+        {
+          "id": "C",
+          "text": "Maldives"
+        },
+        {
+          "id": "D",
+          "text": "Indonesia"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "3",
+      "question": "Which country shares the longest border with India?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bangladesh"
+        },
+        {
+          "id": "B",
+          "text": "Nepal"
+        },
+        {
+          "id": "C",
+          "text": "Bhutan"
+        },
+        {
+          "id": "D",
+          "text": "Myanmar"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "4",
+      "question": "Which island nation lies to the south of India?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sri Lanka"
+        },
+        {
+          "id": "B",
+          "text": "Nepal"
+        },
+        {
+          "id": "C",
+          "text": "Bhutan"
+        },
+        {
+          "id": "D",
+          "text": "Afghanistan"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "5",
+      "question": "Which country is known as the 'Land of the Thunder Dragon'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bhutan"
+        },
+        {
+          "id": "B",
+          "text": "Nepal"
+        },
+        {
+          "id": "C",
+          "text": "Bangladesh"
+        },
+        {
+          "id": "D",
+          "text": "Pakistan"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "6",
+      "question": "Which mountain range separates India from many of its northern neighbours?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Himalayas"
+        },
+        {
+          "id": "B",
+          "text": "Aravallis"
+        },
+        {
+          "id": "C",
+          "text": "Vindhyas"
+        },
+        {
+          "id": "D",
+          "text": "Satpuras"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "7",
+      "question": "Which sea lies between India and Sri Lanka?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Palk Strait"
+        },
+        {
+          "id": "B",
+          "text": "Arabian Sea"
+        },
+        {
+          "id": "C",
+          "text": "Red Sea"
+        },
+        {
+          "id": "D",
+          "text": "Mediterranean Sea"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "8",
+      "question": "India shares cultural ties with many neighbouring countries through _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Trade, religion and history"
+        },
+        {
+          "id": "B",
+          "text": "Climate only"
+        },
+        {
+          "id": "C",
+          "text": "Population only"
+        },
+        {
+          "id": "D",
+          "text": "Sports only"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "9",
+      "question": "Which country is east of India?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Myanmar"
+        },
+        {
+          "id": "B",
+          "text": "Pakistan"
+        },
+        {
+          "id": "C",
+          "text": "Afghanistan"
+        },
+        {
+          "id": "D",
+          "text": "Nepal"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "10",
+      "question": "The chapter mainly explains India's _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Relationship with neighbouring countries"
+        },
+        {
+          "id": "B",
+          "text": "Industrial development"
+        },
+        {
+          "id": "C",
+          "text": "Climate only"
+        },
+        {
+          "id": "D",
+          "text": "Population growth"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "11",
+      "question": "Why are good relations with neighbouring countries important?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They promote peace, trade and cooperation."
+        },
+        {
+          "id": "B",
+          "text": "They reduce communication."
+        },
+        {
+          "id": "C",
+          "text": "They discourage development."
+        },
+        {
+          "id": "D",
+          "text": "They stop cultural exchanges."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "12",
+      "question": "Which factor has strengthened India's ties with neighbouring countries for centuries?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Trade and cultural exchanges"
+        },
+        {
+          "id": "B",
+          "text": "Isolation"
+        },
+        {
+          "id": "C",
+          "text": "Lack of communication"
+        },
+        {
+          "id": "D",
+          "text": "Closed borders only"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "13",
+      "question": "Why is the Himalayas important in India's relations with its neighbours?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It forms a natural boundary and influences climate and travel."
+        },
+        {
+          "id": "B",
+          "text": "It separates India from the sea."
+        },
+        {
+          "id": "C",
+          "text": "It is a desert region."
+        },
+        {
+          "id": "D",
+          "text": "It has no geographical importance."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "14",
+      "question": "Which neighbouring country is completely surrounded by India on three sides?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bangladesh"
+        },
+        {
+          "id": "B",
+          "text": "China"
+        },
+        {
+          "id": "C",
+          "text": "Myanmar"
+        },
+        {
+          "id": "D",
+          "text": "Afghanistan"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "15",
+      "question": "Which of the following is an example of regional cooperation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Countries working together on trade and development"
+        },
+        {
+          "id": "B",
+          "text": "Avoiding communication"
+        },
+        {
+          "id": "C",
+          "text": "Closing all borders permanently"
+        },
+        {
+          "id": "D",
+          "text": "Preventing cultural exchanges"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "16",
+      "question": "Why do neighbouring countries often share cultural similarities?",
+      "options": [
+        {
+          "id": "A",
+          "text": "People have interacted through trade, migration and religion over centuries."
+        },
+        {
+          "id": "B",
+          "text": "They have exactly the same climate only."
+        },
+        {
+          "id": "C",
+          "text": "They never communicated."
+        },
+        {
+          "id": "D",
+          "text": "Geography has no influence on culture."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "17",
+      "question": "Which statement about India's neighbours is correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They share geographical, historical and cultural connections with India."
+        },
+        {
+          "id": "B",
+          "text": "They have no relationship with India."
+        },
+        {
+          "id": "C",
+          "text": "They are located on different continents."
+        },
+        {
+          "id": "D",
+          "text": "They share no trade routes."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "18",
+      "question": "Why is international trade important for neighbouring countries?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It strengthens economies and improves cooperation."
+        },
+        {
+          "id": "B",
+          "text": "It reduces development."
+        },
+        {
+          "id": "C",
+          "text": "It discourages communication."
+        },
+        {
+          "id": "D",
+          "text": "It has no economic value."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "19",
+      "question": "Which value is promoted through peaceful relations between neighbouring countries?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mutual respect and cooperation"
+        },
+        {
+          "id": "B",
+          "text": "Conflict"
+        },
+        {
+          "id": "C",
+          "text": "Isolation"
+        },
+        {
+          "id": "D",
+          "text": "Competition only"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "20",
+      "question": "What is the central idea of this chapter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "India's geographical location and historical ties promote cooperation with neighbouring countries."
+        },
+        {
+          "id": "B",
+          "text": "Neighbouring countries have no influence on India."
+        },
+        {
+          "id": "C",
+          "text": "Geography has no role in international relations."
+        },
+        {
+          "id": "D",
+          "text": "Trade is unimportant between neighbouring countries."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "21",
+      "question": "Why is India's geographical location strategically important in South Asia?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It connects several neighbouring countries through land and sea routes."
+        },
+        {
+          "id": "B",
+          "text": "It is completely isolated from other countries."
+        },
+        {
+          "id": "C",
+          "text": "It has no coastline."
+        },
+        {
+          "id": "D",
+          "text": "It prevents international trade."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "22",
+      "question": "If India did not share borders with neighbouring countries, which would most likely be affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Regional trade, cultural exchange and international cooperation."
+        },
+        {
+          "id": "B",
+          "text": "The formation of rivers."
+        },
+        {
+          "id": "C",
+          "text": "The Earth's rotation."
+        },
+        {
+          "id": "D",
+          "text": "Climate patterns worldwide."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "23",
+      "question": "Which example best demonstrates cultural exchange between India and its neighbours?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Shared festivals, religious traditions and trade over centuries."
+        },
+        {
+          "id": "B",
+          "text": "Complete isolation between countries."
+        },
+        {
+          "id": "C",
+          "text": "No movement of people or ideas."
+        },
+        {
+          "id": "D",
+          "text": "Absence of historical contacts."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "24",
+      "question": "Why is peaceful cooperation important among neighbouring countries?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It promotes economic growth, security and regional stability."
+        },
+        {
+          "id": "B",
+          "text": "It discourages development."
+        },
+        {
+          "id": "C",
+          "text": "It reduces communication."
+        },
+        {
+          "id": "D",
+          "text": "It prevents trade."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "25",
+      "question": "Which statement best explains the importance of borders?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They define territories while allowing peaceful cooperation and regulated movement."
+        },
+        {
+          "id": "B",
+          "text": "They prevent all communication."
+        },
+        {
+          "id": "C",
+          "text": "They eliminate trade permanently."
+        },
+        {
+          "id": "D",
+          "text": "They have no political importance."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "26",
+      "question": "A country signs agreements with its neighbours to improve transport and trade. Which principle is being demonstrated?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Regional cooperation for mutual development"
+        },
+        {
+          "id": "B",
+          "text": "Isolationism"
+        },
+        {
+          "id": "C",
+          "text": "Cultural conflict"
+        },
+        {
+          "id": "D",
+          "text": "Economic competition only"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "27",
+      "question": "Which lesson from this chapter is most relevant today?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Good relations with neighbouring countries contribute to peace and development."
+        },
+        {
+          "id": "B",
+          "text": "Countries should avoid cooperation."
+        },
+        {
+          "id": "C",
+          "text": "Trade weakens international relations."
+        },
+        {
+          "id": "D",
+          "text": "Borders make cooperation impossible."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "28",
+      "question": "Why do historians and geographers study India's neighbouring countries together?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because geography, history and culture are closely interconnected across the region."
+        },
+        {
+          "id": "B",
+          "text": "Because they have no relationship with India."
+        },
+        {
+          "id": "C",
+          "text": "Because only climate connects them."
+        },
+        {
+          "id": "D",
+          "text": "Because borders never changed in history."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "29",
+      "question": "Which action would strengthen India's relationship with its neighbours?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Encouraging trade, cultural exchange and peaceful dialogue."
+        },
+        {
+          "id": "B",
+          "text": "Closing all communication."
+        },
+        {
+          "id": "C",
+          "text": "Discouraging cooperation."
+        },
+        {
+          "id": "D",
+          "text": "Preventing all travel."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "30",
+      "question": "Which statement best summarizes the main idea of this chapter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "India's geographical position and shared history with neighbouring countries make regional cooperation, trade and cultural exchange essential for peace and development."
+        },
+        {
+          "id": "B",
+          "text": "India's neighbours have little influence on its development."
+        },
+        {
+          "id": "C",
+          "text": "Geography has no role in international relations."
+        },
+        {
+          "id": "D",
+          "text": "Borders prevent all cooperation."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    }
+  ]
+}

@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "What is media?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A means of communication that shares information with people"
+        },
+        {
+          "id": "B",
+          "text": "A type of government"
+        },
+        {
+          "id": "C",
+          "text": "A farming method"
+        },
+        {
+          "id": "D",
+          "text": "A mode of transport"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "2",
+      "question": "Which of the following is an example of print media?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Newspaper"
+        },
+        {
+          "id": "B",
+          "text": "Television"
+        },
+        {
+          "id": "C",
+          "text": "Radio"
+        },
+        {
+          "id": "D",
+          "text": "Podcast"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "3",
+      "question": "Which of the following is an example of electronic media?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Television"
+        },
+        {
+          "id": "B",
+          "text": "Magazine"
+        },
+        {
+          "id": "C",
+          "text": "Newspaper"
+        },
+        {
+          "id": "D",
+          "text": "Poster"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "4",
+      "question": "Which type of media uses the internet?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Digital media"
+        },
+        {
+          "id": "B",
+          "text": "Print media"
+        },
+        {
+          "id": "C",
+          "text": "Wall newspaper"
+        },
+        {
+          "id": "D",
+          "text": "Notice board"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "5",
+      "question": "What is one important role of the media in a democracy?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Informing citizens"
+        },
+        {
+          "id": "B",
+          "text": "Conducting elections"
+        },
+        {
+          "id": "C",
+          "text": "Making laws"
+        },
+        {
+          "id": "D",
+          "text": "Running courts"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "6",
+      "question": "Which democratic value is strengthened by a free media?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Transparency"
+        },
+        {
+          "id": "B",
+          "text": "Dictatorship"
+        },
+        {
+          "id": "C",
+          "text": "Monarchy"
+        },
+        {
+          "id": "D",
+          "text": "Secrecy"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "7",
+      "question": "Which of the following is an example of digital media?",
+      "options": [
+        {
+          "id": "A",
+          "text": "News website"
+        },
+        {
+          "id": "B",
+          "text": "Printed textbook"
+        },
+        {
+          "id": "C",
+          "text": "Handwritten notice"
+        },
+        {
+          "id": "D",
+          "text": "Poster"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "8",
+      "question": "Why should people verify news before sharing it?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To prevent the spread of misinformation"
+        },
+        {
+          "id": "B",
+          "text": "To increase rumours"
+        },
+        {
+          "id": "C",
+          "text": "To make news popular"
+        },
+        {
+          "id": "D",
+          "text": "To avoid reading newspapers"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "9",
+      "question": "The media acts as a link between _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Government and citizens"
+        },
+        {
+          "id": "B",
+          "text": "Farmers and crops"
+        },
+        {
+          "id": "C",
+          "text": "Rivers and mountains"
+        },
+        {
+          "id": "D",
+          "text": "Schools and hospitals"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "10",
+      "question": "The chapter mainly explains the relationship between _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Media and democracy"
+        },
+        {
+          "id": "B",
+          "text": "Farming and industries"
+        },
+        {
+          "id": "C",
+          "text": "Climate and weather"
+        },
+        {
+          "id": "D",
+          "text": "Trade and transport"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "11",
+      "question": "Why is a free media important in a democracy?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It informs citizens and holds the government accountable."
+        },
+        {
+          "id": "B",
+          "text": "It makes laws."
+        },
+        {
+          "id": "C",
+          "text": "It conducts elections."
+        },
+        {
+          "id": "D",
+          "text": "It appoints judges."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "12",
+      "question": "Which responsibility should the media follow?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Reporting accurate and unbiased information"
+        },
+        {
+          "id": "B",
+          "text": "Spreading rumours"
+        },
+        {
+          "id": "C",
+          "text": "Publishing false news intentionally"
+        },
+        {
+          "id": "D",
+          "text": "Ignoring facts"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "13",
+      "question": "Why is media called the 'Fourth Pillar of Democracy'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It monitors public affairs and keeps citizens informed."
+        },
+        {
+          "id": "B",
+          "text": "It forms the government."
+        },
+        {
+          "id": "C",
+          "text": "It writes the Constitution."
+        },
+        {
+          "id": "D",
+          "text": "It controls the judiciary."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "14",
+      "question": "Which action reflects responsible use of social media?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Checking facts before sharing information"
+        },
+        {
+          "id": "B",
+          "text": "Sharing every message without verification"
+        },
+        {
+          "id": "C",
+          "text": "Posting misleading information"
+        },
+        {
+          "id": "D",
+          "text": "Ignoring privacy rules"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "15",
+      "question": "How does media help during elections?",
+      "options": [
+        {
+          "id": "A",
+          "text": "By informing voters about issues, candidates and election processes"
+        },
+        {
+          "id": "B",
+          "text": "By deciding election results"
+        },
+        {
+          "id": "C",
+          "text": "By appointing leaders"
+        },
+        {
+          "id": "D",
+          "text": "By replacing the Election Commission"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "16",
+      "question": "Which statement about media is correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It helps citizens express opinions and stay informed."
+        },
+        {
+          "id": "B",
+          "text": "It has no role in democracy."
+        },
+        {
+          "id": "C",
+          "text": "It exists only for entertainment."
+        },
+        {
+          "id": "D",
+          "text": "It replaces the government."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "17",
+      "question": "Why is media literacy important?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It helps people identify reliable and false information."
+        },
+        {
+          "id": "B",
+          "text": "It reduces reading ability."
+        },
+        {
+          "id": "C",
+          "text": "It discourages learning."
+        },
+        {
+          "id": "D",
+          "text": "It prevents communication."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "18",
+      "question": "Which democratic principle is promoted by responsible journalism?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Accountability and transparency"
+        },
+        {
+          "id": "B",
+          "text": "Corruption"
+        },
+        {
+          "id": "C",
+          "text": "Secrecy"
+        },
+        {
+          "id": "D",
+          "text": "Discrimination"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "19",
+      "question": "Which value should every media organisation follow?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Accuracy and fairness"
+        },
+        {
+          "id": "B",
+          "text": "Bias and rumours"
+        },
+        {
+          "id": "C",
+          "text": "Misinformation"
+        },
+        {
+          "id": "D",
+          "text": "Secrecy"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "20",
+      "question": "What is the central idea of this chapter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A responsible and independent media strengthens democracy by informing citizens and promoting accountability."
+        },
+        {
+          "id": "B",
+          "text": "Media is useful only for entertainment."
+        },
+        {
+          "id": "C",
+          "text": "Democracy does not require media."
+        },
+        {
+          "id": "D",
+          "text": "Only newspapers are important."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "21",
+      "question": "Why is media considered essential in a democratic society?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It provides information, encourages public debate and holds those in power accountable."
+        },
+        {
+          "id": "B",
+          "text": "It replaces the government."
+        },
+        {
+          "id": "C",
+          "text": "It makes laws."
+        },
+        {
+          "id": "D",
+          "text": "It conducts court proceedings."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "22",
+      "question": "If people share unverified information on social media, what is the most likely consequence?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Misinformation may spread rapidly and mislead people."
+        },
+        {
+          "id": "B",
+          "text": "News becomes more accurate."
+        },
+        {
+          "id": "C",
+          "text": "Democracy becomes stronger automatically."
+        },
+        {
+          "id": "D",
+          "text": "Newspapers stop publishing."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "23",
+      "question": "A news channel investigates misuse of public funds and reports it with evidence. Which democratic principle is demonstrated?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Accountability through responsible journalism"
+        },
+        {
+          "id": "B",
+          "text": "Rule by force"
+        },
+        {
+          "id": "C",
+          "text": "Judicial decision-making"
+        },
+        {
+          "id": "D",
+          "text": "Legislative lawmaking"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "24",
+      "question": "Why is fact-checking important before publishing news?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It ensures that information is accurate and trustworthy."
+        },
+        {
+          "id": "B",
+          "text": "It increases rumours."
+        },
+        {
+          "id": "C",
+          "text": "It delays communication unnecessarily."
+        },
+        {
+          "id": "D",
+          "text": "It reduces public awareness."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "25",
+      "question": "Which statement best explains the relationship between media and democracy?",
+      "options": [
+        {
+          "id": "A",
+          "text": "An informed public can participate more effectively in democratic decision-making."
+        },
+        {
+          "id": "B",
+          "text": "Media has no influence on democracy."
+        },
+        {
+          "id": "C",
+          "text": "Democracy functions without informed citizens."
+        },
+        {
+          "id": "D",
+          "text": "Only governments need information."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "26",
+      "question": "A student compares reports from multiple reliable news sources before forming an opinion. Which skill is demonstrated?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Critical thinking and media literacy"
+        },
+        {
+          "id": "B",
+          "text": "Memorisation only"
+        },
+        {
+          "id": "C",
+          "text": "Blind acceptance of information"
+        },
+        {
+          "id": "D",
+          "text": "Guesswork"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "27",
+      "question": "Which lesson from this chapter is most relevant today?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Responsible use of media and critical evaluation of information are essential for a healthy democracy."
+        },
+        {
+          "id": "B",
+          "text": "Every online message should be believed immediately."
+        },
+        {
+          "id": "C",
+          "text": "News verification is unnecessary."
+        },
+        {
+          "id": "D",
+          "text": "Social media should replace all other forms of media."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "28",
+      "question": "Which action best strengthens democracy?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Supporting independent, accurate and responsible journalism while verifying information before sharing it."
+        },
+        {
+          "id": "B",
+          "text": "Sharing false news knowingly."
+        },
+        {
+          "id": "C",
+          "text": "Ignoring reliable news sources."
+        },
+        {
+          "id": "D",
+          "text": "Discouraging freedom of expression."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "29",
+      "question": "Why should citizens be aware of fake news?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fake news can influence public opinion and lead to poor decisions."
+        },
+        {
+          "id": "B",
+          "text": "Fake news is always harmless."
+        },
+        {
+          "id": "C",
+          "text": "Fake news improves democracy."
+        },
+        {
+          "id": "D",
+          "text": "Fake news is officially approved."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "30",
+      "question": "Which statement best summarizes the main idea of this chapter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A free, responsible and informed media plays a vital role in strengthening democracy by promoting transparency, accountability and informed citizen participation."
+        },
+        {
+          "id": "B",
+          "text": "Media is important only during elections."
+        },
+        {
+          "id": "C",
+          "text": "Entertainment is the only function of media."
+        },
+        {
+          "id": "D",
+          "text": "Democracy does not depend on informed citizens."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    }
+  ]
+}

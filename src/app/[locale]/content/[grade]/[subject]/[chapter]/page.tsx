@@ -264,12 +264,8 @@ export default function ChapterHubPage() {
             <p className="text-sm sm:text-base text-slate-600/95 max-w-3xl leading-relaxed font-medium">
               {chapterDetails.description}
             </p>
-            {chapterDetails.descriptionHi && (
-              <p className="text-sm sm:text-base text-slate-700 max-w-3xl leading-relaxed font-normal bg-amber-50/70 p-3 rounded-xl border border-amber-200/50">
-                {chapterDetails.descriptionHi}
-              </p>
-            )}
             
+
             <div className="flex flex-wrap items-center gap-3 pt-3">
               <div className="flex items-center gap-2 bg-white/90 border border-slate-200 px-4 py-2.5 rounded-xl shadow-sm text-xs font-black text-slate-600 uppercase tracking-wider">
                 <Clock className="w-4 h-4 text-emerald-700" />

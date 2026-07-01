@@ -1,0 +1,746 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "What is barter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Exchange of goods and services without using money"
+        },
+        {
+          "id": "B",
+          "text": "Buying goods with digital payment"
+        },
+        {
+          "id": "C",
+          "text": "Selling goods in a market"
+        },
+        {
+          "id": "D",
+          "text": "Depositing money in a bank"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "2",
+      "question": "What replaced the barter system over time?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Money"
+        },
+        {
+          "id": "B",
+          "text": "Gold only"
+        },
+        {
+          "id": "C",
+          "text": "Agriculture"
+        },
+        {
+          "id": "D",
+          "text": "Transport"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "3",
+      "question": "Why was the barter system difficult?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both people had to want each other's goods at the same time."
+        },
+        {
+          "id": "B",
+          "text": "There were too many coins."
+        },
+        {
+          "id": "C",
+          "text": "Goods were free."
+        },
+        {
+          "id": "D",
+          "text": "There were no markets."
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "4",
+      "question": "Which is a function of money?",
+      "options": [
+        {
+          "id": "B",
+          "text": "Source of rainfall"
+        },
+        {
+          "id": "C",
+          "text": "Type of government"
+        },
+        {
+          "id": "D",
+          "text": "Form of transport"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "5",
+      "question": "Which of the following is an example of barter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Exchanging wheat for rice"
+        },
+        {
+          "id": "B",
+          "text": "Buying rice with ₹100"
+        },
+        {
+          "id": "C",
+          "text": "Paying by UPI"
+        },
+        {
+          "id": "D",
+          "text": "Using a debit card"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "6",
+      "question": "What is used to measure the value of goods today?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Money"
+        },
+        {
+          "id": "B",
+          "text": "Rainfall"
+        },
+        {
+          "id": "C",
+          "text": "Population"
+        },
+        {
+          "id": "D",
+          "text": "Temperature"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "7",
+      "question": "Which institution issues currency notes in India?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Reserve Bank of India"
+        },
+        {
+          "id": "B",
+          "text": "Election Commission"
+        },
+        {
+          "id": "C",
+          "text": "Supreme Court"
+        },
+        {
+          "id": "D",
+          "text": "Gram Panchayat"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "8",
+      "question": "Which is the official currency of India?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Indian Rupee (₹)"
+        },
+        {
+          "id": "B",
+          "text": "Dollar"
+        },
+        {
+          "id": "C",
+          "text": "Euro"
+        },
+        {
+          "id": "D",
+          "text": "Yen"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "9",
+      "question": "Digital payments are mainly used to _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Transfer money electronically"
+        },
+        {
+          "id": "B",
+          "text": "Measure rainfall"
+        },
+        {
+          "id": "C",
+          "text": "Predict weather"
+        },
+        {
+          "id": "D",
+          "text": "Grow crops"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "10",
+      "question": "The main advantage of money over barter is that it _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Makes buying and selling easier"
+        },
+        {
+          "id": "B",
+          "text": "Stops trade"
+        },
+        {
+          "id": "C",
+          "text": "Reduces production"
+        },
+        {
+          "id": "D",
+          "text": "Eliminates markets"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "11",
+      "question": "Why did societies gradually move from barter to money?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Money made trade easier and more efficient."
+        },
+        {
+          "id": "B",
+          "text": "Barter was faster than money."
+        },
+        {
+          "id": "C",
+          "text": "People stopped trading."
+        },
+        {
+          "id": "D",
+          "text": "Goods lost their value."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "12",
+      "question": "Which problem of barter is solved by money?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Double coincidence of wants"
+        },
+        {
+          "id": "B",
+          "text": "Population growth"
+        },
+        {
+          "id": "C",
+          "text": "Climate change"
+        },
+        {
+          "id": "D",
+          "text": "Soil erosion"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "13",
+      "question": "Which function of money helps compare the prices of different goods?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Unit of account (measure of value)"
+        },
+        {
+          "id": "C",
+          "text": "Weather forecasting"
+        },
+        {
+          "id": "D",
+          "text": "Communication"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "14",
+      "question": "Why do people keep money in banks?",
+      "options": [
+        {
+          "id": "A",
+          "text": "For safety and easy transactions"
+        },
+        {
+          "id": "B",
+          "text": "To increase rainfall"
+        },
+        {
+          "id": "C",
+          "text": "To improve farming"
+        },
+        {
+          "id": "D",
+          "text": "To produce goods"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "15",
+      "question": "Which payment method is an example of digital money?",
+      "options": [
+        {
+          "id": "A",
+          "text": "UPI transaction"
+        },
+        {
+          "id": "B",
+          "text": "Exchange of wheat for rice"
+        },
+        {
+          "id": "C",
+          "text": "Giving a goat for cloth"
+        },
+        {
+          "id": "D",
+          "text": "Paying with grains"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "16",
+      "question": "Which statement about money is correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It acts as a medium of exchange and stores value."
+        },
+        {
+          "id": "B",
+          "text": "It is useful only for buying food."
+        },
+        {
+          "id": "C",
+          "text": "It has no role in trade."
+        },
+        {
+          "id": "D",
+          "text": "It is used only by governments."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "17",
+      "question": "Why is money accepted by everyone?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It has common value recognised by society."
+        },
+        {
+          "id": "B",
+          "text": "It is made of paper only."
+        },
+        {
+          "id": "C",
+          "text": "It is always made of gold."
+        },
+        {
+          "id": "D",
+          "text": "It belongs only to banks."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "18",
+      "question": "Which institution is mainly responsible for regulating India's currency?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Reserve Bank of India"
+        },
+        {
+          "id": "B",
+          "text": "Gram Sabha"
+        },
+        {
+          "id": "C",
+          "text": "Municipal Corporation"
+        },
+        {
+          "id": "D",
+          "text": "Supreme Court"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "19",
+      "question": "Which development has made modern transactions faster?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Digital payment systems"
+        },
+        {
+          "id": "B",
+          "text": "Barter system"
+        },
+        {
+          "id": "C",
+          "text": "Exchange of livestock"
+        },
+        {
+          "id": "D",
+          "text": "Exchange of grains"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "20",
+      "question": "What is the central idea of this chapter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Money replaced barter because it made trade easier, faster and more reliable."
+        },
+        {
+          "id": "B",
+          "text": "Barter is more efficient than money today."
+        },
+        {
+          "id": "C",
+          "text": "Trade is not important in society."
+        },
+        {
+          "id": "D",
+          "text": "Banks have no role in the economy."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "21",
+      "question": "Why was the barter system unsuitable for large-scale trade?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It depended on the double coincidence of wants and lacked a common measure of value."
+        },
+        {
+          "id": "B",
+          "text": "It required digital payments."
+        },
+        {
+          "id": "C",
+          "text": "It used too many coins."
+        },
+        {
+          "id": "D",
+          "text": "It was accepted everywhere."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "22",
+      "question": "If money did not exist today, which activity would become most difficult?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Buying and selling goods efficiently"
+        },
+        {
+          "id": "B",
+          "text": "Growing crops"
+        },
+        {
+          "id": "C",
+          "text": "Predicting weather"
+        },
+        {
+          "id": "D",
+          "text": "Conducting elections"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "23",
+      "question": "A farmer sells wheat and receives money instead of exchanging it directly for clothes. Which advantage of money is shown?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Money separates selling from buying, making trade easier."
+        },
+        {
+          "id": "B",
+          "text": "Money reduces production."
+        },
+        {
+          "id": "C",
+          "text": "Money replaces markets."
+        },
+        {
+          "id": "D",
+          "text": "Money eliminates agriculture."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "24",
+      "question": "Which statement best explains why money is called a 'store of value'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It allows people to save purchasing power for future use."
+        },
+        {
+          "id": "B",
+          "text": "It changes weather conditions."
+        },
+        {
+          "id": "C",
+          "text": "It increases rainfall."
+        },
+        {
+          "id": "D",
+          "text": "It replaces banks completely."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "25",
+      "question": "Why are digital payment systems becoming increasingly popular?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They make transactions fast, secure and convenient."
+        },
+        {
+          "id": "B",
+          "text": "They replace all forms of currency immediately."
+        },
+        {
+          "id": "C",
+          "text": "They work only without banks."
+        },
+        {
+          "id": "D",
+          "text": "They are used only by businesses."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "26",
+      "question": "Which example best illustrates the evolution of trade?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Society progressed from barter to coins, paper currency and digital payments."
+        },
+        {
+          "id": "B",
+          "text": "Trade has always depended only on barter."
+        },
+        {
+          "id": "C",
+          "text": "Digital payments existed in ancient India."
+        },
+        {
+          "id": "D",
+          "text": "Coins were introduced before barter."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "27",
+      "question": "Which lesson from this chapter is most relevant today?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Efficient payment systems support economic growth and everyday life."
+        },
+        {
+          "id": "B",
+          "text": "Money has no role in development."
+        },
+        {
+          "id": "C",
+          "text": "Barter should replace all modern payments."
+        },
+        {
+          "id": "D",
+          "text": "Banks are unnecessary in the economy."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "28",
+      "question": "A shopkeeper accepts cash, cards and UPI payments. Which economic concept does this demonstrate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Multiple modern forms of money and payment systems"
+        },
+        {
+          "id": "B",
+          "text": "Barter economy only"
+        },
+        {
+          "id": "C",
+          "text": "Agricultural production"
+        },
+        {
+          "id": "D",
+          "text": "Government administration"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "29",
+      "question": "Which action best promotes a safe financial system?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Using authorised banks and secure digital payment methods"
+        },
+        {
+          "id": "B",
+          "text": "Sharing banking passwords with others"
+        },
+        {
+          "id": "C",
+          "text": "Ignoring transaction records"
+        },
+        {
+          "id": "D",
+          "text": "Using unsafe payment methods knowingly"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "30",
+      "question": "Which statement best summarizes the main idea of this chapter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The evolution from barter to money transformed trade by making transactions more efficient, supporting economic growth and enabling modern banking and digital payments."
+        },
+        {
+          "id": "B",
+          "text": "The barter system is more useful than money in today's economy."
+        },
+        {
+          "id": "C",
+          "text": "Banks replaced trade completely."
+        },
+        {
+          "id": "D",
+          "text": "Money is useful only for buying goods."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    }
+  ]
+}

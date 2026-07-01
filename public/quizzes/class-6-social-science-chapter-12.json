@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "Which institution looks after local government in cities?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Municipal Corporation"
+        },
+        {
+          "id": "B",
+          "text": "Gram Panchayat"
+        },
+        {
+          "id": "C",
+          "text": "Zila Parishad"
+        },
+        {
+          "id": "D",
+          "text": "Parliament"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "2",
+      "question": "Local government in towns is generally called a _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Municipality"
+        },
+        {
+          "id": "B",
+          "text": "Gram Sabha"
+        },
+        {
+          "id": "C",
+          "text": "Lok Sabha"
+        },
+        {
+          "id": "D",
+          "text": "Rajya Sabha"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "3",
+      "question": "Who elects the members of a Municipal Corporation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The people living in the city"
+        },
+        {
+          "id": "B",
+          "text": "The Governor"
+        },
+        {
+          "id": "C",
+          "text": "The President"
+        },
+        {
+          "id": "D",
+          "text": "The Prime Minister"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "4",
+      "question": "What is the main function of a Municipal Corporation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To provide civic services in urban areas"
+        },
+        {
+          "id": "B",
+          "text": "To conduct national elections"
+        },
+        {
+          "id": "C",
+          "text": "To make laws for the whole country"
+        },
+        {
+          "id": "D",
+          "text": "To manage the armed forces"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "5",
+      "question": "Which of the following is a civic service?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Garbage collection"
+        },
+        {
+          "id": "B",
+          "text": "Space research"
+        },
+        {
+          "id": "C",
+          "text": "Railway construction"
+        },
+        {
+          "id": "D",
+          "text": "Currency printing"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "6",
+      "question": "Which local body works in smaller towns?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Municipality"
+        },
+        {
+          "id": "B",
+          "text": "Gram Panchayat"
+        },
+        {
+          "id": "C",
+          "text": "Zila Parishad"
+        },
+        {
+          "id": "D",
+          "text": "Parliament"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "7",
+      "question": "Which service is provided by urban local bodies?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Street lighting"
+        },
+        {
+          "id": "B",
+          "text": "Defence of the country"
+        },
+        {
+          "id": "C",
+          "text": "Foreign affairs"
+        },
+        {
+          "id": "D",
+          "text": "Printing currency"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "8",
+      "question": "Why do cities need local governments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To manage local services and development"
+        },
+        {
+          "id": "B",
+          "text": "To conduct international trade"
+        },
+        {
+          "id": "C",
+          "text": "To control weather"
+        },
+        {
+          "id": "D",
+          "text": "To run schools only"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "9",
+      "question": "Who benefits from the services provided by urban local bodies?",
+      "options": [
+        {
+          "id": "A",
+          "text": "All residents of the town or city"
+        },
+        {
+          "id": "B",
+          "text": "Only government officials"
+        },
+        {
+          "id": "C",
+          "text": "Only business owners"
+        },
+        {
+          "id": "D",
+          "text": "Only students"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "10",
+      "question": "The main objective of urban local government is _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "To improve the quality of life in towns and cities"
+        },
+        {
+          "id": "B",
+          "text": "To manage national defence"
+        },
+        {
+          "id": "C",
+          "text": "To conduct Parliament sessions"
+        },
+        {
+          "id": "D",
+          "text": "To frame the Constitution"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "11",
+      "question": "Why are Municipal Corporations important in large cities?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They provide essential civic services and urban development."
+        },
+        {
+          "id": "B",
+          "text": "They conduct General Elections."
+        },
+        {
+          "id": "C",
+          "text": "They appoint judges."
+        },
+        {
+          "id": "D",
+          "text": "They manage the Army."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "12",
+      "question": "Which of the following is a responsibility of urban local government?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Maintaining roads, parks and sanitation"
+        },
+        {
+          "id": "B",
+          "text": "Conducting foreign policy"
+        },
+        {
+          "id": "C",
+          "text": "Printing currency notes"
+        },
+        {
+          "id": "D",
+          "text": "Managing airports only"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "13",
+      "question": "Why should citizens pay municipal taxes?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To help provide and maintain public services"
+        },
+        {
+          "id": "B",
+          "text": "To increase private profits"
+        },
+        {
+          "id": "C",
+          "text": "To conduct national elections"
+        },
+        {
+          "id": "D",
+          "text": "To manage the Parliament"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "14",
+      "question": "Which value is strengthened when citizens cooperate with urban local bodies?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Responsible citizenship"
+        },
+        {
+          "id": "B",
+          "text": "Social discrimination"
+        },
+        {
+          "id": "C",
+          "text": "Corruption"
+        },
+        {
+          "id": "D",
+          "text": "Inequality"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "15",
+      "question": "Which action shows responsible behaviour in a city?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Keeping public places clean and following civic rules"
+        },
+        {
+          "id": "B",
+          "text": "Throwing garbage on roads"
+        },
+        {
+          "id": "C",
+          "text": "Damaging streetlights"
+        },
+        {
+          "id": "D",
+          "text": "Wasting drinking water"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "16",
+      "question": "Why is waste management important in cities?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It helps maintain cleanliness and public health."
+        },
+        {
+          "id": "B",
+          "text": "It increases pollution."
+        },
+        {
+          "id": "C",
+          "text": "It reduces public safety."
+        },
+        {
+          "id": "D",
+          "text": "It has no effect on health."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "17",
+      "question": "Which institution represents the people in an urban ward?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ward Councillor"
+        },
+        {
+          "id": "B",
+          "text": "Governor"
+        },
+        {
+          "id": "C",
+          "text": "President"
+        },
+        {
+          "id": "D",
+          "text": "Chief Justice"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "18",
+      "question": "Why is urban planning necessary?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To ensure organised development and better public services"
+        },
+        {
+          "id": "B",
+          "text": "To reduce transport facilities"
+        },
+        {
+          "id": "C",
+          "text": "To increase pollution"
+        },
+        {
+          "id": "D",
+          "text": "To stop population growth"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "19",
+      "question": "Which of the following best shows active citizenship?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Reporting civic problems to local authorities"
+        },
+        {
+          "id": "B",
+          "text": "Ignoring damaged roads"
+        },
+        {
+          "id": "C",
+          "text": "Littering in public places"
+        },
+        {
+          "id": "D",
+          "text": "Misusing public property"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "20",
+      "question": "What is the central idea of this chapter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Urban local governments improve city life through public participation and civic services."
+        },
+        {
+          "id": "B",
+          "text": "Cities do not require local governments."
+        },
+        {
+          "id": "C",
+          "text": "Only the Central Government develops cities."
+        },
+        {
+          "id": "D",
+          "text": "Civic services are unnecessary."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "21",
+      "question": "Why is decentralisation important in urban governance?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It enables local problems to be solved quickly by elected local representatives."
+        },
+        {
+          "id": "B",
+          "text": "It transfers all powers to the Central Government."
+        },
+        {
+          "id": "C",
+          "text": "It removes public participation."
+        },
+        {
+          "id": "D",
+          "text": "It delays decision-making."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "22",
+      "question": "If a Municipal Corporation fails to manage waste properly, what is the most likely consequence?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Increased pollution and health problems"
+        },
+        {
+          "id": "B",
+          "text": "Better sanitation"
+        },
+        {
+          "id": "C",
+          "text": "More parks will be created"
+        },
+        {
+          "id": "D",
+          "text": "Traffic congestion will disappear"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "23",
+      "question": "A Ward Councillor organises a meeting to discuss water shortages with residents. Which democratic principle is demonstrated?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Public participation in local governance"
+        },
+        {
+          "id": "B",
+          "text": "Rule by one person"
+        },
+        {
+          "id": "C",
+          "text": "Centralised administration"
+        },
+        {
+          "id": "D",
+          "text": "Lack of accountability"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "24",
+      "question": "Which statement best explains the role of municipal taxes?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They help fund civic services such as roads, sanitation and street lighting."
+        },
+        {
+          "id": "B",
+          "text": "They are collected only for national defence."
+        },
+        {
+          "id": "C",
+          "text": "They are used only for elections."
+        },
+        {
+          "id": "D",
+          "text": "They have no role in development."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "25",
+      "question": "Which action best demonstrates accountability in an urban local body?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Explaining how public funds have been spent on development projects"
+        },
+        {
+          "id": "B",
+          "text": "Keeping financial records secret"
+        },
+        {
+          "id": "C",
+          "text": "Ignoring citizens' complaints"
+        },
+        {
+          "id": "D",
+          "text": "Avoiding public meetings"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "26",
+      "question": "Which example best reflects responsible urban citizenship?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Conserving water, segregating waste and protecting public property"
+        },
+        {
+          "id": "B",
+          "text": "Damaging public parks"
+        },
+        {
+          "id": "C",
+          "text": "Ignoring civic rules"
+        },
+        {
+          "id": "D",
+          "text": "Wasting electricity in public places"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "27",
+      "question": "Why is cooperation between citizens and municipal authorities important?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It leads to better planning, cleaner surroundings and improved public services."
+        },
+        {
+          "id": "B",
+          "text": "It reduces development."
+        },
+        {
+          "id": "C",
+          "text": "It weakens democracy."
+        },
+        {
+          "id": "D",
+          "text": "It has no effect on city life."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "28",
+      "question": "Which situation best shows effective urban local governance?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Residents and the Municipal Corporation working together to improve roads and sanitation"
+        },
+        {
+          "id": "B",
+          "text": "Ignoring public complaints for years"
+        },
+        {
+          "id": "C",
+          "text": "Cancelling ward meetings permanently"
+        },
+        {
+          "id": "D",
+          "text": "Leaving all local problems unsolved"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "29",
+      "question": "Which lesson from this chapter is most relevant in daily life?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Every citizen has a role in keeping the city clean, safe and well-managed."
+        },
+        {
+          "id": "B",
+          "text": "Only municipal officials are responsible for cities."
+        },
+        {
+          "id": "C",
+          "text": "Public property belongs to no one."
+        },
+        {
+          "id": "D",
+          "text": "Civic rules need not be followed."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "30",
+      "question": "Which statement best summarizes the main idea of this chapter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Urban local governments strengthen democracy by providing civic services, encouraging public participation and ensuring planned development."
+        },
+        {
+          "id": "B",
+          "text": "City development depends only on the State Government."
+        },
+        {
+          "id": "C",
+          "text": "Municipalities have no role in democracy."
+        },
+        {
+          "id": "D",
+          "text": "Urban local bodies only collect taxes."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    }
+  ]
+}

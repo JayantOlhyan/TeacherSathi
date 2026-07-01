@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "What does the term 'reorganisation' mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rearranging and rebuilding systems"
+        },
+        {
+          "id": "B",
+          "text": "Destroying cities"
+        },
+        {
+          "id": "C",
+          "text": "Starting wars"
+        },
+        {
+          "id": "D",
+          "text": "Building mountains"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "2",
+      "question": "After the decline of the Mauryan Empire, India saw the rise of many _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Regional kingdoms"
+        },
+        {
+          "id": "B",
+          "text": "Foreign continents"
+        },
+        {
+          "id": "C",
+          "text": "Oceans"
+        },
+        {
+          "id": "D",
+          "text": "Deserts"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "3",
+      "question": "Which dynasty ruled much of the Deccan region?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Satavahana Dynasty"
+        },
+        {
+          "id": "B",
+          "text": "Maurya Dynasty"
+        },
+        {
+          "id": "C",
+          "text": "Gupta Dynasty"
+        },
+        {
+          "id": "D",
+          "text": "Mughal Dynasty"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "4",
+      "question": "Which route helped in the exchange of goods and ideas during this period?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Trade routes"
+        },
+        {
+          "id": "B",
+          "text": "Railway routes"
+        },
+        {
+          "id": "C",
+          "text": "Airways"
+        },
+        {
+          "id": "D",
+          "text": "Metro routes"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "5",
+      "question": "Buddhism and Jainism spread mainly through _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Monks and traders"
+        },
+        {
+          "id": "B",
+          "text": "Soldiers only"
+        },
+        {
+          "id": "C",
+          "text": "Farmers only"
+        },
+        {
+          "id": "D",
+          "text": "Hunters only"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "6",
+      "question": "Which activity increased during this period?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Trade"
+        },
+        {
+          "id": "B",
+          "text": "Space exploration"
+        },
+        {
+          "id": "C",
+          "text": "Air travel"
+        },
+        {
+          "id": "D",
+          "text": "Internet communication"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "7",
+      "question": "Ancient India had trade relations with _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Many foreign regions"
+        },
+        {
+          "id": "B",
+          "text": "Antarctica only"
+        },
+        {
+          "id": "C",
+          "text": "Australia only"
+        },
+        {
+          "id": "D",
+          "text": "South America only"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "8",
+      "question": "Which helped rulers manage their kingdoms effectively?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Better administration"
+        },
+        {
+          "id": "B",
+          "text": "No communication"
+        },
+        {
+          "id": "C",
+          "text": "Closing markets"
+        },
+        {
+          "id": "D",
+          "text": "Stopping agriculture"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "9",
+      "question": "This period is important because it saw the growth of _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Regional powers and cultural exchange"
+        },
+        {
+          "id": "B",
+          "text": "Railways"
+        },
+        {
+          "id": "C",
+          "text": "Modern industries"
+        },
+        {
+          "id": "D",
+          "text": "Air transport"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "10",
+      "question": "The chapter mainly explains the changes that took place after the _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mauryan Empire"
+        },
+        {
+          "id": "B",
+          "text": "Mughal Empire"
+        },
+        {
+          "id": "C",
+          "text": "British Empire"
+        },
+        {
+          "id": "D",
+          "text": "Gupta Empire"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "11",
+      "question": "Why is this period called the 'Age of Reorganisation'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "New kingdoms, trade networks and cultural developments emerged after the Mauryan Empire."
+        },
+        {
+          "id": "B",
+          "text": "India became one single empire again immediately."
+        },
+        {
+          "id": "C",
+          "text": "Agriculture completely stopped."
+        },
+        {
+          "id": "D",
+          "text": "Trade disappeared."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "12",
+      "question": "Why did trade expand during this period?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Better land and sea trade routes connected different regions."
+        },
+        {
+          "id": "B",
+          "text": "People stopped travelling."
+        },
+        {
+          "id": "C",
+          "text": "Rivers disappeared."
+        },
+        {
+          "id": "D",
+          "text": "Farming ended."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "13",
+      "question": "Which factor helped the spread of Buddhism beyond India?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Traders and monks travelling to other countries"
+        },
+        {
+          "id": "B",
+          "text": "Military invasions only"
+        },
+        {
+          "id": "C",
+          "text": "Air transport"
+        },
+        {
+          "id": "D",
+          "text": "Railways"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "14",
+      "question": "Why were ports important during this period?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They encouraged overseas trade and cultural exchanges."
+        },
+        {
+          "id": "B",
+          "text": "They reduced communication."
+        },
+        {
+          "id": "C",
+          "text": "They stopped exports."
+        },
+        {
+          "id": "D",
+          "text": "They prevented trade."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "15",
+      "question": "Which statement correctly explains regional kingdoms?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They developed their own administration and culture."
+        },
+        {
+          "id": "B",
+          "text": "They had no rulers."
+        },
+        {
+          "id": "C",
+          "text": "They discouraged agriculture."
+        },
+        {
+          "id": "D",
+          "text": "They had no trade."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "16",
+      "question": "Why did different regions develop unique cultural traditions?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Regional kingdoms encouraged local art, language and customs."
+        },
+        {
+          "id": "B",
+          "text": "Every region followed exactly the same culture."
+        },
+        {
+          "id": "C",
+          "text": "Culture disappeared after the Mauryas."
+        },
+        {
+          "id": "D",
+          "text": "Only one language existed."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "17",
+      "question": "Which activity contributed most to cultural exchange?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Trade and travel"
+        },
+        {
+          "id": "B",
+          "text": "Isolation"
+        },
+        {
+          "id": "C",
+          "text": "Deforestation"
+        },
+        {
+          "id": "D",
+          "text": "Wars only"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "18",
+      "question": "Why is this period important in Indian history?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It laid the foundation for later powerful kingdoms and cultural growth."
+        },
+        {
+          "id": "B",
+          "text": "It marked the end of all trade."
+        },
+        {
+          "id": "C",
+          "text": "It had no historical importance."
+        },
+        {
+          "id": "D",
+          "text": "It stopped the spread of ideas."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "19",
+      "question": "Which occupation became more significant due to increased trade?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Merchants and artisans"
+        },
+        {
+          "id": "B",
+          "text": "Hunters only"
+        },
+        {
+          "id": "C",
+          "text": "Soldiers only"
+        },
+        {
+          "id": "D",
+          "text": "Shepherds only"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "20",
+      "question": "What is the central idea of this chapter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Political changes, expanding trade and cultural development shaped the period after the Mauryan Empire."
+        },
+        {
+          "id": "B",
+          "text": "India remained unchanged after the Mauryas."
+        },
+        {
+          "id": "C",
+          "text": "Trade had no role in development."
+        },
+        {
+          "id": "D",
+          "text": "Regional kingdoms weakened culture."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "21",
+      "question": "Why did regional kingdoms become powerful after the Mauryan Empire?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The decline of central authority allowed local rulers to strengthen their kingdoms."
+        },
+        {
+          "id": "B",
+          "text": "Agriculture ended completely."
+        },
+        {
+          "id": "C",
+          "text": "Foreign trade stopped."
+        },
+        {
+          "id": "D",
+          "text": "People moved to deserts."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "22",
+      "question": "If trade routes had not expanded during this period, which would most likely have been affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The exchange of goods, ideas and cultural traditions"
+        },
+        {
+          "id": "B",
+          "text": "Formation of rivers"
+        },
+        {
+          "id": "C",
+          "text": "Growth of mountains"
+        },
+        {
+          "id": "D",
+          "text": "Earth's climate"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "23",
+      "question": "Which example best shows the relationship between trade and culture?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Traders carried not only goods but also languages, religions and ideas."
+        },
+        {
+          "id": "B",
+          "text": "Trade reduced communication."
+        },
+        {
+          "id": "C",
+          "text": "Trade prevented cultural exchange."
+        },
+        {
+          "id": "D",
+          "text": "Trade affected agriculture only."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "24",
+      "question": "Why were ports considered important centres of economic activity?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They connected India with other countries through sea trade."
+        },
+        {
+          "id": "B",
+          "text": "They stopped international trade."
+        },
+        {
+          "id": "C",
+          "text": "They existed only for defence."
+        },
+        {
+          "id": "D",
+          "text": "They had no role in commerce."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "25",
+      "question": "Which statement best explains the importance of regional kingdoms?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They contributed to political diversity, cultural growth and economic development."
+        },
+        {
+          "id": "B",
+          "text": "They weakened every aspect of society."
+        },
+        {
+          "id": "C",
+          "text": "They had no administrative systems."
+        },
+        {
+          "id": "D",
+          "text": "They discouraged art and learning."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "26",
+      "question": "A trader from South India exchanges spices for silk from another country. Which concept does this illustrate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "International trade and cultural interaction"
+        },
+        {
+          "id": "B",
+          "text": "Political conflict"
+        },
+        {
+          "id": "C",
+          "text": "Agricultural decline"
+        },
+        {
+          "id": "D",
+          "text": "Climate change"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "27",
+      "question": "Why is this period called a bridge between ancient empires and later kingdoms?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It connected earlier political systems with new regional powers and cultural developments."
+        },
+        {
+          "id": "B",
+          "text": "It had no influence on later history."
+        },
+        {
+          "id": "C",
+          "text": "It ended all trade."
+        },
+        {
+          "id": "D",
+          "text": "It prevented new kingdoms from emerging."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "28",
+      "question": "Which lesson from this chapter is most relevant today?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Trade, communication and cultural exchange contribute to economic and social development."
+        },
+        {
+          "id": "B",
+          "text": "Isolation is better than cooperation."
+        },
+        {
+          "id": "C",
+          "text": "Trade should be discouraged."
+        },
+        {
+          "id": "D",
+          "text": "Cultural exchange weakens societies."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "29",
+      "question": "Which action would have helped a regional kingdom prosper during this period?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Encouraging trade, protecting trade routes and supporting artisans"
+        },
+        {
+          "id": "B",
+          "text": "Closing ports and markets"
+        },
+        {
+          "id": "C",
+          "text": "Preventing cultural exchanges"
+        },
+        {
+          "id": "D",
+          "text": "Discouraging agriculture"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "30",
+      "question": "Which statement best summarizes the main idea of this chapter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "After the Mauryan Empire, India witnessed political reorganisation, expanding trade and vibrant cultural growth that shaped the future of the subcontinent."
+        },
+        {
+          "id": "B",
+          "text": "India remained politically and economically unchanged."
+        },
+        {
+          "id": "C",
+          "text": "Trade declined completely after the Mauryas."
+        },
+        {
+          "id": "D",
+          "text": "Regional kingdoms had no historical importance."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    }
+  ]
+}

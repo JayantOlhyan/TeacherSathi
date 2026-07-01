@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "The Delhi Sultanate was established in _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Delhi"
+        },
+        {
+          "id": "B",
+          "text": "Agra"
+        },
+        {
+          "id": "C",
+          "text": "Kolkata"
+        },
+        {
+          "id": "D",
+          "text": "Jaipur"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "2",
+      "question": "Why is Iltutmish considered an important ruler?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He consolidated and strengthened the Delhi Sultanate."
+        },
+        {
+          "id": "B",
+          "text": "He founded the Mughal Empire."
+        },
+        {
+          "id": "C",
+          "text": "He abolished administration."
+        },
+        {
+          "id": "D",
+          "text": "He shifted the capital outside India."
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "3",
+      "question": "Which monument was started by Qutb al-Din Aibak?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Qutub Minar"
+        },
+        {
+          "id": "B",
+          "text": "Taj Mahal"
+        },
+        {
+          "id": "C",
+          "text": "Red Fort"
+        },
+        {
+          "id": "D",
+          "text": "India Gate"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "4",
+      "question": "What was the capital of the Delhi Sultanate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Delhi"
+        },
+        {
+          "id": "B",
+          "text": "Agra"
+        },
+        {
+          "id": "C",
+          "text": "Patna"
+        },
+        {
+          "id": "D",
+          "text": "Jaipur"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "5",
+      "question": "Which dynasty ruled the Delhi Sultanate after the Slave (Mamluk) Dynasty?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Khalji Dynasty"
+        },
+        {
+          "id": "B",
+          "text": "Mughal Dynasty"
+        },
+        {
+          "id": "C",
+          "text": "Gupta Dynasty"
+        },
+        {
+          "id": "D",
+          "text": "Maurya Dynasty"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "6",
+      "question": "Which ruler introduced important market reforms?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Alauddin Khalji"
+        },
+        {
+          "id": "B",
+          "text": "Qutb al-Din Aibak"
+        },
+        {
+          "id": "C",
+          "text": "Iltutmish"
+        },
+        {
+          "id": "D",
+          "text": "Babur"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "7",
+      "question": "Who was the first woman ruler of the Delhi Sultanate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Razia Sultan"
+        },
+        {
+          "id": "B",
+          "text": "Nur Jahan"
+        },
+        {
+          "id": "C",
+          "text": "Rani Lakshmibai"
+        },
+        {
+          "id": "D",
+          "text": "Ahilyabai Holkar"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "8",
+      "question": "The Delhi Sultanate strengthened _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Administration and trade"
+        },
+        {
+          "id": "B",
+          "text": "Space exploration"
+        },
+        {
+          "id": "C",
+          "text": "Railways"
+        },
+        {
+          "id": "D",
+          "text": "Air transport"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "9",
+      "question": "Which language became important in administration during the Delhi Sultanate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Persian"
+        },
+        {
+          "id": "B",
+          "text": "English"
+        },
+        {
+          "id": "C",
+          "text": "French"
+        },
+        {
+          "id": "D",
+          "text": "Portuguese"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "10",
+      "question": "The Delhi Sultanate is important because it _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Introduced new systems of administration and architecture"
+        },
+        {
+          "id": "B",
+          "text": "Started the Industrial Revolution"
+        },
+        {
+          "id": "C",
+          "text": "Built modern highways"
+        },
+        {
+          "id": "D",
+          "text": "Introduced digital payments"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "11",
+      "question": "Why was the Delhi Sultanate significant in Indian history?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It established a strong central administration over large parts of northern India."
+        },
+        {
+          "id": "B",
+          "text": "It ruled only one city."
+        },
+        {
+          "id": "C",
+          "text": "It discouraged trade."
+        },
+        {
+          "id": "D",
+          "text": "It had no administrative system."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "12",
+      "question": "Why is Iltutmish considered an important ruler?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He consolidated and strengthened the Delhi Sultanate."
+        },
+        {
+          "id": "B",
+          "text": "He founded the Mughal Empire."
+        },
+        {
+          "id": "C",
+          "text": "He abolished administration."
+        },
+        {
+          "id": "D",
+          "text": "He shifted the capital outside India."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "13",
+      "question": "Why is Razia Sultan remembered in history?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She was the first woman to rule the Delhi Sultanate."
+        },
+        {
+          "id": "B",
+          "text": "She built the Taj Mahal."
+        },
+        {
+          "id": "C",
+          "text": "She founded the Mauryan Empire."
+        },
+        {
+          "id": "D",
+          "text": "She introduced railways."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "14",
+      "question": "Why did Alauddin Khalji introduce market reforms?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To control prices and ensure supplies for the army and people."
+        },
+        {
+          "id": "B",
+          "text": "To stop trade completely."
+        },
+        {
+          "id": "C",
+          "text": "To reduce agricultural production."
+        },
+        {
+          "id": "D",
+          "text": "To close markets permanently."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "15",
+      "question": "Which feature of the Delhi Sultanate improved governance?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Efficient administration and revenue collection"
+        },
+        {
+          "id": "B",
+          "text": "No system of taxation"
+        },
+        {
+          "id": "C",
+          "text": "No communication between provinces"
+        },
+        {
+          "id": "D",
+          "text": "No officials were appointed"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "16",
+      "question": "Why are monuments of the Delhi Sultanate historically important?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They reflect developments in architecture and engineering."
+        },
+        {
+          "id": "B",
+          "text": "They only served as military camps."
+        },
+        {
+          "id": "C",
+          "text": "They have no historical value."
+        },
+        {
+          "id": "D",
+          "text": "They were built recently."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "17",
+      "question": "Which statement about the Delhi Sultanate is correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It contributed to political administration, architecture and trade."
+        },
+        {
+          "id": "B",
+          "text": "It had no influence on Indian history."
+        },
+        {
+          "id": "C",
+          "text": "It discouraged urban development."
+        },
+        {
+          "id": "D",
+          "text": "It existed only for a few years."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "18",
+      "question": "Why did Delhi become an important political centre?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It served as the capital of the Sultanate and an administrative hub."
+        },
+        {
+          "id": "B",
+          "text": "It had no trade routes."
+        },
+        {
+          "id": "C",
+          "text": "It was isolated from other regions."
+        },
+        {
+          "id": "D",
+          "text": "It had no strategic importance."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "19",
+      "question": "Which value is reflected by an efficient administration?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Good governance and public management"
+        },
+        {
+          "id": "B",
+          "text": "Corruption"
+        },
+        {
+          "id": "C",
+          "text": "Isolation"
+        },
+        {
+          "id": "D",
+          "text": "Neglect of citizens"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "20",
+      "question": "What is the central idea of this chapter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Delhi Sultanate strengthened administration, trade, architecture and governance in medieval India."
+        },
+        {
+          "id": "B",
+          "text": "It focused only on warfare."
+        },
+        {
+          "id": "C",
+          "text": "It had no cultural influence."
+        },
+        {
+          "id": "D",
+          "text": "It discouraged urban development."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "21",
+      "question": "Why was the Delhi Sultanate able to maintain control over a large territory?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It developed a strong administrative system with efficient officials and revenue collection."
+        },
+        {
+          "id": "B",
+          "text": "It had no organised government."
+        },
+        {
+          "id": "C",
+          "text": "It depended only on local rulers."
+        },
+        {
+          "id": "D",
+          "text": "It avoided communication with provinces."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "22",
+      "question": "If Alauddin Khalji had not introduced market reforms, what would most likely have happened?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Prices of essential goods could have risen, making it harder to supply the army and people."
+        },
+        {
+          "id": "B",
+          "text": "Trade would have stopped immediately."
+        },
+        {
+          "id": "C",
+          "text": "Agriculture would have disappeared."
+        },
+        {
+          "id": "D",
+          "text": "Delhi would have become a village."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "23",
+      "question": "Which example best demonstrates the importance of Razia Sultan's rule?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She showed that capable leadership was possible regardless of gender."
+        },
+        {
+          "id": "B",
+          "text": "She introduced democracy in India."
+        },
+        {
+          "id": "C",
+          "text": "She founded the Mughal Empire."
+        },
+        {
+          "id": "D",
+          "text": "She abolished taxation."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "24",
+      "question": "Why is the Qutub Minar considered an important historical monument?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It represents the architectural achievements of the early Delhi Sultanate."
+        },
+        {
+          "id": "B",
+          "text": "It was built during British rule."
+        },
+        {
+          "id": "C",
+          "text": "It served only as a marketplace."
+        },
+        {
+          "id": "D",
+          "text": "It has no historical significance."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "25",
+      "question": "Which statement best explains the role of the Delhi Sultanate in Indian history?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It introduced administrative reforms, promoted trade and left a lasting architectural legacy."
+        },
+        {
+          "id": "B",
+          "text": "It influenced only military history."
+        },
+        {
+          "id": "C",
+          "text": "It discouraged cities and commerce."
+        },
+        {
+          "id": "D",
+          "text": "It had no effect on later kingdoms."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "26",
+      "question": "A ruler appoints trained officials, maintains law and order and regulates markets. Which principle is being demonstrated?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Efficient governance and economic administration"
+        },
+        {
+          "id": "B",
+          "text": "Political isolation"
+        },
+        {
+          "id": "C",
+          "text": "Religious conflict"
+        },
+        {
+          "id": "D",
+          "text": "Economic decline"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "27",
+      "question": "Which lesson from this chapter is most relevant today?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Good governance requires efficient administration, fair economic policies and public welfare."
+        },
+        {
+          "id": "B",
+          "text": "Markets should never be regulated."
+        },
+        {
+          "id": "C",
+          "text": "Administration is less important than warfare."
+        },
+        {
+          "id": "D",
+          "text": "Cities develop without planning."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "28",
+      "question": "Why do historians study inscriptions and monuments from the Delhi Sultanate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They provide evidence about administration, architecture and society."
+        },
+        {
+          "id": "B",
+          "text": "They only describe weather."
+        },
+        {
+          "id": "C",
+          "text": "They contain no historical information."
+        },
+        {
+          "id": "D",
+          "text": "They explain modern politics."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "29",
+      "question": "Which action would have strengthened the Delhi Sultanate the most?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Improving administration, protecting trade routes and maintaining law and order."
+        },
+        {
+          "id": "B",
+          "text": "Closing markets permanently."
+        },
+        {
+          "id": "C",
+          "text": "Discouraging agriculture."
+        },
+        {
+          "id": "D",
+          "text": "Isolating the capital from the provinces."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "30",
+      "question": "Which statement best summarizes the main idea of this chapter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Delhi Sultanate played a major role in shaping medieval India through strong administration, economic reforms, urban development and remarkable architectural achievements."
+        },
+        {
+          "id": "B",
+          "text": "It is remembered only for military campaigns."
+        },
+        {
+          "id": "C",
+          "text": "It had no lasting impact on Indian history."
+        },
+        {
+          "id": "D",
+          "text": "Trade and administration declined during its rule."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    }
+  ]
+}

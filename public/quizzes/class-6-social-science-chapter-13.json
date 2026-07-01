@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "What is the main message of the chapter 'The Value of Work'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Every type of work deserves respect."
+        },
+        {
+          "id": "B",
+          "text": "Only office jobs are important."
+        },
+        {
+          "id": "C",
+          "text": "Only government jobs have value."
+        },
+        {
+          "id": "D",
+          "text": "Physical work has no importance."
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "2",
+      "question": "Which of the following is an example of productive work?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Teaching students"
+        },
+        {
+          "id": "B",
+          "text": "Wasting water"
+        },
+        {
+          "id": "C",
+          "text": "Littering public places"
+        },
+        {
+          "id": "D",
+          "text": "Damaging property"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "3",
+      "question": "Why do people work?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To earn a livelihood and meet their needs"
+        },
+        {
+          "id": "B",
+          "text": "To waste time"
+        },
+        {
+          "id": "C",
+          "text": "To increase pollution"
+        },
+        {
+          "id": "D",
+          "text": "To avoid learning"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "4",
+      "question": "Which quality is developed through work?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Responsibility"
+        },
+        {
+          "id": "B",
+          "text": "Laziness"
+        },
+        {
+          "id": "C",
+          "text": "Carelessness"
+        },
+        {
+          "id": "D",
+          "text": "Dishonesty"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "5",
+      "question": "Who deserves respect in society?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Every worker"
+        },
+        {
+          "id": "B",
+          "text": "Only rich people"
+        },
+        {
+          "id": "C",
+          "text": "Only famous people"
+        },
+        {
+          "id": "D",
+          "text": "Only government officials"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "6",
+      "question": "Which of the following is skilled work?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Electrician"
+        },
+        {
+          "id": "B",
+          "text": "Throwing garbage"
+        },
+        {
+          "id": "C",
+          "text": "Wasting electricity"
+        },
+        {
+          "id": "D",
+          "text": "Breaking public property"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "7",
+      "question": "Which value is associated with honest work?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dignity of labour"
+        },
+        {
+          "id": "B",
+          "text": "Discrimination"
+        },
+        {
+          "id": "C",
+          "text": "Jealousy"
+        },
+        {
+          "id": "D",
+          "text": "Pride without effort"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "8",
+      "question": "Why is work important for society?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It helps fulfil people's needs and supports development."
+        },
+        {
+          "id": "B",
+          "text": "It creates only competition."
+        },
+        {
+          "id": "C",
+          "text": "It has no social value."
+        },
+        {
+          "id": "D",
+          "text": "It reduces cooperation."
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "9",
+      "question": "Which of the following is an example of community service?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cleaning a public park"
+        },
+        {
+          "id": "B",
+          "text": "Damaging public property"
+        },
+        {
+          "id": "C",
+          "text": "Polluting a river"
+        },
+        {
+          "id": "D",
+          "text": "Ignoring civic duties"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "10",
+      "question": "The chapter teaches us to _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Respect every kind of work"
+        },
+        {
+          "id": "B",
+          "text": "Judge people by their jobs"
+        },
+        {
+          "id": "C",
+          "text": "Ignore workers"
+        },
+        {
+          "id": "D",
+          "text": "Respect only highly paid jobs"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "11",
+      "question": "Why is the dignity of labour important?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It teaches that every honest job deserves equal respect."
+        },
+        {
+          "id": "B",
+          "text": "It gives importance only to office jobs."
+        },
+        {
+          "id": "C",
+          "text": "It discourages hard work."
+        },
+        {
+          "id": "D",
+          "text": "It promotes discrimination."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "12",
+      "question": "How does work contribute to the development of society?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It provides goods, services and improves people's lives."
+        },
+        {
+          "id": "B",
+          "text": "It only increases population."
+        },
+        {
+          "id": "C",
+          "text": "It has no economic importance."
+        },
+        {
+          "id": "D",
+          "text": "It creates conflicts."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "13",
+      "question": "Which action shows respect for workers?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Treating every worker with dignity and gratitude"
+        },
+        {
+          "id": "B",
+          "text": "Looking down upon manual workers"
+        },
+        {
+          "id": "C",
+          "text": "Ignoring sanitation workers"
+        },
+        {
+          "id": "D",
+          "text": "Disrespecting helpers"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "14",
+      "question": "Why should children understand the value of work?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To develop responsibility, empathy and respect for all occupations"
+        },
+        {
+          "id": "B",
+          "text": "To avoid learning skills"
+        },
+        {
+          "id": "C",
+          "text": "To judge people by income"
+        },
+        {
+          "id": "D",
+          "text": "To ignore community helpers"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "15",
+      "question": "Which occupation mainly provides essential public health services?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sanitation worker"
+        },
+        {
+          "id": "B",
+          "text": "Pilot"
+        },
+        {
+          "id": "C",
+          "text": "Actor"
+        },
+        {
+          "id": "D",
+          "text": "Musician"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "16",
+      "question": "Which of the following reflects teamwork at the workplace?",
+      "options": [
+        {
+          "id": "A",
+          "text": "People working together to complete a task"
+        },
+        {
+          "id": "B",
+          "text": "Refusing to cooperate"
+        },
+        {
+          "id": "C",
+          "text": "Ignoring responsibilities"
+        },
+        {
+          "id": "D",
+          "text": "Working against each other"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "17",
+      "question": "Why are different occupations necessary in society?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Different jobs fulfil different needs of people."
+        },
+        {
+          "id": "B",
+          "text": "Everyone should do the same work."
+        },
+        {
+          "id": "C",
+          "text": "Only one occupation is important."
+        },
+        {
+          "id": "D",
+          "text": "Jobs have no role in society."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "18",
+      "question": "Which quality helps people perform their work well?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Discipline and dedication"
+        },
+        {
+          "id": "B",
+          "text": "Laziness"
+        },
+        {
+          "id": "C",
+          "text": "Carelessness"
+        },
+        {
+          "id": "D",
+          "text": "Irresponsibility"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "19",
+      "question": "Which statement about work is correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both mental and physical work are equally valuable."
+        },
+        {
+          "id": "B",
+          "text": "Only physical work is valuable."
+        },
+        {
+          "id": "C",
+          "text": "Only office work is valuable."
+        },
+        {
+          "id": "D",
+          "text": "Work has no importance in life."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "20",
+      "question": "What is the central idea of this chapter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Every honest occupation contributes to society and deserves respect."
+        },
+        {
+          "id": "B",
+          "text": "Only high-paying jobs matter."
+        },
+        {
+          "id": "C",
+          "text": "Physical work has no value."
+        },
+        {
+          "id": "D",
+          "text": "Work is important only for earning money."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "21",
+      "question": "Why is the dignity of labour considered essential in a democratic society?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It promotes equality by respecting every honest occupation."
+        },
+        {
+          "id": "B",
+          "text": "It values only educated workers."
+        },
+        {
+          "id": "C",
+          "text": "It encourages discrimination."
+        },
+        {
+          "id": "D",
+          "text": "It gives importance only to government jobs."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "22",
+      "question": "If society stopped respecting certain occupations, what is the most likely consequence?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Essential services and social harmony could be affected."
+        },
+        {
+          "id": "B",
+          "text": "Development would automatically improve."
+        },
+        {
+          "id": "C",
+          "text": "All occupations would become identical."
+        },
+        {
+          "id": "D",
+          "text": "People's needs would decrease."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "23",
+      "question": "Which situation best demonstrates the value of work?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Students thanking sanitation workers for keeping the school clean"
+        },
+        {
+          "id": "B",
+          "text": "Making fun of manual workers"
+        },
+        {
+          "id": "C",
+          "text": "Ignoring community helpers"
+        },
+        {
+          "id": "D",
+          "text": "Refusing to cooperate with workers"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "24",
+      "question": "Why is teamwork important in most occupations?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It improves efficiency and helps achieve common goals."
+        },
+        {
+          "id": "B",
+          "text": "It increases conflicts."
+        },
+        {
+          "id": "C",
+          "text": "It reduces productivity."
+        },
+        {
+          "id": "D",
+          "text": "It discourages responsibility."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "25",
+      "question": "Which example best reflects responsible work ethics?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Completing assigned work honestly and on time"
+        },
+        {
+          "id": "B",
+          "text": "Avoiding responsibilities"
+        },
+        {
+          "id": "C",
+          "text": "Wasting resources during work"
+        },
+        {
+          "id": "D",
+          "text": "Ignoring rules and safety measures"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "26",
+      "question": "How does work contribute to personal development?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It develops confidence, discipline, skills and responsibility."
+        },
+        {
+          "id": "B",
+          "text": "It encourages laziness."
+        },
+        {
+          "id": "C",
+          "text": "It reduces knowledge."
+        },
+        {
+          "id": "D",
+          "text": "It has no effect on personality."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "27",
+      "question": "Which action best shows appreciation for the dignity of labour?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Respecting all workers regardless of their occupation"
+        },
+        {
+          "id": "B",
+          "text": "Judging people based on their income"
+        },
+        {
+          "id": "C",
+          "text": "Ignoring manual workers"
+        },
+        {
+          "id": "D",
+          "text": "Treating some occupations as inferior"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "28",
+      "question": "A hospital functions efficiently because doctors, nurses, cleaners and technicians work together. What does this demonstrate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Every occupation is important and interdependent."
+        },
+        {
+          "id": "B",
+          "text": "Only doctors are important."
+        },
+        {
+          "id": "C",
+          "text": "Cleaners have no role."
+        },
+        {
+          "id": "D",
+          "text": "One profession can perform every task."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "29",
+      "question": "Which lesson from this chapter is most relevant in daily life?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Respect every person's work and perform your own responsibilities sincerely."
+        },
+        {
+          "id": "B",
+          "text": "Value only high-status jobs."
+        },
+        {
+          "id": "C",
+          "text": "Compare people based on income."
+        },
+        {
+          "id": "D",
+          "text": "Avoid physical work."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "30",
+      "question": "Which statement best summarizes the main idea of this chapter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Every type of honest work has dignity and plays an essential role in the well-being and progress of society."
+        },
+        {
+          "id": "B",
+          "text": "Only professional jobs contribute to society."
+        },
+        {
+          "id": "C",
+          "text": "Work is valuable only if it earns a high income."
+        },
+        {
+          "id": "D",
+          "text": "Manual work is less important than mental work."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    }
+  ]
+}

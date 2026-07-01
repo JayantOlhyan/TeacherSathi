@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "What are the factors of production?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Land, Labour, Capital and Entrepreneurship"
+        },
+        {
+          "id": "B",
+          "text": "Air, Water, Soil and Forests"
+        },
+        {
+          "id": "C",
+          "text": "Buying, Selling, Trade and Transport"
+        },
+        {
+          "id": "D",
+          "text": "Demand, Supply, Market and Price"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "2",
+      "question": "Which factor of production includes all natural resources?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Land"
+        },
+        {
+          "id": "B",
+          "text": "Labour"
+        },
+        {
+          "id": "C",
+          "text": "Capital"
+        },
+        {
+          "id": "D",
+          "text": "Entrepreneurship"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "3",
+      "question": "Which factor of production refers to human effort?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Labour"
+        },
+        {
+          "id": "B",
+          "text": "Land"
+        },
+        {
+          "id": "C",
+          "text": "Capital"
+        },
+        {
+          "id": "D",
+          "text": "Entrepreneurship"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "4",
+      "question": "Which factor includes machines, buildings and tools?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Capital"
+        },
+        {
+          "id": "B",
+          "text": "Labour"
+        },
+        {
+          "id": "C",
+          "text": "Land"
+        },
+        {
+          "id": "D",
+          "text": "Enterprise"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "5",
+      "question": "Who combines all the factors of production and takes risks?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Entrepreneur"
+        },
+        {
+          "id": "B",
+          "text": "Labourer"
+        },
+        {
+          "id": "C",
+          "text": "Consumer"
+        },
+        {
+          "id": "D",
+          "text": "Trader"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "6",
+      "question": "Which factor of production is rewarded with wages?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Labour"
+        },
+        {
+          "id": "B",
+          "text": "Land"
+        },
+        {
+          "id": "C",
+          "text": "Capital"
+        },
+        {
+          "id": "D",
+          "text": "Entrepreneurship"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "7",
+      "question": "Which factor earns rent?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Land"
+        },
+        {
+          "id": "B",
+          "text": "Labour"
+        },
+        {
+          "id": "C",
+          "text": "Capital"
+        },
+        {
+          "id": "D",
+          "text": "Entrepreneurship"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "8",
+      "question": "Which factor earns interest?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Capital"
+        },
+        {
+          "id": "B",
+          "text": "Labour"
+        },
+        {
+          "id": "C",
+          "text": "Land"
+        },
+        {
+          "id": "D",
+          "text": "Entrepreneurship"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "9",
+      "question": "Which factor earns profit?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Entrepreneurship"
+        },
+        {
+          "id": "B",
+          "text": "Labour"
+        },
+        {
+          "id": "C",
+          "text": "Land"
+        },
+        {
+          "id": "D",
+          "text": "Capital"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "10",
+      "question": "The chapter mainly explains _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "The four factors of production and their role in the economy"
+        },
+        {
+          "id": "B",
+          "text": "Ancient kingdoms"
+        },
+        {
+          "id": "C",
+          "text": "Elections in India"
+        },
+        {
+          "id": "D",
+          "text": "Weather and climate"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "11",
+      "question": "Why are all four factors of production necessary?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Goods and services cannot be produced efficiently without their combined contribution."
+        },
+        {
+          "id": "B",
+          "text": "Only labour is sufficient."
+        },
+        {
+          "id": "C",
+          "text": "Only capital is required."
+        },
+        {
+          "id": "D",
+          "text": "Only land is necessary."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "12",
+      "question": "Which factor of production involves decision-making and risk-taking?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Entrepreneurship"
+        },
+        {
+          "id": "B",
+          "text": "Labour"
+        },
+        {
+          "id": "C",
+          "text": "Land"
+        },
+        {
+          "id": "D",
+          "text": "Capital"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "13",
+      "question": "Why is capital called a 'produced means of production'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It is created by humans to help produce other goods and services."
+        },
+        {
+          "id": "B",
+          "text": "It occurs naturally."
+        },
+        {
+          "id": "C",
+          "text": "It cannot be increased."
+        },
+        {
+          "id": "D",
+          "text": "It is found only underground."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "14",
+      "question": "Which statement about labour is correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Labour includes both physical and mental effort used in production."
+        },
+        {
+          "id": "B",
+          "text": "Labour refers only to factory workers."
+        },
+        {
+          "id": "C",
+          "text": "Labour includes only educated workers."
+        },
+        {
+          "id": "D",
+          "text": "Labour is the same as capital."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "15",
+      "question": "Why is entrepreneurship important in business?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It organises resources, introduces innovation and accepts risk."
+        },
+        {
+          "id": "B",
+          "text": "It replaces all other factors of production."
+        },
+        {
+          "id": "C",
+          "text": "It eliminates the need for labour."
+        },
+        {
+          "id": "D",
+          "text": "It produces natural resources."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "16",
+      "question": "Which example best represents capital?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A tractor used by a farmer"
+        },
+        {
+          "id": "B",
+          "text": "A farmer working in the field"
+        },
+        {
+          "id": "C",
+          "text": "Fertile soil"
+        },
+        {
+          "id": "D",
+          "text": "A business owner taking decisions"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "17",
+      "question": "Which statement about land is correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It includes all natural resources used in production."
+        },
+        {
+          "id": "B",
+          "text": "It refers only to agricultural fields."
+        },
+        {
+          "id": "C",
+          "text": "It includes machines only."
+        },
+        {
+          "id": "D",
+          "text": "It is produced by industries."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "18",
+      "question": "Which value is reflected by successful entrepreneurship?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Innovation and responsible decision-making"
+        },
+        {
+          "id": "B",
+          "text": "Wastage of resources"
+        },
+        {
+          "id": "C",
+          "text": "Avoiding planning"
+        },
+        {
+          "id": "D",
+          "text": "Ignoring risks"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "19",
+      "question": "Which factor of production is most directly responsible for organising the others?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Entrepreneurship"
+        },
+        {
+          "id": "B",
+          "text": "Labour"
+        },
+        {
+          "id": "C",
+          "text": "Land"
+        },
+        {
+          "id": "D",
+          "text": "Capital"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "20",
+      "question": "What is the central idea of this chapter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Production depends on the effective combination of land, labour, capital and entrepreneurship."
+        },
+        {
+          "id": "B",
+          "text": "Only machines are needed for production."
+        },
+        {
+          "id": "C",
+          "text": "Labour alone produces all goods."
+        },
+        {
+          "id": "D",
+          "text": "Capital is the only important factor."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "21",
+      "question": "Why is entrepreneurship considered different from the other factors of production?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It organises the other factors, makes decisions and bears business risks."
+        },
+        {
+          "id": "B",
+          "text": "It provides only natural resources."
+        },
+        {
+          "id": "C",
+          "text": "It performs only physical work."
+        },
+        {
+          "id": "D",
+          "text": "It represents machinery only."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "22",
+      "question": "If a factory has modern machines but no skilled workers, what is the most likely consequence?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Production efficiency will decrease because labour is essential."
+        },
+        {
+          "id": "B",
+          "text": "Production will increase automatically."
+        },
+        {
+          "id": "C",
+          "text": "Machines will replace all workers completely."
+        },
+        {
+          "id": "D",
+          "text": "Entrepreneurship becomes unnecessary."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "23",
+      "question": "A business owner purchases machinery, hires workers and starts production after analysing market demand. Which factor of production is mainly illustrated?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Entrepreneurship"
+        },
+        {
+          "id": "B",
+          "text": "Land"
+        },
+        {
+          "id": "C",
+          "text": "Labour"
+        },
+        {
+          "id": "D",
+          "text": "Capital only"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "24",
+      "question": "Why is human capital important in modern economies?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Skilled and educated workers improve productivity and innovation."
+        },
+        {
+          "id": "B",
+          "text": "Education has no effect on production."
+        },
+        {
+          "id": "C",
+          "text": "Machines eliminate the need for skilled workers."
+        },
+        {
+          "id": "D",
+          "text": "Only land determines productivity."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "25",
+      "question": "Which statement best explains the relationship among the four factors of production?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They complement one another to produce goods and services efficiently."
+        },
+        {
+          "id": "B",
+          "text": "Each factor works independently."
+        },
+        {
+          "id": "C",
+          "text": "Capital alone is sufficient for production."
+        },
+        {
+          "id": "D",
+          "text": "Land has no role in production."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "26",
+      "question": "A farmer uses fertile land, hires workers, buys a tractor and manages the farm personally. Which concept is illustrated?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Combined use of all four factors of production"
+        },
+        {
+          "id": "B",
+          "text": "Capital alone determines production"
+        },
+        {
+          "id": "C",
+          "text": "Labour is the only factor required"
+        },
+        {
+          "id": "D",
+          "text": "Entrepreneurship is unnecessary"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "27",
+      "question": "Which lesson from this chapter is most relevant today?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Economic growth depends on the efficient use of resources, skilled labour and innovation."
+        },
+        {
+          "id": "B",
+          "text": "Natural resources alone ensure development."
+        },
+        {
+          "id": "C",
+          "text": "Entrepreneurship has no role in modern economies."
+        },
+        {
+          "id": "D",
+          "text": "Labour can be ignored if machines are available."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "28",
+      "question": "Why is innovation important in entrepreneurship?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It improves productivity, creates new opportunities and supports economic growth."
+        },
+        {
+          "id": "B",
+          "text": "It reduces efficiency."
+        },
+        {
+          "id": "C",
+          "text": "It eliminates competition."
+        },
+        {
+          "id": "D",
+          "text": "It discourages development."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "29",
+      "question": "Which action would most improve productivity in a factory?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Training workers, upgrading machinery and using resources efficiently."
+        },
+        {
+          "id": "B",
+          "text": "Ignoring worker skills."
+        },
+        {
+          "id": "C",
+          "text": "Using outdated equipment permanently."
+        },
+        {
+          "id": "D",
+          "text": "Wasting raw materials."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "30",
+      "question": "Which statement best summarizes the main idea of this chapter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The production of goods and services depends on the efficient combination of land, labour, capital and entrepreneurship, with innovation and skilled resource management driving economic growth."
+        },
+        {
+          "id": "B",
+          "text": "Capital alone determines economic development."
+        },
+        {
+          "id": "C",
+          "text": "Land is the only factor of production."
+        },
+        {
+          "id": "D",
+          "text": "Entrepreneurship is less important than the other factors."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    }
+  ]
+}

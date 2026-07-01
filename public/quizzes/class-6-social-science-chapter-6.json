@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "Which was one of the earliest civilisations in the Indian subcontinent?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Indus Valley Civilisation"
+        },
+        {
+          "id": "B",
+          "text": "Roman Civilisation"
+        },
+        {
+          "id": "C",
+          "text": "Greek Civilisation"
+        },
+        {
+          "id": "D",
+          "text": "Chinese Civilisation"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "2",
+      "question": "The Indus Valley Civilisation is also known as the _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Harappan Civilisation"
+        },
+        {
+          "id": "B",
+          "text": "Vedic Civilisation"
+        },
+        {
+          "id": "C",
+          "text": "Gupta Civilisation"
+        },
+        {
+          "id": "D",
+          "text": "Mauryan Civilisation"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "3",
+      "question": "Which was the first Harappan site to be discovered?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Harappa"
+        },
+        {
+          "id": "B",
+          "text": "Mohenjo-daro"
+        },
+        {
+          "id": "C",
+          "text": "Lothal"
+        },
+        {
+          "id": "D",
+          "text": "Dholavira"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "4",
+      "question": "In which present-day country is Harappa located?",
+      "options": [
+        {
+          "id": "A",
+          "text": "India"
+        },
+        {
+          "id": "B",
+          "text": "Pakistan"
+        },
+        {
+          "id": "C",
+          "text": "Nepal"
+        },
+        {
+          "id": "D",
+          "text": "Bangladesh"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "5",
+      "question": "Which feature is a special characteristic of Harappan cities?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Well-planned streets and drainage system"
+        },
+        {
+          "id": "B",
+          "text": "High-rise buildings"
+        },
+        {
+          "id": "C",
+          "text": "Metro rail"
+        },
+        {
+          "id": "D",
+          "text": "Airports"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "6",
+      "question": "Which material was commonly used to build Harappan houses?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Baked bricks"
+        },
+        {
+          "id": "B",
+          "text": "Plastic"
+        },
+        {
+          "id": "C",
+          "text": "Steel"
+        },
+        {
+          "id": "D",
+          "text": "Glass"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "7",
+      "question": "Which occupation was important in the Harappan Civilisation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Agriculture"
+        },
+        {
+          "id": "B",
+          "text": "Software development"
+        },
+        {
+          "id": "C",
+          "text": "Aviation"
+        },
+        {
+          "id": "D",
+          "text": "Banking"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "8",
+      "question": "Which Harappan site is famous for its dockyard?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lothal"
+        },
+        {
+          "id": "B",
+          "text": "Harappa"
+        },
+        {
+          "id": "C",
+          "text": "Kalibangan"
+        },
+        {
+          "id": "D",
+          "text": "Rakhigarhi"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "9",
+      "question": "The Harappans traded with _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Other regions and distant lands"
+        },
+        {
+          "id": "B",
+          "text": "Antarctica only"
+        },
+        {
+          "id": "C",
+          "text": "The Moon"
+        },
+        {
+          "id": "D",
+          "text": "No one"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "10",
+      "question": "The Harappan script has been _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Not yet fully deciphered"
+        },
+        {
+          "id": "B",
+          "text": "Completely translated"
+        },
+        {
+          "id": "C",
+          "text": "Written in English"
+        },
+        {
+          "id": "D",
+          "text": "Forgotten without evidence"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "11",
+      "question": "Why is the Harappan Civilisation considered an advanced civilisation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It had planned cities, drainage systems and organised settlements."
+        },
+        {
+          "id": "B",
+          "text": "It had only large palaces."
+        },
+        {
+          "id": "C",
+          "text": "It depended only on hunting."
+        },
+        {
+          "id": "D",
+          "text": "It had no trade."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "12",
+      "question": "Why were many Harappan cities built near rivers?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rivers provided water, fertile land and transport."
+        },
+        {
+          "id": "B",
+          "text": "Rivers prevented farming."
+        },
+        {
+          "id": "C",
+          "text": "Rivers were used only for worship."
+        },
+        {
+          "id": "D",
+          "text": "Rivers reduced trade."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "13",
+      "question": "Which feature shows that Harappan towns were carefully planned?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Streets intersecting at right angles"
+        },
+        {
+          "id": "B",
+          "text": "Random construction of houses"
+        },
+        {
+          "id": "C",
+          "text": "Houses built on hills only"
+        },
+        {
+          "id": "D",
+          "text": "Lack of drainage"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "14",
+      "question": "What does the discovery of seals suggest about the Harappans?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They practised trade and administration."
+        },
+        {
+          "id": "B",
+          "text": "They had no writing system."
+        },
+        {
+          "id": "C",
+          "text": "They did not keep records."
+        },
+        {
+          "id": "D",
+          "text": "They depended only on farming."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "15",
+      "question": "Which archaeological evidence suggests that the Harappans traded with distant regions?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Seals, beads and imported materials"
+        },
+        {
+          "id": "B",
+          "text": "Television sets"
+        },
+        {
+          "id": "C",
+          "text": "Paper currency"
+        },
+        {
+          "id": "D",
+          "text": "Railway tracks"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "16",
+      "question": "Why is Lothal considered an important Harappan site?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It had a dockyard connected with maritime trade."
+        },
+        {
+          "id": "B",
+          "text": "It had the tallest mountain."
+        },
+        {
+          "id": "C",
+          "text": "It was the capital of India."
+        },
+        {
+          "id": "D",
+          "text": "It had no houses."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "17",
+      "question": "Which occupation besides farming was common among the Harappans?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Craftsmanship and trade"
+        },
+        {
+          "id": "B",
+          "text": "Space research"
+        },
+        {
+          "id": "C",
+          "text": "Software engineering"
+        },
+        {
+          "id": "D",
+          "text": "Air transport"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "18",
+      "question": "Why do archaeologists continue to study Harappan sites?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To understand the life, culture and technology of the civilisation."
+        },
+        {
+          "id": "B",
+          "text": "To build modern cities."
+        },
+        {
+          "id": "C",
+          "text": "To increase tourism only."
+        },
+        {
+          "id": "D",
+          "text": "To discover new rivers."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "19",
+      "question": "Which factor contributed most to the prosperity of the Harappan Civilisation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Agriculture, trade and urban planning"
+        },
+        {
+          "id": "B",
+          "text": "Air travel"
+        },
+        {
+          "id": "C",
+          "text": "Heavy industries"
+        },
+        {
+          "id": "D",
+          "text": "Modern technology"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "20",
+      "question": "Which statement about the Harappan Civilisation is correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It was one of the world's earliest urban civilisations."
+        },
+        {
+          "id": "B",
+          "text": "It had no permanent settlements."
+        },
+        {
+          "id": "C",
+          "text": "It had no trade."
+        },
+        {
+          "id": "D",
+          "text": "It had no drainage system."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "21",
+      "question": "Which archaeological evidence best proves that the Harappan Civilisation had an organised urban administration?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Planned streets, standard bricks and drainage systems"
+        },
+        {
+          "id": "B",
+          "text": "Large forests around cities"
+        },
+        {
+          "id": "C",
+          "text": "Modern roads"
+        },
+        {
+          "id": "D",
+          "text": "Tall skyscrapers"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "22",
+      "question": "If the Harappans had not developed an efficient drainage system, what would have been the most likely problem?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Poor sanitation and unhealthy living conditions"
+        },
+        {
+          "id": "B",
+          "text": "Better agriculture"
+        },
+        {
+          "id": "C",
+          "text": "More trade"
+        },
+        {
+          "id": "D",
+          "text": "Larger cities"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "23",
+      "question": "Why do historians describe the Harappan Civilisation as an 'urban civilisation'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because it had well-planned towns with advanced civic facilities."
+        },
+        {
+          "id": "B",
+          "text": "Because everyone lived in villages."
+        },
+        {
+          "id": "C",
+          "text": "Because it had no roads."
+        },
+        {
+          "id": "D",
+          "text": "Because it depended only on forests."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "24",
+      "question": "If the Harappan script is fully deciphered in the future, what information might historians gain?",
+      "options": [
+        {
+          "id": "A",
+          "text": "More details about governance, trade, language and daily life"
+        },
+        {
+          "id": "B",
+          "text": "The exact future climate"
+        },
+        {
+          "id": "C",
+          "text": "The age of all mountains"
+        },
+        {
+          "id": "D",
+          "text": "The movement of planets"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "25",
+      "question": "Which example best reflects the scientific planning of Harappan cities?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Uniform bricks and systematic drainage connected to streets"
+        },
+        {
+          "id": "B",
+          "text": "Random placement of houses"
+        },
+        {
+          "id": "C",
+          "text": "Buildings without roads"
+        },
+        {
+          "id": "D",
+          "text": "Houses made only of wood"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "26",
+      "question": "Why is archaeology essential for understanding the Harappan Civilisation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Most information comes from material remains rather than readable written records."
+        },
+        {
+          "id": "B",
+          "text": "Ancient books describe every detail."
+        },
+        {
+          "id": "C",
+          "text": "Modern newspapers explain Harappan life."
+        },
+        {
+          "id": "D",
+          "text": "Oral traditions provide complete information."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "27",
+      "question": "Which conclusion can be drawn from the discovery of beads, jewellery and pottery?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Harappans had skilled artisans and specialised occupations."
+        },
+        {
+          "id": "B",
+          "text": "They depended only on farming."
+        },
+        {
+          "id": "C",
+          "text": "They had no trade."
+        },
+        {
+          "id": "D",
+          "text": "They did not use tools."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "28",
+      "question": "If a new Harappan site with planned roads and drainage is discovered, what would it most strongly support?",
+      "options": [
+        {
+          "id": "A",
+          "text": "That urban planning was a common feature across Harappan settlements."
+        },
+        {
+          "id": "B",
+          "text": "That Harappa was the only developed city."
+        },
+        {
+          "id": "C",
+          "text": "That drainage was used only in Lothal."
+        },
+        {
+          "id": "D",
+          "text": "That Harappans lived only in villages."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "29",
+      "question": "Which lesson from the Harappan Civilisation is still relevant for modern cities?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Proper urban planning and effective waste management are essential for healthy living."
+        },
+        {
+          "id": "B",
+          "text": "Cities do not require drainage systems."
+        },
+        {
+          "id": "C",
+          "text": "Roads are more important than sanitation."
+        },
+        {
+          "id": "D",
+          "text": "Planning is unnecessary."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "30",
+      "question": "Which statement best summarizes the main idea of this chapter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Harappan Civilisation was an advanced urban civilisation known for planning, trade, craftsmanship and organised civic life."
+        },
+        {
+          "id": "B",
+          "text": "It was mainly a nomadic civilisation."
+        },
+        {
+          "id": "C",
+          "text": "It depended only on hunting and gathering."
+        },
+        {
+          "id": "D",
+          "text": "It had no influence on the study of Indian history."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    }
+  ]
+}

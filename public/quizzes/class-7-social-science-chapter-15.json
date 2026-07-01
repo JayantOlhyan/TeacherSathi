@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "After the Gupta Empire, many powerful ____ emerged in India.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kingdoms and empires"
+        },
+        {
+          "id": "B",
+          "text": "Oceans"
+        },
+        {
+          "id": "C",
+          "text": "Deserts"
+        },
+        {
+          "id": "D",
+          "text": "Continents"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "2",
+      "question": "Which dynasty ruled much of South India during this period?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Chola Dynasty"
+        },
+        {
+          "id": "B",
+          "text": "Maurya Dynasty"
+        },
+        {
+          "id": "C",
+          "text": "Mughal Dynasty"
+        },
+        {
+          "id": "D",
+          "text": "Delhi Sultanate"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "3",
+      "question": "Which dynasty was famous for its rock-cut temples?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pallava Dynasty"
+        },
+        {
+          "id": "B",
+          "text": "Gupta Dynasty"
+        },
+        {
+          "id": "C",
+          "text": "Maurya Dynasty"
+        },
+        {
+          "id": "D",
+          "text": "Mughal Dynasty"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "4",
+      "question": "Which ruler is associated with the Chola Empire?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rajaraja I"
+        },
+        {
+          "id": "B",
+          "text": "Ashoka"
+        },
+        {
+          "id": "C",
+          "text": "Akbar"
+        },
+        {
+          "id": "D",
+          "text": "Harshavardhana"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "5",
+      "question": "During this period, temples became important centres of _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Religion, education and culture"
+        },
+        {
+          "id": "B",
+          "text": "Air transport"
+        },
+        {
+          "id": "C",
+          "text": "Mining"
+        },
+        {
+          "id": "D",
+          "text": "Banking"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "6",
+      "question": "Which activity helped kingdoms become prosperous?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Trade"
+        },
+        {
+          "id": "B",
+          "text": "Isolation"
+        },
+        {
+          "id": "C",
+          "text": "Deforestation"
+        },
+        {
+          "id": "D",
+          "text": "Population decline"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "7",
+      "question": "Which language flourished in many royal courts?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sanskrit"
+        },
+        {
+          "id": "B",
+          "text": "English"
+        },
+        {
+          "id": "C",
+          "text": "Portuguese"
+        },
+        {
+          "id": "D",
+          "text": "French"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "8",
+      "question": "Kings encouraged the development of _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Art and literature"
+        },
+        {
+          "id": "B",
+          "text": "Railways"
+        },
+        {
+          "id": "C",
+          "text": "Computers"
+        },
+        {
+          "id": "D",
+          "text": "Aircraft"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "9",
+      "question": "Which region was especially famous for powerful kingdoms during this period?",
+      "options": [
+        {
+          "id": "A",
+          "text": "South India"
+        },
+        {
+          "id": "B",
+          "text": "Antarctica"
+        },
+        {
+          "id": "C",
+          "text": "Arctic region"
+        },
+        {
+          "id": "D",
+          "text": "Australia"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "10",
+      "question": "The chapter mainly describes _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Political and cultural developments between the 6th and 10th centuries"
+        },
+        {
+          "id": "B",
+          "text": "Modern India"
+        },
+        {
+          "id": "C",
+          "text": "British rule"
+        },
+        {
+          "id": "D",
+          "text": "Industrialisation"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "11",
+      "question": "Why were the Cholas considered a powerful dynasty?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They had a strong administration, navy and overseas trade."
+        },
+        {
+          "id": "B",
+          "text": "They ruled only one village."
+        },
+        {
+          "id": "C",
+          "text": "They discouraged trade."
+        },
+        {
+          "id": "D",
+          "text": "They had no organised government."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "12",
+      "question": "Why were temples important during this period?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They served as centres of worship, education, art and administration."
+        },
+        {
+          "id": "B",
+          "text": "They were only markets."
+        },
+        {
+          "id": "C",
+          "text": "They had no cultural role."
+        },
+        {
+          "id": "D",
+          "text": "They were only military camps."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "13",
+      "question": "Which factor helped kingdoms grow economically?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Agriculture and trade"
+        },
+        {
+          "id": "B",
+          "text": "Isolation from neighbouring regions"
+        },
+        {
+          "id": "C",
+          "text": "Closing markets"
+        },
+        {
+          "id": "D",
+          "text": "Stopping farming"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "14",
+      "question": "Why did rulers patronise scholars and artists?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To promote culture, literature and learning"
+        },
+        {
+          "id": "B",
+          "text": "To discourage education"
+        },
+        {
+          "id": "C",
+          "text": "To reduce trade"
+        },
+        {
+          "id": "D",
+          "text": "To stop scientific progress"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "15",
+      "question": "Which feature distinguished the Cholas from many other kingdoms?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Their powerful naval strength and overseas trade"
+        },
+        {
+          "id": "B",
+          "text": "Their complete isolation"
+        },
+        {
+          "id": "C",
+          "text": "Their dependence only on hunting"
+        },
+        {
+          "id": "D",
+          "text": "Their absence of administration"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "16",
+      "question": "Which statement about this period is correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Different kingdoms contributed to India's cultural diversity."
+        },
+        {
+          "id": "B",
+          "text": "No new kingdoms emerged."
+        },
+        {
+          "id": "C",
+          "text": "Art and architecture declined completely."
+        },
+        {
+          "id": "D",
+          "text": "Trade stopped throughout India."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "17",
+      "question": "Why did regional kingdoms encourage local languages and traditions?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To strengthen regional culture and identity"
+        },
+        {
+          "id": "B",
+          "text": "To eliminate literature"
+        },
+        {
+          "id": "C",
+          "text": "To stop education"
+        },
+        {
+          "id": "D",
+          "text": "To reduce trade"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "18",
+      "question": "Which activity connected Indian kingdoms with Southeast Asia?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Maritime trade"
+        },
+        {
+          "id": "B",
+          "text": "Desert travel"
+        },
+        {
+          "id": "C",
+          "text": "Air transport"
+        },
+        {
+          "id": "D",
+          "text": "Railways"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "19",
+      "question": "Which value is reflected by the rulers' support for education and art?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Importance of knowledge and cultural development"
+        },
+        {
+          "id": "B",
+          "text": "Importance of warfare only"
+        },
+        {
+          "id": "C",
+          "text": "Importance of isolation"
+        },
+        {
+          "id": "D",
+          "text": "Importance of taxation only"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "20",
+      "question": "What is the central idea of this chapter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Regional kingdoms contributed to political stability, economic prosperity and cultural achievements."
+        },
+        {
+          "id": "B",
+          "text": "This period had no historical importance."
+        },
+        {
+          "id": "C",
+          "text": "Only wars shaped the kingdoms."
+        },
+        {
+          "id": "D",
+          "text": "Trade had no role in development."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "21",
+      "question": "Why are the Cholas remembered as one of India's greatest medieval dynasties?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They developed efficient administration, a strong navy, trade and magnificent temples."
+        },
+        {
+          "id": "B",
+          "text": "They ruled only a small village."
+        },
+        {
+          "id": "C",
+          "text": "They discouraged overseas trade."
+        },
+        {
+          "id": "D",
+          "text": "They avoided public administration."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "22",
+      "question": "If maritime trade had declined during the Chola period, what would most likely have been affected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Economic prosperity and cultural exchanges with Southeast Asia."
+        },
+        {
+          "id": "B",
+          "text": "Formation of rivers."
+        },
+        {
+          "id": "C",
+          "text": "The Himalayan climate."
+        },
+        {
+          "id": "D",
+          "text": "Agricultural seasons."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "23",
+      "question": "Which example best demonstrates the relationship between temples and society?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Temples functioned as centres of religion, education, art and local administration."
+        },
+        {
+          "id": "B",
+          "text": "Temples had only religious importance."
+        },
+        {
+          "id": "C",
+          "text": "Temples discouraged learning."
+        },
+        {
+          "id": "D",
+          "text": "Temples had no economic role."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "24",
+      "question": "Why did rulers support literature and architecture?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To strengthen culture, education and their kingdom's legacy."
+        },
+        {
+          "id": "B",
+          "text": "To discourage learning."
+        },
+        {
+          "id": "C",
+          "text": "To reduce artistic expression."
+        },
+        {
+          "id": "D",
+          "text": "To prevent cultural growth."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "25",
+      "question": "Which statement best explains the success of many regional kingdoms?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Good administration, agriculture, trade and patronage of culture strengthened them."
+        },
+        {
+          "id": "B",
+          "text": "Continuous wars alone made them successful."
+        },
+        {
+          "id": "C",
+          "text": "They depended only on taxes."
+        },
+        {
+          "id": "D",
+          "text": "They had no organised governance."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "26",
+      "question": "A ruler builds irrigation tanks, supports merchants and encourages scholars. Which type of governance does this represent?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Balanced economic, cultural and administrative development"
+        },
+        {
+          "id": "B",
+          "text": "Military rule only"
+        },
+        {
+          "id": "C",
+          "text": "Religious isolation"
+        },
+        {
+          "id": "D",
+          "text": "Economic decline"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "27",
+      "question": "Which lesson from this chapter is most relevant today?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Investment in infrastructure, education and trade contributes to long-term development."
+        },
+        {
+          "id": "B",
+          "text": "Culture has no role in society."
+        },
+        {
+          "id": "C",
+          "text": "Trade should be discouraged."
+        },
+        {
+          "id": "D",
+          "text": "Education weakens kingdoms."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "28",
+      "question": "Why are temples from this period valuable historical sources?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They provide evidence of architecture, inscriptions, administration and social life."
+        },
+        {
+          "id": "B",
+          "text": "They only describe weather."
+        },
+        {
+          "id": "C",
+          "text": "They contain no historical information."
+        },
+        {
+          "id": "D",
+          "text": "They were built only for decoration."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "29",
+      "question": "Which action would have strengthened a kingdom between the 6th and 10th centuries?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Improving irrigation, promoting trade and encouraging education."
+        },
+        {
+          "id": "B",
+          "text": "Closing ports and markets."
+        },
+        {
+          "id": "C",
+          "text": "Discouraging farming."
+        },
+        {
+          "id": "D",
+          "text": "Preventing cultural activities."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "30",
+      "question": "Which statement best summarizes the main idea of this chapter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Between the 6th and 10th centuries, powerful kingdoms strengthened India through effective governance, trade, architecture, education and cultural achievements."
+        },
+        {
+          "id": "B",
+          "text": "The period was important only because of wars."
+        },
+        {
+          "id": "C",
+          "text": "Regional kingdoms had no influence on Indian history."
+        },
+        {
+          "id": "D",
+          "text": "Trade and culture declined throughout this period."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    }
+  ]
+}

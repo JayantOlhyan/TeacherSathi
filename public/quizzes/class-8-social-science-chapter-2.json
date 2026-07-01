@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "What does 'reshaping India's political map' mainly refer to?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Reorganisation of states and Union Territories"
+        },
+        {
+          "id": "B",
+          "text": "Changes in mountains"
+        },
+        {
+          "id": "C",
+          "text": "Changes in rivers"
+        },
+        {
+          "id": "D",
+          "text": "Changes in climate"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "2",
+      "question": "After independence, many Indian states were reorganised mainly on the basis of _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Language"
+        },
+        {
+          "id": "B",
+          "text": "Religion"
+        },
+        {
+          "id": "C",
+          "text": "Climate"
+        },
+        {
+          "id": "D",
+          "text": "Population density only"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "3",
+      "question": "Which year is associated with the States Reorganisation Act?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1956"
+        },
+        {
+          "id": "B",
+          "text": "1947"
+        },
+        {
+          "id": "C",
+          "text": "1950"
+        },
+        {
+          "id": "D",
+          "text": "1962"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "4",
+      "question": "What is the capital of India?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Delhi"
+        },
+        {
+          "id": "B",
+          "text": "Mumbai"
+        },
+        {
+          "id": "C",
+          "text": "Chennai"
+        },
+        {
+          "id": "D",
+          "text": "Kolkata"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "5",
+      "question": "Which part of India is directly governed by the Central Government?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Union Territory"
+        },
+        {
+          "id": "B",
+          "text": "State"
+        },
+        {
+          "id": "C",
+          "text": "District"
+        },
+        {
+          "id": "D",
+          "text": "Village"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "6",
+      "question": "Which document provides the process for creating new states in India?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Constitution of India"
+        },
+        {
+          "id": "B",
+          "text": "School rule book"
+        },
+        {
+          "id": "C",
+          "text": "State textbook"
+        },
+        {
+          "id": "D",
+          "text": "Election manifesto"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "7",
+      "question": "India is known as a _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Union of States"
+        },
+        {
+          "id": "B",
+          "text": "Monarchy"
+        },
+        {
+          "id": "C",
+          "text": "Dictatorship"
+        },
+        {
+          "id": "D",
+          "text": "Confederation"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "8",
+      "question": "Why were states reorganised after independence?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To improve administration and respect linguistic identities"
+        },
+        {
+          "id": "B",
+          "text": "To reduce the number of citizens"
+        },
+        {
+          "id": "C",
+          "text": "To stop elections"
+        },
+        {
+          "id": "D",
+          "text": "To change the climate"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "9",
+      "question": "Which institution has the power to create a new state?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Parliament"
+        },
+        {
+          "id": "B",
+          "text": "Gram Panchayat"
+        },
+        {
+          "id": "C",
+          "text": "Municipal Corporation"
+        },
+        {
+          "id": "D",
+          "text": "District Court"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "10",
+      "question": "The chapter mainly explains _____.",
+      "options": [
+        {
+          "id": "A",
+          "text": "How India's political boundaries changed after independence"
+        },
+        {
+          "id": "B",
+          "text": "Ancient Indian kingdoms"
+        },
+        {
+          "id": "C",
+          "text": "Weather and climate"
+        },
+        {
+          "id": "D",
+          "text": "Trade and markets"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "11",
+      "question": "Why was the States Reorganisation Act, 1956 important?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It reorganised states mainly on linguistic grounds."
+        },
+        {
+          "id": "B",
+          "text": "It abolished all state governments."
+        },
+        {
+          "id": "C",
+          "text": "It ended democracy in India."
+        },
+        {
+          "id": "D",
+          "text": "It removed the Constitution."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "12",
+      "question": "Why is linguistic reorganisation considered important?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It helped people administer states in their own language while maintaining national unity."
+        },
+        {
+          "id": "B",
+          "text": "It divided the country permanently."
+        },
+        {
+          "id": "C",
+          "text": "It reduced education."
+        },
+        {
+          "id": "D",
+          "text": "It discouraged communication."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "13",
+      "question": "What is the difference between a State and a Union Territory?",
+      "options": [
+        {
+          "id": "A",
+          "text": "States have greater constitutional powers, while Union Territories are administered differently under the Union Government."
+        },
+        {
+          "id": "B",
+          "text": "Both have exactly the same administrative structure."
+        },
+        {
+          "id": "C",
+          "text": "Union Territories have no administration."
+        },
+        {
+          "id": "D",
+          "text": "States are governed directly by villages."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "14",
+      "question": "Why can new states be created in India?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To improve governance and meet administrative or regional needs."
+        },
+        {
+          "id": "B",
+          "text": "To reduce democracy."
+        },
+        {
+          "id": "C",
+          "text": "To change international borders."
+        },
+        {
+          "id": "D",
+          "text": "To remove local governments."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "15",
+      "question": "Which constitutional principle allows the reorganisation of states?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Flexibility within the federal structure"
+        },
+        {
+          "id": "B",
+          "text": "Rule by monarchy"
+        },
+        {
+          "id": "C",
+          "text": "Military governance"
+        },
+        {
+          "id": "D",
+          "text": "Colonial administration"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "16",
+      "question": "Which statement about India's political map is correct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It has changed over time to improve administration and representation."
+        },
+        {
+          "id": "B",
+          "text": "It has never changed since independence."
+        },
+        {
+          "id": "C",
+          "text": "States cannot be reorganised."
+        },
+        {
+          "id": "D",
+          "text": "Parliament has no role in reorganisation."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "17",
+      "question": "Why is cooperative federalism important?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It encourages cooperation between the Union and State Governments."
+        },
+        {
+          "id": "B",
+          "text": "It removes state governments."
+        },
+        {
+          "id": "C",
+          "text": "It abolishes Parliament."
+        },
+        {
+          "id": "D",
+          "text": "It prevents development."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "18",
+      "question": "Which value is reflected by the reorganisation of states?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Unity in diversity"
+        },
+        {
+          "id": "B",
+          "text": "Regional conflict"
+        },
+        {
+          "id": "C",
+          "text": "Political isolation"
+        },
+        {
+          "id": "D",
+          "text": "Discrimination"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "19",
+      "question": "Why should administrative boundaries sometimes change?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To improve governance and meet changing social and economic needs."
+        },
+        {
+          "id": "B",
+          "text": "To reduce public services."
+        },
+        {
+          "id": "C",
+          "text": "To eliminate local administration."
+        },
+        {
+          "id": "D",
+          "text": "To discourage development."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "20",
+      "question": "What is the central idea of this chapter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "India's political map has evolved through constitutional processes to improve governance while preserving national unity."
+        },
+        {
+          "id": "B",
+          "text": "India's boundaries never changed after independence."
+        },
+        {
+          "id": "C",
+          "text": "States are created without constitutional procedures."
+        },
+        {
+          "id": "D",
+          "text": "Language has no role in state reorganisation."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "21",
+      "question": "Why is the reorganisation of states considered an example of a flexible Constitution?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It allows peaceful constitutional changes to improve governance while maintaining national unity."
+        },
+        {
+          "id": "B",
+          "text": "It prevents all changes to state boundaries."
+        },
+        {
+          "id": "C",
+          "text": "It removes the role of Parliament."
+        },
+        {
+          "id": "D",
+          "text": "It weakens democracy."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "22",
+      "question": "If India had never reorganised its states after independence, what would most likely have happened?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Some administrative and linguistic demands would have remained unresolved."
+        },
+        {
+          "id": "B",
+          "text": "Democracy would have ended immediately."
+        },
+        {
+          "id": "C",
+          "text": "The Constitution would have become invalid."
+        },
+        {
+          "id": "D",
+          "text": "Elections would have stopped permanently."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "23",
+      "question": "A region with a distinct language and administrative needs is given statehood through constitutional procedures. Which democratic principle is demonstrated?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Responsive and constitutional governance"
+        },
+        {
+          "id": "B",
+          "text": "Military rule"
+        },
+        {
+          "id": "C",
+          "text": "Colonial administration"
+        },
+        {
+          "id": "D",
+          "text": "Dictatorship"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "24",
+      "question": "Why does Parliament have the authority to create or reorganise states?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To ensure that changes are made through constitutional and democratic procedures."
+        },
+        {
+          "id": "B",
+          "text": "To change international borders freely."
+        },
+        {
+          "id": "C",
+          "text": "To abolish federalism."
+        },
+        {
+          "id": "D",
+          "text": "To eliminate state governments."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "25",
+      "question": "Which statement best explains India's federal system?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Powers are shared between the Union Government and the State Governments under the Constitution."
+        },
+        {
+          "id": "B",
+          "text": "Only the Union Government has all powers."
+        },
+        {
+          "id": "C",
+          "text": "States function without the Constitution."
+        },
+        {
+          "id": "D",
+          "text": "Local governments control Parliament."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "26",
+      "question": "A new state is created to improve administration in a large region. Which objective is being achieved?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Better governance and efficient public administration"
+        },
+        {
+          "id": "B",
+          "text": "Reduction of democracy"
+        },
+        {
+          "id": "C",
+          "text": "Elimination of local representation"
+        },
+        {
+          "id": "D",
+          "text": "Political instability"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "27",
+      "question": "Which lesson from this chapter is most relevant today?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Democratic societies can adapt peacefully through constitutional methods while respecting diversity."
+        },
+        {
+          "id": "B",
+          "text": "Administrative changes should never be made."
+        },
+        {
+          "id": "C",
+          "text": "Diversity weakens national unity."
+        },
+        {
+          "id": "D",
+          "text": "Federalism discourages development."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "28",
+      "question": "Why is unity in diversity important in the context of state reorganisation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "India accommodates regional identities while remaining one united nation."
+        },
+        {
+          "id": "B",
+          "text": "Every state functions as a separate country."
+        },
+        {
+          "id": "C",
+          "text": "Diversity prevents national integration."
+        },
+        {
+          "id": "D",
+          "text": "Language determines citizenship."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "29",
+      "question": "Which action best strengthens India's federal democracy?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Respecting constitutional procedures while addressing regional aspirations."
+        },
+        {
+          "id": "B",
+          "text": "Ignoring constitutional provisions."
+        },
+        {
+          "id": "C",
+          "text": "Preventing cooperation between governments."
+        },
+        {
+          "id": "D",
+          "text": "Eliminating state governments."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "30",
+      "question": "Which statement best summarizes the main idea of this chapter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "India's political map has evolved through constitutional and democratic processes, balancing regional aspirations with national unity and effective governance."
+        },
+        {
+          "id": "B",
+          "text": "India's political boundaries have remained unchanged since 1947."
+        },
+        {
+          "id": "C",
+          "text": "Federalism weakens democracy."
+        },
+        {
+          "id": "D",
+          "text": "State reorganisation has no constitutional basis."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    }
+  ]
+}
