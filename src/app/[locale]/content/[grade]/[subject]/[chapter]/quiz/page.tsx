@@ -5,7 +5,7 @@ import { useParams } from "next/navigation";
 import { useRouter } from "@/i18n/routing";
 import { ArrowRight, Check, X, Loader2 } from "lucide-react";
 import { Button } from "@/components/ui/Button";
-import { QuizData, QuizQuestion } from "@/lib/data/quizData";
+import { QuizData } from "@/lib/data/quizData";
 
 export default function QuickQuizPage() {
   const params = useParams();
@@ -133,7 +133,7 @@ export default function QuickQuizPage() {
         </div>
       </div>
       <div className="w-full max-w-4xl h-2 bg-[#14532D] rounded-full overflow-hidden mb-12">
-        <div className="h-full bg-[#16A34A] rounded-full transition-all duration-300" style={{ width: \`\${progressPercent}%\` }}></div>
+        <div className="h-full bg-[#16A34A] rounded-full transition-all duration-300" style={{ width: `${progressPercent}%` }}></div>
       </div>
 
       {/* Quiz Card */}
@@ -147,11 +147,11 @@ export default function QuickQuizPage() {
           
           {/* Difficulty Badge */}
           {currentQuestion.difficulty && (
-            <div className={\`absolute top-6 right-8 text-xs font-bold px-3 py-1 rounded-full \${
+            <div className={`absolute top-6 right-8 text-xs font-bold px-3 py-1 rounded-full ${
               currentQuestion.difficulty === 'Easy' ? 'bg-success/20 text-success' : 
               currentQuestion.difficulty === 'Medium' ? 'bg-[#D97706]/20 text-[#D97706]' : 
               'bg-danger/20 text-danger'
-            }\`}>
+            }`}>
               {currentQuestion.difficulty}
             </div>
           )}
@@ -187,15 +187,15 @@ export default function QuickQuizPage() {
                 <div key={option.id}>
                   <div 
                     onClick={() => handleOptionClick(option.id)}
-                    className={\`flex items-center gap-4 p-4 rounded-2xl cursor-pointer transition-colors \${containerClass}\`}
+                    className={`flex items-center gap-4 p-4 rounded-2xl cursor-pointer transition-colors ${containerClass}`}
                   >
                     {isAnswerRevealed && isCorrect && (
                       <div className="absolute right-0 top-0 w-32 h-32 bg-[url('https://cdn-icons-png.flaticon.com/512/3253/3253018.png')] bg-contain bg-no-repeat bg-right opacity-20 pointer-events-none"></div>
                     )}
-                    <div className={\`w-8 h-8 rounded-full flex items-center justify-center font-bold shrink-0 relative z-10 \${badgeClass}\`}>
+                    <div className={`w-8 h-8 rounded-full flex items-center justify-center font-bold shrink-0 relative z-10 ${badgeClass}`}>
                       {option.id}
                     </div>
-                    <div className={\`font-medium text-lg relative z-10 \${textClass}\`}>
+                    <div className={`font-medium text-lg relative z-10 ${textClass}`}>
                       {option.text}
                     </div>
                   </div>
@@ -215,7 +215,7 @@ export default function QuickQuizPage() {
             })}
           </div>
 
-          <div className={\`flex flex-col sm:flex-row sm:items-center justify-between gap-6 pt-6 border-t border-white/10 transition-opacity duration-300 \${isAnswerRevealed ? 'opacity-100' : 'opacity-0 pointer-events-none'}\`}>
+          <div className={`flex flex-col sm:flex-row sm:items-center justify-between gap-6 pt-6 border-t border-white/10 transition-opacity duration-300 ${isAnswerRevealed ? 'opacity-100' : 'opacity-0 pointer-events-none'}`}>
             <p className="text-[#B9C7B6] text-sm flex-1 leading-relaxed">
               {currentQuestion.explanation}
             </p>
