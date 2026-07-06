@@ -1,0 +1,467 @@
+{
+  "chapterTitle": "Patterns in Mathematics",
+  "chapterTitleHi": "गणित में पैटर्न",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Define a 'pattern' in mathematics and give one real-life example from nature.",
+      "questionHi": "गणित में 'पैटर्न' (प्रतिरूप) को परिभाषित कीजिए और प्रकृति से एक वास्तविक उदाहरण दीजिए।",
+      "answer": "A pattern is a predictable arrangement of numbers, shapes, colors, or sounds that repeats or grows according to a specific rule. In nature, the arrangement of petals on a flower or the hexagonal cells in a honeycomb are excellent examples of natural patterns.",
+      "answerHi": "पैटर्न (प्रतिरूप) संख्याओं, आकृतियों, रंगों या ध्वनियों की एक ऐसी व्यवस्थित व्यवस्था है जो किसी निश्चित नियम के अनुसार दोहराई जाती है या बढ़ती है। प्रकृति में, फूल की पंखुड़ियों की व्यवस्था या मधुमक्खी के छत्ते के षट्कोणीय खाने प्राकृतिक पैटर्न के उत्तम उदाहरण हैं।",
+      "keyPoints": [
+        "निश्चित नियम के अनुसार व्यवस्था (Arrangement according to a specific rule)",
+        "दोहराव या क्रमिक वृद्धि (Repetition or systematic growth)",
+        "प्रकृति में उदाहरण: मधुमक्खी का छत्ता, फूल की पंखुड़ियाँ (Nature examples: honeycomb, flower petals)"
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What is the fundamental difference between a repeating pattern and a growing pattern?",
+      "questionHi": "दोहराए जाने वाले पैटर्न (Repeating Pattern) और बढ़ते हुए पैटर्न (Growing Pattern) में क्या मूल अंतर है?",
+      "answer": "A repeating pattern consists of a fixed core unit or block that repeats identically without any change in size or quantity (e.g., A-B-A-B). A growing pattern changes systematically by adding or multiplying a fixed amount at each step (e.g., 2, 4, 6, 8...).",
+      "answerHi": "दोहराए जाने वाले पैटर्न में एक निश्चित इकाई (मूल ब्लॉक) बार-बार उसी रूप में दोहराई जाती है, जिसमें आकार या मात्रा में कोई परिवर्तन नहीं होता (जैसे: A-B-A-B)। इसके विपरीत, बढ़ते हुए पैटर्न में प्रत्येक चरण में एक निश्चित मात्रा जोड़ने या गुणा करने से व्यवस्थित वृद्धि होती है (जैसे: 2, 4, 6, 8...)।",
+      "keyPoints": [
+        "रिपीटिंग पैटर्न: समान इकाई का बार-बार दोहराव (Repeating: identical unit repeats)",
+        "ग्रोइंग पैटर्न: प्रत्येक चरण में क्रमिक वृद्धि (Growing: systematic increase at each step)",
+        "उदाहरण द्वारा स्पष्टीकरण (Clear comparison with examples)"
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What are square numbers? List the first four square numbers.",
+      "questionHi": "वर्ग संख्याएँ (Square Numbers) क्या होती हैं? प्रथम चार वर्ग संख्याएँ लिखिए।",
+      "answer": "Square numbers are numbers that can be visually represented by dots arranged in the shape of a square with equal rows and columns. They are obtained by multiplying a natural number by itself. The first four square numbers are 1, 4, 9, and 16.",
+      "answerHi": "वर्ग संख्याएँ वे संख्याएँ हैं जिन्हें समान पंक्तियों और स्तंभों वाले वर्ग के आकार में बिंदुओं द्वारा दर्शाया जा सकता है। ये किसी प्राकृत संख्या को स्वयं से गुणा करने पर प्राप्त होती हैं। प्रथम चार वर्ग संख्याएँ 1, 4, 9 और 16 हैं।",
+      "keyPoints": [
+        "संख्या का स्वयं से गुणन (Number multiplied by itself: n × n)",
+        "वर्गाकार बिंदु व्यवस्था (Square arrangement of dots)",
+        "प्रथम चार संख्याएँ: 1, 4, 9, 16 (First four numbers: 1, 4, 9, 16)"
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What are triangular numbers? Why is the number 6 called a triangular number?",
+      "questionHi": "त्रिभुजाकार संख्याएँ (Triangular Numbers) क्या हैं? संख्या 6 को त्रिभुजाकार संख्या क्यों कहा जाता है?",
+      "answer": "Triangular numbers are sequences of numbers that can be represented by dots arranged in an equilateral triangle. The number 6 is called a triangular number because 6 dots can be arranged in a triangle with rows containing 1, 2, and 3 dots respectively (1 + 2 + 3 = 6).",
+      "answerHi": "त्रिभुजाकार संख्याएँ वे संख्याएँ हैं जिन्हें समबाहु त्रिभुज के आकार में व्यवस्थित बिंदुओं द्वारा दर्शाया जा सकता है। संख्या 6 को त्रिभुजाकार संख्या इसलिए कहा जाता है क्योंकि 6 बिंदुओं को क्रमशः 1, 2 और 3 बिंदुओं वाली पंक्तियों में रखकर एक त्रिभुज बनाया जा सकता है (1 + 2 + 3 = 6)।",
+      "keyPoints": [
+        "त्रिभुजाकार बिंदु व्यवस्था (Equilateral triangle dot arrangement)",
+        "क्रमिक प्राकृत संख्याओं का योग (Sum of consecutive natural numbers)",
+        "संख्या 6 का विभाजन: 1 + 2 + 3 = 6 (Breakdown of 6: 1 + 2 + 3 = 6)"
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "State the rule for generating the Virahanka-Fibonacci sequence and write its first six terms.",
+      "questionHi": "विरहंक-फिबोनैची अनुक्रम (Virahanka-Fibonacci Sequence) बनाने का नियम बताइए और इसके प्रथम छह पद लिखिए।",
+      "answer": "In the Virahanka-Fibonacci sequence, every term (after the first two starting terms, 1 and 1) is obtained by adding the two immediately preceding terms. The first six terms of this sequence are 1, 1, 2, 3, 5, and 8.",
+      "answerHi": "विरहंक-फिबोनैची अनुक्रम में (शुरुआती दो पदों 1 और 1 के बाद) प्रत्येक पद अपने से ठीक पहले के दो पदों को जोड़ने पर प्राप्त होता है। इस अनुक्रम के प्रथम छह पद 1, 1, 2, 3, 5 और 8 हैं।",
+      "keyPoints": [
+        "नियम: वर्तमान पद = पिछले दो पदों का योग (Rule: Current term = sum of previous two terms)",
+        "प्रारंभिक पद: 1, 1 (Starting terms: 1, 1)",
+        "प्रथम छह पद: 1, 1, 2, 3, 5, 8 (First six terms: 1, 1, 2, 3, 5, 8)"
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Identify the rule and find the next two terms in the pattern: 80, 73, 66, 59, ___, ___.",
+      "questionHi": "दी गई श्रृंखला में नियम की पहचान कीजिए और अगले दो पद ज्ञात कीजिए: 80, 73, 66, 59, ___, ___।",
+      "answer": "This is a shrinking arithmetic pattern where each consecutive term decreases by 7. Subtracting 7 from 59 gives 52, and subtracting 7 from 52 gives 45. Therefore, the next two terms are 52 and 45.",
+      "answerHi": "यह एक घटता हुआ (श्रिंकिंग) अंकगणितीय पैटर्न है जहाँ प्रत्येक अगला पद 7 घटाने पर प्राप्त होता है। 59 में से 7 घटाने पर 52 आता है, और 52 में से 7 घटाने पर 45 आता है। अतः अगले दो पद 52 और 45 हैं।",
+      "keyPoints": [
+        "नियम: प्रत्येक पद में 7 की कमी (-7 rule)",
+        "पाँचवाँ पद: 59 - 7 = 52 (Fifth term: 52)",
+        "छठा पद: 52 - 7 = 45 (Sixth term: 45)"
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "Why is the study of patterns important in mathematics according to NCERT Class 6?",
+      "questionHi": "NCERT कक्षा 6 के अनुसार गणित में पैटर्न का अध्ययन क्यों महत्वपूर्ण है?",
+      "answer": "Studying patterns helps students develop logical reasoning, spatial awareness, and problem-solving skills. It forms the foundation of algebra by teaching how to generalize mathematical relationships and predict future outcomes based on observed rules.",
+      "answerHi": "पैटर्न का अध्ययन विद्यार्थियों में तार्किक सोच, स्थानिक समझ और समस्या समाधान कौशल को विकसित करता है। यह देखे गए नियमों के आधार पर गणितीय संबंधों को सामान्यीकृत करने और भविष्य के परिणामों की भविष्यवाणी करने की क्षमता देकर बीजगणित (Algebra) की नींव रखता है।",
+      "keyPoints": [
+        "तार्किक सोच का विकास (Develops logical reasoning)",
+        "बीजगणित की आधारशिला (Foundation of algebra)",
+        "भविष्यवाणी करने की क्षमता (Ability to generalize and predict)"
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "What is a 'magic square'? What is meant by the 'magic sum' or constant?",
+      "questionHi": "'जादुई वर्ग' (Magic Square) क्या होता है? 'जादुई योग' (Magic Sum) से क्या अभिप्राय है?",
+      "answer": "A magic square is a square grid filled with numbers such that the sum of numbers in every horizontal row, vertical column, and diagonal is exactly equal. This equal total value is called the 'magic sum' or magic constant.",
+      "answerHi": "जादुई वर्ग (मैजिक स्क्वायर) संख्याओं से भरा एक ऐसा वर्गाकार ग्रिड होता है जिसमें प्रत्येक क्षैतिज पंक्ति, ऊर्ध्वाधर स्तंभ और विकर्ण (डायगोनल) में स्थित संख्याओं का योग बिल्कुल बराबर होता है। इस समान योगफल को 'जादुई योग' (मैजिक सम) कहा जाता है।",
+      "keyPoints": [
+        "पंक्तियों, स्तंभों और विकर्णों का योग समान (Equal sum across rows, columns, and diagonals)",
+        "वर्गाकार ग्रिड व्यवस्था (Square grid arrangement)",
+        "समान योगफल = जादुई योग (Equal total = Magic sum)"
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "In a number grid or calendar month, what pattern is observed when you move directly downward by one row in the same column?",
+      "questionHi": "किसी कैलेंडर के महीने या संख्या ग्रिड में, जब आप एक ही स्तंभ में ठीक एक पंक्ति नीचे जाते हैं, तो क्या पैटर्न देखने को मिलता है?",
+      "answer": "In a standard monthly calendar grid, moving directly downward by one row in the same column increases the date exactly by 7 (representing one complete week of 7 days).",
+      "answerHi": "किसी मानक मासिक कैलेंडर ग्रिड में, एक ही स्तंभ (कॉलम) में ठीक एक पंक्ति नीचे जाने पर तारीख में ठीक 7 की वृद्धि होती है (जो 7 दिनों के एक पूरे सप्ताह को दर्शाती है)।",
+      "keyPoints": [
+        "स्तंभ में नीचे जाने पर +7 की वृद्धि (+7 increase moving down a column)",
+        "सप्ताह के 7 दिनों का चक्र (7-day weekly cycle representation)",
+        "कैलेंडर ग्रिड का नियम (Calendar grid regularity)"
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "Observe the pattern: 1×1=1; 11×11=121; 111×111=12321. What will be the value of 1111×1111?",
+      "questionHi": "पैटर्न का अवलोकन कीजिए: 1×1=1; 11×11=121; 111×111=12321। 1111×1111 का मान क्या होगा?",
+      "answer": "Following the palindromic number pattern where multiplying a number made of n ones by itself counts up to n and then backwards to 1, for four ones (1111 × 1111), the result will count up to 4 and then down: 1234321.",
+      "answerHi": "पैलिंड्रोमिक संख्या पैटर्न के अनुसार, जहाँ n बार 1 वाली संख्या को स्वयं से गुणा करने पर गिनती 1 से n तक बढ़ती है और फिर घटते हुए 1 तक आती है, चार बार 1 (1111 × 1111) के गुणनफल का मान 1234321 होगा।",
+      "keyPoints": [
+        "पैलिंड्रोमिक पैटर्न की पहचान (Identification of palindromic pattern)",
+        "4 अंकों तक आरोही और फिर अवरोही क्रम (Count up to 4, then down to 1)",
+        "सटीक उत्तर: 1234321 (Exact answer: 1234321)"
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Explain the geometric and numerical relationship between consecutive triangular numbers and square numbers with an example.",
+      "questionHi": "क्रमागत त्रिभुजाकार संख्याओं और वर्ग संख्याओं के बीच ज्यामितीय और संख्यात्मक संबंध को उदाहरण सहित स्पष्ट कीजिए।",
+      "answer": "A fundamental mathematical property states that the sum of any two consecutive triangular numbers is always equal to a square number. Geometrically, when two consecutive triangular dot arrays (like size n-1 and size n) are combined together, they form a perfect square grid of size n × n. For example, adding the 2nd triangular number (3) and the 3rd triangular number (6) gives 9, which is the 3rd square number (3 × 3 = 9).",
+      "answerHi": "गणित का एक महत्वपूर्ण नियम है कि किन्हीं भी दो क्रमागत (लगातार) त्रिभुजाकार संख्याओं का योग सदैव एक वर्ग संख्या के बराबर होता है। ज्यामितीय रूप से, जब दो लगातार त्रिभुजाकार बिंदु आकृतियों को आपस में जोड़ा जाता है, तो वे एक पूर्ण वर्गाकार ग्रिड (n × n) बनाती हैं। उदाहरण के लिए, दूसरी त्रिभुजाकार संख्या (3) और तीसरी त्रिभुजाकार संख्या (6) को जोड़ने पर 9 प्राप्त होता है, जो कि तीसरी वर्ग संख्या (3 × 3 = 9) है।",
+      "keyPoints": [
+        "नियम: दो क्रमागत त्रिभुजाकार संख्याओं का योग = वर्ग संख्या (Rule: Sum of 2 consecutive triangular numbers = square number)",
+        "ज्यामितीय संयोजन: दो त्रिभुज मिलकर एक वर्ग बनाते हैं (Geometric combining: two triangles form a square)",
+        "उदाहरण: 3 + 6 = 9 (3²), 6 + 10 = 16 (4²) (Example: 3 + 6 = 9, 6 + 10 = 16)"
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "A student builds towers using matchsticks. Tower 1 uses 4 matchsticks, Tower 2 uses 7 matchsticks, and Tower 3 uses 10 matchsticks. Formulate the general pattern rule and calculate the matchsticks required for Tower 8.",
+      "questionHi": "एक विद्यार्थी माचिस की तीलियों से मीनार बनाता है। पहली मीनार में 4 तीलियाँ, दूसरी में 7 और तीसरी में 10 तीलियाँ लगती हैं। पैटर्न का सामान्य नियम बनाइए और 8वीं मीनार के लिए आवश्यक तीलियों की संख्या ज्ञात कीजिए।",
+      "answer": "Observing the sequence 4, 7, 10..., the number of matchsticks increases by 3 for each new tower. The general rule can be expressed as: Number of matchsticks = 3 × (Tower Number) + 1. For Tower 8, substituting the value into the rule gives: (3 × 8) + 1 = 24 + 1 = 25 matchsticks.",
+      "answerHi": "अनुक्रम 4, 7, 10... को देखने पर स्पष्ट है कि प्रत्येक नई मीनार के लिए 3 अतिरिक्त तीलियों की आवश्यकता होती है। इसका सामान्य नियम है: तीलियों की संख्या = 3 × (मीनार संख्या) + 1। 8वीं मीनार के लिए नियम में मान रखने पर: (3 × 8) + 1 = 24 + 1 = 25 तीलियाँ।",
+      "keyPoints": [
+        "क्रमिक अंतर: +3 (Constant difference: +3)",
+        "सामान्य नियम: 3n + 1 (General rule: 3n + 1 where n is tower number)",
+        "8वीं मीनार के लिए गणना: 3(8) + 1 = 25 तीलियाँ (Calculation for Tower 8: 25 matchsticks)"
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Distinguish between arithmetic patterns and geometric growing patterns with suitable numerical examples.",
+      "questionHi": "अंकगणितीय पैटर्न (Arithmetic Patterns) और ज्यामितीय बढ़ते पैटर्न (Geometric Growing Patterns) के बीच उपयुक्त संख्यात्मक उदाहरणों के साथ अंतर स्पष्ट कीजिए।",
+      "answer": "In an arithmetic pattern, the sequence grows or shrinks by repeatedly adding or subtracting a constant value (called the common difference). For example, 5, 10, 15, 20... (adding 5 each time). In a geometric growing pattern, each term is generated by multiplying or dividing the previous term by a fixed number. For example, 3, 6, 12, 24, 48... (multiplying by 2 each time, resulting in much more rapid growth).",
+      "answerHi": "अंकगणितीय पैटर्न में, श्रृंखला प्रत्येक चरण में एक निश्चित संख्या को बार-बार जोड़ने या घटाने से बढ़ती या घटती है। उदाहरण के लिए: 5, 10, 15, 20... (हर बार 5 जोड़ना)। इसके विपरीत, ज्यामितीय बढ़ते पैटर्न में प्रत्येक अगला पद पिछले पद को एक निश्चित संख्या से गुणा या भाग करने पर प्राप्त होता है। उदाहरण के लिए: 3, 6, 12, 24, 48... (हर बार 2 से गुणा करना, जिससे वृद्धि बहुत तेजी से होती है)।",
+      "keyPoints": [
+        "अंकगणितीय: समान अंतर को जोड़ना या घटाना (Arithmetic: constant addition or subtraction)",
+        "ज्यामितीय: समान गुणक से गुणा या भाग (Geometric: constant multiplication or division)",
+        "उदाहरणों द्वारा स्पष्ट तुलना (Clear contrast using examples: 5,10,15 vs 3,6,12)"
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "How are floor tiling designs (tessellations) related to mathematical patterns? Why are regular hexagons commonly used in tiling?",
+      "questionHi": "फर्श पर टाइल बिछाने के डिजाइन (टेसेलेशन) गणितीय पैटर्न से किस प्रकार संबंधित हैं? टाइलिंग में नियमित षट्भुज (Hexagons) का सामान्यतः उपयोग क्यों किया जाता है?",
+      "answer": "Floor tiling designs, or tessellations, represent visual geometric patterns where shapes cover a flat surface completely without any gaps or overlapping. Regular hexagons are commonly used in tiling (and seen in beehives) because the interior angle of a regular hexagon is 120°, and three hexagons meet perfectly at a vertex (120° × 3 = 360°), forming a seamless, structurally strong pattern.",
+      "answerHi": "फर्श की टाइलिंग या टेसेलेशन ऐसे दृश्य ज्यामितीय पैटर्न हैं जहाँ आकृतियाँ किसी समतल सतह को बिना किसी रिक्त स्थान (गैप) या ओवरलैपिंग के पूरी तरह ढक लेती हैं। नियमित षट्भुज का उपयोग टाइलिंग में (और मधुमक्खी के छत्ते में) इसलिए किया जाता है क्योंकि इसके प्रत्येक अंतःकोण का मान 120° होता है, और एक बिंदु पर तीन षट्भुज मिलकर ठीक 360° (120° × 3 = 360°) बनाते हैं, जिससे बिना किसी गैप के मजबूत पैटर्न बनता है।",
+      "keyPoints": [
+        "टेसेलेशन: बिना गैप या ओवरलैप के सतह को ढकना (Tessellation: covering plane without gaps/overlaps)",
+        "षट्भुज का अंतःकोण 120° (Hexagon interior angle is 120°)",
+        "शीर्ष पर कोणों का योग 360° होना (Angles at a vertex sum exactly to 360°: 120° × 3)"
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "Explain how the sum of the first 'n' odd natural numbers forms a pattern. What is the sum of the first 10 odd natural numbers?",
+      "questionHi": "स्पष्ट कीजिए कि प्रथम 'n' विषम प्राकृत संख्याओं का योग किस प्रकार एक पैटर्न बनाता है। प्रथम 10 विषम प्राकृत संख्याओं का योगफल क्या होगा?",
+      "answer": "When we add consecutive odd natural numbers starting from 1, the sum is always equal to the square of the number of terms added (n²). For example: 1 = 1 (1²); 1 + 3 = 4 (2²); 1 + 3 + 5 = 9 (3²); 1 + 3 + 5 + 7 = 16 (4²). Therefore, following this pattern, the sum of the first 10 odd natural numbers is 10² = 10 × 10 = 100.",
+      "answerHi": "जब हम 1 से शुरू होने वाली क्रमागत विषम प्राकृत संख्याओं को जोड़ते हैं, तो उनका योगफल सदैव जोड़ी गई पदों की संख्या के वर्ग (n²) के बराबर होता है। जैसे: 1 = 1 (1²); 1 + 3 = 4 (2²); 1 + 3 + 5 = 9 (3²); 1 + 3 + 5 + 7 = 16 (4²)। अतः इस पैटर्न के अनुसार, प्रथम 10 विषम प्राकृत संख्याओं का योगफल 10² = 10 × 10 = 100 होगा।",
+      "keyPoints": [
+        "नियम: प्रथम n विषम संख्याओं का योग = n² (Rule: Sum of first n odd numbers = n²)",
+        "क्रमिक उदाहरण: 1=1², 1+3=2², 1+3+5=3² (Sequential proof: 1=1², 1+3=2², 1+3+5=3²)",
+        "10 पदों के लिए गणना: 10² = 100 (Calculation for 10 terms: 10² = 100)"
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Describe the pattern observed in the diagonals of a standard 3×3 grid chosen from any calendar month.",
+      "questionHi": "किसी भी महीने के कैलेंडर से चुने गए मानक 3×3 ग्रिड के विकर्णों (Diagonals) में देखे जाने वाले पैटर्न का वर्णन कीजिए।",
+      "answer": "In any 3×3 date grid selected from a monthly calendar, the sum of the three numbers along both diagonals is exactly identical. Furthermore, this diagonal sum is always equal to 3 times the central date of that grid. For example, if the center date is 15, the sum of both diagonals will be 15 × 3 = 45.",
+      "answerHi": "किसी भी मासिक कैलेंडर से चुने गए 3×3 तारीखों के ग्रिड में, दोनों विकर्णों (तिरछी रेखाओं) पर स्थित तीनों संख्याओं का योग बिल्कुल बराबर होता है। इसके अतिरिक्त, यह विकर्ण योग सदैव उस ग्रिड की बीच वाली (केंद्रीय) तारीख का ठीक 3 गुना होता है। उदाहरण के लिए, यदि बीच की तारीख 15 है, तो दोनों विकर्णों का योग 15 × 3 = 45 होगा।",
+      "keyPoints": [
+        "दोनों विकर्णों का योगफल समान (Both diagonal sums are exactly equal)",
+        "विकर्ण योग = केंद्रीय तारीख × 3 (Diagonal sum = Center date × 3)",
+        "कैलेंडर ग्रिड की गणितीय सममिति (Mathematical symmetry of calendar grids)"
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "What is Pascal's Triangle? Mention two interesting number patterns hidden inside Pascal's Triangle.",
+      "questionHi": "पास्कल का त्रिभुज (Pascal's Triangle) क्या है? पास्कल के त्रिभुज में छिपे दो रोचक संख्या पैटर्न बताइए।",
+      "answer": "Pascal's Triangle is a triangular arrangement of numbers where the top row is 1, and each number below is the sum of the two numbers directly above it. Two interesting patterns hidden inside it are: 1) The outermost diagonal contains only 1s, and the second diagonal contains natural counting numbers (1, 2, 3, 4...). 2) The sum of the numbers in any horizontal row n is equal to 2 raised to the power n (e.g., Row 0: 1=2⁰, Row 1: 1+1=2=2¹, Row 2: 1+2+1=4=2²).",
+      "answerHi": "पास्कल का त्रिभुज संख्याओं की एक त्रिभुजाकार व्यवस्था है जिसकी शीर्ष पंक्ति में 1 होता है, और नीचे की प्रत्येक संख्या अपने ठीक ऊपर स्थित दो संख्याओं के योग के बराबर होती है। इसमें छिपे दो रोचक पैटर्न हैं: 1) सबसे बाहरी विकर्ण में केवल 1 होता है, और दूसरे विकर्ण में प्राकृत गिनती की संख्याएँ (1, 2, 3, 4...) होती हैं। 2) किसी भी क्षैतिज पंक्ति n की संख्याओं का योग 2 की घात n (2ⁿ) के बराबर होता है (जैसे: पंक्ति 0: 1=2⁰, पंक्ति 1: 1+1=2=2¹, पंक्ति 2: 1+2+1=4=2²)।",
+      "keyPoints": [
+        "निर्माण नियम: ऊपर की दो संख्याओं का योग (Construction: Sum of two adjacent numbers above)",
+        "पैटर्न 1: दूसरे विकर्ण में प्राकृत संख्याएँ (Pattern 1: Second diagonal contains natural counting numbers)",
+        "पैटर्न 2: पंक्तियों का योग 2ⁿ के बराबर (Pattern 2: Row sums equal powers of 2: 1, 2, 4, 8...)"
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "How can you determine if a given number is a triangular number? Check whether 21 is a triangular number.",
+      "questionHi": "आप कैसे ज्ञात कर सकते हैं कि कोई दी गई संख्या त्रिभुजाकार संख्या है या नहीं? जाँच कीजिए कि क्या 21 एक त्रिभुजाकार संख्या है।",
+      "answer": "A number is triangular if it can be expressed as the sum of consecutive natural numbers starting from 1 (1 + 2 + 3 + ... + n). To check if 21 is a triangular number, we add consecutive integers starting from 1: 1 + 2 = 3; 3 + 3 = 6; 6 + 4 = 10; 10 + 5 = 15; 15 + 6 = 21. Since the sum equals exactly 21 when adding up to 6, 21 is indeed the 6th triangular number.",
+      "answerHi": "कोई संख्या त्रिभुजाकार संख्या तब होती है जब उसे 1 से शुरू होने वाली क्रमागत प्राकृत संख्याओं के योग के रूप में व्यक्त किया जा सके। 21 की जाँच करने के लिए हम 1 से लगातार संख्याएँ जोड़ते हैं: 1 + 2 = 3; 3 + 3 = 6; 6 + 4 = 10; 10 + 5 = 15; 15 + 6 = 21। चूँकि 1 से 6 तक की संख्याओं का योग ठीक 21 आता है, अतः 21 वास्तव में 6ठी त्रिभुजाकार संख्या है।",
+      "keyPoints": [
+        "जाँच विधि: 1 से क्रमागत संख्याओं का योग (Method: Summing consecutive integers from 1)",
+        "क्रमिक योग: 1+2+3+4+5+6 = 21 (Step-by-step addition: 1+2+3+4+5+6 = 21)",
+        "निष्कर्ष: 21 छठी त्रिभुजाकार संख्या है (Conclusion: 21 is the 6th triangular number)"
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Explain how symmetry acts as a structural pattern in Indian Rangoli and Kolam art forms.",
+      "questionHi": "भारतीय रंगोली और कोलम कला रूपों में सममिति (Symmetry) एक संरचनात्मक पैटर्न के रूप में कैसे कार्य करती है, स्पष्ट कीजिए।",
+      "answer": "In traditional Indian Rangoli and Kolam art, symmetry serves as the governing geometric pattern. Artists begin by drawing a regular grid of dots (matrix) and then create loops, lines, and curves that maintain reflection symmetry (mirror image across horizontal or vertical axes) and rotational symmetry around the center. This geometric precision ensures balance, aesthetic harmony, and mathematical order in traditional art.",
+      "answerHi": "पारंपरिक भारतीय रंगोली और कोलम कला में सममिति (सिमिट्री) एक मुख्य ज्यामितीय पैटर्न के रूप में कार्य करती है। कलाकार सर्वप्रथम बिंदुओं का एक नियमित ग्रिड बनाते हैं और फिर ऐसी रेखाएँ व वक्र खींचते हैं जो परावर्तन सममिति (क्षैतिज या ऊर्ध्वाधर अक्ष के दोनों ओर दर्पण प्रतिबिंब) और केंद्र के चारों ओर घूर्णन सममिति बनाए रखते हैं। यह ज्यामितीय सटीकता पारंपरिक कला में संतुलन और सौंदर्यशास्त्र सुनिश्चित करती है।",
+      "keyPoints": [
+        "बिंदु ग्रिड पर आधारित संरचना (Structure based on regular dot grids)",
+        "परावर्तन और घूर्णन सममिति का उपयोग (Use of reflectional and rotational symmetry)",
+        "कला में गणितीय संतुलन और सौंदर्य (Mathematical balance and harmony in art)"
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Observe the multiplication pattern: 9×1=09; 9×2=18; 9×3=27; 9×4=36. What two unique properties do you observe in the digits of the products of 9?",
+      "questionHi": "गुणन पैटर्न का अवलोकन कीजिए: 9×1=09; 9×2=18; 9×3=27; 9×4=36। 9 के गुणजों के अंकों में आप कौन-सी दो विशिष्ट विशेषताएँ देखते हैं?",
+      "answer": "Two remarkable properties observed in the multiples of 9 are: 1) The sum of the digits of every product is always equal to 9 (e.g., 0+9=9, 1+8=9, 2+7=9, 3+6=9). 2) As we multiply by consecutive counting numbers, the tens digit systematically increases by 1 (0, 1, 2, 3...) while the ones digit systematically decreases by 1 (9, 8, 7, 6...), creating a complementary pattern.",
+      "answerHi": "9 के गुणजों में दो अद्भुत विशेषताएँ देखी जाती हैं: 1) प्रत्येक गुणनफल के अंकों का योग सदैव 9 के बराबर होता है (जैसे: 0+9=9, 1+8=9, 2+7=9, 3+6=9)। 2) जैसे-जैसे हम आगे गुणा करते हैं, दहाई का अंक क्रमशः 1 से बढ़ता जाता है (0, 1, 2, 3...) जबकि इकाई का अंक क्रमशः 1 से घटता जाता है (9, 8, 7, 6...), जिससे एक सुंदर पूरक पैटर्न बनता है।",
+      "keyPoints": [
+        "विशेषता 1: अंकों का योग सदैव 9 (Property 1: Sum of digits always equals 9)",
+        "विशेषता 2: दहाई का अंक बढ़ता है, इकाई का घटता है (Property 2: Tens digit increases by 1, ones digit decreases by 1)",
+        "पूरक संख्यात्मक संबंध (Complementary numerical relationship)"
+      ]
+    },
+    {
+      "id": "q21",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "A school auditorium arranges chairs in rows such that the 1st row has 15 chairs, the 2nd row has 19 chairs, the 3rd row has 23 chairs, and so on. \n(a) Identify the pattern rule. \n(b) Write an expression for the number of chairs in the nth row. \n(c) Calculate the number of chairs in the 12th row and the 20th row.",
+      "questionHi": "एक विद्यालय के सभागार (ऑडिटोरियम) में कुर्सियों को इस प्रकार व्यवस्थित किया गया है कि पहली पंक्ति में 15 कुर्सियाँ, दूसरी पंक्ति में 19 कुर्सियाँ, तीसरी पंक्ति में 23 कुर्सियाँ हैं, और यही क्रम आगे जारी रहता है।\n(क) पैटर्न के नियम की पहचान कीजिए।\n(ख) nवीं पंक्ति में कुर्सियों की संख्या के लिए एक व्यंजक (Expression) लिखिए।\n(ग) 12वीं और 20वीं पंक्ति में कुर्सियों की संख्या ज्ञात कीजिए।",
+      "answer": "(a) Pattern Rule: This is an increasing arithmetic pattern. Comparing consecutive rows (19 - 15 = 4, 23 - 19 = 4), we observe that each subsequent row has exactly 4 more chairs than the previous row.\n\n(b) Algebraic Expression: Since the increase per row is 4, the pattern relates to multiples of 4. For Row 1: 4(1) + 11 = 15. For Row 2: 4(2) + 11 = 19. Thus, the general expression for the number of chairs in the nth row is: 4n + 11.\n\n(c) Calculations:\n- For the 12th row (n = 12): Number of chairs = 4(12) + 11 = 48 + 11 = 59 chairs.\n- For the 20th row (n = 20): Number of chairs = 4(20) + 11 = 80 + 11 = 91 chairs.\nThis competency-based approach allows us to determine seating capacity without drawing or listing every single row.",
+      "answerHi": "(क) पैटर्न का नियम: यह एक बढ़ता हुआ समांतर (अंकगणितीय) पैटर्न है। क्रमागत पंक्तियों की तुलना करने पर (19 - 15 = 4, 23 - 19 = 4), हम देखते हैं कि प्रत्येक अगली पंक्ति में पिछली पंक्ति की तुलना में ठीक 4 कुर्सियाँ अधिक हैं।\n\n(ख) बीजीय व्यंजक: चूँकि प्रति पंक्ति वृद्धि 4 है, यह 4 के गुणजों से संबंधित है। पहली पंक्ति के लिए: 4(1) + 11 = 15। दूसरी पंक्ति के लिए: 4(2) + 11 = 19। अतः nवीं पंक्ति में कुर्सियों की संख्या का सामान्य व्यंजक है: 4n + 11।\n\n(ग) गणनाएँ:\n- 12वीं पंक्ति के लिए (n = 12): कुर्सियों की संख्या = 4(12) + 11 = 48 + 11 = 59 कुर्सियाँ।\n- 20वीं पंक्ति के लिए (n = 20): कुर्सियों की संख्या = 4(20) + 11 = 80 + 11 = 91 कुर्सियाँ।\nयह योग्यता-आधारित दृष्टिकोण हमें प्रत्येक पंक्ति को बिना गिने या लिखे सीधे संख्या ज्ञात करने में सक्षम बनाता है।",
+      "keyPoints": [
+        "नियम: प्रत्येक पंक्ति में 4 कुर्सियों की वृद्धि (Rule: Increase of 4 chairs per row)",
+        "सामान्य व्यंजक: 4n + 11 (General expression: 4n + 11 where n is row number)",
+        "12वीं पंक्ति = 4(12) + 11 = 59 कुर्सियाँ (Row 12 calculation: 59 chairs)",
+        "20वीं पंक्ति = 4(20) + 11 = 91 कुर्सियाँ (Row 20 calculation: 91 chairs)"
+      ]
+    },
+    {
+      "id": "q22",
+      "type": "value-based",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "How do patterns in nature (such as day and night cycles, changing seasons, and heartbeat rhythms) demonstrate the value of discipline and order in human life? Why is recognizing patterns essential for scientific planning?",
+      "questionHi": "प्रकृति में मौजूद पैटर्न (जैसे दिन-रात का चक्र, ऋतुओं का बदलना, और हृदय की धड़कन) मानव जीवन में अनुशासन और व्यवस्था के महत्व को कैसे दर्शाते हैं? वैज्ञानिक योजना बनाने के लिए पैटर्न को पहचानना क्यों आवश्यक है?",
+      "answer": "Nature operates on precise, rhythmic patterns. The punctual alternation of day and night, the predictable cycle of seasons, and the steady beat of a healthy heart demonstrate that life thrives on order, balance, and discipline. When human beings align their daily habits with natural rhythms—such as sleeping on time and working systematically—they achieve better health and productivity.\n\nRecognizing patterns is essential for scientific planning because science relies on predictability. By identifying weather patterns, farmers plan crop sowing and harvesting. By observing astronomical patterns, scientists navigate satellites and predict eclipses. Similarly, recognizing epidemiological patterns helps doctors control diseases. In essence, pattern recognition transforms random observations into actionable wisdom and structured progress.",
+      "answerHi": "प्रकृति अत्यंत सटीक और लयबद्ध पैटर्न पर कार्य करती है। दिन और रात का समय पर आना, ऋतुओं का निश्चित चक्र और स्वस्थ हृदय की नियमित धड़कन यह प्रमाणित करती है कि जीवन व्यवस्था, संतुलन और अनुशासन से ही फलता-फूलता है। जब मनुष्य अपनी दिनचर्या को प्राकृतिक लय के अनुसार ढालता है—जैसे समय पर सोना और व्यवस्थित रूप से कार्य करना—तो वह उत्तम स्वास्थ्य और कार्यक्षमता प्राप्त करता है।\n\nवैज्ञानिक योजना के लिए पैटर्न की पहचान अनिवार्य है क्योंकि विज्ञान भविष्यवाणी और नियमों पर आधारित है। मौसम के पैटर्न को पहचानकर किसान फसलों की बुवाई और कटाई की योजना बनाते हैं। खगोलीय पैटर्न को समझकर वैज्ञानिक उपग्रह भेजते हैं और ग्रहणों की भविष्यवाणी करते हैं। इसी प्रकार, बीमारियों के फैलने के पैटर्न को समझकर चिकित्सक महामारियों पर नियंत्रण पाते हैं। संक्षेप में, पैटर्न की पहचान बिखरे हुए अनुभवों को सार्थक ज्ञान और व्यवस्थित प्रगति में बदल देती है।",
+      "keyPoints": [
+        "प्रकृति में नियम और लयबद्धता = जीवन में अनुशासन (Natural rhythms teach order and discipline in life)",
+        "भविष्यवाणी और वैज्ञानिक योजना का आधार (Foundation for scientific prediction and planning)",
+        "कृषि, खगोल विज्ञान और चिकित्सा में व्यावहारिक उपयोग (Practical utility in agriculture, astronomy, and medicine)",
+        "अव्यवस्थित डेटा को सार्थक ज्ञान में बदलना (Transforming observations into structured wisdom)"
+      ]
+    },
+    {
+      "id": "q23",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Analyse the Virahanka-Fibonacci sequence in botany. Explain how counting spirals on a pinecone or seeds on a sunflower head reveals Fibonacci numbers. Why does nature favor this mathematical arrangement?",
+      "questionHi": "वनस्पति विज्ञान (Botany) में विरहंक-फिबोनैची अनुक्रम का विश्लेषण कीजिए। स्पष्ट कीजिए कि चीड़ के शंकु (Pinecone) पर सर्पिल (Spirals) या सूरजमुखी के फूल पर बीजों की गिनती करने पर फिबोनैची संख्याएँ कैसे प्राप्त होती हैं। प्रकृति इस गणितीय व्यवस्था को क्यों प्राथमिकता देती है?",
+      "answer": "The Virahanka-Fibonacci sequence (1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89...) appears extensively in botanical structures. When we examine the head of a sunflower or the scales of a pinecone, the seeds and scales grow in opposing spiral patterns originating from the center. If we count the number of spirals curving clockwise and compare them to the number curving counter-clockwise, the two numbers are almost always adjacent terms in the Fibonacci sequence (such as 8 and 13 in pinecones, or 34 and 55 in sunflowers).\n\nNature favors this mathematical arrangement due to evolutionary optimization. Growing according to the Fibonacci ratio (closely related to the Golden Angle of approximately 137.5°) allows plants to pack the maximum number of seeds into a circular head without gaps or crowding. For leaves on a stem, this arrangement ensures that higher leaves do not block sunlight and falling rain from reaching lower leaves, maximizing photosynthesis and survival.",
+      "answerHi": "विरहंक-फिबोनैची अनुक्रम (1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89...) वनस्पति संरचनाओं में व्यापक रूप से पाया जाता है। जब हम सूरजमुखी के फूल के केंद्र या चीड़ के शंकु (पाइनकोन) की संरचना को देखते हैं, तो बीज और शल्क केंद्र से बाहर की ओर दो विपरीत सर्पिल (स्पायरल) दिशाओं में बढ़ते हैं। यदि हम दक्षिणावर्त (Clockwise) घूमने वाले सर्पिलों की संख्या गिनें और उसकी तुलना वामावर्त (Counter-clockwise) सर्पिलों से करें, तो ये दोनों संख्याएँ सदैव फिबोनैची अनुक्रम के दो लगातार पद होती हैं (जैसे पाइनकोन में 8 और 13, या सूरजमुखी में 34 और 55)।\n\nप्रकृति इस गणितीय व्यवस्था को विकासवादी अनुकूलन (Optimization) के कारण अपनाती है। फिबोनैची अनुपात (जो लगभग 137.5° के स्वर्णिम कोण से संबंधित है) के अनुसार बढ़ने से पौधे सीमित गोलाकार स्थान में बिना किसी गैप या भीड़ के अधिकतम बीज समाहित कर सकते हैं। तने पर पत्तियों की व्यवस्था में, यह पैटर्न सुनिश्चित करता है कि ऊपरी पत्तियाँ निचली पत्तियों का धूप और वर्षा का पानी न रोकें, जिससे प्रकाश संश्लेषण और जीवित रहने की संभावना अधिकतम हो जाती है।",
+      "keyPoints": [
+        "विपरीत सर्पिलों की गिनती फिबोनैची अनुक्रम के क्रमागत पद (Opposing spiral counts equal adjacent Fibonacci numbers: 8 & 13, 34 & 55)",
+        "स्थान का अधिकतम और कुशल उपयोग (Maximum space utilization without gaps or crowding)",
+        "स्वर्णिम कोण (137.5°) से संबंध (Connection to Golden Angle optimization)",
+        "धूप और वर्षा के लिए पत्तियों का अनुकूलन (Optimizing sunlight and water capture for photosynthesis)"
+      ]
+    },
+    {
+      "id": "q24",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Consider a 3×3 magic square using the digits from 1 to 9 exactly once. \n(a) What is the magic sum of this grid? Show how you calculate it without drawing the grid. \n(b) Which number must always occupy the central cell of this 3×3 magic square, and why? \n(c) Illustrate one valid arrangement of the numbers 1 to 9 in a 3×3 magic square.",
+      "questionHi": "1 से 9 तक के अंकों का ठीक एक बार उपयोग करते हुए एक 3×3 जादुई वर्ग (Magic Square) पर विचार कीजिए।\n(क) इस ग्रिड का 'जादुई योग' (Magic Sum) क्या है? ग्रिड बनाए बिना इसकी गणना कैसे की जाती है, दर्शाइए।\n(ख) इस 3×3 जादुई वर्ग के बिल्कुल बीच वाले (केंद्रीय) खाने में सदैव कौन-सी संख्या आनी चाहिए, और क्यों?\n(ग) 3×3 जादुई वर्ग में 1 से 9 तक के अंकों की एक वैध व्यवस्था (Arrangement) बनाकर दिखाइए।",
+      "answer": "(a) Calculation of Magic Sum: The sum of all integers from 1 to 9 is: 1+2+3+4+5+6+7+8+9 = 45. Since a 3×3 grid consists of exactly 3 horizontal rows that share these 9 numbers equally without overlap, the sum of each row (the magic sum) must be the total sum divided by 3. Therefore, Magic Sum = 45 ÷ 3 = 15.\n\n(b) Central Cell Number: The number 5 must always occupy the central cell. This is because the central cell participates in 4 different lines of three numbers (horizontal middle row, vertical middle column, and both diagonals). In the numbers 1 to 9, only the median number 5 can form four distinct pairs that sum to 10 (1+9, 2+8, 3+7, 4+6), ensuring that every line passing through the center totals exactly 15 (5 + 10 = 15).\n\n(c) Valid 3×3 Magic Square Arrangement:\nRow 1: [ 8 ]  [ 1 ]  [ 6 ]\nRow 2: [ 3 ]  [ 5 ]  [ 7 ]\nRow 3: [ 4 ]  [ 9 ]  [ 2 ]\n(Verification: 8+1+6=15; 3+5+7=15; 4+9+2=15; columns and diagonals also sum to 15).",
+      "answerHi": "(क) जादुई योग की गणना: 1 से 9 तक के सभी अंकों का कुल योग = 1+2+3+4+5+6+7+8+9 = 45 होता है। चूँकि एक 3×3 ग्रिड में ठीक 3 क्षैतिज पंक्तियाँ होती हैं जिनमें ये 9 अंक समान रूप से बँटे होते हैं, प्रत्येक पंक्ति का योग (जादुई योग) कुल योग को 3 से भाग देने पर प्राप्त होगा। अतः जादुई योग = 45 ÷ 3 = 15।\n\n(ख) केंद्रीय खाने की संख्या: बिल्कुल बीच वाले (केंद्रीय) खाने में सदैव संख्या 5 आनी चाहिए। इसका कारण यह है कि केंद्रीय खाना तीन-तीन संख्याओं वाली 4 अलग-अलग रेखाओं (मध्य क्षैतिज पंक्ति, मध्य ऊर्ध्वाधर स्तंभ, और दोनों विकर्ण) का हिस्सा होता है। 1 से 9 तक की संख्याओं में केवल मध्य अंक 5 ही ऐसा है जिसके साथ 10 योगफल बनाने वाले चार अलग-अलग जोड़े (1+9, 2+8, 3+7, 4+6) संभव हैं, जिससे केंद्र से गुजरने वाली हर रेखा का योग ठीक 15 (5 + 10 = 15) बनता है।\n\n(ग) 3×3 जादुई वर्ग की वैध व्यवस्था:\nपंक्ति 1: [ 8 ]  [ 1 ]  [ 6 ]\nपंक्ति 2: [ 3 ]  [ 5 ]  [ 7 ]\nपंक्ति 3: [ 4 ]  [ 9 ]  [ 2 ]\n(जाँच: 8+1+6=15; 3+5+7=15; 4+9+2=15; स्तंभों और विकर्णों का योग भी 15 है)।",
+      "keyPoints": [
+        "जादुई योग: 45 ÷ 3 = 15 (Magic sum calculation: 45 ÷ 3 = 15)",
+        "केंद्रीय अंक सदैव 5 होता है (Central cell must always be median number 5)",
+        "4 सममित रेखाओं का केंद्र से गुजरना (Center cell participates in 4 symmetric lines of sum 15)",
+        "वैध ग्रिड: [8,1,6], [3,5,7], [4,9,2] (Valid grid check across all rows, columns, and diagonals)"
+      ]
+    },
+    {
+      "id": "q25",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "A competency-based case study: In an art project, Meena creates growing square tile patterns. Pattern 1 requires 1 grey tile surrounded by 8 white border tiles (total 9 tiles, 3×3). Pattern 2 requires 4 grey tiles (2×2) surrounded by 12 white border tiles (total 16 tiles, 4×4). Pattern 3 requires 9 grey tiles (3×3) surrounded by 16 white border tiles (total 25 tiles, 5×5). \n(a) How many grey tiles and white border tiles are needed for Pattern 5? \n(b) Write the general formula for the number of grey tiles and white border tiles in Pattern 'n'. \n(c) If Meena has 100 tiles in total, which maximum Pattern number can she build completely?",
+      "questionHi": "योग्यता-आधारित केस स्टडी: एक कला परियोजना में, मीना बढ़ते हुए वर्गाकार टाइल पैटर्न बनाती है। पैटर्न 1 में 1 ग्रे टाइल के चारों ओर 8 सफेद बॉर्डर टाइलें हैं (कुल 9 टाइलें, 3×3)। पैटर्न 2 में 4 ग्रे टाइलों (2×2) के चारों ओर 12 सफेद बॉर्डर टाइलें हैं (कुल 16 टाइलें, 4×4)। पैटर्न 3 में 9 ग्रे टाइलों (3×3) के चारों ओर 16 सफेद बॉर्डर टाइलें हैं (कुल 25 टाइलें, 5×5)।\n(क) पैटर्न 5 के लिए कितनी ग्रे टाइलों और कितनी सफेद बॉर्डर टाइलों की आवश्यकता होगी?\n(ख) पैटर्न 'n' में ग्रे टाइलों और सफेद बॉर्डर टाइलों की संख्या के लिए सामान्य सूत्र लिखिए।\n(ग) यदि मीना के पास कुल 100 टाइलें हैं, तो वह अधिकतम किस नंबर का पैटर्न पूरा बना सकती है?",
+      "answer": "(a) Analysis of Pattern 5: \n- Looking at the grey tiles: Pattern 1 = 1² (1); Pattern 2 = 2² (4); Pattern 3 = 3² (9). For Pattern 5, Grey tiles = 5² = 25 grey tiles.\n- Looking at white border tiles: Pattern 1 = 8; Pattern 2 = 12; Pattern 3 = 16 (increasing by 4 each step). For Pattern 4 = 20; for Pattern 5, White border tiles = 24 white tiles.\n- Total tiles for Pattern 5 = (5 + 2)² = 7² = 49 tiles (25 grey + 24 white = 49).\n\n(b) General Formulas for Pattern 'n':\n- Number of Grey Tiles = n² (where n is the pattern number).\n- Number of White Border Tiles = 4n + 4 (or 4(n + 1)).\n- Total Tiles in Grid = (n + 2)².\n\n(c) Maximum Pattern with 100 Tiles:\nTotal tiles required for Pattern n is (n + 2)². We set up the inequality: (n + 2)² ≤ 100. Taking the square root of both sides gives: n + 2 ≤ 10, which means n ≤ 8. Therefore, with 100 tiles, Meena can build up to Pattern 8 completely (which requires exactly (8 + 2)² = 10² = 100 tiles: 64 grey tiles and 36 white border tiles).",
+      "answerHi": "(क) पैटर्न 5 का विश्लेषण:\n- ग्रे टाइलों की संख्या: पैटर्न 1 = 1² (1); पैटर्न 2 = 2² (4); पैटर्न 3 = 3² (9)। अतः पैटर्न 5 के लिए ग्रे टाइलें = 5² = 25 ग्रे टाइलें।\n- सफेद बॉर्डर टाइलों की संख्या: पैटर्न 1 = 8; पैटर्न 2 = 12; पैटर्न 3 = 16 (हर बार 4 की वृद्धि)। पैटर्न 4 = 20; अतः पैटर्न 5 के लिए सफेद टाइलें = 24 सफेद टाइलें।\n- पैटर्न 5 में कुल टाइलें = (5 + 2)² = 7² = 49 टाइलें (25 ग्रे + 24 सफेद = 49)।\n\n(ख) पैटर्न 'n' के लिए सामान्य सूत्र:\n- ग्रे टाइलों की संख्या = n² (जहाँ n पैटर्न संख्या है)।\n- सफेद बॉर्डर टाइलों की संख्या = 4n + 4 (या 4(n + 1))।\n- ग्रिड में कुल टाइलें = (n + 2)²।\n\n(ग) 100 टाइलों के साथ अधिकतम पैटर्न:\nपैटर्न n के लिए आवश्यक कुल टाइलें (n + 2)² हैं। हम समीकरण बनाते हैं: (n + 2)² ≤ 100। दोनों पक्षों का वर्गमूल लेने पर: n + 2 ≤ 10, जिसका अर्थ है n ≤ 8। अतः 100 टाइलों के साथ मीना अधिकतम पैटर्न 8 पूरा बना सकती है (जिसमें ठीक (8 + 2)² = 10² = 100 टाइलें लगेंगी: 64 ग्रे टाइलें और 36 सफेद बॉर्डर टाइलें)।",
+      "keyPoints": [
+        "ग्रे टाइलों का सूत्र: n² (Formula for Grey tiles: n²)",
+        "सफेद बॉर्डर टाइलों का सूत्र: 4n + 4 (Formula for White border tiles: 4n + 4)",
+        "कुल टाइलों का सूत्र: (n + 2)² (Formula for Total tiles: (n + 2)²)",
+        "पैटर्न 5: 25 ग्रे + 24 सफेद = 49 कुल (Pattern 5: 25 grey + 24 white = 49 total)",
+        "100 टाइलों से अधिकतम पैटर्न = 8वाँ पैटर्न (Max pattern with 100 tiles = Pattern 8 since 10² = 100)"
+      ]
+    },
+    {
+      "id": "q26",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Analyse the connection between number patterns and coding/decoding secret messages (cryptography). If a secret code uses the pattern where each letter of the alphabet is shifted forward by 3 positions (A→D, B→E, C→F... Z→C), \n(a) Decode the secret word: 'S D W W H U Q'. \n(b) Encode the word 'M A T H' using the same pattern rule. \n(c) Explain why understanding pattern rules is vital in modern digital security.",
+      "questionHi": "संख्या पैटर्न और गुप्त संदेशों की कोडिंग/डिकोडिंग (क्रिप्टोग्राफी) के बीच संबंध का विश्लेषण कीजिए। यदि एक गुप्त कोड ऐसे पैटर्न का उपयोग करता है जहाँ वर्णमाला के प्रत्येक अक्षर को 3 स्थान आगे बढ़ा दिया जाता है (A→D, B→E, C→F... Z→C),\n(क) गुप्त शब्द 'S D W W H U Q' को डिकोड (अर्थपूर्ण शब्द में परिवर्तित) कीजिए।\n(ख) इसी पैटर्न नियम का उपयोग करते हुए शब्द 'M A T H' को एनकोड (गुप्त कोड में परिवर्तित) कीजिए।\n(ग) स्पष्ट कीजिए कि आधुनिक डिजिटल सुरक्षा में पैटर्न नियमों को समझना क्यों महत्वपूर्ण है।",
+      "answer": "(a) Decoding 'S D W W H U Q': The encoding rule shifts letters forward by +3 positions. To decode (reverse the process), we must shift each letter backward by -3 positions in the alphabet:\n- S - 3 = P; D - 3 = A; W - 3 = T; W - 3 = T; H - 3 = E; U - 3 = R; Q - 3 = N.\nTherefore, the decoded secret word is: PATTERN.\n\n(b) Encoding 'M A T H': To encode, we shift each letter forward by +3 positions:\n- M + 3 = P (13th to 16th letter);\n- A + 3 = D (1st to 4th letter);\n- T + 3 = W (20th to 23rd letter);\n- H + 3 = K (8th to 11th letter).\nTherefore, the encoded secret code for 'MATH' is: P D W K.\n\n(c) Importance in Digital Security: Modern digital security (such as online banking, passwords, and secure messaging) relies entirely on cryptography, which is the science of complex mathematical patterns and algorithms. Encryption algorithms use sophisticated number patterns (like prime number factorization and modular arithmetic) to scramble data so that unauthorized hackers cannot read it. Understanding pattern rules allows cybersecurity scientists to build unbreakable encryption keys and simultaneously detect anomalies or patterns in cyber attacks, safeguarding global digital infrastructure.",
+      "answerHi": "(क) 'S D W W H U Q' को डिकोड करना: एनकोडिंग का नियम अक्षरों को +3 स्थान आगे बढ़ाता है। डिकोड (प्रक्रिया को उलटने) करने के लिए हमें वर्णमाला में प्रत्येक अक्षर को -3 स्थान पीछे ले जाना होगा:\n- S - 3 = P; D - 3 = A; W - 3 = T; W - 3 = T; H - 3 = E; U - 3 = R; Q - 3 = N।\nअतः डिकोड किया गया अर्थपूर्ण शब्द है: PATTERN (पैटर्न)।\n\n(ख) 'M A T H' को एनकोड करना: एनकोड करने के लिए हम प्रत्येक अक्षर को +3 स्थान आगे बढ़ाते हैं:\n- M + 3 = P (13वाँ से 16वाँ अक्षर);\n- A + 3 = D (1ला से 4था अक्षर);\n- T + 3 = W (20वाँ से 23वाँ अक्षर);\n- H + 3 = K (8वाँ से 11वाँ अक्षर)।\nअतः 'MATH' का एनकोड किया गया गुप्त कोड है: P D W K।\n\n(ग) डिजिटल सुरक्षा में महत्व: आधुनिक डिजिटल सुरक्षा (जैसे ऑनलाइन बैंकिंग, पासवर्ड और सुरक्षित संदेश) पूर्णतः क्रिप्टोग्राफी पर निर्भर करती है, जो जटिल गणितीय पैटर्न और एल्गोरिदम का विज्ञान है। एन्क्रिप्शन एल्गोरिदम डेटा को सुरक्षित करने के लिए अभाज्य संख्याओं के गुणनखंड और मॉड्यूलर अंकगणित जैसे उच्चस्तरीय संख्या पैटर्न का उपयोग करते हैं ताकि अनधिकृत हैकर उसे न पढ़ सकें। पैटर्न नियमों की समझ साइबर सुरक्षा विशेषज्ञों को अभेद्य सुरक्षा कवच बनाने और साइबर हमलों के पैटर्न को समय रहते पहचानने में सक्षम बनाती है।",
+      "keyPoints": [
+        "डिकोडिंग नियम: प्रत्येक अक्षर में -3 स्थान पीछे (Decoding rule: shift backwards by -3 positions ➔ PATTERN)",
+        "एनकोडिंग नियम: प्रत्येक अक्षर में +3 स्थान आगे (Encoding rule: shift forward by +3 positions ➔ P D W K)",
+        "क्रिप्टोग्राफी का आधार गणितीय पैटर्न (Cryptography is fundamentally based on mathematical patterns)",
+        "ऑनलाइन बैंकिंग और साइबर सुरक्षा में अनिवार्य (Essential for online banking, encryption, and cybersecurity)"
+      ]
+    },
+    {
+      "id": "q27",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Examine the relationship between triangular numbers and number patterns. \n(a) Write down the first five triangular numbers and their corresponding dot representations. \n(b) Prove that multiplying the nth triangular number by 8 and adding 1 always generates an odd square number. Demonstrate this rule algebraically or numerically for the 3rd and 4th triangular numbers.",
+      "questionHi": "त्रिभुजाकार संख्याओं और संख्या पैटर्न के बीच संबंध का परीक्षण कीजिए।\n(क) प्रथम पाँच त्रिभुजाकार संख्याएँ और उनका बिंदु निरूपण (Dot representation) लिखिए।\n(ख) सिद्ध कीजिए कि nवीं त्रिभुजाकार संख्या को 8 से गुणा करके उसमें 1 जोड़ने पर सदैव एक विषम वर्ग संख्या (Odd Square Number) प्राप्त होती है। इस नियम को 3री और 4थी त्रिभुजाकार संख्या के लिए संख्यात्मक रूप से सिद्ध कीजिए।",
+      "answer": "(a) First Five Triangular Numbers and Dot Representations:\n- 1st Triangular Number = 1 (• : 1 dot)\n- 2nd Triangular Number = 3 (• / • • : 1+2 = 3 dots in triangle)\n- 3rd Triangular Number = 6 (• / • • / • • • : 1+2+3 = 6 dots)\n- 4th Triangular Number = 10 (1+2+3+4 = 10 dots)\n- 5th Triangular Number = 15 (1+2+3+4+5 = 15 dots)\n\n(b) Proof of the Rule: 8 × (Triangular Number) + 1 = Odd Square Number.\nLet's test this mathematical pattern numerically:\n- For the 3rd Triangular Number (which is 6):\n  Applying the rule: (8 × 6) + 1 = 48 + 1 = 49.\n  We know that 49 is equal to 7² (7 × 7 = 49), which is the square of an odd number (7). Hence proved for n = 3.\n\n- For the 4th Triangular Number (which is 10):\n  Applying the rule: (8 × 10) + 1 = 80 + 1 = 81.\n  We know that 81 is equal to 9² (9 × 9 = 81), which is the square of an odd number (9). Hence proved for n = 4.\n\n(Note: Algebraically, the nth triangular number is T(n) = n(n+1)/2. Substituting into the formula gives: 8[n(n+1)/2] + 1 = 4n(n+1) + 1 = 4n² + 4n + 1 = (2n + 1)², which is always the square of an odd integer!).",
+      "answerHi": "(क) प्रथम पाँच त्रिभुजाकार संख्याएँ और बिंदु निरूपण:\n- 1ली त्रिभुजाकार संख्या = 1 (• : 1 बिंदु)\n- 2री त्रिभुजाकार संख्या = 3 (• / • • : 1+2 = 3 बिंदुओं का त्रिभुज)\n- 3री त्रिभुजाकार संख्या = 6 (• / • • / • • • : 1+2+3 = 6 बिंदु)\n- 4थी त्रिभुजाकार संख्या = 10 (1+2+3+4 = 10 बिंदु)\n- 5वीं त्रिभुजाकार संख्या = 15 (1+2+3+4+5 = 15 बिंदु)\n\n(ख) नियम की सिद्धि: 8 × (त्रिभुजाकार संख्या) + 1 = विषम वर्ग संख्या।\nआइए इस गणितीय पैटर्न का संख्यात्मक परीक्षण करें:\n- 3री त्रिभुजाकार संख्या (जो 6 है) के लिए:\n  नियम लगाने पर: (8 × 6) + 1 = 48 + 1 = 49।\n  हम जानते हैं कि 49 = 7² (7 × 7 = 49) है, जो एक विषम संख्या (7) का वर्ग है। अतः n = 3 के लिए सिद्ध हुआ।\n\n- 4थी त्रिभुजाकार संख्या (जो 10 है) के लिए:\n  नियम लगाने पर: (8 × 10) + 1 = 80 + 1 = 81।\n  हम जानते हैं कि 81 = 9² (9 × 9 = 81) है, जो एक विषम संख्या (9) का वर्ग है। अतः n = 4 के लिए सिद्ध हुआ।\n\n(बीजीय प्रमाण: nवीं त्रिभुजाकार संख्या T(n) = n(n+1)/2 होती है। सूत्र में रखने पर: 8[n(n+1)/2] + 1 = 4n² + 4n + 1 = (2n + 1)², जो सदैव एक विषम संख्या का पूर्ण वर्ग होता है!)।",
+      "keyPoints": [
+        "प्रथम पाँच त्रिभुजाकार संख्याएँ: 1, 3, 6, 10, 15 (First 5 triangular numbers: 1, 3, 6, 10, 15)",
+        "नियम का सूत्र: 8 × T(n) + 1 = (2n + 1)² (Formula verification: 8 × T(n) + 1 = odd square)",
+        "3री संख्या के लिए: 8(6) + 1 = 49 = 7² (Verification for 3rd term: 49 = 7²)",
+        "4थी संख्या के लिए: 8(10) + 1 = 81 = 9² (Verification for 4th term: 81 = 9²)"
+      ]
+    },
+    {
+      "id": "q28",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "A mathematical investigation involves growing patterns using equilateral triangles. In Step 1, a large triangle is made of 1 small equilateral triangle. In Step 2, a larger triangle is made of 4 small equilateral triangles (arranged in 2 rows). In Step 3, a triangle is made of 9 small equilateral triangles (arranged in 3 rows). \n(a) Draw a table showing the Step Number, Number of Rows, and Total Small Triangles for Steps 1 to 5. \n(b) What pattern do you observe in the number of small triangles added at the bottom row of each new step? \n(c) How many small equilateral triangles will be needed to construct Step 15?",
+      "questionHi": "एक गणितीय अन्वेषण में समबाहु त्रिभुजों (Equilateral Triangles) का उपयोग करके बढ़ते हुए पैटर्न बनाए जाते हैं। चरण 1 में, 1 छोटे समबाहु त्रिभुज से एक त्रिभुज बनता है। चरण 2 में, 4 छोटे समबाहु त्रिभुजों (2 पंक्तियों में व्यवस्थित) से बड़ा त्रिभुज बनता है। चरण 3 में, 9 छोटे समबाहु त्रिभुजों (3 पंक्तियों में व्यवस्थित) से त्रिभुज बनता है।\n(क) चरण 1 से 5 तक के लिए चरण संख्या, पंक्तियों की संख्या और कुल छोटे त्रिभुजों की संख्या दर्शाने वाली एक सारणी (Table) बनाइए।\n(ख) प्रत्येक नए चरण की सबसे निचली पंक्ति में जोड़े जाने वाले छोटे त्रिभुजों की संख्या में आप क्या पैटर्न देखते हैं?\n(ग) चरण 15 का निर्माण करने के लिए कुल कितने छोटे समबाहु त्रिभुजों की आवश्यकता होगी?",
+      "answer": "(a) Table of Triangular Growth Pattern:\n| Step Number (n) | Number of Rows | Small Triangles Added in Bottom Row | Total Small Triangles in Figure |\n| :---: | :---: | :---: | :---: |\n| Step 1 | 1 row | 1 triangle | 1² = 1 |\n| Step 2 | 2 rows | 3 triangles | 2² = 4 |\n| Step 3 | 3 rows | 5 triangles | 3² = 9 |\n| Step 4 | 4 rows | 7 triangles | 4² = 16 |\n| Step 5 | 5 rows | 9 triangles | 5² = 25 |\n\n(b) Observation in Bottom Row Addition:\nLooking at the third column (1, 3, 5, 7, 9...), we observe that the number of small triangles added at the bottom row of each consecutive step follows the sequence of consecutive odd natural numbers. For any Step n, exactly (2n - 1) small triangles are added in the bottom row.\n\n(c) Calculation for Step 15:\nFrom the table, we observe the core mathematical rule: Total Small Triangles = (Step Number)². Therefore, to construct Step 15 (n = 15), the total number of small equilateral triangles required will be: 15² = 15 × 15 = 225 small triangles.",
+      "answerHi": "(क) त्रिभुजाकार वृद्धि पैटर्न की सारणी:\n| चरण संख्या (n) | पंक्तियों की संख्या | सबसे निचली पंक्ति में जुड़े छोटे त्रिभुज | आकृति में कुल छोटे त्रिभुज |\n| :---: | :---: | :---: | :---: |\n| चरण 1 | 1 पंक्ति | 1 त्रिभुज | 1² = 1 |\n| चरण 2 | 2 पंक्तियाँ | 3 त्रिभुज | 2² = 4 |\n| चरण 3 | 3 पंक्तियाँ | 5 त्रिभुज | 3² = 9 |\n| चरण 4 | 4 पंक्तियाँ | 7 त्रिभुज | 4² = 16 |\n| चरण 5 | 5 पंक्तियाँ | 9 त्रिभुज | 5² = 25 |\n\n(ख) सबसे निचली पंक्ति में वृद्धि का पैटर्न:\nतीसरे स्तंभ (1, 3, 5, 7, 9...) को देखने पर स्पष्ट है कि प्रत्येक नए चरण की सबसे निचली पंक्ति में जोड़े जाने वाले छोटे त्रिभुजों की संख्या क्रमागत विषम प्राकृत संख्याओं का अनुक्रम बनाती है। किसी भी चरण n के लिए सबसे निचली पंक्ति में ठीक (2n - 1) त्रिभुज जुड़ते हैं।\n\n(ग) चरण 15 के लिए गणना:\nसारणी से हम मुख्य गणितीय नियम देखते हैं: कुल छोटे त्रिभुज = (चरण संख्या)²। अतः चरण 15 (n = 15) का निर्माण करने के लिए आवश्यक कुल छोटे समबाहु त्रिभुजों की संख्या होगी: 15² = 15 × 15 = 225 छोटे त्रिभुज।",
+      "keyPoints": [
+        "सारणी द्वारा प्रदर्शन: चरण 1 से 5 तक वर्ग संख्याएँ (Table showing square numbers: 1, 4, 9, 16, 25)",
+        "निचली पंक्ति में वृद्धि: क्रमागत विषम संख्याएँ 1, 3, 5, 7... (Bottom row addition follows odd numbers: 1, 3, 5, 7...)",
+        "कुल त्रिभुजों का सामान्य सूत्र: n² (General formula for total triangles: n²)",
+        "चरण 15 के लिए सटीक उत्तर: 15² = 225 छोटे त्रिभुज (Exact calculation for Step 15: 15² = 225 small triangles)"
+      ]
+    },
+    {
+      "id": "q29",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "A competency-based source analysis on visual patterns: In architecture, 'frieze patterns' are repeating decorative designs running horizontally along walls, borders of sarees, or building cornices. There are two primary mathematical transformations used to build frieze patterns: \n1) Translation (shifting a shape repeatedly along a straight line without turning or flipping). \n2) Reflection (flipping a shape over a vertical or horizontal mirror line). \n\n(a) Give one daily-life example where a translation pattern is used and one where a reflection pattern is used. \n(b) Why is combining translation and reflection essential for visual appeal in textile designing? \n(c) If a saree border repeats a design unit every 15 cm along a 6-meter long saree, how many complete design repetitions will fit on the border?",
+      "questionHi": "दृश्य पैटर्न पर योग्यता-आधारित स्रोत विश्लेषण: वास्तुकला में, 'फ्रीज पैटर्न' (Frieze Patterns) ऐसे सजावटी डिजाइन होते हैं जो दीवारों, साड़ियों के बॉर्डर या भवनों की छज्जों पर क्षैतिज रूप से बार-बार दोहराए जाते हैं। फ्रीज पैटर्न बनाने के लिए दो मुख्य गणितीय रूपांतरणों (Transformations) का उपयोग किया जाता है:\n1) स्थानांतरण / ट्रांसलेशन (किसी आकृति को बिना मोड़े या पलटे एक सीधी रेखा में बार-बार खिसकाना)।\n2) परावर्तन / रिफ्लेक्शन (किसी आकृति को ऊर्ध्वाधर या क्षैतिज दर्पण रेखा के चारों ओर पलटना)।\n\n(क) दैनिक जीवन से एक उदाहरण दीजिए जहाँ स्थानांतरण पैटर्न का उपयोग होता है और एक उदाहरण जहाँ परावर्तन पैटर्न का उपयोग होता है।\n(ख) वस्त्र डिजाइनिंग (Textile Designing) में दृश्य आकर्षण के लिए स्थानांतरण और परावर्तन का संयोजन क्यों आवश्यक है?\n(ग) यदि किसी साड़ी के बॉर्डर पर प्रत्येक 15 सेमी पर एक डिजाइन इकाई दोहराई जाती है, तो 6 मीटर लंबी साड़ी के बॉर्डर पर ऐसी कितनी पूर्ण डिजाइन इकाइयाँ (Repetitions) आएँगी?",
+      "answer": "(a) Daily-Life Examples:\n- Translation Pattern: The repeating rectangular blocks painted along a highway pavement kerb or railway track sleepers, where the exact same shape is shifted forward by a uniform distance.\n- Reflection Pattern: The left and right sleeves of a jacket or opposite borders of a traditional shawl, which are exact mirror images of each other across the central axis of the body.\n\n(b) Importance in Textile Designing:\nCombining translation and reflection prevents visual monotony and creates dynamic rhythm. While simple translation provides neat linear order and continuity, adding reflection (mirror symmetry) introduces geometric balance and intricate complexity. In sarees, carpets, and block-printed fabrics, this dual transformation engages the human eye by harmonizing repetitive order with bilateral beauty.\n\n(c) Mathematical Calculation for Saree Border:\n- Total length of the saree border = 6 meters.\n- Converting meters into centimeters: 1 meter = 100 cm, so 6 meters = 6 × 100 = 600 cm.\n- Length of one design unit repetition = 15 cm.\n- Total number of complete design repetitions = Total length ÷ Unit length = 600 cm ÷ 15 cm = 40 complete repetitions.\nTherefore, exactly 40 design units will fit along the 6-meter border.",
+      "answerHi": "(क) दैनिक जीवन के उदाहरण:\n- स्थानांतरण (Translation) पैटर्न: राजमार्ग के किनारे बने फुटपाथ के पत्थरों (Kerbs) या रेलवे ट्रैक के स्लीपरों की व्यवस्था, जहाँ एक ही आकार को बिना बदले एक समान दूरी पर आगे खिसकाया जाता है।\n- परावर्तन (Reflection) पैटर्न: किसी जैकेट की बाईं और दाईं आस्तीन या पारंपरिक शॉल के दोनों विपरीत किनारे, जो शरीर के मध्य अक्ष के दोनों ओर एक-दूसरे के सटीक दर्पण प्रतिबिंब होते हैं।\n\n(ख) वस्त्र डिजाइनिंग में महत्व:\nस्थानांतरण और परावर्तन को मिलाने से दृश्य नीरसता समाप्त होती है और एक जीवंत लय उत्पन्न होती है। जहाँ केवल स्थानांतरण एक व्यवस्थित रेखीय निरंतरता देता है, वहीं परावर्तन (दर्पण सममिति) जोड़ने से ज्यामितीय संतुलन और बारीक जटिलता आती है। साड़ियों, कालीनों और ब्लॉक-प्रिंटेड वस्त्रों में यह दोहरा रूपांतरण दोहराव की व्यवस्था को द्विपार्श्व सौंदर्य के साथ जोड़कर मानव नेत्र को आकर्षित करता है।\n\n(ग) साड़ी बॉर्डर के लिए गणितीय गणना:\n- साड़ी के बॉर्डर की कुल लंबाई = 6 मीटर।\n- मीटर को सेंटीमीटर में बदलने पर: 1 मीटर = 100 सेमी, अतः 6 मीटर = 6 × 100 = 600 सेमी।\n- एक डिजाइन इकाई की लंबाई = 15 सेमी।\n- पूर्ण डिजाइन इकाइयों की कुल संख्या = कुल लंबाई ÷ इकाई की लंबाई = 600 सेमी ÷ 15 सेमी = 40 पूर्ण इकाइयाँ।\nअतः 6 मीटर लंबे बॉर्डर पर ठीक 40 डिजाइन इकाइयाँ आएँगी।",
+      "keyPoints": [
+        "स्थानांतरण का उदाहरण: रेलवे स्लीपर या फुटपाथ के पत्थर (Translation example: railway sleepers or pavement blocks)",
+        "परावर्तन का उदाहरण: वस्त्रों की बाईं और दाईं सममिति (Reflection example: left and right symmetry in garments)",
+        "वस्त्रों में नीरसता समाप्त कर ज्यामितीय संतुलन बनाना (Combines continuity with mirror balance to prevent monotony in textiles)",
+        "इकाइयों की गणना: 600 सेमी ÷ 15 सेमी = 40 पूर्ण डिजाइन इकाइयाँ (Calculation: 600 cm ÷ 15 cm = exactly 40 repetitions)"
+      ]
+    },
+    {
+      "id": "q30",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "A comprehensive analytical question on number sequences: Consider the following sequence of numbers: 2, 6, 12, 20, 30, 42... \n(a) Find the difference between consecutive terms. What pattern do these differences follow? \n(b) Notice that each term can be expressed as the product of two consecutive natural numbers (e.g., 2 = 1×2; 6 = 2×3; 12 = 3×4). Write the general algebraic expression for the nth term of this sequence. \n(c) Using your general expression, calculate the 10th term and the 25th term of this sequence. \n(d) Prove that every term in this sequence is an even number.",
+      "questionHi": "संख्या अनुक्रमों पर एक व्यापक विश्लेषणात्मक प्रश्न: निम्नलिखित संख्या अनुक्रम पर विचार कीजिए: 2, 6, 12, 20, 30, 42...\n(क) क्रमागत पदों के बीच का अंतर ज्ञात कीजिए। ये अंतर कौन-सा पैटर्न बनाते हैं?\n(ख) ध्यान दीजिए कि प्रत्येक पद को दो क्रमागत प्राकृत संख्याओं के गुणनफल के रूप में व्यक्त किया जा सकता है (जैसे: 2 = 1×2; 6 = 2×3; 12 = 3×4)। इस अनुक्रम के nवें पद के लिए सामान्य बीजीय व्यंजक लिखिए।\n(ग) अपने सामान्य व्यंजक का उपयोग करते हुए, इस अनुक्रम का 10वाँ पद और 25वाँ पद ज्ञात कीजिए।\n(घ) सिद्ध कीजिए कि इस अनुक्रम का प्रत्येक पद एक सम संख्या (Even Number) है।",
+      "answer": "(a) Analysis of Differences Between Terms:\n- Difference 1: 6 - 2 = 4\n- Difference 2: 12 - 6 = 6\n- Difference 3: 20 - 12 = 8\n- Difference 4: 30 - 20 = 10\n- Difference 5: 42 - 30 = 12\nThe differences between consecutive terms follow an increasing arithmetic pattern of consecutive even numbers starting from 4 (4, 6, 8, 10, 12...).\n\n(b) General Algebraic Expression:\nObserving the product pattern:\n- 1st term (n = 1) ➔ 1 × 2 = 2\n- 2nd term (n = 2) ➔ 2 × 3 = 6\n- 3rd term (n = 3) ➔ 3 × 4 = 12\n- 4th term (n = 4) ➔ 4 × 5 = 20\nFor any nth term, the number is obtained by multiplying n by the next consecutive natural number (n + 1). Therefore, the general algebraic expression is: n × (n + 1) or n² + n.\n\n(c) Calculation of Specific Terms:\n- For the 10th term (n = 10): 10 × (10 + 1) = 10 × 11 = 110.\n- For the 25th term (n = 25): 25 × (25 + 1) = 25 × 26 = 650.\n\n(d) Proof of Even Nature:\nEvery term in this sequence is generated by multiplying two consecutive integers: n and (n + 1). In the number system, between any two consecutive natural numbers, exactly one number is always even and the other is odd. Since the product of an even number and an odd number is always an even number (Even × Odd = Even), every term in this sequence is guaranteed to be an even number.",
+      "answerHi": "(क) पदों के बीच के अंतर का विश्लेषण:\n- अंतर 1: 6 - 2 = 4\n- अंतर 2: 12 - 6 = 6\n- अंतर 3: 20 - 12 = 8\n- अंतर 4: 30 - 20 = 10\n- अंतर 5: 42 - 30 = 12\nक्रमागत पदों के बीच का अंतर 4 से शुरू होने वाली क्रमागत सम संख्याओं (4, 6, 8, 10, 12...) का एक बढ़ता हुआ पैटर्न बनाता है।\n\n(ख) सामान्य बीजीय व्यंजक:\nगुणनफल के पैटर्न को देखने पर:\n- 1ला पद (n = 1) ➔ 1 × 2 = 2\n- 2रा पद (n = 2) ➔ 2 × 3 = 6\n- 3रा पद (n = 3) ➔ 3 × 4 = 12\n- 4था पद (n = 4) ➔ 4 × 5 = 20\nकिसी भी nवें पद के लिए, संख्या n को उससे अगली प्राकृत संख्या (n + 1) से गुणा करने पर प्राप्त होती है। अतः सामान्य बीजीय व्यंजक है: n × (n + 1) या n² + n।\n\n(ग) विशिष्ट पदों की गणना:\n- 10वें पद के लिए (n = 10): 10 × (10 + 1) = 10 × 11 = 110।\n- 25वें पद के लिए (n = 25): 25 × (25 + 1) = 25 × 26 = 650।\n\n(घ) सम संख्या होने का प्रमाण:\nइस अनुक्रम का प्रत्येक पद दो क्रमागत पूर्णांकों n और (n + 1) के गुणनफल से बनता है। संख्या पद्धति में, किन्हीं भी दो लगातार प्राकृत संख्याओं में से सदैव एक संख्या सम (Even) और दूसरी विषम (Odd) होती है। चूँकि एक सम और एक विषम संख्या का गुणनफल सदैव एक सम संख्या होता है (सम × विषम = सम), अतः इस अनुक्रम का प्रत्येक पद निश्चित रूप से एक सम संख्या है।",
+      "keyPoints": [
+        "अंतरों का पैटर्न: क्रमागत सम संख्याएँ 4, 6, 8, 10, 12... (Differences follow consecutive even numbers: 4, 6, 8, 10...)",
+        "सामान्य बीजीय व्यंजक: n(n + 1) या n² + n (General expression: n(n + 1) or n² + n)",
+        "10वाँ पद = 10 × 11 = 110; 25वाँ पद = 25 × 26 = 650 (10th term = 110; 25th term = 650)",
+        "प्रमाण: दो क्रमागत संख्याओं में एक सदैव सम होती है, अतः गुणनफल सम होगा (Proof: Product of consecutive integers is always even)"
+      ]
+    }
+  ]
+}
