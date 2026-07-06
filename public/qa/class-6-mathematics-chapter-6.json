@@ -1,0 +1,468 @@
+{
+  "chapterTitle": "Perimeter and Area",
+  "chapterTitleHi": "परिमाप और क्षेत्रफल",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What do you understand by the term 'Perimeter' of a closed figure? Explain with a simple example.",
+      "questionHi": "किसी बंद आकृति के 'परिमाप' (Perimeter) से आप क्या समझते हैं? एक सरल उदाहरण के साथ समझाइए।",
+      "answer": "Perimeter is the total distance or length around the boundary of a closed geometric figure. It is obtained by adding the lengths of all the sides of the figure.\nExample: Consider a triangle with side lengths 3 cm, 4 cm, and 5 cm.\nThe perimeter of this triangle = Sum of all three sides = 3 cm + 4 cm + 5 cm = 12 cm.",
+      "answerHi": "किसी बंद ज्यामितीय आकृति की सीमा (बाउंड्री) के चारों ओर की कुल दूरी या लंबाई को उसका परिमाप कहते हैं। यह आकृति की सभी भुजाओं की लंबाइयों को जोड़ने पर प्राप्त होता है।\nउदाहरण: मान लीजिए एक त्रिभुज की भुजाएँ 3 सेमी, 4 सेमी और 5 सेमी हैं।\nइस त्रिभुज का परिमाप = तीनों भुजाओं का योग = 3 सेमी + 4 सेमी + 5 सेमी = 12 सेमी।",
+      "keyPoints": [
+        "Perimeter = Total length of the boundary of a closed figure. / परिमाप = बंद आकृति की सीमा की कुल लंबाई।",
+        "It is calculated by adding the lengths of all sides. / यह सभी भुजाओं की लंबाइयों को जोड़कर निकाला जाता है।",
+        "Unit of perimeter is same as unit of length (cm, m, km). / परिमाप की इकाई लंबाई की इकाई (सेमी, मीटर, किमी) के समान होती है।"
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Find the perimeter of a rectangle whose length is 15 cm and breadth is 8 cm.",
+      "questionHi": "उस आयत (Rectangle) का परिमाप ज्ञात कीजिए जिसकी लंबाई 15 सेमी और चौड़ाई 8 सेमी है।",
+      "answer": "Given:\nLength of rectangle (l) = 15 cm\nBreadth of rectangle (b) = 8 cm\n\nFormula:\nPerimeter of a rectangle = 2 × (Length + Breadth)\nPerimeter = 2 × (15 + 8)\nPerimeter = 2 × 23 = 46 cm.\n\nTherefore, the perimeter of the rectangle is 46 cm.",
+      "answerHi": "दिया गया है:\nआयत की लंबाई (l) = 15 सेमी\nआयत की चौड़ाई (b) = 8 सेमी\n\nसूत्र:\nआयत का परिमाप = 2 × (लंबाई + चौड़ाई)\nपरिमाप = 2 × (15 + 8)\nपरिमाप = 2 × 23 = 46 सेमी।\n\nअतः आयत का परिमाप 46 सेमी है।",
+      "keyPoints": [
+        "Formula: Perimeter of Rectangle = 2 × (Length + Breadth) / सूत्र: आयत का परिमाप = 2 × (लंबाई + चौड़ाई)",
+        "Length = 15 cm, Breadth = 8 cm. / लंबाई = 15 सेमी, चौड़ाई = 8 सेमी।",
+        "Perimeter = 2 × (15 + 8) = 2 × 23 = 46 cm. / परिमाप = 2 × 23 = 46 सेमी।"
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What is a regular polygon? Write the formula to find the perimeter of a regular hexagon.",
+      "questionHi": "सम बहुभुज (Regular Polygon) क्या होता है? एक सम षड्भुज (Regular Hexagon) का परिमाप ज्ञात करने का सूत्र लिखिए।",
+      "answer": "Regular Polygon: A polygon in which all sides are of equal length and all interior angles are of equal measure is called a regular polygon.\n\nA regular hexagon is a 6-sided polygon with all 6 sides equal.\nFormula:\nPerimeter of a regular hexagon = 6 × (Length of one side) = 6a (where 'a' is the side length).",
+      "answerHi": "सम बहुभुज (Regular Polygon): ऐसा बहुभुज जिसकी सभी भुजाएँ समान लंबाई की हों और सभी अंतःकोण समान माप के हों, सम बहुभुज कहलाता है।\n\nसम षड्भुज 6 समान भुजाओं वाला बहुभुज होता है।\nसूत्र:\nसम षड्भुज का परिमाप = 6 × (एक भुजा की लंबाई) = 6a (जहाँ 'a' भुजा की लंबाई है)।",
+      "keyPoints": [
+        "Regular Polygon = All sides equal and all angles equal. / सम बहुभुज = सभी भुजाएँ समान और सभी कोण समान।",
+        "Regular Hexagon has 6 equal sides. / सम षड्भुज में 6 समान भुजाएँ होती हैं।",
+        "Formula: Perimeter of Regular Hexagon = 6 × side. / सूत्र: सम षड्भुज का परिमाप = 6 × भुजा।"
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Find the perimeter of a regular pentagon of side length 7.5 cm.",
+      "questionHi": "7.5 सेमी भुजा वाले एक सम पंचभुज (Regular Pentagon) का परिमाप ज्ञात कीजिए।",
+      "answer": "Given:\nLength of one side of regular pentagon (s) = 7.5 cm\nNumber of sides in a pentagon = 5\n\nFormula:\nPerimeter of regular pentagon = 5 × (Length of side)\nPerimeter = 5 × 7.5 cm = 37.5 cm.\n\nTherefore, the perimeter of the regular pentagon is 37.5 cm.",
+      "answerHi": "दिया गया है:\nसम पंचभुज की एक भुजा की लंबाई (s) = 7.5 सेमी\nपंचभुज में भुजाओं की संख्या = 5\n\nसूत्र:\nसम पंचभुज का परिमाप = 5 × (भुजा की लंबाई)\nपरिमाप = 5 × 7.5 सेमी = 37.5 सेमी।\n\nअतः सम पंचभुज का परिमाप 37.5 सेमी है।",
+      "keyPoints": [
+        "A regular pentagon has 5 equal sides. / सम पंचभुज में 5 समान भुजाएँ होती हैं।",
+        "Formula: Perimeter = 5 × side length. / सूत्र: परिमाप = 5 × भुजा की लंबाई।",
+        "Calculation: 5 × 7.5 = 37.5 cm. / गणना: 5 × 7.5 = 37.5 सेमी।"
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "The perimeter of an equilateral triangle is 45 cm. Find the length of each side of the triangle.",
+      "questionHi": "एक समबाहु त्रिभुज (Equilateral Triangle) का परिमाप 45 सेमी है। त्रिभुज की प्रत्येक भुजा की लंबाई ज्ञात कीजिए।",
+      "answer": "Given:\nPerimeter of equilateral triangle = 45 cm\nWe know that an equilateral triangle has 3 equal sides.\n\nFormula:\nPerimeter of equilateral triangle = 3 × (Side length)\n45 = 3 × Side\nSide = 45 ÷ 3\nSide = 15 cm.\n\nTherefore, the length of each side of the equilateral triangle is 15 cm.",
+      "answerHi": "दिया गया है:\nसमबाहु त्रिभुज का परिमाप = 45 सेमी\nहम जानते हैं कि समबाहु त्रिभुज की 3 भुजाएँ बराबर होती हैं।\n\nसूत्र:\nसमबाहु त्रिभुज का परिमाप = 3 × (भुजा की लंबाई)\n45 = 3 × भुजा\nभुजा = 45 ÷ 3\nभुजा = 15 सेमी।\n\nअतः समबाहु त्रिभुज की प्रत्येक भुजा की लंबाई 15 सेमी है।",
+      "keyPoints": [
+        "Equilateral triangle has 3 equal sides. / समबाहु त्रिभुज की 3 बराबर भुजाएँ होती हैं।",
+        "Formula: Side = Perimeter ÷ 3 / सूत्र: भुजा = परिमाप ÷ 3",
+        "Side = 45 ÷ 3 = 15 cm. / भुजा = 45 ÷ 3 = 15 सेमी।"
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What do you understand by the term 'Area'? What is the standard unit of measuring area?",
+      "questionHi": "'क्षेत्रफल' (Area) से आप क्या समझते हैं? क्षेत्रफल मापने की मानक इकाई क्या है?",
+      "answer": "Area is the amount of surface or region enclosed within the boundary of a closed two-dimensional figure. It measures how much flat space a figure covers.\n\nStandard Unit of Area:\nArea is measured in square units, such as square centimeters (sq cm or cm²), square meters (sq m or m²), or square kilometers (sq km or km²).",
+      "answerHi": "किसी बंद द्वि-आयामी (2D) आकृति की सीमा के भीतर घिरे हुए तल या क्षेत्र की माप को उसका क्षेत्रफल कहते हैं। यह बताता है कि कोई आकृति समतल पर कितनी जगह घेरती है।\n\nक्षेत्रफल की मानक इकाई:\nक्षेत्रफल को वर्ग इकाइयों (Square Units) में मापा जाता है, जैसे वर्ग सेंटीमीटर (सेमी²), वर्ग मीटर (मी²) या वर्ग किलोमीटर (किमी²)।",
+      "keyPoints": [
+        "Area = Amount of surface enclosed inside a boundary. / क्षेत्रफल = सीमा के भीतर घिरे हुए तल की माप।",
+        "Measured in square units (cm², m², km²). / इसे वर्ग इकाइयों (सेमी², मी², किमी²) में मापा जाता है।",
+        "Perimeter measures boundary length; Area measures inside space. / परिमाप सीमा की लंबाई मापता है; क्षेत्रफल अंदर की जगह मापता है।"
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "Find the area of a rectangle whose length and breadth are 12 cm and 9 cm respectively.",
+      "questionHi": "उस आयत का क्षेत्रफल ज्ञात कीजिए जिसकी लंबाई और चौड़ाई क्रमशः 12 सेमी और 9 सेमी है।",
+      "answer": "Given:\nLength of rectangle (l) = 12 cm\nBreadth of rectangle (b) = 9 cm\n\nFormula:\nArea of a rectangle = Length × Breadth\nArea = 12 × 9\nArea = 108 sq cm (or 108 cm²).\n\nTherefore, the area of the rectangle is 108 sq cm.",
+      "answerHi": "दिया गया है:\nआयत की लंबाई (l) = 12 सेमी\nआयत की चौड़ाई (b) = 9 सेमी\n\nसूत्र:\nआयत का क्षेत्रफल = लंबाई × चौड़ाई\nक्षेत्रफल = 12 × 9\nक्षेत्रफल = 108 वर्ग सेमी (या 108 सेमी²)।\n\nअतः आयत का क्षेत्रफल 108 वर्ग सेमी है।",
+      "keyPoints": [
+        "Formula: Area of Rectangle = Length × Breadth / सूत्र: आयत का क्षेत्रफल = लंबाई × चौड़ाई",
+        "Length = 12 cm, Breadth = 9 cm. / लंबाई = 12 सेमी, चौड़ाई = 9 सेमी।",
+        "Area = 12 × 9 = 108 sq cm. / क्षेत्रफल = 12 × 9 = 108 वर्ग सेमी।"
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "Find the area of a square park whose perimeter is 80 meters.",
+      "questionHi": "एक वर्गाकार पार्क का क्षेत्रफल ज्ञात कीजिए जिसका परिमाप 80 मीटर है।",
+      "answer": "Step 1: Find the side length of the square park.\nWe know, Perimeter of a square = 4 × Side\n80 = 4 × Side\nSide = 80 ÷ 4 = 20 meters.\n\nStep 2: Find the area of the square park.\nFormula: Area of a square = Side × Side\nArea = 20 × 20 = 400 sq meters (or 400 m²).\n\nTherefore, the area of the square park is 400 sq m.",
+      "answerHi": "चरण 1: वर्गाकार पार्क की भुजा की लंबाई ज्ञात कीजिए।\nहम जानते हैं, वर्ग का परिमाप = 4 × भुजा\n80 = 4 × भुजा\nभुजा = 80 ÷ 4 = 20 मीटर।\n\nचरण 2: वर्गाकार पार्क का क्षेत्रफल ज्ञात कीजिए।\nसूत्र: वर्ग का क्षेत्रफल = भुजा × भुजा\nक्षेत्रफल = 20 × 20 = 400 वर्ग मीटर (या 400 मी²)।\n\nअतः वर्गाकार पार्क का क्षेत्रफल 400 वर्ग मीटर है।",
+      "keyPoints": [
+        "Side of Square = Perimeter ÷ 4 = 80 ÷ 4 = 20 m. / वर्ग की भुजा = परिमाप ÷ 4 = 20 मीटर।",
+        "Formula: Area of Square = Side × Side / सूत्र: वर्ग का क्षेत्रफल = भुजा × भुजा",
+        "Area = 20 × 20 = 400 sq meters. / क्षेत्रफल = 20 × 20 = 400 वर्ग मीटर।"
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "A piece of wire is 36 cm long. What will be the length of each side if the wire is used to form a regular hexagon?",
+      "questionHi": "तार का एक टुकड़ा 36 सेमी लंबा है। यदि इस तार को मोड़कर एक सम षड्भुज (Regular Hexagon) बनाया जाए, तो उसकी प्रत्येक भुजा की लंबाई क्या होगी?",
+      "answer": "Given:\nTotal length of wire = Perimeter of regular hexagon = 36 cm\nNumber of sides in a regular hexagon = 6\n\nFormula:\nLength of each side = Total Perimeter ÷ Number of sides\nSide = 36 ÷ 6 = 6 cm.\n\nTherefore, the length of each side of the regular hexagon will be 6 cm.",
+      "answerHi": "दिया गया है:\nतार की कुल लंबाई = सम षड्भुज का परिमाप = 36 सेमी\nसम षड्भुज में भुजाओं की संख्या = 6\n\nसूत्र:\nप्रत्येक भुजा की लंबाई = कुल परिमाप ÷ भुजाओं की संख्या\nभुजा = 36 ÷ 6 = 6 सेमी।\n\nअतः सम षड्भुज की प्रत्येक भुजा की लंबाई 6 सेमी होगी।",
+      "keyPoints": [
+        "Total length of wire = Perimeter = 36 cm. / तार की कुल लंबाई = परिमाप = 36 सेमी।",
+        "Regular hexagon has 6 equal sides. / सम षड्भुज में 6 समान भुजाएँ होती हैं।",
+        "Side length = 36 ÷ 6 = 6 cm. / भुजा की लंबाई = 36 ÷ 6 = 6 सेमी।"
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "How many square tiles of side 10 cm will be required to cover a rectangular floor of dimensions 200 cm by 100 cm?",
+      "questionHi": "200 सेमी × 100 सेमी आयामों वाले एक आयताकार फर्श को ढकने के लिए 10 सेमी भुजा वाली कितनी वर्गाकार टाइलों (Tiles) की आवश्यकता होगी?",
+      "answer": "Step 1: Find the area of the rectangular floor.\nArea of floor = Length × Breadth\nArea of floor = 200 cm × 100 cm = 20,000 sq cm.\n\nStep 2: Find the area of one square tile.\nArea of one tile = Side × Side\nArea of one tile = 10 cm × 10 cm = 100 sq cm.\n\nStep 3: Calculate number of tiles required.\nNumber of tiles = Area of floor ÷ Area of one tile\nNumber of tiles = 20,000 ÷ 100 = 200 tiles.\n\nTherefore, 200 square tiles will be required.",
+      "answerHi": "चरण 1: आयताकार फर्श का क्षेत्रफल ज्ञात कीजिए।\nफर्श का क्षेत्रफल = लंबाई × चौड़ाई\nफर्श का क्षेत्रफल = 200 सेमी × 100 सेमी = 20,000 वर्ग सेमी।\n\nचरण 2: एक वर्गाकार टाइल का क्षेत्रफल ज्ञात कीजिए।\nएक टाइल का क्षेत्रफल = भुजा × भुजा\nएक टाइल का क्षेत्रफल = 10 सेमी × 10 सेमी = 100 वर्ग सेमी।\n\nचरण 3: आवश्यक टाइलों की संख्या ज्ञात कीजिए।\nटाइलों की संख्या = फर्श का क्षेत्रफल ÷ एक टाइल का क्षेत्रफल\nटाइलों की संख्या = 20,000 ÷ 100 = 200 टाइलें।\n\nअतः कुल 200 वर्गाकार टाइलों की आवश्यकता होगी।",
+      "keyPoints": [
+        "Area of floor = 200 × 100 = 20,000 cm². / फर्श का क्षेत्रफल = 20,000 सेमी²।",
+        "Area of 1 tile = 10 × 10 = 100 cm². / 1 टाइल का क्षेत्रफल = 100 सेमी²।",
+        "Number of tiles = Total Area ÷ Area of 1 tile = 200 tiles. / टाइलों की संख्या = 200 टाइलें।"
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "The length and breadth of a rectangular field are in the ratio 5:3. If its perimeter is 128 meters, find the length and breadth of the field.",
+      "questionHi": "एक आयताकार मैदान की लंबाई और चौड़ाई का अनुपात 5:3 है। यदि इसका परिमाप 128 मीटर है, तो मैदान की लंबाई और चौड़ाई ज्ञात कीजिए।",
+      "answer": "Let the common ratio be x.\nThen, Length (l) = 5x meters and Breadth (b) = 3x meters.\n\nGiven: Perimeter = 128 meters.\nFormula: Perimeter = 2 × (Length + Breadth)\n128 = 2 × (5x + 3x)\n128 = 2 × 8x\n128 = 16x\nx = 128 ÷ 16 = 8.\n\nNow, calculate length and breadth:\nLength = 5x = 5 × 8 = 40 meters.\nBreadth = 3x = 3 × 8 = 24 meters.\n\nTherefore, the length of the field is 40 m and breadth is 24 m.",
+      "answerHi": "माना अनुपात का उभयनिष्ठ गुणक x है।\nतब, लंबाई (l) = 5x मीटर और चौड़ाई (b) = 3x मीटर।\n\nदिया गया है: परिमाप = 128 मीटर।\nसूत्र: परिमाप = 2 × (लंबाई + चौड़ाई)\n128 = 2 × (5x + 3x)\n128 = 2 × 8x\n128 = 16x\nx = 128 ÷ 16 = 8।\n\nअब, लंबाई और चौड़ाई की गणना करें:\nलंबाई = 5x = 5 × 8 = 40 मीटर।\nचौड़ाई = 3x = 3 × 8 = 24 मीटर।\n\nअतः मैदान की लंबाई 40 मीटर और चौड़ाई 24 मीटर है।",
+      "keyPoints": [
+        "Let Length = 5x and Breadth = 3x. / माना लंबाई = 5x और चौड़ाई = 3x।",
+        "Perimeter = 2(5x + 3x) = 16x = 128 -> x = 8. / परिमाप = 16x = 128 -> x = 8।",
+        "Length = 5 × 8 = 40 m; Breadth = 3 × 8 = 24 m. / लंबाई = 40 मीटर; चौड़ाई = 24 मीटर।"
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "The area of a rectangular garden is 300 sq m. If its width is 15 m, find its length and perimeter.",
+      "questionHi": "एक आयताकार बगीचे का क्षेत्रफल 300 वर्ग मीटर है। यदि इसकी चौड़ाई 15 मीटर है, तो इसकी लंबाई और परिमाप ज्ञात कीजिए।",
+      "answer": "Given:\nArea of rectangular garden = 300 sq m\nWidth (Breadth, b) = 15 m\n\nStep 1: Find the length (l).\nFormula: Area = Length × Width\n300 = Length × 15\nLength = 300 ÷ 15 = 20 meters.\n\nStep 2: Find the perimeter.\nFormula: Perimeter = 2 × (Length + Width)\nPerimeter = 2 × (20 + 15)\nPerimeter = 2 × 35 = 70 meters.\n\nTherefore, the length of the garden is 20 m and its perimeter is 70 m.",
+      "answerHi": "दिया गया है:\nआयताकार बगीचे का क्षेत्रफल = 300 वर्ग मीटर\nचौड़ाई (b) = 15 मीटर\n\nचरण 1: लंबाई (l) ज्ञात कीजिए।\nसूत्र: क्षेत्रफल = लंबाई × चौड़ाई\n300 = लंबाई × 15\nलंबाई = 300 ÷ 15 = 20 मीटर।\n\nचरण 2: परिमाप ज्ञात कीजिए।\nसूत्र: परिमाप = 2 × (लंबाई + चौड़ाई)\nपरिमाप = 2 × (20 + 15)\nपरिमाप = 2 × 35 = 70 मीटर।\n\nअतः बगीचे की लंबाई 20 मीटर और इसका परिमाप 70 मीटर है।",
+      "keyPoints": [
+        "Length = Area ÷ Width = 300 ÷ 15 = 20 m. / लंबाई = क्षेत्रफल ÷ चौड़ाई = 20 मीटर।",
+        "Perimeter = 2 × (20 + 15) = 2 × 35 = 70 m. / परिमाप = 2 × 35 = 70 मीटर।",
+        "Always write units clearly (m for length/perimeter, m² for area). / इकाइयाँ स्पष्ट रूप से लिखें (लंबाई/परिमाप के लिए मीटर, क्षेत्रफल के लिए मी²)।"
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Find the cost of fencing a rectangular park of length 250 m and breadth 175 m at the rate of ₹12 per meter.",
+      "questionHi": "250 मीटर लंबाई और 175 मीटर चौड़ाई वाले एक आयताकार पार्क के चारों ओर बाढ़ (Fence) लगाने का खर्च ₹12 प्रति मीटर की दर से ज्ञात कीजिए।",
+      "answer": "Step 1: Find the perimeter of the rectangular park.\nSince fencing is done around the boundary, we calculate perimeter.\nLength (l) = 250 m, Breadth (b) = 175 m\nPerimeter = 2 × (Length + Breadth)\nPerimeter = 2 × (250 + 175)\nPerimeter = 2 × 425 = 850 meters.\n\nStep 2: Calculate the total cost of fencing.\nRate of fencing = ₹12 per meter\nTotal cost = Perimeter × Rate\nTotal cost = 850 × 12 = ₹10,200.\n\nTherefore, the total cost of fencing the park is ₹10,200.",
+      "answerHi": "चरण 1: आयताकार पार्क का परिमाप ज्ञात कीजिए।\nचूँकि बाढ़ (फेंसिंग) सीमा के चारों ओर लगाई जाती है, हम परिमाप निकालते हैं।\nलंबाई (l) = 250 मीटर, चौड़ाई (b) = 175 मीटर\nपरिमाप = 2 × (लंबाई + चौड़ाई)\nपरिमाप = 2 × (250 + 175)\nपरिमाप = 2 × 425 = 850 मीटर।\n\nचरण 2: बाढ़ लगाने का कुल खर्च ज्ञात कीजिए।\nबाढ़ लगाने की दर = ₹12 प्रति मीटर\nकुल खर्च = परिमाप × दर\nकुल खर्च = 850 × 12 = ₹10,200।\n\nअतः पार्क में बाढ़ लगाने का कुल खर्च ₹10,200 है।",
+      "keyPoints": [
+        "Fencing means boundary -> Find Perimeter! / बाढ़ (फेंसिंग) का अर्थ है सीमा -> परिमाप निकालें!",
+        "Perimeter = 2 × (250 + 175) = 850 meters. / परिमाप = 850 मीटर।",
+        "Total Cost = 850 × 12 = ₹10,200. / कुल खर्च = 850 × 12 = ₹10,200।"
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "Two squares have sides of length 10 cm and 6 cm respectively. By how much does the perimeter and area of the bigger square exceed that of the smaller square?",
+      "questionHi": "दो वर्गों की भुजाओं की लंबाई क्रमशः 10 सेमी और 6 सेमी है। बड़े वर्ग का परिमाप और क्षेत्रफल छोटे वर्ग के परिमाप और क्षेत्रफल से कितना अधिक है?",
+      "answer": "1. Comparison of Perimeter:\nPerimeter of bigger square (side 10 cm) = 4 × 10 = 40 cm.\nPerimeter of smaller square (side 6 cm) = 4 × 6 = 24 cm.\nDifference in perimeter = 40 - 24 = 16 cm.\nSo, the perimeter of bigger square exceeds by 16 cm.\n\n2. Comparison of Area:\nArea of bigger square = Side × Side = 10 × 10 = 100 sq cm.\nArea of smaller square = Side × Side = 6 × 6 = 36 sq cm.\nDifference in area = 100 - 36 = 64 sq cm.\nSo, the area of bigger square exceeds by 64 sq cm.",
+      "answerHi": "1. परिमाप की तुलना:\nबड़े वर्ग (भुजा 10 सेमी) का परिमाप = 4 × 10 = 40 सेमी।\nछोटे वर्ग (भुजा 6 सेमी) का परिमाप = 4 × 6 = 24 सेमी।\nपरिमाप में अंतर = 40 - 24 = 16 सेमी।\nअतः बड़े वर्ग का परिमाप 16 सेमी अधिक है।\n\n2. क्षेत्रफल की तुलना:\nबड़े वर्ग का क्षेत्रफल = भुजा × भुजा = 10 × 10 = 100 वर्ग सेमी।\nछोटे वर्ग का क्षेत्रफल = भुजा × भुजा = 6 × 6 = 36 वर्ग सेमी।\nक्षेत्रफल में अंतर = 100 - 36 = 64 वर्ग सेमी।\nअतः बड़े वर्ग का क्षेत्रफल 64 वर्ग सेमी अधिक है।",
+      "keyPoints": [
+        "Bigger square: Perimeter = 40 cm, Area = 100 cm². / बड़ा वर्ग: परिमाप = 40 सेमी, क्षेत्रफल = 100 सेमी²।",
+        "Smaller square: Perimeter = 24 cm, Area = 36 cm². / छोटा वर्ग: परिमाप = 24 सेमी, क्षेत्रफल = 36 सेमी²।",
+        "Perimeter difference = 16 cm; Area difference = 64 cm². / परिमाप में अंतर = 16 सेमी; क्षेत्रफल में अंतर = 64 सेमी²।"
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "A wire is in the shape of a rectangle of length 40 cm and breadth 22 cm. If the same wire is rebent into the shape of a square, what will be the measure of each side of the square? Also find which shape encloses more area.",
+      "questionHi": "एक तार 40 सेमी लंबाई और 22 सेमी चौड़ाई वाले आयत के आकार का है। यदि उसी तार को दोबारा मोड़कर एक वर्ग बनाया जाए, तो वर्ग की प्रत्येक भुजा की माप क्या होगी? साथ ही ज्ञात कीजिए कि कौन-सी आकृति अधिक क्षेत्रफल घेरती है।",
+      "answer": "Step 1: Find total length of wire (Perimeter of rectangle).\nPerimeter of rectangle = 2 × (Length + Breadth)\nPerimeter = 2 × (40 + 22) = 2 × 62 = 124 cm.\n\nStep 2: Find side of the square.\nSince the same wire is rebent, Perimeter of square = Perimeter of rectangle = 124 cm.\n4 × Side of square = 124\nSide of square = 124 ÷ 4 = 31 cm.\n\nStep 3: Compare Areas.\nArea of rectangle = 40 × 22 = 880 sq cm.\nArea of square = 31 × 31 = 961 sq cm.\n\nConclusion: The side of the square is 31 cm. The square encloses more area than the rectangle by 81 sq cm (961 - 880).",
+      "answerHi": "चरण 1: तार की कुल लंबाई (आयत का परिमाप) ज्ञात कीजिए।\nआयत का परिमाप = 2 × (लंबाई + चौड़ाई)\nपरिमाप = 2 × (40 + 22) = 2 × 62 = 124 सेमी।\n\nचरण 2: वर्ग की भुजा ज्ञात कीजिए।\nचूँकि उसी तार को मोड़ा गया है, वर्ग का परिमाप = आयत का परिमाप = 124 सेमी।\n4 × वर्ग की भुजा = 124\nवर्ग की भुजा = 124 ÷ 4 = 31 सेमी।\n\nचरण 3: क्षेत्रफलों की तुलना कीजिए।\nआयत का क्षेत्रफल = 40 × 22 = 880 वर्ग सेमी।\nवर्ग का क्षेत्रफल = 31 × 31 = 961 वर्ग सेमी।\n\nनिष्कर्ष: वर्ग की भुजा 31 सेमी है। वर्ग आयत से 81 वर्ग सेमी अधिक क्षेत्रफल घेरता है (961 - 880)।",
+      "keyPoints": [
+        "Rebending wire means Perimeter remains CONSTANT! / तार को मोड़ने का अर्थ है परिमाप समान (अपरिवर्तित) रहता है!",
+        "Perimeter = 124 cm -> Side of square = 124 ÷ 4 = 31 cm. / परिमाप = 124 सेमी -> वर्ग की भुजा = 31 सेमी।",
+        "Area of rectangle = 880 cm²; Area of square = 961 cm². / आयत का क्षेत्रफल = 880 सेमी²; वर्ग का क्षेत्रफल = 961 सेमी²।",
+        "For the same perimeter, a square ALWAYS encloses more area than a rectangle! / समान परिमाप के लिए, वर्ग सदैव आयत से अधिक क्षेत्रफल घेरता है!"
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "Find the perimeter and area of an L-shaped composite figure formed by joining two identical rectangles, each measuring 8 cm by 2 cm, at right angles without overlapping.",
+      "questionHi": "बिना एक-दूसरे के ऊपर चढ़ाए (Without overlapping) समकोण पर जोड़े गए 8 सेमी × 2 सेमी माप वाले दो समान आयतों से बनी L-आकार की संयुक्त आकृति का परिमाप और क्षेत्रफल ज्ञात कीजिए।",
+      "answer": "Step 1: Find Total Area.\nSince the L-shape is formed by joining two non-overlapping rectangles of 8 cm by 2 cm:\nArea of 1st rectangle = 8 × 2 = 16 sq cm.\nArea of 2nd rectangle = 8 × 2 = 16 sq cm.\nTotal Area = 16 + 16 = 32 sq cm.\n\nStep 2: Find Perimeter of the L-shape.\nWhen joined at right angles to form an 'L', the outer boundary consists of:\nLong outer vertical side = 8 cm\nLong outer horizontal side = 8 cm\nTwo outer short ends = 2 cm + 2 cm = 4 cm\nTwo inner edges = (8 - 2) cm vertical + (8 - 2) cm horizontal = 6 cm + 6 cm = 12 cm.\n\nTotal Perimeter = 8 + 8 + 2 + 2 + 6 + 6 = 32 cm.\n\nTherefore, the perimeter of the L-shape is 32 cm and its area is 32 sq cm.",
+      "answerHi": "चरण 1: कुल क्षेत्रफल ज्ञात कीजिए।\nचूँकि L-आकार दो 8 सेमी × 2 सेमी के आयतों को बिना ओपेरैप किए जोड़कर बना है:\nपहले आयत का क्षेत्रफल = 8 × 2 = 16 वर्ग सेमी।\nदूसरे आयत का क्षेत्रफल = 8 × 2 = 16 वर्ग सेमी।\nकुल क्षेत्रफल = 16 + 16 = 32 वर्ग सेमी।\n\nचरण 2: L-आकार का परिमाप ज्ञात कीजिए।\nजब समकोण पर जोड़कर 'L' बनाया जाता है, तो बाहरी सीमा की भुजाएँ होंगी:\nलंबी बाहरी ऊर्ध्वाधर भुजा = 8 सेमी\nलंबी बाहरी क्षैतिज भुजा = 8 सेमी\nदो छोटे बाहरी सिरे = 2 सेमी + 2 सेमी = 4 सेमी\nदो भीतरी किनारे = (8 - 2) सेमी ऊर्ध्वाधर + (8 - 2) सेमी क्षैतिज = 6 सेमी + 6 सेमी = 12 सेमी।\n\nकुल परिमाप = 8 + 8 + 2 + 2 + 6 + 6 = 32 सेमी।\n\nअतः L-आकृति का परिमाप 32 सेमी और क्षेत्रफल 32 वर्ग सेमी है।",
+      "keyPoints": [
+        "Total Area = Area 1 + Area 2 = 16 + 16 = 32 cm². / कुल क्षेत्रफल = 16 + 16 = 32 सेमी²।",
+        "To find perimeter of composite figures, add ONLY the outer boundary lengths! / संयुक्त आकृतियों का परिमाप निकालने के लिए केवल बाहरी सीमा की लंबाइयाँ जोड़ें!",
+        "Boundary sides: 8, 2, 6, 6, 2, 8 -> Sum = 32 cm. / सीमा की भुजाएँ: 8, 2, 6, 6, 2, 8 -> योग = 32 सेमी।"
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "What happens to the area of a rectangle if its length is doubled and its breadth is halved? Justify your answer with a mathematical example.",
+      "questionHi": "यदि किसी आयत की लंबाई दोगुनी और उसकी चौड़ाई आधी कर दी जाए, तो उसके क्षेत्रफल पर क्या प्रभाव पड़ेगा? गणितीय उदाहरण के साथ अपने उत्तर की पुष्टि कीजिए।",
+      "answer": "Let original length = l and original breadth = b.\nOriginal Area (A1) = l × b\n\nNow, New length (L) = 2l (doubled)\nNew breadth (B) = b/2 (halved)\n\nNew Area (A2) = L × B = (2l) × (b/2) = 2 × (1/2) × (l × b) = l × b = A1.\n\nConclusion: The area of the rectangle remains unchanged (the same) when its length is doubled and breadth is halved.\n\nNumerical Example:\nLet length = 10 cm, breadth = 4 cm. Original Area = 10 × 4 = 40 sq cm.\nNew length = 20 cm (doubled), New breadth = 2 cm (halved).\nNew Area = 20 × 2 = 40 sq cm (Same area!).",
+      "answerHi": "माना मूल लंबाई = l और मूल चौड़ाई = b है।\nमूल क्षेत्रफल (A1) = l × b\n\nअब, नई लंबाई (L) = 2l (दोगुनी)\nनई चौड़ाई (B) = b/2 (आधी)\n\nनया क्षेत्रफल (A2) = L × B = (2l) × (b/2) = 2 × (1/2) × (l × b) = l × b = A1।\n\nनिष्कर्ष: यदि आयत की लंबाई दोगुनी और चौड़ाई आधी कर दी जाए, तो क्षेत्रफल अपरिवर्तित (समान) रहता है।\n\nसंख्यात्मक उदाहरण:\nमाना लंबाई = 10 सेमी, चौड़ाई = 4 सेमी। मूल क्षेत्रफल = 10 × 4 = 40 वर्ग सेमी।\nनई लंबाई = 20 सेमी (दोगुनी), नई चौड़ाई = 2 सेमी (आधी)।\nनया क्षेत्रफल = 20 × 2 = 40 वर्ग सेमी (समान क्षेत्रफल!)।",
+      "keyPoints": [
+        "New Length = 2l, New Breadth = b/2. / नई लंबाई = 2l, नई चौड़ाई = b/2।",
+        "New Area = (2l) × (b/2) = l × b = Original Area. / नया क्षेत्रफल = मूल क्षेत्रफल।",
+        "Therefore, the area remains UNCHANGED! / अतः क्षेत्रफल अपरिवर्तित (समान) रहता है!"
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "A room is 12 m long and 8 m wide. How many rectangular carpet pieces of size 3 m by 2 m are needed to cover the floor of the room completely without any gap or overlapping?",
+      "questionHi": "एक कमरा 12 मीटर लंबा और 8 मीटर चौड़ा है। इस कमरे के फर्श को बिना किसी खाली जगह या ओवरलैप के पूरा ढकने के लिए 3 मीटर × 2 मीटर आकार के कितने आयताकार कालीन के टुकड़ों की आवश्यकता होगी?",
+      "answer": "Step 1: Find the total area of the floor of the room.\nArea of floor = Length × Breadth\nArea of floor = 12 m × 8 m = 96 sq meters.\n\nStep 2: Find the area of one carpet piece.\nArea of one carpet = Length × Breadth\nArea of one carpet = 3 m × 2 m = 6 sq meters.\n\nStep 3: Calculate number of carpet pieces needed.\nNumber of carpets = Area of floor ÷ Area of one carpet\nNumber of carpets = 96 ÷ 6 = 16 pieces.\n\nTherefore, 16 rectangular carpet pieces are needed to cover the floor completely.",
+      "answerHi": "चरण 1: कमरे के फर्श का कुल क्षेत्रफल ज्ञात कीजिए।\nफर्श का क्षेत्रफल = लंबाई × चौड़ाई\nफर्श का क्षेत्रफल = 12 मीटर × 8 मीटर = 96 वर्ग मीटर।\n\nचरण 2: कालीन के एक टुकड़े का क्षेत्रफल ज्ञात कीजिए।\nएक कालीन का क्षेत्रफल = लंबाई × चौड़ाई\nएक कालीन का क्षेत्रफल = 3 मीटर × 2 मीटर = 6 वर्ग मीटर।\n\nचरण 3: आवश्यक कालीन के टुकड़ों की संख्या ज्ञात कीजिए।\nकालीनों की संख्या = फर्श का क्षेत्रफल ÷ एक कालीन का क्षेत्रफल\nकालीनों की संख्या = 96 ÷ 6 = 16 टुकड़े।\n\nअतः फर्श को पूरा ढकने के लिए 16 आयताकार कालीन के टुकड़ों की आवश्यकता होगी।",
+      "keyPoints": [
+        "Floor Area = 12 × 8 = 96 m². / फर्श का क्षेत्रफल = 96 मी²।",
+        "Carpet Area = 3 × 2 = 6 m². / कालीन का क्षेत्रफल = 6 मी²।",
+        "Number of pieces = 96 ÷ 6 = 16 carpet pieces. / टुकड़ों की संख्या = 96 ÷ 6 = 16 कालीन के टुकड़े।"
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "A square garden has an area of 400 sq m. Find the cost of putting a 3-strand barbed wire fence around it at the rate of ₹25 per meter.",
+      "questionHi": "एक वर्गाकार बगीचे का क्षेत्रफल 400 वर्ग मीटर है। ₹25 प्रति मीटर की दर से इसके चारों ओर कँटीले तार के 3 फेरे (3-strand fence) लगाने का खर्च ज्ञात कीजिए।",
+      "answer": "Step 1: Find the side length of the square garden.\nArea of square = Side × Side\n400 = Side × Side\nSince 20 × 20 = 400, Side of garden = 20 meters.\n\nStep 2: Find the perimeter of the garden.\nPerimeter = 4 × Side = 4 × 20 = 80 meters.\n\nStep 3: Find total length of wire for 3 strands (3 rounds).\nLength of wire needed = 3 × Perimeter = 3 × 80 = 240 meters.\n\nStep 4: Calculate the cost of fencing.\nCost = Total length of wire × Rate per meter\nCost = 240 × 25 = ₹6,000.\n\nTherefore, the total cost of putting a 3-strand fence is ₹6,000.",
+      "answerHi": "चरण 1: वर्गाकार बगीचे की भुजा की लंबाई ज्ञात कीजिए।\nवर्ग का क्षेत्रफल = भुजा × भुजा\n400 = भुजा × भुजा\nचूँकि 20 × 20 = 400 होता है, अतः बगीचे की भुजा = 20 मीटर।\n\nचरण 2: बगीचे का परिमाप ज्ञात कीजिए।\nपरिमाप = 4 × भुजा = 4 × 20 = 80 मीटर।\n\nचरण 3: 3 फेरों (3 strands) के लिए आवश्यक तार की कुल लंबाई ज्ञात कीजिए।\nआवश्यक तार की लंबाई = 3 × परिमाप = 3 × 80 = 240 मीटर।\n\nचरण 4: बाढ़ लगाने का खर्च ज्ञात कीजिए।\nखर्च = तार की कुल लंबाई × दर प्रति मीटर\nखर्च = 240 × 25 = ₹6,000।\n\nअतः 3 फेरे की बाढ़ लगाने का कुल खर्च ₹6,000 है।",
+      "keyPoints": [
+        "Area = 400 m² -> Side = 20 m. / क्षेत्रफल = 400 मी² -> भुजा = 20 मीटर।",
+        "Perimeter = 4 × 20 = 80 m. / परिमाप = 80 मीटर।",
+        "For 3 strands, total wire = 3 × 80 = 240 m. / 3 फेरों के लिए कुल तार = 240 मीटर।",
+        "Total Cost = 240 × 25 = ₹6,000. / कुल खर्च = 240 × 25 = ₹6,000।"
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "A table top measures 2 m 25 cm by 1 m 50 cm. What is its perimeter and area in meters and square meters respectively?",
+      "questionHi": "एक मेज के ऊपरी तल (Table Top) की माप 2 मीटर 25 सेमी × 1 मीटर 50 सेमी है। इसका परिमाप मीटर में और क्षेत्रफल वर्ग मीटर में ज्ञात कीजिए।",
+      "answer": "Step 1: Convert dimensions into decimals in meters.\nWe know 100 cm = 1 meter.\nLength (l) = 2 m 25 cm = 2.25 meters.\nBreadth (b) = 1 m 50 cm = 1.50 meters.\n\nStep 2: Find Perimeter in meters.\nPerimeter = 2 × (Length + Breadth)\nPerimeter = 2 × (2.25 + 1.50)\nPerimeter = 2 × 3.75 = 7.50 meters (or 7.5 m).\n\nStep 3: Find Area in square meters.\nArea = Length × Breadth\nArea = 2.25 × 1.50 = 3.375 sq meters (or 3.375 m²).\n\nTherefore, the perimeter of the table top is 7.5 m and its area is 3.375 sq m.",
+      "answerHi": "चरण 1: आयामों को मीटर में दशमलव रूप में बदलिए।\nहम जानते हैं कि 100 सेमी = 1 मीटर।\nलंबाई (l) = 2 मीटर 25 सेमी = 2.25 मीटर।\nचौड़ाई (b) = 1 मीटर 50 सेमी = 1.50 मीटर।\n\nचरण 2: परिमाप मीटर में ज्ञात कीजिए।\nपरिमाप = 2 × (लंबाई + चौड़ाई)\nपरिमाप = 2 × (2.25 + 1.50)\nपरिमाप = 2 × 3.75 = 7.50 मीटर (या 7.5 मी)।\n\nचरण 3: क्षेत्रफल वर्ग मीटर में ज्ञात कीजिए।\nक्षेत्रफल = लंबाई × चौड़ाई\nक्षेत्रफल = 2.25 × 1.50 = 3.375 वर्ग मीटर (या 3.375 मी²)।\n\nअतः मेज के ऊपरी तल का परिमाप 7.5 मीटर और क्षेत्रफल 3.375 वर्ग मीटर है।",
+      "keyPoints": [
+        "Convert to meters: Length = 2.25 m, Breadth = 1.50 m. / मीटर में बदलिए: लंबाई = 2.25 मी, चौड़ाई = 1.50 मी।",
+        "Perimeter = 2 × (2.25 + 1.50) = 7.5 m. / परिमाप = 7.5 मीटर।",
+        "Area = 2.25 × 1.50 = 3.375 m². / क्षेत्रफल = 3.375 वर्ग मीटर।"
+      ]
+    },
+    {
+      "id": "q21",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "Explain how to estimate the area of an irregular closed shape (such as a leaf or a pond on a map) using a squared graph paper. State the four standard NCERT rules for counting squares clearly.",
+      "questionHi": "वर्गाकार ग्रिड पेपर (Graph Paper) का उपयोग करके किसी अनियमित बंद आकृति (जैसे पत्ता या मानचित्र पर तालाब) का क्षेत्रफल अनुमानित करने की विधि समझाइए। वर्गों को गिनने के चार मानक NCERT नियम स्पष्ट रूप से लिखिए।",
+      "answer": "To estimate the area of an irregular closed shape, we place the shape on a squared graph paper where each square has an area of 1 sq cm (or 1 unit square). We trace the outline of the shape and count the enclosed squares using the following four standard NCERT rules:\n\nRule 1 (Full Squares): Count every complete (full) square enclosed inside the boundary as 1 sq unit.\nRule 2 (Half Squares): Count every square which is exactly half-enclosed by the boundary as 1/2 sq unit (or 0.5 sq unit).\nRule 3 (More than Half): Count every square where more than half of its area is enclosed inside the boundary as 1 full sq unit.\nRule 4 (Less than Half): Ignore (do not count or take as 0) every square where less than half of its area is enclosed inside the boundary.\n\nTotal Estimated Area = (Number of full squares × 1) + (Number of >1/2 squares × 1) + (Number of half squares × 0.5) + (Number of <1/2 squares × 0).",
+      "answerHi": "किसी अनियमित बंद आकृति का क्षेत्रफल अनुमानित करने के लिए, हम आकृति को एक वर्गाकार ग्रिड पेपर पर रखते हैं जहाँ प्रत्येक वर्ग का क्षेत्रफल 1 वर्ग सेमी (या 1 वर्ग इकाई) होता है। हम आकृति की रूपरेखा बनाते हैं और निम्नलिखित चार मानक NCERT नियमों का उपयोग करके घिरे हुए वर्गों को गिनते हैं:\n\nनियम 1 (पूर्ण वर्ग): सीमा के अंदर घिरे प्रत्येक पूर्ण (पूरे) वर्ग को 1 वर्ग इकाई गिना जाता है।\nनियम 2 (आधे वर्ग): सीमा द्वारा ठीक आधे घिरे हुए प्रत्येक वर्ग को 1/2 (या 0.5) वर्ग इकाई गिना जाता है।\nनियम 3 (आधे से अधिक): जिस वर्ग का आधे से अधिक भाग सीमा के अंदर घिरा हो, उसे 1 पूर्ण वर्ग इकाई गिना जाता है।\nनियम 4 (आधे से कम): जिस वर्ग का आधे से कम भाग सीमा के अंदर हो, उसे छोड़ दिया जाता है (0 गिना जाता है)।\n\nकुल अनुमानित क्षेत्रफल = (पूर्ण वर्गों की संख्या × 1) + (>1/2 वर्गों की संख्या × 1) + (आधे वर्गों की संख्या × 0.5) + (<1/2 वर्गों की संख्या × 0)।",
+      "keyPoints": [
+        "Full square = 1 sq unit. / पूर्ण वर्ग = 1 वर्ग इकाई।",
+        "More than half square = 1 sq unit. / आधे से अधिक वर्ग = 1 वर्ग इकाई।",
+        "Exactly half square = 0.5 sq unit. / ठीक आधा वर्ग = 0.5 वर्ग इकाई।",
+        "Less than half square = Ignore (0). / आधे से कम वर्ग = छोड़ दें (0)।"
+      ]
+    },
+    {
+      "id": "q22",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "A farmer has a rectangular plot of land measuring 80 m long and 50 m wide. He wants to construct a boundary wall around it leaving a 5 m wide entrance gate. \n(a) Find the total length of the boundary wall to be constructed.\n(b) If the cost of constructing the wall is ₹150 per meter, find the total expenditure.\n(c) Calculate the area of the plot in hectares (given: 1 hectare = 10,000 sq m).",
+      "questionHi": "एक किसान के पास 80 मीटर लंबा और 50 मीटर चौड़ा एक आयताकार भूखंड (Plot) है। वह इसके चारों ओर 5 मीटर चौड़ा प्रवेश द्वार (Gate) छोड़कर एक चारदीवारी (Boundary wall) बनाना चाहता है।\n(a) बनाई जाने वाली चारदीवारी की कुल लंबाई ज्ञात कीजिए।\n(b) यदि दीवार बनाने का खर्च ₹150 प्रति मीटर है, तो कुल खर्च ज्ञात कीजिए।\n(c) भूखंड का क्षेत्रफल हेक्टेयर (Hectares) में ज्ञात कीजिए (दिया है: 1 हेक्टेयर = 10,000 वर्ग मीटर)।",
+      "answer": "(a) Length of boundary wall:\nTotal perimeter of plot = 2 × (Length + Breadth) = 2 × (80 + 50) = 2 × 130 = 260 meters.\nSince a 5 m wide gate is left open without wall:\nLength of wall to be constructed = Total Perimeter - Width of Gate = 260 - 5 = 255 meters.\n\n(b) Total expenditure on wall construction:\nRate of construction = ₹150 per meter\nTotal cost = Length of wall × Rate = 255 × 150 = ₹38,250.\n\n(c) Area of plot in hectares:\nArea of rectangular plot = Length × Breadth = 80 × 50 = 4000 sq meters.\nTo convert sq meters into hectares, divide by 10,000:\nArea in hectares = 4000 ÷ 10,000 = 0.4 hectare (or 2/5 hectare).\n\nTherefore, wall length is 255 m, cost is ₹38,250, and area is 0.4 hectare.",
+      "answerHi": "(a) चारदीवारी की लंबाई:\nभूखंड का कुल परिमाप = 2 × (लंबाई + चौड़ाई) = 2 × (80 + 50) = 2 × 130 = 260 मीटर।\nचूँकि 5 मीटर चौड़ा गेट बिना दीवार के खुला छोड़ना है:\nबनाई जाने वाली दीवार की लंबाई = कुल परिमाप - गेट की चौड़ाई = 260 - 5 = 255 मीटर।\n\n(b) दीवार निर्माण पर कुल खर्च:\nनिर्माण दर = ₹150 प्रति मीटर\nकुल खर्च = दीवार की लंबाई × दर = 255 × 150 = ₹38,250।\n\n(c) हेक्टेयर में भूखंड का क्षेत्रफल:\nआयताकार भूखंड का क्षेत्रफल = लंबाई × चौड़ाई = 80 × 50 = 4000 वर्ग मीटर।\nवर्ग मीटर को हेक्टेयर में बदलने के लिए 10,000 से भाग दें:\nहेक्टेयर में क्षेत्रफल = 4000 ÷ 10,000 = 0.4 हेक्टेयर (या 2/5 हेक्टेयर)।\n\nअतः दीवार की लंबाई 255 मीटर, खर्च ₹38,250 और क्षेत्रफल 0.4 हेक्टेयर है।",
+      "keyPoints": [
+        "Total Perimeter = 260 m. / कुल परिमाप = 260 मीटर।",
+        "Wall length = Perimeter - Gate width = 260 - 5 = 255 m. / दीवार की लंबाई = 260 - 5 = 255 मीटर।",
+        "Total Cost = 255 × 150 = ₹38,250. / कुल खर्च = ₹38,250।",
+        "Area = 4000 m² = 4000 ÷ 10,000 = 0.4 Hectare. / क्षेत्रफल = 4000 मी² = 0.4 हेक्टेयर।"
+      ]
+    },
+    {
+      "id": "q23",
+      "type": "value-based",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "In a school cleanliness and greenery drive, Group A students cleaned a rectangular playground of length 120 m and breadth 80 m. Group B students cleaned a square basketball court of side 90 m.\n(a) Which group cleaned a larger area and by how many square meters?\n(b) What is the total perimeter of both the sports grounds combined?\n(c) What positive values are learned by students when participating in school cleanliness drives?",
+      "questionHi": "विद्यालय के एक स्वच्छता एवं हरियाली अभियान में, समूह A के छात्रों ने 120 मीटर लंबे और 80 मीटर चौड़े एक आयताकार खेल के मैदान की सफाई की। समूह B के छात्रों ने 90 मीटर भुजा वाले एक वर्गाकार बास्केटबॉल कोर्ट की सफाई की।\n(a) किस समूह ने अधिक क्षेत्रफल की सफाई की और कितने वर्ग मीटर अधिक?\n(b) दोनों खेल के मैदानों का कुल संयुक्त परिमाप क्या है?\n(c) विद्यालय के स्वच्छता अभियानों में भाग लेने से छात्रों में कौन-से सकारात्मक मूल्यों का विकास होता है?",
+      "answer": "(a) Comparison of Area Cleaned:\nArea cleaned by Group A (Rectangle) = 120 m × 80 m = 9,600 sq m.\nArea cleaned by Group B (Square) = 90 m × 90 m = 8,100 sq m.\nDifference = 9,600 - 8,100 = 1,500 sq m.\nTherefore, Group A cleaned a larger area by 1,500 sq m.\n\n(b) Total Combined Perimeter:\nPerimeter of playground (Group A) = 2 × (120 + 80) = 2 × 200 = 400 m.\nPerimeter of basketball court (Group B) = 4 × 90 = 360 m.\nTotal combined perimeter = 400 + 360 = 760 meters.\n\n(c) Positive Values Learned:\nStudents learn values of teamwork, dignity of labor, environmental awareness, civic responsibility, cooperation, and pride in keeping their school and public spaces clean.",
+      "answerHi": "(a) साफ किए गए क्षेत्रफल की तुलना:\nसमूह A द्वारा साफ किया गया क्षेत्रफल (आयत) = 120 मी × 80 मी = 9,600 वर्ग मीटर।\nसमूह B द्वारा साफ किया गया क्षेत्रफल (वर्ग) = 90 मी × 90 मी = 8,100 वर्ग मीटर।\nअंतर = 9,600 - 8,100 = 1,500 वर्ग मीटर।\nअतः समूह A ने 1,500 वर्ग मीटर अधिक क्षेत्रफल की सफाई की।\n\n(b) कुल संयुक्त परिमाप:\nखेल के मैदान का परिमाप (समूह A) = 2 × (120 + 80) = 2 × 200 = 400 मीटर।\nबास्केटबॉल कोर्ट का परिमाप (समूह B) = 4 × 90 = 360 मीटर।\nकुल संयुक्त परिमाप = 400 + 360 = 760 मीटर।\n\n(c) विकसित सकारात्मक मूल्य:\nछात्रों में टीम वर्क (सामूहिक कार्य), श्रम का सम्मान, पर्यावरण जागरूकता, नागरिक जिम्मेदारी, सहयोग तथा अपने विद्यालय और सार्वजनिक स्थानों को स्वच्छ रखने का मूल्य विकसित होता है।",
+      "keyPoints": [
+        "Group A Area = 120 × 80 = 9600 m². / समूह A का क्षेत्रफल = 9600 मी²।",
+        "Group B Area = 90 × 90 = 8100 m². / समूह B का क्षेत्रफल = 8100 मी²।",
+        "Group A cleaned 1500 m² more area. / समूह A ने 1500 मी² अधिक सफाई की।",
+        "Combined Perimeter = 400 + 360 = 760 meters. / संयुक्त परिमाप = 760 मीटर।"
+      ]
+    },
+    {
+      "id": "q24",
+      "type": "case-study",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Case Study: Home Renovation Project.\nMr. Sharma is renovating his living room floor which is rectangular in shape, measuring 6 meters in length and 4 meters in breadth. He decides to lay square marble tiles of side 50 cm each on the floor.\n(a) Convert the room dimensions into centimeters and find the area of the floor in sq cm.\n(b) Find the area of one marble tile in sq cm.\n(c) Calculate the total number of tiles required to cover the floor.\n(d) If each marble tile costs ₹80, find the total cost of tiles.",
+      "questionHi": "केस स्टडी: घर का नवीनीकरण (Renovation) प्रोजेक्ट।\nश्री शर्मा अपने लिविंग रूम के फर्श का नवीनीकरण कर रहे हैं, जो आयताकार है तथा जिसकी लंबाई 6 मीटर और चौड़ाई 4 मीटर है। वह फर्श पर 50 सेमी भुजा वाली वर्गाकार संगमरमर की टाइलें लगाने का निर्णय लेते हैं।\n(a) कमरे के आयामों को सेंटीमीटर में बदलिए और फर्श का क्षेत्रफल वर्ग सेमी में ज्ञात कीजिए।\n(b) एक संगमरमर टाइल का क्षेत्रफल वर्ग सेमी में ज्ञात कीजिए।\n(c) फर्श को ढकने के लिए आवश्यक टाइलों की कुल संख्या ज्ञात कीजिए।\n(d) यदि एक टाइल की कीमत ₹80 है, तो टाइलों का कुल खर्च ज्ञात कीजिए।",
+      "answer": "(a) Area of floor in sq cm:\n1 meter = 100 cm.\nLength = 6 m = 600 cm, Breadth = 4 m = 400 cm.\nArea of floor = 600 cm × 400 cm = 2,40,000 sq cm.\n\n(b) Area of one tile:\nSide of square tile = 50 cm.\nArea of one tile = Side × Side = 50 cm × 50 cm = 2,500 sq cm.\n\n(c) Total number of tiles required:\nNumber of tiles = Area of floor ÷ Area of one tile\nNumber of tiles = 2,40,000 ÷ 2,500 = 96 tiles.\n\n(d) Total cost of tiles:\nCost of 1 tile = ₹80\nTotal cost = 96 × 80 = ₹7,680.\n\nTherefore, 96 tiles are required and the total cost is ₹7,680.",
+      "answerHi": "(a) फर्श का क्षेत्रफल वर्ग सेमी में:\n1 मीटर = 100 सेमी।\nलंबाई = 6 मी = 600 सेमी, चौड़ाई = 4 मी = 400 सेमी।\nफर्श का क्षेत्रफल = 600 सेमी × 400 सेमी = 2,40,000 वर्ग सेमी।\n\n(b) एक टाइल का क्षेत्रफल:\nवर्गाकार टाइल की भुजा = 50 सेमी।\nएक टाइल का क्षेत्रफल = भुजा × भुजा = 50 सेमी × 50 सेमी = 2,500 वर्ग सेमी।\n\n(c) आवश्यक टाइलों की कुल संख्या:\nटाइलों की संख्या = फर्श का क्षेत्रफल ÷ एक टाइल का क्षेत्रफल\nटाइलों की संख्या = 2,40,000 ÷ 2,500 = 96 टाइलें।\n\n(d) टाइलों का कुल खर्च:\n1 टाइल की कीमत = ₹80\nकुल खर्च = 96 × 80 = ₹7,680।\n\nअतः 96 टाइलों की आवश्यकता होगी और कुल खर्च ₹7,680 होगा।",
+      "keyPoints": [
+        "Floor Area = 600 × 400 = 2,40,000 cm². / फर्श का क्षेत्रफल = 2,40,000 सेमी²।",
+        "Tile Area = 50 × 50 = 2,500 cm². / टाइल का क्षेत्रफल = 2,500 सेमी²।",
+        "Number of tiles = 2,40,000 ÷ 2,500 = 96 tiles. / टाइलों की संख्या = 96 टाइलें।",
+        "Total Cost = 96 × 80 = ₹7,680. / कुल खर्च = ₹7,680।"
+      ]
+    },
+    {
+      "id": "q25",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "A rectangular lawn is 60 m long and 40 m wide. Two crossroads, each 3 m wide, run at right angles through the center of the lawn—one parallel to the length and the other parallel to the breadth.\n(a) Find the area of the two crossroads.\n(b) Find the cost of paving the crossroads with gravel at the rate of ₹50 per sq meter.\n(c) Find the remaining area of the lawn (excluding crossroads).",
+      "questionHi": "एक आयताकार लॉन 60 मीटर लंबा और 40 मीटर चौड़ा है। इसके बीचों-बीच समकोण पर काटते हुए 3 मीटर चौड़े दो रास्ते (Crossroads) बने हैं—एक लंबाई के समांतर और दूसरा चौड़ाई के समांतर।\n(a) दोनों रास्तों का कुल क्षेत्रफल ज्ञात कीजिए।\n(b) ₹50 प्रति वर्ग मीटर की दर से रास्तों पर बजरी (Gravel) बिछाने का खर्च ज्ञात कीजिए।\n(c) रास्तों को छोड़कर लॉन के शेष भाग का क्षेत्रफल ज्ञात कीजिए।",
+      "answer": "(a) Area of Crossroads:\n1. Area of road parallel to length = Length of lawn × Width of road = 60 m × 3 m = 180 sq m.\n2. Area of road parallel to breadth = Breadth of lawn × Width of road = 40 m × 3 m = 120 sq m.\n3. Area of common square intersection at the center (counted twice) = 3 m × 3 m = 9 sq m.\n\nTotal Area of crossroads = Area 1 + Area 2 - Common Area\nTotal Area = 180 + 120 - 9 = 300 - 9 = 291 sq meters.\n\n(b) Cost of paving gravel:\nRate = ₹50 per sq m\nTotal Cost = 291 × 50 = ₹14,550.\n\n(c) Remaining area of lawn:\nTotal area of lawn = 60 × 40 = 2,400 sq m.\nRemaining area = Total Area - Area of crossroads = 2,400 - 291 = 2,109 sq meters.",
+      "answerHi": "(a) रास्तों (Crossroads) का क्षेत्रफल:\n1. लंबाई के समांतर रास्ते का क्षेत्रफल = लॉन की लंबाई × रास्ते की चौड़ाई = 60 मी × 3 मी = 180 वर्ग मीटर।\n2. चौड़ाई के समांतर रास्ते का क्षेत्रफल = लॉन की चौड़ाई × रास्ते की चौड़ाई = 40 मी × 3 मी = 120 वर्ग मीटर।\n3. बीच के उभयनिष्ठ वर्गाकार भाग का क्षेत्रफल (जो दो बार गिना गया) = 3 मी × 3 मी = 9 वर्ग मीटर।\n\nरास्तों का कुल क्षेत्रफल = रास्ता 1 + रास्ता 2 - उभयनिष्ठ क्षेत्रफल\nकुल क्षेत्रफल = 180 + 120 - 9 = 300 - 9 = 291 वर्ग मीटर।\n\n(b) बजरी बिछाने का खर्च:\nदर = ₹50 प्रति वर्ग मीटर\nकुल खर्च = 291 × 50 = ₹14,550।\n\n(c) लॉन के शेष भाग का क्षेत्रफल:\nलॉन का कुल क्षेत्रफल = 60 × 40 = 2,400 वर्ग मीटर।\nशेष क्षेत्रफल = कुल क्षेत्रफल - रास्तों का क्षेत्रफल = 2,400 - 291 = 2,109 वर्ग मीटर।",
+      "keyPoints": [
+        "Road parallel to length = 60 × 3 = 180 m². / लंबाई के समांतर रास्ता = 180 मी²।",
+        "Road parallel to breadth = 40 × 3 = 120 m². / चौड़ाई के समांतर रास्ता = 120 मी²।",
+        "Subtract common center square (3 × 3 = 9 m²): Area = 180 + 120 - 9 = 291 m². / बीच का वर्ग (9 मी²) घटाएँ: क्षेत्रफल = 291 मी²।",
+        "Cost = 291 × 50 = ₹14,550; Remaining Lawn = 2400 - 291 = 2109 m²."
+      ]
+    },
+    {
+      "id": "q26",
+      "type": "value-based",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "A municipal corporation decides to build a green park in the middle of a residential colony. The park is rectangular with dimensions 150 m by 100 m. To promote walking and healthy habits among residents, a 2-meter wide jogging track is built along the inner boundary of the park.\n(a) Find the perimeter of the outer boundary of the park.\n(b) What are the length and breadth of the inner green grassy region (inside the track)?\n(c) What civic and health values are promoted by the municipal corporation?",
+      "questionHi": "एक नगर निगम एक आवासीय कॉलोनी के बीच में एक हरित पार्क बनाने का निर्णय लेता है। पार्क आयताकार है जिसकी माप 150 मीटर × 100 मीटर है। निवासियों में टहलने और स्वस्थ आदतों को बढ़ावा देने के लिए, पार्क की भीतरी सीमा के साथ 2 मीटर चौड़ा जॉगिंग ट्रैक (Jogging track) बनाया गया है।\n(a) पार्क की बाहरी सीमा का परिमाप ज्ञात कीजिए।\n(b) ट्रैक के अंदर स्थित भीतरी हरे घास वाले क्षेत्र की लंबाई और चौड़ाई क्या होगी?\n(c) नगर निगम द्वारा किन नागरिक और स्वास्थ्य मूल्यों को बढ़ावा दिया जा रहा है?",
+      "answer": "(a) Perimeter of outer boundary:\nLength (l) = 150 m, Breadth (b) = 100 m\nPerimeter = 2 × (150 + 100) = 2 × 250 = 500 meters.\n\n(b) Dimensions of inner grassy region:\nSince a 2 m wide track runs along all inside walls, we subtract 2 m from both left and right sides (for length) and from both top and bottom sides (for breadth):\nInner Length = 150 - (2 + 2) = 150 - 4 = 146 meters.\nInner Breadth = 100 - (2 + 2) = 100 - 4 = 96 meters.\n\n(c) Values Promoted:\nThe municipal corporation promotes public health, physical fitness, environmental preservation, community well-being, sustainable urban planning, and active lifestyle.",
+      "answerHi": "(a) बाहरी सीमा का परिमाप:\nलंबाई (l) = 150 मीटर, चौड़ाई (b) = 100 मीटर\nपरिमाप = 2 × (150 + 100) = 2 × 250 = 500 मीटर।\n\n(b) भीतरी घास वाले क्षेत्र के आयाम:\nचूँकि 2 मीटर चौड़ा ट्रैक अंदर चारों ओर बना है, हम लंबाई में से दोनों तरफ (बाएँ और दाएँ) 2-2 मीटर और चौड़ाई में से दोनों तरफ (ऊपर और नीचे) 2-2 मीटर घटाते हैं:\nभीतरी लंबाई = 150 - (2 + 2) = 150 - 4 = 146 मीटर।\nभीतरी चौड़ाई = 100 - (2 + 2) = 100 - 4 = 96 मीटर।\n\n(c) प्रोत्साहित मूल्य:\nनगर निगम सार्वजनिक स्वास्थ्य, शारीरिक फिटनेस, पर्यावरण संरक्षण, सामुदायिक कल्याण, सतत शहरी योजना तथा सक्रिय जीवनशैली को बढ़ावा देता है।",
+      "keyPoints": [
+        "Outer Perimeter = 2 × (150 + 100) = 500 meters. / बाहरी परिमाप = 500 मीटर।",
+        "Subtract track width TWICE (both sides): Inner Length = 150 - 4 = 146 m. / दोनों तरफ से ट्रैक की चौड़ाई घटाएँ: भीतरी लंबाई = 146 मीटर।",
+        "Inner Breadth = 100 - 4 = 96 m. / भीतरी चौड़ाई = 96 मीटर।",
+        "Value: Promoting physical fitness and environmental well-being. / मूल्य: शारीरिक फिटनेस और पर्यावरण कल्याण को बढ़ावा।"
+      ]
+    },
+    {
+      "id": "q27",
+      "type": "case-study",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Case Study: Farming and Irrigation Fields.\nA farmer has two fields of different shapes but equal perimeter! Field A is a square of side 60 meters, and Field B is a rectangle of length 80 meters. Both fields are fenced with barbed wire.\n(a) Find the perimeter of Field A (Square).\n(b) Since the perimeters of both fields are equal, calculate the breadth of rectangular Field B.\n(c) Which field has a larger area and by how many square meters?\n(d) What mathematical conclusion can you draw about the area of a square and a rectangle having the same perimeter?",
+      "questionHi": "केस स्टडी: खेती और सिंचाई के खेत।\nएक किसान के पास अलग-अलग आकार के दो खेत हैं, लेकिन दोनों का परिमाप समान है! खेत A 60 मीटर भुजा वाला एक वर्ग है, और खेत B 80 मीटर लंबाई वाला एक आयत है। दोनों खेतों में कँटीले तार से बाढ़ लगाई गई है।\n(a) खेत A (वर्ग) का परिमाप ज्ञात कीजिए।\n(b) चूँकि दोनों खेतों का परिमाप समान है, आयताकार खेत B की चौड़ाई ज्ञात कीजिए।\n(c) किस खेत का क्षेत्रफल अधिक है और कितने वर्ग मीटर अधिक है?\n(d) समान परिमाप वाले वर्ग और आयत के क्षेत्रफल के बारे में आप क्या गणितीय निष्कर्ष निकाल सकते हैं?",
+      "answer": "(a) Perimeter of Field A (Square):\nPerimeter = 4 × Side = 4 × 60 = 240 meters.\n\n(b) Breadth of Field B (Rectangle):\nGiven: Perimeter of Field B = Perimeter of Field A = 240 meters.\nLength of Field B = 80 m.\n2 × (Length + Breadth) = 240\n80 + Breadth = 240 ÷ 2 = 120\nBreadth = 120 - 80 = 40 meters.\n\n(c) Comparison of Areas:\nArea of Field A (Square) = 60 × 60 = 3,600 sq m.\nArea of Field B (Rectangle) = 80 × 40 = 3,200 sq m.\nDifference = 3,600 - 3,200 = 400 sq m.\nTherefore, square Field A has a larger area by 400 sq m.\n\n(d) Mathematical Conclusion:\nWhen a square and a rectangle have the exact same perimeter, the square ALWAYS encloses a larger area than the rectangle.",
+      "answerHi": "(a) खेत A (वर्ग) का परिमाप:\nपरिमाप = 4 × भुजा = 4 × 60 = 240 मीटर।\n\n(b) खेत B (आयत) की चौड़ाई:\nदिया गया है: खेत B का परिमाप = खेत A का परिमाप = 240 मीटर।\nखेत B की लंबाई = 80 मीटर।\n2 × (लंबाई + चौड़ाई) = 240\n80 + चौड़ाई = 240 ÷ 2 = 120\nचौड़ाई = 120 - 80 = 40 मीटर।\n\n(c) क्षेत्रफलों की तुलना:\nखेत A (वर्ग) का क्षेत्रफल = 60 × 60 = 3,600 वर्ग मीटर।\nखेत B (आयत) का क्षेत्रफल = 80 × 40 = 3,200 वर्ग मीटर।\nअंतर = 3,600 - 3,200 = 400 वर्ग मीटर।\nअतः वर्गाकार खेत A का क्षेत्रफल 400 वर्ग मीटर अधिक है।\n\n(d) गणितीय निष्कर्ष:\nजब एक वर्ग और एक आयत का परिमाप बिल्कुल समान होता है, तो वर्ग सदैव आयत से अधिक क्षेत्रफल घेरता है।",
+      "keyPoints": [
+        "Perimeter of both fields = 4 × 60 = 240 meters. / दोनों खेतों का परिमाप = 240 मीटर।",
+        "Breadth of Rectangle = (240 ÷ 2) - 80 = 120 - 80 = 40 meters. / आयत की चौड़ाई = 40 मीटर।",
+        "Square Area = 3600 m²; Rectangle Area = 3200 m². / वर्ग का क्षेत्रफल = 3600 मी²; आयत का क्षेत्रफल = 3200 मी²।",
+        "Conclusion: For equal perimeter, Area of Square > Area of Rectangle! / निष्कर्ष: समान परिमाप पर, वर्ग का क्षेत्रफल > आयत का क्षेत्रफल!"
+      ]
+    },
+    {
+      "id": "q28",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "A classroom is 10 m long, 8 m wide, and 3 m high. It has one door measuring 2 m by 1.5 m and two windows, each measuring 1.5 m by 1 m.\n(a) Find the total area of the four walls of the classroom.\n(b) Find the total area of the door and the two windows.\n(c) Find the area of the walls to be whitewashed (excluding door and windows).\n(d) If the cost of whitewashing is ₹20 per sq meter, find the total cost.",
+      "questionHi": "एक कक्षा (Classroom) 10 मीटर लंबी, 8 मीटर चौड़ी और 3 मीटर ऊँची है। इसमें 2 मीटर × 1.5 मीटर माप का एक दरवाजा और 1.5 मीटर × 1 मीटर माप की दो खिड़कियाँ हैं।\n(a) कक्षा की चारों दीवारों का कुल क्षेत्रफल ज्ञात कीजिए।\n(b) दरवाजे और दोनों खिड़कियों का कुल क्षेत्रफल ज्ञात कीजिए।\n(c) सफेदी (Whitewash) की जाने वाली दीवारों का क्षेत्रफल ज्ञात कीजिए (दरवाजे और खिड़कियों को छोड़कर)।\n(d) यदि सफेदी करने का खर्च ₹20 प्रति वर्ग मीटर है, तो कुल खर्च ज्ञात कीजिए।",
+      "answer": "(a) Area of four walls:\nFormula: Area of 4 walls = 2 × (Length + Breadth) × Height\nArea = 2 × (10 + 8) × 3 = 2 × 18 × 3 = 108 sq meters.\n\n(b) Area of door and windows:\nArea of 1 door = 2 m × 1.5 m = 3 sq m.\nArea of 2 windows = 2 × (1.5 m × 1 m) = 2 × 1.5 = 3 sq m.\nTotal area of openings (door + windows) = 3 + 3 = 6 sq meters.\n\n(c) Area to be whitewashed:\nArea to whitewash = Area of 4 walls - Area of openings\nArea = 108 - 6 = 102 sq meters.\n\n(d) Total cost of whitewashing:\nRate = ₹20 per sq m\nTotal Cost = 102 × 20 = ₹2,040.\n\nTherefore, the area to be whitewashed is 102 sq m and the total cost is ₹2,040.",
+      "answerHi": "(a) चारों दीवारों का क्षेत्रफल:\nसूत्र: 4 दीवारों का क्षेत्रफल = 2 × (लंबाई + चौड़ाई) × ऊँचाई\nक्षेत्रफल = 2 × (10 + 8) × 3 = 2 × 18 × 3 = 108 वर्ग मीटर।\n\n(b) दरवाजे और खिड़कियों का क्षेत्रफल:\n1 दरवाजे का क्षेत्रफल = 2 मी × 1.5 मी = 3 वर्ग मीटर।\n2 खिड़कियों का क्षेत्रफल = 2 × (1.5 मी × 1 मी) = 2 × 1.5 = 3 वर्ग मीटर।\nदरवाजे और खिड़कियों का कुल क्षेत्रफल = 3 + 3 = 6 वर्ग मीटर।\n\n(c) सफेदी की जाने वाली दीवारों का क्षेत्रफल:\nसफेदी का क्षेत्रफल = 4 दीवारों का क्षेत्रफल - दरवाजे/खिड़कियों का क्षेत्रफल\nक्षेत्रफल = 108 - 6 = 102 वर्ग मीटर।\n\n(d) सफेदी करने का कुल खर्च:\nदर = ₹20 प्रति वर्ग मीटर\nकुल खर्च = 102 × 20 = ₹2,040।\n\nअतः सफेदी करने योग्य क्षेत्रफल 102 वर्ग मीटर है और कुल खर्च ₹2,040 है।",
+      "keyPoints": [
+        "Area of 4 walls = 2 × (l + b) × h = 2 × 18 × 3 = 108 m². / 4 दीवारों का क्षेत्रफल = 108 मी²।",
+        "Door + Windows Area = 3 + 3 = 6 m². / दरवाजा + खिड़कियाँ = 6 मी²।",
+        "Net area for whitewashing = 108 - 6 = 102 m². / सफेदी योग्य क्षेत्रफल = 102 मी²।",
+        "Total Cost = 102 × 20 = ₹2,040. / कुल खर्च = 102 × 20 = ₹2,040।"
+      ]
+    },
+    {
+      "id": "q29",
+      "type": "case-study",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "Case Study: School Bulletin Board Decoration.\nFor Independence Day celebrations, students of Class 6 are decorating a rectangular bulletin board measuring 240 cm in length and 120 cm in breadth. They want to put a colorful ribbon along its boundary and cover the entire surface with decorative chart papers. Each chart paper sheet measures 60 cm by 40 cm.\n(a) What is the total length of colorful ribbon required for the border?\n(b) Find the area of the bulletin board in sq cm.\n(c) Find the area of one chart paper sheet in sq cm.\n(d) How many chart paper sheets will be needed to cover the entire board completely?",
+      "questionHi": "केस स्टडी: विद्यालय सूचना पट (Bulletin Board) की सजावट।\nस्वतंत्रता दिवस समारोह के लिए, कक्षा 6 के छात्र 240 सेमी लंबे और 120 सेमी चौड़े एक आयताकार सूचना पट को सजा रहे हैं। वे इसकी सीमा (बॉर्डर) के चारों ओर एक रंगीन रिबन लगाना चाहते हैं और पूरे सतह को सजावटी चार्ट पेपर से ढकना चाहते हैं। प्रत्येक चार्ट पेपर शीट की माप 60 सेमी × 40 सेमी है।\n(a) बॉर्डर के लिए आवश्यक रंगीन रिबन की कुल लंबाई क्या है?\n(b) सूचना पट का क्षेत्रफल वर्ग सेमी में ज्ञात कीजिए।\n(c) एक चार्ट पेपर शीट का क्षेत्रफल वर्ग सेमी में ज्ञात कीजिए।\n(d) पूरे सूचना पट को ढकने के लिए कितनी चार्ट पेपर शीटों की आवश्यकता होगी?",
+      "answer": "(a) Length of ribbon required (Perimeter of board):\nPerimeter = 2 × (Length + Breadth) = 2 × (240 + 120) = 2 × 360 = 720 cm (or 7.2 m).\n\n(b) Area of bulletin board:\nArea = Length × Breadth = 240 cm × 120 cm = 28,800 sq cm.\n\n(c) Area of one chart paper sheet:\nArea = 60 cm × 40 cm = 2,400 sq cm.\n\n(d) Number of chart paper sheets needed:\nNumber of sheets = Area of board ÷ Area of one sheet\nNumber of sheets = 28,800 ÷ 2,400 = 12 sheets.\n\nTherefore, 720 cm of ribbon and 12 chart paper sheets are required.",
+      "answerHi": "(a) आवश्यक रिबन की लंबाई (सूचना पट का परिमाप):\nपरिमाप = 2 × (लंबाई + चौड़ाई) = 2 × (240 + 120) = 2 × 360 = 720 सेमी (या 7.2 मीटर)।\n\n(b) सूचना पट का क्षेत्रफल:\nक्षेत्रफल = लंबाई × चौड़ाई = 240 सेमी × 120 सेमी = 28,800 वर्ग सेमी।\n\n(c) एक चार्ट पेपर शीट का क्षेत्रफल:\nक्षेत्रफल = 60 सेमी × 40 सेमी = 2,400 वर्ग सेमी।\n\n(d) आवश्यक चार्ट पेपर शीटों की संख्या:\nशीटों की संख्या = सूचना पट का क्षेत्रफल ÷ एक शीट का क्षेत्रफल\nशीटों की संख्या = 28,800 ÷ 2,400 = 12 शीटें।\n\nअतः 720 सेमी रिबन और 12 चार्ट पेपर शीटों की आवश्यकता होगी।",
+      "keyPoints": [
+        "Ribbon length = Perimeter = 2 × (240 + 120) = 720 cm. / रिबन की लंबाई = परिमाप = 720 सेमी।",
+        "Board Area = 240 × 120 = 28,800 cm². / सूचना पट का क्षेत्रफल = 28,800 सेमी²।",
+        "Sheet Area = 60 × 40 = 2,400 cm². / एक शीट का क्षेत्रफल = 2,400 सेमी²।",
+        "Number of sheets = 28,800 ÷ 2,400 = 12 sheets. / शीटों की संख्या = 12 शीटें।"
+      ]
+    },
+    {
+      "id": "q30",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "(a) If the side of a square is tripled (made 3 times), how many times will its perimeter increase and how many times will its area increase? Show with algebraic proof.\n(b) Is it possible for two rectangles to have the exact same area but different perimeters? Justify your answer by giving two numerical examples.",
+      "questionHi": "(a) यदि किसी वर्ग की भुजा को तीन गुना (Tripled) कर दिया जाए, तो उसका परिमाप कितने गुना बढ़ जाएगा और उसका क्षेत्रफल कितने गुना बढ़ जाएगा? बीजीय प्रमाण के साथ दर्शाइए।\n(b) क्या यह संभव है कि दो आयतों का क्षेत्रफल बिल्कुल समान हो लेकिन उनके परिमाप अलग-अलग हों? दो संख्यात्मक उदाहरण देकर अपने उत्तर की पुष्टि कीजिए।",
+      "answer": "(a) Effect of tripling the side of a square:\nLet original side of square = s.\nOriginal Perimeter (P1) = 4s\nOriginal Area (A1) = s × s = s²\n\nWhen side is tripled, New Side (S) = 3s.\nNew Perimeter (P2) = 4 × (3s) = 3 × (4s) = 3 × P1.\nNew Area (A2) = (3s) × (3s) = 9 × s² = 9 × A1.\n\nConclusion: When the side of a square is tripled, its perimeter becomes 3 times, whereas its area becomes 9 times!\n\n(b) Same Area but Different Perimeters:\nYes, it is completely possible for two rectangles to have the exact same area but different perimeters.\n\nNumerical Examples (Area = 36 sq cm):\nExample 1: Rectangle A with Length = 12 cm and Breadth = 3 cm.\nArea = 12 × 3 = 36 sq cm.\nPerimeter = 2 × (12 + 3) = 2 × 15 = 30 cm.\n\nExample 2: Rectangle B with Length = 9 cm and Breadth = 4 cm.\nArea = 9 × 4 = 36 sq cm (Same area as Rectangle A!).\nPerimeter = 2 × (9 + 4) = 2 × 13 = 26 cm (Different perimeter!).\n\nThus, rectangles can have equal areas but different perimeters.",
+      "answerHi": "(a) वर्ग की भुजा तीन गुना करने का प्रभाव:\nमाना वर्ग की मूल भुजा = s।\nमूल परिमाप (P1) = 4s\nमूल क्षेत्रफल (A1) = s × s = s²\n\nजब भुजा तीन गुना की जाती है, नई भुजा (S) = 3s।\nनया परिमाप (P2) = 4 × (3s) = 3 × (4s) = 3 × P1।\nनया क्षेत्रफल (A2) = (3s) × (3s) = 9 × s² = 9 × A1।\n\nनिष्कर्ष: जब वर्ग की भुजा को तीन गुना किया जाता है, तो उसका परिमाप 3 गुना हो जाता है, जबकि उसका क्षेत्रफल 9 गुना (3² = 9) हो जाता है!\n\n(b) समान क्षेत्रफल लेकिन भिन्न परिमाप:\nहाँ, यह पूरी तरह संभव है कि दो आयतों का क्षेत्रफल समान हो लेकिन उनके परिमाप अलग-अलग हों।\n\nसंख्यात्मक उदाहरण (क्षेत्रफल = 36 वर्ग सेमी):\nउदाहरण 1: आयत A जिसकी लंबाई = 12 सेमी और चौड़ाई = 3 सेमी।\nक्षेत्रफल = 12 × 3 = 36 वर्ग सेमी।\nपरिमाप = 2 × (12 + 3) = 2 × 15 = 30 सेमी।\n\nउदाहरण 2: आयत B जिसकी लंबाई = 9 सेमी और चौड़ाई = 4 सेमी।\nक्षेत्रफल = 9 × 4 = 36 वर्ग सेमी (आयत A के समान क्षेत्रफल!)।\nपरिमाप = 2 × (9 + 4) = 2 × 13 = 26 सेमी (भिन्न परिमाप!)।\n\nअतः समान क्षेत्रफल वाले आयतों के परिमाप अलग-अलग हो सकते हैं।",
+      "keyPoints": [
+        "If side becomes 3x: Perimeter becomes 3x; Area becomes 3² = 9 times! / भुजा 3 गुना होने पर: परिमाप 3 गुना और क्षेत्रफल 9 गुना हो जाता है!",
+        "Example 1: 12 × 3 = 36 cm², Perimeter = 30 cm. / उदाहरण 1: क्षेत्रफल = 36 सेमी², परिमाप = 30 सेमी।",
+        "Example 2: 9 × 4 = 36 cm², Perimeter = 26 cm. / उदाहरण 2: क्षेत्रफल = 36 सेमी², परिमाप = 26 सेमी।",
+        "Same area does NOT mean same perimeter! / समान क्षेत्रफल का अर्थ समान परिमाप नहीं होता है!"
+      ]
+    }
+  ]
+}
