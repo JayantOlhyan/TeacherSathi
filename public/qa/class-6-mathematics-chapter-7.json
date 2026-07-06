@@ -1,0 +1,464 @@
+{
+  "chapterTitle": "Fractions",
+  "chapterTitleHi": "भिन्न",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What is a fraction? Explain with an example of representing a shaded part of a circle.",
+      "questionHi": "भिन्न (Fraction) क्या होती है? एक वृत्त (Circle) के छायांकित भाग को निरूपित करने के उदाहरण से समझाइए।",
+      "answer": "A fraction is a number representing a part of a whole or a part of a collection/group. The whole must be divided into equal parts.\nExample: Consider a circle divided into 4 equal parts (quarters). If 3 out of these 4 parts are shaded with color, then the shaded part is represented by the fraction 3/4 (read as three-fourths). Here, 4 is the total number of equal parts and 3 is the number of shaded parts taken.",
+      "answerHi": "भिन्न वह संख्या है जो किसी पूर्ण (Whole) के एक भाग या किसी समूह/संग्रह के एक भाग को दर्शाती है। पूर्ण को समान भागों में विभाजित किया जाना अनिवार्य है।\nउदाहरण: मान लीजिए एक वृत्त को 4 बराबर भागों (चौथाई) में बाँटा गया है। यदि इन 4 भागों में से 3 भाग रंग से छायांकित किए गए हैं, तो छायांकित भाग को भिन्न 3/4 (तीन-चौथाई) द्वारा दर्शाया जाता है। यहाँ, 4 समान भागों की कुल संख्या है और 3 लिए गए छायांकित भागों की संख्या है।",
+      "keyPoints": [
+        "Fraction = Part of a whole or collection. / भिन्न = किसी पूर्ण या समूह का भाग।",
+        "The whole must be divided into EQUAL parts. / पूर्ण को समान (बराबर) भागों में विभाजित करना आवश्यक है।",
+        "Example: 3 shaded parts out of 4 equal parts = 3/4. / उदाहरण: 4 बराबर भागों में से 3 छायांकित भाग = 3/4।"
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Identify the numerator and denominator in the fraction 7/12. What do they represent?",
+      "questionHi": "भिन्न 7/12 में अंश (Numerator) और हर (Denominator) की पहचान कीजिए। वे क्या दर्शाते हैं?",
+      "answer": "In the fraction 7/12:\n1. Numerator = 7 (the top number).\nIt represents the number of equal parts being considered or taken.\n2. Denominator = 12 (the bottom number).\nIt represents the total number of equal parts into which the whole has been divided.",
+      "answerHi": "भिन्न 7/12 में:\n1. अंश (Numerator) = 7 (ऊपर वाली संख्या)।\nयह दर्शाता है कि कुल समान भागों में से कितने भाग लिए या चुने गए हैं।\n2. हर (Denominator) = 12 (नीचे वाली संख्या)।\nयह दर्शाता है कि संपूर्ण वस्तु को कुल कितने समान भागों में विभाजित किया गया है।",
+      "keyPoints": [
+        "Numerator = Top number = 7 (parts taken). / अंश = ऊपर वाली संख्या = 7 (लिए गए भाग)।",
+        "Denominator = Bottom number = 12 (total equal parts). / हर = नीचे वाली संख्या = 12 (कुल समान भाग)।",
+        "Remember: Denominator can NEVER be zero! / याद रखें: हर (Denominator) कभी भी शून्य नहीं हो सकता!"
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Explain how to represent the fractions 1/5, 3/5, and 4/5 on a number line.",
+      "questionHi": "संख्या रेखा (Number Line) पर भिन्नों 1/5, 3/5 और 4/5 को निरूपित करने की विधि समझाइए।",
+      "answer": "Since all three fractions (1/5, 3/5, 4/5) are proper fractions, their values lie between 0 and 1 on the number line.\n\nSteps to represent on a number line:\n1. Draw a straight horizontal line and mark two points as 0 and 1.\n2. Since the denominator is 5, divide the distance between 0 and 1 into 5 equal parts using 4 marking marks.\n3. Starting from 0, label the marks from left to right as:\n1st mark = 1/5\n2nd mark = 2/5\n3rd mark = 3/5\n4th mark = 4/5\n5th mark (which is 1) = 5/5.\n4. Highlight or circle the points corresponding to 1/5, 3/5, and 4/5 on this number line.",
+      "answerHi": "चूँकि तीनों भिन्नें (1/5, 3/5, 4/5) उचित भिन्न हैं, अतः उनका मान संख्या रेखा पर 0 और 1 के बीच होगा।\n\nसंख्या रेखा पर निरूपित करने के चरण:\n1. एक सीधी क्षैतिज रेखा खींचिए और उस पर दो बिंदु 0 और 1 अंकित कीजिए।\n2. चूँकि हर 5 है, इसलिए 0 और 1 के बीच की दूरी को 4 चिह्न लगाकर 5 बराबर भागों में विभाजित कीजिए।\n3. 0 से शुरू करते हुए, बाएँ से दाएँ चिह्नों पर लिखिए:\nपहला चिह्न = 1/5\nदूसरा चिह्न = 2/5\nतीसरा चिह्न = 3/5\nचौथा चिह्न = 4/5\nपाँचवाँ चिह्न (जो कि 1 है) = 5/5।\n4. इस संख्या रेखा पर 1/5, 3/5 और 4/5 वाले बिंदुओं को गहरा या गोला (Circle) कीजिए।",
+      "keyPoints": [
+        "Proper fractions always lie between 0 and 1. / उचित भिन्नें सदैव 0 और 1 के बीच स्थित होती हैं।",
+        "Denominator 5 -> Divide gap between 0 and 1 into 5 equal parts. / हर 5 -> 0 और 1 के बीच के भाग को 5 बराबर हिस्सों में बाँटें।",
+        "Mark the 1st, 3rd, and 4th divisions as 1/5, 3/5, and 4/5. / पहले, तीसरे और चौथे चिह्न को 1/5, 3/5 और 4/5 दर्शाएँ।"
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What are proper and improper fractions? Give two examples of each.",
+      "questionHi": "उचित भिन्न (Proper Fraction) और विषम/अनुचित भिन्न (Improper Fraction) क्या होती हैं? प्रत्येक के दो उदाहरण दीजिए।",
+      "answer": "1. Proper Fraction: A fraction in which the numerator is strictly less than the denominator is called a proper fraction. Its value is always less than 1.\nExamples: 3/7, 5/9.\n\n2. Improper Fraction: A fraction in which the numerator is greater than or equal to the denominator is called an improper fraction. Its value is always greater than or equal to 1.\nExamples: 8/5, 11/4 (or 7/7).",
+      "answerHi": "1. उचित भिन्न (Proper Fraction): ऐसी भिन्न जिसका अंश (Numerator) उसके हर (Denominator) से छोटा होता है, उचित भिन्न कहलाती है। इसका मान सदैव 1 से कम होता है।\nउदाहरण: 3/7, 5/9।\n\n2. विषम/अनुचित भिन्न (Improper Fraction): ऐसी भिन्न जिसका अंश उसके हर से बड़ा या उसके बराबर होता है, विषम या अनुचित भिन्न कहलाती है। इसका मान सदैव 1 के बराबर या 1 से बड़ा होता है।\nउदाहरण: 8/5, 11/4 (या 7/7)।",
+      "keyPoints": [
+        "Proper Fraction: Numerator < Denominator (Value < 1). / उचित भिन्न: अंश < हर (मान < 1)।",
+        "Improper Fraction: Numerator >= Denominator (Value >= 1). / विषम भिन्न: अंश >= हर (मान >= 1)।",
+        "Examples of Proper: 3/7, 5/9. Examples of Improper: 8/5, 11/4."
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "Convert the improper fraction 25/7 into a mixed fraction. Show the division clearly.",
+      "questionHi": "विषम भिन्न 25/7 को मिश्रित भिन्न (Mixed Fraction) में बदलिए। विभाजन क्रिया स्पष्ट रूप से दिखाइए।",
+      "answer": "To convert an improper fraction into a mixed fraction, we divide the numerator by the denominator.\n\nDivision:\nDivide 25 by 7:\n25 ÷ 7:\nQuotient = 3 (since 7 × 3 = 21)\nRemainder = 25 - 21 = 4\nDivisor (Denominator) = 7.\n\nFormula for Mixed Fraction: Quotient (Remainder/Divisor)\nMixed Fraction = 3 4/7.\n\nTherefore, 25/7 expressed as a mixed fraction is 3 4/7.",
+      "answerHi": "किसी विषम भिन्न को मिश्रित भिन्न में बदलने के लिए, हम अंश को हर से भाग देते हैं।\n\nविभाजन क्रिया:\n25 को 7 से भाग दीजिए:\n25 ÷ 7:\nभागफल = 3 (क्योंकि 7 × 3 = 21)\nशेषफल = 25 - 21 = 4\nभाजक (हर) = 7।\n\nमिश्रित भिन्न का सूत्र: भागफल (शेषफल/भाजक)\nमिश्रित भिन्न = 3 4/7।\n\nअतः 25/7 को मिश्रित भिन्न के रूप में 3 4/7 लिखा जाता है।",
+      "keyPoints": [
+        "Divide numerator by denominator: 25 ÷ 7. / अंश को हर से भाग दें: 25 ÷ 7।",
+        "Quotient = 3, Remainder = 4, Denominator = 7. / भागफल = 3, शेषफल = 4, हर = 7।",
+        "Formula: Quotient (Remainder/Denominator) -> 3 4/7. / सूत्र: भागफल (शेषफल/हर) -> 3 4/7।"
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "Convert the mixed fraction 4 3/8 into an improper fraction.",
+      "questionHi": "मिश्रित भिन्न 4 3/8 को विषम भिन्न (Improper Fraction) में बदलिए।",
+      "answer": "To convert a mixed fraction into an improper fraction, we use the formula:\nImproper Fraction = [(Whole Number × Denominator) + Numerator] / Denominator\n\nGiven mixed fraction = 4 3/8\nWhole Number = 4, Denominator = 8, Numerator = 3.\n\nCalculation:\nNumerator of improper fraction = (4 × 8) + 3 = 32 + 3 = 35.\nDenominator remains the same = 8.\n\nImproper Fraction = 35/8.\nTherefore, 4 3/8 as an improper fraction is 35/8.",
+      "answerHi": "मिश्रित भिन्न को विषम भिन्न में बदलने के लिए, हम निम्नलिखित सूत्र का उपयोग करते हैं:\nविषम भिन्न = [(पूर्ण संख्या × हर) + अंश] / हर\n\nदी गई मिश्रित भिन्न = 4 3/8\nपूर्ण संख्या = 4, हर = 8, अंश = 3।\n\nगणना:\nविषम भिन्न का अंश = (4 × 8) + 3 = 32 + 3 = 35।\nहर समान रहता है = 8।\n\nविषम भिन्न = 35/8।\nअतः 4 3/8 का विषम भिन्न रूप 35/8 है।",
+      "keyPoints": [
+        "Formula: [(Whole × Denominator) + Numerator] / Denominator / सूत्र: [(पूर्ण × हर) + अंश] / हर",
+        "Calculation: (4 × 8) + 3 = 32 + 3 = 35. / गणना: (4 × 8) + 3 = 35।",
+        "Improper fraction = 35/8. / विषम भिन्न = 35/8।"
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What are equivalent fractions? Write two equivalent fractions of 3/5.",
+      "questionHi": "तुल्य भिन्न (Equivalent Fractions) क्या होती हैं? 3/5 की दो तुल्य भिन्नें लिखिए।",
+      "answer": "Equivalent Fractions: Fractions that represent the same part of a whole or the same value, even though their numerators and denominators are different, are called equivalent fractions.\n\nTo find equivalent fractions, we multiply (or divide) both the numerator and the denominator by the same non-zero number.\n\nFinding equivalent fractions of 3/5:\n1st Equivalent Fraction: Multiply numerator and denominator by 2:\n(3 × 2) / (5 × 2) = 6/10.\n\n2nd Equivalent Fraction: Multiply numerator and denominator by 3:\n(3 × 3) / (5 × 3) = 9/15.\n\nTherefore, two equivalent fractions of 3/5 are 6/10 and 9/15.",
+      "answerHi": "तुल्य भिन्न (Equivalent Fractions): ऐसी भिन्नें जो किसी पूर्ण के एक ही समान भाग या समान मान को दर्शाती हैं, भले ही उनके अंश और हर अलग-अलग हों, तुल्य भिन्नें कहलाती हैं।\n\nतुल्य भिन्न ज्ञात करने के लिए, हम अंश और हर दोनों को एक ही शून्येतर (Non-zero) संख्या से गुणा (या भाग) करते हैं।\n\n3/5 की तुल्य भिन्नें ज्ञात करना:\nपहली तुल्य भिन्न: अंश और हर को 2 से गुणा करें:\n(3 × 2) / (5 × 2) = 6/10।\n\nदूसरी तुल्य भिन्न: अंश और हर को 3 से गुणा करें:\n(3 × 3) / (5 × 3) = 9/15।\n\nअतः 3/5 की दो तुल्य भिन्नें 6/10 और 9/15 हैं।",
+      "keyPoints": [
+        "Equivalent fractions have the SAME value (e.g., 1/2 = 2/4 = 3/6). / तुल्य भिन्नों का मान समान होता है।",
+        "Multiply numerator and denominator by the SAME number. / अंश और हर दोनों को एक ही संख्या से गुणा करें।",
+        "3/5 = 6/10 = 9/15 = 12/20 (infinite equivalent fractions exist). / 3/5 = 6/10 = 9/15 (अनंत तुल्य भिन्नें होती हैं)।"
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "Reduce the fraction 48/60 to its simplest form (lowest terms).",
+      "questionHi": "भिन्न 48/60 को उसके सरलतम रूप (Simplest Form) में घटाइए/बदलिए।",
+      "answer": "A fraction is in its simplest form when the Highest Common Factor (HCF) of its numerator and denominator is 1.\n\nStep 1: Find the HCF of 48 and 60.\nFactors of 48: 1, 2, 3, 4, 6, 8, 12, 16, 24, 48.\nFactors of 60: 1, 2, 3, 4, 5, 6, 10, 12, 15, 20, 30, 60.\nHCF of 48 and 60 = 12.\n\nStep 2: Divide both numerator and denominator by their HCF (12):\n(48 ÷ 12) / (60 ÷ 12) = 4/5.\n\nSince 4 and 5 are co-prime (HCF = 1), 4/5 is the simplest form of 48/60.",
+      "answerHi": "कोई भिन्न अपने सरलतम रूप में तब होती है जब उसके अंश और हर का महत्तम समापवर्तक (म.स. / HCF) केवल 1 हो।\n\nचरण 1: 48 और 60 का म.स. ज्ञात कीजिए।\n48 के गुणनखंड: 1, 2, 3, 4, 6, 8, 12, 16, 24, 48।\n60 के गुणनखंड: 1, 2, 3, 4, 5, 6, 10, 12, 15, 20, 30, 60।\n48 और 60 का म.स. = 12।\n\nचरण 2: अंश और हर दोनों को उनके म.स. (12) से भाग दीजिए:\n(48 ÷ 12) / (60 ÷ 12) = 4/5।\n\nचूँकि 4 और 5 सह-अभाज्य हैं (म.स. = 1), अतः 48/60 का सरलतम रूप 4/5 है।",
+      "keyPoints": [
+        "Find HCF of Numerator and Denominator: HCF(48, 60) = 12. / अंश और हर का म.स. निकालें: म.स.(48, 60) = 12।",
+        "Divide both by HCF: 48 ÷ 12 = 4; 60 ÷ 12 = 5. / दोनों को म.स. से भाग दें: 48 ÷ 12 = 4; 60 ÷ 12 = 5।",
+        "Simplest form = 4/5. / सरलतम रूप = 4/5।"
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What are like and unlike fractions? Give two examples of each.",
+      "questionHi": "समान भिन्न (Like Fractions) और असमान भिन्न (Unlike Fractions) क्या होती हैं? प्रत्येक के दो उदाहरण दीजिए।",
+      "answer": "1. Like Fractions: Fractions that have the exact same denominator are called like fractions.\nExamples: 2/9, 5/9, 7/9 (all have denominator 9).\n\n2. Unlike Fractions: Fractions that have different denominators are called unlike fractions.\nExamples: 3/4, 5/7, 2/5 (denominators are 4, 7, and 5 which are different).",
+      "answerHi": "1. समान भिन्न (Like Fractions): ऐसी भिन्नें जिनके हर (Denominator) बिल्कुल समान (एक जैसे) होते हैं, समान भिन्न कहलाती हैं।\nउदाहरण: 2/9, 5/9, 7/9 (सभी का हर 9 है)।\n\n2. असमान भिन्न (Unlike Fractions): ऐसी भिन्नें जिनके हर अलग-अलग (भिन्न) होते हैं, असमान भिन्न कहलाती हैं।\nउदाहरण: 3/4, 5/7, 2/5 (इनके हर 4, 7 और 5 हैं जो अलग-अलग हैं)।",
+      "keyPoints": [
+        "Like Fractions = SAME denominators (e.g., 2/9, 5/9). / समान भिन्न = समान हर (जैसे 2/9, 5/9)।",
+        "Unlike Fractions = DIFFERENT denominators (e.g., 3/4, 5/7). / असमान भिन्न = अलग-अलग हर (जैसे 3/4, 5/7)।",
+        "We can only add/subtract directly if fractions are LIKE fractions! / हम केवल समान भिन्नों को ही सीधे जोड़ या घटा सकते हैं!"
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "Compare the fractions 5/8 and 7/12 by converting them into like fractions.",
+      "questionHi": "समान भिन्नों में बदलकर भिन्नों 5/8 और 7/12 की तुलना कीजिए।",
+      "answer": "Step 1: Find the LCM of the denominators (8 and 12).\nMultiples of 8: 8, 16, 24, 32...\nMultiples of 12: 12, 24, 36...\nLCM of 8 and 12 = 24.\n\nStep 2: Convert both fractions into equivalent like fractions with denominator 24.\nFor 5/8: Multiply numerator and denominator by 3:\n(5 × 3) / (8 × 3) = 15/24.\n\nFor 7/12: Multiply numerator and denominator by 2:\n(7 × 2) / (12 × 2) = 14/24.\n\nStep 3: Compare the numerators of like fractions.\nSince 15 > 14, we have 15/24 > 14/24.\n\nTherefore, 5/8 > 7/12.",
+      "answerHi": "चरण 1: हरों (8 और 12) का ल.स. (LCM) ज्ञात कीजिए।\n8 के गुणज: 8, 16, 24, 32...\n12 के गुणज: 12, 24, 36...\n8 और 12 का ल.स. = 24।\n\nचरण 2: दोनों भिन्नों को हर 24 वाली तुल्य समान भिन्नों में बदलिए।\n5/8 के लिए: अंश और हर को 3 से गुणा करें:\n(5 × 3) / (8 × 3) = 15/24।\n\n7/12 के लिए: अंश और हर को 2 से गुणा करें:\n(7 × 2) / (12 × 2) = 14/24।\n\nचरण 3: समान भिन्नों के अंशों की तुलना कीजिए।\nचूँकि 15 > 14 है, अतः 15/24 > 14/24।\n\nअतः 5/8 > 7/12।",
+      "keyPoints": [
+        "LCM of denominators 8 and 12 = 24. / हरों 8 और 12 का ल.स. = 24।",
+        "5/8 = 15/24 and 7/12 = 14/24. / 5/8 = 15/24 और 7/12 = 14/24।",
+        "Since 15 > 14, 5/8 is greater than 7/12 (5/8 > 7/12). / चूँकि 15 > 14, अतः 5/8 > 7/12।"
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Add the like fractions: 3/11 + 5/11 + 2/11. Write your final answer in simplest form.",
+      "questionHi": "समान भिन्नों को जोड़िए: 3/11 + 5/11 + 2/11। अपना अंतिम उत्तर सरलतम रूप में लिखिए।",
+      "answer": "When adding like fractions (fractions with the same denominator), we simply add the numerators together and keep the common denominator unchanged.\n\nGiven expression:\n3/11 + 5/11 + 2/11\n= (3 + 5 + 2) / 11\n= 10/11.\n\nCheck for simplest form:\nSince 10 and 11 have no common factor other than 1 (they are co-prime), 10/11 is already in its simplest form.\n\nTherefore, the sum is 10/11.",
+      "answerHi": "समान भिन्नों (समान हर वाली भिन्नों) को जोड़ते समय, हम केवल अंशों को आपस में जोड़ देते हैं और उभयनिष्ठ हर को वैसा ही रहने देते हैं।\n\nदिया गया व्यंजक:\n3/11 + 5/11 + 2/11\n= (3 + 5 + 2) / 11\n= 10/11।\n\nसरलतम रूप की जाँच:\nचूँकि 10 और 11 में 1 के अलावा कोई सार्व गुणनखंड नहीं है (ये सह-अभाज्य हैं), अतः 10/11 पहले से ही अपने सरलतम रूप में है।\n\nअतः योगफल 10/11 है।",
+      "keyPoints": [
+        "For like fractions: Sum = (Sum of Numerators) / Common Denominator. / समान भिन्नों के लिए: योग = (अंशों का योग) / उभयनिष्ठ हर।",
+        "Calculation: (3 + 5 + 2) / 11 = 10/11. / गणना: (3 + 5 + 2) / 11 = 10/11।",
+        "Never add denominators! Denominator stays 11. / हरों को कभी न जोड़ें! हर 11 ही रहेगा।"
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Subtract 5/14 from 9/14 and simplify the result to its lowest terms.",
+      "questionHi": "9/14 में से 5/14 को घटाइए और परिणाम को सरलतम रूप (Lowest Terms) में बदलिए।",
+      "answer": "When subtracting like fractions, subtract the numerators and keep the common denominator.\n\nGiven expression:\n9/14 - 5/14\n= (9 - 5) / 14\n= 4/14.\n\nStep 2: Simplify to lowest terms.\nFind HCF of 4 and 14:\n4 = 2 × 2\n14 = 2 × 7\nHCF = 2.\n\nDivide numerator and denominator by 2:\n(4 ÷ 2) / (14 ÷ 2) = 2/7.\n\nTherefore, the simplified result is 2/7.",
+      "answerHi": "समान भिन्नों को घटाते समय, अंशों को घटाते हैं और उभयनिष्ठ हर को वैसा ही रखते हैं।\n\nदिया गया व्यंजक:\n9/14 - 5/14\n= (9 - 5) / 14\n= 4/14।\n\nचरण 2: सरलतम रूप में बदलना।\n4 और 14 का म.स. ज्ञात करें:\n4 = 2 × 2\n14 = 2 × 7\nम.स. = 2।\n\nअंश और हर को 2 से भाग दें:\n(4 ÷ 2) / (14 ÷ 2) = 2/7।\n\nअतः सरलतम परिणाम 2/7 है।",
+      "keyPoints": [
+        "Subtract numerators: (9 - 5) / 14 = 4/14. / अंशों को घटाएँ: (9 - 5) / 14 = 4/14।",
+        "Simplify by dividing by HCF (2): 4 ÷ 2 = 2; 14 ÷ 2 = 7. / म.स. (2) से भाग देकर सरल करें: 4/14 -> 2/7।",
+        "Final simplified answer = 2/7. / अंतिम सरलतम उत्तर = 2/7।"
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Find the sum of unlike fractions: 2/3 + 3/4 + 1/2.",
+      "questionHi": "असमान भिन्नों का योगफल ज्ञात कीजिए: 2/3 + 3/4 + 1/2।",
+      "answer": "To add unlike fractions, we must first convert them into like fractions by finding the LCM of their denominators.\n\nStep 1: Find LCM of denominators 3, 4, and 2.\nLCM(3, 4, 2) = 12.\n\nStep 2: Convert each fraction to an equivalent fraction with denominator 12:\n2/3 = (2 × 4) / (3 × 4) = 8/12\n3/4 = (3 × 3) / (4 × 3) = 9/12\n1/2 = (1 × 6) / (2 × 6) = 6/12\n\nStep 3: Add the like fractions:\n8/12 + 9/12 + 6/12 = (8 + 9 + 6) / 12 = 23/12.\n\nStep 4: Convert improper fraction into mixed fraction:\n23 ÷ 12 gives Quotient 1 and Remainder 11.\n23/12 = 1 11/12.\n\nTherefore, the sum is 23/12 (or 1 11/12).",
+      "answerHi": "असमान भिन्नों को जोड़ने के लिए, हमें पहले उनके हरों का ल.स. (LCM) लेकर उन्हें समान भिन्नों में बदलना होगा।\n\nचरण 1: हरों 3, 4 और 2 का ल.स. ज्ञात कीजिए।\nल.स.(3, 4, 2) = 12।\n\nचरण 2: प्रत्येक भिन्न को हर 12 वाली तुल्य भिन्न में बदलिए:\n2/3 = (2 × 4) / (3 × 4) = 8/12\n3/4 = (3 × 3) / (4 × 3) = 9/12\n1/2 = (1 × 6) / (2 × 6) = 6/12\n\nचरण 3: समान भिन्नों को जोड़िए:\n8/12 + 9/12 + 6/12 = (8 + 9 + 6) / 12 = 23/12।\n\nचरण 4: विषम भिन्न को मिश्रित भिन्न में बदलिए:\n23 ÷ 12 करने पर भागफल 1 और शेषफल 11 मिलता है।\n23/12 = 1 11/12।\n\nअतः योगफल 23/12 (या 1 11/12) है।",
+      "keyPoints": [
+        "LCM of denominators 3, 4, 2 = 12. / हरों 3, 4, 2 का ल.स. = 12।",
+        "Convert to like fractions: 8/12 + 9/12 + 6/12. / समान भिन्नों में बदलें: 8/12 + 9/12 + 6/12।",
+        "Sum = 23/12 = 1 11/12. / योग = 23/12 = 1 11/12।"
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "Evaluate: 5 1/6 - 2 3/4. Express your final answer as a mixed fraction.",
+      "questionHi": "मान ज्ञात कीजिए: 5 1/6 - 2 3/4। अपने अंतिम उत्तर को मिश्रित भिन्न के रूप में व्यक्त कीजिए।",
+      "answer": "Step 1: Convert both mixed fractions into improper fractions.\n5 1/6 = [(5 × 6) + 1] / 6 = 31/6\n2 3/4 = [(2 × 4) + 3] / 4 = 11/4\nExpression becomes: 31/6 - 11/4.\n\nStep 2: Find LCM of denominators 6 and 4.\nLCM(6, 4) = 12.\n\nStep 3: Convert to like fractions with denominator 12:\n31/6 = (31 × 2) / (6 × 2) = 62/12\n11/4 = (11 × 3) / (4 × 3) = 33/12\n\nStep 4: Subtract the numerators:\n62/12 - 33/12 = (62 - 33) / 12 = 29/12.\n\nStep 5: Convert improper fraction into mixed fraction:\n29 ÷ 12: Quotient = 2, Remainder = 5.\n29/12 = 2 5/12.\n\nTherefore, 5 1/6 - 2 3/4 = 2 5/12.",
+      "answerHi": "चरण 1: दोनों मिश्रित भिन्नों को विषम भिन्नों में बदलिए।\n5 1/6 = [(5 × 6) + 1] / 6 = 31/6\n2 3/4 = [(2 × 4) + 3] / 4 = 11/4\nव्यंजक बना: 31/6 - 11/4।\n\nचरण 2: हरों 6 और 4 का ल.स. ज्ञात कीजिए।\nल.स.(6, 4) = 12।\n\nचरण 3: हर 12 वाली समान भिन्नों में बदलिए:\n31/6 = (31 × 2) / (6 × 2) = 62/12\n11/4 = (11 × 3) / (4 × 3) = 33/12\n\nचरण 4: अंशों को घटाइए:\n62/12 - 33/12 = (62 - 33) / 12 = 29/12।\n\nचरण 5: विषम भिन्न को मिश्रित भिन्न में बदलिए:\n29 ÷ 12: भागफल = 2, शेषफल = 5।\n29/12 = 2 5/12।\n\nअतः 5 1/6 - 2 3/4 = 2 5/12।",
+      "keyPoints": [
+        "Convert to improper: 5 1/6 = 31/6; 2 3/4 = 11/4. / विषम भिन्न में बदलें: 31/6 और 11/4।",
+        "LCM(6, 4) = 12 -> 62/12 - 33/12. / ल.स.(6, 4) = 12 -> 62/12 - 33/12।",
+        "Difference = 29/12 = 2 5/12. / अंतर = 29/12 = 2 5/12।"
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Ramesh spent 2/5 of his pocket money on books and 1/4 on stationery. What fraction of his total pocket money did he spend in all?",
+      "questionHi": "रमेश ने अपने जेबखर्च (Pocket money) का 2/5 भाग पुस्तकों पर और 1/4 भाग स्टेशनरी पर खर्च किया। उसने अपने कुल जेबखर्च का कितना भाग खर्च किया?",
+      "answer": "Given:\nFraction spent on books = 2/5\nFraction spent on stationery = 1/4\n\nTotal fraction spent = 2/5 + 1/4\n\nStep 1: Find LCM of denominators 5 and 4.\nSince 5 and 4 are co-prime, LCM = 5 × 4 = 20.\n\nStep 2: Convert to like fractions:\n2/5 = (2 × 4) / (5 × 4) = 8/20\n1/4 = (1 × 5) / (4 × 5) = 5/20\n\nStep 3: Add the fractions:\n8/20 + 5/20 = (8 + 5) / 20 = 13/20.\n\nTherefore, Ramesh spent 13/20 of his total pocket money.",
+      "answerHi": "दिया गया है:\nपुस्तकों पर खर्च भाग = 2/5\nस्टेशनरी पर खर्च भाग = 1/4\n\nकुल खर्च भाग = 2/5 + 1/4\n\nचरण 1: हरों 5 और 4 का ल.स. ज्ञात कीजिए।\nचूँकि 5 और 4 सह-अभाज्य हैं, ल.स. = 5 × 4 = 20।\n\nचरण 2: समान भिन्नों में बदलिए:\n2/5 = (2 × 4) / (5 × 4) = 8/20\n1/4 = (1 × 5) / (4 × 5) = 5/20\n\nचरण 3: भिन्नों को जोड़िए:\n8/20 + 5/20 = (8 + 5) / 20 = 13/20।\n\nअतः रमेश ने अपने कुल जेबखर्च का 13/20 भाग खर्च किया।",
+      "keyPoints": [
+        "Total spent = 2/5 + 1/4. / कुल खर्च = 2/5 + 1/4।",
+        "LCM of 5 and 4 = 20 -> 8/20 + 5/20. / 5 और 4 का ल.स. = 20 -> 8/20 + 5/20।",
+        "Total fraction spent = 13/20. / कुल खर्च भाग = 13/20।"
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "A piece of ribbon is 7/8 meter long. If a piece of length 3/5 meter is cut from it, what is the length of the remaining ribbon?",
+      "questionHi": "रिबन का एक टुकड़ा 7/8 मीटर लंबा है। यदि इसमें से 3/5 मीटर लंबाई का एक टुकड़ा काट लिया जाए, तो बचे हुए रिबन की लंबाई क्या होगी?",
+      "answer": "Given:\nTotal length of ribbon = 7/8 meter\nLength of piece cut off = 3/5 meter\n\nLength of remaining ribbon = Total length - Length cut off\nRemaining length = 7/8 - 3/5\n\nStep 1: Find LCM of denominators 8 and 5.\nSince 8 and 5 are co-prime, LCM = 8 × 5 = 40.\n\nStep 2: Convert to like fractions:\n7/8 = (7 × 5) / (8 × 5) = 35/40\n3/5 = (3 × 8) / (5 × 8) = 24/40\n\nStep 3: Subtract the fractions:\n35/40 - 24/40 = (35 - 24) / 40 = 11/40 meter.\n\nTherefore, the length of the remaining ribbon is 11/40 meter.",
+      "answerHi": "दिया गया है:\nरिबन की कुल लंबाई = 7/8 मीटर\nकाटे गए टुकड़े की लंबाई = 3/5 मीटर\n\nबचे हुए रिबन की लंबाई = कुल लंबाई - काटे गए टुकड़े की लंबाई\nशेष लंबाई = 7/8 - 3/5\n\nचरण 1: हरों 8 और 5 का ल.स. ज्ञात कीजिए।\nचूँकि 8 और 5 सह-अभाज्य हैं, ल.स. = 8 × 5 = 40।\n\nचरण 2: समान भिन्नों में बदलिए:\n7/8 = (7 × 5) / (8 × 5) = 35/40\n3/5 = (3 × 8) / (5 × 8) = 24/40\n\nचरण 3: भिन्नों को घटाइए:\n35/40 - 24/40 = (35 - 24) / 40 = 11/40 मीटर।\n\nअतः बचे हुए रिबन की लंबाई 11/40 मीटर है।",
+      "keyPoints": [
+        "Remaining length = 7/8 - 3/5. / शेष लंबाई = 7/8 - 3/5।",
+        "LCM(8, 5) = 40 -> 35/40 - 24/40. / ल.स.(8, 5) = 40 -> 35/40 - 24/40।",
+        "Remaining length = 11/40 meter. / शेष लंबाई = 11/40 मीटर।"
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Check whether the fractions 12/20 and 18/30 are equivalent using the cross-multiplication method.",
+      "questionHi": "वज्र-गुणन (Cross-multiplication) विधि का उपयोग करते हुए जाँच कीजिए कि क्या भिन्नें 12/20 और 18/30 तुल्य हैं।",
+      "answer": "Cross-Multiplication Rule: Two fractions a/b and c/d are equivalent if and only if their cross-products are equal (i.e., a × d = b × c).\n\nGiven fractions: 12/20 and 18/30.\nHere, a = 12, b = 20, c = 18, d = 30.\n\nStep 1: Calculate first cross-product (a × d):\n12 × 30 = 360.\n\nStep 2: Calculate second cross-product (b × c):\n20 × 18 = 360.\n\nStep 3: Compare cross-products:\nSince 12 × 30 = 20 × 18 = 360, both cross-products are equal.\n\nTherefore, 12/20 and 18/30 are equivalent fractions.",
+      "answerHi": "वज्र-गुणन नियम: दो भिन्नें a/b और c/d तुल्य होती हैं यदि और केवल यदि उनके वज्र-गुणनफल समान हों (अर्थात् a × d = b × c)।\n\nदी गई भिन्नें: 12/20 और 18/30।\nयहाँ, a = 12, b = 20, c = 18, d = 30।\n\nचरण 1: पहला वज्र-गुणनफल (a × d) निकालिए:\n12 × 30 = 360।\n\nचरण 2: दूसरा वज्र-गुणनफल (b × c) निकालिए:\n20 × 18 = 360।\n\nचरण 3: वज्र-गुणनफलों की तुलना कीजिए:\nचूँकि 12 × 30 = 20 × 18 = 360, दोनों वज्र-गुणनफल बराबर हैं।\n\nअतः 12/20 और 18/30 तुल्य भिन्नें हैं।",
+      "keyPoints": [
+        "Cross-multiplication rule: For a/b and c/d, check if a × d = b × c. / वज्र-गुणन नियम: a/b और c/d के लिए जाँचें कि क्या a × d = b × c है।",
+        "12 × 30 = 360 and 20 × 18 = 360. / 12 × 30 = 360 और 20 × 18 = 360।",
+        "Since cross-products are equal, the fractions are equivalent! / चूँकि गुणनफल बराबर हैं, अतः भिन्नें तुल्य हैं!"
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "Find the equivalent fraction of 36/48 with: (a) numerator 9, (b) denominator 4.",
+      "questionHi": "36/48 की वह तुल्य भिन्न ज्ञात कीजिए जिसका: (a) अंश 9 हो, (b) हर 4 हो।",
+      "answer": "(a) To get numerator 9 from numerator 36:\nWe see that 36 ÷ 4 = 9.\nSo, divide both numerator and denominator by 4:\n(36 ÷ 4) / (48 ÷ 4) = 9/12.\nThus, equivalent fraction with numerator 9 is 9/12.\n\n(b) To get denominator 4 from denominator 48:\nWe see that 48 ÷ 12 = 4.\nSo, divide both numerator and denominator by 12:\n(36 ÷ 12) / (48 ÷ 12) = 3/4.\nThus, equivalent fraction with denominator 4 is 3/4.",
+      "answerHi": "(a) अंश 36 से अंश 9 प्राप्त करने के लिए:\nहम देखते हैं कि 36 ÷ 4 = 9।\nअतः अंश और हर दोनों को 4 से भाग दीजिए:\n(36 ÷ 4) / (48 ÷ 4) = 9/12।\nअतः अंश 9 वाली तुल्य भिन्न 9/12 है।\n\n(b) हर 48 से हर 4 प्राप्त करने के लिए:\nहम देखते हैं कि 48 ÷ 12 = 4।\nअतः अंश और हर दोनों को 12 से भाग दीजिए:\n(36 ÷ 12) / (48 ÷ 12) = 3/4।\nअतः हर 4 वाली तुल्य भिन्न 3/4 है।",
+      "keyPoints": [
+        "Part (a): 36 ÷ 4 = 9 -> Divide both by 4 -> 9/12. / भाग (a): 4 से भाग दें -> 9/12।",
+        "Part (b): 48 ÷ 12 = 4 -> Divide both by 12 -> 3/4. / भाग (b): 12 से भाग दें -> 3/4।",
+        "Whatever operation (multiplication/division) is done on numerator MUST be done on denominator! / जो संक्रिया अंश में की जाए वही हर में भी अनिवार्य रूप से करें!"
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Arrange the following fractions in ascending order (smallest to largest): 2/3, 3/4, 1/2, 5/6.",
+      "questionHi": "निम्नलिखित भिन्नों को आरोही क्रम (छोटे से बड़े) में व्यवस्थित कीजिए: 2/3, 3/4, 1/2, 5/6।",
+      "answer": "Step 1: Find the LCM of all denominators (3, 4, 2, and 6).\nLCM(3, 4, 2, 6) = 12.\n\nStep 2: Convert each fraction into an equivalent like fraction with denominator 12:\n2/3 = (2 × 4) / (3 × 4) = 8/12\n3/4 = (3 × 3) / (4 × 3) = 9/12\n1/2 = (1 × 6) / (2 × 6) = 6/12\n5/6 = (5 × 2) / (6 × 2) = 10/12\n\nStep 3: Arrange like fractions in ascending order of their numerators:\n6 < 8 < 9 < 10\nSo, 6/12 < 8/12 < 9/12 < 10/12.\n\nStep 4: Write original fractions in ascending order:\n1/2 < 2/3 < 3/4 < 5/6.",
+      "answerHi": "चरण 1: सभी हरों (3, 4, 2 और 6) का ल.स. (LCM) ज्ञात कीजिए।\nल.स.(3, 4, 2, 6) = 12।\n\nचरण 2: प्रत्येक भिन्न को हर 12 वाली समान भिन्न में बदलिए:\n2/3 = (2 × 4) / (3 × 4) = 8/12\n3/4 = (3 × 3) / (4 × 3) = 9/12\n1/2 = (1 × 6) / (2 × 6) = 6/12\n5/6 = (5 × 2) / (6 × 2) = 10/12\n\nचरण 3: समान भिन्नों को उनके अंशों के आरोही क्रम में व्यवस्थित कीजिए:\n6 < 8 < 9 < 10\nअतः 6/12 < 8/12 < 9/12 < 10/12।\n\nचरण 4: मूल भिन्नों को आरोही क्रम में लिखिए:\n1/2 < 2/3 < 3/4 < 5/6।",
+      "keyPoints": [
+        "LCM of denominators 3, 4, 2, 6 = 12. / हरों 3, 4, 2, 6 का ल.स. = 12।",
+        "Like fractions: 8/12, 9/12, 6/12, 10/12. / समान भिन्नें: 8/12, 9/12, 6/12, 10/12।",
+        "Ascending order: 1/2 < 2/3 < 3/4 < 5/6. / आरोही क्रम: 1/2 < 2/3 < 3/4 < 5/6।"
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "In a class of 40 students, 1/5 of the total students like studying Hindi, 2/5 like studying English, and the remaining students like studying Mathematics. How many students like Mathematics? What fraction of the class likes Mathematics?",
+      "questionHi": "40 छात्रों की एक कक्षा में, कुल छात्रों का 1/5 भाग हिंदी पढ़ना पसंद करता है, 2/5 भाग अंग्रेजी पढ़ना पसंद करता है, और शेष छात्र गणित पढ़ना पसंद करते हैं। कितने छात्र गणित पढ़ना पसंद करते हैं? कक्षा का कितना भाग (भिन्न) गणित पसंद करता है?",
+      "answer": "Method 1 (By Fraction of Whole):\nTotal class = Whole = 1.\nFraction liking Hindi = 1/5\nFraction liking English = 2/5\nTotal fraction liking Hindi and English = 1/5 + 2/5 = 3/5.\n\nFraction liking Mathematics = 1 - 3/5 = 5/5 - 3/5 = 2/5.\n\nNumber of students liking Mathematics = 2/5 of 40\n= (2 × 40) / 5 = 80 / 5 = 16 students.\n\nMethod 2 (By counting students):\nNumber liking Hindi = 1/5 × 40 = 8 students.\nNumber liking English = 2/5 × 40 = 16 students.\nTotal liking Hindi and English = 8 + 16 = 24 students.\nRemaining students liking Mathematics = 40 - 24 = 16 students.\n\nFraction liking Mathematics = 16 / 40 = 2/5.\n\nTherefore, 16 students (or 2/5 fraction of the class) like Mathematics.",
+      "answerHi": "विधि 1 (भाग/भिन्न द्वारा):\nकुल कक्षा = पूर्ण = 1।\nहिंदी पसंद करने वाला भाग = 1/5\nअंग्रेजी पसंद करने वाला भाग = 2/5\nहिंदी और अंग्रेजी पसंद करने वाला कुल भाग = 1/5 + 2/5 = 3/5।\n\nगणित पसंद करने वाला भाग = 1 - 3/5 = 5/5 - 3/5 = 2/5।\n\nगणित पसंद करने वाले छात्रों की संख्या = 40 का 2/5\n= (2 × 40) / 5 = 80 / 5 = 16 छात्र।\n\nविधि 2 (छात्रों की गणना द्वारा):\nहिंदी पसंद करने वाले छात्र = 1/5 × 40 = 8 छात्र।\nअंग्रेजी पसंद करने वाले छात्र = 2/5 × 40 = 16 छात्र।\nहिंदी और अंग्रेजी पसंद करने वाले कुल छात्र = 8 + 16 = 24 छात्र।\nगणित पसंद करने वाले शेष छात्र = 40 - 24 = 16 छात्र।\n\nगणित पसंद करने वाला भाग (भिन्न) = 16 / 40 = 2/5।\n\nअतः 16 छात्र (या कक्षा का 2/5 भाग) गणित पसंद करते हैं।",
+      "keyPoints": [
+        "Fraction liking Hindi + English = 1/5 + 2/5 = 3/5. / हिंदी + अंग्रेजी पसंद करने वाला भाग = 3/5।",
+        "Fraction liking Mathematics = 1 - 3/5 = 2/5. / गणित पसंद करने वाला भाग = 1 - 3/5 = 2/5।",
+        "Number of students = 2/5 × 40 = 16 students. / छात्रों की संख्या = 16 छात्र।"
+      ]
+    },
+    {
+      "id": "q21",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "Explain the step-by-step method to compare three unlike fractions 5/6, 7/9, and 11/12 by converting them into like fractions. Arrange them in descending order (largest to smallest).",
+      "questionHi": "तीन असमान भिन्नों 5/6, 7/9 और 11/12 को समान भिन्नों में बदलकर तुलना करने की चरणबद्ध विधि समझाइए। इन्हें अवरोही क्रम (बड़े से छोटे) में व्यवस्थित कीजिए।",
+      "answer": "To compare unlike fractions, we convert them into like fractions by making their denominators equal to their LCM.\n\nStep 1: Find the LCM of denominators 6, 9, and 12.\n6 = 2 × 3\n9 = 3²\n12 = 2² × 3\nLCM(6, 9, 12) = 2² × 3² = 4 × 9 = 36.\n\nStep 2: Convert each fraction into an equivalent like fraction with denominator 36:\n1. For 5/6: Multiply numerator and denominator by 6 (since 36 ÷ 6 = 6):\n(5 × 6) / (6 × 6) = 30/36.\n\n2. For 7/9: Multiply numerator and denominator by 4 (since 36 ÷ 9 = 4):\n(7 × 4) / (9 × 4) = 28/36.\n\n3. For 11/12: Multiply numerator and denominator by 3 (since 36 ÷ 12 = 3):\n(11 × 3) / (12 × 3) = 33/36.\n\nStep 3: Compare numerators of like fractions:\nIn like fractions, the fraction with the largest numerator is greatest.\n33 > 30 > 28\nSo, 33/36 > 30/36 > 28/36.\n\nStep 4: Write original fractions in descending order:\n11/12 > 5/6 > 7/9.",
+      "answerHi": "असमान भिन्नों की तुलना करने के लिए, हम उनके हरों का ल.स. (LCM) लेकर उन्हें समान भिन्नों में बदलते हैं।\n\nचरण 1: हरों 6, 9 और 12 का ल.स. ज्ञात कीजिए।\n6 = 2 × 3\n9 = 3²\n12 = 2² × 3\nल.स.(6, 9, 12) = 2² × 3² = 4 × 9 = 36।\n\nचरण 2: प्रत्येक भिन्न को हर 36 वाली समान भिन्न में बदलिए:\n1. 5/6 के लिए: अंश और हर को 6 से गुणा करें (क्योंकि 36 ÷ 6 = 6):\n(5 × 6) / (6 × 6) = 30/36।\n\n2. 7/9 के लिए: अंश और हर को 4 से गुणा करें (क्योंकि 36 ÷ 9 = 4):\n(7 × 4) / (9 × 4) = 28/36।\n\n3. 11/12 के लिए: अंश और हर को 3 से गुणा करें (क्योंकि 36 ÷ 12 = 3):\n(11 × 3) / (12 × 3) = 33/36।\n\nचरण 3: समान भिन्नों के अंशों की तुलना कीजिए:\nसमान भिन्नों में जिस भिन्न का अंश सबसे बड़ा होता है, वह सबसे बड़ी होती है।\n33 > 30 > 28\nअतः 33/36 > 30/36 > 28/36।\n\nचरण 4: मूल भिन्नों को अवरोही क्रम में लिखिए:\n11/12 > 5/6 > 7/9।",
+      "keyPoints": [
+        "LCM of denominators 6, 9, 12 = 36. / हरों 6, 9, 12 का ल.स. = 36।",
+        "Like fractions: 5/6 = 30/36; 7/9 = 28/36; 11/12 = 33/36.",
+        "Compare numerators: 33 > 30 > 28. / अंशों की तुलना: 33 > 30 > 28।",
+        "Descending order: 11/12 > 5/6 > 7/9. / अवरोही क्रम: 11/12 > 5/6 > 7/9।"
+      ]
+    },
+    {
+      "id": "q22",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Simplify the combined fraction expression: 3 1/4 + 2 5/6 - 1 2/3. Show all LCM steps and express your final answer as a mixed fraction in simplest form.",
+      "questionHi": "संयुक्त भिन्न व्यंजक को सरल कीजिए: 3 1/4 + 2 5/6 - 1 2/3। ल.स. (LCM) के सभी चरण दिखाइए और अपने अंतिम उत्तर को सरलतम रूप की मिश्रित भिन्न में व्यक्त कीजिए।",
+      "answer": "Step 1: Convert all mixed fractions into improper fractions.\n3 1/4 = [(3 × 4) + 1] / 4 = 13/4\n2 5/6 = [(2 × 6) + 5] / 6 = 17/6\n1 2/3 = [(1 × 3) + 2] / 3 = 5/3\n\nExpression becomes: 13/4 + 17/6 - 5/3.\n\nStep 2: Find the LCM of denominators 4, 6, and 3.\nLCM(4, 6, 3) = 12.\n\nStep 3: Convert all fractions into like fractions with denominator 12:\n13/4 = (13 × 3) / (4 × 3) = 39/12\n17/6 = (17 × 2) / (6 × 2) = 34/12\n5/3 = (5 × 4) / (3 × 4) = 20/12\n\nStep 4: Perform addition and subtraction on numerators:\n= (39 + 34 - 20) / 12\n= (73 - 20) / 12\n= 53/12.\n\nStep 5: Convert improper fraction 53/12 into mixed fraction:\n53 ÷ 12: Quotient = 4, Remainder = 5.\n53/12 = 4 5/12.\n\nTherefore, the simplified result is 4 5/12.",
+      "answerHi": "चरण 1: सभी मिश्रित भिन्नों को विषम भिन्नों में बदलिए।\n3 1/4 = [(3 × 4) + 1] / 4 = 13/4\n2 5/6 = [(2 × 6) + 5] / 6 = 17/6\n1 2/3 = [(1 × 3) + 2] / 3 = 5/3\n\nव्यंजक बना: 13/4 + 17/6 - 5/3।\n\nचरण 2: हरों 4, 6 और 3 का ल.स. ज्ञात कीजिए।\nल.स.(4, 6, 3) = 12।\n\nचरण 3: सभी भिन्नों को हर 12 वाली समान भिन्नों में बदलिए:\n13/4 = (13 × 3) / (4 × 3) = 39/12\n17/6 = (17 × 2) / (6 × 2) = 34/12\n5/3 = (5 × 4) / (3 × 4) = 20/12\n\nचरण 4: अंशों पर जोड़ और घटाने की क्रिया कीजिए:\n= (39 + 34 - 20) / 12\n= (73 - 20) / 12\n= 53/12।\n\nचरण 5: विषम भिन्न 53/12 को मिश्रित भिन्न में बदलिए:\n53 ÷ 12: भागफल = 4, शेषफल = 5।\n53/12 = 4 5/12।\n\nअतः सरलतम परिणाम 4 5/12 है।",
+      "keyPoints": [
+        "Improper fractions: 13/4 + 17/6 - 5/3. / विषम भिन्नें: 13/4 + 17/6 - 5/3।",
+        "LCM(4, 6, 3) = 12 -> 39/12 + 34/12 - 20/12. / ल.स.(4, 6, 3) = 12।",
+        "Numerator calculation: 39 + 34 - 20 = 53. / अंश की गणना: 39 + 34 - 20 = 53।",
+        "Final answer = 53/12 = 4 5/12. / अंतिम उत्तर = 53/12 = 4 5/12।"
+      ]
+    },
+    {
+      "id": "q23",
+      "type": "value-based",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "In a school community lunch, Rohit ate 2/7 of a large pizza, Sneha ate 3/7 of the same pizza, and Aman ate the remaining part.\n(a) What fraction of the pizza did Aman eat?\n(b) Who ate the largest share of the pizza?\n(c) What values are learned by sharing meals with classmates and friends?",
+      "questionHi": "विद्यालय के एक सामूहिक भोजन (Community lunch) में, रोहित ने एक बड़े पिज्जा का 2/7 भाग खाया, स्नेहा ने उसी पिज्जा का 3/7 भाग खाया, और अमन ने बचा हुआ शेष भाग खाया।\n(a) अमन ने पिज्जा का कितना भाग (भिन्न) खाया?\n(b) पिज्जा का सबसे बड़ा हिस्सा किसने खाया?\n(c) सहपाठियों और मित्रों के साथ मिलकर भोजन करने से किन मूल्यों की सीख मिलती है?",
+      "answer": "(a) Fraction eaten by Aman:\nTotal pizza = Whole = 1 (or 7/7).\nFraction eaten by Rohit and Sneha together = 2/7 + 3/7 = 5/7.\nFraction eaten by Aman = Total Pizza - Fraction eaten by Rohit and Sneha\n= 1 - 5/7 = 7/7 - 5/7 = 2/7.\nTherefore, Aman ate 2/7 of the pizza.\n\n(b) Who ate the largest share:\nComparing all three shares:\nRohit's share = 2/7\nSneha's share = 3/7\nAman's share = 2/7\nSince 3/7 is greater than 2/7, Sneha ate the largest share of the pizza.\n\n(c) Values Learned:\nSharing meals with classmates teaches values of sharing and caring, equality, unity, brotherhood, mutual respect, friendship, and community living without discrimination.",
+      "answerHi": "(a) अमन द्वारा खाया गया भाग:\nकुल पिज्जा = पूर्ण = 1 (या 7/7)।\nरोहित और स्नेहा द्वारा मिलकर खाया गया भाग = 2/7 + 3/7 = 5/7।\nअमन द्वारा खाया गया भाग = कुल पिज्जा - रोहित और स्नेहा द्वारा खाया गया भाग\n= 1 - 5/7 = 7/7 - 5/7 = 2/7।\nअतः अमन ने पिज्जा का 2/7 भाग खाया।\n\n(b) सबसे बड़ा हिस्सा किसने खाया:\nतीनों हिस्सों की तुलना करने पर:\nरोहित का हिस्सा = 2/7\nस्नेहा का हिस्सा = 3/7\nअमन का हिस्सा = 2/7\nचूँकि 3/7, 2/7 से बड़ा है, अतः स्नेहा ने पिज्जा का सबसे बड़ा हिस्सा खाया।\n\n(c) सीखे गए मूल्य:\nसहपाठियों के साथ मिलकर भोजन करने से मिल-बाँटकर खाने (Sharing and Caring), समानता, एकता, भाईचारे, आपसी सम्मान, मित्रता और बिना भेदभाव के सामूहिक जीवन जीने के मूल्यों की सीख मिलती है।",
+      "keyPoints": [
+        "Rohit + Sneha = 2/7 + 3/7 = 5/7. / रोहित + स्नेहा = 2/7 + 3/7 = 5/7।",
+        "Aman's share = 1 - 5/7 = 2/7. / अमन का हिस्सा = 1 - 5/7 = 2/7।",
+        "Sneha's share (3/7) is the largest! / स्नेहा का हिस्सा (3/7) सबसे बड़ा है!",
+        "Value: Sharing, caring, and unity among classmates. / मूल्य: सहपाठियों में मिल-बाँटकर खाना और एकता।"
+      ]
+    },
+    {
+      "id": "q24",
+      "type": "case-study",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Case Study: Daily Household Water Consumption.\nA family has an overhead water tank of 500 liters capacity. In the morning, they used 2/5 of the total water for bathing and washing. In the afternoon, they used 3/10 of the total water for cooking and cleaning.\n(a) Find the quantity of water used in the morning in liters.\n(b) Find the quantity of water used in the afternoon in liters.\n(c) What total fraction of the tank capacity was used during the day?\n(d) How many liters of water are left in the tank at night?",
+      "questionHi": "केस स्टडी: घरेलू दैनिक जल खपत।\nएक परिवार के पास 500 लीटर क्षमता वाली छत की पानी की टंकी है। सुबह के समय, उन्होंने कुल पानी का 2/5 भाग नहाने और कपड़े धोने में उपयोग किया। दोपहर में, उन्होंने कुल पानी का 3/10 भाग खाना पकाने और सफाई में उपयोग किया।\n(a) सुबह के समय उपयोग किए गए पानी की मात्रा लीटर में ज्ञात कीजिए।\n(b) दोपहर में उपयोग किए गए पानी की मात्रा लीटर में ज्ञात कीजिए।\n(c) दिन भर में टंकी की कुल क्षमता का कितना भाग (भिन्न) उपयोग किया गया?\n(d) रात के समय टंकी में कितने लीटर पानी बचा है?",
+      "answer": "(a) Water used in morning:\n= 2/5 of 500 liters\n= (2 × 500) / 5 = 1000 / 5 = 200 liters.\n\n(b) Water used in afternoon:\n= 3/10 of 500 liters\n= (3 × 500) / 10 = 1500 / 10 = 150 liters.\n\n(c) Total fraction of water used:\n= Morning fraction + Afternoon fraction = 2/5 + 3/10\nLCM of 5 and 10 is 10.\nConvert 2/5 to denominator 10: (2 × 2)/(5 × 2) = 4/10.\nTotal fraction used = 4/10 + 3/10 = 7/10.\n\n(d) Water left in tank at night:\nMethod 1: Total water - Total used water = 500 - (200 + 150) = 500 - 350 = 150 liters.\nMethod 2: Fraction left = 1 - 7/10 = 3/10. Water left = 3/10 of 500 = 150 liters.\n\nTherefore, 200 L used in morning, 150 L in afternoon, 7/10 fraction used in total, and 150 L left at night.",
+      "answerHi": "(a) सुबह उपयोग किया गया पानी:\n= 500 लीटर का 2/5\n= (2 × 500) / 5 = 1000 / 5 = 200 लीटर।\n\n(b) दोपहर में उपयोग किया गया पानी:\n= 500 लीटर का 3/10\n= (3 × 500) / 10 = 1500 / 10 = 150 लीटर।\n\n(c) उपयोग किए गए पानी का कुल भाग (भिन्न):\n= सुबह का भाग + दोपहर का भाग = 2/5 + 3/10\n5 और 10 का ल.स. 10 है।\n2/5 को हर 10 में बदलें: (2 × 2)/(5 × 2) = 4/10।\nउपयोग किया गया कुल भाग = 4/10 + 3/10 = 7/10।\n\n(d) रात में टंकी में बचा पानी:\nविधि 1: कुल पानी - कुल उपयोग हुआ पानी = 500 - (200 + 150) = 500 - 350 = 150 लीटर।\nविधि 2: बचा हुआ भाग = 1 - 7/10 = 3/10। बचा पानी = 500 का 3/10 = 150 लीटर।\n\nअतः सुबह 200 लीटर, दोपहर में 150 लीटर, कुल 7/10 भाग उपयोग हुआ तथा रात में 150 लीटर पानी बचा।",
+      "keyPoints": [
+        "Morning water = 2/5 × 500 = 200 liters. / सुबह का पानी = 200 लीटर।",
+        "Afternoon water = 3/10 × 500 = 150 liters. / दोपहर का पानी = 150 लीटर।",
+        "Total fraction used = 2/5 + 3/10 = 4/10 + 3/10 = 7/10. / कुल उपयोग भाग = 7/10।",
+        "Water left = 500 - 350 = 150 liters. / शेष बचा पानी = 150 लीटर।"
+      ]
+    },
+    {
+      "id": "q25",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "A wire of length 8 3/4 meters is cut into two pieces. If the length of one piece is 3 5/8 meters, find the length of the other piece. By how much is the first piece longer or shorter than the second piece?",
+      "questionHi": "8 3/4 मीटर लंबे एक तार को दो टुकड़ों में काटा जाता है। यदि एक टुकड़े की लंबाई 3 5/8 मीटर है, तो दूसरे टुकड़े की लंबाई ज्ञात कीजिए। पहला टुकड़ा दूसरे टुकड़े से कितना लंबा या छोटा है?",
+      "answer": "Step 1: Convert given mixed fractions into improper fractions.\nTotal length of wire = 8 3/4 = [(8 × 4) + 3] / 4 = 35/4 meters.\nLength of 1st piece = 3 5/8 = [(3 × 8) + 5] / 8 = 29/8 meters.\n\nStep 2: Find the length of the 2nd piece.\nLength of 2nd piece = Total length - Length of 1st piece\n= 35/4 - 29/8\nLCM of 4 and 8 is 8.\nConvert 35/4 to denominator 8: (35 × 2)/(4 × 2) = 70/8.\nLength of 2nd piece = 70/8 - 29/8 = (70 - 29) / 8 = 41/8 meters.\nIn mixed fraction: 41 ÷ 8 gives Quotient 5 and Remainder 1 -> 5 1/8 meters.\n\nStep 3: Compare both pieces to find difference.\n1st piece = 29/8 meters (or 3 5/8 m)\n2nd piece = 41/8 meters (or 5 1/8 m)\nSince 41/8 > 29/8, the 1st piece is shorter than the 2nd piece.\nDifference = 41/8 - 29/8 = 12/8 = 3/2 meters (or 1 1/2 meters).\n\nTherefore, the 2nd piece is 5 1/8 m long, and the 1st piece is shorter than the 2nd piece by 1 1/2 meters.",
+      "answerHi": "चरण 1: दी गई मिश्रित भिन्नों को विषम भिन्नों में बदलिए।\nतार की कुल लंबाई = 8 3/4 = [(8 × 4) + 3] / 4 = 35/4 मीटर।\nपहले टुकड़े की लंबाई = 3 5/8 = [(3 × 8) + 5] / 8 = 29/8 मीटर।\n\nचरण 2: दूसरे टुकड़े की लंबाई ज्ञात कीजिए।\nदूसरे टुकड़े की लंबाई = कुल लंबाई - पहले टुकड़े की लंबाई\n= 35/4 - 29/8\n4 और 8 का ल.स. 8 है।\n35/4 को हर 8 में बदलें: (35 × 2)/(4 × 2) = 70/8।\nदूसरे टुकड़े की लंबाई = 70/8 - 29/8 = (70 - 29) / 8 = 41/8 मीटर।\nमिश्रित भिन्न में: 41 ÷ 8 में भागफल 5 और शेषफल 1 -> 5 1/8 मीटर।\n\nचरण 3: अंतर जानने के लिए दोनों टुकड़ों की तुलना कीजिए।\nपहला टुकड़ा = 29/8 मीटर (या 3 5/8 मी)\nदूसरा टुकड़ा = 41/8 मीटर (या 5 1/8 मी)\nचूँकि 41/8 > 29/8 है, पहला टुकड़ा दूसरे टुकड़े से छोटा है।\nअंतर = 41/8 - 29/8 = 12/8 = 3/2 मीटर (या 1 1/2 मीटर)।\n\nअतः दूसरा टुकड़ा 5 1/8 मीटर लंबा है, और पहला टुकड़ा दूसरे टुकड़े से 1 1/2 मीटर छोटा है।",
+      "keyPoints": [
+        "Total wire = 35/4 m; First piece = 29/8 m. / कुल तार = 35/4 मी; पहला टुकड़ा = 29/8 मी।",
+        "Second piece = 35/4 - 29/8 = 70/8 - 29/8 = 41/8 = 5 1/8 meters. / दूसरा टुकड़ा = 5 1/8 मीटर।",
+        "Difference = 41/8 - 29/8 = 12/8 = 3/2 = 1 1/2 meters. / अंतर = 1 1/2 मीटर।",
+        "First piece is shorter than second piece by 1 1/2 m. / पहला टुकड़ा दूसरे से 1 1/2 मीटर छोटा है।"
+      ]
+    },
+    {
+      "id": "q26",
+      "type": "value-based",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "An NGO distributed 45 kg of sweets among children in an orphanage. They gave 1/3 of the total sweets to girls and 2/5 of the total sweets to boys, and kept the remaining sweets for evening snacks.\n(a) How many kilograms of sweets were given to girls and boys respectively?\n(b) What fraction and weight of sweets were kept for evening snacks?\n(c) What moral value is reflected in caring and sharing with orphan children?",
+      "questionHi": "एक गैर-सरकारी संगठन (NGO) ने अनाथालय के बच्चों में 45 किग्रा मिठाइयाँ वितरित कीं। उन्होंने कुल मिठाइयों का 1/3 भाग लड़कियों को और 2/5 भाग लड़कों को दिया, तथा शेष मिठाइयाँ शाम के नाश्ते के लिए रख लीं।\n(a) लड़कियों और लड़कों को क्रमशः कितने किलोग्राम मिठाइयाँ दी गईं?\n(b) शाम के नाश्ते के लिए मिठाइयों का कितना भाग (भिन्न) और वजन (किग्रा में) रखा गया?\n(c) अनाथ बच्चों की देखभाल और उनके साथ खुशियाँ बाँटने से कौन-सा नैतिक मूल्य परिलक्षित होता है?",
+      "answer": "(a) Sweets given to girls and boys:\nTotal weight of sweets = 45 kg.\nSweets given to girls = 1/3 of 45 kg = (1 × 45) / 3 = 15 kg.\nSweets given to boys = 2/5 of 45 kg = (2 × 45) / 5 = 90 / 5 = 18 kg.\n\n(b) Sweets kept for evening snacks:\nTotal distributed sweets = 15 kg + 18 kg = 33 kg.\nWeight of remaining sweets for evening = 45 kg - 33 kg = 12 kg.\n\nFraction kept for evening snacks:\nMethod 1: Weight fraction = 12 / 45 = 4/15 (dividing numerator and denominator by 3).\nMethod 2: 1 - (1/3 + 2/5) = 1 - (5/15 + 6/15) = 1 - 11/15 = 4/15.\n\n(c) Moral Value Reflected:\nCaring for orphan children reflects values of empathy, compassion, social kindness, generosity, sharing joy with the underprivileged, and social responsibility.",
+      "answerHi": "(a) लड़कियों और लड़कों को दी गई मिठाइयाँ:\nमिठाइयों का कुल वजन = 45 किग्रा।\nलड़कियों को दी गई मिठाइयाँ = 45 किग्रा का 1/3 = (1 × 45) / 3 = 15 किग्रा।\nलड़कों को दी गई मिठाइयाँ = 45 किग्रा का 2/5 = (2 × 45) / 5 = 90 / 5 = 18 किग्रा।\n\n(b) शाम के नाश्ते के लिए रखी गई मिठाइयाँ:\nकुल वितरित मिठाइयाँ = 15 किग्रा + 18 किग्रा = 33 किग्रा।\nशाम के लिए शेष मिठाइयों का वजन = 45 किग्रा - 33 किग्रा = 12 किग्रा।\n\nशाम के नाश्ते के लिए रखा गया भाग (भिन्न):\nविधि 1: वजन का भाग = 12 / 45 = 4/15 (अंश और हर को 3 से भाग देने पर)।\nविधि 2: 1 - (1/3 + 2/5) = 1 - (5/15 + 6/15) = 1 - 11/15 = 4/15।\n\n(c) परिलक्षित नैतिक मूल्य:\nअनाथ बच्चों की देखभाल करने से सहानुभूति, दयालुता, सामाजिक प्रेम, उदारता, जरूरतमंदों के साथ खुशियाँ बाँटने और सामाजिक जिम्मेदारी के नैतिक मूल्य परिलक्षित होते हैं।",
+      "keyPoints": [
+        "Girls' share = 1/3 × 45 = 15 kg; Boys' share = 2/5 × 45 = 18 kg.",
+        "Total distributed = 15 + 18 = 33 kg. / कुल वितरित = 33 किग्रा।",
+        "Evening snacks weight = 45 - 33 = 12 kg. / शाम के नाश्ते का वजन = 12 किग्रा।",
+        "Fraction for evening = 12/45 = 4/15. / शाम के नाश्ते का भाग = 4/15।"
+      ]
+    },
+    {
+      "id": "q27",
+      "type": "case-study",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Case Study: Daily Homework and Study Time Schedule.\nAnanya spends 4 1/2 hours studying after school every day. Out of this total time, she spends 1 3/4 hours studying Mathematics and 1 1/3 hours studying Science, and the remaining time studying languages (English and Hindi).\n(a) Convert all study hours into improper fractions.\n(b) Find the total time spent on Mathematics and Science together as a mixed fraction.\n(c) Find the exact time spent studying languages in hours and minutes.",
+      "questionHi": "केस स्टडी: दैनिक गृहकार्य और अध्ययन समय सारणी।\nअनन्या प्रतिदिन विद्यालय के बाद 4 1/2 घंटे अध्ययन करती है। इस कुल समय में से, वह 1 3/4 घंटे गणित पढ़ने में और 1 1/3 घंटे विज्ञान पढ़ने में लगाती है, तथा शेष समय भाषाओं (अंग्रेजी और हिंदी) के अध्ययन में लगाती है।\n(a) अध्ययन के सभी घंटों को विषम भिन्नों (Improper Fractions) में बदलिए।\n(b) गणित और विज्ञान पर मिलाकर बिताया गया कुल समय मिश्रित भिन्न के रूप में ज्ञात कीजिए।\n(c) भाषाओं के अध्ययन में बिताया गया सटीक समय घंटों और मिनटों में ज्ञात कीजिए।",
+      "answer": "(a) Conversion to improper fractions:\nTotal study time = 4 1/2 = [(4 × 2) + 1] / 2 = 9/2 hours.\nTime for Mathematics = 1 3/4 = [(1 × 4) + 3] / 4 = 7/4 hours.\nTime for Science = 1 1/3 = [(1 × 3) + 1] / 3 = 4/3 hours.\n\n(b) Total time for Mathematics and Science:\n= 7/4 + 4/3\nLCM of 4 and 3 is 12.\nConvert to like fractions: (7 × 3)/(4 × 3) + (4 × 4)/(3 × 4) = 21/12 + 16/12 = 37/12 hours.\nIn mixed fraction: 37 ÷ 12 gives Quotient 3 and Remainder 1 -> 3 1/12 hours.\n\n(c) Time spent studying languages:\nRemaining time = Total time - (Maths + Science time)\n= 9/2 - 37/12\nLCM of 2 and 12 is 12.\nConvert 9/2 to denominator 12: (9 × 6)/(2 × 6) = 54/12.\nLanguage time = 54/12 - 37/12 = (54 - 37) / 12 = 17/12 hours.\nIn mixed fraction: 17/12 = 1 5/12 hours.\n\nConverting 1 5/12 hours into hours and minutes:\n1 hour + 5/12 of an hour (60 minutes)\n= 1 hour + (5/12 × 60) minutes = 1 hour + (5 × 5) minutes = 1 hour 25 minutes.\n\nTherefore, she spends 1 hour 25 minutes studying languages.",
+      "answerHi": "(a) विषम भिन्नों में बदलाव:\nकुल अध्ययन समय = 4 1/2 = [(4 × 2) + 1] / 2 = 9/2 घंटे।\nगणित का समय = 1 3/4 = [(1 × 4) + 3] / 4 = 7/4 घंटे।\nविज्ञान का समय = 1 1/3 = [(1 × 3) + 1] / 3 = 4/3 घंटे।\n\n(b) गणित और विज्ञान का कुल समय:\n= 7/4 + 4/3\n4 और 3 का ल.स. 12 है।\nसमान भिन्नों में बदलें: (7 × 3)/(4 × 3) + (4 × 4)/(3 × 4) = 21/12 + 16/12 = 37/12 घंटे।\nमिश्रित भिन्न में: 37 ÷ 12 में भागफल 3 और शेषफल 1 -> 3 1/12 घंटे।\n\n(c) भाषाओं के अध्ययन में बिताया गया समय:\nशेष समय = कुल समय - (गणित + विज्ञान का समय)\n= 9/2 - 37/12\n2 और 12 का ल.स. 12 है।\n9/2 को हर 12 में बदलें: (9 × 6)/(2 × 6) = 54/12।\nभाषाओं का समय = 54/12 - 37/12 = (54 - 37) / 12 = 17/12 घंटे।\nमिश्रित भिन्न में: 17/12 = 1 5/12 घंटे।\n\n1 5/12 घंटे को घंटे और मिनट में बदलना:\n1 घंटा + 1 घंटे (60 मिनट) का 5/12\n= 1 घंटा + (5/12 × 60) मिनट = 1 घंटा + (5 × 5) मिनट = 1 घंटा 25 मिनट।\n\nअतः वह भाषाओं के अध्ययन में 1 घंटा 25 मिनट लगाती है।",
+      "keyPoints": [
+        "Improper fractions: Total = 9/2; Maths = 7/4; Science = 4/3 hours.",
+        "Maths + Science = 7/4 + 4/3 = 37/12 = 3 1/12 hours. / गणित + विज्ञान = 3 1/12 घंटे।",
+        "Languages time = 9/2 - 37/12 = 54/12 - 37/12 = 17/12 = 1 5/12 hours.",
+        "5/12 hour = 5/12 × 60 = 25 minutes -> Total = 1 hour 25 minutes. / कुल = 1 घंटा 25 मिनट।"
+      ]
+    },
+    {
+      "id": "q28",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "(a) What number should be added to 5 2/3 to get 8 1/4?\n(b) What number should be subtracted from 10 1/2 to get 6 5/8? Show all working steps clearly.",
+      "questionHi": "(a) 5 2/3 में क्या जोड़ा जाए कि 8 1/4 प्राप्त हो जाए?\n(b) 10 1/2 में से क्या घटाया जाए कि 6 5/8 प्राप्त हो जाए? सभी कार्य-चरण स्पष्ट रूप से दिखाइए।",
+      "answer": "(a) Finding the number to be added:\nLet the required number be X.\n5 2/3 + X = 8 1/4\nX = 8 1/4 - 5 2/3\n\nConvert to improper fractions:\n8 1/4 = 33/4; 5 2/3 = 17/3.\nX = 33/4 - 17/3\nLCM of 4 and 3 is 12.\nConvert to like fractions: (33 × 3)/(4 × 3) - (17 × 4)/(3 × 4) = 99/12 - 68/12 = 31/12.\nIn mixed fraction: 31/12 = 2 7/12.\nThus, 2 7/12 should be added to 5 2/3 to get 8 1/4.\n\n(b) Finding the number to be subtracted:\nLet the required number be Y.\n10 1/2 - Y = 6 5/8\nY = 10 1/2 - 6 5/8\n\nConvert to improper fractions:\n10 1/2 = 21/2; 6 5/8 = 53/8.\nY = 21/2 - 53/8\nLCM of 2 and 8 is 8.\nConvert 21/2 to denominator 8: (21 × 4)/(2 × 4) = 84/8.\nY = 84/8 - 53/8 = (84 - 53) / 8 = 31/8.\nIn mixed fraction: 31/8 = 3 7/8.\nThus, 3 7/8 should be subtracted from 10 1/2 to get 6 5/8.",
+      "answerHi": "(a) जोड़ने वाली संख्या ज्ञात करना:\nमाना अभीष्ट संख्या X है।\n5 2/3 + X = 8 1/4\nX = 8 1/4 - 5 2/3\n\nविषम भिन्नों में बदलें:\n8 1/4 = 33/4; 5 2/3 = 17/3।\nX = 33/4 - 17/3\n4 और 3 का ल.स. 12 है।\nसमान भिन्नों में बदलें: (33 × 3)/(4 × 3) - (17 × 4)/(3 × 4) = 99/12 - 68/12 = 31/12।\nमिश्रित भिन्न में: 31/12 = 2 7/12।\nअतः 5 2/3 में 2 7/12 जोड़ने पर 8 1/4 प्राप्त होगा।\n\n(b) घटाने वाली संख्या ज्ञात करना:\nमाना अभीष्ट संख्या Y है।\n10 1/2 - Y = 6 5/8\nY = 10 1/2 - 6 5/8\n\nविषम भिन्नों में बदलें:\n10 1/2 = 21/2; 6 5/8 = 53/8।\nY = 21/2 - 53/8\n2 और 8 का ल.स. 8 है।\n21/2 को हर 8 में बदलें: (21 × 4)/(2 × 4) = 84/8।\nY = 84/8 - 53/8 = (84 - 53) / 8 = 31/8।\nमिश्रित भिन्न में: 31/8 = 3 7/8।\nअतः 10 1/2 में से 3 7/8 घटाने पर 6 5/8 प्राप्त होगा।",
+      "keyPoints": [
+        "Part (a): Required Number = 8 1/4 - 5 2/3 = 33/4 - 17/3 = 31/12 = 2 7/12.",
+        "Part (b): Required Number = 10 1/2 - 6 5/8 = 21/2 - 53/8 = 31/8 = 3 7/8.",
+        "Always convert mixed fractions to improper fractions before subtracting! / घटाने से पहले हमेशा मिश्रित भिन्नों को विषम भिन्नों में बदलें!"
+      ]
+    },
+    {
+      "id": "q29",
+      "type": "case-study",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "Case Study: Fruit Basket Composition Analysis.\nA fruit seller has a large basket containing 60 fruits. Out of these total fruits, 1/4 are apples, 1/3 are mangoes, 1/5 are oranges, and the remaining are bananas.\n(a) Find the exact number of apples, mangoes, and oranges in the basket.\n(b) Find the number of bananas in the basket.\n(c) What fraction of the total fruits in the basket are bananas? Express in simplest form.",
+      "questionHi": "केस स्टडी: फलों की टोकरी के संयोजन का विश्लेषण।\nएक फल विक्रेता के पास एक बड़ी टोकरी है जिसमें कुल 60 फल हैं। इन कुल फलों में से 1/4 सेब हैं, 1/3 आम हैं, 1/5 संतरे हैं, और शेष केले हैं।\n(a) टोकरी में सेब, आम और संतरों की सटीक संख्या ज्ञात कीजिए।\n(b) टोकरी में केलों की संख्या ज्ञात कीजिए।\n(c) टोकरी के कुल फलों का कितना भाग (भिन्न) केले हैं? सरलतम रूप में व्यक्त कीजिए।",
+      "answer": "(a) Number of apples, mangoes, and oranges:\nTotal fruits in basket = 60.\nNumber of apples = 1/4 of 60 = 60 ÷ 4 = 15 apples.\nNumber of mangoes = 1/3 of 60 = 60 ÷ 3 = 20 mangoes.\nNumber of oranges = 1/5 of 60 = 60 ÷ 5 = 12 oranges.\n\n(b) Number of bananas:\nTotal of apples, mangoes, and oranges = 15 + 20 + 12 = 47 fruits.\nNumber of bananas = Total fruits - 47\nNumber of bananas = 60 - 47 = 13 bananas.\n\n(c) Fraction of bananas in the basket:\nFraction of bananas = Number of bananas / Total fruits\nFraction = 13/60.\nSince 13 is a prime number and not a factor of 60, 13/60 is already in its simplest form.\n\nTherefore, there are 15 apples, 20 mangoes, 12 oranges, and 13 bananas (which is 13/60 of total fruits).",
+      "answerHi": "(a) सेब, आम और संतरों की संख्या:\nटोकरी में कुल फल = 60।\nसेबों की संख्या = 60 का 1/4 = 60 ÷ 4 = 15 सेब।\nआमों की संख्या = 60 का 1/3 = 60 ÷ 3 = 20 आम।\nसंतरों की संख्या = 60 का 1/5 = 60 ÷ 5 = 12 संतरे।\n\n(b) केलों की संख्या:\nसेब, आम और संतरों की कुल संख्या = 15 + 20 + 12 = 47 फल।\nकेलों की संख्या = कुल फल - 47\nकेलों की संख्या = 60 - 47 = 13 केले।\n\n(c) टोकरी में केलों का भाग (भिन्न):\nकेलों का भाग = केलों की संख्या / कुल फल\nभिन्न = 13/60।\nचूँकि 13 एक अभाज्य संख्या है और 60 का गुणनखंड नहीं है, अतः 13/60 अपने सरलतम रूप में है।\n\nअतः टोकरी में 15 सेब, 20 आम, 12 संतरे और 13 केले (कुल फलों का 13/60 भाग) हैं।",
+      "keyPoints": [
+        "Apples = 60 ÷ 4 = 15; Mangoes = 60 ÷ 3 = 20; Oranges = 60 ÷ 5 = 12.",
+        "Total of apples, mangoes, oranges = 15 + 20 + 12 = 47 fruits. / तीनों फलों का योग = 47 फल।",
+        "Bananas = 60 - 47 = 13 bananas. / केलों की संख्या = 60 - 47 = 13 केले।",
+        "Fraction of bananas = 13/60. / केलों का भाग (भिन्न) = 13/60।"
+      ]
+    },
+    {
+      "id": "q30",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "(a) Is the sum of two proper fractions always a proper fraction? Give two different numerical examples (one where sum is proper and one where sum is improper) to justify your answer.\n(b) A rectangular garden has length 12 1/2 meters and breadth 8 2/3 meters. Find the perimeter of the garden as a mixed fraction in simplest form.",
+      "questionHi": "(a) क्या दो उचित भिन्नों (Proper Fractions) का योग सदैव एक उचित भिन्न ही होता है? अपने उत्तर की पुष्टि के लिए दो अलग-अलग संख्यात्मक उदाहरण दीजिए (एक जहाँ योग उचित हो और एक जहाँ योग विषम हो)।\n(b) एक आयताकार बगीचे की लंबाई 12 1/2 मीटर और चौड़ाई 8 2/3 मीटर है। बगीचे का परिमाप सरलतम रूप की मिश्रित भिन्न में ज्ञात कीजिए।",
+      "answer": "(a) Is sum of two proper fractions always proper?\nNo, the sum of two proper fractions is NOT always a proper fraction. It can be a proper fraction, an improper fraction, or even a whole number!\n\nNumerical Examples:\nExample 1 (Sum is a Proper Fraction):\nLet fractions be 1/5 and 2/5 (both proper).\nSum = 1/5 + 2/5 = 3/5 (Since numerator 3 < denominator 5, 3/5 is a Proper Fraction).\n\nExample 2 (Sum is an Improper Fraction):\nLet fractions be 3/4 and 2/3 (both proper).\nSum = 3/4 + 2/3 = (9 + 8) / 12 = 17/12 (Since numerator 17 > denominator 12, 17/12 is an Improper Fraction = 1 5/12).\n\n(b) Perimeter of rectangular garden:\nGiven: Length (l) = 12 1/2 = 25/2 meters.\nBreadth (b) = 8 2/3 = 26/3 meters.\n\nFormula: Perimeter = 2 × (Length + Breadth)\nPerimeter = 2 × (25/2 + 26/3)\n\nFind LCM of 2 and 3 inside bracket (LCM = 6):\n25/2 + 26/3 = (25 × 3)/(2 × 3) + (26 × 2)/(3 × 2) = 75/6 + 52/6 = 127/6.\n\nNow multiply by 2:\nPerimeter = 2 × (127/6) = 127 / 3 meters.\n\nConvert improper fraction 127/3 into mixed fraction:\n127 ÷ 3: Quotient = 42, Remainder = 1.\n127/3 = 42 1/3 meters.\n\nTherefore, the perimeter of the garden is 42 1/3 meters.",
+      "answerHi": "(a) क्या दो उचित भिन्नों का योग सदैव उचित होता है?\nनहीं, दो उचित भिन्नों का योग सदैव उचित भिन्न नहीं होता है। यह एक उचित भिन्न, विषम भिन्न या पूर्ण संख्या भी हो सकता है!\n\nसंख्यात्मक उदाहरण:\nउदाहरण 1 (योग एक उचित भिन्न है):\nमाना भिन्नें 1/5 और 2/5 हैं (दोनों उचित हैं)।\nयोग = 1/5 + 2/5 = 3/5 (चूँकि अंश 3 < हर 5, अतः 3/5 एक उचित भिन्न है)।\n\nउदाहरण 2 (योग एक विषम भिन्न है):\nमाना भिन्नें 3/4 और 2/3 हैं (दोनों उचित हैं)।\nयोग = 3/4 + 2/3 = (9 + 8) / 12 = 17/12 (चूँकि अंश 17 > हर 12, अतः 17/12 एक विषम भिन्न है = 1 5/12)।\n\n(b) आयताकार बगीचे का परिमाप:\nदिया गया है: लंबाई (l) = 12 1/2 = 25/2 मीटर।\nचौड़ाई (b) = 8 2/3 = 26/3 मीटर।\n\nसूत्र: परिमाप = 2 × (लंबाई + चौड़ाई)\nपरिमाप = 2 × (25/2 + 26/3)\n\nकोष्ठक के अंदर 2 और 3 का ल.स. (6) लें:\n25/2 + 26/3 = (25 × 3)/(2 × 3) + (26 × 2)/(3 × 2) = 75/6 + 52/6 = 127/6।\n\nअब 2 से गुणा करें:\nपरिमाप = 2 × (127/6) = 127 / 3 मीटर।\n\nविषम भिन्न 127/3 को मिश्रित भिन्न में बदलें:\n127 ÷ 3: भागफल = 42, शेषफल = 1।\n127/3 = 42 1/3 मीटर।\n\nअतः बगीचे का परिमाप 42 1/3 मीटर है।",
+      "keyPoints": [
+        "Sum of proper fractions can be improper! E.g., 3/4 + 2/3 = 17/12 = 1 5/12. / उचित भिन्नों का योग विषम हो सकता है!",
+        "Perimeter = 2 × (25/2 + 26/3) = 2 × (127/6) = 127/3 meters. / परिमाप = 127/3 मीटर।",
+        "Final Perimeter in mixed fraction = 42 1/3 meters. / मिश्रित भिन्न में परिमाप = 42 1/3 मीटर।"
+      ]
+    }
+  ]
+}
