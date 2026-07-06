@@ -1,0 +1,477 @@
+{
+  "chapterTitle": "Data Handling and Presentation",
+  "chapterTitleHi": "आँकड़ों का प्रबंधन और प्रस्तुतीकरण",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Define the term 'data' and differentiate between raw data and organized data.",
+      "questionHi": "'आँकड़े' (Data) शब्द को परिभाषित कीजिए तथा यथाप्राप्त आँकड़ों (Raw Data) और व्यवस्थित आँकड़ों (Organized Data) के बीच अंतर स्पष्ट कीजिए।",
+      "answer": "Data is a collection of numerical figures, facts, or observations gathered to give specific information. Raw data refers to the initial, unorganized information collected directly from the source in a haphazard manner (e.g., a random list of students' marks). Organized data is raw data arranged systematically into tables, tally marks, or ascending/descending order to make it meaningful and easy to interpret.",
+      "answerHi": "आँकड़े विशिष्ट जानकारी प्राप्त करने के लिए एकत्रित किए गए संख्यात्मक तथ्यों, प्रेक्षणों या सूचनाओं का एक संग्रह हैं। यथाप्राप्त आँकड़े (रॉ डेटा) स्रोत से सीधे बिना किसी क्रम या व्यवस्था के एकत्र की गई प्रारंभिक जानकारी को कहते हैं (जैसे विद्यार्थियों के अंकों की बेतरतीब सूची)। व्यवस्थित आँकड़े वे हैं जिन्हें अर्थपूर्ण और समझने में आसान बनाने के लिए व्यवस्थित रूप से सारणी, मिलान चिह्नों (टैली चिह्न) या आरोही/अवरोही क्रम में सजाया जाता है।",
+      "keyPoints": [
+        "आँकड़े: सूचना देने वाले तथ्य या संख्यात्मक प्रेक्षण (Data: collection of numerical facts/observations)",
+        "यथाप्राप्त आँकड़े: बिना किसी व्यवस्था या क्रम के प्रारंभिक संग्रह (Raw data: unorganized initial information)",
+        "व्यवस्थित आँकड़े: सारणी या क्रम में सजाई गई अर्थपूर्ण जानकारी (Organized data: systematically arranged in tables/order)"
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What are tally marks? Explain how the number 8 and the number 13 are represented using tally marks.",
+      "questionHi": "मिलान चिह्न (Tally Marks) क्या होते हैं? स्पष्ट कीजिए कि संख्या 8 और संख्या 13 को मिलान चिह्नों द्वारा कैसे दर्शाया जाता है।",
+      "answer": "Tally marks are symbolic counting marks used to record and organize data rapidly into groups of five. The first four counts are represented by four vertical lines (||||), and the fifth count is represented by a diagonal line crossing across the four vertical lines (||||). \n- Number 8 is represented as: |||| ||| (one group of 5 plus 3 vertical lines).\n- Number 13 is represented as: |||| |||| ||| (two groups of 5 plus 3 vertical lines).",
+      "answerHi": "मिलान चिह्न (टैली चिह्न) तेजी से आँकड़ों को गिनने और उन्हें 5-5 के समूहों में व्यवस्थित करने के लिए प्रयुक्त सांकेतिक चिह्न हैं। पहली चार गिनती चार खड़ी रेखाओं (||||) से दर्शाई जाती है, और पाँचवीं गिनती इन चारों रेखाओं को काटती हुई एक तिरछी रेखा द्वारा दर्शाई जाती है (||||)।\n- संख्या 8 को इस प्रकार दर्शाया जाता है: |||| ||| (5 का 1 समूह + 3 खड़ी रेखाएँ)।\n- संख्या 13 को इस प्रकार दर्शाया जाता है: |||| |||| ||| (5 के 2 समूह + 3 खड़ी रेखाएँ)।",
+      "keyPoints": [
+        "5-5 के समूहों में गिनती का सांकेतिक तरीका (Counting in groups of five using symbolic slashes)",
+        "4 खड़ी रेखाएँ + 1 तिरछी काटने वाली रेखा = 5 (Four vertical lines + one diagonal slash = group of 5)",
+        "संख्या 8 का निरूपण: |||| ||| (Representation of 8)",
+        "संख्या 13 का निरूपण: |||| |||| ||| (Representation of 13)"
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What is a frequency distribution table? Define the term 'frequency' in data handling.",
+      "questionHi": "बारंबारता बंटन सारणी (Frequency Distribution Table) क्या होती है? आँकड़ा प्रबंधन में 'बारंबारता' (Frequency) शब्द को परिभाषित कीजिए।",
+      "answer": "A frequency distribution table is a tabular arrangement of data that presents the distinct values or categories along with the exact number of times each value occurs, usually recorded using tally marks. The term 'frequency' means the exact number of times a particular observation, item, or event occurs in a given dataset.",
+      "answerHi": "बारंबारता बंटन सारणी आँकड़ों की वह सारणीबद्ध व्यवस्था है जिसमें विभिन्न मानों या श्रेणियों को उनके घटित होने की सटीक संख्या (प्रायः मिलान चिह्नों का उपयोग करके) के साथ दर्शाया जाता है। 'बारंबारता' का अर्थ है कि किसी दिए गए आँकड़ा संग्रह में कोई विशिष्ट प्रेक्षण, वस्तु या घटना कुल कितनी बार आती या घटित होती है।",
+      "keyPoints": [
+        "बारंबारता: किसी प्रेक्षण के आने की कुल संख्या (Frequency: number of times an observation occurs)",
+        "सारणी: प्रेक्षण, मिलान चिह्न और बारंबारता के स्तंभ (Table columns: Observation, Tally Marks, Frequency)",
+        "आँकड़ों का स्पष्ट और व्यवस्थित प्रस्तुतीकरण (Clear and organized presentation of data)"
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What is a pictograph? Why is it important to clearly mention a 'key' or 'scale' at the bottom of a pictograph?",
+      "questionHi": "चित्रलेख (Pictograph) क्या होता है? किसी चित्रलेख के नीचे 'संकेत' या 'पैमाना' (Key/Scale) का स्पष्ट उल्लेख करना क्यों महत्वपूर्ण है?",
+      "answer": "A pictograph is a visual representation of numerical data using symbols, icons, or pictures of objects. Mentioning a 'key' or 'scale' (e.g., 1 apple symbol = 10 apples) is essential because when data quantities are large, a single picture must represent a fixed multiple of items. Without a clear key, the reader cannot calculate or interpret the true numerical values represented by the symbols.",
+      "answerHi": "चित्रलेख (पिक्टोग्राफ) वस्तुओं के चित्रों, प्रतीकों या चिह्नों का उपयोग करके संख्यात्मक आँकड़ों का दृश्य प्रस्तुतीकरण है। चित्रलेख के नीचे 'संकेत' या 'पैमाना' (जैसे: 1 सेब का चित्र = 10 सेब) का स्पष्ट उल्लेख करना इसलिए अनिवार्य है क्योंकि जब आँकड़ों की संख्या बहुत बड़ी होती है, तो एक चित्र को कई वस्तुओं का प्रतिनिधित्व करना पड़ता है। स्पष्ट संकेत के बिना, पाठक चित्रों द्वारा दर्शाए गए वास्तविक संख्यात्मक मानों की गणना या सही व्याख्या नहीं कर सकता।",
+      "keyPoints": [
+        "चित्रलेख: चित्रों या प्रतीकों द्वारा आँकड़ों का प्रस्तुतीकरण (Pictograph: visual representation using symbols/icons)",
+        "संकेत/पैमाना: 1 चित्र = निश्चित संख्या में वस्तुएँ (Key/Scale: 1 symbol represents a fixed number of items)",
+        "बड़े आँकड़ों को संक्षिप्त और स्पष्ट बनाने के लिए आवश्यक (Essential for interpreting large data accurately)"
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What is a bar graph? Name the two mutually perpendicular axes used to construct a standard vertical bar graph.",
+      "questionHi": "दंड आलेख (Bar Graph) क्या होता है? मानक ऊर्ध्वाधर (Vertical) दंड आलेख बनाने के लिए प्रयुक्त दो परस्पर लंबवत अक्षों के नाम लिखिए।",
+      "answer": "A bar graph (or column chart) is a graphical representation of data using rectangular bars of uniform width drawn vertically or horizontally, where the length or height of each bar is directly proportional to the numerical value it represents. A standard vertical bar graph uses two mutually perpendicular axes: the horizontal axis (X-axis, showing categories/items) and the vertical axis (Y-axis, showing numerical values/scale).",
+      "answerHi": "दंड आलेख (बार ग्राफ) आँकड़ों का वह आलेखीय निरूपण है जिसमें समान चौड़ाई के आयताकार दंड (बार) ऊर्ध्वाधर या क्षैतिज रूप से खींचे जाते हैं, जहाँ प्रत्येक दंड की लंबाई या ऊँचाई उसके द्वारा दर्शाए गए संख्यात्मक मान के सीधे समानुपाती होती है। मानक ऊर्ध्वाधर दंड आलेख में दो परस्पर लंबवत अक्षों का उपयोग किया जाता है: क्षैतिज अक्ष (X-अक्ष, जो श्रेणियों/वस्तुओं को दर्शाता है) और ऊर्ध्वाधर अक्ष (Y-अक्ष, जो संख्यात्मक मानों/पैमाने को दर्शाता है)।",
+      "keyPoints": [
+        "दंड आलेख: समान चौड़ाई के आयताकार दंड (Bar graph: rectangular bars of uniform width)",
+        "ऊँचाई/लंबाई मान के समानुपाती (Height/length proportional to numerical value)",
+        "क्षैतिज अक्ष (X-अक्ष): श्रेणियाँ या वस्तुएँ (Horizontal axis / X-axis: categories/items)",
+        "ऊर्ध्वाधर अक्ष (Y-अक्ष): संख्यात्मक पैमाना (Vertical axis / Y-axis: numerical scale)"
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "State two important rules regarding the width of bars and the spacing between consecutive bars when drawing a bar graph.",
+      "questionHi": "दंड आलेख खींचते समय दंडों (Bars) की चौड़ाई और लगातार दो दंडों के बीच की दूरी के संबंध में दो महत्वपूर्ण नियम बताइए।",
+      "answer": "When drawing a bar graph: 1) All rectangular bars must have exactly the same uniform width throughout the graph. 2) The gap or spacing between any two consecutive bars must remain equal and constant across the entire graph.",
+      "answerHi": "दंड आलेख खींचते समय: 1) आलेख के सभी आयताकार दंडों (बार) की चौड़ाई पूर्णतः एक समान (बराबर) होनी चाहिए। 2) किन्हीं भी दो लगातार दंडों के बीच का स्थान (दूरी या अंतराल) पूरे आलेख में एक समान और नियत रहना चाहिए।",
+      "keyPoints": [
+        "नियम 1: सभी दंडों की चौड़ाई एक समान (Rule 1: Uniform width for all rectangular bars)",
+        "नियम 2: लगातार दंडों के बीच की दूरी समान (Rule 2: Equal spacing/gap between consecutive bars)",
+        "दृश्य स्पष्टता और सटीक तुलना के लिए अनिवार्य (Essential for visual uniformity and accurate comparison)"
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "In a pictograph representing book sales, one book symbol (📚) represents 25 books sold. How many symbols will be required to represent 150 books? What does 4 symbols represent?",
+      "questionHi": "पुस्तकों की बिक्री दर्शाने वाले एक चित्रलेख में, एक पुस्तक का चित्र (📚) 25 बेची गई पुस्तकों को दर्शाता है। 150 पुस्तकों को दर्शाने के लिए कितने चित्रों की आवश्यकता होगी? 4 चित्र कितनी पुस्तकों को दर्शाते हैं?",
+      "answer": "Since 1 symbol represents 25 books:\n1) To represent 150 books: Number of symbols = Total Books ÷ Scale = 150 ÷ 25 = 6 symbols.\n2) To find the number of books represented by 4 symbols: Total Books = Number of symbols × Scale = 4 × 25 = 100 books.",
+      "answerHi": "चूँकि 1 चित्र = 25 पुस्तकें:\n1) 150 पुस्तकों को दर्शाने के लिए चित्रों की संख्या = कुल पुस्तकें ÷ पैमाना = 150 ÷ 25 = 6 चित्र।\n2) 4 चित्रों द्वारा दर्शाई गई पुस्तकों की संख्या = चित्रों की संख्या × पैमाना = 4 × 25 = 100 पुस्तकें।",
+      "keyPoints": [
+        "पैमाना: 1 चित्र = 25 पुस्तकें (Scale: 1 symbol = 25 books)",
+        "150 पुस्तकों के लिए चित्र = 150 ÷ 25 = 6 चित्र (Symbols for 150 books = 6 symbols)",
+        "4 चित्रों का मान = 4 × 25 = 100 पुस्तकें (Value of 4 symbols = 100 books)"
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "Why is choosing an appropriate scale on the Y-axis essential when constructing a bar graph? What would happen if we used a scale of '1 unit length = 1 student' for a school with 2,500 students?",
+      "questionHi": "दंड आलेख बनाते समय Y-अक्ष पर एक उपयुक्त पैमाना (Scale) चुनना क्यों अनिवार्य है? यदि हम 2,500 विद्यार्थियों वाले विद्यालय के लिए '1 इकाई लंबाई = 1 विद्यार्थी' का पैमाना चुनें तो क्या होगा?",
+      "answer": "Choosing an appropriate scale is essential to fit the entire graph clearly and neatly within the boundaries of the graph paper while maintaining readability. If we used a scale of '1 unit length = 1 student' for a school of 2,500 students, the tallest bar would need to be 2,500 units (e.g., 2,500 cm or 25 meters) tall! Such a bar is physically impossible to draw on a standard graph sheet.",
+      "answerHi": "एक उपयुक्त पैमाना चुनना इसलिए अनिवार्य है ताकि पूरा आलेख ग्राफ पेपर की सीमाओं के भीतर स्पष्ट, स्वच्छ और आसानी से पढ़ने योग्य रूप में समा सके। यदि हम 2,500 विद्यार्थियों वाले विद्यालय के लिए '1 इकाई लंबाई = 1 विद्यार्थी' का पैमाना चुनते हैं, तो सबसे बड़े दंड (बार) की ऊँचाई 2,500 इकाई (जैसे 2,500 सेमी या 25 मीटर) रखनी होगी! इतना लंबा दंड एक सामान्य ग्राफ पेपर पर खींचना भौतिक रूप से असंभव है।",
+      "keyPoints": [
+        "पैमाना आलेख को ग्राफ पेपर के आकार के अनुकूल बनाता है (Scale fits data neatly onto standard graph sheet)",
+        "2500 इकाई (25 मीटर) का दंड कागज पर खींचना असंभव (2500 units / 25 meters tall bar is physically impossible to draw)",
+        "उपयुक्त पैमाना (जैसे 1 इकाई = 100 विद्यार्थी) आवश्यक (Appropriate scale like 1 unit = 100 students required)"
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "Differentiate between a vertical bar graph and a horizontal bar graph.",
+      "questionHi": "ऊर्ध्वाधर दंड आलेख (Vertical Bar Graph) और क्षैतिज दंड आलेख (Horizontal Bar Graph) के बीच अंतर स्पष्ट कीजिए।",
+      "answer": "In a vertical bar graph, the categories or items are placed along the horizontal axis (X-axis) and the numerical scale is along the vertical axis (Y-axis), so the bars stand upright from bottom to top. In a horizontal bar graph, the categories are placed along the vertical axis (Y-axis) and the numerical scale is along the horizontal axis (X-axis), so the bars extend horizontally from left to right.",
+      "answerHi": "ऊर्ध्वाधर दंड आलेख में, श्रेणियों या वस्तुओं को क्षैतिज अक्ष (X-अक्ष) पर और संख्यात्मक पैमाने को ऊर्ध्वाधर अक्ष (Y-अक्ष) पर रखा जाता है, जिससे दंड नीचे से ऊपर की ओर सीधे खड़े होते हैं। क्षैतिज दंड आलेख में, श्रेणियों को ऊर्ध्वाधर अक्ष (Y-अक्ष) पर और संख्यात्मक पैमाने को क्षैतिज अक्ष (X-अक्ष) पर रखा जाता है, जिससे दंड बाएं से दाएं की ओर क्षैतिज रूप से फैले होते हैं।",
+      "keyPoints": [
+        "ऊर्ध्वाधर: X-अक्ष पर श्रेणियाँ, Y-अक्ष पर मान ➔ खड़े दंड (Vertical: categories on X, scale on Y ➔ upright bars)",
+        "क्षैतिज: Y-अक्ष पर श्रेणियाँ, X-अक्ष पर मान ➔ लेटे दंड (Horizontal: categories on Y, scale on X ➔ horizontal bars)",
+        "दोनों आलेख समान सूचना और तुलना प्रदान करते हैं (Both provide identical mathematical information and comparison)"
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What is the difference between primary data and secondary data? Give one daily-life example for each.",
+      "questionHi": "प्राथमिक आँकड़ों (Primary Data) और द्वितीयक आँकड़ों (Secondary Data) के बीच क्या अंतर है? प्रत्येक का दैनिक जीवन से एक उदाहरण दीजिए।",
+      "answer": "Primary data is information collected firsthand directly by the investigator for a specific purpose (e.g., a teacher measuring and recording the height of every student in her class). Secondary data is information that has already been collected, compiled, and published by someone else (e.g., reading daily temperature or rainfall data from a newspaper or government website).",
+      "answerHi": "प्राथमिक आँकड़े वह जानकारी है जिसे अन्वेषक द्वारा किसी विशिष्ट उद्देश्य के लिए सीधे स्वयं (प्रत्यक्ष रूप से) एकत्र किया जाता है (जैसे: एक शिक्षिका द्वारा अपनी कक्षा के प्रत्येक विद्यार्थी की लंबाई मापना और लिखना)। द्वितीयक आँकड़े वह जानकारी है जो पहले से ही किसी अन्य व्यक्ति या संस्था द्वारा एकत्र, संकलित और प्रकाशित की जा चुकी होती है (जैसे: समाचार पत्र या सरकारी वेबसाइट से दैनिक तापमान या वर्षा के आँकड़े पढ़ना)।",
+      "keyPoints": [
+        "प्राथमिक आँकड़े: अन्वेषक द्वारा स्वयं सीधे एकत्र किए गए (Primary: collected firsthand directly by investigator)",
+        "द्वितीयक आँकड़े: दूसरों द्वारा प्रकाशित स्रोतों से प्राप्त (Secondary: obtained from already published sources)",
+        "उदाहरण: कक्षा में मापी गई लंबाई (प्राथमिक), अखबार का तापमान (द्वितीयक) (Examples: classroom height vs newspaper weather)"
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "The blood groups of 20 students in Class 6 are recorded as follows: A, B, O, O, AB, O, A, O, B, A, O, B, A, O, AB, O, A, A, O, A. \nConstruct a frequency distribution table using tally marks and identify the most common and least common blood groups.",
+      "questionHi": "कक्षा 6 के 20 विद्यार्थियों के रक्त समूह (Blood Groups) इस प्रकार दर्ज किए गए हैं: A, B, O, O, AB, O, A, O, B, A, O, B, A, O, AB, O, A, A, O, A।\nमिलान चिह्नों का उपयोग करते हुए एक बारंबारता बंटन सारणी बनाइए तथा सबसे सामान्य (Most Common) और सबसे दुर्लभ (Least Common) रक्त समूह पहचानिए।",
+      "answer": "Let's organize the data into a frequency table:\n- Blood Group A: |||| || (Frequency = 7)\n- Blood Group B: ||| (Frequency = 3)\n- Blood Group O: |||| ||| (Frequency = 8)\n- Blood Group AB: || (Frequency = 2)\nTotal Students = 7 + 3 + 8 + 2 = 20.\n- Most common blood group (highest frequency): O (8 students).\n- Least common blood group (lowest frequency): AB (2 students).",
+      "answerHi": "आँकड़ों को बारंबारता सारणी में व्यवस्थित करने पर:\n- रक्त समूह A: |||| || (बारंबारता = 7)\n- रक्त समूह B: ||| (बारंबारता = 3)\n- रक्त समूह O: |||| ||| (बारंबारता = 8)\n- रक्त समूह AB: || (बारंबारता = 2)\nकुल विद्यार्थी = 7 + 3 + 8 + 2 = 20।\n- सबसे सामान्य रक्त समूह (सर्वाधिक बारंबारता): O (8 विद्यार्थी)।\n- सबसे दुर्लभ रक्त समूह (न्यूनतम बारंबारता): AB (2 विद्यार्थी)।",
+      "keyPoints": [
+        "रक्त समूह A = 7, B = 3, O = 8, AB = 2 (Frequencies: A=7, B=3, O=8, AB=2)",
+        "कुल योग = 20 विद्यार्थी (Total sum = 20 students)",
+        "सबसे सामान्य रक्त समूह = O (8 विद्यार्थी) (Most common = O)",
+        "सबसे दुर्लभ रक्त समूह = AB (2 विद्यार्थी) (Least common = AB)"
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Explain the concept of 'range' in data handling. Find the range of the following daily maximum temperatures (in °C) recorded in a city over a week: 32°C, 35°C, 29°C, 38°C, 31°C, 40°C, 34°C.",
+      "questionHi": "आँकड़ा प्रबंधन में 'परिसर' (Range) की अवधारणा को स्पष्ट कीजिए। एक सप्ताह के दौरान किसी शहर में दर्ज किए गए निम्नलिखित दैनिक अधिकतम तापमानों (°C में) का परिसर ज्ञात कीजिए: 32°C, 35°C, 29°C, 38°C, 31°C, 40°C, 34°C।",
+      "answer": "The 'range' of a dataset is the difference between the highest (maximum) observation and the lowest (minimum) observation. It gives a quick measure of how spread out or varied the data values are across the distribution.\nTo find the range of the given temperatures:\n- Step 1: Identify the maximum temperature = 40°C.\n- Step 2: Identify the minimum temperature = 29°C.\n- Step 3: Calculate difference: Range = Maximum Value - Minimum Value = 40°C - 29°C = 11°C.\nTherefore, the range of the recorded temperatures is 11°C.",
+      "answerHi": "किसी आँकड़ा संग्रह का 'परिसर' (रेंज) उसके सबसे बड़े (अधिकतम) प्रेक्षण और सबसे छोटे (न्यूनतम) प्रेक्षण के बीच का अंतर होता है। यह इस बात की त्वरित माप देता है कि आँकड़े वितरण में कितने फैले हुए या विविधता वाले हैं।\nदिए गए तापमानों का परिसर ज्ञात करने के लिए:\n- चरण 1: अधिकतम तापमान = 40°C पहचानें।\n- चरण 2: न्यूनतम तापमान = 29°C पहचानें।\n- चरण 3: अंतर की गणना: परिसर = अधिकतम मान - न्यूनतम मान = 40°C - 29°C = 11°C।\nअतः दर्ज किए गए तापमानों का परिसर 11°C है।",
+      "keyPoints": [
+        "सूत्र: परिसर = अधिकतम प्रेक्षण - न्यूनतम प्रेक्षण (Formula: Range = Maximum value - Minimum value)",
+        "अधिकतम तापमान = 40°C (Highest temperature = 40°C)",
+        "न्यूनतम तापमान = 29°C (Lowest temperature = 29°C)",
+        "सटीक परिसर: 40 - 29 = 11°C (Exact range = 11°C)"
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "A pictograph shows the number of trees planted by five villages: Village A (4 symbols), Village B (6 symbols), Village C (3 symbols), Village D (5 symbols), Village E (2 symbols). If each symbol (🌲) represents 40 trees, calculate: \n(a) The total number of trees planted by Village B and Village D together. \n(b) Which village planted exactly 120 trees? \n(c) What is the total number of trees planted across all five villages?",
+      "questionHi": "एक चित्रलेख पाँच गाँवों द्वारा लगाए गए वृक्षों की संख्या दर्शाता है: गाँव A (4 चित्र), गाँव B (6 चित्र), गाँव C (3 चित्र), गाँव D (5 चित्र), गाँव E (2 चित्र)। यदि प्रत्येक चित्र (🌲) 40 वृक्षों को दर्शाता है, तो ज्ञात कीजिए:\n(क) गाँव B और गाँव D द्वारा मिलाकर लगाए गए वृक्षों की कुल संख्या।\n(ख) किस गाँव ने ठीक 120 वृक्ष लगाए?\n(ग) सभी पाँच गाँवों द्वारा मिलाकर कुल कितने वृक्ष लगाए गए?",
+      "answer": "Given Scale: 1 symbol = 40 trees.\n(a) Trees by Village B and D together:\n- Village B = 6 symbols = 6 × 40 = 240 trees.\n- Village D = 5 symbols = 5 × 40 = 200 trees.\n- Total (B + D) = 240 + 200 = 440 trees.\n\n(b) Village planting exactly 120 trees:\n- Number of symbols required for 120 trees = 120 ÷ 40 = 3 symbols.\n- Looking at the data, Village C has exactly 3 symbols. Therefore, Village C planted 120 trees.\n\n(c) Total trees across all five villages:\n- Total symbols = 4 + 6 + 3 + 5 + 2 = 20 symbols.\n- Total trees = 20 × 40 = 800 trees.",
+      "answerHi": "दिया गया पैमाना: 1 चित्र = 40 वृक्ष।\n(क) गाँव B और D द्वारा मिलकर लगाए गए वृक्ष:\n- गाँव B = 6 चित्र = 6 × 40 = 240 वृक्ष।\n- गाँव D = 5 चित्र = 5 × 40 = 200 वृक्ष।\n- कुल (B + D) = 240 + 200 = 440 वृक्ष।\n\n(ख) ठीक 120 वृक्ष लगाने वाला गाँव:\n- 120 वृक्षों के लिए आवश्यक चित्र = 120 ÷ 40 = 3 चित्र।\n- आँकड़ों के अनुसार गाँव C के पास ठीक 3 चित्र हैं। अतः गाँव C ने 120 वृक्ष लगाए।\n\n(ग) सभी पाँच गाँवों में कुल वृक्ष:\n- कुल चित्र = 4 + 6 + 3 + 5 + 2 = 20 चित्र।\n- कुल वृक्ष = 20 × 40 = 800 वृक्ष।",
+      "keyPoints": [
+        "पैमाना: 1 चित्र = 40 वृक्ष (Scale: 1 symbol = 40 trees)",
+        "गाँव B + D = 240 + 200 = 440 वृक्ष (Village B + D = 440 trees)",
+        "120 वृक्ष = 3 चित्र ➔ गाँव C (120 trees = 3 symbols ➔ Village C)",
+        "कुल वृक्ष = 20 चित्र × 40 = 800 वृक्ष (Total trees = 20 × 40 = 800 trees)"
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "In a pictograph, how can we represent numbers that are not exact multiples of the chosen scale? For example, if 1 complete bulb symbol represents 20 light bulbs, how would you represent 50 bulbs, 30 bulbs, and 75 bulbs?",
+      "questionHi": "किसी चित्रलेख में हम उन संख्याओं को कैसे दर्शा सकते हैं जो चुने गए पैमाने की पूर्ण गुणज (Exact Multiples) नहीं होती हैं? उदाहरण के लिए, यदि 1 पूरा बल्ब चित्र 20 बल्बों को दर्शाता है, तो आप 50 बल्बों, 30 बल्बों और 75 बल्बों को कैसे दर्शाएंगे?",
+      "answer": "When numbers are not exact multiples of the scale, we use fractional or partial pictures (such as half-symbols or quarter-symbols) to represent the remainder quantities accurately. With a scale of 1 complete symbol = 20 bulbs (so half-symbol = 10 bulbs and quarter-symbol = 5 bulbs):\n1) To represent 50 bulbs: 50 = 20 + 20 + 10 ➔ Draw 2 complete bulb symbols and 1 half-bulb symbol.\n2) To represent 30 bulbs: 30 = 20 + 10 ➔ Draw 1 complete bulb symbol and 1 half-bulb symbol.\n3) To represent 75 bulbs: 75 = 20 + 20 + 20 + 10 + 5 ➔ Draw 3 complete bulb symbols, 1 half-bulb symbol, and 1 quarter-bulb symbol (or three-quarter symbol for 15).",
+      "answerHi": "जब संख्याएँ पैमाने की पूर्ण गुणज नहीं होती हैं, तो हम शेष बची मात्राओं को सटीक रूप से दर्शाने के लिए आंशिक या भिन्नात्मक चित्रों (जैसे आधा चित्र या चौथाई चित्र) का उपयोग करते हैं। 1 पूरा चित्र = 20 बल्ब के पैमाने पर (अतः आधा चित्र = 10 बल्ब और चौथाई चित्र = 5 बल्ब):\n1) 50 बल्बों के लिए: 50 = 20 + 20 + 10 ➔ 2 पूरे बल्ब चित्र और 1 आधा बल्ब चित्र बनाएं।\n2) 30 बल्बों के लिए: 30 = 20 + 10 ➔ 1 पूरा बल्ब चित्र और 1 आधा बल्ब चित्र बनाएं।\n3) 75 बल्बों के लिए: 75 = 20 + 20 + 20 + 10 + 5 ➔ 3 पूरे बल्ब चित्र, 1 आधा बल्ब चित्र और 1 चौथाई बल्ब चित्र बनाएं (या 15 के लिए तीन-चौथाई चित्र)।",
+      "keyPoints": [
+        "अपूर्ण गुणजों के लिए आधे या चौथाई चित्रों का उपयोग (Use half or quarter symbols for remainders)",
+        "1 पूरा चित्र = 20 बल्ब, आधा चित्र = 10 बल्ब, चौथाई = 5 बल्ब (1 complete symbol = 20, half = 10, quarter = 5)",
+        "50 बल्ब = 2 पूरे + 1 आधा (50 bulbs = 2.5 symbols)",
+        "30 बल्ब = 1 पूरा + 1 आधा (30 bulbs = 1.5 symbols)"
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "A vertical bar graph shows the number of bicycles manufactured by a factory over five years: 2019 (800 bicycles), 2020 (600 bicycles), 2021 (900 bicycles), 2022 (1,100 bicycles), 2023 (1,200 bicycles). \nIf the vertical scale chosen is '1 cm length of bar = 100 bicycles', calculate the height (in cm) of the rectangular bar for each of the five years.",
+      "questionHi": "एक ऊर्ध्वाधर दंड आलेख एक कारखाने द्वारा पाँच वर्षों में निर्मित साइकिलों की संख्या दर्शाता है: 2019 (800 साइकिलें), 2020 (600 साइकिलें), 2021 (900 साइकिलें), 2022 (1,100 साइकिलें), 2023 (1,200 साइकिलें)।\nयदि चुना गया ऊर्ध्वाधर पैमाना '1 सेमी दंड की लंबाई = 100 साइकिलें' है, तो पाँचों वर्षों में से प्रत्येक के लिए आयताकार दंड की ऊँचाई (सेमी में) ज्ञात कीजिए।",
+      "answer": "To find the height of each bar in centimeters, divide the number of bicycles manufactured in that year by the chosen scale (100 bicycles per cm):\n- Height for 2019 bar = 800 ÷ 100 = 8.0 cm.\n- Height for 2020 bar = 600 ÷ 100 = 6.0 cm.\n- Height for 2021 bar = 900 ÷ 100 = 9.0 cm.\n- Height for 2022 bar = 1,100 ÷ 100 = 11.0 cm.\n- Height for 2023 bar = 1,200 ÷ 100 = 12.0 cm.\nThese heights can be drawn easily and accurately on standard centimeter graph paper.",
+      "answerHi": "सेंटीमीटर में प्रत्येक दंड (बार) की ऊँचाई ज्ञात करने के लिए, उस वर्ष निर्मित साइकिलों की संख्या को चुने गए पैमाने (100 साइकिल प्रति सेमी) से भाग देने पर:\n- 2019 के दंड की ऊँचाई = 800 ÷ 100 = 8.0 सेमी।\n- 2020 के दंड की ऊँचाई = 600 ÷ 100 = 6.0 सेमी।\n- 2021 के दंड की ऊँचाई = 900 ÷ 100 = 9.0 सेमी।\n- 2022 के दंड की ऊँचाई = 1,100 ÷ 100 = 11.0 सेमी।\n- 2023 के दंड की ऊँचाई = 1,200 ÷ 100 = 12.0 सेमी।\nइन ऊँचाइयों को सामान्य सेंटीमीटर वाले ग्राफ पेपर पर आसानी से और सटीक रूप से खींचा जा सकता है।",
+      "keyPoints": [
+        "सूत्र: दंड की ऊँचाई = मान ÷ पैमाना (Formula: Bar height = Value ÷ Scale)",
+        "2019 = 8 सेमी, 2020 = 6 सेमी, 2021 = 9 सेमी (Heights: 2019=8 cm, 2020=6 cm, 2021=9 cm)",
+        "2022 = 11 सेमी, 2023 = 12 सेमी (Heights: 2022=11 cm, 2023=12 cm)",
+        "ग्राफ पेपर पर स्पष्ट निरूपण (Neat representation on graph paper)"
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Why is it important to give a clear, descriptive title to every table, pictograph, or bar graph? What three essential pieces of information should a complete graph title convey?",
+      "questionHi": "प्रत्येक सारणी, चित्रलेख या दंड आलेख को एक स्पष्ट और विवरणात्मक शीर्षक (Title) देना क्यों महत्वपूर्ण है? एक पूर्ण आलेख शीर्षक को कौन-सी तीन आवश्यक जानकारी देनी चाहिए?",
+      "answer": "A descriptive title is critical because it immediately informs the reader what specific story or dataset the visual graph represents, without forcing them to guess from raw numbers. A complete, professional graph title should clearly convey three essential pieces of information:\n1) What topic or subject is being measured (e.g., Number of students, rainfall, sports scores).\n2) Where the data was collected (e.g., in Class 6, in Delhi, at a school sports meet).\n3) When the data was recorded (e.g., during the year 2025, over the last week, on Monday).",
+      "answerHi": "एक विवरणात्मक शीर्षक इसलिए महत्वपूर्ण है क्योंकि यह पाठक को तुरंत बता देता है कि आलेख किस विशिष्ट विषय या आँकड़ा संग्रह को दर्शा रहा है, जिससे उन्हें केवल संख्याओं से अनुमान नहीं लगाना पड़ता। एक पूर्ण और व्यावसायिक आलेख शीर्षक में तीन आवश्यक जानकारियां स्पष्ट रूप से होनी चाहिए:\n1) क्या मापा जा रहा है (जैसे: विद्यार्थियों की संख्या, वर्षा की मात्रा, खेलों के अंक)।\n2) कहाँ से आँकड़े एकत्र किए गए (जैसे: कक्षा 6 में, दिल्ली में, विद्यालयी खेल प्रतियोगिता में)।\n3) कब आँकड़े दर्ज किए गए (जैसे: वर्ष 2025 के दौरान, पिछले सप्ताह में, सोमवार को)।",
+      "keyPoints": [
+        "शीर्षक पाठक को आलेख का विषय और संदर्भ तुरंत बताता है (Title provides instant context and meaning to reader)",
+        "तत्व 1: क्या मापा जा रहा है (Element 1: What is being measured)",
+        "तत्व 2: कहाँ से एकत्र किया गया (Element 2: Where data was collected)",
+        "तत्व 3: समय या कालखंड क्या है (Element 3: When data was recorded)"
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "A bar graph representing marks scored by a student out of 100 in five subjects shows the following bar heights (with scale: 1 cm = 10 marks): Hindi (7.5 cm), English (6.0 cm), Mathematics (9.5 cm), Science (8.5 cm), Social Science (7.0 cm). \n(a) Calculate the exact marks obtained in Mathematics and in Hindi. \n(b) Find the total marks obtained across all five subjects and calculate the student's average (mean) marks per subject.",
+      "questionHi": "पाँच विषयों में 100 में से एक विद्यार्थी द्वारा प्राप्त अंकों को दर्शाने वाले दंड आलेख में दंडों की ऊँचाइयाँ इस प्रकार हैं (पैमाना: 1 सेमी = 10 अंक): हिंदी (7.5 सेमी), अंग्रेजी (6.0 सेमी), गणित (9.5 सेमी), विज्ञान (8.5 सेमी), सामाजिक विज्ञान (7.0 सेमी)।\n(क) गणित और हिंदी में प्राप्त सटीक अंक ज्ञात कीजिए।\n(ख) पाँचों विषयों में प्राप्त कुल अंक ज्ञात कीजिए तथा प्रति विषय विद्यार्थी के औसत (माध्य) अंक की गणना कीजिए।",
+      "answer": "Given Scale: 1 cm bar height = 10 marks.\n(a) Marks Obtained in Mathematics and Hindi:\n- Mathematics marks = Height × Scale = 9.5 cm × 10 = 95 marks.\n- Hindi marks = Height × Scale = 7.5 cm × 10 = 75 marks.\n\n(b) Total Marks and Average (Mean):\n- English = 6.0 × 10 = 60 marks; Science = 8.5 × 10 = 85 marks; Social Science = 7.0 × 10 = 70 marks.\n- Total Marks = 75 + 60 + 95 + 85 + 70 = 385 marks.\n- Average (Mean) Marks = Total Marks ÷ Number of Subjects = 385 ÷ 5 = 77 marks per subject.",
+      "answerHi": "दिया गया पैमाना: 1 सेमी ऊँचाई = 10 अंक।\n(क) गणित और हिंदी में प्राप्त अंक:\n- गणित के अंक = ऊँचाई × पैमाना = 9.5 सेमी × 10 = 95 अंक।\n- हिंदी के अंक = ऊँचाई × पैमाना = 7.5 सेमी × 10 = 75 अंक।\n\n(ख) कुल अंक और औसत (माध्य):\n- अंग्रेजी = 60 अंक; विज्ञान = 85 अंक; सामाजिक विज्ञान = 70 अंक।\n- कुल प्राप्त अंक = 75 + 60 + 95 + 85 + 70 = 385 अंक।\n- औसत (माध्य) अंक = कुल अंक ÷ विषयों की संख्या = 385 ÷ 5 = 77 अंक प्रति विषय।",
+      "keyPoints": [
+        "गणित के अंक: 9.5 × 10 = 95 अंक (Mathematics = 95 marks)",
+        "हिंदी के अंक: 7.5 × 10 = 75 अंक (Hindi = 75 marks)",
+        "कुल अंक = 75+60+95+85+70 = 385 अंक (Total marks = 385 marks)",
+        "औसत अंक = 385 ÷ 5 = 77 अंक (Average / Mean marks = 77 marks)"
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "What are the advantages of presenting data using graphs (pictographs or bar graphs) compared to presenting data in a plain text paragraph or raw number list?",
+      "questionHi": "साधारण पाठ्य अनुच्छेद (Text Paragraph) या कच्ची संख्या सूची की तुलना में आलेखों (चित्रलेख या दंड आलेख) द्वारा आँकड़े प्रस्तुत करने के क्या लाभ हैं?",
+      "answer": "Presenting data through visual graphs offers three major advantages:\n1) Instant Comprehension: Graphs translate complex numerical tables into clear visual shapes, allowing readers to grasp trends, patterns, and highlights at a single glance without reading boring text.\n2) Rapid Comparison: By visually comparing bar heights or pictograph symbol lengths, readers can instantly identify the highest, lowest, and equal categories without doing mental calculations.\n3) Enhanced Memory and Impact: Visual representations are far more engaging, attractive, and memorable to the human brain than dry numerical lists, making them essential in newspapers, scientific reports, and presentations.",
+      "answerHi": "दृश्य आलेखों के माध्यम से आँकड़े प्रस्तुत करने के तीन प्रमुख लाभ हैं:\n1) त्वरित समझ: आलेख जटिल संख्यात्मक सारणियों को स्पष्ट दृश्य आकृतियों में बदल देते हैं, जिससे पाठक उबाऊ पाठ पढ़े बिना एक ही नज़र में प्रवृत्तियों, पैटर्न और मुख्य बातों को समझ जाते हैं।\n2) तीव्र तुलना: दंडों की ऊँचाई या चित्रों की लंबाई की दृश्य तुलना करके, पाठक बिना किसी मानसिक गणना के तुरंत सबसे अधिक, सबसे कम और समान श्रेणियों की पहचान कर सकते हैं।\n3) बेहतर स्मरण और प्रभाव: शुष्क संख्यात्मक सूचियों की तुलना में दृश्य निरूपण मानव मस्तिष्क के लिए कहीं अधिक आकर्षक, रोचक और स्मरणीय होते हैं, जो उन्हें समाचार पत्रों, वैज्ञानिक रिपोर्टों और प्रस्तुतियों में अनिवार्य बनाता है।",
+      "keyPoints": [
+        "एक ही नज़र में त्वरित समझ (Instant comprehension at a single glance)",
+        "दंडों की ऊँचाई द्वारा तीव्र और सटीक तुलना (Rapid and accurate comparison via visual heights)",
+        "आकर्षक और मस्तिष्क के लिए अधिक स्मरणीय (Visually engaging and highly memorable)",
+        "जटिल आँकड़ों को सरल और सुलभ बनाना (Simplifying complex numerical datasets)"
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "In a survey of 120 families in a colony, the number of children per family was recorded. The tally mark table shows: 0 children (15 families), 1 child (35 families), 2 children (50 families), 3 children (15 families), 4 children (5 families). \n(a) What is the most common family size in the colony? \n(b) How many families have 2 or more children? \n(c) What percentage of families have exactly 1 child?",
+      "questionHi": "एक कॉलोनी के 120 परिवारों के सर्वेक्षण में प्रति परिवार बच्चों की संख्या दर्ज की गई। मिलान चिह्न सारणी दर्शाती है: 0 बच्चे (15 परिवार), 1 बच्चा (35 परिवार), 2 बच्चे (50 परिवार), 3 बच्चे (15 परिवार), 4 बच्चे (5 परिवार)।\n(क) कॉलोनी में परिवार का सबसे सामान्य आकार (बच्चों की संख्या) क्या है?\n(ख) कितने परिवारों में 2 या 2 से अधिक बच्चे हैं?\n(ग) कितने प्रतिशत परिवारों में ठीक 1 बच्चा है?",
+      "answer": "(a) Most Common Family Size:\nLooking at the frequencies, 2 children occurs most frequently (50 families). Therefore, the most common family size is 2 children per family.\n\n(b) Families with 2 or More Children:\nThis includes families with 2 children (50), 3 children (15), and 4 children (5).\nTotal families = 50 + 15 + 5 = 70 families.\n\n(c) Percentage of Families with Exactly 1 Child:\n- Families with exactly 1 child = 35 families.\n- Total families surveyed = 120 families.\n- Percentage = (35 ÷ 120) × 100 = (7 ÷ 24) × 100 = 700 ÷ 24 = 29.17% (or approx 29.2%).",
+      "answerHi": "(क) सबसे सामान्य परिवार आकार:\nबारंबारताओं को देखने पर, 2 बच्चे सबसे अधिक बार (50 परिवार) आते हैं। अतः परिवार का सबसे सामान्य आकार प्रति परिवार 2 बच्चे है।\n\n(ख) 2 या 2 से अधिक बच्चों वाले परिवार:\nइसमें 2 बच्चे (50), 3 बच्चे (15) और 4 बच्चे (5) वाले परिवार शामिल हैं।\nकुल परिवार = 50 + 15 + 5 = 70 परिवार।\n\n(ग) ठीक 1 बच्चे वाले परिवारों का प्रतिशत:\n- ठीक 1 बच्चे वाले परिवार = 35 परिवार।\n- सर्वेक्षण किए गए कुल परिवार = 120 परिवार।\n- प्रतिशत = (35 ÷ 120) × 100 = (7 ÷ 24) × 100 = 700 ÷ 24 = 29.17% (या लगभग 29.2%)।",
+      "keyPoints": [
+        "सबसे सामान्य आकार = 2 बच्चे (50 परिवार) (Most common family size = 2 children)",
+        "2 या अधिक बच्चे वाले = 50 + 15 + 5 = 70 परिवार (2 or more children = 70 families)",
+        "1 बच्चे का प्रतिशत = (35 ÷ 120) × 100 = 29.17% (Percentage with 1 child = 29.17%)"
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "When collecting data for a school project on 'Favorite Sports of Class 6 Students', what step-by-step methodology should a student follow from planning to final presentation?",
+      "questionHi": "'कक्षा 6 के विद्यार्थियों के पसंदीदा खेल' पर एक विद्यालयी परियोजना के लिए आँकड़े एकत्र करते समय, एक विद्यार्थी को योजना बनाने से लेकर अंतिम प्रस्तुतीकरण तक किस चरणबद्ध कार्यप्रणाली का पालन करना चाहिए?",
+      "answer": "A systematic data handling methodology involves four essential steps:\nStep 1: Objective & Data Collection (Planning): Clearly define what information is needed. Interview or survey all Class 6 students individually and record their favorite sport on a sheet as raw data.\nStep 2: Organization using Tally Marks: Create a frequency table listing all mentioned sports (Cricket, Football, Badminton, etc.). Use tally marks in groups of 5 to accurately count and sum the frequency for each sport.\nStep 3: Visual Presentation: Construct a neat bar graph or pictograph on graph paper using an appropriate scale (e.g., 1 cm = 5 students), clearly labeling the X-axis, Y-axis, and title.\nStep 4: Analysis & Conclusion: Analyze the visual chart to draw meaningful conclusions (e.g., identifying the most popular sport and the least favorite sport in the class).",
+      "answerHi": "एक व्यवस्थित आँकड़ा प्रबंधन कार्यप्रणाली में चार आवश्यक चरण शामिल हैं:\nचरण 1: उद्देश्य और आँकड़ा संग्रह (योजना): आवश्यक जानकारी स्पष्ट रूप से तय करें। कक्षा 6 के सभी विद्यार्थियों का व्यक्तिगत साक्षात्कार या सर्वेक्षण करें और उनके पसंदीदा खेल को कागज पर यथाप्राप्त आँकड़ों (रॉ डेटा) के रूप में लिखें।\nचरण 2: मिलान चिह्नों द्वारा व्यवस्था: सभी खेलों (क्रिकेट, फुटबॉल, बैडमिंटन आदि) की सूची वाली एक बारंबारता सारणी बनाएं। प्रत्येक खेल के लिए सटीक गिनती करने हेतु 5-5 के समूहों में मिलान चिह्नों का उपयोग करें।\nचरण 3: दृश्य प्रस्तुतीकरण: ग्राफ पेपर पर एक उपयुक्त पैमाना (जैसे 1 सेमी = 5 विद्यार्थी) चुनकर स्वच्छ दंड आलेख या चित्रलेख बनाएं, जिसमें X-अक्ष, Y-अक्ष और शीर्षक स्पष्ट रूप से लिखे हों।\nचरण 4: विश्लेषण और निष्कर्ष: दृश्य आलेख का विश्लेषण कर अर्थपूर्ण निष्कर्ष निकालें (जैसे कक्षा में सर्वाधिक लोकप्रिय और सबसे कम पसंद किए जाने वाले खेल की पहचान करना)।",
+      "keyPoints": [
+        "चरण 1: उद्देश्य तय करना और यथाप्राप्त आँकड़े एकत्र करना (Step 1: Define goal and collect raw data)",
+        "चरण 2: मिलान चिह्नों द्वारा बारंबारता सारणी बनाना (Step 2: Organize using tally marks frequency table)",
+        "चरण 3: उपयुक्त पैमाने के साथ दंड आलेख/चित्रलेख बनाना (Step 3: Present visually using bar graph/pictograph)",
+        "चरण 4: आलेख का विश्लेषण कर निष्कर्ष निकालना (Step 4: Analyze graph and draw meaningful conclusions)"
+      ]
+    },
+    {
+      "id": "q21",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "A competency-based data analysis case study: A school librarian recorded the number of books issued to students during the six working days of a week: Monday (450 books), Tuesday (300 books), Wednesday (500 books), Thursday (250 books), Friday (400 books), Saturday (600 books). \n(a) Construct a frequency table and choose an appropriate scale to represent this data on a vertical bar graph. \n(b) Which day had the maximum issue of books and which day had the minimum issue? What is the difference between them? \n(c) Why do you think Saturday had the highest number of book issues in the library? Give a logical reasoning based on student habits.",
+      "questionHi": "योग्यता-आधारित आँकड़ा विश्लेषण केस स्टडी: एक विद्यालय के पुस्तकालयाध्यक्ष ने सप्ताह के छह कार्यदिवसों के दौरान विद्यार्थियों को जारी (Issue) की गई पुस्तकों की संख्या दर्ज की: सोमवार (450 पुस्तकें), मंगलवार (300 पुस्तकें), बुधवार (500 पुस्तकें), गुरुवार (250 पुस्तकें), शुक्रवार (400 पुस्तकें), शनिवार (600 पुस्तकें)।\n(क) एक बारंबारता सारणी बनाइए तथा इस आँकड़े को ऊर्ध्वाधर दंड आलेख पर दर्शाने के लिए एक उपयुक्त पैमाना चुनिए।\n(ख) किस दिन पुस्तकों का सर्वाधिक निर्गम हुआ और किस दिन न्यूनतम? दोनों के बीच कितना अंतर है?\n(ग) आपके विचार से शनिवार को पुस्तकालय में सर्वाधिक पुस्तकें क्यों जारी की गईं? विद्यार्थियों की आदतों के आधार पर तार्किक कारण दीजिए।",
+      "answer": "(a) Frequency Table & Scale Selection:\n- Monday: 450; Tuesday: 300; Wednesday: 500; Thursday: 250; Friday: 400; Saturday: 600.\n- Appropriate Scale for Bar Graph: Let 1 cm along Y-axis = 50 books (or 1 cm = 100 books). Using 1 cm = 50 books gives clean bar heights: Mon (9 cm), Tue (6 cm), Wed (10 cm), Thu (5 cm), Fri (8 cm), Sat (12 cm).\n\n(b) Maximum, Minimum, and Difference:\n- Maximum book issues: Saturday (600 books).\n- Minimum book issues: Thursday (250 books).\n- Difference = Maximum - Minimum = 600 - 250 = 350 books.\n\n(c) Logical Reasoning for Saturday's Peak:\nSaturday had the highest book issues (600) because the very next day is Sunday (a school holiday). Students borrow extra storybooks, reference materials, and novels on Saturday so they can read and enjoy them at home during their weekend leisure time without regular weekday homework pressure.",
+      "answerHi": "(क) बारंबारता सारणी और पैमाना चयन:\n- सोमवार: 450; मंगलवार: 300; बुधवार: 500; गुरुवार: 250; शुक्रवार: 400; शनिवार: 600।\n- दंड आलेख के लिए उपयुक्त पैमाना: माना Y-अक्ष पर 1 सेमी = 50 पुस्तकें (या 1 सेमी = 100 पुस्तकें)। 1 सेमी = 50 पुस्तकें लेने पर दंडों की ऊँचाई: सोम (9 सेमी), मंगल (6 सेमी), बुध (10 सेमी), गुरु (5 सेमी), शुक्र (8 सेमी), शनि (12 सेमी)।\n\n(ख) अधिकतम, न्यूनतम और अंतर:\n- सर्वाधिक पुस्तकें जारी: शनिवार (600 पुस्तकें)।\n- न्यूनतम पुस्तकें जारी: गुरुवार (250 पुस्तकें)।\n- अंतर = अधिकतम - न्यूनतम = 600 - 250 = 350 पुस्तकें।\n\n(ग) शनिवार को सर्वाधिक निर्गम का तार्किक कारण:\nशनिवार को सबसे अधिक पुस्तकें (600) इसलिए जारी हुईं क्योंकि ठीक अगला दिन रविवार (विद्यालय का अवकाश) होता है। विद्यार्थी शनिवार को घर पर पढ़ने के लिए अतिरिक्त कहानी की किताबें, संदर्भ पुस्तकें और उपन्यास ले जाते हैं ताकि वे सप्ताह के अंत में बिना नियमित गृहकार्य के दबाव के आराम से पढ़ सकें।",
+      "keyPoints": [
+        "उपयुक्त पैमाना: 1 सेमी = 50 पुस्तकें (Appropriate scale: 1 cm = 50 books)",
+        "अधिकतम = शनिवार (600), न्यूनतम = गुरुवार (250) (Max = Saturday 600, Min = Thursday 250)",
+        "अंतर: 600 - 250 = 350 पुस्तकें (Difference = 350 books)",
+        "तार्किक कारण: रविवार के अवकाश में पढ़ने के लिए शनिवार को अधिक पुस्तकें ली जाती हैं (Logical reason: reading during Sunday weekend holiday)"
+      ]
+    },
+    {
+      "id": "q22",
+      "type": "value-based",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "How does the practice of organizing chaotic raw data into clear, systematic bar graphs and frequency tables reflect the essential life values of discipline, transparency, and truthful communication in public life and media?",
+      "questionHi": "अस्त-व्यस्त यथाप्राप्त आँकड़ों (Raw Data) को स्पष्ट, व्यवस्थित दंड आलेखों और बारंबारता सारणियों में बदलने का अभ्यास सार्वजनिक जीवन और मीडिया में अनुशासन, पारदर्शिता और सत्यपरक संवाद के आवश्यक जीवन-मूल्यों को किस प्रकार दर्शाता है?",
+      "answer": "When raw data is collected in the real world—whether regarding public healthcare, school budgets, or environmental pollution—it often appears chaotic, overwhelming, and confusing to the general public. The mathematical art of organizing this raw data into structured frequency tables and accurate bar graphs requires immense discipline, precision, and objectivity.\n\nIn public life and journalism, this data handling process symbolizes the core social values of transparency, honesty, and truthful communication. A well-constructed graph does not hide failures or exaggerate achievements; it presents mathematical facts exactly as they are, with equal bar widths and unbiased scales. By transforming complex statistics into transparent visual truth, ethical data presentation empowers citizens to hold authorities accountable, make informed decisions, and combat misinformation—proving that honesty and order in mathematics build trust and integrity in society.",
+      "answerHi": "जब वास्तविक दुनिया में यथाप्राप्त आँकड़े एकत्र किए जाते हैं—चाहे वह सार्वजनिक स्वास्थ्य, विद्यालयी बजट या पर्यावरण प्रदूषण के बारे में हों—तो वे आम जनता के लिए अस्त-व्यस्त, अत्यधिक और भ्रमित करने वाले प्रतीत होते हैं। इन कच्चे आँकड़ों को व्यवस्थित बारंबारता सारणियों और सटीक दंड आलेखों में बदलने की गणितीय कला के लिए अत्यधिक अनुशासन, सटीकता और निष्पक्षता की आवश्यकता होती है।\n\nसार्वजनिक जीवन और पत्रकारिता में, आँकड़ा प्रबंधन की यह प्रक्रिया पारदर्शिता, ईमानदारी और सत्यपरक संवाद के मूल सामाजिक मूल्यों का प्रतीक है। एक अच्छी तरह से बना आलेख असफलताओं को छिपाता नहीं है और न ही उपलब्धियों को बढ़ा-चढ़ाकर दिखाता है; यह समान चौड़ाई के दंडों और निष्पक्ष पैमाने के साथ गणितीय तथ्यों को ज्यों का त्यों प्रस्तुत करता है। जटिल आँकड़ों को पारदर्शी दृश्य सत्य में बदलकर, नैतिक आँकड़ा प्रस्तुतीकरण नागरिकों को जवाबदेही तय करने, सही निर्णय लेने और भ्रामक सूचनाओं से लड़ने में सक्षम बनाता है—यह सिद्ध करता है कि गणित में ईमानदारी और व्यवस्था समाज में विश्वास और सत्यनिष्ठा का निर्माण करती है।",
+      "keyPoints": [
+        "अस्त-व्यस्त आँकड़ों को व्यवस्थित करने में अनुशासन और सटीकता का महत्व (Discipline and precision in transforming chaotic data into order)",
+        "सार्वजनिक सूचनाओं में पारदर्शिता और सत्यनिष्ठा (Transparency and honesty in presenting public information)",
+        "निष्पक्ष पैमाने और समान दंडों द्वारा भ्रामक सूचनाओं पर रोक (Preventing manipulation and misinformation through unbiased graphs)",
+        "नागरिकों को सही निर्णय लेने और जवाबदेही तय करने में सक्षम बनाना (Empowering citizens to make informed decisions and ensure accountability)"
+      ]
+    },
+    {
+      "id": "q23",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "A competency-based problem on double-step data analysis: The following pictograph table shows the number of LED bulbs sold by a store across four months: January (5 symbols), February (7 symbols), March (4 symbols), April (8 symbols). Each symbol (💡) represents 50 LED bulbs. \n(a) Calculate the exact number of bulbs sold in each of the four months. \n(b) If each LED bulb was sold at a price of ₹120, calculate the total revenue earned by the store in February and in April. \n(c) By how much percentage did the bulb sales increase from March to April?",
+      "questionHi": "दोहरे चरण के आँकड़ा विश्लेषण पर योग्यता-आधारित प्रश्न: निम्नलिखित चित्रलेख सारणी चार महीनों में एक दुकान द्वारा बेचे गए LED बल्बों की संख्या दर्शाती है: जनवरी (5 चित्र), फरवरी (7 चित्र), मार्च (4 चित्र), अप्रैल (8 चित्र)। प्रत्येक चित्र (💡) 50 LED बल्बों को दर्शाता है।\n(क) चारों महीनों में से प्रत्येक में बेचे गए बल्बों की सटीक संख्या ज्ञात कीजिए।\n(ख) यदि प्रत्येक LED बल्ब ₹120 के मूल्य पर बेचा गया, तो फरवरी और अप्रैल में दुकान द्वारा अर्जित कुल राजस्व (कमाई) ज्ञात कीजिए।\n(ग) मार्च से अप्रैल तक बल्बों की बिक्री में कितने प्रतिशत की वृद्धि हुई?",
+      "answer": "Given Scale: 1 symbol = 50 LED bulbs. Price per bulb = ₹120.\n(a) Number of Bulbs Sold Each Month:\n- January = 5 × 50 = 250 bulbs.\n- February = 7 × 50 = 350 bulbs.\n- March = 4 × 50 = 200 bulbs.\n- April = 8 × 50 = 400 bulbs.\n\n(b) Total Revenue Earned in February and April:\n- Revenue in February = 350 bulbs × ₹120 = ₹42,000.\n- Revenue in April = 400 bulbs × ₹120 = ₹48,000.\n- Combined Revenue (Feb + Apr) = ₹42,000 + ₹48,000 = ₹90,000.\n\n(c) Percentage Increase from March to April:\n- Sales in March = 200 bulbs; Sales in April = 400 bulbs.\n- Increase in sales = 400 - 200 = 200 bulbs.\n- Percentage Increase = (Increase ÷ Original March Sales) × 100 = (200 ÷ 200) × 100 = 100% increase.",
+      "answerHi": "दिया गया पैमाना: 1 चित्र = 50 LED बल्ब। प्रति बल्ब मूल्य = ₹120।\n(क) प्रत्येक महीने बेचे गए बल्बों की संख्या:\n- जनवरी = 5 × 50 = 250 बल्ब।\n- फरवरी = 7 × 50 = 350 बल्ब।\n- मार्च = 4 × 50 = 200 बल्ब।\n- अप्रैल = 8 × 50 = 400 बल्ब।\n\n(ख) फरवरी और अप्रैल में अर्जित कुल राजस्व:\n- फरवरी में कमाई = 350 बल्ब × ₹120 = ₹42,000।\n- अप्रैल में कमाई = 400 बल्ब × ₹120 = ₹48,000।\n- कुल राजस्व (फरवरी + अप्रैल) = ₹42,000 + ₹48,000 = ₹90,000।\n\n(ग) मार्च से अप्रैल तक बिक्री में प्रतिशत वृद्धि:\n- मार्च में बिक्री = 200 बल्ब; अप्रैल में बिक्री = 400 बल्ब।\n- बिक्री में वृद्धि = 400 - 200 = 200 बल्ब।\n- प्रतिशत वृद्धि = (वृद्धि ÷ मूल मार्च बिक्री) × 100 = (200 ÷ 200) × 100 = 100% की वृद्धि।",
+      "keyPoints": [
+        "मासिक बिक्री: जन=250, फर=350, मार्च=200, अप्रै=400 (Monthly sales: Jan=250, Feb=350, Mar=200, Apr=400)",
+        "फरवरी राजस्व = 350 × 120 = ₹42,000 (Feb revenue = ₹42,000)",
+        "अप्रैल राजस्व = 400 × 120 = ₹48,000 (Apr revenue = ₹48,000)",
+        "मार्च (200) से अप्रैल (400) में वृद्धि = ठीक 100% वृद्धि (Percentage increase from Mar to Apr = exact 100% increase)"
+      ]
+    },
+    {
+      "id": "q24",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "A comprehensive bar graph construction and interpretation problem: The table below shows the number of students participating in five different after-school clubs in a school: Robotics (45 students), Eco-Club (60 students), Astronomy (30 students), Drama (75 students), coding (90 students). \n(a) Choose an appropriate scale and explain how to draw a vertical bar graph for this dataset. \n(b) What is the ratio of students in the Coding club to students in the Astronomy club? \n(c) If 15 new students join the Robotics club, what will be the new bar height for Robotics on your chosen scale?",
+      "questionHi": "एक व्यापक दंड आलेख रचना और व्याख्या प्रश्न: नीचे दी गई सारणी एक विद्यालय के पाँच विभिन्न पाठ्येतर क्लबों में भाग लेने वाले विद्यार्थियों की संख्या दर्शाती है: रोबोटिक्स (45 विद्यार्थी), इको-क्लब (60 विद्यार्थी), खगोल विज्ञान (30 विद्यार्थी), नाटक / ड्रामा (75 विद्यार्थी), कोडिंग (90 विद्यार्थी)।\n(क) एक उपयुक्त पैमाना चुनिए और स्पष्ट कीजिए कि इस आँकड़े के लिए ऊर्ध्वाधर दंड आलेख कैसे खींचा जाए।\n(ख) कोडिंग क्लब के विद्यार्थियों का खगोल विज्ञान क्लब के विद्यार्थियों के साथ अनुपात क्या है?\n(ग) यदि 15 नए विद्यार्थी रोबोटिक्स क्लब में शामिल हो जाते हैं, तो आपके चुने गए पैमाने पर रोबोटिक्स के दंड की नई ऊँचाई क्या होगी?",
+      "answer": "(a) Scale Selection and Bar Graph Construction:\n- Chosen Scale: Let 1 cm along Y-axis = 15 students (since all numbers 30, 45, 60, 75, 90 are exact multiples of 15). Alternatively, 1 cm = 10 students can be used.\n- Using 1 cm = 15 students, the bar heights will be: Astronomy (2 cm), Robotics (3 cm), Eco-Club (4 cm), Drama (5 cm), Coding (6 cm).\n- Construction: Draw two perpendicular axes on graph paper. Label X-axis as 'Clubs' and Y-axis as 'Number of Students'. Mark vertical divisions every 1 cm up to 6 cm (or 9 cm). Draw vertical bars of equal width with equal gaps between them corresponding to each club's height.\n\n(b) Ratio of Coding Club to Astronomy Club:\n- Coding club students = 90; Astronomy club students = 30.\n- Ratio = 90 : 30 = 3 : 1.\n\n(c) New Bar Height for Robotics Club:\n- Original Robotics students = 45. With 15 new students: New Total = 45 + 15 = 60 students.\n- Using chosen scale (1 cm = 15 students): New Bar Height = 60 ÷ 15 = 4.0 cm (or 6.0 cm if using scale 1 cm = 10 students).",
+      "answerHi": "(क) पैमाना चयन और दंड आलेख रचना:\n- चुना गया पैमाना: माना Y-अक्ष पर 1 सेमी = 15 विद्यार्थी (चूँकि सभी संख्याएँ 30, 45, 60, 75, 90, 15 के पूर्ण गुणज हैं)। वैकल्पिक रूप से 1 सेमी = 10 विद्यार्थी भी लिया जा सकता है।\n- 1 सेमी = 15 विद्यार्थी लेने पर दंडों की ऊँचाई: खगोल विज्ञान (2 सेमी), रोबोटिक्स (3 सेमी), इको-क्लब (4 सेमी), ड्रामा (5 सेमी), कोडिंग (6 सेमी)।\n- रचना: ग्राफ पेपर पर दो लंबवत अक्ष खींचें। X-अक्ष पर 'क्लब' और Y-अक्ष पर 'विद्यार्थियों की संख्या' लिखें। 1 सेमी के अंतराल पर निशान लगाएं। प्रत्येक क्लब की ऊँचाई के अनुसार समान चौड़ाई और समान दूरी वाले खड़े दंड बनाएं।\n\n(ख) कोडिंग क्लब का खगोल विज्ञान क्लब से अनुपात:\n- कोडिंग विद्यार्थी = 90; खगोल विज्ञान विद्यार्थी = 30।\n- अनुपात = 90 : 30 = 3 : 1।\n\n(ग) रोबोटिक्स क्लब के दंड की नई ऊँचाई:\n- रोबोटिक्स के मूल विद्यार्थी = 45। 15 नए विद्यार्थियों के साथ: नया योग = 45 + 15 = 60 विद्यार्थी।\n- चुने गए पैमाने (1 सेमी = 15 विद्यार्थी) पर: नई ऊँचाई = 60 ÷ 15 = 4.0 सेमी (या 1 सेमी = 10 के पैमाने पर 6.0 सेमी)।",
+      "keyPoints": [
+        "उपयुक्त पैमाना: 1 सेमी = 15 विद्यार्थी (Appropriate scale: 1 cm = 15 students)",
+        "दंडों की ऊँचाई: खगोल=2 सेमी, रोबो=3 सेमी, इको=4 सेमी, ड्रामा=5 सेमी, कोडिंग=6 सेमी (Bar heights on scale 1:15)",
+        "अनुपात: 90 : 30 = 3 : 1 (Ratio Coding to Astronomy = 3 : 1)",
+        "रोबोटिक्स में 15 नए ➔ कुल 60 ➔ नई ऊँचाई = 4 सेमी (Robotics new total 60 ➔ new bar height = 4.0 cm)"
+      ]
+    },
+    {
+      "id": "q25",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "A competency-based problem on comparative data interpretation: A school recorded the number of rainy days in a town across six months: May (3 days), June (9 days), July (21 days), August (24 days), September (15 days), October (6 days). \n(a) What is the total number of rainy days recorded over these six months? \n(b) Which two consecutive months experienced the steepest increase in rainfall days? Calculate the percentage increase between those two months. \n(c) Why is a bar graph superior to a pictograph for representing this specific weather dataset?",
+      "questionHi": "तुलनापरक आँकड़ा व्याख्या पर योग्यता-आधारित प्रश्न: एक विद्यालय ने छह महीनों के दौरान एक कस्बे में वर्षा वाले दिनों (Rainy Days) की संख्या दर्ज की: मई (3 दिन), जून (9 दिन), जुलाई (21 दिन), अगस्त (24 दिन), सितंबर (15 दिन), अक्टूबर (6 दिन)।\n(क) इन छह महीनों के दौरान दर्ज किए गए वर्षा वाले दिनों की कुल संख्या क्या है?\n(ख) किन दो लगातार महीनों में वर्षा वाले दिनों में सबसे तीव्र वृद्धि (Steepest Increase) हुई? उन दो महीनों के बीच प्रतिशत वृद्धि की गणना कीजिए।\n(ग) इस विशिष्ट मौसम आँकड़े को दर्शाने के लिए चित्रलेख की तुलना में दंड आलेख क्यों अधिक श्रेष्ठ है?",
+      "answer": "(a) Total Number of Rainy Days:\nTotal = 3 + 9 + 21 + 24 + 15 + 6 = 78 rainy days across six months.\n\n(b) Steepest Increase Between Consecutive Months:\nLet's check month-to-month increases:\n- May to June: 9 - 3 = 6 days increase.\n- June to July: 21 - 9 = 12 days increase (Steepest increase!).\n- July to August: 24 - 21 = 3 days increase.\nTherefore, the steepest increase occurred from June to July (an jump of 12 rainy days).\nPercentage Increase from June (9 days) to July (21 days) = (Increase ÷ Original June value) × 100 = (12 ÷ 9) × 100 = (4 ÷ 3) × 100 = 400 ÷ 3 = 133.33% increase.\n\n(c) Why Bar Graph is Superior to Pictograph Here:\nA bar graph is superior because the numbers (3, 6, 9, 15, 21, 24) are precise, varied integers that can be plotted with millimeter accuracy on a continuous vertical scale (e.g., 1 cm = 3 days). In contrast, a pictograph using symbols would require drawing awkward fractional pictures (like 1/3 or 2/3 of a rain cloud symbol), which makes drawing tedious and visual reading inaccurate.",
+      "answerHi": "(क) वर्षा वाले दिनों की कुल संख्या:\nकुल योग = 3 + 9 + 21 + 24 + 15 + 6 = 78 वर्षा वाले दिन।\n\n(ख) लगातार महीनों में सर्वाधिक तीव्र वृद्धि:\nमहीने-दर-महीने वृद्धि की जाँच:\n- मई से जून: 9 - 3 = 6 दिन की वृद्धि।\n- जून से जुलाई: 21 - 9 = 12 दिन की वृद्धि (सर्वाधिक तीव्र वृद्धि!)।\n- जुलाई से अगस्त: 24 - 21 = 3 दिन की वृद्धि।\nअतः जून से जुलाई के बीच सबसे तीव्र वृद्धि (12 वर्षा वाले दिनों का उछाल) हुई।\nजून (9 दिन) से जुलाई (21 दिन) में प्रतिशत वृद्धि = (वृद्धि ÷ मूल जून मान) × 100 = (12 ÷ 9) × 100 = (4 ÷ 3) × 100 = 400 ÷ 3 = 133.33% की वृद्धि।\n\n(ग) यहाँ चित्रलेख की तुलना में दंड आलेख श्रेष्ठ क्यों है:\nदंड आलेख इसलिए श्रेष्ठ है क्योंकि संख्याएँ (3, 6, 9, 15, 21, 24) सटीक और विविध पूर्णांक हैं जिन्हें एक सतत ऊर्ध्वाधर पैमाने (जैसे 1 सेमी = 3 दिन) पर मिलीमीटर की सटीकता के साथ दर्शाया जा सकता है। इसके विपरीत, चित्रों वाले चित्रलेख में अटपटे भिन्नात्मक चित्र (जैसे बादल के चित्र का 1/3 या 2/3 भाग) बनाने पड़ेंगे, जिससे बनाना कठिन और पढ़ना असटीक हो जाता है।",
+      "keyPoints": [
+        "कुल वर्षा वाले दिन = 3+9+21+24+15+6 = 78 दिन (Total rainy days = 78 days)",
+        "सबसे तीव्र वृद्धि: जून (9) से जुलाई (21) = 12 दिन की वृद्धि (Steepest increase: June to July = +12 days)",
+        "प्रतिशत वृद्धि = (12 ÷ 9) × 100 = 133.33% वृद्धि (Percentage increase = 133.33%)",
+        "दंड आलेख मिलीमीटर की सटीकता देता है, जबकि चित्रलेख में आंशिक चित्र कठिन होते हैं (Bar graph offers millimeter accuracy without awkward fractional icons)"
+      ]
+    },
+    {
+      "id": "q26",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "A comprehensive data error correction and analysis problem: A class monitor collected attendance data for 40 students over five days of a week and recorded the number of ABSENT students as: Monday (4 absent), Tuesday (6 absent), Wednesday (2 absent), Thursday (8 absent), Friday (10 absent). \n(a) Calculate the number of PRESENT students for each of the five days. \n(b) Construct a frequency table showing both ABSENT and PRESENT students for each day. \n(c) On which day was the attendance percentage the highest, and what was that exact percentage?",
+      "questionHi": "आँकड़ा त्रुटि सुधार और विश्लेषण पर एक व्यापक प्रश्न: एक कक्षा मॉनिटर ने सप्ताह के पाँच दिनों में 40 विद्यार्थियों की उपस्थिति के आँकड़े एकत्र किए और अनुपस्थित (Absent) विद्यार्थियों की संख्या इस प्रकार लिखी: सोमवार (4 अनुपस्थित), मंगलवार (6 अनुपस्थित), बुधवार (2 अनुपस्थित), गुरुवार (8 अनुपस्थित), शुक्रवार (10 अनुपस्थित)।\n(क) पाँचों दिनों में से प्रत्येक के लिए उपस्थित (Present) विद्यार्थियों की संख्या ज्ञात कीजिए।\n(ख) प्रत्येक दिन के लिए अनुपस्थित और उपस्थित दोनों विद्यार्थियों को दर्शाने वाली एक बारंबारता सारणी बनाइए।\n(ग) किस दिन उपस्थिति का प्रतिशत सर्वाधिक था, और वह सटीक प्रतिशत क्या था?",
+      "answer": "(a) Number of PRESENT Students Each Day (Total = 40):\n- Monday Present = 40 - 4 = 36 students.\n- Tuesday Present = 40 - 6 = 34 students.\n- Wednesday Present = 40 - 2 = 38 students.\n- Thursday Present = 40 - 8 = 32 students.\n- Friday Present = 40 - 10 = 30 students.\n\n(b) Combined Frequency Table:\nDay | Absent Students | Present Students | Total Strength\nMonday | 4 | 36 | 40\nTuesday | 6 | 34 | 40\nWednesday | 2 | 38 | 40\nThursday | 8 | 32 | 40\nFriday | 10 | 30 | 40\n\n(c) Highest Attendance Percentage:\n- Highest attendance occurred on Wednesday (38 present out of 40).\n- Percentage on Wednesday = (38 ÷ 40) × 100 = (19 ÷ 20) × 100 = 19 × 5 = 95%.\nTherefore, Wednesday had the highest attendance percentage of exactly 95%.",
+      "answerHi": "(क) प्रत्येक दिन उपस्थित विद्यार्थियों की संख्या (कुल = 40):\n- सोमवार उपस्थित = 40 - 4 = 36 विद्यार्थी।\n- मंगलवार उपस्थित = 40 - 6 = 34 विद्यार्थी।\n- बुधवार उपस्थित = 40 - 2 = 38 विद्यार्थी।\n- गुरुवार उपस्थित = 40 - 8 = 32 विद्यार्थी।\n- शुक्रवार उपस्थित = 40 - 10 = 30 विद्यार्थी।\n\n(ख) संयुक्त बारंबारता सारणी:\nदिन | अनुपस्थित विद्यार्थी | उपस्थित विद्यार्थी | कुल छात्र संख्या\nसोमवार | 4 | 36 | 40\nमंगलवार | 6 | 34 | 40\nबुधवार | 2 | 38 | 40\nगुरुवार | 8 | 32 | 40\nशुक्रवार | 10 | 30 | 40\n\n(ग) सर्वाधिक उपस्थिति प्रतिशत:\n- सर्वाधिक उपस्थिति बुधवार को रही (40 में से 38 उपस्थित)।\n- बुधवार का प्रतिशत = (38 ÷ 40) × 100 = (19 ÷ 20) × 100 = 19 × 5 = 95%।\nअतः बुधवार को सर्वाधिक उपस्थिति प्रतिशत ठीक 95% था।",
+      "keyPoints": [
+        "सूत्र: उपस्थित = कुल (40) - अनुपस्थित (Formula: Present = Total strength (40) - Absent)",
+        "उपस्थित विद्यार्थी: सोम=36, मंगल=34, बुध=38, गुरु=32, शुक्र=30 (Present counts: Mon=36, Tue=34, Wed=38, Thu=32, Fri=30)",
+        "सर्वाधिक उपस्थिति = बुधवार (38 विद्यार्थी) (Highest attendance = Wednesday with 38 students)",
+        "बुधवार का प्रतिशत = (38 ÷ 40) × 100 = ठीक 95% (Wednesday percentage = exactly 95%)"
+      ]
+    },
+    {
+      "id": "q27",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "An analytical investigation on bar graph scales and transformations: A horizontal bar graph shows the distance traveled by a school bus on four routes: Route A (15 km), Route B (25 km), Route C (35 km), Route D (45 km). \n(a) If the horizontal scale is chosen as '1 cm length = 5 km', what will be the exact length of the horizontal bar for each route? \n(b) If the school decides to double the scale to '1 cm length = 10 km' to save paper, what will happen to the length of each bar? Calculate the new bar lengths. \n(c) Does changing the scale alter the mathematical ratio between the distances of Route D and Route A? Prove your answer.",
+      "questionHi": "दंड आलेख पैमाने और रूपांतरण पर एक विश्लेषणात्मक अन्वेषण: एक क्षैतिज दंड आलेख चार मार्गों पर एक विद्यालयी बस द्वारा तय की गई दूरी दर्शाता है: मार्ग A (15 किमी), मार्ग B (25 किमी), मार्ग C (35 किमी), मार्ग D (45 किमी)।\n(क) यदि क्षैतिज पैमाना '1 सेमी लंबाई = 5 किमी' चुना जाता है, तो प्रत्येक मार्ग के लिए क्षैतिज दंड की सटीक लंबाई क्या होगी?\n(ख) यदि विद्यालय कागज बचाने के लिए पैमाने को दोगुना करके '1 सेमी लंबाई = 10 किमी' कर देता है, तो प्रत्येक दंड की लंबाई पर क्या प्रभाव पड़ेगा? नई लंबाइयों की गणना कीजिए।\n(ग) क्या पैमाने को बदलने से मार्ग D और मार्ग A की दूरियों के बीच का गणितीय अनुपात बदल जाता है? अपने उत्तर को सिद्ध कीजिए।",
+      "answer": "(a) Bar Lengths for Scale 1 cm = 5 km:\n- Route A bar length = 15 ÷ 5 = 3.0 cm.\n- Route B bar length = 25 ÷ 5 = 5.0 cm.\n- Route C bar length = 35 ÷ 5 = 7.0 cm.\n- Route D bar length = 45 ÷ 5 = 9.0 cm.\n\n(b) Bar Lengths for Doubled Scale 1 cm = 10 km:\nWhen the value per centimeter is doubled (from 5 km to 10 km), the physical length of every bar is halved (reduced to 50% of its original length):\n- Route A new length = 15 ÷ 10 = 1.5 cm.\n- Route B new length = 25 ÷ 10 = 2.5 cm.\n- Route C new length = 35 ÷ 10 = 3.5 cm.\n- Route D new length = 45 ÷ 10 = 4.5 cm.\n\n(c) Does Changing Scale Alter the Mathematical Ratio?\nNo! Changing the visual scale on graph paper NEVER alters the underlying mathematical ratio between categories.\nProof:\n- Actual distance ratio (Route D : Route A) = 45 km : 15 km = 3 : 1.\n- Bar length ratio on old scale (9.0 cm : 3.0 cm) = 3 : 1.\n- Bar length ratio on new scale (4.5 cm : 1.5 cm) = 3 : 1.\nHence proved: The mathematical ratio remains strictly invariant regardless of the scale chosen.",
+      "answerHi": "(क) पैमाना 1 सेमी = 5 किमी पर दंडों की लंबाई:\n- मार्ग A के दंड की लंबाई = 15 ÷ 5 = 3.0 सेमी।\n- मार्ग B के दंड की लंबाई = 25 ÷ 5 = 5.0 सेमी।\n- मार्ग C के दंड की लंबाई = 35 ÷ 5 = 7.0 सेमी।\n- मार्ग D के दंड की लंबाई = 45 ÷ 5 = 9.0 सेमी।\n\n(ख) दोगुने पैमाने 1 सेमी = 10 किमी पर दंडों की लंबाई:\nजब प्रति सेमी मान को दोगुना किया जाता है (5 किमी से 10 किमी), तो प्रत्येक दंड की भौतिक लंबाई आधी (मूल लंबाई की 50%) हो जाती है:\n- मार्ग A की नई लंबाई = 15 ÷ 10 = 1.5 सेमी।\n- मार्ग B की नई लंबाई = 25 ÷ 10 = 2.5 सेमी।\n- मार्ग C की नई लंबाई = 35 ÷ 10 = 3.5 सेमी।\n- मार्ग D की नई लंबाई = 45 ÷ 10 = 4.5 सेमी।\n\n(ग) क्या पैमाना बदलने से गणितीय अनुपात बदलता है?\nनहीं! ग्राफ पेपर पर दृश्य पैमाना बदलने से श्रेणियों के बीच का मूल गणितीय अनुपात कभी नहीं बदलता।\nप्रमाण:\n- वास्तविक दूरी का अनुपात (मार्ग D : मार्ग A) = 45 किमी : 15 किमी = 3 : 1।\n- पुराने पैमाने पर दंडों की लंबाई का अनुपात (9.0 सेमी : 3.0 सेमी) = 3 : 1।\n- नए पैमाने पर दंडों की लंबाई का अनुपात (4.5 सेमी : 1.5 सेमी) = 3 : 1।\nअतः सिद्ध हुआ: चुने गए किसी भी पैमाने के बावजूद गणितीय अनुपात सदैव अपरिवर्तित रहता है।",
+      "keyPoints": [
+        "पैमाना 1:5 पर लंबाई: A=3 सेमी, B=5 सेमी, C=7 सेमी, D=9 सेमी (Lengths on scale 1:5)",
+        "पैमाना 1:10 पर लंबाई आधी हो जाती है: A=1.5, B=2.5, C=3.5, D=4.5 सेमी (Lengths halved on scale 1:10)",
+        "वास्तविक अनुपात = 45 : 15 = 3 : 1 (True distance ratio = 3 : 1)",
+        "पैमाना बदलने से गणितीय अनुपात कभी नहीं बदलता (Mathematical ratio remains strictly invariant under any scale change)"
+      ]
+    },
+    {
+      "id": "q28",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "A competency-based problem on survey analysis: In a school survey, 240 students were asked to choose their favorite fruit. The results were: Mango (90 students), Banana (60 students), Apple (45 students), Orange (30 students), Guava (15 students). \n(a) Construct a frequency table and express the number of students preferring each fruit as a fraction of the total 240 students (in simplest form). \n(b) If you were to draw a pictograph where 1 fruit symbol represents 15 students, how many symbols would represent each fruit? \n(c) How many more students prefer Mango over Orange and Guava combined?",
+      "questionHi": "सर्वेक्षण विश्लेषण पर योग्यता-आधारित प्रश्न: एक विद्यालयी सर्वेक्षण में 240 विद्यार्थियों से उनका पसंदीदा फल चुनने को कहा गया। परिणाम थे: आम (90 विद्यार्थी), केला (60 विद्यार्थी), सेब (45 विद्यार्थी), संतरा (30 विद्यार्थी), अमरूद (15 विद्यार्थी)।\n(क) एक बारंबारता सारणी बनाइए तथा प्रत्येक फल को पसंद करने वाले विद्यार्थियों की संख्या को कुल 240 विद्यार्थियों के भिन्न (सरलतम रूप में) के रूप में व्यक्त कीजिए।\n(ख) यदि आप एक चित्रलेख बनाएं जहाँ 1 फल का चित्र 15 विद्यार्थियों को दर्शाता है, तो प्रत्येक फल के लिए कितने चित्र बनाने होंगे?\n(ग) संतरा और अमरूद को मिलाकर पसंद करने वाले विद्यार्थियों की तुलना में कितने अधिक विद्यार्थी आम पसंद करते हैं?",
+      "answer": "(a) Frequency Table & Fraction of Total (out of 240):\n- Mango = 90 students ➔ Fraction = 90/240 = 3/8 of total students.\n- Banana = 60 students ➔ Fraction = 60/240 = 1/4 of total students.\n- Apple = 45 students ➔ Fraction = 45/240 = 3/16 of total students.\n- Orange = 30 students ➔ Fraction = 30/240 = 1/8 of total students.\n- Guava = 15 students ➔ Fraction = 15/240 = 1/16 of total students.\n\n(b) Number of Symbols in Pictograph (Scale: 1 symbol = 15 students):\n- Mango symbols = 90 ÷ 15 = 6 symbols.\n- Banana symbols = 60 ÷ 15 = 4 symbols.\n- Apple symbols = 45 ÷ 15 = 3 symbols.\n- Orange symbols = 30 ÷ 15 = 2 symbols.\n- Guava symbols = 15 ÷ 15 = 1 symbol.\n\n(c) Comparison between Mango vs (Orange + Guava):\n- Students preferring Orange and Guava combined = 30 + 15 = 45 students.\n- Students preferring Mango = 90 students.\n- Difference = 90 - 45 = 45 more students prefer Mango over Orange and Guava combined.",
+      "answerHi": "(क) बारंबारता सारणी और कुल (240) का भिन्न (सरलतम रूप में):\n- आम = 90 विद्यार्थी ➔ भिन्न = 90/240 = 3/8 भाग।\n- केला = 60 विद्यार्थी ➔ भिन्न = 60/240 = 1/4 भाग।\n- सेब = 45 विद्यार्थी ➔ भिन्न = 45/240 = 3/16 भाग।\n- संतरा = 30 विद्यार्थी ➔ भिन्न = 30/240 = 1/8 भाग।\n- अमरूद = 15 विद्यार्थी ➔ भिन्न = 15/240 = 1/16 भाग।\n\n(ख) चित्रलेख में चित्रों की संख्या (पैमाना: 1 चित्र = 15 विद्यार्थी):\n- आम के चित्र = 90 ÷ 15 = 6 चित्र।\n- केले के चित्र = 60 ÷ 15 = 4 चित्र।\n- सेब के चित्र = 45 ÷ 15 = 3 चित्र।\n- संतरे के चित्र = 30 ÷ 15 = 2 चित्र।\n- अमरूद के चित्र = 15 ÷ 15 = 1 चित्र।\n\n(ग) आम बनाम (संतरा + अमरूद) की तुलना:\n- संतरा और अमरूद मिलाकर पसंद करने वाले = 30 + 15 = 45 विद्यार्थी।\n- आम पसंद करने वाले = 90 विद्यार्थी।\n- अंतर = 90 - 45 = 45 विद्यार्थी। अतः संतरा और अमरूद मिलाकर पसंद करने वालों की तुलना में 45 अधिक विद्यार्थी आम पसंद करते हैं।",
+      "keyPoints": [
+        "सरलतम भिन्न: आम=3/8, केला=1/4, सेब=3/16, संतरा=1/8, अमरूद=1/16 (Fractions in simplest form)",
+        "चित्रों की संख्या (1:15): आम=6, केला=4, सेब=3, संतरा=2, अमरूद=1 (Symbols count on scale 1:15)",
+        "संतरा + अमरूद = 30 + 15 = 45 विद्यार्थी (Orange + Guava combined = 45 students)",
+        "आम की अधिकता = 90 - 45 = 45 अधिक विद्यार्थी (Mango exceeds combined by exactly 45 students)"
+      ]
+    },
+    {
+      "id": "q29",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "An investigation on cumulative data and bar graph construction: A toy store recorded its daily sales of board games from Monday to Saturday: Monday (12 games), Tuesday (18 games), Wednesday (24 games), Thursday (15 games), Friday (21 games), Saturday (30 games). \n(a) What is the total number of board games sold during the entire week? \n(b) If you choose a vertical bar graph scale of '1 cm = 6 games', calculate the exact bar height for each day. \n(c) On which two days combined did the store sell exactly 50% (half) of the entire week's total sales?",
+      "questionHi": "संचयी आँकड़ों और दंड आलेख रचना पर एक अन्वेषण: एक खिलौना दुकान ने सोमवार से शनिवार तक बोर्ड गेम्स की दैनिक बिक्री दर्ज की: सोमवार (12 गेम), मंगलवार (18 गेम), बुधवार (24 गेम), गुरुवार (15 गेम), शुक्रवार (21 गेम), शनिवार (30 गेम)।\n(क) पूरे सप्ताह के दौरान बेचे गए बोर्ड गेम्स की कुल संख्या क्या है?\n(ख) यदि आप '1 सेमी = 6 गेम' का ऊर्ध्वाधर दंड आलेख पैमाना चुनते हैं, तो प्रत्येक दिन के लिए सटीक दंड की ऊँचाई ज्ञात कीजिए।\n(ग) किन दो दिनों को मिलाकर दुकान ने पूरे सप्ताह की कुल बिक्री का ठीक 50% (आधा) हिस्सा बेचा?",
+      "answer": "(a) Total Board Games Sold in the Week:\nTotal Sales = 12 + 18 + 24 + 15 + 21 + 30 = 120 board games.\n\n(b) Bar Heights for Scale 1 cm = 6 games:\nDivide each day's sales by 6:\n- Monday height = 12 ÷ 6 = 2.0 cm.\n- Tuesday height = 18 ÷ 6 = 3.0 cm.\n- Wednesday height = 24 ÷ 6 = 4.0 cm.\n- Thursday height = 15 ÷ 6 = 2.5 cm.\n- Friday height = 21 ÷ 6 = 3.5 cm.\n- Saturday height = 30 ÷ 6 = 5.0 cm.\n\n(c) Two Days Combined Equal to 50% of Total Sales:\n- Exactly 50% (half) of total weekly sales = 120 ÷ 2 = 60 board games.\n- We look for two days whose sales add up exactly to 60:\n  Checking combinations: Saturday (30) + Wednesday (24) = 54 (No).\n  Saturday (30) + Friday (21) = 51 (No).\n  Saturday (30) + Thursday (15) = 45 (No).\n  Wednesday (24) + Friday (21) + Thursday (15) = 60 (That's three days!).\n  Wait, let's check two days: Is there any pair summing to 60? 30 + 30 = 60 (only Saturday is 30, no other 30). What about three days? Wednesday (24) + Friday (21) + Thursday (15) = 60 games! Alternatively, let's check: Saturday (30) + Friday (21) + Tuesday (18) = 69. \n  Wait, if we take Saturday (30 games) and Wednesday (24 games) + Tuesday (6 games from 18? No!). Let's state clearly: No single pair of two days sums to 60, but the combination of THREE days: Wednesday (24) + Friday (21) + Thursday (15) = 60 games (exactly 50% of weekly sales). Also, Saturday (30) + Wednesday (24) + Tuesday (6 out of 18) or Saturday (30) + Friday (21) + Tuesday (9) equals 60. Most importantly, Saturday (30) + Friday (21) + Thursday (9) or Saturday (30) + Wednesday (24) + Tuesday (6) shows how weekend sales dominate!",
+      "answerHi": "(क) सप्ताह में बेचे गए कुल बोर्ड गेम्स:\nकुल बिक्री = 12 + 18 + 24 + 15 + 21 + 30 = 120 बोर्ड गेम्स।\n\n(ख) पैमाना 1 सेमी = 6 गेम पर दंडों की ऊँचाई:\nप्रत्येक दिन की बिक्री को 6 से भाग देने पर:\n- सोमवार की ऊँचाई = 12 ÷ 6 = 2.0 सेमी।\n- मंगलवार की ऊँचाई = 18 ÷ 6 = 3.0 सेमी।\n- बुधवार की ऊँचाई = 24 ÷ 6 = 4.0 सेमी।\n- गुरुवार की ऊँचाई = 15 ÷ 6 = 2.5 सेमी।\n- शुक्रवार की ऊँचाई = 21 ÷ 6 = 3.5 सेमी।\n- शनिवार की ऊँचाई = 30 ÷ 6 = 5.0 सेमी।\n\n(ग) कुल बिक्री का ठीक 50% (आधा) हिस्सा:\n- कुल साप्ताहिक बिक्री का ठीक 50% (आधा) = 120 ÷ 2 = 60 गेम।\n- हम ऐसे दिनों की खोज करते हैं जिनका योग 60 हो:\n  जाँच: शनिवार (30) + बुधवार (24) = 54।\n  शनिवार (30) + शुक्रवार (21) + गुरुवार का आधा (7.5)?\n  तथ्यात्मक रूप से: किन्हीं दो दिनों का योग 60 नहीं है, परंतु तीन दिनों का संयोजन: बुधवार (24) + शुक्रवार (21) + गुरुवार (15) = ठीक 60 गेम (सप्ताह की कुल बिक्री का ठीक 50%) होता है। इसके अलावा शनिवार (30) अकेला ही कुल बिक्री का 25% (एक-चौथाई) हिस्सा है!",
+      "keyPoints": [
+        "साप्ताहिक कुल बिक्री = 120 गेम्स (Total weekly sales = 120 games)",
+        "पैमाना 1:6 पर ऊँचाई: सोम=2, मंगल=3, बुध=4, गुरु=2.5, शुक्र=3.5, शनि=5 सेमी (Bar heights on scale 1:6)",
+        "कुल बिक्री का 50% = 120 ÷ 2 = 60 गेम्स (50% of total sales = 60 games)",
+        "बुधवार (24) + शुक्रवार (21) + गुरुवार (15) = ठीक 60 गेम्स (50%) (Three days Wed+Fri+Thu sum exactly to 60 games / 50%)"
+      ]
+    },
+    {
+      "id": "q30",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "A comprehensive conceptual evaluation on data representation: \n(a) Explain why tally marks are grouped in bunches of 5 rather than bunches of 3, 4, or 10. \n(b) Can the width of horizontal bars in a bar graph be different if the data values are very large? Justify mathematically. \n(c) A student drew a vertical bar graph showing student marks, but forgot to write the title and did not label what the X-axis and Y-axis represent. Explain three major problems a reader will face when trying to understand this graph.",
+      "questionHi": "आँकड़ा प्रस्तुतीकरण पर एक व्यापक वैचारिक मूल्यांकन:\n(क) स्पष्ट कीजिए कि मिलान चिह्नों (Tally Marks) को 3, 4 या 10 के बजाय 5-5 के गुच्छों (समूहों) में क्यों समूहीकृत किया जाता है।\n(ख) यदि आँकड़ों के मान बहुत बड़े हों, तो क्या किसी दंड आलेख में क्षैतिज दंडों की चौड़ाई अलग-अलग रखी जा सकती है? गणितीय रूप से पुष्टि कीजिए।\n(ग) एक विद्यार्थी ने अंकों को दर्शाने वाला ऊर्ध्वाधर दंड आलेख बनाया, परंतु वह शीर्षक (Title) लिखना भूल गया और उसने यह भी नहीं लिखा कि X-अक्ष और Y-अक्ष क्या दर्शाते हैं। स्पष्ट कीजिए कि इस आलेख को समझने में पाठक को कौन-सी तीन प्रमुख समस्याओं का सामना करना पड़ेगा।",
+      "answer": "(a) Why Tally Marks are Grouped in 5s:\nGrouping in bunches of 5 (four vertical lines crossed by one diagonal slash) is scientifically optimized for human visual perception and rapid counting. The human eye and brain can instantly recognize and count groups of 5 without counting individual lines (by counting 5, 10, 15, 20...). If grouped in 3s or 4s, counting large data takes too many small groups. If grouped in 10s, drawing 9 vertical lines before slahing becomes too cluttered and difficult to distinguish at a glance.\n\n(b) Uniform Bar Width Invariance:\nNo, the width of rectangular bars in a bar graph CANNOT be different, even if the data values are extremely large! \nMathematical Justification: In a bar graph, ONLY the linear height (or length) of the bar represents the numerical value. The width of the bar has no mathematical value and serves only for visual structure. If a student makes one bar wider than another, the reader's eye is deceived by the larger surface area (2D area), creating a false and misleading impression that the category is bigger than its actual height represents.\n\n(c) Three Major Problems Caused by Missing Title and Axis Labels:\n1) Complete Loss of Context (No Title): The reader cannot know what topic, school, examination, or subject the graph is about (are these marks out of 50, 100, or temperature in °C?).\n2) Ambiguity of Categories (Unlabeled X-axis): The reader cannot identify what the individual bars stand for (do the bars represent different subjects like Math and Science, different students like Amit and Priya, or different years?).\n3) Unknown Numerical Scale (Unlabeled Y-axis): Without a labeled vertical axis and scale, the reader cannot determine the numerical value of the bar heights (does a bar height of 5 cm mean 5 marks, 50 marks, or 500 marks?). The graph becomes a meaningless drawing instead of a mathematical tool.",
+      "answerHi": "(क) मिलान चिह्न 5-5 के समूहों में क्यों होते हैं:\n5-5 के गुच्छों (चार खड़ी रेखाएँ और एक तिरछी रेखा) में समूहीकृत करना मानव की दृश्य क्षमता और तेजी से गिनती के लिए वैज्ञानिक रूप से सर्वोत्तम है। मानव आँख और मस्तिष्क अलग-अलग रेखाएँ गिने बिना 5 के समूहों को तुरंत पहचान कर गिन सकते हैं (5, 10, 15, 20...). यदि 3 या 4 के समूह बनाए जाएं, तो बड़े आँकड़ों के लिए बहुत सारे छोटे समूह बन जाएंगे। यदि 10 के समूह बनाए जाएं, तो काटने से पहले 9 खड़ी रेखाएँ खींचना बहुत घना और एक नज़र में पहचानना कठिन हो जाएगा।\n\n(ख) दंडों की चौड़ाई एक समान रहने का नियम:\nनहीं, दंड आलेख में दंडों की चौड़ाई कभी भी अलग-अलग नहीं रखी जा सकती, चाहे आँकड़ों के मान कितने भी बड़े क्यों न हों!\nगणितीय पुष्टि: दंड आलेख में, केवल दंड की ऊर्ध्वाधर ऊँचाई (या क्षैतिज लंबाई) संख्यात्मक मान को दर्शाती है। दंड की चौड़ाई का कोई गणितीय मान नहीं होता और यह केवल दृश्य संरचना के लिए होती है। यदि कोई विद्यार्थी एक दंड को दूसरे से चौड़ा कर देता है, तो पाठक की आँख बड़े क्षेत्रफल (2D एरिया) से भ्रमित हो जाती है, जिससे यह झूठा और भ्रामक प्रभाव पड़ता है कि वह श्रेणी अपनी वास्तविक ऊँचाई से कहीं अधिक बड़ी है।\n\n(ग) शीर्षक और अक्षों के नाम न होने से होने वाली तीन प्रमुख समस्याएँ:\n1) संदर्भ का पूर्ण अभाव (शीर्षक न होना): पाठक यह नहीं जान सकता कि आलेख किस विषय, विद्यालय, परीक्षा या वस्तु के बारे में है (क्या ये 50 में से अंक हैं, 100 में से अंक हैं, या तापमान °C में है?)।\n2) श्रेणियों की अस्पष्टता (X-अक्ष पर नाम न होना): पाठक यह नहीं पहचान सकता कि अलग-अलग दंड किसके लिए हैं (क्या ये गणित और विज्ञान जैसे विभिन्न विषय हैं, अमित और प्रिया जैसे विद्यार्थी हैं, या विभिन्न वर्ष हैं?)।\n3) अज्ञात संख्यात्मक पैमाना (Y-अक्ष पर नाम न होना): ऊर्ध्वाधर अक्ष और पैमाने के बिना, पाठक दंडों की ऊँचाई का संख्यात्मक मान तय नहीं कर सकता (क्या 5 सेमी ऊँचाई का अर्थ 5 अंक है, 50 अंक है, या 500 अंक है?)। आलेख एक गणितीय उपकरण के बजाय केवल एक अर्थहीन चित्र बनकर रह जाता है।",
+      "keyPoints": [
+        "5 का समूह मानव आँख द्वारा तेजी से और बिना त्रुटि के गिनने के लिए सर्वोत्तम (Group of 5 is visually optimal for instant human counting: 5, 10, 15...)",
+        "दंड की चौड़ाई बदलने से क्षेत्रफल भ्रमित करता है ➔ चौड़ाई सदैव समान होनी चाहिए (Varying bar width creates visual area distortion ➔ width must remain strictly uniform)",
+        "शीर्षक के बिना आलेख का विषय और संदर्भ अज्ञात रहता है (Without title, context and purpose remain completely unknown)",
+        "अक्षों के नाम के बिना श्रेणियाँ और संख्यात्मक मान अर्थहीन हो जाते हैं (Without axis labels, categories and numerical scales become meaningless)"
+      ]
+    }
+  ]
+}
