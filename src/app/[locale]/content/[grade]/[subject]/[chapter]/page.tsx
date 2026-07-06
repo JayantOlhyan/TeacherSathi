@@ -135,6 +135,7 @@ export default function ChapterHubPage() {
       cta: "View Q&A",
       ctaHi: "प्रश्नोत्तर देखें",
       locked: false,
+      href: `/content/${grade}/${subject}/${chapter}/qa`,
     },
     {
       id: "summary-video",
