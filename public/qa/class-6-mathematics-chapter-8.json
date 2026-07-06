@@ -1,0 +1,456 @@
+{
+  "chapterTitle": "Playing with Constructions",
+  "chapterTitleHi": "रचनाओं के साथ खेलना",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "List the five essential geometrical tools found in a standard geometry box and state one primary use of each tool.",
+      "questionHi": "एक मानक ज्यामिति बॉक्स (Geometry Box) में पाए जाने वाले पाँच आवश्यक ज्यामितीय उपकरणों के नाम लिखिए और प्रत्येक का एक मुख्य उपयोग बताइए।",
+      "answer": "The five essential geometrical tools are: 1. Ruler (Straightedge): Used to draw line segments and measure their lengths. 2. Compasses: Used to draw circles or arcs and to mark off equal lengths. 3. Divider: Used to accurately compare lengths of line segments without parallax error. 4. Protractor: Used to draw and measure angles in degrees (from 0° to 180°). 5. Set-Squares: A pair of triangular tools (45°-45°-90° and 30°-60°-90°) used to draw perpendicular and parallel lines.",
+      "answerHi": "पाँच आवश्यक ज्यामितीय उपकरण निम्नलिखित हैं: 1. रूलर (पटरी): रेखाखंड खींचने और उनकी लंबाई मापने के लिए। 2. परकार (Compasses): वृत्त या चाप खींचने और समान लंबाई अंकित करने के लिए। 3. डिवाइडर (Divider): दृष्टि-दोष (parallax error) के बिना रेखाखंडों की लंबाई की सटीक तुलना करने के लिए। 4. चाँदा (Protractor): कोणों को डिग्री (0° से 180° तक) में मापने और बनाने के लिए। 5. गुनिया (Set-Squares): त्रिभुजाकार उपकरणों का जोड़ा (45°-45°-90° और 30°-60°-90°) जिसका उपयोग लंबवत और समांतर रेखाएँ खींचने के लिए किया जाता है।",
+      "keyPoints": [
+        "रूलर और परकार: रेखाखंड और वृत्त बनाने के मुख्य उपकरण (Ruler and compasses: primary tools for lines and circles)",
+        "डिवाइडर: सटीक लंबाई तुलना हेतु (Divider: for accurate length comparison without parallax error)",
+        "चाँदा और गुनिया: कोण मापन और समांतर/लंबवत रेखाएँ (Protractor and set-squares: angle measurement and parallel/perpendicular lines)"
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What is the difference between drawing a circle by tracing around a circular object (like a bangle or coin) and constructing a circle using compasses? Why is the compass method preferred in geometry?",
+      "questionHi": "किसी वृत्ताकार वस्तु (जैसे चूड़ी या सिक्के) के चारों ओर रेखा खींचकर वृत्त बनाने और परकार का उपयोग करके वृत्त की रचना करने में क्या अंतर है? ज्यामिति में परकार विधि को श्रेष्ठ क्यों माना जाता है?",
+      "answer": "Tracing around an object only gives the boundary of a circular shape without locating its exact center or allowing control over its specific radius. In contrast, constructing a circle with compasses requires fixing a precise center point and setting a specific radius on the ruler. The compass method is mathematically preferred because it ensures exact measurements, locates the center definitively, and allows precise geometrical properties to be verified.",
+      "answerHi": "किसी वस्तु के चारों ओर रेखा खींचकर (Tracing) वृत्त बनाने से केवल एक वृत्ताकार आकृति प्राप्त होती है, लेकिन इससे वृत्त का सटीक केंद्र ज्ञात नहीं होता और न ही त्रिज्या पर हमारा कोई नियंत्रण होता है। इसके विपरीत, परकार से वृत्त की रचना करने के लिए एक निश्चित केंद्र बिंदु तय करना और रूलर पर एक विशिष्ट त्रिज्या मापना आवश्यक होता है। ज्यामिति में परकार विधि श्रेष्ठ है क्योंकि यह सटीक माप सुनिश्चित करती है, केंद्र को निश्चित करती है और ज्यामितीय गुणों के सत्यापन की अनुमति देती है।",
+      "keyPoints": [
+        "ट्रेसिंग विधि में केंद्र और त्रिज्या अज्ञात रहते हैं (Tracing method leaves center and radius unknown)",
+        "परकार विधि से सटीक केंद्र और इच्छित त्रिज्या प्राप्त होती है (Compass method gives precise center and desired radius)",
+        "गणितीय सटीकता और सत्यापन के लिए परकार अनिवार्य है (Compasses are essential for mathematical accuracy and verification)"
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Write the step-by-step procedure to construct a line segment AB of length 6.5 cm using a ruler and compasses.",
+      "questionHi": "रूलर और परकार का उपयोग करके 6.5 सेमी लंबाई का एक रेखाखंड AB खींचने की चरणबद्ध विधि लिखिए।",
+      "answer": "Steps of construction: 1. Draw a straight line 'l' of any length using a ruler and mark a point A on it. 2. Place the metal pointer of the compasses at the zero mark of the ruler and open the pencil point to exactly the 6.5 cm mark. 3. Without changing the opening of the compasses, place the metal pointer firmly at point A on line 'l'. 4. Swing the pencil point to cut line 'l' at a point and label it B. The segment AB is the required line segment of length 6.5 cm.",
+      "answerHi": "रचना के चरण: 1. रूलर की सहायता से किसी भी लंबाई की एक सीधी रेखा 'l' खींचिए और उस पर एक बिंदु A अंकित कीजिए। 2. परकार के नुकीले सिरे को रूलर के शून्य (0) निशान पर रखिए और पेंसिल वाले सिरे को ठीक 6.5 सेमी के निशान तक खोलिए। 3. परकार के फैलाव को बदले बिना, उसके नुकीले सिरे को रेखा 'l' पर स्थित बिंदु A पर दृढ़ता से रखिए। 4. पेंसिल वाले सिरे से रेखा 'l' को काटते हुए एक चाप लगाइए और कटान बिंदु को B नाम दीजिए। रेखाखंड AB अभीष्ट 6.5 सेमी लंबा रेखाखंड है।",
+      "keyPoints": [
+        "रेखा 'l' खींचकर प्रारंभिक बिंदु A अंकित करना (Draw line 'l' and mark initial point A)",
+        "रूलर पर शून्य से 6.5 सेमी तक परकार खोलना (Open compasses from 0 to 6.5 cm on ruler)",
+        "बिंदु A से रेखा पर चाप लगाकर बिंदु B प्राप्त करना (Draw arc from point A to get point B)"
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What is positioning error (parallax error) when measuring length with a ruler? How does using a divider eliminate this error?",
+      "questionHi": "रूलर से लंबाई मापते समय स्थिति संबंधी त्रुटि (दृष्टि-दोष या Parallax Error) क्या होती है? डिवाइडर का उपयोग इस त्रुटि को कैसे समाप्त करता है?",
+      "answer": "Parallax error occurs when the observer's eye is not positioned vertically above the measurement mark on the ruler, causing the thickness of the ruler to make the reading appear shifted. A divider eliminates this error because its two sharp metal points are placed directly on the endpoints of the line segment and then transferred to the ruler, allowing precise reading without line-of-sight distortion.",
+      "answerHi": "दृष्टि-दोष (Parallax Error) तब होता है जब मापने वाले की आँख रूलर के निशान के ठीक ऊपर लंबवत नहीं होती है, जिससे रूलर की मोटाई के कारण माप गलत दिखाई दे सकती है। डिवाइडर इस त्रुटि को पूरी तरह समाप्त कर देता है क्योंकि इसके दोनों नुकीले सिरे रेखाखंड के अंतिम बिंदुओं पर ठीक से रखे जाते हैं और फिर उन्हें रूलर पर रखकर बिना किसी दृष्टि भ्रम के सटीक माप पढ़ ली जाती है।",
+      "keyPoints": [
+        "आँख लंबवत न होने पर रूलर की मोटाई से त्रुटि होती है (Error caused by ruler thickness when eye is not vertical)",
+        "डिवाइडर के नुकीले सिरे सटीक बिंदुओं को छूते हैं (Sharp points of divider touch exact endpoints)",
+        "डिवाइडर से माप रूलर पर स्थानांतरित करना अधिक सटीक है (Transferring measurement via divider is much more accurate)"
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "Define concentric circles. How can you construct two concentric circles of radii 3 cm and 5 cm using compasses?",
+      "questionHi": "संकेद्रीय वृत्त (Concentric Circles) किसे कहते हैं? परकार की सहायता से 3 सेमी और 5 सेमी त्रिज्या वाले दो संकेद्रीय वृत्तों की रचना आप कैसे करेंगे?",
+      "answer": "Concentric circles are circles of different sizes that share the exact same center point in a plane. To construct them: 1. Mark a point O on a paper as the common center. 2. Open the compasses to measure 3 cm on a ruler, place the pointer at O, and draw the inner circle. 3. Next, open the compasses to measure 5 cm on the ruler, place the pointer at the same center O, and draw the outer circle around the first one.",
+      "answerHi": "संकेद्रीय वृत्त वे वृत्त होते हैं जिनकी त्रिज्याएँ अलग-अलग होती हैं परंतु उनका केंद्र बिंदु एक ही होता है। रचना के चरण: 1. कागज पर एक बिंदु O अंकित कीजिए जो दोनों वृत्तों का उभयनिष्ठ केंद्र होगा। 2. परकार को रूलर पर 3 सेमी खोलिए, नुकीले सिरे को बिंदु O पर रखिए और अंदर वाला वृत्त खींचिए। 3. इसके बाद, परकार को रूलर पर 5 सेमी खोलिए, नुकीले सिरे को उसी केंद्र O पर रखिए और पहले वृत्त के बाहर दूसरा वृत्त खींचिए।",
+      "keyPoints": [
+        "समान केंद्र बिंदु और भिन्न त्रिज्याएँ (Same center point and different radii)",
+        "पहले 3 सेमी त्रिज्या का आंतरिक वृत्त बनाना (Draw inner circle of radius 3 cm first)",
+        "उसी केंद्र O से 5 सेमी त्रिज्या का बाहरी वृत्त बनाना (Draw outer circle of radius 5 cm from same center O)"
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What are perpendicular lines? Give two concrete examples of perpendicular lines from a school classroom environment.",
+      "questionHi": "लंबवत रेखाएँ (Perpendicular Lines) क्या होती हैं? विद्यालय की कक्षा के वातावरण से लंबवत रेखाओं के दो ठोस उदाहरण दीजिए।",
+      "answer": "Two intersecting lines are called perpendicular lines if the angle between them is exactly a right angle (90°). In notation, if line AB is perpendicular to CD, we write AB ⊥ CD. In a classroom, two concrete examples are: 1. The adjacent edges of a blackboard or whiteboard where the horizontal bottom edge meets the vertical side edge. 2. The corner of a textbook or tabletop where two adjacent sides intersect at 90°.",
+      "answerHi": "यदि दो प्रतिच्छेदी रेखाओं के बीच का कोण ठीक समकोण (90°) हो, तो वे लंबवत रेखाएँ कहलाती हैं। यदि रेखा AB, रेखा CD पर लंब है, तो इसे AB ⊥ CD लिखा जाता है। कक्षा में इसके दो ठोस उदाहरण हैं: 1. श्यामपट्ट (Blackboard) या व्हाइटबोर्ड के आसन्न किनारे जहाँ निचला क्षैतिज किनारा और खड़ा ऊर्ध्वाधर किनारा मिलते हैं। 2. पाठ्यपुस्तक या मेज के कोने जहाँ दो भुजाएँ 90° के कोण पर मिलती हैं।",
+      "keyPoints": [
+        "दो रेखाओं के बीच 90° का कोण होना (Angle between two lines must be exactly 90°)",
+        "लंबवत का संकेत: ⊥ (Mathematical symbol for perpendicular is ⊥)",
+        "उदाहरण: श्यामपट्ट के किनारे और पुस्तक के कोने (Examples: blackboard edges and book corners)"
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "Explain how to construct a copy of a given line segment PQ on a new line 'm' using compasses without measuring the length of PQ with a ruler.",
+      "questionHi": "रूलर से PQ की लंबाई मापे बिना, परकार का उपयोग करके एक नई रेखा 'm' पर दिए गए रेखाखंड PQ की प्रतिलिपि (Copy) बनाने की विधि समझाइए।",
+      "answer": "Procedure to copy line segment PQ: 1. Given line segment PQ whose length is unknown. Draw a new straight line 'm' and mark a starting point C on it. 2. Place the metal pointer of the compasses at endpoint P and open the compasses so that the pencil point touches endpoint Q exactly. This sets the compass opening equal to the length of PQ. 3. Without altering this opening, place the pointer at point C on line 'm' and draw an arc cutting line 'm' at point D. Line segment CD is the exact copy of line segment PQ.",
+      "answerHi": "रेखाखंड PQ की प्रतिलिपि बनाने की विधि: 1. एक अज्ञात लंबाई का रेखाखंड PQ दिया गया है। एक नई सीधी रेखा 'm' खींचिए और उस पर एक प्रारंभिक बिंदु C अंकित कीजिए। 2. परकार के नुकीले सिरे को बिंदु P पर रखिए और परकार को इतना खोलिए कि पेंसिल की नोक ठीक बिंदु Q को छुए। इससे परकार का फैलाव PQ की लंबाई के बराबर हो जाता है। 3. इस फैलाव को बिना बदले, नुकीले सिरे को रेखा 'm' के बिंदु C पर रखिए और एक चाप लगाइए जो रेखा 'm' को बिंदु D पर काटे। रेखाखंड CD, दिए गए रेखाखंड PQ की सटीक प्रतिलिपि है।",
+      "keyPoints": [
+        "परकार द्वारा PQ की सटीक दूरी भरना (Set compass opening exactly equal to segment PQ)",
+        "नई रेखा 'm' पर प्रारंभिक बिंदु C से चाप लगाना (Draw arc from point C on new line 'm')",
+        "CD = PQ बिना रूलर से मापे प्राप्त होना (CD = PQ achieved without direct ruler measurement)"
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What is a protractor? Why does a standard semicircular protractor have two sets of scales (inner and outer)? Explain when to read the inner scale versus the outer scale.",
+      "questionHi": "चाँदा (Protractor) क्या है? एक मानक अर्धवृत्ताकार चाँदे में पैमानों के दो सेट (आंतरिक और बाह्य) क्यों होते हैं? समझाइए कि आंतरिक पैमाने और बाह्य पैमाने को कब पढ़ना चाहिए।",
+      "answer": "A protractor is a geometrical instrument used for measuring and constructing angles in degrees, typically graduated from 0° to 180°. It has two scales running in opposite directions to allow measuring angles from either the left or right side of a reference line. If the baseline of the angle extends to the right of the vertex (pointer aligned with the right zero mark), we read the inner scale which starts from 0° on the right. If the baseline extends to the left of the vertex, we read the outer scale starting from 0° on the left.",
+      "answerHi": "चाँदा एक ज्यामितीय उपकरण है जिसका उपयोग कोणों को डिग्री (0° से 180° तक) में मापने और बनाने के लिए किया जाता है। इसमें विपरीत दिशाओं में चलने वाले दो पैमाने होते हैं ताकि संदर्भ रेखा के बाईं या दाईं दोनों ओर से कोण मापे जा सकें। यदि कोण की आधार रेखा शीर्ष (vertex) के दाईं ओर जाती है (दाईं ओर के शून्य से मिलती है), तो हम आंतरिक पैमाना पढ़ते हैं जो दाईं ओर 0° से शुरू होता है। यदि आधार रेखा बाईं ओर जाती है, तो हम बाह्य पैमाना पढ़ते हैं जो बाईं ओर 0° से शुरू होता है।",
+      "keyPoints": [
+        "कोण मापने का उपकरण: 0° से 180° तक अंकित (Angle measuring tool marked from 0° to 180°)",
+        "दाईं ओर की आधार रेखा के लिए आंतरिक पैमाना (Inner scale used when baseline extends to the right)",
+        "बाईं ओर की आधार रेखा के लिए बाह्य पैमाना (Outer scale used when baseline extends to the left)"
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "Why do set-squares come as a pair in a geometry box? State the measures of the angles of both standard set-squares and explain how they can be used together to draw parallel lines.",
+      "questionHi": "ज्यामिति बॉक्स में गुनिया (Set-Squares) जोड़े में क्यों आते हैं? दोनों मानक गुनिया के कोणों के माप बताइए और समझाइए कि उनका एक साथ उपयोग करके समांतर रेखाएँ कैसे खींची जा सकती हैं।",
+      "answer": "Set-squares come as a pair of right-angled triangles designed to complement each other for drawing parallel, perpendicular, and specific inclined lines. One is an isosceles right triangle with angles 45°-45°-90°, and the other is a scalene right triangle with angles 30°-60°-90°. To draw a line parallel to a given line 'l': place one edge of a set-square along line 'l', place a ruler or the second set-square firmly against its hypotenuse as a guide, and slide the first set-square along the guide to a new position to draw a perfectly parallel line.",
+      "answerHi": "गुनिया समकोण त्रिभुजों का एक जोड़ा होता है जिसे समांतर, लंबवत और विशेष कोणों वाली रेखाएँ खींचने के लिए एक-दूसरे के पूरक के रूप में डिज़ाइन किया गया है। एक गुनिया समद्विबाहु समकोण त्रिभुज (45°-45°-90°) होता है और दूसरा विषमबाहु समकोण त्रिभुज (30°-60°-90°) होता है। किसी दी गई रेखा 'l' के समांतर रेखा खींचने के लिए: गुनिया की एक भुजा को रेखा 'l' से सटाकर रखिए, इसके कर्ण (hypotenuse) के सहारे रूलर या दूसरी गुनिया को मजबूती से स्थिर रखिए, और फिर पहली गुनिया को इस सहारे पर खिसकाकर नई स्थिति में एक समांतर रेखा खींचिए।",
+      "keyPoints": [
+        "दो प्रकार की गुनिया: 45°-45°-90° और 30°-60°-90° (Two set-squares: 45°-45°-90° and 30°-60°-90°)",
+        "एक गुनिया को रूलर या दूसरी गुनिया के सहारे खिसकाना (Sliding one set-square along a ruler/guide)",
+        "सटीक समांतर और लंबवत रेखाओं की रचना (Accurate construction of parallel and perpendicular lines)"
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "Explain how to construct a circle whose diameter is given as 8 cm using a ruler and compasses. What mathematical relationship between radius and diameter is used here?",
+      "questionHi": "रूलर और परकार का उपयोग करके 8 सेमी व्यास (Diameter) वाले वृत्त की रचना कैसे करेंगे? यहाँ त्रिज्या और व्यास के बीच किस गणितीय संबंध का उपयोग किया जाता है?",
+      "answer": "Compasses are set to the radius of a circle, not the diameter. The mathematical relationship used is: Radius = Diameter / 2. For a diameter of 8 cm, the required radius is 8 / 2 = 4 cm. Steps of construction: 1. Mark a point O on the paper as the center of the circle. 2. Use a ruler to open the legs of the compasses to exactly 4 cm. 3. Place the sharp metal tip of the compasses at point O and rotate the pencil end through a full turn (360°) to draw the required circle of diameter 8 cm.",
+      "answerHi": "परकार को वृत्त के व्यास के बराबर नहीं बल्कि त्रिज्या के बराबर खोला जाता है। यहाँ गणितीय संबंध का उपयोग होता है: त्रिज्या = व्यास / 2। 8 सेमी व्यास के लिए, आवश्यक त्रिज्या 8 / 2 = 4 सेमी होगी। रचना के चरण: 1. कागज पर वृत्त के केंद्र के रूप में एक बिंदु O अंकित कीजिए। 2. रूलर की सहायता से परकार को ठीक 4 सेमी तक खोलिए। 3. परकार की नुकीली नोक को बिंदु O पर रखिए और पेंसिल वाले सिरे को पूरा एक चक्कर (360°) घुमाकर 8 सेमी व्यास वाला अभीष्ट वृत्त खींचिए।",
+      "keyPoints": [
+        "त्रिज्या = व्यास / 2 = 8 / 2 = 4 सेमी (Radius = Diameter / 2 = 4 cm)",
+        "परकार को हमेशा त्रिज्या के बराबर खोला जाता है (Compasses are always opened to the radius length)",
+        "केंद्र O से 4 सेमी का वृत्त बनाना (Draw circle of 4 cm radius from center O)"
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Write the step-by-step procedure to construct a perpendicular to a line 'l' through a point P lying ON the line 'l' using only a ruler and compasses.",
+      "questionHi": "केवल रूलर और परकार का उपयोग करके किसी रेखा 'l' पर स्थित बिंदु P से रेखा 'l' पर लंब (Perpendicular) खींचने की चरणबद्ध विधि लिखिए।",
+      "answer": "Steps of construction: 1. Draw a line 'l' and mark a given point P on it. 2. With P as center and any convenient radius, construct an arc intersecting line 'l' at two points on either side of P; label them A and B (so PA = PB). 3. With A and B as centers and a radius strictly greater than PA (or half of AB), draw two arcs intersecting each other above line 'l' at a point Q. 4. Use a ruler to join point P to point Q. The line PQ is the required perpendicular to line 'l' passing through point P (PQ ⊥ l).",
+      "answerHi": "रचना के चरण: 1. एक रेखा 'l' खींचिए और उस पर स्थित एक बिंदु P अंकित कीजिए। 2. P को केंद्र मानकर और कोई भी सुविधाजनक त्रिज्या लेकर एक चाप खींचिए जो रेखा 'l' को P के दोनों ओर दो बिंदुओं पर काटे; इन्हें A और B नाम दीजिए (जहाँ PA = PB)। 3. अब A और B को केंद्र मानकर और PA से अधिक (या AB के आधे से अधिक) त्रिज्या लेकर, रेखा 'l' के ऊपर दो चाप लगाइए जो एक-दूसरे को बिंदु Q पर काटें। 4. रूलर की सहायता से बिंदु P को बिंदु Q से मिलाइए। रेखा PQ, बिंदु P से होकर जाने वाली रेखा 'l' पर अभीष्ट लंब है (PQ ⊥ l)।",
+      "keyPoints": [
+        "बिंदु P से रेखा 'l' पर दो समान बिंदु A और B प्राप्त करना (Mark equal distances A and B on line 'l' from P)",
+        "A और B से PA से अधिक त्रिज्या लेकर चाप काटना (Draw intersecting arcs from A and B with radius > PA)",
+        "कटान बिंदु Q को P से मिलाकर लंब PQ प्राप्त करना (Join intersection point Q to P to get perpendicular PQ)"
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Explain how to construct a perpendicular to a given line segment AB from a point M lying OUTSIDE (not on) the line segment using ruler and compasses.",
+      "questionHi": "रूलर और परकार का उपयोग करके किसी रेखाखंड AB के बाहर (ऊपर या नीचे) स्थित बिंदु M से रेखाखंड AB पर लंब खींचने की विधि समझाइए।",
+      "answer": "Steps of construction: 1. Given a line segment AB and a point M outside it. Place the pointer of the compasses at point M. 2. Choose a radius large enough so that an arc drawn from M intersects line segment AB (or its extension) at two distinct points; label these intersection points X and Y. 3. With X and Y as centers and using the same radius (or any radius greater than half of XY), draw two arcs on the opposite side of line AB from M, intersecting each other at point N. 4. Join point M to point N using a ruler. The line MN intersects AB at a right angle, making MN perpendicular to AB from the external point M.",
+      "answerHi": "रचना के चरण: 1. एक रेखाखंड AB और उसके बाहर स्थित बिंदु M दिया गया है। परकार के नुकीले सिरे को बिंदु M पर रखिए। 2. इतनी पर्याप्त त्रिज्या लीजिए कि M से खींचा गया चाप रेखाखंड AB (या उसके बढ़ाए गए भाग) को दो अलग-अलग बिंदुओं पर काटे; इन कटान बिंदुओं को X और Y नाम दीजिए। 3. अब X और Y को केंद्र मानकर और उसी त्रिज्या (या XY के आधे से अधिक त्रिज्या) से, रेखा AB के दूसरी ओर दो चाप लगाइए जो एक-दूसरे को बिंदु N पर काटें। 4. रूलर से बिंदु M को बिंदु N से मिलाइए। रेखा MN रेखाखंड AB को समकोण पर काटती है, अतः MN बाहरी बिंदु M से AB पर लंब है।",
+      "keyPoints": [
+        "बाहरी बिंदु M से रेखा AB पर चाप लगाकर दो बिंदु X और Y प्राप्त करना (From external point M, draw arc cutting line AB at X and Y)",
+        "X और Y से रेखा के दूसरी ओर चाप लगाकर बिंदु N प्राप्त करना (From X and Y, draw intersecting arcs on the opposite side to get N)",
+        "M और N को मिलाने पर बाहरी बिंदु से लंब प्राप्त होना (Joining M and N gives perpendicular from external point)"
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "What is the perpendicular bisector of a line segment? Write the steps to construct the perpendicular bisector of a line segment XY of length 7.6 cm using compasses and ruler.",
+      "questionHi": "किसी रेखाखंड का लंब समद्विभाजक (Perpendicular Bisector) क्या होता है? परकार और रूलर का उपयोग करके 7.6 सेमी लंबे रेखाखंड XY का लंब समद्विभाजक खींचने के चरण लिखिए।",
+      "answer": "A perpendicular bisector of a line segment is a line that divides the segment into two equal halves at its exact midpoint and intersects it at a right angle (90°). Steps of construction for XY = 7.6 cm: 1. Draw a line segment XY = 7.6 cm using a ruler. 2. With X as center and radius more than half of XY (e.g., about 5 cm), draw arcs above and below the line segment XY. 3. With Y as center and keeping the exact same compass radius, draw arcs above and below XY to intersect the previous arcs at points P and Q respectively. 4. Join P and Q using a ruler. The line PQ intersects XY at point M, which is the midpoint of XY (XM = MY = 3.8 cm) and PQ ⊥ XY.",
+      "answerHi": "किसी रेखाखंड का लंब समद्विभाजक वह रेखा है जो उस रेखाखंड को उसके ठीक मध्य बिंदु पर दो बराबर भागों में बाँटती है और उस पर समकोण (90°) बनाती है। XY = 7.6 सेमी के लिए रचना के चरण: 1. रूलर से 7.6 सेमी लंबा रेखाखंड XY खींचिए। 2. X को केंद्र मानकर और XY के आधे से अधिक (जैसे लगभग 5 सेमी) त्रिज्या लेकर, रेखाखंड XY के ऊपर और नीचे चाप लगाइए। 3. Y को केंद्र मानकर और उसी त्रिज्या से, XY के ऊपर और नीचे चाप लगाइए जो पहले वाले चापों को क्रमशः बिंदु P और Q पर काटें। 4. रूलर से P और Q को मिलाइए। रेखा PQ रेखाखंड XY को बिंदु M पर काटती है, जो XY का मध्य बिंदु है (XM = MY = 3.8 सेमी) और PQ ⊥ XY है।",
+      "keyPoints": [
+        "रेखाखंड को 90° पर दो बराबर भागों में बाँटना (Divides segment into two equal halves at 90°)",
+        "आधे से अधिक त्रिज्या लेकर दोनों सिरों से ऊपर-नीचे चाप लगाना (Take radius > half length and draw arcs above/below from both ends)",
+        "मध्य बिंदु M पर XM = MY = 3.8 सेमी प्राप्त होना (Midpoint M gives XM = MY = 3.8 cm)"
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Explain the step-by-step method to construct an angle of 60° using only a ruler and compasses (without using a protractor). Why does this geometrical method always yield exactly 60°?",
+      "questionHi": "बिना चाँदे के, केवल रूलर और परकार का उपयोग करके 60° के कोण की रचना करने की चरणबद्ध विधि समझाइए। यह ज्यामितीय विधि सदैव ठीक 60° का कोण ही क्यों बनाती है?",
+      "answer": "Steps of construction: 1. Draw a ray OA with initial point O. 2. With O as center and any convenient radius, draw an arc cutting ray OA at point P. 3. Without changing the compass opening (keeping the same radius OP), place the pointer at P and draw a small arc intersecting the previous arc at point Q. 4. Draw a ray OB passing through point Q. Then ∠AOB = 60°. Mathematical justification: If we join P and Q, the triangle OPQ has three equal sides (OP = OQ = PQ = radius of compasses). Therefore, ΔOPQ is an equilateral triangle. Since all interior angles of an equilateral triangle are equal and measure 60° (180° / 3), the central angle ∠POQ (or ∠AOB) is exactly 60°.",
+      "answerHi": "रचना के चरण: 1. प्रारंभिक बिंदु O वाली एक किरण OA खींचिए। 2. O को केंद्र मानकर और कोई भी सुविधाजनक त्रिज्या लेकर एक चाप लगाइए जो किरण OA को बिंदु P पर काटे। 3. परकार के फैलाव को बदले बिना (त्रिज्या OP ही रखते हुए), नुकीले सिरे को P पर रखिए और एक छोटा चाप लगाइए जो पहले वाले चाप को बिंदु Q पर काटे। 4. बिंदु Q से होती हुई एक किरण OB खींचिए। तब ∠AOB = 60° होगा। गणितीय औचित्य: यदि हम P और Q को मिला दें, तो त्रिभुज OPQ की तीनों भुजाएँ बराबर होंगी (OP = OQ = PQ = परकार की त्रिज्या)। अतः ΔOPQ एक समबाहु त्रिभुज (Equilateral Triangle) है। चूँकि समबाहु त्रिभुज का प्रत्येक आंतरिक कोण बराबर और 60° (180° / 3) होता है, इसलिए केंद्र पर बना कोण ∠POQ (या ∠AOB) ठीक 60° होता है।",
+      "keyPoints": [
+        "समान त्रिज्या से चाप काटकर बिंदु Q प्राप्त करना (Cutting arc with the same radius gives point Q)",
+        "समबाहु त्रिभुज ΔOPQ का निर्माण होना (Formation of equilateral triangle ΔOPQ where OP = OQ = PQ)",
+        "समबाहु त्रिभुज का प्रत्येक कोण 60° होता है (Each interior angle of an equilateral triangle is 60°)"
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "How can you construct an angle of 30° using a ruler and compasses? Explain the concept of angle bisector utilized in this construction.",
+      "questionHi": "रूलर और परकार का उपयोग करके 30° के कोण की रचना आप कैसे कर सकते हैं? इस रचना में प्रयुक्त कोण समद्विभाजक (Angle Bisector) की अवधारणा को समझाइए।",
+      "answer": "An angle of 30° is exactly half of a 60° angle. Therefore, we first construct a 60° angle and then bisect it. Steps: 1. Draw a ray OA. With center O and any radius, draw an arc cutting OA at P. 2. With P as center and the same radius, cut the arc at Q to get ∠AOB = 60°. 3. Now, to bisect angle POQ: with P and Q as centers and radius greater than half the distance PQ, draw two arcs intersecting each other in the interior of ∠AOB at point R. 4. Join O to R and extend as ray OC. The ray OC is the angle bisector of ∠AOB, dividing the 60° angle into two equal adjacent angles of 30° each (∠AOC = ∠COB = 30°).",
+      "answerHi": "30° का कोण 60° के कोण का ठीक आधा होता है। इसलिए, हम पहले 60° का कोण बनाते हैं और फिर उसका समद्विभाजन करते हैं। चरण: 1. एक किरण OA खींचिए। O को केंद्र मानकर किसी त्रिज्या से एक चाप लगाइए जो OA को P पर काटे। 2. P को केंद्र मानकर उसी त्रिज्या से चाप को Q पर काटिए जिससे ∠AOB = 60° प्राप्त हो। 3. अब कोण POQ का समद्विभाजन करने के लिए: P और Q को केंद्र मानकर और PQ की आधी दूरी से अधिक त्रिज्या लेकर, ∠AOB के अभ्यंतर (अंदर) दो चाप लगाइए जो एक-दूसरे को बिंदु R पर काटें। 4. O को R से मिलाते हुए किरण OC खींचिए। किरण OC कोण ∠AOB की समद्विभाजक है, जो 60° के कोण को 30° के दो बराबर आसन्न कोणों में बाँटती है (∠AOC = ∠COB = 30°)।",
+      "keyPoints": [
+        "30° का कोण 60° के कोण का आधा होता है (Angle of 30° is half of 60° angle)",
+        "पहले 60° का कोण बनाकर बिंदु P और Q प्राप्त करना (Construct 60° angle first to get points P and Q)",
+        "P और Q से चाप लगाकर कोण का समद्विभाजन करना (Bisect the angle by drawing intersecting arcs from P and Q)"
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Write the step-by-step procedure to construct an obtuse angle of 120° using only a ruler and compasses without using a protractor.",
+      "questionHi": "बिना चाँदे के, केवल रूलर और परकार का उपयोग करके 120° के अधिक कोण (Obtuse Angle) की रचना करने की चरणबद्ध विधि लिखिए।",
+      "answer": "An angle of 120° is equal to two steps of 60° (60° + 60° = 120°). Steps of construction: 1. Draw a ray OA with initial point O. 2. With O as center and any convenient radius, draw a large semicircle-like arc intersecting ray OA at point P. 3. With P as center and keeping the exact same compass opening, draw an arc cutting the main arc at point Q. (Joining O to Q gives 60°). 4. Now, with Q as center and without changing the compass radius, draw another arc cutting the main arc further at point R. 5. Draw a ray OB passing through point R. The angle ∠AOB is the required obtuse angle of exactly 120°.",
+      "answerHi": "120° का कोण 60° के दो चरणों के बराबर होता है (60° + 60° = 120°)। रचना के चरण: 1. प्रारंभिक बिंदु O वाली एक किरण OA खींचिए। 2. O को केंद्र मानकर और कोई सुविधाजनक त्रिज्या लेकर एक बड़ा अर्धवृत्ताकार चाप लगाइए जो किरण OA को बिंदु P पर काटे। 3. P को केंद्र मानकर और परकार का वही फैलाव रखते हुए, मुख्य चाप को बिंदु Q पर काटिए (O को Q से मिलाने पर 60° बनता है)। 4. अब Q को केंद्र मानकर और बिना त्रिज्या बदले, मुख्य चाप को आगे बिंदु R पर काटिए। 5. बिंदु R से होती हुई एक किरण OB खींचिए। कोण ∠AOB ठीक 120° का अभीष्ट अधिक कोण है।",
+      "keyPoints": [
+        "120° = 60° + 60° (दो बार समान चाप काटना) (120° = 60° + 60°, stepping off radius twice)",
+        "बिंदु P से पहला चाप Q (60°) और Q से दूसरा चाप R (120°) (First arc from P gives Q at 60°, second arc from Q gives R at 120°)",
+        "O को दूसरे कटान बिंदु R से मिलाकर 120° कोण प्राप्त करना (Join O to second intersection point R to get 120°)"
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "Explain how to construct a right angle (90°) at the initial point of a given ray using only a ruler and compasses by bisecting the angle between 60° and 120°.",
+      "questionHi": "60° और 120° के बीच के कोण का समद्विभाजन करके, केवल रूलर और परकार का उपयोग करते हुए किसी दी गई किरण के प्रारंभिक बिंदु पर समकोण (90°) की रचना करने की विधि समझाइए।",
+      "answer": "A right angle of 90° lies exactly midway between 60° and 120° (since 60° + 30° = 90° and (60° + 120°) / 2 = 90°). Steps of construction: 1. Draw a ray OA with vertex O. With center O and any radius, draw an arc cutting OA at P. 2. With P as center and same radius, cut the arc at Q (this represents 60°). 3. With Q as center and same radius, cut the arc further at R (this represents 120°). 4. Now, to bisect the 60° angle between Q and R: with Q and R as centers and radius greater than half of QR, draw two arcs intersecting each other above at point S. 5. Join O to S using a ruler to form ray OB. The angle ∠AOB is exactly a right angle (90°).",
+      "answerHi": "90° का समकोण 60° और 120° के ठीक मध्य में स्थित होता है (चूँकि 60° + 30° = 90° और (60° + 120°) / 2 = 90°)। रचना के चरण: 1. शीर्ष O वाली किरण OA खींचिए। O को केंद्र मानकर किसी त्रिज्या से एक चाप लगाइए जो OA को P पर काटे। 2. P को केंद्र मानकर उसी त्रिज्या से चाप को Q पर काटिए (यह 60° दर्शाता है)। 3. Q को केंद्र मानकर उसी त्रिज्या से चाप को आगे R पर काटिए (यह 120° दर्शाता है)। 4. अब Q और R के बीच के 60° कोण का समद्विभाजन करने के लिए: Q और R को केंद्र मानकर और QR के आधे से अधिक त्रिज्या लेकर, ऊपर की ओर दो चाप लगाइए जो एक-दूसरे को बिंदु S पर काटें। 5. रूलर से O को S से मिलाते हुए किरण OB खींचिए। कोण ∠AOB ठीक समकोण (90°) है।",
+      "keyPoints": [
+        "90° का कोण 60° और 120° के ठीक बीच में होता है (90° lies exactly midway between 60° and 120°)",
+        "60° के बिंदु Q और 120° के बिंदु R से ऊपर चाप काटना (Draw intersecting arcs from 60° mark Q and 120° mark R)",
+        "कटान बिंदु S को O से मिलाने पर 90° का समकोण बनता है (Joining intersection point S to O forms a 90° right angle)"
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "Given an angle ∠DEF whose numerical measure in degrees is unknown. Explain the step-by-step geometrical procedure to construct an exact copy of ∠DEF on a new ray OX using only a ruler and compasses.",
+      "questionHi": "एक कोण ∠DEF दिया गया है जिसका डिग्री में माप अज्ञात है। केवल रूलर और परकार का उपयोग करके एक नई किरण OX पर ∠DEF की सटीक प्रतिलिपि (Copy) बनाने की ज्यामितीय विधि समझाइए।",
+      "answer": "Steps to copy an angle of unknown measure: 1. Given ∠DEF and a new ray OX with vertex O. 2. Place the compass pointer at vertex E of the given angle, and with any convenient radius, draw an arc cutting ray ED at point P and ray EF at point Q. 3. Without changing the compass radius, place the pointer at vertex O of the new ray OX and draw a corresponding arc cutting ray OX at point A. 4. Now, set the compass radius to measure the exact distance between points P and Q on the original angle. 5. Keeping this opening, place the pointer at point A on the new arc and cut the arc at point B. 6. Draw ray OY passing through point B. Then ∠YOX is the exact copy of ∠DEF.",
+      "answerHi": "अज्ञात माप वाले कोण की प्रतिलिपि बनाने के चरण: 1. कोण ∠DEF और शीर्ष O वाली एक नई किरण OX दी गई है। 2. परकार के नुकीले सिरे को दिए गए कोण के शीर्ष E पर रखिए और किसी भी सुविधाजनक त्रिज्या से एक चाप लगाइए जो किरण ED को बिंदु P पर और किरण EF को बिंदु Q पर काटे। 3. परकार की त्रिज्या बदले बिना, नुकीले सिरे को नई किरण के शीर्ष O पर रखिए और एक चाप लगाइए जो किरण OX को बिंदु A पर काटे। 4. अब परकार को मूल कोण पर स्थित बिंदुओं P और Q के बीच की सटीक दूरी के बराबर खोलिए। 5. इसी फैलाव के साथ, नुकीले सिरे को नई किरण के बिंदु A पर रखिए और चाप को बिंदु B पर काटिए। 6. बिंदु B से होती हुई किरण OY खींचिए। तब ∠YOX, दिए गए कोण ∠DEF की सटीक प्रतिलिपि है।",
+      "keyPoints": [
+        "मूल शीर्ष E और नए शीर्ष O से समान त्रिज्या का चाप लगाना (Draw arcs of equal radius from original vertex E and new vertex O)",
+        "परकार से मूल चाप PQ की चौड़ाई (दूरी) मापना (Measure the exact chord width PQ of the original angle using compasses)",
+        "नए चाप पर बिंदु A से दूरी PQ के बराबर चाप काटकर प्रतिलिपि बनाना (Cut new arc from point A with width PQ to complete the copy)"
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Explain how to construct the angle bisector of a given angle ∠PQR using compasses and ruler. What special geometrical property does every point lying on the angle bisector possess?",
+      "questionHi": "परकार और रूलर का उपयोग करके किसी दिए गए कोण ∠PQR का कोण समद्विभाजक (Angle Bisector) खींचने की विधि समझाइए। कोण समद्विभाजक पर स्थित प्रत्येक बिंदु में कौन-सा विशेष ज्यामितीय गुण होता है?",
+      "answer": "Steps to construct angle bisector of ∠PQR: 1. With vertex Q as center and any convenient radius, draw an arc intersecting ray QP at point A and ray QR at point B. 2. With A and B as centers and a radius greater than half of the arc AB (distance AB), draw two arcs in the interior of ∠PQR that intersect each other at point M. 3. Join vertex Q to point M using a ruler and extend it as ray QM. Ray QM is the angle bisector of ∠PQR (∠PQM = ∠MQR). Special Geometrical Property: Every point lying on the angle bisector QM is equidistant (at equal perpendicular distance) from the two arms QP and QR of the angle.",
+      "answerHi": "∠PQR का कोण समद्विभाजक खींचने के चरण: 1. शीर्ष Q को केंद्र मानकर और कोई भी सुविधाजनक त्रिज्या लेकर एक चाप लगाइए जो किरण QP को बिंदु A पर और किरण QR को बिंदु B पर काटे। 2. अब A और B को केंद्र मानकर और चाप AB की आधी दूरी से अधिक त्रिज्या लेकर, कोण ∠PQR के अंदर दो चाप लगाइए जो एक-दूसरे को बिंदु M पर काटें। 3. रूलर से शीर्ष Q को बिंदु M से मिलाते हुए किरण QM खींचिए। किरण QM कोण ∠PQR का समद्विभाजक है (∠PQM = ∠MQR)। विशेष ज्यामितीय गुण: कोण समद्विभाजक QM पर स्थित प्रत्येक बिंदु कोण की दोनों भुजाओं QP और QR से समान लंबवत दूरी (Equidistant) पर होता है।",
+      "keyPoints": [
+        "भुजाओं पर चाप काटकर बिंदु A और B प्राप्त करना (Mark points A and B on the two arms of the angle)",
+        "A और B से अंदर की ओर चाप लगाकर कटान बिंदु M प्राप्त करना (Draw intersecting arcs from A and B in the interior to get M)",
+        "समद्विभाजक पर स्थित हर बिंदु दोनों भुजाओं से समान दूरी पर होता है (Every point on the bisector is equidistant from both arms of the angle)"
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "Explain how to construct angles of 45° and 135° using only a ruler and compasses by bisecting right angles.",
+      "questionHi": "समकोणों का समद्विभाजन करके, केवल रूलर और परकार का उपयोग करते हुए 45° और 135° के कोणों की रचना करने की विधि समझाइए।",
+      "answer": "Construction of 45° angle: 1. Construct a right angle (90°) ∠AOB on ray OA using compasses. 2. A 45° angle is exactly half of 90° (90° / 2 = 45°). 3. To bisect ∠AOB, place the compass pointer at the 0° mark on ray OA and the 90° mark on ray OB, and draw intersecting arcs in the interior to get point C. Ray OC makes an angle of 45° with ray OA (∠AOC = 45°). Construction of 135° angle: 1. Extend ray OA backwards to form a straight line (180°). The angle adjacent to the 90° angle on the left is also 90° (since 180° - 90° = 90°). 2. Bisect this second right angle on the left side to get a 45° angle. 3. The total angle from the initial ray OA will be 90° + 45° = 135° (or 180° - 45° = 135°).",
+      "answerHi": "45° के कोण की रचना: 1. परकार से किरण OA पर 90° का समकोण ∠AOB बनाइए। 2. 45° का कोण 90° का ठीक आधा होता है (90° / 2 = 45°)। 3. ∠AOB का समद्विभाजन करने के लिए, किरण OA पर स्थित 0° के बिंदु और किरण OB पर स्थित 90° के बिंदु से अंदर की ओर चाप काटकर बिंदु C प्राप्त कीजिए। किरण OC, किरण OA के साथ 45° का कोण बनाती है (∠AOC = 45°)। 135° के कोण की रचना: 1. किरण OA को पीछे की ओर बढ़ाकर एक सीधी रेखा (180°) बनाइए। 90° के कोण के बाईं ओर का आसन्न कोण भी 90° होगा (चूँकि 180° - 90° = 90°)। 2. बाईं ओर वाले इस दूसरे समकोण का समद्विभाजन कीजिए जिससे 45° का कोण प्राप्त हो। 3. प्रारंभिक किरण OA से कुल कोण 90° + 45° = 135° (या 180° - 45° = 135°) होगा।",
+      "keyPoints": [
+        "45° = 90° / 2 (90° के कोण का समद्विभाजन करने पर प्राप्त होता है) (45° = 90° / 2, obtained by bisecting a right angle)",
+        "135° = 90° + 45° (या 180° - 45°) (135° = 90° + 45° or 180° - 45°)",
+        "दूसरे समकोण का समद्विभाजन करके 135° प्राप्त करना (Bisecting the second supplementary right angle gives 135°)"
+      ]
+    },
+    {
+      "id": "q21",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Explain in detail how to construct angles of 15° and 75° using only a ruler and compasses. Justify the mathematical reasoning behind adding or dividing angle measures in these geometric constructions.",
+      "questionHi": "केवल रूलर और परकार का उपयोग करके 15° और 75° के कोणों की रचना करने की विस्तृत विधि समझाइए। इन ज्यामितीय रचनाओं में कोणों के मापों को जोड़ने या विभाजित करने के पीछे के गणितीय तर्क की पुष्टि कीजिए।",
+      "answer": "To construct 15°: 1. Construct a 60° angle ∠AOB on ray OA by cutting an arc of the same radius. 2. Bisect ∠AOB using compasses to get ray OC, which makes ∠AOC = 30° (since 60° / 2 = 30°). 3. Now, bisect the 30° angle ∠AOC by drawing intersecting arcs from the 0° mark on OA and the 30° mark on OC to get ray OD. The angle ∠AOD is exactly 15° (since 30° / 2 = 15°). To construct 75°: 1. Construct a 60° angle (ray OB) and a 90° angle (ray OE) on ray OA. 2. Notice that the angle between the 60° ray OB and the 90° ray OE is exactly 30° (90° - 60° = 30°). 3. Bisect this 30° angle lying between 60° and 90° by drawing intersecting arcs from the 60° mark and the 90° mark. This gives a bisector ray OF adding 15° to the 60° angle. 4. The total angle from initial ray OA is ∠AOF = 60° + 15° = 75°. Mathematical justification: Geometric constructions rely on additive and multiplicative properties of angles. By repeatedly bisecting known angles (dividing by 2) and combining adjacent angles (adding measures), we can accurately construct any angle that is a multiple of 15° without a protractor.",
+      "answerHi": "15° के कोण की रचना: 1. किरण OA पर समान त्रिज्या का चाप काटकर 60° का कोण ∠AOB बनाइए। 2. परकार से ∠AOB का समद्विभाजन करके किरण OC खींचिए, जिससे ∠AOC = 30° प्राप्त हो (चूँकि 60° / 2 = 30°)। 3. अब 30° के कोण ∠AOC का समद्विभाजन करने के लिए OA पर 0° के बिंदु और OC पर 30° के बिंदु से चाप काटकर किरण OD खींचिए। कोण ∠AOD ठीक 15° का होगा (चूँकि 30° / 2 = 15°)। 75° के कोण की रचना: 1. किरण OA पर 60° का कोण (किरण OB) और 90° का कोण (किरण OE) बनाइए। 2. ध्यान दीजिए कि 60° की किरण OB और 90° की किरण OE के बीच का कोण ठीक 30° है (90° - 60° = 30°)। 3. 60° और 90° के बीच स्थित इस 30° के कोण का समद्विभाजन कीजिए। इससे समद्विभाजक किरण OF प्राप्त होती है जो 60° के कोण में 15° जोड़ देती है। 4. प्रारंभिक किरण OA से कुल कोण ∠AOF = 60° + 15° = 75° होगा। गणितीय औचित्य: ज्यामितीय रचनाएँ कोणों के योग और विभाजन के गुणों पर निर्भर करती हैं। ज्ञात कोणों का बार-बार समद्विभाजन (2 से भाग) करके और आसन्न कोणों को जोड़कर, हम बिना चाँदे के 15° के किसी भी गुणज (multiple) कोण की सटीक रचना कर सकते हैं।",
+      "keyPoints": [
+        "15° = 30° / 2 = (60° / 2) / 2 (60° के कोण का दो बार क्रमिक समद्विभाजन) (15° is obtained by bisecting 60° twice: 60° -> 30° -> 15°)",
+        "75° = 60° + 15° = 60° + (30° / 2) (60° और 90° के बीच के कोण का समद्विभाजन) (75° is obtained by bisecting the 30° gap between 60° and 90°)",
+        "बिना चाँदे के 15° के सभी गुणज बनाए जा सकते हैं (All multiples of 15° can be constructed without a protractor)"
+      ]
+    },
+    {
+      "id": "q22",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Explain how to construct a rectangle ABCD with length AB = 6 cm and breadth BC = 4 cm using a ruler and compasses. Describe how you will experimentally verify the properties of opposite sides and diagonals of this constructed rectangle.",
+      "questionHi": "रूलर और परकार का उपयोग करके एक आयत (Rectangle) ABCD की रचना कीजिए जिसकी लंबाई AB = 6 सेमी और चौड़ाई BC = 4 सेमी हो। समझाइए कि आप इस निर्मित आयत की सम्मुख भुजाओं और विकर्णों के गुणों का प्रायोगिक सत्यापन कैसे करेंगे।",
+      "answer": "Steps of construction: 1. Draw a base line segment AB = 6 cm using a ruler. 2. Since all angles of a rectangle are right angles (90°), construct a 90° perpendicular at point A and another 90° perpendicular at point B using compasses. 3. With A as center and radius equal to the breadth 4 cm, draw an arc cutting the perpendicular at A at point D (so AD = 4 cm). 4. Similarly, with B as center and radius 4 cm, draw an arc cutting the perpendicular at B at point C (so BC = 4 cm). 5. Use a ruler to join point D to point C. The quadrilateral ABCD is the required rectangle. Experimental Verification: 1. Property of opposite sides: Use a divider or ruler to measure side DC and compare it with AB. We find DC = AB = 6 cm. Similarly, AD = BC = 4 cm. This verifies that opposite sides of a rectangle are equal. 2. Property of diagonals: Use a straightedge to join A to C (diagonal AC) and B to D (diagonal BD). Use a divider to measure diagonal AC and place it on diagonal BD. We find that AC = BD (both measure approximately 7.21 cm). This verifies that the diagonals of a rectangle are equal in length.",
+      "answerHi": "रचना के चरण: 1. रूलर से आधार रेखाखंड AB = 6 सेमी खींचिए। 2. चूँकि आयत का प्रत्येक कोण समकोण (90°) होता है, इसलिए परकार से बिंदु A और बिंदु B पर 90° के लंब बनाइए। 3. A को केंद्र मानकर चौड़ाई 4 सेमी के बराबर त्रिज्या लेकर एक चाप लगाइए जो A पर बने लंब को बिंदु D पर काटे (अतः AD = 4 सेमी)। 4. इसी प्रकार, B को केंद्र मानकर 4 सेमी त्रिज्या से एक चाप लगाइए जो B पर बने लंब को बिंदु C पर काटे (अतः BC = 4 सेमी)। 5. रूलर से बिंदु D को बिंदु C से मिलाइए। चतुर्भुज ABCD अभीष्ट आयत है। प्रायोगिक सत्यापन: 1. सम्मुख भुजाओं का गुण: डिवाइडर या रूलर से भुजा DC को मापिए और AB से तुलना कीजिए। हम पाते हैं कि DC = AB = 6 सेमी है। इसी प्रकार AD = BC = 4 सेमी है। यह सिद्ध करता है कि आयत की सम्मुख भुजाएँ बराबर होती हैं। 2. विकर्णों का गुण: रूलर से A को C से (विकर्ण AC) और B को D से (विकर्ण BD) मिलाइए। डिवाइडर से विकर्ण AC की लंबाई मापकर BD से मिलाइए। हम पाते हैं कि AC = BD (दोनों लगभग 7.21 सेमी) हैं। यह सिद्ध करता है कि आयत के दोनों विकर्ण लंबाई में बराबर होते हैं।",
+      "keyPoints": [
+        "आधार AB = 6 सेमी पर A और B दोनों पर 90° के कोण बनाना (Construct 90° right angles at both endpoints A and B of base AB)",
+        "लंबवत रेखाओं पर 4 सेमी के चाप काटकर D और C प्राप्त करना (Cut arcs of 4 cm on perpendiculars to get vertices D and C)",
+        "सत्यापन: सम्मुख भुजाएँ बराबर (DC=AB) और दोनों विकर्ण बराबर (AC=BD) (Verification: opposite sides are equal and both diagonals AC and BD are equal)"
+      ]
+    },
+    {
+      "id": "q23",
+      "type": "case-study",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "Case-Study: In a school cultural festival, students are creating geometric Rangoli designs using compasses. Radha draws a circle of radius 6 cm with center O. Without changing the compass opening (keeping radius = 6 cm), she places the metal pointer at a point A on the circumference and cuts an arc at B. Then from B, she cuts an arc at C, and continues stepping off arcs around the circle until she reaches point A again, joining the points to form a six-petal flower (rosette).\n(a) Why does stepping off the radius exactly 6 times complete a full turn around the circle without any gap or overlap?\n(b) What regular geometric polygon is formed if we join the 6 consecutive points A, B, C, D, E, F with straight line segments?\n(c) What is the measure of the central angle subtended by each petal (like ∠AOB) at the center O?",
+      "questionHi": "केस-स्टडी: विद्यालय के सांस्कृतिक उत्सव में छात्र परकार का उपयोग करके ज्यामितीय रंगोली बना रहे हैं। राधा केंद्र O और 6 सेमी त्रिज्या वाला एक वृत्त खींचती है। परकार के फैलाव को बदले बिना (त्रिज्या = 6 सेमी रखते हुए), वह परिधि पर स्थित बिंदु A पर नुकीला सिरा रखकर बिंदु B पर चाप काटती है। फिर B से C पर चाप काटती है, और इसी प्रकार वृत्त के चारों ओर चाप काटते हुए वापस बिंदु A पर पहुँच जाती है। वह इन चापों को मिलाकर 6 पंखुड़ियों वाला फूल (Rosette) बनाती है।\n(a) त्रिज्या के बराबर दूरी को ठीक 6 बार काटने पर बिना किसी रिक्त स्थान या ओवरलैप के वृत्त का पूरा चक्कर क्यों लग जाता है?\n(b) यदि हम परिधि के 6 क्रमागत बिंदुओं A, B, C, D, E, F को सीधी रेखाखंडों से मिलाएँ, तो कौन-सा सम ज्यामितीय बहुभुज बनेगा?\n(c) प्रत्येक पंखुड़ी द्वारा केंद्र O पर बनाए गए केंद्रीय कोण (जैसे ∠AOB) का माप क्या होगा?",
+      "answer": "(a) When we step off a chord AB equal to the radius OA = OB = 6 cm, the triangle ΔOAB formed by connecting the center O to the endpoints A and B has three equal sides (OA = OB = AB = 6 cm). Thus, ΔOAB is an equilateral triangle. Since each angle of an equilateral triangle is 60°, the central angle ∠AOB is exactly 60°. A full circle around center O is 360°. Since 360° / 60° = 6, stepping off the radius exactly 6 times completes the full circle perfectly without any gap or overlap. (b) Joining the 6 consecutive points A, B, C, D, E, F with straight line segments forms a Regular Hexagon (सम षट्भुज), where all 6 sides and all interior angles are equal. (c) The central angle subtended by each petal at the center O is exactly 60° (since 360° / 6 = 60° or from the equilateral triangle property).",
+      "answerHi": "(a) जब हम परिधि पर त्रिज्या के बराबर जीवा AB (OA = OB = 6 सेमी) काटते हैं, तो केंद्र O को A और B से मिलाने पर बना त्रिभुज ΔOAB तीनों समान भुजाओं वाला होता है (OA = OB = AB = 6 सेमी)। अतः ΔOAB एक समबाहु त्रिभुज है। चूँकि समबाहु त्रिभुज का प्रत्येक कोण 60° होता है, इसलिए केंद्रीय कोण ∠AOB ठीक 60° होगा। केंद्र O के चारों ओर कुल कोण 360° होता है। चूँकि 360° / 60° = 6 होता है, इसलिए त्रिज्या को ठीक 6 बार काटने पर बिना किसी रिक्त स्थान या ओवरलैप के वृत्त का पूरा चक्कर लग जाता है। (b) परिधि के 6 क्रमागत बिंदुओं A, B, C, D, E, F को सीधी रेखाखंडों से मिलाने पर एक सम षट्भुज (Regular Hexagon) बनता है, जिसकी सभी 6 भुजाएँ और सभी आंतरिक कोण बराबर होते हैं। (c) प्रत्येक पंखुड़ी द्वारा केंद्र O पर बनाया गया केंद्रीय कोण ठीक 60° होता है (चूँकि 360° / 6 = 60° या समबाहु त्रिभुज के गुण से)।",
+      "keyPoints": [
+        "त्रिज्या के बराबर जीवा काटने से 60° का समबाहु त्रिभुज ΔOAB बनता है (Stepping off radius forms 60° equilateral triangle ΔOAB)",
+        "360° / 60° = 6 समान भाग (360° divided by 60° gives exactly 6 equal parts around the circle)",
+        "6 क्रमागत बिंदुओं को मिलाने से सम षट्भुज बनता है (Joining 6 points forms a regular hexagon)"
+      ]
+    },
+    {
+      "id": "q24",
+      "type": "value-based",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "Value-Based Question: An architect is designing a railway bridge truss where constructing exact perpendicular bisectors and angle bisectors is critical for distributing weight evenly. If a junior draftsman uses rough estimation with a ruler instead of precise geometrical constructions with compasses, serious structural imbalances could occur over time.\n(a) Why is mathematical precision and exactness vital in engineering and real-world construction projects?\n(b) What core life values and character traits do students learn by practicing geometrical constructions systematically with ruler and compasses?",
+      "questionHi": "मूल्य-आधारित प्रश्न: एक वास्तुकार रेलवे पुल का ढाँचा (Truss) डिज़ाइन कर रहा है जहाँ भार को समान रूप से वितरित करने के लिए सटीक लंब समद्विभाजक और कोण समद्विभाजक बनाना अत्यंत आवश्यक है। यदि एक कनिष्ठ ड्राफ्ट्समैन परकार से सटीक ज्यामितीय रचना करने के बजाय रूलर से अंदाजे (rough estimation) से काम करता है, तो समय के साथ गंभीर संरचनात्मक असंतुलन उत्पन्न हो सकता है।\n(a) इंजीनियरिंग और वास्तविक दुनिया की निर्माण परियोजनाओं में गणितीय सटीकता और निपुणता क्यों महत्वपूर्ण है?\n(b) रूलर और परकार से व्यवस्थित रूप से ज्यामितीय रचनाएँ करने का अभ्यास करके छात्र कौन-से मुख्य जीवन मूल्य और चारित्रिक गुण सीखते हैं?",
+      "answer": "(a) Mathematical precision is vital in engineering and construction because real-world structures like bridges, buildings, and machines must withstand immense physical forces and loads. Even a fractional error of a few millimeters or a fraction of a degree in angles can lead to uneven stress distribution, instability, structural failure, and catastrophic collapse, endangering human lives and property. Precise geometrical constructions guarantee exact symmetry, alignment, and balance. (b) Practicing geometrical constructions systematically instills essential life values: 1. Patience and Concentration: Carefully aligning fine tools and drawing delicate arcs requires sustained focus and calm patience. 2. Accuracy and Attention to Detail: Students learn that precision matters and that small errors accumulate, fostering a habit of perfectionism and rigor. 3. Integrity and Honesty: Verifying results with a divider or protractor teaches intellectual honesty and scientific objectivity. 4. Neatness and Aesthetic Appreciation: Creating clean, symmetrical geometric designs develops an appreciation for order, beauty, and harmony in art and nature.",
+      "answerHi": "(a) इंजीनियरिंग और निर्माण में गणितीय सटीकता इसलिए महत्वपूर्ण है क्योंकि पुल, इमारतें और मशीनें जैसी वास्तविक संरचनाओं को अत्यधिक भौतिक बलों और भार का सामना करना पड़ता है। कोणों में एक डिग्री के कुछ हिस्से या मिलीमीटर की मामूली त्रुटि भी असमान तनाव वितरण, अस्थिरता, संरचनात्मक विफलता और दुर्घटना का कारण बन सकती है, जिससे जन-धन की हानि हो सकती है। सटीक ज्यामितीय रचनाएँ पूर्ण सममिति, संरेखण और संतुलन की गारंटी देती हैं। (b) ज्यामितीय रचनाओं का व्यवस्थित अभ्यास छात्रों में महत्वपूर्ण जीवन मूल्यों का विकास करता है: 1. धैर्य और एकाग्रता: सूक्ष्म उपकरणों को सही ढंग से संरेखित करने और नाजुक चाप खींचने के लिए निरंतर ध्यान और शांत धैर्य की आवश्यकता होती है। 2. सटीकता और सूक्ष्म निरीक्षण: छात्र सीखते हैं कि हर मिलीमीटर महत्वपूर्ण है और छोटी त्रुटियाँ बड़ी बन जाती हैं, जिससे पूर्णता और निपुणता की आदत पड़ती है। 3. ईमानदारी और सत्यनिष्ठा: डिवाइडर या चाँदे से परिणामों का सत्यापन करना बौद्धिक ईमानदारी और वैज्ञानिक दृष्टिकोण सिखाता है। 4. स्वच्छता और सौंदर्यबोध: स्वच्छ और सममित ज्यामितीय डिज़ाइन बनाना कला और प्रकृति में व्यवस्था, सौंदर्य और सामंजस्य के प्रति सराहना विकसित करता है।",
+      "keyPoints": [
+        "इंजीनियरिंग में सुरक्षा और संतुलन के लिए सटीक माप अनिवार्य है (Exact measurement is vital in engineering for safety and structural balance)",
+        "धैर्य, एकाग्रता और सूक्ष्म निरीक्षण जैसे मूल्यों का विकास (Develops values of patience, concentration, and attention to detail)",
+        "स्वच्छता, बौद्धिक ईमानदारी और सौंदर्यबोध की प्रेरणा (Fosters neatness, intellectual honesty, and aesthetic appreciation of symmetry)"
+      ]
+    },
+    {
+      "id": "q25",
+      "type": "case-study",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Case-Study: A village farmer has a rectangular plot of land whose front boundary along the road is represented by a straight line segment RS of length 10 cm on the village map. He wishes to divide the plot into two equal halves between his daughter and son by building a straight dividing wall exactly at the midpoint of boundary RS and at a right angle (90°) to the road.\n(a) Which geometrical construction concept should the village surveyor use to locate the exact dividing wall on the map?\n(b) Write the step-by-step procedure to construct this dividing boundary line using compasses and ruler.\n(c) If a water tap is installed at any point T along this perpendicular dividing wall, what will be the relation between the distance of the tap from boundary corner R (distance TR) and from boundary corner S (distance TS)?",
+      "questionHi": "केस-स्टडी: एक गाँव के किसान के पास एक आयताकार खेत है जिसकी सड़क के किनारे की सामने वाली सीमा को गाँव के नक्शे पर 10 सेमी लंबे रेखाखंड RS द्वारा दर्शाया गया है। वह अपनी बेटी और बेटे के बीच खेत को दो बराबर भागों में बाँटने के लिए सीमा RS के ठीक मध्य बिंदु पर सड़क से समकोण (90°) बनाती हुई एक सीधी विभाजन दीवार बनाना चाहता है।\n(a) नक्शे पर सटीक विभाजन दीवार तय करने के लिए गाँव के सर्वेक्षक को किस ज्यामितीय रचना अवधारणा का उपयोग करना चाहिए?\n(b) परकार और रूलर का उपयोग करके इस विभाजन रेखा को खींचने की चरणबद्ध विधि लिखिए।\n(c) यदि इस लंबवत विभाजन दीवार के किसी भी बिंदु T पर पानी का नल लगाया जाए, तो सीमा के कोने R से नल की दूरी (दूरी TR) और कोने S से नल की दूरी (दूरी TS) के बीच क्या संबंध होगा?",
+      "answer": "(a) The surveyor should use the concept of the Perpendicular Bisector (लंब समद्विभाजक) of line segment RS, as it locates the exact midpoint and simultaneously forms a right angle (90°) with the boundary line. (b) Steps of construction: 1. Draw line segment RS = 10 cm representing the road boundary. 2. With R as center and radius more than half of RS (e.g., 6 cm), draw arcs on both sides (above and below) of line segment RS. 3. With S as center and keeping the exact same compass radius, draw arcs above and below RS to intersect the previous arcs at points P and Q. 4. Join point P to point Q using a ruler. Line PQ is the perpendicular bisector intersecting RS at midpoint M (RM = MS = 5 cm) at 90°, representing the dividing wall. (c) If a water tap is installed at any point T along the perpendicular bisector PQ, its distance from corner R will be exactly equal to its distance from corner S (TR = TS). This is because every point on the perpendicular bisector of a segment is equidistant from both endpoints of the segment, ensuring equal and fair access to water for both children.",
+      "answerHi": "(a) सर्वेक्षक को रेखाखंड RS के लंब समद्विभाजक (Perpendicular Bisector) की अवधारणा का उपयोग करना चाहिए, क्योंकि यह ठीक मध्य बिंदु ज्ञात करता है और साथ ही सीमा रेखा के साथ समकोण (90°) बनाता है। (b) रचना के चरण: 1. सड़क की सीमा दर्शाने वाला रेखाखंड RS = 10 सेमी खींचिए। 2. R को केंद्र मानकर और RS के आधे से अधिक (जैसे 6 सेमी) त्रिज्या लेकर, रेखाखंड RS के दोनों ओर (ऊपर और नीचे) चाप लगाइए। 3. S को केंद्र मानकर और वही त्रिज्या रखते हुए, RS के ऊपर और नीचे चाप लगाइए जो पहले वाले चापों को बिंदु P और Q पर काटें। 4. रूलर से बिंदु P को बिंदु Q से मिलाइए। रेखा PQ लंब समद्विभाजक है जो RS को मध्य बिंदु M (RM = MS = 5 सेमी) पर 90° पर काटती है, जो विभाजन दीवार को दर्शाती है। (c) यदि लंब समद्विभाजक PQ के किसी भी बिंदु T पर पानी का नल लगाया जाए, तो कोने R से उसकी दूरी कोने S से उसकी दूरी के ठीक बराबर होगी (TR = TS)। ऐसा इसलिए है क्योंकि किसी रेखाखंड के लंब समद्विभाजक पर स्थित प्रत्येक बिंदु रेखाखंड के दोनों अंत बिंदुओं से समान दूरी (Equidistant) पर होता है, जिससे दोनों बच्चों को पानी की समान और निष्पक्ष सुविधा मिलेगी।",
+      "keyPoints": [
+        "मध्य बिंदु और 90° के लिए लंब समद्विभाजक का उपयोग (Use Perpendicular Bisector for midpoint and 90° angle)",
+        "आधे से अधिक त्रिज्या लेकर R और S से ऊपर-नीचे चाप लगाना (Draw arcs above and below from R and S with radius > half length)",
+        "लंब समद्विभाजक पर स्थित बिंदु दोनों सिरों से समान दूरी पर होता है: TR = TS (Any point on perpendicular bisector is equidistant from endpoints: TR = TS)"
+      ]
+    },
+    {
+      "id": "q26",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Explain how to construct an equilateral triangle of side 5 cm using a ruler and compasses. Extend this concept to explain how a regular hexagon of side 5 cm can be constructed inscribed inside a circle. What mathematical relationship exists between the radius of the circumcircle and the side of the regular hexagon?",
+      "questionHi": "रूलर और परकार का उपयोग करके 5 सेमी भुजा वाले समबाहु त्रिभुज (Equilateral Triangle) की रचना करने की विधि समझाइए। इस अवधारणा का विस्तार करते हुए समझाइए कि एक वृत्त के अंदर 5 सेमी भुजा वाले सम षट्भुज (Regular Hexagon) की रचना कैसे की जा सकती है। परिवृत्त (Circumcircle) की त्रिज्या और सम षट्भुज की भुजा के बीच क्या गणितीय संबंध होता है?",
+      "answer": "Construction of Equilateral Triangle of side 5 cm: 1. Draw a base line segment AB = 5 cm using a ruler. 2. With A as center and radius equal to 5 cm (measured on compasses), draw an arc above line AB. 3. With B as center and the same radius 5 cm, draw another arc above AB intersecting the previous arc at point C. 4. Join A to C and B to C using a ruler. Triangle ABC is the required equilateral triangle with AB = BC = CA = 5 cm and all angles equal to 60°. Construction of Regular Hexagon inscribed in a circle: 1. Draw a circle of radius 5 cm with center O. 2. Mark any point P1 on the circumference. 3. With P1 as center and keeping the compass opening exactly equal to the radius 5 cm, draw an arc cutting the circumference at point P2. 4. With P2 as center and same radius 5 cm, cut the circumference at P3. Continue this stepping-off process to obtain 6 points P1, P2, P3, P4, P5, P6 on the circle. 5. Join consecutive points P1P2, P2P3, P3P4, P4P5, P5P6, and P6P1 with straight line segments. The polygon P1P2P3P4P5P6 is the required regular hexagon of side 5 cm. Mathematical Relationship: The side length of a regular hexagon inscribed in a circle is exactly equal to the radius of the circumcircle (Side = Radius = 5 cm), because connecting the center O to all 6 vertices divides the hexagon into 6 congruent equilateral triangles.",
+      "answerHi": "5 सेमी भुजा वाले समबाहु त्रिभुज की रचना: 1. रूलर से आधार रेखाखंड AB = 5 सेमी खींचिए। 2. A को केंद्र मानकर और 5 सेमी के बराबर त्रिज्या लेकर रेखा AB के ऊपर एक चाप लगाइए। 3. B को केंद्र मानकर उसी 5 सेमी त्रिज्या से ऊपर एक और चाप लगाइए जो पहले चाप को बिंदु C पर काटे। 4. रूलर से A को C से और B को C से मिलाइए। त्रिभुज ABC अभीष्ट समबाहु त्रिभुज है जहाँ AB = BC = CA = 5 सेमी और सभी कोण 60° हैं। वृत्त के अंतर्गत सम षट्भुज की रचना: 1. केंद्र O वाला 5 सेमी त्रिज्या का वृत्त खींचिए। 2. परिधि पर कोई बिंदु P1 अंकित कीजिए। 3. P1 को केंद्र मानकर और परकार का फैलाव त्रिज्या 5 सेमी के बराबर रखते हुए, परिधि को बिंदु P2 पर काटिए। 4. P2 को केंद्र मानकर उसी 5 सेमी त्रिज्या से परिधि को P3 पर काटिए। इसी प्रकार 6 बिंदु P1, P2, P3, P4, P5, P6 प्राप्त कीजिए। 5. क्रमागत बिंदुओं को सीधी रेखाखंडों से मिलाइए। बहुभुज P1P2P3P4P5P6 अभीष्ट सम षट्भुज है। गणितीय संबंध: किसी वृत्त के अंतर्गत बने सम षट्भुज की भुजा की लंबाई परिवृत्त की त्रिज्या के ठीक बराबर होती है (भुजा = त्रिज्या = 5 सेमी), क्योंकि केंद्र O को सभी 6 शीर्षों से मिलाने पर षट्भुज 6 सर्वांगसम समबाहु त्रिभुजों में विभाजित हो जाता है।",
+      "keyPoints": [
+        "समबाहु त्रिभुज: दोनों सिरों से 5 सेमी के चाप काटकर शीर्ष C प्राप्त करना (Equilateral triangle: draw 5 cm intersecting arcs from both ends to get vertex C)",
+        "सम षट्भुज: परिधि पर त्रिज्या के बराबर दूरी 6 बार काटना (Regular hexagon: step off the radius distance 6 times around the circumference)",
+        "सम षट्भुज की भुजा सदैव परिवृत्त की त्रिज्या के बराबर होती है (Side of regular hexagon is always equal to the radius of its circumcircle)"
+      ]
+    },
+    {
+      "id": "q27",
+      "type": "case-study",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Case-Study: In an automobile workshop, a mechanical engineer is designing a custom steering wheel with four equal sectors. To do this, she needs to divide a straight 180° metal bar (forming a straight angle ∠AOB at center O) into four equal angular sectors by welding three straight supporting spokes radiating from center O.\n(a) What should be the degree measure of each of the four equal sectors around the center O?\n(b) Explain how the engineer can achieve this division using only a ruler and compasses by applying perpendicular bisector and angle bisector methods.\n(c) Why is uniform angular distribution of spokes essential for the mechanical balance of a rotating steering wheel or tyre rim?",
+      "questionHi": "केस-स्टडी: एक ऑटोमोबाइल कार्यशाला में, एक यांत्रिक अभियंता चार समान त्रिज्यखंडों (Sectors) वाला एक कस्टम स्टीयरिंग व्हील डिज़ाइन कर रही है। इसके लिए, उसे केंद्र O पर सरल कोण (180°) बनाने वाली एक सीधी धातु की छड़ ∠AOB को केंद्र O से निकलने वाले तीन सीधे सहारे वाले स्पोक्स (spokes) वेल्ड करके चार बराबर कोणीय त्रिज्यखंडों में बाँटना है।\n(a) केंद्र O के चारों ओर बनने वाले चारों समान त्रिज्यखंडों में से प्रत्येक का डिग्री माप क्या होना चाहिए?\n(b) समझाइए कि अभियंता लंब समद्विभाजक और कोण समद्विभाजक विधियों का उपयोग करके केवल रूलर और परकार से यह विभाजन कैसे कर सकती है।\n(c) घूमने वाले स्टीयरिंग व्हील या टायर के रिम के यांत्रिक संतुलन के लिए स्पोक्स का समान कोणीय वितरण क्यों आवश्यक है?",
+      "answer": "(a) A straight line forms a straight angle of 180°. Dividing 180° into 4 equal sectors gives: 180° / 4 = 45°. Therefore, each of the four sectors must measure exactly 45°. (b) Steps of geometrical construction: 1. Given straight line AOB representing the 180° bar with center O. 2. First, construct a perpendicular at point O: with O as center, draw a semicircular arc cutting line AOB at points X and Y. With X and Y as centers and radius greater than OX, draw intersecting arcs above O at point P. Join O to P. Ray OP is perpendicular to AB (∠AOP = ∠POB = 90°). This gives the first spoke OP, dividing 180° into two 90° halves. 3. Next, bisect the right angle ∠AOP: from X and the 90° mark on OP, draw intersecting arcs to get ray OQ (∠AOQ = ∠QOP = 45°). This is the second spoke. 4. Similarly, bisect the right angle ∠POB on the right side: from Y and the 90° mark on OP, draw intersecting arcs to get ray OR (∠POR = ∠ROB = 45°). This is the third spoke. Thus, spokes OQ, OP, and OR divide the 180° angle into four equal sectors of 45° each. (c) Uniform angular distribution is essential because it ensures symmetrical mass distribution around the center of rotation. Without equal angles, the wheel would suffer from eccentric weight imbalance, causing severe vibrations, wobbling, mechanical wear, and loss of steering control at high speeds.",
+      "answerHi": "(a) एक सीधी रेखा 180° का सरल कोण बनाती है। 180° को 4 बराबर भागों में बाँटने पर: 180° / 4 = 45° प्राप्त होता है। अतः प्रत्येक त्रिज्यखंड ठीक 45° का होना चाहिए। (b) ज्यामितीय रचना के चरण: 1. केंद्र O के साथ 180° दर्शाने वाली सीधी रेखा AOB दी गई है। 2. पहले बिंदु O पर लंब बनाइए: O को केंद्र मानकर एक अर्धवृत्ताकार चाप लगाइए जो रेखा AOB को X और Y पर काटे। X और Y से OX से अधिक त्रिज्या लेकर ऊपर चाप काटकर बिंदु P प्राप्त कीजिए। O को P से मिलाइए। किरण OP रेखा AB पर लंब है (∠AOP = ∠POB = 90°)। यह पहला स्पोक OP है जो 180° को दो 90° के भागों में बाँटता है। 3. अब समकोण ∠AOP का समद्विभाजन कीजिए: X और OP पर स्थित 90° के बिंदु से चाप काटकर किरण OQ खींचिए (∠AOQ = ∠QOP = 45°)। यह दूसरा स्पोक है। 4. इसी प्रकार दाईं ओर के समकोण ∠POB का समद्विभाजन करके किरण OR खींचिए (∠POR = ∠ROB = 45°)। यह तीसरा स्पोक है। इस प्रकार स्पोक्स OQ, OP और OR 180° के कोण को 45° के चार बराबर त्रिज्यखंडों में बाँट देते हैं। (c) समान कोणीय वितरण इसलिए आवश्यक है क्योंकि यह घूर्णन केंद्र के चारों ओर द्रव्यमान का सममित वितरण सुनिश्चित करता है। समान कोण न होने पर पहिए में असंतुलन (imbalance) पैदा होगा, जिससे तेज गति में भारी कंपन, डगमगाहट और स्टीयरिंग से नियंत्रण खोने का खतरा रहता है।",
+      "keyPoints": [
+        "180° / 4 = 45° (प्रत्येक त्रिज्यखंड का माप 45° होगा) (180° divided into 4 equal sectors gives 45° per sector)",
+        "पहले O पर 90° का लंब OP बनाकर 180° को दो भागों में बाँटना (First draw 90° perpendicular OP to divide 180° into two halves)",
+        "दोनों 90° के कोणों का समद्विभाजन करके 45° के चार भाग प्राप्त करना (Bisect both 90° angles to get four equal 45° sectors for mechanical balance)"
+      ]
+    },
+    {
+      "id": "q28",
+      "type": "value-based",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "Value-Based Question: During a practical mathematics laboratory session on geometrical constructions, Amit consistently fails to draw neat arcs because he holds the compasses by its moving pencil leg instead of the top hinge, causing the radius to slip. Seeing his frustration, his bench-mate Sneha patiently demonstrates the correct technique of holding the compass hinge between thumb and forefinger and rotating it smoothly without pressing too hard.\n(a) Identify three common procedural errors that students make while handling compasses and rulers during geometry examinations.\n(b) How does collaborative peer learning and sharing technical skills enhance classroom culture and empathy among students?",
+      "questionHi": "मूल्य-आधारित प्रश्न: ज्यामितीय रचनाओं के एक व्यावहारिक गणित प्रयोगशाला सत्र के दौरान, अमित बार-बार स्वच्छ चाप खींचने में असफल रहता है क्योंकि वह परकार को शीर्ष हिंज (hinge) से पकड़ने के बजाय उसकी घूमने वाली पेंसिल वाली टाँग से पकड़ता है, जिससे त्रिज्या फिसल जाती है। उसकी निराशा देखकर उसकी सहपाठी स्नेहा धैर्यपूर्वक उसे अंगूठे और तर्जनी के बीच परकार के हिंज को पकड़ने और बिना अधिक दबाव डाले सहजता से घुमाने की सही तकनीक का प्रदर्शन करती है।\n(a) ज्यामिति परीक्षा के दौरान परकार और रूलर का उपयोग करते समय छात्रों द्वारा की जाने वाली तीन सामान्य प्रक्रियात्मक त्रुटियों की पहचान कीजिए।\n(b) सहयोगात्मक सहपाठी अधिगम (Peer Learning) और तकनीकी कौशल साझा करने से कक्षा की संस्कृति और छात्रों में सहानुभूति कैसे बढ़ती है?",
+      "answer": "(a) Three common procedural errors made by students are: 1. Holding the compass legs instead of the top hinge/head: Gripping the legs applies pressure that changes the opening (radius) mid-rotation, resulting in distorted, oval arcs instead of true circles. 2. Blunt or misaligned pencil lead: Using a thick, blunt pencil point or failing to align the pencil tip exactly level with the metal pointer leads to thick, inaccurate lines and intersection errors. 3. Shifting the ruler while drawing or measuring: Failing to press the ruler firmly against the paper causes it to slide, resulting in crooked line segments and incorrect length measurements. (b) Collaborative peer learning enhances classroom culture by transforming learning from an individual competition into a shared community journey. When students like Sneha help peers without arrogance, it builds empathy, mutual respect, and patience. For the helper, teaching a skill reinforces their own mastery and clarity; for the learner, receiving peer support reduces math anxiety and builds self-confidence in a supportive, inclusive environment.",
+      "answerHi": "(a) छात्रों द्वारा की जाने वाली तीन सामान्य प्रक्रियात्मक त्रुटियाँ निम्नलिखित हैं: 1. शीर्ष हिंज (Hinge) के बजाय परकार की टाँगों को पकड़ना: टाँगों को पकड़ने से दबाव पड़ता है जिससे घुमाते समय त्रिज्या बदल जाती है और वृत्त के बजाय विकृत या अंडाकार चाप बनते हैं। 2. मोटी या असंरेखित पेंसिल नोक का उपयोग: मोटी और घिसी हुई पेंसिल का उपयोग करना या पेंसिल की नोक को धातु की सुई के ठीक बराबर न रखना, जिससे मोटी और अशुद्ध रेखाएँ बनती हैं। 3. रेखा खींचते या मापते समय रूलर का हिल जाना: रूलर को कागज पर मजबूती से न दबाने के कारण वह फिसल जाता है, जिससे टेढ़ी रेखाएँ और गलत लंबाई प्राप्त होती है। (b) सहयोगात्मक सहपाठी अधिगम (Peer Learning) सीखने को व्यक्तिगत प्रतिस्पर्धा के बजाय एक सामूहिक यात्रा में बदल देता है। जब स्नेहा जैसे छात्र बिना किसी अहंकार के साथियों की मदद करते हैं, तो इससे सहानुभूति, आपसी सम्मान और धैर्य का विकास होता है। सिखाने वाले छात्र का अपना विषय ज्ञान और स्पष्टता मजबूत होती है, जबकि सीखने वाले छात्र का गणित का भय दूर होता है और एक सकारात्मक, समावेशी माहौल में उसका आत्मविश्वास बढ़ता है।",
+      "keyPoints": [
+        "परकार को हमेशा शीर्ष हिंज (Hinge) से पकड़ना चाहिए, टाँगों से नहीं (Always hold compasses by the top hinge, never by the legs)",
+        "पेंसिल की नोक नुकीली और धातु की सुई के ठीक बराबर होनी चाहिए (Pencil tip must be sharp and aligned exactly level with metal pointer)",
+        "सहपाठी शिक्षण से सहानुभूति, आपसी सम्मान और गणितीय आत्मविश्वास बढ़ता है (Peer learning fosters empathy, mutual respect, and mathematical confidence)"
+      ]
+    },
+    {
+      "id": "q29",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Explain the geometric construction to draw a circle of radius 4 cm with center O, and draw any chord AB of length 6 cm inside it. Construct the perpendicular bisector of chord AB. State your observation regarding the path of this perpendicular bisector and explain the universal circle theorem verified by this construction experiment.",
+      "questionHi": "केंद्र O और 4 सेमी त्रिज्या वाला एक वृत्त खींचने तथा उसके अंदर 6 सेमी लंबाई की कोई जीवा AB खींचने की ज्यामितीय रचना समझाइए। जीवा AB का लंब समद्विभाजक खींचिए। इस लंब समद्विभाजक के पथ (मार्ग) के संबंध में अपना प्रेक्षण (observation) बताइए और इस रचना प्रयोग द्वारा सत्यापित होने वाले सार्वभौमिक वृत्त प्रमेय (Circle Theorem) की व्याख्या कीजिए।",
+      "answer": "Steps of construction: 1. Mark a point O on paper as the center. Open compasses to 4 cm on a ruler, place pointer at O, and draw a circle of radius 4 cm. 2. Mark any point A on the circumference. Open compasses to 6 cm, place pointer at A, and draw an arc cutting the circle at point B. Join A to B using a ruler. Line segment AB is a chord of length 6 cm. 3. To construct the perpendicular bisector of chord AB: with A and B as centers and radius greater than half of AB (e.g., 4.5 cm), draw two pairs of arcs intersecting on either side of chord AB at points X and Y. 4. Use a ruler to draw straight line XY passing through the intersection points. Observation: When we observe the straight line XY (the perpendicular bisector of chord AB), we see that it passes EXACTLY through the center O of the circle. Universal Circle Theorem Verified: This construction experiment experimentally verifies the fundamental theorem of circles: 'The perpendicular bisector of any chord of a circle always passes through the center of the circle.' (Conversely, the perpendicular drawn from the center of a circle to a chord bisects the chord).",
+      "answerHi": "रचना के चरण: 1. कागज पर केंद्र के रूप में बिंदु O अंकित कीजिए। परकार को रूलर पर 4 सेमी खोलिए, नुकीला सिरा O पर रखिए और 4 सेमी त्रिज्या का वृत्त खींचिए। 2. परिधि पर कोई बिंदु A अंकित कीजिए। परकार को 6 सेमी खोलिए, नुकीला सिरा A पर रखिए और वृत्त को बिंदु B पर काटते हुए चाप लगाइए। रूलर से A को B से मिलाइए। रेखाखंड AB 6 सेमी लंबी जीवा (Chord) है। 3. जीवा AB का लंब समद्विभाजक खींचने के लिए: A और B को केंद्र मानकर AB के आधे से अधिक (जैसे 4.5 सेमी) त्रिज्या लेकर, जीवा AB के दोनों ओर चाप लगाइए जो एक-दूसरे को बिंदु X और Y पर काटें। 4. रूलर से कटान बिंदुओं को मिलाती हुई सीधी रेखा XY खींचिए। प्रेक्षण (Observation): जब हम सीधी रेखा XY (जीवा AB के लंब समद्विभाजक) को देखते हैं, तो हम पाते हैं कि यह रेखा वृत्त के केंद्र O से होकर ठीक बीच से गुजरती है। सत्यापित सार्वभौमिक वृत्त प्रमेय: यह रचना प्रयोग वृत्तों के मौलिक प्रमेय को प्रायोगिक रूप से सत्यापित करता है: 'वृत्त की किसी भी जीवा का लंब समद्विभाजक सदैव वृत्त के केंद्र से होकर गुजरता है।' (विलोमशः, वृत्त के केंद्र से जीवा पर डाला गया लंब जीवा को समद्विभाजित करता है)।",
+      "keyPoints": [
+        "4 सेमी त्रिज्या का वृत्त बनाकर उसमें 6 सेमी की जीवा AB खींचना (Draw circle of radius 4 cm and mark chord AB = 6 cm inside it)",
+        "जीवा AB के दोनों सिरों से आधे से अधिक त्रिज्या लेकर लंब समद्विभाजक XY खींचना (Construct perpendicular bisector XY of chord AB using intersecting arcs)",
+        "सत्यापन: जीवा का लंब समद्विभाजक सदैव वृत्त के केंद्र O से होकर जाता है (Verification: perpendicular bisector of any chord always passes through center O)"
+      ]
+    },
+    {
+      "id": "q30",
+      "type": "case-study",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Case-Study: A school physical education teacher is designing a running track for sports day. On her scale drawing map, she needs to draw two parallel straight lines AB and CD representing the two straight lanes of the track. The straight line AB is given as 8 cm long, and the parallel lane CD must be drawn at an exact perpendicular distance of 3 cm from AB across its entire length.\n(a) Which geometrical tool combination and concept should she use to construct the parallel line CD accurately at a fixed distance of 3 cm?\n(b) Write the detailed step-by-step procedure to construct the parallel line CD at a distance of 3 cm from line AB using ruler and compasses.\n(c) Why is maintaining an exact, unchanging parallel distance between track lanes critical in competitive sports events?",
+      "questionHi": "केस-स्टडी: एक विद्यालय की शारीरिक शिक्षा शिक्षिका खेल दिवस के लिए एक रनिंग ट्रैक डिज़ाइन कर रही है। अपने स्केल ड्रॉइंग नक्शे पर, उसे ट्रैक की दो सीधी लेनों को दर्शाने वाली दो समांतर सीधी रेखाएँ AB और CD खींचनी हैं। सीधी रेखा AB की लंबाई 8 सेमी दी गई है, और समांतर लेन CD को पूरी लंबाई में AB से ठीक 3 सेमी की लंबवत दूरी पर खींचा जाना है।\n(a) 3 सेमी की निश्चित दूरी पर समांतर रेखा CD को सटीक रूप से खींचने के लिए उसे किस ज्यामितीय उपकरण संयोजन और अवधारणा का उपयोग करना चाहिए?\n(b) रूलर और परकार का उपयोग करके रेखा AB से 3 सेमी की दूरी पर समांतर रेखा CD खींचने की विस्तृत चरणबद्ध विधि लिखिए।\n(c) प्रतिस्पर्धी खेल आयोजनों में ट्रैक लेनों के बीच एक सटीक और अपरिवर्तित समांतर दूरी बनाए रखना क्यों अत्यंत महत्वपूर्ण है?",
+      "answer": "(a) She should use the concept of constructing perpendicular lines at two distinct points on the base line and marking off equal intercepts of 3 cm using ruler and compasses (or sliding set-squares). (b) Steps of construction: 1. Draw a straight line segment AB = 8 cm using a ruler. 2. Take any two well-separated points P and Q on line AB. 3. At point P, construct a 90° perpendicular ray PX using compasses (by drawing semicircular arc and cutting 60°, 120° and bisecting). 4. Similarly, at point Q, construct a 90° perpendicular ray QY using compasses. 5. Open the compasses to measure exactly 3 cm on the ruler. With P as center, cut an arc on perpendicular PX at point R (so PR = 3 cm). 6. With Q as center and the same radius 3 cm, cut an arc on perpendicular QY at point S (so QS = 3 cm). 7. Use a ruler to join point R to point S and extend it as line CD. Line CD is perfectly parallel to AB at a constant perpendicular distance of 3 cm (CD || AB). (c) Maintaining exact parallel lanes is critical because in competitive sprint events, athletes run at top speeds. If lanes converge or vary in width, athletes could collide, cause tripping accidents, or unfairly run shorter/longer distances, violating international sports regulations and fairness.",
+      "answerHi": "(a) उसे आधार रेखा पर दो अलग-अलग बिंदुओं पर लंब (Perpendiculars) खींचने और रूलर व परकार (या गुनिया) का उपयोग करके 3 सेमी के समान अंतःखंड काटने की अवधारणा का उपयोग करना चाहिए। (b) रचना के चरण: 1. रूलर से एक सीधा रेखाखंड AB = 8 सेमी खींचिए। 2. रेखा AB पर दो पर्याप्त दूरी पर स्थित बिंदु P और Q लीजिए। 3. बिंदु P पर परकार की सहायता से 90° का लंबवत किरण PX बनाइए (अर्धवृत्त बनाकर 60°, 120° काटकर और समद्विभाजन करके)। 4. इसी प्रकार, बिंदु Q पर परकार से 90° का लंबवत किरण QY बनाइए। 5. परकार को रूलर पर ठीक 3 सेमी खोलिए। P को केंद्र मानकर लंब PX पर बिंदु R पर चाप काटिए (अतः PR = 3 सेमी)। 6. Q को केंद्र मानकर उसी 3 सेमी त्रिज्या से लंब QY पर बिंदु S पर चाप काटिए (अतः QS = 3 सेमी)। 7. रूलर से बिंदु R और बिंदु S को मिलाते हुए रेखा CD खींचिए। रेखा CD, रेखा AB के पूर्णतः समांतर और 3 सेमी की निरंतर लंबवत दूरी पर है (CD || AB)। (c) सटीक समांतर लेन बनाए रखना इसलिए महत्वपूर्ण है क्योंकि प्रतिस्पर्धी दौड़ में धावक अत्यधिक तेज गति से दौड़ते हैं। यदि लेन की चौड़ाई कम-ज्यादा होगी या वे आपस में मिलेंगी, तो धावक आपस में टकरा सकते हैं, दुर्घटनाएँ हो सकती हैं, या किसी को कम/अधिक दूरी तय करने का अनुचित लाभ मिल सकता है, जो खेल नियमों और निष्पक्षता के विरुद्ध है।",
+      "keyPoints": [
+        "रेखा AB पर दो बिंदुओं P और Q पर 90° के लंब बनाना (Construct 90° perpendiculars at two distinct points P and Q on line AB)",
+        "दोनों लंबों पर 3 सेमी के चाप काटकर बिंदु R और S प्राप्त करना (Cut equal arcs of 3 cm on both perpendiculars to get points R and S)",
+        "R और S को मिलाने से 3 सेमी दूरी पर समांतर रेखा CD || AB प्राप्त होना (Joining R and S gives parallel line CD || AB at exact 3 cm distance)"
+      ]
+    }
+  ]
+}
