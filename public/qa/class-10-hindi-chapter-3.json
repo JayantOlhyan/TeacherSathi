@@ -1,0 +1,65 @@
+{
+  "chapterTitle": "Tatara Vamiro Katha",
+  "chapterTitleHi": "तताँरा-वामीरो कथा",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Why was Tatara popular and beloved among the villagers of Nicobar?",
+      "questionHi": "निकोबार के ग्रामीण तताँरा को क्यों प्रेम और सम्मान देते थे?",
+      "answer": "Tatara was handsome, kind-hearted, and always ready to help anyone in distress across all villages. He also possessed a magical wooden sword believed to have divine strength.",
+      "answerHi": "तताँरा एक आकर्षक, परोपकारी और साहसी युवक था। वह सदैव दूसरों की सहायता के लिए तत्पर रहता था, चाहे वे किसी भी गाँव के हों। उसके परोपकारी स्वभाव और उसकी दैवीय शक्ति वाली लकड़ी की तलवार के कारण सभी लोग उसका आदर करते थे।",
+      "keyPoints": [
+        "परोपकारी और सेवाभावी स्वभाव (Kind and helpful nature)",
+        "संकट के समय सदैव तत्पर (Always ready to help during crises)",
+        "विलक्षण व्यक्तित्व (Charismatic personality)"
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "What was the rigid tradition of Nicobar regarding marriage between different villages?",
+      "questionHi": "निकोबार समाज में वैवाहिक संबंधों को लेकर क्या रूढ़िवादी परंपरा प्रचलित थी?",
+      "answer": "According to traditional customs, matrimonial alliances were strictly prohibited between individuals belonging to different villages.",
+      "answerHi": "निकोबार समाज की प्राचीन रूढ़िवादी परंपरा के अनुसार, एक गाँव के युवक या युवती का विवाह किसी दूसरे गाँव के निवासी से होना पूर्णतः वर्जित था। वैवाहिक संबंध केवल एक ही गाँव के भीतर हो सकते थे।",
+      "keyPoints": [
+        "विभिन्न गाँवों के मध्य विवाह पर रोक (Ban on inter-village marriage)",
+        "सामाजिक रूढ़िवादिता (Rigid social dogma)"
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "long",
+      "marks": 5,
+      "difficulty": "Hard",
+      "question": "How did the supreme sacrifice of Tatara and Vamiro bring about a progressive transformation in Nicobar Islands?",
+      "questionHi": "तताँरा और वामीरो के आत्म बलिदान से निकोबार द्वीप समूह के समाज में क्या क्रांतिकारी परिवर्तन आया?",
+      "answer": "Frustrated by the cruel social obstacles separating him from Vamiro, Tatara struck the earth with his wooden sword in intense anger, splitting Little Andaman and Car Nicobar apart. Following their tragic disappearance, the islanders realized the cruelty of rigid traditions and abolished the ban on inter-village marriages forever.",
+      "answerHi": "तताँरा और वामीरो के अगाध प्रेम को जब समाज ने ठुकरा दिया, तो क्रोध और क्षोभ में तताँरा ने अपनी लकड़ी की तलवार धरती में गाड़ दी, जिससे द्वीप दो टुकड़ों (कार निकोबार और लिटिल अंडमान) में विभक्त हो गया। दोनों प्रेमियों के दुखद अंत के पश्चात् निकोबार वासियों की आँखें खुलीं और उन्होंने रूढ़िवादी व क्रूर परंपराओं को त्यागकर दूसरे गाँवों में भी वैवाहिक संबंध स्थापित करने की अनुमति दे दी।",
+      "keyPoints": [
+        "तलवार से द्वीप का विभाजन (Splitting of the island by wooden sword)",
+        "रूढ़िवादी परंपराओं का अंत (Abolition of rigid traditions)",
+        "प्रेम और मानवता की जीत (Triumph of love and human connection)"
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "value-based",
+      "marks": 5,
+      "difficulty": "Medium",
+      "question": "Why should outdated traditions that cause human suffering be discarded over time?",
+      "questionHi": "मानव समाज को हानि पहुँचाने वाली पुरानी रूढ़ियों और परंपराओं को समय के साथ क्यों बदल देना चाहिए?",
+      "answer": "Traditions are created for social harmony and human well-being. When customs become oppressive chains that destroy happiness and innocent lives, true social progress lies in modifying or abandoning them.",
+      "answerHi": "परंपराएँ और नियम मानव समाज की भलाई और सुव्यवस्था के लिए बनाए जाते हैं, न कि मनुष्य को पीड़ा देने के लिए। यदि कोई परंपरा या रूढ़ि मानव की स्वतंत्रता और खुशियों का गला घोंटने लगे, तो समय के साथ उसे बदल देना ही विवेकपूर्ण है। तताँरा-वामीरो कथा हमें यही सिखाती है कि मानवता किसी भी रूढ़ि से महान है।",
+      "keyPoints": [
+        "नियम मानव के लिए हैं, मानव नियम के लिए नहीं (Rules exist for humans, not vice versa)",
+        "प्रगतिशील सोच की आवश्यकता (Need for progressive thinking)",
+        "सामाजिक समरसता और प्रेम का महत्व (Importance of social harmony and love)"
+      ]
+    }
+  ]
+}
