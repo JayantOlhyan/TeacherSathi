@@ -1,0 +1,456 @@
+{
+  "chapterTitle": "Materials Around Us",
+  "chapterTitleHi": "हमारे आस-पास की सामग्रियाँ",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What is meant by a 'material'? Give two examples of materials used in our daily lives.",
+      "questionHi": "'सामग्री' (Material) से क्या अभिप्राय है? हमारे दैनिक जीवन में उपयोग की जाने वाली सामग्रियों के दो उदाहरण दीजिए।",
+      "answer": "A material is any substance or matter from which objects are made. Different materials have different physical properties such as hardness, appearance, and texture, which make them suitable for specific uses. Examples of materials used in our daily lives include wood (used to make furniture and doors) and steel or metal (used to make cooking utensils and tools).",
+      "answerHi": "वह पदार्थ या द्रव्य जिससे कोई वस्तु बनाई जाती है, 'सामग्री' (Material) कहलाता है। विभिन्न सामग्रियों के भौतिक गुण जैसे कठोरता, दिखावट और बनावट अलग-अलग होते हैं, जो उन्हें विशिष्ट उपयोगों के लिए उपयुक्त बनाते हैं। दैनिक जीवन में प्रयुक्त सामग्रियों के उदाहरण हैं: लकड़ी (फर्नीचर और दरवाजे बनाने के लिए) तथा इस्पात या धातु (खाना पकाने के बर्तन और औजार बनाने के लिए)।",
+      "keyPoints": [
+        "पदार्थ जिससे वस्तुएँ बनती हैं (Substance from which objects are made)",
+        "विभिन्न भौतिक गुण और उपयोग (Different physical properties and uses)",
+        "उदाहरण: लकड़ी और इस्पात/धातु (Examples: Wood and steel/metal)"
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Why do we need to group or sort materials? Give two reasons.",
+      "questionHi": "हमें सामग्रियों को समूहीकृत या वर्गीकृत (सॉर्ट) करने की आवश्यकता क्यों होती है? दो कारण बताइए।",
+      "answer": "Grouping or sorting materials is essential for the following two reasons:\n1) Convenience and systematic organization: It helps us locate and organize objects easily without wasting time (like items arranged in a grocery store).\n2) Studying patterns in properties: It makes it easier to study the properties of materials and observe any patterns or similarities among them.",
+      "answerHi": "सामग्रियों को समूहीकृत या वर्गीकृत करना निम्नलिखित दो कारणों से आवश्यक है:\n1) सुविधा और व्यवस्थित संगठन: यह वस्तुओं को बिना समय गंवाए आसानी से खोजने और व्यवस्थित करने में मदद करता है (जैसे किराना दुकान में व्यवस्थित सामान)।\n2) गुणों के पैटर्न का अध्ययन: इससे विभिन्न सामग्रियों के गुणों का अध्ययन करना और उनमें समानता या पैटर्न को समझना आसान हो जाता है।",
+      "keyPoints": [
+        "वस्तुओं को आसानी से खोजने और व्यवस्थित करने के लिए (To locate and organize objects easily for convenience)",
+        "सामग्रियों के गुणों और पैटर्न का अध्ययन करने के लिए (To study properties and patterns of materials)",
+        "समय और श्रम की बचत (Saves time and effort in systematic study)"
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Can a single object be made from different materials? Illustrate with one suitable example.",
+      "questionHi": "क्या एक ही वस्तु को विभिन्न सामग्रियों से बनाया जा सकता है? एक उपयुक्त उदाहरण के साथ स्पष्ट कीजिए।",
+      "answer": "Yes, a single object can be made from different types of materials depending on the required properties, cost, and availability. For example, a drinking cup or tumbler can be made of glass, plastic, steel, paper, or even clay (kulhad). Although the object (cup) serves the same purpose of holding liquids, the material used to make it can vary significantly.",
+      "answerHi": "हाँ, आवश्यकता, लागत और उपलब्धता के आधार पर एक ही वस्तु को विभिन्न प्रकार की सामग्रियों से बनाया जा सकता है। उदाहरण के लिए, पानी पीने का गिलास या कप कांच, प्लास्टिक, स्टील, कागज या मिट्टी (कुल्हड़) से बनाया जा सकता है। यद्यपि वस्तु (गिलास) का मुख्य कार्य तरल पदार्थ को रखना है, फिर भी इसे बनाने के लिए प्रयुक्त सामग्री भिन्न हो सकती है।",
+      "keyPoints": [
+        "हाँ, एक ही वस्तु विभिन्न सामग्रियों से बन सकती है (Yes, a single object can be made from diverse materials)",
+        "उदाहरण: पानी का गिलास (Example: Drinking tumbler/cup)",
+        "कांच, प्लास्टिक, स्टील, कागज या मिट्टी से निर्मित (Can be made of glass, plastic, steel, paper, or clay)"
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What is meant by 'lustre' of a material? Name two lustrous and two non-lustrous materials.",
+      "questionHi": "किसी सामग्री की 'चमक' (Lustre) से क्या अभिप्राय है? दो चमकीली और दो चमकहीन सामग्रियों के नाम लिखिए।",
+      "answer": "Lustre refers to the natural shine or brilliance present on the surface of certain materials, especially metals, when they reflect light. Materials that possess this shine are called lustrous materials.\n1) Lustrous materials: Gold and Copper (metals).\n2) Non-lustrous materials: Wood and Paper (they have a dull appearance).",
+      "answerHi": "जब किसी सामग्री की सतह पर प्रकाश पड़ता है और वह प्राकृतिक रूप से चमकती है, तो उस गुण को 'चमक' (Lustre / द्युति) कहते हैं। जिन पदार्थों में यह प्राकृतिक चमक होती है, उन्हें चमकीले (द्युतिमय) पदार्थ कहते हैं।\n1) चमकीली सामग्रियाँ: सोना और तांबा (धातुएँ)।\n2) चमकहीन (द्युतिहीन) सामग्रियाँ: लकड़ी और कागज (इनकी दिखावट निष्प्रभ या मटमैली होती है)।",
+      "keyPoints": [
+        "सतह पर प्राकृतिक चमक या द्युति (Natural shine or brilliance on the surface)",
+        "चमकीले पदार्थ: सोना, तांबा, लोहा (Lustrous materials: Gold, copper, iron)",
+        "चमकहीन पदार्थ: लकड़ी, कागज, मिट्टी (Non-lustrous materials: Wood, paper, clay)"
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Why do some metals lose their shine and appear dull after some time?",
+      "questionHi": "कुछ धातुएँ कुछ समय बाद अपनी चमक क्यों खो देती हैं और मटमैली (निष्प्रभ) क्यों दिखाई देने लगती हैं?",
+      "answer": "Some metals lose their shine and appear dull when left exposed to the atmosphere for a long time because they react with the moisture (water vapor) and gases (like oxygen and carbon dioxide) present in the air. This chemical reaction forms a thin layer of oxide, carbonate, or sulfide on their metal surface, obscuring their natural lustre. When rubbed with sandpaper or cut freshly, their lustrous surface is visible again.",
+      "answerHi": "जब कुछ धातुओं को लंबे समय तक खुले वातावरण में छोड़ दिया जाता है, तो वे वायु में उपस्थित नमी (जलवाष्प) और गैसों (जैसे ऑक्सीजन और कार्बन डाइऑक्साइड) के साथ रासायनिक अभिक्रिया करती हैं। इस अभिक्रिया के कारण धातु की सतह पर ऑक्साइड, कार्बोनेट या सल्फाइड की एक पतली परत बन जाती है, जिससे उनकी प्राकृतिक चमक छिप जाती है और वे मटमैली (निष्प्रभ) दिखाई देती हैं। रेगमाल से रगड़ने या ताज़ा काटने पर उनकी चमक पुनः दिखाई देने लगती है।",
+      "keyPoints": [
+        "वायु की नमी और गैसों के साथ अभिक्रिया (Reaction with moisture and gases present in the air)",
+        "सतह पर ऑक्साइड या मलिन परत का निर्माण (Formation of a dull oxide or corrosion layer on the surface)",
+        "ताज़ा काटने या रगड़ने पर चमक पुनः दिखना (Shine reappears when freshly cut or rubbed with sandpaper)"
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "Differentiate between hard and soft materials with suitable examples.",
+      "questionHi": "उपयुक्त उदाहरणों की सहायता से कठोर और कोमल (मृदु) सामग्रियों के बीच अंतर स्पष्ट कीजिए।",
+      "answer": "1) Hard materials: Materials which are difficult to compress, bend, cut, or scratch with hands or basic tools are called hard materials. They have tightly packed particles and rigid structure. Examples: Iron, stone, glass, and wood.\n2) Soft materials: Materials which can be easily compressed, bent, scratched, or stretched by pressing with hands are called soft materials. Examples: Cotton, sponge, chalk, and wax.",
+      "answerHi": "1) कठोर सामग्रियाँ: वे पदार्थ जिन्हें हाथों या सामान्य औजारों से दबाना, मोड़ना, काटना या खरोंचना कठिन होता है, 'कठोर सामग्रियाँ' कहलाते हैं। इनकी संरचना दृढ़ होती है। उदाहरण: लोहा, पत्थर, कांच और लकड़ी।\n2) कोमल (मृदु) सामग्रियाँ: वे पदार्थ जिन्हें हाथों से दबाकर आसानी से संपीड़ित (कंप्रेस) किया जा सकता है, मोड़ा या खरोंचा जा सकता है, 'कोमल सामग्रियाँ' कहलाते हैं। उदाहरण: रुई (कपास), स्पंज, चॉक और मोम।",
+      "keyPoints": [
+        "कठोर पदार्थ: दबाना या खरोंचना कठिन (Hard materials: Difficult to compress or scratch)",
+        "कोमल पदार्थ: आसानी से दबने और खरोंचे जाने योग्य (Soft materials: Easily compressed or scratched)",
+        "उदाहरण - कठोर: लोहा, पत्थर; कोमल: स्पंज, रुई (Examples - Hard: Iron, stone; Soft: Sponge, cotton)"
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "What are soluble and insoluble substances? Give one example of each in water.",
+      "questionHi": "विलेय (घुलनशील) और अविलेय (अघुलनशील) पदार्थ क्या होते हैं? जल में प्रत्येक का एक उदाहरण दीजिए।",
+      "answer": "1) Soluble substances: Substances that dissolve completely when mixed and stirred in water, leaving no solid particles behind, are called soluble substances. Example: Common salt (sodium chloride) or sugar.\n2) Insoluble substances: Substances that do not dissolve in water even after rigorous stirring and either settle down at the bottom or float on top are called insoluble substances. Example: Sand or chalk powder.",
+      "answerHi": "1) विलेय (घुलनशील) पदार्थ: वे पदार्थ जो जल में मिलाने और हिलाने पर पूरी तरह से घुल (लुप्त हो) जाते हैं और कोई ठोस कण शेष नहीं बचता, 'विलेय पदार्थ' कहलाते हैं। उदाहरण: साधारण नमक (सोडियम क्लोराइड) या चीनी।\n2) अविलेय (अघुलनशील) पदार्थ: वे पदार्थ जो काफी देर तक हिलाने के बाद भी जल में नहीं घुलते हैं और या तो पेंदे में बैठ जाते हैं या ऊपर तैरते रहते हैं, 'अविलेय पदार्थ' कहलाते हैं। उदाहरण: रेत (बालू) या चॉक पाउडर।",
+      "keyPoints": [
+        "विलेय: जल में पूर्णतः घुलनशील (Soluble: Dissolves completely in water; e.g., salt, sugar)",
+        "अविलेय: जल में न घुलने वाले पदार्थ (Insoluble: Does not dissolve in water; e.g., sand, sawdust)",
+        "विलयन में कणों का अदृश्य होना या शेष रहना (Disappearance vs persistence of particles in water)"
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What is meant by miscible and immiscible liquids? Give one example of an immiscible liquid pair.",
+      "questionHi": "मिश्रणीय (विलेय) और अमिश्रणीय (अविलेय) द्रवों से क्या अभिप्राय है? अमिश्रणीय द्रवों के युग्म का एक उदाहरण दीजिए।",
+      "answer": "1) Miscible liquids: Liquids that mix completely with each other in all proportions to form a single uniform layer are called miscible liquids (e.g., lemon juice or vinegar in water).\n2) Immiscible liquids: Liquids that do not mix with each other and separate into distinct layers when left undisturbed for some time are called immiscible liquids.\nExample of immiscible liquid pair: Mustard oil (or kerosene) and water.",
+      "answerHi": "1) मिश्रणीय द्रव: वे द्रव जो एक-दूसरे में सभी अनुपातों में भली-भांति मिल जाते हैं और एक समान परत बनाते हैं, 'मिश्रणीय द्रव' कहलाते हैं (जैसे जल में नींबू का रस या सिरका)।\n2) अमिश्रणीय द्रव: वे द्रव जो एक-दूसरे में नहीं मिलते हैं और कुछ समय तक स्थिर छोड़ देने पर अपनी अलग-अलग परतें बना लेते हैं, 'अमिश्रणीय द्रव' कहलाते हैं।\nअमिश्रणीय द्रव युग्म का उदाहरण: सरसों का तेल (या मिट्टी का तेल) और जल।",
+      "keyPoints": [
+        "मिश्रणीय द्रव: एक-दूसरे में पूर्णतः मिल जाते हैं (Miscible liquids: Mix completely to form one layer)",
+        "अमिश्रणीय द्रव: मिलकर अलग-अलग परतें बनाते हैं (Immiscible liquids: Do not mix, form separate layers)",
+        "उदाहरण: तेल और जल का मिश्रण अमिश्रणीय है (Example: Oil and water are immiscible)"
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Why do some objects float on water while others sink? Name two objects that float and two that sink.",
+      "questionHi": "कुछ वस्तुएँ जल पर क्यों तैरती हैं जबकि अन्य डूब जाती हैं? जल पर तैरने वाली दो और डूबने वाली दो वस्तुओं के नाम लिखिए।",
+      "answer": "Whether an object floats or sinks in water depends on its density (mass per unit volume) relative to water. Objects that are lighter or less dense than water float on its surface, whereas objects that are heavier or denser than water sink to the bottom.\n1) Objects that float: Wooden cork and dry leaf (or plastic ball).\n2) Objects that sink: Iron nail and stone (or metal coin).",
+      "answerHi": "कोई वस्तु जल पर तैरेगी या डूबेगी, यह जल की तुलना में उसके घनत्व (इकाई आयतन के द्रव्यमान) या भारीपन पर निर्भर करता है। जो वस्तुएँ जल से हल्की (कम घनत्व वाली) होती हैं, वे जल की सतह पर तैरती हैं, जबकि जो वस्तुएँ जल से भारी (अधिक घनत्व वाली) होती हैं, वे जल के पेंदे में डूब जाती हैं।\n1) तैरने वाली वस्तुएँ: लकड़ी का कॉर्क और सूखा पत्ता (या प्लास्टिक की गेंद)।\n2) डूबने वाली वस्तुएँ: लोहे की कील और पत्थर (या धातु का सिक्का)।",
+      "keyPoints": [
+        "जल से हल्की (कम घनत्व वाली) वस्तुएँ तैरती हैं (Objects lighter/less dense than water float)",
+        "जल से भारी (अधिक घनत्व वाली) वस्तुएँ डूबती हैं (Objects heavier/denser than water sink)",
+        "तैरने वाले: कॉर्क, सूखा पत्ता; डूबने वाले: पत्थर, कील (Floaters: Cork, dry leaf; Sinkers: Stone, iron nail)"
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "State the difference between transparent and translucent materials with one example of each.",
+      "questionHi": "पारदर्शी और पारभासी (अल्प-पारदर्शी) सामग्रियों के बीच एक-एक उदाहरण सहित अंतर बताइए।",
+      "answer": "1) Transparent materials: Materials through which light can pass completely and through which objects can be seen clearly and sharply are called transparent materials. Example: Clear glass, clean water, or air.\n2) Translucent materials: Materials through which light passes only partially and through which objects can be seen, but not clearly or sharply (they appear blurred), are called translucent materials. Example: Butter paper, oiled paper, or frosted glass.",
+      "answerHi": "1) पारदर्शी (Transparent) सामग्रियाँ: वे पदार्थ जिनके आर-पार प्रकाश पूरी तरह से गुजर सकता है और जिनके दूसरी ओर रखी वस्तुओं को स्पष्ट और साफ देखा जा सकता है, 'पारदर्शी सामग्रियाँ' कहलाती हैं। उदाहरण: स्वच्छ कांच, साफ जल या वायु।\n2) पारभासी (Translucent) सामग्रियाँ: वे पदार्थ जिनके आर-पार प्रकाश केवल आंशिक रूप से गुजर पाता है और जिनके दूसरी ओर रखी वस्तुओं को देखा तो जा सकता है, परंतु स्पष्ट और साफ नहीं (धुंधला दिखाई देता है), 'पारभासी सामग्रियाँ' कहलाती हैं। उदाहरण: बटर पेपर, तेल लगा कागज या घिसा हुआ कांच।",
+      "keyPoints": [
+        "पारदर्शी: आर-पार स्पष्ट दिखाई देता है, प्रकाश पूर्णतः गुजरता है (Transparent: See clearly, light passes completely; e.g., clear glass)",
+        "पारभासी: आर-पार धुंधला दिखाई देता है, प्रकाश आंशिक रूप से गुजरता है (Translucent: See blurrily, light passes partially; e.g., butter paper)",
+        "प्रकाश के पारगमन की मात्रा में अंतर (Difference in the amount of light transmission)"
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "How can you test whether a piece of paper has become translucent? Describe a simple activity.",
+      "questionHi": "आप यह कैसे परीक्षण करेंगे कि कागज का एक टुकड़ा पारभासी हो गया है? एक सरल क्रियाकलाप का वर्णन कीजिए।",
+      "answer": "We can test the translucency of paper through a simple observation activity:\n1) Take a clean sheet of white writing paper and look at a lighted bulb or candle through it. You will not be able to see the bulb clearly (it is almost opaque or very faintly visible).\n2) Now, put 2-3 drops of cooking oil or butter on the paper and spread it gently over a small circular area using your fingers.\n3) Look at the lighted bulb again through that oiled portion of the paper. You will observe that the bulb is now visible much more clearly than before, but the outline is still blurred and not sharp.\nConclusion: The oil alters the light-transmitting property of the paper, making it translucent.",
+      "answerHi": "हम एक सरल अवलोकन क्रियाकलाप द्वारा कागज की पारभासिता (Translucency) का परीक्षण कर सकते हैं:\n1) सफेद लिखने वाले कागज की एक साफ शीट लीजिए और उसके आर-पार किसी जलते हुए बल्ब या मोमबत्ती को देखने का प्रयास कीजिए। आपको बल्ब स्पष्ट दिखाई नहीं देगा (यह लगभग अपारदर्शी होता है)।\n2) अब, कागज के एक छोटे से हिस्से पर खाने के तेल या मक्खन की 2-3 बूंदें डालिए और अपनी उंगलियों से उसे गोलाकार क्षेत्र में फैलाइए।\n3) अब कागज के उस तेल लगे भाग से जलते हुए बल्ब को पुनः देखिए। आप देखेंगे कि अब बल्ब पहले की तुलना में अधिक स्पष्ट दिखाई दे रहा है, परंतु उसकी बाहरी रूपरेखा (आउटलाइन) अभी भी धुंधली है।\nनिष्कर्ष: तेल लगाने से कागज का प्रकाश-पारगम्यता गुण बदल जाता है और वह पारभासी बन जाता है।",
+      "keyPoints": [
+        "सामान्य कागज से जलता हुआ बल्ब स्पष्ट नहीं दिखता (Normal paper does not show lighted bulb clearly)",
+        "कागज पर तेल या मक्खन की बूंदें लगाकर फैलाना (Applying and spreading 2-3 drops of oil on paper)",
+        "तेल लगे भाग से बल्ब धुंधला परंतु पहले से अधिक स्पष्ट दिखता है (Lighted bulb appears blurred but visible through oiled portion - Translucent)"
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Why are cooking utensils made of metals like aluminum or stainless steel, while their handles are made of hard plastic (bakelite) or wood?",
+      "questionHi": "खाना पकाने के बर्तन एल्युमिनियम या स्टेनलेस स्टील जैसी धातुओं से क्यों बनाए जाते हैं, जबकि उनके हत्थे (हैंडल) कठोर प्लास्टिक (बैकेलाइट) या लकड़ी से बनाए जाते हैं?",
+      "answer": "Cooking utensils and their handles are made of different materials based on their heat-conducting properties:\n1) Body of utensils (Metals): Metals like aluminum, copper, and stainless steel are good conductors of heat. When placed over a gas stove or fire, they quickly transfer heat from the flame to the food or water inside, allowing food to cook rapidly and evenly.\n2) Handles (Plastic or Wood): Wood and hard plastics (like bakelite) are poor conductors of heat (insulators). They do not allow the heat from the hot cooking pan to flow to our hands. This ensures that we can safely hold and lift hot cooking utensils without burning our fingers.",
+      "answerHi": "खाना पकाने के बर्तन और उनके हत्थे ऊष्मा के संचरण गुणों के आधार पर भिन्न-भिन्न सामग्रियों से बनाए जाते हैं:\n1) बर्तन का मुख्य भाग (धातुएँ): एल्युमिनियम, तांबा और स्टेनलेस स्टील जैसी धातुएँ ऊष्मा की सुचालक (Good conductors) होती हैं। गैस चूल्हे या आग पर रखने पर ये ऊष्मा को शीघ्रता से अंदर रखे भोजन या पानी तक पहुंचा देती हैं, जिससे भोजन तेजी से और समान रूप से पक जाता है।\n2) हत्थे / हैंडल (प्लास्टिक या लकड़ी): लकड़ी और कठोर प्लास्टिक (जैसे बैकेलाइट) ऊष्मा के कुचालक या रोधी (Poor conductors/Insulators) होते हैं। ये गर्म बर्तन की ऊष्मा को हमारे हाथों तक नहीं पहुंचने देते। इससे हम गर्म बर्तन को बिना हाथ जलाए सुरक्षित रूप से पकड़ और उठा सकते हैं।",
+      "keyPoints": [
+        "धातुएँ ऊष्मा की सुचालक हैं, भोजन शीघ्र पकाने में सहायक (Metals are good conductors of heat, helping cook food rapidly)",
+        "लकड़ी और प्लास्टिक ऊष्मा के कुचालक/रोधी हैं (Wood and hard plastics are poor conductors/insulators of heat)",
+        "हाथों को जलने से बचाने के लिए हैंडल कुचालक पदार्थ से बनते हैं (Handles prevent heat transfer to hands, ensuring safety)"
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Why is water called a 'universal solvent'? Mention the importance of gases dissolved in water for aquatic organisms.",
+      "questionHi": "जल को 'सार्वभौमिक विलायक' (Universal Solvent) क्यों कहा जाता है? जलीय जीवों के लिए जल में घुली गैसों का महत्व बताइए।",
+      "answer": "1) Universal Solvent: Water is called a universal solvent because it has the remarkable ability to dissolve a vast variety of solid, liquid, and gaseous substances (such as salts, sugars, acids, and gases) more than any other liquid on Earth. It plays a crucial role in biological processes and chemical reactions.\n2) Importance of dissolved gases: Water in lakes, rivers, and oceans contains small quantities of dissolved gases, especially oxygen and carbon dioxide. Aquatic animals (like fish) use gills to extract this dissolved oxygen for respiration. Similarly, aquatic plants use dissolved carbon dioxide to synthesize their food through photosynthesis.",
+      "answerHi": "1) सार्वभौमिक विलायक: जल को 'सार्वभौमिक विलायक' (Universal Solvent) इसलिए कहा जाता है क्योंकि इसमें पृथ्वी पर किसी भी अन्य द्रव की तुलना में अत्यधिक विविध प्रकार के ठोस, द्रव और गैसीय पदार्थों (जैसे नमक, चीनी, अम्ल और गैसों) को अपने अंदर घोलने की अद्भुत क्षमता होती है। यह जैविक प्रक्रियाओं और रासायनिक अभिक्रियाओं में महत्वपूर्ण भूमिका निभाता है।\n2) घुली हुई गैसों का महत्व: झीलों, नदियों और महासागरों के जल में थोड़ी मात्रा में गैसें, विशेष रूप से ऑक्सीजन और कार्बन डाइऑक्साइड, घुली रहती हैं। जलीय जंतु (जैसे मछलियाँ) श्वसन के लिए गलफड़ों (गिल्स) की सहायता से इसी घुली हुई ऑक्सीजन का उपयोग करते हैं। इसी प्रकार, जलीय पौधे प्रकाश संश्लेषण द्वारा भोजन बनाने के लिए जल में घुली कार्बन डाइऑक्साइड का उपयोग करते हैं।",
+      "keyPoints": [
+        "जल में अधिकांश पदार्थों को घोलने की क्षमता होती है (Water dissolves a vast variety of substances - Universal Solvent)",
+        "जल में घुली ऑक्सीजन जलीय जंतुओं के श्वसन के लिए आवश्यक (Dissolved oxygen is vital for respiration of aquatic animals)",
+        "घुली कार्बन डाइऑक्साइड जलीय पौधों के प्रकाश संश्लेषण के लिए आवश्यक (Dissolved carbon dioxide is essential for photosynthesis in aquatic plants)"
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "A shopkeeper stores biscuits, sweets, and snacks in transparent glass or plastic jars rather than opaque tin containers. Give scientific reasons for this practice.",
+      "questionHi": "एक दुकानदार बिस्कुट, मिठाइयाँ और नमकीन को अपारदर्शी टिन के डिब्बों के बजाय पारदर्शी कांच या प्लास्टिक के जार (बर्तनों) में रखता है। इस प्रथा के वैज्ञानिक कारण दीजिए।",
+      "answer": "Shopkeepers store edible items like biscuits, sweets, and chocolates in transparent containers (made of glass or clear food-grade plastic) for three scientific and practical reasons:\n1) High visibility for customers: Since glass and clear plastic are transparent, light passes through them completely. Customers, especially children, can clearly see the items from outside without opening the jars, making them visually appealing and tempting.\n2) Easy inventory identification: The shopkeeper can easily identify which jar contains which item and monitor the remaining stock level at a glance.\n3) Protection and hygiene: Keeping jars closed prevents dust, moisture, and insects from spoiling the food while maintaining full visibility.",
+      "answerHi": "दुकानदार बिस्कुट, मिठाइयाँ और चॉकलेट जैसे खाद्य पदार्थों को पारदर्शी बर्तनों (कांच या साफ फूड-ग्रेड प्लास्टिक से बने) में निम्नलिखित तीन वैज्ञानिक और व्यावहारिक कारणों से रखते हैं:\n1) ग्राहकों के लिए स्पष्ट दृश्यता: चूंकि कांच और साफ प्लास्टिक पारदर्शी होते हैं, इसलिए प्रकाश उनके आर-पार पूरी तरह गुजरता है। ग्राहक, विशेषकर बच्चे, बिना जार खोले बाहर से ही वस्तुओं को स्पष्ट रूप से देख सकते हैं, जिससे वे आकर्षक लगती हैं।\n2) स्टॉक की आसान पहचान: दुकानदार एक ही नज़र में आसानी से पहचान सकता है कि किस जार में कौन सी वस्तु रखी है और कितनी मात्रा शेष है।\n3) सुरक्षा और स्वच्छता: जार बंद रखने से धूल, नमी और कीटों से भोजन की रक्षा होती है, साथ ही स्पष्ट दृश्यता भी बनी रहती है।",
+      "keyPoints": [
+        "कांच और साफ प्लास्टिक पारदर्शी होते हैं (Glass and clear plastic are transparent materials)",
+        "ग्राहक बिना ढक्कन खोले वस्तुओं को स्पष्ट देख सकते हैं (Customers can clearly see items inside without opening lids)",
+        "सामान की पहचान और स्टॉक निगरानी में आसानी (Easy identification of items and monitoring of stock levels)"
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "You are given samples of kerosene oil, mustard oil, lemon juice, and vinegar. How will they behave when added to water and stirred? Categorize them correctly.",
+      "questionHi": "आपको मिट्टी के तेल (केरोसिन), सरसों के तेल, नींबू के रस और सिरके (विनेगर) के नमूने दिए गए हैं। जल में मिलाकर हिलाने पर इनका व्यवहार कैसा होगा? इन्हें सही वर्ग में वर्गीकृत कीजिए।",
+      "answer": "When these liquid samples are added to water in separate test tubes, stirred well, and allowed to stand for five minutes, they behave differently based on their miscibility:\n1) Miscible Liquids (Dissolve completely): Lemon juice and vinegar. When stirred with water, they mix uniformly and form a single clear layer. They are miscible in water.\n2) Immiscible Liquids (Form separate layers): Kerosene oil and mustard oil. Even after vigorous stirring, they do not dissolve or mix with water. When left undisturbed, they separate out and form a distinct upper layer (since oil is lighter/less dense than water). They are immiscible in water.",
+      "answerHi": "जब इन द्रव नमूनों को अलग-अलग परखनलियों में जल में डाला जाता है, भली-भांति हिलाया जाता है और 5 मिनट के लिए स्थिर छोड़ दिया जाता है, तो वे अपनी मिश्रणीयता के आधार पर भिन्न व्यवहार करते हैं:\n1) मिश्रणीय द्रव (पूर्णतः घुलने वाले): नींबू का रस और सिरका (विनेगर)। जल में हिलाने पर ये पूरी तरह एकसमान रूप से मिल जाते हैं और एक ही पारदर्शी परत बनाते हैं। ये जल में मिश्रणीय हैं।\n2) अमिश्रणीय द्रव (अलग परत बनाने वाले): मिट्टी का तेल (केरोसिन) और सरसों का तेल। तेज हिलाने के बाद भी ये जल में नहीं घुलते हैं। कुछ देर स्थिर छोड़ने पर ये जल से अलग होकर ऊपर अपनी एक स्पष्ट परत बना लेते हैं (क्योंकि तेल जल से हल्का/कम घनत्व वाला होता है)। ये जल में अमिश्रणीय हैं।",
+      "keyPoints": [
+        "नींबू का रस और सिरका जल में पूर्णतः मिश्रणीय हैं (Lemon juice and vinegar are completely miscible in water)",
+        "केरोसिन और सरसों का तेल जल में अमिश्रणीय हैं (Kerosene and mustard oil are immiscible in water)",
+        "तेल जल से हल्का होने के कारण ऊपर अलग परत बनाता है (Oil forms a separate upper layer as it is less dense than water)"
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "How do sponges and cotton absorb water despite being solids? Why can they be compressed easily?",
+      "questionHi": "ठोस होने के बावजूद स्पंज और रुई (कपास) पानी को कैसे सोख लेते हैं? इन्हें आसानी से क्यों दबाया (संपीड़ित किया) जा सकता है?",
+      "answer": "Sponges and cotton balls are solid materials, but they exhibit unique physical behavior due to their internal cellular or fibrous structure:\n1) Why they absorb water: Sponges and cotton fibres have thousands of tiny interconnected pores or air spaces within their structure. When dipped in water, capillary action draws water into these tiny empty pores, displacing the trapped air. Thus, they absorb a large amount of water.\n2) Why they can be compressed easily: In a dry state, these tiny pores are filled with air. When we press a sponge or cotton ball with our hand, the trapped air is easily pushed out from the pores, causing the material to shrink in volume. Because of this easy compression, they are classified as soft materials.",
+      "answerHi": "स्पंज और रुई (कपास) ठोस पदार्थ हैं, परंतु अपनी आंतरिक कोशिकीय या रेशेदार संरचना के कारण वे विशिष्ट भौतिक व्यवहार दर्शाते हैं:\n1) पानी क्यों सोखते हैं: स्पंज और रुई के रेशों के बीच हजारों छोटे-छोटे छिद्र (पोर्स) या वायु स्थान होते हैं। जब इन्हें पानी में डुबोया जाता है, तो केशिकत्व (Capillary action) के कारण पानी इन छोटे खाली छिद्रों में भर जाता है और वहां से हवा बाहर निकल जाती है। इस प्रकार वे बड़ी मात्रा में पानी सोख लेते हैं।\n2) आसानी से क्यों दबते हैं: सूखी अवस्था में इन छोटे छिद्रों में हवा भरी रहती है। जब हम स्पंज या रुई को हाथ से दबाते हैं, तो छिद्रों में फंसी हवा आसानी से बाहर निकल जाती है, जिससे उसका आयतन घट जाता है और वह सिकुड़ जाता है। इसी आसान संपीड़न के कारण इन्हें 'कोमल (मृदु) सामग्री' में वर्गीकृत किया जाता है।",
+      "keyPoints": [
+        "संरचना में हजारों छोटे छिद्र या वायु स्थान होते हैं (Presence of thousands of minute pores or air spaces in structure)",
+        "दबाने पर छिद्रों से हवा बाहर निकल जाती है, जिससे वे दबते हैं (Trapped air is expelled when pressed, making them compressible/soft)",
+        "पानी में डुबोने पर छिद्रों में पानी भर जाता है (Pores get filled with water when dipped, causing absorption)"
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "Why is an iron block heavier than a wooden block of the exact same size and volume? Explain using the concept of density and particle arrangement.",
+      "questionHi": "समान आकार और आयतन के लकड़ी के गुटके की तुलना में लोहे का गुटका अधिक भारी क्यों होता है? घनत्व और कणों की व्यवस्था के आधार पर स्पष्ट कीजिए।",
+      "answer": "An iron block is much heavier than a wooden block of the exact same size and volume due to differences in their atomic particle arrangement and density:\n1) Particle arrangement: In metals like iron, atoms or constituent particles are extremely tightly and closely packed together with virtually no empty spaces between them. In wood (an organic cellular structure), the fibres and cells are loosely packed and contain microscopic air pockets.\n2) Density (Mass per unit volume): Because iron particles are heavier and packed much more densely per unit volume, iron has a high density (~7.8 g/cm³). Wood has a much lower density (~0.5 to 0.8 g/cm³). Therefore, for the exact same volume, the mass of iron is nearly 10 to 15 times greater than that of wood.",
+      "answerHi": "समान आकार और आयतन के लकड़ी के गुटके की तुलना में लोहे का गुटका अपने कणों की व्यवस्था और घनत्व में अंतर के कारण बहुत अधिक भारी होता है:\n1) कणों की व्यवस्था: लोहे जैसी धातुओं में परमाणु या घटक कण एक-दूसरे के अत्यधिक निकट और सघन रूप से जुड़े होते हैं, जिनके बीच लगभग कोई रिक्त स्थान नहीं होता। लकड़ी (एक कार्बनिक कोशिकीय संरचना) में रेशे और कोशिकाएं अपेक्षाकृत दूर-दूर होती हैं और उनमें सूक्ष्म वायु प्रकोष्ठ (Air pockets) होते हैं।\n2) घनत्व (इकाई आयतन का द्रव्यमान): चूंकि लोहे के कण अधिक भारी होते हैं और प्रति इकाई आयतन में अधिक घने पैक्ड होते हैं, इसलिए लोहे का घनत्व उच्च (~7.8 g/cm³) होता है। लकड़ी का घनत्व बहुत कम (~0.5 से 0.8 g/cm³) होता है। अतः समान आयतन होने पर भी लोहे का द्रव्यमान लकड़ी से लगभग 10 से 15 गुना अधिक होता है।",
+      "keyPoints": [
+        "लोहे में कण अत्यधिक सघन और निकट रूप से व्यवस्थित होते हैं (Iron particles are tightly and densely packed together)",
+        "लकड़ी में कणों के बीच रिक्त स्थान और वायु प्रकोष्ठ होते हैं (Wood has cellular structure with microscopic air pockets)",
+        "लोहे का घनत्व लकड़ी के घनत्व से बहुत अधिक होता है (Density of iron is much higher than that of wood)"
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Why is gold preferred over other metals for making ornamental jewelry? Mention three scientific properties.",
+      "questionHi": "आभूषण बनाने के लिए अन्य धातुओं की तुलना में सोने (Gold) को क्यों प्राथमिकता दी जाती है? तीन वैज्ञानिक गुण बताइए।",
+      "answer": "Gold is universally preferred for making ornamental jewelry because of three remarkable physical and chemical properties:\n1) Exceptional Lustre and Color: Gold possesses a brilliant, warm yellow metallic shine (lustre) that looks aesthetic and attractive.\n2) High Corrosion Resistance (Nobility): Unlike iron or copper, gold is an extremely unreactive 'noble metal'. It does not react with air, moisture, sweat, or everyday chemicals. Therefore, it never rusts, tarnishes, or loses its brilliant shine over decades or centuries.\n3) High Malleability and Ductility: Gold is the most malleable and ductile metal known. A tiny bead of gold can be beaten into extremely thin sheets (gold leaf) or drawn into microscopic thin wires without breaking, allowing jewelers to craft intricate and delicate jewelry designs.",
+      "answerHi": "आभूषण बनाने के लिए सोने (Gold) को निम्नलिखित तीन अद्भुत भौतिक और रासायनिक गुणों के कारण सर्वत्र प्राथमिकता दी जाती है:\n1) उत्कृष्ट चमक और रंग: सोने में एक अत्यंत आकर्षक, गहरी पीली धात्विक चमक (द्युति) होती है जो दिखने में बहुत सुंदर लगती है।\n2) उच्च संक्षारण प्रतिरोध (उत्कृष्ट धातु): लोहे या तांबे के विपरीत, सोना एक अत्यंत अक्रियाशील 'उत्कृष्ट धातु' (Noble metal) है। यह वायु, नमी, पसीने या सामान्य रसायनों के साथ अभिक्रिया नहीं करता है। इसलिए, दशकों या शताब्दियों तक इसमें कभी जंग नहीं लगता, न ही यह काला पड़ता है और न इसकी चमक कम होती है।\n3) उच्च आघातवर्ध्यता और तन्यता: सोना ज्ञात धातुओं में सर्वाधिक आघातवर्ध्य (Malleable) और तन्य (Ductile) है। सोने के एक छोटे से टुकड़े को पीटकर अत्यंत पतली चादर (स्वर्ण पत्र) या खींचकर महीन तार बनाया जा सकता है, जिससे सुनार अत्यंत बारीक और जटिल डिज़ाइन वाले आभूषण बना सकते हैं।",
+      "keyPoints": [
+        "अत्यंत आकर्षक और स्थायी प्राकृतिक चमक (Brilliant and permanent natural metallic lustre)",
+        "वायु और नमी से अभिक्रिया नहीं करता, जंग या दाग नहीं लगता (High corrosion resistance; does not tarnish or react with air/moisture)",
+        "सर्वाधिक आघातवर्ध्य और तन्य, बारीक डिज़ाइन बनाने में सक्षम (Highly malleable and ductile; easily crafted into intricate jewelry)"
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "An object is made of a material that is hard, opaque, and sinks in water. Can you guess three possible materials it could be made of? Justify your answer.",
+      "questionHi": "एक वस्तु ऐसी सामग्री से बनी है जो कठोर है, अपारदर्शी है और जल में डूब जाती है। क्या आप अनुमान लगा सकते हैं कि यह किन तीन संभावित सामग्रियों से बनी हो सकती है? अपने उत्तर की पुष्टि कीजिए।",
+      "answer": "Based on the given three physical properties—Hard (difficult to compress), Opaque (light cannot pass through), and Sinks in water (denser than water)—the object could be made of any of the following three materials:\n1) Iron (or Steel / Copper / Brass): Metals are rigid and hard, completely opaque to light, and have high densities (e.g., iron density is ~7.8 g/cm³, far exceeding water's 1.0 g/cm³), causing them to sink instantly.\n2) Stone (Granite / Marble): Rocks and stones are extremely hard natural materials, opaque, and have densities around 2.5 to 3.0 g/cm³, making them sink rapidly in water.\n3) Glass-reinforced heavy ceramic or Brick / Bone: Baked clay bricks or thick ceramics are hard, opaque, and denser than water, settling at the bottom of a water container.",
+      "answerHi": "दिए गए तीन भौतिक गुणों—कठोर (दबाना कठिन), अपारदर्शी (प्रकाश आर-पार नहीं जा सकता) और जल में डूबना (जल से अधिक घनत्व)—के आधार पर वह वस्तु निम्नलिखित तीन में से किसी भी सामग्री से बनी हो सकती है:\n1) लोहा (या स्टील / तांबा / पीतल): धातुएँ दृढ़ और कठोर होती हैं, प्रकाश के लिए पूर्णतः अपारदर्शी होती हैं, और इनका घनत्व बहुत अधिक होता है (जैसे लोहे का घनत्व ~7.8 g/cm³ है, जो जल के 1.0 g/cm³ से बहुत अधिक है), जिससे ये पानी में तुरंत डूब जाती हैं।\n2) पत्थर (ग्रेनाइट / संगमरमर): चट्टानें और पत्थर अत्यंत कठोर प्राकृतिक पदार्थ हैं, अपारदर्शी हैं, और इनका घनत्व 2.5 से 3.0 g/cm³ के बीच होता है, जिससे ये जल में तेजी से डूबते हैं।\n3) भारी सिरेमिक या ईंट / हड्डी: पकी हुई मिट्टी की ईंटें या मोटे सिरेमिक (चीनी मिट्टी) बर्तन कठोर और अपारदर्शी होते हैं तथा जल से भारी होने के कारण पानी के बर्तन में पेंदे में बैठ जाते हैं।",
+      "keyPoints": [
+        "संभावित पदार्थ: लोहा/धातु, पत्थर, ईंट/सिरेमिक (Possible materials: Iron/metals, stone, brick/ceramics)",
+        "तीनों पदार्थ कठोर और प्रकाश के लिए अपारदर्शी हैं (All three materials are rigid, hard, and opaque to light)",
+        "जल (1 g/cm³) से अधिक घनत्व होने के कारण पानी में डूब जाते हैं (Sinks in water due to higher density than water's 1.0 g/cm³)"
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "How does the grouping of materials in a chemistry laboratory help students and teachers? Explain with examples of chemical classification.",
+      "questionHi": "रसायन विज्ञान प्रयोगशाला में सामग्रियों (रसायनों और उपकरणों) का वर्गीकरण छात्रों और शिक्षकों की किस प्रकार सहायता करता है? रासायनिक वर्गीकरण के उदाहरणों के साथ स्पष्ट कीजिए।",
+      "answer": "In a chemistry laboratory, grouping and systematic arrangement of chemicals and apparatus is vital for safety, efficiency, and scientific education:\n1) Preventing dangerous accidents: Chemicals are grouped based on their hazardous properties. For example, flammable liquids (like alcohol and acetone) are stored away from heat sources and strong oxidizers. Acids (like hydrochloric and sulfuric acid) are stored in dedicated acid-resistant cabinets separate from bases (alkalis).\n2) Quick identification and workflow: Glassware (beakers, test tubes, flasks) is stored separately from metal stands and porcelain dishes. This helps students and teachers instantly locate required tools during practical experiments without confusion.\n3) Understanding chemical behavior: Grouping substances into categories like acids, bases, salts, metals, and non-metals helps students understand their common reactive patterns and properties systematically.",
+      "answerHi": "रसायन विज्ञान प्रयोगशाला (Chemistry lab) में रसायनों और उपकरणों का व्यवस्थित वर्गीकरण और समूह बनाना सुरक्षा, दक्षता और वैज्ञानिक शिक्षा के लिए अत्यंत महत्वपूर्ण है:\n1) खतरनाक दुर्घटनाओं से बचाव: रसायनों को उनके खतरनाक गुणों के आधार पर समूहीकृत किया जाता है। उदाहरण के लिए, ज्वलनशील द्रवों (जैसे अल्कोहल और एसीटोन) को ऊष्मा स्रोतों और तीव्र ऑक्सीकारकों से दूर रखा जाता है। अम्लों (जैसे हाइड्रोक्लोरिक और सल्फ्यूरिक अम्ल) को क्षारकों से अलग विशेष अम्ल-रोधी अलमारियों में रखा जाता है।\n2) शीघ्र पहचान और कार्य सुगमता: कांच के उपकरणों (बीकर, परखनली, फ्लास्क) को धातु के स्टैंड और चीनी मिट्टी की प्यालियों से अलग रखा जाता है। इससे छात्रों और शिक्षकों को प्रयोगों के दौरान बिना भ्रम के आवश्यक उपकरण तुरंत खोजने में मदद मिलती है।\n3) रासायनिक व्यवहार को समझना: पदार्थों को अम्ल, क्षारक, लवण, धातु और अधातु जैसे वर्गों में वर्गीकृत करने से छात्रों को उनके सामान्य अभिक्रियाशील पैटर्न और गुणों को व्यवस्थित रूप से समझने में सहायता मिलती है।",
+      "keyPoints": [
+        "दुर्घटनाओं से बचाव के लिए अम्लों, क्षारकों और ज्वलनशील पदार्थों का अलग भंडारण (Separate storage of acids, bases, and flammables prevents accidents)",
+        "प्रयोगशाला में उपकरणों और रसायनों को खोजने में समय और श्रम की बचत (Saves time and effort in locating equipment and chemicals during experiments)",
+        "रासायनिक गुणों और अभिक्रियाओं के व्यवस्थित अध्ययन में सहायक (Facilitates systematic study of chemical properties and reactivity patterns)"
+      ]
+    },
+    {
+      "id": "q21",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "Describe an experiment to investigate the solubility of different solid substances (salt, sugar, chalk powder, sand, and sawdust) in water. Organize your observations and state your conclusion.",
+      "questionHi": "जल में विभिन्न ठोस पदार्थों (नमक, चीनी, चॉक पाउडर, रेत और लकड़ी के बुरादे) की विलेयता (घुलनशीलता) की जांच करने के लिए एक प्रयोग का वर्णन कीजिए। अपने अवलोकनों को व्यवस्थित कीजिए और निष्कर्ष बताइए।",
+      "answer": "Aim: To investigate and classify different solid substances as soluble or insoluble in water.\nApparatus and Materials Required: Five clean glass beakers (or test tubes), water, spoons, and samples of common salt, sugar, chalk powder, sand, and sawdust.\nProcedure:\n1) Fill each of the five beakers about two-thirds full with clean water and label them A, B, C, D, and E.\n2) Add half a teaspoon of common salt to beaker A, sugar to beaker B, chalk powder to beaker C, sand to beaker D, and sawdust to beaker E.\n3) Stir the contents of each beaker vigorously using a clean spoon or glass rod.\n4) Leave the beakers undisturbed for about 5 minutes and observe what happens to the added solid substances.\n\nObservations:\n- Beaker A (Salt) & Beaker B (Sugar): The solids disappear completely. The water remains clear. (Soluble)\n- Beaker C (Chalk powder): Does not dissolve; makes water milky and settles slowly at the bottom. (Insoluble)\n- Beaker D (Sand): Does not dissolve at all; heavy sand particles settle down rapidly at the bottom. (Insoluble)\n- Beaker E (Sawdust): Does not dissolve; lighter wood particles float on the surface of the water. (Insoluble)\n\nConclusion: Solid substances behave differently in water. Solids like salt and sugar that dissolve completely are called soluble substances, whereas solids like sand, chalk powder, and sawdust that do not dissolve are called insoluble substances.",
+      "answerHi": "उद्देश्य: जल में विभिन्न ठोस पदार्थों की घुलनशीलता (विलेयता) की जांच करना तथा उन्हें विलेय और अविलेय में वर्गीकृत करना।\nआवश्यक उपकरण एवं सामग्री: पांच साफ कांच के बीकर (या परखनलियां), जल, चम्मच, तथा साधारण नमक, चीनी, चॉक पाउडर, रेत (बालू) और लकड़ी के बुरादे (सॉडस्ट) के नमूने।\nक्रियाविधि:\n1) पांचों बीकरों को लगभग दो-तिहाई स्वच्छ जल से भरिए और उन पर A, B, C, D और E लेबल लगाइए।\n2) बीकर A में आधा चम्मच नमक, बीकर B में चीनी, बीकर C में चॉक पाउडर, बीकर D में रेत और बीकर E में लकड़ी का बुरादा डालिए।\n3) प्रत्येक बीकर के मिश्रण को एक साफ चम्मच या कांच की छड़ से भली-भांति हिलाइए।\n4) बीकरों को लगभग 5 मिनट के लिए स्थिर छोड़ दीजिए और देखिए कि मिलाए गए ठोस पदार्थों का क्या होता है।\n\nअवलोकन (प्रेक्षण):\n- बीकर A (नमक) व बीकर B (चीनी): ठोस पदार्थ पूरी तरह लुप्त (घुल) हो जाते हैं। जल पारदर्शी रहता है। (विलेय)\n- बीकर C (चॉक पाउडर): जल में नहीं घुलता है; पानी को दूधिया बना देता है और धीरे-धीरे पेंदे में बैठ जाता है। (अविलेय)\n- बीकर D (रेत): बिल्कुल नहीं घुलता; रेत के भारी कण तेजी से बर्तन के पेंदे में बैठ जाते हैं। (अविलेय)\n- बीकर E (लकड़ी का बुरादा): नहीं घुलता; लकड़ी के हल्के कण जल की सतह पर तैरते रहते हैं। (अविलेय)\n\nनिष्कर्ष: जल में विभिन्न ठोस पदार्थों का व्यवहार भिन्न होता है। नमक और चीनी जैसे पदार्थ जो जल में पूर्णतः घुल जाते हैं, 'विलेय पदार्थ' कहलाते हैं, जबकि रेत, चॉक पाउडर और बुरादे जैसे पदार्थ जो नहीं घुलते, 'अविलेय पदार्थ' कहलाते हैं।",
+      "keyPoints": [
+        "नमक और चीनी जल में पूर्णतः घुल जाते हैं - विलेय पदार्थ (Salt and sugar dissolve completely in water - Soluble substances)",
+        "रेत और चॉक पाउडर नहीं घुलते और पेंदे में बैठ जाते हैं - अविलेय (Sand and chalk powder do not dissolve and settle at the bottom - Insoluble)",
+        "लकड़ी का बुरादा नहीं घुलता और जल की सतह पर तैरता है - अविलेय (Sawdust does not dissolve and floats on water surface - Insoluble)"
+      ]
+    },
+    {
+      "id": "q22",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "How are materials classified on the basis of transparency? Explain transparent, translucent, and opaque materials in detail with two examples and real-life applications of each.",
+      "questionHi": "पारदर्शिता (Transparency) के आधार पर सामग्रियों को किस प्रकार वर्गीकृत किया जाता है? पारदर्शी, पारभासी और अपारदर्शी सामग्रियों को दो-दो उदाहरणों तथा उनके वास्तविक जीवन के उपयोगों सहित विस्तार से समझाइए।",
+      "answer": "Based on the amount of light they allow to pass through them, materials are classified into three distinct categories:\n\n1) Transparent Materials (पारदर्शी सामग्रियाँ):\n- Definition: Materials that allow almost all the light falling on them to pass through completely in straight lines are called transparent materials. Objects on the other side can be seen clearly and sharply.\n- Examples: Clear glass, clean water, acrylic sheet, and clean air.\n- Real-life Applications: Used in making window panes of houses and cars (to see outside clearly), spectacles and optical lenses (to correct vision), and shop display showcases.\n\n2) Translucent Materials (पारभासी सामग्रियाँ):\n- Definition: Materials that allow only a portion of the light falling on them to pass through, while scattering or diffusing the rest, are called translucent materials. Objects on the other side can be seen, but they appear blurred and indistinct.\n- Examples: Butter paper, frosted glass, tissue paper, and oiled paper.\n- Real-life Applications: Used in bathroom windows and shower cubicles (to allow natural daylight while maintaining privacy) and in decorative lampshades (to produce soft, glare-free diffused lighting).\n\n3) Opaque Materials (अपारदर्शी सामग्रियाँ):\n- Definition: Materials that do not allow any light to pass through them at all are called opaque materials. They block light completely and cast dark shadows behind them when illuminated. We cannot see through them.\n- Examples: Wood, iron/metal sheets, brick walls, and cardboard.\n- Real-life Applications: Used in building house walls and roofs (for shelter and privacy), making doors, cupboards, and safe vaults (to protect valuables from sight and weather).",
+      "answerHi": "अपने आर-पार गुजरने वाले प्रकाश की मात्रा के आधार पर सामग्रियों को तीन स्पष्ट श्रेणियों में वर्गीकृत किया जाता है:\n\n1) पारदर्शी सामग्रियाँ (Transparent Materials):\n- परिभाषा: वे पदार्थ जो अपने ऊपर पड़ने वाले लगभग संपूर्ण प्रकाश को सीधी रेखाओं में आर-पार गुजरने देते हैं, 'पारदर्शी सामग्रियाँ' कहलाती हैं। इनके दूसरी ओर रखी वस्तुएँ बिल्कुल साफ और स्पष्ट दिखाई देती हैं।\n- उदाहरण: स्वच्छ कांच, साफ जल, ऐक्रेलिक शीट और स्वच्छ वायु।\n- वास्तविक जीवन में उपयोग: घरों और कारों की खिड़कियों के शीशे बनाने में (ताकि बाहर स्पष्ट देखा जा सके), चश्मों और प्रकाशिक लेंसों में (दृष्टि ठीक करने के लिए) तथा दुकानों के शोकेस में।\n\n2) पारभासी सामग्रियाँ (Translucent Materials):\n- परिभाषा: वे पदार्थ जो अपने ऊपर पड़ने वाले प्रकाश के केवल एक भाग को ही आर-पार जाने देते हैं और शेष को प्रकीर्णित (फैला) देते हैं, 'पारदर्शी या पारभासी सामग्रियाँ' कहलाते हैं। इनके आर-पार देखा तो जा सकता है, परंतु वस्तुएँ धुंधली और अस्पष्ट दिखाई देती हैं।\n- उदाहरण: बटर पेपर, घिसा हुआ (फ्रॉस्टेड) कांच, टिश्यू पेपर और तेल लगा कागज।\n- वास्तविक जीवन में उपयोग: बाथरूम की खिड़कियों और शावर केबिन में (ताकि रोशनी आए परंतु निजता/प्राइवेसी बनी रहे) तथा सजावटी लैंपशेड में (कोमल और बिना चमक वाली रोशनी के लिए)।\n\n3) अपारदर्शी सामग्रियाँ (Opaque Materials):\n- परिभाषा: वे पदार्थ जो अपने आर-पार प्रकाश को बिल्कुल भी नहीं गुजरने देते हैं, 'अपारदर्शी सामग्रियाँ' कहलाती हैं। ये प्रकाश को पूरी तरह रोक देते हैं और प्रकाश पड़ने पर अपने पीछे गहरी छाया (परछाईं) बनाते हैं। हम इनके आर-पार बिल्कुल नहीं देख सकते।\n- उदाहरण: लकड़ी, लोहे/धातु की चादरें, ईंट की दीवारें और गत्ता (कार्डबोर्ड)।\n- वास्तविक जीवन में उपयोग: घरों की दीवारें और छतें बनाने में (सुरक्षा और प्राइवेसी के लिए), दरवाजे, अलमारियां और तिजोरियां बनाने में (मूल्यवान वस्तुओं को दृष्टि और मौसम से सुरक्षित रखने के लिए)।",
+      "keyPoints": [
+        "पारदर्शी: प्रकाश पूर्णतः गुजरता है, आर-पार स्पष्ट दिखता है (Transparent: Light passes completely; clear vision; e.g., clear glass, water)",
+        "पारभासी: प्रकाश आंशिक गुजरता है, आर-पार धुंधला दिखता है (Translucent: Light passes partially; blurred vision; e.g., butter paper, frosted glass)",
+        "अपारदर्शी: प्रकाश बिल्कुल नहीं गुजरता, परछाईं बनती है (Opaque: Light blocked completely; forms shadows; e.g., wood, metal, brick)"
+      ]
+    },
+    {
+      "id": "q23",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Read the following case study carefully and answer the questions that follow:\nRahul visited his grandparents' village during summer vacation. He noticed his grandfather drawing water from a deep well using an iron bucket attached to a thick rope. Later, his grandmother served him hot milk in a steel tumbler, which was too hot to hold directly. She then poured the milk into a clay cup (kulhad), which felt comfortably cool to hold. In the evening, Rahul saw boats made of wood floating effortlessly on the village river, while iron anchors dropped from the boats sank immediately to the riverbed.\n\n(a) Why did the clay cup (kulhad) feel comfortable to hold with hot milk, whereas the steel tumbler was too hot?\n(b) Why do wooden boats float on the river while iron anchors sink immediately?\n(c) Name one lustrous material and one soft material mentioned or implied in Rahul's day.\n(d) Why is iron chosen to make buckets and anchors instead of wood or clay?",
+      "questionHi": "निम्नलिखित केस स्टडी को ध्यानपूर्वक पढ़िए और नीचे दिए गए प्रश्नों के उत्तर दीजिए:\nराहुल गर्मी की छुट्टियों में अपने दादा-दादी के गाँव गया। उसने देखा कि उसके दादाजी एक मोटी रस्सी से बंधी लोहे की बाल्टी का उपयोग करके एक गहरे कुएं से पानी खींच रहे थे। बाद में, उसकी दादी ने उसे एक स्टील के गिलास में गर्म दूध पीने को दिया, जिसे सीधा पकड़ना बहुत गर्म और कठिन था। तब दादी ने दूध को एक मिट्टी के कुल्हड़ में पलट दिया, जिसे पकड़ना आरामदायक और ठंडा लगा। शाम को, राहुल ने देखा कि लकड़ी से बनी नावें गाँव की नदी पर आसानी से तैर रही थीं, जबकि नावों से डाले गए लोहे के लंगर (एंकर) तुरंत नदी के तल में डूब गए।\n\n(a) गर्म दूध होने पर भी मिट्टी का कुल्हड़ पकड़ने में आरामदायक क्यों लगा, जबकि स्टील का गिलास बहुत गर्म था?\n(b) लकड़ी की नावें नदी पर क्यों तैरती हैं जबकि लोहे के लंगर तुरंत डूब जाते हैं?\n(c) राहुल के दिन में उल्लिखित या निहित एक चमकीली (द्युतिमय) सामग्री और एक कोमल (मृदु) सामग्री का नाम बताइए।\n(d) बाल्टी और लंगर बनाने के लिए लकड़ी या मिट्टी के बजाय लोहे को क्यों चुना जाता है?",
+      "answer": "(a) Heat conduction difference: Steel is a metal and a very good conductor of heat; it rapidly transferred the thermal energy of the hot milk to Rahul's hands, making it too hot to hold. On the other hand, baked clay (terracotta used in kulhads) is a poor conductor of heat (insulator). It prevented the heat of the milk from reaching his fingers, making the kulhad comfortable to hold.\n\n(b) Floating and sinking (Density): Wooden boats float because wood has a lower density than water (~0.6 g/cm³ vs 1.0 g/cm³ of water), meaning it is lighter than an equal volume of water and experiences strong upward buoyant force. Iron anchors sink immediately because iron has a much higher density (~7.8 g/cm³) than water, making it far heavier than the water it displaces.\n\n(c) Identification of materials:\n- Lustrous material: Steel (or Iron when freshly polished/machined).\n- Soft/Flexible material: Rope (made of cotton, jute, or hemp fibers, which can be easily bent and compressed).\n\n(d) Choice of Iron for buckets and anchors: Iron is chosen over wood or clay because iron possesses high tensile strength, toughness, and durability. An iron bucket can withstand the heavy physical impact of hitting well walls without breaking (unlike brittle clay) and holds heavy water securely without leaking. For anchors, iron's high density and hardness ensure it sinks rapidly and grips the riverbed firmly to hold the boat in place.",
+      "answerHi": "(a) ऊष्मा चालन में अंतर: स्टील एक धातु है और ऊष्मा की बहुत अच्छी सुचालक (Good conductor) है; इसने गर्म दूध की ऊष्मा को तुरंत राहुल के हाथों तक पहुंचा दिया, जिससे गिलास पकड़ना बहुत गर्म लगा। दूसरी ओर, पकी हुई मिट्टी (कुल्हड़) ऊष्मा की कुचालक या रोधी (Poor conductor/Insulator) होती है। इसने दूध की गर्मी को उंगलियों तक नहीं पहुंचने दिया, जिससे कुल्हड़ पकड़ना आरामदायक लगा।\n\n(b) तैरना और डूबना (घनत्व): लकड़ी की नावें इसलिए तैरती हैं क्योंकि लकड़ी का घनत्व जल के घनत्व से कम होता है (~0.6 g/cm³ बनाम जल का 1.0 g/cm³), अर्थात यह समान आयतन के जल से हल्की होती है और इस पर ऊपर की ओर उत्प्लावक बल लगता है। लोहे के लंगर तुरंत इसलिए डूब जाते हैं क्योंकि लोहे का घनत्व जल से बहुत अधिक (~7.8 g/cm³) होता है, जिससे यह अपने द्वारा हटाए गए जल से कहीं अधिक भारी होता है।\n\n(c) सामग्रियों की पहचान:\n- चमकीली (द्युतिमय) सामग्री: स्टील (या ताज़ा कटा/पॉलिश किया लोहा)।\n- कोमल (मृदु) / लचीली सामग्री: रस्सी (कपास, जूट या सन के रेशों से बनी, जिसे आसानी से मोड़ा और दबाया जा सकता है)।\n\n(d) बाल्टी और लंगर के लिए लोहे का चुनाव: लकड़ी या मिट्टी के बजाय लोहे को इसलिए चुना जाता है क्योंकि लोहे में उच्च तनन शक्ति (Tensile strength), मजबूती और टिकाऊपन होता है। लोहे की बाल्टी कुएं की दीवारों से टकराने के भारी झटकों को बिना टूटे सह सकती है (भंगुर मिट्टी के विपरीत) और भारी पानी को बिना रिसे सुरक्षित रखती है। लंगर के लिए, लोहे का उच्च घनत्व और कठोरता यह सुनिश्चित करती है कि वह तेजी से डूबे और नदी के तल को मजबूती से पकड़कर नाव को स्थिर रखे।",
+      "keyPoints": [
+        "स्टील ऊष्मा का सुचालक है जबकि मिट्टी कुचालक/रोधी है (Steel is a good conductor of heat whereas clay is an insulator)",
+        "लकड़ी का घनत्व जल से कम (तैरती है); लोहे का घनत्व जल से अधिक (डूबता है) (Wood is less dense than water so floats; iron is denser so sinks)",
+        "लोहे में उच्च मजबूती, कठोरता और टिकाऊपन होता है (Iron possesses high strength, toughness, and durability for heavy tools)"
+      ]
+    },
+    {
+      "id": "q24",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Imagine you are an engineer tasked with designing a new modern umbrella. You have access to four materials: cotton cloth, thin aluminum sheet, clear plastic (polythene), and butter paper.\n(a) Which material will you choose for the canopy (roof) of the umbrella for protection during heavy rainfall? Justify your choice by analyzing the properties of all four materials.\n(b) What material would you select for making the umbrella rod/stick and why?",
+      "questionHi": "कल्पना कीजिए कि आप एक इंजीनियर हैं जिसे एक नया आधुनिक छाता (Umbrella) डिज़ाइन करने का काम सौंपा गया है। आपके पास चार सामग्रियाँ उपलब्ध हैं: सूती कपड़ा, एल्युमिनियम की पतली चादर, साफ प्लास्टिक (पॉलिथीन) और बटर पेपर।\n(a) भारी वर्षा के दौरान सुरक्षा के लिए आप छाते की छतरी (कैनोपी) के लिए किस सामग्री का चयन करेंगे? चारों सामग्रियों के गुणों का विश्लेषण करते हुए अपने चयन का औचित्य साबित कीजिए।\n(b) आप छाते की डंडी (रॉड/स्टिक) बनाने के लिए किस सामग्री का चयन करेंगे और क्यों?",
+      "answer": "(a) Selection of material for Umbrella Canopy:\nI will choose clear plastic (polythene or waterproof synthetic fabric) for making the canopy of the umbrella.\nScientific Analysis of all four materials:\n1) Clear Plastic (Polythene): Highly recommended because it is completely waterproof (insoluble and impermeable to water), flexible (can be folded easily when closing the umbrella), lightweight, and durable.\n2) Cotton Cloth: Rejected because cotton fibers absorb water readily (hydrophilic and porous). In heavy rain, it will get soaked, become heavy, and allow water to drip through onto the person.\n3) Thin Aluminum Sheet: Rejected because although aluminum is waterproof and hard, it is a rigid metal sheet that cannot be folded or collapsed easily. It would make the umbrella permanently open, stiff, noisy in rain, and dangerous during lightning.\n4) Butter Paper: Rejected because paper has very low tensile strength and tears easily. When exposed to water, it loses its fibrous integrity and disintegrates quickly.\n\n(b) Selection of material for Umbrella Rod/Stick:\nI will select aluminum tube or steel coated with rust-proof paint for the rod/stick. Metals like aluminum and steel provide high structural strength and rigidity required to hold the canopy against strong winds. Moreover, using a hollow aluminum tube ensures the umbrella remains lightweight and easy to carry while being corrosion-resistant.",
+      "answerHi": "(a) छाते की छतरी (कैनोपी) के लिए सामग्री का चयन:\nमैं छाते की छतरी बनाने के लिए साफ प्लास्टिक (पॉलिथीन या जलरोधी सिंथेटिक कपड़े) का चयन करूंगा।\nचारों सामग्रियों का वैज्ञानिक विश्लेषण:\n1) साफ प्लास्टिक (पॉलिथीन): सर्वोत्तम चयन क्योंकि यह पूर्णतः जलरोधी (Waterproof - पानी को आर-पार नहीं जाने देता), लचीला (छाता बंद करते समय आसानी से मोड़ा जा सकता है), हल्का और टिकाऊ होता है।\n2) सूती कपड़ा: अस्वीकृत क्योंकि सूती रेशे पानी को तेजी से सोख लेते हैं (छिद्रयुक्त और जल-अवशोषक)। भारी वर्षा में यह भीगकर भारी हो जाएगा और पानी नीचे व्यक्ति पर टपकने लगेगा।\n3) एल्युमिनियम की पतली चादर: अस्वीकृत क्योंकि यद्यपि एल्युमिनियम जलरोधी और कठोर है, फिर भी यह एक दृढ़ चादर है जिसे छाते की तरह आसानी से मोड़ा या बंद नहीं किया जा सकता। इससे छाता स्थायी रूप से खुला, सख्त, बारिश में शोर करने वाला और बिजली चमकने पर खतरनाक हो जाएगा।\n4) बटर पेपर: अस्वीकृत क्योंकि कागज की मजबूती बहुत कम होती है और यह आसानी से फट जाता है। पानी के संपर्क में आने पर यह गलकर तुरंत नष्ट हो जाएगा।\n\n(b) छाते की डंडी (रॉड/स्टिक) के लिए सामग्री का चयन:\nमैं डंडी बनाने के लिए एल्युमिनियम की नली (ट्यूब) या जंग-रोधी पेंट से पुते स्टील का चयन करूंगा। एल्युमिनियम और स्टील जैसी धातुएँ उच्च मजबूती और दृढ़ता प्रदान करती हैं, जो तेज हवाओं में छतरी को संभाले रखने के लिए आवश्यक है। साथ ही, खोखली एल्युमिनियम ट्यूब का उपयोग करने से छाता हल्का, ले जाने में आसान और जंग-रोधी रहता है।",
+      "keyPoints": [
+        "छाते की छतरी के लिए प्लास्टिक सर्वोत्तम: जलरोधी, लचीला और हल्का (Plastic is best for canopy: Waterproof, flexible, and lightweight)",
+        "सूती कपड़ा पानी सोखता है और बटर पेपर पानी में गल जाता है (Cotton absorbs water and butter paper disintegrates when wet)",
+        "डंडी के लिए एल्युमिनियम/स्टील: उच्च मजबूती, दृढ़ता और हवा सहने की क्षमता (Aluminum/steel for rod: High strength, rigidity, and wind resistance)"
+      ]
+    },
+    {
+      "id": "q25",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "A student performed a series of tests on an unknown solid material 'X' in the school science lab and recorded the following observations:\n- Test 1 (Appearance): The surface of X looked dull, but when rubbed briskly with sandpaper, a shiny silver-grey metallic surface appeared.\n- Test 2 (Hardness & Malleability): When struck hard with a heavy hammer, X did not break into pieces; instead, it flattened slightly into a thinner shape.\n- Test 3 (Solubility & Density): When dropped into a beaker of water, X did not dissolve and sank immediately to the bottom.\n- Test 4 (Magnetism): When a bar magnet was brought near X, it was strongly attracted to the magnet.\n\nAnalyze these observations scientifically and answer:\n(a) Identify what material 'X' most likely is.\n(b) Explain the scientific reason behind each of the four observations recorded by the student.\n(c) Mention two common daily-life objects made from material X.",
+      "questionHi": "एक छात्र ने विद्यालय की विज्ञान प्रयोगशाला में एक अज्ञात ठोस सामग्री 'X' पर कई परीक्षण किए और निम्नलिखित अवलोकन दर्ज किए:\n- परीक्षण 1 (दिखावट): X की सतह मटमैली (निष्प्रभ) दिख रही थी, परंतु रेगमाल (सैंडपेपर) से तेजी से रगड़ने पर चमकीली सिल्वर-ग्रे धात्विक सतह दिखाई दी।\n- परीक्षण 2 (कठोरता और आघातवर्ध्यता): जब भारी हथौड़े से जोर से मारा गया, तो X टुकड़ों में नहीं टूटा; बल्कि यह थोड़ा चपटा होकर पतले आकार में बदल गया।\n- परीक्षण 3 (विलेयता और घनत्व): जब पानी के बीकर में डाला गया, तो X नहीं घुला और तुरंत पेंदे में डूब गया।\n- परीक्षण 4 (चुंबकत्व): जब एक छड़ चुंबक को X के पास लाया गया, तो वह चुंबक की ओर मजबूती से आकर्षित हुआ।\n\nइन अवलोकनों का वैज्ञानिक रूप से विश्लेषण कीजिए और उत्तर दीजिए:\n(a) पहचानिए कि सामग्री 'X' संभवतः क्या है।\n(b) छात्र द्वारा दर्ज किए गए चारों अवलोकनों के पीछे का वैज्ञानिक कारण स्पष्ट कीजिए।\n(c) सामग्री X से बनने वाली दो सामान्य दैनिक जीवन की वस्तुओं के नाम लिखिए।",
+      "answer": "(a) Identification of Material X:\nMaterial 'X' is Iron (or steel, which is an iron alloy).\n\n(b) Scientific reasons behind the observations:\n1) Test 1 (Sandpaper test): Iron reacts slowly with oxygen and moisture in the air to form a dull brown/grey oxide layer (rust or tarnish) on its surface. Rubbing with sandpaper removes this dull outer oxide layer, exposing the fresh, lustrous silver-grey metallic iron underneath.\n2) Test 2 (Hammer test): Iron is a hard and malleable metal. Unlike brittle materials (such as stone, glass, or coal) which shatter into pieces when struck, iron atoms slide over one another without breaking the metallic bond. Thus, it flattens into sheets under high impact (malleability).\n3) Test 3 (Water test): Iron is completely insoluble in water because its metallic bonds cannot be broken by water molecules. It sinks immediately because its density (~7.8 g/cm³) is much higher than the density of water (1.0 g/cm³).\n4) Test 4 (Magnetism test): Iron is a ferromagnetic material. It possesses internal magnetic domains that align in the presence of a magnetic field, causing it to be strongly attracted by a magnet.\n\n(c) Daily-life objects made from Iron:\n1) Cooking pans and tawas (cast iron cookware).\n2) Iron nails, screws, door locks, and window grilles.",
+      "answerHi": "(a) सामग्री X की पहचान:\nसामग्री 'X' लोहा (Iron) या इस्पात (स्टील - लोहे की मिश्रधातु) है।\n\n(b) अवलोकनों के पीछे वैज्ञानिक कारण:\n1) परीक्षण 1 (रेगमाल परीक्षण): लोहा वायु की ऑक्सीजन और नमी के साथ धीमी अभिक्रिया करके अपनी सतह पर मटमैली भूरी/ग्रे ऑक्साइड की परत (जंग) बना लेता है। रेगमाल से रगड़ने पर यह बाहरी मटमैली परत हट जाती है और नीचे से ताज़ा, चमकीला सिल्वर-ग्रे धात्विक लोहा दिखाई देने लगता है।\n2) परीक्षण 2 (हथौड़ा परीक्षण): लोहा एक कठोर और आघातवर्ध्य (Malleable) धातु है। भंगुर पदार्थों (जैसे पत्थर, कांच या कोयले) के विपरीत, जो चोट मारने पर टूटकर बिखर जाते हैं, लोहे के परमाणु बिना धात्विक बंध तोड़े एक-दूसरे पर खिसक जाते हैं। अतः उच्च प्रहार के तहत यह चपटा होकर चादर में बदल जाता है।\n3) परीक्षण 3 (जल परीक्षण): लोहा जल में पूर्णतः अविलेय (अघुलनशील) है क्योंकि जल के अणु इसके धात्विक बंधों को नहीं तोड़ सकते। यह तुरंत इसलिए डूब जाता है क्योंकि इसका घनत्व (~7.8 g/cm³) जल के घनत्व (1.0 g/cm³) से बहुत अधिक होता है।\n4) परीक्षण 4 (चुंबकत्व परीक्षण): लोहा एक लौह-चुंबकीय (Ferromagnetic) पदार्थ है। इसमें आंतरिक चुंबकीय डोमेन होते हैं जो चुंबकीय क्षेत्र की उपस्थिति में संरेखित हो जाते हैं, जिससे यह चुंबक द्वारा मजबूती से आकर्षित होता है।\n\n(c) लोहे से बनने वाली दैनिक जीवन की वस्तुएँ:\n1) खाना पकाने के कड़ाही और तवे (कास्ट आयरन बर्तन)।\n2) लोहे की कीलें, पेंच, दरवाजे के ताले और खिड़कियों की ग्रिल।",
+      "keyPoints": [
+        "सामग्री X लोहा (Iron) है जो चमकीला, कठोर, आघातवर्ध्य और जल से भारी है (Material X is Iron: lustrous, hard, malleable, and denser than water)",
+        "रेगमाल से रगड़ने पर बाहरी ऑक्साइड परत हटती है और चमक दिखती है (Sandpaper removes dull oxide layer to reveal metallic lustre)",
+        "लोहा एक लौह-चुंबकीय पदार्थ है जो चुंबक की ओर आकर्षित होता है (Iron is a ferromagnetic material strongly attracted by magnets)"
+      ]
+    },
+    {
+      "id": "q26",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "Why is plastic considered both a 'boon' (blessing) and a 'curse' (hazard) in modern times? Discuss three useful properties of plastics that make them widely used, and two major environmental problems caused by excessive plastic waste.",
+      "questionHi": "आधुनिक समय में प्लास्टिक को 'वरदान' और 'अभिशाप' दोनों क्यों माना जाता है? प्लास्टिक के तीन उपयोगी गुणों की चर्चा कीजिए जिनके कारण इसका व्यापक उपयोग होता है, तथा अत्यधिक प्लास्टिक कचरे से होने वाली दो प्रमुख पर्यावरणीय समस्याओं का वर्णन कीजिए।",
+      "answer": "Plastic is considered both a boon and a curse because while its extraordinary physical properties make it extremely useful and convenient for daily life (boon), its non-biodegradable nature causes severe environmental pollution (curse).\n\nThree Useful Properties of Plastics (The Boon):\n1) Lightweight and High Strength: Plastics are much lighter than metals, glass, or wood, yet they possess great tensile strength and durability, making them ideal for carrying bags, buckets, and automobile parts.\n2) Waterproof and Chemical Resistant: Plastics are insoluble in water and do not react with air, moisture, acids, or everyday chemicals. Therefore, they never rust or corrode and are used extensively to store food, water, and chemicals.\n3) Moldability and Cost-Effectiveness: Plastics can be easily melted and molded into any desired shape (bottles, toys, pipes, wires) and can be colored easily. They are also much cheaper to produce than metals or glass.\n\nTwo Major Environmental Problems Caused by Plastics (The Curse):\n1) Non-Biodegradability and Soil Pollution: Plastics are non-biodegradable; they do not decompose naturally by the action of bacteria or weather even over hundreds of years. When dumped in landfills, they remain in the soil for centuries, degrading soil fertility and blocking groundwater recharge.\n2) Threat to Wildlife and Marine Life: Stray animals (like cows) on land and marine animals (like sea turtles, whales, and fish) mistakenly ingest plastic bags and microplastics along with food. This chokes their digestive tracts or respiratory systems, leading to painful death.",
+      "answerHi": "प्लास्टिक को वरदान और अभिशाप दोनों इसलिए माना जाता है क्योंकि जहां एक ओर इसके असाधारण भौतिक गुण इसे दैनिक जीवन के लिए अत्यंत उपयोगी और सुविधाजनक बनाते हैं (वरदान), वहीं दूसरी ओर इसका जैव-अनिम्नीकरणीय (Non-biodegradable) स्वभाव गंभीर पर्यावरणीय प्रदूषण का कारण बनता है (अभिशाप)।\n\nप्लास्टिक के तीन उपयोगी गुण (वरदान):\n1) हल्का और उच्च मजबूती: प्लास्टिक धातुओं, कांच या लकड़ी की तुलना में बहुत हल्का होता है, फिर भी इसमें बेहतरीन मजबूती और टिकाऊपन होता है, जिससे यह थैले, बाल्टी और वाहनों के पुर्जे बनाने के लिए आदर्श है।\n2) जलरोधी और रसायन-रोधी: प्लास्टिक जल में अविलेय है और वायु, नमी, अम्ल या दैनिक रसायनों के साथ अभिक्रिया नहीं करता। इसलिए, इसमें कभी जंग या संक्षारण नहीं होता और इसका उपयोग भोजन, पानी व रसायनों के भंडारण में व्यापक रूप से होता है।\n3) ढालने की सुगमता और किफायती: प्लास्टिक को आसानी से पिघलाकर किसी भी मनचाहे आकार (बोतलें, खिलौने, पाइप, तार) में ढाला जा सकता है और रंगा जा सकता है। यह धातुओं या कांच की तुलना में बहुत सस्ता भी है।\n\nप्लास्टिक से होने वाली दो प्रमुख पर्यावरणीय समस्याएँ (अभिशाप):\n1) जैव-अनिम्नीकरणीयता और मृदा प्रदूषण: प्लास्टिक जैव-अनिम्नीकरणीय (Non-biodegradable) है; यह जीवाणुओं या मौसम के प्रभाव से सैकड़ों वर्षों तक प्राकृतिक रूप से नष्ट नहीं होता। कचरे के ढेरों और मिट्टी में पड़ा रहकर यह मृदा की उर्वरता को नष्ट करता है और भूजल पुनर्भरण को रोकता है।\n2) वन्यजीवों और समुद्री जीवों के लिए खतरा: ज़मीन पर घूमने वाले आवारा पशु (जैसे गाय) और समुद्री जीव (जैसे कछुए, व्हेल और मछलियां) भोजन के साथ प्लास्टिक की थैलियों और माइक्रोप्लास्टिक को गलती से निगल लेते हैं। इससे उनका पाचन तंत्र या श्वसन मार्ग चोक (अवरुद्ध) हो जाता है, जिससे उनकी दर्दनाक मृत्यु हो जाती है।",
+      "keyPoints": [
+        "उपयोगी गुण: हल्का, जलरोधी, जंग-रोधी, सस्ता और आसानी से ढाले जाने योग्य (Useful properties: Lightweight, waterproof, corrosion-resistant, cheap, and easily moldable)",
+        "जैव-अनिम्नीकरणीय: सैकड़ों वर्षों तक नष्ट नहीं होता, मृदा और जल प्रदूषण फैलाता है (Non-biodegradable: Does not decompose for centuries, causing severe soil and water pollution)",
+        "पशुओं और समुद्री जीवों द्वारा निगलने पर मृत्यु का खतरा (Fatal hazard to terrestrial and marine wildlife when accidentally ingested)"
+      ]
+    },
+    {
+      "id": "q27",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "How does the study of material properties help us make our homes more energy-efficient and comfortable? Explain with reference to window glass, roof insulation, and cooking utensils.",
+      "questionHi": "सामग्रियों के गुणों का अध्ययन हमें अपने घरों को अधिक ऊर्जा-दक्ष (एनर्जी-एफिशिएंट) और आरामदायक बनाने में किस प्रकार मदद करता है? खिड़की के कांच, छत के इन्सुलेशन (रोधन) और खाना पकाने के बर्तनों के संदर्भ में समझाइए।",
+      "answer": "Understanding the physical properties of materials—such as transparency, heat conduction, and reflectivity—allows architects and householders to design homes that conserve energy, reduce electricity bills, and enhance comfort:\n\n1) Window Glass (Transparency and Solar Control): Clear glass is transparent to visible light, allowing natural sunlight to brighten rooms during the day without switching on electric bulbs (saving lighting energy). In modern homes, special tinted or double-glazed (two glass sheets with trapped air in between) windows are used. Trapped air is a poor conductor of heat, preventing outdoor summer heat from entering or winter indoor heat from escaping, drastically reducing air conditioning costs.\n\n2) Roof Insulation (Thermal Conductivity): Roofs are exposed directly to the scorching sun. By coating roofs with white reflective paint or using insulating materials like clay tiles, gypsum boards, or glass wool (which trap air and act as heat insulators), the transfer of solar heat into ceiling rooms is minimized. This keeps houses naturally cool in summer.\n\n3) Cooking Utensils (Efficient Heat Conduction): In the kitchen, using utensils made of high-conductivity metals like copper-bottomed stainless steel or aluminum ensures that heat from the LPG stove is quickly and evenly conducted to the food. This cooks food faster and saves valuable cooking gas or electrical fuel.",
+      "answerHi": "सामग्रियों के भौतिक गुणों—जैसे पारदर्शिता, ऊष्मा चालन और परावर्तकता—को समझने से वास्तुकारों और गृहस्वामियों को ऐसे घर डिज़ाइन करने में मदद मिलती है जो ऊर्जा की बचत करते हैं, बिजली के बिल कम करते हैं और आराम बढ़ाते हैं:\n\n1) खिड़की का कांच (पारदर्शिता और सौर नियंत्रण): स्वच्छ कांच दृश्य प्रकाश के लिए पारदर्शी होता है, जिससे दिन के समय बिजली के बल्ब जलाए बिना प्राकृतिक सूर्य का प्रकाश कमरों को रोशन करता है (रोशनी की ऊर्जा बचती है)। आधुनिक घरों में विशेष टिंटेड या डबल-ग्लेज्ड (बीच में फंसी हवा वाली कांच की दो परतें) खिड़कियों का उपयोग किया जाता है। फंसी हुई हवा ऊष्मा की कुचालक होती है, जो गर्मियों की बाहरी गर्मी को अंदर आने से और सर्दियों की आंतरिक गर्मी को बाहर जाने से रोकती है, जिससे एसी का खर्च भारी मात्रा में घटता है।\n\n2) छत का इन्सुलेशन / रोधन (ऊष्मीय चालकता): छतें सीधे तेज धूप के संपर्क में रहती हैं। छतों पर सफेद परावर्तक पेंट करने या मिट्टी के खपरैल, जिप्सम बोर्ड या ग्लास वूल (जो हवा को फंसाकर ऊष्मा रोधी का काम करते हैं) जैसी रोधी सामग्रियों का उपयोग करने से कमरों में सौर ऊष्मा का संचरण न्यूनतम हो जाता है। इससे घर गर्मियों में प्राकृतिक रूप से ठंडे रहते हैं।\n\n3) खाना पकाने के बर्तन (दक्ष ऊष्मा चालन): रसोई में कॉपर-बॉटम (तांबे के पेंदे वाले) स्टेनलेस स्टील या एल्युमिनियम जैसी उच्च चालकता वाली धातुओं से बने बर्तनों का उपयोग करने से एलपीजी चूल्हे की ऊष्मा शीघ्रता से और समान रूप से भोजन तक पहुंचती है। इससे भोजन तेजी से पकता है और मूल्यवान रसोई गैस या विद्युत ईंधन की बचत होती है।",
+      "keyPoints": [
+        "डबल-ग्लेज्ड कांच की खिड़कियां ऊष्मा संचरण रोककर एसी की ऊर्जा बचाती हैं (Double-glazed transparent windows prevent heat transfer, saving AC energy)",
+        "छत पर ऊष्मा रोधी (इन्सुलेटिंग) सामग्री लगाने से घर प्राकृतिक रूप से ठंडे रहते हैं (Roof insulation materials block solar heat, keeping homes naturally cool)",
+        "उच्च ऊष्मा चालकता वाले धातु के बर्तन तेजी से खाना पकाकर ईंधन बचाते हैं (High-conductivity metal utensils cook faster, saving cooking gas/fuel)"
+      ]
+    },
+    {
+      "id": "q28",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "A shopkeeper has a mixed box containing the following eight items: (i) Iron nail, (ii) Wooden ruler, (iii) Glass marble, (iv) Cotton handkerchief, (v) Copper coin, (vi) Plastic bottle, (vii) Stainless steel spoon, (viii) Eraser (rubber).\n\nGroup these eight items into two distinct columns based on each of the following three criteria:\n(a) Lustrous vs Non-lustrous materials.\n(b) Hard vs Soft materials.\n(c) Materials that float on water vs Materials that sink in water.",
+      "questionHi": "एक दुकानदार के पास एक मिश्रित बॉक्स है जिसमें निम्नलिखित आठ वस्तुएँ हैं: (i) लोहे की कील, (ii) लकड़ी का पैमाना (रूलर), (iii) कांच की गोली (कंचा), (iv) सूती रुमाल, (v) तांबे का सिक्का, (vi) प्लास्टिक की बोतल, (vii) स्टेनलेस स्टील का चम्मच, (viii) इरेज़र (रबर)।\n\nनिम्नलिखित तीन मानदंडों में से प्रत्येक के आधार पर इन आठ वस्तुओं को दो स्पष्ट कॉलमों में वर्गीकृत (समूहीकृत) कीजिए:\n(a) चमकीली (द्युतिमय) बनाम चमकहीन (द्युतिहीन) सामग्रियाँ।\n(b) कठोर बनाम कोमल (मृदु) सामग्रियाँ।\n(c) जल पर तैरने वाली बनाम जल में डूबने वाली सामग्रियाँ।",
+      "answer": "Here is the systematic grouping of the eight items based on the three scientific criteria:\n\n(a) Classification based on Appearance (Lustre):\n- Lustrous Materials (चमकीली सामग्रियाँ): (i) Iron nail, (v) Copper coin, (vii) Stainless steel spoon. [Note: Glass marble also has a shiny surface, but metallic lustre specifically applies to metals; glass is typically classified under non-metallic vitreous shine].\n- Non-lustrous Materials (चमकहीन सामग्रियाँ): (ii) Wooden ruler, (iii) Glass marble, (iv) Cotton handkerchief, (vi) Plastic bottle, (viii) Eraser (rubber).\n\n(b) Classification based on Hardness:\n- Hard Materials (कठोर सामग्रियाँ - difficult to compress/scratch): (i) Iron nail, (ii) Wooden ruler, (iii) Glass marble, (v) Copper coin, (vii) Stainless steel spoon.\n- Soft Materials (कोमल सामग्रियाँ - easily compressed/flexible): (iv) Cotton handkerchief, (vi) Plastic bottle (thin/empty), (viii) Eraser (rubber).\n\n(c) Classification based on Behavior in Water (Density):\n- Float on Water (जल पर तैरने वाली - less dense than water): (ii) Wooden ruler, (iv) Cotton handkerchief (initially floats before absorbing heavy water), (vi) Plastic bottle (empty/capped).\n- Sink in Water (जल में डूबने वाली - denser than water): (i) Iron nail, (iii) Glass marble, (v) Copper coin, (vii) Stainless steel spoon, (viii) Eraser (rubber).",
+      "answerHi": "तीनों वैज्ञानिक मानदंडों के आधार पर आठ वस्तुओं का व्यवस्थित वर्गीकरण (समूहीकरण) इस प्रकार है:\n\n(a) दिखावट (चमक / द्युति) के आधार पर वर्गीकरण:\n- चमकीली सामग्रियाँ (Lustrous Materials): (i) लोहे की कील, (v) तांबे का सिक्का, (vii) स्टेनलेस स्टील का चम्मच। [नोट: कांच की गोली भी चमकती है, परंतु धात्विक चमक मुख्य रूप से धातुओं में होती है]।\n- चमकहीन सामग्रियाँ (Non-lustrous Materials): (ii) लकड़ी का पैमाना, (iii) कांच की गोली, (iv) सूती रुमाल, (vi) प्लास्टिक की बोतल, (viii) इरेज़र (रबर)।\n\n(b) कठोरता के आधार पर वर्गीकरण:\n- कठोर सामग्रियाँ (Hard Materials - दबाना/खरोंचना कठिन): (i) लोहे की कील, (ii) लकड़ी का पैमाना, (iii) कांच की गोली, (v) तांबे का सिक्का, (vii) स्टेनलेस स्टील का चम्मच।\n- कोमल सामग्रियाँ (Soft Materials - आसानी से दबने/लचीली): (iv) सूती रुमाल, (vi) प्लास्टिक की बोतल (पतली/खाली), (viii) इरेज़र (रबर)।\n\n(c) जल में व्यवहार (घनत्व) के आधार पर वर्गीकरण:\n- जल पर तैरने वाली (Float on Water - जल से कम घनत्व): (ii) लकड़ी का पैमाना, (iv) सूती रुमाल (पानी सोखने से पहले प्रारंभ में तैरता है), (vi) प्लास्टिक की बोतल (खाली/ढक्कन बंद)।\n- जल में डूबने वाली (Sink in Water - जल से अधिक घनत्व): (i) लोहे की कील, (iii) कांच की गोली, (v) तांबे का सिक्का, (vii) स्टेनलेस स्टील का चम्मच, (viii) इरेज़र (रबर)।",
+      "keyPoints": [
+        "चमकीले: लोहा, तांबा और स्टील (धातुएँ); चमकहीन: लकड़ी, कपड़ा, रबर, प्लास्टिक (Lustrous: Iron, copper, steel metals; Non-lustrous: Wood, cloth, rubber, plastic)",
+        "कठोर: लोहा, लकड़ी, कांच, तांबा, स्टील; कोमल: रुमाल, रबर, पतली प्लास्टिक (Hard: Metals, wood, glass; Soft: Handkerchief, rubber, thin plastic)",
+        "तैरने वाले: लकड़ी का पैमाना, खाली प्लास्टिक बोतल; डूबने वाले: धातु के सिक्के, कील, कंचा, रबर (Floaters: Wood, empty bottle; Sinkers: Metal coin, nail, marble, eraser)"
+      ]
+    },
+    {
+      "id": "q29",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Why is it important to conserve natural materials like wood and metals? Suggest three practical ways in which students and schools can contribute to reducing material wastage and promoting sustainability.",
+      "questionHi": "लकड़ी और धातुओं जैसी प्राकृतिक सामग्रियों का संरक्षण करना क्यों महत्वपूर्ण है? तीन व्यावहारिक तरीके सुझाइए जिनसे छात्र और विद्यालय सामग्री की बर्बादी को कम करने और स्थिरता (सस्टेनेबिलिटी) को बढ़ावा देने में योगदान दे सकते हैं।",
+      "answer": "Importance of Conserving Natural Materials:\nNatural materials like wood (obtained from forest trees) and metals (extracted from underground mineral ores) are limited and precious earth resources. \n1) Preventing Deforestation and Climate Change: Indiscriminate cutting of trees for wood and paper destroys forests, leads to soil erosion, loss of biodiversity, and accelerates global warming.\n2) Non-Renewable Nature of Metals: Metal ores take millions of years to form in the earth's crust. Once depleted through over-extraction and wastage, they cannot be replaced by human efforts.\n\nThree Practical Ways Students and Schools Can Contribute to Sustainability:\n1) Implement the '3 Rs' (Reduce, Reuse, Recycle): Students should reduce paper wastage by writing on both sides of notebook pages. Old textbooks, storybooks, and laboratory glassware should be donated or reused rather than discarded.\n2) School Waste Segregation and Recycling Drive: Schools should set up separate color-coded dustbins for biodegradable waste (food scraps), recyclable materials (paper, plastic bottles, metal cans), and non-recyclables. Collected paper and metals should be sent to recycling plants to manufacture new items without harvesting raw timber or mining fresh ores.\n3) Promoting Eco-friendly Alternatives: Schools should ban single-use plastics and encourage students to carry reusable cloth or jute bags, steel water bottles, and metal tiffin boxes.",
+      "answerHi": "प्राकृतिक सामग्रियों के संरक्षण का महत्व:\nलकड़ी (वन के पेड़ों से प्राप्त) और धातुएँ (भूमिगत खनिज अयस्कों से निकाली गई) जैसी प्राकृतिक सामग्रियाँ पृथ्वी के सीमित और बहुमूल्य संसाधन हैं।\n1) वनों की कटाई और जलवायु परिवर्तन से बचाव: लकड़ी और कागज के लिए अंधाधुंध पेड़ काटने से वन नष्ट होते हैं, मृदा अपरदन होता है, जैव विविधता समाप्त होती है और ग्लोबल वार्मिंग (भू-मंडलीय ऊष्मीकरण) तेज होता है।\n2) धातुओं का अनवीकरणीय स्वभाव: पृथ्वी की पपड़ी में खनिज अयस्कों को बनने में लाखों वर्ष लगते हैं। अत्यधिक दोहन और बर्बादी से समाप्त होने के बाद, उन्हें मानव प्रयासों द्वारा पुनः नहीं बनाया जा सकता।\n\nस्थिरता (सस्टेनेबिलिटी) में योगदान देने के लिए छात्रों और विद्यालयों के तीन व्यावहारिक तरीके:\n1) '3 R' (Reduce, Reuse, Recycle - कम उपयोग, पुनः उपयोग, पुनर्चक्रण) को अपनाना: छात्रों को उत्तर-पुस्तिका के दोनों ओर लिखकर कागज की बर्बादी कम करनी चाहिए। पुरानी पाठ्यपुस्तकों, कहानी की किताबों और प्रयोगशाला उपकरणों को फेंकने के बजाय दान या पुनः उपयोग करना चाहिए।\n2) विद्यालय में कचरा पृथक्करण और पुनर्चक्रण अभियान: विद्यालयों को जैव-निम्नीकरणीय कचरे (भोजन), पुनर्चक्रण योग्य सामग्री (कागज, प्लास्टिक बोतलें, धातु के डिब्बे) और गैर-पुनर्चक्रण योग्य कचरे के लिए अलग-अलग रंग के कूड़ेदान स्थापित करने चाहिए। एकत्र कागज और धातुओं को नए उत्पाद बनाने के लिए रीसाइक्लिंग कारखानों में भेजना चाहिए।\n3) पर्यावरण-अनुकूल विकल्पों को बढ़ावा देना: विद्यालयों में एकल-उपयोग (सिंगल-यूज़) प्लास्टिक पर प्रतिबंध लगाना चाहिए और छात्रों को पुनः उपयोग योग्य कपड़े या जूट के थैले, स्टील की पानी की बोतलें और धातु के टिफिन बॉक्स लाने के लिए प्रोत्साहित करना चाहिए।",
+      "keyPoints": [
+        "वन संरक्षण और ग्लोबल वार्मिंग रोकने के लिए लकड़ी और कागज की बचत आवश्यक (Saving wood and paper prevents deforestation and mitigates global warming)",
+        "धातु खनिज अनवीकरणीय संसाधन हैं, इनका पुनर्चक्रण (रीसाइक्लिंग) अनिवार्य है (Metal ores are non-renewable resources requiring strict recycling)",
+        "3 R सिद्धांत (Reduce, Reuse, Recycle) अपनाकर सामग्री की बर्बादी रोकना (Adopting 3 Rs - Reduce, Reuse, Recycle - to minimize waste in schools and homes)"
+      ]
+    },
+    {
+      "id": "q30",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Analyse the relationship between the structure of a material and its observable macroscopic properties. Explain how the arrangement of constituent particles (atoms/molecules) determines:\n(a) Why iron is hard and rigid while wax is soft and easily deformable.\n(b) Why metals have metallic lustre while wood appears dull.\n(c) Why sugar dissolves in water while sand remains completely insoluble.",
+      "questionHi": "किसी सामग्री की सूक्ष्म संरचना और उसके देखे जाने वाले स्थूल (मैक्रोस्कोपिक) गुणों के बीच संबंध का विश्लेषण कीजिए। समझाइए कि घटक कणों (परमाणुओं/अणुओं) की व्यवस्था किस प्रकार निम्नलिखित को निर्धारित करती है:\n(a) लोहा कठोर और दृढ़ क्यों है जबकि मोम कोमल और आसानी से विरूपित होने योग्य है।\n(b) धातुओं में धात्विक चमक क्यों होती है जबकि लकड़ी मटमैली (निष्प्रभ) दिखाई देती है।\n(c) चीनी जल में क्यों घुल जाती है जबकि रेत पूर्णतः अविलेय (अघुलनशील) रहती है।",
+      "answer": "The observable macroscopic properties of any material are fundamentally determined by its internal microscopic structure and the strength of forces between its constituent particles (atoms or molecules):\n\n(a) Hardness and Rigidity (Iron vs Wax):\nIn iron, atoms are packed in a highly ordered, dense crystalline lattice held together by strong metallic bonds. These strong electrostatic forces prevent atoms from moving away when pressed, making iron hard and rigid. In contrast, wax consists of long hydrocarbon molecules held together by weak intermolecular forces (Van der Waals forces). When pressed with fingers, these molecules easily slide and shift past one another, making wax soft and easily deformable.\n\n(b) Appearance and Lustre (Metals vs Wood):\nMetals possess a unique atomic structure containing a 'sea of free, mobile electrons' on their surface. When light photons fall on a metallic surface, these free electrons rapidly absorb and re-emit the light frequency, reflecting almost all incident light and producing a brilliant metallic lustre. Wood is a complex organic cellular composite (cellulose and lignin) without free electrons; it absorbs and scatters light irregularly, resulting in a dull, non-lustrous appearance.\n\n(c) Solubility in Water (Sugar vs Sand):\nWater is a polar solvent capable of forming hydrogen bonds. When sugar crystals are placed in water, polar water molecules strongly attract the sucrose molecules, forming hydrogen bonds that overcome the intermolecular forces holding the sugar crystal together. Thus, sugar separates into individual molecules and dissolves completely. In sand (silicicon dioxide, SiO₂), atoms are bound together in a massive, rigid three-dimensional covalent network. The attraction between water molecules and silica atoms is far too weak to break these powerful covalent bonds; hence, sand remains completely insoluble.",
+      "answerHi": "किसी भी सामग्री के देखे जाने वाले स्थूल (मैक्रोस्कोपिक) गुण मूल रूप से उसकी आंतरिक सूक्ष्म संरचना और घटक कणों (परमाणुओं या अणुओं) के बीच लगने वाले बलों की प्रबलता द्वारा निर्धारित होते हैं:\n\n(a) कठोरता और दृढ़ता (लोहा बनाम मोम):\nलोहे में परमाणु अत्यंत व्यवस्थित, सघन क्रिस्टलीय जालक (Lattice) में प्रबल धात्विक बंधों द्वारा जुड़े होते हैं। ये मजबूत आकर्षण बल दबाने पर परमाणुओं को अपनी जगह से हटने नहीं देते, जिससे लोहा कठोर और दृढ़ होता है। इसके विपरीत, मोम लंबी हाइड्रोकार्बन श्रृंखलाओं से बना होता है जो दुर्बल अंतराणु बलों (वान डर वाल्स बलों) द्वारा जुड़े होते हैं। हाथों से दबाने पर ये अणु आसानी से एक-दूसरे पर फिसल और खिसक जाते हैं, जिससे मोम कोमल और आसानी से मुड़ने/दबने योग्य होता है।\n\n(b) दिखावट और चमक (धातुएँ बनाम लकड़ी):\nधातुओं की परमाण्विक संरचना में सतह पर 'मुक्त, गतिशील इलेक्ट्रॉनों का समुद्र' होता है। जब प्रकाश के फोटॉन धात्विक सतह पर पड़ते हैं, तो ये मुक्त इलेक्ट्रॉन प्रकाश ऊर्जा को तुरंत अवशोषित करके पुनः उत्सर्जित कर देते हैं, जिससे लगभग संपूर्ण प्रकाश परावर्तित होता है और एक शानदार धात्विक चमक (द्युति) उत्पन्न होती है। लकड़ी एक जटिल कार्बनिक कोशिकीय संरचना (सेल्युलोज और लिग्निन) है जिसमें मुक्त इलेक्ट्रॉन नहीं होते; यह प्रकाश को अनियमित रूप से अवशोषित और प्रकीर्णित करती है, जिससे यह मटमैली (चमकहीन) दिखाई देती है।\n\n(c) जल में विलेयता (चीनी बनाम रेत):\nजल एक ध्रुवीय विलायक है जो हाइड्रोजन बंध बनाने में सक्षम है। जब चीनी के क्रिस्टल जल में डाले जाते हैं, तो जल के अणु सुक्रोज अणुओं को अपनी ओर मजबूती से आकर्षित करते हैं और हाइड्रोजन बंध बनाते हैं, जो चीनी क्रिस्टल के आंतरिक आकर्षण बलों से अधिक मजबूत होते हैं। इस प्रकार चीनी अलग-अलग अणुओं में टूटकर पानी में पूर्णतः घुल जाती है। रेत (सिलिकॉन डाइऑक्साइड, SiO₂) में परमाणु एक विशाल, दृढ़ त्रि-आयामी सहसंयोजक नेटवर्क (Covalent network) में बंधे होते हैं। जल के अणुओं और सिलिका के बीच का आकर्षण इन शक्तिशाली सहसंयोजक बंधों को तोड़ने के लिए बहुत कमजोर होता है; अतः रेत पूर्णतः अविलेय (अघुलनशील) रहती है।",
+      "keyPoints": [
+        "कठोरता कणों के बीच प्रबल धात्विक/रासायनिक बंधों पर निर्भर करती है (Hardness depends on strong metallic/chemical bonds between particles)",
+        "धातुओं की चमक सतह पर उपस्थित मुक्त गतिशील इलेक्ट्रॉनों के कारण होती है (Metallic lustre is caused by reflection of light from free mobile electrons)",
+        "विलेयता जल के अणुओं द्वारा पदार्थ के आंतरिक बंधों को तोड़ने की क्षमता पर निर्भर करती है (Solubility depends on water's ability to form bonds and overcome crystalline lattice forces)"
+      ]
+    }
+  ]
+}
