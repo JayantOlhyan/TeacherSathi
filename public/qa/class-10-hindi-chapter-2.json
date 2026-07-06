@@ -1,0 +1,66 @@
+{
+  "chapterTitle": "Diary Ka Ek Panna",
+  "chapterTitleHi": "डायरी का एक पन्ना",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Why is 26th January 1931 considered a significant day in the history of Kolkata according to the chapter?",
+      "questionHi": "कलकत्ता (कोलकाता) के इतिहास में 26 जनवरी 1931 का दिन क्यों महत्वपूर्ण और अपूर्व माना गया है?",
+      "answer": "On 26th January 1931, the people of Kolkata openly celebrated Independence Day despite strict British government bans and police repression, hoisting the national flag across public spaces.",
+      "answerHi": "26 जनवरी 1931 को ब्रिटिश सरकार के कड़े प्रतिबंधों और पुलिस अत्याचार के बावजूद कलकत्ता के नागरिकों ने स्वतंत्रता दिवस अत्यंत उत्साह और साहस के साथ मनाया। शहर के विभिन्न स्थानों और पार्कों में राष्ट्रीय झंडा फहराया गया तथा विशाल जुलूस निकाले गए।",
+      "keyPoints": [
+        "ब्रिटिश प्रतिबंधों की खुली चुनौती (Open defiance of British restrictions)",
+        "राष्ट्रीय ध्वजारोहण (Widespread hoisting of the National Flag)",
+        "जनता का अपूर्व उत्साह और एकता (Unprecedented public enthusiasm and unity)"
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "What role did women play during the freedom march on 26th January 1931?",
+      "questionHi": "26 जनवरी 1931 के स्वाधीनता संग्राम के आयोजन में महिलाओं की क्या भूमिका रही?",
+      "answer": "Women participated in massive numbers, stepping out to lead processions, hoist flags on monuments, and face police baton charges and arrests fearlessly.",
+      "answerHi": "इस ऐतिहासिक दिन महिलाओं ने भारी संख्या में घर से बाहर निकलकर जुलूसों का नेतृत्व किया। मारवाड़ी बालिका विद्यालय आदि की छात्राओं और महिला कार्यकर्ताओं ने स्मारक (मोन्यूमेंट) पर झंडा फहराया और बिना किसी भय के लाठियां सहीं तथा जेल गईं।",
+      "keyPoints": [
+        "जुलूसों का निडर नेतृत्व (Fearless leadership of processions)",
+        "मोन्यूमेंट पर ध्वजारोहण (Hoisting flag on the monument)",
+        "गिरफ्तारी एवं लाठीचार्ज का सामना (Braving arrests and baton charges)"
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "long",
+      "marks": 5,
+      "difficulty": "Hard",
+      "question": "Describe Subhas Chandra Bose's procession and the brutal police crackdown as recounted by Sitaram Seksaria.",
+      "questionHi": "सीताराम सेकसरिया द्वारा वर्णित सुभाष चंद्र बोस के जुलूस और उस पर हुए पुलिस के बर्बर दमन का सविस्तार वर्णन करें।",
+      "answer": "Subhas Chandra Bose led a huge patriotic procession toward the monument amidst heavy lathi charges by the police. Despite bleeding from injuries, Subhas Babu continuously shouted 'Vande Mataram' and urged volunteers to keep moving forward until he was arrested.",
+      "answerHi": "सुभाष चंद्र बोस के नेतृत्व में एक विशाल जुलूस मोन्यूमेंट की ओर बढ़ा। पुलिस ने जुलूस को रोकने के लिए भयानक लाठीचार्ज किया, जिसमें अनेक कार्यकर्ता और स्वयं सुभाष बाबू घायल हुए। सिर से खून बहने के बावजूद सुभाष बाबू पूरे जोश के साथ 'वंदे मातरम' का उद्घोष करते रहे और आगे बढ़ते रहे, अंततः पुलिस ने उन्हें गिरफ्तार कर लॉकअप में भेज दिया।",
+      "keyPoints": [
+        "सुभाष बाबू का साहसिक नेतृत्व (Courageous leadership of Subhas Babu)",
+        "'वंदे मातरम' का निरंतर उद्घोष (Continuous chanting of Vande Mataram despite injuries)",
+        "पुलिस द्वारा अमानवीय लाठीचार्ज एवं गिरफ्तारी (Brutal police lathi charge and arrest)"
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "value-based",
+      "marks": 5,
+      "difficulty": "Medium",
+      "question": "How does 'Diary Ka Ek Panna' inspire modern youth regarding national unity and duty towards the motherland?",
+      "questionHi": "'डायरी का एक पन्ना' पाठ आज के युवाओं को राष्ट्रीय एकता और मातृभूमि के प्रति कर्तव्य-बोध की क्या प्रेरणा देता है?",
+      "answer": "The chapter highlights that patriotism transcends individual safety. When citizens unite across genders and classes for the country's honor, no colonial force can suppress freedom.",
+      "answerHi": "यह पाठ हमें सिखाता है कि राष्ट्र की स्वतंत्रता और सम्मान व्यक्तिगत सुरक्षा से कहीं अधिक ऊपर हैं। जब समाज के सभी वर्ग—पुरुष, महिलाएं और युवा—एकजुट होकर निस्वार्थ भाव से देश के लिए बलिदान देने को तत्पर होते हैं, तो कोई भी दमनकारी शक्ति उन्हें झुका नहीं सकती।",
+      "keyPoints": [
+        "राष्ट्र सर्वोपरि (Nation above individual safety)",
+        "सामूहिक संगठन और एकता (Collective organization and unity)",
+        "नागरिक कर्तव्य और साहस (Civic duty and moral courage)"
+      ]
+    }
+  ]
+}
