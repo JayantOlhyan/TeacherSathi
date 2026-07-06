@@ -1,0 +1,486 @@
+{
+  "chapterTitle": "Sattriya and Bihu Nritya (Classical and Folk Dances of Assam)",
+  "chapterTitleHi": "सत्रिया और बिहू नृत्य (असम के शास्त्रीय और लोक नृत्य)",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Who is the founder of Sattriya dance?",
+      "questionHi": "सत्रिया नृत्य के संस्थापक कौन हैं?",
+      "answer": "Sattriya dance was founded by the great Vaishnavite saint and reformer Srimanta Sankardev in the 15th century in Assam.",
+      "answerHi": "सत्रिया नृत्य की स्थापना महान वैष्णव संत एवं समाज सुधारक श्रीमंत शंकरदेव ने 15वीं शताब्दी में असम में की थी।",
+      "keyPoints": [
+        "Founded by Srimanta Sankardev | श्रीमंत शंकरदेव द्वारा स्थापित",
+        "15th century origin | 15वीं शताब्दी में उत्पत्ति",
+        "Vaishnavite tradition | वैष्णव परंपरा",
+        "Assam's classical heritage | असम की शास्त्रीय विरासत"
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What is the meaning of 'Sattra' in Sattriya dance?",
+      "questionHi": "'सत्रिया' नृत्य में 'सत्र' का क्या अर्थ है?",
+      "answer": "A 'Sattra' is a Vaishnavite monastery in Assam. Sattriya dance was performed within these monasteries as part of religious rituals and devotional activities.",
+      "answerHi": "असम में 'सत्र' एक वैष्णव मठ को कहते हैं। सत्रिया नृत्य इन्हीं मठों में धार्मिक अनुष्ठानों और भक्ति कार्यक्रमों के एक भाग के रूप में प्रस्तुत किया जाता था।",
+      "keyPoints": [
+        "Sattra = Vaishnavite monastery | सत्र = वैष्णव मठ",
+        "Religious origin | धार्मिक उद्गम",
+        "Performed in sattras | मठों में प्रदर्शन",
+        "Devotional art form | भक्ति कला रूप"
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What does Bihu celebrate?",
+      "questionHi": "बिहू किसका उत्सव मनाता है?",
+      "answer": "Bihu celebrates the harvest season and the Assamese New Year. The most popular form, Rongali Bihu or Bohag Bihu, is celebrated in the spring to mark the beginning of the agricultural cycle.",
+      "answerHi": "बिहू फसल कटाई के मौसम और असमिया नव वर्ष का उत्सव मनाता है। इसका सबसे लोकप्रिय रूप, रंगाली बिहू या बोहाग बिहू, वसंत ऋतु में कृषि चक्र की शुरुआत के उपलक्ष्य में मनाया जाता है।",
+      "keyPoints": [
+        "Celebrates harvest and New Year | फसल और नव वर्ष का उत्सव",
+        "Rongali/Bohag Bihu in spring | वसंत में रंगाली/बोहाग बिहू",
+        "Agricultural festival | कृषि पर्व",
+        "Assamese culture | असमिया संस्कृति"
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Name the two main instruments used in Bihu dance.",
+      "questionHi": "बिहू नृत्य में प्रयुक्त दो मुख्य वाद्ययंत्रों के नाम बताइए।",
+      "answer": "The two main instruments used in Bihu dance are the Dhol (a barrel-shaped drum) and Pepa (a wind instrument made from the horn of a buffalo).",
+      "answerHi": "बिहू नृत्य में प्रयुक्त दो मुख्य वाद्ययंत्र हैं - ढोल (एक बड़ा नगाड़े जैसा वाद्य) और पेपा (भैंस के सींग से बना एक वायु वाद्य यंत्र)।",
+      "keyPoints": [
+        "Dhol – barrel drum | ढोल – नगाड़ा",
+        "Pepa – buffalo horn instrument | पेपा – भैंस के सींग का वाद्य",
+        "Energetic rhythms | ऊर्जावान लय",
+        "Folk music accompaniment | लोक संगीत संगत"
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "How many classical dances are recognized by India? Name any two.",
+      "questionHi": "भारत में कितने शास्त्रीय नृत्य मान्यता प्राप्त हैं? कोई दो के नाम बताइए।",
+      "answer": "India officially recognizes 8 classical dances. Two of them are Sattriya (Assam) and Bharatanatyam (Tamil Nadu).",
+      "answerHi": "भारत में आधिकारिक रूप से 8 शास्त्रीय नृत्यों को मान्यता प्राप्त है। उनमें से दो हैं - सत्रिया (असम) और भरतनाट्यम (तमिलनाडु)।",
+      "keyPoints": [
+        "8 classical dances in India | भारत में 8 शास्त्रीय नृत्य",
+        "Sattriya from Assam | असम से सत्रिया",
+        "Bharatanatyam from Tamil Nadu | तमिलनाडु से भरतनाट्यम",
+        "National cultural heritage | राष्ट्रीय सांस्कृतिक विरासत"
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Is Bihu a solo or group performance?",
+      "questionHi": "बिहू एकल है या समूह प्रदर्शन?",
+      "answer": "Bihu is primarily a group performance. It is performed by young men and women together, making it a vibrant and communal celebration.",
+      "answerHi": "बिहू मुख्यतः एक समूह प्रदर्शन है। इसे युवा पुरुष और महिलाएं मिलकर प्रस्तुत करते हैं, जिससे यह एक जीवंत और सामुदायिक उत्सव बन जाता है।",
+      "keyPoints": [
+        "Group/communal performance | सामूहिक प्रदर्शन",
+        "Performed by young men and women | युवा पुरुष-महिला दोनों",
+        "Lively and energetic | जीवंत और ऊर्जावान",
+        "Community celebration | सामुदायिक उत्सव"
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Which state of India do both Sattriya and Bihu belong to?",
+      "questionHi": "सत्रिया और बिहू दोनों भारत के किस राज्य से संबंधित हैं?",
+      "answer": "Both Sattriya and Bihu belong to the state of Assam in northeastern India.",
+      "answerHi": "सत्रिया और बिहू दोनों भारत के पूर्वोत्तर राज्य असम से संबंधित हैं।",
+      "keyPoints": [
+        "State: Assam | राज्य: असम",
+        "Northeastern India | पूर्वोत्तर भारत",
+        "Sattriya = classical | सत्रिया = शास्त्रीय",
+        "Bihu = folk | बिहू = लोक"
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What is the significance of colorful costumes in Bihu dance?",
+      "questionHi": "बिहू नृत्य में रंग-बिरंगी वेशभूषा का क्या महत्व है?",
+      "answer": "Colorful costumes in Bihu reflect the joy, festivity, and cultural richness of Assam. They represent the vibrant spirit of the harvest celebration and the happiness of the new year.",
+      "answerHi": "बिहू में रंग-बिरंगी वेशभूषा असम की खुशी, उत्सव-भावना और सांस्कृतिक समृद्धि को दर्शाती है। यह फसल उत्सव की जीवंत भावना और नव वर्ष की खुशी का प्रतीक है।",
+      "keyPoints": [
+        "Reflects joy and festivity | खुशी और उत्सव का प्रतीक",
+        "Cultural richness of Assam | असम की सांस्कृतिक समृद्धि",
+        "Harvest celebration spirit | फसल उत्सव की भावना",
+        "Identity and pride | पहचान और गर्व"
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "When was Sattriya dance included in India's list of classical dances?",
+      "questionHi": "सत्रिया नृत्य को भारत के शास्त्रीय नृत्यों की सूची में कब शामिल किया गया?",
+      "answer": "Sattriya dance was officially recognized as one of India's classical dances by the Sangeet Natak Akademi in the year 2000, more than 500 years after its creation.",
+      "answerHi": "सत्रिया नृत्य को संगीत नाटक अकादमी द्वारा वर्ष 2000 में भारत के शास्त्रीय नृत्यों में से एक के रूप में आधिकारिक मान्यता दी गई, इसकी उत्पत्ति के 500 से अधिक वर्षों बाद।",
+      "keyPoints": [
+        "Year 2000 recognition | वर्ष 2000 में मान्यता",
+        "Sangeet Natak Akademi | संगीत नाटक अकादमी",
+        "8th classical dance | आठवाँ शास्त्रीय नृत्य",
+        "Long-standing tradition | दीर्घकालीन परंपरा"
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "What is the connection between Sattriya dance and devotion?",
+      "questionHi": "सत्रिया नृत्य और भक्ति के बीच क्या संबंध है?",
+      "answer": "Sattriya dance is deeply rooted in devotion (bhakti) to Lord Vishnu/Krishna. It was originally performed in sattras (monasteries) as an act of worship and to spread Vaishnavite philosophy through movement and music.",
+      "answerHi": "सत्रिया नृत्य भगवान विष्णु/कृष्ण के प्रति भक्ति में गहराई से निहित है। यह मूलतः सत्रों (मठों) में पूजा के रूप में तथा नृत्य और संगीत के माध्यम से वैष्णव दर्शन का प्रचार करने हेतु प्रस्तुत किया जाता था।",
+      "keyPoints": [
+        "Bhakti (devotion) to Vishnu/Krishna | विष्णु/कृष्ण के प्रति भक्ति",
+        "Performed as worship | पूजा के रूप में प्रदर्शन",
+        "Spreads Vaishnavite philosophy | वैष्णव दर्शन का प्रसार",
+        "Spiritual and artistic union | आध्यात्मिक और कलात्मक संगम"
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Easy",
+      "question": "Describe the main features of Sattriya dance.",
+      "questionHi": "सत्रिया नृत्य की मुख्य विशेषताओं का वर्णन कीजिए।",
+      "answer": "Sattriya is a classical dance form of Assam founded by Srimanta Sankardev in the 15th century. Its main features include: (1) It originated in Vaishnavite monasteries (sattras) of Assam. (2) It combines dance, drama, and music. (3) It narrates stories from Hindu scriptures, especially about Lord Krishna and Vishnu. (4) It has strict rules (grammar) for hand gestures (mudras), body movements, and facial expressions. (5) It was recognized as India's 8th classical dance in 2000 by the Sangeet Natak Akademi.",
+      "answerHi": "सत्रिया असम का एक शास्त्रीय नृत्य है जिसकी स्थापना 15वीं शताब्दी में श्रीमंत शंकरदेव ने की थी। इसकी मुख्य विशेषताएँ हैं: (1) इसका उद्गम असम के वैष्णव मठों (सत्रों) में हुआ। (2) इसमें नृत्य, नाटक और संगीत का समन्वय है। (3) यह हिंदू शास्त्रों, विशेषकर भगवान कृष्ण और विष्णु की कथाओं पर आधारित है। (4) इसमें हस्त मुद्राओं, शारीरिक गतिविधियों और चेहरे के भावों के लिए कठोर नियम (व्याकरण) हैं। (5) इसे संगीत नाटक अकादमी द्वारा 2000 में भारत का 8वाँ शास्त्रीय नृत्य मान्यता दी गई।",
+      "keyPoints": [
+        "Founded by Sankardev in 15th century | 15वीं शताब्दी में शंकरदेव द्वारा स्थापित",
+        "Originated in Vaishnavite sattras | वैष्णव सत्रों में उद्गम",
+        "Combines dance, drama, music | नृत्य, नाटक, संगीत का संगम",
+        "Recognized as classical dance in 2000 | 2000 में शास्त्रीय नृत्य के रूप में मान्यता"
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Easy",
+      "question": "Describe the main features of Bihu dance.",
+      "questionHi": "बिहू नृत्य की मुख्य विशेषताओं का वर्णन कीजिए।",
+      "answer": "Bihu is a vibrant folk dance of Assam with the following main features: (1) It is performed to celebrate the harvest season and Assamese New Year (Bohag Bihu). (2) It is a group dance performed by both men and women. (3) Performers wear colorful traditional costumes. (4) The main instruments used are the Dhol (drum) and Pepa (buffalo horn). (5) The dance is energetic, joyful and reflects the happiness of farmers after a good harvest. (6) It represents the community spirit of Assam.",
+      "answerHi": "बिहू असम का एक जीवंत लोक नृत्य है जिसकी मुख्य विशेषताएँ हैं: (1) यह फसल कटाई और असमिया नव वर्ष (बोहाग बिहू) के उत्सव में किया जाता है। (2) यह पुरुषों और महिलाओं दोनों द्वारा प्रस्तुत समूह नृत्य है। (3) कलाकार रंग-बिरंगी पारंपरिक वेशभूषा पहनते हैं। (4) इसमें ढोल (नगाड़ा) और पेपा (भैंस के सींग का वाद्य) वाद्ययंत्र प्रयुक्त होते हैं। (5) यह नृत्य ऊर्जावान और आनंदपूर्ण है तथा अच्छी फसल के बाद किसानों की खुशी को दर्शाता है। (6) यह असम की सामुदायिक भावना का प्रतिनिधित्व करता है।",
+      "keyPoints": [
+        "Harvest and New Year festival | फसल और नव वर्ष का उत्सव",
+        "Group dance by men and women | पुरुष-महिला समूह नृत्य",
+        "Dhol and Pepa instruments | ढोल और पेपा वाद्य",
+        "Energetic and joyful | ऊर्जावान और आनंदपूर्ण"
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "How is Sattriya different from Bihu dance?",
+      "questionHi": "सत्रिया और बिहू नृत्य में क्या अंतर है?",
+      "answer": "Sattriya and Bihu differ in the following ways: (1) Sattriya is a classical dance while Bihu is a folk dance. (2) Sattriya originated in monasteries for religious purposes; Bihu is performed at community festivals. (3) Sattriya follows strict rules of movement (grammar); Bihu is freer and spontaneous. (4) Sattriya is performed by trained artists; Bihu is performed by common people. (5) Sattriya depicts stories from scriptures; Bihu celebrates harvest and nature.",
+      "answerHi": "सत्रिया और बिहू में निम्नलिखित अंतर हैं: (1) सत्रिया एक शास्त्रीय नृत्य है जबकि बिहू लोक नृत्य है। (2) सत्रिया का उद्गम धार्मिक उद्देश्यों के लिए मठों में हुआ; बिहू सामुदायिक उत्सवों में होता है। (3) सत्रिया में गति के कठोर नियम होते हैं; बिहू अधिक स्वतंत्र और स्वाभाविक है। (4) सत्रिया प्रशिक्षित कलाकारों द्वारा किया जाता है; बिहू आम लोगों द्वारा। (5) सत्रिया शास्त्रों की कथाएँ दर्शाता है; बिहू फसल और प्रकृति का उत्सव मनाता है।",
+      "keyPoints": [
+        "Sattriya = classical; Bihu = folk | सत्रिया = शास्त्रीय; बिहू = लोक",
+        "Religious vs festival origin | धार्मिक बनाम उत्सव उद्गम",
+        "Strict vs free movement | कठोर बनाम स्वतंत्र गति",
+        "Trained artists vs community | प्रशिक्षित कलाकार बनाम समुदाय"
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "What role did Srimanta Sankardev play in preserving Assamese culture?",
+      "questionHi": "असमिया संस्कृति के संरक्षण में श्रीमंत शंकरदेव की क्या भूमिका थी?",
+      "answer": "Srimanta Sankardev (15th-16th century) was a great saint-reformer who made enormous contributions to Assamese culture: (1) He founded Sattriya dance as a medium to spread devotion to Lord Vishnu. (2) He established sattras (monasteries) which became centers of art, culture, and education. (3) He composed devotional songs (borgeets) and wrote plays (ankia naats). (4) He promoted social equality and unity through art. (5) His works enriched Assamese literature, music, and performing arts for centuries.",
+      "answerHi": "श्रीमंत शंकरदेव (15वीं-16वीं शताब्दी) एक महान संत-सुधारक थे जिन्होंने असमिया संस्कृति में अभूतपूर्व योगदान दिया: (1) उन्होंने भगवान विष्णु के प्रति भक्ति का प्रसार करने के माध्यम के रूप में सत्रिया नृत्य की स्थापना की। (2) उन्होंने सत्रों (मठों) की स्थापना की जो कला, संस्कृति और शिक्षा के केंद्र बने। (3) उन्होंने भक्ति गीत (बरगीत) रचे और नाटक (अंकिया नाट) लिखे। (4) उन्होंने कला के माध्यम से सामाजिक समानता और एकता को बढ़ावा दिया। (5) उनकी रचनाओं ने सदियों तक असमिया साहित्य, संगीत और प्रदर्शन कलाओं को समृद्ध किया।",
+      "keyPoints": [
+        "Founded Sattriya dance | सत्रिया नृत्य की स्थापना",
+        "Established sattras as cultural centers | सांस्कृतिक केंद्र के रूप में सत्र",
+        "Composed borgeets and ankia naats | बरगीत और अंकिया नाट",
+        "Promoted social equality | सामाजिक समानता का प्रसार"
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Why is Bihu called a dance of nature and farmers?",
+      "questionHi": "बिहू को प्रकृति और किसानों का नृत्य क्यों कहते हैं?",
+      "answer": "Bihu is called a dance of nature and farmers because: (1) It is performed at the time of harvest, celebrating the abundance provided by nature. (2) It marks the beginning of the Assamese New Year when fields are full and nature is at its best. (3) The dance movements, songs, and music reflect joy of farmers who have worked hard on the fields. (4) It expresses gratitude to nature for good rainfall and crops. (5) The open-air group performance under trees and in fields further connects it to nature.",
+      "answerHi": "बिहू को प्रकृति और किसानों का नृत्य इसलिए कहते हैं क्योंकि: (1) यह फसल कटाई के समय किया जाता है, जो प्रकृति की दी हुई प्रचुरता का उत्सव है। (2) यह असमिया नव वर्ष के प्रारंभ पर होता है जब खेत भरे होते हैं और प्रकृति अपनी चरम पर होती है। (3) नृत्य की मुद्राएँ, गीत और संगीत खेतों पर कठोर परिश्रम करने वाले किसानों की खुशी को दर्शाते हैं। (4) यह अच्छी वर्षा और फसल के लिए प्रकृति के प्रति कृतज्ञता व्यक्त करता है। (5) वृक्षों के नीचे और खेतों में खुले आसमान के नीचे सामूहिक प्रदर्शन इसे प्रकृति से और जोड़ता है।",
+      "keyPoints": [
+        "Celebrates harvest abundance | फसल की प्रचुरता का उत्सव",
+        "Marks Assamese New Year | असमिया नव वर्ष का प्रारंभ",
+        "Farmers' joy and gratitude | किसानों की खुशी और कृतज्ञता",
+        "Open-air natural setting | खुले में प्रकृति की गोद में"
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "How do performing arts like Sattriya and Bihu promote national integration?",
+      "questionHi": "सत्रिया और बिहू जैसी प्रदर्शन कलाएँ राष्ट्रीय एकता को कैसे बढ़ावा देती हैं?",
+      "answer": "Sattriya and Bihu promote national integration in the following ways: (1) They introduce the culture, traditions, and values of Assam to people across India, fostering mutual understanding. (2) When performed at national events and festivals, they bring together audiences from different states. (3) They demonstrate that India's strength lies in its 'Unity in Diversity'. (4) Sattriya's classical status puts Assam on the same cultural platform as other states. (5) These art forms create a sense of pride and connection among all Indians.",
+      "answerHi": "सत्रिया और बिहू निम्नलिखित तरीकों से राष्ट्रीय एकता को बढ़ावा देते हैं: (1) वे असम की संस्कृति, परंपराओं और मूल्यों से पूरे भारत के लोगों को परिचित कराते हैं, जिससे आपसी समझ बढ़ती है। (2) राष्ट्रीय कार्यक्रमों और उत्सवों में प्रदर्शन के समय वे विभिन्न राज्यों के दर्शकों को एकजुट करते हैं। (3) वे यह दर्शाते हैं कि भारत की शक्ति उसकी 'विविधता में एकता' में निहित है। (4) सत्रिया की शास्त्रीय स्थिति असम को अन्य राज्यों के समान सांस्कृतिक मंच पर स्थापित करती है। (5) ये कला रूप सभी भारतीयों में गर्व और जुड़ाव की भावना उत्पन्न करते हैं।",
+      "keyPoints": [
+        "Mutual cultural understanding | आपसी सांस्कृतिक समझ",
+        "Unity in Diversity | विविधता में एकता",
+        "National platform for Assam | असम के लिए राष्ट्रीय मंच",
+        "Creates national pride | राष्ट्रीय गर्व की भावना"
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "What makes Sattriya unique among India's eight classical dances?",
+      "questionHi": "भारत के आठ शास्त्रीय नृत्यों में सत्रिया को क्या विशिष्ट बनाता है?",
+      "answer": "Sattriya is unique among India's classical dances for several reasons: (1) It is the only classical dance originating from the northeastern region of India (Assam). (2) It has a continuous, unbroken tradition of over 500 years, preserved by the sattras (monasteries). (3) It uniquely combines devotional, dramatic, and dance elements inspired by Vaishnavite philosophy. (4) It was the last of the eight classical dances to receive official recognition (in 2000). (5) It was originally meant only for monks inside monasteries but later opened to all.",
+      "answerHi": "सत्रिया कई कारणों से भारत के शास्त्रीय नृत्यों में विशिष्ट है: (1) यह भारत के पूर्वोत्तर क्षेत्र (असम) से उत्पन्न एकमात्र शास्त्रीय नृत्य है। (2) इसकी 500 वर्षों से अधिक की निरंतर, अटूट परंपरा है जिसे सत्रों (मठों) ने संरक्षित किया है। (3) यह वैष्णव दर्शन से प्रेरित भक्तिपूर्ण, नाटकीय और नृत्य तत्वों का अनूठा संयोजन है। (4) यह आठ शास्त्रीय नृत्यों में सबसे अंत में आधिकारिक मान्यता पाने वाला (2000 में) नृत्य है। (5) यह मूलतः केवल मठों के अंदर भिक्षुओं के लिए था, बाद में सभी के लिए खुला।",
+      "keyPoints": [
+        "Only classical dance from Northeast India | पूर्वोत्तर भारत का एकमात्र शास्त्रीय नृत्य",
+        "500+ years unbroken tradition | 500+ वर्षों की अटूट परंपरा",
+        "Devotion, drama, and dance combined | भक्ति, नाटक और नृत्य का संयोजन",
+        "Latest to receive classical recognition | अंतिम में शास्त्रीय मान्यता प्राप्त"
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "How does Bihu reflect the social values of Assamese society?",
+      "questionHi": "बिहू असमिया समाज के सामाजिक मूल्यों को किस प्रकार प्रतिबिंबित करता है?",
+      "answer": "Bihu reflects the social values of Assamese society in several ways: (1) It promotes equality as people from all castes and classes dance together. (2) It celebrates community bonding and togetherness. (3) The joint performance of young men and women reflects social openness and respect between genders. (4) The festival emphasizes gratitude and sharing, as people come together after the harvest to celebrate collectively. (5) It keeps alive the tradition of community arts and folk culture.",
+      "answerHi": "बिहू असमिया समाज के सामाजिक मूल्यों को निम्न प्रकार प्रतिबिंबित करता है: (1) यह समानता को बढ़ावा देता है क्योंकि सभी जातियों और वर्गों के लोग एकसाथ नृत्य करते हैं। (2) यह सामुदायिक जुड़ाव और एकजुटता का उत्सव मनाता है। (3) युवा पुरुषों और महिलाओं का संयुक्त प्रदर्शन सामाजिक खुलेपन और लिंगों के बीच सम्मान को दर्शाता है। (4) यह पर्व कृतज्ञता और बाँटने की भावना पर जोर देता है, क्योंकि फसल के बाद लोग सामूहिक रूप से जुलते हैं। (5) यह सामुदायिक कला और लोक संस्कृति की परंपरा को जीवित रखता है।",
+      "keyPoints": [
+        "Promotes social equality | सामाजिक समानता को बढ़ावा",
+        "Community bonding | सामुदायिक जुड़ाव",
+        "Gender respect and openness | लिंग सम्मान और खुलापन",
+        "Gratitude and sharing | कृतज्ञता और बाँटने की भावना"
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "Why is it important to preserve traditional art forms like Sattriya and Bihu for future generations?",
+      "questionHi": "भविष्य की पीढ़ियों के लिए सत्रिया और बिहू जैसी पारंपरिक कला विधाओं का संरक्षण क्यों आवश्यक है?",
+      "answer": "Preserving traditional art forms is important because: (1) They carry the cultural memory, history, and identity of a community. (2) They represent a people's relationship with nature, religion, and society. (3) They provide a sense of pride and rootedness in the younger generation. (4) They contribute to India's intangible cultural heritage and global identity. (5) In an age of globalization, they remind us of our unique traditions and prevent cultural erosion. (6) They provide livelihood to thousands of artists and craftspeople.",
+      "answerHi": "पारंपरिक कला विधाओं का संरक्षण इसलिए आवश्यक है क्योंकि: (1) वे एक समुदाय की सांस्कृतिक स्मृति, इतिहास और पहचान को वहन करती हैं। (2) वे लोगों के प्रकृति, धर्म और समाज के साथ संबंध को प्रस्तुत करती हैं। (3) वे युवा पीढ़ी में गर्व और जड़ों से जुड़ाव की भावना प्रदान करती हैं। (4) वे भारत की अमूर्त सांस्कृतिक विरासत और वैश्विक पहचान में योगदान करती हैं। (5) वैश्वीकरण के युग में वे हमें अपनी अनूठी परंपराओं की याद दिलाती हैं और सांस्कृतिक क्षरण को रोकती हैं। (6) वे हजारों कलाकारों और शिल्पकारों को आजीविका प्रदान करती हैं।",
+      "keyPoints": [
+        "Carries cultural identity | सांस्कृतिक पहचान को वहन करती हैं",
+        "Sense of pride in youth | युवाओं में गर्व की भावना",
+        "Part of intangible heritage | अमूर्त विरासत का हिस्सा",
+        "Prevents cultural erosion | सांस्कृतिक क्षरण रोकती हैं"
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "Compare the purpose of Sattriya dance in the past and its purpose today.",
+      "questionHi": "अतीत में सत्रिया नृत्य के उद्देश्य और आज के उद्देश्य की तुलना कीजिए।",
+      "answer": "Past purpose of Sattriya: (1) It was performed exclusively inside sattras (monasteries). (2) Its purpose was purely religious – to worship Lord Vishnu and spread Vaishnavite devotion. (3) Only monks and male disciples performed it. Present purpose of Sattriya: (1) It is now performed on national and international stages. (2) Its purpose has expanded to cultural preservation, artistic expression, and entertainment. (3) Both men and women from all backgrounds can learn and perform it. (4) It is now taught in dance schools and universities. Thus, while its spiritual root remains, Sattriya has evolved into a broader cultural ambassador for India.",
+      "answerHi": "सत्रिया का अतीत में उद्देश्य: (1) यह केवल सत्रों (मठों) के भीतर प्रस्तुत किया जाता था। (2) इसका उद्देश्य शुद्ध रूप से धार्मिक था – भगवान विष्णु की पूजा और वैष्णव भक्ति का प्रसार। (3) केवल भिक्षु और पुरुष शिष्य इसे प्रस्तुत करते थे। वर्तमान में सत्रिया का उद्देश्य: (1) अब यह राष्ट्रीय और अंतर्राष्ट्रीय मंचों पर प्रस्तुत किया जाता है। (2) इसका उद्देश्य सांस्कृतिक संरक्षण, कलात्मक अभिव्यक्ति और मनोरंजन तक विस्तृत हो गया है। (3) सभी पृष्ठभूमि के पुरुष और महिलाएँ इसे सीख और प्रस्तुत कर सकते हैं। (4) अब इसे नृत्य विद्यालयों और विश्वविद्यालयों में पढ़ाया जाता है। इस प्रकार, आध्यात्मिक जड़ बनाए रखते हुए, सत्रिया भारत के व्यापक सांस्कृतिक राजदूत के रूप में विकसित हो गया है।",
+      "keyPoints": [
+        "Past: only in monasteries, only men | अतीत: केवल मठों में, केवल पुरुष",
+        "Present: international stages, all genders | वर्तमान: अंतर्राष्ट्रीय मंच, सभी के लिए",
+        "Purpose expanded to cultural arts | उद्देश्य का विस्तार",
+        "Cultural ambassador of India | भारत का सांस्कृतिक राजदूत"
+      ]
+    },
+    {
+      "id": "q21",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "Write a detailed note on the origin and historical development of Sattriya dance.",
+      "questionHi": "सत्रिया नृत्य की उत्पत्ति और ऐतिहासिक विकास पर एक विस्तृत टिप्पणी लिखिए।",
+      "answer": "Origin and Historical Development of Sattriya Dance: Sattriya dance traces its origin to the 15th century in Assam, a state in northeastern India. It was created by the great Vaishnavite saint Srimanta Sankardev as part of his neo-Vaishnavite religious and social reform movement. Sankardev used dance, music, and drama as powerful tools to spread the message of bhakti (devotion) to Lord Vishnu among the common people. He established the first 'Sattra' (Vaishnavite monastery) and created Sattriya dance to be performed within these sattras as an act of worship. Initially, only male monks (bhaokots) were allowed to learn and perform it. The dance depicted stories from Hindu epics and Puranas, particularly from the life of Lord Krishna. Over the centuries, the dance tradition was carefully preserved by the sattras, which passed it from generation to generation. However, for many years it remained confined to the monasteries and was not widely known outside Assam. In the 20th century, a few dedicated artists worked to bring Sattriya to wider audiences. Their efforts bore fruit when the Sangeet Natak Akademi officially recognized Sattriya as India's 8th classical dance in the year 2000. Today, Sattriya is performed on national and international stages, taught in universities and dance schools, and is a proud symbol of Assam's rich cultural heritage.",
+      "answerHi": "सत्रिया नृत्य की उत्पत्ति और ऐतिहासिक विकास: सत्रिया नृत्य की उत्पत्ति 15वीं शताब्दी में पूर्वोत्तर भारत के राज्य असम में हुई। इसकी रचना महान वैष्णव संत श्रीमंत शंकरदेव ने अपने नव-वैष्णव धार्मिक और सामाजिक सुधार आंदोलन के एक भाग के रूप में की। शंकरदेव ने नृत्य, संगीत और नाटक को आम लोगों में भगवान विष्णु के प्रति भक्ति का संदेश फैलाने के शक्तिशाली माध्यम के रूप में उपयोग किया। उन्होंने पहले 'सत्र' (वैष्णव मठ) की स्थापना की और सत्रिया नृत्य की रचना पूजा के एक रूप के रूप में इन सत्रों के भीतर प्रस्तुत करने के लिए की। प्रारंभ में केवल पुरुष भिक्षुओं (भाओकतों) को इसे सीखने और प्रस्तुत करने की अनुमति थी। नृत्य में हिंदू महाकाव्यों और पुराणों, विशेष रूप से भगवान कृष्ण के जीवन की कथाओं को दर्शाया गया। शताब्दियों के दौरान, नृत्य परंपरा को सत्रों ने सावधानीपूर्वक संरक्षित किया जो इसे पीढ़ी-दर-पीढ़ी आगे बढ़ाते रहे। हालाँकि, कई वर्षों तक यह मठों तक सीमित रहा और असम के बाहर व्यापक रूप से ज्ञात नहीं था। 20वीं शताब्दी में, कुछ समर्पित कलाकारों ने सत्रिया को व्यापक दर्शकों तक पहुँचाने का काम किया। जब संगीत नाटक अकादमी ने वर्ष 2000 में सत्रिया को भारत के 8वें शास्त्रीय नृत्य के रूप में आधिकारिक मान्यता दी तो उनके प्रयास सफल हुए। आज, सत्रिया राष्ट्रीय और अंतर्राष्ट्रीय मंचों पर प्रस्तुत किया जाता है, विश्वविद्यालयों और नृत्य विद्यालयों में पढ़ाया जाता है, और असम की समृद्ध सांस्कृतिक विरासत का एक गौरवशाली प्रतीक है।",
+      "keyPoints": [
+        "Founded by Sankardev in 15th century Assam | 15वीं शताब्दी में शंकरदेव द्वारा स्थापित",
+        "Neo-Vaishnavite bhakti movement | नव-वैष्णव भक्ति आंदोलन",
+        "Preserved by sattras over 500 years | 500 वर्षों तक सत्रों द्वारा संरक्षित",
+        "Recognized as 8th classical dance in 2000 | 2000 में 8वाँ शास्त्रीय नृत्य मान्यता"
+      ]
+    },
+    {
+      "id": "q22",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "Write a descriptive essay on the celebration of Bihu, highlighting its cultural significance.",
+      "questionHi": "बिहू के उत्सव का वर्णन करते हुए एक वर्णनात्मक निबंध लिखिए जिसमें इसके सांस्कृतिक महत्व को उजागर किया गया हो।",
+      "answer": "The Celebration of Bihu and Its Cultural Significance: Bihu is the most beloved and widely celebrated festival of Assam. It is not merely a dance but an expression of an entire people's joy, identity, and relationship with nature. The most important of the three Bihus is Rongali Bihu or Bohag Bihu, celebrated in April, which marks the beginning of the Assamese New Year and the arrival of spring. As the harvest season ends and the fields are full, communities across Assam come together in open spaces, fields, and village squares to celebrate. Young men and women dressed in vibrant traditional costumes – the women in mekhela chadors (Assamese saree) and the men in dhotis and gamosas – perform the Bihu dance. The air is filled with the rhythmic beats of the dhol (drum) and the melodious tunes of the pepa (buffalo horn), the gogona, and the bahi (bamboo flute). The songs sung during Bihu are called Bihu geet. They speak of nature, love, the beauty of Assam, and the happiness of the season. The dance itself is energetic and spontaneous, with rapid movements, swinging hands, and vibrant expressions. Culturally, Bihu is deeply significant: it promotes gender harmony as men and women dance together, it reinforces community spirit, and it keeps alive folk music, costumes, and crafts. Bihu has also become a symbol of Assamese identity for Assamese people living across India and the world. In 2024, Bihu dance was inscribed on UNESCO's Representative List of the Intangible Cultural Heritage of Humanity, a recognition of its universal value.",
+      "answerHi": "बिहू उत्सव और उसका सांस्कृतिक महत्व: बिहू असम का सबसे प्रिय और व्यापक रूप से मनाया जाने वाला त्योहार है। यह केवल एक नृत्य नहीं बल्कि एक पूरे लोगों की खुशी, पहचान और प्रकृति के साथ संबंध की अभिव्यक्ति है। तीन बिहुओं में सबसे महत्वपूर्ण रंगाली बिहू या बोहाग बिहू है, जो अप्रैल में मनाया जाता है। यह असमिया नव वर्ष और वसंत के आगमन का प्रतीक है। जब फसल का मौसम समाप्त होता है और खेत भरे होते हैं, तो असम भर के समुदाय खुले मैदानों, खेतों और गाँव के चौराहों पर उत्सव मनाने के लिए एकत्रित होते हैं। जीवंत पारंपरिक वेशभूषा में सजे युवा पुरुष और महिलाएँ – महिलाएँ मेखला चादोर (असमिया साड़ी) में और पुरुष धोती और गमोसा में – बिहू नृत्य प्रस्तुत करते हैं। वातावरण ढोल की लयबद्ध थाप और पेपा (भैंस के सींग), गोगोना और बाही (बाँस की बाँसुरी) की मधुर धुनों से भर जाता है। बिहू के दौरान गाए जाने वाले गीतों को बिहू गीत कहते हैं। वे प्रकृति, प्रेम, असम की सुंदरता और मौसम की खुशी के बारे में बात करते हैं। नृत्य स्वयं ऊर्जावान और स्वाभाविक होता है, तेज गतिविधियों, घुमाते हुए हाथों और जीवंत भावों के साथ। सांस्कृतिक दृष्टि से, बिहू अत्यंत महत्वपूर्ण है: यह लिंग सद्भाव को बढ़ावा देता है क्योंकि पुरुष और महिलाएँ एकसाथ नृत्य करते हैं, यह सामुदायिक भावना को मजबूत करता है, और लोक संगीत, वेशभूषा और शिल्प को जीवित रखता है। बिहू भारत और विश्व भर में रहने वाले असमिया लोगों के लिए असमिया पहचान का प्रतीक भी बन गया है।",
+      "keyPoints": [
+        "Rongali Bihu in April – New Year | रंगाली बिहू अप्रैल में – नव वर्ष",
+        "Colorful costumes: mekhela chador, dhoti | रंगीन वेशभूषा: मेखला चादोर, धोती",
+        "Dhol, Pepa, Gogona instruments | ढोल, पेपा, गोगोना वाद्य",
+        "Symbol of Assamese identity | असमिया पहचान का प्रतीक"
+      ]
+    },
+    {
+      "id": "q23",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "How do folk dances and classical dances together represent the cultural richness of India? Use Bihu and Sattriya as examples.",
+      "questionHi": "लोक नृत्य और शास्त्रीय नृत्य मिलकर भारत की सांस्कृतिक समृद्धि को कैसे दर्शाते हैं? बिहू और सत्रिया को उदाहरण के रूप में प्रयोग कीजिए।",
+      "answer": "India's Cultural Richness Through Folk and Classical Dances: India is a land of extraordinary cultural diversity, and its dance traditions beautifully represent this richness. Folk dances and classical dances are two streams of this great tradition that complement each other. Classical dances like Sattriya are highly refined art forms governed by strict rules, grammar, and traditions. They are products of sustained artistic effort over centuries, nurtured in monasteries and royal courts. Sattriya, born in the sattras of Assam, represents the highest artistic expression of Assamese devotional culture. It demands years of dedicated training, and its performances are works of profound artistic depth. Folk dances like Bihu, on the other hand, are the spontaneous expressions of common people. They emerge from the lived experience of farmers, families, and communities. Bihu celebrates the joy of harvest and new year, involving no formal training – just the natural enthusiasm of people. Together, Sattriya and Bihu show that Assam's cultural heritage is both deep (classical) and wide (popular). At a national level, this is true of all of India: classical dances like Bharatanatyam, Kathak, Odissi, etc. represent the refined artistic tradition, while folk dances like Garba (Gujarat), Bhangra (Punjab), and Bihu (Assam) represent the living, breathing cultural life of the people. Both are essential; neither is complete without the other. They together create the magnificent tapestry of Indian culture that has endured for thousands of years and continues to evolve.",
+      "answerHi": "लोक और शास्त्रीय नृत्यों से भारत की सांस्कृतिक समृद्धि: भारत असाधारण सांस्कृतिक विविधता की भूमि है, और इसकी नृत्य परंपराएँ इस समृद्धि को सुंदर ढंग से प्रस्तुत करती हैं। लोक नृत्य और शास्त्रीय नृत्य इस महान परंपरा की दो धाराएँ हैं जो एक-दूसरे की पूरक हैं। सत्रिया जैसे शास्त्रीय नृत्य अत्यंत परिष्कृत कला रूप हैं जो कठोर नियमों, व्याकरण और परंपराओं द्वारा शासित हैं। ये सदियों के निरंतर कलात्मक प्रयास के परिणाम हैं, मठों और राजदरबारों में पोषित। असम के सत्रों में जन्मा सत्रिया असमिया भक्ति संस्कृति की सर्वोच्च कलात्मक अभिव्यक्ति का प्रतिनिधित्व करता है। इसके लिए वर्षों के समर्पित प्रशिक्षण की आवश्यकता होती है और इसके प्रदर्शन गहन कलात्मक गहराई के कार्य हैं। बिहू जैसे लोक नृत्य, दूसरी ओर, आम लोगों की स्वाभाविक अभिव्यक्ति हैं। ये किसानों, परिवारों और समुदायों के जीवित अनुभव से उत्पन्न होते हैं। बिहू फसल और नव वर्ष की खुशी का जश्न मनाता है, जिसमें कोई औपचारिक प्रशिक्षण नहीं - बस लोगों का प्राकृतिक उत्साह। एकसाथ, सत्रिया और बिहू दिखाते हैं कि असम की सांस्कृतिक विरासत दोनों गहरी (शास्त्रीय) और व्यापक (लोकप्रिय) है। राष्ट्रीय स्तर पर, यह पूरे भारत के लिए सच है: भरतनाट्यम, कथक, ओडिसी आदि जैसे शास्त्रीय नृत्य परिष्कृत कलात्मक परंपरा का प्रतिनिधित्व करते हैं, जबकि गरबा (गुजरात), भाँगड़ा (पंजाब) और बिहू (असम) जैसे लोक नृत्य लोगों के जीवंत सांस्कृतिक जीवन का। दोनों आवश्यक हैं; एक दूसरे के बिना अपूर्ण है।",
+      "keyPoints": [
+        "Classical = refined, rule-bound | शास्त्रीय = परिष्कृत, नियमबद्ध",
+        "Folk = spontaneous, community-based | लोक = स्वाभाविक, सामुदायिक",
+        "Both essential for cultural completeness | दोनों सांस्कृतिक पूर्णता के लिए आवश्यक",
+        "Together = Unity in Diversity of India | मिलकर = भारत की विविधता में एकता"
+      ]
+    },
+    {
+      "id": "q24",
+      "type": "value-based",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "What values can students learn from the tradition of Sattriya dance? How can these values be applied in daily life?",
+      "questionHi": "विद्यार्थी सत्रिया नृत्य की परंपरा से कौन से मूल्य सीख सकते हैं? इन मूल्यों को दैनिक जीवन में कैसे लागू किया जा सकता है?",
+      "answer": "Values Learned from Sattriya Dance: (1) Discipline and Dedication: Sattriya demands years of rigorous practice. Students can learn that mastery in any field requires sustained effort and discipline. Application: Regular study habits, punctuality, and not giving up on difficult subjects. (2) Devotion and Sincerity: The original purpose of Sattriya was devotion to God. Students can apply this as sincerity and wholehearted commitment to their goals. Application: Approaching studies, sports, and relationships with full sincerity. (3) Cultural Pride: Learning about Sattriya instills pride in India's cultural heritage. Application: Respecting and participating in local cultural events and traditions. (4) Patience and Perseverance: Sattriya artists practice for years before their first public performance. Students can learn the value of patience. Application: Not expecting instant results; working consistently towards long-term goals. (5) Humility: Great Sattriya artists remain humble and acknowledge their teachers. Students can practice gratitude towards teachers and parents.",
+      "answerHi": "सत्रिया नृत्य से सीखे जाने वाले मूल्य: (1) अनुशासन और समर्पण: सत्रिया के लिए वर्षों के कठोर अभ्यास की आवश्यकता होती है। विद्यार्थी सीख सकते हैं कि किसी भी क्षेत्र में निपुणता के लिए निरंतर प्रयास और अनुशासन आवश्यक है। अनुप्रयोग: नियमित अध्ययन की आदत, समयनिष्ठा और कठिन विषयों को न छोड़ना। (2) भक्ति और ईमानदारी: सत्रिया का मूल उद्देश्य ईश्वर के प्रति भक्ति था। विद्यार्थी इसे ईमानदारी और अपने लक्ष्यों के प्रति पूर्ण प्रतिबद्धता के रूप में लागू कर सकते हैं। अनुप्रयोग: अध्ययन, खेल और रिश्तों में पूरी ईमानदारी से काम करना। (3) सांस्कृतिक गर्व: सत्रिया के बारे में जानने से भारत की सांस्कृतिक विरासत पर गर्व होता है। अनुप्रयोग: स्थानीय सांस्कृतिक कार्यक्रमों और परंपराओं का सम्मान और उनमें भागीदारी। (4) धैर्य और दृढ़ता: सत्रिया कलाकार अपनी पहली सार्वजनिक प्रस्तुति से पहले वर्षों तक अभ्यास करते हैं। विद्यार्थी धैर्य का मूल्य सीख सकते हैं। अनुप्रयोग: तत्काल परिणाम की उम्मीद न करना; दीर्घकालिक लक्ष्यों की दिशा में लगातार काम करना। (5) विनम्रता: महान सत्रिया कलाकार विनम्र रहते हैं और अपने गुरुओं को स्वीकार करते हैं। विद्यार्थी शिक्षकों और माता-पिता के प्रति कृतज्ञता का अभ्यास कर सकते हैं।",
+      "keyPoints": [
+        "Discipline and dedication in practice | अभ्यास में अनुशासन और समर्पण",
+        "Sincerity in all endeavors | सभी कार्यों में ईमानदारी",
+        "Cultural pride and respect | सांस्कृतिक गर्व और सम्मान",
+        "Patience for long-term goals | दीर्घकालिक लक्ष्यों के लिए धैर्य"
+      ]
+    },
+    {
+      "id": "q25",
+      "type": "case-study",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Read the following passage and answer: 'Priya, a student from Delhi, visited Assam during the Bihu festival. She was amazed to see thousands of people – young and old, from all communities – dancing together in colorful costumes to the beating of dhols. Later, she attended a Sattriya performance at a cultural center and was struck by its precision and grace. She told her friends back home: \"I feel I have seen two different Indias – one so joyful and spontaneous, the other so disciplined and artistic – but both so beautiful.\"' (a) What is the difference between the two types of dances Priya saw? (b) What message does her observation give about India's cultural diversity?",
+      "questionHi": "निम्नलिखित गद्यांश पढ़िए और उत्तर दीजिए: 'दिल्ली की छात्रा प्रिया बिहू उत्सव के दौरान असम गई। उसने हजारों लोगों को – बूढ़े और युवा, सभी समुदायों से – ढोल की थाप पर रंग-बिरंगी वेशभूषा में एकसाथ नृत्य करते देखकर आश्चर्यचकित हो गई। बाद में, उसने एक सांस्कृतिक केंद्र में सत्रिया प्रदर्शन में भाग लिया और उसकी सटीकता और सुंदरता से प्रभावित हुई। उसने घर पर अपने दोस्तों को बताया: \"मुझे लगता है कि मैंने दो अलग-अलग भारत देखे हैं – एक इतना आनंदपूर्ण और स्वाभाविक, दूसरा इतना अनुशासित और कलात्मक – लेकिन दोनों इतने सुंदर।\"' (क) प्रिया ने जो दो प्रकार के नृत्य देखे, उनमें क्या अंतर था? (ख) उसकी टिप्पणी भारत की सांस्कृतिक विविधता के बारे में क्या संदेश देती है?",
+      "answer": "(a) Difference between the two dances: Bihu (which Priya saw at the festival) is a folk dance – joyful, spontaneous, performed by ordinary people of all ages and communities without formal training. It celebrates harvest and community spirit. Sattriya (which she saw at the cultural center) is a classical dance – highly disciplined, precise, performed by trained artists following strict rules of movement, expression, and music. It has religious and artistic depth developed over centuries. (b) Message about India's Cultural Diversity: Priya's observation beautifully captures India's 'Unity in Diversity'. India is home to both the refined classical arts and the vibrant folk traditions. The fact that both these different expressions co-exist and thrive in the same state (Assam) shows how Indian culture is layered, deep, and rich. Her experience teaches us that diversity is India's strength, not weakness. By celebrating both classical and folk arts, India honors all its people – the learned artist and the everyday farmer – equally.",
+      "answerHi": "(क) दो नृत्यों में अंतर: बिहू (जो प्रिया ने उत्सव में देखा) एक लोक नृत्य है – आनंदपूर्ण, स्वाभाविक, बिना औपचारिक प्रशिक्षण के सभी उम्र और समुदायों के सामान्य लोगों द्वारा प्रस्तुत। यह फसल और सामुदायिक भावना का उत्सव है। सत्रिया (जो उसने सांस्कृतिक केंद्र में देखा) एक शास्त्रीय नृत्य है – अत्यंत अनुशासित, सटीक, आंदोलन, अभिव्यक्ति और संगीत के कठोर नियमों का पालन करते हुए प्रशिक्षित कलाकारों द्वारा प्रस्तुत। इसमें सदियों से विकसित धार्मिक और कलात्मक गहराई है। (ख) भारत की सांस्कृतिक विविधता के बारे में संदेश: प्रिया की टिप्पणी भारत की 'विविधता में एकता' को खूबसूरती से दर्शाती है। भारत परिष्कृत शास्त्रीय कला और जीवंत लोक परंपराओं दोनों का घर है। यह तथ्य कि ये दोनों अलग-अलग अभिव्यक्तियाँ एक ही राज्य (असम) में सह-अस्तित्व में हैं और फलती-फूलती हैं, दिखाता है कि भारतीय संस्कृति कितनी बहुस्तरीय, गहरी और समृद्ध है।",
+      "keyPoints": [
+        "Bihu = folk, spontaneous | बिहू = लोक, स्वाभाविक",
+        "Sattriya = classical, disciplined | सत्रिया = शास्त्रीय, अनुशासित",
+        "Unity in Diversity message | विविधता में एकता का संदेश",
+        "Both expressions equally valued | दोनों अभिव्यक्तियाँ समान रूप से मूल्यवान"
+      ]
+    },
+    {
+      "id": "q26",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "Imagine you are a journalist writing a report on the Bihu festival for a national newspaper. Write the report in your own words.",
+      "questionHi": "कल्पना कीजिए कि आप एक राष्ट्रीय समाचार पत्र के लिए बिहू उत्सव पर एक रिपोर्ट लिख रहे पत्रकार हैं। अपने शब्दों में रिपोर्ट लिखिए।",
+      "answer": "Headline: Assam's Soul Dances in Spring – Rongali Bihu 2025 Celebrated with Unprecedented Fervor\n\nGuwahati, April 15: The air of Assam rang with the heartbeat of the dhol and the sweet cry of the pepa this week as millions of Assamese people celebrated Rongali Bihu, the most festive occasion of their cultural calendar. From the fields of Sibsagar to the ghats of the Brahmaputra, Assam burst into color and rhythm to welcome the new year. Groups of young men and women, dressed in the traditional mekhela chador and dhoti-gamosa, gathered in open grounds, parks, and community spaces to perform the Bihu dance. The performances were spontaneous, joyful, and deeply moving. 'Bihu is in our blood,' said Rupali Bora, a 22-year-old dancer from Jorhat. 'It is not something we learn – it is something we feel.' The festival, which marks the end of the harvest season and the beginning of the Assamese New Year, was celebrated with song, dance, feasting, and the exchange of gamosas (traditional Assamese towels). Cultural programs were organized across the state, with Bihu competitions attracting thousands of participants. Senior artists and folklorists emphasized the need to preserve this living tradition for future generations. Bihu is not just Assam's festival – it is India's pride, they said. As night fell, the lights of Guwahati reflected in the Brahmaputra, and the songs of Bihu filled the air. Assam had once again danced its way into the new year.",
+      "answerHi": "शीर्षक: वसंत में असम की आत्मा नाचती है – रंगाली बिहू 2025 का अभूतपूर्व उत्साह से स्वागत\n\nगुवाहाटी, 15 अप्रैल: इस सप्ताह असम की हवा ढोल की धड़कन और पेपा की मीठी ध्वनि से गूँज उठी जब लाखों असमिया लोगों ने रंगाली बिहू मनाया – अपने सांस्कृतिक कैलेंडर का सबसे उत्सवपूर्ण अवसर। सिबसागर के खेतों से ब्रह्मपुत्र के घाटों तक, असम नव वर्ष का स्वागत करने के लिए रंग और ताल में डूब गया। पारंपरिक मेखला चादोर और धोती-गमोसा में सजे युवा पुरुषों और महिलाओं के समूह बिहू नृत्य प्रस्तुत करने के लिए खुले मैदानों, पार्कों और सामुदायिक स्थानों में एकत्रित हुए। प्रदर्शन स्वाभाविक, आनंदपूर्ण और गहराई से मार्मिक थे। 'बिहू हमारे खून में है,' जोरहाट की 22 वर्षीया नर्तकी रूपाली बोरा ने कहा। 'यह कुछ ऐसा नहीं है जो हम सीखते हैं – यह कुछ ऐसा है जो हम महसूस करते हैं।' यह उत्सव, जो फसल के मौसम के अंत और असमिया नव वर्ष की शुरुआत का प्रतीक है, गीत, नृत्य, भोज और गमोसा (पारंपरिक असमिया तौलिया) के आदान-प्रदान के साथ मनाया गया।",
+      "keyPoints": [
+        "Rongali Bihu marks Assamese New Year | रंगाली बिहू = असमिया नव वर्ष",
+        "Traditional costumes: mekhela, gamosa | मेखला, गमोसा – पारंपरिक वेशभूषा",
+        "Community spirit and spontaneity | सामुदायिक भावना और स्वाभाविकता",
+        "Living tradition for future generations | भविष्य के लिए जीवित परंपरा"
+      ]
+    },
+    {
+      "id": "q27",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "What is the significance of including regional art forms in the national curriculum? Discuss with reference to Sattriya and Bihu.",
+      "questionHi": "राष्ट्रीय पाठ्यक्रम में क्षेत्रीय कला विधाओं को शामिल करने का क्या महत्व है? सत्रिया और बिहू के संदर्भ में चर्चा कीजिए।",
+      "answer": "Significance of Including Regional Art Forms in the National Curriculum: Including regional art forms like Sattriya and Bihu in the national curriculum is of immense educational and cultural importance. (1) Cultural Awareness: When students across India study Sattriya and Bihu, they learn about the rich culture of Assam and northeastern India, developing empathy and appreciation for communities different from their own. (2) National Integration: Exposure to diverse regional arts creates a sense of shared Indian identity. Students realize that India's strength lies in its diversity, fostering unity. (3) Preservation of Heritage: By including these art forms in education, we ensure that knowledge of them is passed to future generations, preventing their disappearance. (4) Identity and Pride: For Assamese students, seeing their own culture represented in national textbooks gives them a sense of pride and belonging. (5) Holistic Education: Art education develops creativity, emotional intelligence, cultural sensitivity, and aesthetic appreciation – qualities important beyond academic knowledge. (6) Career Opportunities: Familiarity with classical and folk arts opens career paths in performance, teaching, cultural tourism, and art management. In conclusion, the NCERT's decision to include Sattriya and Bihu in Class 6 Hindi textbooks is a commendable step towards building culturally aware, sensitive, and united Indian citizens.",
+      "answerHi": "राष्ट्रीय पाठ्यक्रम में क्षेत्रीय कला विधाओं को शामिल करने का महत्व: सत्रिया और बिहू जैसी क्षेत्रीय कला विधाओं को राष्ट्रीय पाठ्यक्रम में शामिल करना शैक्षिक और सांस्कृतिक दृष्टि से अत्यंत महत्वपूर्ण है। (1) सांस्कृतिक जागरूकता: जब भारत भर के विद्यार्थी सत्रिया और बिहू के बारे में पढ़ते हैं, तो वे असम और पूर्वोत्तर भारत की समृद्ध संस्कृति के बारे में सीखते हैं। (2) राष्ट्रीय एकता: विविध क्षेत्रीय कलाओं से परिचय एक साझा भारतीय पहचान की भावना उत्पन्न करता है। (3) विरासत का संरक्षण: इन कला विधाओं को शिक्षा में शामिल करने से यह सुनिश्चित होता है कि उनका ज्ञान भावी पीढ़ियों तक पहुँचे। (4) पहचान और गर्व: असमिया विद्यार्थियों के लिए, अपनी संस्कृति को राष्ट्रीय पाठ्यपुस्तकों में देखकर गर्व और अपनेपन की भावना मिलती है। (5) समग्र शिक्षा: कला शिक्षा रचनात्मकता, भावनात्मक बुद्धिमत्ता और सांस्कृतिक संवेदनशीलता विकसित करती है। (6) करियर के अवसर: शास्त्रीय और लोक कलाओं से परिचय प्रदर्शन, शिक्षण और सांस्कृतिक पर्यटन में करियर के रास्ते खोलता है।",
+      "keyPoints": [
+        "Builds cultural awareness | सांस्कृतिक जागरूकता बनाता है",
+        "Fosters national integration | राष्ट्रीय एकता को बढ़ावा",
+        "Preserves heritage for future | भविष्य के लिए विरासत संरक्षण",
+        "Holistic and identity-based education | समग्र और पहचान आधारित शिक्षा"
+      ]
+    },
+    {
+      "id": "q28",
+      "type": "value-based",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Bihu brings together people of all communities and ages. What value does this teach us? How can we apply this in our school life?",
+      "questionHi": "बिहू सभी समुदायों और उम्र के लोगों को एकसाथ लाता है। इससे हम क्या मूल्य सीखते हैं? इसे हम अपने विद्यालय जीवन में कैसे लागू कर सकते हैं?",
+      "answer": "Value Taught by Bihu's Inclusive Spirit: The most important value that Bihu teaches us is the value of Inclusivity and Community. When thousands of people – regardless of their age, gender, social background, or community – gather to dance and celebrate together, it sends a powerful message: that joy is most meaningful when it is shared, and that divisions of caste, class, or region have no place in genuine celebration. This is the essence of the Indian value of 'Vasudhaiva Kutumbakam' (the world is one family). Application in School Life: (1) Inclusivity: Include all classmates in group activities and projects, never excluding anyone based on their background, language, or ability. (2) Teamwork: Just as Bihu works because everyone dances together, school team projects succeed when every member contributes. (3) Cultural Celebrations: Participate enthusiastically in school cultural programs that showcase different traditions, and encourage classmates from other states to share their culture. (4) Breaking Prejudices: The fact that Bihu brings together people of all communities teaches us to overcome prejudice and see every person as equal. (5) Joyful Learning: Bihu's spirit of joy can be brought to classrooms – learning together with enthusiasm makes education more effective and memorable.",
+      "answerHi": "बिहू की समावेशी भावना से सीखा गया मूल्य: बिहू जो सबसे महत्वपूर्ण मूल्य सिखाता है वह है समावेशिता और समुदाय का मूल्य। जब हजारों लोग – उम्र, लिंग, सामाजिक पृष्ठभूमि या समुदाय की परवाह किए बिना – एकसाथ नृत्य और उत्सव के लिए इकट्ठा होते हैं, तो यह एक शक्तिशाली संदेश देता है: खुशी सबसे अर्थपूर्ण तब होती है जब इसे साझा किया जाता है। यह 'वसुधैव कुटुंबकम' (विश्व एक परिवार है) के भारतीय मूल्य का सार है। विद्यालय जीवन में अनुप्रयोग: (1) समावेशिता: सभी सहपाठियों को समूह गतिविधियों और परियोजनाओं में शामिल करें, कभी भी किसी को उनकी पृष्ठभूमि, भाषा या क्षमता के आधार पर बाहर न करें। (2) टीमवर्क: जिस तरह बिहू तब काम करता है जब सभी एकसाथ नृत्य करते हैं, विद्यालय की टीम परियोजनाएँ सफल होती हैं जब प्रत्येक सदस्य योगदान करता है। (3) सांस्कृतिक उत्सव: विभिन्न परंपराओं को प्रदर्शित करने वाले विद्यालय सांस्कृतिक कार्यक्रमों में उत्साहपूर्वक भाग लें। (4) पूर्वाग्रहों को तोड़ना: बिहू का यह तथ्य कि यह सभी समुदायों के लोगों को एकसाथ लाता है, हमें पूर्वाग्रह से ऊपर उठना सिखाता है।",
+      "keyPoints": [
+        "Inclusivity: all communities welcome | समावेशिता: सभी समुदायों का स्वागत",
+        "Vasudhaiva Kutumbakam | वसुधैव कुटुंबकम",
+        "Teamwork in school projects | विद्यालय परियोजनाओं में टीमवर्क",
+        "Breaking prejudice, celebrating diversity | पूर्वाग्रह तोड़ना, विविधता मनाना"
+      ]
+    },
+    {
+      "id": "q29",
+      "type": "case-study",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Study the following table and answer the questions:\n| Feature | Sattriya | Bihu |\n|---|---|---|  \n| Type | Classical | Folk |\n| Origin | 15th century sattras | Ancient agricultural tradition |\n| Founder | Srimanta Sankardev | Community tradition |\n| Theme | Devotion, Krishna's stories | Harvest, New Year |\n| Performers | Trained artists | All community members |\n| Instruments | Khol, Pathor, flute | Dhol, Pepa, Gogona |\n\n(a) Which dance is more accessible to ordinary people and why? (b) Both dances are from Assam but are very different. What does this tell you about Assam's culture?",
+      "questionHi": "निम्नलिखित तालिका का अध्ययन करें और प्रश्नों के उत्तर दीजिए:\n| विशेषता | सत्रिया | बिहू |\n|---|---|---|\n| प्रकार | शास्त्रीय | लोक |\n| उद्गम | 15वीं शताब्दी के सत्र | प्राचीन कृषि परंपरा |\n| संस्थापक | श्रीमंत शंकरदेव | सामुदायिक परंपरा |\n| विषय | भक्ति, कृष्ण की कथाएँ | फसल, नव वर्ष |\n| कलाकार | प्रशिक्षित कलाकार | सभी सामुदायिक सदस्य |\n| वाद्ययंत्र | खोल, पाथोर, बाँसुरी | ढोल, पेपा, गोगोना |\n\n(क) कौन सा नृत्य सामान्य लोगों के लिए अधिक सुलभ है और क्यों? (ख) दोनों नृत्य असम से हैं लेकिन बहुत भिन्न हैं। यह असम की संस्कृति के बारे में क्या बताता है?",
+      "answer": "(a) Bihu is more accessible to ordinary people because: (i) It requires no formal training – anyone can learn and participate. (ii) It is performed by all community members regardless of age, gender, or social background. (iii) Its themes of harvest and new year celebration are part of everyday life. (iv) It uses instruments like the dhol that are widely available and played in communities. Sattriya, while beautiful and profound, requires years of formal training under a trained guru, making it more exclusive. (b) What this tells us about Assam's culture: The fact that Assam has produced both a highly refined classical dance (Sattriya) and a vibrant folk dance (Bihu) shows that Assamese culture is extraordinarily rich and layered. It has both the intellectual depth of a centuries-old classical tradition and the joyful spontaneity of a community living in harmony with nature. This tells us that Assamese culture, like all great cultures, contains multitudes – it honors both the saint's devotion (Sattriya) and the farmer's joy (Bihu). It is a culture that is simultaneously ancient and alive, formal and free.",
+      "answerHi": "(क) बिहू सामान्य लोगों के लिए अधिक सुलभ है क्योंकि: (i) इसके लिए कोई औपचारिक प्रशिक्षण आवश्यक नहीं – कोई भी सीख और भाग ले सकता है। (ii) यह उम्र, लिंग या सामाजिक पृष्ठभूमि की परवाह किए बिना सभी सामुदायिक सदस्यों द्वारा प्रस्तुत किया जाता है। (iii) इसके फसल और नव वर्ष उत्सव के विषय रोजमर्रा की जिंदगी का हिस्सा हैं। (iv) यह ढोल जैसे वाद्ययंत्रों का उपयोग करता है जो समुदायों में व्यापक रूप से उपलब्ध हैं। (ख) असम की संस्कृति के बारे में यह क्या बताता है: यह तथ्य कि असम ने एक अत्यंत परिष्कृत शास्त्रीय नृत्य (सत्रिया) और एक जीवंत लोक नृत्य (बिहू) दोनों को उत्पन्न किया है, यह दर्शाता है कि असमिया संस्कृति असाधारण रूप से समृद्ध और बहुस्तरीय है। इसमें सदियों पुरानी शास्त्रीय परंपरा की बौद्धिक गहराई और प्रकृति के साथ सामंजस्य में जीवन की आनंदपूर्ण स्वाभाविकता दोनों हैं।",
+      "keyPoints": [
+        "Bihu accessible – no training needed | बिहू सुलभ – प्रशिक्षण अनावश्यक",
+        "Sattriya exclusive – formal guru training | सत्रिया – गुरु प्रशिक्षण अनिवार्य",
+        "Assam's culture is layered and rich | असमिया संस्कृति बहुस्तरीय और समृद्ध",
+        "Classical depth + folk spontaneity | शास्त्रीय गहराई + लोक स्वाभाविकता"
+      ]
+    },
+    {
+      "id": "q30",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Write a speech to be delivered on India's National Culture Day about why preserving both classical and folk dance traditions is essential for India's identity.",
+      "questionHi": "भारत के राष्ट्रीय संस्कृति दिवस पर दिए जाने वाले भाषण की रचना करें जिसमें यह स्पष्ट हो कि शास्त्रीय और लोक दोनों नृत्य परंपराओं का संरक्षण भारत की पहचान के लिए क्यों आवश्यक है।",
+      "answer": "Speech: Preserving India's Dance Heritage – Our Duty, Our Pride\n\nRespected Principal, dear teachers, and my fellow students,\n\nToday, on India's National Culture Day, I want to speak about something that is close to our hearts – the dance traditions of our magnificent country. India is home to 8 classical dances and hundreds of folk dances. From the devotional grace of Sattriya to the harvest joy of Bihu, from the storytelling beauty of Bharatanatyam to the earthy energy of Bhangra – each dance form is a window into the soul of a people. These are not merely entertainment; they are living archives of history, philosophy, and community life. Why must we preserve them? Because when a dance form disappears, a language of the heart is lost forever. Because in the mudras of Sattriya, we hear the prayers of Srimanta Sankardev. In the beats of the Bihu dhol, we feel the joy of an Assamese farmer after a good harvest. Classical dances like Sattriya are India's gift to world civilization – works of artistic refinement comparable to anything in the world. Folk dances like Bihu are the lifeblood of our communities – keeping alive the spirit of celebration and togetherness. We, the young students of India, must be the guardians of this heritage. Let us learn about these arts, attend cultural festivals, and encourage our friends to do the same. Let us remember that a nation's greatness is not only measured by its economy or military power, but by the richness of its culture and the depth of its arts. Jai Hind! Jai Bharat!",
+      "answerHi": "भाषण: भारत की नृत्य विरासत का संरक्षण – हमारा कर्तव्य, हमारा गर्व\n\nआदरणीय प्राचार्य, प्रिय शिक्षकगण और मेरे प्रिय साथियो,\n\nआज, भारत के राष्ट्रीय संस्कृति दिवस पर, मैं कुछ ऐसा कहना चाहता/चाहती हूँ जो हमारे दिल के करीब है – हमारे महान देश की नृत्य परंपराएँ। भारत में 8 शास्त्रीय नृत्य और सैकड़ों लोक नृत्य हैं। सत्रिया की भक्तिपूर्ण सुंदरता से बिहू की फसल की खुशी तक – प्रत्येक नृत्य एक लोगों की आत्मा की खिड़की है। ये केवल मनोरंजन नहीं हैं; ये इतिहास, दर्शन और सामुदायिक जीवन के जीवित संग्रह हैं। हम उन्हें क्यों संरक्षित करें? क्योंकि जब एक नृत्य रूप विलुप्त होता है, तो हृदय की एक भाषा हमेशा के लिए खो जाती है। सत्रिया की मुद्राओं में, हम श्रीमंत शंकरदेव की प्रार्थनाएँ सुनते हैं। बिहू के ढोल की थाप में, हम अच्छी फसल के बाद एक असमिया किसान की खुशी महसूस करते हैं। हम, भारत के युवा विद्यार्थी, इस विरासत के संरक्षक हैं। जय हिंद! जय भारत!",
+      "keyPoints": [
+        "Dance as living archive of civilization | नृत्य – सभ्यता का जीवित संग्रह",
+        "Classical arts = India's gift to world | शास्त्रीय कला = भारत का विश्व को उपहार",
+        "Folk arts = community lifeblood | लोक कला = समुदाय की जीवनधारा",
+        "Youth as guardians of heritage | युवा – विरासत के संरक्षक"
+      ]
+    }
+  ]
+}
