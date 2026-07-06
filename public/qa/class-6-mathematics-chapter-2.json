@@ -1,0 +1,469 @@
+{
+  "chapterTitle": "Lines and Angles",
+  "chapterTitleHi": "रेखाएँ और कोण",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Differentiate between a line segment, a ray, and a line.",
+      "questionHi": "रेखाखंड (Line Segment), किरण (Ray) और रेखा (Line) के बीच अंतर स्पष्ट कीजिए।",
+      "answer": "A line segment has two fixed endpoints and a definite length. A ray has only one starting endpoint and extends infinitely in one direction. A line has no endpoints and extends infinitely in both opposite directions.",
+      "answerHi": "रेखाखंड के दो निश्चित अंत बिंदु (Endpoints) होते हैं और इसकी लंबाई निश्चित होती है। किरण का केवल एक प्रारंभिक बिंदु होता है और यह एक दिशा में अनंत तक बढ़ती है। रेखा का कोई अंत बिंदु नहीं होता और यह दोनों विपरीत दिशाओं में अनंत तक बढ़ती है।",
+      "keyPoints": [
+        "रेखाखंड: दो अंत बिंदु, निश्चित लंबाई (Line segment: 2 endpoints, definite length)",
+        "किरण: एक प्रारंभिक बिंदु, एक दिशा में अनंत (Ray: 1 endpoint, infinite in one direction)",
+        "रेखा: कोई अंत बिंदु नहीं, दोनों दिशाओं में अनंत (Line: no endpoints, infinite in both directions)"
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Define intersecting lines and parallel lines with one daily-life example for each.",
+      "questionHi": "प्रतिच्छेदी रेखाओं (Intersecting Lines) और समांतर रेखाओं (Parallel Lines) को परिभाषित कीजिए तथा प्रत्येक का दैनिक जीवन से एक उदाहरण दीजिए।",
+      "answer": "Intersecting lines are two lines that cross or meet each other at a single common point (e.g., the blades of a pair of scissors). Parallel lines are lines in the same plane that never meet, no matter how far they are extended (e.g., the opposite edges of a ruler or railway tracks).",
+      "answerHi": "प्रतिच्छेदी रेखाएँ वे दो रेखाएँ हैं जो एक-दूसरे को किसी एक उभयनिष्ठ बिंदु पर काटती या मिलती हैं (जैसे: कैंची के फलक)। समांतर रेखाएँ एक ही समतल में स्थित वे रेखाएँ हैं जो कभी नहीं मिलतीं, चाहे उन्हें कितना भी आगे बढ़ाया जाए (जैसे: पटरी/स्केल के विपरीत किनारे या रेल की पटरियाँ)।",
+      "keyPoints": [
+        "प्रतिच्छेदी रेखाएँ: एक उभयनिष्ठ कटान बिंदु (Intersecting: cross at one common point)",
+        "समांतर रेखाएँ: कभी नहीं मिलतीं, बीच की दूरी समान (Parallel: never meet, constant distance)",
+        "उदाहरण: कैंची (प्रतिच्छेदी), रेल की पटरी (समांतर) (Examples: scissors vs railway tracks)"
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What is an angle? Name the vertex and the two arms of an angle ABC.",
+      "questionHi": "कोण (Angle) क्या है? कोण ABC के शीर्ष (Vertex) और दोनों भुजाओं (Arms) के नाम लिखिए।",
+      "answer": "An angle is a geometric figure formed when two rays originate from a common starting point. In angle ABC (or ∠ABC), the common starting point B is called the vertex, and the two rays BA and BC are called the arms or sides of the angle.",
+      "answerHi": "कोण एक ऐसी ज्यामितीय आकृति है जो तब बनती है जब दो किरणें एक ही प्रारंभिक बिंदु से निकलती हैं। कोण ABC (∠ABC) में, उभयनिष्ठ प्रारंभिक बिंदु B को शीर्ष (वर्गीकरण) कहा जाता है, तथा दोनों किरणों BA और BC को कोण की भुजाएँ कहा जाता है।",
+      "keyPoints": [
+        "कोण: एक ही बिंदु से निकलने वाली दो किरणें (Angle: formed by two rays with a common endpoint)",
+        "शीर्ष: उभयनिष्ठ बिंदु B (Vertex: common endpoint B)",
+        "भुजाएँ: किरण BA और किरण BC (Arms: rays BA and BC)"
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Define an acute angle, a right angle, and an obtuse angle with their degree ranges.",
+      "questionHi": "न्यूनकोण (Acute Angle), समकोण (Right Angle) और अधिककोण (Obtuse Angle) को उनके अंश (डिग्री) परिसर के साथ परिभाषित कीजिए।",
+      "answer": "An acute angle measures greater than 0° but less than 90°. A right angle measures exactly 90° (forming a square corner or perpendicular). An obtuse angle measures greater than 90° but strictly less than 180°.",
+      "answerHi": "न्यूनकोण का माप 0° से अधिक परंतु 90° से कम होता है। समकोण का माप ठीक 90° होता है (जो एक सीधा कोना या लंब बनाता है)। अधिककोण का माप 90° से अधिक परंतु 180° से कम होता है।",
+      "keyPoints": [
+        "न्यूनकोण: 0° < कोण < 90° (Acute: between 0° and 90°)",
+        "समकोण: ठीक 90° (Right: exactly 90°)",
+        "अधिककोण: 90° < कोण < 180° (Obtuse: between 90° and 180°)"
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What is a straight angle and a reflex angle? State their degree measurements.",
+      "questionHi": "ऋजुकण / सीधा कोण (Straight Angle) और प्रतिवर्ती कोण (Reflex Angle) क्या हैं? उनके माप (डिग्री में) बताइए।",
+      "answer": "A straight angle is an angle whose arms form a straight line lying in opposite directions, measuring exactly 180°. A reflex angle is an angle that measures greater than 180° but less than a complete turn of 360°.",
+      "answerHi": "ऋजुकोण (सीधा कोण) वह कोण है जिसकी भुजाएँ विपरीत दिशाओं में एक सीधी रेखा बनाती हैं, इसका माप ठीक 180° होता है। प्रतिवर्ती कोण (बृहत कोण) वह कोण है जिसका माप 180° से अधिक परंतु पूर्ण कोण (360°) से कम होता है।",
+      "keyPoints": [
+        "ऋजुकोण: ठीक 180°, सीधी रेखा (Straight angle: exactly 180°, straight line)",
+        "प्रतिवर्ती कोण: 180° < कोण < 360° (Reflex angle: between 180° and 360°)",
+        "भुजाओं की विपरीत दिशा (Arms pointing in opposite directions for straight angle)"
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "What are complementary angles? If one angle of a complementary pair is 38°, find the measure of the other angle.",
+      "questionHi": "पूरक कोण (Complementary Angles) क्या होते हैं? यदि पूरक कोणों के युग्म में एक कोण 38° है, तो दूसरे कोण का माप ज्ञात कीजिए।",
+      "answer": "Two angles are called complementary angles if the sum of their degree measures is exactly equal to 90°. To find the complement of a 38° angle, subtract it from 90°: 90° - 38° = 52°. Therefore, the other angle is 52°.",
+      "answerHi": "दो कोणों को पूरक कोण तब कहा जाता है जब उनके मापों का योग ठीक 90° के बराबर होता है। 38° के कोण का पूरक कोण ज्ञात करने के लिए इसे 90° में से घटाते हैं: 90° - 38° = 52°। अतः दूसरा कोण 52° है।",
+      "keyPoints": [
+        "पूरक कोणों का योग = 90° (Sum of complementary angles = 90°)",
+        "गणना: 90° - 38° (Calculation: 90° - 38°)",
+        "सटीक उत्तर: 52° (Exact answer: 52°)"
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "What are supplementary angles? If two supplementary angles are equal, what is the measure of each angle?",
+      "questionHi": "संपूरक कोण (Supplementary Angles) क्या होते हैं? यदि दो संपूरक कोण आपस में बराबर हैं, तो प्रत्येक कोण का माप क्या होगा?",
+      "answer": "Two angles are called supplementary angles if the sum of their degree measures is exactly equal to 180°. If two equal angles x and x are supplementary, then x + x = 180°, which gives 2x = 180° and x = 90°. Therefore, each equal supplementary angle measures 90° (a right angle).",
+      "answerHi": "दो कोणों को संपूरक कोण तब कहा जाता है जब उनके मापों का योग ठीक 180° के बराबर होता है। यदि दो बराबर कोण x और x संपूरक हैं, तो x + x = 180°, जिससे 2x = 180° और x = 90° प्राप्त होता है। अतः प्रत्येक बराबर संपूरक कोण का माप 90° (समकोण) होगा।",
+      "keyPoints": [
+        "संपूरक कोणों का योग = 180° (Sum of supplementary angles = 180°)",
+        "समीकरण: x + x = 180° (Equation: 2x = 180°)",
+        "सटीक उत्तर: प्रत्येक कोण 90° (Each equal angle is 90° / right angle)"
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "What is meant by vertically opposite angles? State their main geometric property when two lines intersect.",
+      "questionHi": "शीर्षाभिमुख कोण (Vertically Opposite Angles) से क्या अभिप्राय है? जब दो रेखाएँ प्रतिच्छेद करती हैं, तो उनका मुख्य ज्यामितीय गुण बताइए।",
+      "answer": "When two straight lines intersect each other at a point, four angles are formed around the vertex. The pairs of non-adjacent angles lying opposite to each other across the vertex are called vertically opposite angles. Their main property is that vertically opposite angles are always equal in measure.",
+      "answerHi": "जब दो सीधी रेखाएँ एक-दूसरे को किसी बिंदु पर काटती हैं, तो शीर्ष के चारों ओर चार कोण बनते हैं। शीर्ष के आमने-सामने स्थित गैर-आसन्न (विपरीत) कोणों के जोड़ों को शीर्षाभिमुख कोण कहा जाता है। इनका मुख्य गुण यह है कि शीर्षाभिमुख कोण सदैव माप में आपस में बराबर होते हैं।",
+      "keyPoints": [
+        "दो प्रतिच्छेदी रेखाओं से बनते हैं (Formed by two intersecting straight lines)",
+        "शीर्ष के आमने-सामने के कोण (Non-adjacent opposite angles across the vertex)",
+        "गुण: सदैव आपस में बराबर (Property: Vertically opposite angles are always equal)"
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Name the geometric instruments in a standard geometry box used to measure angles and to draw perpendicular lines.",
+      "questionHi": "मानक ज्यामिति बॉक्स (Geometry Box) के उन उपकरणों के नाम बताइए जिनका उपयोग कोण मापने और लंब रेखाएँ खींचने के लिए किया जाता है।",
+      "answer": "In a standard geometry box, a protractor is used to measure and draw angles accurately in degrees (from 0° to 180°). Set squares (30°-60°-90° and 45°-45°-90° triangular rulers) are used along with a straight ruler to draw perpendicular lines and parallel lines.",
+      "answerHi": "मानक ज्यामिति बॉक्स में, चाँदा (प्रोट्रैक्टर) का उपयोग कोणों को अंशों (0° से 180° तक) में सटीक रूप से मापने और बनाने के लिए किया जाता है। गुनिया / सेट स्क्वायर (30°-60°-90° और 45°-45°-90° वाले त्रिभुजाकार पैमाने) का उपयोग पटरी (रूलर) के साथ मिलकर लंब रेखाएँ और समांतर रेखाएँ खींचने के लिए किया जाता है।",
+      "keyPoints": [
+        "कोण मापने के लिए: चाँदा / प्रोट्रैक्टर (Angle measurement: Protractor)",
+        "लंब और समांतर रेखाओं के लिए: सेट स्क्वायर / गुनिया (Perpendicular lines: Set squares)",
+        "सटीक ज्यामितीय रचना (Precision in geometric construction)"
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "At what times on a standard 12-hour clock do the hour hand and minute hand form an exact right angle (90°) and a straight angle (180°)? Give one example for each.",
+      "questionHi": "मानक 12-घंटे वाली घड़ी में घंटे और मिनट की सुइयाँ किस समय ठीक समकोण (90°) और ऋजुकोण (180°) बनाती हैं? प्रत्येक का एक उदाहरण दीजिए।",
+      "answer": "On a 12-hour clock, the hands form an exact right angle (90°) at 3:00 and at 9:00 (when one hand points vertically and the other horizontally). The hands form an exact straight angle (180°) at 6:00 (when the minute hand points directly up to 12 and the hour hand points directly down to 6).",
+      "answerHi": "12 घंटे वाली घड़ी में, सुइयाँ ठीक समकोण (90°) 3:00 बजे और 9:00 बजे बनाती हैं (जब एक सुई ठीक ऊपर/नीचे और दूसरी क्षैतिज होती है)। सुइयाँ ठीक ऋजुकोण (180°) 6:00 बजे बनाती हैं (जब मिनट की सुई ठीक ऊपर 12 पर और घंटे की सुई ठीक नीचे 6 पर होती है)।",
+      "keyPoints": [
+        "समकोण (90°): 3:00 बजे या 9:00 बजे (Right angle: at 3:00 or 9:00)",
+        "ऋजुकोण (180°): ठीक 6:00 बजे (Straight angle: at exactly 6:00)",
+        "घड़ी की सुइयों की ज्यामितीय स्थिति (Geometric alignment of clock hands)"
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Explain the concept of adjacent angles. What three mandatory geometric conditions must two angles satisfy to be called adjacent?",
+      "questionHi": "आसन्न कोणों (Adjacent Angles) की अवधारणा को स्पष्ट कीजिए। दो कोणों को आसन्न कहलाने के लिए कौन-सी तीन अनिवार्य ज्यामितीय शर्तों को पूरा करना आवश्यक है?",
+      "answer": "Adjacent angles are two angles lying side-by-side that share a common boundary without overlapping in their interior regions. To be classified as adjacent angles, two angles must satisfy three mandatory conditions simultaneously: 1) They must have a common vertex. 2) They must share one common arm (side). 3) Their non-common arms must lie on opposite sides of the common arm.",
+      "answerHi": "आसन्न कोण वे दो कोण हैं जो एक-दूसरे से सटे हुए होते हैं और बिना किसी आंतरिक ओवरलैपिंग के एक सांझी सीमा साझा करते हैं। दो कोणों को आसन्न कोण कहलाने के लिए एक साथ तीन अनिवार्य शर्तों को पूरा करना चाहिए: 1) उनका एक उभयनिष्ठ शीर्ष (Common Vertex) होना चाहिए। 2) उनकी एक उभयनिष्ठ भुजा (Common Arm) होनी चाहिए। 3) उनकी जो भुजाएँ उभयनिष्ठ नहीं हैं, वे उभयनिष्ठ भुजा के विपरीत (अलग-अलग) ओर स्थित होनी चाहिए।",
+      "keyPoints": [
+        "शर्त 1: उभयनिष्ठ शीर्ष (Condition 1: Common vertex)",
+        "शर्त 2: एक उभयनिष्ठ भुजा (Condition 2: One common arm)",
+        "शर्त 3: गैर-उभयनिष्ठ भुजाएँ विपरीत दिशा में (Condition 3: Non-common arms on opposite sides)",
+        "आंतरिक क्षेत्र में कोई ओवरलैप नहीं (No overlap of interior regions)"
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "What is a linear pair of angles? How does a linear pair differ from an ordinary pair of supplementary angles?",
+      "questionHi": "कोणों का रैखिक युग्म (Linear Pair of Angles) क्या होता है? एक रैखिक युग्म साधारण संपूरक कोणों के युग्म से किस प्रकार भिन्न होता है?",
+      "answer": "A linear pair of angles is a pair of adjacent angles whose non-common arms form a straight line (opposite rays). Since a straight line measures 180°, the sum of the angles in a linear pair is always 180°. While every linear pair is supplementary (summing to 180°), an ordinary pair of supplementary angles does NOT need to be adjacent (they can be two separate angles in different shapes that simply add up to 180°).",
+      "answerHi": "कोणों का रैखिक युग्म ऐसे आसन्न कोणों का एक जोड़ा होता है जिनकी गैर-उभयनिष्ठ भुजाएँ एक सीधी रेखा (विपरीत किरणें) बनाती हैं। चूँकि सीधी रेखा का कोण 180° होता है, रैखिक युग्म के कोणों का योग सदैव 180° होता है। यद्यपि प्रत्येक रैखिक युग्म संपूरक होता है, परंतु साधारण संपूरक कोणों के लिए आसन्न (एक साथ सटा हुआ) होना आवश्यक नहीं है (वे अलग-अलग स्थानों पर स्थित दो कोण भी हो सकते हैं जिनका योग 180° हो)।",
+      "keyPoints": [
+        "रैखिक युग्म: आसन्न कोण + गैर-उभयनिष्ठ भुजाएँ सीधी रेखा (Linear pair: adjacent angles forming a straight line)",
+        "योगफल सदैव 180° (Sum is always 180°)",
+        "अंतर: रैखिक युग्म सदैव आसन्न होते हैं, संपूरक कोण अलग भी हो सकते हैं (Difference: Linear pairs must be adjacent, supplementary angles need not be)"
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Two lines AB and CD intersect at point O. If angle AOC is 65°, find the measures of the remaining three angles: angle COB, angle BOD, and angle DOA.",
+      "questionHi": "दो रेखाएँ AB और CD बिंदु O पर प्रतिच्छेद करती हैं। यदि कोण AOC का मान 65° है, तो शेष तीनों कोणों: कोण COB, कोण BOD और कोण DOA के माप ज्ञात कीजिए।",
+      "answer": "Since lines AB and CD intersect at O:\n1) Angle BOD and angle AOC are vertically opposite angles. Therefore, ∠BOD = ∠AOC = 65°.\n2) Ray OC stands on line AB, forming a linear pair: ∠AOC + ∠COB = 180°. Therefore, ∠COB = 180° - 65° = 115°.\n3) Angle DOA and angle COB are vertically opposite angles. Therefore, ∠DOA = ∠COB = 115°.\nThus, the three remaining angles measure 115°, 65°, and 115° respectively.",
+      "answerHi": "चूँकि रेखाएँ AB और CD बिंदु O पर काटती हैं:\n1) कोण BOD और कोण AOC शीर्षाभिमुख कोण हैं। अतः ∠BOD = ∠AOC = 65°।\n2) किरण OC रेखा AB पर खड़ी है, जिससे रैखिक युग्म बनता है: ∠AOC + ∠COB = 180°। अतः ∠COB = 180° - 65° = 115°।\n3) कोण DOA और कोण COB शीर्षाभिमुख कोण हैं। अतः ∠DOA = ∠COB = 115°।\nइस प्रकार, शेष तीनों कोणों के माप क्रमशः 115°, 65° और 115° हैं।",
+      "keyPoints": [
+        "शीर्षाभिमुख कोण बराबर: ∠BOD = 65° (Vertically opposite: ∠BOD = 65°)",
+        "रैखिक युग्म का योग 180°: ∠COB = 180° - 65° = 115° (Linear pair: ∠COB = 115°)",
+        "शीर्षाभिमुख कोण बराबर: ∠DOA = 115° (Vertically opposite: ∠DOA = 115°)"
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "An angle is 24° greater than its complementary angle. Calculate the exact degree measurement of both angles.",
+      "questionHi": "एक कोण अपने पूरक कोण से 24° अधिक है। दोनों कोणों का सटीक अंश (डिग्री) माप ज्ञात कीजिए।",
+      "answer": "Let the smaller complementary angle be x. Then, the larger angle is (x + 24°). Since complementary angles sum exactly to 90°, we set up the algebraic equation: x + (x + 24°) = 90°. Combining like terms gives 2x + 24° = 90°. Subtracting 24° from both sides gives 2x = 66°, which results in x = 33°. Therefore, the smaller angle is 33°, and the larger angle is 33° + 24° = 57°.",
+      "answerHi": "माना छोटा पूरक कोण x है। तब बड़ा कोण (x + 24°) होगा। चूँकि पूरक कोणों का योग ठीक 90° होता है, हम समीकरण बनाते हैं: x + (x + 24°) = 90°। पदों को जोड़ने पर 2x + 24° = 90° प्राप्त होता है। दोनों पक्षों से 24° घटाने पर 2x = 66°, जिससे x = 33° प्राप्त होता है। अतः छोटा कोण 33° है, और बड़ा कोण 33° + 24° = 57° है।",
+      "keyPoints": [
+        "समीकरण: x + (x + 24°) = 90° (Equation: x + x + 24° = 90°)",
+        "हल: 2x = 66° ➔ x = 33° (Solution: 2x = 66° ➔ x = 33°)",
+        "छोटा कोण = 33°, बड़ा कोण = 57° (Smaller angle = 33°, Larger angle = 57°)",
+        "जाँच: 33° + 57° = 90° (Check: 33° + 57° = 90°)"
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "Two supplementary angles are in the ratio 4 : 5. Calculate the degree measure of each angle and determine whether each angle is acute, right, or obtuse.",
+      "questionHi": "दो संपूरक कोणों में 4 : 5 का अनुपात है। प्रत्येक कोण का अंश (डिग्री) माप ज्ञात कीजिए और बताइए कि प्रत्येक कोण न्यूनकोण, समकोण या अधिककोण में से क्या है।",
+      "answer": "Let the common ratio multiplier be x, so the two supplementary angles are 4x and 5x. Since supplementary angles sum to 180°, we write: 4x + 5x = 180°, which gives 9x = 180° and x = 20°. \n1) First angle = 4 × 20° = 80°. Since 80° is less than 90°, it is an acute angle.\n2) Second angle = 5 × 20° = 100°. Since 100° is greater than 90° but less than 180°, it is an obtuse angle.",
+      "answerHi": "माना आनुपातिक गुणांक x है, अतः दोनों संपूरक कोण 4x और 5x हैं। चूँकि संपूरक कोणों का योग 180° होता है: 4x + 5x = 180°, जिससे 9x = 180° और x = 20° प्राप्त होता है।\n1) पहला कोण = 4 × 20° = 80°। चूँकि 80° का मान 90° से कम है, यह एक न्यूनकोण है।\n2) दूसरा कोण = 5 × 20° = 100°। चूँकि 100° का मान 90° से अधिक परंतु 180° से कम है, यह एक अधिककोण है।",
+      "keyPoints": [
+        "समीकरण: 4x + 5x = 180° ➔ 9x = 180° (Equation: 4x + 5x = 180°)",
+        "x का मान = 20° (Value of x = 20°)",
+        "पहला कोण: 80° (न्यूनकोण / Acute angle)",
+        "दूसरा कोण: 100° (अधिककोण / Obtuse angle)"
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Explain how many right angles (90°) and how many degrees a minute hand of a clock turns through when it moves from 12 to 9 clockwise.",
+      "questionHi": "स्पष्ट कीजिए कि जब घड़ी की मिनट वाली सुई दक्षिणावर्त (Clockwise) दिशा में 12 से 9 तक जाती है, तो वह कितने समकोण (90°) और कितने अंश (डिग्री) घूमती है।",
+      "answer": "A complete circular revolution around the clock face measures 360° and covers 12 hours/divisions (each division representing 360° ÷ 12 = 30°). Moving clockwise from 12 to 9 covers 9 major divisions, which represents three-quarters (3/4) of a full revolution. Since one right angle is 90° (3 divisions), moving from 12 to 9 covers exactly 3 right angles (9 × 30° = 270°).",
+      "answerHi": "घड़ी के डायल का एक पूर्ण चक्कर 360° का होता है और इसमें 12 भाग होते हैं (प्रत्येक भाग 360° ÷ 12 = 30° को दर्शाता है)। दक्षिणावर्त दिशा में 12 से 9 तक जाने में 9 बड़े भाग तय होते हैं, जो एक पूरे चक्कर का तीन-चौथाई (3/4) हिस्सा है। चूँकि एक समकोण 90° (3 भाग) का होता है, 12 से 9 तक जाने में सुई ठीक 3 समकोण (9 × 30° = 270°) घूमती है।",
+      "keyPoints": [
+        "घड़ी के 1 भाग का मान = 30° (1 clock division = 30°)",
+        "12 से 9 तक = 9 भाग = तीन-चौथाई चक्कर (12 to 9 = 9 divisions = 3/4 revolution)",
+        "समकोणों की संख्या = 3 समकोण (Number of right angles = 3)",
+        "कुल अंश (डिग्री) = 270° (Total degrees turned = 270°)"
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "In a right-angled triangle PQR, the angle at Q is 90°. If angle P measures 42°, calculate the measure of angle R. What special relationship do acute angles P and R share?",
+      "questionHi": "एक समकोण त्रिभुज PQR में, कोण Q का मान 90° है। यदि कोण P का माप 42° है, तो कोण R का माप ज्ञात कीजिए। न्यूनकोण P और R आपस में कौन-सा विशेष संबंध साझा करते हैं?",
+      "answer": "The sum of all three interior angles in any triangle is always 180°. In triangle PQR: ∠P + ∠Q + ∠R = 180°. Substituting the given values: 42° + 90° + ∠R = 180°, which gives 132° + ∠R = 180° and ∠R = 180° - 132° = 48°. \nThe special relationship between acute angles P (42°) and R (48°) is that they are complementary angles, because their sum is exactly 90° (42° + 48° = 90°).",
+      "answerHi": "किसी भी त्रिभुज के तीनों अंतःकोणों का योग सदैव 180° होता है। त्रिभुज PQR में: ∠P + ∠Q + ∠R = 180°। दिए गए मान रखने पर: 42° + 90° + ∠R = 180°, जिससे 132° + ∠R = 180° और ∠R = 180° - 132° = 48° प्राप्त होता है।\nन्यूनकोण P (42°) और R (48°) के बीच विशेष संबंध यह है कि वे आपस में पूरक कोण (Complementary Angles) हैं, क्योंकि उनका योग ठीक 90° (42° + 48° = 90°) है।",
+      "keyPoints": [
+        "त्रिभुज के कोणों का योग = 180° (Angle sum of triangle = 180°)",
+        "कोण R की गणना: 180° - (90° + 42°) = 48° (Calculation of ∠R = 48°)",
+        "विशेष संबंध: दोनों कोण पूरक हैं (Special relationship: acute angles are complementary: 42° + 48° = 90°)"
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Why is a straight line considered to be an angle of 180°? Explain using the concept of rotation and rays.",
+      "questionHi": "एक सीधी रेखा को 180° का कोण क्यों माना जाता है? घूर्णन (Rotation) और किरणों की अवधारणा का उपयोग करते हुए स्पष्ट कीजिए।",
+      "answer": "An angle is generated by rotating one ray (the terminal arm) away from a stationary ray (the initial arm) around a common vertex. A complete full rotation back to the starting position forms a circle measuring 360°. When the rotating ray turns through exactly half of a full rotation (a semicircle), it points in the exact opposite direction to the initial ray, forming a continuous straight line. Since half of 360° is 180°, a straight line represents a straight angle of exactly 180°.",
+      "answerHi": "कोण का निर्माण एक स्थिर किरण (प्रारंभिक भुजा) के सापेक्ष दूसरी किरण (अंतिम भुजा) को एक उभयनिष्ठ शीर्ष के चारों ओर घुमाने (घूर्णन) से होता है। प्रारंभिक स्थिति में वापस आने तक का एक पूर्ण चक्कर 360° का वृत्त बनाता है। जब घूमने वाली किरण ठीक आधा चक्कर (अर्धवृत्त) पूरा करती है, तो वह प्रारंभिक किरण के ठीक विपरीत दिशा में आ जाती है, जिससे एक सीधी निरंतर रेखा बनती है। चूँकि 360° का आधा 180° होता है, एक सीधी रेखा ठीक 180° के ऋजुकोण को दर्शाती है।",
+      "keyPoints": [
+        "पूर्ण चक्कर = 360° (Complete full rotation = 360°)",
+        "सीधी रेखा = आधा चक्कर / अर्धवृत्त (Straight line = half rotation / semicircle)",
+        "माप: 360° का आधा = 180° (Measurement: half of 360° = exactly 180°)"
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "Two straight lines AB and CD intersect at point O. If angle AOC = 3x - 10° and angle BOD = 2x + 30°, find the algebraic value of x and the exact degree measure of angle AOC.",
+      "questionHi": "दो सीधी रेखाएँ AB और CD बिंदु O पर प्रतिच्छेद करती हैं। यदि कोण AOC = 3x - 10° और कोण BOD = 2x + 30° है, तो x का बीजीय मान और कोण AOC का सटीक अंश माप ज्ञात कीजिए।",
+      "answer": "When two straight lines intersect, vertically opposite angles are equal. Since ∠AOC and ∠BOD are vertically opposite angles, we set their expressions equal: 3x - 10° = 2x + 30°. \nSubtracting 2x from both sides gives: x - 10° = 30°. \nAdding 10° to both sides gives: x = 40°. \nTo find the degree measure of ∠AOC, substitute x = 40° into its expression: ∠AOC = 3(40°) - 10° = 120° - 10° = 110°. (Verification: ∠BOD = 2(40°) + 30° = 80° + 30° = 110°).",
+      "answerHi": "जब दो सीधी रेखाएँ काटती हैं, तो शीर्षाभिमुख कोण बराबर होते हैं। चूँकि ∠AOC और ∠BOD शीर्षाभिमुख कोण हैं, हम उन्हें बराबर रखते हैं: 3x - 10° = 2x + 30°।\nदोनों पक्षों से 2x घटाने पर: x - 10° = 30°।\nदोनों पक्षों में 10° जोड़ने पर: x = 40°।\n∠AOC का माप ज्ञात करने के लिए x = 40° का मान रखने पर: ∠AOC = 3(40°) - 10° = 120° - 10° = 110°। (जाँच: ∠BOD = 2(40°) + 30° = 110°)।",
+      "keyPoints": [
+        "शीर्षाभिमुख कोण बराबर: 3x - 10° = 2x + 30° (Vertically opposite angles equal)",
+        "समीकरण हल: x = 40° (Solving equation: x = 40°)",
+        "कोण AOC की गणना: 3(40) - 10 = 110° (Calculation of ∠AOC = 110°)",
+        "जाँच: दोनों कोण 110° (Verification: both angles equal 110°)"
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Can two acute angles form a linear pair? Can two right angles form a linear pair? Justify your answers with mathematical reasoning.",
+      "questionHi": "क्या दो न्यूनकोण मिलकर एक रैखिक युग्म (Linear Pair) बना सकते हैं? क्या दो समकोण मिलकर एक रैखिक युग्म बना सकते हैं? गणितीय तर्क के साथ अपने उत्तर की पुष्टि कीजिए।",
+      "answer": "1) No, two acute angles CANNOT form a linear pair. By definition, an acute angle is strictly less than 90°. Even if we take the largest possible acute angles (e.g., 89° and 89°), their sum is 89° + 89° = 178°, which is strictly less than the 180° required for a linear pair.\n2) Yes, two right angles CAN form a linear pair. A right angle measures exactly 90°. When two adjacent right angles are combined, their sum is exactly 90° + 90° = 180°, perfectly forming a straight line.",
+      "answerHi": "1) नहीं, दो न्यूनकोण मिलकर रैखिक युग्म नहीं बना सकते। परिभाषा के अनुसार, न्यूनकोण 90° से कम होता है। यदि हम अधिकतम संभव न्यूनकोण (जैसे 89° और 89°) भी लें, तो उनका योग 89° + 89° = 178° होगा, जो रैखिक युग्म के लिए आवश्यक 180° से कम है।\n2) हाँ, दो समकोण मिलकर रैखिक युग्म बना सकते हैं। समकोण ठीक 90° का होता है। जब दो आसन्न समकोणों को जोड़ा जाता है, तो उनका योग ठीक 90° + 90° = 180° होता है, जो पूर्णतः एक सीधी रेखा बनाता है।",
+      "keyPoints": [
+        "रैखिक युग्म के लिए आवश्यक योग = 180° (Linear pair requires exact sum of 180°)",
+        "दो न्यूनकोणों का योग < 180° ➔ संभव नहीं (Two acute angles sum < 180° ➔ NOT possible)",
+        "दो समकोणों का योग = 90° + 90° = 180° ➔ पूर्णतः संभव (Two right angles sum = 180° ➔ YES possible)"
+      ]
+    },
+    {
+      "id": "q21",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Three straight lines AB, CD, and EF intersect at a common central point O. \n(a) If angle AOC = 40° and angle BOE = 35°, find the measure of angle COE. \n(b) Find the measure of angle AOF and angle BOD. \n(c) What is the sum of all angles formed around the point O? Show your calculation.",
+      "questionHi": "तीन सीधी रेखाएँ AB, CD और EF एक उभयनिष्ठ केंद्रीय बिंदु O पर प्रतिच्छेद करती हैं।\n(क) यदि कोण AOC = 40° और कोण BOE = 35° है, तो कोण COE का माप ज्ञात कीजिए।\n(ख) कोण AOF और कोण BOD के माप ज्ञात कीजिए।\n(ग) बिंदु O के चारों ओर बनने वाले सभी कोणों का योगफल क्या है? गणना दर्शाइए।",
+      "answer": "(a) Measure of Angle COE:\nRay OC and Ray OE stand on the straight line AB. Therefore, the three adjacent angles forming a semicircle on line AB sum to 180°: ∠AOC + ∠COE + ∠BOE = 180°.\nSubstituting the given values: 40° + ∠COE + 35° = 180° ➔ 75° + ∠COE = 180° ➔ ∠COE = 180° - 75° = 105°.\n\n(b) Measure of Angle AOF and Angle BOD:\n- Line AB and Line EF intersect at O, making ∠AOF and ∠BOE vertically opposite angles. Therefore, ∠AOF = ∠BOE = 35°.\n- Line AB and Line CD intersect at O, making ∠BOD and ∠AOC vertically opposite angles. Therefore, ∠BOD = ∠AOC = 40°.\n\n(c) Sum of All Angles Around Point O:\nAround the vertex O, six angles are formed: ∠AOC (40°), ∠COE (105°), ∠BOE (35°), ∠BOD (40°), ∠DOF (105°, vertically opposite to COE), and ∠AOF (35°).\nTotal Sum = 40° + 105° + 35° + 40° + 105° + 35° = 360°. A complete circular turn around any point always equals 360°.",
+      "answerHi": "(क) कोण COE का माप:\nकिरण OC और किरण OE सीधी रेखा AB पर खड़ी हैं। अतः रेखा AB पर अर्धवृत्त बनाने वाले तीनों आसन्न कोणों का योग 180° होगा: ∠AOC + ∠COE + ∠BOE = 180°।\nमान रखने पर: 40° + ∠COE + 35° = 180° ➔ 75° + ∠COE = 180° ➔ ∠COE = 180° - 75° = 105°।\n\n(ख) कोण AOF और कोण BOD के माप:\n- रेखा AB और EF बिंदु O पर काटती हैं, जिससे ∠AOF और ∠BOE शीर्षाभिमुख कोण बनते हैं। अतः ∠AOF = ∠BOE = 35°।\n- रेखा AB और CD बिंदु O पर काटती हैं, जिससे ∠BOD और ∠AOC शीर्षाभिमुख कोण बनते हैं। अतः ∠BOD = ∠AOC = 40°।\n\n(ग) बिंदु O के चारों ओर के सभी कोणों का योग:\nशीर्ष O के चारों ओर छह कोण बनते हैं: ∠AOC (40°), ∠COE (105°), ∠BOE (35°), ∠BOD (40°), ∠DOF (105°), और ∠AOF (35°)।\nकुल योग = 40° + 105° + 35° + 40° + 105° + 35° = 360°। किसी भी बिंदु के चारों ओर का पूर्ण कोण सदैव 360° होता है।",
+      "keyPoints": [
+        "सीधी रेखा पर कोणों का योग 180°: ∠COE = 180° - (40° + 35°) = 105° (Straight line sum = 180° ➔ ∠COE = 105°)",
+        "शीर्षाभिमुख कोण: ∠AOF = 35°, ∠BOD = 40° (Vertically opposite: ∠AOF = 35°, ∠BOD = 40°)",
+        "बिंदु के चारों ओर कोणों का कुल योग = ठीक 360° (Sum of all angles around a point = exactly 360°)"
+      ]
+    },
+    {
+      "id": "q22",
+      "type": "value-based",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "How do parallel lines (such as railway tracks, ladder rungs, or ruled notebook lines) teach us the value of consistency, harmony, and mutual respect in human relationships and teamwork?",
+      "questionHi": "समांतर रेखाएँ (जैसे रेल की पटरियाँ, सीढ़ी के डंडे, या कॉपी की धारियाँ) हमें मानवीय संबंधों और टीम वर्क में निरंतरता, सामंजस्य और आपसी सम्मान का महत्व कैसे सिखाती हैं?",
+      "answer": "Parallel lines are two straight lines in the same plane that travel alongside each other while maintaining an exact, unchanging distance between them. They never collide, cross, or interfere with one another, yet they work together to fulfill essential purposes—such as carrying high-speed trains safely across continents or providing structured guidance for writing cleanly in notebooks.\n\nIn human relationships and teamwork, parallel lines symbolize the vital principles of consistency, harmony, and mutual respect. Just as railway tracks must remain equidistant to prevent derailment, team members in a school project or workplace must respect each other's personal boundaries, roles, and perspectives without crossing into unhealthy conflict or jealousy. By maintaining steady cooperation and walking side-by-side toward a common objective, individuals achieve enduring success and harmony in society.",
+      "answerHi": "समांतर रेखाएँ एक ही समतल में स्थित वे दो सीधी रेखाएँ हैं जो एक-दूसरे के साथ चलते हुए अपने बीच सदैव एक समान और अपरिवर्तनीय दूरी बनाए रखती हैं। वे कभी आपस में टकराती या काटती नहीं हैं, फिर भी वे महत्वपूर्ण उद्देश्यों को पूरा करने के लिए मिलकर कार्य करती हैं—जैसे तीव्र गति वाली रेलगाड़ियों को सुरक्षित ले जाना या कॉपी में स्वच्छ लिखने के लिए व्यवस्थित मार्गदर्शन देना।\n\nमानवीय संबंधों और टीम वर्क में, समांतर रेखाएँ निरंतरता, सामंजस्य और आपसी सम्मान के जीवन-मूल्यों का प्रतीक हैं। जिस प्रकार रेल दुर्घटना से बचने के लिए पटरियों के बीच समान दूरी होना अनिवार्य है, उसी प्रकार किसी विद्यालयी परियोजना या कार्यस्थल पर सदस्यों को एक-दूसरे की सीमाओं, भूमिकाओं और विचारों का सम्मान करना चाहिए बिना किसी अनुचित टकराव या ईर्ष्या के। एक-दूसरे के साथ कदम से कदम मिलाकर समान लक्ष्य की ओर बढ़ने से समाज में स्थायी सफलता और शांति स्थापित होती है।",
+      "keyPoints": [
+        "समांतर रेखाएँ: बिना टकराए साथ चलना और समान दूरी बनाए रखना (Parallel lines: traveling together without colliding)",
+        "आपसी सीमाओं और विचारों का सम्मान (Respecting personal boundaries and diverse roles)",
+        "टीम वर्क में सामंजस्य और दुर्घटनाओं/टकराव से बचाव (Preventing conflict and ensuring smooth teamwork)",
+        "समान लक्ष्य की ओर निरंतर और व्यवस्थित प्रगति (Consistent progress toward a shared objective)"
+      ]
+    },
+    {
+      "id": "q23",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "A competency-based real-life application: In architecture and civil engineering, understanding angles is critical for structural stability. \n(a) Why are walls of buildings constructed at an exact right angle (90°) to the flat horizontal floor? What would happen if a wall was built at an acute angle of 75°? \n(b) Why are roof trusses and bridge supports constructed using triangular frameworks (containing acute angles) rather than rectangular frameworks? Explain using geometric rigidity.",
+      "questionHi": "योग्यता-आधारित वास्तविक जीवन अनुप्रयोग: वास्तुकला और सिविल इंजीनियरिंग में संरचनात्मक मजबूती के लिए कोणों की समझ अत्यंत महत्वपूर्ण है।\n(क) भवनों की दीवारें समतल क्षैतिज फर्श के साथ ठीक समकोण (90°) पर क्यों बनाई जाती हैं? यदि कोई दीवार 75° के न्यूनकोण पर बनाई जाए तो क्या होगा?\n(ख) छत के ढाँचों (Trusses) और पुलों के खंभों का निर्माण वर्गाकार/आयताकार ढाँचों के बजाय त्रिभुजाकार ढाँचों (जिनमें न्यूनकोण होते हैं) से क्यों किया जाता है? ज्यामितीय दृढ़ता (Geometric Rigidity) के आधार पर स्पष्ट कीजिए।",
+      "answer": "(a) Perpendicular Walls (90°): \nWalls are built at exactly 90° (perpendicular) to the horizontal floor so that the downward force of gravity acting on the roof and upper floors passes directly through the center of the wall down to the foundation. This vertical alignment balances compressive loads evenly. If a wall were constructed at an acute angle of 75°, the gravitational load would create a severe tilting torque (bending moment). Over time, the unbalanced lateral force would cause the building to crack, lean, and eventually collapse under its own weight (similar to the Leaning Tower of Pisa).\n\n(b) Triangular Frameworks vs. Rectangular Frameworks:\nRoof trusses and bridge supports use triangular frameworks because the triangle is the only geometrically rigid polygon. When heavy pressure or wind force is applied to the vertex of a triangle, the load is evenly distributed down along its two sloping sides to the sturdy base, preventing deformation. In contrast, a four-sided rectangular framework is geometrically unstable; under heavy lateral pressure, its right angles easily deform into acute and obtuse angles (parallelogram shape), causing structural failure.",
+      "answerHi": "(क) समकोण (90°) पर दीवारें:\nदीवारें क्षैतिज फर्श के साथ ठीक 90° (लंबवत) बनाई जाती हैं ताकि छत और ऊपरी मंज़िलों का गुरुत्वाकर्षण बल सीधे दीवार के केंद्र से होता हुई नीचे नींव तक जाए। यह ऊर्ध्वाधर स्थिति भार को समान रूप से संतुलित करती है। यदि कोई दीवार 75° के न्यूनकोण पर बनाई जाए, तो गुरुत्वाकर्षण बल एक असंतुलित झुकाव (टॉर्क) उत्पन्न करेगा। समय के साथ, इस एकतरफा दबाव के कारण दीवार में दरारें आ जाएँगी और भवन अपने ही भार से ढह जाएगा।\n\n(ख) त्रिभुजाकार ढाँचे बनाम आयताकार ढाँचे:\nछत के ढाँचों (ट्रस) और पुलों में त्रिभुजाकार संरचनाओं का उपयोग इसलिए किया जाता है क्योंकि त्रिभुज ज्यामितीय रूप से सबसे दृढ़ (Rigid) बहुभुज है। जब त्रिभुज के शीर्ष पर भारी दबाव या हवा का बल पड़ता है, तो वह भार दोनों तिरछी भुजाओं से होता हुआ नीचे मजबूत आधार पर समान रूप से वितरित हो जाता है, जिससे आकार नहीं बिगड़ता। इसके विपरीत, चार भुजाओं वाला आयताकार ढाँचा अस्थिर होता है; भारी दबाव पड़ने पर उसके समकोण आसानी से पिचक कर न्यूनकोण और अधिककोण (समांतर चतुर्भुज) में बदल जाते हैं, जिससे ढाँचा गिर सकता है।",
+      "keyPoints": [
+        "90° लंबवत दीवारें गुरुत्वाकर्षण भार को सीधे नींव तक ले जाती हैं (90° walls transmit gravitational load directly to foundation)",
+        "75° के झुकाव से असंतुलन और भवन ढहने का खतरा (75° tilt creates bending torque leading to structural collapse)",
+        "त्रिभुज एक ज्यामितीय रूप से दृढ़ और अपरिवर्तनीय आकृति है (Triangle is the only geometrically rigid and stable polygon)",
+        "आयताकार ढाँचे दबाव में पिचक कर समांतर चतुर्भुज बन जाते हैं (Rectangular frames deform easily under lateral load)"
+      ]
+    },
+    {
+      "id": "q24",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "An analytical clock angle investigation: \n(a) Calculate the exact angle between the hour hand and minute hand of a clock at 4:00 PM. Is this an acute, right, or obtuse angle? \n(b) Calculate the reflex angle between the hands at 4:00 PM. \n(c) What is the angle between the hands at exactly 6:30 PM? (Hint: Remember that at 6:30, the hour hand is not directly on 6, but has moved halfway between 6 and 7).",
+      "questionHi": "घड़ी के कोणों पर एक विश्लेषणात्मक अन्वेषण:\n(क) सायं 4:00 बजे घड़ी की घंटे और मिनट वाली सुइयों के बीच का सटीक कोण ज्ञात कीजिए। क्या यह न्यूनकोण, समकोण या अधिककोण है?\n(ख) सायं 4:00 बजे सुइयों के बीच बनने वाले प्रतिवर्ती कोण (Reflex Angle) का माप ज्ञात कीजिए।\n(ग) ठीक 6:30 बजे सुइयों के बीच कितने अंश का कोण होगा? (संकेत: ध्यान रहे कि 6:30 बजे घंटे की सुई ठीक 6 पर नहीं होती, बल्कि 6 और 7 के ठीक बीच में पहुँच जाती है)।",
+      "answer": "(a) Angle at 4:00 PM:\nOn a 12-hour clock face, 360° is divided into 12 equal hour divisions, so each hour represents 360° ÷ 12 = 30°. At exactly 4:00 PM, the minute hand points directly at 12 and the hour hand points directly at 4. The separation between them is 4 hour divisions.\nAngle = 4 × 30° = 120°. Since 120° is greater than 90° but less than 180°, it is an obtuse angle.\n\n(b) Reflex Angle at 4:00 PM:\nThe reflex angle is the larger angle measured around the outside of the hands, completing the 360° circle.\nReflex Angle = 360° - 120° = 240°.\n\n(c) Angle at exactly 6:30 PM:\nAt 6:30 PM, the minute hand points directly at 6 (at the 30-minute mark). However, in those 30 minutes, the hour hand has moved forward from 6 toward 7. Since 30 minutes is exactly half of an hour, the hour hand has moved half of a 30° division: 30° ÷ 2 = 15° forward from the number 6.\nTherefore, the angle separation between the minute hand (at 6) and the hour hand (halfway to 7) is exactly 15° (an acute angle).",
+      "answerHi": "(क) 4:00 बजे का कोण:\n12 घंटे वाली घड़ी में 360° को 12 बराबर भागों में बाँटा जाता है, अतः प्रत्येक घंटा 360° ÷ 12 = 30° को दर्शाता है। ठीक 4:00 बजे मिनट की सुई 12 पर और घंटे की सुई 4 पर होती है। उनके बीच 4 घंटे के भागों की दूरी होती है।\nकोण = 4 × 30° = 120°। चूँकि 120°, 90° से अधिक और 180° से कम है, यह एक अधिककोण है।\n\n(ख) 4:00 बजे का प्रतिवर्ती कोण:\nप्रतिवर्ती कोण बाहर की ओर से मापा जाने वाला बड़ा कोण होता है जो 360° का वृत्त पूरा करता है।\nप्रतिवर्ती कोण = 360° - 120° = 240°।\n\n(ग) ठीक 6:30 बजे का कोण:\n6:30 बजे मिनट की सुई ठीक 6 पर होती है। परंतु उन 30 मिनटों में घंटे की सुई 6 से 7 की ओर आगे बढ़ चुकी होती है। चूँकि 30 मिनट एक घंटे का आधा समय है, घंटे की सुई 30° के एक भाग का आधा यानी 30° ÷ 2 = 15° आगे खिसक जाती है।\nअतः मिनट की सुई (6 पर) और घंटे की सुई (6 और 7 के बीच) के मध्य का कोण ठीक 15° (न्यूनकोण) होगा।",
+      "keyPoints": [
+        "घड़ी के 1 घंटे का भाग = 30° (1 hour clock division = 30°)",
+        "4:00 बजे का कोण: 4 × 30° = 120° (अधिककोण / Obtuse angle)",
+        "4:00 बजे का प्रतिवर्ती कोण: 360° - 120° = 240° (Reflex angle = 240°)",
+        "6:30 बजे घंटे की सुई 15° आगे खिसकती है ➔ सटीक कोण = 15° (At 6:30, hour hand moves 15° ➔ angle = 15°)"
+      ]
+    },
+    {
+      "id": "q25",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "A competency-based case study on geometry in sports: On a billiard table, when a ball bounces off the flat side cushion without spinning, it follows a geometric rule of reflection: the 'angle of incidence' (angle made by the approaching path with the edge of the table) is always equal to the 'angle of reflection' (angle made by the departing path with the edge of the table). \n\nLet the straight edge of the table cushion be line XY. A ball rolls along path AB, strikes the cushion at point B, and bounces away along path BC. \n(a) If the angle of incidence ∠ABX is 38°, what is the measure of the angle of reflection ∠CBY? \n(b) Calculate the measure of the interior angle ∠ABC between the incoming path and outgoing path of the ball. \n(c) If a player wants the ball to bounce away such that the interior angle ∠ABC is a right angle (90°), at what exact angle of incidence ∠ABX must the ball strike the cushion XY?",
+      "questionHi": "खेलों में ज्यामिति पर योग्यता-आधारित केस स्टडी: एक बिलियर्ड्स टेबल पर, जब कोई गेंद बिना घूमे टेबल के सीधे किनारे (कुशन) से टकराकर लौटती है, तो वह परावर्तन के ज्यामितीय नियम का पालन करती है: 'आपतन कोण' (टकराने वाले पथ द्वारा किनारे के साथ बनाया गया कोण) सदैव 'परावर्तन कोण' (लौटने वाले पथ द्वारा किनारे के साथ बनाया गया कोण) के बराबर होता है।\n\nमाना टेबल के कुशन का सीधा किनारा रेखा XY है। एक गेंद पथ AB पर चलती हुई बिंदु B पर कुशन से टकराती है और पथ BC के अनुदिश लौट जाती है।\n(क) यदि आपतन कोण ∠ABX = 38° है, तो परावर्तन कोण ∠CBY का माप क्या होगा?\n(ख) गेंद के आने वाले पथ और जाने वाले पथ के बीच बनने वाले अंतःकोण ∠ABC का माप ज्ञात कीजिए।\n(ग) यदि खिलाड़ी चाहता है कि गेंद टकराने के बाद इस प्रकार लौटे कि अंतःकोण ∠ABC ठीक समकोण (90°) बने, तो गेंद को कुशन XY से किस सटीक आपतन कोण ∠ABX पर टकराना चाहिए?",
+      "answer": "(a) Measure of Angle of Reflection ∠CBY:\nAccording to the geometric law of reflection on a flat surface, Angle of Reflection = Angle of Incidence. Since the angle of incidence ∠ABX = 38°, the angle of reflection ∠CBY = 38°.\n\n(b) Measure of Interior Angle ∠ABC:\nThe points X, B, and Y lie on a continuous straight line representing the table edge, which measures a straight angle of 180°.\nThe three angles along line XY form a straight angle: ∠ABX + ∠ABC + ∠CBY = 180°.\nSubstituting the known values: 38° + ∠ABC + 38° = 180° ➔ 76° + ∠ABC = 180° ➔ ∠ABC = 180° - 76° = 104° (an obtuse angle).\n\n(c) Calculation for a Right Angle (90°) Bounce:\nLet the required angle of incidence ∠ABX be x. By reflection law, ∠CBY is also x. The player wants the interior angle ∠ABC to be 90°.\nSetting up the straight line sum on XY: x + 90° + x = 180° ➔ 2x + 90° = 180°.\nSubtracting 90° from both sides: 2x = 90° ➔ x = 45°.\nTherefore, the ball must strike the cushion at an exact angle of incidence of 45° to produce a 90° right-angled bounce.",
+      "answerHi": "(क) परावर्तन कोण ∠CBY का माप:\nसमतल सतह पर परावर्तन के ज्यामितीय नियम के अनुसार, परावर्तन कोण = आपतन कोण। चूँकि आपतन कोण ∠ABX = 38° है, अतः परावर्तन कोण ∠CBY = 38° होगा।\n\n(ख) अंतःकोण ∠ABC का माप:\nबिंदु X, B और Y एक सीधी रेखा पर स्थित हैं जो टेबल के किनारे को दर्शाती है, जिसका कुल कोण 180° (ऋजुकोण) होता है।\nरेखा XY पर तीनों कोणों का योग: ∠ABX + ∠ABC + ∠CBY = 180°।\nमान रखने पर: 38° + ∠ABC + 38° = 180° ➔ 76° + ∠ABC = 180° ➔ ∠ABC = 180° - 76° = 104° (अधिककोण)।\n\n(ग) समकोण (90°) पर लौटने के लिए गणना:\nमाना आवश्यक आपतन कोण ∠ABX = x है। परावर्तन नियम से ∠CBY भी x होगा। खिलाड़ी अंतःकोण ∠ABC = 90° चाहता है।\nसीधी रेखा XY पर योग: x + 90° + x = 180° ➔ 2x + 90° = 180°।\nदोनों पक्षों से 90° घटाने पर: 2x = 90° ➔ x = 45°।\nअतः 90° का समकोण उछाल प्राप्त करने के लिए गेंद को कुशन से ठीक 45° के आपतन कोण पर टकराना चाहिए।",
+      "keyPoints": [
+        "परावर्तन नियम: आपतन कोण = परावर्तन कोण ➔ ∠CBY = 38° (Reflection law: ∠CBY = ∠ABX = 38°)",
+        "सीधी रेखा पर योग 180°: ∠ABC = 180° - (38° + 38°) = 104° (Straight line sum ➔ ∠ABC = 104°)",
+        "समकोण (90°) उछाल के लिए समीकरण: 2x + 90° = 180° (Equation for 90° bounce: 2x + 90 = 180)",
+        "सटीक आपतन कोण: x = 45° (Required angle of incidence = exactly 45°)"
+      ]
+    },
+    {
+      "id": "q26",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "A detailed geometry proof on linear pairs: \n(a) Define angle bisector. \n(b) Let two adjacent angles ∠AOC and ∠COB form a linear pair on straight line AB. Let ray OX be the angle bisector of ∠AOC, and ray OY be the angle bisector of ∠COB. Prove mathematically that the angle between the two bisectors, ∠XOY, is always an exact right angle (90°). \n(c) If ∠AOC measures 110°, find the numerical values of ∠AOX, ∠COY, and verify that ∠XOY equals 90°.",
+      "questionHi": "रैखिक युग्मों पर एक विस्तृत ज्यामितीय प्रमाण:\n(क) कोण समद्विभाजक (Angle Bisector) को परिभाषित कीजिए।\n(ख) माना दो आसन्न कोण ∠AOC और ∠COB सीधी रेखा AB पर एक रैखिक युग्म बनाते हैं। माना किरण OX कोण ∠AOC की समद्विभाजक है, और किरण OY कोण ∠COB की समद्विभाजक है। गणितीय रूप से सिद्ध कीजिए कि दोनों समद्विभाजकों के बीच का कोण, ∠XOY, सदैव एक समकोण (90°) होता है।\n(ग) यदि ∠AOC का माप 110° है, तो ∠AOX और ∠COY के संख्यात्मक मान ज्ञात कीजिए तथा जाँच कीजिए कि ∠XOY = 90° है।",
+      "answer": "(a) Definition of Angle Bisector:\nAn angle bisector is a ray dividing an angle into two adjacent angles of equal measure.\n\n(b) Mathematical Proof that ∠XOY = 90°:\n1) Since ∠AOC and ∠COB form a linear pair on straight line AB, their sum is 180°: ∠AOC + ∠COB = 180°.\n2) Ray OX bisects ∠AOC, which means ∠COX is exactly half of ∠AOC: ∠COX = ½(∠AOC).\n3) Ray OY bisects ∠COB, which means ∠COY is exactly half of ∠COB: ∠COY = ½(∠COB).\n4) The angle between the two bisectors is ∠XOY, which is the sum of adjacent angles ∠COX and ∠COY: ∠XOY = ∠COX + ∠COY.\n5) Substituting the half-values: ∠XOY = ½(∠AOC) + ½(∠COB) = ½(∠AOC + ∠COB).\n6) Since ∠AOC + ∠COB = 180° (from Step 1), we substitute 180°: ∠XOY = ½(180°) = 90°.\nHence proved: The angle bisectors of any linear pair always meet at right angles (90°).\n\n(c) Numerical Verification for ∠AOC = 110°:\n- Since ∠AOC + ∠COB = 180°, we find ∠COB = 180° - 110° = 70°.\n- Ray OX bisects ∠AOC (110°), so ∠AOX = ∠COX = 110° ÷ 2 = 55°.\n- Ray OY bisects ∠COB (70°), so ∠COY = ∠BOY = 70° ÷ 2 = 35°.\n- Angle between bisectors ∠XOY = ∠COX + ∠COY = 55° + 35° = 90°. (Verified!).",
+      "answerHi": "(क) कोण समद्विभाजक की परिभाषा:\nकोण समद्विभाजक वह किरण है जो किसी कोण को दो समान माप वाले आसन्न कोणों में विभाजित करती है।\n\n(ख) गणितीय प्रमाण कि ∠XOY = 90°:\n1) चूँकि ∠AOC और ∠COB सीधी रेखा AB पर रैखिक युग्म बनाते हैं, उनका योग 180° होगा: ∠AOC + ∠COB = 180°।\n2) किरण OX कोण ∠AOC की समद्विभाजक है, अर्थात ∠COX कोण ∠AOC का आधा है: ∠COX = ½(∠AOC)।\n3) किरण OY कोण ∠COB की समद्विभाजक है, अर्थात ∠COY कोण ∠COB का आधा है: ∠COY = ½(∠COB)।\n4) दोनों समद्विभाजकों के बीच का कोण ∠XOY है, जो आसन्न कोणों ∠COX और ∠COY का योग है: ∠XOY = ∠COX + ∠COY।\n5) आधे मानों को रखने पर: ∠XOY = ½(∠AOC) + ½(∠COB) = ½(∠AOC + ∠COB)।\n6) चूँकि ∠AOC + ∠COB = 180° (चरण 1 से), मान रखने पर: ∠XOY = ½(180°) = 90°।\nअतः सिद्ध हुआ: किसी भी रैखिक युग्म के समद्विभाजक सदैव समकोण (90°) पर मिलते हैं।\n\n(ग) ∠AOC = 110° के लिए संख्यात्मक जाँच:\n- चूँकि ∠AOC + ∠COB = 180°, अतः ∠COB = 180° - 110° = 70°।\n- किरण OX कोण ∠AOC (110°) की समद्विभाजक है, अतः ∠AOX = ∠COX = 110° ÷ 2 = 55°।\n- किरण OY कोण ∠COB (70°) की समद्विभाजक है, अतः ∠COY = ∠BOY = 70° ÷ 2 = 35°।\n- समद्विभाजकों के बीच का कोण ∠XOY = ∠COX + ∠COY = 55° + 35° = 90°। (जाँच सफल!)।",
+      "keyPoints": [
+        "कोण समद्विभाजक कोण को दो बराबर भागों में बाँटता है (Angle bisector divides angle into two equal halves)",
+        "बीजीय प्रमाण: ∠XOY = ½(∠AOC + ∠COB) = ½(180°) = 90° (Algebraic proof: ½ of 180° is 90°)",
+        "संख्यात्मक मान: ∠AOX = 55°, ∠COY = 35° (Numerical values: ∠AOX = 55°, ∠COY = 35°)",
+        "जाँच: 55° + 35° = 90° (Verification: 55° + 35° = 90°)"
+      ]
+    },
+    {
+      "id": "q27",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "An investigation on intersecting lines and vertical angles: Two lines AB and CD intersect at O. \n(a) If angle AOC is represented by the expression (5y - 15)° and its vertically opposite angle BOD is represented by (3y + 25)°, find the value of y. \n(b) Calculate the degree measure of angle AOC and angle BOD. \n(c) Using the property of linear pairs, calculate the measure of angle COB and angle DOA. \n(d) Verify that the sum of all four angles around point O equals 360°.",
+      "questionHi": "प्रतिच्छेदी रेखाओं और शीर्षाभिमुख कोणों पर एक अन्वेषण: दो रेखाएँ AB और CD बिंदु O पर काटती हैं।\n(क) यदि कोण AOC को व्यंजक (5y - 15)° से और उसके शीर्षाभिमुख कोण BOD को (3y + 25)° से दर्शाया गया है, तो y का मान ज्ञात कीजिए।\n(ख) कोण AOC और कोण BOD के अंश (डिग्री) माप ज्ञात कीजिए।\n(ग) रैखिक युग्म के गुण का उपयोग करते हुए कोण COB और कोण DOA के माप ज्ञात कीजिए।\n(घ) जाँच कीजिए कि बिंदु O के चारों ओर के सभी चारों कोणों का योग 360° के बराबर है।",
+      "answer": "(a) Calculation of y:\nVertically opposite angles are equal: ∠AOC = ∠BOD.\nSetting the expressions equal: 5y - 15 = 3y + 25.\nSubtracting 3y from both sides: 2y - 15 = 25.\nAdding 15 to both sides: 2y = 40 ➔ y = 20.\n\n(b) Degree Measure of ∠AOC and ∠BOD:\nSubstituting y = 20 into ∠AOC: 5(20) - 15 = 100 - 15 = 85°.\nSubstituting y = 20 into ∠BOD: 3(20) + 25 = 60 + 25 = 85°.\nBoth vertically opposite angles measure 85°.\n\n(c) Measure of Angle COB and Angle DOA:\nRay OC stands on line AB, forming a linear pair: ∠AOC + ∠COB = 180°.\nSubstituting ∠AOC = 85°: 85° + ∠COE = 180° ➔ ∠COB = 180° - 85° = 95°.\nSince ∠DOA and ∠COB are vertically opposite, ∠DOA = ∠COB = 95°.\n\n(d) Verification of 360° Sum Around Point O:\nSum of all four angles = ∠AOC + ∠COB + ∠BOD + ∠DOA = 85° + 95° + 85° + 95° = 360°. (Verified!).",
+      "answerHi": "(क) y की गणना:\nशीर्षाभिमुख कोण बराबर होते हैं: ∠AOC = ∠BOD।\nव्यंजकों को बराबर रखने पर: 5y - 15 = 3y + 25।\nदोनों पक्षों से 3y घटाने पर: 2y - 15 = 25।\nदोनों पक्षों में 15 जोड़ने पर: 2y = 40 ➔ y = 20।\n\n(ख) ∠AOC और ∠BOD के माप:\n∠AOC में y = 20 रखने पर: 5(20) - 15 = 100 - 15 = 85°।\n∠BOD में y = 20 रखने पर: 3(20) + 25 = 60 + 25 = 85°।\nदोनों शीर्षाभिमुख कोण 85° के हैं।\n\n(ग) कोण COB और कोण DOA के माप:\nकिरण OC रेखा AB पर खड़ी है, जिससे रैखिक युग्म बनता है: ∠AOC + ∠COB = 180°।\n∠AOC = 85° रखने पर: 85° + ∠COB = 180° ➔ ∠COB = 180° - 85° = 95°।\nचूँकि ∠DOA और ∠COB शीर्षाभिमुख हैं, अतः ∠DOA = ∠COB = 95°।\n\n(घ) बिंदु O के चारों ओर 360° योग की जाँच:\nचारों कोणों का योग = ∠AOC + ∠COB + ∠BOD + ∠DOA = 85° + 95° + 85° + 95° = 360°। (जाँच सफल!)।",
+      "keyPoints": [
+        "शीर्षाभिमुख कोण समीकरण: 5y - 15 = 3y + 25 ➔ y = 20 (Vertically opposite equation ➔ y = 20)",
+        "कोण AOC और BOD = 85° (∠AOC = ∠BOD = 85°)",
+        "रैखिक युग्म से शेष कोण = 180° - 85° = 95° (Linear pair ➔ ∠COB = ∠DOA = 95°)",
+        "जाँच: 85° + 95° + 85° + 95° = 360° (Verification of 360° total around point)"
+      ]
+    },
+    {
+      "id": "q28",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "A competency-based problem on angles in navigation and maps: A ship at sea uses a compass rose where North (N), South (S), East (E), and West (W) form two intersecting perpendicular lines (NS and EW intersecting at center O at 90° right angles). \n(a) What is the exact degree angle between North and North-East (NE)? \n(b) If a ship is sailing directly East and turns clockwise to sail South-West (SW), through how many degrees and how many right angles has the ship turned? \n(c) A ship is sailing North-West (NW). What direction will it face if it makes a 225° turn in the counter-clockwise direction?",
+      "questionHi": "नौवहन (Navigation) और मानचित्रों में कोणों पर योग्यता-आधारित प्रश्न: समुद्र में एक जहाज कंपास (दिक्सूचक) का उपयोग करता है जहाँ उत्तर (N), दक्षिण (S), पूर्व (E) और पश्चिम (W) दो प्रतिच्छेदी लंबवत रेखाएँ बनाते हैं (NS और EW केंद्र O पर 90° के समकोण पर काटते हैं)।\n(क) उत्तर (N) और उत्तर-पूर्व (NE) के बीच सटीक कितने अंश का कोण होता है?\n(ख) यदि एक जहाज ठीक पूर्व (East) की ओर चल रहा है और वह दक्षिणावर्त (Clockwise) दिशा में मुड़कर दक्षिण-पश्चिम (SW) की ओर चलने लगता है, तो जहाज कितने अंश (डिग्री) और कितने समकोण घूमा है?\n(ग) एक जहाज उत्तर-पश्चिम (NW) की ओर चल रहा है। यदि वह वामावर्त (Counter-clockwise) दिशा में 225° मुड़ता है, तो अब उसका मुख किस दिशा में होगा?",
+      "answer": "(a) Angle between North and North-East (NE):\nIn a standard compass rose, the angle between adjacent cardinal directions (like North and East) is a right angle of 90°. North-East (NE) lies exactly halfway between North and East, bisecting the right angle.\nAngle = 90° ÷ 2 = 45°.\n\n(b) Clockwise Turn from East to South-West (SW):\nLet's trace the clockwise turn from East:\n- From East to South = 1 right angle (90°).\n- From South to West = 1 right angle (90°).\n- South-West (SW) lies exactly halfway between South and West, which is 45° past South.\nTotal degrees turned = 90° (to South) + 45° (to SW) = 135°.\nIn terms of right angles: 135° ÷ 90° = 1.5 right angles (one and a half right angles).\n\n(c) Counter-Clockwise Turn of 225° from North-West (NW):\nLet's break down a 225° turn counter-clockwise (to the left) starting from North-West (NW):\n- 225° can be expressed as 180° + 45°.\n- A 180° turn (straight angle) in any direction always reverses direction to the exact opposite. The opposite of North-West (NW) is South-East (SE).\n- From South-East (SE), continuing counter-clockwise by an additional 45° moves directly to East (E).\nTherefore, after a 225° counter-clockwise turn from NW, the ship will face directly East (E).",
+      "answerHi": "(क) उत्तर (N) और उत्तर-पूर्व (NE) के बीच का कोण:\nमानक कंपास में, दो मुख्य दिशाओं (जैसे उत्तर और पूर्व) के बीच 90° का समकोण होता है। उत्तर-पूर्व (NE) उत्तर और पूर्व के ठीक बीच में होता है, जो समकोण को समद्विभाजित करता है।\nकोण = 90° ÷ 2 = 45°।\n\n(ख) पूर्व से दक्षिण-पश्चिम (SW) तक दक्षिणावर्त घूर्णन:\nपूर्व से दक्षिणावर्त (घड़ी की दिशा में) मुड़ने पर:\n- पूर्व से दक्षिण तक = 1 समकोण (90°)।\n- दक्षिण-पश्चिम (SW) दक्षिण और पश्चिम के ठीक बीच में है, यानी दक्षिण से 45° आगे।\nकुल घूमा गया कोण = 90° (दक्षिण तक) + 45° (SW तक) = 135°।\nसमकोण के पदों में: 135° ÷ 90° = 1.5 समकोण (डेढ़ समकोण)।\n\n(ग) उत्तर-पश्चिम (NW) से वामावर्त दिशा में 225° का मोड़:\nउत्तर-पश्चिम (NW) से शुरू करके वामावर्त (घड़ी की विपरीत दिशा/बाईं ओर) 225° घूमने का विश्लेषण:\n- 225° को 180° + 45° के रूप में लिखा जा सकता है।\n- किसी भी दिशा से 180° (ऋजुकोण) मुड़ने पर दिशा ठीक विपरीत हो जाती है। उत्तर-पश्चिम (NW) की ठीक विपरीत दिशा दक्षिण-पूर्व (SE) है।\n- दक्षिण-पूर्व (SE) से वामावर्त दिशा में 45° और आगे घूमने पर हम ठीक पूर्व (East) दिशा में पहुँच जाते हैं।\nअतः NW से 225° वामावर्त मुड़ने के बाद जहाज का मुख ठीक पूर्व (East) दिशा में होगा।",
+      "keyPoints": [
+        "उत्तर और उत्तर-पूर्व के बीच कोण = 90° ÷ 2 = 45° (Angle between N and NE = 45°)",
+        "पूर्व से दक्षिण-पश्चिम (SW) दक्षिणावर्त = 90° + 45° = 135° / 1.5 समकोण (East to SW clockwise = 135° / 1.5 right angles)",
+        "225° वामावर्त = 180° + 45° ➔ NW से SE और फिर पूर्व (225° counter-clockwise from NW = 180° + 45° ➔ East direction)"
+      ]
+    },
+    {
+      "id": "q29",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "A comprehensive practical construction and analysis question: \n(a) Explain the step-by-step procedure to draw an angle of 60° using only a straight ruler and a pair of compasses (without using a protractor). \n(b) How can you use your constructed 60° angle to construct an angle of 30° and an angle of 120° using compasses? Explain the underlying geometric principle.",
+      "questionHi": "एक व्यापक प्रायोगिक रचना और विश्लेषण प्रश्न:\n(क) चाँदे (Protractor) का उपयोग किए बिना, केवल पटरी (Ruler) और परकार (Compasses) की सहायता से 60° का कोण बनाने की चरणबद्ध प्रक्रिया स्पष्ट कीजिए।\n(ख) अपने बनाए गए 60° के कोण का उपयोग करके परकार से 30° का कोण और 120° का कोण कैसे बनाया जा सकता है? इसके पीछे के ज्यामितीय सिद्धांत को स्पष्ट कीजिए।",
+      "answer": "(a) Procedure to Construct a 60° Angle (without protractor):\nStep 1: Draw a straight ray OA using a ruler with starting endpoint O.\nStep 2: With O as center and any convenient radius opened on the compass, draw an arc intersecting ray OA at point P.\nStep 3: Without changing the compass radius, place the compass needle point on intersection point P and draw another arc cutting the first arc at point Q.\nStep 4: Draw a straight ray OB from vertex O passing through intersection point Q.\nAngle AOB is an exact angle of 60°.\n(Principle: Joining O, P, and Q with straight lines forms an equilateral triangle OPQ with all sides equal to the compass radius. In any equilateral triangle, all three interior angles measure exactly 60°).\n\n(b) Constructing 30° and 120° Angles:\n- To construct 30° (Bisecting 60°): With P and Q as centers and compass radius greater than half of PQ, draw two intersecting arcs in the interior of ∠AOB. Let them intersect at point R. Drawing ray OR bisects the 60° angle into two equal 30° angles (60° ÷ 2 = 30°).\n- To construct 120° (Doubling 60°): Using the original radius from Step 2, place the compass needle on point Q (the 60° mark) and draw another arc cutting the main circular arc further along at point S. Drawing ray OS from vertex O creates an angle AOS measuring exactly 120° (60° + 60° = 120°).",
+      "answerHi": "(क) 60° का कोण बनाने की प्रक्रिया (चाँदे के बिना):\nचरण 1: पटरी की सहायता से एक सीधी किरण OA खींचिए जिसका प्रारंभिक बिंदु O हो।\nचरण 2: O को केंद्र मानकर परकार में कोई भी सुविधाजनक त्रिज्या (रेडियस) लेकर एक चाप लगाइए जो किरण OA को बिंदु P पर काटे।\nचरण 3: परकार की त्रिज्या को बिना बदले (उतना ही खुला रखकर), परकार की नोक बिंदु P पर रखिए और एक दूसरा चाप लगाइए जो पहले चाप को बिंदु Q पर काटे।\nचरण 4: शीर्ष O से बिंदु Q से होती हुई एक सीधी किरण OB खींचिए।\nकोण AOB ठीक 60° का कोण है।\n(सिद्धांत: O, P और Q को मिलाने पर एक समबाहु त्रिभुज OPQ बनता है जिसकी तीनों भुजाएँ परकार की त्रिज्या के बराबर होती हैं। समबाहु त्रिभुज का प्रत्येक कोण ठीक 60° होता है)।\n\n(ख) 30° और 120° का कोण बनाना:\n- 30° का कोण (60° का समद्विभाजन): P और Q को केंद्र मानकर तथा PQ के आधे से अधिक त्रिज्या लेकर ∠AOB के अंदर दो चाप लगाइए जो बिंदु R पर काटें। किरण OR खींचने पर 60° का कोण दो बराबर 30° के कोणों में बँट जाता है (60° ÷ 2 = 30°)।\n- 120° का कोण (60° का दोगुना): चरण 2 वाली मूल त्रिज्या रखते हुए, परकार की नोक बिंदु Q (60° वाले चिह्न) पर रखिए और मुख्य चाप पर आगे एक और चाप लगाइए जो बिंदु S पर काटे। किरण OS खींचने पर कोण AOS ठीक 120° का बनता है (60° + 60° = 120°)।",
+      "keyPoints": [
+        "60° कोण: समबाहु त्रिभुज के सिद्धांत पर आधारित (60° construction based on equilateral triangle principle)",
+        "30° कोण: 60° के कोण का समद्विभाजन / आधा (30° angle: bisecting the 60° arc using compass)",
+        "120° कोण: समान त्रिज्या से चाप पर दूसरा कट (120° angle: second step along the arc: 60° + 60° = 120°)",
+        "केवल पटरी और परकार द्वारा सटीक ज्यामितीय रचना (Precision geometry without using protractor)"
+      ]
+    },
+    {
+      "id": "q30",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "A comprehensive conceptual evaluation: \n(a) Why can two obtuse angles never form a linear pair? \n(b) Can an acute angle and an obtuse angle form a linear pair? Give one numerical example. \n(c) If angle A and angle B form a linear pair, and angle A is 3 times the measure of angle B, find the exact degree measurements of angle A and angle B.",
+      "questionHi": "एक व्यापक वैचारिक मूल्यांकन:\n(क) दो अधिककोण मिलकर कभी भी रैखिक युग्म क्यों नहीं बना सकते?\n(ख) क्या एक न्यूनकोण और एक अधिककोण मिलकर रैखिक युग्म बना सकते हैं? एक संख्यात्मक उदाहरण दीजिए।\n(ग) यदि कोण A और कोण B एक रैखिक युग्म बनाते हैं, और कोण A का माप कोण B के माप का 3 गुना है, तो कोण A और कोण B के सटीक अंश माप ज्ञात कीजिए।",
+      "answer": "(a) Why Two Obtuse Angles Cannot Form a Linear Pair:\nBy definition, an obtuse angle is strictly greater than 90° (and less than 180°). Even if we take the smallest possible obtuse angles (for example, 91° and 91°), their sum is 91° + 91° = 182°. Since a linear pair must sum to exactly 180° (forming a straight line), and the sum of any two obtuse angles is strictly greater than 180°, two obtuse angles can never form a linear pair.\n\n(b) Acute and Obtuse Angle Forming a Linear Pair:\nYes, an acute angle and an obtuse angle CAN form a linear pair, provided their degree measures sum to exactly 180° and they are adjacent. For example: an acute angle of 60° and an obtuse angle of 120° adjacent to each other form a perfect linear pair (60° + 120° = 180°).\n\n(c) Calculation for Angle A = 3 × Angle B:\nSince ∠A and ∠B form a linear pair, their sum is 180°: ∠A + ∠B = 180°.\nWe are given that ∠A = 3(∠B). Substituting this into the linear pair equation:\n3(∠B) + ∠B = 180° ➔ 4(∠B) = 180°.\nDividing both sides by 4: ∠B = 180° ÷ 4 = 45° (an acute angle).\nNow, calculate ∠A: ∠A = 3 × 45° = 135° (an obtuse angle).\nTherefore, Angle A measures 135° and Angle B measures 45°. (Verification: 135° + 45° = 180°).",
+      "answerHi": "(क) दो अधिककोण रैखिक युग्म क्यों नहीं बना सकते:\nपरिभाषा के अनुसार, अधिककोण 90° से अधिक होता है। यदि हम न्यूनतम संभव अधिककोण (जैसे 91° और 91°) भी लें, तो उनका योग 91° + 91° = 182° होगा। चूँकि रैखिक युग्म का योग ठीक 180° होना चाहिए (सीधी रेखा बनाने के लिए), और किन्हीं भी दो अधिककोणों का योग सदैव 180° से अधिक होता है, अतः दो अधिककोण कभी भी रैखिक युग्म नहीं बना सकते।\n\n(ख) न्यूनकोण और अधिककोण का रैखिक युग्म:\nहाँ, एक न्यूनकोण और एक अधिककोण मिलकर रैखिक युग्म बना सकते हैं, बशर्ते वे आसन्न हों और उनके मापों का योग ठीक 180° हो। उदाहरण के लिए: 60° का एक न्यूनकोण और 120° का एक अधिककोण मिलकर पूर्णतः एक रैखिक युग्म बनाते हैं (60° + 120° = 180°)।\n\n(ग) कोण A = 3 × कोण B के लिए गणना:\nचूँकि ∠A और ∠B रैखिक युग्म बनाते हैं, उनका योग 180° होगा: ∠A + ∠B = 180°।\nदिया गया है कि ∠A = 3(∠B)। इसे समीकरण में रखने पर:\n3(∠B) + ∠B = 180° ➔ 4(∠B) = 180°।\nदोनों पक्षों को 4 से भाग देने पर: ∠B = 180° ÷ 4 = 45° (न्यूनकोण)।\nअब ∠A की गणना: ∠A = 3 × 45° = 135° (अधिककोण)।\nअतः कोण A का माप 135° और कोण B का माप 45° है। (जाँच: 135° + 45° = 180°)।",
+      "keyPoints": [
+        "दो अधिककोणों का योग > 180° ➔ रैखिक युग्म संभव नहीं (Two obtuse angles sum > 180° ➔ NOT possible)",
+        "एक न्यूनकोण + एक अधिककोण = 180° ➔ संभव (जैसे 60° + 120°) (Acute + Obtuse = 180° ➔ YES possible)",
+        "समीकरण: 3B + B = 180° ➔ 4B = 180° (Equation: 3B + B = 180° ➔ 4B = 180°)",
+        "कोण B = 45°, कोण A = 135° (Exact answers: ∠B = 45°, ∠A = 135°)"
+      ]
+    }
+  ]
+}
