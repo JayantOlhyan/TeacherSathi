@@ -1,0 +1,457 @@
+{
+  "chapterTitle": "Temperature and its Measurement",
+  "chapterTitleHi": "तापमान और उसका मापन",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What is meant by 'temperature'? Why is our sense of touch not always reliable for deciding whether an object is hot or cold?",
+      "questionHi": "'तापमान' (Temperature) से क्या अभिप्राय है? यह तय करने के लिए कि कोई वस्तु गर्म है या ठंडी, हमारी स्पर्श की केबल ज्ञानेंद्रिय हमेशा विश्वसनीय क्यों नहीं होती है?",
+      "answer": "Temperature is the reliable scientific measure of the degree of hotness or coldness of an object or body. Our sense of touch is not always reliable because it is subjective and relative. For example, if we dip one hand in ice-cold water and the other in hot water, and then put both hands simultaneously into lukewarm water, the lukewarm water will feel hot to the cold hand and cold to the hot hand. Hence, touch can mislead us about the exact thermal state of an object.",
+      "answerHi": "किसी वस्तु या शरीर की उष्णता (गर्मी) या शीतलता (ठंडक) के विश्वसनीय वैज्ञानिक माप को 'तापमान' (Temperature) कहते हैं। हमारी स्पर्श की ज्ञानेंद्रिय हमेशा विश्वसनीय नहीं होती क्योंकि यह व्यक्तिपरक (Subjective) और सापेक्ष होती है। उदाहरण के लिए, यदि हम एक हाथ बर्फीले ठंडे पानी में और दूसरा गर्म पानी में डुबोएं, और फिर दोनों हाथों को एक साथ गुनगुने पानी में डालें, तो वही गुनगुना पानी ठंडे हाथ को गर्म और गर्म हाथ को ठंडा लगेगा। अतः स्पर्श हमें वस्तु की सही ऊष्मीय स्थिति के बारे में भ्रमित कर सकता है।",
+      "keyPoints": [
+        "वस्तु की उष्णता या शीतलता का सटीक माप तापमान कहलाता है (Temperature is the reliable measure of hotness or coldness)",
+        "स्पर्श ज्ञानेंद्रिय सापेक्ष और भ्रमित करने वाली होती है (Sense of touch is relative and can be misleading)",
+        "सटीक माप के लिए वैज्ञानिक उपकरण (थर्मामीटर) आवश्यक है (Scientific instrument/thermometer is required for exact measurement)"
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What is a thermometer? Name the two most common temperature scales used in daily life.",
+      "questionHi": "तापमापी (थर्मामीटर) क्या है? दैनिक जीवन में उपयोग किए जाने वाले दो सबसे सामान्य तापमान पैमानों (स्केलों) के नाम लिखिए।",
+      "answer": "A thermometer is a scientific instrument used to measure the temperature of human bodies, objects, or the environment accurately. The two most common temperature scales used in daily life are:\n1) Celsius Scale (°C) - standard metric scale where water freezes at 0°C and boils at 100°C.\n2) Fahrenheit Scale (°F) - widely used for measuring clinical human body temperature.",
+      "answerHi": "तापमापी (Thermometer / थर्मामीटर) एक वैज्ञानिक उपकरण है जिसका उपयोग मानव शरीर, वस्तुओं या वातावरण के तापमान को सटीकता से मापने के लिए किया जाता है। दैनिक जीवन में उपयोग किए जाने वाले दो सबसे सामान्य तापमान पैमाने हैं:\n1) सेल्सियस पैमाना (°C) - मानक मीट्रिक पैमाना जिसमें जल 0°C पर जमता है और 100°C पर उबलता है।\n2) फारेनहाइट पैमाना (°F) - मानव शरीर के चिकित्सीय तापमान को मापने के लिए व्यापक रूप से प्रयुक्त।",
+      "keyPoints": [
+        "तापमान मापने का सटीक वैज्ञानिक उपकरण (Scientific instrument used to measure temperature accurately)",
+        "सेल्सियस पैमाना (°C) - 0°C से 100°C (Celsius scale: 0°C freezing point to 100°C boiling point)",
+        "फारेनहाइट पैमाना (°F) - चिकित्सीय उपयोग में सामान्य (Fahrenheit scale: Commonly used in clinical measurements)"
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What is the normal body temperature of a healthy human being in both Celsius and Fahrenheit scales?",
+      "questionHi": "एक स्वस्थ मानव शरीर का सामान्य तापमान सेल्सियस और फारेनहाइट दोनों पैमानों पर कितना होता है?",
+      "answer": "The normal body temperature of a healthy human being is 37°C on the Celsius scale, which corresponds to 98.6°F on the Fahrenheit scale. However, this is an average temperature; a normal healthy person's temperature can slightly vary between 36.5°C and 37.5°C (97.7°F to 99.5°F) depending on physical activity and time of day.",
+      "answerHi": "एक स्वस्थ मानव शरीर का सामान्य तापमान सेल्सियस पैमाने पर 37°C होता है, जो फारेनहाइट पैमाने पर 98.6°F के बराबर होता है। हालाँकि, यह एक औसत तापमान है; किसी सामान्य स्वस्थ व्यक्ति का तापमान शारीरिक गतिविधि और दिन के समय के आधार पर 36.5°C से 37.5°C (97.7°F से 99.5°F) के बीच थोड़ा भिन्न हो सकता है।",
+      "keyPoints": [
+        "सेल्सियस पैमाने पर सामान्य तापमान = 37°C (Normal human body temperature on Celsius scale = 37°C)",
+        "फारेनहाइट पैमाने पर सामान्य तापमान = 98.6°F (Normal human body temperature on Fahrenheit scale = 98.6°F)",
+        "यह स्वस्थ व्यक्तियों के तापमान का औसत मान है (This is an average value across healthy individuals)"
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What is the temperature reading range of a standard clinical thermometer in Celsius and Fahrenheit?",
+      "questionHi": "एक मानक चिकित्सीय तापमापी (क्लिनिकल थर्मामीटर) का तापमान पठन परास (रेंज) सेल्सियस और फारेनहाइट में कितना होता है?",
+      "answer": "The temperature reading range of a standard clinical thermometer is:\n1) In Celsius scale: From 35°C to 42°C.\n2) In Fahrenheit scale: From 94°F to 108°F.\nThis specific range is chosen because the temperature of a living human body normally does not drop below 35°C (94°F) or rise above 42°C (108°F).",
+      "answerHi": "एक मानक चिकित्सीय तापमापी (क्लिनिकल थर्मामीटर) का तापमान पठन परास (रेंज) निम्नलिखित होता है:\n1) सेल्सियस पैमाने पर: 35°C से 42°C तक।\n2) फारेनहाइट पैमाने पर: 94°F से 108°F तक।\nयह विशिष्ट परास इसलिए चुना जाता है क्योंकि जीवित मानव शरीर का तापमान सामान्यतः 35°C (94°F) से कम या 42°C (108°F) से अधिक नहीं होता है।",
+      "keyPoints": [
+        "सेल्सियस परास: 35°C से 42°C (Celsius range: 35°C to 42°C)",
+        "फारेनहाइट परास: 94°F से 108°F (Fahrenheit range: 94°F to 108°F)",
+        "मानव शरीर का तापमान इस सीमा के बाहर नहीं जाता (Human body temperature normally stays within these limits)"
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Why should a clinical thermometer be washed with an antiseptic solution before and after each use?",
+      "questionHi": "प्रत्येक उपयोग से पहले और बाद में क्लिनिकल थर्मामीटर को रोगाणुरोधक (एंटीसेप्टिक) घोल से क्यों धोना चाहिए?",
+      "answer": "A clinical thermometer should be washed with an antiseptic solution before and after each use for hygiene and infection control. When placed in a patient's mouth or armpit, bacteria, viruses, or pathogens from saliva and sweat attach to the thermometer bulb. Washing it with an antiseptic solution kills these harmful germs, preventing the spread of contagious diseases from one person to another.",
+      "answerHi": "क्लिनिकल थर्मामीटर को स्वच्छता और संक्रमण नियंत्रण के लिए प्रत्येक उपयोग से पहले और बाद में रोगाणुरोधक (एंटीसेप्टिक) घोल से धोना चाहिए। जब इसे मरीज के मुंह या कांख (आर्मपिट) में रखा जाता है, तो लार और पसीने से जीवाणु, विषाणु या रोगाणु थर्मामीटर के बल्ब पर चिपक जाते हैं। एंटीसेप्टिक घोल से धोने पर ये हानिकारक रोगाणु नष्ट हो जाते हैं, जिससे संक्रामक बीमारियों को एक व्यक्ति से दूसरे व्यक्ति में फैलने से रोका जा सकता है।",
+      "keyPoints": [
+        "स्वच्छता और संक्रमण नियंत्रण के लिए (For hygiene and infection control)",
+        "थर्मामीटर पर लगे जीवाणुओं और विषाणुओं को नष्ट करना (Kills bacteria and viruses attached to the bulb)",
+        "बीमारियों को एक व्यक्ति से दूसरे में फैलने से रोकना (Prevents transmission of contagious diseases between people)"
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "What is the function of the 'kink' (constriction) near the bulb of a clinical thermometer?",
+      "questionHi": "क्लिनिकल थर्मामीटर में बल्ब के पास स्थित 'खूंच' या 'भंज' (Kink / Constriction) का क्या कार्य है?",
+      "answer": "The kink (a small bend or constriction in the capillary tube near the bulb) prevents the mercury thread from falling back automatically into the bulb as soon as the thermometer is taken out of the patient's mouth or armpit. This allows the doctor or user sufficient time to read the body temperature conveniently and accurately at room temperature.",
+      "answerHi": "खूंच या भंज (बल्ब के पास केशिका नली में एक छोटा सा मोड़ या संकुचन) थर्मामीटर को मरीज के मुंह या कांख से बाहर निकालते ही पारे (मरकरी) के धागे को अपने-आप वापस बल्ब में गिरने से रोकता है। इससे डॉक्टर या उपयोगकर्ता को कमरे के तापमान पर आराम से और सटीकता के साथ शरीर का तापमान पढ़ने के लिए पर्याप्त समय मिल जाता है।",
+      "keyPoints": [
+        "बल्ब के पास केशिका नली में छोटा मोड़ या संकुचन (Small bend or constriction in the capillary tube near the bulb)",
+        "पारे को अपने-आप वापस बल्ब में गिरने से रोकता है (Prevents mercury thread from falling back automatically)",
+        "मुंह से निकालने के बाद तापमान पढ़ने में सुविधा (Allows convenient reading of temperature after removal from body)"
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "What is a laboratory thermometer? What is its usual temperature range?",
+      "questionHi": "प्रयोगशाला तापमापी (लेबोरेटरी थर्मामीटर) क्या है? इसका सामान्य तापमान परास (रेंज) क्या होता है?",
+      "answer": "A laboratory thermometer is a specialized scientific thermometer used in schools, research labs, and industries to measure the temperature of various substances, liquids (like boiling water or melting ice), and chemical reactions. Its usual temperature reading range is from -10°C to 110°C, which is much wider than a clinical thermometer.",
+      "answerHi": "प्रयोगशाला तापमापी (लेबोरेटरी थर्मामीटर) एक विशेष वैज्ञानिक तापमापी है जिसका उपयोग विद्यालयों, अनुसंधान प्रयोगशालाओं और उद्योगों में विभिन्न पदार्थों, द्रवों (जैसे उबलता पानी या पिघलती बर्फ) और रासायनिक अभिक्रियाओं के तापमान को मापने के लिए किया जाता है। इसका सामान्य तापमान पठन परास -10°C से 110°C तक होता है, जो क्लिनिकल थर्मामीटर से कहीं अधिक विस्तृत है।",
+      "keyPoints": [
+        "प्रयोगशालाओं में द्रवों और रासायनिक प्रयोगों का तापमान मापने का उपकरण (Instrument for measuring temperatures of liquids and experiments in labs)",
+        "सामान्य परास: -10°C से 110°C (Usual range: -10°C to 110°C)",
+        "क्लिनिकल थर्मामीटर की तुलना में बहुत विस्तृत परास (Much wider range compared to clinical thermometers)"
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "Why can we not use a clinical thermometer to measure the temperature of boiling water?",
+      "questionHi": "हम उबलते पानी का तापमान मापने के लिए क्लिनिकल थर्मामीटर का उपयोग क्यों नहीं कर सकते?",
+      "answer": "We cannot use a clinical thermometer to measure boiling water because a clinical thermometer is designed to measure temperatures only up to 42°C (108°F), whereas boiling water has a very high temperature of around 100°C (212°F). When placed in boiling water, the mercury inside expands rapidly and forcefully beyond the maximum limit, causing the glass bulb or tube to shatter instantly and releasing toxic mercury.",
+      "answerHi": "हम उबलते पानी का तापमान मापने के लिए क्लिनिकल थर्मामीटर का उपयोग नहीं कर सकते क्योंकि क्लिनिकल थर्मामीटर केवल 42°C (108°F) तक का तापमान मापने के लिए डिज़ाइन किया गया है, जबकि उबलते पानी का तापमान लगभग 100°C (212°F) बहुत अधिक होता है। उबलते पानी में डालने पर अंदर का पारा अधिकतम सीमा से बाहर तेजी से और अत्यधिक बल के साथ फैलता है, जिससे कांच का बल्ब या नली तुरंत टूट जाएगी और जहरीला पारा बाहर निकल जाएगा।",
+      "keyPoints": [
+        "क्लिनिकल थर्मामीटर की अधिकतम सीमा केवल 42°C होती है (Clinical thermometer has a maximum limit of only 42°C)",
+        "उबलते पानी का तापमान ~100°C होता है (Boiling water has a temperature of ~100°C)",
+        "अत्यधिक ऊष्मीय प्रसार के कारण कांच टूट जाएगा और जहरीला पारा फैलेगा (Glass will shatter due to excessive expansion, releasing toxic mercury)"
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Why are digital thermometers becoming more popular than traditional glass mercury thermometers today?",
+      "questionHi": "पारंपरिक कांच के पारा (मरकरी) थर्मामीटरों की तुलना में आजकल डिजिटल थर्मामीटर अधिक लोकप्रिय क्यों हो रहे हैं?",
+      "answer": "Digital thermometers are becoming more popular than traditional mercury thermometers for two main reasons:\n1) Safety (No toxic mercury): Mercury is a highly toxic liquid metal that is extremely hazardous to health and difficult to clean up if a glass thermometer breaks. Digital thermometers do not contain any mercury.\n2) Convenience and accuracy: Digital thermometers display the exact temperature in numbers on an LCD screen with a beep sound, making them much faster and easier to read without alignment errors.",
+      "answerHi": "पारंपरिक पारा (मरकरी) थर्मामीटरों की तुलना में डिजिटल थर्मामीटर निम्नलिखित दो मुख्य कारणों से अधिक लोकप्रिय हो रहे हैं:\n1) सुरक्षा (जहरीले पारे से मुक्ति): पारा एक अत्यधिक जहरीली द्रव धातु है जो स्वास्थ्य के लिए बहुत खतरनाक है और कांच का थर्मामीटर टूटने पर इसे साफ करना अत्यधिक कठिन होता है। डिजिटल थर्मामीटर में पारा नहीं होता है।\n2) सुविधा और सटीकता: डिजिटल थर्मामीटर एलसीडी स्क्रीन पर अंकों में सटीक तापमान दिखाते हैं और बीप की आवाज करते हैं, जिससे इन्हें बिना किसी त्रुटि के पढ़ना बहुत तेज और आसान होता है।",
+      "keyPoints": [
+        "डिजिटल थर्मामीटर में जहरीला पारा (मरकरी) नहीं होता - सुरक्षित (Digital thermometers do not contain toxic mercury - Safe to use)",
+        "एलसीडी स्क्रीन पर अंकों में सटीक तापमान दिखाई देता है (Displays accurate numerical reading on an LCD screen)",
+        "टूटने का कम खतरा और उपयोग में अत्यधिक आसान (Less risk of breakage and extremely easy to use)"
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "Why should you avoid holding a thermometer by its bulb while taking or reading a temperature reading?",
+      "questionHi": "तापमान लेते या पढ़ते समय थर्मामीटर को उसके बल्ब से पकड़ने से क्यों बचना चाहिए?",
+      "answer": "You should never hold a thermometer by its bulb while taking or reading a temperature reading because our fingers and hands have their own body heat. If we touch or hold the bulb, the sensitive mercury or sensor inside will absorb heat from our fingers and expand, resulting in an inaccurate and falsely elevated temperature reading of the subject.",
+      "answerHi": "तापमान लेते या पढ़ते समय थर्मामीटर को कभी भी उसके बल्ब से नहीं पकड़ना चाहिए क्योंकि हमारी उंगलियों और हाथों में अपनी शारीरिक ऊष्मा (गर्मी) होती है। यदि हम बल्ब को छूते या पकड़ते हैं, तो अंदर स्थित संवेदनशील पारा या सेंसर हमारी उंगलियों की ऊष्मा को अवशोषित करके फैल जाएगा, जिसके परिणामस्वरूप तापमान का पठन गलत और वास्तविक से अधिक आएगा।",
+      "keyPoints": [
+        "हाथों और उंगलियों में अपनी शारीरिक ऊष्मा होती है (Hands and fingers possess their own body heat)",
+        "बल्ब छूने से पारा उंगलियों की गर्मी सोखकर फैल जाता है (Touching bulb causes mercury to absorb heat from fingers)",
+        "तापमान का पठन गलत और वास्तविक से अधिक हो जाएगा (Resulting reading will be inaccurate and falsely elevated)"
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "State three important differences between a clinical thermometer and a laboratory thermometer.",
+      "questionHi": "क्लिनिकल थर्मामीटर (चिकित्सीय तापमापी) और प्रयोगशाला थर्मामीटर के बीच तीन महत्वपूर्ण अंतर बताइए।",
+      "answer": "Three key differences between a clinical thermometer and a laboratory thermometer are:\n1) Temperature Range: A clinical thermometer has a narrow range from 35°C to 42°C (94°F to 108°F), whereas a laboratory thermometer has a wide range from -10°C to 110°C.\n2) Presence of Kink: A clinical thermometer has a kink (constriction) near the bulb to prevent mercury from falling back automatically. A laboratory thermometer does NOT have a kink; mercury falls immediately when removed from a hot/cold source.\n3) Application and Reading: A clinical thermometer is used only to measure human body temperature and can be read after removing from the body. A laboratory thermometer is used to measure temperatures of objects/liquids in labs and must be read while the bulb is still immersed in the substance.",
+      "answerHi": "क्लिनिकल थर्मामीटर और प्रयोगशाला थर्मामीटर के बीच तीन प्रमुख अंतर निम्नलिखित हैं:\n1) तापमान परास (रेंज): क्लिनिकल थर्मामीटर का परास सीमित (35°C से 42°C / 94°F से 108°F) होता है, जबकि प्रयोगशाला थर्मामीटर का परास विस्तृत (-10°C से 110°C) होता है।\n2) खूंच/भंज (Kink) की उपस्थिति: क्लिनिकल थर्मामीटर में पारे को अपने-आप गिरने से रोकने के लिए बल्ब के पास खूंच (Kink) होता है। प्रयोगशाला थर्मामीटर में खूंच नहीं होता; स्रोत से हटाते ही पारा तुरंत गिर जाता है।\n3) उपयोग और पठन: क्लिनिकल थर्मामीटर केवल मानव शरीर का तापमान मापने के लिए होता है और शरीर से बाहर निकालकर पढ़ा जा सकता है। प्रयोगशाला थर्मामीटर का उपयोग लैब में वस्तुओं/द्रवों का तापमान मापने के लिए होता है और इसे पदार्थ में डूबे रहते हुए ही पढ़ना पड़ता है।",
+      "keyPoints": [
+        "परास: क्लिनिकल (35°C से 42°C) बनाम प्रयोगशाला (-10°C से 110°C) (Range: Clinical 35°C to 42°C vs Lab -10°C to 110°C)",
+        "खूंच (Kink): क्लिनिकल में उपस्थित, प्रयोगशाला में अनुपस्थित (Kink: Present in clinical, absent in lab thermometer)",
+        "पठन विधि: क्लिनिकल बाहर निकालकर, प्रयोगशाला डूबे रहकर (Reading: Clinical read outside body, lab read while immersed)"
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "What is fever? Mention three important steps you should follow while using a clinical thermometer to check a family member's body temperature.",
+      "questionHi": "बुखार (ज्वर / Fever) क्या है? परिवार के किसी सदस्य का तापमान जांचने के लिए क्लिनिकल थर्मामीटर का उपयोग करते समय आपको किन तीन महत्वपूर्ण चरणों का पालन करना चाहिए?",
+      "answer": "Fever is a temporary condition in which a person's body temperature rises above the normal range (above 37°C or 98.6°F), usually due to an illness or infection battling germs.\n\nThree important steps to follow while checking temperature:\n1) Cleaning and resetting: Wash the thermometer with an antiseptic solution. Hold it firmly and give it a few sharp jerks to bring the mercury level below 35°C (94°F).\n2) Proper placement: Place the thermometer bulb securely under the person's tongue (or in the armpit for children) and ask them to keep their mouth closed calmly for about one to two minutes.\n3) Accurate reading along line of sight: Take the thermometer out and hold it horizontally at eye level. Rotate it slightly until the shiny silvery mercury thread is clearly visible, and read the mark matching the tip of the thread.",
+      "answerHi": "बुखार (ज्वर / Fever) एक अस्थायी स्थिति है जिसमें किसी व्यक्ति के शरीर का तापमान सामान्य सीमा (37°C या 98.6°F से अधिक) से ऊपर बढ़ जाता है, जो सामान्यतः किसी बीमारी या संक्रमण से शरीर के लड़ने के कारण होता है।\n\nतापमान जांचते समय पालन करने योग्य तीन महत्वपूर्ण चरण:\n1) सफाई और रीसेट करना: थर्मामीटर को रोगाणुरोधक (एंटीसेप्टिक) घोल से धोएं। इसे मजबूती से पकड़कर कुछ झटके (जर्क) दें ताकि पारे का स्तर 35°C (94°F) से नीचे आ जाए।\n2) सही स्थिति में रखना: थर्मामीटर के बल्ब को व्यक्ति की जीभ के नीचे (या बच्चों के लिए कांख में) सुरक्षित रूप से रखें और उन्हें लगभग एक से दो मिनट तक शांत रहकर मुंह बंद रखने को कहें।\n3) दृष्टि रेखा के समानांतर सटीक पठन: थर्मामीटर को बाहर निकालें और इसे क्षैतिज रूप से आंखों के स्तर (Line of sight) पर रखें। इसे थोड़ा घुमाएं जब तक कि चमकीली पारे की रेखा स्पष्ट न दिख जाए, और रेखा के सिरे से मेल खाते अंक को पढ़ें।",
+      "keyPoints": [
+        "बुखार: सामान्य से अधिक शारीरिक तापमान (>37°C या >98.6°F) (Fever: Body temperature rising above normal >37°C or >98.6°F)",
+        "उपयोग से पहले झटके देकर पारे को 35°C से नीचे लाना (Jerk thermometer before use to bring mercury below 35°C)",
+        "आंखों के स्तर (दृष्टि रेखा) पर क्षैतिज रखकर सही तापमान पढ़ना (Read correctly by holding horizontally at eye level along line of sight)"
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "While measuring the temperature of lukewarm water in a beaker using a laboratory thermometer, a student makes several mistakes. Mention three critical precautions that must be observed during this experiment to get an accurate reading.",
+      "questionHi": "प्रयोगशाला थर्मामीटर का उपयोग करके एक बीकर में गुनगुने पानी का तापमान मापते समय एक छात्र कई गलतियाँ करता है। इस प्रयोग के दौरान सटीक पठन (रीडिंग) प्राप्त करने के लिए बरती जाने वाली तीन महत्वपूर्ण सावधानियों का उल्लेख कीजिए।",
+      "answer": "To get an accurate temperature reading of a liquid using a laboratory thermometer, three critical precautions must be strictly observed:\n1) Keep thermometer vertical: The thermometer should be held strictly upright and vertical; it should never be tilted or slanted while measuring.\n2) Bulb must be completely surrounded by liquid without touching container: The glass bulb must be fully submerged and surrounded from all sides by the liquid being measured, but it must NOT touch the bottom or sides of the beaker (otherwise it will measure the temperature of the glass beaker instead of the liquid).\n3) Read while immersed: Because a lab thermometer has no kink, the mercury thread starts dropping immediately when removed from heat. Therefore, the temperature reading must be taken while the bulb is still immersed inside the water, keeping the eye at the level of the mercury meniscus.",
+      "answerHi": "प्रयोगशाला थर्मामीटर का उपयोग करके किसी द्रव का सटीक तापमान मापने के लिए निम्नलिखित तीन महत्वपूर्ण सावधानियों का सख्ती से पालन किया जाना चाहिए:\n1) थर्मामीटर को ऊर्ध्वाधर (सीधा) रखना: थर्मामीटर को बिल्कुल सीधा (ऊर्ध्वाधर / वर्टिकल) पकड़ना चाहिए; मापते समय इसे कभी भी तिरछा या झुका हुआ नहीं रखना चाहिए।\n2) बल्ब बर्तन को छुए बिना द्रव से पूरी तरह घिरा होना चाहिए: कांच का बल्ब मापे जाने वाले द्रव में पूरी तरह डूबा और सभी तरफ से घिरा होना चाहिए, परंतु यह बीकर के पेंदे या दीवारों को बिल्कुल नहीं छूना चाहिए (अन्यथा यह पानी के बजाय कांच के बर्तन का तापमान माप लेगा)।\n3) डूबे रहते हुए ही पठन (रीडिंग) लेना: चूंकि प्रयोगशाला थर्मामीटर में खूंच (Kink) नहीं होता, इसलिए बाहर निकालते ही पारा गिरने लगता है। अतः तापमान का पठन तब ही लिया जाना चाहिए जब बल्ब पानी के अंदर डूबा हुआ हो और आंख पारे के स्तर के ठीक सामने हो।",
+      "keyPoints": [
+        "थर्मामीटर को बिल्कुल सीधा (ऊर्ध्वाधर/वर्टिकल) रखें, तिरछा नहीं (Keep thermometer strictly upright and vertical, never tilted)",
+        "बल्ब बीकर के पेंदे या दीवारों को नहीं छूना चाहिए (Bulb must be fully surrounded by liquid without touching container walls or bottom)",
+        "पठन (रीडिंग) द्रव के अंदर डूबे रहते हुए ही ली जानी चाहिए (Reading must be taken while the bulb is still immersed in the liquid)"
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Why is mercury chosen as the liquid inside traditional glass thermometers? Give three scientific reasons.",
+      "questionHi": "पारंपरिक कांच के थर्मामीटरों के अंदर द्रव के रूप में पारे (मरकरी / Mercury) को क्यों चुना जाता है? तीन वैज्ञानिक कारण दीजिए।",
+      "answer": "Mercury has been traditionally chosen as the thermometric liquid inside glass thermometers due to three unique physical properties:\n1) Uniform thermal expansion: Mercury expands uniformly and steadily across a wide temperature range, making calibration and reading extremely accurate.\n2) High visibility and non-wetting nature: Mercury is a shiny, silvery-white liquid metal that is clearly visible against the glass capillary. Moreover, it does not stick to or wet the glass walls, leaving the tube clean as it rises and falls.\n3) Wide liquid state range and high conductivity: Mercury remains a liquid over a very broad range of temperatures (it freezes at -38.8°C and boils at 356.7°C). Being a metal, it is a good conductor of heat and quickly reaches the temperature of the object being measured.",
+      "answerHi": "पारंपरिक कांच के थर्मामीटरों के अंदर तापमापीय द्रव के रूप में पारे (मरकरी) को निम्नलिखित तीन विशिष्ट भौतिक गुणों के कारण चुना जाता है:\n1) एकसमान ऊष्मीय प्रसार: पारा एक विस्तृत तापमान परास में एकसमान (यूनिफॉर्म) और स्थिर दर से फैलता है, जिससे तापमान का मापन और पैमाना अत्यंत सटीक होता है।\n2) उच्च दृश्यता और कांच को न भिगोने का गुण: पारा एक चमकीली, रजत-श्वेत (सिल्वर-व्हाइट) द्रव धातु है जो कांच की महीन नली में स्पष्ट रूप से दिखाई देती है। इसके अलावा, यह कांच की दीवारों से चिपकता या भिगोता नहीं है, जिससे चढ़ते और उतरते समय नली बिल्कुल साफ रहती है।\n3) विस्तृत द्रव अवस्था परास और उच्च चालकता: पारा बहुत विस्तृत तापमान सीमा तक द्रव अवस्था में बना रहता है (यह -38.8°C पर जमता है और 356.7°C पर उबलता है)। धातु होने के कारण यह ऊष्मा का अच्छा सुचालक है और मापी जाने वाली वस्तु का तापमान शीघ्रता से ग्रहण कर लेता है।",
+      "keyPoints": [
+        "तापमान के साथ एकसमान और स्थिर दर से फैलता है (Expands uniformly and steadily with temperature changes)",
+        "चमकीला होने के कारण स्पष्ट दिखता है और कांच की दीवारों से नहीं चिपकता (Shiny silvery appearance makes it clearly visible; does not stick to or wet glass)",
+        "ऊष्मा का सुचालक है और विस्तृत तापमान सीमा तक द्रव बना रहता है (Good conductor of heat and remains liquid over a wide temperature range)"
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "Explain how the capillary tube and bulb of a glass thermometer work together to show even the smallest changes in temperature.",
+      "questionHi": "समझाइए कि कांच के थर्मामीटर की केशिका नली (कैपिलरी ट्यूब) और बल्ब मिलकर किस प्रकार तापमान में होने वाले बहुत छोटे-छोटे बदलावों को भी दर्शाते हैं।",
+      "answer": "The sensitivity of a glass thermometer depends on the precise structural ratio between its bulb and capillary tube:\n1) Large volume of mercury in Bulb: The glass bulb at the bottom holds a relatively large volume of mercury. When exposed to heat, this entire mass of mercury absorbs thermal energy and undergoes volumetric expansion.\n2) Extremely narrow Capillary Tube: The glass stem above the bulb contains a microscopic, hair-thin internal capillary bore. \n3) Amplification of expansion: When the large volume of mercury in the bulb expands even slightly due to a tiny rise in temperature, the extra volume has nowhere to go but upward into the extremely narrow capillary tube. Because the bore is so thin, even a minuscule expansion forces the mercury thread to move a significant and easily visible distance along the scale. Thus, small temperature changes are magnified into clear readings.",
+      "answerHi": "कांच के थर्मामीटर की संवेदनशीलता उसके बल्ब और केशिका नली के बीच के सटीक संरचनात्मक अनुपात पर निर्भर करती है:\n1) बल्ब में पारे का बड़ा आयतन: निचले सिरे पर स्थित कांच के बल्ब में पारे (मरकरी) की अपेक्षाकृत बड़ी मात्रा (आयतन) होती है। ऊष्मा के संपर्क में आने पर पारे का यह संपूर्ण द्रव्यमान ऊष्मीय ऊर्जा अवशोषित कर आयतनात्मक रूप से फैलता है।\n2) अत्यंत महीन केशिका नली (कैपिलरी बोर): बल्ब के ऊपर कांच के तने में बाल जैसी अत्यंत बारीक और संकीर्ण आंतरिक केशिका नली होती है।\n3) प्रसार का आवर्धन (मैग्निफिकेशन): जब तापमान में बहुत छोटी सी वृद्धि के कारण भी बल्ब में रखे पारे का बड़ा आयतन थोड़ा सा फैलता है, तो उस अतिरिक्त आयतन के पास जाने के लिए अत्यंत संकीर्ण केशिका नली के अलावा कोई जगह नहीं होती। चूंकि नली का छेद बहुत बारीक होता है, इसलिए मामूली सा प्रसार भी पारे के धागे को पैमाने पर काफी ऊपर तक धकेल देता है, जिसे आसानी से देखा जा सकता है। इस प्रकार छोटे बदलाव स्पष्ट पठन में बदल जाते हैं।",
+      "keyPoints": [
+        "बल्ब में पारे का बड़ा आयतन ऊष्मा पाकर फैलता है (Large volume of mercury in bulb expands upon absorbing heat)",
+        "केशिका नली बाल जैसी अत्यंत बारीक और संकीर्ण होती है (Capillary tube above bulb has a microscopic, hair-thin bore)",
+        "बारीक नली के कारण मामूली प्रसार भी पैमाने पर बड़ी दूरी तय करता है (Thin bore forces slight expansion to move a significant, visible distance on scale)"
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Why is the normal human body temperature stated as an average (37°C or 98.6°F)? Mention three factors that cause minor variations in body temperature among healthy individuals.",
+      "questionHi": "मानव शरीर के सामान्य तापमान को एक औसत (37°C या 98.6°F) के रूप में क्यों बताया जाता है? तीन ऐसे कारक बताइए जिनके कारण स्वस्थ व्यक्तियों में भी शारीरिक तापमान में थोड़ा बदलाव आता है।",
+      "answer": "The value 37°C (98.6°F) is stated as an average because if we measure the body temperature of a large group of healthy people, we find that everyone does not have the exact same reading; some are slightly below 37°C and some are slightly above. It represents the average temperature of a healthy human population.\n\nThree factors causing minor variations in healthy individuals:\n1) Physical Activity / Exercise: Engaging in sports, running, or heavy physical labor generates metabolic heat, slightly raising body temperature.\n2) Time of the Day: Body temperature naturally fluctuates during the day—it is usually lowest in the early morning (around 4 AM) and highest in the late afternoon or evening.\n3) Age and Metabolism: Infants and young children generally have a slightly higher metabolic rate and body temperature compared to elderly individuals.",
+      "answerHi": "37°C (98.6°F) को एक औसत मान के रूप में इसलिए बताया जाता है क्योंकि यदि हम स्वस्थ लोगों के एक बड़े समूह के शरीर का तापमान मापें, तो सभी का पठन बिल्कुल एक जैसा नहीं होता; कुछ का 37°C से थोड़ा कम और कुछ का थोड़ा अधिक होता है। यह एक स्वस्थ मानव आबादी का औसत तापमान दर्शाता है।\n\nस्वस्थ व्यक्तियों में तापमान में थोड़ा बदलाव लाने वाले तीन कारक:\n1) शारीरिक गतिविधि / व्यायाम: खेलकूद, दौड़ने या भारी शारीरिक श्रम करने से शरीर में चयापचय ऊष्मा उत्पन्न होती है, जिससे तापमान थोड़ा बढ़ जाता है।\n2) दिन का समय: शारीरिक तापमान दिन के समय के साथ प्राकृतिक रूप से बदलता है—यह सामान्यतः सुबह के समय (लगभग 4 बजे) सबसे कम और दोपहर बाद या शाम को सबसे अधिक होता है।\n3) आयु और चयापचय (मेटाबॉलिज्म): वृद्ध व्यक्तियों की तुलना में शिशुओं और छोटे बच्चों की चयापचय दर और शारीरिक तापमान सामान्यतः थोड़ा अधिक होता है।",
+      "keyPoints": [
+        "37°C स्वस्थ लोगों के एक बड़े समूह के तापमान का औसत मान है (37°C is the statistical average of temperatures measured across many healthy individuals)",
+        "शारीरिक गतिविधि और व्यायाम से तापमान थोड़ा बढ़ जाता है (Physical activity and exercise slightly elevate body temperature)",
+        "दिन के समय और आयु के अनुसार तापमान में प्राकृतिक बदलाव होता है (Natural fluctuations occur based on time of day and age of the person)"
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "If a laboratory thermometer is used to measure the temperature of a hot liquid, why must you read the temperature while the bulb is still inside the liquid? What will happen if you take it out to read?",
+      "questionHi": "यदि किसी गर्म द्रव का तापमान मापने के लिए प्रयोगशाला थर्मामीटर का उपयोग किया जाता है, तो आपको तापमान तब ही क्यों पढ़ना चाहिए जब बल्ब द्रव के अंदर हो? यदि आप इसे पढ़ने के लिए बाहर निकालेंगे तो क्या होगा?",
+      "answer": "You must read the temperature while the bulb is still immersed inside the hot liquid because a laboratory thermometer does NOT have a 'kink' (constriction) near its bulb.\nWhat happens if taken out:\nIn a clinical thermometer, the kink prevents mercury from falling back automatically. But in a laboratory thermometer without a kink, as soon as you remove the bulb from the hot liquid into the cooler room air, the mercury thread immediately starts contracting and falling back rapidly into the bulb. If you take it out to read, you will see a much lower temperature reading representing the cooling air rather than the true temperature of the hot liquid.",
+      "answerHi": "आपको तापमान का पठन तब ही लेना चाहिए जब बल्ब गर्म द्रव के अंदर डूबा हुआ हो, क्योंकि प्रयोगशाला थर्मामीटर में बल्ब के पास 'खूंच' या 'भंज' (Kink / Constriction) नहीं होता है।\nबाहर निकालने पर क्या होगा:\nक्लिनिकल थर्मामीटर में खूंच पारे को अपने-आप नीचे गिरने से रोकता है। परंतु बिना खूंच वाले प्रयोगशाला थर्मामीटर में, जैसे ही आप बल्ब को गर्म द्रव से बाहर निकालकर कमरे की ठंडी हवा में लाते हैं, पारे का धागा तुरंत सिकुड़ने लगता है और तेजी से वापस बल्ब में गिरने लगता है। यदि आप इसे बाहर निकालकर पढ़ेंगे, तो आपको बहुत कम तापमान दिखाई देगा, जो गर्म द्रव के सही तापमान के बजाय ठंडी होती हवा का तापमान होगा।",
+      "keyPoints": [
+        "प्रयोगशाला थर्मामीटर में खूंच (Kink) नहीं होता है (Laboratory thermometer does not possess a kink or constriction)",
+        "गर्म द्रव से बाहर निकालते ही पारा तेजी से नीचे गिरने लगता है (Mercury thread drops immediately when removed from hot liquid into cooler air)",
+        "सटीक पठन के लिए बल्ब का द्रव में डूबा रहना अनिवार्य है (Bulb must remain immersed in the liquid to obtain an accurate reading)"
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "How do you read a thermometer scale correctly? Describe how to calculate the value of one small division on a thermometer stem.",
+      "questionHi": "थर्मामीटर के पैमाने (स्केल) को सही ढंग से कैसे पढ़ा जाता है? समझाइए कि थर्मामीटर के तने पर एक छोटे भाग (डिवीजन) का मान कैसे निर्धारित किया जाता है।",
+      "answer": "To read a thermometer scale correctly and determine the exact value of one small division, follow these simple steps:\n1) Note the difference between two bigger marks: Find two consecutive larger numerical marks on the scale (for example, 37°C and 38°C). The temperature difference between them is 38 - 37 = 1°C.\n2) Count the number of small divisions: Count the total number of smaller intervals or divisions present between these two bigger marks.\n3) Calculate the value of one division: Divide the difference of the bigger marks by the number of small divisions.\n- If there are 10 small divisions between 1°C, then 1 small division = 1°C / 10 = 0.1°C.\n- If there are 5 small divisions between 1°C, then 1 small division = 1°C / 5 = 0.2°C.\nFinally, add the value of the small divisions above the larger mark matching the mercury meniscus to get the exact temperature.",
+      "answerHi": "थर्मामीटर के पैमाने को सही ढंग से पढ़ने और एक छोटे भाग (डिवीजन) का सटीक मान निर्धारित करने के लिए निम्नलिखित सरल चरणों का पालन करें:\n1) दो बड़े निशानों के बीच का अंतर नोट करें: पैमाने पर दो लगातार बड़े संख्यात्मक निशानों (जैसे 37°C और 38°C) को देखें। उनके बीच तापमान का अंतर 38 - 37 = 1°C है।\n2) छोटे भागों की संख्या गिनें: इन दोनों बड़े निशानों के बीच मौजूद छोटे अंतरालों या खानों (डिवीजन) की कुल संख्या गिनें।\n3) एक छोटे भाग का मान निकालें: बड़े निशानों के अंतर को छोटे भागों की संख्या से विभाजित करें।\n- यदि 1°C के बीच 10 छोटे भाग हैं, तो 1 छोटा भाग = 1°C / 10 = 0.1°C होगा।\n- यदि 1°C के बीच 5 छोटे भाग हैं, तो 1 छोटा भाग = 1°C / 5 = 0.2°C होगा।\nअंत में, पारे के तल से मेल खाते बड़े निशान के ऊपर जितने छोटे भाग हों, उनका मान जोड़कर सटीक तापमान प्राप्त करें।",
+      "keyPoints": [
+        "दो लगातार बड़े निशानों के बीच का अंतर ज्ञात करें (Note the temperature difference between two consecutive bigger marks)",
+        "उनके बीच के कुल छोटे भागों (डिवीजन) की संख्या गिनें (Count total number of smaller divisions between the bigger marks)",
+        "सूत्र: 1 छोटा भाग = (बड़े निशानों का अंतर) / (छोटे भागों की संख्या) (Formula: Value of 1 small division = Difference / Number of small divisions)"
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "What is the relation between Celsius (°C) and Fahrenheit (°F) temperature scales? Convert normal human body temperature (37°C) into Fahrenheit using the formula.",
+      "questionHi": "सेल्सियस (°C) और फारेनहाइट (°F) तापमान पैमानों के बीच क्या संबंध है? सूत्र का उपयोग करके मानव शरीर के सामान्य तापमान (37°C) को फारेनहाइट में परिवर्तित कीजिए।",
+      "answer": "The mathematical relationship between the Celsius (°C) and Fahrenheit (°F) temperature scales is given by the standard conversion formula:\n°F = (°C × 9/5) + 32  [or °F = (°C × 1.8) + 32]\n\nConverting Normal Body Temperature (37°C) to Fahrenheit:\n1) Given Celsius temperature (°C) = 37°C.\n2) Multiply by 9/5 (or 1.8): 37 × 1.8 = 66.6.\n3) Add 32 to the result: 66.6 + 32 = 98.6°F.\nTherefore, the normal human body temperature of 37°C corresponds exactly to 98.6°F on the Fahrenheit scale.",
+      "answerHi": "सेल्सियस (°C) और फारेनहाइट (°F) तापमान पैमानों के बीच गणितीय संबंध निम्नलिखित मानक रूपांतरण सूत्र द्वारा दर्शाया जाता है:\n°F = (°C × 9/5) + 32  [या °F = (°C × 1.8) + 32]\n\nमानव शरीर के सामान्य तापमान (37°C) को फारेनहाइट में बदलना:\n1) दिया गया सेल्सियस तापमान (°C) = 37°C।\n2) 9/5 (या 1.8) से गुणा करें: 37 × 1.8 = 66.6।\n3) परिणाम में 32 जोड़ें: 66.6 + 32 = 98.6°F।\nअतः, सेल्सियस पैमाने पर 37°C का सामान्य मानव शारीरिक तापमान फारेनहाइट पैमाने पर ठीक 98.6°F के बराबर होता है।",
+      "keyPoints": [
+        "रूपांतरण सूत्र: °F = (°C × 9/5) + 32 या °F = (°C × 1.8) + 32 (Conversion formula: °F = (°C × 9/5) + 32 or °F = (°C × 1.8) + 32)",
+        "गणना: 37 × 1.8 = 66.6, फिर 66.6 + 32 = 98.6°F (Calculation steps: 37 × 1.8 = 66.6, then add 32 = 98.6°F)",
+        "37°C = 98.6°F मानव शरीर का मानक औसत तापमान है (37°C = 98.6°F is the standard average human body temperature)"
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "Why is mercury considered an environmental and health hazard? How should a broken glass mercury thermometer be handled safely?",
+      "questionHi": "पारे (मरकरी) को पर्यावरणीय और स्वास्थ्य के लिए खतरनाक क्यों माना जाता है? एक टूटे हुए कांच के पारा थर्मामीटर को सुरक्षित रूप से कैसे संभाला जाना चाहिए?",
+      "answer": "Mercury is a heavy liquid metal that acts as a potent neurotoxin. If inhaled as vapor, ingested, or absorbed through skin, it severely damages the human nervous system, kidneys, and brain. In the environment, it bioaccumulates in fish and water bodies, poisoning the entire food chain.\n\nSafe handling of a broken mercury thermometer:\n1) Evacuate and Ventilate: Keep children and pets away immediately. Open room windows and turn off ceiling fans/ACs to prevent mercury vapors from circulating.\n2) Never use a broom or vacuum cleaner: Sweeping or vacuuming shatters mercury into microscopic droplets and flings toxic vapors into the air.\n3) Collect with cardboard and tape: Wear rubber gloves. Use two stiff cardboard pieces or index cards to gently scoop the rolling mercury beads together. Use sticky cello-tape or duct tape to pick up tiny residual droplets and glass shards. Place all debris in a sealed plastic zip-lock bag or glass jar and hand it over to a hazardous waste disposal facility.",
+      "answerHi": "पारा (मरकरी) एक भारी द्रव धातु है जो एक शक्तिशाली न्यूरोटॉक्सिन (तंत्रिका विष) के रूप में कार्य करता है। यदि इसकी वाष्प सांस द्वारा अंदर चली जाए, निगल ली जाए या त्वचा द्वारा सोख ली जाए, तो यह मानव तंत्रिका तंत्र (नर्वस सिस्टम), गुर्दों और मस्तिष्क को गंभीर नुकसान पहुंचाता है। पर्यावरण में, यह जल स्रोतों और मछलियों में संचित होकर पूरी खाद्य श्रृंखला को जहरीला बना देता है।\n\nटूटे हुए पारा थर्मामीटर को सुरक्षित रूप से संभालने के नियम:\n1) कमरा खाली करें और हवादार बनाएं: बच्चों और पालतू जानवरों को तुरंत दूर करें। खिड़कियां खोल दें और पंखे/एसी बंद कर दें ताकि पारे की वाष्प कमरे में न फैले।\n2) कभी भी झाड़ू या वैक्यूम क्लीनर का उपयोग न करें: झाड़ू लगाने या वैक्यूम करने से पारा सूक्ष्म बूंदों में टूटकर हवा में जहरीली वाष्प फैला देता है।\n3) गत्ते और टेप से एकत्र करें: रबर के दस्ताने पहनें। दो सख्त गत्ते के टुकड़ों (कार्डबोर्ड) का उपयोग करके लुढ़कती हुई पारे की बूंदों को धीरे से एक साथ समेटें। छोटी शेष बूंदों और कांच के टुकड़ों को उठाने के लिए चिपचिपे सेलो-टेप या डक्ट टेप का उपयोग करें। सारा कचरा एक सीलबंद प्लास्टिक ज़िप-लॉक बैग या कांच के जार में बंद करके खतरनाक कचरा निपटान केंद्र को सौंपें।",
+      "keyPoints": [
+        "पारा एक खतरनाक न्यूरोटॉक्सिन है जो तंत्रिका तंत्र और गुर्दों को नष्ट करता है (Mercury is a potent neurotoxin damaging nervous system and kidneys)",
+        "टूटने पर कभी भी झाड़ू या वैक्यूम क्लीनर का उपयोग न करें (Never use a broom or vacuum cleaner as it vaporizes mercury into the air)",
+        "दस्ताने पहनकर गत्ते और टेप से बूंदें उठाकर सीलबंद बैग में बंद करें (Wear gloves, scoop beads with cardboard/tape, and seal in a plastic bag)"
+      ]
+    },
+    {
+      "id": "q21",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "Describe an activity to prove that our sense of touch is unreliable for judging the exact temperature of water. What scientific conclusion do we draw from this experiment regarding the necessity of thermometers?",
+      "questionHi": "यह सिद्ध करने के लिए एक क्रियाकलाप का वर्णन कीजिए कि पानी के सटीक तापमान का अनुमान लगाने के लिए हमारी स्पर्श की ज्ञानेंद्रिय विश्वसनीय नहीं है। इस प्रयोग से हम थर्मामीटर की आवश्यकता के संबंध में क्या वैज्ञानिक निष्कर्ष निकालते हैं?",
+      "answer": "Aim: To demonstrate that our sense of touch is relative and unreliable for measuring temperature accurately.\nApparatus Required: Three large bowls or tubs (labeled A, B, and C), hot water (bearably hot, not scalding), ice-cold water, and lukewarm (room temperature) water.\n\nProcedure:\n1) Place the three bowls on a table. Fill Bowl A with hot water, Bowl B with ice-cold water, and Bowl C with lukewarm water mixed from hot and cold water.\n2) Dip your left hand into Bowl A (hot water) and your right hand into Bowl B (cold water) simultaneously. Keep both hands immersed for about 2 to 3 minutes.\n3) Now, take both hands out simultaneously and immediately plunge them together into Bowl C (lukewarm water).\n4) Carefully observe and feel the sensation of temperature in both hands.\n\nObservations:\n- To the left hand (which was in hot water), the lukewarm water in Bowl C feels surprisingly COLD.\n- To the right hand (which was in ice-cold water), the exact same lukewarm water in Bowl C feels pleasantly HOT.\n\nScientific Conclusion:\nAlthough both hands are inside the exact same bowl of lukewarm water (having one single temperature), our brain perceives two completely opposite sensations (hot and cold) at the same time! This proves that our sense of touch only senses relative temperature differences and cannot measure exact hotness or coldness. Therefore, we must rely on a scientific instrument called a thermometer to obtain reliable, objective, and accurate temperature measurements.",
+      "answerHi": "उद्देश्य: यह प्रदर्शित करना कि तापमान को सटीकता से मापने के लिए हमारी स्पर्श की ज्ञानेंद्रिय सापेक्ष और अविश्वसनीय है।\nआवश्यक उपकरण: तीन बड़े कटोरे या टब (A, B और C लेबल वाले), गर्म पानी (सहने योग्य गर्म, उबलता नहीं), बर्फीला ठंडा पानी, और गुनगुना (कमरे के तापमान का) पानी।\n\nक्रियाविधि:\n1) तीनों कटोरों को मेज पर रखें। कटोरे A में गर्म पानी, कटोरे B में बर्फीला ठंडा पानी, और कटोरे C में गर्म व ठंडे पानी को मिलाकर बनाया गया गुनगुना पानी भरें।\n2) अपना बायां हाथ कटोरे A (गर्म पानी) में और दायां हाथ कटोरे B (ठंडे पानी) में एक साथ डुबोएं। दोनों हाथों को लगभग 2 से 3 मिनट तक डूबे रहने दें।\n3) अब, दोनों हाथों को एक साथ बाहर निकालें और तुरंत उन्हें एक साथ कटोरे C (गुनगुने पानी) में डाल दें।\n4) दोनों हाथों में होने वाले तापमान के अनुभव (संवेदना) को ध्यानपूर्वक महसूस करें।\n\nअवलोकन (प्रेक्षण):\n- बाएं हाथ को (जो गर्म पानी में था), कटोरे C का वही गुनगुना पानी आश्चर्यजनक रूप से ठंडा लगता है।\n- दाएं हाथ को (जो बर्फीले ठंडे पानी में था), कटोरे C का वही गुनगुना पानी सुखद रूप से गर्म लगता है।\n\nवैज्ञानिक निष्कर्ष:\nयद्यपि दोनों हाथ गुनगुने पानी के एक ही कटोरे में (एक ही तापमान पर) हैं, फिर भी हमारा मस्तिष्क एक ही समय में दो बिल्कुल विपरीत संवेदनाएं (गर्म और ठंडा) महसूस करता है! यह सिद्ध करता है कि हमारी स्पर्श ज्ञानेंद्रिय केवल सापेक्ष अंतर को महसूस करती है और सटीक उष्णता या शीतलता नहीं माप सकती। इसलिए, विश्वसनीय, वस्तुनिष्ठ और सटीक तापमान मापन के लिए हमें 'थर्मामीटर' (तापमापी) नामक वैज्ञानिक उपकरण पर निर्भर रहना चाहिए।",
+      "keyPoints": [
+        "तीन कटोरों का प्रयोग: A में गर्म पानी, B में ठंडा पानी, C में गुनगुना पानी (Three-bowl experiment: A has hot water, B has cold water, C has lukewarm water)",
+        "एक ही गुनगुना पानी बाएं हाथ को ठंडा और दाएं हाथ को गर्म लगता है (Same lukewarm water feels cold to left hand and hot to right hand simultaneously)",
+        "स्पर्श सापेक्ष और भ्रामक है; सटीक मापन के लिए थर्मामीटर अनिवार्य है (Sense of touch is relative and misleading; thermometer is essential for accuracy)"
+      ]
+    },
+    {
+      "id": "q22",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "Compare and contrast a Clinical Thermometer and a Laboratory Thermometer across four distinct parameters in a structured manner. Why is each instrument specialized for its specific domain?",
+      "questionHi": "एक व्यवस्थित रूप में चार स्पष्ट मापदंडों के आधार पर क्लिनिकल थर्मामीटर (चिकित्सीय तापमापी) और प्रयोगशाला थर्मामीटर की तुलना और अंतर स्पष्ट कीजिए। प्रत्येक उपकरण अपने विशिष्ट क्षेत्र के लिए विशेष रूप से क्यों बनाया गया है?",
+      "answer": "Here is a detailed comparative analysis between a Clinical Thermometer and a Laboratory Thermometer across four distinct scientific parameters:\n\n1) Temperature Reading Range:\n- Clinical Thermometer: Has a narrow and specific range from 35°C to 42°C (or 94°F to 108°F).\n- Laboratory Thermometer: Has a broad and extensive range, typically from -10°C to 110°C.\n\n2) Presence of Kink (Constriction):\n- Clinical Thermometer: Contains a small kink (constriction) in the glass capillary tube just above the mercury bulb.\n- Laboratory Thermometer: Does NOT contain any kink or constriction in its capillary tube.\n\n3) Method of Taking Reading:\n- Clinical Thermometer: Can be removed from the patient's mouth or armpit and read conveniently at eye level because the kink prevents mercury from falling back.\n- Laboratory Thermometer: Must be read while the bulb is continuously immersed inside the substance or liquid being tested, because mercury drops instantly when removed.\n\n4) Primary Application / Purpose:\n- Clinical Thermometer: Used exclusively for measuring human body temperature in homes, hospitals, and clinics.\n- Laboratory Thermometer: Used for measuring temperatures of boiling liquids, freezing ice, chemicals, and physical science experiments in laboratories and industries.\n\nWhy each is specialized for its domain:\n- The Clinical Thermometer is specialized for humans because living body temperature never exceeds 35°C–42°C, and doctors need a stable, locked reading after removing the tool from the mouth.\n- The Laboratory Thermometer is specialized for science because experiments involve freezing (-10°C) and boiling (100°C) extremes, requiring real-time, instantaneous temperature tracking without a kink delaying mercury movement.",
+      "answerHi": "चार स्पष्ट वैज्ञानिक मापदंडों के आधार पर क्लिनिकल थर्मामीटर और प्रयोगशाला थर्मामीटर के बीच विस्तृत तुलनात्मक विश्लेषण निम्नलिखित है:\n\n1) तापमान पठन परास (रेंज):\n- क्लिनिकल थर्मामीटर: इसका परास सीमित और विशिष्ट होता है, 35°C से 42°C (या 94°F से 108°F) तक।\n- प्रयोगशाला थर्मामीटर: इसका परास बहुत विस्तृत और बड़ा होता है, सामान्यतः -10°C से 110°C तक।\n\n2) खूंच / भंज (Kink) की उपस्थिति:\n- क्लिनिकल थर्मामीटर: इसमें पारे के बल्ब के ठीक ऊपर कांच की केशिका नली में एक छोटा खूंच (Kink) होता है।\n- प्रयोगशाला थर्मामीटर: इसकी केशिका नली में कोई खूंच या संकुचन नहीं होता है।\n\n3) पठन (रीडिंग) लेने की विधि:\n- क्लिनिकल थर्मामीटर: इसे मरीज के मुंह या कांख से बाहर निकालकर आराम से आंखों के सामने पढ़ा जा सकता है क्योंकि खूंच पारे को नीचे गिरने से रोकता है।\n- प्रयोगशाला थर्मामीटर: इसे पदार्थ या द्रव में डूबे रहते हुए ही पढ़ना पड़ता है, क्योंकि बाहर निकालते ही पारा तुरंत नीचे गिर जाता है।\n\n4) प्राथमिक उपयोग / उद्देश्य:\n- क्लिनिकल थर्मामीटर: इसका उपयोग विशेष रूप से घरों, अस्पतालों और क्लीनिकों में मानव शरीर का तापमान मापने के लिए किया जाता है।\n- प्रयोगशाला थर्मामीटर: इसका उपयोग प्रयोगशालाओं और उद्योगों में उबलते द्रवों, जमती बर्फ, रसायनों और वैज्ञानिक प्रयोगों का तापमान मापने के लिए किया जाता है।\n\nप्रत्येक अपने क्षेत्र के लिए विशिष्ट क्यों है:\n- क्लिनिकल थर्मामीटर मानवों के लिए इसलिए विशिष्ट है क्योंकि जीवित शरीर का तापमान कभी 35°C–42°C से बाहर नहीं जाता, और डॉक्टरों को मुंह से निकालने के बाद एक स्थिर, लॉक रीडिंग की आवश्यकता होती है।\n- प्रयोगशाला थर्मामीटर विज्ञान के लिए इसलिए विशिष्ट है क्योंकि प्रयोगों में हिमांक (-10°C) और क्वथनांक (100°C) जैसी चरम सीमाएं शामिल होती हैं, जहां बिना किसी रुकावट के वास्तविक समय (रियल-टाइम) में तापमान परिवर्तन देखना आवश्यक होता है।",
+      "keyPoints": [
+        "परास: क्लिनिकल (35°C–42°C) बनाम प्रयोगशाला (-10°C–110°C) (Range: Clinical 35°C–42°C vs Laboratory -10°C–110°C)",
+        "खूंच (Kink): क्लिनिकल में उपस्थित (पारा नहीं गिरता), प्रयोगशाला में अनुपस्थित (Kink: Present in clinical to lock reading; absent in lab thermometer)",
+        "पठन विधि: क्लिनिकल शरीर से बाहर निकालकर, प्रयोगशाला द्रव में डूबे रहकर (Reading method: Clinical read outside body; lab read while immersed)"
+      ]
+    },
+    {
+      "id": "q23",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Read the following case study carefully and answer the questions that follow:\nDuring a chilly winter morning, 11-year-old Meena woke up feeling shivering, tired, and warm to the touch. Her mother immediately brought a traditional glass clinical thermometer from the first-aid box. Before placing it under Meena's tongue, her mother washed it thoroughly with an antiseptic solution, held it firmly, and gave it three sharp jerks. She then placed the bulb under Meena's tongue for two minutes. When she took it out, she held the thermometer horizontally at eye level and noted that the silvery mercury thread had stopped exactly at 39°C. Her mother reassured Meena that she had a moderate fever and gave her a warm bowl of soup, advising her to rest.\n\n(a) Why did Meena's mother give sharp jerks to the thermometer before placing it in Meena's mouth?\n(b) Why was the thermometer held horizontally at eye level to read the temperature?\n(c) Convert Meena's body temperature (39°C) into the Fahrenheit scale using the conversion formula.\n(d) If Meena's mother had mistakenly used a boiling hot water bath to wash the clinical thermometer instead of an antiseptic solution, what catastrophic failure would have occurred?",
+      "questionHi": "निम्नलिखित केस स्टडी को ध्यानपूर्वक पढ़िए और नीचे दिए गए प्रश्नों के उत्तर दीजिए:\nसर्दियों की एक ठंडी सुबह, 11 वर्षीय मीना कांपते हुए उठी, उसे थकान महसूस हो रही थी और शरीर छूने पर गर्म लग रहा था। उसकी माँ तुरंत प्राथमिक चिकित्सा बॉक्स से एक पारंपरिक कांच का क्लिनिकल थर्मामीटर ले आईं। इसे मीना की जीभ के नीचे रखने से पहले, माँ ने इसे रोगाणुरोधक (एंटीसेप्टिक) घोल से अच्छी तरह धोया, मजबूती से पकड़ा और तीन तेज झटके दिए। फिर उन्होंने दो मिनट के लिए बल्ब को मीना की जीभ के नीचे रखा। जब उन्होंने इसे बाहर निकाला, तो थर्मामीटर को आंखों के स्तर पर क्षैतिज रूप से रखा और देखा कि चमकीली पारे की रेखा ठीक 39°C पर रुकी हुई थी। माँ ने मीना को आश्वस्त किया कि उसे मध्यम बुखार है और उसे आराम करने की सलाह देते हुए सूप का एक गर्म कटोरा दिया।\n\n(a) मीना की माँ ने थर्मामीटर को मीना के मुंह में रखने से पहले तेज झटके क्यों दिए?\n(b) तापमान पढ़ने के लिए थर्मामीटर को आंखों के स्तर पर क्षैतिज रूप से क्यों रखा गया?\n(c) रूपांतरण सूत्र का उपयोग करके मीना के शारीरिक तापमान (39°C) को फारेनहाइट पैमाने में बदलिए।\n(d) यदि मीना की माँ ने एंटीसेप्टिक घोल के बजाय क्लिनिकल थर्मामीटर को धोने के लिए उबलते गर्म पानी का उपयोग करने की गलती की होती, तो क्या विनाशकारी दुर्घटना हुई होती?",
+      "answer": "(a) Purpose of giving sharp jerks:\nMeena's mother gave sharp jerks to push the mercury thread locked above the 'kink' (constriction) back down into the bulb, ensuring that the initial mercury level fell below the minimum scale reading of 35°C (94°F) before taking a fresh measurement.\n\n(b) Holding horizontally at eye level:\nThe thermometer was held horizontally at eye level along the line of sight to avoid parallax errors (optical alignment errors) and to catch the reflection of light on the shiny silvery mercury thread, allowing an exact and accurate temperature reading.\n\n(c) Conversion of 39°C into Fahrenheit scale:\nUsing the formula: °F = (°C × 1.8) + 32  [or (°C × 9/5) + 32]\n1) Multiply 39 by 1.8: 39 × 1.8 = 70.2.\n2) Add 32: 70.2 + 32 = 102.2°F.\nTherefore, Meena's body temperature of 39°C corresponds to 102.2°F on the Fahrenheit scale, indicating a moderate fever.\n\n(d) Consequence of washing in boiling hot water:\nIf she had washed the clinical thermometer in boiling hot water (~100°C), the intense heat would have caused the mercury inside the bulb to expand violently and rapidly. Since a clinical thermometer scale only extends up to 42°C, the excessive expansion would exert immense internal pressure, causing the glass bulb and stem to shatter instantly and spilling highly toxic mercury metal and sharp glass shards.",
+      "answerHi": "(a) तेज झटके देने का उद्देश्य:\nमीना की माँ ने थर्मामीटर को तेज झटके इसलिए दिए ताकि 'खूंच' (Kink) के ऊपर रुके हुए पारे के धागे को वापस नीचे बल्ब में धकेला जा सके। इससे यह सुनिश्चित हुआ कि नया मापन लेने से पहले पारे का प्रारंभिक स्तर न्यूनतम सीमा 35°C (94°F) से नीचे आ गया है।\n\n(b) आंखों के स्तर पर क्षैतिज रूप से रखना:\nथर्मामीटर को दृष्टि रेखा (Line of sight) के समानांतर आंखों के स्तर पर क्षैतिज रूप से इसलिए रखा गया ताकि पैरेलैक्स त्रुटि (दृष्टि-दोष त्रुटि) से बचा जा सके और चमकीली पारे की रेखा पर प्रकाश का परावर्तन स्पष्ट दिखे, जिससे तापमान का बिल्कुल सही और सटीक पठन लिया जा सके।\n\n(c) 39°C को फारेनहाइट पैमाने में बदलना:\nसूत्र का उपयोग: °F = (°C × 1.8) + 32  [या (°C × 9/5) + 32]\n1) 39 को 1.8 से गुणा करें: 39 × 1.8 = 70.2।\n2) 32 जोड़ें: 70.2 + 32 = 102.2°F।\nअतः, मीना का 39°C शारीरिक तापमान फारेनहाइट पैमाने पर 102.2°F के बराबर है, जो मध्यम बुखार दर्शाता है।\n\n(d) उबलते गर्म पानी में धोने का परिणाम:\nयदि उन्होंने क्लिनिकल थर्मामीटर को उबलते गर्म पानी (~100°C) में धोया होता, तो अत्यधिक ऊष्मा के कारण बल्ब के अंदर का पारा अत्यंत तेजी और बल के साथ फैलता। चूंकि क्लिनिकल थर्मामीटर का पैमाना केवल 42°C तक होता है, इसलिए इस अत्यधिक प्रसार से भारी आंतरिक दबाव बनता, जिससे कांच का बल्ब और नली तुरंत टूट जाते और अत्यधिक जहरीला पारा व कांच के टुकड़े चारों ओर फैल जाते।",
+      "keyPoints": [
+        "झटके देने से पारा 35°C से नीचे आ जाता है (Sharp jerks push mercury below 35°C past the kink before taking fresh reading)",
+        "आंखों के स्तर पर रखने से पैरेलैक्स (दृष्टि-दोष) त्रुटि नहीं होती (Holding at eye level prevents parallax alignment errors for accurate reading)",
+        "39°C = 102.2°F; उबलते पानी में डालने पर थर्मामीटर टूट जाएगा (39°C = 102.2°F; boiling water ~100°C shatters 42°C clinical thermometer)"
+      ]
+    },
+    {
+      "id": "q24",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Analyse the step-by-step procedure for measuring the temperature of melting ice using a laboratory thermometer. What precutionary measures must be observed regarding the position of the thermometer bulb and the eye of the observer? Why does the mercury level stop moving after some time in melting ice?",
+      "questionHi": "प्रयोगशाला थर्मामीटर का उपयोग करके पिघलती हुई बर्फ (Melting Ice) का तापमान मापने की चरण-दर-चरण क्रियाविधि का विश्लेषण कीजिए। थर्मामीटर के बल्ब की स्थिति और प्रेक्षक की आंख के संबंध में क्या सावधानियां बरती जानी चाहिए? पिघलती बर्फ में कुछ समय बाद पारे का स्तर गिरना क्यों बंद हो जाता है?",
+      "answer": "Step-by-step procedure for measuring the temperature of melting ice:\n1) Apparatus Setup: Take a clean glass beaker and fill it half full with crushed melting ice made from pure water. Clamp a laboratory thermometer (-10°C to 110°C range) securely to an iron stand using a clamp holder.\n2) Lowering the Thermometer: Lower the clamped thermometer vertically into the beaker containing crushed ice such that the bulb is completely surrounded and buried in the ice.\n3) Precautionary Measures regarding Bulb and Eye Position:\n- Position of Bulb: The glass bulb must be strictly immersed inside the crushed ice from all sides, but it must NOT touch the bottom or side walls of the glass beaker.\n- Position of Eye: The observer must wait for 2-3 minutes until the mercury thread stops falling and stabilizes. When reading the temperature, the observer's eye must be kept strictly horizontal and at the exact same level as the top meniscus of the mercury thread (to prevent parallax error). The reading must be taken while the bulb is still immersed in the ice.\n\nWhy mercury level stops moving after some time:\nWhen the thermometer bulb is placed in melting ice, heat flows from the warmer mercury inside the bulb to the colder ice until thermal equilibrium is reached between them. Once thermal equilibrium is attained, no further heat transfer takes place. At this exact point (which is the freezing/melting point of pure water, i.e., exactly 0°C), the volume of mercury becomes constant, and the thread stops moving completely.",
+      "answerHi": "पिघलती हुई बर्फ का तापमान मापने की चरण-दर-चरण क्रियाविधि:\n1) उपकरण व्यवस्था: एक साफ कांच का बीकर लीजिए और उसे शुद्ध जल से बनी पिघलती हुई पिसी बर्फ से आधा भरिए। एक प्रयोगशाला थर्मामीटर (-10°C से 110°C परास) को क्लैंप की सहायता से लोहे के स्टैंड पर मजबूती से कसिए।\n2) थर्मामीटर को डुबोना: स्टैंड में बंधे थर्मामीटर को ऊर्ध्वाधर रूप से (सीधा) बीकर में इस प्रकार नीचे उतारिए कि इसका बल्ब पिसी हुई बर्फ के अंदर पूरी तरह डूब जाए और घिर जाए।\n3) बल्ब और आंख की स्थिति के संबंध में सावधानियां:\n- बल्ब की स्थिति: कांच का बल्ब सभी तरफ से बर्फ से पूरी तरह घिरा और डूबा होना चाहिए, परंतु यह बीकर के पेंदे या दीवारों को बिल्कुल नहीं छूना चाहिए।\n- आंख की स्थिति: प्रेक्षक को 2-3 मिनट प्रतीक्षा करनी चाहिए जब तक कि पारे का गिरना बंद न हो जाए और वह स्थिर न हो जाए। तापमान पढ़ते समय, प्रेक्षक की आंख पारे के धागे के ऊपरी स्तर (मेनिस्कस) के ठीक सामने और क्षैतिज रूप से एक ही स्तर पर होनी चाहिए (ताकि पैरेलैक्स त्रुटि न हो)। पठन बर्फ में डूबे रहते हुए ही लिया जाना चाहिए।\n\nकुछ समय बाद पारे का स्तर रुकने का कारण:\nजब थर्मामीटर के बल्ब को पिघलती बर्फ में रखा जाता है, तो ऊष्मा गर्म पारे से ठंडी बर्फ की ओर तब तक प्रवाहित होती है जब तक कि दोनों के बीच ऊष्मीय संतुलन (Thermal equilibrium) स्थापित नहीं हो जाता। एक बार ऊष्मीय संतुलन प्राप्त हो जाने पर, ऊष्मा का आदान-प्रदान रुक जाता है। ठीक इसी बिंदु पर (जो शुद्ध जल का हिमांक/गलनांक, अर्थात ठीक 0°C है), पारे का आयतन स्थिर हो जाता है और धागा गिरना बिल्कुल बंद कर देता है।",
+      "keyPoints": [
+        "बल्ब बर्फ से पूरी तरह घिरा होना चाहिए, बीकर के पेंदे या दीवारों को नहीं छूना चाहिए (Bulb must be fully surrounded by ice without touching beaker walls or bottom)",
+        "आंख पारे के स्तर के ठीक सामने क्षैतिज होनी चाहिए, पठन डूबे रहते हुए लें (Eye must be horizontal at mercury meniscus level; read while immersed)",
+        "ऊष्मीय संतुलन (0°C) स्थापित होने पर पारे का गिरना रुक जाता है (Mercury stops moving once thermal equilibrium at 0°C freezing point is reached)"
+      ]
+    },
+    {
+      "id": "q25",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Imagine a world where standard temperature scales (like Celsius and Fahrenheit) and thermometers were never invented. \n(a) Describe three major problems or hazards people, doctors, and scientists would face in their daily lives without precise temperature measurement.\n(b) Explain how the invention of the standardized Celsius scale by Anders Celsius revolutionized science and healthcare.",
+      "questionHi": "एक ऐसी दुनिया की कल्पना कीजिए जहाँ मानक तापमान पैमाने (जैसे सेल्सियस और फारेनहाइट) और थर्मामीटर का कभी आविष्कार ही नहीं हुआ होता।\n(a) सटीक तापमान मापन के बिना दैनिक जीवन में आम लोगों, डॉक्टरों और वैज्ञानिकों को किन तीन प्रमुख समस्याओं या खतरों का सामना करना पड़ता, वर्णन कीजिए।\n(b) समझाइए कि एंडर्स सेल्सियस (Anders Celsius) द्वारा मानकीकृत सेल्सियस पैमाने के आविष्कार ने विज्ञान और स्वास्थ्य सेवा में किस प्रकार क्रांति ला दी।",
+      "answer": "(a) Three Major Problems without Standardized Temperature Measurement:\n1) Medical Diagnosis and Healthcare Hazards: Doctors would have to rely solely on touching a patient's forehead to detect fever. Since touch is relative and subjective, they would be unable to distinguish between a mild viral fever and a life-threatening high fever (like 40°C/104°F), leading to incorrect dosing of medicines and fatal medical errors.\n2) Failure of Scientific and Industrial Processes: Chemical reactions, pharmaceutical drug manufacturing, and food pasteurization require exact, strict temperature control (e.g., boiling, freezing, or enzymatic incubation). Without thermometers, laboratories and factories would suffer constant explosions, ruined chemical batches, and severe food poisoning from unpasteurized milk.\n3) Weather Forecasting and Climate Chaos: Meteorologists would be unable to record daily maximum and minimum temperatures or monitor global warming and climate change. Early warnings for extreme heatwaves, blizzards, or cyclones would be impossible.\n\n(b) How Anders Celsius Revolutionized Science and Healthcare:\nIn 1742, Swedish astronomer Anders Celsius invented a universal metric temperature scale by defining two fixed, easily reproducible natural reference points: the freezing point of pure water as 0°C and the boiling point of pure water as 100°C at standard atmospheric pressure. By dividing the interval between these two fixed points into 100 equal steps (degrees), he created a universal, objective scientific language. This standardization allowed doctors, scientists, and engineers worldwide to replicate experiments, diagnose fevers with pinpoint accuracy, design steam engines, and advance modern thermodynamics and medicine.",
+      "answerHi": "(a) मानक तापमान मापन के बिना तीन प्रमुख समस्याएँ और खतरे:\n1) चिकित्सा निदान और स्वास्थ्य सेवा में खतरे: डॉक्टरों को बुखार का पता लगाने के लिए केवल मरीज का माथा छूने पर निर्भर रहना पड़ता। चूंकि स्पर्श सापेक्ष और व्यक्तिपरक है, इसलिए वे सामान्य वायरल बुखार और जानलेवा उच्च ज्वर (जैसे 40°C/104°F) के बीच अंतर नहीं कर पाते, जिससे दवाओं की गलत खुराक और घातक चिकित्सा दुर्घटनाएं होतीं।\n2) वैज्ञानिक और औद्योगिक प्रक्रियाओं की विफलता: रासायनिक अभिक्रियाओं, दवा निर्माण और भोजन के पाश्चुरीकरण (Pasteurization) के लिए सटीक तापमान नियंत्रण अनिवार्य होता है। थर्मामीटर के बिना, प्रयोगशालाओं और कारखानों में लगातार विस्फोट होते, रसायन खराब होते और बिना उबले/पाश्चुरीकृत दूध से गंभीर फूड पॉइजनिंग फैलती।\n3) मौसम पूर्वानुमान और जलवायु अराजकता: मौसम वैज्ञानिक दैनिक अधिकतम और न्यूनतम तापमान दर्ज नहीं कर पाते, न ही ग्लोबल वार्मिंग का अध्ययन कर पाते। भीषण लू, बर्फीले तूफानों या चक्रवातों की पूर्व चेतावनी देना असंभव हो जाता।\n\n(b) एंडर्स सेल्सियस द्वारा विज्ञान और स्वास्थ्य सेवा में क्रांति:\n1742 में, स्वीडिश खगोलशास्त्री एंडर्स सेल्सियस (Anders Celsius) ने दो निश्चित, आसानी से दोहराए जाने वाले प्राकृतिक संदर्भ बिंदुओं को परिभाषित करके एक सार्वभौमिक मीट्रिक तापमान पैमाना बनाया: मानक वायुमंडलीय दबाव पर शुद्ध जल का हिमांक (जमने का बिंदु) 0°C और क्वथनांक (उबलने का बिंदु) 100°C। इन दोनों निश्चित बिंदुओं के बीच की दूरी को 100 बराबर भागों (डिग्री) में विभाजित करके, उन्होंने एक वैश्विक, वस्तुनिष्ठ वैज्ञानिक भाषा का निर्माण किया। इस मानकीकरण ने दुनिया भर के डॉक्टरों, वैज्ञानिकों और इंजीनियरों को प्रयोगों को दोहराने, सटीक बुखार निदान करने, भाप इंजन डिजाइन करने और आधुनिक ऊष्मागतिकी व चिकित्सा को आगे बढ़ाने में सक्षम बनाया।",
+      "keyPoints": [
+        "थर्मामीटर के बिना डॉक्टर सटीक बुखार नहीं माप पाते, जिससे चिकित्सा में घातक गलतियां होतीं (Without thermometers, subjective touch would lead to fatal medical diagnosis errors)",
+        "औद्योगिक उत्पादन, दवा निर्माण और पाश्चुरीकरण के लिए सटीक तापमान नियंत्रण अनिवार्य है (Precise temperature control is vital for industrial processes, drug making, and pasteurization)",
+        "एंडर्स सेल्सियस ने जल के हिमांक (0°C) और क्वथनांक (100°C) पर आधारित 100 भागों का वैश्विक पैमाना बनाया (Anders Celsius revolutionized science by defining 0°C freezing and 100°C boiling points of water)"
+      ]
+    },
+    {
+      "id": "q26",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "A school science teacher demonstrated how to read three different thermometers: a glass clinical thermometer, a digital clinical thermometer, and a laboratory thermometer. \n(a) Why is it recommended to wait for at least one minute before noting the reading on a digital or glass clinical thermometer?\n(b) Why does the mercury thread in a laboratory thermometer fall rapidly when removed from boiling water, whereas the reading on a digital thermometer remains displayed on the screen until turned off or reset?\n(c) What is the function of the battery and sensor in a modern digital clinical thermometer?",
+      "questionHi": "एक विद्यालय के विज्ञान शिक्षक ने तीन अलग-अलग थर्मामीटर पढ़ने का प्रदर्शन किया: एक कांच का क्लिनिकल थर्मामीटर, एक डिजिटल क्लिनिकल थर्मामीटर, और एक प्रयोगशाला थर्मामीटर।\n(a) डिजिटल या कांच के क्लिनिकल थर्मामीटर पर पठन (रीडिंग) नोट करने से पहले कम से कम एक मिनट प्रतीक्षा करने की सिफारिश क्यों की जाती है?\n(b) उबलते पानी से बाहर निकालने पर प्रयोगशाला थर्मामीटर में पारे का धागा तेजी से क्यों गिरता है, जबकि डिजिटल थर्मामीटर पर पठन तब तक स्क्रीन पर प्रदर्शित रहता है जब तक उसे बंद या रीसेट न किया जाए?\n(c) एक आधुनिक डिजिटल क्लिनिकल थर्मामीटर में बैटरी और सेंसर (संवेदक) का क्या कार्य होता है?",
+      "answer": "(a) Why wait for one minute:\nWhen a thermometer is placed under the tongue or in the armpit, heat transfer from the human body to the thermometer bulb/sensor takes time. It takes approximately one to two minutes for the mercury (or digital heat sensor) to absorb enough body heat and reach thermal equilibrium with the body. Reading it too early will result in a lower, incomplete reading.\n\n(b) Rapid fall in Lab Thermometer vs Persistent display in Digital Thermometer:\n- Laboratory Thermometer: It does not have a kink (constriction) in its glass bore. The moment it is removed from boiling water into cooler room air, the mercury cools, contracts instantly, and falls back freely into the bulb.\n- Digital Thermometer: It contains an electronic memory microchip connected to a digital LCD display. Once the highest temperature is detected by the sensor (indicated by a beep sound), the microchip locks and stores that maximum value on the display screen until the user manually presses the power button or resets it.\n\n(c) Function of Battery and Sensor in Digital Thermometer:\n- Thermistor Sensor (at the tip): Instead of mercury, the metal tip contains an electronic heat sensor called a thermistor. Its electrical resistance changes precisely with temperature changes.\n- Battery (Button cell): The internal battery provides electrical power to the sensor, microprocessor chip, and LCD screen, converting the sensor's electrical signals into clear numerical temperature digits.",
+      "answerHi": "(a) एक मिनट प्रतीक्षा करने का कारण:\nजब थर्मामीटर को जीभ के नीचे या कांख में रखा जाता है, तो मानव शरीर से थर्मामीटर के बल्ब/सेंसर तक ऊष्मा के संचरण में समय लगता है। पारे (या डिजिटल सेंसर) को शरीर की पर्याप्त ऊष्मा अवशोषित करने और शरीर के साथ ऊष्मीय संतुलन (Thermal equilibrium) तक पहुंचने में लगभग एक से दो मिनट का समय लगता है। समय से पहले पढ़ने पर पठन कम और अधूरा आएगा।\n\n(b) प्रयोगशाला थर्मामीटर में तेजी से गिराव बनाम डिजिटल थर्मामीटर में स्थायी प्रदर्शन:\n- प्रयोगशाला थर्मामीटर: इसकी कांच की नली में कोई खूंच (Kink) नहीं होता। जैसे ही इसे उबलते पानी से बाहर निकालकर कमरे की ठंडी हवा में लाया जाता है, पारा ठंडा होकर तुरंत सिकुड़ता है और स्वतंत्र रूप से नीचे बल्ब में गिर जाता है।\n- डिजिटल थर्मामीटर: इसमें एलसीडी स्क्रीन से जुड़ी एक इलेक्ट्रॉनिक मेमोरी माइक्रोचिप होती है। जब सेंसर द्वारा अधिकतम तापमान का पता लगा लिया जाता है (बीप की आवाज द्वारा संकेत), तो माइक्रोचिप उस अधिकतम मान को स्क्रीन पर तब तक लॉक और प्रदर्शित रखती है जब तक उपयोगकर्ता बटन दबाकर उसे बंद या रीसेट न कर दे।\n\n(c) डिजिटल थर्मामीटर में बैटरी और सेंसर का कार्य:\n- थर्मिस्टर सेंसर (सिरे पर): पारे के बजाय, इसके धात्विक सिरे में 'थर्मिस्टर' (Thermistor) नामक एक इलेक्ट्रॉनिक ऊष्मा संवेदक होता है। तापमान बदलने पर इसका विद्युत प्रतिरोध सटीक रूप से बदलता है।\n- बैटरी (बटन सेल): आंतरिक बैटरी सेंसर, माइक्रोप्रोसेसर चिप और एलसीडी स्क्रीन को विद्युत ऊर्जा प्रदान करती है, जिससे सेंसर के विद्युत संकेत स्पष्ट संख्यात्मक तापमान अंकों में बदल जाते हैं।",
+      "keyPoints": [
+        "शरीर और थर्मामीटर के बीच ऊष्मीय संतुलन बनने में 1–2 मिनट लगते हैं (Takes 1–2 minutes to reach thermal equilibrium between body and sensor)",
+        "प्रयोगशाला थर्मामीटर में खूंच न होने से पारा गिरता है; डिजिटल में मेमोरी चिप रीडिंग लॉक रखती है (No kink in lab thermometer causes mercury drop; memory chip locks reading in digital)",
+        "डिजिटल थर्मामीटर में थर्मिस्टर सेंसर और बैटरी विद्युत संकेतों को अंकों में बदलते हैं (Thermistor sensor and battery convert thermal changes into digital numerical display)"
+      ]
+    },
+    {
+      "id": "q27",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "A student wants to calibrate an unmarked glass thermometer in Celsius scale. Explain how the student can mark the Lower Fixed Point (0°C) and Upper Fixed Point (100°C) using melting ice and boiling water. How many equal divisions should the student make between these two marks to complete the Celsius scale?",
+      "questionHi": "एक छात्र सेल्सियस पैमाने पर एक बिना निशान वाले (अनमार्क्ड) कांच के थर्मामीटर को अंशांकित (कैलिबरेट) करना चाहता है। समझाइए कि छात्र पिघलती हुई बर्फ और उबलते पानी का उपयोग करके निम्न नियत बिंदु (0°C) और उच्च नियत बिंदु (100°C) को कैसे अंकित कर सकता है। सेल्सियस पैमाना पूरा करने के लिए छात्र को इन दोनों निशानों के बीच कितने बराबर भाग (डिवीजन) बनाने चाहिए?",
+      "answer": "To calibrate an unmarked glass thermometer on the Celsius scale, the student must experimentally determine two standard reference points called Fixed Points:\n\n1) Marking the Lower Fixed Point (0°C - Ice Point):\n- Procedure: Immerse the bulb of the unmarked thermometer into a funnel or beaker filled with pure crushed melting ice at standard atmospheric pressure. \n- Observation: As the mercury cools, the thread drops and eventually comes to a complete rest at a steady level.\n- Marking: Use a fine permanent marker or file to mark this exact stationary level of the mercury meniscus on the glass stem. Label this mark as 0°C (Lower Fixed Point).\n\n2) Marking the Upper Fixed Point (100°C - Steam Point):\n- Procedure: Suspend the thermometer inside a flask containing pure boiling water such that the bulb is surrounded by pure steam (water vapor) above the boiling water at standard atmospheric pressure.\n- Observation: The mercury thread expands rapidly upward and eventually stops at a maximum constant height.\n- Marking: Mark this exact stationary height on the glass stem and label it as 100°C (Upper Fixed Point).\n\n3) Dividing the Scale into Equal Divisions:\n- The total distance along the glass stem between the 0°C mark and the 100°C mark must be divided carefully into exactly 100 equal intervals (divisions). Each small interval represents exactly 1 Degree Celsius (1°C). This completes the calibration of the Celsius thermometer.",
+      "answerHi": "सेल्सियस पैमाने पर एक बिना निशान वाले (अनमार्क्ड) कांच के थर्मामीटर को अंशांकित (कैलिबरेट) करने के लिए, छात्र को प्रयोग द्वारा दो मानक संदर्भ बिंदु ज्ञात करने होंगे जिन्हें 'नियत बिंदु' (Fixed Points) कहते हैं:\n\n1) निम्न नियत बिंदु (0°C - हिमांक / Ice Point) अंकित करना:\n- क्रियाविधि: अनमार्क्ड थर्मामीटर के बल्ब को मानक वायुमंडलीय दबाव पर शुद्ध पिघलती हुई पिसी बर्फ से भरे बीकर या कीप में डुबोएं।\n- अवलोकन: जैसे-जैसे पारा ठंडा होता है, धागा नीचे गिरता है और अंततः एक स्थिर स्तर पर आकर पूरी तरह रुक जाता है।\n- अंकन: कांच के तने पर पारे के इस स्थिर स्तर पर एक बारीक मार्कर या रेती से निशान लगाएं। इस निशान को 0°C (निम्न नियत बिंदु) के रूप में लेबल करें।\n\n2) उच्च नियत बिंदु (100°C - भाप बिंदु / Steam Point) अंकित करना:\n- क्रियाविधि: थर्मामीटर को मानक वायुमंडलीय दबाव पर उबलते हुए शुद्ध जल वाले फ्लास्क में इस प्रकार लटकाएं कि इसका बल्ब उबलते पानी के ऊपर उठती हुई शुद्ध भाप (वाष्प) से घिरा रहे।\n- अवलोकन: पारे का धागा तेजी से ऊपर की ओर फैलता है और अंततः एक अधिकतम स्थिर ऊंचाई पर रुक जाता है।\n- अंकन: कांच के तने पर इस स्थिर ऊंचाई पर निशान लगाएं और इसे 100°C (उच्च नियत बिंदु) के रूप में लेबल करें।\n\n3) पैमाने को बराबर भागों में विभाजित करना:\n- कांच के तने पर 0°C के निशान और 100°C के निशान के बीच की कुल दूरी को सावधानीपूर्वक ठीक 100 बराबर भागों (अंतरालों) में विभाजित किया जाना चाहिए। प्रत्येक छोटा भाग ठीक 1 डिग्री सेल्सियस (1°C) को दर्शाता है। इससे सेल्सियस थर्मामीटर का कैलिब्रेशन पूरा होता है।",
+      "keyPoints": [
+        "शुद्ध पिघलती बर्फ में डुबोकर पारे के स्थिर स्तर को 0°C (निम्न नियत बिंदु) अंकित करें (Mark Lower Fixed Point at 0°C by immersing bulb in pure melting ice)",
+        "उबलते पानी की शुद्ध भाप में रखकर अधिकतम स्थिर स्तर को 100°C (उच्च नियत बिंदु) अंकित करें (Mark Upper Fixed Point at 100°C by exposing bulb to pure steam above boiling water)",
+        "0°C और 100°C के बीच की दूरी को ठीक 100 बराबर भागों (1°C प्रत्येक) में विभाजित करें (Divide the distance between 0°C and 100°C into exactly 100 equal divisions)",
+        "यह प्रक्रिया थर्मामीटर का वैज्ञानिक अंशांकन (कैलिब्रेशन) कहलाती है (This experimental procedure is called scientific calibration of a thermometer)"
+      ]
+    },
+    {
+      "id": "q28",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "A patient visiting a hospital had their body temperature recorded as 101.3°F by the nurse using a Fahrenheit clinical thermometer. \n(a) Convert this temperature (101.3°F) into the Celsius scale using the mathematical formula. Does the patient have a fever?\n(b) If the nurse wanted to re-check the temperature using a laboratory thermometer, why would the doctor strictly forbid her from doing so? State two compelling safety and technical reasons.",
+      "questionHi": "अस्पताल में आए एक मरीज का शारीरिक तापमान नर्स द्वारा फारेनहाइट क्लिनिकल थर्मामीटर से 101.3°F दर्ज किया गया।\n(a) गणितीय सूत्र का उपयोग करके इस तापमान (101.3°F) को सेल्सियस पैमाने में बदलिए। क्या मरीज को बुखार है?\n(b) यदि नर्स इस तापमान को प्रयोगशाला थर्मामीटर से दोबारा जांचना चाहती, तो डॉक्टर उसे ऐसा करने से सख्ती से क्यों मना कर देते? दो ठोस सुरक्षा और तकनीकी कारण बताइए।",
+      "answer": "(a) Conversion of 101.3°F into Celsius scale:\nUsing the formula: °C = (°F - 32) × 5/9  [or (°F - 32) / 1.8]\n1) Subtract 32 from Fahrenheit temperature: 101.3 - 32 = 69.3.\n2) Divide by 1.8 (or multiply by 5/9): 69.3 / 1.8 = 38.5°C.\nYes, the patient has a significant fever, because the normal healthy human body temperature is 37°C (98.6°F), and 38.5°C (101.3°F) is well above normal.\n\n(b) Why doctor forbids using a Laboratory Thermometer:\nThe doctor would strictly forbid using a laboratory thermometer to measure human body temperature for two compelling reasons:\n1) Technical error (No Kink / Inaccurate reading): A laboratory thermometer lacks a constriction (kink) near its bulb. As soon as the nurse removes the thermometer from the patient's mouth or armpit to read the scale, the mercury thread will rapidly contract and drop towards room temperature. Thus, it is impossible to record the true body temperature accurately outside the body.\n2) Safety and Hygiene hazard (Toxic Mercury & Glass size): Laboratory thermometers are long, bulky glass instruments with thin, fragile walls and a large mercury bulb. Placing such a large, delicate glass bulb in a sick or shivering patient's mouth creates a severe risk of the patient biting and breaking the glass, releasing poisonous mercury metal directly into the mouth.",
+      "answerHi": "(a) 101.3°F को सेल्सियस पैमाने में बदलना:\nसूत्र का उपयोग: °C = (°F - 32) × 5/9  [या (°F - 32) / 1.8]\n1) फारेनहाइट तापमान से 32 घटाएं: 101.3 - 32 = 69.3।\n2) 1.8 से भाग दें (या 5/9 से गुणा करें): 69.3 / 1.8 = 38.5°C।\nहाँ, मरीज को तेज बुखार है, क्योंकि स्वस्थ मानव शरीर का सामान्य तापमान 37°C (98.6°F) होता है, और 38.5°C (101.3°F) सामान्य से काफी अधिक है।\n\n(b) डॉक्टर द्वारा प्रयोगशाला थर्मामीटर के उपयोग पर रोक लगाने के कारण:\nडॉक्टर मानव शरीर का तापमान मापने के लिए प्रयोगशाला थर्मामीटर का उपयोग करने से निम्नलिखित दो ठोस कारणों से सख्ती से मना कर देंगे:\n1) तकनीकी त्रुटि (खूंच/भंज का अभाव और गलत पठन): प्रयोगशाला थर्मामीटर के बल्ब के पास कोई संकुचन या खूंच (Kink) नहीं होता है। जैसे ही नर्स पैमाना पढ़ने के लिए थर्मामीटर को मरीज के मुंह या कांख से बाहर निकालेगी, पारे का धागा तेजी से सिकुड़कर कमरे के तापमान की ओर गिर जाएगा। अतः शरीर से बाहर सही तापमान दर्ज करना असंभव है।\n2) सुरक्षा और स्वच्छता का खतरा (जहरीला पारा और कांच का आकार): प्रयोगशाला थर्मामीटर लंबे, भारी और पतली नाजुक कांच की दीवारों वाले उपकरण होते हैं जिनमें पारे का बड़ा बल्ब होता है। बीमार या कांपते मरीज के मुंह में इतना बड़ा और नाजुक कांच का बल्ब रखने से मरीज द्वारा दांत से कांच टूटने और जहरीला पारा सीधे मुंह में जाने का गंभीर खतरा रहता है।",
+      "keyPoints": [
+        "सूत्र: °C = (°F - 32) × 5/9; गणना: (101.3 - 32) / 1.8 = 38.5°C (बुखार है) (Formula: °C = (°F - 32) × 5/9; Calculation: (101.3 - 32) / 1.8 = 38.5°C indicating fever)",
+        "प्रयोगशाला थर्मामीटर में खूंच न होने से बाहर निकालते ही पारा गिर जाता है (Lab thermometer lacks a kink, causing mercury to drop immediately upon removal)",
+        "मुंह में कांच टूटने और जहरीला पारा निगलने का गंभीर शारीरिक खतरा (Severe risk of glass breakage in mouth and toxic mercury poisoning)"
+      ]
+    },
+    {
+      "id": "q29",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Why is it necessary to shake (jerk) a clinical thermometer before taking a new temperature reading, whereas no shaking is ever required for a laboratory thermometer or a digital thermometer? Explain the underlying mechanical and electronic reasons for each of the three tools.",
+      "questionHi": "नया तापमान पठन (रीडिंग) लेने से पहले क्लिनिकल थर्मामीटर को झटके (जर्क) देना क्यों आवश्यक होता है, जबकि प्रयोगशाला थर्मामीटर या डिजिटल थर्मामीटर के लिए कभी भी झटके देने की आवश्यकता नहीं होती? तीनों उपकरणों के पीछे के यांत्रिक और इलेक्ट्रॉनिक कारणों को स्पष्ट कीजिए।",
+      "answer": "The requirement of shaking or not shaking depends on the internal mechanical structure and electronic design of each specific thermometer:\n\n1) Why Clinical Thermometers MUST be shaken (jerked):\nIn a traditional glass clinical thermometer, there is a sharp physical bend or constriction called a 'kink' in the capillary tube just above the bulb. When taking a patient's temperature, expanding mercury pushes past this kink easily. However, when removed from the mouth and cooled, the kink acts as a one-way mechanical valve that breaks the mercury thread, preventing it from flowing back into the bulb automatically. To reset the thermometer for a new patient, we must apply physical centrifugal force by giving sharp downward jerks. This force pushes the trapped mercury thread back down through the narrow kink into the bulb below 35°C (94°F).\n\n2) Why Laboratory Thermometers DO NOT require shaking:\nA laboratory thermometer is constructed with a straight, smooth, uniform capillary bore without any kink or constriction. When removed from a hot substance into cooler air, there is no physical barrier to trap the mercury. Gravity and natural cooling contraction allow the mercury thread to slide back freely and instantly into the bulb on its own. Hence, no shaking is ever needed.\n\n3) Why Digital Thermometers DO NOT require shaking:\nA digital thermometer contains no liquid mercury or capillary tube at all. It operates using an electronic thermistor sensor connected to a microprocessor and LCD display. When switched off and turned back on (or when the reset button is pressed), the electronic microchip instantly clears its digital memory of the previous reading and resets the display to zero/ready state electronically in a second without any physical shaking.",
+      "answerHi": "झटके देने या न देने की आवश्यकता प्रत्येक विशिष्ट थर्मामीटर की आंतरिक यांत्रिक संरचना और इलेक्ट्रॉनिक डिज़ाइन पर निर्भर करती है:\n\n1) क्लिनिकल थर्मामीटर को झटके देना क्यों अनिवार्य है:\nपारंपरिक कांच के क्लिनिकल थर्मामीटर में बल्ब के ठीक ऊपर केशिका नली में 'खूंच' (Kink) नामक एक तीव्र मोड़ या संकुचन होता है। मरीज का तापमान लेते समय, फैलता हुआ पारा इस खूंच को आसानी से पार कर ऊपर चढ़ जाता है। परंतु मुंह से निकालने और ठंडा होने पर, यह खूंच एकतरफा वाल्व (One-way valve) का काम करता है जो पारे के धागे को तोड़ देता है और उसे अपने-आप वापस बल्ब में गिरने से रोकता है। नए मरीज के लिए थर्मामीटर को रीसेट करने हेतु, हमें नीचे की ओर तेज झटके देकर भौतिक अपकेंद्रीय बल (Centrifugal force) लगाना पड़ता है। यह बल फंसे हुए पारे को संकीर्ण खूंच से वापस नीचे बल्ब में 35°C (94°F) से नीचे धकेल देता है।\n\n2) प्रयोगशाला थर्मामीटर को झटके देने की आवश्यकता क्यों नहीं होती:\nप्रयोगशाला थर्मामीटर का निर्माण बिना किसी खूंच या संकुचन के एक सीधी, चिकनी और एकसमान केशिका नली के साथ किया जाता है। जब इसे गर्म पदार्थ से बाहर ठंडी हवा में निकाला जाता है, तो पारे को रोकने के लिए कोई भौतिक बाधा नहीं होती। गुरुत्वाकर्षण और प्राकृतिक ठंडक के संकुचन के कारण पारे का धागा अपने-आप स्वतंत्र और तुरंत रूप से नीचे बल्ब में सरक जाता है। अतः कभी झटके देने की आवश्यकता नहीं होती।\n\n3) डिजिटल थर्मामीटर को झटके देने की आवश्यकता क्यों नहीं होती:\nडिजिटल थर्मामीटर में कोई द्रव पारा या केशिका नली बिल्कुल नहीं होती है। यह एक माइक्रोप्रोसेसर और एलसीडी स्क्रीन से जुड़े इलेक्ट्रॉनिक 'थर्मिस्टर' सेंसर के उपयोग से काम करता है। जब इसे बंद करके दोबारा चालू किया जाता है (या रीसेट बटन दबाया जाता है), तो इलेक्ट्रॉनिक माइक्रोचिप अपनी डिजिटल मेमोरी से पिछली रीडिंग को तुरंत मिटा देती है और बिना किसी शारीरिक झटके के एक सेकंड में स्क्रीन को शून्य/तैयार स्थिति में रीसेट कर देती है।",
+      "keyPoints": [
+        "क्लिनिकल थर्मामीटर में खूंच (Kink) के ऊपर रुके पारे को नीचे धकेलने के लिए झटके देना आवश्यक (Jerks provide centrifugal force to push mercury past the kink back into the bulb)",
+        "प्रयोगशाला थर्मामीटर में खूंच न होने से पारा ठंडा होते ही अपने-आप नीचे गिर जाता है (Lab thermometer has no kink, allowing mercury to drop freely on its own upon cooling)",
+        "डिजिटल थर्मामीटर में कोई पारा नहीं होता; पावर बटन दबाने से चिप इलेक्ट्रॉनिक रूप से रीसेट हो जाती है (Digital thermometer uses thermistor sensor and resets memory electronically via power button)"
+      ]
+    },
+    {
+      "id": "q30",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "A student sets up an experiment to track the temperature changes when ice-cold water is heated continuously on a gas burner until it boils vigorously. \n(a) Describe the changes in temperature reading on the laboratory thermometer from start (ice-cold water at 0°C) to vigorous boiling (steam at 100°C).\n(b) What interesting phenomenon will the student observe regarding the thermometer reading once the water starts boiling vigorously, even though the gas burner continues to supply heat? Explain the scientific reason behind this observation.",
+      "questionHi": "एक छात्र एक प्रयोग स्थापित करता है जिसमें बर्फीले ठंडे पानी को गैस बर्नर पर तब तक लगातार गर्म किया जाता है जब तक कि वह तेजी से उबलने न लगे और इस दौरान तापमान में होने वाले परिवर्तनों को ट्रैक किया जाता है।\n(a) प्रारंभ (0°C पर बर्फीला ठंडा पानी) से लेकर तेजी से उबलने (100°C पर भाप) तक प्रयोगशाला थर्मामीटर के पठन (रीडिंग) में होने वाले परिवर्तनों का वर्णन कीजिए।\n(b) पानी के तेजी से उबलने लगने के बाद, गैस बर्नर द्वारा लगातार ऊष्मा देने के बावजूद छात्र थर्मामीटर के पठन के संबंध में कौन सी रोचक घटना देखेगा? इस अवलोकन के पीछे का वैज्ञानिक कारण स्पष्ट कीजिए।",
+      "answer": "(a) Changes in Temperature Reading during Continuous Heating:\n1) Initial Stage (0°C to Room Temperature): When the laboratory thermometer is placed in ice-cold water, the mercury thread stands near 0°C. As the gas burner heats the beaker, the mercury thread begins to rise steadily and smoothly through 10°C, 20°C, 30°C, etc.\n2) Heating Stage (Room Temperature to 100°C): As continuous heat is supplied, the water becomes hotter, small bubbles of dissolved air escape, and the mercury thread continues its steady upward climb along the scale reaching 50°C, 70°C, 90°C, and finally reaches exactly 100°C as the water breaks into vigorous rolling boil with steam rapidly evolving.\n\n(b) Interesting Phenomenon Observed at Boiling Point (100°C) and Scientific Reason:\n- The Phenomenon: Once the water reaches its boiling point of 100°C and starts boiling vigorously, the student will observe a remarkable phenomenon: the thermometer reading stops rising completely! Even though the gas burner continues to burn fiercely and supply large amounts of heat energy to the boiling beaker for several minutes, the mercury thread remains stubbornly locked at exactly 100°C.\n- Scientific Reason (Latent Heat of Vaporization): At the boiling point (100°C), liquid water undergoes a change of state from liquid to gas (steam). All the thermal heat energy supplied by the burner at this stage is entirely utilized in breaking the strong intermolecular attractive forces holding the liquid water molecules together, converting them into free steam vapor. Because this heat energy is used up in changing the state of matter rather than increasing the kinetic energy of the molecules, the temperature of the boiling water and evolving steam does not rise above 100°C until all the liquid water has boiled away. This hidden thermal energy is known in science as the 'Latent Heat of Vaporization'.",
+      "answerHi": "(a) लगातार गर्म करने के दौरान तापमान पठन में परिवर्तन:\n1) प्रारंभिक चरण (0°C से कमरे के तापमान तक): जब प्रयोगशाला थर्मामीटर को बर्फीले ठंडे पानी में रखा जाता है, तो पारे का धागा 0°C के पास होता है। जैसे ही गैस बर्नर बीकर को गर्म करता है, पारे का धागा लगातार और लगातार 10°C, 20°C, 30°C आदि से होते हुए ऊपर चढ़ने लगता है।\n2) तापन चरण (कमरे के तापमान से 100°C तक): लगातार ऊष्मा मिलने से पानी और गर्म होता जाता है, घुली हुई हवा के छोटे बुलबुले बाहर निकलते हैं, और पारे का धागा पैमाने पर 50°C, 70°C, 90°C तक लगातार ऊपर चढ़ता रहता है और अंततः ठीक 100°C पर पहुंच जाता है, जहां पानी तेजी से उबलने लगता है और भाप तेजी से निकलने लगती है।\n\n(b) क्वथनांक (100°C) पर देखी गई रोचक घटना और वैज्ञानिक कारण:\n- रोचक घटना: जैसे ही पानी अपने क्वथनांक 100°C पर पहुंचता है और तेजी से उबलने लगता है, छात्र एक अद्भुत घटना देखेगा: थर्मामीटर का पठन ऊपर बढ़ना पूरी तरह रुक जाता है! यद्यपि गैस बर्नर लगातार तेजी से जल रहा होता है और कई मिनटों तक उबलते बीकर को भारी मात्रा में ऊष्मीय ऊर्जा प्रदान करता रहता है, फिर भी पारे का धागा ठीक 100°C पर स्थिर (लॉक) रहता है।\n- वैज्ञानिक कारण (वाष्पन की गुप्त ऊष्मा / Latent Heat of Vaporization): क्वथनांक (100°C) पर, द्रव जल अपनी अवस्था बदलकर द्रव से गैस (भाप) में परिवर्तित होता है। इस चरण में बर्नर द्वारा दी जाने वाली संपूर्ण ऊष्मीय ऊर्जा का उपयोग जल के अणुओं को आपस में बांधे रखने वाले मजबूत अंतराणु आकर्षण बलों को तोड़ने और उन्हें मुक्त भाप में बदलने में हो जाता है। चूंकि यह ऊष्मा ऊर्जा अणुओं की गतिज ऊर्जा (तापमान) बढ़ाने के बजाय पदार्थ की अवस्था बदलने में खर्च हो जाती है, इसलिए जब तक सारा पानी उबलकर समाप्त नहीं हो जाता, उबलते पानी और बनने वाली भाप का तापमान 100°C से ऊपर नहीं बढ़ता है। इस छिपी हुई ऊष्मीय ऊर्जा को विज्ञान में 'वाष्पन की गुप्त ऊष्मा' कहा जाता है।",
+      "keyPoints": [
+        "गर्म करने पर पारे का स्तर 0°C से लगातार चढ़कर 100°C तक पहुंचता है (Mercury rises steadily from 0°C to 100°C upon continuous heating)",
+        "पानी के उबलने (100°C) के बाद, लगातार ऊष्मा देने पर भी तापमान बढ़ना रुक जाता है (Temperature stops rising at 100°C boiling point despite continuous heat supply)",
+        "दी गई ऊष्मा पानी को भाप (अवस्था परिवर्तन) में बदलने में खर्च होती है - वाष्पन की गुप्त ऊष्मा (Supplied heat energy is consumed in changing state from liquid to vapor - Latent Heat of Vaporization)"
+      ]
+    }
+  ]
+}
