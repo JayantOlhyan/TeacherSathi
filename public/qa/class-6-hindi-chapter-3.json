@@ -1,0 +1,466 @@
+{
+  "chapterTitle": "Pahli Boond (The First Drop)",
+  "chapterTitleHi": "पहली बूँद (कविता)",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What is the central theme of the poem 'Pahli Boond' (The First Drop)?",
+      "questionHi": "'पहली बूँद' कविता का केंद्रीय भाव (central theme) क्या है?",
+      "answer": "The central theme of 'Pahli Boond' is the joyous arrival of the first monsoon rain after the scorching summer. The poem captures the relief, happiness, and celebration felt by nature, animals, and humans when the first drop of rain falls on the parched earth, signifying hope and renewal.",
+      "answerHi": "'पहली बूँद' कविता का केंद्रीय भाव गर्मी की तपन के बाद पहली वर्षा बूँद के आगमन की आनंदमय अनुभूति है। यह कविता उस राहत, खुशी और उत्सव को व्यक्त करती है जो प्यासी धरती, प्रकृति, पशु-पक्षियों और मनुष्यों को पहली बारिश की बूँद पड़ते ही महसूस होती है, जो आशा और नवजीवन का प्रतीक है।",
+      "keyPoints": [
+        "गर्मी की तपन के बाद पहली वर्षा बूँद का आनंदमय स्वागत (Joyous welcome of first monsoon rain after scorching summer)",
+        "प्यासी धरती, प्रकृति और जीव-जंतुओं की राहत और खुशी का चित्रण (Depiction of relief and joy of parched earth, nature, and creatures)",
+        "पहली बूँद आशा, नवजीवन और प्रकृति के पुनर्जन्म का प्रतीक (First drop symbolizes hope, renewal, and rebirth of nature)"
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "How does the poet describe the thirsty earth's longing for rain in the poem?",
+      "questionHi": "कविता में कवि ने बारिश के लिए प्यासी धरती की तड़प (longing) का वर्णन किस प्रकार किया है?",
+      "answer": "The poet describes the earth as cracked, dry, and desperately parched due to the summer heat. The earth is personified as a thirsty being yearning for rainwater, just like a person dying of thirst longs for water. When the first drop falls, the earth seems to sigh with deep relief and joy.",
+      "answerHi": "कवि ने धरती को गर्मी की तपन से सूखी, दरकी हुई और प्यास से तड़पती हुई बताया है। धरती को एक प्यासे प्राणी के रूप में मानवीकृत किया गया है जो वर्षा जल के लिए आतुर है, जैसे प्यास से बेहाल व्यक्ति पानी के लिए तरसता है। जब पहली बूँद पड़ती है, तो धरती गहरी राहत और आनंद से भर जाती है।",
+      "keyPoints": [
+        "धरती को गर्मी से सूखी, दरकी हुई और प्यास से तड़पती बताना (Earth described as dry, cracked, and desperate with thirst from summer heat)",
+        "धरती का मानवीकरण कर उसे प्यासे प्राणी के रूप में प्रस्तुत करना (Personification of earth as a thirsty being yearning for rain)",
+        "पहली बूँद पड़ते ही धरती में गहरी राहत और आनंद का संचार (Deep relief and joy filling the earth as the first drop falls)"
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Which natural elements in the poem celebrate the arrival of the first rain?",
+      "questionHi": "कविता में कौन-कौन से प्राकृतिक तत्व पहली बारिश के आगमन पर उत्सव मनाते हैं?",
+      "answer": "In the poem, the trees, plants, birds, animals, rivers, ponds, and the earth itself celebrate the arrival of the first rain. Birds start singing joyfully, peacocks dance, trees sway with delight, dry rivers and ponds fill up, and the pleasant fragrance of wet earth (petrichor / मिट्टी की सोंधी खुशबू) fills the air.",
+      "answerHi": "कविता में पेड़-पौधे, पशु-पक्षी, नदियाँ, तालाब और स्वयं धरती सभी पहली बारिश के आगमन पर उत्सव मनाते हैं। पक्षी आनंद से गाने लगते हैं, मोर नाचते हैं, पेड़ खुशी से झूमते हैं, सूखी नदियाँ और तालाब भरने लगते हैं, और भीगी मिट्टी की मनमोहक सोंधी खुशबू (petrichor) हवा में भर जाती है।",
+      "keyPoints": [
+        "पशु-पक्षियों का आनंद—मोर का नृत्य, पक्षियों का गायन (Animals and birds rejoice — peacocks dance, birds sing joyfully)",
+        "पेड़-पौधों का उल्लास—डालियाँ झूमना और हरियाली का लौटना (Plants rejoice — branches swaying and greenery returning)",
+        "मिट्टी की सोंधी खुशबू (petrichor) और नदी-तालाबों में जल भरना (Petrichor of wet earth and rivers/ponds filling with water)"
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What is 'petrichor' and why is it significant in the poem 'Pahli Boond'?",
+      "questionHi": "'पेट्रीकोर' (petrichor) क्या है और 'पहली बूँद' कविता में इसका क्या महत्व है?",
+      "answer": "Petrichor is the pleasant, earthy fragrance that arises when the first rain falls on dry soil. It is caused by a compound called geosmin released by soil bacteria. In the poem, this 'soondhi khushbu' (सोंधी खुशबू / sweet earthy smell) of wet earth is celebrated as one of nature's greatest joys, symbolizing the intimate bond between rain and earth.",
+      "answerHi": "पेट्रीकोर वह मनमोहक, मिट्टी जैसी सुगंध (खुशबू) है जो सूखी मिट्टी पर पहली वर्षा की बूँद पड़ने पर उठती है। यह मिट्टी के जीवाणुओं द्वारा छोड़े जाने वाले 'जियोस्मिन' नामक यौगिक के कारण होती है। कविता में, भीगी मिट्टी की यह 'सोंधी खुशबू' प्रकृति की सबसे बड़ी खुशियों में से एक के रूप में मनाई जाती है, जो वर्षा और धरती के बीच गहरे संबंध का प्रतीक है।",
+      "keyPoints": [
+        "पेट्रीकोर = सूखी मिट्टी पर पहली वर्षा बूँद पड़ने से उठने वाली सोंधी खुशबू (Petrichor = earthy fragrance rising when first rain hits dry soil)",
+        "मिट्टी के जीवाणुओं द्वारा छोड़े 'जियोस्मिन' से यह सुगंध उत्पन्न होती है (Caused by 'geosmin' compound released by soil bacteria)",
+        "कविता में यह सोंधी महक वर्षा-धरती के प्रेम और नवजीवन का प्रतीक है (In the poem, this fragrance symbolizes love between rain and earth)"
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "What poetic device (अलंकार) is used when the earth is described as thirsty and waiting eagerly for rain?",
+      "questionHi": "जब धरती को प्यासी और बारिश की प्रतीक्षा में बेताब बताया जाता है तो कौन-सा काव्य-अलंकार (poetic device) प्रयुक्त होता है?",
+      "answer": "The poetic device used is 'Manvikaran' (मानवीकरण / Personification). The earth, which is a non-living natural element, is given human qualities such as thirst (प्यास), longing (तड़प), and relief (राहत). By treating the earth as a living, feeling being, the poet creates a powerful emotional connect between the reader and nature.",
+      "answerHi": "यहाँ 'मानवीकरण' (Personification) अलंकार का प्रयोग हुआ है। धरती, जो एक निर्जीव प्राकृतिक तत्व है, को प्यास (thirst), तड़प (longing) और राहत (relief) जैसे मानवीय गुण दिए गए हैं। धरती को एक जीवित, भावनाशील प्राणी के रूप में चित्रित करके कवि पाठक और प्रकृति के बीच एक गहरा भावनात्मक संबंध स्थापित करता है।",
+      "keyPoints": [
+        "मानवीकरण अलंकार—निर्जीव धरती को प्यास, तड़प और राहत जैसी मानवीय भावनाएँ देना (Personification — giving human emotions like thirst, longing, relief to lifeless earth)",
+        "मानवीकरण से पाठक का प्रकृति के साथ गहरा भावनात्मक संबंध बनाना (Personification creates deep emotional bond between reader and nature)",
+        "अन्य अलंकार: उपमा (Simile) और अनुप्रास (Alliteration) भी कविता में प्रयुक्त (Other devices: Simile and Alliteration also used in the poem)"
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "Why does the poet consider the first drop of rain to be special and different from ordinary rain?",
+      "questionHi": "कवि पहली बारिश की बूँद को साधारण वर्षा से विशेष और अलग क्यों मानते हैं?",
+      "answer": "The first drop is special because it breaks the long, painful wait after months of summer heat. It carries the promise of abundance, life, and harvest. It is the moment of transition from drought-like conditions to hope and renewal. Every creature that has suffered the summer's fury receives relief and joy from this singular first drop.",
+      "answerHi": "पहली बूँद इसलिए विशेष है क्योंकि यह महीनों की गर्मी की तपन के बाद लंबी और पीड़ादायक प्रतीक्षा को तोड़ती है। यह प्रचुरता, जीवन और फसल का वादा लेकर आती है। यह सूखे जैसी स्थिति से आशा और नवजीवन की ओर संक्रमण का क्षण है। गर्मी की मार झेलने वाले हर प्राणी को इस एक पहली बूँद से राहत और खुशी मिलती है।",
+      "keyPoints": [
+        "महीनों की भीषण गर्मी के बाद लंबी प्रतीक्षा का अंत करने वाली ऐतिहासिक बूँद (Historic drop that ends months of painful waiting after scorching summer)",
+        "प्रचुरता, फसल और जीवन के पुनर्जन्म का वादा और प्रतीक (Promise and symbol of abundance, harvest, and rebirth of life)",
+        "सूखे की स्थिति से आशा की ओर प्रकृति के संक्रमण का पवित्र क्षण (Sacred moment of nature's transition from drought-like conditions to hope)"
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "How do children react to the first rain in the poem?",
+      "questionHi": "कविता में पहली बारिश पर बच्चे कैसी प्रतिक्रिया देते हैं?",
+      "answer": "Children react with pure, uninhibited joy to the first rain. They run out into the rain, dance, splash in puddles, get drenched, and celebrate freely without any care. Their playful, carefree response to the first rain is depicted as the most natural and authentic expression of happiness that connects them directly with nature.",
+      "answerHi": "बच्चे पहली बारिश पर निश्छल और उन्मुक्त आनंद के साथ प्रतिक्रिया देते हैं। वे बारिश में बाहर दौड़ते हैं, नाचते हैं, पोखरों में छपाक-छपाक करते हैं, भीगते हैं और बिना किसी चिंता के उत्सव मनाते हैं। पहली बारिश पर उनकी यह खेलती, बेफिक्र प्रतिक्रिया को खुशी की सबसे स्वाभाविक और प्रामाणिक अभिव्यक्ति के रूप में दिखाया गया है जो उन्हें सीधे प्रकृति से जोड़ती है।",
+      "keyPoints": [
+        "बच्चों का निश्छल आनंद—बारिश में दौड़ना, नाचना और पोखरों में खेलना (Children's innocent joy — running, dancing, and splashing in puddles in rain)",
+        "बेफिक्री और उन्मुक्त उत्सव—बिना किसी चिंता के भीगना (Carefree and uninhibited celebration — getting drenched without any worry)",
+        "बच्चों का व्यवहार प्रकृति के साथ गहरे जुड़ाव की सबसे प्रामाणिक अभिव्यक्ति (Children's behavior as most authentic expression of deep connection with nature)"
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "What does the 'first drop' of rain symbolize for farmers in the poem?",
+      "questionHi": "कविता में वर्षा की 'पहली बूँद' किसानों के लिए क्या प्रतीक है?",
+      "answer": "For farmers, the first drop of rain is the most awaited and precious moment of the year. It symbolizes the beginning of the sowing season, the promise of a good harvest, food, livelihood, and economic security for their families. After months of watching the dry, barren fields and a cloudless sky, the first raindrop is equivalent to the arrival of prosperity and life itself.",
+      "answerHi": "किसानों के लिए, वर्षा की पहली बूँद वर्ष की सबसे अधिक प्रतीक्षित और मूल्यवान क्षण है। यह बुवाई के मौसम की शुरुआत, अच्छी फसल, भोजन, आजीविका और परिवार की आर्थिक सुरक्षा का प्रतीक है। महीनों तक सूखे, बंजर खेतों और बादलरहित आकाश को देखते रहने के बाद, पहली वर्षा बूँद समृद्धि और जीवन के आगमन के बराबर है।",
+      "keyPoints": [
+        "किसान के लिए पहली बूँद = बुवाई के मौसम और फसल की उम्मीद का आरंभ (For farmer, first drop = beginning of sowing season and hope of harvest)",
+        "परिवार की आजीविका, भोजन और आर्थिक सुरक्षा का प्रतीक (Symbol of family's livelihood, food, and economic security)",
+        "महीनों के सूखे और प्रतीक्षा के बाद समृद्धि और जीवन के आगमन का संकेत (Signal of prosperity and life arriving after months of drought and waiting)"
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Name any two sensory images (इंद्रिय-चित्र) used in the poem 'Pahli Boond'.",
+      "questionHi": "'पहली बूँद' कविता में प्रयुक्त किन्हीं दो इंद्रिय-चित्रों (sensory images) के नाम बताइए।",
+      "answer": "Two prominent sensory images in the poem are:\n1. **Auditory Image (श्रव्य-चित्र):** The sound of rain drops falling — 'tip-tip', 'rim-jhim' — and birds chirping and singing merrily at the arrival of rain.\n2. **Olfactory Image (घ्राण-चित्र):** The 'soondhi khushbu' (सोंधी खुशबू) — the petrichor or sweet earthy fragrance that rises from the soil when the first drop touches the dry earth.",
+      "answerHi": "कविता में दो प्रमुख इंद्रिय-चित्र हैं:\n1. **श्रव्य-चित्र (Auditory Image):** बारिश की बूँदों के गिरने की आवाज — 'टिप-टिप', 'रिम-झिम' — और बारिश के आगमन पर पक्षियों का प्रसन्नता से चहचहाना और गाना।\n2. **घ्राण-चित्र (Olfactory Image):** 'सोंधी खुशबू' — वह petrichor या मीठी मिट्टी की सुगंध जो पहली बूँद के सूखी धरती को छूने पर उठती है।",
+      "keyPoints": [
+        "श्रव्य-चित्र: बूँदों की टिप-टिप/रिम-झिम और पक्षियों का आनंद-गान (Auditory: sound of drops tip-tip/rim-jhim and birds' joyful singing)",
+        "घ्राण-चित्र: भीगी मिट्टी की सोंधी और मनमोहक खुशबू (petrichor) (Olfactory: sweet earthy fragrance/petrichor of wet soil)",
+        "दृश्य-चित्र भी प्रयुक्त: मोर का नृत्य, हरियाली का लौटना और काले बादलों का घिरना (Visual also used: peacock dancing, greenery returning, dark clouds gathering)"
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "What is the significance of the monsoon season in Indian culture and how does the poem reflect it?",
+      "questionHi": "भारतीय संस्कृति में मानसून ऋतु (monsoon) का क्या महत्व है और कविता इसे कैसे दर्शाती है?",
+      "answer": "In Indian culture, the monsoon (Varsha Ritu / वर्षा ऋतु) is celebrated as one of the most important and joyous seasons. It is associated with agriculture, fertility, folk songs, dances (like Teej), and the emotion of love and longing (Shringar Ras). The poem reflects this cultural significance by portraying the universal joy, relief, and celebration that the first rain brings to all of nature and human society in India.",
+      "answerHi": "भारतीय संस्कृति में मानसून (वर्षा ऋतु) को सबसे महत्वपूर्ण और आनंददायक ऋतुओं में से एक मनाया जाता है। यह कृषि, उर्वरता, लोक गीतों, नृत्यों (जैसे तीज) और प्रेम और विरह (श्रृंगार रस) की भावना से जुड़ा हुआ है। कविता इस सांस्कृतिक महत्व को भारत में सभी प्रकृति और मानव समाज को पहली बारिश से मिलने वाली सार्वभौमिक खुशी, राहत और उत्सव को चित्रित करके दर्शाती है।",
+      "keyPoints": [
+        "वर्षा ऋतु भारतीय कृषि, उर्वरता और लोक संस्कृति की आधार ऋतु (Monsoon is the foundational season for Indian agriculture, fertility, and folk culture)",
+        "तीज, मल्हार, सावन-गीत जैसे उत्सव वर्षा की सांस्कृतिक महत्ता के प्रतीक (Teej, Malhar, Sawan-songs are symbols of monsoon's cultural importance)",
+        "कविता भारतीय परंपरा में वर्षा के सार्वभौमिक आनंद और उत्सव को प्रतिबिंबित करती है (Poem reflects the universal joy and celebration of rain in Indian tradition)"
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Explain the contrast between the scorching summer and the relief brought by the first drop of rain as depicted in the poem.",
+      "questionHi": "कविता में चित्रित जलती गर्मी और पहली वर्षा बूँद से मिलने वाली राहत के बीच के अंतर (contrast) को स्पष्ट कीजिए।",
+      "answer": "The poem creates a powerful contrast between the two seasons:\n1. **The Scorching Summer (जलती गर्मी):** The earth is depicted as cracked, barren, and desperately dry. The sun blazes mercilessly, burning every living creature. Rivers shrink, ponds dry up, plants wilt, and both animals and humans suffer exhaustion and desperation under the relentless heat.\n2. **Relief of the First Drop (पहली बूँद की राहत):** With the fall of the very first raindrop, the entire atmosphere transforms instantly. The earth cools, plants revive, birds break into song, peacocks dance, and the air fills with the blessed fragrance of wet soil. The contrast highlights how a single drop can transform exhaustion into joy and despair into hope.\n3. **Literary Significance:** This contrast between suffering and relief makes the first drop appear miraculous and deeply meaningful, teaching readers to value and be grateful for water and nature's gifts.",
+      "answerHi": "कविता दो ऋतुओं के बीच एक शक्तिशाली विरोधाभास (contrast) उत्पन्न करती है:\n1. **जलती गर्मी:** धरती को दरकी हुई, बंजर और बेतहाशा सूखी दिखाया गया है। सूरज बेरहमी से जलाता है, हर जीव को झुलसाता है। नदियाँ सिकुड़ जाती हैं, तालाब सूख जाते हैं, पौधे मुरझा जाते हैं, और पशु-पक्षी व मनुष्य निरंतर गर्मी से थककर हताश हो जाते हैं।\n2. **पहली बूँद की राहत:** पहली वर्षा बूँद के गिरते ही, पूरा वातावरण तुरंत बदल जाता है। धरती ठंडी हो जाती है, पौधे जी उठते हैं, पक्षी गाने लगते हैं, मोर नाचते हैं, और हवा भीगी मिट्टी की धन्य सुगंध से भर जाती है। यह विरोधाभास दर्शाता है कि एक बूँद भी थकान को आनंद में और निराशा को आशा में बदल सकती है।\n3. **साहित्यिक महत्व:** कष्ट और राहत का यह विरोधाभास पहली बूँद को चमत्कारिक और गहरे अर्थपूर्ण बनाता है, पाठकों को जल और प्रकृति के उपहारों को महत्व देना और उनका आभार मानना सिखाता है।",
+      "keyPoints": [
+        "गर्मी में: दरकी धरती, सूखी नदियाँ, मुरझाए पौधे, थके जीव (Summer: cracked earth, dry rivers, wilted plants, exhausted creatures)",
+        "पहली बूँद: धरती ठंडी, पौधे जीवित, पक्षियों का गायन, मिट्टी की सोंधी खुशबू (First drop: cool earth, revived plants, bird songs, petrichor)",
+        "विरोधाभास से एक बूँद की चमत्कारिक शक्ति और जल के महत्व का बोध (Contrast reveals miraculous power of one drop and value of water)"
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "How does the poem 'Pahli Boond' inspire us to conserve water and protect our environment?",
+      "questionHi": "'पहली बूँद' कविता हमें जल संरक्षण और पर्यावरण रक्षा के लिए किस प्रकार प्रेरित करती है?",
+      "answer": "The poem inspires environmental awareness through its vivid portrayal:\n1. **Value of Water:** By showing the desperate suffering of all living beings during summer drought and the miraculous relief brought by a single drop, the poem makes the reader deeply realize the priceless value of water. Every drop is life itself.\n2. **Interdependence of Nature:** The poem depicts how rain connects the sky, earth, rivers, plants, animals, birds, and humans in one harmonious cycle. Damaging one element disrupts the entire system, motivating the reader to protect each part of nature.\n3. **Call to Action:** The image of cracked, barren earth warns that if we continue to waste water, pollute rivers, and destroy forests, permanent drought-like conditions will prevail. The poem silently urges the reader to plant trees, save rainwater, and prevent water pollution.",
+      "answerHi": "यह कविता अपने जीवंत चित्रण से पर्यावरण जागरूकता प्रेरित करती है:\n1. **जल का मूल्य:** गर्मी के सूखे में सभी जीवों की भयानक पीड़ा और एक बूँद से मिलने वाली चमत्कारिक राहत दिखाकर, कविता पाठक को जल के अमूल्य मूल्य का गहराई से एहसास कराती है। हर बूँद जीवन ही है।\n2. **प्रकृति की परस्पर निर्भरता:** कविता दर्शाती है कि वर्षा आकाश, धरती, नदियों, पौधों, पशुओं, पक्षियों और मनुष्यों को एक सामंजस्यपूर्ण चक्र में जोड़ती है। एक तत्व को नुकसान पहुँचाने से पूरी व्यवस्था बाधित होती है, जो पाठक को प्रकृति के हर हिस्से की रक्षा करने के लिए प्रेरित करती है।\n3. **कार्रवाई का आह्वान:** दरकी, बंजर धरती का चित्र चेतावनी देता है कि यदि हम जल बर्बाद करते, नदियाँ प्रदूषित करते और जंगल नष्ट करते रहे, तो स्थायी सूखे जैसी स्थिति रहेगी। कविता चुपचाप पाठक से पेड़ लगाने, वर्षा जल बचाने और जल प्रदूषण रोकने का आग्रह करती है।",
+      "keyPoints": [
+        "एक बूँद की चमत्कारिक शक्ति दिखाकर जल के अमूल्य महत्व का बोध कराना (Realizing priceless value of water by showing miraculous power of one drop)",
+        "प्रकृति की परस्पर निर्भरता—आकाश, धरती, जीव—एक चक्र में (Nature's interdependence — sky, earth, creatures — all in one cycle)",
+        "दरकी धरती का चित्र: जल बचाओ, पेड़ लगाओ और नदियाँ स्वच्छ रखो का मौन आह्वान (Cracked earth: silent call to save water, plant trees, and keep rivers clean)"
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "Identify and explain any three poetic devices (अलंकार) used in the poem 'Pahli Boond' with examples.",
+      "questionHi": "'पहली बूँद' कविता में प्रयुक्त किन्हीं तीन काव्य-अलंकारों (poetic devices) को उदाहरण सहित पहचानकर समझाइए।",
+      "answer": "Three key poetic devices in 'Pahli Boond' are:\n1. **Personification (मानवीकरण):** Non-living elements like the earth and sky are given human emotions. Example: The earth is described as 'thirsty' and 'waiting desperately' for rain — human feelings given to a non-living entity.\n2. **Simile (उपमा):** Comparisons are drawn using 'like' (जैसे/सी). Example: The fragrance of wet earth spreads like the joy of meeting a long-lost friend (भीगी मिट्टी की खुशबू पुराने मित्र से मिलने की खुशी जैसी).\n3. **Onomatopoeia (अनुकरणात्मक शब्द):** Words that imitate the sound they represent. Example: 'Rim-jhim, rim-jhim' (रिम-झिम) of rain drops, 'tip-tip' of the first drops falling on dry leaves — these create an auditory experience for the reader.",
+      "answerHi": "'पहली बूँद' में तीन प्रमुख काव्य-अलंकार हैं:\n1. **मानवीकरण (Personification):** धरती और आकाश जैसे निर्जीव तत्वों को मानवीय भावनाएँ दी गई हैं। उदाहरण: धरती को 'प्यासी' और बारिश की 'बेताबी से प्रतीक्षा करती हुई' बताया गया है — एक निर्जीव तत्व को मानवीय भावनाएँ दी गई हैं।\n2. **उपमा (Simile):** 'जैसे/सी' का प्रयोग करके तुलना की जाती है। उदाहरण: भीगी मिट्टी की खुशबू पुराने खोए मित्र से मिलने की खुशी जैसी फैलती है।\n3. **अनुकरणात्मक शब्द (Onomatopoeia):** ऐसे शब्द जो उनकी ध्वनि की नकल करते हैं। उदाहरण: बारिश की बूँदों की 'रिम-झिम, रिम-झिम' और सूखी पत्तियों पर पहली बूँदों की 'टिप-टिप' — ये पाठक के लिए एक श्रव्य अनुभव बनाते हैं।",
+      "keyPoints": [
+        "मानवीकरण: धरती को प्यासी और बेताब बताना (Personification: describing earth as thirsty and desperate)",
+        "उपमा: भीगी मिट्टी की खुशबू की पुराने मित्र से मिलन की खुशी से तुलना (Simile: comparing petrichor to joy of meeting long-lost friend)",
+        "अनुकरणात्मक शब्द: 'रिम-झिम', 'टिप-टिप' — ध्वनि चित्र बनाने वाले शब्द (Onomatopoeia: 'rim-jhim', 'tip-tip' — words creating sound imagery)"
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "How does the poem show the interconnection between rain, earth, and all living beings?",
+      "questionHi": "कविता किस प्रकार वर्षा, धरती और सभी जीवों के बीच परस्पर संबंध (interconnection) दर्शाती है?",
+      "answer": "The poem beautifully weaves a web of interconnection:\n1. **Rain and Earth:** The rain gives water to the parched earth, which in turn becomes fertile and fragrant. The earth absorbs and stores rainwater, replenishing rivers, ponds, and groundwater.\n2. **Earth and Plants:** The fertile, water-rich earth nourishes seeds that sprout into plants and trees, producing food, oxygen, and shade for all life.\n3. **Plants, Animals, and Humans:** Birds nest in trees and feed on fruits; animals drink from streams; farmers grow crops; and humans receive food, water, and shelter — all ultimately dependent on that first drop of rain that initiates the entire cycle of life.",
+      "answerHi": "कविता एक सुंदर परस्पर संबंध का जाल बुनती है:\n1. **वर्षा और धरती:** वर्षा प्यासी धरती को जल देती है, जो बदले में उपजाऊ और सुगंधित हो जाती है। धरती वर्षा जल को सोखकर नदियों, तालाबों और भूजल को पुनः भरती है।\n2. **धरती और पौधे:** जल-समृद्ध उपजाऊ धरती बीजों को पोषण देती है जो पौधों और पेड़ों में उगते हैं, सभी जीवों के लिए भोजन, ऑक्सीजन और छाया उत्पन्न करते हैं।\n3. **पौधे, पशु और मनुष्य:** पक्षी पेड़ों में घोंसला बनाते और फल खाते हैं; पशु नदियों से पानी पीते हैं; किसान फसलें उगाते हैं; और मनुष्यों को भोजन, पानी और आश्रय मिलता है — ये सब अंततः उस पहली वर्षा बूँद पर निर्भर हैं जो जीवन के पूरे चक्र को शुरू करती है।",
+      "keyPoints": [
+        "वर्षा → धरती को जल देती है → नदी-तालाब भरती है → भूजल रिचार्ज (Rain waters earth → fills rivers-ponds → recharges groundwater)",
+        "धरती → बीज उगाती है → पौधे-पेड़ बनते हैं → भोजन, ऑक्सीजन, छाया मिलती है (Earth nurtures seeds → plants-trees grow → food, oxygen, shade produced)",
+        "पौधे → पक्षियों और पशुओं को आहार → किसानों को फसल → सभी जीवों का जीवन (Plants → feed birds/animals → crops for farmers → life for all beings)"
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Why is the mood of the poem 'Pahli Boond' described as celebratory and hopeful? Explain with reference to the poem.",
+      "questionHi": "'पहली बूँद' कविता का भाव उत्सवपूर्ण और आशापूर्ण क्यों कहा जाता है? कविता के संदर्भ में स्पष्ट कीजिए।",
+      "answer": "The poem's mood is overwhelmingly celebratory and hopeful because:\n1. **Universal Joy:** The moment the first drop falls, every element of nature — earth, trees, birds, animals, humans — breaks into spontaneous celebration. This universal, simultaneous rejoicing creates an intensely joyful mood.\n2. **End of Suffering:** The poem's mood shifts from the deep suffering of summer drought to the instant relief of rain. This sudden positive transformation generates a powerful feeling of hope and renewal.\n3. **Promise of Life:** The first drop carries the promise of crops, clean water, green fields, and sustenance for all — making the mood deeply hopeful and optimistic about life's continuation and nature's abundance.",
+      "answerHi": "कविता का भाव अत्यधिक उत्सवपूर्ण और आशापूर्ण है क्योंकि:\n1. **सार्वभौमिक आनंद:** पहली बूँद गिरते ही, प्रकृति का हर तत्व — धरती, पेड़, पक्षी, पशु, मनुष्य — स्वतः उत्सव में डूब जाता है। यह सार्वभौमिक, एक साथ उल्लास एक तीव्र आनंदमय भाव बनाता है।\n2. **कष्ट का अंत:** कविता का भाव गर्मी के सूखे की गहरी पीड़ा से वर्षा की तत्काल राहत की ओर स्थानांतरित होता है। यह अचानक सकारात्मक परिवर्तन आशा और नवजीवन की एक शक्तिशाली भावना उत्पन्न करता है।\n3. **जीवन का वादा:** पहली बूँद फसलों, स्वच्छ जल, हरे खेतों और सभी के लिए आजीविका का वादा लेकर आती है — जो भाव को जीवन की निरंतरता और प्रकृति की प्रचुरता के बारे में गहराई से आशापूर्ण और आशावादी बनाती है।",
+      "keyPoints": [
+        "पहली बूँद के साथ प्रकृति के हर तत्व का एक साथ उत्सव मनाना (Simultaneous celebration of every element of nature with the first drop)",
+        "गर्मी की पीड़ा से वर्षा की राहत तक का अचानक परिवर्तन आशा का संचार (Sudden shift from summer suffering to rain's relief infuses powerful hope)",
+        "फसल, हरियाली और सभी जीवों के पोषण का वादा—भाव को आशावादी बनाना (Promise of crops, greenery, and sustenance for all — making mood optimistic)"
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "Compare the behaviour of children and adults when the first rain arrives. What does this comparison reveal about human nature?",
+      "questionHi": "पहली बारिश आने पर बच्चों और बड़ों के व्यवहार की तुलना कीजिए। यह तुलना मानव स्वभाव के बारे में क्या उजागर करती है?",
+      "answer": "The poem implicitly contrasts children and adults through their response to rain:\n1. **Children's Response (बच्चों की प्रतिक्रिया):** Children rush out without any hesitation, dance, splash in puddles, and fully immerse themselves in the joy of rain without caring about getting wet or dirty. They live in the moment and connect directly with nature.\n2. **Adults' Response (बड़ों की प्रतिक्रिया):** Adults feel relief and joy too, but many hold back due to social norms, worry about clothes, illness, or practical concerns. They celebrate inwardly but rarely match the unbridled joy of children.\n3. **Revelation about Human Nature:** This contrast reveals that as people grow older, social conditioning and practical concerns suppress the natural, spontaneous connection with nature that every human is born with. The poem quietly urges adults to rediscover the child within and celebrate nature's gifts with innocence and gratitude.",
+      "answerHi": "कविता परोक्ष रूप से बच्चों और बड़ों की बारिश के प्रति प्रतिक्रिया का विरोध करती है:\n1. **बच्चों की प्रतिक्रिया:** बच्चे बिना किसी झिझक के बाहर दौड़ते हैं, नाचते हैं, पोखरों में छपाक करते हैं, और भीगने या गंदे होने की परवाह किए बिना बारिश की खुशी में पूरी तरह डूब जाते हैं। वे वर्तमान में जीते हैं और सीधे प्रकृति से जुड़ते हैं।\n2. **बड़ों की प्रतिक्रिया:** बड़ों को भी राहत और खुशी होती है, लेकिन अनेक लोग सामाजिक मानदंडों, कपड़ों की चिंता, बीमारी या व्यावहारिक चिंताओं के कारण रुक जाते हैं। वे अंदर से उत्सव मनाते हैं लेकिन शायद ही कभी बच्चों की बेलगाम खुशी से मेल खाते हैं।\n3. **मानव स्वभाव का उजागर:** यह विरोधाभास उजागर करता है कि जैसे-जैसे लोग बड़े होते हैं, सामाजिक संस्कार और व्यावहारिक चिंताएं प्रकृति के साथ उस स्वाभाविक, सहज संबंध को दबा देती हैं जिसके साथ हर इंसान जन्म लेता है। कविता चुपचाप बड़ों से आग्रह करती है कि वे अपने अंदर के बच्चे को फिर से खोजें और निश्छलता व कृतज्ञता के साथ प्रकृति के उपहारों का जश्न मनाएं।",
+      "keyPoints": [
+        "बच्चे: बेझिझक भीगना, नाचना, वर्तमान में जीना और प्रकृति से सीधा जुड़ाव (Children: carefree drenching, dancing, living in moment, direct connection with nature)",
+        "बड़े: सामाजिक नियमों और व्यावहारिक चिंताओं से रोका गया अंदरूनी उत्साह (Adults: inner enthusiasm restrained by social norms and practical concerns)",
+        "बड़े होने पर प्रकृति से सहज जुड़ाव दबता है—कविता अंदर के बच्चे को जगाने का आह्वान (With age, natural connection diminishes — poem calls to awaken the inner child)"
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "How does the poem 'Pahli Boond' use nature to convey human emotions?",
+      "questionHi": "'पहली बूँद' कविता मानवीय भावनाओं को व्यक्त करने के लिए प्रकृति का उपयोग किस प्रकार करती है?",
+      "answer": "The poem masterfully uses nature as a mirror for human emotions:\n1. **Earth's Thirst = Human Longing:** The cracked, parched earth represents the deep longing and suffering of human beings waiting for relief, hope, and happiness during difficult periods of life.\n2. **First Drop = Sudden Joy and Hope:** Just as the first rain drop instantly transforms the mood of all nature from suffering to celebration, in human life too, a single positive event — a kind word, a helping hand, or good news — can instantly transform sorrow into happiness.\n3. **Petrichor = Nostalgia and Gratitude:** The beloved fragrance of wet earth evokes deep nostalgia, love, and gratitude in humans, reminding them of their inseparable bond with nature and their cultural roots.",
+      "answerHi": "कविता प्रकृति को मानवीय भावनाओं के दर्पण के रूप में कुशलतापूर्वक उपयोग करती है:\n1. **धरती की प्यास = मानवीय तड़प:** दरकी, सूखी धरती उन मनुष्यों की गहरी तड़प और कष्ट का प्रतिनिधित्व करती है जो जीवन के कठिन दौर में राहत, आशा और खुशी की प्रतीक्षा में हैं।\n2. **पहली बूँद = अचानक आनंद और आशा:** जैसे पहली बारिश की बूँद तुरंत प्रकृति के मनोभाव को कष्ट से उत्सव में बदल देती है, वैसे ही मानव जीवन में भी एक सकारात्मक घटना — एक दयालु शब्द, मदद का हाथ या अच्छी खबर — तुरंत दुःख को खुशी में बदल सकती है।\n3. **सोंधी खुशबू = पुरानी यादें और कृतज्ञता:** भीगी मिट्टी की प्रिय सुगंध मनुष्यों में गहरी पुरानी यादें, प्रेम और कृतज्ञता जगाती है, उन्हें प्रकृति और अपनी सांस्कृतिक जड़ों के साथ अटूट संबंध की याद दिलाती है।",
+      "keyPoints": [
+        "दरकी धरती की प्यास = कठिन जीवन में राहत और आशा के लिए तड़प (Cracked earth's thirst = human longing for relief and hope in hard times)",
+        "पहली बूँद = एक सकारात्मक घटना से जीवन का तुरंत परिवर्तन (First drop = instant transformation of life by one positive event)",
+        "सोंधी खुशबू = पुरानी यादें, प्रकृति-प्रेम और सांस्कृतिक जड़ों की कृतज्ञता (Petrichor = nostalgia, love for nature, and gratitude for cultural roots)"
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "What role does the peacock play in the poem and what does it symbolize?",
+      "questionHi": "कविता में मोर की क्या भूमिका है और वह क्या प्रतीक है?",
+      "answer": "The peacock plays a central and symbolic role in the poem:\n1. **The Rain Dancer:** The peacock, known as the 'rain bird' (वर्षा पक्षी) of India, is shown spreading its magnificent tail and dancing with pure ecstasy when the first rain arrives. Its dance is the most iconic visual image of monsoon joy in Indian poetry and culture.\n2. **Symbol of Celebration:** The peacock's magnificent dance symbolizes the unbounded, spontaneous celebration of all of nature at the arrival of rain. It becomes the spokesperson of nature's happiness.\n3. **National Symbol and Cultural Significance:** As India's National Bird, the peacock represents India's cultural bond with nature and the monsoon. Its joyful dance in the poem is a reminder of our duty to protect biodiversity and the natural environment that makes such magnificent creatures possible.",
+      "answerHi": "कविता में मोर की केंद्रीय और प्रतीकात्मक भूमिका है:\n1. **वर्षा नर्तक:** मोर, जो भारत का 'वर्षा पक्षी' (rain bird) है, को पहली बारिश आने पर अपनी भव्य पूँछ फैलाकर परम उल्लास के साथ नाचते दिखाया गया है। उसका नृत्य भारतीय काव्य और संस्कृति में मानसून की खुशी की सबसे प्रतीकात्मक दृश्य छवि है।\n2. **उत्सव का प्रतीक:** मोर का भव्य नृत्य वर्षा के आगमन पर समस्त प्रकृति के असीमित, स्वतः उत्सव का प्रतीक है। वह प्रकृति की खुशी का प्रवक्ता बन जाता है।\n3. **राष्ट्रीय प्रतीक और सांस्कृतिक महत्व:** भारत के राष्ट्रीय पक्षी के रूप में, मोर प्रकृति और मानसून के साथ भारत के सांस्कृतिक बंधन को दर्शाता है। कविता में उसका आनंदमय नृत्य हमें जैव विविधता और प्राकृतिक पर्यावरण की रक्षा के हमारे कर्तव्य की याद दिलाता है।",
+      "keyPoints": [
+        "मोर—भारत का वर्षा पक्षी—पहली बारिश पर परम उल्लास से पूँछ फैलाकर नाचता है (Peacock — India's rain bird — dances with pure ecstasy on first rain)",
+        "मोर का नृत्य = समस्त प्रकृति के असीमित उत्सव का प्रतीक (Peacock's dance = symbol of boundless celebration of all nature)",
+        "राष्ट्रीय पक्षी के रूप में मोर भारत के प्रकृति-प्रेम और जैव विविधता संरक्षण की प्रेरणा (As national bird, peacock inspires India's love for nature and biodiversity conservation)"
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Describe how the atmosphere before and after the first rain changes in the poem.",
+      "questionHi": "कविता में पहली बारिश से पहले और बाद में वातावरण (atmosphere) कैसे बदलता है, इसका वर्णन कीजिए।",
+      "answer": "The poem shows a dramatic transformation of the atmosphere:\n1. **Before Rain (पहली बारिश से पहले):** The atmosphere is oppressively hot, dry, and suffocating. The air shimmers with heat waves, dust storms blow, leaves are wilted and dull, birds sit quietly in shade, and there is an overwhelming sense of exhaustion and desperation.\n2. **After First Rain (पहली बारिश के बाद):** The atmosphere transforms completely. The temperature drops, the air becomes fresh and cool, the fragrance of wet earth fills the surroundings, leaves glisten with raindrops, birds sing joyfully, and a gentle breeze carries the promise of relief and joy throughout the land.",
+      "answerHi": "कविता वातावरण का एक नाटकीय परिवर्तन दिखाती है:\n1. **पहली बारिश से पहले:** वातावरण दमघोंटू गर्म, सूखा और उमस भरा होता है। हवा गर्मी की लहरों से काँपती है, धूल के बवंडर चलते हैं, पत्तियाँ मुरझाई और बेजान हैं, पक्षी छाया में चुपचाप बैठे हैं, और थकान और निराशा का भारी एहसास है।\n2. **पहली बारिश के बाद:** वातावरण पूरी तरह बदल जाता है। तापमान गिरता है, हवा ताजी और ठंडी हो जाती है, भीगी मिट्टी की सुगंध चारों ओर भर जाती है, पत्तियाँ बारिश की बूँदों से चमकती हैं, पक्षी आनंद से गाते हैं, और एक मृदुल हवा पूरी धरती पर राहत और खुशी का वादा लेकर चलती है।",
+      "keyPoints": [
+        "पहले: दमघोंटू गर्मी, धूल-बवंडर, मुरझाई पत्तियाँ, चुप पक्षी, निराशा (Before: suffocating heat, dust storms, wilted leaves, quiet birds, desperation)",
+        "बाद में: तापमान गिरना, ठंडी-ताजी हवा, सोंधी खुशबू, चमकती पत्तियाँ, पक्षियों का गायन (After: falling temperature, cool-fresh air, petrichor, gleaming leaves, birds singing)",
+        "एकमात्र पहली बूँद से पूरे वातावरण का नाटकीय और तत्काल रूपांतरण (Single first drop causing dramatic and instant transformation of entire atmosphere)"
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "What lesson about patience and hope does the poem 'Pahli Boond' teach young students?",
+      "questionHi": "'पहली बूँद' कविता युवा छात्रों को धैर्य (patience) और आशा (hope) के बारे में क्या शिक्षा देती है?",
+      "answer": "The poem teaches profound lessons about patience and hope:\n1. **Patience Brings Its Reward:** The earth waits patiently through months of scorching summer without giving up hope. And when the time comes, the reward — the first drop of rain — transforms everything. This teaches students that patience during difficult times eventually leads to joyful results.\n2. **Hope Never Dies:** Even in the hottest, most desperate summer, dark clouds gather and the monsoon arrives. Nature teaches that hope is eternal and that every period of hardship is followed by relief and renewal.\n3. **One Moment Can Change Everything:** The transformation caused by a single raindrop teaches students that even in the darkest moments of academic or personal struggle, one positive breakthrough can change the entire situation for the better.",
+      "answerHi": "कविता धैर्य और आशा के बारे में गहरी शिक्षाएँ देती है:\n1. **धैर्य का फल मिलता है:** धरती महीनों की जलती गर्मी में बिना उम्मीद छोड़े धैर्यपूर्वक प्रतीक्षा करती है। और जब समय आता है, तो पुरस्कार — पहली वर्षा बूँद — सब कुछ बदल देती है। यह छात्रों को सिखाता है कि कठिन समय में धैर्य अंततः आनंदमय परिणाम लाता है।\n2. **आशा कभी नहीं मरती:** सबसे गर्म, सबसे निराशाजनक गर्मी में भी काले बादल घिरते हैं और मानसून आता है। प्रकृति सिखाती है कि आशा शाश्वत है और हर कठिनाई का दौर राहत और नवजीवन के साथ समाप्त होता है।\n3. **एक क्षण सब बदल सकता है:** एक वर्षा बूँद से होने वाला परिवर्तन छात्रों को सिखाता है कि पढ़ाई या व्यक्तिगत संघर्ष के सबसे कठिन क्षणों में भी, एक सकारात्मक सफलता पूरी स्थिति को बेहतर के लिए बदल सकती है।",
+      "keyPoints": [
+        "धरती का महीनों धैर्यपूर्ण इंतजार और फिर पहली बूँद का पुरस्कार — धैर्य की शिक्षा (Earth's patient waiting months and first drop's reward — lesson of patience)",
+        "सबसे कठिन गर्मी में भी बादल आते हैं—आशा शाश्वत और अविनाशी है (Even in harshest summer clouds come — hope is eternal and indestructible)",
+        "एक बूँद से सब बदलता है — जीवन के सबसे कठिन पल में भी एक सफलता सब बदलती है (One drop changes everything — one success changes all even in life's hardest moment)"
+      ]
+    },
+    {
+      "id": "q21",
+      "type": "case-study",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "Read the following scenario and answer the questions:\nRiya lives in a small farming village in Rajasthan. This year, the summer has been extremely harsh. All the wells, ponds, and rivers in her village have nearly dried up. The crops have failed, cattle are dying of thirst, and her family is worried about their livelihood. One afternoon, Riya's teacher reads the poem 'Pahli Boond' in class. That very evening, dark clouds gather and the first drop of rain falls. The whole village runs out and celebrates with songs and dances. Riya, who had been feeling hopeless, feels a surge of joy and renewed hope.\n\n(a) Connect Riya's situation before the rain to the central theme of the poem 'Pahli Boond'.\n(b) What does the 'first drop' of rain symbolize for Riya's farming village according to the poem?\n(c) How does the poem's message about hope and patience apply to Riya's emotional journey from despair to joy?\n(d) Name two ways Riya's village can conserve rainwater so that they do not face the same crisis next summer.",
+      "questionHi": "निम्नलिखित परिदृश्य को पढ़िए और प्रश्नों के उत्तर दीजिए:\nरिया राजस्थान के एक छोटे से कृषि गाँव में रहती है। इस वर्ष गर्मी बेहद कठोर रही है। उसके गाँव के सभी कुएं, तालाब और नदियाँ लगभग सूख गई हैं। फसलें बर्बाद हो गई हैं, मवेशी प्यास से मर रहे हैं, और उसका परिवार अपनी आजीविका की चिंता में है। एक दोपहर, रिया की शिक्षिका कक्षा में 'पहली बूँद' कविता पढ़ाती हैं। उसी शाम, काले बादल घिर आते हैं और पहली वर्षा बूँद गिरती है। पूरा गाँव बाहर दौड़ता है और गीत-नृत्य के साथ उत्सव मनाता है। निराश महसूस कर रही रिया को आनंद और नई आशा का उछाल महसूस होता है।\n\n(क) बारिश से पहले रिया की स्थिति को 'पहली बूँद' कविता के केंद्रीय भाव से जोड़िए।\n(ख) कविता के अनुसार, रिया के कृषि गाँव के लिए वर्षा की 'पहली बूँद' क्या प्रतीक है?\n(ग) आशा और धैर्य के बारे में कविता का संदेश निराशा से आनंद की ओर रिया की भावनात्मक यात्रा पर कैसे लागू होता है?\n(घ) दो तरीके बताइए जिनसे रिया का गाँव वर्षा जल का संरक्षण कर सके ताकि अगली गर्मी में वही संकट न झेलना पड़े।",
+      "answer": "(a) Riya's situation — dried wells, failed crops, dying cattle, worried family — perfectly mirrors the central theme of 'Pahli Boond', which depicts the suffering of all living beings during summer drought and their desperate wait for the first drop of rain to bring relief, hope, and renewal.\n(b) For Riya's farming village, the first drop symbolizes: the beginning of the sowing season, the revival of crops and wells, the end of the livestock crisis, the return of economic security and livelihood, and the collective sigh of relief after months of collective suffering.\n(c) Riya's emotional journey mirrors the poem's core message: just as the parched earth waits patiently and never gives up hope, Riya endured her despair with patience. And just as one raindrop instantly transforms nature from suffering to celebration, a single joyful event (the rain) instantly lifted her from hopelessness to joy — teaching that hope must never be abandoned, because relief always comes.\n(d) Two rainwater conservation methods: (1) **Rainwater Harvesting (वर्षा जल संचयन):** Building rooftop collection systems and check dams to capture and store rainwater in tanks and ponds. (2) **Traditional Step-Wells / Bawdi Restoration (बावड़ी पुनर्स्थापना):** Reviving ancient Rajasthani step-wells (bawdi) which have been used for centuries to store rainwater for year-round use.",
+      "answerHi": "(क) रिया की स्थिति — सूखे कुएं, बर्बाद फसलें, प्यासे मवेशी, चिंतित परिवार — 'पहली बूँद' के केंद्रीय भाव को पूरी तरह प्रतिबिंबित करती है, जो गर्मी के सूखे में सभी जीवों की पीड़ा और राहत, आशा और नवजीवन लाने के लिए पहली वर्षा बूँद की बेताब प्रतीक्षा को दर्शाता है।\n(ख) रिया के कृषि गाँव के लिए पहली बूँद का प्रतीक: बुवाई के मौसम की शुरुआत, फसलों और कुओं का पुनरुद्धार, पशुधन संकट का अंत, आर्थिक सुरक्षा और आजीविका की वापसी, और महीनों की सामूहिक पीड़ा के बाद सामूहिक राहत की साँस।\n(ग) रिया की भावनात्मक यात्रा कविता के मूल संदेश को प्रतिबिंबित करती है: जैसे सूखी धरती धैर्यपूर्वक प्रतीक्षा करती है और आशा नहीं छोड़ती, वैसे ही रिया ने अपनी निराशा को धैर्य के साथ सहा। और जैसे एक बूँद तुरंत प्रकृति को कष्ट से उत्सव में बदल देती है, एक आनंदमय घटना (बारिश) ने तुरंत उसे निराशा से खुशी में बदल दिया — यह सिखाता है कि आशा कभी नहीं छोड़नी चाहिए, क्योंकि राहत हमेशा आती है।\n(घ) वर्षा जल संरक्षण के दो तरीके: (1) **वर्षा जल संचयन:** छत संग्रह प्रणालियों और चेक डैम बनाकर टैंकों और तालाबों में वर्षा जल को पकड़ना और संग्रहीत करना। (2) **पारंपरिक बावड़ी पुनर्स्थापना:** राजस्थान की पुरानी बावड़ियों (step-wells) को पुनर्जीवित करना जिनका उपयोग सदियों से साल भर के लिए वर्षा जल संग्रहीत करने में किया जाता रहा है।",
+      "keyPoints": [
+        "रिया की सूखे की स्थिति कविता के केंद्रीय भाव — सभी जीवों की पीड़ा और पहली बूँद की प्रतीक्षा — को प्रतिबिंबित करती है (Riya's drought situation mirrors poem's central theme of suffering and waiting for first drop)",
+        "पहली बूँद = बुवाई, फसल, पशुधन और आजीविका की वापसी का प्रतीक (First drop = symbol of return of sowing, crops, livestock, and livelihood)",
+        "धैर्यपूर्ण प्रतीक्षा के बाद एक बूँद से निराशा-आनंद का तत्काल परिवर्तन—आशा कभी न छोड़ें (Patient waiting then one drop's instant despair-joy transformation — never abandon hope)",
+        "वर्षा जल संचयन और बावड़ी पुनर्स्थापना से भविष्य के सूखे से बचाव (Rainwater harvesting and step-well restoration to prevent future drought)"
+      ]
+    },
+    {
+      "id": "q22",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Write a detailed summary of the poem 'Pahli Boond', explaining its main ideas, poetic style, mood, and the message it conveys to the reader.",
+      "questionHi": "'पहली बूँद' कविता का एक विस्तृत सारांश लिखिए, जिसमें उसके मुख्य विचारों, काव्य-शैली, भाव और पाठक को दिए जाने वाले संदेश को समझाया गया हो।",
+      "answer": "'Pahli Boond' (The First Drop) is a beautiful lyrical poem in Class 6 Hindi that celebrates the arrival of the first monsoon rain after the harsh summer.\n\n**Main Ideas:**\nThe poem begins by describing the extreme heat and drought of summer — the cracked earth, dried rivers, wilted plants, and the suffering of all living beings from the blazing sun. Then, the atmosphere shifts dramatically as dark clouds gather in the sky. The first drop of rain falls — and instantly, the entire world celebrates. The earthy fragrance (petrichor) fills the air, birds sing, peacocks dance, children play in the rain, and the tired earth sighs with deep relief.\n\n**Poetic Style:**\nThe poet uses rich sensory imagery (visual, auditory, olfactory), personification of the earth and sky, onomatopoeia (rim-jhim, tip-tip), and similes to create a vivid and emotionally powerful poetic experience.\n\n**Mood:**\nThe mood moves from oppressive heat and desperation to joyful celebration and renewed hope — making the poem feel like a refreshing breeze itself.\n\n**Message:**\nThe poem conveys that water is life, patience is rewarded, and nature's simplest gifts — like a single raindrop — are actually the most precious. It also silently urges readers to conserve water, protect the environment, and celebrate the gifts of nature with gratitude.",
+      "answerHi": "'पहली बूँद' कक्षा 6 हिंदी की एक सुंदर गीतात्मक कविता है जो कठोर गर्मी के बाद पहली मानसून वर्षा के आगमन का उत्सव मनाती है।\n\n**मुख्य विचार:**\nकविता गर्मी और सूखे का वर्णन करते हुए शुरू होती है — दरकी धरती, सूखी नदियाँ, मुरझाए पौधे और जलती धूप में सभी जीवों की पीड़ा। फिर, आकाश में काले बादलों के घिरने के साथ वातावरण नाटकीय रूप से बदलता है। पहली वर्षा बूँद गिरती है — और तुरंत पूरा संसार उत्सव मनाता है। मिट्टी की सोंधी खुशबू हवा में भर जाती है, पक्षी गाते हैं, मोर नाचते हैं, बच्चे बारिश में खेलते हैं, और थकी धरती गहरी राहत से साँस लेती है।\n\n**काव्य-शैली:**\nकवि ने जीवंत इंद्रिय-चित्रण (दृश्य, श्रव्य, घ्राण), धरती और आकाश का मानवीकरण, अनुकरणात्मक शब्द (रिम-झिम, टिप-टिप) और उपमाओं का प्रयोग करके एक जीवंत और भावनात्मक रूप से शक्तिशाली काव्य अनुभव बनाया है।\n\n**भाव:**\nभाव दमघोंटू गर्मी और निराशा से आनंदमय उत्सव और नई आशा की ओर बढ़ता है — जिससे कविता स्वयं एक ताजी हवा जैसी महसूस होती है।\n\n**संदेश:**\nकविता बताती है कि जल ही जीवन है, धैर्य का फल मिलता है, और प्रकृति के सरलतम उपहार — जैसे एक वर्षा बूँद — वास्तव में सबसे अनमोल हैं। यह पाठकों से जल संरक्षण, पर्यावरण रक्षा और कृतज्ञता के साथ प्रकृति के उपहारों का उत्सव मनाने का मौन आह्वान भी करती है।",
+      "keyPoints": [
+        "गर्मी-सूखे की पीड़ा → पहली बूँद के उत्सव → प्रकृति के नवजीवन का क्रम (Summer drought suffering → first drop celebration → nature's renewal sequence)",
+        "मानवीकरण, सोंधी खुशबू, रिम-झिम जैसे अलंकारों से समृद्ध काव्य-शैली (Rich poetic style with personification, petrichor, onomatopoeia like rim-jhim)",
+        "दमघोंटू निराशा से आनंदमय आशा तक का भाव-परिवर्तन (Mood shift from oppressive despair to joyful hope and renewal)",
+        "जल ही जीवन, धैर्य का फल और प्रकृति के उपहार की कृतज्ञता का संदेश (Message: water is life, patience rewarded, gratitude for nature's gifts)"
+      ]
+    },
+    {
+      "id": "q23",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Explain the importance of water conservation in light of the poem 'Pahli Boond'. What practical steps can students take in their school and home to save water?",
+      "questionHi": "'पहली बूँद' कविता के प्रकाश में जल संरक्षण के महत्व को समझाइए। छात्र अपने विद्यालय और घर में जल बचाने के लिए कौन-से व्यावहारिक कदम उठा सकते हैं?",
+      "answer": "The poem 'Pahli Boond' demonstrates with powerful imagery the extreme suffering caused by water scarcity and the profound value of every single raindrop. This makes water conservation not just an environmental duty but a deeply personal and moral responsibility.\n\n**Importance of Water Conservation:**\n1. Only 2.5% of Earth's water is freshwater, and most of it is locked in glaciers. Clean drinking water is scarcer than we realize.\n2. The suffering depicted in the poem (cracked earth, dying crops, thirsty animals) is a reality in many parts of India today, especially in Rajasthan, Vidarbha, and Bundelkhand.\n3. By conserving water today, we ensure that future generations also have access to this precious resource.\n\n**Practical Steps in School:**\n- Turn off taps after use and report leaking taps immediately to teachers.\n- Collect leftover drinking water and use it to water school garden plants.\n- Organize school-level rainwater harvesting campaigns.\n- Participate in 'Water Literacy' awareness drives on World Water Day (22 March).\n\n**Practical Steps at Home:**\n- Take shorter showers and fix leaking taps immediately.\n- Reuse washing machine water for mopping floors.\n- Collect rainwater from rooftops in barrels for garden use.",
+      "answerHi": "'पहली बूँद' कविता जल की कमी से होने वाले भयानक कष्ट और हर वर्षा बूँद के गहरे मूल्य को शक्तिशाली चित्रण से दर्शाती है। यह जल संरक्षण को न केवल एक पर्यावरणीय कर्तव्य बल्कि एक गहरी व्यक्तिगत और नैतिक जिम्मेदारी बनाता है।\n\n**जल संरक्षण का महत्व:**\n1. पृथ्वी का केवल 2.5% जल ताजा जल (freshwater) है, और उसका अधिकांश भाग हिमनदियों (glaciers) में जमा है। स्वच्छ पेयजल हमारी सोच से कहीं अधिक दुर्लभ है।\n2. कविता में चित्रित कष्ट (दरकी धरती, मरती फसलें, प्यासे पशु) भारत के कई हिस्सों — राजस्थान, विदर्भ, बुंदेलखंड — में आज भी सच्चाई है।\n3. आज जल बचाकर हम भावी पीढ़ियों के लिए इस अमूल्य संसाधन की उपलब्धता सुनिश्चित करते हैं।\n\n**विद्यालय में व्यावहारिक कदम:**\n- उपयोग के बाद नल बंद करें और रिसते नल की शिकायत तुरंत शिक्षकों को करें।\n- बचे हुए पेयजल को स्कूल गार्डन के पौधों में डालें।\n- स्कूल स्तर पर वर्षा जल संचयन अभियान आयोजित करें।\n- विश्व जल दिवस (22 मार्च) पर 'जल साक्षरता' जागरूकता अभियान में भाग लें।\n\n**घर पर व्यावहारिक कदम:**\n- कम समय में स्नान करें और रिसते नलों को तुरंत ठीक कराएं।\n- वॉशिंग मशीन के पानी का पुनः उपयोग फर्श पोंछने में करें।\n- छत से वर्षा जल बैरल में एकत्र कर बगीचे में उपयोग करें।",
+      "keyPoints": [
+        "पृथ्वी का केवल 2.5% ताजा जल — स्वच्छ पेयजल अत्यंत दुर्लभ और मूल्यवान (Only 2.5% freshwater on Earth — clean drinking water extremely scarce)",
+        "स्कूल में: नल बंद करना, पानी पुनः उपयोग, वर्षा जल संचयन अभियान (School: closing taps, reusing water, rainwater harvesting campaigns)",
+        "घर पर: कम समय स्नान, लीकिंग नल ठीक करना, छत से वर्षा जल संग्रह (Home: shorter showers, fixing leaks, rooftop rainwater collection)",
+        "आज जल बचाकर भावी पीढ़ियों को यह अमूल्य संसाधन उपलब्ध कराना (Saving water today ensures this precious resource for future generations)"
+      ]
+    },
+    {
+      "id": "q24",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "Read the following extract and answer the questions:\n'The sky turns dark with heavy clouds. A gentle, cool breeze begins to blow. There is a trembling in the leaves. The birds begin to chirp excitedly. A child runs to the window to look up at the sky. And then — tip, tip — the first drop falls. The parched earth drinks it in deeply. The fragrance of wet soil rises and fills the air. The peacock spreads its magnificent tail and begins to dance.'\n\n(a) Identify any one poetic device in the above extract with an example from the passage.\n(b) Why does the earth 'drink in' the first drop deeply? What does this suggest?\n(c) What does the peacock spreading its tail and dancing symbolize?\n(d) Give the meaning of 'parched' and write one sentence using the word in Hindi/English.",
+      "questionHi": "निम्नलिखित गद्यांश को पढ़िए और प्रश्नों के उत्तर दीजिए:\n'आकाश भारी बादलों से काला हो जाता है। एक हल्की, ठंडी हवा चलने लगती है। पत्तियों में काँपकाँपी होती है। पक्षी उत्साह से चहचहाने लगते हैं। एक बच्चा खिड़की पर दौड़कर आकाश की ओर देखता है। और फिर — टिप, टिप — पहली बूँद गिरती है। प्यासी धरती उसे गहराई से पी लेती है। भीगी मिट्टी की खुशबू उठती है और हवा में भर जाती है। मोर अपनी भव्य पूँछ फैलाता है और नाचने लगता है।'\n\n(क) उपरोक्त गद्यांश में कोई एक काव्य-अलंकार पहचानिए और गद्यांश से उदाहरण दीजिए।\n(ख) धरती पहली बूँद को 'गहराई से पी लेती' है — इससे क्या पता चलता है?\n(ग) मोर का पूँछ फैलाकर नाचना क्या प्रतीक है?\n(घ) 'प्यासी' शब्द का अर्थ लिखिए और इस शब्द का प्रयोग करते हुए हिंदी/अंग्रेजी में एक वाक्य बनाइए।",
+      "answer": "(a) **Personification (मानवीकरण):** The earth — a non-living entity — is described as 'drinking in' the first drop 'deeply', giving it human characteristics of feeling thirst and experiencing relief by drinking water. Example from passage: 'The parched earth drinks it in deeply.'\n(b) The earth 'drinking in' the first drop deeply suggests the extreme, desperate thirst of the earth after months of summer drought. It indicates that the earth has been depleted of all moisture and hungrily absorbs every single drop. It also suggests that water is not taken for granted but received with profound gratitude by nature.\n(c) The peacock spreading its magnificent tail and dancing symbolizes nature's spontaneous, uninhibited celebration at the arrival of rain. It is the most iconic image of monsoon joy in Indian culture. It also symbolizes that rain transforms the mood of all living beings from suffering to pure ecstasy.\n(d) **'Parched' / 'प्यासी'** means extremely dry or thirsty due to heat or lack of water. **Sentence in Hindi:** 'कड़कड़ाती गर्मी में प्यासी धरती पहली वर्षा बूँद की बेताबी से प्रतीक्षा करती है।' **Sentence in English:** 'The parched fields of the village desperately needed the arrival of the first monsoon rain.'",
+      "answerHi": "(क) **मानवीकरण (Personification):** धरती — एक निर्जीव तत्व — को पहली बूँद को 'गहराई से पी लेते' हुए दिखाया गया है, जो उसे प्यास महसूस करने और पानी पीकर राहत पाने की मानवीय विशेषताएं देता है। गद्यांश से उदाहरण: 'प्यासी धरती उसे गहराई से पी लेती है।'\n(ख) धरती का पहली बूँद को 'गहराई से पी लेना' महीनों के गर्मी के सूखे के बाद धरती की अत्यधिक और बेताब प्यास को दर्शाता है। यह संकेत करता है कि धरती की सारी नमी खत्म हो गई है और वह हर बूँद को लालच से सोख लेती है। यह यह भी सुझाता है कि जल को당연히 नहीं लिया जाता बल्कि प्रकृति द्वारा गहरी कृतज्ञता के साथ ग्रहण किया जाता है।\n(ग) मोर का भव्य पूँछ फैलाकर नाचना वर्षा के आगमन पर प्रकृति के स्वतः, बेलगाम उत्सव का प्रतीक है। यह भारतीय संस्कृति में मानसून की खुशी की सबसे प्रतीकात्मक छवि है। यह यह भी प्रतीक है कि वर्षा सभी जीवों के मनोभाव को कष्ट से परम उल्लास में बदल देती है।\n(घ) **'प्यासी'** का अर्थ है गर्मी या पानी की कमी के कारण अत्यधिक सूखी या प्यासी। **हिंदी में वाक्य:** 'कड़कड़ाती गर्मी में प्यासी धरती पहली वर्षा बूँद की बेताबी से प्रतीक्षा करती है।' **अंग्रेजी में वाक्य:** 'The parched fields of the village desperately needed the arrival of the first monsoon rain.'",
+      "keyPoints": [
+        "मानवीकरण: 'प्यासी धरती उसे गहराई से पी लेती है' — निर्जीव को मानवीय भावना देना (Personification: 'parched earth drinks it in deeply' — human emotion to non-living)",
+        "धरती का गहराई से पीना = महीनों की प्यास, जल का अमूल्य मूल्य और कृतज्ञता (Drinking deeply = months of thirst, priceless value of water, and gratitude)",
+        "मोर का नृत्य = वर्षा पर समस्त प्रकृति का बेलगाम उत्सव का प्रतीक (Peacock dancing = symbol of nature's unbounded celebration at rain's arrival)",
+        "'प्यासी' = गर्मी से अत्यंत सूखी/प्यासी; 'प्यासी धरती पहली बूँद की प्रतीक्षा करती है' ('Pyaasi' = extremely dry/thirsty; sentence using the word)"
+      ]
+    },
+    {
+      "id": "q25",
+      "type": "value-based",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "The poem 'Pahli Boond' teaches us to appreciate the gifts of nature that we often take for granted. Based on this theme, write a short note on how modern students can reconnect with nature and develop gratitude for natural resources.",
+      "questionHi": "'पहली बूँद' कविता हमें प्रकृति के उन उपहारों की सराहना करना सिखाती है जिन्हें हम अक्सर당연히 (당연히 = for granted) मानते हैं। इस विषय पर एक संक्षिप्त टिप्पणी लिखिए कि आधुनिक छात्र प्रकृति से कैसे जुड़ सकते हैं और प्राकृतिक संसाधनों के प्रति कृतज्ञता विकसित कर सकते हैं।",
+      "answer": "In today's world of smartphones, air conditioners, and packaged water, students have become increasingly disconnected from nature. The poem 'Pahli Boond' gently reminds us that the gifts we take for granted — clean water, cool rain, green trees, fresh air — are actually priceless and fragile.\n\n**How Modern Students Can Reconnect with Nature and Develop Gratitude:**\n1. **Nature Observation Walks:** Schools should organize regular nature walks where students observe seasonal changes, plants, birds, and weather patterns, developing a personal bond with the environment.\n2. **School/Home Kitchen Gardens:** Growing even a small plant teaches the cycle of water → soil → seed → life, making students viscerally understand how water is the foundation of all food and life.\n3. **Digital Detox and Outdoor Play:** Spending time in parks, playing in the rain (like the children in the poem), and sitting under trees helps students experience the joy of nature that no screen can replicate.\n4. **Gratitude Journals:** Students can maintain a weekly diary recording one natural gift they are grateful for — sunshine, a cool breeze, a flower — developing mindfulness and a deep sense of environmental responsibility.\n5. **Community Rainwater Harvesting Projects:** Participating in community or school-level water conservation projects makes abstract environmental lessons concrete and personally meaningful.",
+      "answerHi": "आज स्मार्टफोन, एयर कंडीशनर और पैकेज्ड पानी की दुनिया में छात्र प्रकृति से तेजी से अलग होते जा रहे हैं। 'पहली बूँद' कविता हमें धीरे से याद दिलाती है कि हम जिन चीजों को당연히 मानते हैं — स्वच्छ जल, ठंडी वर्षा, हरे पेड़, ताजी हवा — वे वास्तव में अमूल्य और नाजुक हैं।\n\n**आधुनिक छात्र कैसे प्रकृति से जुड़ सकते हैं और कृतज्ञता विकसित कर सकते हैं:**\n1. **प्रकृति अवलोकन भ्रमण:** विद्यालयों को नियमित रूप से प्रकृति भ्रमण आयोजित करने चाहिए जहाँ छात्र मौसमी बदलावों, पौधों, पक्षियों और मौसम के पैटर्न का अवलोकन करके पर्यावरण के साथ व्यक्तिगत संबंध विकसित करें।\n2. **विद्यालय/घर की रसोई बगीचे:** एक छोटा पौधा उगाना भी जल → मिट्टी → बीज → जीवन के चक्र को सिखाता है, जिससे छात्र समझते हैं कि जल ही सभी भोजन और जीवन का आधार है।\n3. **डिजिटल डिटॉक्स और बाहरी खेल:** पार्क में समय बिताना, बारिश में खेलना (जैसे कविता के बच्चे) और पेड़ों के नीचे बैठना छात्रों को प्रकृति की वह खुशी अनुभव करने देता है जो कोई स्क्रीन नहीं दे सकती।\n4. **कृतज्ञता डायरी:** छात्र एक साप्ताहिक डायरी रख सकते हैं जिसमें वे एक प्राकृतिक उपहार — धूप, ठंडी हवा, एक फूल — जिसके लिए वे आभारी हैं, दर्ज करें, जिससे सचेतनता और पर्यावरण जिम्मेदारी की गहरी भावना विकसित हो।\n5. **सामुदायिक वर्षा जल संचयन परियोजनाएं:** सामुदायिक या विद्यालय स्तर की जल संरक्षण परियोजनाओं में भाग लेने से अमूर्त पर्यावरण पाठ ठोस और व्यक्तिगत रूप से सार्थक बनते हैं।",
+      "keyPoints": [
+        "आधुनिक तकनीक ने प्रकृति से छात्रों का जुड़ाव तोड़ा—कविता पुनः जोड़ने की प्रेरणा (Modern tech disconnects students from nature — poem inspires reconnection)",
+        "प्रकृति भ्रमण, रसोई बगीचे और डिजिटल डिटॉक्स से प्रकृति के साथ जीवंत संबंध (Nature walks, kitchen gardens, digital detox for living bond with nature)",
+        "कृतज्ञता डायरी से जल-हवा-सूर्य के प्राकृतिक उपहारों का दैनिक आभार (Gratitude diary for daily appreciation of natural gifts like water, air, sunshine)",
+        "जल संरक्षण परियोजनाओं से पर्यावरण पाठ को व्यक्तिगत और सार्थक बनाना (Water conservation projects making environmental lessons personal and meaningful)"
+      ]
+    },
+    {
+      "id": "q26",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "How does the poem 'Pahli Boond' connect individual joy (of children, farmers, animals) to the collective joy of all of nature? What does this teach us about the unity of life?",
+      "questionHi": "'पहली बूँद' कविता व्यक्तिगत आनंद (बच्चों, किसानों, पशुओं का) को समस्त प्रकृति के सामूहिक आनंद से कैसे जोड़ती है? यह हमें जीवन की एकता के बारे में क्या सिखाता है?",
+      "answer": "The poem 'Pahli Boond' beautifully illustrates that the joy of rain is not felt by one species or group alone — it is a universal, simultaneous celebration shared by all of creation:\n1. **Individual Joys:** Children dance in the rain, farmers celebrate the beginning of the sowing season, animals quench their thirst, birds sing in the trees, and the peacock dances magnificently — each experiencing a unique, personal joy based on their specific relationship with rain.\n2. **Collective Joy of Nature:** The poem shows that the joy of every individual creature blends together into one magnificent symphony of celebration. The earth, sky, rivers, forests, animals, and humans all rejoice together at the same moment, forming one united, harmonious chorus of gratitude.\n3. **Lesson: Unity of Life (जीवन की एकता):** This collective response teaches students that all life on earth is deeply interconnected. The same raindrop that a child plays in, nourishes the farmer's crop, fills the peacock's pond, and revives the tree that gives us oxygen. We are all part of one circle of life, dependent on the same natural resources. Harming nature ultimately harms ourselves — making environmental protection a shared human responsibility.",
+      "answerHi": "'पहली बूँद' कविता खूबसूरती से दर्शाती है कि वर्षा की खुशी केवल एक प्रजाति या समूह को नहीं — यह एक सार्वभौमिक, एक साथ होने वाला उत्सव है जिसे समस्त सृष्टि साझा करती है:\n1. **व्यक्तिगत आनंद:** बच्चे बारिश में नाचते हैं, किसान बुवाई के मौसम की शुरुआत का उत्सव मनाते हैं, पशु प्यास बुझाते हैं, पक्षी पेड़ों पर गाते हैं, और मोर भव्यता से नाचता है — प्रत्येक वर्षा के साथ अपने विशिष्ट संबंध के आधार पर एक अनोखा, व्यक्तिगत आनंद अनुभव करता है।\n2. **प्रकृति का सामूहिक आनंद:** कविता दर्शाती है कि हर प्राणी की व्यक्तिगत खुशी मिलकर एक महान उत्सव की सिम्फनी बनाती है। धरती, आकाश, नदियाँ, वन, पशु और मनुष्य सब एक ही क्षण में एक साथ आनंदित होते हैं, कृतज्ञता का एक संयुक्त, सामंजस्यपूर्ण स्वर बनाते हैं।\n3. **शिक्षा: जीवन की एकता:** यह सामूहिक प्रतिक्रिया छात्रों को सिखाती है कि पृथ्वी पर सभी जीवन गहराई से परस्पर जुड़े हैं। वही वर्षा बूँद जिसमें बच्चा खेलता है, किसान की फसल को पोषण देती है, मोर के तालाब को भरती है, और उस पेड़ को फिर जीवित करती है जो हमें ऑक्सीजन देता है। हम सब जीवन के एक चक्र का हिस्सा हैं, समान प्राकृतिक संसाधनों पर निर्भर। प्रकृति को नुकसान पहुँचाना अंततः हमें नुकसान पहुँचाता है — जो पर्यावरण संरक्षण को एक साझा मानवीय जिम्मेदारी बनाता है।",
+      "keyPoints": [
+        "बच्चे, किसान, पशु, पक्षी — हर प्राणी का वर्षा से अनोखा व्यक्तिगत आनंद (Children, farmers, animals, birds — each creature's unique personal joy from rain)",
+        "सभी व्यक्तिगत खुशियाँ मिलकर एक सार्वभौमिक और सामूहिक उत्सव की सिम्फनी बनाती हैं (All individual joys merging into one universal symphony of collective celebration)",
+        "जीवन की एकता: एक बूँद बच्चे, किसान, मोर और पेड़ को एक साथ जोड़ती है (Unity of life: one drop connects child, farmer, peacock, and tree together)",
+        "प्रकृति को हानि = स्वयं को हानि — पर्यावरण संरक्षण एक साझा मानवीय जिम्मेदारी (Harming nature = harming self — environment protection is shared human responsibility)"
+      ]
+    },
+    {
+      "id": "q27",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "Write 5-6 sentences imagining you are the first raindrop falling on dry earth. Describe what you see, feel, and the reactions around you. (Creative Writing / सृजनात्मक लेखन)",
+      "questionHi": "कल्पना कीजिए कि आप सूखी धरती पर गिरने वाली पहली वर्षा बूँद हैं। आप क्या देखते हैं, क्या महसूस करते हैं, और आपके चारों ओर क्या प्रतिक्रियाएँ होती हैं — इसे 5-6 वाक्यों में लिखिए। (सृजनात्मक लेखन)",
+      "answer": "I am the first raindrop, and as I plunge from the dark, heavy cloud towards the earth below, I feel a thrilling sense of purpose. The parched, cracked earth rushes up to meet me, its thirst almost palpable even from above. The moment I touch her dry, crumbling surface — I hear a soft sigh, as if the whole earth exhales with deep relief. In an instant, a magical fragrance — earthy, warm, and sweet — rises around me, filling the air with what humans call petrichor. I see children racing out of their homes with arms outstretched, faces turned upward, laughing in pure joy. The peacock shakes its feathers and begins to dance; birds burst into song; and I realize — with pride and wonder — that I, a tiny single drop, have brought life, joy, and hope to an entire waiting world.",
+      "answerHi": "मैं पहली वर्षा बूँद हूँ, और जैसे ही मैं गहरे, भारे बादल से धरती की ओर गिरती हूँ, मुझे एक रोमांचकारी उद्देश्य की अनुभूति होती है। सूखी, दरकी धरती मुझसे मिलने के लिए आगे बढ़ती है, उसकी प्यास ऊपर से भी महसूस होती है। जैसे ही मैं उसकी शुष्क, टूटती हुई सतह को छूती हूँ — मुझे एक मृदुल निःश्वास सुनाई देता है, जैसे पूरी धरती गहरी राहत से साँस छोड़ती हो। एक पल में, एक जादुई सुगंध — मिट्टी जैसी, गर्म और मीठी — मेरे चारों ओर उठती है, हवा में वह भर जाती है जिसे मनुष्य पेट्रीकोर कहते हैं। मैं देखती हूँ कि बच्चे बाहें फैलाए, चेहरे ऊपर उठाए, शुद्ध आनंद से हँसते हुए घरों से दौड़ते हैं। मोर अपने पंख झटकाता है और नाचने लगता है; पक्षी गाने लगते हैं; और मुझे गर्व और विस्मय के साथ एहसास होता है — कि मैं, एक छोटी-सी बूँद, एक प्रतीक्षारत पूरी दुनिया में जीवन, आनंद और आशा ले आई हूँ।",
+      "keyPoints": [
+        "पहली बूँद की दृष्टि से रचनात्मक लेखन — उद्देश्य, धरती का स्पर्श, सोंधी खुशबू (Creative writing from first drop's perspective — purpose, touching earth, petrichor)",
+        "बच्चों का हाथ फैलाकर दौड़ना, मोर का नाचना और पक्षियों का गायन (Children running with arms wide, peacock dancing, birds singing)",
+        "एक छोटी बूँद का विशाल प्रभाव — जीवन, आनंद और आशा का संचार (Massive impact of one tiny drop — spreading life, joy, and hope)",
+        "सृजनात्मक लेखन में प्रथम पुरुष (first person) दृष्टिकोण और समृद्ध संवेदी विवरण (First-person perspective and rich sensory details in creative writing)"
+      ]
+    },
+    {
+      "id": "q28",
+      "type": "case-study",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Read the following scenario and answer the questions:\nA Class 6 student, Meera, has been assigned to write a speech for her school's 'World Water Day' (22 March) celebration. She has been studying the poem 'Pahli Boond' in class. Her teacher suggests she use the poem's themes and imagery to make her speech powerful and emotional. Meera decides to open her speech with the image of cracked earth waiting for rain, then talk about water conservation, and close with a hopeful call to action inspired by the first raindrop.\n\n(a) What powerful opening image from 'Pahli Boond' should Meera use to begin her speech?\n(b) How can the poem's depiction of all living beings celebrating rain help Meera convey the message of water's universal importance?\n(c) Write two sentences that Meera could use as a 'call to action' at the end of her speech, drawing from the poem's message.\n(d) Why is 22 March celebrated as World Water Day and what is its global significance?",
+      "questionHi": "निम्नलिखित परिदृश्य को पढ़िए और प्रश्नों के उत्तर दीजिए:\nकक्षा 6 की छात्रा मीरा को अपने विद्यालय के 'विश्व जल दिवस' (22 मार्च) समारोह के लिए भाषण लिखने का काम सौंपा गया है। वह कक्षा में 'पहली बूँद' कविता पढ़ रही है। उसकी शिक्षिका सुझाव देती हैं कि वह अपने भाषण को शक्तिशाली और भावुक बनाने के लिए कविता के विषयों और चित्रों का उपयोग करे। मीरा तय करती है कि वह बारिश का इंतजार करती दरकी धरती की छवि से भाषण शुरू करेगी, फिर जल संरक्षण के बारे में बात करेगी, और पहली वर्षा बूँद से प्रेरित आशापूर्ण कार्यवाही के आह्वान के साथ समाप्त करेगी।\n\n(क) मीरा को अपना भाषण शुरू करने के लिए 'पहली बूँद' कविता से कौन-सी शक्तिशाली प्रारंभिक छवि का उपयोग करना चाहिए?\n(ख) कविता में सभी जीवों के वर्षा पर उत्सव मनाने का चित्रण मीरा को जल के सार्वभौमिक महत्व का संदेश देने में कैसे मदद कर सकता है?\n(ग) कविता के संदेश से प्रेरित दो वाक्य लिखिए जिन्हें मीरा अपने भाषण के अंत में 'कार्यवाही के आह्वान' (call to action) के रूप में उपयोग कर सकती है।\n(घ) 22 मार्च को विश्व जल दिवस क्यों मनाया जाता है और इसका वैश्विक महत्व क्या है?",
+      "answer": "(a) Meera should open her speech with the powerful image of the 'cracked, parched earth — every crack a silent cry, every dried-up river a desperate prayer for rain' — evoking the extreme suffering and desperation caused by water scarcity, immediately making the audience feel the importance of water.\n(b) The poem shows that when rain arrives, every creature — birds, animals, farmers, children, peacocks, trees, rivers — rejoices simultaneously. This unified celebration proves that water is not important only for one group but for ALL life on earth. Meera can use this image to argue that water conservation is not someone else's responsibility — it concerns every living being and every human being on this planet.\n(c) **Call to Action sentences inspired by the poem:**\n- 'Just as the first raindrop gave new life to a parched earth, let each one of us pledge today to save every drop of water — because each drop we save is a promise of life for our children and our children's children.'\n- 'Let us not wait for the earth to crack with thirst again — let us act now, conserve water, plant trees, and ensure that the joy of the first rain is never lost from our world.'\n(d) **World Water Day** is celebrated every year on 22 March, as established by the United Nations in 1993. Its global significance lies in drawing worldwide attention to the freshwater crisis, promoting water conservation awareness, and advocating for universal access to clean drinking water — since over 2 billion people worldwide still lack access to safe water.",
+      "answerHi": "(क) मीरा को अपना भाषण इस शक्तिशाली छवि से शुरू करना चाहिए — 'दरकी, सूखी धरती — हर दरार एक मौन क्रंदन, हर सूखी नदी बारिश के लिए एक बेताब प्रार्थना' — जो जल की कमी से होने वाले भयंकर कष्ट और बेबसी को जीवंत करती है, श्रोताओं को तुरंत जल के महत्व का एहसास कराती है।\n(ख) कविता दर्शाती है कि वर्षा आने पर हर प्राणी — पक्षी, पशु, किसान, बच्चे, मोर, पेड़, नदियाँ — एक साथ आनंदित होता है। यह एकजुट उत्सव साबित करता है कि जल केवल एक समूह के लिए नहीं बल्कि पृथ्वी के सभी जीवों के लिए महत्वपूर्ण है। मीरा इस छवि का उपयोग यह तर्क देने के लिए कर सकती है कि जल संरक्षण किसी और की जिम्मेदारी नहीं है — यह इस ग्रह के हर जीव और हर इंसान को प्रभावित करता है।\n(ग) **कविता से प्रेरित कार्यवाही के आह्वान वाले वाक्य:**\n- 'जिस तरह पहली वर्षा बूँद ने सूखी धरती को नया जीवन दिया, आइए हम सब आज यह प्रण लें कि पानी की हर बूँद बचाएंगे — क्योंकि हम जो बूँद बचाते हैं, वह हमारे बच्चों और उनके बच्चों के लिए जीवन का वादा है।'\n- 'आइए धरती के फिर से प्यास से दरकने की प्रतीक्षा न करें — अभी कार्रवाई करें, जल बचाएं, पेड़ लगाएं, और यह सुनिश्चित करें कि पहली बारिश की खुशी हमारी दुनिया से कभी न जाए।'\n(घ) **विश्व जल दिवस** हर वर्ष 22 मार्च को मनाया जाता है, जिसे 1993 में संयुक्त राष्ट्र ने स्थापित किया। इसका वैश्विक महत्व ताजे जल के संकट पर विश्वव्यापी ध्यान आकर्षित करने, जल संरक्षण जागरूकता को बढ़ावा देने और स्वच्छ पेयजल तक सार्वभौमिक पहुँच की वकालत करने में है — क्योंकि विश्वभर में अभी भी 2 अरब से अधिक लोगों को सुरक्षित जल तक पहुँच नहीं है।",
+      "keyPoints": [
+        "प्रारंभिक छवि: दरकी धरती और सूखी नदियाँ — जल की कमी का मौन क्रंदन (Opening image: cracked earth and dry rivers — silent cry of water scarcity)",
+        "सभी जीवों का एक साथ उत्सव = जल सार्वभौमिक रूप से सभी जीवन के लिए महत्वपूर्ण (All creatures celebrating together = water universally vital for all life)",
+        "कार्यवाही आह्वान: हर बूँद बचाएं और यह सुनिश्चित करें कि पहली बारिश की खुशी सदा बनी रहे (Call to action: save every drop and ensure joy of first rain endures forever)",
+        "22 मार्च = UN द्वारा 1993 में स्थापित विश्व जल दिवस; 2 अरब से अधिक लोगों को सुरक्षित जल नहीं (22 March = World Water Day est. 1993 by UN; 2+ billion lack safe water)"
+      ]
+    },
+    {
+      "id": "q29",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "The poem 'Pahli Boond' is set in the Indian monsoon context. How does the monsoon season shape the geography, culture, agriculture, and everyday emotions of Indian people?",
+      "questionHi": "'पहली बूँद' कविता भारतीय मानसून के संदर्भ में रची गई है। मानसून ऋतु भारत के भूगोल, संस्कृति, कृषि और लोगों की दैनिक भावनाओं को किस प्रकार आकार देती है?",
+      "answer": "The Indian monsoon (June-September) is not just a weather phenomenon — it is the heartbeat of the subcontinent that shapes every dimension of Indian life:\n\n1. **Geography (भूगोल):** The monsoon fills rivers like Ganga, Yamuna, Brahmaputra, and Krishna, replenishes groundwater aquifers, fills lakes and reservoirs, and prevents severe desertification. The Western Ghats, Northeast India (Cherrapunji receives the world's highest rainfall), and the Indo-Gangetic plains owe their lush biodiversity entirely to monsoon rains.\n\n2. **Culture (संस्कृति):** The monsoon has inspired India's greatest artistic traditions. Raga Malhar in classical music, Kajri, Saawan geet, and Teej festival songs celebrate the rain. The peacock — India's national bird and the rain dancer — is a central motif in Indian painting, poetry, and dance.\n\n3. **Agriculture (कृषि):** About 60% of India's farmland still depends on monsoon rains for irrigation. The monsoon determines the success of Kharif crops (rice, maize, cotton, sugarcane) that feed hundreds of millions. A good monsoon means food security, economic prosperity, and farmer happiness — a failed monsoon means drought, crop failure, and distress.\n\n4. **Everyday Emotions (दैनिक भावनाएँ):** The first rain brings universal joy, relief, and a festive spirit across all age groups, regions, and communities — from farmers celebrating in fields to children playing in puddles in cities. This collective emotional response to the monsoon shows how deeply connected Indians remain with nature.",
+      "answerHi": "भारतीय मानसून (जून-सितंबर) केवल एक मौसम संबंधी घटना नहीं है — यह उपमहाद्वीप की धड़कन है जो भारतीय जीवन के हर आयाम को आकार देती है:\n\n1. **भूगोल:** मानसून गंगा, यमुना, ब्रह्मपुत्र और कृष्णा जैसी नदियों को भरती है, भूजल जलभृतों को पुनर्स्थापित करती है, झीलें और जलाशय भरती है, और गंभीर मरुस्थलीकरण को रोकती है। पश्चिमी घाट, उत्तर-पूर्व भारत (चेरापूंजी में विश्व की सर्वाधिक वर्षा होती है) और गंगा-यमुना का मैदान अपनी हरी-भरी जैव विविधता का श्रेय पूरी तरह मानसून को देते हैं।\n\n2. **संस्कृति:** मानसून ने भारत की महानतम कलात्मक परंपराओं को प्रेरित किया है। शास्त्रीय संगीत में राग मल्हार, कजरी, सावन गीत और तीज के त्योहार के गीत वर्षा का उत्सव मनाते हैं। मोर — भारत का राष्ट्रीय पक्षी और वर्षा नर्तक — भारतीय चित्रकला, काव्य और नृत्य में एक केंद्रीय आकृति है।\n\n3. **कृषि:** भारत की लगभग 60% कृषि भूमि अभी भी सिंचाई के लिए मानसून वर्षा पर निर्भर है। मानसून खरीफ फसलों (धान, मक्का, कपास, गन्ना) की सफलता तय करता है जो करोड़ों लोगों को भोजन देती हैं। अच्छा मानसून = खाद्य सुरक्षा, आर्थिक समृद्धि और किसान की खुशी — असफल मानसून = सूखा, फसल बर्बादी और संकट।\n\n4. **दैनिक भावनाएँ:** पहली वर्षा सभी आयु वर्गों, क्षेत्रों और समुदायों में सार्वभौमिक आनंद, राहत और उत्सव की भावना लाती है — खेतों में उत्सव मनाते किसानों से लेकर शहरों में पोखरों में खेलते बच्चों तक। मानसून के प्रति यह सामूहिक भावनात्मक प्रतिक्रिया दर्शाती है कि भारतीय प्रकृति के साथ कितने गहरे रूप से जुड़े हुए हैं।",
+      "keyPoints": [
+        "भूगोल: मानसून नदियाँ, झीलें, जलाशय भरती है और जैव विविधता को बनाए रखती है (Geography: monsoon fills rivers, lakes, reservoirs and sustains biodiversity)",
+        "संस्कृति: राग मल्हार, कजरी, तीज, और मोर का नृत्य — मानसून की कलात्मक विरासत (Culture: Raga Malhar, Kajri, Teej, peacock dance — artistic heritage of monsoon)",
+        "कृषि: 60% भूमि मानसून पर निर्भर; खरीफ फसलों की सफलता या विफलता मानसून से (Agriculture: 60% land dependent; Kharif crop success/failure determined by monsoon)",
+        "भावनाएँ: पहली वर्षा से किसान, बच्चे, पशु — सभी में सार्वभौमिक आनंद और राहत (Emotions: first rain brings universal joy and relief to farmers, children, animals — all)"
+      ]
+    },
+    {
+      "id": "q30",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "Summarize the core life values taught by the poem 'Pahli Boond' in four key points. How can each value be applied by a Class 6 student in their daily life?",
+      "questionHi": "'पहली बूँद' कविता द्वारा सिखाए गए मूल जीवन मूल्यों को चार प्रमुख बिंदुओं में संक्षेपित कीजिए। प्रत्येक मूल्य को कक्षा 6 का छात्र अपने दैनिक जीवन में कैसे लागू कर सकता है?",
+      "answer": "The poem 'Pahli Boond' teaches four timeless life values that every Class 6 student can apply in their daily life:\n\n1. **Patience (धैर्य):** The earth waits patiently through months of scorching summer without giving up hope. **Daily Application:** When students face a difficult topic, a failed test, or a personal challenge, they should not lose hope. Just as the first drop eventually comes, consistent effort and patience always bring results.\n\n2. **Gratitude (कृतज्ञता):** The poem reminds us that things we take for granted — water, air, rain — are actually priceless. **Daily Application:** Students should thank nature every day by not wasting water, reducing pollution, and appreciating simple natural gifts like sunlight and fresh air.\n\n3. **Interconnectedness (परस्पर निर्भरता):** The poem shows that all life depends on the same rain. **Daily Application:** Just as rain nourishes everyone, students should share knowledge, help classmates, and work in teams — recognizing that individual flourishing is connected to collective well-being.\n\n4. **Celebrating Joy (आनंद मनाना):** Children in the poem play freely in the rain without overthinking. **Daily Application:** Students should learn to pause from their busy schedules, enjoy simple moments of nature, play outdoors, and celebrate the small joys of daily life with wonder and gratitude.",
+      "answerHi": "'पहली बूँद' कविता चार कालातीत जीवन मूल्य सिखाती है जिन्हें कक्षा 6 का हर छात्र दैनिक जीवन में लागू कर सकता है:\n\n1. **धैर्य:** धरती महीनों की जलती गर्मी में बिना उम्मीद छोड़े धैर्यपूर्वक प्रतीक्षा करती है। **दैनिक अनुप्रयोग:** जब छात्र किसी कठिन विषय, असफल परीक्षा या व्यक्तिगत चुनौती का सामना करें, तो आशा नहीं छोड़नी चाहिए। जैसे पहली बूँद अंततः आती है, निरंतर प्रयास और धैर्य हमेशा परिणाम लाता है।\n\n2. **कृतज्ञता:** कविता याद दिलाती है कि जिन चीजों को हम당연히 मानते हैं — जल, हवा, वर्षा — वे वास्तव में अमूल्य हैं। **दैनिक अनुप्रयोग:** छात्रों को पानी न बर्बाद करके, प्रदूषण कम करके और सूरज की रोशनी और ताजी हवा जैसे साधारण प्राकृतिक उपहारों की सराहना करके प्रकृति का प्रतिदिन आभार मानना चाहिए।\n\n3. **परस्पर निर्भरता:** कविता दर्शाती है कि सभी जीवन एक ही वर्षा पर निर्भर है। **दैनिक अनुप्रयोग:** जैसे वर्षा सबको पोषण देती है, छात्रों को ज्ञान साझा करना, सहपाठियों की मदद करना और टीम में काम करना चाहिए — यह मानते हुए कि व्यक्तिगत उत्कर्ष सामूहिक कल्याण से जुड़ा है।\n\n4. **आनंद मनाना:** कविता के बच्चे बिना अधिक सोचे बारिश में स्वतंत्र रूप से खेलते हैं। **दैनिक अनुप्रयोग:** छात्रों को अपनी व्यस्त दिनचर्या से विराम लेकर प्रकृति के साधारण क्षणों का आनंद लेना, बाहर खेलना और आश्चर्य और कृतज्ञता के साथ दैनिक जीवन की छोटी खुशियों का उत्सव मनाना सीखना चाहिए।",
+      "keyPoints": [
+        "धैर्य: कठिन समय में आशा न छोड़ना — पहली बूँद की तरह सफलता अवश्य आती है (Patience: not losing hope in hard times — success comes like the first drop)",
+        "कृतज्ञता: जल, हवा और प्राकृतिक उपहारों की सराहना करना और बर्बाद न करना (Gratitude: appreciating water, air, and natural gifts; not wasting them)",
+        "परस्पर निर्भरता: ज्ञान साझा करना, सहपाठियों की मदद करना और टीम भावना अपनाना (Interconnectedness: sharing knowledge, helping classmates, adopting teamwork)",
+        "आनंद मनाना: व्यस्त जीवन में प्रकृति के साधारण क्षणों में खुशी खोजना (Celebrating joy: finding happiness in simple nature moments in busy life)"
+      ]
+    }
+  ]
+}
