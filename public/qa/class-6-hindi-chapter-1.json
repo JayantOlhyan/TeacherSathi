@@ -1,0 +1,465 @@
+{
+  "chapterTitle": "Matribhumi (Poem)",
+  "chapterTitleHi": "मातृभूमि (कविता)",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What is the main theme of the poem 'Matribhumi' in Class 6 Hindi?",
+      "questionHi": "कक्षा 6 हिंदी की कविता 'मातृभूमि' का मुख्य विषय (मूल भाव) क्या है?",
+      "answer": "The main theme of the poem 'Matribhumi' is deep patriotism, reverence, and gratitude towards our motherland, India. The poet describes the breathtaking natural beauty, geographical majesty, and abundant resources of the country, inspiring citizens to love, serve, and protect their nation with unwavering devotion.",
+      "answerHi": "कविता 'मातृभूमि' का मुख्य विषय हमारी मातृभूमि भारत के प्रति गहरा देशप्रेम, श्रद्धा और कृतज्ञता की भावना है। कवि देश के अनुपम प्राकृतिक सौंदर्य, भौगोलिक भव्यता और प्राकृतिक संपदा का वर्णन करते हुए नागरिकों को देश से प्रेम करने, उसकी सेवा करने और उसकी रक्षा के लिए प्रेरित करते हैं।",
+      "keyPoints": [
+        "मातृभूमि के प्रति अटूट प्रेम और सम्मान (Deep love and reverence for the motherland)",
+        "भारत के प्राकृतिक सौंदर्य और संपन्नता का वर्णन (Description of India's natural beauty and wealth)",
+        "देश सेवा और समर्पण की प्रेरणा (Inspiration for national service and dedication)"
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Why has the Himalayan mountain range been called the 'crown' of the Motherland in the poem?",
+      "questionHi": "कविता में हिमालय पर्वतमाला को मातृभूमि का 'मुकुट' (ताज) क्यों कहा गया है?",
+      "answer": "The Himalayan mountain range is located at the northern boundary of India, standing high and majestic like a glorious crown on the head of Mother India. It not only enhances the country's beauty but also acts as an eternal sentinel protecting the nation from frigid arctic winds and external invaders.",
+      "answerHi": "हिमालय पर्वतमाला भारत की उत्तर दिशा में स्थित है और भारत माता के सिर पर एक भव्य मुकुट (ताज) की तरह ऊँची और शानदार दिखाई देती है। यह न केवल देश के सौंदर्य को बढ़ाती है, बल्कि एक प्रहरी की तरह बर्फीली हवाओं और बाहरी आक्रमणों से देश की रक्षा भी करती है।",
+      "keyPoints": [
+        "उत्तर दिशा में स्थित उच्च पर्वतमाला (High mountain range situated in the north)",
+        "भारत माता के माथे के मुकुट के समान भव्य (Majestic like a crown on Mother India's forehead)",
+        "देश की प्राकृतिक प्रहरी और सुरक्षा कवच (Natural sentinel and protective shield of the nation)"
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Which ocean washes the feet of Mother India, according to the poem?",
+      "questionHi": "कविता के अनुसार कौन-सा महासागर भारत माता के चरणों को धोता है?",
+      "answer": "According to the poem, the Indian Ocean (Hind Mahasagar) located in the south washes the feet of Mother India. The rhythmic waves of the ocean continuously lap against the southern peninsula, symbolizing nature itself bowing in reverence and performing ritual washing of the Motherland's feet.",
+      "answerHi": "कविता के अनुसार, दक्षिण दिशा में स्थित हिंद महासागर भारत माता के चरणों को निरंतर धोता है। समुद्र की लहरें लगातार दक्षिणी प्रायद्वीप के तटों से टकराती हैं, जो यह दर्शाता है कि मानो प्रकृति स्वयं श्रद्धा से झुककर मातृभूमि के चरण पखार (धो) रही हो।",
+      "keyPoints": [
+        "दक्षिण में स्थित हिंद महासागर (Indian Ocean located in the south)",
+        "लहरों द्वारा तटों को छूना चरण धोने के समान (Waves touching the shores symbolizes washing feet)",
+        "प्रकृति द्वारा मातृभूमि के प्रति श्रद्धा समर्पण (Nature expressing reverence to the motherland)"
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Why is the Motherland referred to as 'Ratnagarbha' (womb of gems) in poetic literature?",
+      "questionHi": "काव्य साहित्य में मातृभूमि को 'रत्नगर्भा' (रत्नों को गर्भ में धारण करने वाली) क्यों कहा गया है?",
+      "answer": "The Motherland is called 'Ratnagarbha' because her womb (the earth's interior) is filled with precious gems, minerals, metals, and fertile soils. She generously provides all the essential resources, wealth, and nourishment needed for the prosperity and well-being of her children.",
+      "answerHi": "मातृभूमि को 'रत्नगर्भा' इसलिए कहा गया है क्योंकि उसके गर्भ (धरती के भीतर) में बहुमूल्य रत्न, खनिज संपदा, धातुएँ और उपजाऊ मिट्टी समाहित हैं। वह अपने संतानों की समृद्धि और कल्याण के लिए सभी आवश्यक संसाधन, धन और पोषण उदारतापूर्वक प्रदान करती है।",
+      "keyPoints": [
+        "रत्न और खनिज संपदा से परिपूर्ण धरती (Earth filled with gems and mineral wealth)",
+        "नागरिकों को समृद्धि और पोषण प्रदान करना (Providing prosperity and nourishment to citizens)",
+        "मातृभूमि की उदारता और संपन्नता (Generosity and abundance of the motherland)"
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "Which sacred rivers are mentioned or alluded to as flowing across our Motherland?",
+      "questionHi": "हमारी मातृभूमि में बहने वाली किन पवित्र नदियों का उल्लेख या संकेत कविता में किया गया है?",
+      "answer": "The poem alludes to sacred and life-giving rivers such as the Ganga, Yamuna, Sindhu (Indus), Godavari, Krishna, and Kaveri. These rivers flow like lifeblood across the country, irrigating the agricultural fields, quenching the thirst of millions, and sustaining vibrant cultural civilizations along their banks.",
+      "answerHi": "कविता में गंगा, यमुना, सिंधु, गोदावरी, कृष्णा और कावेरी जैसी पवित्र और जीवनदायिनी नदियों का संकेत किया गया है। ये नदियाँ देश में जीवन-रेखा की तरह बहती हैं, जो कृषि भूमि को सींचती हैं, करोड़ों लोगों की प्यास बुझाती हैं और अपने तटों पर समृद्ध संस्कृतियों का पोषण करती हैं।",
+      "keyPoints": [
+        "गंगा, यमुना, सिंधु आदि पवित्र नदियाँ (Sacred rivers like Ganga, Yamuna, Sindhu)",
+        "कृषि भूमि की सिंचाई और जल आपूर्ति (Irrigating farmland and supplying water)",
+        "भारतीय संस्कृति और सभ्यता की जीवन-रेखा (Lifeline of Indian culture and civilization)"
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "What is the significance of the 'green fields' (हरी-भरी फसलें) described in the poem?",
+      "questionHi": "कविता में वर्णित 'हरी-भरी फसलों' (लहलहाते खेतों) का क्या महत्त्व है?",
+      "answer": "The 'green fields' represent the agricultural abundance, fertility, and self-sufficiency of our Motherland. They symbolize the tireless labor of Indian farmers who work in harmony with nature's fertile soil and monsoon rains to provide food security and nourishment to the entire nation.",
+      "answerHi": "'हरी-भरी फसलें' हमारी मातृभूमि की कृषि संपन्नता, उर्वरता और आत्मनिर्भरता को दर्शाती हैं। ये भारतीय किसानों के अथक परिश्रम का प्रतीक हैं, जो प्रकृति की उपजाऊ मिट्टी और मानसूनी वर्षा के साथ मिलकर पूरे राष्ट्र को खाद्यान्न सुरक्षा और पोषण प्रदान करते हैं।",
+      "keyPoints": [
+        "कृषि संपन्नता और उपजाऊ भूमि का प्रतीक (Symbol of agricultural abundance and fertile land)",
+        "किसानों के कठिन परिश्रम का फल (Result of the hard work of farmers)",
+        "संपूर्ण राष्ट्र के लिए खाद्यान्न सुरक्षा (Food security and nourishment for the entire nation)"
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "How does the poet personify India in the poem 'Matribhumi'?",
+      "questionHi": "कविता 'मातृभूमि' में कवि ने भारत का मानवीकरण (personification) किस प्रकार किया है?",
+      "answer": "The poet personifies India as a living, caring Mother ('Bharat Mata'). The Himalayas are described as her crown, the oceans as washing her feet, the green meadows as her garments, and the rivers as the streams of her maternal affection and milk nurturing her children.",
+      "answerHi": "कवि ने भारत का मानवीकरण एक जीवंत, स्नेहमयी माता ('भारत माता') के रूप में किया है। हिमालय को उनका मुकुट, महासागर को उनके चरण धोने वाला, हरे-भरे मैदानों को उनके वस्त्र, और नदियों को उनकी वात्सल्यमयी दूध की धाराओं के रूप में वर्णित किया गया है जो अपनी संतानों का पोषण करती हैं।",
+      "keyPoints": [
+        "भारत को स्नेहमयी 'माता' के रूप में चित्रित करना (Portraying India as a loving 'Mother')",
+        "हिमालय मुकुट और सागर चरण धोने वाला (Himalaya as crown and ocean washing feet)",
+        "नदियों को वात्सल्य और पोषण की धारा मानना (Rivers as streams of maternal love and nourishment)"
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "Why should we feel proud of being born on the soil of our Motherland?",
+      "questionHi": "हमें अपनी मातृभूमि की मिट्टी पर जन्म लेने पर गर्व क्यों होना चाहिए?",
+      "answer": "We should feel proud because our Motherland is a ancient cradle of civilization, spiritual wisdom, and cultural diversity. It is the land where great sages, scholars, scientists, and brave freedom fighters were born, teaching the world timeless lessons of peace, truth, and universal brotherhood.",
+      "answerHi": "हमें गर्व होना चाहिए क्योंकि हमारी मातृभूमि प्राचीन सभ्यता, आध्यात्मिक ज्ञान और सांस्कृतिक विविधता की जननी है। यह वह पावन भूमि है जहाँ महान ऋषि-मुनियों, विद्वानों, वैज्ञानिकों और वीर स्वतंत्रता सेनानियों ने जन्म लिया और विश्व को शांति, सत्य और विश्व बंधुत्व का अमर संदेश दिया।",
+      "keyPoints": [
+        "प्राचीन सभ्यता और आध्यात्मिक ज्ञान की जननी (Cradle of ancient civilization and spiritual wisdom)",
+        "महान ऋषियों, वीरों और वैज्ञानिकों की भूमि (Land of great sages, heroes, and scientists)",
+        "विश्व को शांति और बंधुत्व का संदेश (Message of peace and brotherhood to the world)"
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What is our primary duty towards our Motherland as responsible students?",
+      "questionHi": "जिम्मेदार विद्यार्थियों के रूप में मातृभूमि के प्रति हमारा प्राथमिक कर्तव्य क्या है?",
+      "answer": "As responsible students, our primary duty is to study diligently, uphold good moral character, protect our country's natural environment and public property, respect all diverse cultures, and prepare ourselves to contribute meaningfully to the nation's progress and unity.",
+      "answerHi": "जिम्मेदार विद्यार्थियों के रूप में हमारा प्राथमिक कर्तव्य है कि हम मन लगाकर पढ़ाई करें, उत्तम नैतिक चरित्र का निर्माण करें, देश के प्राकृतिक पर्यावरण और सार्वजनिक संपत्ति की रक्षा करें, सभी संस्कृतियों का सम्मान करें और राष्ट्र की प्रगति तथा एकता में योगदान देने के लिए स्वयं को तैयार करें।",
+      "keyPoints": [
+        "निष्ठापूर्वक विद्या अध्ययन और उत्तम चरित्र निर्माण (Diligent study and building strong character)",
+        "पर्यावरण और सार्वजनिक संपत्ति की सुरक्षा (Protecting environment and public property)",
+        "राष्ट्र की एकता और प्रगति में सक्रिय योगदान (Active contribution to national unity and progress)"
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "What emotion does reading or reciting the poem 'Matribhumi' awaken in the reader?",
+      "questionHi": "'मातृभूमि' कविता को पढ़ने या सुनने से पाठक के मन में कौन-सी भावना जागृत होती है?",
+      "answer": "Reading or reciting the poem awakens profound patriotic fervor (देशप्रेम), unity, national pride, and emotional attachment to our heritage. It dissolves selfish individualism and inspires a sense of collective responsibility and readiness to sacrifice for the honor and protection of the nation.",
+      "answerHi": "कविता को पढ़ने या सुनने से पाठक के मन में गहरा राष्ट्रप्रेम, एकता, राष्ट्रीय गौरव और अपनी सांस्कृतिक धरोहर के प्रति भावनात्मक लगाव जागृत होता है। यह स्वार्थी भावना को समाप्त कर सामूहिक जिम्मेदारी और देश के सम्मान तथा रक्षा के लिए सर्वस्व समर्पण की भावना भरती है।",
+      "keyPoints": [
+        "गहरे राष्ट्रप्रेम और राष्ट्रीय गौरव की अनुभूति (Feeling of deep patriotism and national pride)",
+        "सांस्कृतिक धरोहर के प्रति भावनात्मक लगाव (Emotional attachment to cultural heritage)",
+        "देश के सम्मान के लिए समर्पण की प्रेरणा (Inspiration to dedicate oneself for the country's honor)"
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Explain how the geographical features described in 'Matribhumi' make India a unique and self-protected subcontinent.",
+      "questionHi": "स्पष्ट कीजिए कि 'मातृभूमि' में वर्णित भौगोलिक विशेषताएँ भारत को एक अद्वितीय और सुरक्षित उपमहाद्वीप कैसे बनाती हैं?",
+      "answer": "The geographical features described in the poem highlight India's unique natural boundaries that create a self-protected and self-sustaining subcontinent:\n1. **Northern Shield (हिमालय):** The towering Himalayas act as an impassable physical wall against northern invaders and trap the monsoon winds to cause abundant rainfall.\n2. **Southern Peninsular Boundaries (महासागर):** Surrounded by the Indian Ocean, Arabian Sea, and Bay of Bengal on three sides, India enjoys extensive maritime defense and global trade connectivity.\n3. **Fertile River Basins (मैदान):** The perennial river systems form vast alluvial plains, ensuring fertile soil and perennial water supply that sustain dense populations and rich biodiversity.",
+      "answerHi": "कविता में वर्णित भौगोलिक विशेषताएँ भारत की अद्वितीय प्राकृतिक सीमाओं को उजागर करती हैं जो इसे एक सुरक्षित और आत्मनिर्भर उपमहाद्वीप बनाती हैं:\n1. **उत्तरी सुरक्षा कवच (हिमालय):** विशाल हिमालय पर्वतमाला उत्तरी आक्रमणकारियों के लिए एक अभेद्य दीवार के रूप में कार्य करती है और मानसूनी हवाओं को रोककर भरपूर वर्षा कराती है।\n2. **दक्षिणी प्रायद्वीपीय सीमाएँ (महासागर):** तीन ओर से हिंद महासागर, अरब सागर और बंगाल की खाड़ी से घिरा होने के कारण भारत को प्राकृतिक समुद्री सुरक्षा और व्यापारिक मार्ग प्राप्त हैं।\n3. **उपजाऊ नदी घाटियाँ (मैदान):** बारहमासी नदियाँ विशाल उपजाऊ मैदानों का निर्माण करती हैं, जिससे कृषि संपन्नता, पेयजल आपूर्ति और समृद्ध जैव विविधता सुनिश्चित होती है।",
+      "keyPoints": [
+        "हिमालय द्वारा उत्तरी सीमा पर अभेद्य सुरक्षा (Impassable protection on northern border by Himalayas)",
+        "तीन ओर महासागरों द्वारा प्रायद्वीपीय घेराव (Peninsular enclosure by oceans on three sides)",
+        "नदियों द्वारा निर्मित उपजाऊ और आत्मनिर्भर मैदान (Fertile and self-sustaining plains formed by rivers)"
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Compare the love and nurture given by a biological mother with that provided by our Motherland.",
+      "questionHi": "जन्म देने वाली माता (जननी) और मातृभूमि द्वारा दिए जाने वाले प्रेम और पोषण की तुलना कीजिए।",
+      "answer": "Both the biological mother and the Motherland share a sacred and selfless bond of nurture with us:\n1. **Physical Birth vs. Lifelong Sustenance:** A biological mother gives us birth, feeds us her milk, and protects us in infancy. Similarly, the Motherland sustains us throughout our entire life by providing the very air we breathe, the water we drink, and the food grown on her soil.\n2. **Selfless Love:** Both offer unconditional love without demanding anything in return, constantly forgiving our mistakes and showering us with comfort.\n3. **Final Resting Place:** While our biological mother holds us in her lap during childhood, the Motherland holds us in her lap from cradle to grave, embracing our mortal remains into her soil at the end of life.",
+      "answerHi": "जन्म देने वाली माता और मातृभूमि दोनों ही हमारे साथ निस्वार्थ प्रेम और पोषण का पवित्र संबंध रखती हैं:\n1. **जन्म vs. आजीवन पोषण:** जन्म देने वाली माता हमें जन्म देती है, अपना दूध पिलाती है और बचपन में हमारी रक्षा करती है। उसी प्रकार, मातृभूमि हमें जीवन भर सांस लेने के लिए हवा, पीने के लिए पानी और खाने के लिए अन्न प्रदान कर हमारा पोषण करती है।\n2. **निस्वार्थ प्रेम:** दोनों बिना किसी स्वार्थ या बदले की चाह के हमें असीम स्नेह देती हैं और हमारी सुख-सुविधा का ध्यान रखती हैं।\n3. **अंतिम विश्राम स्थल:** माता हमें बचपन में अपनी गोद में खिलाती है, जबकि मातृभूमि जन्म से लेकर मृत्यु तक हमें अपनी गोद में रखती है और अंत में हमारे शरीर को अपनी मिट्टी में समा लेती है।",
+      "keyPoints": [
+        "माता जन्म देती है, मातृभूमि आजीवन अन्न-जल से पोषण करती है (Mother gives birth, Motherland sustains for life)",
+        "दोनों का प्रेम निस्वार्थ और वात्सल्य से परिपूर्ण (Both offer selfless love filled with maternal affection)",
+        "जन्म से मृत्यु तक मातृभूमि की गोद में आश्रय (Shelter in the Motherland's lap from birth to death)"
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "How does the poem celebrate the harmonious coexistence of diverse natural elements in India?",
+      "questionHi": "कविता भारत में विविध प्राकृतिक तत्वों के सामंजस्यपूर्ण सह-अस्तित्व (harmonious coexistence) का जश्न कैसे मनाती है?",
+      "answer": "The poem beautifully illustrates how contrasting natural elements coexist in perfect harmony across India:\n1. **Snow and Sunshine:** The snow-capped peaks of the Himalayas coexist with the warm, sun-drenched tropical plains and coastal beaches.\n2. **Forests and Rivers:** Dense green forests act as catchments for rushing rivers, while the rivers in turn nourish the trees, flora, and fauna in a continuous ecological cycle.\n3. **Seasonal Balance:** The poem reflects the balanced cycle of Indian seasons (ऋतु-चक्र)—from refreshing rains to golden autumn harvests—showing that diversity in climate and topography is the source of India's biological and cultural richness.",
+      "answerHi": "कविता बहुत ही सुंदर ढंग से दर्शाती है कि भारत में विपरीत प्राकृतिक तत्व किस प्रकार पूर्ण सामंजस्य (तालमेल) के साथ रहते हैं:\n1. **बर्फ और धूप का मिलन:** हिमालय की बर्फ से ढकी चोटियाँ गर्म, धूप से खिले मैदानी और तटीय क्षेत्रों के साथ सह-अस्तित्व में रहती हैं।\n2. **वन और नदियों का चक्र:** घने हरे वन नदियों के लिए जल स्रोत का काम करते हैं, जबकि नदियाँ बदले में वनों, वनस्पतियों और वन्यजीवों को निरंतर पोषण देती हैं।\n3. **संतुलित ऋतु-चक्र:** कविता भारतीय ऋतुओं के अद्भुत संतुलन को दर्शाती है—ताजगी भरी वर्षा से लेकर सुनहरी कटाई तक—यह सिद्ध करते हुए कि जलवायु और भूभाग की विविधता ही भारत की समृद्धि का मूल है।",
+      "keyPoints": [
+        "बर्फीले शिखरों और गर्म मैदानी क्षेत्रों का अद्भुत संतुलन (Balance of snowy peaks and warm plains)",
+        "वनों और नदियों के बीच अनियोन्याश्रित पारिस्थितिक संबंध (Interdependent ecological bond between forests and rivers)",
+        "विविध जलवायु और ऋतुओं द्वारा देश की समृद्धि (Country's enrichment through diverse climates and seasons)"
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "What is the meaning of the phrase 'जननी जन्मभूमिश्च स्वर्गादपि गरीयसी' in the context of this poem?",
+      "questionHi": "इस कविता के संदर्भ में संस्कृत सूक्ति 'जननी जन्मभूमिश्च स्वर्गादपि गरीयसी' का क्या अर्थ और महत्त्व है?",
+      "answer": "This famous Sanskrit proverb means: **'Mother and Motherland are superior even to Heaven.'**\n1. **Supreme Reverence:** In the context of the poem, it emphasizes that the land where we are born and brought up holds a place of honor higher than any mythological heaven.\n2. **Real and Tangible Blessings:** While heaven is an abstract concept of after-life luxury, our Motherland provides real, tangible blessings right here—food, clean water, shelter, loving community, and cultural heritage.\n3. **Call for Dedication:** Therefore, serving our Motherland and working for her upliftment is the highest spiritual duty and virtue a human being can perform.",
+      "answerHi": "इस प्रसिद्ध संस्कृत सूक्ति का अर्थ है: **'माता और जन्मभूमि स्वर्ग से भी बढ़कर (श्रेष्ठ) हैं।'**\n1. **सर्वोच्च सम्मान:** कविता के संदर्भ में, यह इस बात पर बल देता है कि जिस धरती पर हमारा जन्म और पालन-पोषण हुआ है, उसका स्थान किसी भी काल्पनिक स्वर्ग से कहीं अधिक ऊँचा है।\n2. **वास्तविक और प्रत्यक्ष सुख:** स्वर्ग मृत्यु के बाद सुख की कल्पना है, जबकि हमारी मातृभूमि हमें यहीं इसी जीवन में वास्तविक सुख—अन्न, जल, आश्रय, परिवार और सांस्कृतिक धरोहर—प्रदान करती है।\n3. **सेवा और समर्पण का आह्वान:** इसलिए, अपनी मातृभूमि की सेवा करना और उसके उत्थान के लिए कार्य करना मनुष्य का सबसे बड़ा आध्यात्मिक कर्तव्य और पुण्य है।",
+      "keyPoints": [
+        "माता और मातृभूमि का स्थान स्वर्ग से भी श्रेष्ठ (Mother and Motherland are superior even to heaven)",
+        "मातृभूमि द्वारा जीवन में प्रत्यक्ष सुख और संसाधन प्रदान करना (Motherland provides direct happiness and resources in life)",
+        "देश सेवा को सर्वोच्च आध्यात्मिक कर्तव्य मानना (Considering national service as the highest spiritual duty)"
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Why is it important to protect the natural forests and biodiversity mentioned in 'Matribhumi'?",
+      "questionHi": "'मातृभूमि' कविता में वर्णित प्राकृतिक वनों और जैव विविधता की रक्षा करना क्यों आवश्यक है?",
+      "answer": "Protecting the forests and biodiversity praised in the poem is vital for survival and heritage:\n1. **Ecological Balance:** Forests are the green lungs of Mother India. They produce oxygen, absorb harmful carbon dioxide, regulate local temperatures, and attract monsoon rains essential for agriculture.\n2. **Habitat for Wildlife:** Indian forests are home to magnificent flora and fauna (tigers, elephants, peacocks, medicinal herbs). Deforestation threatens these species with extinction and destroys the Mother's natural beauty.\n3. **Resource Sustainability:** Conserving forests ensures a steady, sustainable supply of clean water, timber, fruits, and Ayurvedic medicines for future generations without harming the environment.",
+      "answerHi": "कविता में प्रशंसित वनों और जैव विविधता की रक्षा करना हमारे अस्तित्व और धरोहर के लिए अत्यंत आवश्यक है:\n1. **पारिस्थितिक संतुलन:** वन भारत माता के हरित फेफड़े (green lungs) हैं। ये प्राणवायु (ऑक्सीजन) देते हैं, प्रदूषण सोखते हैं, तापमान नियंत्रित करते हैं और कृषि के लिए आवश्यक मानसूनी वर्षा कराते हैं।\n2. **वन्यजीवों का प्राकृतिक आवास:** भारतीय वन अद्भुत वनस्पतियों और जीवों (बाघ, हाथी, मोर, जड़ी-बूटियों) का घर हैं। वनों की कटाई से इन जीवों का अस्तित्व संकट में पड़ता है और मातृभूमि का सौंदर्य नष्ट होता है।\n3. **संसाधनों की निरंतरता:** वनों का संरक्षण करने से भावी पीढ़ियों के लिए शुद्ध जल, फल, लकड़ी और आयुर्वेदिक औषधियों की निरंतर आपूर्ति बिना पर्यावरण को नुकसान पहुँचाए सुनिश्चित होती है।",
+      "keyPoints": [
+        "वन भारत माता के हरित फेफड़े और वर्षा के आधार (Forests are green lungs and basis of rainfall)",
+        "अमूल्य वन्यजीवों और जड़ी-बूटियों का संरक्षण (Conservation of priceless wildlife and medicinal herbs)",
+        "भावी पीढ़ियों के लिए सतत प्राकृतिक संसाधनों की सुरक्षा (Protecting sustainable natural resources for future generations)"
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "How does the poet connect the natural wealth of India with the moral character of its people?",
+      "questionHi": "कवि भारत की प्राकृतिक संपदा (natural wealth) को यहाँ के लोगों के नैतिक चरित्र से किस प्रकार जोड़ते हैं?",
+      "answer": "The poet establishes a deep connection between India's fertile environment and the noble character of its citizens:\n1. **Nourishment of Peace:** Just as the fertile soils and flowing rivers generously nourish everyone without discrimination, Indian culture teaches its people the values of generosity, hospitality ('Atithi Devo Bhava'), and sharing.\n2. **Strength from the Mountains:** The firm, unshakeable Himalayas inspire citizens to remain steadfast in truth, courage, and moral integrity during times of adversity.\n3. **Depth from the Oceans:** The vast, deep oceans surrounding the peninsula inspire intellectual depth, patience, and a spirit of universal tolerance towards all faiths and viewpoints.",
+      "answerHi": "कवि भारत के उपजाऊ पर्यावरण और यहाँ के नागरिकों के श्रेष्ठ चरित्र के बीच एक गहरा संबंध स्थापित करते हैं:\n1. **उदारता और शांति का पोषण:** जिस प्रकार उपजाऊ मिट्टी और नदियाँ बिना किसी भेदभाव के सभी को पोषण देती हैं, उसी प्रकार भारतीय संस्कृति अपने नागरिकों को उदारता, अतिथि सत्कार ('अतिथि देवो भव') और बांटकर खाने के मूल्य सिखाती है।\n2. **पर्वतों से दृढ़ता की प्रेरणा:** अचल और अटल हिमालय नागरिकों को कठिन परिस्थितियों में सत्य, साहस और नैतिक ईमानदारी पर दृढ़ रहने की प्रेरणा देता है।\n3. **सागर जैसी गंभीरता और सहिष्णुता:** प्रायद्वीप को घेरने वाले विशाल और गहरे महासागर नागरिकों में बौद्धिक गहराई, धैर्य और सभी धर्मों तथा विचारों के प्रति सर्वधर्म समभाव की भावना भरते हैं।",
+      "keyPoints": [
+        "प्रकृति की उदारता से नागरिकों में अतिथि सत्कार और त्याग की भावना (Nature's generosity inspires hospitality and sacrifice)",
+        "हिमालय की तरह सत्य और नैतिक मूल्यों पर अटल रहना (Standing firm on truth and ethics like the Himalayas)",
+        "सागर जैसी बौद्धिक गहराई और सर्वधर्म समभाव (Intellectual depth and universal tolerance like the ocean)"
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Describe the sensory imagery used by the poet to make the poem 'Matribhumi' appealing to readers.",
+      "questionHi": "'मातृभूमि' कविता को पाठकों के लिए आकर्षक बनाने के लिए कवि द्वारा प्रयुक्त बिंब-योजना (sensory imagery) का वर्णन कीजिए।",
+      "answer": "The poet employs vivid multi-sensory imagery to bring Mother India to life in the reader's mind:\n1. **Visual Imagery (दृश्य बिंब):** Descriptions of majestic snow-white mountain peaks, vast emerald-green agricultural fields, and flowing blue rivers create a colorful mental portrait of the nation.\n2. **Auditory Imagery (श्रव्य बिंब):** The mention of roaring ocean waves washing the shores and the gentle rustling of forest leaves evokes the natural music of the Motherland.\n3. **Tactile/Kinetic Imagery (स्पर्श/गति बिंब):** The feeling of cool mountain breezes and the continuous, dynamic flow of sacred river currents give readers a sense of living, breathing energy across the land.",
+      "answerHi": "कवि ने भारत माता का सजीव चित्र पाठकों के मन में उभारने के लिए बहु-संवेदी बिंबों (sensory imagery) का सुंदर प्रयोग किया है:\n1. **दृश्य बिंब (Visual Imagery):** बर्फ से ढकी सफेद पर्वत चोटियों, विशाल पन्ना-हरे खेतों और बहती नीली नदियों का वर्णन देश का एक रंगीन मानसिक चित्र बनाता है।\n2. **श्रव्य बिंब (Auditory Imagery):** सागर की गरजती लहरों द्वारा तटों को धोने और वनों में पत्तों की सरसराहट का उल्लेख मातृभूमि के प्राकृतिक संगीत को सुनाता है।\n3. **स्पर्श एवं गति बिंब (Tactile/Kinetic Imagery):** ठंडी पर्वतीय हवाओं का स्पर्श और पवित्र नदियों की अविरल बहती धाराओं की गति पाठकों को देश में जीवंत ऊर्जा का अनुभव कराती है।",
+      "keyPoints": [
+        "बर्फीले शिखरों और हरे खेतों का मनमोहक दृश्य बिंब (Captivating visual imagery of snowy peaks and green fields)",
+        "सागर की लहरों और नदियों की कल-कल का श्रव्य बिंब (Auditory imagery of ocean waves and flowing rivers)",
+        "शीतल हवाओं और जीवंत ऊर्जा का स्पर्श बिंब (Tactile imagery of cool breezes and living energy)"
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "How does the poem promote the ideal of 'Vasudhaiva Kutumbakam' (The World is One Family)?",
+      "questionHi": "यह कविता 'वसुधैव कुटुम्बकम' (संपूर्ण विश्व एक परिवार है) के आदर्श को किस प्रकार बढ़ावा देती है?",
+      "answer": "While praising India, the poem subtly elevates patriotism into universal humanism and global brotherhood:\n1. **Land of Saints and Peace:** India is depicted not as a conquering military power, but as a spiritual guru that has historically radiated messages of non-violence (अहिंसा), truth, and spiritual enlightenment to the entire world.\n2. **Harmonious Diversity:** Just as Mother India nurtures diverse languages, traditions, and communities within her borders without prejudice, she teaches her citizens to embrace all people of the world as members of one global family.\n3. **Welfare of All:** The resources and ancient wisdom of our Motherland are meant for the welfare, healing, and happiness of all humanity ('Sarve Bhavantu Sukhinah').",
+      "answerHi": "भारत की वंदना करते हुए, यह कविता राष्ट्रप्रेम को विश्व-मानवता और वैश्विक भाईचारे के स्तर तक उठाती है:\n1. **संतों और शांति की भूमि:** भारत को एक आक्रामक सैन्य शक्ति के रूप में नहीं, बल्कि एक आध्यात्मिक गुरु के रूप में दर्शाया गया है जिसने ऐतिहासिक रूप से पूरे विश्व को अहिंसा, सत्य और आध्यात्मिक ज्ञान का संदेश दिया है।\n2. **विविधता में एकता:** जिस प्रकार भारत माता अपनी सीमाओं के भीतर विभिन्न भाषाओं, परंपराओं और समुदायों को बिना किसी भेदभाव के पालती है, उसी प्रकार वह अपने नागरिकों को संपूर्ण विश्व के लोगों को एक परिवार मानने की सीख देती है।\n3. **सर्वजन हिताय:** हमारी मातृभूमि के संसाधन और प्राचीन ज्ञान संपूर्ण मानवता के कल्याण, उपचार और सुख ('सर्वे भवन्तु सुखिनः') के लिए समर्पित हैं।",
+      "keyPoints": [
+        "भारत को विश्व का आध्यात्मिक गुरु और शांतिदूत बताना (Portraying India as world's spiritual guide and messenger of peace)",
+        "विविधता में एकता के द्वारा वैश्विक भाईचारे की प्रेरणा (Inspiring global brotherhood through unity in diversity)",
+        "संपूर्ण मानवता के कल्याण और सुख की कामना (Wishing for the welfare and happiness of all humanity)"
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Why is it essential for young students to understand the agricultural labor behind the 'green fields' mentioned in the poem?",
+      "questionHi": "युवा विद्यार्थियों के लिए कविता में वर्णित 'हरी-भरी फसलों' के पीछे छिपे कृषकों के परिश्रम को समझना क्यों अनिवार्य है?",
+      "answer": "Understanding the agricultural labor behind our food security is essential for holistic student development:\n1. **Gratitude for Farmers ('Annadata'):** It makes students realize that the food on their plates is not manufactured in factories, but is the result of farmers sweating in scorching sun and heavy rains.\n2. **Prevention of Food Wastage:** When children appreciate the months of hard work required to grow grain, they develop conscious eating habits and pledge never to waste food.\n3. **Respect for Manual Labor:** It instills dignity of labor (श्रम का महत्व), fostering deep respect for rural communities and encouraging innovation in agricultural sciences.",
+      "answerHi": "खाद्यान्न सुरक्षा के पीछे छिपे कृषकों के परिश्रम को समझना विद्यार्थियों के सर्वांगीण विकास के लिए अनिवार्य है:\n1. **'अन्नदाता' के प्रति कृतज्ञता:** इससे विद्यार्थियों को यह आभास होता है कि उनकी थाली का भोजन कारखानों में नहीं बनता, बल्कि किसानों द्वारा कड़ी धूप और भारी वर्षा में बहाए गए पसीने का फल है।\n2. **अन्न की बर्बादी पर रोक:** जब बच्चे अनाज उगाने में लगने वाले महीनों के कठिन परिश्रम को समझते हैं, तो वे भोजन का आदर करते हैं और कभी अन्न बर्बाद न करने का संकल्प लेते हैं।\n3. **श्रम का सम्मान (Dignity of Labor):** यह शारीरिक श्रम के प्रति आदर भाव जगाता है, ग्रामीण समाज से जोड़ता है और कृषि विज्ञान में सुधार के लिए प्रेरित करता है।",
+      "keyPoints": [
+        "किसानों ('अन्नदाता') के कठिन परिश्रम के प्रति कृतज्ञता (Gratitude towards the hard work of farmers/'Annadata')",
+        "भोजन का महत्व समझना और अन्न की बर्बादी रोकना (Understanding food value and preventing food wastage)",
+        "शारीरिक श्रम का सम्मान और ग्रामीण समाज से जुड़ाव (Respect for manual labor and connection with rural society)"
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "What is the difference between shallow nationalism and the true patriotism taught in 'Matribhumi'?",
+      "questionHi": "उछले (दिखावटी) राष्ट्रवाद और 'मातृभूमि' कविता में सिखाई गई सच्ची देशभक्ति में क्या अंतर है?",
+      "answer": "The poem clearly distinguishes between superficial slogans and true, constructive patriotism:\n1. **Shallow Nationalism:** It relies merely on outward symbols, boasting, aggressive slogans, or feeling superior by denigrating other cultures without doing any real service to society.\n2. **True Patriotism (सच्ची देशभक्ति):** As shown in the poem, true patriotism is rooted in active gratitude and constructive action—protecting our forests and rivers, keeping our public spaces clean, helping underprivileged fellow citizens, and performing our daily student or professional duties with absolute honesty.\n3. **Inclusive Love:** True patriotism embraces all communities within the country with equal affection, recognizing that serving the people is the only real way to serve Mother India.",
+      "answerHi": "कविता दिखावटी नारों और सच्ची, रचनात्मक देशभक्ति के बीच स्पष्ट अंतर बताती है:\n1. **दिखावटी राष्ट्रवाद:** यह केवल बाहरी प्रतीकों, खोखले दावों, आक्रामक नारों या समाज की कोई वास्तविक सेवा किए बिना अन्य संस्कृतियों को नीचा दिखाकर श्रेष्ठता महसूस करने पर आधारित होता है।\n2. **सच्ची देशभक्ति:** जैसा कि कविता में दर्शाया गया है, सच्ची देशभक्ति सक्रिय कृतज्ञता और रचनात्मक कार्यों में निहित है—अपने वनों और नदियों की रक्षा करना, सार्वजनिक स्थानों को स्वच्छ रखना, जरूरतमंद सह-नागरिकों की सहायता करना और अपने विद्यार्थी या व्यावसायिक कर्तव्यों का पूरी ईमानदारी से पालन करना।\n3. **समावेशी प्रेम:** सच्ची देशभक्ति देश के सभी समुदायों को समान स्नेह से अपनाती है, यह मानते हुए कि नागरिकों की सेवा ही भारत माता की सच्ची सेवा है।",
+      "keyPoints": [
+        "दिखावटी राष्ट्रवाद केवल नारों और खोखले दावों तक सीमित (Shallow nationalism is limited to slogans and empty boasts)",
+        "सच्ची देशभक्ति पर्यावरण सुरक्षा और ईमानदारी से कर्तव्य पालन में निहित (True patriotism lies in environmental protection and honest duty)",
+        "सभी नागरिकों की सेवा और सम्मान ही भारत माता की सच्ची पूजा (Serving and respecting all citizens is true worship of Mother India)"
+      ]
+    },
+    {
+      "id": "q21",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "Read the following case study and answer the questions:\nOn Independence Day, Class 6 students of Government Middle School organized a cultural celebration. Rohan recited the poem 'Matribhumi', describing the snowy Himalayas, the green fields, and the sacred rivers. Later, teacher Mrs. Sharma explained, 'Our Motherland is like our real mother. She gives us food from her fertile soil, water from her rivers, and air from her forests. But today, our rivers are getting polluted with plastic and our trees are being cut down. Real patriotism is not just singing national songs on 15th August; it is protecting our Motherland every single day.'\n\n(a) Why did Mrs. Sharma compare the Motherland to a real mother?\n(b) According to the teacher, what are the two major threats facing our Motherland today?\n(c) What is 'real patriotism' according to Mrs. Sharma?\n(d) Mention one practical action you can take at school to practice real patriotism.",
+      "questionHi": "निम्नलिखित केस स्टडी को पढ़िए और प्रश्नों के उत्तर दीजिए:\nस्वतंत्रता दिवस पर, राजकीय माध्यमिक विद्यालय के कक्षा 6 के छात्रों ने एक सांस्कृतिक कार्यक्रम आयोजित किया। रोहन ने 'मातृभूमि' कविता का पाठ किया, जिसमें बर्फीले हिमालय, हरे-भरे खेतों और पवित्र नदियों का वर्णन था। बाद में, शिक्षिका श्रीमती शर्मा ने समझाया, ' हमारी मातृभूमि हमारी सगी माता के समान है। वह अपनी उपजाऊ मिट्टी से हमें अन्न, नदियों से जल और वनों से शुद्ध हवा देती है। परंतु आज हमारी नदियाँ प्लास्टिक से प्रदूषित हो रही हैं और पेड़ काटे जा रहे हैं। सच्ची देशभक्ति केवल 15 अगस्त को राष्ट्रीय गीत गाना नहीं है; यह हर दिन अपनी मातृभूमि की रक्षा करना है।'\n\n(क) श्रीमती शर्मा ने मातृभूमि की तुलना सगी माता से क्यों की?\n(ख) शिक्षिका के अनुसार, आज हमारी मातृभूमि को कौन-से दो मुख्य खतरों का सामना करना पड़ रहा है?\n(ग) श्रीमती शर्मा के अनुसार 'सच्ची देशभक्ति' क्या है?\n(घ) विद्यालय में सच्ची देशभक्ति का अभ्यास करने के लिए आप कौन-सा एक व्यावहारिक कदम उठा सकते हैं?",
+      "answer": "(a) Mrs. Sharma compared the Motherland to a real mother because just as a mother selflessly nourishes and protects her child, the Motherland sustains our lives by providing essential food from her soil, drinking water from her rivers, and breathable air from her forests.\n(b) The two major threats facing our Motherland today are: (1) Severe water pollution of sacred rivers due to plastic waste and garbage dumping, and (2) Rapid deforestation (cutting down of trees), which destroys natural habitats and air quality.\n(c) According to Mrs. Sharma, 'real patriotism' is not restricted to ceremonial activities like singing patriotic songs on national holidays; it means actively protecting, conserving, and caring for the Motherland's natural environment and resources every single day.\n(d) As a practical action at school, I will participate in keeping the school campus completely plastic-free, plant and water native saplings in the school garden, and ensure zero wastage of drinking water and midday meal food.",
+      "answerHi": "(क) श्रीमती शर्मा ने मातृभूमि की तुलना सगी माता से इसलिए की क्योंकि जिस प्रकार एक माता निस्वार्थ भाव से अपने बच्चे का पालन-पोषण और सुरक्षा करती है, उसी प्रकार मातृभूमि अपनी मिट्टी से अन्न, नदियों से जल और वनों से शुद्ध हवा प्रदान कर हमारे जीवन को बनाए रखती है।\n(ख) शिक्षिका के अनुसार, आज हमारी मातृभूमि को दो मुख्य खतरों का सामना करना पड़ रहा है: (1) प्लास्टिक कचरा फेंकने से पवित्र नदियों का भारी जल प्रदूषण, और (2) तेजी से हो रही वनों की कटाई (पेड़ काटना), जिससे प्राकृतिक आवास और हवा की गुणवत्ता नष्ट हो रही है।\n(ग) श्रीमती शर्मा के अनुसार, 'सच्ची देशभक्ति' केवल राष्ट्रीय पर्वों पर देशभक्ति गीत गाने जैसे औपचारिक कार्यों तक सीमित नहीं है; इसका अर्थ है हर दिन मातृभूमि के प्राकृतिक पर्यावरण और संसाधनों की सक्रिय रूप से रक्षा, संरक्षण और देखभाल करना।\n(घ) विद्यालय में एक व्यावहारिक कदम के रूप में, मैं स्कूल परिसर को पूरी तरह से प्लास्टिक-मुक्त रखने में भाग लूँगा, विद्यालय के बगीचे में पौधे लगाकर उन्हें नियमित पानी दूँगा, और पीने के पानी तथा भोजन की बिल्कुल बर्बादी नहीं होने दूँगा।",
+      "keyPoints": [
+        "मातृभूमि सगी माता की तरह अन्न, जल और वायु से जीवन का पोषण करती है (Motherland sustains life with food, water, and air like a real mother)",
+        "नदियों का प्लास्टिक प्रदूषण और वनों की कटाई दो सबसे बड़े खतरे (Plastic pollution of rivers and deforestation are two major threats)",
+        "सच्ची देशभक्ति प्रतिदिन पर्यावरण संरक्षण और कर्तव्यों के पालन में है (True patriotism lies in daily environmental conservation and duty fulfillment)",
+        "विद्यालय को प्लास्टिक-मुक्त रखना और वृक्षारोपण करना व्यावहारिक देशभक्ति (Keeping school plastic-free and planting trees is practical patriotism)"
+      ]
+    },
+    {
+      "id": "q22",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Write a comprehensive summary of the poem 'Matribhumi', highlighting its geographical descriptions, emotional depth, and patriotic message.",
+      "questionHi": "कविता 'मातृभूमि' का एक व्यापक सारांश (summary) लिखिए, जिसमें इसके भौगोलिक वर्णन, भावनात्मक गहराई और देशभक्ति के संदेश को उजागर किया गया हो।",
+      "answer": "The poem 'Matribhumi' is a magnificent lyrical tribute to India, celebrating its geographical grandeur, natural wealth, and spiritual heritage:\n1. **Geographical Majesty:** The poet paints a vibrant portrait of India's boundaries. In the north, the snow-draped Himalayas stand like a glistening crown and an invincible sentinel. In the south, the vast Indian Ocean rhythmically washes the feet of Mother India. Across the heartland, sacred rivers like the Ganga, Yamuna, and Sindhu flow like streams of maternal milk, nourishing the fertile alluvial plains.\n2. **Natural Abundance ('Ratnagarbha'):** The Motherland is celebrated as 'Ratnagarbha'—the womb holding priceless minerals, gems, and fertile soils. Her emerald-green agricultural fields and dense, medicinal forests provide abundant food, water, and shelter, nurturing millions of citizens like a selfless mother.\n3. **Cultural and Spiritual Heritage:** India is hailed as the sacred cradle of ancient civilization where great sages, scholars, and warriors were born. It is the land that taught the timeless philosophy of non-violence (अहिंसा), truth, and universal brotherhood ('Vasudhaiva Kutumbakam') to the world.\n4. **Patriotic Call to Action:** The poem concludes with an inspiring call to citizens and young students. It awakens deep national pride and urges us to shed selfish interests, protect our natural and cultural heritage, and dedicate our lives to the service, honor, and unity of our beloved Motherland.",
+      "answerHi": "कविता 'मातृभूमि' भारत माता के प्रति एक भव्य काव्यगत श्रद्धांजलि है, जिसमें देश की भौगोलिक भव्यता, प्राकृतिक संपदा और आध्यात्मिक विरासत का गुणगान किया गया है:\n1. **भौगोलिक भव्यता:** कवि भारत की सीमाओं का एक जीवंत चित्र प्रस्तुत करते हैं। उत्तर में, बर्फ से ढका हिमालय एक चमकते मुकुट और अभेद्य प्रहरी की तरह खड़ा है। दक्षिण में, विशाल हिंद महासागर लयबद्ध रूप से भारत माता के चरणों को धोता है। देश के मध्य भाग में, गंगा, यमुना और सिंधु जैसी पवित्र नदियाँ माता के दूध की धाराओं के समान बहती हैं, जो उपजाऊ मैदानों को सींचती हैं।\n2. **प्राकृतिक संपन्नता ('रत्नगर्भा'):** मातृभूमि को 'रत्नगर्भा'—गर्भ में अमूल्य खनिज, रत्न और उपजाऊ मिट्टी धारण करने वाली—कहा गया है। इसके पन्ना-हरे खेत और घने, औषधीय वन एक निस्वार्थ माता की तरह करोड़ों नागरिकों को भरपूर अन्न, जल और आश्रय प्रदान करते हैं।\n3. **सांस्कृतिक और आध्यात्मिक विरासत:** भारत को प्राचीन सभ्यता की पावन जननी माना गया है जहाँ महान ऋषि-मुनियों, विद्वानों और वीरों ने जन्म लिया। यह वह भूमि है जिसने पूरे विश्व को अहिंसा, सत्य और विश्व बंधुत्व ('वसुधैव कुटुम्बकम') का अमर दर्शन सिखाया।\n4. **देशभक्ति और कर्तव्य का संदेश:** कविता नागरिकों और युवा विद्यार्थियों के लिए एक प्रेरक आह्वान के साथ समाप्त होती है। यह हममें गहरा राष्ट्रीय गौरव जगाती है और प्रेरित करती है कि हम स्वार्थ त्यागकर अपनी प्राकृतिक और सांस्कृतिक धरोहर की रक्षा करें तथा अपनी प्रिय मातृभूमि की सेवा, सम्मान और एकता के लिए अपना जीवन समर्पित करें।",
+      "keyPoints": [
+        "हिमालय मुकुट, सागर चरण धोने वाला और नदियाँ पोषण की धाराएँ (Himalaya as crown, ocean washing feet, rivers as nourishing streams)",
+        "रत्नगर्भा धरती द्वारा अन्न, खनिज और वन संपदा का निस्वार्थ दान (Selfless gift of food, minerals, and forests by Ratnagarbha earth)",
+        "विश्व को शांति, अहिंसा और भाईचारे का अमर संदेश देने वाली पावन भूमि (Sacred land giving timeless message of peace, non-violence, and brotherhood)",
+        "स्वार्थ त्यागकर मातृभूमि की रक्षा और सेवा के लिए आजीवन समर्पण (Lifelong dedication to protect and serve the motherland selflessly)"
+      ]
+    },
+    {
+      "id": "q23",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "How does India's geographical diversity contribute to its cultural richness and national unity? Discuss in detail using examples from the poem.",
+      "questionHi": "भारत की भौगोलिक विविधता इसकी सांस्कृतिक समृद्धि और राष्ट्रीय एकता में किस प्रकार योगदान देती है? कविता के उदाहरणों के साथ विस्तार से चर्चा कीजिए।",
+      "answer": "India's remarkable geographical diversity is the very foundation of its rich cultural tapestry and enduring national unity:\n1. **Geographical Diversity & Cultural Adaptations:** From the freezing heights of the Himalayas to the warm coastal plains of the south, each region's climate has shaped unique clothing, architecture, cuisine, and folk festivals. For example, harvest festivals like Baisakhi, Pongal, Bihu, and Makar Sankranti are celebrated across different geographical zones to thank the Motherland's fertile soil and rivers.\n2. **Rivers as Connecting Threads:** Sacred rivers like the Ganga, Yamuna, Godavari, and Kaveri flow across state boundaries, acting as cultural and spiritual lifelines. Pilgrimage centers along these rivers attract citizens from all corners of India, fostering deep emotional integration and national unity.\n3. **Economic Interdependence:** Different geographical regions contribute specialized resources—mountain forests provide timber and herbs, northern plains produce surplus wheat and rice, and coastal regions enable maritime trade and fisheries. This interdependence ensures that every state relies on and supports the others, binding the nation together.\n4. **Unity in Diversity:** The poem demonstrates that just as diverse natural elements (snow, ocean waves, forests, and plains) coexist harmoniously to form one beautiful subcontinent, citizens of different languages, religions, and traditions unite as one family under the loving umbrella of Mother India.",
+      "answerHi": "भारत की अद्भुत भौगोलिक विविधता ही इसकी समृद्ध सांस्कृतिक ताने-बाने और अटूट राष्ट्रीय एकता की आधारशिला है:\n1. **भौगोलिक विविधता और सांस्कृतिक अनुकूलन:** हिमालय की बर्फीली ऊंचाइयों से लेकर दक्षिण के गर्म तटीय मैदानों तक, प्रत्येक क्षेत्र की जलवायु ने विशिष्ट वेशभूषा, वास्तुकला, खान-पान और लोक उत्सवों को जन्म दिया है। उदाहरण के लिए, बैसाखी, पोंगल, बिहू और मकर संक्रांति जैसे कटाई के त्योहार मातृभूमि की उपजाऊ मिट्टी और नदियों को धन्यवाद देने के लिए विभिन्न भौगोलिक क्षेत्रों में मनाए जाते हैं।\n2. **जोड़ने वाली कड़ी के रूप में नदियाँ:** गंगा, यमुना, गोदावरी और कावेरी जैसी पवित्र नदियाँ राज्य की सीमाओं को पार करती हुई बहती हैं, जो सांस्कृतिक और आध्यात्मिक जीवन-रेखा का काम करती हैं। इन नदियों के तटों पर स्थित तीर्थस्थल भारत के हर कोने से नागरिकों को आकर्षित करते हैं, जिससे गहरी भावनात्मक एकता और राष्ट्रीय एकीकरण को बढ़ावा मिलता है।\n3. **आर्थिक अनियोन्याश्रयता:** विभिन्न भौगोलिक क्षेत्र विशेष संसाधन प्रदान करते हैं—पर्वतीय वन लकड़ी और जड़ी-बूटियाँ देते हैं, उत्तरी मैदान गेहूँ और चावल का भारी उत्पादन करते हैं, और तटीय क्षेत्र समुद्री व्यापार तथा मत्स्य पालन सक्षम बनाते हैं। यह निर्भरता सुनिश्चित करती है कि हर राज्य एक-दूसरे का समर्थन करे, जिससे राष्ट्र एक सूत्र में बंधता है।\n4. **विविधता में एकता:** कविता दर्शाती है कि जिस प्रकार विभिन्न प्राकृतिक तत्व (बर्फ, सागर की लहरें, वन और मैदान) सामंजस्यपूर्वक मिलकर एक सुंदर उपमहाद्वीप बनाते हैं, उसी प्रकार विभिन्न भाषाओं, धर्मों और परंपराओं के नागरिक भारत माता की स्नेहमयी छत्रछाया में एक परिवार के रूप में एकजुट रहते हैं।",
+      "keyPoints": [
+        "विविध जलवायु और भूभागों द्वारा अनूठे लोक उत्सवों और परंपराओं का जन्म (Unique folk festivals and traditions born from diverse climates and terrains)",
+        "राज्यों को जोड़ने वाली पवित्र नदियों द्वारा भावनात्मक और सांस्कृतिक एकीकरण (Emotional and cultural integration through sacred rivers connecting states)",
+        "विभिन्न क्षेत्रों के संसाधनों के बीच आर्थिक निर्भरता से राष्ट्रीय एकता (National unity through economic interdependence of regional resources)",
+        "प्रकृति के सामंजस्य की तरह विभिन्न समुदायों का भारत माता की गोद में एकजुट रहना (Diverse communities united in Mother India's lap like harmony of nature)"
+      ]
+    },
+    {
+      "id": "q24",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "Read the following stanza/passage context and answer the questions:\n'Our Motherland is adorned with towering snowy peaks that touch the sky, and surrounded by deep blue oceans that bow at her feet. Her womb is filled with endless gems, minerals, and fertile soils that feed millions. She is the sacred land of truth and compassion, where sages sang hymns of peace for the entire world.'\n\n(a) Identify two contrasting geographical features mentioned in the passage.\n(b) Explain the metaphorical meaning of the phrase 'womb is filled with endless gems'.\n(c) How did the sages of our Motherland contribute to global civilization?\n(d) Give two antonyms from Hindi/English for the word 'Peace' (शांति) and 'Fertile' (उपजाऊ).",
+      "questionHi": "निम्नलिखित काव्यांश/गद्यांश के संदर्भ को पढ़िए और प्रश्नों के उत्तर दीजिए:\n'हमारी मातृभूमि आकाश को छूने वाली बर्फीली चोटियों से सुशोभित है, और गहरे नीले महासागरों से घिरी है जो उसके चरणों में झुकते हैं। उसका गर्भ अनंत रत्नों, खनिजों और उपजाऊ मिट्टी से भरा है जो करोड़ों लोगों का पेट भरती है। यह सत्य और करुणा की पावन भूमि है, जहाँ ऋषि-मुनियों ने संपूर्ण विश्व के लिए शांति के गीत गाए।'\n\n(क) गद्यांश में उल्लिखित दो विपरीत (contrasting) भौगोलिक विशेषताओं की पहचान कीजिए।\n(ख) 'गर्भ अनंत रत्नों से भरा है' वाक्यांश का लाक्षणिक (metaphorical) अर्थ स्पष्ट कीजिए।\n(ग) हमारी मातृभूमि के ऋषि-मुनियों ने वैश्विक सभ्यता में क्या योगदान दिया?\n(घ) 'शांति' (Peace) और 'उपजाऊ' (Fertile) शब्दों के दो-दो विलोम शब्द (antonyms) लिखिए।",
+      "answer": "(a) The two contrasting geographical features mentioned are: (1) The towering, freezing snow-capped mountain peaks (Himalayas) in the north that touch the sky, and (2) The deep, dynamic blue oceans in the south that surround the peninsula and bow at the Motherland's feet.\n(b) The phrase metaphorically signifies that the interior of the earth (our Motherland) is exceptionally rich in natural wealth—including valuable minerals, gemstones, metals, groundwater, and nutrient-rich soil—which collectively ensure the economic prosperity and food security of the nation.\n(c) The sages contributed to global civilization by composing timeless Vedic hymns and spiritual philosophies that preached universal peace, non-violence (अहिंसा), truth, empathy, and the harmonious coexistence of all human beings and nature ('Vasudhaiva Kutumbakam').\n(d) **Antonyms:**\n- **Peace (शांति):** War / Violence (युद्ध / अशांति / हिंसा)\n- **Fertile (उपजाऊ):** Barren / Infertile (बंजर / ऊसर / अनुर्वर)",
+      "answerHi": "(क) गद्यांश में उल्लिखित दो विपरीत भौगोलिक विशेषताएँ हैं: (1) उत्तर में आकाश को छूने वाली अत्यधिक ऊँची और बर्फीली पर्वत चोटियाँ (हिमालय), और (2) दक्षिण में प्रायद्वीप को घेरने वाले गहरे और गतिशील नीले महासागर जो भारत माता के चरणों में झुकते हैं।\n(ख) इस वाक्यांश का लाक्षणिक अर्थ यह है कि हमारी मातृभूमि का आंतरिक भाग (गर्भ) प्राकृतिक संपदा से अत्यधिक समृद्ध है—जिसमें बहुमूल्य खनिज, रत्न, धातुएँ, भूजल और पोषक तत्वों से भरपूर मिट्टी शामिल हैं—जो संयुक्त रूप से देश की आर्थिक समृद्धि और खाद्यान्न सुरक्षा सुनिश्चित करते हैं।\n(ग) हमारे ऋषि-मुनियों ने अमर वैदिक ऋचाओं और आध्यात्मिक दर्शन की रचना करके वैश्विक सभ्यता में योगदान दिया, जिसने संपूर्ण विश्व को सार्वभौमिक शांति, अहिंसा, सत्य, करुणा और सभी मनुष्यों तथा प्रकृति के सामंजस्यपूर्ण सह-अस्तित्व ('वसुधैव कुटुम्बकम') का उपदेश दिया।\n(घ) **विलोम शब्द (Antonyms):**\n- **शांति (Peace):** अशांति / युद्ध / हिंसा (War / Violence / Unrest)\n- **उपजाऊ (Fertile):** बंजर / ऊसर / अनुर्वर (Barren / Infertile / Arid)",
+      "keyPoints": [
+        "उत्तर के ऊँचे बर्फीले पर्वत और दक्षिण के गहरे नीले महासागर विपरीत भौगोलिक तत्व (Snowy northern mountains and deep southern oceans are contrasting features)",
+        "'रत्नगर्भा' का अर्थ धरती में छिपे अमूल्य खनिज, रत्न और उपजाऊ कृषि मिट्टी ('Ratnagarbha' means priceless minerals, gems, and fertile soil inside earth)",
+        "ऋषियों द्वारा विश्व को शांति, अहिंसा और 'वसुधैव कुटुम्बकम' का अमर ज्ञान (Sages gave eternal wisdom of peace, non-violence, and 'Vasudhaiva Kutumbakam')",
+        "शांति का विलोम अशांति/युद्ध और उपजाऊ का विलोम बंजर/ऊसर (Antonym of Peace is War/Unrest; Antonym of Fertile is Barren/Arid)"
+      ]
+    },
+    {
+      "id": "q25",
+      "type": "value-based",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "How can school students practice 'Environmental Patriotism' in their daily routines to honor the message of 'Matribhumi'? Provide four concrete, actionable habits.",
+      "questionHi": "'मातृभूमि' कविता के संदेश का सम्मान करने के लिए विद्यालय के छात्र अपनी दैनिक दिनचर्या में 'पर्यावरणीय देशभक्ति' (Environmental Patriotism) का अभ्यास कैसे कर सकते हैं? चार ठोस और व्यावहारिक आदतें बताइए।",
+      "answer": "School students can actively practice 'Environmental Patriotism' by adopting the following four concrete daily habits:\n1. **Zero Water Wastage:** Since sacred rivers are our Motherland's lifelines, students must turn off dripping taps at home and school, take shorter showers, and use leftover water from water bottles to water plants.\n2. **Saying No to Single-Use Plastic:** To prevent the choking of our fertile soil and rivers, students should completely avoid plastic bags, straws, and disposable cutlery, carrying cloth bags and steel lunchboxes instead.\n3. **Active Tree Plantation & Care ('Green Pledge'):** Students should plant native saplings (like Neem, Peepal, Tulsi, or Mango) on birthdays and actively water and protect them to expand Mother India's green cover.\n4. **Energy Conservation & Waste Segregation:** Switching off lights, fans, and digital devices when not in use reduces carbon footprint. Segregating biodegradable wet waste from recyclable dry waste helps keep our Motherland's soil clean and fertile.",
+      "answerHi": "विद्यालय के छात्र निम्नलिखित चार ठोस दैनिक आदतों को अपनाकर सक्रिय रूप से 'पर्यावरणीय देशभक्ति' का अभ्यास कर सकते हैं:\n1. **जल की शून्य बर्बादी:** चूँकि पवित्र नदियाँ हमारी मातृभूमि की जीवन-रेखा हैं, इसलिए छात्रों को घर और स्कूल में टपकते नलों को बंद करना चाहिए, कम पानी में नहाना चाहिए, और पानी की बोतलों में बचे पानी को पौधों में डालना चाहिए।\n2. **सिंगल-यूज प्लास्टिक का पूर्ण त्याग:** अपनी उपजाऊ मिट्टी और नदियों को प्रदूषित होने से बचाने के लिए छात्रों को प्लास्टिक की थैलियों, स्ट्रॉ और डिस्पोजेबल बर्तनों का पूरी तरह त्याग कर कपड़े के थैलों और स्टील के टिफिन का उपयोग करना चाहिए।\n3. **सक्रिय वृक्षारोपण और देखभाल ('हरित संकल्प'):** छात्रों को अपने जन्मदिन पर देशी पौधे (जैसे नीम, पीपल, तुलसी या आम) लगाने चाहिए और भारत माता के हरित आवरण को बढ़ाने के लिए उनकी नियमित सिंचाई और सुरक्षा करनी चाहिए।\n4. **ऊर्जा बचत और कचरा पृथक्करण:** उपयोग न होने पर बिजली के बल्ब, पंखे और उपकरणों को बंद करने से प्रदूषण घटता है। गीले जैविक कचरे और सूखे रीसाइक्लिंग कचरे को अलग-अलग करने से मातृभूमि की मिट्टी स्वच्छ और उपजाऊ बनी रहती है।",
+      "keyPoints": [
+        "टपकते नलों को बंद करना और पानी की हर बूँद का संरक्षण करना (Closing dripping taps and conserving every drop of water)",
+        "प्लास्टिक का पूर्ण त्याग कर कपड़े के थैलों और स्टील टिफिन का उपयोग (Abandonding plastic completely and using cloth bags and steel lunchboxes)",
+        "जन्मदिन पर देशी पौधे लगाना और उनकी नियमित सिंचाई व देखभाल करना (Planting native saplings on birthdays and watering them regularly)",
+        "बिजली बचाना और गीले-सूखे कचरे को अलग करके मिट्टी को स्वच्छ रखना (Saving electricity and segregating wet-dry waste to keep soil clean)"
+      ]
+    },
+    {
+      "id": "q26",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Discuss how the poem 'Matribhumi' fosters a sense of gratitude and emotional attachment towards our nation's natural resources and cultural history.",
+      "questionHi": "चर्चा कीजिए कि कविता 'मातृभूमि' हमारे देश के प्राकृतिक संसाधनों और सांस्कृतिक इतिहास के प्रति कृतज्ञता (gratitude) और भावनात्मक लगाव कैसे विकसित करती है।",
+      "answer": "The poem 'Matribhumi' masterfully cultivates gratitude and emotional attachment through powerful literary techniques and historical reflections:\n1. **Emotional Personification:** By describing India not merely as a piece of land or a geographical map, but as a living, loving Mother ('Bharat Mata') who feeds us from her own womb and clothes us in green fields, the poet transforms our political citizenship into an intimate, sacred parent-child bond.\n2. **Gratitude for Free Natural Gifts:** The poem reminds us that the clean mountain air we breathe, the sweet river water we drink, and the rich soil that grows our grain are priceless, unconditional gifts from our Motherland. Recognizing this makes us profoundly grateful and deters us from exploiting or polluting nature.\n3. **Reverence for Cultural Ancestry:** By recalling that our soil is the birthplace of visionary sages, compassionate saints, and fearless heroes, the poem connects us to a glorious intellectual and moral lineage. This historical memory fills us with immense national pride and a duty to preserve our cultural integrity.\n4. **Inspiring Selfless Sacrifice:** When citizens feel deeply grateful to their Motherland for nurturing their mind, body, and soul, they naturally develop a willingness to put the nation's interests above their own selfish desires, standing ready to defend and serve the country in times of need.",
+      "answerHi": "कविता 'मातृभूमि' प्रभावशाली साहित्यिक तकनीकों और ऐतिहासिक चिंतन के माध्यम से कृतज्ञता और भावनात्मक लगाव को बहुत ही कुशलता से विकसित करती है:\n1. **भावनात्मक मानवीकरण:** भारत को केवल भूमि का एक टुकड़ा या मानचित्र न कहकर एक जीवंत, स्नेहमयी माता ('भारत माता') के रूप में वर्णित करके—जो अपने गर्भ से हमें अन्न देती है और हरे खेतों के वस्त्र पहनती है—कवि हमारे नागरिक संबंध को एक पवित्र माता-पुत्र के अटूट बंधन में बदल देते हैं।\n2. **निस्वार्थ प्राकृतिक उपहारों के प्रति कृतज्ञता:** कविता हमें याद दिलाती है कि हम जो पर्वतीय शुद्ध हवा लेते हैं, नदियों का जो मीठा जल पीते हैं और जिस उपजाऊ मिट्टी का अनाज खाते हैं, वे मातृभूमि के अमूल्य और निस्वार्थ उपहार हैं। इस बात का अहसास हमें अत्यधिक कृतज्ञ बनाता है और प्रकृति के शोषण या प्रदूषण से रोकता है।\n3. **सांस्कृतिक पूर्वजों के प्रति आदर:** यह याद दिलाकर कि हमारी मिट्टी दूरदर्शी ऋषि-मुनियों, करुणामयी संतों और निर्भीक वीरों की जन्मस्थली है, कविता हमें एक गौरवशाली बौद्धिक और नैतिक परंपरा से जोड़ती है। यह ऐतिहासिक स्मृति हमें राष्ट्रीय गौरव से भर देती है और अपनी संस्कृति को सुरक्षित रखने की प्रेरणा देती है।\n4. **निस्वार्थ समर्पण की प्रेरणा:** जब नागरिक अपने तन, मन और आत्मा का पोषण करने के लिए मातृभूमि के प्रति अत्यधिक कृतज्ञ महसूस करते हैं, तो वे स्वाभाविक रूप से अपने निजी स्वार्थों से ऊपर उठकर राष्ट्रहित को प्राथमिकता देते हैं और आवश्यकता पड़ने पर देश की रक्षा तथा सेवा के लिए तत्पर रहते हैं।",
+      "keyPoints": [
+        "भारत को केवल भूमि का टुकड़ा न मानकर स्नेहमयी 'भारत माता' मानना (Considering India not merely land but a loving 'Mother India')",
+        "अन्न, जल और वायु जैसे निशुल्क प्राकृतिक उपहारों के प्रति गहरी कृतज्ञता (Deep gratitude for free natural gifts like food, water, and air)",
+        "महान ऋषियों और वीरों की ऐतिहासिक परंपरा से जुड़कर राष्ट्रीय गौरव का अनुभव (Feeling national pride by connecting with historical lineage of sages and heroes)",
+        "निजी स्वार्थों को त्यागकर राष्ट्रहित और देश की सेवा के लिए सदैव तत्पर रहना (Renouncing selfishness to stay ever ready for national interest and service)"
+      ]
+    },
+    {
+      "id": "q27",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "What is the role of rivers in the economic, cultural, and spiritual life of India as reflected in the poem 'Matribhumi'?",
+      "questionHi": "'मातृभूमि' कविता में प्रतिबिंबित भारत के आर्थिक, सांस्कृतिक और आध्यात्मिक जीवन में नदियों की क्या भूमिका है?",
+      "answer": "Rivers play an indispensable, multi-dimensional role in the life of India as celebrated in the poem:\n1. **Economic & Agricultural Lifelines:** Sacred rivers like the Ganga, Yamuna, Sindhu, Godavari, and Kaveri are the primary sources of irrigation for India's vast agricultural lands. Depositing rich alluvial soil year after year, they ensure bumper harvests of green fields (हरी-भरी फसलें), supporting the livelihood of farmers and ensuring national food security.\n2. **Cultural & Social Hubs:** Throughout Indian history, major civilizations, cities, and trade centers (like Varanasi, Prayagraj, Haridwar, Patna, and Thanjavur) flourished along river banks. Rivers serve as vibrant hubs for traditional festivals, trade, navigation, and community gatherings.\n3. **Spiritual Sanctity & Purification:** In Indian spiritual tradition, rivers are revered not as mere water bodies, but as living goddesses and mothers (उदा. 'गंगा मैया'). Bathing in sacred rivers is believed to purify the mind and soul. They witness every milestone of human life from birth rituals to the immersion of mortal ashes, symbolizing the eternal cycle of life and cosmic purity.",
+      "answerHi": "कविता में प्रशंसित नदियाँ भारत के जीवन में एक अपरिहार्य और बहु-आयामी भूमिका निभाती हैं:\n1. **आर्थिक और कृषि जीवन-रेखा:** गंगा, यमुना, सिंधु, गोदावरी और कावेरी जैसी पवित्र नदियाँ भारत की विशाल कृषि भूमि के लिए सिंचाई का मुख्य स्रोत हैं। हर वर्ष उपजाऊ जलोढ़ मिट्टी जमा करके, ये हरी-भरी फसलों का भरपूर उत्पादन सुनिश्चित करती हैं, जिससे किसानों की आजीविका चलती है और राष्ट्रीय खाद्यान्न सुरक्षा मजबूत होती है।\n2. **सांस्कृतिक और सामाजिक केंद्र:** भारतीय इतिहास में, प्रमुख सभ्यताएँ, ऐतिहासिक नगर और व्यापारिक केंद्र (जैसे वाराणसी, प्रयागराज, हरिद्वार, पटना और तंजावुर) नदियों के किनारे ही विकसित हुए। नदियाँ पारंपरिक उत्सवों, व्यापार, जलमार्ग और सामाजिक मिलन के जीवंत केंद्र के रूप में कार्य करती हैं।\n3. **आध्यात्मिक पवित्रता और शुद्धि:** भारतीय आध्यात्मिक परंपरा में, नदियों को केवल जल निकाय नहीं, बल्कि जीवंत देवियाँ और माताएँ (जैसे 'गंगा मैया') माना जाता है। पवित्र नदियों में स्नान करने से मन और आत्मा की शुद्धि मानी जाती है। ये जन्म के संस्कारों से लेकर अस्थि विसर्जन तक मानव जीवन के हर महत्वपूर्ण पड़ाव की साक्षी होती हैं, जो जीवन के अनंत चक्र और पवित्रता को दर्शाती हैं।",
+      "keyPoints": [
+        "सिंचाई और जलोढ़ मिट्टी द्वारा कृषि संपन्नता और किसानों की आजीविका का आधार (Basis of farming prosperity and irrigation through fertile alluvial soil)",
+        "नदी तटों पर प्राचीन सभ्यताओं, ऐतिहासिक नगरों और सांस्कृतिक उत्सवों का विकास (Development of ancient civilizations, cities, and festivals on river banks)",
+        "नदियों को जीवंत माता मानकर आध्यात्मिक शुद्धि और जीवन-चक्र से जुड़ाव (Revering rivers as living mothers connected to spiritual purity and life cycle)"
+      ]
+    },
+    {
+      "id": "q28",
+      "type": "case-study",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Read the following scenario and answer the questions:\nAnanya and her friends visited a famous hill station in the Himalayas during their summer vacation. They were mesmerized by the snow-covered peaks and green valleys, recalling the poem 'Matribhumi'. However, during a trek, they noticed massive heaps of plastic bottles, food wrappers, and broken glass littered by tourists near a mountain stream. The local guide informed them that this pollution was poisoning the downstream river water and causing illness among mountain wildlife.\n\n(a) Which two aspects of the Motherland described in the poem did Ananya witness on her trip?\n(b) How is irresponsible tourism violating the sanctity of the Himalayas as described in the poem?\n(c) What ecological harm is caused by littering near mountain streams?\n(d) Suggest two responsible behaviors tourists must adopt when visiting natural heritage sites.",
+      "questionHi": "निम्नलिखित परिदृश्य को पढ़िए और प्रश्नों के उत्तर दीजिए:\nअनन्या और उसके मित्र ग्रीष्मकालीन अवकाश के दौरान हिमालय के एक प्रसिद्ध हिल स्टेशन पर गए। बर्फ से ढकी चोटियों और हरी-भरी घाटियों को देखकर वे मंत्रमुग्ध हो गए, और उन्हें 'मातृभूमि' कविता याद आ गई। हालाँकि, ट्रेकिंग के दौरान उन्होंने देखा कि एक पहाड़ी झरने के पास पर्यटकों द्वारा फेंकी गई प्लास्टिक की बोतलों, खाने के रैपरों और टूटे काँच के भारी ढेर लगे थे। स्थानीय गाइड ने उन्हें बताया कि इस प्रदूषण से निचले इलाकों में जाने वाला नदी का जल जहरीला हो रहा है और जंगली जानवर बीमार पड़ रहे हैं।\n\n(क) अनन्या ने अपनी यात्रा में कविता में वर्णित मातृभूमि के कौन-से दो पक्षों को प्रत्यक्ष देखा?\n(ख) गैर-जिम्मेदाराना पर्यटन कविता में वर्णित हिमालय की पवित्रता और सम्मान का उल्लंघन कैसे कर रहा है?\n(ग) पहाड़ी झरनों के पास कचरा फेंकने से क्या पारिस्थितिक नुकसान (ecological harm) होता है?\n(घ) प्राकृतिक धरोहर स्थलों पर जाते समय पर्यटकों को कौन-से दो जिम्मेदार आचरण अपनाने चाहिए?",
+      "answer": "(a) Ananya witnessed two magnificent aspects described in the poem: (1) The towering, snow-covered Himalayan peaks acting as Mother India's glistening crown, and (2) The lush green valleys and natural mountain streams that eventually form our sacred rivers.\n(b) In the poem, the Himalayas are revered as a sacred crown and protective sentinel of Mother India. Irresponsible tourism violates this sanctity by treating these revered mountain ecosystems as garbage dumps, defacing natural beauty and showing disrespect toward the nation's heritage.\n(c) Littering near mountain streams causes severe ecological harm: plastic waste leaches toxic chemicals into pure spring water, polluting rivers downstream that millions drink; moreover, mountain wildlife (like deer and birds) ingest plastic wrappers or get injured by broken glass, leading to fatal illness and biodiversity loss.\n(d) **Two Responsible Behaviors:**\n1. **Adopt a 'Leave No Trace' Policy:** Tourists must carry back all their non-biodegradable waste (plastic bottles, wrappers, cans) in their backpacks and dispose of them properly in municipal recycling bins in towns.\n2. **Use Eco-Friendly Alternatives:** Tourists should carry reusable stainless steel water bottles, eco-friendly cloth/jute bags, and avoid purchasing single-use packaged goods in fragile mountain ecosystems.",
+      "answerHi": "(क) अनन्या ने कविता में वर्णित दो भव्य पक्षों को प्रत्यक्ष देखा: (1) भारत माता के चमकते मुकुट के रूप में आकाश को छूती बर्फ से ढकी हिमालय की चोटियाँ, और (2) हरी-भरी घाटियाँ और प्राकृतिक पहाड़ी झरने जो आगे चलकर पवित्र नदियों का रूप लेते हैं।\n(ख) कविता में हिमालय को भारत माता के पवित्र मुकुट और रक्षक प्रहरी के रूप में पूजनीय माना गया है। गैर-जिम्मेदाराना पर्यटन इन पवित्र पर्वतीय पारिस्थितिक तंत्रों को कचरे के ढेर में बदलकर, प्राकृतिक सौंदर्य को नष्ट करके और देश की धरोहर के प्रति अनादर दिखाकर इस पवित्रता का घोर उल्लंघन कर रहा है।\n(ग) पहाड़ी झरनों के पास कचरा फेंकने से भारी पारिस्थितिक नुकसान होता है: प्लास्टिक का कचरा शुद्ध झरने के पानी में जहरीले रसायन घोल देता है, जिससे निचले इलाकों में करोड़ों लोगों द्वारा पिया जाने वाला नदी का जल प्रदूषित होता है; इसके अलावा, पहाड़ी वन्यजीव (जैसे हिरण और पक्षी) प्लास्टिक के रैपर खा लेते हैं या टूटे काँच से घायल हो जाते हैं, जिससे उनकी मृत्यु और जैव विविधता का नुकसान होता है।\n(घ) **दो जिम्मेदार आचरण:**\n1. **'नो ट्रेस' (कोई निशान न छोड़ें) नीति अपनाना:** पर्यटकों को अपना सारा गैर-जैविक कचरा (प्लास्टिक की बोतलें, रैपर, डिब्बे) अपने बैग में वापस लाना चाहिए और शहरों में निर्धारित रीसाइक्लिंग डिब्बों में ही फेंकना चाहिए।\n2. **पर्यावरण-अनुकूल विकल्पों का उपयोग:** पर्यटकों को पुन: उपयोग होने वाली स्टील की पानी की बोतलें, कपड़े या जूट के थैले साथ ले जाने चाहिए और संवेदनशील पर्वतीय क्षेत्रों में सिंगल-यूज पैकेज्ड सामान खरीदने से बचना चाहिए।",
+      "keyPoints": [
+        "बर्फीले हिमालय मुकुट और हरी घाटियों का प्रत्यक्ष दर्शन (Direct witness of snowy Himalayan crown and green valleys)",
+        "कचरा फेंककर हिमालय की पवित्रता और प्राकृतिक सौंदर्य का अनादर (Disrespecting Himalayan sanctity and beauty by littering garbage)",
+        "झरनों के प्रदूषण से निचले इलाकों का पेयजल जहरीला और वन्यजीवों की मृत्यु (Pollution of streams poisoning downstream drinking water and killing wildlife)",
+        "अपना कचरा वापस लाना और पुन: उपयोग होने वाली स्टील बोतलों का उपयोग (Carrying back waste and using reusable stainless steel water bottles)"
+      ]
+    },
+    {
+      "id": "q29",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "How can the teachings and spirit of the poem 'Matribhumi' inspire youth to build a progressive, self-reliant, and harmonious India (Aatmanirbhar Bharat)?",
+      "questionHi": "'मातृभूमि' कविता की शिक्षाएँ और भावना युवाओं को एक प्रगतिशील, आत्मनिर्भर और समरस भारत (आत्मनिर्भर भारत) के निर्माण के लिए किस प्रकार प्रेरित कर सकती हैं?",
+      "answer": "The spirit of 'Matribhumi' serves as a powerful philosophical pillar for youth to build an Aatmanirbhar (self-reliant) and harmonious India:\n1. **Harnessing 'Ratnagarbha' through Innovation:** Recognizing that our Motherland is rich in minerals, agriculture, and human talent inspires youth to pursue advanced science, sustainable technology, and entrepreneurship. By processing our own resources natively without ecological degradation, youth can make India economically self-reliant.\n2. **Dignity of Labor & Agricultural Modernization:** Inspired by the poem's praise of green fields, young innovators can develop agri-tech solutions, organic farming methods, and fair irrigation systems to support farmers, ensuring food security and rural prosperity.\n3. **Social Harmony & National Integration:** The poem teaches that all rivers, mountains, and plains belong equally to Mother India. This inspires youth to completely reject caste, communal, linguistic, and regional prejudices, working unitedly as one inclusive brotherhood for national development.\n4. **Ethical Leadership & Moral Integrity:** Drawing strength from the unshakeable Himalayas and the wisdom of ancient sages, youth are inspired to practice intellectual honesty, eliminate corruption, and lead lifestyle habits that protect public wealth and environmental integrity.",
+      "answerHi": "'मातृभूमि' कविता की भावना युवाओं के लिए एक आत्मनिर्भर, प्रगतिशील और समरस भारत के निर्माण हेतु एक शक्तिशाली दार्शनिक आधार का काम करती है:\n1. **नवाचार द्वारा 'रत्नगर्भा' का सदुपयोग:** यह पहचानना कि हमारी मातृभूमि खनिज, कृषि और मानव प्रतिभा से भरपूर है, युवाओं को उन्नत विज्ञान, टिकाऊ तकनीक और उद्यमिता (entrepreneurship) अपनाने के लिए प्रेरित करता है। पर्यावरण को नुकसान पहुँचाए बिना अपने संसाधनों का स्वदेशी प्रसंस्करण करके युवा भारत को आर्थिक रूप से आत्मनिर्भर बना सकते हैं।\n2. **श्रम का सम्मान और कृषि आधुनिकीकरण:** कविता में हरे-भरे खेतों की प्रशंसा से प्रेरित होकर, युवा नवोन्मेषक (innovators) किसानों की सहायता के लिए एग्री-टेक समाधान, जैविक खेती और बेहतर सिंचाई प्रणालियाँ विकसित कर सकते हैं, जिससे ग्रामीण समृद्धि और खाद्यान्न सुरक्षा सुनिश्चित हो।\n3. **सामाजिक समरसता और राष्ट्रीय एकीकरण:** कविता सिखाती है कि सभी नदियाँ, पर्वत और मैदान भारत माता के समान अंग हैं। यह युवाओं को जाति, संप्रदाय, भाषा और क्षेत्र के सभी भेदभावों को पूरी तरह त्यागकर राष्ट्र निर्माण के लिए एक समावेशी भाईचारे के रूप में एकजुट होकर कार्य करने की प्रेरणा देता है।\n4. **नैतिक नेतृत्व और ईमानदारी:** अचल हिमालय और प्राचीन ऋषियों के ज्ञान से शक्ति प्राप्त कर युवा ईमानदारी अपनाने, भ्रष्टाचार को समाप्त करने और सार्वजनिक संपत्ति तथा पर्यावरण की रक्षा करने वाले जीवनमूल्यों का नेतृत्व करने के लिए प्रेरित होते हैं।",
+      "keyPoints": [
+        "स्वदेशी नवाचार और तकनीक द्वारा 'रत्नगर्भा' संपदा का टिकाऊ उपयोग कर आत्मनिर्भरता (Self-reliance through sustainable use of Ratnagarbha wealth via indigenous innovation)",
+        "एग्री-टेक और जैविक खेती द्वारा किसानों का सशक्तिकरण और ग्रामीण समृद्धि (Empowering farmers and rural prosperity through agri-tech and organic farming)",
+        "जाति, भाषा और संप्रदाय के भेदभाव त्यागकर अटूट सामाजिक समरसता और एकता (Unbreakable social harmony and unity by rejecting caste, linguistic, and communal biases)",
+        "हिमालय जैसी नैतिक दृढ़ता और ईमानदारी से देश का प्रगतिशील नेतृत्व (Progressive leadership of the nation with moral firmness and honesty like the Himalayas)"
+      ]
+    },
+    {
+      "id": "q30",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "Compare and contrast the portrayal of nature in the poem 'Matribhumi' with the modern scientific perspective on environmental conservation.",
+      "questionHi": "कविता 'मातृभूमि' में प्रकृति के चित्रण और पर्यावरण संरक्षण के आधुनिक वैज्ञानिक दृष्टिकोण (modern scientific perspective) के बीच समानता और अंतर की तुलना कीजिए।",
+      "answer": "A comparison between the poetic portrayal in 'Matribhumi' and modern scientific conservation reveals deep alignment with distinct approaches:\n1. **Similarities (समानताएँ - Shared Goals):**\n   - **Interdependence:** Both perspectives recognize that human survival is completely dependent on natural ecosystems. The poem views rivers and forests as maternal providers of life, while modern science proves that forests act as carbon sinks and rivers maintain the hydrological cycle essential for agriculture.\n   - **Protection & Respect:** Both advocate strongly for the preservation of natural resources. While the poem calls for protection out of filial love and reverence for Mother India, science calls for conservation to prevent climate change, biodiversity loss, and ecological collapse.\n2. **Differences (अंतर - Approach & Language):**\n   - **Emotional/Spiritual vs. Empirical/Analytical:** The poem uses emotional, anthropomorphic language—personifying the Himalayas as a crown, oceans as washing feet, and earth as a caring mother ('Ratnagarbha'). In contrast, modern science uses empirical data, statistical models, and biochemical analysis (measuring air quality indices, BOD levels in rivers, and forest canopy cover percentage).\n3. **Synthesis (समन्वय - The Best Way Forward):** Combining both perspectives is the most powerful way to achieve conservation. Scientific data provides the technical tools and methods to clean rivers and plant forests, while the poem's spiritual reverence provides the emotional motivation and moral discipline required for citizens to adopt sustainable lifestyles.",
+      "answerHi": "'मातृभूमि' में प्रकृति के काव्यगत चित्रण और आधुनिक वैज्ञानिक संरक्षण के बीच तुलना करने पर स्पष्ट होता है कि दोनों के लक्ष्य समान हैं परंतु दृष्टिकोण भिन्न हैं:\n1. **समानताएँ (Shared Goals):**\n   - **अनियोन्याश्रयता (Interdependence):** दोनों दृष्टिकोण यह स्वीकार करते हैं कि मानव का अस्तित्व पूरी तरह से प्राकृतिक पारिस्थितिक तंत्र पर निर्भर है। कविता नदियों और वनों को जीवन देने वाली माता मानती है, जबकि आधुनिक विज्ञान सिद्ध करता है कि वन कार्बन सिंक (carbon sinks) का काम करते हैं और नदियाँ कृषि के लिए आवश्यक जल-चक्र बनाए रखती हैं।\n   - **संरक्षण और आदर:** दोनों प्राकृतिक संसाधनों की सुरक्षा की जोरदार वकालत करते हैं। जहाँ कविता भारत माता के प्रति प्रेम और श्रद्धा के कारण रक्षा का आह्वान करती है, वहीं विज्ञान जलवायु परिवर्तन, जैव विविधता के क्षरण और पारिस्थितिक संकट से बचने के लिए संरक्षण की मांग करता है।\n2. **अंतर (Approach & Language):**\n   - **भावनात्मक/आध्यात्मिक vs. तथ्यात्मक/विश्लेषणात्मक:** कविता भावनात्मक और मानवीकरण भाषा का प्रयोग करती है—हिमालय को मुकुट, सागर को चरण धोने वाला और धरती को स्नेहमयी माता ('रत्नगर्भा') बताती है। इसके विपरीत, आधुनिक विज्ञान तथ्यात्मक आंकड़ों, सांख्यिकीय मॉडलों और जैव-रासायनिक विश्लेषण (वायु गुणवत्ता सूचकांक, नदियों में BOD स्तर और वन आवरण प्रतिशत) का उपयोग करता है।\n3. **समन्वय (Synthesis - सर्वश्रेष्ठ मार्ग):** दोनों दृष्टिकोणों को मिलाना पर्यावरण संरक्षण का सबसे प्रभावी उपाय है। वैज्ञानिक आंकड़े नदियों को साफ करने और वन लगाने के तकनीकी साधन प्रदान करते हैं, जबकि कविता की आध्यात्मिक श्रद्धा नागरिकों को टिकाऊ जीवनशैली अपनाने के लिए आवश्यक भावनात्मक प्रेरणा और नैतिक अनुशासन देती है।",
+      "keyPoints": [
+        "दोनों दृष्टिकोण मानते हैं कि मानव जीवन वनों, नदियों और उपजाऊ मिट्टी पर पूर्णत: निर्भर है (Both views agree human life depends entirely on forests, rivers, and fertile soil)",
+        "कविता भावनात्मक श्रद्धा से रक्षा सिखाती है, विज्ञान जलवायु संकट से बचने के लिए (Poem teaches protection via emotional reverence; science to avert climate crisis)",
+        "काव्यगत मानवीकरण vs. वैज्ञानिक आंकड़े और जैव-रासायनिक विश्लेषण (Poetic personification vs. scientific data and biochemical analysis)",
+        "तकनीकी विज्ञान और आध्यात्मिक श्रद्धा का समन्वय ही पर्यावरण संरक्षण का सर्वोत्तम मार्ग (Synthesis of technical science and spiritual reverence is the best path to conservation)"
+      ]
+    }
+  ]
+}
