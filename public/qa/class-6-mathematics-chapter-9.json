@@ -1,0 +1,456 @@
+{
+  "chapterTitle": "Symmetry",
+  "chapterTitleHi": "सममिति",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Define 'symmetry' in mathematics. What is a line of symmetry (or axis of symmetry)? Give one real-life example of a symmetrical object from nature.",
+      "questionHi": "गणित में 'सममिति' (Symmetry) को परिभाषित कीजिए। सममिति रेखा (Line of Symmetry या सममिति अक्ष) क्या होती है? प्रकृति से सममित वस्तु का एक वास्तविक उदाहरण दीजिए।",
+      "answer": "Symmetry refers to a balanced and proportionate similarity found in two halves of an object. An object is said to be symmetrical if it can be divided into two identical halves that match exactly when folded along a straight line. This dividing line is called the 'line of symmetry' or 'axis of symmetry' (or mirror line). In nature, a butterfly is a beautiful example of bilateral symmetry; if we draw a vertical line down the center of its body, the left wing and right wing are exact mirror images of each other.",
+      "answerHi": "सममिति (Symmetry) का अर्थ किसी वस्तु के दो भागों में पाई जाने वाली संतुलित और आनुपातिक समानता से है। यदि किसी वस्तु को एक सीधी रेखा के अनुदिश मोड़ने पर उसके दोनों भाग एक-दूसरे को पूरी तरह ढक लें (सटीक मेल खाएँ), तो वस्तु को सममित कहा जाता है। इस विभाजन रेखा को 'सममिति रेखा' (Line of Symmetry) या सममिति अक्ष (दर्पण रेखा) कहते हैं। प्रकृति में तितली (Butterfly) द्विपार्श्व सममिति का एक सुंदर उदाहरण है; यदि हम इसके शरीर के बीचोंबीच एक ऊर्ध्वाधर रेखा खींचें, तो बायाँ पंख और दायाँ पंख एक-दूसरे के सटीक दर्पण प्रतिबिंब होते हैं।",
+      "keyPoints": [
+        "वस्तु के दो समान और संतुलित भागों में विभाजित होने का गुण (Property of an object being divided into two balanced, identical halves)",
+        "सममिति रेखा मोड़ने पर दोनों भागों को संपाती बनाती है (Line of symmetry makes both halves overlap exactly when folded)",
+        "प्राकृतिक उदाहरण: तितली के पंख, पेड़ का पत्ता, मानव चेहरा (Natural examples: butterfly wings, tree leaf, human face)"
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Can a geometrical figure or object have more than one line of symmetry? Explain with a suitable example.",
+      "questionHi": "क्या किसी ज्यामितीय आकृति या वस्तु में एक से अधिक सममिति रेखाएँ हो सकती हैं? एक उपयुक्त उदाहरण के साथ समझाइए।",
+      "answer": "Yes, a geometrical figure or object can definitely have more than one line of symmetry. Depending on its shape, a figure can have one, two, three, four, multiple, or even an infinite number of lines of symmetry. For example, a rectangle has exactly two lines of symmetry (one horizontal and one vertical connecting the midpoints of opposite sides). Similarly, an equilateral triangle has three lines of symmetry, and a square has four lines of symmetry.",
+      "answerHi": "हाँ, किसी ज्यामितीय आकृति या वस्तु में निश्चित रूप से एक से अधिक सममिति रेखाएँ हो सकती हैं। आकृति की बनावट के आधार पर उसमें एक, दो, तीन, चार, अनेक या अनंत सममिति रेखाएँ हो सकती हैं। उदाहरण के लिए, एक आयत (Rectangle) में ठीक दो सममिति रेखाएँ होती हैं (एक क्षैतिज और एक ऊर्ध्वाधर जो सम्मुख भुजाओं के मध्य बिंदुओं को जोड़ती हैं)। इसी प्रकार, समबाहु त्रिभुज में तीन और वर्ग में चार सममिति रेखाएँ होती हैं।",
+      "keyPoints": [
+        "आकृति में एक, दो या अनेक सममिति रेखाएँ हो सकती हैं (A figure can have one, two, or multiple lines of symmetry)",
+        "आयत में 2 सममिति रेखाएँ होती हैं (A rectangle has exactly 2 lines of symmetry)",
+        "वर्ग में 4 और समबाहु त्रिभुज में 3 सममिति रेखाएँ होती हैं (A square has 4 and an equilateral triangle has 3 lines of symmetry)"
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "How many lines of symmetry does a rectangle have? Why are the diagonals of a rectangle NOT considered as its lines of symmetry?",
+      "questionHi": "एक आयत (Rectangle) में कितनी सममिति रेखाएँ होती हैं? आयत के विकर्णों (Diagonals) को उसकी सममिति रेखाएँ क्यों नहीं माना जाता है?",
+      "answer": "A rectangle has exactly two lines of symmetry: one vertical line passing through the midpoints of its horizontal lengths, and one horizontal line passing through the midpoints of its vertical breadths. The diagonals of a rectangle are NOT lines of symmetry because when a rectangle is folded along one of its diagonals, the opposite corners (vertices) do not coincide or overlap with each other; instead, they stick out on opposite sides.",
+      "answerHi": "एक आयत में ठीक दो सममिति रेखाएँ होती हैं: एक ऊर्ध्वाधर रेखा जो उसकी लंबाई के मध्य बिंदुओं से होकर जाती है, और एक क्षैतिज रेखा जो उसकी चौड़ाई के मध्य बिंदुओं से होकर जाती है। आयत के विकर्ण (Diagonals) उसकी सममिति रेखाएँ नहीं होते हैं क्योंकि जब किसी आयत को उसके विकर्ण के अनुदिश मोड़ा जाता है, तो सम्मुख कोने (शीर्ष) एक-दूसरे के ऊपर संपाती नहीं होते (पूरी तरह नहीं ढकते), बल्कि बाहर की ओर निकल जाते हैं।",
+      "keyPoints": [
+        "आयत में केवल 2 सममिति रेखाएँ होती हैं (Rectangle has exactly 2 lines of symmetry: horizontal and vertical)",
+        "विकर्ण के अनुदिश मोड़ने पर कोने एक-दूसरे को नहीं ढकते (Folding along diagonal does not make opposite corners overlap)",
+        "विकर्ण सममिति रेखाएँ नहीं हैं (Diagonals are NOT lines of symmetry in a rectangle)"
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "How many lines of symmetry does a square have? List all of them. Why does a square have more lines of symmetry than a rectangle?",
+      "questionHi": "एक वर्ग (Square) में कितनी सममिति रेखाएँ होती हैं? उन सभी के नाम लिखिए। एक वर्ग में आयत की तुलना में अधिक सममिति रेखाएँ क्यों होती हैं?",
+      "answer": "A square has exactly four lines of symmetry: 1. One vertical line passing through the midpoints of top and bottom sides. 2. One horizontal line passing through the midpoints of left and right sides. 3. Two diagonal lines connecting the opposite vertices (corners). A square has more lines of symmetry than a rectangle because a square is a regular quadrilateral with all four sides equal in length ($a = b$), allowing diagonal folding to overlap perfectly, whereas in a rectangle, length and breadth are different ($l \\neq b$).",
+      "answerHi": "एक वर्ग में ठीक चार सममिति रेखाएँ होती हैं: 1. ऊपरी और निचली भुजाओं के मध्य बिंदुओं से गुजरने वाली एक ऊर्ध्वाधर रेखा। 2. बाईं और दाईं भुजाओं के मध्य बिंदुओं से गुजरने वाली एक क्षैतिज रेखा। 3. सम्मुख शीर्षों (कोनों) को मिलाने वाली दो विकर्ण रेखाएँ। वर्ग में आयत से अधिक सममिति रेखाएँ इसलिए होती हैं क्योंकि वर्ग एक सम चतुर्भुज है जिसकी चारों भुजाएँ समान लंबाई की होती हैं ($a = b$), जिससे विकर्ण पर मोड़ने से कोने पूरी तरह ढक जाते हैं, जबकि आयत में लंबाई और चौड़ाई अलग-अलग होती हैं ($l \\neq b$)।",
+      "keyPoints": [
+        "वर्ग में कुल 4 सममिति रेखाएँ होती हैं (Square has exactly 4 lines of symmetry)",
+        "2 मध्य बिंदु रेखाएँ और 2 विकर्ण रेखाएँ (2 lines through midpoints of sides and 2 diagonal lines)",
+        "चारों भुजाएँ समान होने के कारण विकर्ण भी सममिति रेखाएँ होते हैं (Equal side lengths make diagonals lines of symmetry as well)"
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What is reflection symmetry (or mirror symmetry)? When you observe an object in a plane mirror, what are the properties of the image regarding its size and distance from the mirror?",
+      "questionHi": "परावर्तन सममिति (Reflection Symmetry या दर्पण सममिति) क्या है? जब आप समतल दर्पण में किसी वस्तु को देखते हैं, तो आकार और दर्पण से दूरी के संबंध में प्रतिबिंब (Image) के क्या गुण होते हैं?",
+      "answer": "Reflection symmetry (or mirror symmetry) is a type of symmetry where one half of an object or shape is the exact mirror reflection of the other half across a dividing mirror line. Properties of a mirror reflection: 1. Size: The reflection (image) is of the exact same size and shape as the original object (there is no magnification or reduction). 2. Distance: The perpendicular distance of any point on the object from the mirror line is exactly equal to the perpendicular distance of its corresponding reflected point behind the mirror line.",
+      "answerHi": "परावर्तन सममिति (या दर्पण सममिति) वह सममिति है जिसमें किसी वस्तु या आकृति का एक भाग दर्पण रेखा (Mirror Line) के दूसरी ओर वाले भाग का सटीक दर्पण प्रतिबिंब होता है। समतल दर्पण में प्रतिबिंब के गुण: 1. आकार (Size): प्रतिबिंब का आकार और आकृति मूल वस्तु के बिल्कुल समान होती है (कोई छोटा या बड़ा नहीं होता)। 2. दूरी (Distance): वस्तु के किसी भी बिंदु की दर्पण रेखा से लंबवत दूरी, दर्पण के पीछे बनने वाले उसके संगत प्रतिबिंब बिंदु की लंबवत दूरी के ठीक बराबर होती है।",
+      "keyPoints": [
+        "दर्पण रेखा के दोनों ओर प्रतिबिंब की समानता (Exact reflection across the dividing mirror line)",
+        "वस्तु और प्रतिबिंब का आकार बिल्कुल समान होता है (Object and image have identical size and shape)",
+        "दर्पण से वस्तु और प्रतिबिंब की लंबवत दूरी समान होती है (Perpendicular distance from mirror to object equals distance to image)"
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "What is 'lateral inversion' in mirror symmetry? Why is the word 'AMBULANCE' written in reverse (mirrored) form on the front of emergency hospital vehicles?",
+      "questionHi": "दर्पण सममिति में 'पार्श्व परिवर्तन' (Lateral Inversion) क्या है? आपातकालीन अस्पताल के वाहनों (Ambulance) के सामने 'AMBULANCE' शब्द उल्टे (दर्पण प्रतिबिंब रूप में) क्यों लिखा जाता है?",
+      "answer": "Lateral inversion is the optical phenomenon in reflection symmetry where the left side of an object appears as the right side in its mirror image, and the right side appears as the left side. The word 'AMBULANCE' is written in reverse (mirrored) form on the front of emergency vehicles so that when drivers of vehicles moving ahead look into their rear-view mirrors, lateral inversion corrects the mirrored text. As a result, the drivers read the word 'AMBULANCE' correctly and clearly, allowing them to yield the right of way immediately.",
+      "answerHi": "पार्श्व परिवर्तन (Lateral Inversion) दर्पण सममिति की वह प्रकाशिक घटना है जिसमें दर्पण प्रतिबिंब में वस्तु का बायाँ भाग दायाँ दिखाई देता है और दायाँ भाग बायाँ दिखाई देता है। आपातकालीन वाहनों के सामने 'AMBULANCE' शब्द उल्टे (दर्पण प्रतिबिंब रूप में) इसलिए लिखा जाता है ताकि जब आगे चल रहे वाहनों के चालक अपने रियर-व्यू मिरर (पीछे देखने वाले शीशे) में देखें, तो पार्श्व परिवर्तन के कारण उन्हें वह शब्द सीधा और सही दिखाई दे। इससे चालक तुरंत 'AMBULANCE' पढ़कर आपातकालीन वाहन को रास्ता दे देते हैं।",
+      "keyPoints": [
+        "दर्पण में बायाँ भाग दायाँ और दायाँ भाग बायाँ दिखाई देना (Left appears right and right appears left in mirror reflection)",
+        "रियर-व्यू मिरर में उल्टा लिखा शब्द सीधा पढ़ा जाता है (Reverse text appears correct when viewed in a rear-view mirror)",
+        "आपातकालीन वाहनों को तुरंत रास्ता देने के लिए वैज्ञानिक अनुप्रयोग (Scientific application to ensure immediate right-of-way for emergency vehicles)"
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "How many lines of symmetry does an equilateral triangle have? Why does an isosceles triangle have only one line of symmetry while a scalene triangle has zero lines of symmetry?",
+      "questionHi": "एक समबाहु त्रिभुज (Equilateral Triangle) में कितनी सममिति रेखाएँ होती हैं? समद्विबाहु त्रिभुज (Isosceles Triangle) में केवल एक सममिति रेखा क्यों होती है जबकि विषमबाहु त्रिभुज (Scalene Triangle) में शून्य (कोई नहीं) होती है?",
+      "answer": "An equilateral triangle has exactly three lines of symmetry (each passing through a vertex and the midpoint of the opposite side). An isosceles triangle has only one line of symmetry (the angle bisector of the vertex between the two equal sides) because only folding along this line makes the two equal sides overlap perfectly. A scalene triangle has zero lines of symmetry because all three sides and angles are of different measurements, meaning no straight line fold can ever make one half overlap the other.",
+      "answerHi": "एक समबाहु त्रिभुज में ठीक तीन सममिति रेखाएँ होती हैं (प्रत्येक रेखा एक शीर्ष और सम्मुख भुजा के मध्य बिंदु से गुजरती है)। समद्विबाहु त्रिभुज में केवल एक सममिति रेखा होती है (दो समान भुजाओं के बीच के शीर्ष का कोण समद्विभाजक) क्योंकि केवल इसी रेखा पर मोड़ने से दोनों समान भुजाएँ एक-दूसरे को पूरी तरह ढकती हैं। विषमबाहु त्रिभुज में शून्य (कोई नहीं) सममिति रेखा होती है क्योंकि इसकी तीनों भुजाएँ और तीनों कोण अलग-अलग माप के होते हैं, जिससे किसी भी रेखा पर मोड़ने से दोनों भाग संपाती नहीं हो सकते।",
+      "keyPoints": [
+        "समबाहु त्रिभुज (तीनों भुजाएँ समान) = 3 सममिति रेखाएँ (Equilateral triangle: 3 equal sides = 3 lines of symmetry)",
+        "समद्विबाहु त्रिभुज (दो भुजाएँ समान) = 1 सममिति रेखा (Isosceles triangle: 2 equal sides = 1 line of symmetry)",
+        "विषमबाहु त्रिभुज (कोई भुजा समान नहीं) = 0 सममिति रेखा (Scalene triangle: 0 equal sides = 0 lines of symmetry)"
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Which capital letters of the English alphabet have exactly one horizontal line of symmetry? Name any five such letters and explain why they are horizontally symmetrical.",
+      "questionHi": "अंग्रेजी वर्णमाला के किन बड़े अक्षरों (Capital Letters) में ठीक एक क्षैतिज सममिति रेखा (Horizontal Line of Symmetry) होती है? ऐसे किन्हीं पाँच अक्षरों के नाम लिखिए और समझाइए कि वे क्षैतिज रूप से सममित क्यों हैं।",
+      "answer": "The capital letters of the English alphabet that have exactly one horizontal line of symmetry are: B, C, D, E, and K. These letters are horizontally symmetrical because if we draw a straight horizontal line right across their middle from left to right, the top half of the letter is an exact mirror reflection of the bottom half when folded along that line.",
+      "answerHi": "अंग्रेजी वर्णमाला के वे बड़े अक्षर जिनमें ठीक एक क्षैतिज सममिति रेखा होती है, वे हैं: B, C, D, E और K। ये अक्षर क्षैतिज रूप से सममित इसलिए हैं क्योंकि यदि हम इनके बीचोंबीच से बाएँ से दाएँ एक क्षैतिज सीधी रेखा खींचें, तो उस रेखा पर मोड़ने पर अक्षर का ऊपरी आधा भाग निचले आधे भाग का सटीक दर्पण प्रतिबिंब बनता है और उसे पूरी तरह ढक लेता है।",
+      "keyPoints": [
+        "पाँच प्रमुख अक्षर: B, C, D, E, K (Five primary letters: B, C, D, E, K)",
+        "मध्य में क्षैतिज रेखा खींचने पर ऊपरी भाग निचले भाग को ढकता है (Horizontal middle line divides letter into identical top and bottom halves)",
+        "ऊपरी और निचला भाग एक-दूसरे के दर्पण प्रतिबिंब होते हैं (Top and bottom halves are exact mirror reflections)"
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Which capital letters of the English alphabet have exactly one vertical line of symmetry? Name any five such letters and explain where their line of symmetry lies.",
+      "questionHi": "अंग्रेजी वर्णमाला के किन बड़े अक्षरों में ठीक एक ऊर्ध्वाधर सममिति रेखा (Vertical Line of Symmetry) होती है? ऐसे किन्हीं पाँच अक्षरों के नाम लिखिए और बताइए कि उनकी सममिति रेखा कहाँ स्थित होती है।",
+      "answer": "The capital letters of the English alphabet that have exactly one vertical line of symmetry are: A, M, T, U, V, W, and Y. Their vertical line of symmetry lies running straight down through the exact vertical center of the letter from top to bottom. When folded along this vertical line, the left half of the letter coincides perfectly with its right half.",
+      "answerHi": "अंग्रेजी वर्णमाला के वे बड़े अक्षर जिनमें ठीक एक ऊर्ध्वाधर सममिति रेखा होती है, वे हैं: A, M, T, U, V, W और Y। इनकी ऊर्ध्वाधर सममिति रेखा अक्षर के ठीक बीचोंबीच ऊपर से नीचे की ओर सीधी जाती है। जब इस ऊर्ध्वाधर रेखा के अनुदिश मोड़ा जाता है, तो अक्षर का बायाँ आधा भाग उसके दाएँ आधे भाग को पूरी तरह ढक लेता है (संपाती हो जाता है)।",
+      "keyPoints": [
+        "पाँच प्रमुख अक्षर: A, M, T, U, V (या W, Y) (Five primary letters: A, M, T, U, V, W, Y)",
+        "ऊपर से नीचे जाने वाली मध्य ऊर्ध्वाधर रेखा (Vertical line running straight down the exact center)",
+        "बायाँ और दायाँ भाग एक-दूसरे के पूर्ण दर्पण प्रतिबिंब (Left and right halves are exact mirror images)"
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What is an 'ink-blot devil' or ink-blot symmetrical pattern? Explain how simple paper folding and drops of ink can be used to create symmetrical figures.",
+      "questionHi": "'इंक-ब्लॉट डेविल' (Ink-blot Devil) या स्याही के धब्बे का सममित पैटर्न क्या होता है? समझाइए कि कागज मोड़ने और स्याही की बूंदों का उपयोग करके सममित आकृतियाँ कैसे बनाई जा सकती हैं।",
+      "answer": "An ink-blot symmetrical pattern is a fascinating symmetrical design created by putting drops of ink on a piece of paper and folding it. Procedure: 1. Take a piece of paper and fold it in half along a straight crease. 2. Unfold the paper and put a few drops of liquid ink or color paint on one side of the crease line. 3. Fold the paper again along the same crease and press it firmly with your hand. 4. When you unfold the paper, the ink spreads identically on both sides of the fold, creating a beautiful, balanced symmetrical figure (often looking like a butterfly or monster face). The crease line serves as the exact line of symmetry.",
+      "answerHi": "स्याही के धब्बे का सममित पैटर्न (Ink-blot Pattern) कागज पर स्याही की बूंदें डालकर और उसे मोड़कर बनाया गया एक आकर्षक सममित डिज़ाइन होता है। विधि: 1. कागज का एक टुकड़ा लीजिए और उसे बीच से मोड़कर एक सीधी क्रीज (मोड़ रेखा) बनाइए। 2. कागज को खोलिए और क्रीज रेखा के एक तरफ तरल स्याही या रंग की कुछ बूंदें डालिए। 3. कागज को उसी क्रीज पर दोबारा मोड़िए और हाथ से मजबूती से दबाइए। 4. जब आप कागज को खोलते हैं, तो स्याही मोड़ के दोनों ओर समान रूप से फैल जाती है, जिससे एक सुंदर और संतुलित सममित आकृति (जो अक्सर तितली या राक्षस के चेहरे जैसी लगती है) बन जाती है। यह क्रीज रेखा ठीक सममिति रेखा (Line of Symmetry) का काम करती है।",
+      "keyPoints": [
+        "कागज के मोड़ (क्रीज) के एक ओर स्याही डालना (Put ink drops on one side of a folded paper crease)",
+        "मोड़कर दबाने से दोनों ओर समान डिज़ाइन बनता है (Pressing the fold spreads ink identically on both sides)",
+        "क्रीज रेखा आकृति की सममिति अक्ष (दर्पण रेखा) बनती है (The fold crease becomes the exact axis of symmetry / mirror line)"
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "How many lines of symmetry do a regular pentagon and a regular hexagon have? State the general rule linking the number of sides of a regular polygon to its number of lines of symmetry.",
+      "questionHi": "एक सम पंचभुज (Regular Pentagon) और एक सम षट्भुज (Regular Hexagon) में कितनी सममिति रेखाएँ होती हैं? किसी सम बहुभुज (Regular Polygon) की भुजाओं की संख्या और उसकी सममिति रेखाओं की संख्या के बीच संबंध बताने वाला सामान्य नियम लिखिए।",
+      "answer": "A regular pentagon (5 equal sides and angles) has exactly 5 lines of symmetry (each line passes through a vertex and the midpoint of the opposite side). A regular hexagon (6 equal sides and angles) has exactly 6 lines of symmetry (3 passing through opposite vertices, and 3 passing through midpoints of opposite sides). General Rule: Any regular polygon of 'n' sides has exactly 'n' lines of symmetry. Therefore, the number of lines of symmetry in a regular polygon is always equal to its number of sides.",
+      "answerHi": "एक सम पंचभुज (5 समान भुजाएँ और कोण) में ठीक 5 सममिति रेखाएँ होती हैं (प्रत्येक रेखा एक शीर्ष और सम्मुख भुजा के मध्य बिंदु से गुजरती है)। एक सम षट्भुज (6 समान भुजाएँ और कोण) में ठीक 6 सममिति रेखाएँ होती हैं (3 सम्मुख शीर्षों से और 3 सम्मुख भुजाओं के मध्य बिंदुओं से गुजरती हैं)। सामान्य नियम: 'n' भुजाओं वाले किसी भी सम बहुभुज (Regular Polygon) में ठीक 'n' सममिति रेखाएँ होती हैं। अतः किसी सम बहुभुज में सममिति रेखाओं की संख्या सदैव उसकी भुजाओं की संख्या के बराबर होती है।",
+      "keyPoints": [
+        "सम पंचभुज = 5 सममिति रेखाएँ (Regular pentagon = 5 lines of symmetry)",
+        "सम षट्भुज = 6 सममिति रेखाएँ (Regular hexagon = 6 lines of symmetry)",
+        "सामान्य नियम: n भुजाओं वाले सम बहुभुज में n सममिति रेखाएँ होती हैं (General rule: a regular polygon of 'n' sides has exactly 'n' lines of symmetry)"
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Classify the following capital letters of the English alphabet based on their lines of symmetry: A, H, M, O, X, Z. Group them into letters having vertical symmetry, horizontal symmetry, both, or no line of symmetry.",
+      "questionHi": "अंग्रेजी वर्णमाला के निम्नलिखित बड़े अक्षरों को उनकी सममिति रेखाओं के आधार पर वर्गीकृत कीजिए: A, H, M, O, X, Z। उन्हें ऊर्ध्वाधर सममिति, क्षैतिज सममिति, दोनों, या कोई सममिति नहीं वाले समूहों में बाँटिए।",
+      "answer": "Classification of given letters based on symmetry: 1. Only Vertical Line of Symmetry: A, M (folding vertically matches left and right halves). 2. Only Horizontal Line of Symmetry: None from the given list (letters like B, C, D, E belong here). 3. Both Vertical and Horizontal Lines of Symmetry: H, O, X (these letters can be folded both vertically down the center and horizontally across the middle to produce exact overlapping halves). 4. No Line of Symmetry (Asymmetrical): Z (if folded vertically, horizontally, or diagonally, the parts of Z do not coincide or overlap).",
+      "answerHi": "दी गई सममिति रेखाओं के आधार पर अक्षरों का वर्गीकरण: 1. केवल ऊर्ध्वाधर सममिति रेखा वाले अक्षर: A, M (ऊर्ध्वाधर मोड़ने पर बायाँ और दायाँ भाग ढक लेते हैं)। 2. केवल क्षैतिज सममिति रेखा वाले अक्षर: दी गई सूची में कोई नहीं (B, C, D, E इस समूह में आते हैं)। 3. ऊर्ध्वाधर और क्षैतिज दोनों सममिति रेखाओं वाले अक्षर: H, O, X (इन अक्षरों को बीच से ऊपर-नीचे या बाएँ-दाएँ दोनों तरफ मोड़ने पर समान भाग प्राप्त होते हैं)। 4. कोई सममिति रेखा नहीं (असममित): Z (यदि Z को ऊर्ध्वाधर, क्षैतिज या विकर्ण पर मोड़ा जाए, तो इसके भाग एक-दूसरे को नहीं ढकते)।",
+      "keyPoints": [
+        "केवल ऊर्ध्वाधर सममिति: A, M (Only vertical line of symmetry: A, M)",
+        "ऊर्ध्वाधर और क्षैतिज दोनों सममिति: H, O, X (Both vertical and horizontal lines of symmetry: H, O, X)",
+        "कोई सममिति रेखा नहीं (असममित): Z (No line of symmetry / asymmetrical: Z)"
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Why does a circle have an infinite number of lines of symmetry? What special line of a circle serves as its line of symmetry?",
+      "questionHi": "एक वृत्त (Circle) में अनंत (Infinite) सममिति रेखाएँ क्यों होती हैं? वृत्त की कौन-सी विशेष रेखा उसकी सममिति रेखा का कार्य करती है?",
+      "answer": "A circle is a perfectly symmetrical geometrical figure where every point on the boundary is at an equal distance (radius) from the center. Any straight line that passes through the center of a circle is called a diameter. When a circle is folded along ANY of its diameters, the two semicircular halves overlap and match each other perfectly. Since an infinite number of diameters can be drawn passing through the center of a circle, a circle has an infinite (countless) number of lines of symmetry. Every diameter of a circle is its line of symmetry.",
+      "answerHi": "वृत्त एक पूर्णतः सममित ज्यामितीय आकृति है जिसके परिधि का प्रत्येक बिंदु केंद्र से समान दूरी (त्रिज्या) पर होता है। वृत्त के केंद्र से होकर गुजरने वाली कोई भी सीधी रेखा व्यास (Diameter) कहलाती है। जब किसी वृत्त को उसके किसी भी व्यास के अनुदिश मोड़ा जाता है, तो दोनों अर्धवृत्ताकार भाग एक-दूसरे को पूरी तरह ढक लेते हैं (संपाती होते हैं)। चूँकि किसी वृत्त के केंद्र से होकर अनंत (अनगिनत) व्यास खींचे जा सकते हैं, इसलिए एक वृत्त में अनंत सममिति रेखाएँ होती हैं। वृत्त का प्रत्येक व्यास ही उसकी सममिति रेखा होता है।",
+      "keyPoints": [
+        "वृत्त का प्रत्येक व्यास उसकी सममिति रेखा होता है (Every diameter of a circle is its line of symmetry)",
+        "केंद्र से होकर अनंत व्यास खींचे जा सकते हैं (An infinite number of diameters can be drawn through the center)",
+        "वृत्त में सममिति रेखाओं की संख्या अनंत (Infinite) होती है (A circle has an infinite number of lines of symmetry)"
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "How many lines of symmetry does a rhombus have? Along which parts of the rhombus do these lines lie? Why are the diagonals of a rhombus lines of symmetry while for a rectangle they are not?",
+      "questionHi": "एक समचतुर्भुज (Rhombus) में कितनी सममिति रेखाएँ होती हैं? ये रेखाएँ समचतुर्भुज के किन भागों के अनुदिश स्थित होती हैं? समचतुर्भुज के विकर्ण उसकी सममिति रेखाएँ क्यों होते हैं जबकि आयत के विकर्ण नहीं होते?",
+      "answer": "A rhombus has exactly two lines of symmetry, and these lines lie along its two diagonals ($d_1$ and $d_2$). The diagonals of a rhombus ARE lines of symmetry because a rhombus has all four sides equal in length ($AB = BC = CD = DA$) and its diagonals bisect each other at right angles (90°). When folded along any diagonal, the equal adjacent sides fold over and overlap perfectly. In contrast, in a rectangle, adjacent sides are unequal ($length \\neq breadth$), so folding along a diagonal causes the sides to point in different directions without overlapping.",
+      "answerHi": "एक समचतुर्भुज (Rhombus) में ठीक दो सममिति रेखाएँ होती हैं, और ये रेखाएँ उसके दोनों विकर्णों ($d_1$ और $d_2$) के अनुदिश स्थित होती हैं। समचतुर्भुज के विकर्ण उसकी सममिति रेखाएँ इसलिए होते हैं क्योंकि समचतुर्भुज की चारों भुजाएँ लंबाई में बराबर होती हैं ($AB = BC = CD = DA$) और इसके विकर्ण एक-दूसरे को समकोण (90°) पर समद्विभाजित करते हैं। किसी भी विकर्ण पर मोड़ने से समान आसन्न भुजाएँ एक-दूसरे को पूरी तरह ढक लेती हैं। इसके विपरीत, आयत में आसन्न भुजाएँ असमान (लंबाई $\\neq$ चौड़ाई) होती हैं, जिससे विकर्ण पर मोड़ने पर भुजाएँ बिना ढके अलग दिशाओं में निकल जाती हैं।",
+      "keyPoints": [
+        "समचतुर्भुज में ठीक 2 सममिति रेखाएँ होती हैं (Rhombus has exactly 2 lines of symmetry)",
+        "दोनों विकर्ण ही समचतुर्भुज की सममिति रेखाएँ होते हैं (The two diagonals themselves are the lines of symmetry of a rhombus)",
+        "चारों भुजाएँ समान होने और विकर्णों के 90° पर कटने के कारण विकर्ण सममित होते हैं (Equal side lengths and perpendicular diagonals ensure perfect diagonal symmetry)"
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Easy",
+      "question": "What is the fundamental difference between a symmetrical figure and an asymmetrical figure? Give two concrete examples of asymmetrical objects or shapes from everyday life.",
+      "questionHi": "सममित आकृति (Symmetrical Figure) और असममित आकृति (Asymmetrical Figure) में क्या मूल अंतर है? दैनिक जीवन से असममित वस्तुओं या आकृतियों के दो ठोस उदाहरण दीजिए।",
+      "answer": "A symmetrical figure is one that can be divided by a straight line into two identical halves that are exact mirror reflections of each other and overlap perfectly when folded. An asymmetrical figure is one that cannot be divided by any straight line into two identical mirror halves; no matter where a line is drawn, the two parts look different and do not coincide when folded. Two everyday examples of asymmetrical objects are: 1. A typical human hand or foot (if you draw a line down the middle of your hand, the thumb side is completely different from the little finger side). 2. A teapot with a handle on one side and a pouring spout on the opposite side.",
+      "answerHi": "सममित आकृति वह होती है जिसे एक सीधी रेखा द्वारा दो ऐसे समान भागों में बाँटा जा सकता है जो एक-दूसरे के सटीक दर्पण प्रतिबिंब होते हैं और मोड़ने पर पूरी तरह ढक लेते हैं। असममित आकृति (Asymmetrical Figure) वह होती है जिसे किसी भी सीधी रेखा द्वारा दो समान दर्पण भागों में नहीं बाँटा जा सकता; चाहे रेखा कहीं भी खींची जाए, दोनों भाग अलग दिखते हैं और मोड़ने पर संपाती नहीं होते। दैनिक जीवन से असममित वस्तुओं के दो उदाहरण हैं: 1. मनुष्य का हाथ या पैर (यदि हाथ के बीच से रेखा खींचें, तो अंगूठे वाला भाग छोटी उंगली वाले भाग से बिल्कुल अलग होता है)। 2. चाय की केतली जिसके एक तरफ हत्था (handle) और दूसरी तरफ टोंटी (spout) होती है।",
+      "keyPoints": [
+        "सममित आकृति: रेखा द्वारा दो समान दर्पण भागों में विभाजन संभव (Symmetrical: can be divided into two identical mirror halves)",
+        "असममित आकृति: किसी भी रेखा से दो समान भागों में विभाजन असंभव (Asymmetrical: cannot be divided into identical mirror halves by any line)",
+        "उदाहरण: मानव हाथ/पैर और चाय की केतली (Examples: human hand/foot and a teapot with handle and spout)"
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Explain the method to complete a symmetrical figure on squared grid paper when one half of the figure and its vertical line of symmetry (mirror line) are given.",
+      "questionHi": "जब वर्गाकार ग्रिड (चेकदार) कागज पर आकृति का एक आधा भाग और उसकी ऊर्ध्वाधर सममिति रेखा (दर्पण रेखा) दी गई हो, तो सममित आकृति को पूरा करने की विधि समझाइए।",
+      "answer": "Method to complete a symmetrical figure on grid paper: 1. Identify the given vertical line of symmetry which acts as the mirror line (say line L). 2. Locate all the key vertices (corners) of the given half-figure on one side of line L. 3. For each vertex, count the exact number of grid squares perpendicularly from the vertex to the mirror line L. 4. Count the exact same number of grid squares away from the mirror line L on the opposite side and mark the corresponding reflected point (image vertex). 5. Join all the newly marked image vertices with straight line segments in the exact same order as the original half. This completes the symmetrical figure across the mirror line L.",
+      "answerHi": "ग्रिड कागज पर सममित आकृति पूरी करने की विधि: 1. दी गई ऊर्ध्वाधर सममिति रेखा को पहचानिए जो दर्पण रेखा (माना रेखा L) का कार्य करती है। 2. रेखा L के एक ओर दी गई आधी आकृति के सभी मुख्य शीर्षों (कोनों) को चिह्नित कीजिए। 3. प्रत्येक शीर्ष के लिए, शीर्ष से दर्पण रेखा L तक लंबवत रूप से ग्रिड के वर्गों (खाने) की सटीक संख्या गिनिए। 4. दर्पण रेखा L के दूसरी ओर ठीक उतनी ही संख्या में वर्गों को गिनकर संगत प्रतिबिंब बिंदु (Image Vertex) अंकित कीजिए। 5. सभी नए अंकित प्रतिबिंब बिंदुओं को उसी क्रम में सीधी रेखाखंडों से मिलाइए जैसे मूल आधे भाग में थे। इससे दर्पण रेखा L के दोनों ओर पूर्ण सममित आकृति तैयार हो जाती है।",
+      "keyPoints": [
+        "सममिति रेखा को दर्पण रेखा (Mirror Line) मानना (Treat the line of symmetry as a reflecting mirror line)",
+        "प्रत्येक शीर्ष की दर्पण रेखा से लंबवत दूरी (खाने) गिनना (Count exact perpendicular grid squares from each vertex to mirror line)",
+        "दूसरी ओर उतनी ही दूरी पर बिंदु लगाकर क्रम से मिलाना (Mark points at equal grid distance on opposite side and join in order)"
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "A rectangular sheet of paper is folded in half along a vertical middle line. While folded, a small circular hole is punched through both layers near the top-right corner. When the sheet is completely unfolded, how many holes will appear, where will they be located, and what is the line of symmetry of the unfolded sheet?",
+      "questionHi": "कागज की एक आयताकार शीट को ऊर्ध्वाधर मध्य रेखा के अनुदिश आधा मोड़ा जाता है। मुड़ी हुई अवस्था में, ऊपरी दाएँ कोने के पास दोनों परतों के आर-पार एक छोटा वृत्ताकार छेद किया जाता है। जब शीट को पूरी तरह खोला जाएगा, तो कितने छेद दिखाई देंगे, वे कहाँ स्थित होंगे, और खुली हुई शीट की सममिति रेखा क्या होगी?",
+      "answer": "When the folded sheet is punched once through both layers and then completely unfolded: 1. Number of holes: Exactly two circular holes will appear on the unfolded paper. 2. Location of holes: One hole will be near the top-right corner (where the punch was made), and the second hole will be near the top-left corner (its exact mirror reflection across the crease). Both holes will be at the exact same horizontal distance from top edge and equal perpendicular distance from the center fold. 3. Line of symmetry: The vertical crease line where the paper was folded serves as the exact line of symmetry of the unfolded sheet with the two holes.",
+      "answerHi": "जब मुड़े हुए कागज में दोनों परतों के आर-पार एक छेद किया जाता है और फिर उसे पूरी तरह खोला जाता है: 1. छेदों की संख्या: खुले हुए कागज पर ठीक दो वृत्ताकार छेद दिखाई देंगे। 2. छेदों का स्थान: एक छेद ऊपरी दाएँ कोने के पास होगा (जहाँ छेद किया गया था), और दूसरा छेद ऊपरी बाएँ कोने के पास होगा (क्रीज के दूसरी ओर उसका सटीक दर्पण प्रतिबिंब)। दोनों छेद ऊपरी किनारे से समान क्षैतिज दूरी पर और मध्य मोड़ से समान लंबवत दूरी पर होंगे। 3. सममिति रेखा: कागज को मोड़ने वाली ऊर्ध्वाधर क्रीज रेखा (Crease Line) ही दोनों छेदों वाले खुले कागज की सटीक सममिति रेखा होगी।",
+      "keyPoints": [
+        "दो परतों में एक छेद करने पर खोलने पर 2 छेद प्राप्त होते हैं (Punching through 2 layers yields exactly 2 holes when unfolded)",
+        "दोनों छेद मध्य मोड़ से समान दूरी पर दाएँ और बाएँ कोनों में होते हैं (Holes appear symmetrically at top-right and top-left corners)",
+        "ऊर्ध्वाधर मोड़ रेखा (क्रीज) ही सममिति अक्ष होती है (The vertical fold crease is the exact axis of symmetry)"
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "How many lines of symmetry does a kite-shaped quadrilateral have? Describe its axis of symmetry. Why does a kite not have two lines of symmetry like a rhombus?",
+      "questionHi": "पतंगाकार चतुर्भुज (Kite-shaped Quadrilateral) में कितनी सममिति रेखाएँ होती हैं? इसकी सममिति अक्ष का वर्णन कीजिए। एक पतंग में समचतुर्भुज की तरह दो सममिति रेखाएँ क्यों नहीं होती हैं?",
+      "answer": "A kite-shaped quadrilateral has exactly ONE line of symmetry. Its axis of symmetry lies along its longer diagonal (the main diagonal that connects the vertices between the pairs of equal adjacent sides). When folded along this main diagonal, the two equal shorter top sides fold over each other, and the two equal longer bottom sides overlap perfectly. A kite does not have two lines of symmetry like a rhombus because its other diagonal connects vertices between unequal sides ($short \\neq long$), so folding along the shorter horizontal diagonal causes unequal sides to mismatch completely.",
+      "answerHi": "पतंगाकार चतुर्भुज (Kite) में ठीक एक सममिति रेखा होती है। इसकी सममिति अक्ष इसके बड़े विकर्ण (मुख्य विकर्ण जो समान आसन्न भुजाओं के युग्मों के बीच के शीर्षों को जोड़ता है) के अनुदिश स्थित होती है। जब इस मुख्य विकर्ण पर मोड़ा जाता है, तो ऊपर की दो छोटी समान भुजाएँ एक-दूसरे को ढक लेती हैं और नीचे की दो बड़ी समान भुजाएँ भी संपाती हो जाती हैं। पतंग में समचतुर्भुज की तरह दो सममिति रेखाएँ इसलिए नहीं होती हैं क्योंकि इसका दूसरा (छोटा) विकर्ण असमान भुजाओं के बीच के शीर्षों को जोड़ता है (छोटी $\\neq$ बड़ी), जिससे छोटे क्षैतिज विकर्ण पर मोड़ने पर असमान भुजाएँ बिल्कुल मेल नहीं खातीं।",
+      "keyPoints": [
+        "पतंगाकार चतुर्भुज में केवल 1 सममिति रेखा होती है (Kite has exactly 1 line of symmetry)",
+        "मुख्य बड़ा विकर्ण ही सममिति रेखा होता है (The main longer diagonal connecting equal side pairs is the axis of symmetry)",
+        "दूसरा विकर्ण असमान भुजाओं के कारण सममित नहीं होता (The shorter diagonal is NOT a line of symmetry due to unequal adjacent sides)"
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "Can a triangle ever have exactly TWO lines of symmetry? Explain mathematically why any triangle can only have 0, 1, or 3 lines of symmetry.",
+      "questionHi": "क्या किसी त्रिभुज में कभी ठीक दो सममिति रेखाएँ हो सकती हैं? गणितीय रूप से समझाइए कि किसी भी त्रिभुज में केवल 0, 1, या 3 सममिति रेखाएँ ही क्यों हो सकती हैं।",
+      "answer": "No, a triangle can NEVER have exactly two lines of symmetry. Mathematical justification: In any triangle, each line of symmetry must pass through a vertex and bisect the opposite side, which implies that the two sides meeting at that vertex must be equal in length. If a triangle has 1 line of symmetry, it has 2 equal sides (Isosceles). If a triangle were to have a 2nd line of symmetry from another vertex, the sides meeting at that second vertex must also be equal. This forces all three sides of the triangle to be equal ($a = b = c$), turning it into an equilateral triangle. Since an equilateral triangle automatically has 3 equal sides and 3 lines of symmetry, it is impossible for a triangle to stop at exactly 2 lines of symmetry. Thus, a triangle can only have 0 (scalene), 1 (isosceles), or 3 (equilateral) lines of symmetry.",
+      "answerHi": "नहीं, किसी भी त्रिभुज में कभी भी ठीक दो सममिति रेखाएँ नहीं हो सकती हैं। गणितीय औचित्य: किसी भी त्रिभुज में, सममिति रेखा को एक शीर्ष से गुजरकर सम्मुख भुजा को समद्विभाजित करना होता है, जिसका अर्थ है कि उस शीर्ष पर मिलने वाली दोनों भुजाएँ बराबर होनी चाहिए। यदि 1 सममिति रेखा है, तो 2 भुजाएँ बराबर होंगी (समद्विबाहु)। यदि किसी दूसरे शीर्ष से दूसरी सममिति रेखा होगी, तो उस दूसरे शीर्ष पर मिलने वाली भुजाएँ भी बराबर होनी चाहिए। यह स्थिति त्रिभुज की तीनों भुजाओं को आपस में बराबर ($a = b = c$) होने के लिए बाध्य कर देती है, जिससे वह समबाहु त्रिभुज बन जाता है। चूँकि समबाहु त्रिभुज में स्वतः ही 3 समान भुजाएँ और 3 सममिति रेखाएँ होती हैं, इसलिए किसी त्रिभुज में ठीक 2 सममिति रेखाएँ होना असंभव है। अतः त्रिभुज में केवल 0 (विषमबाहु), 1 (समद्विबाहु), या 3 (समबाहु) सममिति रेखाएँ ही हो सकती हैं।",
+      "keyPoints": [
+        "त्रिभुज में कभी भी ठीक 2 सममिति रेखाएँ नहीं हो सकतीं (A triangle can NEVER have exactly 2 lines of symmetry)",
+        "दो सममिति रेखाएँ होने पर तीनों भुजाएँ बराबर हो जाती हैं (Having two lines of symmetry forces all three sides to be equal)",
+        "त्रिभुज में केवल 0, 1 या 3 सममिति रेखाएँ संभव हैं (A triangle can only have 0, 1, or 3 lines of symmetry)"
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Explain how symmetry is observed in famous historical monuments like the Taj Mahal in Agra or India Gate in Delhi. Why do architects incorporate bilateral symmetry in grand buildings?",
+      "questionHi": "आगरा के ताजमहल या दिल्ली के इंडिया गेट जैसे प्रसिद्ध ऐतिहासिक स्मारकों में सममिति कैसे देखी जाती है? वास्तुकार भव्य इमारतों में द्विपार्श्व सममिति (Bilateral Symmetry) को क्यों शामिल करते हैं?",
+      "answer": "In historical monuments like the Taj Mahal or India Gate, bilateral symmetry is prominently observed. If we imagine a vertical line dividing the main facade of the Taj Mahal or India Gate from the top of the central dome/arch down to the ground, the left half of the building (including arches, windows, pillars, minarets, and gardens) is an exact mirror reflection of the right half. Why architects use symmetry: 1. Visual Harmony and Grandeur: Symmetry creates a profound sense of aesthetic beauty, perfection, order, and majesty that appeals naturally to the human eye. 2. Structural Stability and Balance: Symmetrical distribution of architectural mass ensures that the gravitational weight and structural loads are balanced evenly across foundations, making the monument strong and enduring over centuries.",
+      "answerHi": "ताजमहल या इंडिया गेट जैसे ऐतिहासिक स्मारकों में द्विपार्श्व सममिति (Bilateral Symmetry) प्रमुखता से देखी जाती है। यदि हम ताजमहल या इंडिया गेट के मुख्य मुखौटे (facade) पर केंद्रीय गुंबद/मेहराब के शीर्ष से जमीन तक एक ऊर्ध्वाधर रेखा की कल्पना करें, तो इमारत का बायाँ भाग (मेहराब, खिड़कियाँ, खंभे, मीनारें और बगीचे सहित) दाएँ भाग का सटीक दर्पण प्रतिबिंब होता है। वास्तुकार सममिति का उपयोग क्यों करते हैं: 1. दृश्य सामंजस्य और भव्यता: सममिति सौंदर्य, पूर्णता, व्यवस्था और राजसी भव्यता की एक गहरी भावना पैदा करती है जो स्वाभाविक रूप से मानव आँखों को आकर्षित करती है। 2. संरचनात्मक स्थिरता और संतुलन: वास्तुशिल्प द्रव्यमान का सममित वितरण यह सुनिश्चित करता है कि गुरुत्वाकर्षण भार और संरचनात्मक दबाव नींव पर समान रूप से संतुलित रहें, जिससे स्मारक सदियों तक मजबूत और टिकाऊ बने रहते हैं।",
+      "keyPoints": [
+        "केंद्रीय ऊर्ध्वाधर रेखा के दोनों ओर इमारत का बायाँ और दायाँ भाग बिल्कुल समान (Left and right halves of facades are identical mirror reflections across central vertical line)",
+        "सौंदर्य, पूर्णता और दृश्य सामंजस्य की अनुभूति (Creates profound aesthetic beauty, visual harmony, and grandeur)",
+        "भार के समान वितरण से संरचनात्मक मजबूती और स्थिरता (Ensure structural stability and even weight distribution across foundations)"
+      ]
+    },
+    {
+      "id": "q21",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Define a regular polygon. Analyze the lines of symmetry in an equilateral triangle, a square, a regular pentagon, and a regular hexagon by listing their side counts and symmetry counts. State and explain the universal mathematical relationship between the number of sides and the number of lines of symmetry in any regular polygon.",
+      "questionHi": "सम बहुभुज (Regular Polygon) को परिभाषित कीजिए। एक समबाहु त्रिभुज, वर्ग, सम पंचभुज और सम षट्भुज में भुजाओं की संख्या और सममिति रेखाओं की संख्या सूचीबद्ध करते हुए उनकी सममिति का विश्लेषण कीजिए। किसी भी सम बहुभुज में भुजाओं की संख्या और सममिति रेखाओं की संख्या के बीच सार्वभौमिक गणितीय संबंध को लिखिए और समझाइए।",
+      "answer": "Definition: A regular polygon is a closed geometrical figure bounded by straight line segments where all sides are equal in length and all interior angles are equal in measure. Analysis of Symmetry in Regular Polygons: 1. Equilateral Triangle: Number of sides = 3; Number of lines of symmetry = 3 (each passing through a vertex and midpoint of opposite side). 2. Square: Number of sides = 4; Number of lines of symmetry = 4 (2 along midpoints of opposite sides and 2 along diagonals). 3. Regular Pentagon: Number of sides = 5; Number of lines of symmetry = 5 (each passing through a vertex and midpoint of opposite side). 4. Regular Hexagon: Number of sides = 6; Number of lines of symmetry = 6 (3 connecting opposite vertices and 3 connecting midpoints of opposite sides). Universal Mathematical Relationship: In any regular polygon of 'n' sides, the number of lines of symmetry is ALWAYS exactly equal to 'n' (the number of sides or vertices). This is because regular polygons possess perfect radial and bilateral symmetry; for polygons with an odd number of sides, lines of symmetry pass through a vertex and opposite midpoint, whereas for an even number of sides, half pass through opposite vertices and half through opposite midpoints.",
+      "answerHi": "परिभाषा: सम बहुभुज वह बंद ज्यामितीय आकृति है जो सीधी रेखाखंडों से घिरी होती है जिसकी सभी भुजाएँ लंबाई में बराबर और सभी आंतरिक कोण माप में बराबर होते हैं। सम बहुभुजों में सममिति का विश्लेषण: 1. समबाहु त्रिभुज: भुजाओं की संख्या = 3; सममिति रेखाओं की संख्या = 3 (प्रत्येक शीर्ष और सम्मुख भुजा के मध्य बिंदु से)। 2. वर्ग: भुजाओं की संख्या = 4; सममिति रेखाओं की संख्या = 4 (2 सम्मुख भुजाओं के मध्य बिंदुओं से और 2 विकर्णों से)। 3. सम पंचभुज: भुजाओं की संख्या = 5; सममिति रेखाओं की संख्या = 5 (प्रत्येक शीर्ष और सम्मुख भुजा के मध्य बिंदु से)। 4. सम षट्भुज: भुजाओं की संख्या = 6; सममिति रेखाओं की संख्या = 6 (3 सम्मुख शीर्षों से और 3 सम्मुख भुजाओं के मध्य बिंदुओं से)। सार्वभौमिक गणितीय संबंध: 'n' भुजाओं वाले किसी भी सम बहुभुज में सममिति रेखाओं की संख्या सदैव ठीक 'n' (भुजाओं या शीर्षों की संख्या) के बराबर होती है। ऐसा इसलिए है क्योंकि सम बहुभुजों में पूर्ण त्रिज्य और द्विपार्श्व सममिति होती है; विषम भुजाओं वाले बहुभुजों में सममिति रेखाएँ शीर्ष और सम्मुख मध्य बिंदु से जाती हैं, जबकि सम भुजाओं वाले बहुभुजों में आधी सम्मुख शीर्षों से और आधी सम्मुख मध्य बिंदुओं से जाती हैं।",
+      "keyPoints": [
+        "सम बहुभुज: सभी भुजाएँ और सभी कोण बराबर (Regular polygon: all sides equal and all interior angles equal)",
+        "समबाहु त्रिभुज=3, वर्ग=4, सम पंचभुज=5, सम षट्भुज=6 सममिति रेखाएँ (Equilateral triangle=3, Square=4, Pentagon=5, Hexagon=6 lines of symmetry)",
+        "सार्वभौमिक नियम: n भुजाओं वाले सम बहुभुज में ठीक n सममिति रेखाएँ होती हैं (Universal rule: regular polygon of 'n' sides has exactly 'n' lines of symmetry)"
+      ]
+    },
+    {
+      "id": "q22",
+      "type": "case-study",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "Case-Study: During Diwali celebrations, Meena designs a beautiful geometric Rangoli on the floor of her square courtyard. She draws a large square boundary ABCD and divides it into 8 equal triangular compartments by drawing two horizontal/vertical lines connecting opposite midpoints and two diagonal lines AC and BD passing through the center O. She fills identical vibrant colors and traditional floral motifs in corresponding reflected triangular compartments across all four dividing lines.\n(a) How many lines of symmetry does Meena's overall square Rangoli design possess?\n(b) If Meena accidentally changes the color of one triangular compartment near corner A from red to blue without changing its corresponding reflected compartment, what will happen to the symmetry of the Rangoli?\n(c) How does the concept of symmetry enhance aesthetic beauty and cultural expression in traditional Indian art forms like Rangoli, Mandalas, and Kolam?",
+      "questionHi": "केस-स्टडी: दिवाली के उत्सव के दौरान, मीना अपने वर्गाकार आँगन के फर्श पर एक सुंदर ज्यामितीय रंगोली डिज़ाइन करती है। वह एक बड़ा वर्गाकार घेरा ABCD बनाती है और सम्मुख मध्य बिंदुओं को जोड़ने वाली दो क्षैतिज/ऊर्ध्वाधर रेखाओं और केंद्र O से गुजरने वाले दो विकर्णों AC और BD द्वारा इसे 8 समान त्रिभुजाकार खानों में बाँट देती है। वह सभी चारों विभाजन रेखाओं के दोनों ओर संगत परावर्तित त्रिभुजाकार खानों में समान चमकीले रंग और पारंपरिक पुष्प रूपांकन (motifs) भरती है।\n(a) मीना के समग्र वर्गाकार रंगोली डिज़ाइन में कितनी सममिति रेखाएँ हैं?\n(b) यदि मीना गलती से कोने A के पास के एक त्रिभुजाकार खाने का रंग लाल से नीला कर देती है, लेकिन उसके संगत परावर्तित खाने में बदलाव नहीं करती है, तो रंगोली की सममिति पर क्या प्रभाव पड़ेगा?\n(c) सममिति की अवधारणा रंगोली, मंडला और कोलम जैसी पारंपरिक भारतीय कला रूपों में सौंदर्यबोध और सांस्कृतिक अभिव्यक्ति को कैसे बढ़ाती है?",
+      "answer": "(a) Since Meena's Rangoli is based on a square grid and identical reflected motifs are filled across all four dividing lines, her overall Rangoli design possesses exactly FOUR lines of symmetry (1 horizontal, 1 vertical, and 2 diagonal lines). (b) If Meena changes the color of one compartment from red to blue without changing its mirror reflection across the symmetry line, the balance of reflection is broken. The Rangoli will lose its symmetry along those axes and become asymmetrical, because the two halves on either side of the mirror line will no longer be identical reflections of each other. (c) In traditional Indian art forms like Rangoli, Mandalas, and Kolam, symmetry is the foundational principle of visual harmony. Geometrical symmetry symbolizes cosmic order, balance, prosperity, and peace. The repetitive, balanced reflections guide the human eye smoothly toward the center, evoking a deep sense of aesthetic pleasure, meditative calmness, and cultural unity.",
+      "answerHi": "(a) चूँकि मीना की रंगोली वर्गाकार ग्रिड पर आधारित है और सभी चारों विभाजन रेखाओं के दोनों ओर समान परावर्तित डिज़ाइन भरे गए हैं, इसलिए उसके समग्र रंगोली डिज़ाइन में ठीक चार सममिति रेखाएँ (1 क्षैतिज, 1 ऊर्ध्वाधर और 2 विकर्ण रेखाएँ) हैं। (b) यदि मीना सममिति रेखा के दूसरी ओर के दर्पण प्रतिबिंब को बदले बिना एक खाने का रंग लाल से नीला कर देती है, तो परावर्तन का संतुलन बिगड़ जाएगा। रंगोली उन अक्षों के अनुदिश अपनी सममिति खो देगी और असममित (Asymmetrical) हो जाएगी, क्योंकि दर्पण रेखा के दोनों ओर के भाग अब एक-दूसरे के समान प्रतिबिंब नहीं रहेंगे। (c) रंगोली, मंडला और कोलम जैसी पारंपरिक भारतीय कलाओं में सममिति दृश्य सामंजस्य का मूल सिद्धांत है। ज्यामितीय सममिति ब्रह्मांडीय व्यवस्था, संतुलन, समृद्धि और शांति का प्रतीक है। बार-बार दोहराए जाने वाले संतुलित प्रतिबिंब मानव आँखों को सहजता से केंद्र की ओर आकर्षित करते हैं, जिससे गहरी सौंदर्य अनुभूति, मानसिक शांति और सांस्कृतिक एकता का भाव उत्पन्न होता है।",
+      "keyPoints": [
+        "वर्गाकार रंगोली में 4 सममिति रेखाएँ होती हैं (Square Rangoli design possesses exactly 4 lines of symmetry)",
+        "एक ओर रंग बदलने से सममिति भंग हो जाती है और डिज़ाइन असममित हो जाता है (Changing color on only one side breaks reflection balance, making it asymmetrical)",
+        "सममिति भारतीय कला में ब्रह्मांडीय व्यवस्था, शांति और दृश्य सामंजस्य का प्रतीक है (Symmetry symbolizes cosmic order, peace, and visual harmony in traditional Indian art)"
+      ]
+    },
+    {
+      "id": "q23",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Explain in detail how reflection symmetry operates across a mirror line L on a coordinate grid. If a triangle PQR with vertices P(2, 3), Q(5, 3), and R(2, 7) is reflected across a vertical mirror line representing the y-axis (where x = 0), explain how the coordinates and orientation of the reflected image triangle P'Q'R' change. Why does mirror reflection preserve distance and angle measures while reversing lateral orientation?",
+      "questionHi": "निर्देशांक ग्रिड पर दर्पण रेखा L के अनुदिश परावर्तन सममिति (Reflection Symmetry) कैसे कार्य करती है, विस्तार से समझाइए। यदि शीर्षों P(2, 3), Q(5, 3) और R(2, 7) वाले त्रिभुज PQR को y-अक्ष (जहाँ x = 0) को दर्शाने वाली ऊर्ध्वाधर दर्पण रेखा के अनुदिश परावर्तित किया जाता है, तो समझाइए कि परावर्तित प्रतिबिंब त्रिभुज P'Q'R' के निर्देशांक और अभिविन्यास (Orientation) कैसे बदलते हैं। दर्पण परावर्तन दूरी और कोण के मापों को सुरक्षित रखते हुए पार्श्व अभिविन्यास (Lateral Orientation) को क्यों उलट देता है?",
+      "answer": "Operation of Reflection on a Grid: When a shape is reflected across a vertical mirror line (like the y-axis where x = 0), every point on the shape moves horizontally to the opposite side of the mirror line such that its perpendicular distance from the mirror line remains exactly the same. For reflection across the y-axis, the x-coordinate of every point changes its sign (becomes negative or opposite), while the y-coordinate remains unchanged ($P(x, y) \\rightarrow P'(-x, y)$). Coordinates of Reflected Triangle P'Q'R': 1. Vertex P(2, 3) reflects to P'(-2, 3). 2. Vertex Q(5, 3) reflects to Q'(-5, 3). 3. Vertex R(2, 7) reflects to R'(-2, 7). Preservation of Distance and Angle vs Reversal of Orientation: Mirror reflection is an isometric transformation (rigid motion), which means the lengths of sides ($PQ = P'Q'$, $QR = Q'R'$, $RP = R'P'$) and interior angle measures remain exactly the same. However, it reverses lateral orientation: in original triangle PQR, moving from P to Q to R goes in a counterclockwise direction, whereas in the reflected image P'Q'R', moving from P' to Q' to R' goes in a clockwise direction. This reversal is the exact mathematical definition of lateral inversion.",
+      "answerHi": "ग्रिड पर परावर्तन की कार्यप्रणाली: जब किसी आकृति को ऊर्ध्वाधर दर्पण रेखा (जैसे y-अक्ष जहाँ x = 0) के अनुदिश परावर्तित किया जाता है, तो आकृति का प्रत्येक बिंदु दर्पण रेखा के दूसरी ओर क्षैतिज रूप से इतनी दूर चला जाता है कि दर्पण रेखा से उसकी लंबवत दूरी बिल्कुल समान रहे। y-अक्ष के अनुदिश परावर्तन के लिए, प्रत्येक बिंदु के x-निर्देशांक का चिह्न बदल जाता है (धनात्मक से ऋणात्मक), जबकि y-निर्देशांक वही रहता है ($P(x, y) \\rightarrow P'(-x, y)$)। परावर्तित त्रिभुज P'Q'R' के निर्देशांक: 1. शीर्ष P(2, 3) परावर्तित होकर P'(-2, 3) बनता है। 2. शीर्ष Q(5, 3) परावर्तित होकर Q'(-5, 3) बनता है। 3. शीर्ष R(2, 7) परावर्तित होकर R'(-2, 7) बनता है। दूरी और कोण की सुरक्षा बनाम अभिविन्यास का उलटना: दर्पण परावर्तन एक दृढ़ रूपांतरण (rigid motion) है, जिसका अर्थ है कि भुजाओं की लंबाई ($PQ = P'Q'$, आदि) और आंतरिक कोणों के माप बिल्कुल समान रहते हैं। हालाँकि, यह पार्श्व अभिविन्यास को उलट देता है: मूल त्रिभुज PQR में P से Q से R की ओर जाने पर वामावर्त (counterclockwise) दिशा होती है, जबकि परावर्तित प्रतिबिंब P'Q'R' में P' से Q' से R' की ओर जाने पर दक्षिणावर्त (clockwise) दिशा हो जाती है। यह दिशा परिवर्तन ही पार्श्व परिवर्तन (Lateral Inversion) है।",
+      "keyPoints": [
+        "y-अक्ष के अनुदिश परावर्तन में x-निर्देशांक का चिह्न बदलता है: P(x, y) -> P'(-x, y) (Reflection across y-axis reverses sign of x-coordinate: P(x, y) -> P'(-x, y))",
+        "शीर्षों के नए निर्देशांक: P'(-2, 3), Q'(-5, 3), R'(-2, 7) (New reflected coordinates: P'(-2, 3), Q'(-5, 3), R'(-2, 7))",
+        "भुजाओं की लंबाई और कोण समान रहते हैं परंतु दिशा (अभिविन्यास) उलट जाती है (Side lengths and angles are preserved, but lateral orientation reverses from counterclockwise to clockwise)"
+      ]
+    },
+    {
+      "id": "q24",
+      "type": "value-based",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "Value-Based Question: Nature exhibits breathtaking bilateral symmetry in butterfly wings, tree leaves, human faces, and snowflakes. A biology and mathematics teacher explains to her Class 6 students that bilateral symmetry in living organisms is essential for physical balance, efficient locomotion, and evolutionary survival.\n(a) Describe three diverse examples of bilateral symmetry found in the natural world across plants, insects, and animals.\n(b) In human life and character development, what does the concept of 'balance' and 'symmetry' represent? How can students practice work-play balance and emotional stability in their daily school routine?",
+      "questionHi": "मूल्य-आधारित प्रश्न: प्रकृति तितली के पंखों, पेड़ों के पत्तों, मानव चेहरों और हिम-कणों (snowflakes) में अद्भुत द्विपार्श्व सममिति दर्शाती है। जीव विज्ञान और गणित की एक शिक्षिका कक्षा 6 के छात्रों को समझाती है कि जीवित प्राणियों में द्विपार्श्व सममिति शारीरिक संतुलन, कुशल गतिशीलता और विकासवादी अस्तित्व के लिए आवश्यक है।\n(a) पौधों, कीटों और जानवरों में प्राकृतिक दुनिया में पाई जाने वाली द्विपार्श्व सममिति के तीन विविध उदाहरणों का वर्णन कीजिए।\n(b) मानव जीवन और चरित्र निर्माण में 'संतुलन' और 'सममिति' की अवधारणा क्या दर्शाती है? छात्र अपनी दैनिक विद्यालयी दिनचर्या में पढ़ाई-खेल के संतुलन और भावनात्मक स्थिरता का अभ्यास कैसे कर सकते हैं?",
+      "answer": "(a) Three diverse natural examples of bilateral symmetry: 1. Insects (Butterfly): Drawing a vertical line down the thorax and abdomen reveals identical left and right wings with matching colorful eye-spots and vein patterns. 2. Plants (Peepal Leaf): The central midrib (main vein) of a Peepal leaf acts as the exact axis of symmetry, dividing the leaf blade into two equal mirror halves. 3. Animals (Tiger or Human Face): The vertical axis passing through the center of the nose and mouth divides the face into matching left and right eyes, ears, and facial structures, aiding in binocular vision and balanced movement. (b) In human life and character, 'symmetry' represents inner harmony, moderation, and life balance. Just as a physical structure tilts and falls without symmetry, a student's life suffers without balance. Students can practice balance by: 1. Work-Play Balance: Allocating equal, focused time for rigorous academic studies and refreshing physical sports or creative hobbies. 2. Emotional Stability: Maintaining a calm, balanced mind during both success (without arrogance) and failure (without despair). 3. Healthy Routine: Balancing proper sleep, nutritious food, and active screen-free social interaction to grow into well-rounded, harmonious individuals.",
+      "answerHi": "(a) द्विपार्श्व सममिति के तीन विविध प्राकृतिक उदाहरण: 1. कीट (तितली): वक्ष और उदर के बीच से ऊर्ध्वाधर रेखा खींचने पर बाएँ और दाएँ पंख समान रंगीन धब्बों और शिरा विन्यास के साथ सटीक दर्पण प्रतिबिंब दिखते हैं। 2. पौधे (पीपल का पत्ता): पीपल के पत्ते की मुख्य मध्य शिरा (Midrib) सटीक सममिति अक्ष का काम करती है, जो पत्ते को दो बराबर दर्पण भागों में बाँटती है। 3. जानवर (बाघ या मानव चेहरा): नाक और मुँह के बीच से गुजरने वाली ऊर्ध्वाधर अक्ष चेहरे को बाएँ और दाएँ समान आँखों, कानों और संरचनाओं में बाँटती है, जिससे संतुलित दृष्टि और गतिशीलता मिलती है। (b) मानव जीवन और चरित्र में, 'सममिति' आंतरिक सामंजस्य, संयम और जीवन के संतुलन को दर्शाती है। जिस प्रकार बिना सममिति के कोई भौतिक संरचना झुककर गिर जाती है, उसी प्रकार बिना संतुलन के छात्र का जीवन प्रभावित होता है। छात्र निम्नलिखित रूप से संतुलन का अभ्यास कर सकते हैं: 1. पढ़ाई-खेल का संतुलन: कठिन शैक्षणिक अध्ययन और ताजगी देने वाले खेलों या रचनात्मक शौक के लिए समान और केंद्रित समय आवंटित करना। 2. भावनात्मक स्थिरता: सफलता (बिना अहंकार के) और असफलता (बिना निराशा के) दोनों स्थितियों में शांत और संतुलित मन बनाए रखना। 3. स्वस्थ दिनचर्या: पर्याप्त नींद, पौष्टिक भोजन और स्क्रीन-मुक्त सक्रिय सामाजिक मेलजोल के बीच संतुलन बनाकर एक सर्वांगीण और सामंजस्यपूर्ण व्यक्तित्व का विकास करना।",
+      "keyPoints": [
+        "प्राकृतिक उदाहरण: तितली के पंख, पीपल का पत्ता, और मानव/पशु चेहरा (Natural examples: butterfly wings, Peepal leaf midrib, and human/animal facial symmetry)",
+        "जीवन में सममिति का अर्थ आंतरिक सामंजस्य, संयम और पढ़ाई-खेल का संतुलन है (Symmetry in life represents inner harmony, moderation, and study-play balance)",
+        "सफलता और असफलता में मानसिक संतुलन और भावनात्मक स्थिरता बनाए रखना (Maintaining mental equilibrium and emotional stability during success and failure)"
+      ]
+    },
+    {
+      "id": "q25",
+      "type": "case-study",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Case-Study: In an arts and crafts geometry class, Kabir takes a square sheet of paper of side length 20 cm. He folds it in half horizontally from top to bottom, and then folds it in half vertically from left to right to form a smaller folded square of size 10 cm × 10 cm consisting of 4 layers. The top-left corner of this small square is the closed center of the original sheet. Kabir cuts out a quarter-circle of radius 3 cm from this closed top-left corner. He also cuts out a small isosceles triangle along the open outer right edge.\n(a) When Kabir completely unfolds the paper sheet, how many lines of symmetry will the resulting paper cutout possess?\n(b) What geometrical shape will be formed at the exact center of the unfolded sheet where the quarter-circle was cut out?\n(c) Why is paper folding and cutting (Kirigami) considered an effective pedagogical activity for understanding symmetry and spatial geometry?",
+      "questionHi": "केस-स्टडी: कला और शिल्प की ज्यामिति कक्षा में, कबीर 20 सेमी भुजा वाले कागज का एक वर्गाकार टुकड़ा लेता है। वह इसे पहले ऊपर से नीचे क्षैतिज रूप से आधा मोड़ता है, और फिर बाएँ से दाएँ ऊर्ध्वाधर रूप से आधा मोड़कर 4 परतों वाला 10 सेमी × 10 सेमी का एक छोटा मुड़ा हुआ वर्ग बनाता है। इस छोटे वर्ग का ऊपरी बायाँ कोना मूल कागज का बंद केंद्र है। कबीर इस बंद ऊपरी बाएँ कोने से 3 सेमी त्रिज्या का एक चौथाई वृत्त (quarter-circle) काट कर निकाल देता है। वह बाहरी खुले दाएँ किनारे से एक छोटा समद्विबाहु त्रिभुज भी काटता है।\n(a) जब कबीर कागज को पूरी तरह खोलेगा, तो प्राप्त कागज के कटआउट में कितनी सममिति रेखाएँ होंगी?\n(b) खुले हुए कागज के ठीक केंद्र में जहाँ चौथाई वृत्त काटा गया था, कौन-सी ज्यामितीय आकृति बनेगी?\n(c) कागज मोड़ने और काटने (Kirigami) को सममिति और स्थानिक ज्यामिति (Spatial Geometry) समझने के लिए एक प्रभावी शिक्षण गतिविधि क्यों माना जाता है?",
+      "answer": "(a) Since Kabir started with a square sheet and folded it twice along its horizontal and vertical perpendicular bisectors, unfolding the paper will produce a symmetrical design with exactly TWO lines of symmetry (1 horizontal line and 1 vertical line along the fold creases). Note: Because the triangle was cut only from the right edge and not symmetrically across diagonals, diagonal symmetry is lost, leaving 2 lines of symmetry. (b) When the 4 folded layers at the closed center corner (each having a quarter-circle cut of radius 3 cm) are unfolded around the central point, the four quarter-circles join together seamlessly to form a complete, perfect Circle of radius 3 cm (diameter 6 cm) at the exact center of the sheet. (c) Paper folding and cutting (Kirigami) is an effective pedagogical tool because: 1. Hands-On Experiential Learning: It transforms abstract geometrical concepts into tangible, physical manipulations where students can visually see and touch reflections. 2. Spatial Visualization: It trains the brain to predict and visualize 2D patterns from multi-layered 3D folds, enhancing spatial reasoning. 3. Instant Verification: Unfolding the paper provides immediate feedback and proof of symmetry across crease lines, making geometry engaging, intuitive, and memorable.",
+      "answerHi": "(a) चूँकि कबीर ने वर्गाकार कागज को दो बार क्षैतिज और ऊर्ध्वाधर लंब समद्विभाजकों पर मोड़ा था, इसलिए कागज को खोलने पर प्राप्त डिज़ाइन में ठीक दो सममिति रेखाएँ (मोड़ क्रीज के अनुदिश 1 क्षैतिज और 1 ऊर्ध्वाधर रेखा) होंगी। (नोट: चूँकि त्रिभुज केवल किनारे से काटा गया था, विकर्णों पर नहीं, इसलिए विकर्ण सममिति समाप्त हो जाती है और 2 सममिति रेखाएँ बचती हैं)। (b) जब बंद केंद्रीय कोने पर 4 मुड़ी हुई परतों (जिनमें से प्रत्येक में 3 सेमी त्रिज्या का चौथाई वृत्त कटा है) को खोला जाएगा, तो चारों चौथाई वृत्त मिलकर कागज के ठीक बीचोंबीच 3 सेमी त्रिज्या (6 सेमी व्यास) का एक पूर्ण वृत्त (Circle) बना देंगे। (c) कागज मोड़ना और काटना (Kirigami) एक प्रभावी शिक्षण उपकरण है क्योंकि: 1. व्यावहारिक अनुभव: यह अमूर्त ज्यामितीय अवधारणाओं को ठोस और भौतिक क्रियाकलाप में बदल देता है जहाँ छात्र स्वयं परावर्तन को देख और छू सकते हैं। 2. स्थानिक कल्पना (Spatial Visualization): यह मस्तिष्क को कई परतों वाले मोड़ से बनने वाले डिज़ाइन की पूर्व-कल्पना करने का प्रशिक्षण देता है, जिससे स्थानिक समझ बढ़ती है। 3. त्वरित सत्यापन: कागज खोलते ही क्रीज रेखाओं के दोनों ओर सममिति का प्रत्यक्ष प्रमाण मिल जाता है, जिससे ज्यामिति रोचक और यादगार बन जाती है।",
+      "keyPoints": [
+        "दो बार मोड़े गए कागज को खोलने पर 2 सममिति रेखाएँ (क्षैतिज और ऊर्ध्वाधर) प्राप्त होती हैं (Unfolding twice-folded sheet yields 2 lines of symmetry: horizontal and vertical)",
+        "केंद्र के 4 चौथाई वृत्त मिलकर 3 सेमी त्रिज्या का एक पूर्ण वृत्त बनाते हैं (Four quarter-circles cut at the closed center unfold to form a complete circle of radius 3 cm)",
+        "व्यावहारिक अनुभव और स्थानिक कल्पना शक्ति का विकास होता है (Hands-on experiential learning enhances spatial visualization and intuition)"
+      ]
+    },
+    {
+      "id": "q26",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Conduct a comprehensive geometrical analysis of all 26 capital letters of the English alphabet (A to Z) based on line symmetry. Group all 26 letters into four mutually exclusive categories:\n1. Letters with ONLY a vertical line of symmetry.\n2. Letters with ONLY a horizontal line of symmetry.\n3. Letters with BOTH vertical and horizontal lines of symmetry.\n4. Letters with NO line of symmetry (asymmetrical).\nExplain geometrically why letters like S, N, and Z belong to the asymmetrical category despite appearing aesthetically balanced.",
+      "questionHi": "सममिति रेखा के आधार पर अंग्रेजी वर्णमाला के सभी 26 बड़े अक्षरों (A से Z) का व्यापक ज्यामितीय विश्लेषण कीजिए। सभी 26 अक्षरों को चार परस्पर अपवर्जी (mutually exclusive) श्रेणियों में वर्गीकृत कीजिए:\n1. केवल ऊर्ध्वाधर सममिति रेखा वाले अक्षर।\n2. केवल क्षैतिज सममिति रेखा वाले अक्षर।\n3. ऊर्ध्वाधर और क्षैतिज दोनों सममिति रेखाओं वाले अक्षर।\n4. कोई सममिति रेखा नहीं (असममित) वाले अक्षर।\nज्यामितीय रूप से समझाइए कि S, N और Z जैसे अक्षर सौंदर्य की दृष्टि से संतुलित दिखने के बावजूद असममित श्रेणी में क्यों आते हैं।",
+      "answer": "Comprehensive Symmetry Classification of 26 Capital Letters: 1. ONLY Vertical Line of Symmetry (7 letters): A, M, T, U, V, W, Y (folding vertically down the center makes left and right halves coincide). 2. ONLY Horizontal Line of Symmetry (5 letters): B, C, D, E, K (folding horizontally across the middle makes top and bottom halves coincide). 3. BOTH Vertical and Horizontal Lines of Symmetry (4 letters): H, I, O, X (these letters possess 2 lines of symmetry and can be folded both ways). 4. NO Line of Symmetry / Asymmetrical (10 letters): F, G, J, L, N, P, Q, R, S, Z (no straight line can divide these letters into matching mirror halves). Geometrical Explanation for S, N, and Z: Letters like S, N, and Z appear aesthetically balanced because they possess Rotational Symmetry of order 2 (if you rotate them upside down through 180° around their center, they look identical). However, line symmetry requires reflection across a mirror line. If we fold N, S, or Z along a vertical, horizontal, or diagonal line, the projecting tails point in opposite directions and fail to coincide or overlap. For example, reflecting the top-right tail of 'Z' vertically across a middle line lands it on the top-left, where there is no stroke. Hence, they have zero lines of reflection symmetry.",
+      "answerHi": "26 बड़े अक्षरों का व्यापक सममिति वर्गीकरण: 1. केवल ऊर्ध्वाधर सममिति रेखा (7 अक्षर): A, M, T, U, V, W, Y (बीच से ऊर्ध्वाधर मोड़ने पर बायाँ और दायाँ भाग ढक लेते हैं)। 2. केवल क्षैतिज सममिति रेखा (5 अक्षर): B, C, D, E, K (बीच से क्षैतिज मोड़ने पर ऊपरी और निचला भाग ढक लेते हैं)। 3. ऊर्ध्वाधर और क्षैतिज दोनों सममिति रेखाएँ (4 अक्षर): H, I, O, X (इनमें 2 सममिति रेखाएँ होती हैं और इन्हें दोनों तरफ मोड़ा जा सकता है)। 4. कोई सममिति रेखा नहीं / असममित (10 अक्षर): F, G, J, L, N, P, Q, R, S, Z (कोई भी सीधी रेखा इन्हें समान दर्पण भागों में नहीं बाँट सकती)। S, N और Z के लिए ज्यामितीय स्पष्टीकरण: S, N और Z जैसे अक्षर सौंदर्य की दृष्टि से संतुलित इसलिए दिखते हैं क्योंकि उनमें क्रम 2 की घूर्णन सममिति (Rotational Symmetry) होती है (यदि आप इन्हें केंद्र के परितः 180° उल्टा घुमाएँ, तो ये वैसे ही दिखते हैं)। हालाँकि, रेखा सममिति के लिए दर्पण रेखा पर परावर्तन आवश्यक है। यदि हम N, S या Z को ऊर्ध्वाधर, क्षैतिज या विकर्ण रेखा पर मोड़ते हैं, तो इनके बाहर निकले हुए सिरे विपरीत दिशाओं में जाते हैं और एक-दूसरे को नहीं ढकते। उदाहरण के लिए, 'Z' के ऊपरी दाएँ सिरे को ऊर्ध्वाधर रेखा पर परावर्तित करने पर वह ऊपरी बाएँ भाग में जाता है जहाँ कोई रेखा नहीं है। अतः इनमें शून्य परावर्तन सममिति रेखा होती है।",
+      "keyPoints": [
+        "केवल ऊर्ध्वाधर=7 (A,M,T,U,V,W,Y); केवल क्षैतिज=5 (B,C,D,E,K) (Only vertical=7 letters; Only horizontal=5 letters)",
+        "दोनों सममिति रेखाएँ=4 (H,I,O,X); कोई सममिति नहीं=10 (F,G,J,L,N,P,Q,R,S,Z) (Both lines=4 letters (H,I,O,X); No lines/asymmetrical=10 letters)",
+        "S, N, Z में 180° घूर्णन सममिति होती है परंतु परावर्तन (रेखा) सममिति नहीं होती (S, N, and Z possess 180° rotational symmetry but zero line/reflection symmetry)"
+      ]
+    },
+    {
+      "id": "q27",
+      "type": "case-study",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Case-Study: A science teacher builds an optical toy called a Kaleidoscope to demonstrate reflection symmetry to Class 6 students. The kaleidoscope is constructed using three long rectangular plane mirror strips joined together along their long edges to form a triangular prism with equilateral cross-section (the mirrors are inclined at an angle of 60° to each other). Colorful broken glass bangles and beads are placed inside one end. When students look through the eyepiece and rotate the tube, they observe dazzling, repeating geometric patterns.\n(a) Why do three plane mirrors inclined at an angle of 60° inside a kaleidoscope produce an optical pattern with exactly 6-fold symmetry (6 lines of symmetry)?\n(b) What fundamental optical phenomenon is responsible for generating multiple symmetrical images inside a kaleidoscope?\n(c) How does the kaleidoscope demonstrate the integration of mathematics (geometry), physics (optics), and art?",
+      "questionHi": "केस-स्टडी: एक विज्ञान शिक्षक कक्षा 6 के छात्रों को परावर्तन सममिति दिखाने के लिए 'कैलाइडोस्कोप' (Kaleidoscope या बहुरूपदर्शक) नामक प्रकाशिक खिलौना बनाते हैं। कैलाइडोस्कोप को तीन लंबी आयताकार समतल दर्पण पट्टियों को उनके लंबे किनारों से जोड़कर बनाया जाता है जिससे समबाहु त्रिभुजाकार अनुप्रस्थ काट (cross-section) वाला एक प्रिज्म बनता है (दर्पण एक-दूसरे से 60° के कोण पर झुके होते हैं)। इसके एक सिरे के अंदर रंगीन टूटी हुई चूड़ियों के टुकड़े और मोती रखे जाते हैं। जब छात्र नेत्रिका (eyepiece) से देखते हैं और नली को घुमाते हैं, तो उन्हें चकाचौंध करने वाले, बार-बार दोहराए जाने वाले ज्यामितीय पैटर्न दिखाई देते हैं।\n(a) कैलाइडोस्कोप के अंदर 60° के कोण पर झुके तीन समतल दर्पण ठीक 6-गुनी सममिति (6 सममिति रेखाओं) वाला प्रकाशिक पैटर्न क्यों बनाते हैं?\n(b) कैलाइडोस्कोप के अंदर अनेक सममित प्रतिबिंब उत्पन्न करने के लिए कौन-सी मौलिक प्रकाशिक घटना उत्तरदायी है?\n(c) कैलाइडोस्कोप गणित (ज्यामिति), भौतिकी (प्रकाशिकी) और कला के समन्वय (integration) को कैसे प्रदर्शित करता है?",
+      "answer": "(a) In optics, when two mirrors are inclined at an angle $\\theta$, the number of symmetrical images formed around a central point is given by the mathematical formula $N = (360^\\circ / \\theta) - 1$. For equilateral mirrors inclined at $\\theta = 60^\\circ$, we get $360^\\circ / 60^\\circ = 6$. This divides the circular field of view into 6 identical equilateral triangles radiating from the center. Each triangle is a mirror reflection of its neighbors, producing a regular hexagonal pattern that possesses exactly 6-fold radial symmetry (6 lines of symmetry). (b) The fundamental optical phenomenon responsible is Multiple Reflection (बहु-परावर्तन). Light reflecting off one mirror strikes the second and third mirrors repeatedly, causing images of images to form endlessly in a balanced geometrical arrangement. (c) Integration of Disciplines: 1. Mathematics (Geometry): Provides the exact 60° angular geometry of equilateral triangles and regular hexagonal symmetry. 2. Physics (Optics): Explains the laws of reflection and multiple mirroring across plane surfaces. 3. Art and Aesthetics: Transforms random glass beads into breathtaking, symmetrical mandalas and dynamic visual art, showing students how scientific laws generate natural beauty.",
+      "answerHi": "(a) प्रकाशिकी में, जब दो दर्पण $\\theta$ कोण पर झुके होते हैं, तो केंद्र के चारों ओर बनने वाले सममित प्रतिबिंबों की संख्या गणितीय सूत्र $N = (360^\\circ / \\theta) - 1$ द्वारा दी जाती है। $\\theta = 60^\\circ$ पर झुके समबाहु दर्पणों के लिए, हमें $360^\\circ / 60^\\circ = 6$ प्राप्त होता है। यह दृश्य क्षेत्र को केंद्र से निकलने वाले 6 समान समबाहु त्रिभुजों में बाँट देता है। प्रत्येक त्रिभुज अपने पड़ोसी का दर्पण प्रतिबिंब होता है, जिससे एक सम षट्कोणीय पैटर्न बनता है जिसमें ठीक 6-गुनी त्रिज्य सममिति (6 सममिति रेखाएँ) होती है। (b) इसके लिए उत्तरदायी मौलिक प्रकाशिक घटना बहु-परावर्तन (Multiple Reflection) है। एक दर्पण से परावर्तित प्रकाश बार-बार दूसरे और तीसरे दर्पण से टकराता है, जिससे एक संतुलित ज्यामितीय व्यवस्था में प्रतिबिंबों के प्रतिबिंब अनंत तक बनते रहते हैं। (c) विषयों का समन्वय: 1. गणित (ज्यामिति): समबाहु त्रिभुजों और सम षट्कोणीय सममिति की सटीक 60° कोणीय ज्यामिति प्रदान करता है। 2. भौतिकी (प्रकाशिकी): समतल सतहों पर परावर्तन और बहु-परावर्तन के नियमों को समझाती है। 3. कला और सौंदर्यबोध: बेतरतीब कांच के टुकड़ों को मनमोहक, सममित मंडला और गतिशील दृश्य कला में बदल देता है, जो छात्रों को दिखाता है कि वैज्ञानिक नियम प्राकृतिक सौंदर्य कैसे उत्पन्न करते हैं।",
+      "keyPoints": [
+        "360° / 60° = 6 समान क्षेत्र (60° पर झुके दर्पण 6-गुनी सममिति वाला षट्कोणीय पैटर्न बनाते हैं) (360° / 60° = 6 equal sectors producing 6-fold hexagonal symmetry)",
+        "बहु-परावर्तन (Multiple Reflection) के कारण प्रतिबिंबों के प्रतिबिंब बनते हैं (Multiple reflection causes endless reflections across mirror planes)",
+        "गणित (ज्यामिति), भौतिकी (प्रकाशिकी) और कला का सुंदर समन्वय (Seamless integration of mathematical geometry, physical optics, and visual art)"
+      ]
+    },
+    {
+      "id": "q28",
+      "type": "value-based",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "Value-Based Question: During a classroom discussion on symmetry, the teacher points out that while the human body exhibits bilateral symmetry externally, internal organs like the heart, stomach, and liver are placed asymmetrically. Furthermore, no human face is 100% mathematically symmetrical, and some people may have congenital physical differences, limb variations, or disabilities.\n(a) Why is it essential for students to understand that natural diversity includes both mathematical symmetry and asymmetry?\n(b) How should students demonstrate empathy, respect, and inclusivity towards classmates or individuals who may look different or have physical disabilities?",
+      "questionHi": "मूल्य-आधारित प्रश्न: सममिति पर कक्षा में चर्चा के दौरान, शिक्षक बताते हैं कि यद्यपि मानव शरीर बाहर से द्विपार्श्व सममिति दर्शाता है, लेकिन हृदय, आमाशय और यकृत (liver) जैसे आंतरिक अंग असममित रूप से स्थित होते हैं। इसके अलावा, कोई भी मानव चेहरा 100% गणितीय रूप से सममित नहीं होता है, और कुछ लोगों में जन्मजात शारीरिक भिन्नताएँ, अंगों में अंतर या दिव्यांगता हो सकती है।\n(a) छात्रों के लिए यह समझना क्यों आवश्यक है कि प्राकृतिक विविधता में गणितीय सममिति और असममिति दोनों शामिल हैं?\n(b) छात्रों को उन सहपाठियों या व्यक्तियों के प्रति सहानुभूति, सम्मान और समावेशिता कैसे दिखानी चाहिए जो अलग दिखते हैं या शारीरिक रूप से दिव्यांग हैं?",
+      "answer": "(a) It is essential to understand both symmetry and asymmetry because nature thrives on functional diversity and uniqueness. While external bilateral symmetry helps animals in locomotion and balance, internal asymmetry allows specialized organs (like a left-tilted heart or right-sided liver) to fit efficiently within the body cavity and perform complex biological functions. Recognizing that absolute mathematical perfection rarely exists in biology helps students appreciate natural beauty in imperfection and variation. (b) Students should demonstrate empathy, respect, and inclusivity by: 1. Unconditional Respect: Treating every individual with equal dignity and kindness, recognizing that a person's worth lies in their character, heart, and actions, not their physical appearance or symmetry. 2. Rejecting Bullying and Teasing: Never mocking, staring at, or isolating classmates with physical differences or disabilities. 3. Active Inclusivity: Proactively inviting classmates with diverse abilities to participate in group projects, games, and social activities, adapting rules to ensure everyone feels valued and supported in an empathetic school community.",
+      "answerHi": "(a) सममिति और असममिति दोनों को समझना इसलिए आवश्यक है क्योंकि प्रकृति कार्यात्मक विविधता और विशिष्टता पर फलती-फूलती है। जहाँ बाहरी द्विपार्श्व सममिति जानवरों को चलने और संतुलन में मदद करती है, वहीं आंतरिक असममिति विशेष अंगों (जैसे बाईं ओर झुका हृदय या दाईं ओर यकृत) को शरीर के अंदर कुशलता से फिट होने और जटिल जैविक कार्य करने की अनुमति देती है। यह पहचानना कि जीव विज्ञान में पूर्ण गणितीय पूर्णता शायद ही कभी होती है, छात्रों को अपूर्णता और विविधता में प्राकृतिक सौंदर्य को सराहने में मदद करता है। (b) छात्रों को निम्नलिखित रूप से सहानुभूति, सम्मान और समावेशिता दिखानी चाहिए: 1. बिना शर्त सम्मान: प्रत्येक व्यक्ति के साथ समान गरिमा और दयालुता का व्यवहार करना, यह पहचानते हुए कि व्यक्ति का मूल्य उसके चरित्र, हृदय और कार्यों में है, न कि उसकी शारीरिक बनावट या सममिति में। 2. चिढ़ाने और बुलिंग का विरोध: शारीरिक भिन्नता या दिव्यांगता वाले सहपाठियों का कभी मजाक न उड़ाना, घूरना या उन्हें अलग-थलग न करना। 3. सक्रिय समावेशिता: विविध क्षमताओं वाले सहपाठियों को समूह परियोजनाओं, खेलों और सामाजिक गतिविधियों में भाग लेने के लिए आगे बढ़कर आमंत्रित करना, तथा नियमों को इस प्रकार अनुकूलित करना कि संवेदनशील विद्यालयी परिवार में हर कोई सम्मानित और समर्थित महसूस करे।",
+      "keyPoints": [
+        "प्रकृति में सममिति (संतुलन) और असममिति (कार्यकुशलता) दोनों का अपना महत्व है (Both external symmetry for balance and internal asymmetry for function are vital in nature)",
+        "शारीरिक बनावट के बजाय व्यक्ति के चरित्र और हृदय का सम्मान करना (Value a person's character, heart, and actions over physical appearance or symmetry)",
+        "दिव्यांग या भिन्न दिखने वाले सहपाठियों के प्रति सहानुभूति और समावेशिता (Practice active empathy, kindness, and inclusion towards classmates with disabilities)"
+      ]
+    },
+    {
+      "id": "q29",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Compare and contrast the symmetry properties of six types of quadrilaterals: Square, Rectangle, Rhombus, Parallelogram, Isosceles Trapezium, and Kite. For each quadrilateral, state the exact number of lines of symmetry and specify the geometrical location of those axes of symmetry. Explain mathematically why a general parallelogram has zero lines of symmetry despite having equal opposite sides.",
+      "questionHi": "छह प्रकार के चतुर्भुजों की सममिति गुणों की तुलना कीजिए: वर्ग, आयत, समचतुर्भुज, समांतर चतुर्भुज, समद्विबाहु समलंब (Isosceles Trapezium) और पतंग (Kite)। प्रत्येक चतुर्भुज के लिए, सममिति रेखाओं की सटीक संख्या बताइए और उन सममिति अक्षों की ज्यामितीय स्थिति निर्दिष्ट कीजिए। गणितीय रूप से समझाइए कि सम्मुख भुजाएँ बराबर होने के बावजूद एक सामान्य समांतर चतुर्भुज (Parallelogram) में शून्य सममिति रेखाएँ क्यों होती हैं।",
+      "answer": "Symmetry Analysis of Six Quadrilaterals: 1. Square: 4 lines of symmetry (2 passing through midpoints of opposite sides, and 2 along diagonals). 2. Rectangle: 2 lines of symmetry (passing through midpoints of opposite sides). Diagonals are NOT lines of symmetry. 3. Rhombus: 2 lines of symmetry (lie along the two diagonals). Midpoint lines are NOT lines of symmetry. 4. Isosceles Trapezium (one pair of parallel sides and non-parallel sides equal): 1 line of symmetry (the vertical line passing through midpoints of the two parallel sides). 5. Kite (two pairs of equal adjacent sides): 1 line of symmetry (lies along the main longer diagonal connecting vertices between equal side pairs). 6. General Parallelogram: 0 lines of symmetry (no line of symmetry). Why a Parallelogram has Zero Lines of Symmetry: Although opposite sides of a parallelogram are equal ($AB = CD$ and $BC = DA$), its adjacent angles are unequal (one is acute and the other is obtuse, e.g., $\\angle A = 60^\\circ$ and $\\angle B = 120^\\circ$). If we fold a parallelogram along a vertical/horizontal middle line or along a diagonal, the acute angle corner always folds over onto the obtuse angle corner. Since a 60° corner can never coincide with or cover a 120° corner, the halves fail to overlap. Hence, a general parallelogram has 0 lines of reflection symmetry (though it has rotational symmetry of order 2).",
+      "answerHi": "छह चतुर्भुजों का सममिति विश्लेषण: 1. वर्ग (Square): 4 सममिति रेखाएँ (2 सम्मुख भुजाओं के मध्य बिंदुओं से और 2 विकर्णों के अनुदिश)। 2. आयत (Rectangle): 2 सममिति रेखाएँ (सम्मुख भुजाओं के मध्य बिंदुओं से)। विकर्ण सममिति रेखाएँ नहीं हैं। 3. समचतुर्भुज (Rhombus): 2 सममिति रेखाएँ (दोनों विकर्णों के अनुदिश)। मध्य बिंदु रेखाएँ सममित नहीं हैं। 4. समद्विबाहु समलंब (Isosceles Trapezium - समांतर भुजाओं का एक युग्म और असमानंतर भुजाएँ बराबर): 1 सममिति रेखा (दोनों समांतर भुजाओं के मध्य बिंदुओं से गुजरने वाली ऊर्ध्वाधर रेखा)। 5. पतंग (Kite): 1 सममिति रेखा (समान आसन्न भुजाओं के बीच के शीर्षों को जोड़ने वाले मुख्य बड़े विकर्ण के अनुदिश)। 6. सामान्य समांतर चतुर्भुज (Parallelogram): 0 सममिति रेखाएँ (कोई सममिति रेखा नहीं)। समांतर चतुर्भुज में शून्य सममिति रेखाएँ क्यों होती हैं: यद्यपि समांतर चतुर्भुज की सम्मुख भुजाएँ बराबर होती हैं ($AB = CD$ और $BC = DA$), लेकिन इसके आसन्न कोण असमान होते हैं (एक न्यून कोण और दूसरा अधिक कोण, जैसे $\\angle A = 60^\\circ$ और $\\angle B = 120^\\circ$)। यदि हम समांतर चतुर्भुज को मध्य रेखा या विकर्ण पर मोड़ते हैं, तो न्यून कोण वाला कोना सदैव अधिक कोण वाले कोने पर जाता है। चूँकि 60° का कोना कभी भी 120° के कोने को नहीं ढक सकता, इसलिए दोनों भाग संपाती नहीं होते। अतः सामान्य समांतर चतुर्भुज में 0 परावर्तन सममिति रेखा होती है (यद्यपि इसमें क्रम 2 की घूर्णन सममिति होती है)।",
+      "keyPoints": [
+        "वर्ग=4, आयत=2, समचतुर्भुज=2, समद्विबाहु समलंब=1, पतंग=1, समांतर चतुर्भुज=0 (Square=4, Rectangle=2, Rhombus=2, Isosceles Trapezium=1, Kite=1, Parallelogram=0)",
+        "समांतर चतुर्भुज में आसन्न कोण असमान (न्यून कोण और अधिक कोण) होते हैं (Parallelogram has unequal adjacent angles: acute and obtuse)",
+        "मोड़ने पर न्यून कोण और अधिक कोण एक-दूसरे को नहीं ढकते, अतः सममिति शून्य होती है (Folding causes acute and obtuse angles to mismatch, resulting in zero reflection symmetry)"
+      ]
+    },
+    {
+      "id": "q30",
+      "type": "case-study",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Case-Study: The National Highway Traffic Safety Authority designs road traffic signs using standardized geometrical shapes and symbols so that drivers can instantly recognize and comprehend them from a long distance. Consider four standard traffic signs: 1. A 'Yield / Give Way' sign in the shape of an unmarked equilateral triangle. 2. A 'STOP' sign in the shape of an unmarked regular octagon. 3. A 'Speed Limit 50' sign on a rectangular board. 4. A circular 'No U-Turn' sign featuring a U-turn arrow crossed out by a diagonal slash.\n(a) Determine the exact number of lines of symmetry for the unmarked equilateral triangle sign and the unmarked regular octagonal STOP sign board.\n(b) When text, numerical digits (like '50'), or directional symbols (like a diagonal slash over an arrow) are painted inside a symmetrical geometric sign board, how does it affect the overall reflection symmetry of the traffic sign?\n(c) Why is geometrical simplicity and visual symmetry vital for public safety symbols and road traffic signage?",
+      "questionHi": "केस-स्टडी: राष्ट्रीय राजमार्ग यातायात सुरक्षा प्राधिकरण मानकीकृत ज्यामितीय आकृतियों और प्रतीकों का उपयोग करके सड़क यातायात संकेत (Traffic Signs) डिज़ाइन करता है ताकि चालक उन्हें लंबी दूरी से तुरंत पहचान और समझ सकें। चार मानक यातायात संकेतों पर विचार कीजिए: 1. बिना किसी निशान के समबाहु त्रिभुज के आकार का 'रास्ता दें' (Yield / Give Way) संकेत। 2. बिना किसी निशान के सम अष्टभुज (Regular Octagon) के आकार का 'STOP' संकेत। 3. आयताकार बोर्ड पर 'गति सीमा 50' (Speed Limit 50) संकेत। 4. वृत्ताकार 'नो यू-टर्न' (No U-Turn) संकेत जिसमें यू-टर्न तीर को विकर्ण रेखा (slash) से काटा गया है।\n(a) बिना निशान वाले समबाहु त्रिभुज संकेत और बिना निशान वाले सम अष्टभुजाकार STOP संकेत बोर्ड के लिए सममिति रेखाओं की सटीक संख्या ज्ञात कीजिए।\n(b) जब किसी सममित ज्यामितीय संकेत बोर्ड के अंदर टेक्स्ट, अंक (जैसे '50'), या दिशात्मक प्रतीक (जैसे तीर पर विकर्ण काट) पेंट किए जाते हैं, तो यह यातायात संकेत की समग्र परावर्तन सममिति को कैसे प्रभावित करता है?\n(c) सार्वजनिक सुरक्षा प्रतीकों और सड़क यातायात संकेतों के लिए ज्यामितीय सरलता और दृश्य सममिति क्यों अत्यंत महत्वपूर्ण है?",
+      "answer": "(a) Symmetry of unmarked geometric boards: 1. Unmarked Equilateral Triangle sign: Exactly 3 lines of symmetry (since a regular polygon of 3 sides has 3 axes of symmetry). 2. Unmarked Regular Octagon STOP sign: Exactly 8 lines of symmetry (since a regular polygon of 8 sides has 8 axes of symmetry: 4 through opposite vertices and 4 through midpoints of opposite sides). (b) Effect of symbols and text: Painting non-symmetrical text (like 'STOP' or '50') or directional symbols (like an arrow pointing left or an asymmetric diagonal slash) destroys the reflection symmetry of the overall board. Even if the outer board is an octagonal or circular shape with 8 or infinite lines of symmetry, the internal symbol restricts or completely eliminates line symmetry, reducing the overall sign's symmetry to 0 or 1 line (e.g., a vertical arrow in a circle has only 1 vertical line of symmetry). (c) Importance of Simplicity and Symmetry: 1. Instant Recognition: High-speed drivers have only a fraction of a second to read signs. Simple, symmetrical geometric shapes (like octagons or triangles) stand out instantly against chaotic backgrounds (trees, buildings). 2. Universal Communication: Symmetrical symbols transcend language barriers, enabling illiterate drivers or international travelers to instantly understand critical safety warnings and road rules without reading text.",
+      "answerHi": "(a) बिना निशान वाले ज्यामितीय बोर्डों की सममिति: 1. बिना निशान वाला समबाहु त्रिभुज संकेत: ठीक 3 सममिति रेखाएँ (चूँकि 3 भुजाओं वाले सम बहुभुज में 3 सममिति अक्ष होते हैं)। 2. बिना निशान वाला सम अष्टभुज STOP संकेत: ठीक 8 सममिति रेखाएँ (चूँकि 8 भुजाओं वाले सम बहुभुज में 8 सममिति अक्ष होते हैं: 4 सम्मुख शीर्षों से और 4 सम्मुख भुजाओं के मध्य बिंदुओं से)। (b) प्रतीकों और टेक्स्ट का प्रभाव: बोर्ड के अंदर असममित टेक्स्ट (जैसे 'STOP' या '50') या दिशात्मक प्रतीक (जैसे बाएँ मुड़ा तीर या विकर्ण काट) पेंट करने से पूरे बोर्ड की परावर्तन सममिति समाप्त हो जाती है। भले ही बाहरी बोर्ड 8 या अनंत सममिति रेखाओं वाला अष्टभुज या वृत्त हो, आंतरिक प्रतीक सममिति को सीमित या पूरी तरह समाप्त कर देता है, जिससे पूरे संकेत की सममिति घटकर 0 या 1 रह जाती है (जैसे वृत्त के अंदर सीधे तीर में केवल 1 ऊर्ध्वाधर सममिति रेखा होती है)। (c) सरलता और सममिति का महत्व: 1. त्वरित पहचान: तेज गति से गाड़ी चलाने वालों के पास संकेत पढ़ने के लिए केवल एक सेकंड का अंश होता है। सरल और सममित ज्यामितीय आकृतियाँ (जैसे अष्टभुज या त्रिभुज) जटिल पृष्ठभूमि (पेड़, इमारतों) के बीच तुरंत दिखाई दे जाती हैं। 2. सार्वभौमिक संचार: सममित प्रतीक भाषा की सीमाओं को पार कर जाते हैं, जिससे अनपढ़ चालक या विदेशी यात्री बिना टेक्स्ट पढ़े महत्वपूर्ण सुरक्षा चेतावनियों और यातायात नियमों को तुरंत समझ जाते हैं।",
+      "keyPoints": [
+        "समबाहु त्रिभुज बोर्ड = 3 सममिति रेखाएँ; सम अष्टभुज बोर्ड = 8 सममिति रेखाएँ (Equilateral triangle board = 3 lines of symmetry; Regular octagon board = 8 lines of symmetry)",
+        "आंतरिक टेक्स्ट या दिशात्मक प्रतीक (तीर/काट) जोड़ने से समग्र सममिति समाप्त या कम हो जाती है (Adding internal text or asymmetrical directional symbols reduces or destroys overall line symmetry)",
+        "सरल और सममित आकृतियाँ तेज गति में तुरंत पहचान और सार्वभौमिक सुरक्षा संचार सुनिश्चित करती हैं (Simple symmetrical shapes ensure instant recognition at high speeds and universal safety communication)"
+      ]
+    }
+  ]
+}
