@@ -1,0 +1,474 @@
+{
+  "chapterTitle": "Number Play",
+  "chapterTitleHi": "संख्याओं का खेल",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Define a factor and a multiple of a number with one numerical example for each.",
+      "questionHi": "किसी संख्या के गुणनखंड (Factor) और गुणज (Multiple) को परिभाषित कीजिए तथा प्रत्येक का एक संख्यात्मक उदाहरण दीजिए।",
+      "answer": "A factor of a number is an exact divisor of that number, leaving zero remainder (e.g., 3 is a factor of 12 because 12 ÷ 3 = 4). A multiple of a number is obtained by multiplying that number by any natural number (e.g., 20 is a multiple of 5 because 5 × 4 = 20).",
+      "answerHi": "किसी संख्या का गुणनखंड वह संख्या होती है जो दी गई संख्या को पूरा-पूरा विभाजित करती है (शेषफल शून्य बचता है; जैसे: 3, 12 का गुणनखंड है क्योंकि 12 ÷ 3 = 4)। किसी संख्या का गुणज उस संख्या को किसी भी प्राकृत संख्या से गुणा करने पर प्राप्त होता है (जैसे: 20, 5 का गुणज है क्योंकि 5 × 4 = 20)।",
+      "keyPoints": [
+        "गुणनखंड: दी गई संख्या का पूर्ण विभाजक (Factor: exact divisor leaving zero remainder)",
+        "गुणज: संख्या का प्राकृत संख्या से गुणनफल (Multiple: product of number and natural number)",
+        "उदाहरण: 12 के गुणनखंड (1,2,3,4,6,12), 5 के गुणज (5,10,15,20) (Examples: factors of 12 vs multiples of 5)"
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "State any two important properties of factors and two important properties of multiples.",
+      "questionHi": "गुणनखंडों (Factors) के कोई दो महत्वपूर्ण गुण और गुणजों (Multiples) के कोई दो महत्वपूर्ण गुण बताइए।",
+      "answer": "Properties of factors: 1) 1 is a factor of every number, and every number is the greatest factor of itself. 2) The number of factors of a given number is always finite. \nProperties of multiples: 1) Every multiple of a number is greater than or equal to that number. 2) The number of multiples of a given number is infinite.",
+      "answerHi": "गुणनखंडों के गुण: 1) 1 प्रत्येक संख्या का गुणनखंड होता है, और प्रत्येक संख्या स्वयं का सबसे बड़ा गुणनखंड होती है। 2) किसी भी संख्या के गुणनखंडों की संख्या सीमित (निश्चित) होती है।\nगुणजों के गुण: 1) किसी संख्या का प्रत्येक गुणज उस संख्या से बड़ा या उसके बराबर होता है। 2) किसी भी संख्या के गुणजों की संख्या अनंत (असीमित) होती है।",
+      "keyPoints": [
+        "गुणनखंड सीमित होते हैं, सबसे छोटा 1 और सबसे बड़ा स्वयं संख्या (Factors are finite; smallest is 1, largest is number itself)",
+        "गुणज अनंत होते हैं, सबसे छोटा गुणज स्वयं संख्या (Multiples are infinite; smallest is number itself)",
+        "संख्यात्मक संबंधों की स्पष्टता (Clear distinction between finite factors and infinite multiples)"
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What are prime numbers and composite numbers? Why is the number 1 considered neither prime nor composite?",
+      "questionHi": "अभाज्य संख्याएँ (Prime Numbers) और भाज्य संख्याएँ (Composite Numbers) क्या होती हैं? संख्या 1 को न तो अभाज्य और न ही भाज्य क्यों माना जाता है?",
+      "answer": "A prime number is a natural number greater than 1 that has exactly two distinct factors: 1 and itself (e.g., 2, 3, 5, 7). A composite number has more than two factors (e.g., 4, 6, 8, 9). The number 1 is neither prime nor composite because it has only one factor (1 itself), failing the definition of both categories.",
+      "answerHi": "अभाज्य संख्या वह प्राकृत संख्या है जो 1 से बड़ी हो और जिसके केवल दो ही गुणनखंड हों: 1 और स्वयं वह संख्या (जैसे: 2, 3, 5, 7)। भाज्य संख्या वह संख्या है जिसके दो से अधिक गुणनखंड हों (जैसे: 4, 6, 8, 9)। संख्या 1 न तो अभाज्य है और न ही भाज्य क्योंकि इसका केवल एक ही गुणनखंड (स्वयं 1) होता है।",
+      "keyPoints": [
+        "अभाज्य: केवल 2 गुणनखंड (1 और स्वयं) (Prime: exactly 2 distinct factors)",
+        "भाज्य: 2 से अधिक गुणनखंड (Composite: more than 2 factors)",
+        "संख्या 1 का केवल 1 गुणनखंड ➔ न अभाज्य, न भाज्य (Number 1 has only 1 factor ➔ neither prime nor composite)"
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What is the smallest prime number? Which is the only even prime number in the number system?",
+      "questionHi": "सबसे छोटी अभाज्य संख्या कौन-सी है? संख्या पद्धति में एकमात्र सम अभाज्य संख्या (Even Prime Number) कौन-सी है?",
+      "answer": "The smallest prime number is 2. The number 2 is also the only even prime number in the entire number system. Every other even number (4, 6, 8, 10...) is divisible by 2 and therefore has more than two factors, making them composite numbers.",
+      "answerHi": "सबसे छोटी अभाज्य संख्या 2 है। संख्या 2 संपूर्ण संख्या पद्धति में एकमात्र सम अभाज्य संख्या भी है। इसके अलावा अन्य सभी सम संख्याएँ (4, 6, 8, 10...) 2 से विभाज्य होती हैं, जिसके कारण उनके दो से अधिक गुणनखंड हो जाते हैं और वे भाज्य संख्याएँ बन जाती हैं।",
+      "keyPoints": [
+        "सबसे छोटी अभाज्य संख्या = 2 (Smallest prime number = 2)",
+        "एकमात्र सम अभाज्य संख्या = 2 (Only even prime number = 2)",
+        "अन्य सभी सम संख्याएँ भाज्य होती हैं (All other even numbers are composite because they are divisible by 2)"
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What are twin primes? Write any two pairs of twin primes between 1 and 50.",
+      "questionHi": "जुड़वाँ अभाज्य संख्याएँ (Twin Primes) क्या होती हैं? 1 से 50 के बीच जुड़वाँ अभाज्य संख्याओं के कोई दो युग्म (जोड़े) लिखिए।",
+      "answer": "Twin primes are pairs of prime numbers whose difference is exactly 2. Two excellent pairs of twin primes between 1 and 50 are (3, 5) and (11, 13). (Other valid pairs include (5, 7), (17, 19), (29, 31), and (41, 43)).",
+      "answerHi": "जुड़वाँ अभाज्य संख्याएँ अभाज्य संख्याओं के वे जोड़े होते हैं जिनके बीच का अंतर ठीक 2 होता है। 1 से 50 के बीच जुड़वाँ अभाज्य संख्याओं के दो उत्तम युग्म हैं: (3, 5) और (11, 13)। (अन्य वैध युग्म: (5, 7), (17, 19), (29, 31) और (41, 43))।",
+      "keyPoints": [
+        "परिभाषा: दो अभाज्य संख्याएँ जिनका अंतर 2 हो (Definition: Prime numbers with a difference of exactly 2)",
+        "युग्म 1: (3, 5) क्योंकि 5 - 3 = 2 (Pair 1: (3, 5))",
+        "युग्म 2: (11, 13) क्योंकि 13 - 11 = 2 (Pair 2: (11, 13))"
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What are co-prime numbers? Can two composite numbers be co-prime to each other? Give one example.",
+      "questionHi": "सह-अभाज्य संख्याएँ (Co-prime Numbers) क्या होती हैं? क्या दो भाज्य संख्याएँ आपस में सह-अभाज्य हो सकती हैं? एक उदाहरण दीजिए।",
+      "answer": "Two numbers are called co-prime numbers if they have only 1 as their common factor (i.e., their HCF is 1). Yes, two composite numbers CAN be co-prime to each other. For example, 8 (factors: 1, 2, 4, 8) and 9 (factors: 1, 3, 9) are both composite numbers, but their only common factor is 1, making them co-prime.",
+      "answerHi": "दो संख्याओं को सह-अभाज्य संख्याएँ तब कहा जाता है जब उनका केवल 1 ही उभयनिष्ठ गुणनखंड (Common Factor) हो (अर्थात उनका महत्तम समापवर्तक 1 हो)। हाँ, दो भाज्य संख्याएँ भी आपस में सह-अभाज्य हो सकती हैं। उदाहरण के लिए, 8 (गुणनखंड: 1, 2, 4, 8) और 9 (गुणनखंड: 1, 3, 9) दोनों भाज्य संख्याएँ हैं, परंतु उनमें केवल 1 ही उभयनिष्ठ गुणनखंड है, अतः वे सह-अभाज्य हैं।",
+      "keyPoints": [
+        "सह-अभाज्य: केवल 1 उभयनिष्ठ गुणनखंड / HCF = 1 (Co-prime: only 1 as common factor / HCF = 1)",
+        "भाज्य संख्याएँ भी सह-अभाज्य हो सकती हैं (Two composite numbers CAN be co-prime)",
+        "उदाहरण: 8 और 9 (8 और 9 दोनों भाज्य हैं, फिर भी HCF = 1 है) (Example: 8 and 9 are composite yet co-prime)"
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "State the divisibility rules for 2 and 5. Is the number 34,570 divisible by both 2 and 5?",
+      "questionHi": "2 और 5 से विभाज्यता के नियम बताइए। क्या संख्या 34,570, 2 और 5 दोनों से विभाज्य है?",
+      "answer": "Divisibility rule for 2: A number is divisible by 2 if its ones (unit) digit is 0, 2, 4, 6, or 8 (an even digit). \nDivisibility rule for 5: A number is divisible by 5 if its ones (unit) digit is either 0 or 5. \nFor the number 34,570, the ones digit is 0. Since 0 satisfies both rules, 34,570 is divisible by both 2 and 5 (and hence by 10).",
+      "answerHi": "2 से विभाज्यता का नियम: यदि किसी संख्या का इकाई का अंक 0, 2, 4, 6 या 8 (सम अंक) हो, तो वह 2 से विभाज्य होती है।\n5 से विभाज्यता का नियम: यदि किसी संख्या का इकाई का अंक 0 या 5 हो, तो वह 5 से विभाज्य होती है।\nसंख्या 34,570 में इकाई का अंक 0 है। चूँकि 0 दोनों नियमों को पूरा करता है, अतः 34,570, 2 और 5 दोनों से पूर्णतः विभाज्य है।",
+      "keyPoints": [
+        "2 का नियम: इकाई का अंक 0, 2, 4, 6, 8 (Rule for 2: unit digit is even)",
+        "5 का नियम: इकाई का अंक 0 या 5 (Rule for 5: unit digit is 0 or 5)",
+        "34,570 का इकाई अंक 0 है ➔ दोनों से विभाज्य (34,570 ends in 0 ➔ divisible by both 2 and 5)"
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "State the divisibility rule for 3. Check without actual division whether 45,672 is divisible by 3.",
+      "questionHi": "3 से विभाज्यता का नियम बताइए। बिना वास्तविक भाग दिए जाँच कीजिए कि क्या 45,672, 3 से विभाज्य है।",
+      "answer": "Divisibility rule for 3: A number is divisible by 3 if the sum of all its digits is a multiple of 3. \nTo check 45,672: Sum of digits = 4 + 5 + 6 + 7 + 2 = 24. \nSince 24 is a multiple of 3 (24 ÷ 3 = 8), the number 45,672 is exactly divisible by 3.",
+      "answerHi": "3 से विभाज्यता का नियम: यदि किसी संख्या के सभी अंकों का योग 3 का गुणज (3 से विभाज्य) हो, तो वह संख्या 3 से विभाज्य होती है।\n45,672 की जाँच: अंकों का योग = 4 + 5 + 6 + 7 + 2 = 24।\nचूँकि 24, 3 का गुणज है (24 ÷ 3 = 8), अतः संख्या 45,672, 3 से पूर्णतः विभाज्य है।",
+      "keyPoints": [
+        "3 का नियम: अंकों का योग 3 से विभाज्य (Rule for 3: sum of digits is a multiple of 3)",
+        "अंकों का योग: 4 + 5 + 6 + 7 + 2 = 24 (Sum of digits: 24)",
+        "24 ÷ 3 = 8 ➔ पूर्णतः विभाज्य (Since 24 is divisible by 3, 45,672 is divisible by 3)"
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "What is prime factorization? Express 84 as a product of its prime factors.",
+      "questionHi": "अभाज्य गुणनखंडन (Prime Factorization) क्या है? 84 को इसके अभाज्य गुणनखंडों के गुणनफल के रूप में व्यक्त कीजिए।",
+      "answer": "Prime factorization is the process of expressing a composite number as the product of only prime numbers. \nTo factorize 84: \n84 = 2 × 42 = 2 × 2 × 21 = 2 × 2 × 3 × 7. \nTherefore, the prime factorization of 84 is 2 × 2 × 3 × 7 (or 2² × 3 × 7).",
+      "answerHi": "अभाज्य गुणनखंडन वह प्रक्रिया है जिसमें किसी भाज्य संख्या को केवल अभाज्य संख्याओं के गुणनफल के रूप में व्यक्त किया जाता है।\n84 का गुणनखंडन: \n84 = 2 × 42 = 2 × 2 × 21 = 2 × 2 × 3 × 7।\nअतः 84 का अभाज्य गुणनखंडन = 2 × 2 × 3 × 7 (या 2² × 3 × 7) है।",
+      "keyPoints": [
+        "केवल अभाज्य संख्याओं के गुणनफल के रूप में व्यक्त करना (Expressing a number as product of prime factors only)",
+        "क्रमिक विभाजन: 84 ➔ 42 ➔ 21 ➔ 7 ➔ 1 (Step-by-step division by primes 2, 2, 3, 7)",
+        "सटीक उत्तर: 84 = 2 × 2 × 3 × 7 (Exact answer: 2 × 2 × 3 × 7)"
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "Define HCF (Highest Common Factor) and LCM (Lowest Common Multiple) of two or more numbers.",
+      "questionHi": "दो या दो से अधिक संख्याओं के महत्तम समापवर्तक (HCF / म.स.) और लघुत्तम समापवर्त्य (LCM / ल.स.) को परिभाषित कीजिए।",
+      "answer": "The Highest Common Factor (HCF) of two or more numbers is the largest common divisor that divides all the given numbers exactly without leaving any remainder. The Lowest Common Multiple (LCM) of two or more numbers is the smallest common multiple that is exactly divisible by each of the given numbers.",
+      "answerHi": "महत्तम समापवर्तक (HCF / म.स.): दो या दो से अधिक संख्याओं का महत्तम समापवर्तक वह सबसे बड़ी संख्या (विभाजक) है जो दी गई सभी संख्याओं को पूरा-पूरा विभाजित करती है।\nलघुत्तम समापवर्त्य (LCM / ल.स.): दो या दो से अधिक संख्याओं का लघुत्तम समापवर्त्य वह सबसे छोटी संख्या (गुणज) है जो दी गई प्रत्येक संख्या से पूरा-पूरा विभाजित हो जाती है।",
+      "keyPoints": [
+        "HCF: दी गई सभी संख्याओं को विभाजित करने वाला सबसे बड़ा विभाजक (HCF: largest divisor that divides all numbers)",
+        "LCM: दी गई सभी संख्याओं से विभाजित होने वाला सबसे छोटा गुणज (LCM: smallest multiple divisible by all numbers)",
+        "अंतर स्पष्टीकरण (Clear contrast between greatest divisor vs smallest multiple)"
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "State the divisibility rules for 4 and 8. Using these rules, check whether 72,536 is divisible by 4 and by 8.",
+      "questionHi": "4 और 8 से विभाज्यता के नियम बताइए। इन नियमों का उपयोग करते हुए जाँच कीजिए कि क्या 72,536, 4 और 8 से विभाज्य है।",
+      "answer": "Divisibility rule for 4: A number is divisible by 4 if the number formed by its last two digits (tens and ones) is divisible by 4.\nDivisibility rule for 8: A number is divisible by 8 if the number formed by its last three digits (hundreds, tens, and ones) is divisible by 8.\nChecking 72,536:\n1) Last two digits form 36. Since 36 ÷ 4 = 9, 72,536 is divisible by 4.\n2) Last three digits form 536. Since 536 ÷ 8 = 67, 72,536 is also divisible by 8.",
+      "answerHi": "4 से विभाज्यता का नियम: यदि किसी संख्या के अंतिम दो अंकों (दहाई और इकाई) से बनी संख्या 4 से विभाज्य हो, तो वह संख्या 4 से विभाज्य होती है।\n8 से विभाज्यता का नियम: यदि किसी संख्या के अंतिम तीन अंकों (सैकड़ा, दहाई और इकाई) से बनी संख्या 8 से विभाज्य हो, तो वह संख्या 8 से विभाज्य होती है।\n72,536 की जाँच:\n1) अंतिम दो अंक 36 बनाते हैं। चूँकि 36 ÷ 4 = 9, अतः संख्या 4 से विभाज्य है।\n2) अंतिम तीन अंक 536 बनाते हैं। चूँकि 536 ÷ 8 = 67, अतः संख्या 8 से भी विभाज्य है।",
+      "keyPoints": [
+        "4 का नियम: अंतिम 2 अंक 4 से विभाज्य (Rule for 4: last 2 digits divisible by 4)",
+        "8 का नियम: अंतिम 3 अंक 8 से विभाज्य (Rule for 8: last 3 digits divisible by 8)",
+        "36 ÷ 4 = 9 ➔ 4 से विभाज्य (Last 2 digits: 36 ÷ 4 = 9 ➔ divisible by 4)",
+        "536 ÷ 8 = 67 ➔ 8 से विभाज्य (Last 3 digits: 536 ÷ 8 = 67 ➔ divisible by 8)"
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "State the divisibility rule for 6. Using the rule, determine whether 38,412 is divisible by 6.",
+      "questionHi": "6 से विभाज्यता का नियम बताइए। इस नियम का उपयोग करते हुए ज्ञात कीजिए कि क्या 38,412, 6 से विभाज्य है।",
+      "answer": "Divisibility rule for 6: Since 2 and 3 are co-prime factors of 6 (2 × 3 = 6), a number is divisible by 6 if and only if it is divisible by BOTH 2 and 3 simultaneously.\nChecking 38,412:\n1) Check for 2: The ones digit is 2 (an even number), so it is divisible by 2.\n2) Check for 3: Sum of digits = 3 + 8 + 4 + 1 + 2 = 18. Since 18 is a multiple of 3 (18 ÷ 3 = 6), it is divisible by 3.\nSince 38,412 is divisible by both 2 and 3, it is exactly divisible by 6.",
+      "answerHi": "6 से विभाज्यता का नियम: चूँकि 2 और 3, 6 के सह-अभाज्य गुणनखंड हैं (2 × 3 = 6), कोई संख्या 6 से केवल तभी विभाज्य होती है जब वह 2 और 3 दोनों से एक साथ पूर्णतः विभाज्य हो।\n38,412 की जाँच:\n1) 2 से जाँच: इकाई का अंक 2 (सम अंक) है, अतः यह 2 से विभाज्य है।\n2) 3 से जाँच: अंकों का योग = 3 + 8 + 4 + 1 + 2 = 18। चूँकि 18, 3 का गुणज है (18 ÷ 3 = 6), अतः यह 3 से विभाज्य है।\nचूँकि 38,412, 2 और 3 दोनों से विभाज्य है, अतः यह 6 से पूर्णतः विभाज्य है।",
+      "keyPoints": [
+        "6 का नियम: 2 और 3 दोनों से विभाज्य होना अनिवार्य (Rule for 6: must be divisible by BOTH 2 and 3)",
+        "2 से जाँच: इकाई अंक 2 (सम) ➔ विभाज्य (Divisibility by 2: ends in even digit 2)",
+        "3 से जाँच: योग 18, जो 3 से विभाज्य है (Divisibility by 3: sum of digits is 18)",
+        "निष्कर्ष: 6 से पूर्णतः विभाज्य (Conclusion: exactly divisible by 6)"
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "State the divisibility rule for 11. Test whether the number 61,809 is divisible by 11.",
+      "questionHi": "11 से विभाज्यता का नियम बताइए। परीक्षण कीजिए कि क्या संख्या 61,809, 11 से विभाज्य है।",
+      "answer": "Divisibility rule for 11: Find the sum of digits at odd positions (from the right) and the sum of digits at even positions (from the right). If the difference between these two sums is either 0 or a multiple of 11 (such as 11, 22, 33...), then the number is divisible by 11.\nTesting 61,809 (digits from right to left: 9, 0, 8, 1, 6):\n- Sum of digits at odd positions (1st, 3rd, 5th from right) = 9 + 8 + 6 = 23.\n- Sum of digits at even positions (2nd, 4th from right) = 0 + 1 = 1.\n- Difference between the two sums = 23 - 1 = 22.\nSince 22 is a multiple of 11 (22 ÷ 11 = 2), the number 61,809 is exactly divisible by 11.",
+      "answerHi": "11 से विभाज्यता का नियम: दाईं ओर से विषम स्थानों (1, 3, 5...) पर स्थित अंकों का योग और सम स्थानों (2, 4, 6...) पर स्थित अंकों का योग ज्ञात कीजिए। यदि दोनों योगफलों का अंतर 0 हो या 11 का गुणज (जैसे 11, 22, 33...) हो, तो वह संख्या 11 से विभाज्य होती है।\n61,809 का परीक्षण (दाईं से बाईं ओर अंक: 9, 0, 8, 1, 6):\n- विषम स्थानों के अंकों का योग (1ला, 3रा, 5वाँ) = 9 + 8 + 6 = 23।\n- सम स्थानों के अंकों का योग (2रा, 4था) = 0 + 1 = 1।\n- दोनों योगफलों का अंतर = 23 - 1 = 22।\nचूँकि 22, 11 का गुणज है (22 ÷ 11 = 2), अतः संख्या 61,809, 11 से पूर्णतः विभाज्य है।",
+      "keyPoints": [
+        "11 का नियम: विषम और सम स्थानों के अंकों के योग का अंतर 0 या 11 का गुणज (Rule for 11: difference between sum of odd-place and even-place digits is 0 or multiple of 11)",
+        "विषम स्थानों का योग = 9 + 8 + 6 = 23 (Sum of odd positions = 23)",
+        "सम स्थानों का योग = 0 + 1 = 1 (Sum of even positions = 1)",
+        "अंतर: 23 - 1 = 22 ➔ 11 से विभाज्य (Difference: 22 ÷ 11 = 2 ➔ divisible by 11)"
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Find all the common factors of 36 and 48, and identify their Highest Common Factor (HCF).",
+      "questionHi": "36 और 48 के सभी उभयनिष्ठ (सांझे) गुणनखंड ज्ञात कीजिए, तथा उनका महत्तम समापवर्तक (HCF / म.स.) पहचानिए।",
+      "answer": "Let's list all factors of each number:\n- Factors of 36: 1, 2, 3, 4, 6, 9, 12, 18, and 36.\n- Factors of 48: 1, 2, 3, 4, 6, 8, 12, 16, 24, and 48.\nComparing both lists, the common factors of 36 and 48 are: 1, 2, 3, 4, 6, and 12.\nAmong these common factors, the greatest number is 12. Therefore, the Highest Common Factor (HCF) of 36 and 48 is 12.",
+      "answerHi": "प्रत्येक संख्या के सभी गुणनखंड लिखने पर:\n- 36 के गुणनखंड: 1, 2, 3, 4, 6, 9, 12, 18 और 36।\n- 48 के गुणनखंड: 1, 2, 3, 4, 6, 8, 12, 16, 24 और 48।\nदोनों सूचियों की तुलना करने पर, 36 और 48 के उभयनिष्ठ (सांझे) गुणनखंड हैं: 1, 2, 3, 4, 6 और 12।\nइन उभयनिष्ठ गुणनखंडों में सबसे बड़ी संख्या 12 है। अतः 36 और 48 का महत्तम समापवर्तक (HCF / म.स.) 12 है।",
+      "keyPoints": [
+        "36 के गुणनखंड: 1, 2, 3, 4, 6, 9, 12, 18, 36 (Factors of 36)",
+        "48 के गुणनखंड: 1, 2, 3, 4, 6, 8, 12, 16, 24, 48 (Factors of 48)",
+        "उभयनिष्ठ गुणनखंड: 1, 2, 3, 4, 6, 12 (Common factors: 1, 2, 3, 4, 6, 12)",
+        "महत्तम समापवर्तक (HCF) = 12 (Highest Common Factor = 12)"
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Find the first three common multiples of 6 and 8, and state their Lowest Common Multiple (LCM).",
+      "questionHi": "6 और 8 के प्रथम तीन सांझे गुणज (Common Multiples) ज्ञात कीजिए, तथा उनका लघुत्तम समापवर्त्य (LCM / ल.स.) बताइए।",
+      "answer": "Let's list the positive multiples of each number:\n- Multiples of 6: 6, 12, 18, 24, 30, 36, 42, 48, 54, 60, 66, 72...\n- Multiples of 8: 8, 16, 24, 32, 40, 48, 56, 64, 72...\nComparing both lists, the first three common multiples of 6 and 8 are: 24, 48, and 72.\nThe smallest among these common multiples is 24. Therefore, the Lowest Common Multiple (LCM) of 6 and 8 is 24.",
+      "answerHi": "प्रत्येक संख्या के धनात्मक गुणज लिखने पर:\n- 6 के गुणज: 6, 12, 18, 24, 30, 36, 42, 48, 54, 60, 66, 72...\n- 8 के गुणज: 8, 16, 24, 32, 40, 48, 56, 64, 72...\nदोनों सूचियों की तुलना करने पर, 6 और 8 के प्रथम तीन सांझे गुणज हैं: 24, 48 और 72।\nइन सांझे गुणजों में सबसे छोटी संख्या 24 है। अतः 6 और 8 का लघुत्तम समापवर्त्य (LCM / ल.स.) 24 है।",
+      "keyPoints": [
+        "6 के गुणज: 6, 12, 18, 24, 30, 36, 42, 48... (Multiples of 6)",
+        "8 के गुणज: 8, 16, 24, 32, 40, 48, 56, 64... (Multiples of 8)",
+        "प्रथम तीन सांझे गुणज: 24, 48, 72 (First three common multiples: 24, 48, 72)",
+        "लघुत्तम समापवर्त्य (LCM) = 24 (Lowest Common Multiple = 24)"
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Find the HCF of 72 and 108 using the prime factorization method.",
+      "questionHi": "अभाज्य गुणनखंडन विधि का उपयोग करते हुए 72 और 108 का महत्तम समापवर्तक (HCF / म.स.) ज्ञात कीजिए।",
+      "answer": "Step 1: Express both numbers as products of their prime factors:\n- 72 = 2 × 36 = 2 × 2 × 18 = 2 × 2 × 2 × 3 × 3 = 2³ × 3².\n- 108 = 2 × 54 = 2 × 2 × 27 = 2 × 2 × 3 × 3 × 3 = 2² × 3³.\nStep 2: Identify the common prime factors with their lowest exponents present in both numbers:\n- Common factors: two 2s and two 3s (2 × 2 × 3 × 3).\nStep 3: Multiply the common prime factors to get the HCF:\nHCF = 2 × 2 × 3 × 3 = 4 × 9 = 36.",
+      "answerHi": "चरण 1: दोनों संख्याओं को उनके अभाज्य गुणनखंडों के गुणनफल के रूप में लिखने पर:\n- 72 = 2 × 36 = 2 × 2 × 18 = 2 × 2 × 2 × 3 × 3 = 2³ × 3²।\n- 108 = 2 × 54 = 2 × 2 × 27 = 2 × 2 × 3 × 3 × 3 = 2² × 3³।\nचरण 2: दोनों में मौजूद न्यूनतम घात वाले उभयनिष्ठ अभाज्य गुणनखंडों को पहचानने पर:\n- उभयनिष्ठ गुणनखंड: दो बार 2 और दो बार 3 (2 × 2 × 3 × 3)।\nचरण 3: HCF प्राप्त करने के लिए उभयनिष्ठ गुणनखंडों को गुणा करने पर:\nHCF = 2 × 2 × 3 × 3 = 4 × 9 = 36।",
+      "keyPoints": [
+        "72 का अभाज्य गुणनखंडन: 2 × 2 × 2 × 3 × 3 (Prime factorization of 72)",
+        "108 का अभाज्य गुणनखंडन: 2 × 2 × 3 × 3 × 3 (Prime factorization of 108)",
+        "उभयनिष्ठ गुणनखंड: 2² × 3² (Common prime factors: 2² × 3²)",
+        "सटीक HCF = 36 (Exact HCF = 36)"
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Find the LCM of 12, 18, and 24 using the common division method.",
+      "questionHi": "सांझी विभाजन विधि (Common Division Method) का उपयोग करते हुए 12, 18 और 24 का लघुत्तम समापवर्त्य (LCM / ल.स.) ज्ञात कीजिए।",
+      "answer": "Let's divide the numbers simultaneously by common prime numbers:\n- Divide by 2: 12, 18, 24 ➔ quotients are 6, 9, 12.\n- Divide by 2: 6, 9, 12 ➔ quotients are 3, 9, 6 (9 is not divisible by 2, so write it as it is).\n- Divide by 2: 3, 9, 6 ➔ quotients are 3, 9, 3.\n- Divide by 3: 3, 9, 3 ➔ quotients are 1, 3, 1.\n- Divide by 3: 1, 3, 1 ➔ quotients are 1, 1, 1.\nNow, multiply all the divisors: LCM = 2 × 2 × 2 × 3 × 3 = 8 × 9 = 72.",
+      "answerHi": "संख्याओं को एक साथ अभाज्य संख्याओं से भाग देने पर:\n- 2 से भाग: 12, 18, 24 ➔ भागफल: 6, 9, 12।\n- 2 से भाग: 6, 9, 12 ➔ भागफल: 3, 9, 6 (9, 2 से विभाज्य नहीं है, अतः उसे वैसे ही लिखें)।\n- 2 से भाग: 3, 9, 6 ➔ भागफल: 3, 9, 3।\n- 3 से भाग: 3, 9, 3 ➔ भागफल: 1, 3, 1।\n- 3 से भाग: 1, 3, 1 ➔ भागफल: 1, 1, 1।\nअब सभी भाजकों को गुणा करने पर: LCM = 2 × 2 × 2 × 3 × 3 = 8 × 9 = 72।",
+      "keyPoints": [
+        "सांझी विभाजन विधि: 2, 2, 2, 3, 3 से भाग (Common division by prime factors 2, 2, 2, 3, 3)",
+        "गुणनफल: 2 × 2 × 2 × 3 × 3 (Product of divisors: 2³ × 3²)",
+        "सटीक LCM = 72 (Exact LCM = 72)"
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "What is the relationship between the HCF and LCM of two numbers? If the HCF of two numbers is 6 and their LCM is 180, and one of the numbers is 30, find the other number.",
+      "questionHi": "दो संख्याओं के महत्तम समापवर्तक (HCF) और लघुत्तम समापवर्त्य (LCM) के बीच क्या संबंध है? यदि दो संख्याओं का HCF 6 है, उनका LCM 180 है, और उनमें से एक संख्या 30 है, तो दूसरी संख्या ज्ञात कीजिए।",
+      "answer": "For any two positive natural numbers A and B, the product of their HCF and LCM is always exactly equal to the product of the two numbers: HCF × LCM = A × B.\nGiven: HCF = 6, LCM = 180, First Number (A) = 30.\nLet the second number be B.\nSubstituting into the formula: 6 × 180 = 30 × B ➔ 1080 = 30 × B.\nDividing both sides by 30: B = 1080 ÷ 30 = 36.\nTherefore, the second number is 36.",
+      "answerHi": "किन्हीं भी दो धनात्मक प्राकृत संख्याओं A और B के लिए, उनके HCF और LCM का गुणनफल सदैव उन दोनों संख्याओं के गुणनफल के बराबर होता है: HCF × LCM = A × B।\nदिया गया है: HCF = 6, LCM = 180, पहली संख्या (A) = 30।\nमाना दूसरी संख्या B है।\nसूत्र में मान रखने पर: 6 × 180 = 30 × B ➔ 1080 = 30 × B।\nदोनों पक्षों को 30 से भाग देने पर: B = 1080 ÷ 30 = 36।\nअतः दूसरी संख्या 36 है।",
+      "keyPoints": [
+        "सूत्र: HCF × LCM = पहली संख्या × दूसरी संख्या (Formula: HCF × LCM = Product of two numbers)",
+        "समीकरण: 6 × 180 = 30 × B (Equation: 6 × 180 = 30 × B)",
+        "हल: B = 1080 ÷ 30 = 36 (Calculation: B = 1080 ÷ 30 = 36)",
+        "सटीक दूसरी संख्या = 36 (Exact second number = 36)"
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Without actual division, explain how you can determine if a number is divisible by 9 and by 10. Check whether 81,450 is divisible by both 9 and 10.",
+      "questionHi": "बिना वास्तविक भाग दिए स्पष्ट कीजिए कि आप कैसे ज्ञात कर सकते हैं कि कोई संख्या 9 और 10 से विभाज्य है या नहीं। जाँच कीजिए कि क्या 81,450, 9 और 10 दोनों से विभाज्य है।",
+      "answer": "Divisibility rule for 9: A number is divisible by 9 if the sum of all its digits is a multiple of 9.\nDivisibility rule for 10: A number is divisible by 10 if and only if its ones (unit) digit is 0.\nChecking 81,450:\n1) Check for 10: The ones digit is 0, so 81,450 is exactly divisible by 10.\n2) Check for 9: Sum of digits = 8 + 1 + 4 + 5 + 0 = 18. Since 18 is a multiple of 9 (18 ÷ 9 = 2), 81,450 is exactly divisible by 9.\nTherefore, 81,450 is divisible by both 9 and 10 (and hence by 90).",
+      "answerHi": "9 से विभाज्यता का नियम: यदि किसी संख्या के सभी अंकों का योग 9 का गुणज हो, तो वह संख्या 9 से विभाज्य होती है।\n10 से विभाज्यता का नियम: कोई संख्या 10 से केवल तभी विभाज्य होती है जब उसका इकाई का अंक 0 हो।\n81,450 की जाँच:\n1) 10 से जाँच: इकाई का अंक 0 है, अतः संख्या 10 से पूर्णतः विभाज्य है।\n2) 9 से जाँच: अंकों का योग = 8 + 1 + 4 + 5 + 0 = 18। चूँकि 18, 9 का गुणज है (18 ÷ 9 = 2), अतः संख्या 9 से पूर्णतः विभाज्य है।\nअतः 81,450, 9 और 10 दोनों से पूर्णतः विभाज्य है।",
+      "keyPoints": [
+        "9 का नियम: अंकों का योग 9 से विभाज्य (Rule for 9: sum of digits is a multiple of 9)",
+        "10 का नियम: इकाई का अंक 0 (Rule for 10: unit digit is 0)",
+        "अंकों का योग 18 ➔ 9 से विभाज्य (Sum of digits is 18 ➔ divisible by 9)",
+        "इकाई अंक 0 ➔ 10 से विभाज्य (Ends in 0 ➔ divisible by 10)"
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "Can two numbers have 16 as their HCF and 380 as their LCM? Give clear mathematical reasoning to justify your answer.",
+      "questionHi": "क्या किन्हीं दो संख्याओं का महत्तम समापवर्तक (HCF) 16 और लघुत्तम समापवर्त्य (LCM) 380 हो सकता है? अपने उत्तर की पुष्टि के लिए स्पष्ट गणितीय तर्क दीजिए।",
+      "answer": "No, two numbers CANNOT have 16 as their HCF and 380 as their LCM. \nMathematical Reasoning: A fundamental property of numbers states that the HCF of two or more numbers must always be an exact factor (divisor) of their LCM (leaving zero remainder). When we divide the given LCM (380) by the given HCF (16), we get: 380 ÷ 16 = 23 with a remainder of 12 (or 23.75). Since 16 does not divide 380 exactly without leaving a remainder, 16 cannot be the HCF if 380 is the LCM.",
+      "answerHi": "नहीं, किन्हीं दो संख्याओं का HCF 16 और LCM 380 नहीं हो सकता।\nगणितीय तर्क: संख्याओं का एक मौलिक नियम है कि दो या दो से अधिक संख्याओं का महत्तम समापवर्तक (HCF) सदैव उनके लघुत्तम समापवर्त्य (LCM) का एक पूर्ण गुणनखंड (विभाजक) होना चाहिए (अर्थात शेषफल शून्य बचना चाहिए)। जब हम दिए गए LCM (380) को दिए गए HCF (16) से भाग देते हैं: 380 ÷ 16 = 23 और शेषफल 12 बचता है (या 23.75)। चूँकि 16, 380 को पूरा-पूरा विभाजित नहीं करता, अतः ऐसा होना गणितीय रूप से असंभव है।",
+      "keyPoints": [
+        "नियम: HCF सदैव LCM का पूर्ण विभाजक होता है (Rule: HCF must be an exact divisor of LCM)",
+        "जाँच: 380 ÷ 16 = 23 शेषफल 12 (Verification: 380 ÷ 16 leaves remainder 12)",
+        "चूँकि शेषफल शून्य नहीं है ➔ ऐसा संभव नहीं है (Since 16 is not a factor of 380 ➔ NOT possible)"
+      ]
+    },
+    {
+      "id": "q21",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "A competency-based word problem on LCM: Three traffic lights at three different busy road crossings change color after every 48 seconds, 72 seconds, and 108 seconds respectively. If they all flash together simultaneously at 8:00:00 AM, at what exact time will they flash together again?",
+      "questionHi": "LCM पर योग्यता-आधारित इबारती प्रश्न: तीन विभिन्न व्यस्त चौराहों की ट्रैफिक लाइटें क्रमशः प्रत्येक 48 सेकंड, 72 सेकंड और 108 सेकंड के बाद बदलती हैं। यदि वे सभी प्रातः 8:00:00 बजे एक साथ बदलती हैं, तो वे पुनः किस सटीक समय पर एक साथ बदलेंगी?",
+      "answer": "To find the time when all three traffic lights change simultaneously again, we must calculate the Lowest Common Multiple (LCM) of their time intervals: 48, 72, and 108 seconds.\nStep 1: Find prime factorizations:\n- 48 = 16 × 3 = 2⁴ × 3¹\n- 72 = 8 × 9 = 2³ × 3²\n- 108 = 4 × 27 = 2² × 3³\nStep 2: Calculate LCM by taking the highest exponent of each prime factor:\nLCM = 2⁴ × 3³ = 16 × 27 = 432 seconds.\nStep 3: Convert 432 seconds into minutes and seconds:\n1 minute = 60 seconds. 432 ÷ 60 = 7 minutes with a remainder of 12 seconds (7 minutes 12 seconds).\nStep 4: Add this interval to the initial time (8:00:00 AM):\n8:00:00 AM + 7 minutes 12 seconds = 8:07:12 AM.\nTherefore, the three traffic lights will flash together again at exactly 8:07:12 AM.",
+      "answerHi": "तीनों ट्रैफिक लाइटें पुनः एक साथ कब बदलेंगी, यह ज्ञात करने के लिए हमें उनके समय अंतरालों: 48, 72 और 108 सेकंड का लघुत्तम समापवर्त्य (LCM) निकालना होगा।\nचरण 1: अभाज्य गुणनखंडन:\n- 48 = 16 × 3 = 2⁴ × 3¹\n- 72 = 8 × 9 = 2³ × 3²\n- 108 = 4 × 27 = 2² × 3³\nचरण 2: प्रत्येक अभाज्य गुणनखंड की अधिकतम घात लेकर LCM की गणना:\nLCM = 2⁴ × 3³ = 16 × 27 = 432 सेकंड।\nचरण 3: 432 सेकंड को मिनट और सेकंड में बदलना:\n1 मिनट = 60 सेकंड। 432 ÷ 60 = 7 मिनट और शेष 12 सेकंड (7 मिनट 12 सेकंड)।\nचरण 4: प्रारंभिक समय (प्रातः 8:00:00) में यह अंतराल जोड़ना:\n8:00:00 + 7 मिनट 12 सेकंड = प्रातः 8:07:12 बजे।\nअतः तीनों ट्रैफिक लाइटें प्रातः 8:07:12 बजे पुनः एक साथ बदलेंगी।",
+      "keyPoints": [
+        "एक साथ बदलने का समय = समय अंतरालों का LCM (Simultaneous event requires finding LCM)",
+        "LCM(48, 72, 108) = 16 × 27 = 432 सेकंड (LCM calculation = 432 seconds)",
+        "432 सेकंड = 7 मिनट 12 सेकंड (Conversion: 432 seconds = 7 minutes 12 seconds)",
+        "सटीक समय: प्रातः 8:07:12 बजे (Exact time: 8:07:12 AM)"
+      ]
+    },
+    {
+      "id": "q22",
+      "type": "value-based",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "How does the mathematical concept of Highest Common Factor (HCF)—which finds the largest shared divisor to divide resources equally without wastage—relate to the social values of equity, fair distribution, and minimizing waste in community life?",
+      "questionHi": "महत्तम समापवर्तक (HCF) की गणितीय अवधारणा—जो बिना किसी बर्बादी के संसाधनों को समान रूप से बाँटने के लिए सबसे बड़ा सांझा विभाजक खोजती है—सामुदायिक जीवन में समता, निष्पक्ष वितरण और बर्बादी कम करने के सामाजिक मूल्यों से किस प्रकार संबंधित है?",
+      "answer": "In mathematics, the Highest Common Factor (HCF) finds the largest identical quantity that can divide two or more different groups of items completely without leaving a single item leftover or wasted. For example, if a teacher has 60 notebooks and 84 pens, finding their HCF (12) ensures that exactly 12 students receive an identical, equal share of 5 notebooks and 7 pens with zero wastage.\n\nIn community life and governance, this mathematical principle is the foundation of equity, fair distribution, and sustainable resource management. When governments or charitable organizations distribute food, medical supplies, or educational funds, applying the 'HCF mindset' ensures that resources are allocated equitably among diverse populations without discrimination or favoritism. By eliminating surplus leftovers and ensuring every individual receives their rightful share, society mirrors the mathematical harmony of HCF—promoting justice, reducing conflict, and building a responsible, waste-free world.",
+      "answerHi": "गणित में, महत्तम समापवर्तक (HCF) वह सबसे बड़ी समान मात्रा खोजता है जो दो या दो से अधिक विभिन्न वस्तुओं के समूहों को बिना किसी वस्तु को बचाए या बर्बाद किए पूरा-पूरा बाँट सके। उदाहरण के लिए, यदि किसी शिक्षक के पास 60 कॉपी और 84 पेन हैं, तो उनका HCF (12) यह सुनिश्चित करता है कि ठीक 12 विद्यार्थियों को बिना किसी बर्बादी के 5 कॉपी और 7 पेन का समान और निष्पक्ष हिस्सा मिले।\n\nसामुदायिक जीवन और शासन में, यह गणितीय सिद्धांत समता, निष्पक्ष वितरण और सतत संसाधन प्रबंधन की आधारशिला है। जब सरकारें या सामाजिक संस्थाएँ भोजन, दवाइयाँ या शिक्षा निधि वितरित करती हैं, तो 'HCF दृष्टिकोण' अपनाना यह सुनिश्चित करता है कि बिना किसी भेदभाव के सभी वर्गों में संसाधनों का समान वितरण हो। बर्बादी को समाप्त कर प्रत्येक व्यक्ति को उसका उचित अधिकार दिलाकर समाज HCF की गणितीय समरसता को दर्शाता है—जिससे न्याय को बढ़ावा मिलता है, आपसी मतभेद कम होते हैं और एक जिम्मेदार, बर्बादी-रहित विश्व का निर्माण होता है।",
+      "keyPoints": [
+        "HCF: बिना बर्बादी के अधिकतम समान विभाजन (HCF: equal distribution without wastage or leftovers)",
+        "संसाधनों (भोजन, शिक्षा, चिकित्सा) का निष्पक्ष और न्यायपूर्ण वितरण (Fair and equitable allocation of public resources)",
+        "भेदभाव और पक्षपात को समाप्त कर सामाजिक समरसता बनाना (Promoting social equity and justice without favoritism)",
+        "सतत विकास और बर्बादी-रहित समाज का निर्माण (Building a sustainable, waste-free community)"
+      ]
+    },
+    {
+      "id": "q23",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "A competency-based word problem on HCF: A mason wants to pave the floor of a rectangular hall of length 16 meters 50 cm and breadth 12 meters 75 cm using square marble tiles of equal size. \n(a) What is the maximum possible side length of each square tile so that the floor is covered completely without cutting any tile? \n(b) How many such square tiles will be required to pave the entire hall?",
+      "questionHi": "HCF पर योग्यता-आधारित इबारती प्रश्न: एक राजमिस्त्री 16 मीटर 50 सेमी लंबे और 12 मीटर 75 सेमी चौड़े आयताकार हॉल के फर्श पर एक समान आकार की वर्गाकार संगमरमर की टाइलें बिछाना चाहता है।\n(क) प्रत्येक वर्गाकार टाइल की अधिकतम संभव भुजा की लंबाई क्या होनी चाहिए ताकि बिना किसी टाइल को काटे फर्श पूरा ढक जाए?\n(ख) पूरे हॉल में फर्श बिछाने के लिए ऐसी कुल कितनी वर्गाकार टाइलों की आवश्यकता होगी?",
+      "answer": "(a) Maximum Side Length of Square Tile:\nTo cover the floor completely without cutting any tile, the side length of the square tile must be an exact common divisor of both the length and the breadth of the hall. For the maximum size, we must find the Highest Common Factor (HCF) of the dimensions.\nStep 1: Convert dimensions into centimeters to avoid decimals:\n- Length = 16 m 50 cm = 1650 cm.\n- Breadth = 12 m 75 cm = 1275 cm.\nStep 2: Find prime factorization of 1650 and 1275:\n- 1650 = 2 × 3 × 5 × 5 × 11 = 2¹ × 3¹ × 5² × 11¹.\n- 1275 = 3 × 5 × 5 × 17 = 3¹ × 5² × 17¹.\nStep 3: Calculate HCF by multiplying common prime factors:\nHCF = 3 × 5 × 5 = 3 × 25 = 75 cm.\nTherefore, the maximum possible side length of each square tile is 75 cm.\n\n(b) Number of Tiles Required:\n- Total area of the hall = Length × Breadth = 1650 cm × 1275 cm.\n- Area of one square tile = Side × Side = 75 cm × 75 cm.\n- Number of tiles = (Total Area) ÷ (Area of 1 Tile) = (1650 × 1275) ÷ (75 × 75).\n- Simplifying: (1650 ÷ 75) × (1275 ÷ 75) = 22 × 17 = 374 tiles.\nTherefore, exactly 374 square tiles of side 75 cm will be required.",
+      "answerHi": "(क) वर्गाकार टाइल की अधिकतम भुजा की लंबाई:\nबिना किसी टाइल को काटे फर्श को पूरा ढकने के लिए, वर्गाकार टाइल की भुजा हॉल की लंबाई और चौड़ाई दोनों का पूर्ण विभाजक होनी चाहिए। अधिकतम आकार के लिए हमें लंबाई और चौड़ाई का महत्तम समापवर्तक (HCF) निकालना होगा।\nचरण 1: मापों को सेंटीमीटर में बदलना:\n- लंबाई = 16 मीटर 50 सेमी = 1650 सेमी।\n- चौड़ाई = 12 मीटर 75 सेमी = 1275 सेमी।\nचरण 2: 1650 और 1275 का अभाज्य गुणनखंडन:\n- 1650 = 2 × 3 × 5 × 5 × 11 = 2¹ × 3¹ × 5² × 11¹।\n- 1275 = 3 × 5 × 5 × 17 = 3¹ × 5² × 17¹।\nचरण 3: उभयनिष्ठ गुणनखंडों को गुणा करके HCF ज्ञात करना:\nHCF = 3 × 5 × 5 = 3 × 25 = 75 सेमी।\nअतः प्रत्येक वर्गाकार टाइल की अधिकतम संभव भुजा 75 सेमी होनी चाहिए।\n\n(ख) आवश्यक टाइलों की संख्या:\n- हॉल का कुल क्षेत्रफल = लंबाई × चौड़ाई = 1650 सेमी × 1275 सेमी।\n- एक वर्गाकार टाइल का क्षेत्रफल = भुजा × भुजा = 75 सेमी × 75 सेमी।\n- टाइलों की संख्या = (कुल क्षेत्रफल) ÷ (1 टाइल का क्षेत्रफल) = (1650 × 1275) ÷ (75 × 75)।\n- सरल करने पर: (1650 ÷ 75) × (1275 ÷ 75) = 22 × 17 = 374 टाइलें।\nअतः 75 सेमी भुजा वाली ठीक 374 वर्गाकार टाइलों की आवश्यकता होगी।",
+      "keyPoints": [
+        "अधिकतम आकार के लिए HCF निकालना होगा (Maximum square size requires HCF calculation)",
+        "माप सेमी में: 1650 सेमी और 1275 सेमी (Dimensions in cm: 1650 cm and 1275 cm)",
+        "HCF(1650, 1275) = 3 × 5² = 75 सेमी (Max tile side = 75 cm)",
+        "टाइलों की संख्या = (1650 ÷ 75) × (1275 ÷ 75) = 22 × 17 = 374 टाइलें (Total tiles = 374)"
+      ]
+    },
+    {
+      "id": "q24",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "An analytical problem on remainders and HCF/LCM: \n(a) Find the greatest number which divides 285 and 1249, leaving remainders 9 and 7 respectively. \n(b) Find the smallest 4-digit number which when divided by 12, 18, and 24 leaves no remainder.",
+      "questionHi": "शेषफल और HCF/LCM पर एक विश्लेषणात्मक प्रश्न:\n(क) वह सबसे बड़ी संख्या ज्ञात कीजिए जिससे 285 और 1249 को भाग देने पर क्रमशः 9 और 7 शेषफल बचते हैं।\n(ख) 4 अंकों की वह सबसे छोटी संख्या ज्ञात कीजिए जो 12, 18 और 24 से पूर्णतः विभाज्य हो (कोई शेषफल न बचे)।",
+      "answer": "(a) Greatest Number Leaving Remainders:\nIf the required greatest divisor leaves remainders 9 and 7 when dividing 285 and 1249 respectively, then it must divide (285 - 9) and (1249 - 7) exactly without leaving any remainder.\nStep 1: Subtract the remainders:\n- First number = 285 - 9 = 276.\n- Second number = 1249 - 7 = 1242.\nStep 2: Find the Highest Common Factor (HCF) of 276 and 1242:\n- Prime factorization of 276 = 2² × 3 × 23.\n- Prime factorization of 1242 = 2 × 3³ × 23.\n- Common prime factors = 2 × 3 × 23 = 138.\nTherefore, the greatest number is 138.\n\n(b) Smallest 4-Digit Number Divisible by 12, 18, and 24:\nStep 1: Find the LCM of 12, 18, and 24:\n- 12 = 2² × 3; 18 = 2 × 3²; 24 = 2³ × 3.\n- LCM = 2³ × 3² = 8 × 9 = 72.\nEvery number divisible by 12, 18, and 24 must be a multiple of 72.\nStep 2: Find the smallest 4-digit multiple of 72:\n- The smallest 4-digit number is 1000.\n- Divide 1000 by 72: 1000 ÷ 72 = 13 with a remainder of 64 (since 72 × 13 = 936, which is a 3-digit number).\n- The next multiple is 72 × 14 = 1008.\nSince 1008 is a 4-digit number and has zero remainder when divided by 72, the smallest 4-digit number divisible by 12, 18, and 24 is 1008.",
+      "answerHi": "(क) शेषफल छोड़ने वाली सबसे बड़ी संख्या:\nयदि अभीष्ट सबसे बड़ा विभाजक 285 और 1249 को भाग देने पर क्रमशः 9 और 7 शेषफल छोड़ता है, तो वह (285 - 9) और (1249 - 7) को बिना कोई शेषफल छोड़े पूरा-पूरा विभाजित करेगा।\nचरण 1: शेषफल घटाने पर:\n- पहली संख्या = 285 - 9 = 276।\n- दूसरी संख्या = 1249 - 7 = 1242।\nचरण 2: 276 और 1242 का महत्तम समापवर्तक (HCF) ज्ञात करना:\n- 276 का अभाज्य गुणनखंडन = 2² × 3 × 23।\n- 1242 का अभाज्य गुणनखंडन = 2 × 3³ × 23।\n- उभयनिष्ठ अभाज्य गुणनखंड = 2 × 3 × 23 = 138।\nअतः वह सबसे बड़ी संख्या 138 है।\n\n(ख) 12, 18 और 24 से विभाज्य 4 अंकों की सबसे छोटी संख्या:\nचरण 1: 12, 18 और 24 का लघुत्तम समापवर्त्य (LCM) ज्ञात करना:\n- 12 = 2² × 3; 18 = 2 × 3²; 24 = 2³ × 3।\n- LCM = 2³ × 3² = 8 × 9 = 72।\n12, 18 और 24 से विभाज्य प्रत्येक संख्या 72 का गुणज होनी चाहिए।\nचरण 2: 72 का 4 अंकों वाला सबसे छोटा गुणज ज्ञात करना:\n- 4 अंकों की सबसे छोटी संख्या 1000 होती है।\n- 1000 को 72 से भाग देने पर: 1000 ÷ 72 = 13 और शेषफल 64 बचता है (चूँकि 72 × 13 = 936, जो 3 अंकों की संख्या है)।\n- अगला गुणज = 72 × 14 = 1008।\nचूँकि 1008, 4 अंकों की संख्या है और 72 से पूर्णतः विभाज्य है, अतः 12, 18 और 24 से विभाज्य 4 अंकों की सबसे छोटी संख्या 1008 है।",
+      "keyPoints": [
+        "भाग (क): शेषफल घटाकर HCF(276, 1242) = 138 (Part A: Subtract remainders then HCF(276, 1242) = 138)",
+        "भाग (ख): LCM(12, 18, 24) = 72 (Part B: LCM = 72)",
+        "1000 ÷ 72 = 13 शेष 64 ➔ अगला गुणज 72 × 14 = 1008 (Next multiple after 936 is 72 × 14 = 1008)",
+        "4 अंकों की सबसे छोटी विभाज्य संख्या = 1008 (Smallest 4-digit divisible number = 1008)"
+      ]
+    },
+    {
+      "id": "q25",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "A competency-based investigation on primes and Goldbach's Conjecture: \n(a) What is Goldbach's Conjecture regarding even numbers greater than 2? \n(b) Verify Goldbach's Conjecture for the even numbers 24, 36, and 50 by expressing each as the sum of two prime numbers in two different ways. \n(c) Can an even number ever be expressed as the sum of two odd prime numbers and one even prime number? Explain mathematically.",
+      "questionHi": "अभाज्य संख्याओं और गोल्डबाक के अनुमान (Goldbach's Conjecture) पर योग्यता-आधारित अन्वेषण:\n(क) 2 से बड़ी सम संख्याओं के संबंध में गोल्डबाक का अनुमान क्या है?\n(ख) सम संख्याओं 24, 36 और 50 के लिए गोल्डबाक के अनुमान की पुष्टि कीजिए—प्रत्येक को दो अलग-अलग प्रकार से दो अभाज्य संख्याओं के योग के रूप में व्यक्त कीजिए।\n(ग) क्या किसी सम संख्या को कभी दो विषम अभाज्य संख्याओं और एक सम अभाज्य संख्या के योग के रूप में व्यक्त किया जा सकता है? गणितीय रूप से स्पष्ट कीजिए।",
+      "answer": "(a) Goldbach's Conjecture:\nGoldbach's Conjecture is one of the oldest unsolved mysteries in mathematics. It states that every even integer greater than 2 can be expressed as the sum of two prime numbers.\n\n(b) Verification for 24, 36, and 50:\n- For 24: 24 = 5 + 19 (both primes); also 24 = 7 + 17 (both primes); also 24 = 11 + 13.\n- For 36: 36 = 5 + 31 (both primes); also 36 = 7 + 29 (both primes); also 36 = 13 + 23 = 17 + 19.\n- For 50: 50 = 3 + 47 (both primes); also 50 = 7 + 43 = 13 + 37 = 19 + 31.\nThis confirms Goldbach's Conjecture for these even numbers in multiple ways.\n\n(c) Sum of Two Odd Primes and One Even Prime:\nLet's analyze mathematically: In the number system, the only even prime number is 2. Every other prime number is odd.\nIf we add two odd prime numbers and one even prime number (2):\n- Sum = (Odd Prime 1) + (Odd Prime 2) + 2.\nWe know that the sum of two odd numbers is always an even number (Odd + Odd = Even).\nThen, adding the even prime 2 to that even sum gives: Even + 2 = Even number.\nTherefore, YES! An even number greater than 6 can definitely be expressed as the sum of two odd primes and one even prime (for example: 12 = 3 + 7 + 2; 20 = 5 + 13 + 2; 30 = 11 + 17 + 2).",
+      "answerHi": "(क) गोल्डबाक का अनुमान (Goldbach's Conjecture):\nगोल्डबाक का अनुमान गणित के सबसे पुराने अनसुलझे रहस्यों में से एक है। इसके अनुसार, 2 से बड़ी प्रत्येक सम संख्या को दो अभाज्य संख्याओं के योग के रूप में व्यक्त किया जा सकता है।\n\n(ख) 24, 36 और 50 के लिए पुष्टि:\n- 24 के लिए: 24 = 5 + 19 (दोनों अभाज्य); तथा 24 = 7 + 17 (दोनों अभाज्य); तथा 24 = 11 + 13।\n- 36 के लिए: 36 = 5 + 31 (दोनों अभाज्य); तथा 36 = 7 + 29 (दोनों अभाज्य); तथा 36 = 13 + 23 = 17 + 19।\n- 50 के लिए: 50 = 3 + 47 (दोनों अभाज्य); तथा 50 = 7 + 43 = 13 + 37 = 19 + 31।\nयह इन सम संख्याओं के लिए गोल्डबाक के अनुमान की कई प्रकार से पुष्टि करता है।\n\n(ग) दो विषम अभाज्य और एक सम अभाज्य का योग:\nगणितीय विश्लेषण: संख्या पद्धति में एकमात्र सम अभाज्य संख्या 2 है। अन्य सभी अभाज्य संख्याएँ विषम होती हैं।\nयदि हम दो विषम अभाज्य संख्याओं और एक सम अभाज्य संख्या (2) को जोड़ें:\n- योग = (विषम अभाज्य 1) + (विषम अभाज्य 2) + 2।\nहम जानते हैं कि दो विषम संख्याओं का योग सदैव एक सम संख्या होता है (विषम + विषम = सम)।\nफिर, उस सम योग में सम अभाज्य 2 जोड़ने पर: सम + 2 = सम संख्या।\nअतः हाँ! 6 से बड़ी किसी सम संख्या को निश्चित रूप से दो विषम अभाज्य संख्याओं और एक सम अभाज्य संख्या के योग के रूप में व्यक्त किया जा सकता है (जैसे: 12 = 3 + 7 + 2; 20 = 5 + 13 + 2; 30 = 11 + 17 + 2)।",
+      "keyPoints": [
+        "गोल्डबाक का अनुमान: 2 से बड़ी हर सम संख्या = दो अभाज्य संख्याओं का योग (Goldbach: every even number > 2 is sum of 2 primes)",
+        "24 = 5 + 19 = 7 + 17; 36 = 5 + 31 = 7 + 29 (Verification for 24 and 36)",
+        "50 = 3 + 47 = 7 + 43 = 13 + 37 (Verification for 50)",
+        "विषम + विषम + सम(2) = सम संख्या ➔ हाँ, संभव है (Odd + Odd + 2 = Even ➔ YES mathematically possible)"
+      ]
+    },
+    {
+      "id": "q26",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "A competency-based problem on gear rotations and LCM: In a mechanical clockwork toy, Gear A has 18 teeth, Gear B has 24 teeth, and Gear C has 36 teeth. They are meshed together in a line such that a special alignment mark on each gear points directly upwards at the start. \n(a) How many total teeth must pass the contact point before all three gears align with their marks directly upwards simultaneously again? \n(b) How many complete revolutions will Gear A, Gear B, and Gear C make when they align together again?",
+      "questionHi": "गियर घूर्णन और LCM पर योग्यता-आधारित प्रश्न: एक यांत्रिक खिलौने (Clockwork Toy) में, गियर A में 18 दाँते, गियर B में 24 दाँते और गियर C में 36 दाँते हैं। वे एक पंक्ति में इस प्रकार जुड़े हैं कि प्रारंभ में प्रत्येक गियर पर बना एक विशेष निशान ठीक ऊपर की ओर संकेत करता है।\n(क) तीनों गियरों के निशान पुनः एक साथ ठीक ऊपर आने से पहले संपर्क बिंदु से कुल कितने दाँते गुजरेंगे?\n(ख) जब वे पुनः एक साथ संरेखित (Align) होंगे, तब तक गियर A, गियर B और गियर C कितने पूर्ण चक्कर (Revolutions) लगा चुके होंगे?",
+      "answer": "(a) Total Teeth Passing Before Simultaneous Alignment:\nFor all three gears to complete exact integer revolutions and bring their alignment marks back to the top simultaneously, the total number of teeth passing the contact point must be a common multiple of their teeth counts: 18, 24, and 36. To find the earliest alignment, we calculate their Lowest Common Multiple (LCM).\nStep 1: Prime factorization:\n- 18 = 2 × 3²\n- 24 = 2³ × 3\n- 36 = 2² × 3²\nStep 2: Calculate LCM:\nLCM = 2³ × 3² = 8 × 9 = 72.\nTherefore, exactly 72 teeth must pass the contact point before all three alignment marks point upwards together again.\n\n(b) Number of Revolutions Made by Each Gear:\nTo find the number of revolutions, divide the total teeth (72) by the number of teeth on each gear:\n- Revolutions made by Gear A = 72 ÷ 18 = 4 complete revolutions.\n- Revolutions made by Gear B = 72 ÷ 24 = 3 complete revolutions.\n- Revolutions made by Gear C = 72 ÷ 36 = 2 complete revolutions.\nThus, Gear A makes 4 turns, Gear B makes 3 turns, and Gear C makes 2 turns to achieve simultaneous realignment.",
+      "answerHi": "(क) एक साथ संरेखित होने से पहले गुजरने वाले कुल दाँते:\nतीनों गियरों द्वारा पूर्ण चक्कर लगाकर अपने निशानों को एक साथ पुनः ऊपर लाने के लिए, संपर्क बिंदु से गुजरने वाले कुल दाँतों की संख्या उनके दाँतों (18, 24, 36) का एक सांझा गुणज होनी चाहिए। सबसे पहले संरेखण के लिए हम उनका लघुत्तम समापवर्त्य (LCM) निकालेंगे।\nचरण 1: अभाज्य गुणनखंडन:\n- 18 = 2 × 3²\n- 24 = 2³ × 3\n- 36 = 2² × 3²\nचरण 2: LCM की गणना:\nLCM = 2³ × 3² = 8 × 9 = 72।\nअतः तीनों निशानों के पुनः एक साथ ऊपर आने से पहले संपर्क बिंदु से ठीक 72 दाँते गुजरेंगे।\n\n(ख) प्रत्येक गियर द्वारा लगाए गए चक्करों की संख्या:\nचक्करों की संख्या ज्ञात करने के लिए, कुल दाँतों (72) को प्रत्येक गियर के दाँतों की संख्या से भाग देने पर:\n- गियर A द्वारा लगाए गए चक्कर = 72 ÷ 18 = 4 पूर्ण चक्कर।\n- गियर B द्वारा लगाए गए चक्कर = 72 ÷ 24 = 3 पूर्ण चक्कर।\n- गियर C द्वारा लगाए गए चक्कर = 72 ÷ 36 = 2 पूर्ण चक्कर।\nइस प्रकार, पुनः संरेखित होने तक गियर A 4 चक्कर, गियर B 3 चक्कर और गियर C 2 चक्कर लगाएगा।",
+      "keyPoints": [
+        "एक साथ संरेखण = दाँतों की संख्या का LCM (Simultaneous alignment = LCM of teeth counts)",
+        "LCM(18, 24, 36) = 72 दाँते (LCM calculation = exactly 72 teeth)",
+        "गियर A के चक्कर = 72 ÷ 18 = 4 चक्कर (Gear A revolutions = 4 turns)",
+        "गियर B के चक्कर = 3, गियर C के चक्कर = 2 (Gear B = 3 turns, Gear C = 2 turns)"
+      ]
+    },
+    {
+      "id": "q27",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "A comprehensive divisibility investigation: \n(a) State the divisibility rule for 7 (by doubling the unit digit). Using this rule, test whether 3,402 is divisible by 7. \n(b) If a 5-digit number 45,3X2 is exactly divisible by 9, find the digit that must replace X. \n(c) If a 6-digit number 87,54Y2 is exactly divisible by 11, find the digit that must replace Y.",
+      "questionHi": "विभाज्यता पर एक व्यापक अन्वेषण:\n(क) 7 से विभाज्यता का नियम (इकाई के अंक को दोगुना करने वाली विधि) बताइए। इस नियम का उपयोग करते हुए परीक्षण कीजिए कि क्या 3,402, 7 से विभाज्य है।\n(ख) यदि 5 अंकों की एक संख्या 45,3X2, 9 से पूर्णतः विभाज्य है, तो X के स्थान पर कौन-सा अंक आना चाहिए?\n(ग) यदि 6 अंकों की एक संख्या 87,54Y2, 11 से पूर्णतः विभाज्य है, तो Y के स्थान पर कौन-सा अंक आना चाहिए?",
+      "answer": "(a) Divisibility Rule for 7 and Testing 3,402:\nRule: Double the ones (unit) digit and subtract it from the truncated number formed by the remaining digits. Repeat until a small number is reached. If the result is 0 or divisible by 7, the original number is divisible by 7.\nTesting 3,402:\n- Step 1: Unit digit is 2. Double it: 2 × 2 = 4. Subtract from remaining digits (340): 340 - 4 = 336.\n- Step 2: For 336, unit digit is 6. Double it: 6 × 2 = 12. Subtract from remaining digits (33): 33 - 12 = 21.\nSince 21 is divisible by 7 (21 ÷ 7 = 3), the number 3,402 is exactly divisible by 7.\n\n(b) Finding Digit X in 45,3X2 for Divisibility by 9:\nRule: Sum of digits must be a multiple of 9.\nSum of known digits = 4 + 5 + 3 + X + 2 = 14 + X.\nThe smallest multiple of 9 greater than 14 is 18.\nSetting up equation: 14 + X = 18 ➔ X = 18 - 14 = 4.\nTherefore, X must be replaced by the digit 4 (making the number 45,342).\n\n(c) Finding Digit Y in 87,54Y2 for Divisibility by 11:\nRule: Difference between sum of odd-position digits and even-position digits must be 0 or multiple of 11.\nIn 87,54Y2 (digits from right to left: 2, Y, 4, 5, 7, 8):\n- Sum of odd positions (1st, 3rd, 5th from right) = 2 + 4 + 7 = 13.\n- Sum of even positions (2nd, 4th, 6th from right) = Y + 5 + 8 = 13 + Y.\n- Difference = (13 + Y) - 13 = Y.\nFor the difference to be divisible by 11 (or equal to 0), Y must be 0 (since Y is a single digit from 0 to 9).\nTherefore, Y must be replaced by the digit 0 (making the number 87,5402).",
+      "answerHi": "(क) 7 से विभाज्यता का नियम और 3,402 का परीक्षण:\nनियम: इकाई के अंक को दोगुना कीजिए और उसे शेष बचे अंकों से बनी संख्या में से घटाइए। यह प्रक्रिया तब तक दोहराइए जब तक छोटी संख्या न मिल जाए। यदि परिणाम 0 हो या 7 से विभाज्य हो, तो मूल संख्या 7 से विभाज्य होती है।\n3,402 का परीक्षण:\n- चरण 1: इकाई अंक 2 है। दोगुना: 2 × 2 = 4। शेष (340) में से घटाने पर: 340 - 4 = 336।\n- चरण 2: 336 में इकाई अंक 6 है। दोगुना: 6 × 2 = 12। शेष (33) में से घटाने पर: 33 - 12 = 21।\nचूँकि 21, 7 से विभाज्य है (21 ÷ 7 = 3), अतः संख्या 3,402, 7 से पूर्णतः विभाज्य है।\n\n(ख) 9 से विभाज्यता के लिए 45,3X2 में X का मान:\nनियम: अंकों का योग 9 का गुणज होना चाहिए।\nज्ञात अंकों का योग = 4 + 5 + 3 + X + 2 = 14 + X।\n14 से बड़ा 9 का सबसे निकटतम गुणज 18 है।\nसमीकरण बनाने पर: 14 + X = 18 ➔ X = 18 - 14 = 4।\nअतः X के स्थान पर अंक 4 आना चाहिए (संख्या 45,342 होगी)।\n\n(ग) 11 से विभाज्यता के लिए 87,54Y2 में Y का मान:\nनियम: विषम और सम स्थानों के अंकों के योग का अंतर 0 या 11 का गुणज होना चाहिए।\n87,54Y2 में (दाईं से बाईं ओर अंक: 2, Y, 4, 5, 7, 8):\n- विषम स्थानों का योग (1ला, 3रा, 5वाँ) = 2 + 4 + 7 = 13।\n- सम स्थानों का योग (2रा, 4था, 6ठा) = Y + 5 + 8 = 13 + Y।\n- अंतर = (13 + Y) - 13 = Y।\nअंतर को 11 से विभाज्य (या 0 के बराबर) होने के लिए Y का मान 0 होना चाहिए (चूँकि Y, 0 से 9 तक का एक अंक है)।\nअतः Y के स्थान पर अंक 0 आना चाहिए (संख्या 87,5402 होगी)।",
+      "keyPoints": [
+        "7 का नियम: इकाई का दोगुना शेष में से घटाना ➔ 33 - 12 = 21 विभाज्य है (Rule for 7: double unit digit and subtract ➔ 21 is divisible)",
+        "9 के लिए X का मान: 14 + X = 18 ➔ X = 4 (For 9 divisibility: 14 + X = 18 ➔ X = 4)",
+        "11 के लिए Y का मान: अंतर Y = 0 ➔ Y = 0 (For 11 divisibility: difference is Y ➔ Y = 0)",
+        "सटीक अंक: X = 4, Y = 0 (Exact digits required: X = 4, Y = 0)"
+      ]
+    },
+    {
+      "id": "q28",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "A competency-based real-life problem on HCF and LCM: Three tankers contain 403 liters, 434 liters, and 465 liters of diesel respectively. \n(a) Find the maximum capacity of a measuring container that can measure the diesel of the three tankers an exact number of times without leaving any diesel behind. \n(b) How many total times will this measuring container be filled to empty all three tankers completely?",
+      "questionHi": "HCF और LCM पर योग्यता-आधारित वास्तविक जीवन प्रश्न: तीन टैंकरों में क्रमशः 403 लीटर, 434 लीटर और 465 लीटर डीजल है।\n(क) उस मापक बर्तन (Measuring Container) की अधिकतम क्षमता ज्ञात कीजिए जो तीनों टैंकरों के डीजल को बिना कुछ बचाए पूरा-पूरा (सटीक बार) माप सके।\n(ख) तीनों टैंकरों को पूरा खाली करने के लिए इस मापक बर्तन को कुल कितनी बार भरना होगा?",
+      "answer": "(a) Maximum Capacity of the Measuring Container:\nTo measure the diesel of all three tankers an exact number of times without leftover, the capacity of the container must be a common divisor of 403, 434, and 465. For maximum capacity, we must find their Highest Common Factor (HCF).\nStep 1: Find prime factorizations:\n- 403 = 13 × 31\n- 434 = 2 × 7 × 31\n- 465 = 3 × 5 × 31\nStep 2: Identify the common prime factor:\nThe only common factor present in all three numbers is 31.\nTherefore, HCF = 31 liters. The maximum capacity of the measuring container is 31 liters.\n\n(b) Total Number of Times Container is Filled:\nWe calculate how many times the 31-liter container must be filled for each tanker:\n- For Tanker 1 (403 liters): 403 ÷ 31 = 13 times.\n- For Tanker 2 (434 liters): 434 ÷ 31 = 14 times.\n- For Tanker 3 (465 liters): 465 ÷ 31 = 15 times.\nTotal number of times filled = 13 + 14 + 15 = 42 times.\nTherefore, the measuring container will be filled exactly 42 times to measure all three tankers completely.",
+      "answerHi": "(क) मापक बर्तन की अधिकतम क्षमता:\nतीनों टैंकरों के डीजल को बिना कुछ बचाए सटीक बार मापने के लिए, बर्तन की क्षमता 403, 434 और 465 का एक पूर्ण विभाजक होनी चाहिए। अधिकतम क्षमता के लिए हमें उनका महत्तम समापवर्तक (HCF) निकालना होगा।\nचरण 1: अभाज्य गुणनखंडन करने पर:\n- 403 = 13 × 31\n- 434 = 2 × 7 × 31\n- 465 = 3 × 5 × 31\nचरण 2: उभयनिष्ठ गुणनखंड पहचानने पर:\nतीनों संख्याओं में मौजूद एकमात्र सांझा गुणनखंड 31 है।\nअतः HCF = 31 लीटर। मापक बर्तन की अधिकतम क्षमता 31 लीटर होनी चाहिए।\n\n(ख) बर्तन भरने की कुल संख्या:\nहम ज्ञात करते हैं कि प्रत्येक टैंकर के लिए 31 लीटर के बर्तन को कितनी बार भरना होगा:\n- टैंकर 1 (403 लीटर) के लिए: 403 ÷ 31 = 13 बार।\n- टैंकर 2 (434 लीटर) के लिए: 434 ÷ 31 = 14 बार।\n- टैंकर 3 (465 लीटर) के लिए: 465 ÷ 31 = 15 बार।\nकुल भरने की संख्या = 13 + 14 + 15 = 42 बार।\nअतः तीनों टैंकरों को पूरा मापने के लिए बर्तन को ठीक 42 बार भरना होगा।",
+      "keyPoints": [
+        "अधिकतम मापक बर्तन = तीनों मात्राओं का HCF (Maximum container capacity = HCF of tanker volumes)",
+        "HCF(403, 434, 465) = 31 लीटर (HCF calculation = exactly 31 liters)",
+        "टैंकरों के माप: 13 बार, 14 बार, 15 बार (Individual counts: 13, 14, and 15 times)",
+        "कुल संख्या = 13 + 14 + 15 = 42 बार (Total container fillings required = 42 times)"
+      ]
+    },
+    {
+      "id": "q29",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "An analytical investigation on number properties: \n(a) Define perfect numbers. Verify whether 6 and 28 are perfect numbers by finding the sum of all their proper factors (factors excluding the number itself). \n(b) Can a prime number ever be a perfect number? Explain with mathematical proof.",
+      "questionHi": "संख्याओं के गुणों पर एक विश्लेषणात्मक अन्वेषण:\n(क) संपूर्ण संख्याएँ (Perfect Numbers) किसे कहते हैं? 6 और 28 के सभी उचित गुणनखंडों (संख्या को छोड़कर शेष गुणनखंडों) का योग ज्ञात करके जाँच कीजिए कि क्या वे संपूर्ण संख्याएँ हैं।\n(ख) क्या कोई अभाज्य संख्या कभी संपूर्ण संख्या हो सकती है? गणितीय प्रमाण के साथ स्पष्ट कीजिए।",
+      "answer": "(a) Definition and Verification of Perfect Numbers:\nA perfect number is a positive integer that is exactly equal to the sum of all its proper factors (all its positive divisors excluding the number itself). Alternatively, the sum of all its factors (including the number itself) equals twice the number.\nVerification for 6:\n- Proper factors of 6 (excluding 6) = 1, 2, and 3.\n- Sum of proper factors = 1 + 2 + 3 = 6.\nSince the sum equals 6, 6 is a perfect number.\nVerification for 28:\n- Proper factors of 28 (excluding 28) = 1, 2, 4, 7, and 14.\n- Sum of proper factors = 1 + 2 + 4 + 7 + 14 = 28.\nSince the sum equals 28, 28 is a perfect number.\n\n(b) Can a Prime Number be a Perfect Number?\nNo, a prime number can NEVER be a perfect number.\nMathematical Proof: By definition, a prime number P (where P > 1) has exactly two factors: 1 and itself (P). Therefore, its only proper factor (excluding P itself) is 1.\nThe sum of all proper factors of a prime number P is always 1.\nFor P to be a perfect number, the sum of its proper factors must equal P. This would require 1 = P, which is impossible because by definition every prime number P is strictly greater than 1 (P ≥ 2).\nHence proved: A prime number can never be a perfect number.",
+      "answerHi": "(क) संपूर्ण संख्याओं की परिभाषा और जाँच:\nसंपूर्ण संख्या (परफेक्ट नंबर) वह धनात्मक पूर्णांक है जो अपने सभी उचित गुणनखंडों (स्वयं को छोड़कर अन्य सभी धनात्मक विभाजकों) के योग के ठीक बराबर होता है। (दूसरे शब्दों में, सभी गुणनखंडों का कुल योग संख्या का दोगुना होता है)।\n6 की जाँच:\n- 6 के उचित गुणनखंड (6 को छोड़कर) = 1, 2 और 3।\n- उचित गुणनखंडों का योग = 1 + 2 + 3 = 6।\nचूँकि योग 6 के बराबर है, अतः 6 एक संपूर्ण संख्या है।\n28 की जाँच:\n- 28 के उचित गुणनखंड (28 को छोड़कर) = 1, 2, 4, 7 और 14।\n- उचित गुणनखंडों का योग = 1 + 2 + 4 + 7 + 14 = 28।\nचूँकि योग 28 के बराबर है, अतः 28 एक संपूर्ण संख्या है।\n\n(ख) क्या अभाज्य संख्या संपूर्ण संख्या हो सकती है?\nनहीं, कोई भी अभाज्य संख्या कभी भी संपूर्ण संख्या नहीं हो सकती।\nगणितीय प्रमाण: परिभाषा के अनुसार, किसी भी अभाज्य संख्या P (जहाँ P > 1) के केवल दो ही गुणनखंड होते हैं: 1 और स्वयं (P)। अतः इसका एकमात्र उचित गुणनखंड (P को छोड़कर) केवल 1 होता है।\nकिसी अभाज्य संख्या P के सभी उचित गुणनखंडों का योग सदैव 1 होता है।\nP को संपूर्ण संख्या होने के लिए, उसके उचित गुणनखंडों का योग P के बराबर होना चाहिए। इसके लिए 1 = P होना आवश्यक है, जो गणितीय रूप से असंभव है क्योंकि प्रत्येक अभाज्य संख्या P सदैव 1 से बड़ी (P ≥ 2) होती है।\nअतः सिद्ध हुआ: अभाज्य संख्या कभी संपूर्ण संख्या नहीं हो सकती।",
+      "keyPoints": [
+        "संपूर्ण संख्या: उचित गुणनखंडों का योग स्वयं संख्या के बराबर (Perfect number: sum of proper factors equals number)",
+        "6 के उचित गुणनखंडों का योग: 1 + 2 + 3 = 6 ➔ संपूर्ण संख्या (Verification for 6: 1 + 2 + 3 = 6)",
+        "28 के उचित गुणनखंडों का योग: 1 + 2 + 4 + 7 + 14 = 28 ➔ संपूर्ण संख्या (Verification for 28: sum = 28)",
+        "अभाज्य संख्या का एकमात्र उचित गुणनखंड 1 होता है ➔ कभी संपूर्ण नहीं हो सकती (Prime has only 1 as proper factor ➔ NEVER perfect)"
+      ]
+    },
+    {
+      "id": "q30",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "A comprehensive conceptual evaluation: \n(a) Explain why the product of any three consecutive natural numbers is always divisible by 6. Demonstrate this rule with two numerical examples. \n(b) If two numbers are co-prime, is their LCM always equal to their product? Prove with an example. \n(c) What is the smallest 5-digit number exactly divisible by 16, 24, and 36?",
+      "questionHi": "एक व्यापक वैचारिक मूल्यांकन:\n(क) स्पष्ट कीजिए कि किन्हीं भी तीन क्रमागत प्राकृत संख्याओं का गुणनफल सदैव 6 से विभाज्य क्यों होता है। दो संख्यात्मक उदाहरणों के साथ इस नियम को सिद्ध कीजिए।\n(ख) यदि दो संख्याएँ सह-अभाज्य (Co-prime) हैं, तो क्या उनका लघुत्तम समापवर्त्य (LCM) सदैव उनके गुणनफल के बराबर होता है? उदाहरण सहित सिद्ध कीजिए।\n(ग) 16, 24 और 36 से पूर्णतः विभाज्य 5 अंकों की सबसे छोटी संख्या क्या है?",
+      "answer": "(a) Why Product of 3 Consecutive Numbers is Divisible by 6:\nIn any sequence of three consecutive natural numbers (n, n+1, n+2):\n1) At least one of the numbers is guaranteed to be an even number (divisible by 2).\n2) Exactly one of the numbers is guaranteed to be a multiple of 3.\nSince the product contains both 2 and 3 as prime factors, and 2 × 3 = 6 (where 2 and 3 are co-prime), the product is always divisible by 6.\nExamples:\n- Example 1: Take 4, 5, 6. Product = 4 × 5 × 6 = 120. 120 ÷ 6 = 20 (Divisible!).\n- Example 2: Take 13, 14, 15. Product = 13 × 14 × 15 = 2730. 2730 ÷ 6 = 455 (Divisible!).\n\n(b) LCM of Co-Prime Numbers:\nYes, if two numbers A and B are co-prime, their LCM is ALWAYS equal to their product (A × B).\nProof: We know the universal relation: HCF × LCM = A × B. For co-prime numbers, by definition, their HCF is 1. Substituting HCF = 1 gives: 1 × LCM = A × B ➔ LCM = A × B.\nExample: Consider co-prime numbers 8 and 9 (HCF = 1). Their LCM is 8 × 9 = 72.\n\n(c) Smallest 5-Digit Number Divisible by 16, 24, and 36:\nStep 1: Find LCM of 16, 24, and 36:\n- 16 = 2⁴; 24 = 2³ × 3; 36 = 2² × 3².\n- LCM = 2⁴ × 3² = 16 × 9 = 144.\nStep 2: Find smallest 5-digit multiple of 144:\n- The smallest 5-digit number is 10,000.\n- Divide 10,000 by 144: 10,000 ÷ 144 = 69 with a remainder of 64 (since 144 × 69 = 9,936, which is a 4-digit number).\n- The next multiple is 144 × 70 = 10,080.\nSince 10,080 is a 5-digit number and leaves zero remainder when divided by 144, the smallest 5-digit number divisible by 16, 24, and 36 is 10,080.",
+      "answerHi": "(क) 3 क्रमागत संख्याओं का गुणनफल 6 से विभाज्य क्यों होता है:\nकिन्हीं भी तीन क्रमागत प्राकृत संख्याओं (n, n+1, n+2) के अनुक्रम में:\n1) कम से कम एक संख्या निश्चित रूप से सम (2 से विभाज्य) होती है।\n2) ठीक एक संख्या निश्चित रूप से 3 का गुणज (3 से विभाज्य) होती है।\nचूँकि गुणनफल में 2 और 3 दोनों अभाज्य गुणनखंड मौजूद होते हैं, और 2 × 3 = 6 (जहाँ 2 और 3 सह-अभाज्य हैं), अतः गुणनफल सदैव 6 से विभाज्य होता है।\nउदाहरण:\n- उदाहरण 1: 4, 5, 6 लें। गुणनफल = 4 × 5 × 6 = 120। 120 ÷ 6 = 20 (पूर्णतः विभाज्य!)।\n- उदाहरण 2: 13, 14, 15 लें। गुणनफल = 13 × 14 × 15 = 2730। 2730 ÷ 6 = 455 (पूर्णतः विभाज्य!)।\n\n(ख) सह-अभाज्य संख्याओं का LCM:\nहाँ, यदि दो संख्याएँ A और B सह-अभाज्य हैं, तो उनका LCM सदैव उनके गुणनफल (A × B) के बराबर होता है।\nप्रमाण: हम जानते हैं कि HCF × LCM = A × B। सह-अभाज्य संख्याओं के लिए परिभाषा के अनुसार HCF = 1 होता है। मान रखने पर: 1 × LCM = A × B ➔ LCM = A × B।\nउदाहरण: सह-अभाज्य संख्याएँ 8 और 9 (HCF = 1) लें। उनका LCM = 8 × 9 = 72 है।\n\n(ग) 16, 24 और 36 से विभाज्य 5 अंकों की सबसे छोटी संख्या:\nचरण 1: 16, 24 और 36 का LCM ज्ञात करना:\n- 16 = 2⁴; 24 = 2³ × 3; 36 = 2² × 3²।\n- LCM = 2⁴ × 3² = 16 × 9 = 144।\nचरण 2: 144 का 5 अंकों वाला सबसे छोटा गुणज ज्ञात करना:\n- 5 अंकों की सबसे छोटी संख्या 10,000 होती है।\n- 10,000 को 144 से भाग देने पर: 10,000 ÷ 144 = 69 और शेषफल 64 बचता है (चूँकि 144 × 69 = 9,936, जो 4 अंकों की संख्या है)।\n- अगला गुणज = 144 × 70 = 10,080।\nचूँकि 10,080, 5 अंकों की संख्या है और 144 से पूर्णतः विभाज्य है, अतः 16, 24 और 36 से विभाज्य 5 अंकों की सबसे छोटी संख्या 10,080 है।",
+      "keyPoints": [
+        "3 क्रमागत संख्याओं में एक 2 से और एक 3 से विभाज्य होती है ➔ 6 से विभाज्य (3 consecutive numbers include a multiple of 2 and 3 ➔ divisible by 6)",
+        "सह-अभाज्य संख्याओं के लिए HCF = 1 ➔ LCM = A × B (For co-primes, HCF = 1 ➔ LCM equals product of numbers)",
+        "LCM(16, 24, 36) = 144 (LCM calculation = 144)",
+        "10,000 ÷ 144 = 69 शेष 64 ➔ अगला गुणज 144 × 70 = 10,080 (Smallest 5-digit divisible number = 10,080)"
+      ]
+    }
+  ]
+}
