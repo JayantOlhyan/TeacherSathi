@@ -1,0 +1,466 @@
+{
+  "chapterTitle": "Rahim Ke Dohe",
+  "chapterTitleHi": "रहीम के दोहे",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Who was Rahim and what are his dohas famous for?",
+      "questionHi": "रहीम कौन थे और उनके दोहे किसलिए प्रसिद्ध हैं?",
+      "answer": "Abdur Rahim Khan-i-Khana, popularly known as Rahim, was a prominent poet and one of the nine gems (Navaratnas) in Emperor Akbar's court. His dohas (couplets) are famous for their deep practical wisdom, ethical teachings, and reflections on human nature and relationships, expressed in very simple and relatable language.",
+      "answerHi": "अब्दुर रहीम खान-ए-खाना, जिन्हें लोकप्रिय रूप से रहीम के नाम से जाना जाता है, एक प्रमुख कवि और सम्राट अकबर के दरबार के नौ रत्नों (नवरत्नों) में से एक थे। उनके दोहे अपने गहरे व्यावहारिक ज्ञान, नैतिक शिक्षाओं और मानव स्वभाव व संबंधों पर विचारों के लिए प्रसिद्ध हैं, जिन्हें बहुत ही सरल और प्रासंगिक भाषा में व्यक्त किया गया है।",
+      "keyPoints": [
+        "रहीम अकबर के दरबार के नौ रत्नों में से एक थे (Rahim was one of the Navaratnas in Akbar's court)",
+        "वे एक प्रमुख कवि और नीतिकार थे (He was a prominent poet and moralist)",
+        "उनके दोहे व्यावहारिक ज्ञान और नैतिक शिक्षाओं के लिए प्रसिद्ध हैं (His dohas are famous for practical wisdom and ethical teachings)"
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What does Rahim mean by 'Rahiman paani rakhiye' in his famous doha?",
+      "questionHi": "अपने प्रसिद्ध दोहे में रहीम के 'रहिमन पानी राखिए' से क्या तात्पर्य है?",
+      "answer": "In the famous doha 'Rahiman paani rakhiye', Rahim uses the word 'paani' (water) with three different meanings. For humans, it means self-respect or honor. For a pearl, it means luster or shine. For dough (chuna/flour), it means simple water. Rahim advises people to always maintain their honor, as life without it is meaningless.",
+      "answerHi": "प्रसिद्ध दोहे 'रहिमन पानी राखिए' में, रहीम 'पानी' शब्द का तीन अलग-अलग अर्थों में उपयोग करते हैं। मनुष्य के लिए, इसका अर्थ है आत्म-सम्मान या इज्जत। मोती के लिए, इसका अर्थ है चमक या आभा। आटे (चूने) के लिए, इसका अर्थ है साधारण जल। रहीम लोगों को हमेशा अपना सम्मान बनाए रखने की सलाह देते हैं, क्योंकि इसके बिना जीवन निरर्थक है।",
+      "keyPoints": [
+        "'पानी' के तीन अर्थ: सम्मान (मनुष्य), चमक (मोती), और जल (आटा) (Three meanings of 'paani': honor for humans, shine for pearl, water for dough)",
+        "मनुष्य को हमेशा अपना आत्म-सम्मान बनाए रखना चाहिए (Humans should always maintain their self-respect)",
+        "सम्मान के बिना जीवन निरर्थक है (Life without honor is meaningless)"
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "According to Rahim, how should one treat a broken relationship or friendship?",
+      "questionHi": "रहीम के अनुसार, किसी टूटे हुए रिश्ते या दोस्ती के साथ कैसा व्यवहार करना चाहिए?",
+      "answer": "Rahim advises that one should try not to break the thread of love or friendship ('Rahiman dhaga prem ka...'). If it breaks, it cannot be joined exactly as before. Even if joined, a knot (gaanth) remains in it, meaning that the relationship loses its original purity and some bitterness or doubt always lingers.",
+      "answerHi": "रहीम सलाह देते हैं कि प्रेम या दोस्ती के धागे को तोड़ने की कोशिश नहीं करनी चाहिए ('रहिमन धागा प्रेम का...')। यदि यह टूट जाता है, तो इसे पहले की तरह बिल्कुल नहीं जोड़ा जा सकता। यदि जोड़ा भी जाए, तो उसमें एक गांठ (गाँठ) रह जाती है, जिसका अर्थ है कि रिश्ता अपनी मूल पवित्रता खो देता है और कुछ कड़वाहट या संदेह हमेशा बना रहता है।",
+      "keyPoints": [
+        "प्रेम के धागे को कभी नहीं तोड़ना चाहिए (The thread of love should never be broken)",
+        "टूटने पर वह पहले जैसा नहीं जुड़ता (Once broken, it cannot be joined as before)",
+        "जुड़ने पर उसमें गांठ (संदेह या कड़वाहट) रह जाती है (If joined, a knot of doubt or bitterness remains)"
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "Why does Rahim advise us to keep our sorrows to ourselves?",
+      "questionHi": "रहीम हमें अपने दुखों को अपने तक ही सीमित रखने की सलाह क्यों देते हैं?",
+      "answer": "Rahim advises keeping our inner sorrows to ourselves ('Rahiman nij man ki bitha...') because people in the world only mock or make fun of others' pain. No one truly shares or reduces your sorrow; instead, they might ridicule you behind your back. Therefore, it is wiser to endure personal grief privately.",
+      "answerHi": "रहीम अपने आंतरिक दुखों को अपने तक ही सीमित रखने की सलाह देते हैं ('रहिमन निज मन की बिथा...') क्योंकि दुनिया के लोग केवल दूसरों के दर्द का मज़ाक उड़ाते हैं। कोई भी वास्तव में आपके दुख को साझा या कम नहीं करता; इसके बजाय, वे आपकी पीठ पीछे आपका उपहास कर सकते हैं। इसलिए, व्यक्तिगत दुख को निजी तौर पर सहना अधिक बुद्धिमानी है।",
+      "keyPoints": [
+        "अपना दुख दूसरों को नहीं बताना चाहिए (One should not tell their sorrow to others)",
+        "लोग दुख बांटते नहीं, बल्कि मज़ाक उड़ाते हैं (People don't share sorrow, rather they mock it)",
+        "अपने दर्द को अपने मन में ही रखना समझदारी है (It is wise to keep one's pain in one's own mind)"
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What is the message of the doha where Rahim talks about a big and a small thing?",
+      "questionHi": "उस दोहे का क्या संदेश है जिसमें रहीम एक बड़ी और एक छोटी चीज के बारे में बात करते हैं?",
+      "answer": "In the doha 'Rahiman dekhi baden ko, laghu na dijiye daari...', Rahim says that seeing a big or powerful person, one should not ignore or discard a small or less powerful person. He gives the example of a needle (sui) and a sword (talwar): where a needle is needed (for sewing), a sword is completely useless. Everything has its own unique importance.",
+      "answerHi": "'रहिमन देखि बड़ेन को, लघु न दीजिए डारि...' दोहे में, रहीम कहते हैं कि किसी बड़े या शक्तिशाली व्यक्ति को देखकर, किसी छोटे या कम शक्तिशाली व्यक्ति की उपेक्षा नहीं करनी चाहिए। वह सुई और तलवार का उदाहरण देते हैं: जहाँ सुई की आवश्यकता होती है (सिलाई के लिए), वहाँ तलवार बिल्कुल बेकार है। हर चीज का अपना विशिष्ट महत्व होता है।",
+      "keyPoints": [
+        "बड़ों को देखकर छोटों का तिरस्कार नहीं करना चाहिए (Don't discard the small after seeing the big)",
+        "सुई का काम तलवार नहीं कर सकती (A sword cannot do the work of a needle)",
+        "संसार में हर व्यक्ति और वस्तु का अपना अलग महत्व है (Everyone and everything in the world has its unique importance)"
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "How does Rahim describe true wealth and noble people?",
+      "questionHi": "रहीम सच्ची संपत्ति और सज्जन लोगों का वर्णन कैसे करते हैं?",
+      "answer": "Rahim says that just as trees do not eat their own fruits and ponds do not drink their own water, noble and good people (Sajjan) accumulate wealth not for themselves but to help others ('Kahi Rahim sampati sanchahi, sujaan par-kaaj...'). True wealth is that which is used for the welfare and benefit of society.",
+      "answerHi": "रहीम कहते हैं कि जिस प्रकार पेड़ अपने फल स्वयं नहीं खाते और तालाब अपना पानी स्वयं नहीं पीते, उसी प्रकार सज्जन लोग अपने लिए नहीं बल्कि दूसरों की मदद के लिए धन संचय करते हैं ('कहि रहीम संपति संचहिं, सुजान पर-काज...')। सच्ची संपत्ति वह है जिसका उपयोग समाज के कल्याण और भलाई के लिए किया जाता है।",
+      "keyPoints": [
+        "पेड़ अपना फल नहीं खाते, न ही तालाब अपना पानी पीते हैं (Trees don't eat their fruits, nor ponds drink their water)",
+        "सज्जन लोग परोपकार के लिए संपत्ति जमा करते हैं (Noble people accumulate wealth for charity/helping others)",
+        "दूसरों की भलाई करना ही धन का सच्चा उपयोग है (Helping others is the true use of wealth)"
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What happens when bad times come, according to Rahim?",
+      "questionHi": "रहीम के अनुसार, जब बुरा समय आता है तो क्या होता है?",
+      "answer": "According to Rahim, when bad times or adversity strike, a person's gathered wealth slowly disappears ('Rahiman vipda hu bhali...'). Even your own people might turn away. However, adversity is also a good test, as it reveals who is a true friend and who is fake. Real friends stand by you during tough times.",
+      "answerHi": "रहीम के अनुसार, जब बुरा समय या विपत्ति आती है, तो व्यक्ति की इकट्ठी की गई संपत्ति धीरे-धीरे गायब हो जाती है ('रहिमन विपदा हू भली...')। यहाँ तक कि अपने भी मुँह फेर सकते हैं। हालाँकि, विपत्ति एक अच्छी परीक्षा भी है, क्योंकि यह प्रकट करती है कि कौन सच्चा मित्र है और कौन झूठा। सच्चे दोस्त मुश्किल समय में आपके साथ खड़े रहते हैं।",
+      "keyPoints": [
+        "बुरे समय में धन-संपत्ति नष्ट हो जाती है (Wealth gets destroyed in bad times)",
+        "विपत्ति सच्चे और झूठे दोस्तों की पहचान कराती है (Adversity reveals true and fake friends)",
+        "संकट के समय साथ देने वाला ही सच्चा मित्र है (Only one who stands by in crisis is a true friend)"
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "How does Rahim explain the effect of bad company on a noble person?",
+      "questionHi": "रहीम एक सज्जन व्यक्ति पर बुरी संगति के प्रभाव की व्याख्या कैसे करते हैं?",
+      "answer": "Rahim states that bad company does not affect a person of noble and strong character ('Jo Rahim uttam prakriti...'). He gives the example of a sandalwood (chandan) tree. Even though poisonous snakes wrap themselves around the sandalwood tree, the tree does not absorb their poison and retains its sweet fragrance.",
+      "answerHi": "रहीम कहते हैं कि बुरी संगति का एक महान और दृढ़ चरित्र वाले व्यक्ति पर कोई प्रभाव नहीं पड़ता है ('जो रहीम उत्तम प्रकृति...')। वे चंदन के पेड़ का उदाहरण देते हैं। यद्यपि जहरीले सांप चंदन के पेड़ से लिपटे रहते हैं, फिर भी पेड़ उनका जहर नहीं सोखता है और अपनी मीठी सुगंध बनाए रखता है।",
+      "keyPoints": [
+        "उत्तम स्वभाव वाले व्यक्ति पर कुसंगति का असर नहीं होता (Bad company does not affect a person of noble nature)",
+        "चंदन के पेड़ पर सांप लिपटे रहते हैं, फिर भी वह जहरीला नहीं होता (Snakes wrap around sandalwood, yet it doesn't become poisonous)",
+        "सच्चे इंसान अपनी अच्छाई कभी नहीं छोड़ते (True people never leave their goodness)"
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What is the importance of doing one thing at a time in Rahim's doha?",
+      "questionHi": "रहीम के दोहे में एक समय में एक ही काम करने का क्या महत्व है?",
+      "answer": "Rahim advises 'Eke sadhe sab sadhe...' meaning if you focus on mastering one primary thing (or God), you will achieve everything else naturally. If you try to achieve everything at once, you will lose it all. It is like watering only the root of a plant, which automatically nourishes the flowers, fruits, and leaves.",
+      "answerHi": "रहीम सलाह देते हैं 'एके साधे सब सधै...' जिसका अर्थ है यदि आप एक मुख्य चीज़ (या ईश्वर) पर ध्यान केंद्रित करते हैं, तो आप स्वाभाविक रूप से सब कुछ प्राप्त कर लेंगे। यदि आप एक साथ सब कुछ हासिल करने की कोशिश करते हैं, तो आप सब कुछ खो देंगे। यह एक पौधे की जड़ को पानी देने जैसा है, जो स्वचालित रूप से फूलों, फलों और पत्तियों को पोषण देता है।",
+      "keyPoints": [
+        "एक समय में एक ही लक्ष्य पर ध्यान केंद्रित करना चाहिए (One should focus on one goal at a time)",
+        "जड़ को सींचने से पूरे पेड़ को पोषण मिलता है (Watering the root nourishes the whole tree)",
+        "एकाग्रता से ही सफलता प्राप्त होती है (Success is achieved only through concentration)"
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "What comparison does Rahim make about an empty mind or hollow talkers?",
+      "questionHi": "खाली दिमाग या खोखली बातें करने वालों के बारे में रहीम क्या तुलना करते हैं?",
+      "answer": "Rahim compares hollow talkers to the empty clouds of the Ashwin month (September-October) ('Thothe baadar kvaar ke...'). Just as these clouds only thunder but do not rain, poor people who were once rich often boast about their past glory and wealth, but their words carry no weight and they do nothing practical now.",
+      "answerHi": "रहीम खोखली बातें करने वालों की तुलना आश्विन महीने (क्वार) के खाली बादलों से करते हैं ('थोथे बादर क्वार के...')। जिस प्रकार ये बादल केवल गरजते हैं लेकिन बरसते नहीं, उसी प्रकार जो गरीब लोग पहले कभी अमीर थे, वे अक्सर अपने पिछले गौरव और धन की डींगें मारते हैं, लेकिन उनकी बातों में कोई वजन नहीं होता और वे अब कुछ व्यावहारिक नहीं करते हैं।",
+      "keyPoints": [
+        "क्वार (आश्विन) के बादल गरजते हैं पर बरसते नहीं (Clouds of Kvaar thunder but do not rain)",
+        "खोखले लोग केवल डींगें मारते हैं, कोई काम नहीं करते (Hollow people only boast, do no work)",
+        "बीते समय की बड़ाई करना व्यर्थ है (Boasting about the past is useless)"
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Explain the doha: 'Taruvar phal nahin khaat hai, sarvar piyahin na paan'.",
+      "questionHi": "इस दोहे की व्याख्या कीजिए: 'तरुवर फल नहिं खात है, सरवर पियहिं न पान'।",
+      "answer": "This doha beautifully illustrates the concept of selflessness (paropkar). Rahim says that trees ('taruvar') bear sweet fruits but never eat them themselves. Ponds and lakes ('sarvar') store water but never drink it. Similarly, noble and wise people ('sujaan') accumulate wealth and resources not for their own selfish enjoyment, but to help others in need. True greatness lies in using one's gifts for the benefit of society.",
+      "answerHi": "यह दोहा निस्वार्थता (परोपकार) की अवधारणा को खूबसूरती से दर्शाता है। रहीम कहते हैं कि पेड़ ('तरुवर') मीठे फल देते हैं लेकिन उन्हें खुद कभी नहीं खाते। तालाब और झीलें ('सरवर') पानी जमा करते हैं लेकिन उसे कभी नहीं पीते। इसी तरह, सज्जन और बुद्धिमान लोग ('सुजान') अपने स्वार्थ के लिए नहीं, बल्कि जरूरतमंदों की मदद करने के लिए धन और संसाधन इकट्ठा करते हैं। सच्ची महानता समाज की भलाई के लिए अपने उपहारों का उपयोग करने में निहित है।",
+      "keyPoints": [
+        "प्रकृति हमें परोपकार (निस्वार्थता) सिखाती है (Nature teaches us philanthropy/selflessness)",
+        "पेड़ और तालाब अपना लाभ स्वयं नहीं उठाते (Trees and ponds do not take their own benefit)",
+        "सज्जनों की संपत्ति दूसरों की भलाई के लिए होती है (Noble people's wealth is for the welfare of others)"
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "Why is Rahim's advice on keeping sorrows hidden practical in today's world?",
+      "questionHi": "दुखों को छिपाकर रखने की रहीम की सलाह आज की दुनिया में व्यावहारिक क्यों है?",
+      "answer": "Rahim's advice ('Rahiman nij man ki bitha...') is highly practical today. In a competitive and often superficial world, expressing deep personal sorrows to everyone can make a person vulnerable. Most people lack genuine empathy; they might mock the pain or use it against the person. Instead of finding support, one might become an object of ridicule. Therefore, sharing pain only with a few trusted confidants while bearing it with inner strength is much wiser.",
+      "answerHi": "रहीम की सलाह ('रहिमन निज मन की बिथा...') आज अत्यधिक व्यावहारिक है। एक प्रतिस्पर्धी और अक्सर सतही दुनिया में, हर किसी के सामने गहरे व्यक्तिगत दुखों को व्यक्त करने से व्यक्ति कमजोर हो सकता है। अधिकांश लोगों में वास्तविक सहानुभूति की कमी होती है; वे दर्द का मज़ाक उड़ा सकते हैं या इसका इस्तेमाल व्यक्ति के खिलाफ कर सकते हैं। समर्थन पाने के बजाय, व्यक्ति उपहास का पात्र बन सकता है। इसलिए, आंतरिक शक्ति के साथ दर्द को सहते हुए केवल कुछ विश्वसनीय विश्वासपात्रों के साथ इसे साझा करना अधिक बुद्धिमानी है।",
+      "keyPoints": [
+        "दुनिया में सच्ची सहानुभूति की कमी है (There is a lack of genuine empathy in the world)",
+        "लोग दुख साझा करने के बजाय मज़ाक उड़ाते हैं (People mock instead of sharing sorrow)",
+        "आंतरिक शक्ति से अपने दर्द को सहना समझदारी है (Bearing one's pain with inner strength is wise)"
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "What is the significance of the needle (sui) and sword (talwar) analogy in Rahim's doha?",
+      "questionHi": "रहीम के दोहे में सुई और तलवार की समानता (analogy) का क्या महत्व है?",
+      "answer": "The analogy of the needle and sword highlights the unique value of every individual. A sword is huge, powerful, and useful in war, while a needle is tiny and seemingly insignificant. However, if your clothes are torn, only a needle can sew them; a sword is useless there. Rahim teaches that we should not discard or disrespect poor or small people just because we have met rich or powerful people. Every person has a specific role that no one else can fill.",
+      "answerHi": "सुई और तलवार की समानता हर व्यक्ति के अद्वितीय मूल्य पर प्रकाश डालती है। तलवार विशाल, शक्तिशाली और युद्ध में उपयोगी होती है, जबकि सुई छोटी और महत्वहीन लगती है। हालाँकि, अगर आपके कपड़े फट जाते हैं, तो केवल एक सुई ही उन्हें सिल सकती है; तलवार वहाँ बेकार है। रहीम सिखाते हैं कि हमें केवल अमीर या शक्तिशाली लोगों से मिलने के कारण गरीब या छोटे लोगों को त्यागना या उनका अनादर नहीं करना चाहिए। प्रत्येक व्यक्ति की एक विशिष्ट भूमिका होती है जिसे कोई और नहीं निभा सकता।",
+      "keyPoints": [
+        "सुई कपड़े सिलती है, तलवार युद्ध में काम आती है (A needle sews clothes, a sword is used in war)",
+        "छोटों का भी अपना विशेष महत्व होता है (The small also have their own special importance)",
+        "शक्तिशालियों के सामने कमजोरों का तिरस्कार नहीं करना चाहिए (Do not despise the weak in front of the powerful)"
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "How does Rahim's doha about 'dhaga prem ka' (thread of love) warn us about relationships?",
+      "questionHi": "'धागा प्रेम का' के बारे में रहीम का दोहा हमें रिश्तों के बारे में कैसे चेतावनी देता है?",
+      "answer": "The doha acts as a deep psychological warning about fragile relationships. Rahim compares love and trust to a delicate thread. Once broken by anger, betrayal, or harsh words, the relationship cannot be perfectly restored. Even if people reconcile (tie the thread), a 'knot' of doubt, hurt, or awkwardness remains forever. It warns us to handle our relationships with extreme care and avoid unnecessary conflicts that can cause permanent damage.",
+      "answerHi": "यह दोहा नाजुक रिश्तों के बारे में एक गहरी मनोवैज्ञानिक चेतावनी के रूप में कार्य करता है। रहीम प्रेम और विश्वास की तुलना एक नाजुक धागे से करते हैं। एक बार क्रोध, विश्वासघात या कठोर शब्दों से टूट जाने पर, रिश्ते को पूरी तरह से बहाल नहीं किया जा सकता है। भले ही लोग सुलह कर लें (धागा बांध लें), संदेह, चोट या अजीबपन की एक 'गांठ' हमेशा रह जाती है। यह हमें अपने रिश्तों को अत्यंत सावधानी से संभालने और अनावश्यक संघर्षों से बचने की चेतावनी देता है जो स्थायी नुकसान पहुंचा सकते हैं।",
+      "keyPoints": [
+        "प्रेम और विश्वास एक नाजुक धागे के समान हैं (Love and trust are like a delicate thread)",
+        "टूटने पर रिश्ते में कड़वाहट की गांठ रह जाती है (Once broken, a knot of bitterness remains in the relationship)",
+        "रिश्तों को सावधानी और संवेदनशीलता से संभालना चाहिए (Relationships should be handled with care and sensitivity)"
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "Explain the concept of 'paani' (water/honor) in Rahim's poetry. Why is it compared to a pearl and flour?",
+      "questionHi": "रहीम की कविता में 'पानी' (जल/सम्मान) की अवधारणा को समझाइए। इसकी तुलना मोती और आटे से क्यों की गई है?",
+      "answer": "In 'Rahiman paani rakhiye', Rahim masterfully uses the rhetorical device of *Slesha Alankar* (pun) where one word has multiple meanings. 'Paani' means 'shine' for a pearl; without shine, a pearl is just a worthless stone. It means 'water' for flour (chuna); without water, flour cannot be kneaded to make bread. Most importantly, it means 'honor' or 'self-respect' for humans. Without honor, a human's life has no dignity or value. The comparison shows that just as physical elements lose their essence without 'paani', humans lose their existential worth without honor.",
+      "answerHi": "'रहिमन पानी राखिए' में, रहीम चतुराई से *श्लेष अलंकार* का उपयोग करते हैं जहाँ एक शब्द के कई अर्थ होते हैं। 'पानी' का अर्थ मोती के लिए 'चमक' है; चमक के बिना, मोती सिर्फ एक बेकार पत्थर है। आटे (चूने) के लिए इसका अर्थ 'जल' है; जल के बिना, रोटी बनाने के लिए आटा नहीं गूंथा जा सकता। सबसे महत्वपूर्ण बात, मनुष्य के लिए इसका अर्थ 'सम्मान' या 'इज्जत' है। सम्मान के बिना, मनुष्य के जीवन की कोई गरिमा या मूल्य नहीं है। तुलना दर्शाती है कि जिस प्रकार भौतिक तत्व 'पानी' के बिना अपना सार खो देते हैं, उसी प्रकार मनुष्य सम्मान के बिना अपना अस्तित्वगत मूल्य खो देते हैं।",
+      "keyPoints": [
+        "श्लेष अलंकार: एक शब्द ('पानी') के तीन अलग-अलग अर्थ (Slesha Alankar: One word having three different meanings)",
+        "मोती की चमक और आटे का गूंथना पानी पर निर्भर है (Pearl's shine and flour's kneading depend on water)",
+        "मनुष्य के लिए उसका आत्म-सम्मान ही सबसे कीमती है (For a human, self-respect is the most precious thing)"
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "How does a noble person react to bad company according to the 'Chandan' doha?",
+      "questionHi": "'चंदन' वाले दोहे के अनुसार कुसंगति पर एक सज्जन व्यक्ति की क्या प्रतिक्रिया होती है?",
+      "answer": "According to Rahim, a truly noble person with a strong character does not get corrupted by bad company. He uses the metaphor of a sandalwood tree (chandan). Venomous snakes coil around its trunk, but the tree never absorbs their poison; it continues to spread its cooling fragrance. Similarly, a good person maintains their virtues, morality, and goodness even when surrounded by evil or toxic people.",
+      "answerHi": "रहीम के अनुसार, एक मजबूत चरित्र वाला सच्चा सज्जन व्यक्ति कुसंगति से भ्रष्ट नहीं होता है। वे चंदन के पेड़ का रूपक उपयोग करते हैं। विषैले सांप इसके तने से लिपटे रहते हैं, लेकिन पेड़ कभी उनका जहर नहीं सोखता; यह अपनी शीतलता और सुगंध फैलाता रहता है। इसी तरह, एक अच्छा व्यक्ति बुरे या विषैले लोगों से घिरे होने पर भी अपने सद्गुण, नैतिकता और अच्छाई को बनाए रखता है।",
+      "keyPoints": [
+        "दृढ़ चरित्र वाले लोग बुरी संगति से प्रभावित नहीं होते (People with strong character are unaffected by bad company)",
+        "चंदन का पेड़ सांपों का जहर नहीं अपनाता (Sandalwood tree doesn't adopt snakes' poison)",
+        "सज्जन अपनी अच्छाई हर परिस्थिति में बनाए रखते हैं (Noble people maintain their goodness in every situation)"
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "What is the lesson to be learned from 'Eke sadhe sab sadhe'?",
+      "questionHi": "'एके साधे सब सधै' से क्या शिक्षा मिलती है?",
+      "answer": "The core lesson is about the power of focus, devotion, and prioritizing the root cause. If you concentrate your energy on one main goal or the ultimate truth (like God), all other secondary goals will automatically fall into place. Rahim gives the example of watering a tree's root. You don't need to water every leaf and flower individually; nourishing the root automatically brings life to the whole tree. Dispersing energy in too many directions leads to failure.",
+      "answerHi": "मुख्य शिक्षा फोकस, समर्पण और मूल कारण को प्राथमिकता देने की शक्ति के बारे में है। यदि आप अपनी ऊर्जा एक मुख्य लक्ष्य या परम सत्य (जैसे ईश्वर) पर केंद्रित करते हैं, तो अन्य सभी माध्यमिक लक्ष्य स्वतः ही प्राप्त हो जाएंगे। रहीम पेड़ की जड़ को सींचने का उदाहरण देते हैं। आपको हर पत्ते और फूल को अलग-अलग पानी देने की जरूरत नहीं है; जड़ को पोषण देने से पूरे पेड़ में अपने आप जान आ जाती है। बहुत सी दिशाओं में ऊर्जा बिखेरने से विफलता मिलती है।",
+      "keyPoints": [
+        "एकाग्रता और प्राथमिकता तय करने का महत्व (Importance of concentration and prioritization)",
+        "मूल कारण (जड़) पर ध्यान देने से बाकी चीजें स्वतः ठीक हो जाती हैं (Focusing on the root cause fixes everything else automatically)",
+        "बहुत से काम एक साथ करने से सब बिगड़ सकते हैं (Doing too many things at once can ruin everything)"
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Explain Rahim's view on poverty and boasting, referring to the clouds of Ashwin (Kvaar).",
+      "questionHi": "आश्विन (क्वार) के बादलों का संदर्भ देते हुए गरीबी और डींगें मारने पर रहीम के विचार स्पष्ट कीजिए।",
+      "answer": "Rahim observes that some people who have lost their wealth and become poor continue to boast about their past riches. He compares them to the clouds of the 'Kvaar' month (early autumn). While the monsoon clouds of Ashadh pour heavy rain, the Kvaar clouds are empty; they only thunder and make noise but give no rain. Similarly, empty boasting without present action or resources is completely useless and only makes a person look foolish.",
+      "answerHi": "रहीम देखते हैं कि कुछ लोग जो अपनी संपत्ति खो चुके हैं और गरीब हो गए हैं, वे अपने पिछले धन की डींगें मारते रहते हैं। वे उनकी तुलना 'क्वार' महीने (शुरुआती शरद ऋतु) के बादलों से करते हैं। जहाँ आषाढ़ के मानसूनी बादल भारी बारिश करते हैं, वहीं क्वार के बादल खाली होते हैं; वे केवल गरजते हैं और शोर मचाते हैं लेकिन बारिश नहीं करते। इसी तरह, वर्तमान कार्रवाई या संसाधनों के बिना खाली डींगें मारना बिल्कुल बेकार है और यह व्यक्ति को केवल मूर्ख ही बनाता है।",
+      "keyPoints": [
+        "क्वार के खाली बादल बिना बारिश के केवल गरजते हैं (Empty clouds of Kvaar only thunder without rain)",
+        "अतीत के धन की डींगें मारना व्यर्थ है (Boasting about past wealth is useless)",
+        "कर्म के बिना केवल बातें करने वाले हास्यास्पद होते हैं (Those who only talk without action look ridiculous)"
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "What is 'Anyokti Alankar' (Allegory)? Give an example from Rahim's dohas.",
+      "questionHi": "'अन्योक्ति अलंकार' (Allegory) क्या है? रहीम के दोहों में से एक उदाहरण दीजिए।",
+      "answer": "'Anyokti Alankar' is a literary device where a poet conveys a deep message about human life indirectly, by talking about nature, animals, or objects (similar to an allegory). A great example from Rahim is the doha about the tree and the pond ('Taruvar phal nahin khaat hai...'). Rahim does not directly say 'humans should be selfless'. Instead, he describes the selfless nature of trees and water bodies, indirectly prompting the reader to apply this noble quality to human behavior.",
+      "answerHi": "'अन्योक्ति अलंकार' एक काव्य उपकरण है जहाँ एक कवि प्रकृति, जानवरों या वस्तुओं के बारे में बात करके, अप्रत्यक्ष रूप से मानव जीवन के बारे में एक गहरा संदेश देता है (दृष्टांत के समान)। रहीम का एक बेहतरीन उदाहरण पेड़ और तालाब ('तरुवर फल नहिं खात है...') वाला दोहा है। रहीम सीधे तौर पर यह नहीं कहते कि 'मनुष्यों को निस्वार्थ होना चाहिए'। इसके बजाय, वे पेड़ों और जल निकायों के निस्वार्थ स्वभाव का वर्णन करते हैं, अप्रत्यक्ष रूप से पाठक को इस महान गुण को मानव व्यवहार पर लागू करने के लिए प्रेरित करते हैं।",
+      "keyPoints": [
+        "अन्योक्ति: किसी अन्य वस्तु के माध्यम से अपनी बात कहना (Anyokti: Conveying a point through another object/medium)",
+        "प्रकृति के उदाहरणों से मानवीय शिक्षा देना (Giving human lessons through examples of nature)",
+        "उदाहरण: पेड़ और तालाब का परोपकारी स्वभाव (Example: Philanthropic nature of tree and pond)"
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "According to Rahim, how do we identify a true friend?",
+      "questionHi": "रहीम के अनुसार, हम एक सच्चे मित्र की पहचान कैसे करते हैं?",
+      "answer": "Rahim says that as long as a person has money, many people claim to be their friends ('Kahi Rahim sampati sage...'). These fair-weather friends gather around like a crowd for their own benefit. However, a true friend is tested on the touchstone (kasauti) of adversity. The one who stands by you, supports you, and does not abandon you when you face difficulties and lose your wealth is your real friend.",
+      "answerHi": "रहीम कहते हैं कि जब तक किसी व्यक्ति के पास पैसा होता है, बहुत से लोग उसके दोस्त होने का दावा करते हैं ('कहि रहीम संपति सगे...')। ये स्वार्थी दोस्त अपने फायदे के लिए भीड़ की तरह इकट्ठा हो जाते हैं। हालाँकि, एक सच्चे मित्र की परीक्षा विपत्ति की कसौटी (कसौटी) पर होती है। वह जो कठिनाइयों का सामना करने और अपना धन खोने पर भी आपके साथ खड़ा रहता है, आपका समर्थन करता है और आपको नहीं छोड़ता है, वही आपका असली दोस्त है।",
+      "keyPoints": [
+        "संपत्ति होने पर कई लोग दोस्त बन जाते हैं (Many become friends when there is wealth)",
+        "सच्चे मित्र की पहचान विपत्ति की कसौटी पर होती है (True friend is tested on the touchstone of adversity)",
+        "मुश्किल समय में साथ न छोड़ने वाला ही सच्चा मित्र है (One who doesn't leave in tough times is the true friend)"
+      ]
+    },
+    {
+      "id": "q21",
+      "type": "case-study",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Read the following scenario:\nRohan and Amit were best friends. One day, a misunderstanding occurred, and Rohan spoke very harshly to Amit in anger. For a month, they did not speak. Later, Rohan realized his mistake, apologized, and they became friends again. However, Amit found that he could not trust Rohan as freely as before. There was always a slight hesitation when they talked.\n\n(a) Which doha of Rahim perfectly describes this situation?\n(b) What metaphor does Rahim use in that doha?\n(c) Why did Amit feel hesitation even after they patched up?\n(d) What life lesson should we learn from this regarding our words and actions?",
+      "questionHi": "निम्नलिखित परिदृश्य पढ़िए:\nरोहन और अमित पक्के दोस्त थे। एक दिन, कोई गलतफहमी हुई, और रोहन ने गुस्से में अमित से बहुत कठोर बातें कह दीं। एक महीने तक, उन्होंने बात नहीं की। बाद में, रोहन को अपनी गलती का एहसास हुआ, उसने माफी मांगी, और वे फिर से दोस्त बन गए। हालाँकि, अमित ने पाया कि वह रोहन पर पहले की तरह स्वतंत्र रूप से भरोसा नहीं कर पा रहा था। जब भी वे बात करते, हमेशा थोड़ी हिचकिचाहट रहती थी।\n\n(क) रहीम का कौन सा दोहा इस स्थिति का पूरी तरह से वर्णन करता है?\n(ख) उस दोहे में रहीम किस रूपक (metaphor) का उपयोग करते हैं?\n(ग) पैच-अप (सुलह) के बाद भी अमित को हिचकिचाहट क्यों महसूस हुई?\n(घ) अपने शब्दों और कार्यों के संबंध में हमें इससे क्या जीवन सबक सीखना चाहिए?",
+      "answer": "(a) The doha that perfectly describes this is: 'Rahiman dhaga prem ka, mat todo chatkay. Toote se phir na mile, mile gaanth pad jaye.'\n(b) Rahim uses the metaphor of a delicate 'thread' (dhaga) to represent love, trust, and friendship.\n(c) Amit felt hesitation because, as Rahim says, when a broken thread is tied back together, a 'knot' (gaanth) remains. The harsh words created a permanent emotional knot of doubt and hurt in Amit's mind, making the friendship lose its original seamless purity.\n(d) The life lesson is that we should control our anger and words. Words spoken in anger can cause irreparable damage to relationships. We should nurture trust carefully and never break it impulsively, because apologies cannot erase emotional scars completely.",
+      "answerHi": "(क) जो दोहा इसका पूरी तरह से वर्णन करता है वह है: 'रहिमन धागा प्रेम का, मत तोड़ो चटकाय। टूटे से फिर ना मिले, मिले गाँठ पड़ जाय।'\n(ख) रहीम प्रेम, विश्वास और दोस्ती को दर्शाने के लिए एक नाजुक 'धागे' (धागा) के रूपक का उपयोग करते हैं।\n(ग) अमित को हिचकिचाहट महसूस हुई क्योंकि, जैसा कि रहीम कहते हैं, जब एक टूटे हुए धागे को वापस बांधा जाता है, तो एक 'गांठ' (गाँठ) रह जाती है। कठोर शब्दों ने अमित के दिमाग में संदेह और चोट की एक स्थायी भावनात्मक गांठ बना दी, जिससे दोस्ती ने अपनी मूल निर्बाध पवित्रता खो दी।\n(घ) जीवन का सबक यह है कि हमें अपने क्रोध और शब्दों को नियंत्रित करना चाहिए। गुस्से में बोले गए शब्द रिश्तों को अपूरणीय क्षति पहुंचा सकते हैं। हमें विश्वास को सावधानी से पोषित करना चाहिए और इसे कभी भी आवेग में नहीं तोड़ना चाहिए, क्योंकि माफी भावनात्मक निशानों को पूरी तरह से नहीं मिटा सकती है।",
+      "keyPoints": [
+        "यह स्थिति 'रहिमन धागा प्रेम का...' दोहे को दर्शाती है (This situation reflects the doha 'Rahiman dhaga prem ka...')",
+        "रिश्तों की तुलना नाजुक धागे से की गई है (Relationships are compared to a delicate thread)",
+        "टूटे रिश्ते के जुड़ने पर संदेह की 'गांठ' रह जाती है (A 'knot' of doubt remains when a broken relationship is mended)",
+        "हमें क्रोध में कटु वचन बोलने से बचना चाहिए (We should avoid speaking harsh words in anger)"
+      ]
+    },
+    {
+      "id": "q22",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "Rahim’s dohas are considered timeless because they offer practical solutions to everyday problems. Discuss this statement by analyzing any three dohas from the chapter.",
+      "questionHi": "रहीम के दोहे कालातीत माने जाते हैं क्योंकि वे रोजमर्रा की समस्याओं के व्यावहारिक समाधान प्रस्तुत करते हैं। अध्याय के किन्हीं तीन दोहों का विश्लेषण करते हुए इस कथन पर चर्चा कीजिए।",
+      "answer": "Rahim’s dohas are indeed timeless manuals for life, offering immense practical wisdom:\n\n1. **Managing Relationships ('Rahiman dhaga prem ka'):** This doha gives the practical advice that relationships are fragile. Instead of taking friends and loved ones for granted, we should avoid conflicts that 'snap the thread', because emotional wounds rarely heal perfectly.\n2. **Handling Emotional Pain ('Rahiman nij man ki bitha'):** In today's era of social media oversharing, this doha provides the wise solution to keep our deepest sorrows private. It protects us from being mocked by superficial people and teaches us emotional resilience.\n3. **Respecting Everyone ('Rahiman dekhi baden ko'):** This teaches equality and team building. In professional or social life, acquiring powerful friends doesn't mean we should discard modest ones. A CEO (sword) cannot do the job of a ground worker (needle). Everyone has unique utility.\n\nThrough simple imagery, Rahim provides solutions for anger management, emotional privacy, and social equality, proving his relevance across centuries.",
+      "answerHi": "रहीम के दोहे वास्तव में जीवन के लिए कालातीत नियमावली हैं, जो अपार व्यावहारिक ज्ञान प्रदान करते हैं:\n\n1. **रिश्तों का प्रबंधन ('रहिमन धागा प्रेम का'):** यह दोहा व्यावहारिक सलाह देता है कि रिश्ते नाजुक होते हैं। दोस्तों और प्रियजनों को हल्के में लेने के बजाय, हमें ऐसे संघर्षों से बचना चाहिए जो 'धागे को तोड़ते' हैं, क्योंकि भावनात्मक घाव शायद ही कभी पूरी तरह भरते हैं।\n2. **भावनात्मक दर्द को संभालना ('रहिमन निज मन की बिथा'):** सोशल मीडिया पर अति-साझाकरण के आज के युग में, यह दोहा हमारे सबसे गहरे दुखों को निजी रखने का बुद्धिमान समाधान प्रदान करता है। यह हमें सतही लोगों द्वारा उपहास किए जाने से बचाता है और हमें भावनात्मक लचीलापन सिखाता है।\n3. **सभी का सम्मान करना ('रहिमन देखि बड़ेन को'):** यह समानता और टीम निर्माण सिखाता है। पेशेवर या सामाजिक जीवन में, शक्तिशाली दोस्त बनाने का मतलब यह नहीं है कि हमें मामूली दोस्तों को त्याग देना चाहिए। एक सीईओ (तलवार) एक जमीनी कार्यकर्ता (सुई) का काम नहीं कर सकता। हर किसी की अनोखी उपयोगिता है।\n\nसरल कल्पनाओं के माध्यम से, रहीम क्रोध प्रबंधन, भावनात्मक गोपनीयता और सामाजिक समानता के समाधान प्रदान करते हैं, जो सदियों से उनकी प्रासंगिकता को साबित करता है।",
+      "keyPoints": [
+        "रिश्तों की नाजुकता को समझना और टूटने से बचाना (Understanding the fragility of relationships and saving them from breaking)",
+        "अपने दुखों को गुप्त रखकर उपहास से बचना (Avoiding ridicule by keeping one's sorrows secret)",
+        "बड़े और छोटे दोनों का समाज में समान महत्व समझना (Understanding the equal importance of both big and small in society)",
+        "रहीम के दोहे जीवन जीने की व्यावहारिक कला सिखाते हैं (Rahim's dohas teach the practical art of living)"
+      ]
+    },
+    {
+      "id": "q23",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "What is the importance of 'Paani' (self-respect/honor) in human life? Elaborate based on Rahim's doha 'Rahiman paani rakhiye', bringing in examples from modern life.",
+      "questionHi": "मानव जीवन में 'पानी' (आत्म-सम्मान/इज्जत) का क्या महत्व है? आधुनिक जीवन के उदाहरण देते हुए रहीम के दोहे 'रहिमन पानी राखिए' के आधार पर विस्तार से बताइए।",
+      "answer": "In 'Rahiman paani rakhiye', Rahim places self-respect (paani) above all material wealth. He asserts that a life without dignity is empty.\n\n**Importance of Honor:**\nJust as a pearl loses its entire market value without its luster, and dough cannot become life-sustaining bread without water, a human loses their social and moral value without honor. Money, power, and status are external, but character and self-respect are internal foundations.\n\n**Modern Life Examples:**\n1. **Career:** A person might achieve a high position by cheating or corruption, but if society knows their truth, they lose their 'paani' (respect). Despite their wealth, they are looked down upon.\n2. **Digital Life:** Online bullying or chasing viral fame by compromising one's dignity is common today. Rahim's doha reminds youth that gaining likes at the cost of your 'paani' (self-respect) makes you completely worthless in the long run.\n\nTherefore, Rahim urges us to guard our character and dignity above all else.",
+      "answerHi": "'रहिमन पानी राखिए' में, रहीम आत्म-सम्मान (पानी) को सभी भौतिक धन से ऊपर रखते हैं। उनका दावा है कि गरिमा के बिना जीवन खाली है।\n\n**सम्मान का महत्व:**\nजिस प्रकार एक मोती अपनी चमक के बिना अपना पूरा बाजार मूल्य खो देता है, और पानी के बिना आटा जीवनदायी रोटी नहीं बन सकता, उसी प्रकार मनुष्य सम्मान के बिना अपना सामाजिक और नैतिक मूल्य खो देता है। धन, शक्ति और स्थिति बाहरी हैं, लेकिन चरित्र और आत्म-सम्मान आंतरिक नींव हैं।\n\n**आधुनिक जीवन के उदाहरण:**\n1. **करियर:** एक व्यक्ति धोखाधड़ी या भ्रष्टाचार से उच्च पद प्राप्त कर सकता है, लेकिन अगर समाज उनकी सच्चाई जानता है, तो वे अपना 'पानी' (सम्मान) खो देते हैं। अपने धन के बावजूद, उन्हें हेय दृष्टि से देखा जाता है।\n2. **डिजिटल जीवन:** अपनी गरिमा से समझौता करके ऑनलाइन वायरल प्रसिद्धि का पीछा करना आज आम है। रहीम का दोहा युवाओं को याद दिलाता है कि अपने 'पानी' (आत्म-सम्मान) की कीमत पर लाइक्स हासिल करना आपको लंबे समय में पूरी तरह से बेकार बना देता है।\n\nइसलिए, रहीम हमें सबसे बढ़कर अपने चरित्र और गरिमा की रक्षा करने का आग्रह करते हैं।",
+      "keyPoints": [
+        "आत्म-सम्मान (पानी) सभी भौतिक संपत्तियों से अधिक मूल्यवान है (Self-respect (paani) is more valuable than all material wealth)",
+        "चरित्र और गरिमा के बिना मनुष्य का जीवन निरर्थक है (Human life is meaningless without character and dignity)",
+        "भ्रष्टाचार से कमाया धन सम्मान नहीं दिला सकता (Wealth earned through corruption cannot bring respect)",
+        "युवाओं को प्रसिद्धि के लिए अपना आत्म-सम्मान नहीं खोना चाहिए (Youth should not lose their self-respect for fame)"
+      ]
+    },
+    {
+      "id": "q24",
+      "type": "value-based",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "How do trees and ponds inspire us to live a life of 'Paropkar' (philanthropy)? What would happen to the world if nature stopped being selfless?",
+      "questionHi": "पेड़ और तालाब हमें 'परोपकार' (philanthropy) का जीवन जीने के लिए कैसे प्रेरित करते हैं? यदि प्रकृति निस्वार्थ होना बंद कर दे तो दुनिया का क्या होगा?",
+      "answer": "Trees and ponds are the ultimate symbols of 'Paropkar' (selfless service) in Rahim's dohas. Trees work hard to produce sweet fruits but offer them freely to humans and birds. Ponds gather water throughout the year but offer it to thirsty travelers. They teach us that our skills, wealth, and resources should not be hoarded selfishly but used to uplift the needy.\n\n**If nature stopped being selfless:**\nIf trees consumed their own fruits and oxygen, and ponds locked away their water, all life on Earth would perish instantly. The survival of the ecosystem depends on mutual giving. Similarly, human society thrives on mutual help. If rich people become entirely selfish and stop charitable acts (like funding hospitals, education, or helping the poor), society will collapse into extreme inequality, conflict, and suffering. Nature teaches us that giving is the law of survival and greatness.",
+      "answerHi": "रहीम के दोहों में पेड़ और तालाब 'परोपकार' (निस्वार्थ सेवा) के अंतिम प्रतीक हैं। पेड़ मीठे फल पैदा करने के लिए कड़ी मेहनत करते हैं लेकिन उन्हें मनुष्यों और पक्षियों को स्वतंत्र रूप से देते हैं। तालाब साल भर पानी इकट्ठा करते हैं लेकिन इसे प्यासे यात्रियों को देते हैं। वे हमें सिखाते हैं कि हमारे कौशल, धन और संसाधनों को स्वार्थपूर्वक जमा नहीं किया जाना चाहिए बल्कि जरूरतमंदों के उत्थान के लिए उपयोग किया जाना चाहिए।\n\n**यदि प्रकृति निस्वार्थ होना बंद कर दे:**\nयदि पेड़ अपने ही फल और ऑक्सीजन का उपभोग कर लें, और तालाब अपना पानी बंद कर लें, तो पृथ्वी पर जीवन तुरंत नष्ट हो जाएगा। पारिस्थितिकी तंत्र का अस्तित्व आपसी लेन-देन पर निर्भर करता है। इसी तरह, मानव समाज आपसी मदद पर पनपता है। यदि अमीर लोग पूरी तरह से स्वार्थी हो जाएं और परोपकारी कार्य (जैसे अस्पताल, शिक्षा का वित्तपोषण, या गरीबों की मदद करना) बंद कर दें, तो समाज अत्यधिक असमानता, संघर्ष और पीड़ा में ढह जाएगा। प्रकृति हमें सिखाती है कि देना ही अस्तित्व और महानता का नियम है।",
+      "keyPoints": [
+        "पेड़ और तालाब अपना सर्वस्व दूसरों को दान कर देते हैं (Trees and ponds donate everything to others)",
+        "सच्चे मनुष्य को अपनी संपत्ति का उपयोग समाज की भलाई के लिए करना चाहिए (A true human should use their wealth for the good of society)",
+        "प्रकृति के निस्वार्थ भाव के बिना पृथ्वी पर जीवन असंभव है (Life on earth is impossible without nature's selflessness)",
+        "परोपकार ही समाज को संतुलित और खुशहाल बनाता है (Philanthropy alone makes society balanced and happy)"
+      ]
+    },
+    {
+      "id": "q25",
+      "type": "case-study",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Read the following scenario:\nVivek was an intelligent boy, but he sat with a group of students who constantly broke school rules, bullied others, and neglected studies. Teachers worried Vivek would spoil his future. However, Vivek never participated in their bad acts. He maintained his focus, scored top marks, and remained polite. When asked how he didn't get influenced, Vivek smiled.\n\n(a) Which doha of Rahim applies to Vivek's character?\n(b) In this situation, who represents the 'Chandan' (sandalwood) and who represents the 'Bhujang' (snakes)?\n(c) What specific quality of Vivek protected him from bad influence?\n(d) Do you think it is easy to be like Vivek in real life? Why or why not?",
+      "questionHi": "निम्नलिखित परिदृश्य पढ़िए:\nविवेक एक बुद्धिमान लड़का था, लेकिन वह उन छात्रों के समूह के साथ बैठता था जो लगातार स्कूल के नियम तोड़ते थे, दूसरों को परेशान करते थे, और पढ़ाई की उपेक्षा करते थे। शिक्षकों को चिंता थी कि विवेक अपना भविष्य खराब कर लेगा। हालाँकि, विवेक ने कभी उनके बुरे कामों में हिस्सा नहीं लिया। उसने अपना ध्यान बनाए रखा, शीर्ष अंक प्राप्त किए, और विनम्र रहा। जब पूछा गया कि वह प्रभावित क्यों नहीं हुआ, तो विवेक मुस्कुरा दिया।\n\n(क) रहीम का कौन सा दोहा विवेक के चरित्र पर लागू होता है?\n(ख) इस स्थिति में, कौन 'चंदन' का प्रतिनिधित्व करता है और कौन 'भुजंग' (सांप) का?\n(ग) विवेक के किस विशिष्ट गुण ने उसे बुरे प्रभाव से बचाया?\n(घ) क्या आपको लगता है कि वास्तविक जीवन में विवेक जैसा बनना आसान है? क्यों या क्यों नहीं?",
+      "answer": "(a) The doha that applies is: 'Jo Rahim uttam prakriti, ka kari sakat kusang. Chandan vish vyapat nahin, lipte rahat bhujang.'\n(b) In this scenario, Vivek represents the 'Chandan' (sandalwood tree) that remains pure and fragrant, while the rule-breaking students represent the 'Bhujang' (venomous snakes) wrapped around it.\n(c) Vivek's specific quality is his 'Uttam Prakriti' (noble nature) — a strong internal moral compass, firm determination, and clarity of his own values. His internal strength was greater than the external peer pressure.\n(d) In real life, it is very difficult to be like Vivek. Peer pressure is incredibly strong during teenage years, and most people subconsciously adopt the habits of their friends to 'fit in'. Being like Vivek requires immense self-awareness, courage to be different, and strong mental discipline to not let toxic surroundings change your core goodness.",
+      "answerHi": "(क) जो दोहा लागू होता है वह है: 'जो रहीम उत्तम प्रकृति, का करि सकत कुसंग। चंदन विष व्यापत नहीं, लिपटे रहत भुजंग।'\n(ख) इस परिदृश्य में, विवेक 'चंदन' के पेड़ का प्रतिनिधित्व करता है जो शुद्ध और सुगंधित रहता है, जबकि नियम तोड़ने वाले छात्र इसके चारों ओर लिपटे 'भुजंग' (विषैले सांप) का प्रतिनिधित्व करते हैं।\n(ग) विवेक का विशिष्ट गुण उसकी 'उत्तम प्रकृति' (महान स्वभाव) है — एक मजबूत आंतरिक नैतिक दिशा-निर्देश, दृढ़ संकल्प, और अपने स्वयं के मूल्यों की स्पष्टता। उसकी आंतरिक शक्ति बाहरी साथियों के दबाव से अधिक थी।\n(घ) वास्तविक जीवन में, विवेक जैसा बनना बहुत कठिन है। किशोरावस्था के दौरान साथियों का दबाव (peer pressure) अविश्वसनीय रूप से मजबूत होता है, और अधिकांश लोग 'फिट होने' (fit in) के लिए अवचेतन रूप से अपने दोस्तों की आदतों को अपना लेते हैं। विवेक जैसा बनने के लिए अपार आत्म-जागरूकता, अलग होने का साहस और विषाक्त परिवेश को अपनी मुख्य अच्छाई बदलने न देने के लिए मजबूत मानसिक अनुशासन की आवश्यकता होती है।",
+      "keyPoints": [
+        "विवेक उत्तम प्रकृति वाले 'चंदन' के समान है (Vivek is like 'Chandan' with a noble nature)",
+        "बुरे दोस्त 'भुजंग' (सांप) के समान हैं (Bad friends are like 'Bhujang' (snakes))",
+        "मजबूत नैतिक चरित्र कुसंगति के प्रभाव से बचाता है (Strong moral character protects from the effect of bad company)",
+        "साथियों के दबाव (Peer pressure) का विरोध करना कठिन है, इसके लिए मानसिक दृढ़ता चाहिए (Resisting peer pressure is hard, requires mental toughness)"
+      ]
+    },
+    {
+      "id": "q26",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "How do Rahim's dohas emphasize the importance of focus and unity of purpose? Elaborate with the 'root and tree' metaphor.",
+      "questionHi": "रहीम के दोहे एकाग्रता और उद्देश्य की एकता के महत्व पर कैसे जोर देते हैं? 'जड़ और पेड़' के रूपक के साथ विस्तार से बताइए।",
+      "answer": "Rahim strongly emphasizes focus and unity of purpose in his doha 'Eke sadhe sab sadhe, sab sadhe sab jaye'. \n\n**The Meaning:**\nHe teaches that trying to achieve everything at once usually leads to achieving nothing. If a person scatters their energy across multiple distracting goals, they lose their main objective. Success requires singular devotion to one primary goal at a time.\n\n**The Metaphor:**\nHe illustrates this using the metaphor of watering a tree ('Jo Rahim moolhin sinchibo, phoole phale aghay'). If you want a tree to flourish, give flowers and fruits, you only need to water its 'mool' (root). If you ignorantly water the leaves and branches one by one, the tree will die of thirst. The root represents our core priority or fundamental task. By taking care of the foundation, all secondary results (flowers and fruits) naturally follow. In a student's life, the 'root' is acquiring knowledge and discipline; if they focus on this, secondary things like marks, jobs, and respect (fruits) will automatically come.",
+      "answerHi": "रहीम अपने दोहे 'एके साधे सब सधै, सब साधे सब जाय' में एकाग्रता और उद्देश्य की एकता पर बहुत जोर देते हैं।\n\n**अर्थ:**\nवह सिखाते हैं कि एक ही समय में सब कुछ हासिल करने की कोशिश करने से आमतौर पर कुछ भी हासिल नहीं होता है। यदि कोई व्यक्ति अपनी ऊर्जा को कई विचलित करने वाले लक्ष्यों में बिखेर देता है, तो वे अपना मुख्य उद्देश्य खो देते हैं। सफलता के लिए एक समय में एक प्राथमिक लक्ष्य के प्रति एकल समर्पण की आवश्यकता होती है।\n\n**रूपक:**\nवह इसे एक पेड़ को सींचने के रूपक ('जो रहीम मूलहिं सींचिबो, फूलै फलै अघाय') का उपयोग करके स्पष्ट करते हैं। यदि आप चाहते हैं कि एक पेड़ फले-फूले, फूल और फल दे, तो आपको केवल इसके 'मूल' (जड़) को पानी देना होगा। यदि आप अज्ञानता में एक-एक करके पत्तियों और शाखाओं को पानी देते हैं, तो पेड़ प्यास से मर जाएगा। जड़ हमारी मुख्य प्राथमिकता या मौलिक कार्य का प्रतिनिधित्व करती है। नींव का ध्यान रखने से, सभी द्वितीयक परिणाम (फूल और फल) स्वाभाविक रूप से आते हैं। एक छात्र के जीवन में, 'जड़' ज्ञान और अनुशासन प्राप्त करना है; यदि वे इस पर ध्यान केंद्रित करते हैं, तो अंक, नौकरी और सम्मान (फल) जैसी द्वितीयक चीजें स्वतः आ जाएंगी।",
+      "keyPoints": [
+        "एक समय में कई काम करने से विफलता मिलती है (Doing many things at a time leads to failure)",
+        "जड़ (मूल) को सींचने से पूरे पेड़ का विकास होता है (Watering the root develops the whole tree)",
+        "मूल प्राथमिकता पर ध्यान केंद्रित करने से बाकी लक्ष्य स्वतः पूरे होते हैं (Focusing on core priority automatically fulfills other goals)",
+        "छात्रों के लिए ज्ञान (जड़) महत्वपूर्ण है, सफलता (फल) अपने आप मिलेगी (For students, knowledge is root, success will come naturally)"
+      ]
+    },
+    {
+      "id": "q27",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "What according to Rahim is the difference between true friends and fair-weather friends? How does adversity act as a touchstone?",
+      "questionHi": "रहीम के अनुसार सच्चे दोस्तों और स्वार्थी (सुख के) दोस्तों के बीच क्या अंतर है? विपत्ति एक कसौटी के रूप में कैसे कार्य करती है?",
+      "answer": "Rahim beautifully differentiates between true and fake friends through two specific dohas:\n\n**Fair-Weather Friends:**\nIn 'Kahi Rahim sampati sage...', Rahim notes that when a person is wealthy and prosperous, many people establish relationships with them in various ways. These friends are like the clouds of 'Kvaar' — they make a lot of noise offering help, but when a real crisis hits, they disappear. They are attracted to the wealth, not the person.\n\n**True Friends and the Touchstone (Kasauti):**\nRahim compares adversity (Vipda) to a touchstone. Just as a goldsmith rubs metal on a black stone (kasauti) to test if it is real gold, difficult times test people. 'Vipda hu bhali jo thode din hoye' — a short period of bad luck is actually good because it reveals who truly cares. True friends are those who stand beside you when you lose your money and power ('Je vipati kasauti kase, tei saanche meet'). Adversity strips away the fakes, leaving only the genuine friends behind.",
+      "answerHi": "रहीम दो विशिष्ट दोहों के माध्यम से सच्चे और नकली दोस्तों के बीच खूबसूरती से अंतर करते हैं:\n\n**स्वार्थी (सुख के) दोस्त:**\n'कहि रहीम संपति सगे...' में, रहीम ध्यान देते हैं कि जब कोई व्यक्ति धनी और समृद्ध होता है, तो कई लोग उनके साथ विभिन्न तरीकों से संबंध स्थापित करते हैं। ये दोस्त 'क्वार' के बादलों की तरह हैं — वे मदद की पेशकश करने का बहुत शोर मचाते हैं, लेकिन जब कोई वास्तविक संकट आता है, तो वे गायब हो जाते हैं। वे व्यक्ति की ओर नहीं, बल्कि धन की ओर आकर्षित होते हैं।\n\n**सच्चे मित्र और कसौटी:**\nरहीम विपत्ति की तुलना कसौटी से करते हैं। जिस प्रकार एक सुनार किसी धातु को यह परखने के लिए काले पत्थर (कसौटी) पर रगड़ता है कि वह असली सोना है या नहीं, उसी प्रकार कठिन समय लोगों की परीक्षा लेता है। 'विपदा हू भली जो थोड़े दिन होय' — थोड़े समय का दुर्भाग्य वास्तव में अच्छा होता है क्योंकि यह प्रकट करता है कि वास्तव में कौन परवाह करता है। सच्चे दोस्त वे हैं जो आपके पैसे और शक्ति खोने पर आपके साथ खड़े रहते हैं ('जे बिपति कसौटी कसे, तेई सांचे मीत')। विपत्ति नकली लोगों को दूर कर देती है, केवल वास्तविक दोस्तों को पीछे छोड़ देती है।",
+      "keyPoints": [
+        "धन होने पर बहुत से लोग स्वार्थवश मित्र बन जाते हैं (Many become friends out of selfishness when there is wealth)",
+        "विपत्ति को सोने को परखने वाली 'कसौटी' (touchstone) कहा गया है (Adversity is called the 'touchstone' to test gold)",
+        "कठिन समय में साथ खड़े रहने वाले ही 'सांचे मीत' (सच्चे मित्र) हैं (Only those standing by in hard times are true friends)",
+        "बुरा समय उपयोगी है क्योंकि यह असली-नकली की पहचान कराता है (Bad time is useful as it distinguishes real from fake)"
+      ]
+    },
+    {
+      "id": "q28",
+      "type": "case-study",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "Read the following scenario:\nIn a school office, the Principal is very powerful, while the peon (helper) Ramu has a small, low-paying job. Some senior students, aiming to impress the Principal, always greet him with respect but act rudely and make fun of Ramu. One day, during the annual function, the sound system wire broke. The Principal couldn't fix it. It was Ramu who quickly brought a small tape and connected the wires, saving the event.\n\n(a) Which doha of Rahim applies to the students' behavior?\n(b) In Rahim's analogy, who is the 'sword' and who is the 'needle' here?\n(c) What mistake did the senior students make in their social behavior?\n(d) What message does Rahim give to society through this example?",
+      "questionHi": "निम्नलिखित परिदृश्य पढ़िए:\nएक स्कूल कार्यालय में, प्रधानाचार्य बहुत शक्तिशाली हैं, जबकि चपरासी रामू के पास एक छोटी, कम वेतन वाली नौकरी है। कुछ वरिष्ठ छात्र, प्रधानाचार्य को प्रभावित करने के उद्देश्य से, हमेशा उन्हें सम्मान के साथ बधाई देते हैं, लेकिन रामू के साथ अशिष्ट व्यवहार करते हैं और उसका मज़ाक उड़ाते हैं। एक दिन, वार्षिक समारोह के दौरान, साउंड सिस्टम का तार टूट गया। प्रधानाचार्य इसे ठीक नहीं कर सके। यह रामू ही था जो जल्दी से एक छोटा टेप लाया और तारों को जोड़ दिया, जिससे कार्यक्रम बच गया।\n\n(क) छात्रों के व्यवहार पर रहीम का कौन सा दोहा लागू होता है?\n(ख) रहीम की समानता में, यहाँ 'तलवार' कौन है और 'सुई' कौन है?\n(ग) वरिष्ठ छात्रों ने अपने सामाजिक व्यवहार में क्या गलती की?\n(घ) इस उदाहरण के माध्यम से रहीम समाज को क्या संदेश देते हैं?",
+      "answer": "(a) The doha is: 'Rahiman dekhi baden ko, laghu na dijiye daari. Jahan kaam aave sui, kaha kare talwari.'\n(b) The Principal, holding power and high status, represents the 'sword' (talwari). Ramu, the peon holding a small job but performing a precise, essential task, represents the 'needle' (sui).\n(c) The students made the mistake of disrespecting ('laghu na dijiye daari') a humble worker just because they had access to a powerful person. They wrongly assumed that only big people are useful or worthy of respect.\n(d) Rahim gives a powerful egalitarian message: Society needs all kinds of people. A powerful leader cannot do the everyday ground-level work, just as a sword cannot sew clothes. Therefore, every individual, regardless of their financial or social status, deserves respect because their contribution is unique and irreplaceable.",
+      "answerHi": "(क) दोहा है: 'रहिमन देखि बड़ेन को, लघु न दीजिए डारि। जहाँ काम आवे सुई, कहा करे तरवारि।'\n(ख) प्रधानाचार्य, शक्ति और उच्च स्थिति रखते हुए, 'तलवार' (तरवारि) का प्रतिनिधित्व करते हैं। रामू, एक छोटी नौकरी करने वाला चपरासी लेकिन एक सटीक, आवश्यक कार्य करने वाला, 'सुई' का प्रतिनिधित्व करता है।\n(ग) छात्रों ने केवल एक शक्तिशाली व्यक्ति तक पहुँच होने के कारण एक विनम्र कार्यकर्ता का अनादर ('लघु न दीजिए डारि') करने की गलती की। उन्होंने गलत मान लिया कि केवल बड़े लोग ही उपयोगी या सम्मान के योग्य हैं।\n(घ) रहीम एक शक्तिशाली समतावादी संदेश देते हैं: समाज को सभी प्रकार के लोगों की आवश्यकता है। एक शक्तिशाली नेता रोजमर्रा का जमीनी स्तर का काम नहीं कर सकता, ठीक वैसे ही जैसे तलवार कपड़े नहीं सिल सकती। इसलिए, प्रत्येक व्यक्ति, अपनी वित्तीय या सामाजिक स्थिति की परवाह किए बिना, सम्मान का हकदार है क्योंकि उनका योगदान अद्वितीय और अपूरणीय है।",
+      "keyPoints": [
+        "'रहिमन देखि बड़ेन को...' दोहा इस स्थिति पर सटीक बैठता है (The doha 'Rahiman dekhi baden ko...' fits this situation perfectly)",
+        "प्रधानाचार्य 'तलवार' और रामू चपरासी 'सुई' के समान है (Principal is like 'sword' and peon Ramu is like 'needle')",
+        "छात्रों ने बड़ों के सामने छोटों का अनादर करने की भूल की (Students made the mistake of disrespecting the small in front of the big)",
+        "समाज में हर छोटे-बड़े व्यक्ति का अपना विशेष महत्व है (Every big and small person in society has their own special importance)"
+      ]
+    },
+    {
+      "id": "q29",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "Rahim uses imagery from nature and daily life to convey deep philosophical thoughts. Support this statement with examples from the text.",
+      "questionHi": "रहीम गहरे दार्शनिक विचारों को संप्रेषित करने के लिए प्रकृति और दैनिक जीवन की कल्पनाओं (imagery) का उपयोग करते हैं। पाठ के उदाहरणों के साथ इस कथन का समर्थन कीजिए।",
+      "answer": "Rahim's brilliance lies in taking ordinary objects from nature and daily life to explain complex human psychology and philosophy:\n\n1. **Nature Imagery:**\n   - **The Tree and Pond:** He uses the imagery of trees bearing fruit and ponds holding water to explain the philosophy of selfless charity (Paropkar). Nature doesn't consume its own creations; similarly, humans shouldn't hoard wealth.\n   - **The Sandalwood and Snakes:** To explain moral resilience against bad company, he paints the picture of a fragrant sandalwood tree wrapped by venomous snakes, yet remaining pure.\n   - **Empty Clouds:** He compares boastful, action-less people to the thunderous but rainless clouds of autumn (Kvaar).\n\n2. **Daily Life Imagery:**\n   - **The Thread:** A broken thread that forms a knot when tied is a brilliant domestic image to explain the permanent emotional damage in broken relationships.\n   - **Needle and Sword:** He uses common household and battlefield items to explain social equality and the unique value of the poor and the powerful.\n\nThrough these relatable images, Rahim makes high philosophy accessible to the common person.",
+      "answerHi": "रहीम की प्रतिभा जटिल मानव मनोविज्ञान और दर्शन को समझाने के लिए प्रकृति और दैनिक जीवन की सामान्य वस्तुओं को लेने में निहित है:\n\n1. **प्रकृति की कल्पना:**\n   - **पेड़ और तालाब:** वे निस्वार्थ दान (परोपकार) के दर्शन को समझाने के लिए फल देने वाले पेड़ों और पानी रोकने वाले तालाबों की कल्पना का उपयोग करते हैं। प्रकृति अपनी कृतियों का उपभोग नहीं करती; इसी तरह, मनुष्यों को धन जमा नहीं करना चाहिए।\n   - **चंदन और सांप:** बुरी संगति के खिलाफ नैतिक लचीलेपन को समझाने के लिए, वे विषैले सांपों से लिपटे एक सुगंधित चंदन के पेड़ का चित्र बनाते हैं, जो फिर भी शुद्ध रहता है।\n   - **खाली बादल:** वे डींगें मारने वाले, निष्क्रिय लोगों की तुलना शरद ऋतु (क्वार) के गरजने वाले लेकिन बारिश रहित बादलों से करते हैं।\n\n2. **दैनिक जीवन की कल्पना:**\n   - **धागा:** बंधने पर गांठ बनाने वाला टूटा हुआ धागा टूटे हुए रिश्तों में स्थायी भावनात्मक क्षति को समझाने के लिए एक शानदार घरेलू छवि है।\n   - **सुई और तलवार:** वे सामाजिक समानता और गरीबों और शक्तिशाली लोगों के अद्वितीय मूल्य को समझाने के लिए सामान्य घरेलू और युद्ध के मैदान की वस्तुओं का उपयोग करते हैं।\n\nइन प्रासंगिक कल्पनाओं के माध्यम से, रहीम उच्च दर्शन को आम आदमी के लिए सुलभ बनाते हैं।",
+      "keyPoints": [
+        "पेड़ और तालाब के रूपक से परोपकार का संदेश (Message of philanthropy through the metaphor of tree and pond)",
+        "चंदन और सांप के उदाहरण से दृढ़ चरित्र की व्याख्या (Explanation of strong character through sandalwood and snake example)",
+        "टूटे धागे और गांठ से रिश्तों की नाजुकता का वर्णन (Description of fragility of relationships through broken thread and knot)",
+        "सुई और तलवार से समाज के हर वर्ग का महत्व सिद्ध किया (Proved importance of every section of society through needle and sword)"
+      ]
+    },
+    {
+      "id": "q30",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Summarize the core ethical teachings of Rahim based on the selected dohas in Class 6. How can a student apply them to build a strong character?",
+      "questionHi": "कक्षा 6 में चयनित दोहों के आधार पर रहीम की मुख्य नैतिक शिक्षाओं का सारांश दीजिए। एक छात्र एक मजबूत चरित्र के निर्माण के लिए उन्हें कैसे लागू कर सकता है?",
+      "answer": "**Core Ethical Teachings of Rahim:**\n1. **Self-Respect:** Honor (Paani) is the essence of human life. Without it, existence is meaningless.\n2. **Emotional Intelligence:** Do not break the delicate thread of relationships in anger. Also, keep your deep sorrows private to avoid public ridicule.\n3. **Equality and Respect:** Never disrespect the small or poor when you gain access to the big or wealthy. Everyone has a unique purpose (Needle and Sword).\n4. **Resilience and Focus:** Stay pure even in bad company (Sandalwood), and focus on one primary goal to achieve complete success (Watering the root).\n5. **Selflessness:** Wealth should be used for the welfare of others, just like trees and ponds serve society.\n\n**Application by a Student:**\nA student can apply these by maintaining their dignity and not cheating for marks (Paani). They should avoid fighting over petty issues with friends (Thread of love). They should treat the school janitor with the same respect as the Principal (Needle and Sword). They should focus purely on studies rather than multiple distractions (Watering the root), and they should help weaker students in studies (Selflessness like trees).",
+      "answerHi": "**रहीम की मुख्य नैतिक शिक्षाएँ:**\n1. **आत्म-सम्मान:** इज्जत (पानी) मानव जीवन का सार है। इसके बिना अस्तित्व निरर्थक है।\n2. **भावनात्मक बुद्धिमत्ता:** क्रोध में रिश्तों के नाजुक धागे को न तोड़ें। साथ ही, सार्वजनिक उपहास से बचने के लिए अपने गहरे दुखों को निजी रखें।\n3. **समानता और सम्मान:** जब आपकी बड़े या अमीरों तक पहुंच हो तो कभी भी छोटे या गरीबों का अनादर न करें। हर किसी का एक अनूठा उद्देश्य होता है (सुई और तलवार)।\n4. **लचीलापन और एकाग्रता:** बुरी संगति में भी शुद्ध रहें (चंदन), और पूर्ण सफलता प्राप्त करने के लिए एक प्राथमिक लक्ष्य पर ध्यान केंद्रित करें (जड़ को सींचना)।\n5. **निस्वार्थता:** धन का उपयोग दूसरों के कल्याण के लिए किया जाना चाहिए, ठीक वैसे ही जैसे पेड़ और तालाब समाज की सेवा करते हैं।\n\n**छात्र द्वारा अनुप्रयोग:**\nएक छात्र अपनी गरिमा बनाए रखकर और अंकों के लिए धोखा न देकर (पानी) इन्हें लागू कर सकता है। उन्हें दोस्तों के साथ छोटी-छोटी बातों पर लड़ने से बचना चाहिए (प्रेम का धागा)। उन्हें स्कूल के सफाईकर्मी के साथ भी प्रधानाचार्य के समान सम्मान से पेश आना चाहिए (सुई और तलवार)। उन्हें कई विकर्षणों के बजाय पूरी तरह से पढ़ाई पर ध्यान केंद्रित करना चाहिए (जड़ को पानी देना), और उन्हें पढ़ाई में कमजोर छात्रों की मदद करनी चाहिए (पेड़ों की तरह निस्वार्थता)।",
+      "keyPoints": [
+        "आत्म-सम्मान जीवन का सार है, इसे कभी न खोएं (Self-respect is the essence of life, never lose it)",
+        "रिश्तों को सावधानी से संभालें और अपना दुख दूसरों से छिपाएं (Handle relationships with care and hide your sorrow from others)",
+        "छोटों का सम्मान करें और एक लक्ष्य पर ध्यान केंद्रित करें (Respect the small and focus on one goal)",
+        "छात्र शिक्षा पर ध्यान केंद्रित करके और दोस्तों की मदद करके यह चरित्र बना सकते हैं (Students can build this character by focusing on education and helping friends)"
+      ]
+    }
+  ]
+}
