@@ -1,0 +1,466 @@
+{
+  "chapterTitle": "Gol (Memoir)",
+  "chapterTitleHi": "गोल (संस्मरण)",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Who is the author and main subject of the memoir 'Gol' in Class 6 Hindi?",
+      "questionHi": "कक्षा 6 हिंदी के संस्मरण 'गोल' के लेखक और मुख्य विषय (नायक) कौन हैं?",
+      "answer": "The memoir 'Gol' is an autobiographical account written by and centered on Major Dhyan Chand, universally celebrated as the 'Wizard of Hockey' (हॉकी के जादूगर). In this chapter, he shares his life journey, unforgettable Olympic matches, and essential lessons on discipline and sportsmanship.",
+      "answerHi": "संस्मरण 'गोल' विश्व भर में 'हॉकी के जादूगर' के रूप में प्रसिद्ध मेजर ध्यानचंद द्वारा लिखित उनकी आत्मकथात्मक रचना है। इस अध्याय में वे अपनी जीवन यात्रा, अविस्मरणीय ओलंपिक मैचों और अनुशासन तथा खेल भावना के महत्वपूर्ण सबक साझा करते हैं।",
+      "keyPoints": [
+        "'हॉकी के जादूगर' मेजर ध्यानचंद की आत्मकथात्मक रचना (Autobiographical memoir of 'Wizard of Hockey' Major Dhyan Chand)",
+        "ओलंपिक खेलों और जीवन संघर्षों के प्रेरक अनुभव (Inspiring experiences of Olympic games and life struggles)",
+        "अनुशासन, कठोर परिश्रम और खेल भावना का संदेश (Message of discipline, hard work, and true sportsmanship)"
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Why did Dhyan Singh earn the famous nickname 'Chand' (Moon)?",
+      "questionHi": "ध्यान सिंह को 'चंद' (चाँद) का प्रसिद्ध उपनाम क्यों और कैसे मिला?",
+      "answer": "After joining the British Indian Army as a young sepoy, Dhyan Singh had duties during the day and could only practice hockey at night. Since there were no floodlights, he relentlessly practiced under the moonlight. Seeing his nighttime devotion, his army colleagues and coach affectionately nicknamed him 'Chand' (Moon).",
+      "answerHi": "ब्रिटिश भारतीय सेना में एक युवा सिपाही के रूप में भर्ती होने के बाद, ध्यान सिंह दिन में अपनी ड्यूटी करते थे और केवल रात में ही हॉकी का अभ्यास कर सकते थे। बिजली की रोशनी न होने के कारण वे चाँदनी रात (चाँद की रोशनी) में कठोर अभ्यास करते थे। उनके इस रात्रिकालीन समर्पण को देखकर उनके साथियों और कोच ने उन्हें प्यार से 'चंद' (चाँद) कहना शुरू कर दिया।",
+      "keyPoints": [
+        "दिन में ड्यूटी के कारण रात में अभ्यास करना (Practicing at night due to daytime army duties)",
+        "चाँदनी रात (चाँद की रोशनी) में निरंतर कठोर अभ्यास (Relentless practice under the moonlight)",
+        "समर्पण देखकर साथियों द्वारा 'चंद' उपनाम देना (Colleagues giving nickname 'Chand' seeing his devotion)"
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What is the primary message conveyed by Major Dhyan Chand regarding teamwork in hockey?",
+      "questionHi": "हॉकी में टीम भावना (teamwork) के संबंध में मेजर ध्यानचंद द्वारा दिया गया मुख्य संदेश क्या है?",
+      "answer": "Major Dhyan Chand emphasizes that hockey is fundamentally a collaborative team game, not an arena for individual showmanship. A player should never try to keep the ball alone to score personal goals; instead, they must pass the ball to teammates who are in a better position to score for the country's victory.",
+      "answerHi": "मेजर ध्यानचंद इस बात पर बल देते हैं कि हॉकी मूल रूप से एक सामूहिक (टीम) खेल है, व्यक्तिगत प्रदर्शन का मैदान नहीं। किसी भी खिलाड़ी को व्यक्तिगत गोल करने के लालच में अकेले गेंद लेकर नहीं दौड़ना चाहिए; बल्कि उसे उन साथियों को गेंद पास करनी चाहिए जो देश की जीत के लिए गोल करने की बेहतर स्थिति में हों।",
+      "keyPoints": [
+        "हॉकी व्यक्तिगत नहीं बल्कि सामूहिक (टीम) खेल है (Hockey is a team game, not for individual showmanship)",
+        "व्यक्तिगत रिकॉर्ड के स्थान पर टीम की जीत को प्राथमिकता (Prioritizing team victory over personal records)",
+        "सही समय पर साथियों को गेंद पास करने का महत्व (Importance of passing the ball to teammates at the right time)"
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "When and why is National Sports Day (राष्ट्रीय खेल दिवस) celebrated in India?",
+      "questionHi": "भारत में राष्ट्रीय खेल दिवस (National Sports Day) कब और क्यों मनाया जाता है?",
+      "answer": "National Sports Day is celebrated every year on 29th August in India. It is celebrated to commemorate the birth anniversary of Major Dhyan Chand and to honor his legendary contributions to Indian sports, inspiring youth to adopt physical fitness and sportsmanship.",
+      "answerHi": "भारत में हर वर्ष 29 अगस्त को राष्ट्रीय खेल दिवस मनाया जाता है। यह दिवस हॉकी के जादूगर मेजर ध्यानचंद की जयंती (जन्मदिन) के उपलक्ष्य में और भारतीय खेलों में उनके महान योगदान को सम्मानित करने तथा युवाओं को शारीरिक फिटनेस और खेल भावना अपनाने के लिए प्रेरित करने हेतु मनाया जाता है।",
+      "keyPoints": [
+        "प्रतिवर्ष 29 अगस्त को राष्ट्रीय खेल दिवस का आयोजन (Celebrated annually on 29th August)",
+        "हॉकी के जादूगर मेजर ध्यानचंद की जयंती का स्मरण (Commemorating the birth anniversary of Major Dhyan Chand)",
+        "युवाओं में खेल भावना और शारीरिक फिटनेस की प्रेरणा (Inspiring sportsmanship and physical fitness among youth)"
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "What historic achievement of the Indian Hockey Team at the 1936 Berlin Olympics is mentioned in the memoir?",
+      "questionHi": "संस्मरण में 1936 के बर्लिन ओलंपिक में भारतीय हॉकी टीम की किस ऐतिहासिक उपलब्धि का उल्लेख किया गया है?",
+      "answer": "In the 1936 Berlin Olympics, the Indian Hockey Team, captained by Major Dhyan Chand, achieved a historic gold medal victory. In the final match played on 15th August 1936, India defeated the host nation Germany with a crushing score of 8-1, leaving global spectators spellbound by their magical stickwork.",
+      "answerHi": "1936 के बर्लिन ओलंपिक में, मेजर ध्यानचंद की कप्तानी में भारतीय हॉकी टीम ने ऐतिहासिक स्वर्ण पदक (Gold Medal) जीता। 15 अगस्त 1936 को खेले गए फाइनल मैच में भारत ने मेजबान जर्मनी को 8-1 के विशाल अंतर से हराया, जिससे पूरी दुनिया भारतीय खिलाड़ियों की जादुई कलाकारी देखकर मंत्रमुग्ध रह गई।",
+      "keyPoints": [
+        "1936 बर्लिन ओलंपिक में मेजर ध्यानचंद की कप्तानी (Major Dhyan Chand captained in 1936 Berlin Olympics)",
+        "फाइनल मैच में मेजबान जर्मनी को 8-1 से ऐतिहासिक पराजय (Historic 8-1 victory over host Germany in the final)",
+        "भारतीय हॉकी का विश्व में स्वर्ण पदक और परचम (Gold medal and global supremacy of Indian hockey)"
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "What does Major Dhyan Chand mean by true 'Sportsmanship' (खेल भावना)?",
+      "questionHi": "सच्ची 'खेल भावना' (Sportsmanship) से मेजर ध्यानचंद का क्या आशय है?",
+      "answer": "According to Major Dhyan Chand, true sportsmanship means playing with honesty, respect, and emotional discipline. It involves accepting both victory and defeat with humility, never harboring anger or seeking physical revenge against rough opponents, and always upholding the dignity of the game.",
+      "answerHi": "मेजर ध्यानचंद के अनुसार, सच्ची खेल भावना का अर्थ है पूरी ईमानदारी, सम्मान और मानसिक अनुशासन के साथ खेलना। इसमें जीत और हार दोनों को विनम्रता से स्वीकार करना, आक्रामक प्रतिद्वंद्वियों के प्रति कभी क्रोध या शारीरिक बदले की भावना न रखना और सदैव खेल की गरिमा को बनाए रखना शामिल है।",
+      "keyPoints": [
+        "ईमानदारी, सम्मान और मानसिक अनुशासन के साथ खेलना (Playing with honesty, respect, and emotional discipline)",
+        "जीत और हार दोनों को समान विनम्रता से स्वीकार करना (Accepting victory and defeat with equal humility)",
+        "क्रोध और बदले की भावना त्यागकर खेल की गरिमा बनाए रखना (Renouncing anger and revenge to uphold game's dignity)"
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Why is Major Dhyan Chand universally called the 'Wizard of Hockey' (हॉकी के जादूगर)?",
+      "questionHi": "मेजर ध्यानचंद को विश्व भर में 'हॉकी के जादूगर' क्यों कहा जाता है?",
+      "answer": "He is called the 'Wizard of Hockey' because of his extraordinary, seemingly magical ball-control and dribbling skills. Once the hockey ball touched his stick, it seemed glued to it, allowing him to effortlessly maneuver past defenders and score goals from impossible angles as if performing magic.",
+      "answerHi": "उन्हें 'हॉकी के जादूगर' इसलिए कहा जाता है क्योंकि गेंद पर उनका नियंत्रण (ball-control) और ड्रिब्लिंग कला अद्भुत और जादुई थी। जब गेंद उनकी स्टिक से चिपकती थी, तो ऐसा लगता था मानो चुंबक लगा हो; वे बिना किसी प्रयास के विपक्षी खिलाड़ियों को छकाकर असंभव कोणों से भी जादुई तरीके से गोल कर देते थे।",
+      "keyPoints": [
+        "गेंद पर अद्भुत और अकल्पनीय नियंत्रण (Extraordinary and unimaginable ball control)",
+        "स्टिक से गेंद का चुंबक की तरह चिपके रहना (Ball seeming glued to the stick like a magnet)",
+        "असंभव कोणों और कठिन परिस्थितियों में भी गोल करने की क्षमता (Ability to score goals from impossible angles and situations)"
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "What role did practice (अभ्यास) play in Dhyan Chand's legendary success?",
+      "questionHi": "ध्यानचंद की महान सफलता में निरंतर 'अभ्यास' (practice) ने क्या भूमिका निभाई?",
+      "answer": "Practice was the absolute foundation of his success. Dhyan Chand believed that natural talent is meaningless without rigorous, daily practice. By practicing for hours every day and night along railway tracks and rough fields, he developed muscle memory and flawless precision that made him unbeatable.",
+      "answerHi": "निरंतर अभ्यास उनकी सफलता की आधारशिला था। ध्यानचंद का मानना था कि कठोर दैनिक अभ्यास के बिना प्राकृतिक प्रतिभा बेकार है। रेलवे ट्रैक और ऊबड़-खाबड़ मैदानों पर दिन-रात घंटों अभ्यास करके उन्होंने ऐसी सटीकता और महारत हासिल की जिसने उन्हें दुनिया में अजेय बना दिया।",
+      "keyPoints": [
+        "निरंतर कठोर अभ्यास ही सफलता की वास्तविक कुंजी (Continuous rigorous practice is the real key to success)",
+        "प्रतिभा को निखारने के लिए प्रतिदिन घंटों पसीना बहाना (Sweating for hours daily to polish natural talent)",
+        "कठिन परिस्थितियों में अभ्यास से अद्भुत सटीकता प्राप्त करना (Achieving incredible precision through practice in tough conditions)"
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "How did Dhyan Chand view his personal fame and achievements compared to his duty towards India?",
+      "questionHi": "ध्यानचंद अपनी व्यक्तिगत प्रसिद्धि और उपलब्धियों को भारत के प्रति अपने कर्तव्य की तुलना में कैसे देखते थे?",
+      "answer": "Dhyan Chand was a man of immense humility and patriotism. He viewed all his personal records, medals, and global fame as secondary to the honor of Mother India. He firmly believed that he was merely a soldier and servant playing to hoist the Indian tricolor high on the world stage.",
+      "answerHi": "ध्यानचंद अत्यधिक विनम्र और सच्चे देशभक्त थे। वे अपने सभी व्यक्तिगत रिकॉर्ड, पदकों और वैश्विक प्रसिद्धि को भारत माता के सम्मान की तुलना में गौण (secondary) मानते थे। उनका दृढ़ विश्वास था कि वे केवल एक सैनिक और सेवक हैं जिनका एकमात्र लक्ष्य विश्व मंच पर भारत का तिरंगा ऊँचा लहराना है।",
+      "keyPoints": [
+        "व्यक्तिगत प्रसिद्धि से ऊपर राष्ट्र के सम्मान को रखना (Placing national honor above personal fame)",
+        "स्वयं को भारत माता का विनम्र सेवक और सैनिक मानना (Considering himself a humble servant and soldier of Mother India)",
+        "विश्व मंच पर देश का तिरंगा लहराने का एकमात्र लक्ष्य (Single goal of hoisting India's tricolor on the world stage)"
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "What advice does Major Dhyan Chand give to young aspiring athletes in his memoir?",
+      "questionHi": "अपने संस्मरण में मेजर ध्यानचंद युवा खिलाड़ियों को क्या सलाह देते हैं?",
+      "answer": "He advises young athletes to cultivate discipline, regular practice, humility, and team spirit. He warns them against arrogance, selfishness, and short temper on the field, urging them to respect their coaches, teammates, and opponents while playing with dedication for the country.",
+      "answerHi": "वे युवा खिलाड़ियों को अनुशासन, नियमित अभ्यास, विनम्रता और टीम भावना विकसित करने की सलाह देते हैं। वे मैदान पर घमंड, स्वार्थ और गुस्से से बचने की चेतावनी देते हैं, तथा प्रेरित करते हैं कि वे अपने कोच, साथियों और विपक्षियों का सम्मान करते हुए देश के लिए पूरे समर्पण से खेलें।",
+      "keyPoints": [
+        "अनुशासन, नियमित अभ्यास और विनम्रता को अपनाना (Adopting discipline, regular practice, and humility)",
+        "मैदान पर घमंड, स्वार्थ और क्रोध से बचना (Avoiding arrogance, selfishness, and anger on the field)",
+        "कोच और साथियों का सम्मान करते हुए राष्ट्र के लिए खेलना (Playing for the nation while respecting coaches and teammates)"
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Describe the incident during a match when an opponent player resorted to rough play against Dhyan Chand. How did Dhyan Chand respond?",
+      "questionHi": "एक मैच के दौरान जब एक विपक्षी खिलाड़ी ने ध्यानचंद के साथ आक्रामक (rough) खेल खेला, तो उस घटना का वर्णन कीजिए। ध्यानचंद ने क्या प्रतिक्रिया दी?",
+      "answer": "During a tense match, an opponent player, frustrated by Dhyan Chand's unstoppable dribbling, lost his temper and hit Dhyan Chand's head/mouth with his hockey stick, breaking his tooth.\n1. **No Retaliation:** Instead of getting angry, fighting back, or complaining to the referee, Dhyan Chand calmly received medical first-aid and returned to the field.\n2. **The Gentleman's Lesson:** He told the aggressive opponent not to worry. To teach a lesson in true sportsmanship, Dhyan Chand rapidly scored multiple brilliant goals in succession, demonstrating that superior skill, not physical violence, is the correct answer on the sports field.",
+      "answerHi": "एक रोमांचक मैच के दौरान, ध्यानचंद की बेहतरीन ड्रिब्लिंग से परेशान होकर एक विपक्षी खिलाड़ी ने आपा खो दिया और ध्यानचंद के सिर/मुँह पर हॉकी स्टिक मार दी, जिससे उनका दाँत टूट गया।\n1. **क्रोध या बदला नहीं:** गुस्सा करने, लड़ने या रेफरी से शिकायत करने के बजाय, ध्यानचंद ने शांत रहकर प्राथमिक उपचार लिया और मैदान पर वापस आ गए।\n2. **खेल भावना से सबक:** उन्होंने आक्रामक खिलाड़ी से कहा कि वह चिंता न करे। इसके बाद, सच्ची खेल भावना का सबक सिखाने के लिए ध्यानचंद ने लगातार कई शानदार गोल दागे, यह साबित करते हुए कि खेल के मैदान पर हिंसा नहीं बल्कि श्रेष्ठ कौशल ही सही उत्तर है।",
+      "keyPoints": [
+        "विपक्षी द्वारा स्टिक मारने पर भी क्रोध या बदला न लेना (No anger or retaliation even when hit by opponent's stick)",
+        "शांत रहकर प्राथमिक उपचार लेना और खेल पर ध्यान केंद्रित करना (Staying calm, taking first aid, and focusing on the game)",
+        "हिंसा के बजाय अपने उत्कृष्ट कौशल और गोलों से श्रेष्ठता सिद्ध करना (Proving superiority through outstanding skill and goals instead of violence)"
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Why did Major Dhyan Chand emphasize that 'passing the ball' is more important than keeping it to oneself?",
+      "questionHi": "मेजर ध्यानचंद ने इस बात पर जोर क्यों दिया कि गेंद को अपने पास रखने से अधिक महत्वपूर्ण 'गेंद को पास करना' (passing the ball) है?",
+      "answer": "Major Dhyan Chand emphasized passing the ball because of fundamental team dynamics:\n1. **Collective Victory over Individual Ego:** In hockey, 11 players must act as a single unit. A player who keeps dribbling alone out of selfishness slows down the attack and allows opponents to surround him.\n2. **Strategic Advantage:** Passing the ball swiftly to an open teammate creates sudden scoring opportunities and outmaneuvers opponent defenders much faster than individual running.\n3. **Trust and Unity:** Sharing the ball builds mutual trust and morale among teammates, proving that the glory of the entire team and country is far greater than an individual's goal-scoring tally.",
+      "answerHi": "मेजर ध्यानचंद ने गेंद पास करने पर इसलिए जोर दिया क्योंकि यह टीम की सफलता का मूल आधार है:\n1. **व्यक्तिगत अहंकार पर सामूहिक जीत:** हॉकी में 11 खिलाड़ियों को एक इकाई के रूप में खेलना होता है। जो खिलाड़ी स्वार्थवश अकेले गेंद लेकर दौड़ता है, वह आक्रमण को धीमा कर देता है और विपक्षियों को घेरने का मौका देता है।\n2. **रणनीतिक लाभ:** खाली खड़े साथी को तेजी से गेंद पास करने से गोल करने के अचानक अवसर बनते हैं और विपक्षी डिफेंडरों को अकेले दौड़ने की तुलना में बहुत जल्दी चकमा दिया जा सकता है।\n3. **विश्वास और एकता:** गेंद साझा करने से साथियों में आपसी विश्वास और मनोबल बढ़ता है, जो यह सिद्ध करता है कि देश और टीम की जीत व्यक्तिगत रिकॉर्ड से कहीं बड़ी है।",
+      "keyPoints": [
+        "हॉकी में 11 खिलाड़ियों का एक इकाई के रूप में खेलना अनिवार्य (11 players acting as a single cohesive unit in hockey)",
+        "अकेले दौड़ने से आक्रमण धीमा होता है और विपक्षी घेर लेते हैं (Solo dribbling slows attack and allows opponents to surround)",
+        "साथियों को गेंद पास करने से गोल के बेहतर अवसर और आपसी विश्वास बढ़ता है (Passing creates better scoring chances and mutual trust)"
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "How did Major Dhyan Chand demonstrate his unwavering patriotism when offered high status and wealth by foreign rulers?",
+      "questionHi": "विदेशी शासकों द्वारा ऊँचा पद और धन-दौलत का प्रस्ताव दिए जाने पर मेजर ध्यानचंद ने अपनी अटूट देशभक्ति का परिचय किस प्रकार दिया?",
+      "answer": "During the 1936 Berlin Olympics, German dictator Adolf Hitler was so mesmerized by Dhyan Chand's magical hockey skills that he offered him German citizenship, immense wealth, and the high rank of Colonel in the German Army if he agreed to play for Germany.\n1. **Firm Refusal:** Dhyan Chand politely but firmly rejected the tempting offer without a moment's hesitation.\n2. **Love for Motherland:** He proudly stated that India was his Motherland and no amount of wealth, rank, or luxury could buy his loyalty or make him abandon his country.\n3. **Timeless Legacy:** This historic refusal proved that for Dhyan Chand, national honor and loyalty to India were infinitely superior to personal material gain.",
+      "answerHi": "1936 के बर्लिन ओलंपिक के दौरान, जर्मन तानाशाह एडॉल्फ हिटलर ध्यानचंद के जादुई खेल से इतना प्रभावित हुआ कि उसने उन्हें जर्मनी की नागरिकता, अपार धन और जर्मन सेना में कर्नल के ऊँचे पद का लालच दिया यदि वे जर्मनी के लिए खेलें।\n1. **विनम्र और दृढ़ अस्वीकृति:** ध्यानचंद ने बिना एक पल की झिझक के इस आकर्षक प्रस्ताव को विनम्रता परंतु दृढ़ता से ठुकरा दिया।\n2. **मातृभूमि के प्रति प्रेम:** उन्होंने गर्व से कहा कि भारत उनकी मातृभूमि है और कोई भी धन, पद या सुख-सुविधा उनकी वफादारी नहीं खरीद सकती या उन्हें अपना देश छोड़ने के लिए मजबूर नहीं कर सकती।\n3. **अमर प्रेरणा:** इस ऐतिहासिक अस्वीकृति ने साबित कर दिया कि ध्यानचंद के लिए देश का सम्मान और भारत के प्रति निष्ठा व्यक्तिगत भौतिक लाभों से अनंत गुना बड़ी थी।",
+      "keyPoints": [
+        "हिटलर द्वारा जर्मन सेना में कर्नल पद और अपार धन का लालच देना (Hitler offering Colonel rank and wealth in German army)",
+        "बिना किसी झिझक के विदेशी प्रस्ताव को विनम्रता से ठुकराना (Politely rejecting foreign offer without hesitation)",
+        "भारत को अपनी मातृभूमि बताकर राष्ट्र के प्रति अटूट निष्ठा सिद्ध करना (Proving unwavering loyalty by declaring India as his Motherland)"
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "What lessons can school students learn from Major Dhyan Chand's nighttime practice under the moonlight?",
+      "questionHi": "चाँदनी रात में मेजर ध्यानचंद के रात्रिकालीन अभ्यास से विद्यालय के छात्र क्या शिक्षाएँ ले सकते हैं?",
+      "answer": "Students can draw profound life lessons from Dhyan Chand's moonlight practice:\n1. **No Excuses for Hardships:** Even without electricity, floodlights, or proper playgrounds, he never made excuses. Students should learn to focus on hard work rather than complaining about lack of facilities.\n2. **Time Management & Dedication:** Balancing rigorous daytime army duties with nighttime practice teaches students how to manage their time effectively and remain dedicated to their goals.\n3. **Passion and Perseverance:** His willingness to practice alone in the dark shows that true passion requires internal motivation and perseverance, which eventually transforms ordinary students into extraordinary achievers.",
+      "answerHi": "छात्र ध्यानचंद के चाँदनी रात के अभ्यास से गहरी जीवन शिक्षाएँ ले सकते हैं:\n1. **अभावों का बहाना न बनाना:** बिजली, फ्लडलाइट या अच्छे मैदान न होने पर भी उन्होंने कभी बहाने नहीं बनाए। छात्रों को सुविधाओं की कमी का रोना रोने के बजाय कठोर परिश्रम पर ध्यान देना सीखना चाहिए।\n2. **समय प्रबंधन और समर्पण:** दिन भर सेना की कठिन ड्यूटी के बाद रात में अभ्यास करना छात्रों को सिखाता है कि समय का सही प्रबंधन कैसे करें और अपने लक्ष्य के प्रति समर्पित रहें।\n3. **जुनून और निरंतरता:** अँधेरे में अकेले अभ्यास करने की उनकी लगन दर्शाती है कि सच्चे जुनून के लिए आंतरिक प्रेरणा चाहिए, जो साधारण छात्र को भी असाधारण बना देती है।",
+      "keyPoints": [
+        "सुविधाओं के अभाव में बहाने बनाने के बजाय कठोर परिश्रम करना (Working hard instead of making excuses for lack of facilities)",
+        "कर्तव्य पालन के साथ समय का उत्तम प्रबंधन और लक्ष्य के प्रति समर्पण (Excellent time management and dedication alongside duties)",
+        "आंतरिक प्रेरणा और निरंतर अभ्यास से असाधारण सफलता प्राप्त करना (Achieving extraordinary success through inner motivation and practice)"
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Explain how Major Dhyan Chand's behavior on and off the field exemplified modesty and humility.",
+      "questionHi": "स्पष्ट कीजिए कि मैदान के अंदर और बाहर मेजर ध्यानचंद का आचरण विनम्रता और सादगी (humility) का प्रतीक कैसे था?",
+      "answer": "Major Dhyan Chand exemplified legendary humility throughout his life:\n1. **On the Field:** Despite being the world's greatest goal-scorer, he never celebrated aggressively, taunted opponents, or boasted about his records. Whenever his team won, he credited his teammates' passing and teamwork rather than his own skill.\n2. **Off the Field:** Even after winning three Olympic gold medals and receiving global adoration, he lived a simple, disciplined life as a soldier. He was always polite to junior players, fans, and rivals, never letting fame inflate his ego.\n3. **Service above Self:** He considered himself a humble servant of Indian sports, teaching us that true greatness lies in simplicity and humility.",
+      "answerHi": "मेजर ध्यानचंद ने जीवन भर अद्भुत विनम्रता और सादगी का परिचय दिया:\n1. **मैदान के अंदर:** दुनिया का सर्वश्रेष्ठ गोल स्कोरर होने के बावजूद, उन्होंने कभी घमंड नहीं किया, विपक्षियों को नहीं चिढ़ाया या अपने रिकॉर्ड्स का बखान नहीं किया। जब भी टीम जीतती, वे अपनी कला के बजाय साथियों के पास और टीम वर्क को श्रेय देते थे।\n2. **मैदान के बाहर:** तीन ओलंपिक स्वर्ण पदक जीतने और वैश्विक शोहरत पाने के बाद भी, वे एक सैनिक की तरह सादा और अनुशासित जीवन जीते रहे। वे जूनियर खिलाड़ियों, प्रशंसकों और प्रतिद्वंद्वियों से हमेशा नम्रता से मिलते थे।\n3. **स्व से ऊपर सेवा:** वे स्वयं को भारतीय खेलों का एक साधारण सेवक मानते थे, जो सिखाता है कि सच्ची महानता सादगी और विनम्रता में निहित है।",
+      "keyPoints": [
+        "विश्व का सर्वश्रेष्ठ खिलाड़ी होने पर भी घमंड या दिखावा न करना (No arrogance or showmanship despite being world's best)",
+        "अपनी सफलता का श्रेय हमेशा टीम के साथियों और सामूहिक प्रयास को देना (Always crediting teammates and teamwork for his success)",
+        "आजीवन एक साधारण सैनिक की तरह सादगी और विनम्रता से जीवन जीना (Living simply and humbly like an ordinary soldier throughout life)"
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "Why is the memoir titled 'Gol' (Goal)? Discuss the dual significance of the word 'Goal' in Dhyan Chand's life.",
+      "questionHi": "संस्मरण का शीर्षक 'गोल' (Goal) क्यों रखा गया है? ध्यानचंद के जीवन में 'गोल' शब्द के दोहरे महत्व (dual significance) पर चर्चा कीजिए।",
+      "answer": "The title 'Gol' is brilliant and holds deep dual significance in Major Dhyan Chand's life:\n1. **Literal Meaning (हॉकी का गोल):** Literally, it represents his supreme mastery over scoring goals in hockey. He scored over 400 international goals in his career, mesmerizing the world with his precision at the opponent's goalpost.\n2. **Metaphorical Meaning (जीवन का लक्ष्य):** Metaphorically, 'Goal' signifies a clear aim, purpose, and discipline in life. For Dhyan Chand, his ultimate life goal was not personal fame, but bringing glory, gold medals, and pride to Mother India through unwavering dedication and teamwork.",
+      "answerHi": "शीर्षक 'गोल' अत्यंत सार्थक है और मेजर ध्यानचंद के जीवन में इसका गहरा दोहरा महत्व है:\n1. **शाब्दिक अर्थ (हॉकी का गोल):** शाब्दिक रूप से, यह हॉकी में गोल करने पर उनकी सर्वोच्च महारत को दर्शाता है। उन्होंने अपने करियर में 400 से अधिक अंतर्राष्ट्रीय गोल किए और विपक्षी गोलपोस्ट पर अपनी सटीकता से दुनिया को मंत्रमुग्ध कर दिया।\n2. **लाक्षणिक अर्थ (जीवन का लक्ष्य):** लाक्षणिक रूप से, 'गोल' का अर्थ जीवन में एक स्पष्ट लक्ष्य, उद्देश्य और अनुशासन से है। ध्यानचंद के लिए, उनके जीवन का अंतिम लक्ष्य व्यक्तिगत शोहरत नहीं, बल्कि अटूट समर्पण और टीम भावना के द्वारा भारत माता को गौरव, स्वर्ण पदक और सम्मान दिलाना था।",
+      "keyPoints": [
+        "शाब्दिक रूप से हॉकी में 400 से अधिक अंतर्राष्ट्रीय गोल करने की अद्भुत क्षमता (Literally representing his mastery of scoring 400+ hockey goals)",
+        "लाक्षणिक रूप से जीवन में स्पष्ट उद्देश्य, अनुशासन और लक्ष्य के प्रति समर्पण (Metaphorically signifying clear life aim, discipline, and devotion)",
+        "व्यक्तिगत स्वार्थ छोड़कर भारत माता को विश्व में सम्मानित करने का सर्वोच्च लक्ष्य (Supreme goal of honoring Mother India globally above personal gains)"
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "How did Dhyan Chand's army background influence his hockey career and character?",
+      "questionHi": "ध्यानचंद की सैन्य पृष्ठभूमि (army background) ने उनके हॉकी करियर और चरित्र को किस प्रकार प्रभावित किया?",
+      "answer": "Dhyan Chand's army background shaped his legendary career and character in three major ways:\n1. **Iron Discipline:** Military training instilled in him strict punctuality, physical fitness, and an uncompromising work ethic, making him practice relentlessly regardless of weather or obstacles.\n2. **Obedience and Respect:** As a sepoy and officer, he learned immense respect for authority, coaches, and rules, which translated into flawless fair play and zero disputes with referees on the field.\n3. **Supreme Patriotism:** The army spirit taught him to put the nation above everything else, transforming every hockey match he played into a patriotic battle for India's honor and global prestige.",
+      "answerHi": "ध्यानचंद की सैन्य पृष्ठभूमि ने उनके महान करियर और चरित्र को तीन मुख्य तरीकों से ढाला:\n1. **लौह अनुशासन:** सैन्य प्रशिक्षण ने उनमें समय की पाबंदी, शारीरिक फिटनेस और कठोर कार्य संस्कृति भर दी, जिससे वे मौसम या बाधाओं की परवाह किए बिना निरंतर अभ्यास करते थे।\n2. **आज्ञाकारिता और सम्मान:** एक सिपाही और अधिकारी के रूप में उन्होंने नियमों, कोचों और अधिकारियों का सम्मान करना सीखा, जिसके कारण वे मैदान पर हमेशा निष्पक्ष खेलते थे और रेफरी से कभी विवाद नहीं करते थे।\n3. **सर्वोच्च राष्ट्रप्रेम:** सेना की भावना ने उन्हें देश को सर्वोपरि रखना सिखाया, जिससे वे अपने द्वारा खेले गए हर हॉकी मैच को भारत के सम्मान और प्रतिष्ठा की देशभक्तिपूर्ण लड़ाई मानते थे।",
+      "keyPoints": [
+        "सैन्य प्रशिक्षण द्वारा समय की पाबंदी, शारीरिक फिटनेस और कठोर अनुशासन का विकास (Development of punctuality, fitness, and iron discipline through military training)",
+        "नियमों, रेफरी और अधिकारियों के प्रति सम्मान और निष्पक्ष खेल की भावना (Respect for rules, referees, and spirit of fair play)",
+        "हर मैच को भारत माता के सम्मान की लड़ाई मानकर राष्ट्र के लिए सर्वस्व समर्पण (Treating every match as a patriotic duty for India's honor)"
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "What is the difference between playing for 'self-glory' and playing for the 'team', as illustrated in 'Gol'?",
+      "questionHi": "'गोल' संस्मरण में दर्शाए अनुसार 'व्यक्तिगत महिमा' (self-glory) के लिए खेलने और 'टीम' (team) के लिए खेलने में क्या अंतर है?",
+      "answer": "The memoir highlights the critical distinction between selfish play and team-oriented play:\n1. **Playing for Self-Glory:** A selfish player holds onto the ball excessively, trying to dribble past everyone alone to get their name in the scoring records. This egoistic approach often wastes scoring chances, exhausts the player, and leads to team defeat.\n2. **Playing for the Team:** A team player assesses the field collectively. When Dhyan Chand saw that a teammate was in a better position near the goalpost, he instantly passed the ball without caring who got the final credit.\n3. **Ultimate Result:** Team play fosters mutual trust, confuses opponent defenses, and ensures collective victory, proving that 'the star of the team is the team itself.'",
+      "answerHi": "संस्मरण व्यक्तिगत स्वार्थ के खेल और टीम के लिए खेलने के बीच महत्वपूर्ण अंतर को उजागर करता है:\n1. **व्यक्तिगत महिमा के लिए खेलना:** एक स्वार्थी खिलाड़ी अपना नाम रिकॉर्ड में दर्ज कराने के लिए अकेले ही सभी को छकाकर गोल करने के चक्कर में गेंद को जरूरत से ज्यादा अपने पास रखता है। यह अहंकारी दृष्टिकोण अक्सर गोल के मौके गंवा देता है और टीम की हार का कारण बनता है।\n2. **टीम के लिए खेलना:** एक टीम खिलाड़ी पूरे मैदान को सामूहिक रूप से देखता है। जब ध्यानचंद देखते थे कि कोई साथी गोलपोस्ट के पास बेहतर स्थिति में है, तो वे यह परवाह किए बिना तुरंत गेंद पास कर देते थे कि अंतिम श्रेय किसे मिलेगा।\n3. **अंतिम परिणाम:** टीम खेल आपसी विश्वास बढ़ाता है, विपक्षी बचाव को तोड़ता है और सामूहिक जीत सुनिश्चित करता है, जो साबित करता है कि 'टीम का असली सितारा स्वयं टीम होती है।'",
+      "keyPoints": [
+        "स्वार्थी खिलाड़ी अकेले गेंद रखकर मौका गंवाता है और टीम को हरवाता है (Selfish player holds ball, wastes chances, and causes team defeat)",
+        "टीम खिलाड़ी बेहतर स्थिति में खड़े साथी को तुरंत गेंद पास करता है (Team player instantly passes ball to teammate in better position)",
+        "व्यक्तिगत श्रेय की परवाह किए बिना सामूहिक जीत और देश का सम्मान सर्वोपरि (Collective victory and national honor above personal credit)"
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Why did spectators and sports authorities sometimes suspect that Dhyan Chand's hockey stick had a magnet or glue?",
+      "questionHi": "दर्शक और खेल अधिकारी कभी-कभी यह संदेह क्यों करते थे कि ध्यानचंद की हॉकी स्टिक में चुंबक या गोंद लगा है?",
+      "answer": "Spectators and authorities suspected this because Dhyan Chand's ball-control was so unreal and flawless that it defied normal human capability. Whenever he dribbled, the ball moved glued to his stick at rapid speeds without bouncing away. In fact, in some international tournaments (like in Holland or Japan), authorities even broke and examined his hockey stick to check for hidden magnets or glue, only to realize that the 'magic' was entirely in his tireless practice and wrist technique!",
+      "answerHi": "दर्शक और अधिकारियों को यह संदेह इसलिए होता था क्योंकि ध्यानचंद का गेंद पर नियंत्रण इतना अद्भुत और निर्दोष था कि वह सामान्य मानवीय क्षमता से परे लगता था। जब वे ड्रिब्लिंग करते थे, तो गेंद तेज गति में भी बिना उछले उनकी स्टिक से चिपकी रहती थी। वास्तव में, कुछ अंतर्राष्ट्रीय टूर्नामेंटों (जैसे हॉलैंड या जापान) में अधिकारियों ने उनकी हॉकी स्टिक को तोड़कर और जांच कर यह देखा कि कहीं उसमें चुंबक या गोंद तो नहीं छिपा है, परंतु उन्हें यह देखकर आश्चर्य हुआ कि असली 'जादू' केवल उनके कठोर अभ्यास और कलाई की अद्भुत कला में था!",
+      "keyPoints": [
+        "गेंद का स्टिक से बिना उछले चुंबक की तरह चिपके रहना (Ball remaining glued to the stick without bouncing like a magnet)",
+        "हॉलैंड/जापान में अधिकारियों द्वारा स्टिक तोड़कर चुंबक या गोंद की जांच करना (Authorities breaking stick in Holland/Japan to check for magnet/glue)",
+        "असली जादू किसी चुंबक में नहीं बल्कि कठोर अभ्यास और कलाई की कला में होना (Real magic lying in rigorous practice and wrist technique, not magnet)"
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "How did Major Dhyan Chand's character reflect the true spirit of Indian culture on the international stage?",
+      "questionHi": "अंतर्राष्ट्रीय मंच पर मेजर ध्यानचंद के चरित्र ने भारतीय संस्कृति की सच्ची भावना को किस प्रकार प्रतिबिंबित किया?",
+      "answer": "On the international stage, Dhyan Chand acted as a true cultural ambassador of India:\n1. **Peace and Non-Violence (अहिंसा):** Even when subjected to physical fouls or aggression by foreign players, he never retaliated with anger or violence, displaying Indian forbearance and grace.\n2. **Humility and Respect (विनम्रता):** He treated foreign hosts, rivals, and spectators with immense respect and warmth, winning hearts worldwide.\n3. **Unshakeable Loyalty (निष्ठा):** By rejecting offers of foreign citizenship and wealth, he showcased the Indian value of devotion to one's motherland ('Janani Janmabhumishcha Swargadapi Gariyasi'), making India proud globally.",
+      "answerHi": "अंतर्राष्ट्रीय मंच पर, ध्यानचंद ने भारत के सच्चे सांस्कृतिक राजदूत के रूप में कार्य किया:\n1. **शांति और अहिंसा:** विदेशी खिलाड़ियों द्वारा शारीरिक चोट या आक्रामक खेल खेलने पर भी उन्होंने कभी क्रोध या हिंसा से जवाब नहीं दिया, जो भारतीय सहनशीलता और शालीनता को दर्शाता है।\n2. **विनम्रता और सम्मान:** उन्होंने विदेशी मेजबानों, प्रतिद्वंद्वियों और दर्शकों के साथ अत्यधिक आदर और आत्मीयता का व्यवहार किया, जिससे दुनिया भर में दिल जीते।\n3. **अटूट निष्ठा:** विदेशी नागरिकता और अपार धन के प्रस्तावों को ठुकराकर उन्होंने मातृभूमि के प्रति समर्पण ('जननी जन्मभूमिश्च स्वर्गादपि गरीयसी') के भारतीय मूल्य को प्रदर्शित किया और विश्व में भारत का मान बढ़ाया।",
+      "keyPoints": [
+        "विपक्षी आक्रामकता के सामने भी भारतीय सहनशीलता और अहिंसा का प्रदर्शन (Displaying Indian forbearance and non-violence against opponent aggression)",
+        "विदेशी प्रतिद्वंद्वियों और दर्शकों के साथ विनम्रता और आदर का व्यवहार (Treating foreign rivals and spectators with humility and respect)",
+        "विदेशी प्रलोभनों को ठुकराकर मातृभूमि के प्रति अटूट भारतीय निष्ठा सिद्ध करना (Proving Indian devotion to motherland by rejecting foreign temptations)"
+      ]
+    },
+    {
+      "id": "q21",
+      "type": "case-study",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "Read the following case study and answer the questions:\nDuring the inter-school football championship, Class 6 student Amit was the best striker in his team. In the final match, Amit wanted to become the top scorer of the tournament. Every time he got the ball, he tried to dribble past all four defenders alone instead of passing to his teammate Rahul, who was standing unmarked near the goalpost. Due to Amit's solo attempts, the opponents tackled him repeatedly and snatched the ball. When an opponent accidentally tripped Amit, Amit lost his temper, pushed the player, and received a yellow card. Consequently, Amit's team lost the match 0-1. After the game, their sports teacher reminded them of Major Dhyan Chand's memoir 'Gol'.\n\n(a) What major mistake did Amit make in his playing strategy during the final match?\n(b) According to Major Dhyan Chand's teachings in 'Gol', what should Amit have done when Rahul was standing unmarked near the goalpost?\n(c) How did Amit violate the principle of true 'Sportsmanship' when he was tripped?\n(d) Mention two key lessons Amit and his team should learn from Major Dhyan Chand to win future matches.",
+      "questionHi": "निम्नलिखित केस स्टडी को पढ़िए और प्रश्नों के उत्तर दीजिए:\nअंतर-विद्यालयी फुटबॉल चैंपियनशिप के दौरान, कक्षा 6 का छात्र अमित अपनी टीम का सर्वश्रेष्ठ स्ट्राइकर था। फाइनल मैच में, अमित टूर्नामेंट का टॉप स्कोरर बनना चाहता था। जब भी उसके पास गेंद आती, वह गोलपोस्ट के पास खाली खड़े अपने साथी राहुल को गेंद पास करने के बजाय अकेले ही चारों डिफेंडरों को छकाकर गोल करने की कोशिश करता। अमित के अकेले प्रयास करने के कारण विपक्षी खिलाड़ियों ने उसे बार-बार घेर लिया और गेंद छीन ली। जब एक विपक्षी खिलाड़ी से टकराकर अमित गलती से गिर गया, तो अमित ने अपना आपा खो दिया, उस खिलाड़ी को धक्का दे दिया और उसे पीला कार्ड (yellow card) मिला। परिणामस्वरूप, अमित की टीम मैच 0-1 से हार गई। मैच के बाद, उनके खेल शिक्षक ने उन्हें मेजर ध्यानचंद के संस्मरण 'गोल' की याद दिलाई।\n\n(क) फाइनल मैच के दौरान अमित ने अपनी खेल रणनीति में कौन-सी बड़ी गलती की?\n(ख) 'गोल' में मेजर ध्यानचंद की शिक्षाओं के अनुसार, जब राहुल गोलपोस्ट के पास खाली खड़ा था तो अमित को क्या करना चाहिए था?\n(ग) जब अमित गिर गया, तो उसने सच्ची 'खेल भावना' के नियम का उल्लंघन कैसे किया?\n(घ) भविष्य के मैच जीतने के लिए अमित और उसकी टीम को मेजर ध्यानचंद से कौन-सी दो मुख्य शिक्षाएँ लेनी चाहिए?",
+      "answer": "(a) Amit's major mistake was playing selfishly for personal glory (trying to become the top scorer) rather than playing for the team. By refusing to pass the ball and trying to dribble past four defenders alone, he slowed down the attack and lost ball possession.\n(b) According to Major Dhyan Chand's teachings, hockey/football is a team game. When Rahul was standing unmarked near the goalpost, Amit should have immediately passed the ball to Rahul to ensure a guaranteed goal and victory for the team.\n(c) Amit violated true sportsmanship by losing his emotional control and anger management. Instead of staying calm when accidentally tripped, he reacted with physical violence (pushing the opponent), bringing disgrace to himself and earning a disciplinary yellow card.\n(d) **Two Key Lessons:**\n1. **Prioritize Teamwork over Individual Ego:** Always pass the ball to teammates in better scoring positions because collective team victory is far more important than individual scoring records.\n2. **Maintain Emotional Composure:** Cultivate discipline and emotional control on the field; never retaliate with anger or violence against rough play, but answer with superior skill and fair play.",
+      "answerHi": "(क) अमित की बड़ी गलती यह थी कि वह टीम के लिए खेलने के बजाय व्यक्तिगत महिमा (टूर्नामेंट का टॉप स्कोरर बनने) के लिए स्वार्थी होकर खेल रहा था। गेंद पास न करने और अकेले ही चारों डिफेंडरों से उलझने के कारण उसने आक्रमण को कमजोर किया और गेंद गंवा दी।\n(ख) मेजर ध्यानचंद की शिक्षाओं के अनुसार, फुटबॉल/हॉकी एक सामूहिक खेल है। जब राहुल गोलपोस्ट के पास खाली (unmarked) खड़ा था, तो अमित को तुरंत राहुल को गेंद पास करनी चाहिए थी ताकि टीम के लिए निश्चित गोल और जीत सुनिश्चित हो सके।\n(ग) अमित ने अपने मानसिक नियंत्रण और क्रोध पर काबू न रखकर सच्ची खेल भावना का उल्लंघन किया। गलती से गिरने पर शांत रहने के बजाय, उसने शारीरिक हिंसा (विपक्षी को धक्का देने) का सहारा लिया, जिससे खेल की गरिमा गिरी और उसे पीला कार्ड मिला।\n(घ) **दो मुख्य शिक्षाएँ:**\n1. **व्यक्तिगत अहंकार पर टीम भावना को प्राथमिकता:** हमेशा बेहतर स्थिति में खड़े साथियों को गेंद पास करें क्योंकि व्यक्तिगत रिकॉर्ड से कहीं अधिक महत्वपूर्ण सामूहिक टीम की जीत है।\n2. **मानसिक संतुलन और संयम बनाए रखना:** मैदान पर अनुशासन और क्रोध पर नियंत्रण रखें; आक्रामक खेल या चोट के जवाब में कभी हिंसा न करें, बल्कि अपने उत्तम कौशल और निष्पक्ष खेल से उत्तर दें।",
+      "keyPoints": [
+        "व्यक्तिगत रिकॉर्ड के लालच में अकेले गेंद रखकर खेलना सबसे बड़ी गलती (Playing solo for personal scoring records is the biggest tactical mistake)",
+        "बेहतर स्थिति में खड़े साथी (राहुल) को तुरंत गेंद पास करना टीम हित में अनिवार्य (Passing ball immediately to unmarked teammate Rahul is essential for team victory)",
+        "मैदान पर क्रोध करना और विपक्षी को धक्का देना खेल भावना के विरुद्ध (Losing temper and pushing opponent violates true sportsmanship)",
+        "टीम वर्क को प्राथमिकता देना और कठिन समय में मानसिक संतुलन बनाए रखना (Prioritizing teamwork and maintaining emotional composure under pressure)"
+      ]
+    },
+    {
+      "id": "q22",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Write a detailed character sketch of Major Dhyan Chand based on his autobiographical memoir 'Gol', highlighting his qualities as a sportsman, soldier, and patriot.",
+      "questionHi": "आत्मकथात्मक संस्मरण 'गोल' के आधार पर मेजर ध्यानचंद का एक विस्तृत चरित्र-चित्रण (character sketch) लिखिए, जिसमें एक खिलाड़ी, सैनिक और देशभक्त के रूप में उनके गुणों को उजागर किया गया हो।",
+      "answer": "Major Dhyan Chand is one of the most legendary and inspiring figures in Indian history, whose character shines brilliantly across three dimensions:\n1. **As an Extraordinary Sportsman (हॉकी के जादूगर):** Dhyan Chand possessed unmatched, almost magical stickwork and ball control. However, what made him truly great was his absolute belief in teamwork and practice. He practiced tirelessly for hours under the moonlight. On the field, he was selfless—always passing the ball to teammates in better scoring positions and never chasing personal goal records. He exemplified true sportsmanship by remaining calm and composed even when subjected to rough fouls or injury by opponents.\n2. **As a Disciplined Soldier (अनुशासित सैनिक):** Joining the British Indian Army as a sepoy at age 16, he imbibed iron discipline, punctuality, and respect for authority. He balanced his grueling military duties during the day with intense hockey practice at night without ever making excuses or complaining about lack of facilities.\n3. **As an Unwavering Patriot (सच्चे देशभक्त):** Dhyan Chand's love for Mother India was absolute and priceless. At the 1936 Berlin Olympics, when German dictator Adolf Hitler tempted him with German citizenship, wealth, and the rank of Colonel in the German army, Dhyan Chand firmly and politely rejected the offer. He declared that India was his motherland and playing for the Indian tricolor was his highest honor. He lived and died as a humble servant of Indian sports, leaving an immortal legacy of patriotism and simplicity.",
+      "answerHi": "मेजर ध्यानचंद भारतीय इतिहास के सर्वाधिक महान और प्रेरक व्यक्तियों में से एक हैं, जिनका चरित्र तीन मुख्य आयामों में अत्यधिक उज्ज्वल रूप से चमकता है:\n1. **एक असाधारण खिलाड़ी के रूप में (हॉकी के जादूगर):** ध्यानचंद के पास गेंद पर अद्भुत और जादुई नियंत्रण था। हालाँकि, जिस बात ने उन्हें वास्तव में महान बनाया, वह थी टीम भावना और अभ्यास में उनका अटूट विश्वास। वे चाँदनी रात में घंटों कठोर अभ्यास करते थे। मैदान पर वे पूरी तरह निस्वार्थ थे—हमेशा बेहतर स्थिति में खड़े साथियों को गेंद पास करते थे और कभी व्यक्तिगत रिकॉर्ड के पीछे नहीं भागते थे। विपक्षियों द्वारा फाउल या चोट पहुँचाए जाने पर भी शांत रहकर उन्होंने सच्ची खेल भावना का परिचय दिया।\n2. **एक अनुशासित सैनिक के रूप में (अनुशासित सैनिक):** 16 वर्ष की आयु में ब्रिटिश भारतीय सेना में सिपाही के रूप में भर्ती होकर उन्होंने लौह अनुशासन, समय की पाबंदी और नियमों का आदर सीखा। उन्होंने दिन की कठिन सैन्य ड्यूटी और रात के हॉकी अभ्यास के बीच अद्भुत संतुलन बनाया और कभी सुविधाओं के अभाव का बहाना नहीं किया।\n3. **एक अटूट देशभक्त के रूप में (सच्चे देशभक्त):** भारत माता के प्रति ध्यानचंद का प्रेम सर्वोच्च और अमूल्य था। 1936 के बर्लिन ओलंपिक में, जब जर्मन तानाशाह हिटलर ने उन्हें जर्मन नागरिकता, अपार धन और कर्नल पद का लालच दिया, तो उन्होंने इसे विनम्रता परंतु दृढ़ता से ठुकरा दिया। उन्होंने गर्व से कहा कि भारत उनकी मातृभूमि है और तिरंगे के लिए खेलना उनका सर्वोच्च सम्मान है। वे जीवन भर भारतीय खेलों के एक विनम्र सेवक के रूप में जिए और देशभक्ति तथा सादगी की अमर विरासत छोड़ गए।",
+      "keyPoints": [
+        "गेंद पर जादुई नियंत्रण, निरंतर रात्रिकालीन अभ्यास और निस्वार्थ टीम भावना (Magical ball control, relentless nighttime practice, and selfless teamwork)",
+        "सेना के लौह अनुशासन, समय की पाबंदी और कर्तव्य पालन का उत्तम उदाहरण (Prime example of army's iron discipline, punctuality, and duty devotion)",
+        "हिटलर के प्रलोभनों को ठुकराकर भारत माता के प्रति अटूट देशभक्ति सिद्ध करना (Proving supreme patriotism by rejecting Hitler's offers of rank and wealth)",
+        "आजीवन सादगी, विनम्रता और खेल भावना के साथ देश की सेवा में समर्पित (Dedicated to national service throughout life with humility, simplicity, and sportsmanship)"
+      ]
+    },
+    {
+      "id": "q23",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Why is sportsmanship (खेल भावना) and physical fitness considered essential for the holistic character development of school students? Explain with reference to Major Dhyan Chand's life.",
+      "questionHi": "विद्यालय के छात्रों के सर्वांगीण चरित्र निर्माण के लिए खेल भावना (sportsmanship) और शारीरिक फिटनेस को आवश्यक क्यों माना जाता है? मेजर ध्यानचंद के जीवन के संदर्भ में व्याख्या कीजिए।",
+      "answer": "Sportsmanship and physical fitness are critical pillars for the holistic character development of youth, as perfectly demonstrated by Major Dhyan Chand's life:\n1. **Physical Fitness & Mental Alertness:** 'A healthy mind resides in a healthy body.' Regular physical sports build endurance, immunity, and stamina. Dhyan Chand's rigorous fitness regime in the army enabled him to maintain lightning-fast reflexes and mental sharpness on the hockey field even during grueling international tournaments.\n2. **Discipline and Time Management:** Engaging in regular sports teaches students the value of punctuality, structured routine, and hard work. Just as Dhyan Chand practiced relentlessly every night after army duty, students learn to balance their academic studies with physical exercise without making excuses.\n3. **Emotional Control & Resilience:** Sports inevitably involve winning and losing. Sportsmanship teaches students how to accept victory with humility and defeat with grace. When hit by an opponent's stick, Dhyan Chand did not retaliate with anger; similarly, sports teach youth to control their temper, handle academic pressures, and bounce back from failures with resilience.\n4. **Teamwork & Social Harmony:** Playing team games like hockey or football eradicates selfishness and ego. Students learn to cooperate, trust their peers, respect rules and referees, and work towards a common goal—qualities that transform them into responsible, empathetic, and patriotic citizens of India.",
+      "answerHi": "खेल भावना और शारीरिक फिटनेस युवाओं के सर्वांगीण चरित्र निर्माण के महत्वपूर्ण स्तंभ हैं, जैसा कि मेजर ध्यानचंद के जीवन से स्पष्ट रूप से सिद्ध होता है:\n1. **शारीरिक फिटनेस और मानसिक चुस्ती:** 'स्वस्थ शरीर में ही स्वस्थ मस्तिष्क का निवास होता है।' नियमित खेल शारीरिक क्षमता, रोग प्रतिरोधक शक्ति और स्टैमिना बढ़ाते हैं। सेना में ध्यानचंद के कठोर फिटनेस नियम ने उन्हें कठिन अंतर्राष्ट्रीय टूर्नामेंटों में भी बिजली जैसी तेज प्रतिक्रिया और मानसिक तीक्ष्णता बनाए रखने में मदद की।\n2. **अनुशासन और समय प्रबंधन:** नियमित खेलों में भाग लेने से छात्रों को समय की पाबंदी, व्यवस्थित दिनचर्या और कठिन परिश्रम का महत्व समझ में आता है। जिस प्रकार ध्यानचंद ड्यूटी के बाद हर रात अभ्यास करते थे, उसी प्रकार छात्र बिना बहाने बनाए अपनी पढ़ाई और शारीरिक व्यायाम के बीच संतुलन बनाना सीखते हैं।\n3. **मानसिक नियंत्रण और सहनशीलता:** खेलों में जीत और हार स्वाभाविक है। खेल भावना छात्रों को जीत को विनम्रता से और हार को धैर्य से स्वीकार करना सिखाती है। विपक्षी की स्टिक लगने पर भी ध्यानचंद ने क्रोध नहीं किया; इसी तरह, खेल युवाओं को गुस्सा नियंत्रित करना, परीक्षा का तनाव झेलना और असफलता से उबरकर दोबारा प्रयास करना सिखाते हैं।\n4. **टीम भावना और सामाजिक समरसता:** हॉकी या फुटबॉल जैसे सामूहिक खेल स्वार्थ और अहंकार को समाप्त करते हैं। छात्र आपस में सहयोग करना, साथियों पर विश्वास करना, नियमों का आदर करना और एक सामान्य लक्ष्य के लिए मिलकर काम करना सीखते हैं—ये गुण उन्हें भारत के जिम्मेदार, संवेदनशील और देशभक्त नागरिक बनाते हैं।",
+      "keyPoints": [
+        "शारीरिक फिटनेस से मानसिक चुस्ती, स्टैमिना और रोग प्रतिरोधक क्षमता का विकास (Physical fitness builds mental sharpness, stamina, and immunity)",
+        "नियमित खेल से समय की पाबंदी, कठोर परिश्रम और अनुशासन की सीख (Regular sports teach punctuality, hard work, and discipline)",
+        "जीत-हार में समान व्यवहार और क्रोध पर नियंत्रण कर मानसिक सहनशीलता बढ़ाना (Accepting victory/defeat equally and controlling anger builds mental resilience)",
+        "स्वार्थ त्यागकर आपसी सहयोग, विश्वास और सामूहिक लक्ष्य के लिए कार्य करना (Renouncing selfishness to work with cooperation, trust, and collective goals)"
+      ]
+    },
+    {
+      "id": "q24",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "Read the following passage from/about the memoir and answer the questions:\n'In the 1936 Berlin Olympics final, India faced Germany. The German players played an aggressive and rough game. At one point, the German goalkeeper collided with Dhyan Chand, injuring him. After receiving first aid, Dhyan Chand returned to the field. He instructed his teammates not to play roughly, but to teach the opponents a lesson through superior skill. For the next few minutes, the Indian team repeatedly took the ball into the German D (penalty area), baffled their defenders, and passed the ball without scoring, before finally scoring multiple rapid goals to win 8-1.'\n\n(a) Why did the German players resort to an aggressive and rough game in the Olympic final?\n(b) How did Dhyan Chand react immediately after being injured by the German goalkeeper?\n(c) What unique method did Dhyan Chand and his team use to 'teach the opponents a lesson' without resorting to physical rough play?\n(d) Write two synonyms in Hindi/English for the word 'Skill' (कौशल/कला) and 'Aggressive' (आक्रामक).",
+      "questionHi": "संस्मरण के/से संबंधित निम्नलिखित गद्यांश को पढ़िए और प्रश्नों के उत्तर दीजिए:\n'1936 के बर्लिन ओलंपिक फाइनल में भारत का मुकाबला जर्मनी से था। जर्मन खिलाड़ियों ने बहुत आक्रामक और रफ (rough) खेल खेला। एक समय, जर्मन गोलकीपर ध्यानचंद से टकरा गया, जिससे वे घायल हो गए। प्राथमिक उपचार लेने के बाद, ध्यानचंद मैदान पर लौटे। उन्होंने अपने साथियों को निर्देश दिया कि वे आक्रामक खेल न खेलें, बल्कि अपने श्रेष्ठ कौशल से विपक्षियों को सबक सिखाएं। अगले कुछ मिनटों तक, भारतीय टीम बार-बार गेंद को जर्मन 'डी' (पेनल्टी क्षेत्र) में ले गई, उनके डिफेंडरों को छकाया और बिना गोल किए गेंद पास करती रही, और फिर अंत में लगातार कई तेजी से गोल कर 8-1 से ऐतिहासिक जीत दर्ज की।'\n\n(क) ओलंपिक फाइनल में जर्मन खिलाड़ियों ने आक्रामक और रफ खेल का सहारा क्यों लिया?\n(ख) जर्मन गोलकीपर द्वारा घायल होने के तुरंत बाद ध्यानचंद ने क्या प्रतिक्रिया दी?\n(ग) बिना शारीरिक आक्रामकता के विपक्षियों को 'सबक सिखाने' के लिए ध्यानचंद और उनकी टीम ने कौन-सा अनूठा तरीका अपनाया?\n(घ) 'कौशल/कला' (Skill) और 'आक्रामक' (Aggressive) शब्दों के दो-दो पर्यायवाची शब्द (synonyms) लिखिए।",
+      "answer": "(a) The German players resorted to an aggressive and rough game because they were completely frustrated and outmatched by the magical stickwork and rapid passing of the Indian team, and they wanted to physically intimidate Dhyan Chand to stop India from scoring.\n(b) Immediately after being injured, Dhyan Chand did not lose his temper, complain, or retaliate. He calmly left the field to receive medical first aid and returned quickly with renewed focus and composure.\n(c) To teach them a lesson without physical roughness, Dhyan Chand and his teammates repeatedly dribbled the ball into the German penalty area ('D'), completely baffling and outmaneuvering their defenders, and deliberately passed the ball around without scoring to demonstrate their absolute technical supremacy, before finally scoring multiple crushing goals to win 8-1.\n(d) **Synonyms:**\n- **Skill (कौशल/कला):** Mastery / Proficiency / Expertise (महारत / निपुणता / प्रवीणता / हुनर)\n- **Aggressive (आक्रामक):** Hostile / Fierce / Attacking (उग्र / हमलावर / तेज़ / हिंसक)",
+      "answerHi": "(क) जर्मन खिलाड़ियों ने आक्रामक और रफ खेल का सहारा इसलिए लिया क्योंकि वे भारतीय टीम की जादुई कलाकारी और तेज पासिंग से पूरी तरह हताश और बेबस हो चुके थे, और वे शारीरिक रूप से डराकर ध्यानचंद को गोल करने से रोकना चाहते थे।\n(ख) घायल होने के तुरंत बाद, ध्यानचंद ने बिल्कुल भी क्रोध नहीं किया, कोई शिकायत नहीं की या बदला लेने की कोशिश नहीं की। वे शांत भाव से प्राथमिक उपचार लेने मैदान से बाहर गए और पूरे ध्यान व मानसिक संतुलन के साथ वापस लौटे।\n(ग) शारीरिक आक्रामकता के बिना सबक सिखाने के लिए, ध्यानचंद और उनके साथियों ने बार-बार गेंद को जर्मन पेनल्टी क्षेत्र ('डी') में ले जाकर उनके डिफेंडरों को पूरी तरह छकाया और अपनी सर्वोच्च तकनीकी महारत दिखाने के लिए जानबूझकर बिना गोल किए गेंद पास करते रहे, और फिर अंत में लगातार कई शानदार गोल दागकर 8-1 से ऐतिहासिक जीत दर्ज की।\n(घ) **पर्यायवाची शब्द (Synonyms):**\n- **कौशल/कला (Skill):** महारत / निपुणता / प्रवीणता / हुनर (Mastery / Proficiency / Expertise)\n- **आक्रामक (Aggressive):** उग्र / हमलावर / तेज़ / लड़ाकू (Hostile / Fierce / Attacking)",
+      "keyPoints": [
+        "भारतीय टीम के जादुई खेल से हताश होकर जर्मन खिलाड़ियों द्वारा शारीरिक आक्रामकता दिखाना (Germans showing rough play out of frustration against India's magical skills)",
+        "घायल होने पर भी शांत रहकर प्राथमिक उपचार लेना और बिना क्रोध के मैदान पर लौटना (Staying calm when injured, taking first aid, and returning without anger)",
+        "गेंद को बार-बार 'डी' में ले जाकर और छकाकर अपनी तकनीकी श्रेष्ठता से सबक सिखाना (Teaching a lesson of technical supremacy by dribbling in 'D' without violence)",
+        "कौशल के पर्यायवाची निपुणता/महारत; आक्रामक के पर्यायवाची उग्र/हमलावर (Synonyms of Skill: Proficiency/Mastery; Synonyms of Aggressive: Hostile/Fierce)"
+      ]
+    },
+    {
+      "id": "q25",
+      "type": "value-based",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "How can school students apply Major Dhyan Chand's core principles—'Practice', 'Teamwork', and 'Humility'—in their daily academic studies and classroom life? Provide three practical examples.",
+      "questionHi": "विद्यालय के छात्र मेजर ध्यानचंद के मूल सिद्धांतों—'अभ्यास' (Practice), 'टीम भावना' (Teamwork) और 'विनम्रता' (Humility)—को अपने दैनिक विद्या अध्ययन और कक्षा के जीवन में कैसे लागू कर सकते हैं? तीन व्यावहारिक उदाहरण दीजिए।",
+      "answer": "School students can practically apply Major Dhyan Chand's three core principles in their academic and school life as follows:\n1. **Applying 'Practice' (निरन्तर अभ्यास):** Just as Dhyan Chand practiced hockey daily under moonlight, students should establish a daily self-study routine. Instead of cramming only before exams, practicing mathematical problems, science diagrams, and language writing every single day builds permanent understanding and academic mastery.\n2. **Applying 'Teamwork' (सामूहिक टीम भावना):** In the classroom, learning is not an individual race. Students should form group study circles, share notes, and patiently explain difficult concepts to weaker classmates. Just as passing the ball wins the match, sharing knowledge helps the entire class excel together in group projects and assessments.\n3. **Applying 'Humility' (सादगी और विनम्रता):** When a student scores the highest marks or wins a school competition, they must never become arrogant or look down upon others. Like Dhyan Chand, they should humbly credit their teachers, parents, and supportive classmates, remaining polite, respectful, and eager to learn more.",
+      "answerHi": "विद्यालय के छात्र मेजर ध्यानचंद के तीन मूल सिद्धांतों को अपने दैनिक विद्या अध्ययन और विद्यालयी जीवन में निम्नलिखित रूप से लागू कर सकते हैं:\n1. **'अभ्यास' का अनुप्रयोग (Daily Practice):** जिस प्रकार ध्यानचंद चाँदनी रात में प्रतिदिन हॉकी का अभ्यास करते थे, उसी प्रकार छात्रों को रोज स्वाध्याय (self-study) का नियम बनाना चाहिए। केवल परीक्षा से पहले रटने के बजाय, प्रतिदिन गणित के प्रश्नों, विज्ञान के चित्रों और भाषा लेखन का निरंतर अभ्यास करने से स्थायी ज्ञान और विषय में महारत प्राप्त होती है।\n2. **'टीम भावना' का अनुप्रयोग (Collaborative Teamwork):** कक्षा में पढ़ाई कोई व्यक्तिगत होड़ नहीं है। छात्रों को समूह अध्ययन (group study) करना चाहिए, अपने नोट्स साझा करने चाहिए और कमजोर सहपाठियों को कठिन विषय धैर्यपूर्वक समझाने चाहिए। जैसे गेंद पास करने से मैच जीतते हैं, वैसे ही ज्ञान बांटने से पूरी कक्षा प्रोजेक्ट और परीक्षाओं में एक साथ उत्कृष्ट प्रदर्शन करती है।\n3. **'विनम्रता' का अनुप्रयोग (Humility & Modesty):** जब कोई छात्र कक्षा में सर्वाधिक अंक प्राप्त करता है या प्रतियोगिता जीतता है, तो उसे कभी घमंड नहीं करना चाहिए या दूसरों को नीचा नहीं देखना चाहिए। ध्यानचंद की तरह, उसे विनम्रता से अपनी सफलता का श्रेय अपने शिक्षकों, माता-पिता और सहयोगियों को देना चाहिए तथा सदैव नम्र और नया सीखने के लिए तत्पर रहना चाहिए।",
+      "keyPoints": [
+        "परीक्षा से पहले रटने के बजाय प्रतिदिन गणित, विज्ञान और लेखन का निरंतर अभ्यास करना (Daily continuous practice of math, science, and writing instead of exam cramming)",
+        "कक्षा में स्वार्थ त्यागकर समूह अध्ययन करना और कमजोर सहपाठियों की मदद करना (Group study and helping weaker classmates by renouncing academic selfishness)",
+        "सर्वोच्च अंक या पुरस्कार पाने पर घमंड न करना और शिक्षकों व माता-पिता को श्रेय देना (No arrogance on top marks; humbly crediting teachers and parents)",
+        "ज्ञान बांटने से बढ़ता है—इस टीम भावना को विद्यालयी जीवन का आधार बनाना (Making 'sharing knowledge increases it' the core teamwork principle in school life)"
+      ]
+    },
+    {
+      "id": "q26",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Discuss the significance of the 1936 Berlin Olympics in Indian sports history as portrayed in the memoir 'Gol'. Why is this victory considered legendary across the world?",
+      "questionHi": "संस्मरण 'गोल' में चित्रित भारतीय खेल इतिहास में 1936 के बर्लिन ओलंपिक के महत्व पर चर्चा कीजिए। इस जीत को पूरी दुनिया में ऐतिहासिक और महान क्यों माना जाता है?",
+      "answer": "The 1936 Berlin Olympics holds an immortal place in Indian sports history and is considered legendary worldwide for several profound reasons:\n1. **Crushing Victory over the Hosts:** Playing against the powerful host nation Germany in front of 40,000 spectators (including German dictator Adolf Hitler) on 15th August 1936, the Indian team, led by Dhyan Chand, registered a crushing 8-1 victory. Demonstrating breathtaking speed and skill, India proved its undisputed global supremacy in hockey.\n2. **Triumph of Barefoot Skill over Heavy Boots:** During the final match, the German field was wet and slippery. Finding his heavy military shoes slipping, Dhyan Chand took off his shoes and stockings and played barefoot/with rubber soles in the second half! His magical, lightning-fast barefoot dribbling mesmerized the entire world and destroyed the German defense.\n3. **National Pride during British Rule:** In 1936, India was still under British colonial rule. Winning the Olympic gold medal and seeing the Indian team dominate world champions gave immense moral strength, pride, and hope to millions of Indians fighting for national independence.\n4. **Universal Respect & Legend:** Dhyan Chand's performance was so flawless that even rival German authorities and international media bowed to his genius, earning him the eternal title of the 'Wizard of Hockey' and establishing India as the golden birthplace of world hockey.",
+      "answerHi": "1936 का बर्लिन ओलंपिक भारतीय खेल इतिहास में एक अमर स्थान रखता है और इसे निम्नलिखित कारणों से पूरी दुनिया में ऐतिहासिक तथा महान माना जाता है:\n1. **मेजबान देश पर विशाल विजय:** 15 अगस्त 1936 को 40,000 दर्शकों (जर्मन तानाशाह हिटलर सहित) के सामने शक्तिशाली मेजबान जर्मनी के विरुद्ध खेलते हुए, ध्यानचंद के नेतृत्व में भारतीय टीम ने 8-1 की ऐतिहासिक जीत दर्ज की। अद्भुत गति और कलाकारी दिखाते हुए भारत ने हॉकी में अपना एकछत्र वैश्विक वर्चस्व सिद्ध किया।\n2. **भारी जूतों पर नंगे पैर के कौशल की जीत:** फाइनल मैच के दौरान मैदान गीला और फिसलन भरा था। अपने भारी सैन्य जूतों को फिसलता देख, ध्यानचंद ने हाफ-टाइम के बाद अपने जूते और मोजे उतार दिए और नंगे पैर/रबर सोल के साथ खेले! उनकी जादुई और बिजली जैसी तेज नंगे पैर की ड्रिब्लिंग ने पूरी दुनिया को मंत्रमुग्ध कर दिया और जर्मन डिफेंस को ध्वस्त कर दिया।\n3. **पराधीन भारत में राष्ट्रीय गौरव का संचार:** 1936 में भारत ब्रिटिश शासन के अधीन था। ओलंपिक स्वर्ण पदक जीतने और भारतीय खिलाड़ियों को विश्व विजेताओं को रौंदते देखने से स्वतंत्रता के लिए संघर्ष कर रहे करोड़ों भारतीयों को अपार नैतिक बल, गौरव और आशा मिली।\n4. **सार्वभौमिक सम्मान और अमर विरासत:** ध्यानचंद का प्रदर्शन इतना निर्दोष था कि जर्मन अधिकारियों और अंतर्राष्ट्रीय मीडिया ने भी उनकी प्रतिभा के आगे सिर झुकाया, जिससे उन्हें 'हॉकी के जादूगर' का अमर खिताब मिला और भारत विश्व हॉकी की स्वर्णिम जननी बन गया।",
+      "keyPoints": [
+        "15 अगस्त 1936 को हिटलर और 40,000 दर्शकों के सामने मेजबान जर्मनी को 8-1 से पराजित करना (Crushing host Germany 8-1 before Hitler and 40,000 spectators on 15 Aug 1936)",
+        "गीले मैदान पर भारी जूते उतारकर नंगे पैर जादुई ड्रिब्लिंग और गोल करना (Removing heavy shoes on wet field to play magical barefoot dribbling)",
+        "ब्रिटिश गुलामी के दौर में भारतीयों में अपार राष्ट्रीय गौरव और स्वतंत्रता की आशा जगाना (Awakening immense national pride and hope for freedom during British colonial rule)",
+        "अंतर्राष्ट्रीय मीडिया और विरोधियों द्वारा 'हॉकी के जादूगर' के रूप में सार्वभौमिक सम्मान (Universal acclaim as 'Wizard of Hockey' by global media and rivals)"
+      ]
+    },
+    {
+      "id": "q27",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "What is the role of a captain in a sports team according to Major Dhyan Chand? How did he lead the Indian Hockey Team during challenging international tours?",
+      "questionHi": "मेजर ध्यानचंद के अनुसार किसी खेल टीम में कप्तान (captain) की क्या भूमिका होती है? चुनौतीपूर्ण अंतर्राष्ट्रीय दौरों के दौरान उन्होंने भारतीय हॉकी टीम का नेतृत्व कैसे किया?",
+      "answer": "According to Major Dhyan Chand, a team captain is not a dictator or a solitary star, but a humble leader, coordinator, and guardian of team morale:\n1. **Leading by Example (आदर्श प्रस्तुत करना):** A true captain leads from the front through hard work, discipline, and performance. Dhyan Chand was always the first to arrive for practice and maintained the highest standards of physical fitness and emotional discipline on the field.\n2. **Fostering Unity and Equality (एकता और समानता):** He treated all 11 players as equal pillars of the team. He never monopolized the ball; instead, as a visionary playmaker, he constantly passed the ball to junior or open teammates, building their confidence and ensuring collective team success.\n3. **Composure under Pressure (धैर्य और संयम):** During challenging international tours (such as facing aggressive crowds or rough tacklers in Europe and Olympics), Dhyan Chand acted as a calming force. When players were injured or provoked, he instructed them never to lose temper or retaliate with fouls, advising them to answer aggression purely with superior stickwork and goals.\n4. **Protecting Team Honor:** He instilled a deep sense of patriotism in his teammates, reminding them before every match that they were playing not for individual medals, but for the honor and prestige of Mother India.",
+      "answerHi": "मेजर ध्यानचंद के अनुसार, टीम का कप्तान कोई तानाशाह या अकेला सितारा नहीं होता, बल्कि वह एक विनम्र नेता, समन्वयक (coordinator) और टीम के मनोबल का रक्षक होता है:\n1. **आदर्श प्रस्तुत करके नेतृत्व (Leading by Example):** एक सच्चा कप्तान अपने कठोर परिश्रम, अनुशासन और प्रदर्शन से आगे रहकर नेतृत्व करता है। ध्यानचंद अभ्यास के लिए हमेशा सबसे पहले पहुँचते थे और मैदान पर शारीरिक फिटनेस तथा मानसिक अनुशासन का सर्वोच्च मानक बनाए रखते थे।\n2. **एकता और समानता को बढ़ावा:** वे टीम के सभी 11 खिलाड़ियों को समान स्तंभ मानते थे। उन्होंने कभी गेंद पर एकाधिकार नहीं किया; बल्कि एक दूरदर्शी प्लेमेकर के रूप में वे लगातार जूनियर या खाली खड़े साथियों को गेंद पास करते थे, जिससे उनका आत्मविश्वास बढ़ता था और सामूहिक जीत सुनिश्चित होती थी।\n3. **दबाव में धैर्य और संयम:** चुनौतीपूर्ण अंतर्राष्ट्रीय दौरों (जैसे यूरोप और ओलंपिक में आक्रामक दर्शकों या रफ खेल का सामना करने) के दौरान, ध्यानचंद ने एक शांत शक्ति के रूप में काम किया। जब खिलाड़ी घायल या उत्तेजित होते, तो वे उन्हें निर्देश देते कि कभी गुस्सा न करें या फाउल से बदला न लें, बल्कि आक्रामकता का जवाब केवल उत्कृष्ट कलाकारी और गोलों से दें।\n4. **देश के सम्मान की रक्षा:** उन्होंने अपने साथियों में गहरी देशभक्ति भरी, उन्हें हर मैच से पहले याद दिलाया कि वे व्यक्तिगत पदकों के लिए नहीं, बल्कि भारत माता के सम्मान और गौरव के लिए खेल रहे हैं।",
+      "keyPoints": [
+        "कठोर परिश्रम, समय की पाबंदी और अनुशासन से आगे रहकर नेतृत्व करना (Leading from the front through hard work, punctuality, and iron discipline)",
+        "सभी खिलाड़ियों को समान मानकर गेंद पास करना और सामूहिक विश्वास बढ़ाना (Treating all players equally, passing the ball, and building collective trust)",
+        "कठिन परिस्थितियों और आक्रामक विरोधियों के सामने टीम का मानसिक संतुलन बनाए रखना (Maintaining team's emotional composure against rough play and pressure)",
+        "हर खिलाड़ी में यह भावना भरना कि वे व्यक्तिगत नहीं बल्कि भारत माता के लिए खेल रहे हैं (Instilling the patriotic feeling of playing for Mother India above self)"
+      ]
+    },
+    {
+      "id": "q28",
+      "type": "case-study",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Read the following scenario and answer the questions:\nDuring a district-level hockey tournament, the captain of St. Xavier's School, Vikram, noticed that his team was trailing 0-1 at half-time. In the locker room, several players started blaming each other and complaining about the rough, muddy ground. Vikram calmed them down and shared a story from Major Dhyan Chand's memoir 'Gol'. He told them how Dhyan Chand practiced on rough railway tracks at night and how, in the 1936 Olympic final, when the ground was slippery, Dhyan Chand took off his heavy shoes and played barefoot to defeat Germany 8-1. Inspired by this, Vikram's team stopped complaining, played with unified passing in the second half, and won the match 3-1.\n\n(a) Why were the players of St. Xavier's School arguing and complaining at half-time?\n(b) Which two specific incidents from Major Dhyan Chand's life did Vikram share to inspire his team?\n(c) How did the team's playing style change in the second half after listening to Vikram?\n(d) What important quality of a sports captain did Vikram demonstrate in the locker room?",
+      "questionHi": "निम्नलिखित परिदृश्य को पढ़िए और प्रश्नों के उत्तर दीजिए:\nजिला स्तरीय हॉकी टूर्नामेंट के दौरान, सेंट जेवियर्स स्कूल के कप्तान विक्रम ने देखा कि उसकी टीम हाफ-टाइम में 0-1 से पीछे चल रही है। लॉकर रूम में, कई खिलाड़ी एक-दूसरे को दोष देने लगे और ऊबड़-खाबड़, कीचड़ भरे मैदान की शिकायत करने लगे। विक्रम ने उन्हें शांत किया और मेजर ध्यानचंद के संस्मरण 'गोल' से एक कहानी सुनाई। उसने उन्हें बताया कि कैसे ध्यानचंद रात में रेलवे ट्रैक पर अभ्यास करते थे और कैसे 1936 के ओलंपिक फाइनल में, जब मैदान फिसलन भरा था, तो ध्यानचंद ने अपने भारी जूते उतार दिए और नंगे पैर खेलकर जर्मनी को 8-1 से हराया। इससे प्रेरित होकर, विक्रम की टीम ने शिकायत करना बंद कर दिया, दूसरे हाफ में एकजुट होकर पासिंग गेम खेला और मैच 3-1 से जीत लिया।\n\n(क) हाफ-टाइम में सेंट जेवियर्स स्कूल के खिलाड़ी क्यों झगड़ रहे थे और शिकायत कर रहे थे?\n(ख) अपनी टीम को प्रेरित करने के लिए विक्रम ने मेजर ध्यानचंद के जीवन की कौन-सी दो विशिष्ट घटनाएँ साझा कीं?\n(ग) विक्रम की बात सुनने के बाद दूसरे हाफ में टीम की खेल शैली (playing style) में क्या बदलाव आया?\n(घ) विक्रम ने लॉकर रूम में एक खेल कप्तान के किस महत्वपूर्ण गुण (quality) का प्रदर्शन किया?",
+      "answer": "(a) The players were arguing and complaining at half-time because they were trailing 0-1 in the match, feeling frustrated, and making excuses by blaming each other and complaining about the rough, muddy ground conditions.\n(b) Vikram shared two inspiring incidents from Dhyan Chand's life: (1) How Dhyan Chand relentlessly practiced hockey at night on rough railway tracks without complaining about lack of facilities, and (2) How, during the 1936 Berlin Olympics final on a wet and slippery ground, Dhyan Chand took off his heavy military shoes and played barefoot to crush Germany 8-1.\n(c) After listening to Vikram, the team stopped complaining about the ground conditions, abandoned individual blame, and played with a unified, collaborative passing game in the second half, which enabled them to score three goals and win 3-1.\n(d) Vikram demonstrated the critical leadership qualities of emotional composure, motivational communication, and positive crisis management—calming his teammates under pressure and redirecting their focus from excuses to teamwork and perseverance.",
+      "answerHi": "(क) हाफ-टाइम में खिलाड़ी इसलिए झगड़ रहे थे और शिकायत कर रहे थे क्योंकि वे मैच में 0-1 से पीछे चल रहे थे, निराशा से भर गए थे, और अपनी गलतियों को सुधारने के बजाय एक-दूसरे को दोष दे रहे थे तथा ऊबड़-खाबड़, कीचड़ भरे मैदान का बहाना बना रहे थे।\n(ख) विक्रम ने ध्यानचंद के जीवन की दो प्रेरक घटनाएँ साझा कीं: (1) कैसे ध्यानचंद ने सुविधाओं के अभाव में भी बिना शिकायत किए रात में रेलवे ट्रैक पर कठोर अभ्यास किया, और (2) कैसे 1936 के बर्लिन ओलंपिक फाइनल में गीले व फिसलन भरे मैदान पर ध्यानचंद ने अपने भारी जूते उतार दिए और नंगे पैर खेलकर जर्मनी को 8-1 से ऐतिहासिक शिकस्त दी।\n(ग) विक्रम की बात सुनने के बाद, टीम ने मैदान की शिकायत करना और एक-दूसरे को दोष देना पूरी तरह बंद कर दिया। दूसरे हाफ में उन्होंने व्यक्तिगत स्वार्थ छोड़कर एकजुट होकर पासिंग गेम (गेम साझा करना) खेला, जिससे उन्होंने 3 शानदार गोल कर मैच 3-1 से जीत लिया।\n(घ) विक्रम ने लॉकर रूम में एक खेल कप्तान के महत्वपूर्ण नेतृत्व गुणों—दबाव में मानसिक शांति, प्रेरक संवाद (motivational communication) और संकट प्रबंधन (crisis management)—का प्रदर्शन किया, जिसने हताश टीम का ध्यान बहानों से हटाकर टीम वर्क और दृढ़ निश्चय पर केंद्रित कर दिया।",
+      "keyPoints": [
+        "हार के डर से एक-दूसरे को दोष देना और मैदान की स्थिति का बहाना बनाना (Blaming each other and making excuses about ground conditions due to fear of losing)",
+        "रेलवे ट्रैक पर रात्रिकालीन अभ्यास और 1936 ओलंपिक में नंगे पैर खेलने की प्रेरक घटनाएँ (Inspiring incidents of nighttime railway track practice and 1936 barefoot Olympic play)",
+        "शिकायतें छोड़कर दूसरे हाफ में एकजुट होकर पासिंग गेम खेलना और 3-1 से जीतना (Abandoning complaints to play unified passing game in second half and winning 3-1)",
+        "दबाव में टीम को शांत करना, बहानों से हटाकर लक्ष्य पर केंद्रित करना एक श्रेष्ठ कप्तान का गुण (Calming team under pressure and redirecting focus from excuses to goals is mark of great captain)"
+      ]
+    },
+    {
+      "id": "q29",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "How does Major Dhyan Chand's memoir 'Gol' inspire modern youth to overcome challenges and achieve excellence in any field of life (not just sports)?",
+      "questionHi": "मेजर ध्यानचंद का संस्मरण 'गोल' आधुनिक युवाओं को जीवन के किसी भी क्षेत्र (केवल खेल नहीं) में चुनौतियों पर काबू पाने और उत्कृष्टता (excellence) प्राप्त करने के लिए किस प्रकार प्रेरित करता है?",
+      "answer": "Major Dhyan Chand's memoir 'Gol' is a universal blueprint for achieving excellence and overcoming challenges in any domain of life—be it academics, science, arts, or entrepreneurship:\n1. **Relentless Practice over Talent:** Dhyan Chand proved that inborn talent is only the starting point; supreme mastery requires daily, structured practice (अभ्यास). Modern youth learn that whether mastering coding, mathematics, or music, consistent daily effort is the only way to achieve world-class perfection.\n2. **Eliminating Excuses (अभावों में प्रभाव):** Practicing under moonlight without floodlights or proper playgrounds teaches youth never to blame external circumstances, financial constraints, or lack of resources. True passion finds a way to succeed despite all obstacles.\n3. **Collaborative Synergy (टीम भावना):** In the modern interconnected world, no major scientific discovery or corporate success is achieved in isolation. Dhyan Chand's emphasis on passing the ball teaches youth the power of collaboration, sharing credit, and working harmoniously in diverse teams.\n4. **Humility and Ethical Integrity:** In an era of instant gratification and self-promotion, Dhyan Chand's life reminds youth that true greatness is adorned with modesty. Rejection of Hitler's temptations teaches that ethical integrity, loyalty to one's roots, and service to the nation are the highest moral achievements of human life.",
+      "answerHi": "मेजर ध्यानचंद का संस्मरण 'गोल' जीवन के किसी भी क्षेत्र—चाहे वह विद्या अध्ययन हो, विज्ञान, कला या उद्यमिता (entrepreneurship)—में चुनौतियों पर काबू पाने और सर्वोच्च उत्कृष्टता प्राप्त करने के लिए एक सार्वभौमिक मार्गदर्शन (universal blueprint) है:\n1. **प्रतिभा से ऊपर निरंतर अभ्यास:** ध्यानचंद ने सिद्ध किया कि जन्मजात प्रतिभा केवल एक शुरुआत है; सर्वोच्च महारत के लिए प्रतिदिन व्यवस्थित अभ्यास (अभ्यास) आवश्यक है। आधुनिक युवा सीखते हैं कि चाहे कोडिंग सीखनी हो, गणित या संगीत, विश्व स्तरीय निपुणता केवल निरंतर दैनिक परिश्रम से ही मिलती है।\n2. **बहानों का त्याग (अभावों में प्रभाव):** बिजली या अच्छे मैदान के बिना चाँदनी रात में अभ्यास करना युवाओं को सिखाता है कि कभी भी बाहरी परिस्थितियों, आर्थिक अभावों या संसाधनों की कमी का रोना नहीं रोना चाहिए। सच्चा जुनून सभी बाधाओं को चीरकर सफलता का मार्ग खोज लेता है।\n3. **सामूहिक तालमेल (टीम भावना):** आधुनिक जुड़े हुए विश्व में, कोई भी बड़ी वैज्ञानिक खोज या व्यावसायिक सफलता अकेले नहीं मिलती। गेंद पास करने पर ध्यानचंद का जोर युवाओं को सिखाता है कि वे सहयोग की शक्ति पहचानें, सफलता का श्रेय साझा करें और विविध टीमों में तालमेल के साथ कार्य करें।\n4. **विनम्रता और नैतिक ईमानदारी:** आत्म-प्रचार और शीघ्र सफलता के इस युग में, ध्यानचंद का जीवन युवाओं को याद दिलाता है कि सच्ची महानता सादगी और विनम्रता से सुशोभित होती है। हिटलर के प्रलोभनों को ठुकराना सिखाता है कि नैतिक ईमानदारी, अपनी जड़ों के प्रति वफादारी और राष्ट्र सेवा ही मानव जीवन की सर्वोच्च उपलब्धियाँ हैं।",
+      "keyPoints": [
+        "किसी भी विषय या क्षेत्र में विश्व स्तरीय महारत के लिए प्रतिदिन निरंतर कठोर अभ्यास अनिवार्य (Daily rigorous practice is essential for world-class mastery in any field)",
+        "सुविधाओं और संसाधनों के अभाव का बहाना बनाए बिना अपनी आंतरिक लगन से सफलता पाना (Achieving success through inner devotion without making excuses for lack of resources)",
+        "अकेले दौड़ने के बजाय सामूहिक सहयोग, टीम वर्क और श्रेय साझा करने की कार्य संस्कृति (Work culture of collaboration, teamwork, and sharing credit instead of solo race)",
+        "सफलता के शिखर पर पहुँचकर भी सादगी, विनम्रता और राष्ट्र सेवा के मूल्यों पर अडिग रहना (Staying firm on simplicity, humility, and national service even at the peak of success)"
+      ]
+    },
+    {
+      "id": "q30",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "Summarize the core message of the chapter 'Gol' in four bullet points, focusing on how it integrates sportsmanship, national pride, discipline, and teamwork.",
+      "questionHi": "अध्याय 'गोल' के मूल संदेश को चार बिंदुओं (bullet points) में संक्षेपित कीजिए, इस बात पर ध्यान केंद्रित करते हुए कि यह खेल भावना, राष्ट्रीय गौरव, अनुशासन और टीम वर्क को कैसे एकीकृत करता है।",
+      "answer": "The core message of Major Dhyan Chand's autobiographical chapter 'Gol' integrates four foundational life values:\n1. **Uncompromising Discipline & Practice (कठोर अनुशासन और अभ्यास):** True excellence is not an accident; it is built through daily, relentless practice and strict self-discipline, overcoming all external hardships without making excuses.\n2. **Supremacy of Teamwork over Self-Glory (सामूहिक टीम भावना):** In sports and in society, collective success is infinitely more important than individual ego or personal records. Sharing opportunities (passing the ball) creates unbeatable synergy and mutual trust.\n3. **True Sportsmanship & Emotional Composure (सच्ची खेल भावना):** A great individual plays with absolute fairness, dignity, and emotional control. One must accept victory with humility, handle defeat with grace, and answer aggression with superior skill rather than violence or anger.\n4. **Supreme National Pride & Patriotism (सर्वोच्च राष्ट्रीय गौरव):** All personal achievements, medals, and global fame are dedicated to the honor of Mother India. True greatness lies in remaining loyal, humble, and devoted to the upliftment and glory of one's nation above all material temptations.",
+      "answerHi": "मेजर ध्यानचंद के आत्मकथात्मक अध्याय 'गोल' का मूल संदेश जीवन के चार बुनियादी मूल्यों को एक साथ पिरोता है:\n1. **अटूट अनुशासन और निरंतर अभ्यास:** सच्ची श्रेष्ठता कोई संयोग नहीं है; यह दैनिक, कठोर अभ्यास और सख्त आत्म-अनुशासन से निर्मित होती है, जिसमें बिना कोई बहाना बनाए सभी बाहरी कठिनाइयों पर विजय प्राप्त की जाती है।\n2. **व्यक्तिगत महिमा पर टीम वर्क की सर्वोच्चता:** खेल और समाज में, सामूहिक सफलता व्यक्तिगत अहंकार या निजी रिकॉर्ड्स से अनंत गुना अधिक महत्वपूर्ण है। अवसरों को साझा करना (गेंद पास करना) अजेय तालमेल और आपसी विश्वास का निर्माण करता है।\n3. **सच्ची खेल भावना और मानसिक संयम:** एक महान व्यक्ति पूर्ण निष्पक्षता, गरिमा और मानसिक नियंत्रण के साथ खेलता है। जीत को विनम्रता से और हार को धैर्य से स्वीकार करना चाहिए, तथा आक्रामकता का उत्तर हिंसा या क्रोध के बजाय अपने उत्कृष्ट कौशल से देना चाहिए।\n4. **सर्वोच्च राष्ट्रीय गौरव और देशभक्ति:** सभी व्यक्तिगत उपलब्धियाँ, पदक और वैश्विक शोहरत भारत माता के सम्मान को समर्पित हैं। सच्ची महानता सभी भौतिक प्रलोभनों से ऊपर उठकर अपने राष्ट्र के उत्थान और गौरव के प्रति वफादार, विनम्र और समर्पित रहने में निहित है।",
+      "keyPoints": [
+        "बिना बहाने बनाए दैनिक कठोर अभ्यास और आत्म-अनुशासन से सर्वोच्च निपुणता प्राप्त करना (Achieving supreme mastery through daily rigorous practice and self-discipline without excuses)",
+        "व्यक्तिगत अहंकार और रिकॉर्ड्स के स्थान पर टीम वर्क और साथियों के सहयोग को प्राथमिकता (Prioritizing teamwork and peer cooperation over personal ego and records)",
+        "क्रोध और हिंसा त्यागकर निष्पक्षता, विनम्रता और मानसिक संयम से खेल की गरिमा रक्षा (Protecting game's dignity with fairness, humility, and composure without anger)",
+        "भौतिक प्रलोभनों को ठुकराकर अपनी हर उपलब्धि और जीवन को भारत माता के सम्मान को समर्पित करना (Dedicating every achievement and life to Mother India's honor above material temptations)"
+      ]
+    }
+  ]
+}
