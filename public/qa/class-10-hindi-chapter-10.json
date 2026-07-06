@@ -1,0 +1,67 @@
+{
+  "chapterTitle": "Manushyata",
+  "chapterTitleHi": "मनुष्यता",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "According to poet Maithili Sharan Gupt, who is considered a true human being?",
+      "questionHi": "कवि मैथिलीशरण गुप्त के अनुसार वास्तविक मनुष्य किसे कहा गया है?",
+      "answer": "A true human being is one who lives and dies not just for himself, but for the welfare of others, exhibiting selflessness and benevolence.",
+      "answerHi": "कवि के अनुसार सच्चा मनुष्य वही है जो केवल अपने स्वार्थ के लिए नहीं जीता, बल्कि दूसरों की भलाई और सेवा के लिए अपना जीवन समर्पित करता है और आवश्यकता पड़ने पर दूसरों के लिए अपने प्राण तक न्योछावर कर देता है।",
+      "keyPoints": [
+        "परमार्थ की भावना (Spirit of altruism)",
+        "स्वार्थ त्याग (Renunciation of selfishness)",
+        "मानव मात्र से प्रेम एवं सहानुभूति (Love and empathy for all humanity)"
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "Why does the poet advise against ego and pride in wealth?",
+      "questionHi": "कवि ने संपत्ति और वैभव पर घमंड करने को तुच्छ और अनुचित क्यों बताया है?",
+      "answer": "Wealth is transient and mortal life is brief. Moreover, God is the ultimate guardian ('सनाथ') of every living being; hence, pride in riches is foolish and vain.",
+      "answerHi": "कवि का कहना है कि धन-दौलत नश्वर है। इस संसार में कोई भी व्यक्ति अनाथ नहीं है क्योंकि परम दयालु ईश्वर सबका पिता और संरक्षक है। इसलिए भौतिक संपत्ति का अहंकार करना अत्यंत अज्ञानता है।",
+      "keyPoints": [
+        "धन की नश्वरता (Transient nature of material wealth)",
+        "ईश्वर सबका रक्षक (God as universal protector)",
+        "अहंकार से मुक्ति (Freedom from arrogance)"
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "long",
+      "marks": 5,
+      "difficulty": "Hard",
+      "question": "Illustrate how mythological figures like Rantidev, Dadhichi, Shibi, and Karna exemplified humanity ('Manushyata').",
+      "questionHi": "रंतिदेव, दधीचि, उशीनर (शिबि) और कर्ण के उदाहरणों के माध्यम से कवि ने दानवीरता और परोपकार का क्या संदेश दिया है?",
+      "answer": "King Rantidev gave away his last plate of food despite being starving; Sage Dadhichi donated his bones to make Vajra to save deities; King Shibi sacrificed his own flesh to protect a dove; and Karna donated his protective armor (Kavach-Kundal). These immortal acts prove that physical bodies perish, but noble deeds live eternally.",
+      "answerHi": "कवि ने पौराणिक महापुरुषों के उदाहरण देकर स्पष्ट किया है कि परोपकार ही सर्वोच्च धर्म है। भूख से व्याकुल राजा रंतिदेव ने अपने हाथ की अंतिम थाली भूखे को दे दी; महर्षि दधीचि ने देवताओं की रक्षा हेतु अपनी अस्थियों का दान कर दिया; राजा शिबि (उशीनर क्षितिश) ने कबूतर के प्राण बचाने हेतु अपने शरीर का माँस काट कर दे दिया; और वीर कर्ण ने अपने शरीर के सुरक्षा कवच-कुंडल तक दान कर दिए। इनका नश्वर शरीर समाप्त हो गया, परंतु इनकी यश-कीर्ति अमर है।",
+      "keyPoints": [
+        "रंतिदेव का भोजन दान (Rantidev donating his plate of food)",
+        "दधीचि का अस्थि दान (Dadhichi donating his bones)",
+        "शिबि का माँस दान और कर्ण का कवच दान (Shibi and Karna's sacrifices)",
+        "यश रूपी अमर शरीर (Immortality through noble deeds)"
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "value-based",
+      "marks": 5,
+      "difficulty": "Medium",
+      "question": "Explain the significance of global brotherhood ('विश्व बंधुत्व') in modern times as depicted in the poem.",
+      "questionHi": "कविता में वर्णित 'मनुष्य मात्र बंधु है' के संदेश का वर्तमान वैश्विक परिदृश्य में क्या महत्व है?",
+      "answer": "Recognizing every human as our brother across borders, religions, and castes fosters global harmony. Mutual cooperation and eliminating hatred can solve modern global crises.",
+      "answerHi": "वर्तमान समय में जब विश्व में जाति, धर्म और सीमाओं के नाम पर भेदभाव और संघर्ष बढ़ रहे हैं, तब गुप्त जी का संदेश 'मनुष्य मात्र बंधु है' अत्यंत प्रासंगिक है। सभी मनुष्यों के भीतर एक ही परमात्मा का अंश है। यदि हम आपसी वैमनस्य को भुलाकर एक-दूसरे का हाथ थामें, तो विश्व शांति और समरसता स्थापित की जा सकती है।",
+      "keyPoints": [
+        "वसुधैव कुटुंबकम की भावना (Universal brotherhood)",
+        "भेदभाव और वैमनस्य का अंत (End of discrimination and conflict)",
+        "सामूहिक उन्नति और सहयोग (Mutual cooperation and progress)"
+      ]
+    }
+  ]
+}
