@@ -1,0 +1,468 @@
+{
+  "chapterTitle": "The Wonderful World of Science",
+  "chapterTitleHi": "विज्ञान की अद्भुत दुनिया",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What is the meaning of the word 'Science'? Where does it originate from?",
+      "questionHi": "'विज्ञान' (Science) शब्द का क्या अर्थ है? इसकी उत्पत्ति कहाँ से हुई है?",
+      "answer": "The word 'Science' originates from the Latin word 'scientia', which means 'knowledge'. In simple terms, science is the systematic study and understanding of the natural world through observation, curiosity, questioning, and experimentation.",
+      "answerHi": "'साइंस' (Science) शब्द की उत्पत्ति लैटिन भाषा के शब्द 'scientia' (साइंटिया) से हुई है, जिसका अर्थ है 'ज्ञान'। हिंदी में 'विज्ञान' का अर्थ है 'विशेष ज्ञान'। सरल शब्दों में, विज्ञान अवलोकन, जिज्ञासा, प्रश्न पूछने और प्रयोगों के माध्यम से प्राकृतिक दुनिया का व्यवस्थित अध्ययन और समझ है।",
+      "keyPoints": [
+        "लैटिन शब्द 'scientia' से उत्पत्ति, जिसका अर्थ 'ज्ञान' है (Origin from Latin 'scientia' meaning knowledge)",
+        "विज्ञान = विशेष और व्यवस्थित ज्ञान (Science = special and systematic knowledge)",
+        "अवलोकन, जिज्ञासा और प्रयोगों पर आधारित (Based on observation, curiosity, and experimentation)"
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What is the role of curiosity in science? Give one daily life example.",
+      "questionHi": "विज्ञान में 'जिज्ञासा' (Curiosity) की क्या भूमिका है? दैनिक जीवन से एक उदाहरण दीजिए।",
+      "answer": "Curiosity is the starting point and driving force of all scientific discoveries. It encourages us to ask questions like 'why', 'how', and 'what' about things happening around us. For example, curiosity about why an apple falls downwards from a tree led Sir Isaac Newton to discover the law of gravity.",
+      "answerHi": "जिज्ञासा सभी वैज्ञानिक खोजों का प्रारंभिक बिंदु और प्रेरक शक्ति है। यह हमें अपने चारों ओर होने वाली घटनाओं के बारे में 'क्यों', 'कैसे' और 'क्या' जैसे प्रश्न पूछने के लिए प्रोत्साहित करती है। उदाहरण के लिए, पेड़ से सेब नीचे ही क्यों गिरता है—इस जिज्ञासा ने सर आइजक न्यूटन को गुरुत्वाकर्षण के नियम की खोज करने के लिए प्रेरित किया।",
+      "keyPoints": [
+        "जिज्ञासा वैज्ञानिक खोजों की जननी है (Curiosity is the mother of scientific discovery)",
+        "'क्यों', 'क्या' और 'कैसे' जैसे प्रश्न पूछने की प्रवृत्ति (Asking questions like why, what, and how)",
+        "उदाहरण: न्यूटन द्वारा गुरुत्वाकर्षण की खोज (Example: Newton discovering gravity from a falling apple)"
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Define 'observation' in scientific study. Why is careful observation important?",
+      "questionHi": "वैज्ञानिक अध्ययन में 'अवलोकन' (Observation) को परिभाषित कीजिए। सावधानीपूर्वक अवलोकन क्यों महत्वपूर्ण है?",
+      "answer": "Observation is the act of carefully watching, noticing, and recording details of events, objects, or phenomena using our senses (sight, hearing, touch, smell, taste) or scientific instruments. Careful observation is important because it provides accurate facts and data, which help scientists draw correct conclusions without guessing.",
+      "answerHi": "हमारी ज्ञानेंद्रियों (देखना, सुनना, छूना, सूंघना, चखना) या वैज्ञानिक उपकरणों का उपयोग करके किसी घटना, वस्तु या प्रक्रिया के विवरणों को ध्यानपूर्वक देखना, समझना और दर्ज करना 'अवलोकन' (प्रेक्षण) कहलाता है। सावधानीपूर्वक अवलोकन इसलिए महत्वपूर्ण है क्योंकि यह सटीक तथ्य और आँकड़े प्रदान करता है, जिससे वैज्ञानिक बिना अनुमान लगाए सही निष्कर्ष निकाल सकते हैं।",
+      "keyPoints": [
+        "ज्ञानेंद्रियों द्वारा ध्यानपूर्वक देखना और विवरण दर्ज करना (Careful watching and recording using senses)",
+        "सटीक तथ्यों और आँकड़ों की प्राप्ति (Obtaining accurate facts and data)",
+        "सही वैज्ञानिक निष्कर्ष निकालने का आधार (Foundation for drawing correct scientific conclusions)"
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Name any four Indian scientists whose contributions have enriched the world of science.",
+      "questionHi": "किन्हीं चार भारतीय वैज्ञानिकों के नाम लिखिए जिनके योगदान ने विज्ञान की दुनिया को समृद्ध किया है।",
+      "answer": "Four renowned Indian scientists are:\n1) Sir C.V. Raman (discovered the Raman Effect in light scattering).\n2) Dr. A.P.J. Abdul Kalam (known as the Missile Man of India).\n3) Sir Jagadish Chandra Bose (proved that plants have life and respond to stimuli).\n4) Dr. E.K. Janaki Ammal (renowned botanist who worked on sugarcane and plant genetics).",
+      "answerHi": "चार प्रमुख भारतीय वैज्ञानिक हैं:\n1) सर सी. वी. रमन (प्रकाश के प्रकीर्णन में 'रमन प्रभाव' की खोज)।\n2) डॉ. ए. पी. जे. अब्दुल कलाम (भारत के 'मिसाइल मैन' के रूप में प्रसिद्ध)।\n3) सर जगदीश चंद्र बोस (सिद्ध किया कि पौधों में भी जीवन होता है और वे संवेदना महसूस करते हैं)।\n4) डॉ. ई. के. जानकी अम्मल (प्रसिद्ध वनस्पतिशास्त्री जिन्होंने गन्ना और पादप आनुवंशिकी पर कार्य किया)।",
+      "keyPoints": [
+        "सर सी. वी. रमन - रमन प्रभाव (Sir C.V. Raman - Raman Effect)",
+        "डॉ. ए. पी. जे. अब्दुल कलाम - मिसाइल और अंतरिक्ष प्रौद्योगिकी (Dr. A.P.J. Abdul Kalam - Missile & Space)",
+        "सर जगदीश चंद्र बोस - पौधों में चेतना (Sir J.C. Bose - Plant life & wireless signals)",
+        "डॉ. ई. के. जानकी अम्मल - वनस्पति विज्ञान (Dr. E.K. Janaki Ammal - Botany & genetics)"
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What is an experiment? Why do scientists perform experiments?",
+      "questionHi": "'प्रयोग' (Experiment) क्या होता है? वैज्ञानिक प्रयोग क्यों करते हैं?",
+      "answer": "An experiment is a practical test or a practical investigation conducted under controlled conditions to check whether a hypothesis (scientific idea or guess) is true or false. Scientists perform experiments to test their ideas, discover new facts, verify observations, and find proofs for natural phenomena.",
+      "answerHi": "प्रयोग एक नियंत्रित परिस्थिति में किया गया व्यावहारिक परीक्षण या अन्वेषण है, जिसका उद्देश्य यह जाँचना होता है कि कोई परिकल्पना (वैज्ञानिक विचार या अनुमान) सत्य है या असत्य। वैज्ञानिक अपने विचारों का परीक्षण करने, नए तथ्यों की खोज करने, अवलोकनों की पुष्टि करने और प्राकृतिक घटनाओं के ठोस प्रमाण प्राप्त करने के लिए प्रयोग करते हैं।",
+      "keyPoints": [
+        "नियंत्रित परिस्थितियों में किया गया व्यावहारिक परीक्षण (Practical test under controlled conditions)",
+        "परिकल्पना की सत्यता की जाँच करना (Testing the validity of a hypothesis)",
+        "प्राकृतिक घटनाओं के ठोस प्रमाण प्राप्त करना (Obtaining concrete proofs for natural phenomena)"
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Give two examples of how science helps us in our daily household activities.",
+      "questionHi": "दो उदाहरण दीजिए कि विज्ञान हमारे दैनिक घरेलू कार्यों में किस प्रकार सहायता करता है।",
+      "answer": "Two daily household examples are:\n1) Cooking food: Using an LPG gas stove, induction cooktop, or pressure cooker uses scientific principles of heat transfer and pressure to cook food quickly.\n2) Preservation: Using a refrigerator keeps vegetables, milk, and food fresh for a longer time by slowing down the growth of bacteria through low temperatures.",
+      "answerHi": "दैनिक घरेलू जीवन के दो उदाहरण:\n1) भोजन पकाना: एलपीजी गैस स्टोव, इंडक्शन या प्रेशर कुकर का उपयोग करना ऊष्मा स्थानांतरण और दबाव के वैज्ञानिक सिद्धांतों पर आधारित है, जिससे भोजन शीघ्र पकता है।\n2) खाद्य संरक्षण: रेफ्रिजरेटर (फ्रिज) का उपयोग कम तापमान के माध्यम से जीवाणुओं (बैक्टीरिया) की वृद्धि को धीमा करके सब्जियों, दूध और भोजन को लंबे समय तक ताजा रखता है।",
+      "keyPoints": [
+        "प्रेशर कुकर और एलपीजी स्टोव से शीघ्र भोजन पकाना (Cooking faster using pressure cookers and LPG stoves)",
+        "रेफ्रिजरेटर द्वारा भोजन और सब्जियों को सड़ने से बचाना (Preserving food using refrigeration)",
+        "दैनिक जीवन को सरल, सुरक्षित और सुविधाजनक बनाना (Making daily household life simple, safe, and convenient)"
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "What is the difference between a 'guess' and a 'scientific conclusion'?",
+      "questionHi": "एक 'अनुमान' (Guess) और एक 'वैज्ञानिक निष्कर्ष' (Scientific Conclusion) के बीच क्या अंतर है?",
+      "answer": "A guess is an informal opinion or assumption made without sufficient evidence, testing, or careful observation. A scientific conclusion is a proven statement arrived at after systematic observation, questioning, conducting repeated experiments, and analyzing verified data.",
+      "answerHi": "अनुमान बिना पर्याप्त प्रमाण, परीक्षण या ध्यानपूर्वक अवलोकन के बनाई गई एक सामान्य राय या कल्पना है। इसके विपरीत, वैज्ञानिक निष्कर्ष एक प्रमाणित कथन है जिस तक व्यवस्थित अवलोकन, प्रश्न पूछने, बार-बार प्रयोग करने और सत्यापित आँकड़ों के विश्लेषण के बाद पहुँचा जाता है।",
+      "keyPoints": [
+        "अनुमान: बिना प्रमाण या परीक्षण के कल्पना (Guess: assumption without evidence or testing)",
+        "वैज्ञानिक निष्कर्ष: प्रयोगों और आँकड़ों द्वारा प्रमाणित सत्य (Scientific conclusion: proven truth supported by experiments and data)",
+        "विज्ञान प्रमाणों पर निर्भर करता है, केवल अनुमान पर नहीं (Science relies on verifiable evidence, not mere guesswork)"
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "Why should we never taste or smell unknown chemicals or plants during science exploration?",
+      "questionHi": "विज्ञान अन्वेषण के दौरान हमें कभी भी अज्ञात रसायनों या पौधों को चखना या सीधे सूंघना क्यों नहीं चाहिए?",
+      "answer": "We should never taste or directly smell unknown chemicals or plants because many of them can be toxic, poisonous, or corrosive. Tasting or inhaling concentrated fumes can cause severe burns, allergic reactions, poisoning, or permanent harm to our body.",
+      "answerHi": "हमें कभी भी अज्ञात रसायनों या पौधों को नहीं चखना या सीधे नहीं सूंघना चाहिए क्योंकि उनमें से कई अत्यधिक विषैले, हानिकारक या संक्षारक (जलाने वाले) हो सकते हैं। इन्हें चखने या इनके गाढ़े धुएँ/गंध को सीधे सांस द्वारा अंदर लेने से गंभीर जलन, एलर्जी, विषाक्तता या शरीर को स्थायी क्षति हो सकती है।",
+      "keyPoints": [
+        "अज्ञात रसायन और पौधे विषैले या हानिकारक हो सकते हैं (Unknown chemicals and plants can be toxic or poisonous)",
+        "सीधे चखने या सूंघने से शरीर को गंभीर क्षति हो सकती है (Tasting or inhaling directly can cause severe bodily harm)",
+        "प्रयोगशाला और अन्वेषण में सुरक्षा नियम सर्वोपरि हैं (Safety rules are paramount in scientific exploration)"
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What is a 'hypothesis' in the scientific method?",
+      "questionHi": "वैज्ञानिक विधि में 'परिकल्पना' (Hypothesis) क्या होती है?",
+      "answer": "A hypothesis is an educated guess or a preliminary explanation proposed for an observation or scientific question. It serves as a starting point for conducting experiments to test whether the proposed explanation is correct or incorrect.",
+      "answerHi": "परिकल्पना किसी अवलोकन या वैज्ञानिक प्रश्न के लिए प्रस्तावित एक विचारशील अनुमान या प्रारंभिक व्याख्या होती है। यह यह जाँचने के लिए प्रयोग करने के प्रारंभिक बिंदु के रूप में कार्य करती है कि सुझाई गई व्याख्या सही है या गलत।",
+      "keyPoints": [
+        "विचारशील अनुमान या प्रारंभिक व्याख्या (Educated guess or preliminary explanation)",
+        "प्रयोगों द्वारा परीक्षण का आधार (Basis for experimental testing)",
+        "सत्य या असत्य सिद्ध होने की संभावना (Can be proven true or false through testing)"
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "State two important laboratory safety rules every science student must follow.",
+      "questionHi": "प्रयोगशाला के दो महत्वपूर्ण सुरक्षा नियम बताइए जिनका पालन प्रत्येक विज्ञान विद्यार्थी को करना चाहिए।",
+      "answer": "Two essential laboratory safety rules are:\n1) Always follow the teacher's instructions carefully and never conduct unauthorized experiments.\n2) Never touch, taste, or mix laboratory chemicals without permission, and always wash hands thoroughly with soap after experiments.",
+      "answerHi": "प्रयोगशाला के दो अनिवार्य सुरक्षा नियम हैं:\n1) सदैव शिक्षक के निर्देशों का ध्यानपूर्वक पालन करें और कभी भी बिना अनुमति के प्रयोग न करें।\n2) प्रयोगशाला के रसायनों को बिना अनुमति के कभी न छुएं, न चखें और न ही मिलाएँ; तथा प्रयोगों के बाद हमेशा अपने हाथों को साबुन से अच्छी तरह धोएं।",
+      "keyPoints": [
+        "शिक्षक के निर्देशों का सख्ती से पालन (Strictly follow teacher's instructions)",
+        "रसायनों को बिना अनुमति न छुएं और न चखें (Never touch or taste chemicals without permission)",
+        "प्रयोग के बाद हाथ साबुन से धोना (Always wash hands thoroughly after experiments)"
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Explain the three main steps involved in the 'Scientific Method' of solving a problem or discovering a fact.",
+      "questionHi": "किसी समस्या को हल करने या किसी तथ्य की खोज करने की 'वैज्ञानिक विधि' (Scientific Method) में शामिल तीन मुख्य चरणों की व्याख्या कीजिए।",
+      "answer": "The scientific method involves three main sequential steps:\n1) Observation & Questioning: Carefully observing a natural event or phenomenon and asking specific questions about why or how it occurs.\n2) Hypothesis & Experimentation: Proposing a logical guess (hypothesis) and designing/performing practical experiments under controlled conditions to test it.\n3) Analysis & Conclusion: Analyzing the collected data and results of the experiment to draw a final verified conclusion, confirming whether the hypothesis was true or false.",
+      "answerHi": "वैज्ञानिक विधि में तीन मुख्य क्रमिक चरण शामिल होते हैं:\n1) अवलोकन और प्रश्न पूछना: किसी प्राकृतिक घटना का ध्यानपूर्वक अवलोकन करना और यह पूछना कि वह क्यों या कैसे घटित होती है।\n2) परिकल्पना और प्रयोग: एक तार्किक अनुमान (परिकल्पना) प्रस्तावित करना और उसका परीक्षण करने के लिए नियंत्रित परिस्थितियों में प्रयोग डिजाइन करना और करना।\n3) विश्लेषण और निष्कर्ष: एकत्र किए गए आँकड़ों और प्रयोग के परिणामों का विश्लेषण करके एक अंतिम सत्यापित निष्कर्ष निकालना, जिससे यह पुष्टि होती है कि परिकल्पना सही थी या गलत।",
+      "keyPoints": [
+        "चरण 1: अवलोकन और प्रश्न (Step 1: Observation and questioning)",
+        "चरण 2: परिकल्पना बनाना और प्रयोग करना (Step 2: Forming hypothesis and conducting experiments)",
+        "चरण 3: आँकड़ों का विश्लेषण कर निष्कर्ष निकालना (Step 3: Analyzing data and drawing verified conclusions)"
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "How did Sir Jagadish Chandra Bose prove that plants are living beings and respond to their environment? Which instrument did he invent?",
+      "questionHi": "सर जगदीश चंद्र बोस ने यह कैसे सिद्ध किया कि पौधे सजीव होते हैं और अपने वातावरण के प्रति अनुक्रिया (Response) करते हैं? उन्होंने किस उपकरण का आविष्कार किया था?",
+      "answer": "Sir Jagadish Chandra Bose conducted groundbreaking experiments to prove that plants have life, feel pain, and respond to external stimuli like light, heat, touch, and music just like animals and humans. To demonstrate this scientifically, he invented a highly sensitive instrument called the 'Crescograph', which could magnify the minute movements and growth responses of plant tissues up to 10,000 times, making their reactions clearly visible.",
+      "answerHi": "सर जगदीश चंद्र बोस ने ऐतिहासिक प्रयोग करके यह सिद्ध किया कि पौधों में जीवन होता है, वे दर्द महसूस करते हैं और जंतुओं व मनुष्यों की तरह ही प्रकाश, ऊष्मा, स्पर्श और संगीत जैसे बाह्य उद्दीपनों के प्रति अनुक्रिया (प्रतिक्रिया) करते हैं। इसे वैज्ञानिक रूप से दर्शाने के लिए, उन्होंने 'क्रेस्कोग्राफ' (Crescograph) नामक एक अत्यंत संवेदनशील उपकरण का आविष्कार किया, जो पौधों के ऊतकों की सूक्ष्म गतियों और वृद्धि प्रतिक्रियाओं को 10,000 गुना तक बड़ा करके दिखा सकता था।",
+      "keyPoints": [
+        "पौधों में जीवन और संवेदना की वैज्ञानिक पुष्टि (Scientific proof of life and sensitivity in plants)",
+        "प्रकाश, ऊष्मा और स्पर्श के प्रति पौधों की अनुक्रिया (Plants respond to stimuli like light, heat, and touch)",
+        "'क्रेस्कोग्राफ' (Crescograph) उपकरण का आविष्कार (Invention of the sensitive Crescograph instrument)"
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Why is collaboration and teamwork important among scientists? Explain with an example.",
+      "questionHi": "वैज्ञानिकों के बीच सहयोग (Collaboration) और टीम भावना क्यों महत्वपूर्ण है? एक उदाहरण के साथ स्पष्ट कीजिए।",
+      "answer": "Collaboration is vital in science because modern scientific problems are complex and require diverse knowledge from different fields like physics, chemistry, biology, and engineering. When scientists work together as a team, they share ideas, divide tasks, verify each other's results, and solve problems faster.\nExample: The success of India's Chandrayaan (Moon mission) and Mangalyaan (Mars mission) by ISRO was not the work of a single person, but the result of seamless collaboration among thousands of scientists, engineers, and technicians working together.",
+      "answerHi": "विज्ञान में सहयोग अत्यंत महत्वपूर्ण है क्योंकि आधुनिक वैज्ञानिक समस्याएँ जटिल होती हैं और उनके लिए भौतिकी, रसायन विज्ञान, जीव विज्ञान और इंजीनियरिंग जैसे विभिन्न क्षेत्रों के ज्ञान की आवश्यकता होती है। जब वैज्ञानिक एक टीम के रूप में मिलकर कार्य करते हैं, तो वे विचारों का आदान-प्रदान करते हैं, कार्यों को बाँटते हैं, एक-दूसरे के परिणामों की पुष्टि करते हैं और समस्याओं को तेजी से हल करते हैं।\nउदाहरण: इसरो (ISRO) द्वारा भारत के चंद्रयान (चंद्र मिशन) और मंगलयान (मंगल मिशन) की सफलता किसी एक व्यक्ति का कार्य नहीं थी, बल्कि यह एक साथ मिलकर काम करने वाले हजारों वैज्ञानिकों, इंजीनियरों और तकनीशियनों के बीच उत्कृष्ट सहयोग का परिणाम थी।",
+      "keyPoints": [
+        "जटिल समस्याओं के समाधान के लिए विभिन्न विषयों के ज्ञान की आवश्यकता (Complex problems require multi-disciplinary expertise)",
+        "विचारों का आदान-प्रदान और त्रुटिहीन सत्यापन (Sharing ideas and error-free verification)",
+        "उदाहरण: इसरो (ISRO) के चंद्रयान और मंगलयान मिशन की सफलता (Example: Success of ISRO's Chandrayaan and Mangalyaan missions)"
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "How does science contribute to communication and transportation in our modern world?",
+      "questionHi": "हमारी आधुनिक दुनिया में संचार (Communication) और परिवहन (Transportation) के क्षेत्र में विज्ञान का क्या योगदान है?",
+      "answer": "Science has revolutionized modern communication and transportation:\n1) Communication: Scientific inventions like smartphones, satellites, the internet, and optical fibers allow us to instantly talk, send messages, and make video calls across the globe within seconds.\n2) Transportation: The invention of steam engines, internal combustion engines, electric trains, airplanes, and spacecraft has made traveling across cities, continents, and even into space fast, safe, and comfortable.",
+      "answerHi": "विज्ञान ने आधुनिक संचार और परिवहन में क्रांतिकारी बदलाव किया है:\n1) संचार (Communication): स्मार्टफोन, उपग्रह (सैटेलाइट), इंटरनेट और ऑप्टिकल फाइबर जैसे वैज्ञानिक आविष्कारों ने हमें दुनिया के किसी भी कोने में सेकंडों में बात करने, संदेश भेजने और वीडियो कॉल करने में सक्षम बनाया है।\n2) परिवहन (Transportation): भाप इंजन, पेट्रोल/डीजल इंजन, इलेक्ट्रिक रेलगाड़ियों, हवाई जहाजों और अंतरिक्ष यानों के आविष्कार ने शहरों, महाद्वीपों और यहाँ तक कि अंतरिक्ष की यात्रा को भी तेज, सुरक्षित और आरामदायक बना दिया है।",
+      "keyPoints": [
+        "संचार: स्मार्टफोन, इंटरनेट और उपग्रहों से वैश्विक संपर्क (Communication: Global connectivity via smartphones, internet, satellites)",
+        "परिवहन: तेज गति की रेलगाड़ियाँ, हवाई जहाज और इलेक्ट्रिक वाहन (Transportation: High-speed trains, airplanes, electric vehicles)",
+        "दूरी और समय को कम करके दुनिया को आपस में जोड़ना (Connecting the world by reducing distance and time)"
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "A student observed that a sliced apple turns brown after being left in the open air for some time. How can the student apply the scientific method to investigate why this happens?",
+      "questionHi": "एक विद्यार्थी ने देखा कि कटा हुआ सेब कुछ समय तक खुली हवा में छोड़ने पर भूरा हो जाता है। विद्यार्थी यह जानने के लिए 'वैज्ञानिक विधि' का उपयोग कैसे कर सकता है कि ऐसा क्यों होता है?",
+      "answer": "The student can apply the scientific method systematically:\n1) Step 1 (Questioning): Why does the cut surface of an apple turn brown in open air?\n2) Step 2 (Hypothesis): The apple turns brown because its freshly cut surface reacts with the oxygen present in the air.\n3) Step 3 (Experimentation): Take two fresh apple slices. Leave Slice A exposed to open air. Cover Slice B tightly in plastic wrap or submerge it in water (blocking air contact). Observe after 2 hours.\n4) Step 4 (Conclusion): Slice A turns brown, while Slice B remains fresh. This proves the hypothesis that contact with atmospheric air (oxygen) causes the browning reaction.",
+      "answerHi": "विद्यार्थी वैज्ञानिक विधि का व्यवस्थित रूप से उपयोग कर सकता है:\n1) चरण 1 (प्रश्न पूछना): कटे हुए सेब की सतह खुली हवा में भूरी क्यों हो जाती है?\n2) चरण 2 (परिकल्पना): सेब भूरा इसलिए होता है क्योंकि इसकी ताजी कटी हुई सतह हवा में मौजूद ऑक्सीजन के साथ रासायनिक प्रतिक्रिया करती है।\n3) चरण 3 (प्रयोग): सेब के दो ताजे टुकड़े (A और B) लें। टुकड़े A को खुली हवा में छोड़ दें। टुकड़े B को प्लास्टिक रैप में कसकर लपेट दें या पानी में डुबो दें (हवा के संपर्क को रोकें)। 2 घंटे बाद अवलोकन करें।\n4) चरण 4 (निष्कर्ष): टुकड़ा A भूरा हो जाता है, जबकि टुकड़ा B ताजा रहता है। इससे यह परिकल्पना सिद्ध होती है कि हवा (ऑक्सीजन) के संपर्क में आने से ही भूरा होने की प्रक्रिया होती है।",
+      "keyPoints": [
+        "प्रश्न: कटा सेब हवा में भूरा क्यों होता है? (Question: Why does sliced apple turn brown in air?)",
+        "परिकल्पना: हवा (ऑक्सीजन) के साथ प्रतिक्रिया के कारण (Hypothesis: Due to reaction with atmospheric oxygen)",
+        "प्रयोग: हवा के संपर्क वाले और बिना संपर्क वाले टुकड़ों की तुलना (Experiment: Comparing exposed slice vs air-blocked slice)",
+        "निष्कर्ष: वायु संपर्क से रंग परिवर्तन सिद्ध (Conclusion: Air contact proven to cause browning)"
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Why is it essential to record observations immediately and truthfully in a science notebook during an experiment?",
+      "questionHi": "किसी प्रयोग के दौरान विज्ञान की उत्तरपुस्तिका (नोटबुक) में अवलोकनों को तुरंत और सत्यता के साथ लिखना क्यों आवश्यक है?",
+      "answer": "Recording observations immediately and truthfully is essential for three reasons:\n1) Accuracy & Reliability: Human memory is imperfect; waiting until later can lead to forgetting exact measurements, colors, or timing, resulting in inaccurate data.\n2) Scientific Integrity: Truthful recording ensures that we do not change or manipulate data to match our expectations. Even unexpected or 'failed' results provide valuable scientific knowledge.\n3) Reproducibility: Detailed and accurate records allow other scientists or classmates to repeat the exact experiment and verify the findings independently.",
+      "answerHi": "अवलोकनों को तुरंत और सत्यता के साथ लिखना तीन कारणों से आवश्यक है:\n1) सटीकता और विश्वसनीयता: मानव स्मृति अपूर्ण होती है; बाद में लिखने के लिए प्रतीक्षा करने से सटीक माप, रंग या समय भूलने का जोखिम रहता है, जिससे आँकड़े गलत हो सकते हैं।\n2) वैज्ञानिक सत्यनिष्ठा (ईमानदारी): सत्यता से लिखना यह सुनिश्चित करता है कि हम अपनी इच्छा के अनुसार आँकड़ों में बदलाव या हेरफेर न करें। यहाँ तक कि अनपेक्षित या 'विफल' परिणाम भी मूल्यवान वैज्ञानिक ज्ञान देते हैं।\n3) दोहराने की योग्यता (Reproducibility): विस्तृत और सटीक रिकॉर्ड अन्य वैज्ञानिकों या सहपाठियों को उसी प्रयोग को दोहराने और स्वतंत्र रूप से परिणामों की पुष्टि करने में सक्षम बनाते हैं।",
+      "keyPoints": [
+        "स्मृति दोष से बचने के लिए तुरंत रिकॉर्ड करना (Immediate recording prevents memory lapse and errors)",
+        "वैज्ञानिक सत्यनिष्ठा और ईमानदारी बनाए रखना (Maintaining scientific integrity without data manipulation)",
+        "अन्य वैज्ञानिकों द्वारा प्रयोग दोहराने और सत्यापन में सहायक (Enables reproducibility and verification by others)"
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "What is the importance of science in agriculture and food production?",
+      "questionHi": "कृषि और खाद्य उत्पादन में विज्ञान का क्या महत्व है?",
+      "answer": "Science has transformed agriculture and food production in significant ways:\n1) Improved Crop Yields: Scientific research has developed high-yielding, disease-resistant, and drought-resistant seed varieties (like in the Green Revolution).\n2) Modern Farming Techniques: Science provided tractors, drip irrigation systems, soil testing methods, and organic bio-fertilizers, making farming efficient and less labor-intensive.\n3) Food Protection: Scientific storage methods, refrigeration, and eco-friendly pest control prevent food grains and vegetables from spoiling or being destroyed by pests, ensuring food security for millions.",
+      "answerHi": "विज्ञान ने कृषि और खाद्य उत्पादन में महत्वपूर्ण बदलाव किए हैं:\n1) फसल उत्पादन में वृद्धि: वैज्ञानिक अनुसंधानों ने उच्च उपज देने वाले, रोग-रोधी और सूखा-रोधी बीजों की किस्मों का विकास किया है (जैसे हरित क्रांति में)।\n2) आधुनिक कृषि तकनीकें: विज्ञान ने ट्रैक्टर, ड्रिप सिंचाई प्रणाली, मिट्टी परीक्षण विधियाँ और जैविक खाद प्रदान की हैं, जिससे खेती कुशल और कम श्रमसाध्य हुई है।\n3) खाद्य सुरक्षा और संरक्षण: वैज्ञानिक भंडारण विधियाँ, प्रशीतन (कोल्ड स्टोरेज) और कीट नियंत्रण अनाज व सब्जियों को सड़ने या कीड़ों से नष्ट होने से बचाते हैं, जिससे करोड़ों लोगों के लिए खाद्य सुरक्षा सुनिश्चित होती है।",
+      "keyPoints": [
+        "उच्च उपज वाले और रोग-रोधी बीजों का विकास (Development of high-yielding and disease-resistant seeds)",
+        "ड्रिप सिंचाई और आधुनिक कृषि उपकरणों का उपयोग (Use of drip irrigation and modern farming machinery)",
+        "वैज्ञानिक भंडारण और संरक्षण से खाद्य सुरक्षा (Food security through scientific storage and preservation)"
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "Why do we say that 'science is an ongoing process of inquiry and discovery' and not just a static collection of facts?",
+      "questionHi": "हम ऐसा क्यों कहते हैं कि 'विज्ञान अन्वेषण और खोज की एक निरंतर चलने वाली प्रक्रिया है', न कि केवल तथ्यों का एक स्थिर संग्रह?",
+      "answer": "Science is not a static list of fixed facts because scientific knowledge grows and evolves continuously over time. As scientists develop better instruments (like powerful telescopes or electron microscopes) and conduct deeper observations, old theories are refined, updated, or replaced by more accurate explanations.\nFor example: Centuries ago, people believed that the Earth was stationary and the Sun revolved around it. Continued scientific inquiry and observation proved that the Earth revolves around the Sun. Thus, science is a living, ongoing journey of questioning, exploring, and improving our understanding of nature.",
+      "answerHi": "विज्ञान निश्चित तथ्यों की कोई स्थिर सूची नहीं है क्योंकि वैज्ञानिक ज्ञान समय के साथ लगातार बढ़ता और विकसित होता रहता है। जैसे-जैसे वैज्ञानिक बेहतर उपकरणों (जैसे शक्तिशाली टेलीस्कोप या इलेक्ट्रॉन माइक्रोस्कोप) का विकास करते हैं और गहरे अवलोकन करते हैं, पुराने सिद्धांतों को सुधारा जाता है, अपडेट किया जाता है या अधिक सटीक व्याख्याओं द्वारा बदल दिया जाता है।\nउदाहरण के लिए: सदियों पहले, लोग मानते थे कि पृथ्वी स्थिर है और सूर्य उसके चारों ओर चक्कर लगाता है। निरंतर वैज्ञानिक अन्वेषण और अवलोकन ने सिद्ध किया कि पृथ्वी सूर्य के चारों ओर परिक्रमा करती है। अतः विज्ञान प्रकृति को समझने, प्रश्न पूछने और नई खोज करने की एक जीवंत और निरंतर चलने वाली यात्रा है।",
+      "keyPoints": [
+        "नए उपकरणों और प्रयोगों से ज्ञान लगातार विकसित होता है (Scientific knowledge continuously evolves with new tools and experiments)",
+        "पुराने सिद्धांतों का सुधार और अधिक सटीक व्याख्याओं की खोज (Refinement of old theories into more accurate explanations)",
+        "विज्ञान प्रश्न पूछने और सीखने की एक निरंतर यात्रा है (Science is an ongoing journey of questioning and learning)"
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Who was Sir C.V. Raman? What was his major scientific discovery, and why is National Science Day celebrated in India on 28th February?",
+      "questionHi": "सर सी. वी. रमन कौन थे? उनकी प्रमुख वैज्ञानिक खोज क्या थी, और भारत में 28 फरवरी को राष्ट्रीय विज्ञान दिवस क्यों मनाया जाता है?",
+      "answer": "Sir Chandrasekhara Venkata Raman (C.V. Raman) was an eminent Indian physicist and the first Asian to win the Nobel Prize in Physics (in 1930). His major scientific discovery, known as the 'Raman Effect', explained the scattering of light when it passes through a transparent material, which explains why the sea and sky appear blue.\nIndia celebrates National Science Day every year on 28th February to honor and commemorate the announcement of the historic discovery of the Raman Effect made by Sir C.V. Raman on 28th February 1928.",
+      "answerHi": "सर चंद्रशेखर वेंकट रमन (सी. वी. रमन) एक महान भारतीय भौतिकशास्त्री थे और भौतिकी में नोबेल पुरस्कार (1930 में) जीतने वाले पहले एशियाई थे। उनकी प्रमुख वैज्ञानिक खोज को 'रमन प्रभाव' (Raman Effect) के नाम से जाना जाता है, जिसने यह स्पष्ट किया कि जब प्रकाश किसी पारदर्शी माध्यम से गुजरता है तो उसका प्रकीर्णन (बिखराव) कैसे होता है, जिससे यह समझ में आया कि समुद्र और आकाश नीले क्यों दिखाई देते हैं।\nसर सी. वी. रमन द्वारा 28 फरवरी 1928 को की गई 'रमन प्रभाव' की ऐतिहासिक खोज की घोषणा को सम्मानित और याद करने के लिए भारत में हर वर्ष 28 फरवरी को 'राष्ट्रीय विज्ञान दिवस' (National Science Day) मनाया जाता है।",
+      "keyPoints": [
+        "महान भारतीय भौतिकशास्त्री और नोबेल पुरस्कार विजेता (1930) (Eminent Indian physicist and Nobel Laureate 1930)",
+        "प्रकाश के प्रकीर्णन पर 'रमन प्रभाव' की ऐतिहासिक खोज (Historic discovery of 'Raman Effect' on light scattering)",
+        "28 फरवरी 1928 की खोज की स्मृति में राष्ट्रीय विज्ञान दिवस (National Science Day celebrated on 28 Feb to honor this discovery)"
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "How does scientific curiosity help in caring for our environment and community? Give one practical example.",
+      "questionHi": "वैज्ञानिक जिज्ञासा हमारे पर्यावरण और समाज (समुदाय) की देखभाल करने में कैसे सहायता करती है? एक व्यावहारिक उदाहरण दीजिए।",
+      "answer": "Scientific curiosity makes us observant of the environmental problems around us—such as waste accumulation, water pollution, or deforestation—and motivates us to ask how we can solve them. By applying scientific thinking, we can discover eco-friendly solutions to protect our community.\nPractical Example: Curious students observing large amounts of kitchen waste in their neighborhood can apply scientific knowledge of decomposition to build a community compost pit. This converts organic waste into nutrient-rich organic manure for gardens, solving the garbage problem while helping the environment.",
+      "answerHi": "वैज्ञानिक जिज्ञासा हमें अपने आस-पास की पर्यावरणीय समस्याओं—जैसे कचरे का ढेर, जल प्रदूषण या वनों की कटाई—के प्रति सतर्क और संवेदनशील बनाती है और हमें यह सोचने के लिए प्रेरित करती है कि हम इन्हें कैसे हल कर सकते हैं। वैज्ञानिक सोच का उपयोग करके, हम अपने समाज को बचाने के लिए पर्यावरण-अनुकूल समाधान खोज सकते हैं।\nव्यावहारिक उदाहरण: अपने मोहल्ले में रसोई के कचरे का ढेर देखने वाले जिज्ञासु विद्यार्थी अपघटन (गलने-सड़ने) के वैज्ञानिक ज्ञान का उपयोग करके एक सामूहिक 'कंपोस्ट गढ्ढा' (खाद का गड्ढा) बना सकते हैं। यह जैविक कचरे को बगीचों के लिए पोषक तत्वों से भरपूर जैविक खाद में बदल देता है, जिससे कचरे की समस्या भी हल होती है और पर्यावरण की भी रक्षा होती है।",
+      "keyPoints": [
+        "पर्यावरणीय समस्याओं (कचरा, प्रदूषण) के प्रति जागरूकता (Awareness of environmental issues like waste and pollution)",
+        "वैज्ञानिक सोच द्वारा पर्यावरण-अनुकूल समाधान खोजना (Finding eco-friendly solutions through scientific thinking)",
+        "उदाहरण: रसोई के कचरे से कंपोस्ट (जैविक खाद) बनाना (Example: Creating compost manure from kitchen organic waste)"
+      ]
+    },
+    {
+      "id": "q21",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "A competency-based case study on scientific inquiry: A group of Class 6 students noticed that plants growing near the school playground window were tall and green, while identical plants kept inside a dark storeroom were pale yellow and stunted (weak/short). \n(a) What observation did the students make? \n(b) Formulate a scientific hypothesis to explain this difference. \n(c) Design a simple step-by-step experiment to test your hypothesis. \n(d) What conclusion can be drawn if the pale plant turns green after being placed in sunlight for a week?",
+      "questionHi": "वैज्ञानिक अन्वेषण पर योग्यता-आधारित केस स्टडी: कक्षा 6 के विद्यार्थियों के एक समूह ने देखा कि विद्यालय के खेल के मैदान की खिड़की के पास उगे पौधे लंबे और हरे थे, जबकि एक अंधेरे स्टोररूम के अंदर रखे बिल्कुल वैसे ही पौधे पीले और बौने (कमजोर/छोटे) थे।\n(क) विद्यार्थियों ने क्या अवलोकन किया?\n(ख) इस अंतर की व्याख्या करने के लिए एक वैज्ञानिक परिकल्पना (Hypothesis) बनाइए।\n(ग) अपनी परिकल्पना का परीक्षण करने के लिए एक सरल चरणबद्ध प्रयोग डिजाइन कीजिए।\n(घ) यदि पीले पौधे को एक सप्ताह के लिए सूर्य के प्रकाश में रखने पर वह हरा हो जाता है, तो क्या निष्कर्ष निकाला जा सकता है?",
+      "answer": "(a) Observation:\nStudents observed that identical plants grow tall and healthy green when exposed to natural light near a window, but become pale yellow and stunted when kept in the dark without sunlight.\n\n(b) Scientific Hypothesis:\nSunlight is essential for plants to produce their green color (chlorophyll) and to grow healthy and tall.\n\n(c) Experimental Design:\n- Step 1: Take two identical potted plants of the same size and health (Plant A and Plant B).\n- Step 2: Place Plant A near a sunny window and Plant B inside a dark cupboard or storeroom.\n- Step 3: Provide equal amounts of water and soil to both plants daily for 10 days.\n- Step 4: Observe and measure the height, color of leaves, and overall health of both plants every day in a notebook.\n\n(d) Scientific Conclusion:\nWhen the pale yellow plant from the dark room turns green and starts growing after being placed in sunlight for a week, it conclusively proves our hypothesis: Sunlight is a mandatory factor required for plants to synthesize green pigment and perform normal growth.",
+      "answerHi": "(क) अवलोकन:\nविद्यार्थियों ने देखा कि खिड़की के पास प्राकृतिक प्रकाश में रखे पौधे लंबे और स्वस्थ हरे होते हैं, जबकि अंधेरे कमरे में बिना सूर्य के प्रकाश के रखे पौधे पीले और कमजोर/बौने हो जाते हैं।\n\n(ख) वैज्ञानिक परिकल्पना:\nपौधों में हरा रंग (क्लोरोफिल) बनाने और स्वस्थ व लंबा बढ़ने के लिए सूर्य का प्रकाश अनिवार्य है।\n\n(ग) प्रयोग डिजाइन:\n- चरण 1: एक ही आकार और स्वास्थ्य वाले दो गमले वाले पौधे (पौधा A और पौधा B) लें।\n- चरण 2: पौधे A को धूप वाली खिड़की के पास और पौधे B को एक अंधेरे अलमारी या स्टोररूम में रखें।\n- चरण 3: 10 दिनों तक दोनों पौधों को प्रतिदिन समान मात्रा में पानी और मिट्टी दें।\n- चरण 4: प्रतिदिन एक नोटबुक में दोनों पौधों की ऊँचाई, पत्तियों के रंग और समग्र स्वास्थ्य का अवलोकन और माप दर्ज करें।\n\n(घ) वैज्ञानिक निष्कर्ष:\nजब अंधेरे कमरे के पीले पौधे को एक सप्ताह के लिए सूर्य के प्रकाश में रखने पर वह हरा हो जाता है और बढ़ने लगता है, तो यह हमारी परिकल्पना को पूर्णतः सिद्ध करता है: पौधों में हरा वर्णक बनाने और सामान्य वृद्धि करने के लिए सूर्य का प्रकाश एक अनिवार्य कारक है।",
+      "keyPoints": [
+        "अवलोकन: प्रकाश में हरा व लंबा पौधा, अंधेरे में पीला व बौना (Observation: Green/tall in light vs pale/stunted in dark)",
+        "परिकल्पना: पौधों की वृद्धि और हरे रंग के लिए सूर्य का प्रकाश अनिवार्य (Hypothesis: Sunlight is essential for growth and green color)",
+        "नियंत्रित प्रयोग: पानी और मिट्टी समान रखकर केवल प्रकाश का नियंत्रण (Controlled experiment keeping water/soil constant and varying light)",
+        "निष्कर्ष: सूर्य का प्रकाश पौधों के स्वास्थ्य और वर्णक निर्माण के लिए अनिवार्य (Conclusion: Sunlight proven essential for plant health and pigment synthesis)"
+      ]
+    },
+    {
+      "id": "q22",
+      "type": "value-based",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "How does the scientific method of observation, questioning, and evidence-based conclusion inspire essential moral values like intellectual honesty, humility, and open-mindedness in our daily human interactions?",
+      "questionHi": "अवलोकन, प्रश्न पूछने और प्रमाण-आधारित निष्कर्ष की वैज्ञानिक विधि हमारे दैनिक मानवीय व्यवहार में बौद्धिक ईमानदारी (Intellectual Honesty), विनम्रता (Humility) और खुले विचारों (Open-mindedness) जैसे आवश्यक नैतिक मूल्यों को कैसे प्रेरित करती है?",
+      "answer": "The scientific method is not merely a tool for laboratory research; it is a profound philosophy of life that cultivates three essential moral values in human character:\n\n1) Intellectual Honesty & Truthfulness: In science, an experimenter must report observations exactly as they occur, even if the results contradict their own beliefs or desires. In daily life, this instills deep integrity, teaching us to value truth over ego, avoid falsehoods, and honestly accept facts.\n\n2) Humility: A true scientist knows that human knowledge is always incomplete. When new evidence proves an old theory wrong, scientists humbly accept correction. This teaches us the virtue of humility—to admit when we are wrong without stubbornness or pride.\n\n3) Open-mindedness & Tolerance: Science encourages listening to alternative ideas, questioning prejudices, and examining evidence before judging. In society, this promotes tolerance, empathy, and open-mindedness, helping us live harmoniously without blind faith or discrimination.",
+      "answerHi": "वैज्ञानिक विधि केवल प्रयोगशाला में अनुसंधान करने का एक उपकरण नहीं है; यह जीवन का एक गहरा दर्शन है जो मानव चरित्र में तीन आवश्यक नैतिक मूल्यों का विकास करता है:\n\n1) बौद्धिक ईमानदारी और सत्यनिष्ठा: विज्ञान में, प्रयोगकर्ता को अपने अवलोकन ठीक वैसे ही दर्ज करने होते हैं जैसे वे घटित होते हैं, भले ही परिणाम उनकी अपनी मान्यताओं या इच्छाओं के विपरीत हों। दैनिक जीवन में, यह गहरी सत्यनिष्ठा पैदा करता है, जो हमें अहंकार से ऊपर सत्य को महत्व देने, झूठ से बचने और तथ्यों को ईमानदारी से स्वीकार करने की सीख देता है।\n\n2) विनम्रता (Humility): एक सच्चा वैज्ञानिक जानता है कि मानव ज्ञान सदैव अपूर्ण है। जब नए प्रमाण किसी पुराने सिद्धांत को गलत साबित करते हैं, तो वैज्ञानिक विनम्रतापूर्वक सुधार स्वीकार करते हैं। यह हमें विनम्रता का गुण सिखाता है—कि बिना किसी जिद या अहंकार के अपनी गलती को स्वीकार करना चाहिए।\n\n3) खुले विचार और सहिष्णुता (Open-mindedness): विज्ञान निर्णय लेने से पहले वैकल्पिक विचारों को सुनने, पूर्वाग्रहों पर प्रश्न उठाने और प्रमाणों की जाँच करने को प्रोत्साहित करता है। समाज में, यह सहिष्णुता, सहानुभूति और खुले विचारों को बढ़ावा देता है, जिससे हम बिना किसी अंधविश्वास या भेदभाव के सद्भावपूर्वक रह सकते हैं।",
+      "keyPoints": [
+        "बौद्धिक ईमानदारी: अपनी इच्छा के विपरीत भी सत्य और प्रमाण को स्वीकार करना (Intellectual honesty: accepting truth and evidence over personal bias)",
+        "विनम्रता: अपनी गलती या अपूर्ण ज्ञान को बिना अहंकार के स्वीकार करना (Humility: admitting mistakes and incompleteness of knowledge without ego)",
+        "खुले विचार: पूर्वाग्रहों और अंधविश्वासों से मुक्त होकर प्रमाण के आधार पर निर्णय लेना (Open-mindedness: judging by evidence free from prejudice and blind faith)",
+        "वैज्ञानिक सोच समाज में सत्यनिष्ठा, सहिष्णुता और सद्भाव का निर्माण करती है (Scientific temper builds integrity, tolerance, and harmony in society)"
+      ]
+    },
+    {
+      "id": "q23",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Describe the inspiring life journey and scientific contributions of Dr. A.P.J. Abdul Kalam. What powerful message does his life give to young students from humble backgrounds?",
+      "questionHi": "डॉ. ए. पी. जे. अब्दुल कलाम की प्रेरणादायक जीवन यात्रा और वैज्ञानिक योगदान का वर्णन कीजिए। उनका जीवन साधारण पृष्ठभूमि से आने वाले युवा विद्यार्थियों को क्या शक्तिशाली संदेश देता है?",
+      "answer": "Life Journey & Scientific Contributions:\nDr. Avul Pakir Jainulabdeen Abdul Kalam, affectionately known as the 'People's President' and the 'Missile Man of India', was born into a humble family in Rameswaram, Tamil Nadu. Despite facing severe financial hardships in childhood—such as distributing newspapers to support his education—his immense curiosity, hard work, and love for science led him to become one of India's greatest aerospace scientists.\n\nHe played a monumental role as the project director at ISRO, leading the development of India's first indigenous Satellite Launch Vehicle (SLV-III), which successfully launched the Rohini satellite into orbit. Later, at DRDO, he led the Integrated Guided Missile Development Program, developing historic defense missiles like Agni and Prithvi. From 2002 to 2007, he served as the 11th President of India.\n\nInspiring Message for Young Students:\nDr. Kalam's life gives a powerful message: *\"Dreams are not those that you see while sleeping, but those that do not let you sleep.\"* His journey proves that poverty, humble origins, or lack of resources can never stop a student who possesses deep curiosity, relentless determination, honest hard work, and a passion for learning. He taught youth to dream big, work tirelessly, and use science for the progress and peace of the nation.",
+      "answerHi": "जीवन यात्रा और वैज्ञानिक योगदान:\nडॉ. अवुल पकिर जैनुलाबदीन अब्दुल कलाम, जिन्हें स्नेहपूर्वक 'जनता के राष्ट्रपति' और भारत के 'मिसाइल मैन' के रूप में जाना जाता है, का जन्म तमिलनाडु के रामेश्वरम में एक साधारण परिवार में हुआ था। बचपन में भारी आर्थिक कठिनाइयों का सामना करने—जैसे अपनी पढ़ाई का खर्च उठाने के लिए समाचार पत्र बेचने—के बावजूद, उनकी अपार जिज्ञासा, कठिन परिश्रम और विज्ञान के प्रति प्रेम ने उन्हें भारत के महानतम एयरोस्पेस वैज्ञानिकों में से एक बना दिया।\n\nउन्होंने इसरो (ISRO) में परियोजना निदेशक के रूप में ऐतिहासिक भूमिका निभाई, जहाँ भारत के पहले स्वदेशी उपग्रह प्रक्षेपण यान (SLV-III) का निर्माण हुआ, जिसने रोहिणी उपग्रह को सफलतापूर्वक कक्षा में स्थापित किया। बाद में, डीआरडीओ (DRDO) में, उन्होंने एकीकृत निर्देशित मिसाइल विकास कार्यक्रम का नेतृत्व किया, जिसके तहत अग्नि और पृथ्वी जैसी ऐतिहासिक रक्षा मिसाइलों का विकास हुआ। 2002 से 2007 तक वे भारत के 11वें राष्ट्रपति रहे।\n\nयुवा विद्यार्थियों के लिए प्रेरणादायक संदेश:\nडॉ. कलाम का जीवन एक शक्तिशाली संदेश देता है: *\"सपने वे नहीं होते जो आप सोते हुए देखते हैं, बल्कि सपने वे होते हैं जो आपको सोने नहीं देते।\"* उनकी यात्रा यह सिद्ध करती है कि गरीबी, साधारण पृष्ठभूमि या संसाधनों की कमी उस विद्यार्थी को कभी नहीं रोक सकती जिसके पास गहरी जिज्ञासा, दृढ़ संकल्प, ईमानदार मेहनत और सीखने का जुनून हो। उन्होंने युवाओं को बड़े सपने देखने, निरंतर परिश्रम करने और विज्ञान का उपयोग देश की प्रगति और शांति के लिए करने की सीख दी।",
+      "keyPoints": [
+        "रामेश्वरम के साधारण परिवार से भारत के 11वें राष्ट्रपति और महान वैज्ञानिक तक का सफर (Journey from humble Rameswaram roots to 11th President and great scientist)",
+        "इसरो में SLV-III और डीआरडीओ में अग्नि व पृथ्वी मिसाइलों का ऐतिहासिक विकास (Historic development of SLV-III at ISRO and Agni/Prithvi missiles at DRDO)",
+        "संदेश: सपने वे हैं जो सोने न दें; गरीबी मेहनत और संकल्प के आगे छोटी है (Message: Dreams keep you awake; determination overcomes poverty)",
+        "विज्ञान का उपयोग राष्ट्र की प्रगति, सुरक्षा और शांति के लिए करने की सीख (Using science for national progress, security, and global peace)"
+      ]
+    },
+    {
+      "id": "q24",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "A comprehensive analysis on scientific tools: \n(a) Why cannot our human senses (sight, touch, smell) always be relied upon for conducting precise scientific investigations? Explain with two examples. \n(b) Name any four scientific measuring instruments and state the exact physical quantity each instrument measures. \n(c) How do modern scientific instruments expand the boundaries of human curiosity?",
+      "questionHi": "वैज्ञानिक उपकरणों पर एक व्यापक विश्लेषण:\n(क) सटीक वैज्ञानिक अन्वेषण करने के लिए हमारी मानवीय ज्ञानेंद्रियों (देखना, छूना, सूंघना) पर सदैव भरोसा क्यों नहीं किया जा सकता? दो उदाहरणों के साथ स्पष्ट कीजिए।\n(ख) किन्हीं चार वैज्ञानिक मापक उपकरणों के नाम लिखिए और बताइए कि प्रत्येक उपकरण किस सटीक भौतिक राशि को मापता है।\n(ग) आधुनिक वैज्ञानिक उपकरण मानव जिज्ञासा की सीमाओं का विस्तार कैसे करते हैं?",
+      "answer": "(a) Why Human Senses are Not Always Reliable:\nOur senses provide qualitative impressions but can easily be deceived or lack precision:\n- Example 1 (Temperature illusion): If you dip one hand in hot water and the other in cold water, and then plunge both hands into lukewarm water simultaneously, the lukewarm water will feel cold to the hot hand and hot to the cold hand! Thus, touch cannot tell exact temperature.\n- Example 2 (Optical illusion): Two lines of equal length can appear unequal due to arrows at their ends (Müller-Lyer illusion), or our eyes cannot judge whether a bacteria is present in a water drop without magnification.\n\n(b) Four Scientific Measuring Instruments and Their Measured Quantities:\n1) Thermometer: Measures exact Temperature (in °C, °F, or Kelvin).\n2) Vernier Calliper / Ruler: Measures exact Length, thickness, or diameter (in cm or mm).\n3) Electronic Balance / Beam Balance: Measures exact Mass or weight of an object (in grams or kg).\n4) Stopclock / Stopwatch: Measures exact Time interval or duration of an event (in seconds).\n\n(c) Expanding Boundaries of Curiosity:\nModern instruments act as extensions of human senses. Telescopes (like the James Webb Space Telescope) allow us to see distant galaxies billions of light-years away, while electron microscopes allow us to see viruses and individual atoms. These tools empower us to explore realms that are completely invisible to the naked eye, answering deep questions about the universe and microscopic life.",
+      "answerHi": "(क) मानवीय ज्ञानेंद्रियाँ सदैव विश्वसनीय क्यों नहीं होतीं:\nहमारी ज्ञानेंद्रियाँ सामान्य आभास देती हैं, लेकिन वे आसानी से धोखा खा सकती हैं या सटीक माप नहीं दे सकतीं:\n- उदाहरण 1 (तापमान का भ्रम): यदि आप एक हाथ गर्म पानी में और दूसरा ठंडे पानी में डालें, और फिर दोनों हाथों को एक साथ गुनगुने पानी में डाल दें, तो वही गुनगुना पानी गर्म हाथ को ठंडा और ठंडे हाथ को गर्म लगेगा! अतः स्पर्श सटीक तापमान नहीं बता सकता।\n- उदाहरण 2 (दृष्टि भ्रम): किनारों पर बने तीरों के कारण समान लंबाई की दो रेखाएँ छोटी-बड़ी दिखाई दे सकती हैं (दृष्टि भ्रम), या हमारी आँखें बिना आवर्धन के पानी की बूंद में मौजूद बैक्टीरिया को नहीं देख सकतीं।\n\n(ख) चार वैज्ञानिक मापक उपकरण और उनके द्वारा मापी जाने वाली राशियाँ:\n1) थर्मामीटर (तापमापी): सटीक तापमान (°C, °F या केल्विन में) मापता है।\n2) वर्नियर कैलीपर / पैमाना: सटीक लंबाई, मोटाई या व्यास (सेमी या मिमी में) मापता है।\n3) इलेक्ट्रॉनिक तुला / भौतिक तुला: किसी वस्तु का सटीक द्रव्यमान या भार (ग्राम या किग्रा में) मापती है।\n4) स्टॉपवॉच (विराम घड़ी): किसी घटना का सटीक समय अंतराल (सेकंड में) मापती है।\n\n(ग) जिज्ञासा की सीमाओं का विस्तार:\nआधुनिक उपकरण मानवीय ज्ञानेंद्रियों के विस्तार के रूप में कार्य करते हैं। टेलीस्कोप (जैसे जेम्स वेब स्पेस टेलीस्कोप) हमें अरबों प्रकाश वर्ष दूर स्थित आकाशगंगाओं को देखने में सक्षम बनाते हैं, जबकि इलेक्ट्रॉन माइक्रोस्कोप हमें वायरस और परमाणुओं को देखने की शक्ति देते हैं। ये उपकरण हमें उन क्षेत्रों का अन्वेषण करने में सक्षम बनाते हैं जो नंगी आँखों से पूर्णतः अदृश्य हैं।",
+      "keyPoints": [
+        "मानव स्पर्श और दृष्टि भ्रमित हो सकते हैं; सटीक संख्यात्मक माप नहीं दे सकते (Human senses can be deceived by illusions; cannot provide precise numerical data)",
+        "थर्मामीटर = तापमान, तुला = द्रव्यमान, पैमाना = लंबाई, स्टॉपवॉच = समय (Thermometer=Temperature, Balance=Mass, Ruler=Length, Stopwatch=Time)",
+        "टेलीस्कोप और माइक्रोस्कोप मानवीय दृष्टि की सीमाओं को दूर करते हैं (Telescopes and microscopes extend human vision to cosmic and atomic scales)",
+        "उपकरण अदृश्य दुनिया के रहस्य खोलकर जिज्ञासा का विस्तार करते हैं (Instruments unlock invisible worlds, expanding the frontiers of human curiosity)"
+      ]
+    },
+    {
+      "id": "q25",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "A competency-based problem on science in daily life and traditional wisdom: \n(a) Explain how traditional Indian practices like storing drinking water in copper vessels or using turmeric ( हल्दी ) in wound healing are supported by modern scientific principles. \n(b) Why is it important to scientifically test and validate traditional wisdom before accepting or rejecting it? \n(c) Mention any two scientific inventions that have dramatically changed how students study today compared to 50 years ago.",
+      "questionHi": "दैनिक जीवन में विज्ञान और पारंपरिक ज्ञान पर योग्यता-आधारित प्रश्न:\n(क) स्पष्ट कीजिए कि तांबे के बर्तनों में पीने का पानी रखना या घाव भरने में हल्दी का उपयोग करना जैसी पारंपरिक भारतीय प्रथाएँ आधुनिक वैज्ञानिक सिद्धांतों द्वारा किस प्रकार प्रमाणित हैं।\n(ख) किसी भी पारंपरिक ज्ञान को स्वीकार या अस्वीकार करने से पहले उसका वैज्ञानिक परीक्षण और सत्यापन करना क्यों महत्वपूर्ण है?\n(ग) किन्हीं दो वैज्ञानिक आविष्कारों का उल्लेख कीजिए जिन्होंने 50 वर्ष पहले की तुलना में आज विद्यार्थियों के पढ़ने के तरीके को नाटकीय रूप से बदल दिया है।",
+      "answer": "(a) Modern Scientific Proof for Traditional Wisdom:\n1) Storing Water in Copper Vessels: Traditional Indian medicine recommends keeping water overnight in copper pots. Modern science proves that copper has natural antimicrobial and antibacterial properties (known as the 'oligodynamic effect'). It slowly releases microscopic copper ions into the water, destroying harmful water-borne bacteria like E. coli and Salmonella, thus purifying the water naturally.\n2) Turmeric (Haldi) for Wounds: Modern biochemical research confirms that turmeric contains an active chemical compound called 'curcumin', which possesses powerful antiseptic, anti-inflammatory, and antibacterial properties, helping wounds heal faster and preventing infections.\n\n(b) Importance of Scientifically Testing Traditional Wisdom:\nNot all traditions are beneficial; some may be mere superstitions or outdated beliefs. Scientifically testing traditional practices separates genuine wisdom from harmful myths. When validated by experiments and evidence, useful traditions can be integrated into modern healthcare and lifestyle, while harmful superstitions can be discarded.\n\n(c) Two Inventions Changing Modern Education:\n1) Computers & Smartphones (with Internet): Students today can access global libraries, interactive video lectures, and instant research information from home, unlike 50 years ago when learning was limited to physical books.\n2) E-readers & Digital Smartboards: Interactive touchboards and digital tablets allow dynamic visual animations of complex science concepts (like solar systems or plant cells), making learning highly interactive and engaging.",
+      "answerHi": "(क) पारंपरिक ज्ञान के लिए आधुनिक वैज्ञानिक प्रमाण:\n1) तांबे के बर्तनों में पानी रखना: भारतीय परंपरा रात भर तांबे के बर्तन में पानी रखने की सलाह देती है। आधुनिक विज्ञान सिद्ध करता है कि तांबे में प्राकृतिक रोगाणुरोधी और जीवाणुनाशक गुण (जिसे 'ओलिगोडायनामिक प्रभाव' कहते हैं) होते हैं। यह पानी में सूक्ष्म तांबे के आयन छोड़ता है, जो ई. कोलाई और साल्मोनेला जैसे हानिकारक जल-जनित बैक्टीरिया को नष्ट कर पानी को प्राकृतिक रूप से शुद्ध करते हैं।\n2) घाव पर हल्दी लगाना: आधुनिक जैव-रासायनिक अनुसंधान पुष्टि करता है कि हल्दी में 'करक्यूमिन' (Curcumin) नामक एक सक्रिय यौगिक होता है, जिसमें शक्तिशाली एंटीसेप्टिक, सूजन-रोधी और जीवाणुनाशक गुण होते हैं, जो घावों को तेजी से भरने और संक्रमण रोकने में मदद करते हैं।\n\n(ख) पारंपरिक ज्ञान का वैज्ञानिक सत्यापन क्यों महत्वपूर्ण है:\nसभी परंपराएं लाभकारी नहीं होतीं; कुछ केवल अंधविश्वास या पुरानी मान्यताएं हो सकती हैं। वैज्ञानिक परीक्षण वास्तविक ज्ञान को हानिकारक अंधविश्वासों से अलग करता है। जब प्रयोगों और प्रमाणों द्वारा पुष्टि हो जाती है, तो उपयोगी परंपराओं को आधुनिक स्वास्थ्य सेवा में अपनाया जा सकता है, जबकि हानिकारक अंधविश्वासों को समाप्त किया जा सकता है।\n\n(ग) शिक्षा को बदलने वाले दो आधुनिक आविष्कार:\n1) कंप्यूटर और स्मार्टफोन (इंटरनेट के साथ): आज विद्यार्थी घर बैठे वैश्विक पुस्तकालयों, वीडियो लेक्चर और शोध जानकारी तक पहुँच सकते हैं, जबकि 50 वर्ष पहले पढ़ाई केवल भौतिक पुस्तकों तक सीमित थी।\n2) डिजिटल स्मार्टबोर्ड और ई-रीडर: इंटरेक्टिव स्मार्टबोर्ड और टैबलेट जटिल वैज्ञानिक अवधारणाओं (जैसे सौरमंडल या पादप कोशिका) को जीवंत 3D एनिमेशन द्वारा दर्शाते हैं, जिससे सीखना अत्यधिक रोचक हो गया है।",
+      "keyPoints": [
+        "तांबे में रोगाणुरोधी गुण (ओलिगोडायनामिक प्रभाव) जो जल को शुद्ध करता है (Copper has antimicrobial oligodynamic effect purifying drinking water)",
+        "हल्दी में 'करक्यूमिन' होता है जो प्राकृतिक एंटीसेप्टिक और जीवाणुनाशक है (Turmeric contains curcumin acting as powerful antiseptic and antibacterial)",
+        "वैज्ञानिक सत्यापन वास्तविक ज्ञान को अंधविश्वासों से अलग करता है (Scientific validation separates genuine wisdom from superstitious myths)",
+        "इंटरनेट, स्मार्टफोन और स्मार्टबोर्ड ने शिक्षा को वैश्विक और रोचक बनाया (Internet, smartphones, and smartboards revolutionized modern education)"
+      ]
+    },
+    {
+      "id": "q26",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "A comprehensive analytical study on observation vs inference: \n(a) Differentiate between an 'observation' and an 'inference' in science with a clear example. \n(b) Why is it dangerous for a scientist or police investigator to jump to an inference without gathering sufficient experimental observations? \n(c) Read the statement: 'The soil in the garden is dark brown and wet, so it must have rained an hour ago.' Identify which part of this statement is an observation and which part is an inference.",
+      "questionHi": "अवलोकन (Observation) बनाम अनुमान/निष्कर्ष (Inference) पर एक व्यापक विश्लेषणात्मक अध्ययन:\n(क) विज्ञान में एक स्पष्ट उदाहरण के साथ 'अवलोकन' और 'अनुमान (इन्फेरेंस)' के बीच अंतर स्पष्ट कीजिए।\n(ख) किसी वैज्ञानिक या पुलिस अन्वेषक के लिए पर्याप्त प्रायोगिक अवलोकन एकत्र किए बिना सीधे अनुमान पर पहुँचना खतरनाक क्यों होता है?\n(ग) इस कथन को पढ़िए: 'बगीचे की मिट्टी गहरी भूरी और गीली है, इसलिए एक घंटे पहले वर्षा हुई होगी।' पहचानिए कि इस कथन का कौन-सा भाग अवलोकन है और कौन-सा भाग अनुमान।",
+      "answer": "(a) Observation vs. Inference:\n- Observation: A direct, factual piece of information noted using our senses or measuring tools without any guesswork (what we actually see, hear, or measure).\n- Inference: A logical explanation, interpretation, or assumption drawn from an observation based on past experience or reasoning.\nExample: Seeing white smoke rising from a chimney is an *observation*. Stating that 'somebody is burning wood inside the house' is an *inference*.\n\n(b) Why Jumping to Inferences is Dangerous:\nJumping to an inference without gathering sufficient observational data can lead to false conclusions, wrongful blame, or scientific disasters. For example, in a lab, if two clear liquids produce a fizz, assuming it is harmless water and gas without testing could cause chemical burns. In police work, assuming a person at a crime scene is the culprit without forensic observations can lead to punishing an innocent bystander while the real culprit escapes.\n\n(c) Analyzing the Garden Statement:\n- Observation (Factual data seen): *'The soil in the garden is dark brown and wet.'*\n- Inference (Logical assumption drawn): *'So it must have rained an hour ago.'* (Note: This is an inference because the wetness could also be caused by a gardener watering the plants with a hose or a broken water pipe!).",
+      "answerHi": "(क) अवलोकन बनाम अनुमान (इन्फेरेंस):\n- अवलोकन: बिना किसी अनुमान के हमारी ज्ञानेंद्रियों या मापक उपकरणों द्वारा दर्ज की गई सीधी, तथ्यात्मक जानकारी (जो हम वास्तव में देखते, सुनते या मापते हैं)।\n- अनुमान (इन्फेरेंस): पिछले अनुभव या तर्क के आधार पर अवलोकन से निकाली गई एक तार्किक व्याख्या, निष्कर्ष या कल्पना।\nउदाहरण: चिमनी से सफेद धुआँ निकलते देखना एक *अवलोकन* है। यह कहना कि 'घर के अंदर कोई लकड़ी जला रहा है' एक *अनुमान* है।\n\n(ख) बिना पर्याप्त अवलोकन के अनुमान पर पहुँचना खतरनाक क्यों है:\nपर्याप्त अवलोकनों के बिना सीधे अनुमान लगाने से गलत निष्कर्ष निकल सकते हैं, निर्दोष को दोष मिल सकता है या वैज्ञानिक दुर्घटनाएं हो सकती हैं। उदाहरण के लिए, प्रयोगशाला में दो पारदर्शी द्रवों में बुलबुले उठते देख बिना जाँच के उसे सामान्य पानी मान लेना संक्षारक जलन दे सकता है। पुलिस जाँच में, बिना फॉरेंसिक अवलोकनों के केवल अपराध स्थल पर मौजूद व्यक्ति को अपराधी मान लेने से निर्दोष को सजा मिल सकती है।\n\n(ग) बगीचे वाले कथन का विश्लेषण:\n- अवलोकन (देखा गया तथ्यात्मक सत्य): *'बगीचे की मिट्टी गहरी भूरी और गीली है।'*\n- अनुमान (निकाली गई तार्किक व्याख्या): *'इसलिए एक घंटे पहले वर्षा हुई होगी।'* (नोट: यह एक अनुमान है क्योंकि मिट्टी का गीलापन माली द्वारा पाइप से पानी देने या पानी की पाइपलाइन फटने से भी हो सकता है!)।",
+      "keyPoints": [
+        "अवलोकन: ज्ञानेंद्रियों द्वारा दर्ज सीधा और तथ्यात्मक सत्य (Observation: Direct factual data noted via senses/tools)",
+        "अनुमान (इन्फेरेंस): अवलोकन के आधार पर निकाली गई तार्किक व्याख्या (Inference: Logical explanation or assumption drawn from observation)",
+        "बिना पर्याप्त प्रमाण के अनुमान लगाना गलत निष्कर्ष और दुर्घटनाओं का कारण बनता है (Jumping to inferences without evidence causes errors and disasters)",
+        "गीली मिट्टी = अवलोकन; वर्षा हुई होगी = अनुमान (Wet soil = Observation; Must have rained = Inference)"
+      ]
+    },
+    {
+      "id": "q27",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "A comprehensive conceptual problem on scientific attitude and superstitions: \n(a) What is meant by 'Scientific Temper' (वैज्ञानिक दृष्टिकोण)? Mention any three qualities of a person who possesses a scientific temper. \n(b) How can a scientific temper help a society eradicate blind faith, superstitions, and social prejudices? \n(c) Describe a common superstition prevalent in society and explain how scientific reasoning can debunk (prove false) that myth.",
+      "questionHi": "वैज्ञानिक दृष्टिकोण और अंधविश्वासों पर एक व्यापक वैचारिक प्रश्न:\n(क) 'वैज्ञानिक दृष्टिकोण' (Scientific Temper) से क्या अभिप्राय है? वैज्ञानिक दृष्टिकोण रखने वाले व्यक्ति के किन्हीं तीन गुणों का उल्लेख कीजिए।\n(ख) वैज्ञानिक दृष्टिकोण किसी समाज को अंधविश्वासों, रूढ़ियों और सामाजिक पूर्वाग्रहों को समाप्त करने में कैसे सहायता कर सकता है?\n(ग) समाज में प्रचलित किसी सामान्य अंधविश्वास का वर्णन कीजिए और स्पष्ट कीजिए कि वैज्ञानिक तर्क उस मिथक को कैसे गलत सिद्ध (डिबंक) कर सकता है।",
+      "answer": "(a) Meaning of Scientific Temper & Three Qualities:\n'Scientific Temper' is an open-minded, rational, and evidence-based attitude of mind that involves questioning, observing, testing, and accepting truth only when supported by logical proof and facts. It was championed as a fundamental duty of every citizen in the Indian Constitution (Article 51A(h)).\nThree qualities of a person with scientific temper:\n1) Questioning Mind: Always asks 'why' and 'what is the evidence' before believing any claim or rumor.\n2) Freedom from Bias: Welcomes new facts and is willing to change old opinions if proven wrong by evidence.\n3) Objective Reasoning: Analyzes problems logically without emotional prejudice, anger, or blind faith.\n\n(b) Eradicating Blind Faith and Superstition:\nSuperstitions grow in darkness, fear, and ignorance. When a society adopts a scientific temper, people stop attributing natural disasters (like eclipses, epidemics, or droughts) to supernatural wrath or evil spells. Instead, they investigate the actual scientific causes (such as viruses for diseases or planetary alignment for eclipses), leading to proper medical treatment, hygiene, and social harmony.\n\n(c) Debunking a Common Superstition:\n- Superstition: *'If a black cat crosses your path, it brings bad luck or failure in your work.'*\n- Scientific Debunking: A cat is simply a living animal moving from one place to another in search of food or shelter. Color (black, white, or brown) is purely a result of natural genetic pigmentation (melanin in skin and fur). There is zero physical or chemical connection between a cat crossing a road and the success or failure of a human being's work or exam. Success depends entirely on human preparation, hard work, and skill.",
+      "answerHi": "(क) वैज्ञानिक दृष्टिकोण का अर्थ और तीन गुण:\n'वैज्ञानिक दृष्टिकोण' (साइंटिफिक टेंपर) मन की एक खुले विचारों वाली, तार्किक और प्रमाण-आधारित मनोवृत्ति है, जिसमें प्रश्न पूछना, अवलोकन करना, परीक्षण करना और केवल तभी सत्य को स्वीकार करना शामिल है जब उसके पीछे तार्किक प्रमाण और तथ्य हों। भारतीय संविधान (अनुच्छेद 51A(h)) में इसे प्रत्येक नागरिक के मौलिक कर्तव्य के रूप में शामिल किया गया है।\nवैज्ञानिक दृष्टिकोण वाले व्यक्ति के तीन गुण:\n1) जिज्ञासु और प्रश्नकर्ता मन: किसी भी दावे या अफवाह को मानने से पहले सदैव पूछता है 'क्यों' और 'प्रमाण क्या है'!\n2) पूर्वाग्रहों से मुक्ति: नए तथ्यों का स्वागत करता है और प्रमाण मिलने पर अपनी पुरानी राय बदलने को तैयार रहता है।\n3) वस्तुनिष्ठ तर्कशीलता: भावनाओं, क्रोध या अंधविश्वास के बिना समस्याओं का तार्किक विश्लेषण करता है।\n\n(ख) अंधविश्वासों और रूढ़ियों का उन्मूलन:\nअंधविश्वास भय, अज्ञानता और अंधकार में पनपते हैं। जब समाज वैज्ञानिक दृष्टिकोण अपनाता है, तो लोग प्राकृतिक घटनाओं (जैसे ग्रहण, महामारियों या सूखे) को अदृश्य शक्तियों के क्रोध या जादू-टोने से जोड़ना बंद कर देते हैं। इसके बजाय, वे वास्तविक वैज्ञानिक कारणों (जैसे बीमारियों के लिए वायरस या ग्रहण के लिए ग्रहों की स्थिति) की खोज करते हैं, जिससे सही चिकित्सा, स्वच्छता और सामाजिक सद्भाव आता है।\n\n(ग) एक सामान्य अंधविश्वास का वैज्ञानिक खंडन:\n- अंधविश्वास: *'यदि काली बिल्ली रास्ता काट जाए, तो कार्य में असफलता या दुर्भाग्य आता है।'*\n- वैज्ञानिक खंडन (तर्क): बिल्ली केवल एक सजीव प्राणी है जो भोजन या आश्रय की तलाश में एक स्थान से दूसरे स्थान पर जा रही है। रंग (काला, सफेद या भूरा) पूर्णतः प्राकृतिक आनुवंशिक वर्णक (त्वचा और बालों में मेलानिन) का परिणाम है। किसी सड़क को पार करती बिल्ली और किसी मनुष्य के कार्य या परीक्षा की सफलता-असफलता के बीच शून्य भौतिक या रासायनिक संबंध है। सफलता पूर्णतः मनुष्य की तैयारी, परिश्रम और योग्यता पर निर्भर करती है।",
+      "keyPoints": [
+        "वैज्ञानिक दृष्टिकोण: प्रमाण, तर्क और अन्वेषण पर आधारित खुले विचारों की मनोवृत्ति (Scientific temper: rational, evidence-based, open-minded attitude)",
+        "भारतीय संविधान (अनुच्छेद 51A(h)) के तहत प्रत्येक नागरिक का मौलिक कर्तव्य (Fundamental duty of every citizen under Article 51A(h) of Indian Constitution)",
+        "अंधविश्वास भय और अज्ञानता से पनपते हैं; विज्ञान वास्तविक कारण खोजकर समाधान देता है (Superstitions stem from ignorance; science finds root causes and real solutions)",
+        "काली बिल्ली का रास्ता काटना केवल प्राकृतिक घटना है; सफलता परिश्रम पर निर्भर है (Black cat crossing is a natural event; success depends entirely on human effort)"
+      ]
+    },
+    {
+      "id": "q28",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "An integrated study on science labs and equipment: \n(a) Describe the structure and function of a 'Hand Lens' (magnifying glass) and a 'Microscope'. How do they differ in magnifying power? \n(b) Why is it mandatory to wear protective goggles and closed-toe shoes when working in a chemistry laboratory? \n(c) If an accident occurs in the school laboratory and a student spills a chemical on their hand, what immediate first-aid action should be taken before the doctor arrives?",
+      "questionHi": "विज्ञान प्रयोगशाला और उपकरणों पर एक एकीकृत अध्ययन:\n(क) 'हैंड लेंस' (आवर्धक लेंस/मैग्नीफाइंग ग्लास) और 'माइक्रोस्कोप' (सूक्ष्मदर्शी) की संरचना और कार्य का वर्णन कीजिए। उनकी आवर्धन शक्ति (Magnifying Power) में क्या अंतर है?\n(ख) रसायन विज्ञान प्रयोगशाला में कार्य करते समय सुरक्षा चश्मा (Protective Goggles) और बंद जूते पहनना क्यों अनिवार्य है?\n(ग) यदि विद्यालय की प्रयोगशाला में कोई दुर्घटना हो जाए और किसी विद्यार्थी के हाथ पर कोई रसायन गिर जाए, तो डॉक्टर के आने से पहले क्या तत्काल प्राथमिक चिकित्सा (First-Aid) की जानी चाहिए?",
+      "answer": "(a) Hand Lens vs. Microscope:\n- Hand Lens (Magnifying Glass): A simple optical instrument consisting of a single convex lens mounted in a circular frame with a handle. It bends light to make small objects (like flower parts, insects, or fine print) appear 2 times to 10 times larger.\n- Microscope: A complex, high-precision laboratory instrument consisting of multiple lenses (objective lens and eyepiece lens) inside a tube with a stage and mirror/light source. It can magnify microscopic objects (like cells, bacteria, and pond water organisms) from 100 times up to 1,000+ times larger.\n- Difference: A hand lens is for low magnification (2x-10x) of visible objects, whereas a microscope is for extremely high magnification (100x-1000x+) of invisible microscopic organisms.\n\n(b) Why Goggles and Closed-Toe Shoes are Mandatory:\n- Protective Goggles: Shield the eyes from sudden chemical splashes, corrosive acid fumes, or flying glass shards during heating or reactions. Eye damage is permanent and irreversible.\n- Closed-Toe Shoes: Protect the feet from accidentally dropped heavy metal stands, broken glassware, or spilled corrosive acids and boiling liquids.\n\n(c) Immediate First-Aid Action for Chemical Spills on Skin:\nIf a chemical spills on a student's hand, immediately flush and wash the affected skin area under a continuous, gentle stream of running tap water for at least 15 to 20 minutes! This dilutes and washes away the corrosive chemical from the skin pores. Immediately inform the science teacher, remove any contaminated jewelry or clothing from that arm, and seek medical help.",
+      "answerHi": "(क) हैंड लेंस बनाम सूक्ष्मदर्शी (माइक्रोस्कोप):\n- हैंड लेंस (आवर्धक लेंस): एक सरल प्रकाशीय उपकरण जिसमें हैंडल वाले गोलाकार फ्रेम में एक अकेला उत्तल लेंस लगा होता है। यह प्रकाश को मोड़कर छोटी वस्तुओं (जैसे फूल के भाग, कीड़े या छोटे अक्षर) को 2 गुना से 10 गुना तक बड़ा दिखाता है।\n- सूक्ष्मदर्शी (माइक्रोस्कोप): एक जटिल, उच्च-सटीकता वाला प्रयोगशाला उपकरण जिसमें एक नली के अंदर कई लेंस (अभिदृश्यक और नेत्रिका लेंस), एक स्टेज और प्रकाश स्रोत/दर्पण होता है। यह अत्यंत सूक्ष्म वस्तुओं (जैसे कोशिकाएं, बैक्टीरिया और तालाब के जीव) को 100 गुना से 1,000+ गुना तक बड़ा कर सकता है।\n- अंतर: हैंड लेंस दृश्य वस्तुओं के कम आवर्धन (2x-10x) के लिए है, जबकि सूक्ष्मदर्शी अदृश्य सूक्ष्म जीवों के अत्यधिक उच्च आवर्धन (100x-1000x+) के लिए है।\n\n(ख) सुरक्षा चश्मा और बंद जूते अनिवार्य क्यों हैं:\n- सुरक्षा चश्मा (गॉगल्स): प्रयोगों या गर्म करते समय अचानक होने वाली रासायनिक छींटों, संक्षारक अम्लीय धुएँ या कांच के टुकड़ों से आँखों की रक्षा करता है। आँखों की क्षति स्थायी और अपूरणीय होती है।\n- बंद जूते: पैरों को गलती से गिरने वाले भारी लोहे के स्टैंड, टूटे हुए कांच या संक्षारक अम्लों व उबलते द्रवों से बचाते हैं।\n\n(ग) त्वचा पर रसायन गिरने पर तत्काल प्राथमिक चिकित्सा:\nयदि किसी विद्यार्थी के हाथ पर रसायन गिर जाए, तो प्रभावित त्वचा को तुरंत कम से कम 15 से 20 मिनट तक लगातार बहते हुए साफ नल के पानी के नीचे धोएं! यह त्वचा के रोमछिद्रों से संक्षारक रसायन को पतला करके बहा देता है। तुरंत विज्ञान शिक्षक को सूचित करें, उस हाथ से कोई भी अंगूठी या कपड़ा हटा दें, और डॉक्टर को बुलाएं।",
+      "keyPoints": [
+        "हैंड लेंस = कम आवर्धन (2x-10x); सूक्ष्मदर्शी = अत्यधिक उच्च आवर्धन (100x-1000x+) (Hand lens = low magnification 2-10x; Microscope = high magnification 100-1000x+)",
+        "सुरक्षा चश्मा आँखों को रासायनिक छींटों से बचाता है (Goggles protect sensitive eyes from chemical splashes and fumes)",
+        "बंद जूते पैरों को टूटे कांच और अम्लों से बचाते हैं (Closed-toe shoes protect feet from spills and broken glassware)",
+        "रसायन गिरने पर कम से कम 15-20 मिनट तक बहते पानी से धोना अनिवार्य (Immediate first aid: flush spilled skin with running water for 15-20 minutes)"
+      ]
+    },
+    {
+      "id": "q29",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "A competency-based investigation on the environmental impact of scientific technology: \n(a) Explain how the scientific invention of plastics has acted as a 'double-edged sword'—offering massive convenience while creating a severe environmental crisis. \n(b) How can young students apply scientific thinking and the principle of '3Rs' (Reduce, Reuse, Recycle) to solve the plastic waste crisis in their school and town?",
+      "questionHi": "वैज्ञानिक प्रौद्योगिकी के पर्यावरणीय प्रभाव पर योग्यता-आधारित अन्वेषण:\n(क) स्पष्ट कीजिए कि प्लास्टिक का वैज्ञानिक आविष्कार किस प्रकार एक 'दोधारी तलवार' साबित हुआ है—जिसने अत्यधिक सुविधा देने के साथ-साथ एक गंभीर पर्यावरणीय संकट भी पैदा कर दिया है।\n(ख) युवा विद्यार्थी अपने विद्यालय और कस्बे में प्लास्टिक कचरे के संकट को हल करने के लिए वैज्ञानिक सोच और '3R' (कम करना, पुनः उपयोग करना, पुनः चक्रण करना - Reduce, Reuse, Recycle) के सिद्धांत का उपयोग कैसे कर सकते हैं?",
+      "answer": "(a) Plastics as a Double-Edged Sword:\n- Massive Convenience (The Boon): Plastic is lightweight, durable, waterproof, cheap, and easily molded into any shape. It revolutionized medical equipment (sterile syringes, IV bags), food packaging, electronics, and daily transport, making life convenient and affordable.\n- Severe Environmental Crisis (The Curse): Plastics are non-biodegradable polymers—they do not decompose naturally for hundreds of years! Single-use plastics choke drainage systems, pollute rivers and oceans, kill marine animals (like turtles and whales who mistake bags for jellyfish), and disintegrate into toxic microplastics that contaminate soil, water, and our food chain.\n\n(b) Applying Scientific Thinking and the 3Rs:\nStudents can lead an eco-friendly revolution by scientifically applying the 3Rs:\n1) Reduce (कम करना): Consciously avoid single-use polythene bags, plastic water bottles, and disposable cutlery. Replace them with sustainable scientific alternatives like cloth bags, jute sacks, stainless steel bottles, and biodegradable bamboo utensils.\n2) Reuse (पुनः उपयोग करना): Instead of throwing away plastic containers, jars, and bottles after one use, clean and reuse them for storing stationery, growing indoor plants (vertical gardens), or making bird feeders.\n3) Recycle (पुनः चक्रण करना): Set up separate waste segregation bins in school (Green for organic biodegradable waste, Blue for dry recyclable plastic/paper). Hand over sorted dry plastic waste to authorized recycling units where it is melted and transformed into park benches, road pavement tiles, or recycled polyester fabric.",
+      "answerHi": "(क) प्लास्टिक एक दोधारी तलवार के रूप में:\n- अत्यधिक सुविधा (वरदान): प्लास्टिक हल्का, टिकाऊ, जलरोधक, सस्ता और किसी भी आकार में आसानी से ढाले जाने योग्य है। इसने चिकित्सा उपकरणों (स्टरलाइज़ सिरिंज, आईवी बैग), खाद्य पैकेजिंग, इलेक्ट्रॉनिक्स और दैनिक परिवहन में क्रांति ला दी, जिससे जीवन सुगम और किफायती हुआ।\n- गंभीर पर्यावरणीय संकट (अभिशाप): प्लास्टिक जैव-अनिम्नीकरणीय (Non-biodegradable) बहुलक है—यह सैकड़ों वर्षों तक प्राकृतिक रूप से सड़ता या गलता नहीं है! सिंगल-यूज़ प्लास्टिक नालियों को चोक करता है, नदियों और महासागरों को प्रदूषित करता है, समुद्री जीवों (जैसे कछुए और व्हेल जो पॉलिथीन को जेलीफिश समझकर खा लेते हैं) को मारता है, और टूटकर जहरीले 'माइक्रोप्लास्टिक' में बदल जाता है जो हमारी मिट्टी, पानी और भोजन श्रृंखला को दूषित करता है।\n\n(ख) वैज्ञानिक सोच और 3R सिद्धांत का उपयोग:\nविद्यार्थी 3R का वैज्ञानिक उपयोग करके हरित क्रांति का नेतृत्व कर सकते हैं:\n1) Reduce (कम करना): सिंगल-यूज़ पॉलिथीन बैग, प्लास्टिक की बोतलों और डिस्पोजेबल बर्तनों का उपयोग सचेत रूप से बंद करें। उनके स्थान पर कपड़े के थैले, जूट के बैग, स्टील की बोतलें और बांस के बर्तन जैसे टिकाऊ विकल्प अपनाएं।\n2) Reuse (पुनः उपयोग करना): प्लास्टिक के डिब्बों, जार और बोतलों को एक बार उपयोग के बाद फेंकने के बजाय, उन्हें धोकर स्टेशनरी रखने, पौधे लगाने (वर्टिकल गार्डन) या पक्षियों के लिए पानी रखने के काम में लाएं।\n3) Recycle (पुनः चक्रण करना): विद्यालय में अलग-अलग कचरा पेटियाँ (जैविक कचरे के लिए हरा डिब्बा, सूखे रीसायकल प्लास्टिक/कागज के लिए नीला डिब्बा) स्थापित करें। छांटे गए सूखे प्लास्टिक को रीसायकल इकाइयों को दें, जहाँ इसे पिघलाकर पार्क की बेंचें, सड़क की टाइलें या रीसायकल फाइबर बनाया जाता है।",
+      "keyPoints": [
+        "प्लास्टिक हल्का, जलरोधक और किफायती है (वरदान), परंतु सैकड़ों वर्षों तक नहीं सड़ता (अभिशाप) (Plastic is lightweight and cheap (boon), but non-biodegradable for centuries (curse))",
+        "सिंगल-यूज़ प्लास्टिक समुद्री जीवों को मारता है और माइक्रोप्लास्टिक भोजन में घुलता है (Single-use plastics kill marine life and create toxic microplastic contamination)",
+        "Reduce: कपड़े और स्टील के बर्तनों का उपयोग कर प्लास्टिक घटाना (Reduce: Replacing plastics with cloth bags and steel utensils)",
+        "Reuse & Recycle: बोतलों का पुनः उपयोग और नीले डिब्बे में रीसायकल कचरा एकत्र करना (Reuse & Recycle: Reusing containers and segregating dry waste in blue bins for recycling)"
+      ]
+    },
+    {
+      "id": "q30",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "A comprehensive evaluation on communication of science and scientific ethics: \n(a) Why is it important for scientists to communicate their discoveries clearly and simply to the general public and not just to other scientists? \n(b) Explain what is meant by 'Scientific Ethics' (वैज्ञानिक नैतिकता). Why is ethical behavior crucial during biological or medical experiments? \n(c) How does the life of Marie Curie exemplify absolute dedication and selflessness in the service of science and humanity?",
+      "questionHi": "विज्ञान के संचार और वैज्ञानिक नैतिकता पर एक व्यापक मूल्यांकन:\n(क) वैज्ञानिकों के लिए अपनी खोजों को केवल अन्य वैज्ञानिकों तक सीमित रखने के बजाय आम जनता तक स्पष्ट और सरल भाषा में पहुँचाना (संचार करना) क्यों महत्वपूर्ण है?\n(ख) 'वैज्ञानिक नैतिकता' (Scientific Ethics) से क्या अभिप्राय है? जैविक या चिकित्सा प्रयोगों के दौरान नैतिक आचरण क्यों अत्यंत महत्वपूर्ण है?\n(ग) मैरी क्यूरी (Marie Curie) का जीवन विज्ञान और मानवता की सेवा में पूर्ण समर्पण और निस्वार्थता का उदाहरण कैसे प्रस्तुत करता है?",
+      "answer": "(a) Importance of Public Science Communication:\nScientists must communicate discoveries simply to the public because society funds research and directly faces the consequences of technology. Clear science communication dispels public fear, fights misinformation, encourages healthy habits (like vaccination during pandemics or saving water), and inspires young children to become future scientists.\n\n(b) Meaning of Scientific Ethics & Its Importance:\n'Scientific Ethics' refers to the moral rules and principles of honesty, integrity, fairness, and non-harm that govern how scientific research must be conducted. \nIn biological and medical experiments, ethical behavior is critical to ensure that human patients and laboratory animals are treated with mercy, dignity, and care without causing unnecessary pain or cruelty. It also forbids scientists from creating harmful biological weapons or conducting risky experiments without proper safety protocols.\n\n(c) Marie Curie—An Emblem of Selflessness:\nMadam Marie Curie was a pioneering physicist and chemist who discovered two radioactive elements: Polonium and Radium. She is the only person in history to win Nobel Prizes in two different scientific fields (Physics in 1903 and Chemistry in 1911).\nHer absolute selflessness is proven by two facts:\n1) She refused to patent her radium-isolation process, allowing scientists and hospitals worldwide to use radium freely for treating cancer patients, sacrificing immense personal wealth for human welfare.\n2) During World War I, she invented mobile X-ray units (called 'Little Curies') and personally drove them to battlefields to locate shrapnel and bullets in wounded soldiers, saving thousands of lives. Her selfless exposure to radiation eventually led to her death, making her a supreme martyr of science and humanity.",
+      "answerHi": "(क) आम जनता तक विज्ञान का संचार क्यों महत्वपूर्ण है:\nवैज्ञानिकों को अपनी खोजों को सरल भाषा में जनता तक पहुँचाना चाहिए क्योंकि समाज ही अनुसंधान को वित्तपोषित करता है और तकनीकी बदलावों का सामना करता है। स्पष्ट वैज्ञानिक संवाद जनता के भय को दूर करता है, भ्रामक सूचनाओं (अफवाहों) से लड़ता है, स्वस्थ आदतों (जैसे महामारी में टीकाकरण या जल संरक्षण) को प्रेरित करता है और बच्चों को भविष्य का वैज्ञानिक बनने के लिए प्रोत्साहित करता है।\n\n(ख) 'वैज्ञानिक नैतिकता' का अर्थ और इसका महत्व:\n'वैज्ञानिक नैतिकता' (साइंटिफिक एथिक्स) ईमानदारी, सत्यनिष्ठा, निष्पक्षता और अहिंसा (क्षति न पहुँचाने) के उन नैतिक नियमों और सिद्धांतों को कहते हैं जो यह तय करते हैं कि वैज्ञानिक अनुसंधान कैसे किया जाना चाहिए।\nजैविक और चिकित्सा प्रयोगों में नैतिक आचरण इसलिए अत्यंत महत्वपूर्ण है ताकि मानव रोगियों और प्रयोगशाला के पशुओं के साथ दया, गरिमा और देखभाल का व्यवहार हो, और उन्हें अनावश्यक दर्द या क्रूरता न सहनी पड़े। यह वैज्ञानिकों को हानिकारक जैविक हथियार बनाने या बिना सुरक्षा के खतरनाक प्रयोग करने से भी रोकता है।\n\n(ग) मैरी क्यूरी—निस्वार्थता और समर्पण की प्रतिमूर्ति:\nमैडम मैरी क्यूरी एक महान भौतिकशास्त्री और रसायनशास्त्री थीं जिन्होंने दो रेडियोधर्मी तत्वों—पोलोनियम और रेडियम—की खोज की। वे इतिहास की एकमात्र ऐसी व्यक्ति हैं जिन्होंने दो अलग-अलग वैज्ञानिक क्षेत्रों (1903 में भौतिकी और 1911 में रसायन विज्ञान) में नोबेल पुरस्कार जीते।\nउनकी पूर्ण निस्वार्थता दो तथ्यों से सिद्ध होती है:\n1) उन्होंने रेडियम अलग करने की अपनी विधि का पेटेंट कराने से मना कर दिया, ताकि दुनिया भर के वैज्ञानिक और अस्पताल कैंसर रोगियों के इलाज के लिए रेडियम का मुफ़्त उपयोग कर सकें; उन्होंने मानव कल्याण के लिए अपार व्यक्तिगत धन का त्याग किया।\n2) प्रथम विश्व युद्ध के दौरान, उन्होंने मोबाइल एक्स-रे गाड़ियाँ (जिन्हें 'लिटल क्यूरीज़' कहा गया) बनाईं और स्वयं उन्हें युद्ध के मैदानों में ले जाकर घायल सैनिकों के शरीर से गोलियाँ और छर्रे खोजे, जिससे हजारों जान बचीं। विकिरण के लगातार संपर्क में आने से ही अंततः उनका निधन हुआ, जिससे वे विज्ञान और मानवता की सर्वोच्च शहीद बन गईं।",
+      "keyPoints": [
+        "जन संवाद भ्रामक सूचनाओं को रोकता है और समाज में वैज्ञानिक जागरूकता लाता है (Public communication fights misinformation and builds societal scientific awareness)",
+        "वैज्ञानिक नैतिकता प्रयोगों में ईमानदारी, पशुओं पर दया और मानव सुरक्षा सुनिश्चित करती है (Scientific ethics ensures honesty, animal welfare, and human safety in research)",
+        "मैरी क्यूरी दो नोबेल पुरस्कार (भौतिकी 1903, रसायन 1911) जीतने वाली एकमात्र व्यक्ति (Marie Curie is the only person to win Nobel Prizes in two different sciences)",
+        "रेडियम का पेटेंट न कराकर कैंसर रोगियों की सेवा में निस्वार्थ जीवन दान (Sacrificed wealth and life by refusing radium patent to help cancer patients globally)"
+      ]
+    }
+  ]
+}
