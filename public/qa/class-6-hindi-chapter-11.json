@@ -1,0 +1,486 @@
+{
+  "chapterTitle": "Chetak Ki Veerta (The Heroism of Chetak)",
+  "chapterTitleHi": "चेतक की वीरता (कविता)",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Who was Chetak?",
+      "questionHi": "चेतक कौन था?",
+      "answer": "Chetak was the legendary horse of Maharana Pratap, the brave Rajput warrior king. He is celebrated for his extraordinary loyalty, speed, and courage in the Battle of Haldighati (1576).",
+      "answerHi": "चेतक महाराणा प्रताप का प्रसिद्ध घोड़ा था। वह एक वीर राजपूत योद्धा राजा था। उसे हल्दीघाटी के युद्ध (1576) में असाधारण वफ़ादारी, गति और साहस के लिए जाना जाता है।",
+      "keyPoints": [
+        "Chetak was Maharana Pratap's horse | चेतक महाराणा प्रताप का घोड़ा था",
+        "He fought in the Battle of Haldighati | उसने हल्दीघाटी के युद्ध में भाग लिया",
+        "Known for loyalty and bravery | वफ़ादारी और वीरता के लिए प्रसिद्ध",
+        "A legendary figure in Indian history | भारतीय इतिहास में एक पौराणिक पात्र"
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "When did the Battle of Haldighati take place?",
+      "questionHi": "हल्दीघाटी का युद्ध कब हुआ था?",
+      "answer": "The Battle of Haldighati took place in 1576. It was fought between Maharana Pratap of Mewar and the Mughal Emperor Akbar's forces led by Man Singh.",
+      "answerHi": "हल्दीघाटी का युद्ध 1576 में हुआ था। यह मेवाड़ के महाराणा प्रताप और मुगल सम्राट अकबर की सेना के बीच लड़ा गया था, जिसका नेतृत्व मान सिंह कर रहे थे।",
+      "keyPoints": [
+        "Battle took place in 1576 | युद्ध 1576 में हुआ",
+        "Between Maharana Pratap and Akbar's forces | महाराणा प्रताप और अकबर की सेना के बीच",
+        "Located in Rajasthan | राजस्थान में स्थित",
+        "Man Singh led Mughal army | मान सिंह ने मुगल सेना का नेतृत्व किया"
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What did Chetak do to save Maharana Pratap?",
+      "questionHi": "चेतक ने महाराणा प्रताप को बचाने के लिए क्या किया?",
+      "answer": "Though badly wounded in battle, Chetak carried Maharana Pratap safely away from the battlefield. He leaped across a wide stream and took his master to safety before collapsing and dying from his wounds.",
+      "answerHi": "युद्ध में बुरी तरह घायल होने के बावजूद, चेतक महाराणा प्रताप को युद्धक्षेत्र से सुरक्षित दूर ले गया। उसने एक चौड़ी नाले को पार किया और अपने स्वामी को सुरक्षित स्थान पर पहुँचाया, इसके बाद वह गिर पड़ा और अपने घावों के कारण मर गया।",
+      "keyPoints": [
+        "Chetak was wounded but kept going | चेतक घायल था पर आगे बढ़ता रहा",
+        "Leaped across a wide stream | एक चौड़ी नाले को पार किया",
+        "Carried Pratap to safety | प्रताप को सुरक्षित स्थान पर पहुँचाया",
+        "Died after completing his duty | कर्तव्य पूरा करने के बाद मर गया"
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What is 'Veera Ras' in poetry?",
+      "questionHi": "कविता में 'वीर रस' क्या होता है?",
+      "answer": "Veera Ras (heroic sentiment) is one of the nine Rasas (emotional essences) in Indian classical poetry. It evokes feelings of bravery, valor, and heroism through vivid descriptions of battles, warriors, and courageous deeds.",
+      "answerHi": "वीर रस भारतीय शास्त्रीय काव्य के नौ रसों में से एक है। यह युद्धों, योद्धाओं और साहसी कार्यों के जीवंत वर्णन के माध्यम से वीरता, शौर्य और पराक्रम की भावनाओं को उत्पन्न करता है।",
+      "keyPoints": [
+        "One of nine Rasas in Indian poetry | भारतीय काव्य के नौ रसों में से एक",
+        "Evokes bravery and heroism | वीरता और पराक्रम की भावना उत्पन्न करता है",
+        "Used in battle poetry | युद्ध कविता में प्रयुक्त",
+        "Chetak Ki Veerta is full of Veera Ras | चेतक की वीरता वीर रस से भरी है"
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What type of literary composition is 'Chetak Ki Veerta'?",
+      "questionHi": "'चेतक की वीरता' किस प्रकार की साहित्यिक रचना है?",
+      "answer": "'Chetak Ki Veerta' is a heroic ballad (veer gatha). It is a poem that narrates the brave deeds of Chetak, the legendary horse, in a lyrical and emotionally charged manner, celebrating valor and sacrifice.",
+      "answerHi": "'चेतक की वीरता' एक वीरगाथा है। यह एक ऐसी कविता है जो प्रसिद्ध घोड़े चेतक के वीरतापूर्ण कार्यों का गीतात्मक और भावनापूर्ण तरीके से वर्णन करती है, वीरता और बलिदान का उत्सव मनाती है।",
+      "keyPoints": [
+        "It is a heroic ballad (veer gatha) | यह एक वीरगाथा है",
+        "Lyrical and emotionally charged | गीतात्मक और भावनापूर्ण",
+        "Celebrates valor and sacrifice | वीरता और बलिदान का उत्सव",
+        "Rich in Veera Ras | वीर रस से परिपूर्ण"
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Who was Maharana Pratap?",
+      "questionHi": "महाराणा प्रताप कौन थे?",
+      "answer": "Maharana Pratap was the brave Rajput king of Mewar (in present-day Rajasthan). He is celebrated for his indomitable spirit of independence and his refusal to submit to Mughal Emperor Akbar's rule.",
+      "answerHi": "महाराणा प्रताप मेवाड़ (वर्तमान राजस्थान में) के वीर राजपूत राजा थे। वे अपनी अदम्य स्वतंत्रता की भावना और मुगल सम्राट अकबर के शासन के सामने न झुकने के लिए प्रसिद्ध हैं।",
+      "keyPoints": [
+        "Rajput king of Mewar | मेवाड़ के राजपूत राजा",
+        "Symbol of independence and courage | स्वतंत्रता और साहस का प्रतीक",
+        "Refused to submit to Akbar | अकबर के सामने न झुकने की प्रतिज्ञा",
+        "Chetak was his beloved horse | चेतक उनका प्रिय घोड़ा था"
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What literary device is used when the horse Chetak is described as a hero?",
+      "questionHi": "जब घोड़े चेतक को नायक के रूप में वर्णित किया जाता है तो कौन-सा साहित्यिक अलंकार प्रयोग होता है?",
+      "answer": "The literary device used is Personification (Manavikarana). By portraying Chetak with human-like heroic qualities such as loyalty, devotion, and sacrifice, the poet gives the horse human emotions and characteristics.",
+      "answerHi": "यहाँ मानवीकरण (Personification) अलंकार का प्रयोग होता है। चेतक को वफ़ादारी, समर्पण और बलिदान जैसे मानवीय वीरतापूर्ण गुणों के साथ चित्रित करके, कवि घोड़े को मानवीय भावनाएँ और विशेषताएँ देता है।",
+      "keyPoints": [
+        "Personification (Manavikarana) is used | मानवीकरण अलंकार का प्रयोग",
+        "Chetak given human-like qualities | चेतक को मानवीय गुण दिए गए",
+        "Loyalty and devotion highlighted | वफ़ादारी और समर्पण उजागर",
+        "Makes the horse a true hero | घोड़े को सच्चा नायक बनाता है"
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What does the poem 'Chetak Ki Veerta' celebrate?",
+      "questionHi": "'चेतक की वीरता' कविता किसका उत्सव मनाती है?",
+      "answer": "The poem celebrates loyalty, courage, selfless sacrifice, and patriotism. It honors Chetak's unwavering devotion to his master Maharana Pratap, and his supreme sacrifice to save the warrior king's life.",
+      "answerHi": "यह कविता वफ़ादारी, साहस, निःस्वार्थ बलिदान और देशभक्ति का उत्सव मनाती है। यह अपने स्वामी महाराणा प्रताप के प्रति चेतक की अटल भक्ति और योद्धा राजा की जान बचाने के लिए उसके महान बलिदान को सम्मान देती है।",
+      "keyPoints": [
+        "Celebrates loyalty and sacrifice | वफ़ादारी और बलिदान का उत्सव",
+        "Honors Chetak's devotion | चेतक की भक्ति को सम्मान",
+        "Promotes patriotism | देशभक्ति को प्रोत्साहित करती है",
+        "A tribute to selfless courage | निःस्वार्थ साहस को श्रद्धांजलि"
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What does the word 'Veerta' mean?",
+      "questionHi": "'वीरता' शब्द का क्या अर्थ है?",
+      "answer": "'Veerta' means bravery, valor, or heroism. In the context of this poem, it refers to both physical courage in battle and the moral courage of loyalty and self-sacrifice shown by Chetak.",
+      "answerHi": "'वीरता' का अर्थ है साहस, शौर्य या पराक्रम। इस कविता के संदर्भ में, यह युद्ध में शारीरिक साहस और चेतक द्वारा दिखाई गई वफ़ादारी और आत्म-बलिदान के नैतिक साहस दोनों को संदर्भित करता है।",
+      "keyPoints": [
+        "Veerta means bravery and valor | वीरता का अर्थ साहस और शौर्य है",
+        "Includes physical and moral courage | शारीरिक और नैतिक साहस दोनों",
+        "Chetak showed true Veerta | चेतक ने सच्ची वीरता दिखाई",
+        "Central theme of the poem | कविता का केंद्रीय विषय"
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "How is Chetak's loyalty shown in the poem?",
+      "questionHi": "कविता में चेतक की वफ़ादारी कैसे दिखाई गई है?",
+      "answer": "Chetak's loyalty is shown through his refusal to give up despite being severely wounded. He continued to carry Maharana Pratap even when his own body was giving up, ultimately sacrificing his life to ensure his master's safety.",
+      "answerHi": "चेतक की वफ़ादारी उसके बुरी तरह घायल होने के बावजूद हार न मानने से दिखाई गई है। वह अपने शरीर के थकने पर भी महाराणा प्रताप को ले जाता रहा, और अंततः अपने स्वामी की सुरक्षा सुनिश्चित करने के लिए अपना जीवन बलिदान कर दिया।",
+      "keyPoints": [
+        "Continued despite severe wounds | गंभीर चोटों के बावजूद जारी रखा",
+        "Never abandoned his master | कभी स्वामी को नहीं छोड़ा",
+        "Sacrificed life for master's safety | स्वामी की सुरक्षा के लिए जीवन बलिदान",
+        "Loyalty over self-preservation | आत्म-संरक्षण से ऊपर वफ़ादारी"
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Describe the vivid battle imagery used in 'Chetak Ki Veerta'.",
+      "questionHi": "'चेतक की वीरता' में प्रयुक्त जीवंत युद्ध-चित्रण का वर्णन कीजिए।",
+      "answer": "The poem uses vivid battle imagery to bring the chaos and intensity of Haldighati to life. The clashing of swords, thundering of hooves, the smoke and dust of battle, and the roars of warriors create a cinematic picture. Chetak is described galloping fearlessly through enemy lines with Maharana Pratap on his back, his mane flying and hooves striking the ground like thunder. The imagery makes the reader feel the heat, noise, and heroism of the battlefield.",
+      "answerHi": "कविता हल्दीघाटी की अराजकता और तीव्रता को जीवंत करने के लिए जीवंत युद्ध-चित्रण का प्रयोग करती है। तलवारों की टकराहट, खुरों की गड़गड़ाहट, युद्ध का धुआँ और धूल, और योद्धाओं की ललकार एक चलचित्र जैसी तस्वीर बनाती है। चेतक को महाराणा प्रताप को पीठ पर लेकर दुश्मन की पंक्तियों में निडरता से दौड़ते हुए चित्रित किया गया है, उसकी अयाल उड़ रही है और खुर बिजली की तरह जमीन पर पड़ रहे हैं। यह चित्रण पाठक को युद्धभूमि की गर्मी, शोर और वीरता का अनुभव कराता है।",
+      "keyPoints": [
+        "Clashing swords and thundering hooves | तलवारों की टकराहट और खुरों की गड़गड़ाहट",
+        "Smoke, dust, and battle cries | धुआँ, धूल और युद्ध-घोष",
+        "Chetak galloping fearlessly | चेतक का निडरता से दौड़ना",
+        "Creates cinematic effect | चलचित्र जैसा प्रभाव बनाता है"
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "How does the poet use personification to elevate Chetak to the status of a hero?",
+      "questionHi": "कवि ने चेतक को नायक के स्तर तक उठाने के लिए मानवीकरण का प्रयोग कैसे किया है?",
+      "answer": "The poet uses personification by attributing human feelings and conscious decisions to Chetak. He is not just a horse reacting instinctively — he is portrayed as understanding his master's danger, feeling the pain of battle wounds, and making a heroic choice to save Maharana Pratap at the cost of his own life. His devotion is described as if he were a loyal soldier who consciously pledged his life. This elevates Chetak from a mere animal to a true hero with moral virtue.",
+      "answerHi": "कवि ने चेतक को मानवीय भावनाएँ और सचेत निर्णय देकर मानवीकरण का प्रयोग किया है। वह केवल वृत्ति से प्रतिक्रिया करने वाला घोड़ा नहीं है — उसे अपने स्वामी के खतरे को समझते हुए, युद्ध के घावों का दर्द महसूस करते हुए, और महाराणा प्रताप को अपने जीवन की कीमत पर बचाने का वीरोचित निर्णय लेते हुए चित्रित किया गया है। उसकी भक्ति को ऐसे वर्णित किया गया है जैसे वह एक वफ़ादार सैनिक हो जिसने सचेत रूप से अपना जीवन समर्पित कर दिया। यह चेतक को एक साधारण जानवर से नैतिक गुणों वाले सच्चे नायक के स्तर पर ले जाता है।",
+      "keyPoints": [
+        "Human feelings given to Chetak | चेतक को मानवीय भावनाएँ दी गईं",
+        "Portrayed as making conscious choices | सचेत निर्णय लेता दिखाया",
+        "Devotion like a loyal soldier | वफ़ादार सैनिक जैसी भक्ति",
+        "Elevated from animal to moral hero | जानवर से नैतिक नायक बनाया"
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "What values does the poem 'Chetak Ki Veerta' instill in young readers?",
+      "questionHi": "'चेतक की वीरता' कविता युवा पाठकों में कौन-से मूल्य स्थापित करती है?",
+      "answer": "The poem instills several important values: (1) Loyalty — Chetak's unwavering devotion teaches us to be faithful to those we serve; (2) Selfless Sacrifice — giving up one's own comfort or life for others; (3) Courage — facing danger without flinching; (4) Patriotism — love and dedication to one's nation; (5) Duty above self — completing one's responsibility before thinking of oneself. These timeless values are essential for character building.",
+      "answerHi": "यह कविता कई महत्वपूर्ण मूल्य स्थापित करती है: (1) वफ़ादारी — चेतक की अटल भक्ति हमें उनके प्रति वफ़ादार रहना सिखाती है जिनकी हम सेवा करते हैं; (2) निःस्वार्थ बलिदान — दूसरों के लिए अपना आराम या जीवन त्यागना; (3) साहस — बिना डगमगाए खतरे का सामना करना; (4) देशभक्ति — अपने राष्ट्र के प्रति प्रेम और समर्पण; (5) स्वयं से ऊपर कर्तव्य — खुद की सोचने से पहले अपनी जिम्मेदारी पूरी करना। ये चिरंतन मूल्य चरित्र निर्माण के लिए आवश्यक हैं।",
+      "keyPoints": [
+        "Loyalty and faithfulness | वफ़ादारी और निष्ठा",
+        "Selfless sacrifice for others | दूसरों के लिए निःस्वार्थ बलिदान",
+        "Courage in face of danger | खतरे में साहस",
+        "Duty above personal interest | व्यक्तिगत हित से ऊपर कर्तव्य"
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Why is Chetak considered a symbol of loyalty and sacrifice in Indian culture?",
+      "questionHi": "चेतक को भारतीय संस्कृति में वफ़ादारी और बलिदान का प्रतीक क्यों माना जाता है?",
+      "answer": "Chetak is considered a symbol of loyalty and sacrifice because he exemplified these qualities at the highest degree. Despite being gravely wounded by enemy spears, he did not stop. He crossed a wide nullah (stream) to take his master to safety — a feat that seemed impossible for a wounded animal. He then died after fulfilling his duty. His story transcends the master-horse relationship and becomes a universal symbol of devotion and self-giving that resonates deeply in Indian cultural memory.",
+      "answerHi": "चेतक को वफ़ादारी और बलिदान का प्रतीक माना जाता है क्योंकि उसने इन गुणों को सर्वोच्च स्तर पर प्रदर्शित किया। दुश्मन के भालों से बुरी तरह घायल होने के बावजूद वह नहीं रुका। उसने अपने स्वामी को सुरक्षित स्थान पर ले जाने के लिए एक चौड़ी नाले को पार किया — एक घायल जानवर के लिए असंभव प्रतीत होने वाला कारनामा। फिर कर्तव्य पूरा करने के बाद उसकी मृत्यु हो गई। उसकी कहानी स्वामी-घोड़े के संबंध से परे जाकर समर्पण और आत्म-दान का एक सार्वभौमिक प्रतीक बन जाती है जो भारतीय सांस्कृतिक स्मृति में गहराई से गूँजती है।",
+      "keyPoints": [
+        "Gravely wounded but never stopped | गंभीर रूप से घायल पर कभी नहीं रुका",
+        "Crossed wide stream against all odds | सभी बाधाओं के बावजूद नाले को पार किया",
+        "Died after completing duty | कर्तव्य पूरा करने के बाद मृत्यु",
+        "Universal symbol in Indian culture | भारतीय संस्कृति में सार्वभौमिक प्रतीक"
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Explain the significance of the Battle of Haldighati in the context of this poem.",
+      "questionHi": "इस कविता के संदर्भ में हल्दीघाटी के युद्ध के महत्व की व्याख्या कीजिए।",
+      "answer": "The Battle of Haldighati (1576) forms the historical backdrop of the poem. It was a fierce clash between Maharana Pratap's smaller but spirited Rajput army and the numerically superior Mughal forces. The battle showcased the bravery of Rajput warriors who fought for their independence. This is the context in which Chetak's supreme sacrifice takes place — making the battlefield not just a place of war, but a canvas for immortal heroism. The battle symbolizes resistance against oppression, which the poem glorifies.",
+      "answerHi": "हल्दीघाटी का युद्ध (1576) कविता की ऐतिहासिक पृष्ठभूमि बनाता है। यह महाराणा प्रताप की छोटी लेकिन उत्साही राजपूत सेना और संख्या में अधिक मुगल सेना के बीच एक भीषण संघर्ष था। इस युद्ध ने राजपूत योद्धाओं की वीरता को दर्शाया जो अपनी स्वतंत्रता के लिए लड़े। इसी संदर्भ में चेतक का महान बलिदान होता है — जो युद्धभूमि को न केवल युद्ध की जगह बल्कि अमर वीरता की पृष्ठभूमि बनाता है। यह युद्ध उत्पीड़न के विरुद्ध प्रतिरोध का प्रतीक है, जिसे कविता गौरवान्वित करती है।",
+      "keyPoints": [
+        "1576 battle between Rajputs and Mughals | 1576 में राजपूत और मुगलों के बीच युद्ध",
+        "Smaller Rajput army vs larger Mughal force | छोटी राजपूत सेना बनाम बड़ी मुगल सेना",
+        "Context of Chetak's sacrifice | चेतक के बलिदान की पृष्ठभूमि",
+        "Symbol of resistance against oppression | उत्पीड़न के विरुद्ध प्रतिरोध का प्रतीक"
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Compare the roles of Maharana Pratap and Chetak in the poem.",
+      "questionHi": "कविता में महाराणा प्रताप और चेतक की भूमिकाओं की तुलना कीजिए।",
+      "answer": "Maharana Pratap is the human hero — the warrior king who stands for freedom, honor, and the independence of Mewar. He represents political and military courage. Chetak is the horse-hero — his role is one of pure devotion and sacrifice. While Pratap fights for a cause, Chetak fights for his master. Pratap inspires through his resistance; Chetak inspires through his selfless love. Together, they form a complete picture of heroism — the warrior and his faithful companion, equally celebrated in Indian memory.",
+      "answerHi": "महाराणा प्रताप मानव नायक हैं — वह योद्धा राजा जो मेवाड़ की स्वतंत्रता, सम्मान और आजादी के लिए खड़े हैं। वे राजनीतिक और सैन्य साहस का प्रतिनिधित्व करते हैं। चेतक घोड़ा-नायक है — उसकी भूमिका शुद्ध भक्ति और बलिदान की है। जहाँ प्रताप एक उद्देश्य के लिए लड़ते हैं, वहीं चेतक अपने स्वामी के लिए लड़ता है। प्रताप अपने प्रतिरोध से प्रेरणा देते हैं; चेतक अपने निःस्वार्थ प्रेम से प्रेरणा देता है। साथ मिलकर, वे वीरता की पूरी तस्वीर बनाते हैं — योद्धा और उसका वफ़ादार साथी, भारतीय स्मृति में समान रूप से सम्मानित।",
+      "keyPoints": [
+        "Pratap: warrior hero for freedom | प्रताप: स्वतंत्रता के लिए योद्धा नायक",
+        "Chetak: devotion and sacrifice | चेतक: भक्ति और बलिदान",
+        "Pratap inspires through resistance | प्रताप प्रतिरोध से प्रेरणा देते हैं",
+        "Together they form complete heroism | साथ मिलकर पूर्ण वीरता बनाते हैं"
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "How does the poem use sound imagery to create the atmosphere of battle?",
+      "questionHi": "कविता युद्ध का वातावरण बनाने के लिए ध्वनि-चित्रण का प्रयोग कैसे करती है?",
+      "answer": "The poem uses rich sound imagery — the clanging of swords, the thundering of horse hooves, the battle cries of warriors, and the sound of arrows cutting through the air. These auditory elements create an immersive battlefield experience. The sound of Chetak's gallop is particularly powerful, suggesting relentless motion and unstoppable momentum. The contrast between the loud chaos of battle and the eventual silence after Chetak's fall adds emotional depth to the poem.",
+      "answerHi": "कविता समृद्ध ध्वनि-चित्रण का प्रयोग करती है — तलवारों की खनखनाहट, घोड़े के खुरों की गड़गड़ाहट, योद्धाओं की रणहुंकार, और हवा को चीरते तीरों की आवाज़। ये श्रव्य तत्व एक डूब जाने वाला युद्धभूमि का अनुभव बनाते हैं। चेतक की दौड़ की आवाज़ विशेष रूप से शक्तिशाली है, जो अथक गति और अदम्य वेग का सुझाव देती है। युद्ध की तीव्र अराजकता और चेतक के गिरने के बाद की खामोशी के बीच का विपरीत कविता में भावनात्मक गहराई जोड़ता है।",
+      "keyPoints": [
+        "Clanging swords and thundering hooves | तलवारों की खनखनाहट और खुरों की गड़गड़ाहट",
+        "Battle cries and arrows | रणहुंकार और तीरों की आवाज़",
+        "Chetak's gallop suggests momentum | चेतक की दौड़ वेग का सुझाव देती है",
+        "Silence after fall adds depth | गिरने के बाद खामोशी गहराई जोड़ती है"
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "What does the poem suggest about the relationship between a warrior and his horse?",
+      "questionHi": "कविता एक योद्धा और उसके घोड़े के संबंध के बारे में क्या संकेत देती है?",
+      "answer": "The poem suggests that the relationship between a warrior and his horse transcends the ordinary human-animal bond. Chetak and Maharana Pratap are portrayed as true companions — each trusting the other with their lives. Chetak understands Pratap's situation and responds with selfless action. This bond is built on mutual trust, shared danger, and deep affection. The poem implies that such a relationship is sacred — Chetak's sacrifice is not mere animal instinct but an expression of profound love and loyalty.",
+      "answerHi": "कविता सुझाती है कि एक योद्धा और उसके घोड़े के बीच का संबंध सामान्य मानव-पशु बंधन से परे है। चेतक और महाराणा प्रताप को सच्चे साथियों के रूप में चित्रित किया गया है — एक-दूसरे पर अपनी जान से भरोसा करते हुए। चेतक प्रताप की स्थिति को समझता है और निःस्वार्थ क्रिया के साथ प्रतिक्रिया करता है। यह बंधन आपसी विश्वास, साझा खतरे और गहरे स्नेह पर बना है। कविता का तात्पर्य है कि ऐसा संबंध पवित्र है — चेतक का बलिदान केवल पशु-वृत्ति नहीं बल्कि गहरे प्रेम और वफ़ादारी की अभिव्यक्ति है।",
+      "keyPoints": [
+        "Bond transcends human-animal ordinary relationship | बंधन सामान्य मानव-पशु संबंध से परे",
+        "Based on mutual trust and shared danger | आपसी विश्वास और साझा खतरे पर आधारित",
+        "Chetak understands master's situation | चेतक स्वामी की स्थिति समझता है",
+        "Sacrifice is expression of deep love | बलिदान गहरे प्रेम की अभिव्यक्ति"
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "How does the poet convey the speed and power of Chetak in the poem?",
+      "questionHi": "कवि कविता में चेतक की गति और शक्ति को कैसे व्यक्त करता है?",
+      "answer": "The poet conveys Chetak's speed and power through dynamic action verbs and similes. Chetak is described as flying or racing like the wind, with his hooves barely touching the ground. The imagery of him leaping across the wide nullah (stream) conveys extraordinary power. Similes comparing him to lightning or a storm bird further emphasize his swiftness. The breathless pace of the poem's verses itself mirrors the relentless gallop of the great horse.",
+      "answerHi": "कवि गतिशील क्रिया-विशेषणों और उपमाओं के माध्यम से चेतक की गति और शक्ति को व्यक्त करता है। चेतक को हवा की तरह उड़ते या दौड़ते हुए वर्णित किया गया है, उसके खुर मुश्किल से जमीन को छूते हैं। उसके द्वारा चौड़े नाले को पार करने का चित्रण असाधारण शक्ति को व्यक्त करता है। उसे बिजली या तूफान के पक्षी से तुलना करने वाली उपमाएँ उसकी तेज़ी को और अधिक उजागर करती हैं। कविता की पंक्तियों की साँस-रोक देने वाली गति स्वयं महान घोड़े की अथक दौड़ का प्रतिबिंब है।",
+      "keyPoints": [
+        "Dynamic action verbs used | गतिशील क्रिया-विशेषणों का प्रयोग",
+        "Similes like wind, lightning | हवा, बिजली जैसी उपमाएँ",
+        "Leap across nullah shows power | नाले को पार करना शक्ति दर्शाता है",
+        "Pace of poem mirrors gallop | कविता की गति दौड़ का प्रतिबिंब"
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Why does the poet give as much importance to Chetak as to Maharana Pratap?",
+      "questionHi": "कवि चेतक को महाराणा प्रताप के समान महत्व क्यों देता है?",
+      "answer": "The poet gives equal importance to Chetak because his contribution to Maharana Pratap's survival — and thus to the spirit of Rajput resistance — was as significant as any human warrior's deed. Without Chetak, Maharana Pratap might have been captured or killed, ending the struggle for Mewar's independence. By elevating the horse to heroic status, the poet also reminds us that heroism is not limited to humans; it can be found in any living being that acts with courage, loyalty, and selfless love.",
+      "answerHi": "कवि चेतक को समान महत्व देता है क्योंकि महाराणा प्रताप के जीवित रहने में — और इस प्रकार राजपूत प्रतिरोध की भावना में — उसका योगदान किसी भी मानव योद्धा के कार्य जितना ही महत्वपूर्ण था। चेतक के बिना, महाराणा प्रताप को पकड़ लिया जाता या मार दिया जाता, जिससे मेवाड़ की स्वतंत्रता के लिए संघर्ष समाप्त हो जाता। घोड़े को वीरोचित दर्जा देकर, कवि हमें यह भी याद दिलाता है कि वीरता केवल मनुष्यों तक सीमित नहीं है; यह किसी भी प्राणी में मिल सकती है जो साहस, वफ़ादारी और निःस्वार्थ प्रेम के साथ कार्य करता है।",
+      "keyPoints": [
+        "Chetak's role crucial to Pratap's survival | प्रताप के जीवित रहने में चेतक की भूमिका महत्वपूर्ण",
+        "Without Chetak, struggle could have ended | चेतक के बिना संघर्ष समाप्त हो सकता था",
+        "Heroism not limited to humans | वीरता केवल मनुष्यों तक सीमित नहीं",
+        "Any being can show courage and love | कोई भी प्राणी साहस और प्रेम दिखा सकता है"
+      ]
+    },
+    {
+      "id": "q21",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Write a critical appreciation of 'Chetak Ki Veerta' covering its theme, literary devices, language, and emotional impact.",
+      "questionHi": "'चेतक की वीरता' की विषय-वस्तु, साहित्यिक उपकरणों, भाषा और भावनात्मक प्रभाव को शामिल करते हुए एक आलोचनात्मक प्रशंसा लिखिए।",
+      "answer": "Critical Appreciation of 'Chetak Ki Veerta': The poem is a masterpiece of heroic verse (veer kavita) in Hindi literature. Theme: The central theme is the selfless sacrifice and loyalty of Chetak, Maharana Pratap's horse, at the Battle of Haldighati. The poem glorifies patriotism, duty, and the bond between a warrior and his faithful companion. Literary Devices: The poem is rich in Veera Ras (heroic sentiment), which is its dominant emotion. Personification elevates Chetak by giving him human virtues. Vivid similes compare him to thunder, lightning, and storm birds. Alliteration and onomatopoeia enhance the battle atmosphere. Language: The language is energetic, passionate, and musical. Sanskrit-influenced Hindi vocabulary adds grandeur, while the rhythmic verse creates a galloping effect that mirrors Chetak's movement. Emotional Impact: The poem stirs feelings of pride, admiration, and sadness simultaneously. We feel proud of Chetak's heroism, admire his loyalty, and grieve his death. The climax, where Chetak falls after ensuring his master's safety, is deeply moving. Overall, it is a timeless tribute to courage and sacrifice.",
+      "answerHi": "'चेतक की वीरता' की आलोचनात्मक प्रशंसा: यह कविता हिंदी साहित्य में वीर काव्य की एक उत्कृष्ट रचना है। विषय-वस्तु: केंद्रीय विषय हल्दीघाटी के युद्ध में महाराणा प्रताप के घोड़े चेतक का निःस्वार्थ बलिदान और वफ़ादारी है। कविता देशभक्ति, कर्तव्य और एक योद्धा तथा उसके वफ़ादार साथी के बीच के बंधन को गौरवान्वित करती है। साहित्यिक उपकरण: कविता वीर रस से परिपूर्ण है, जो इसकी प्रमुख भावना है। मानवीकरण चेतक को मानवीय गुण देकर उसे ऊँचा उठाता है। जीवंत उपमाएँ उसकी तुलना गर्जन, बिजली और तूफान के पक्षियों से करती हैं। अनुप्रास और ध्वन्यात्मकता युद्ध के वातावरण को बढ़ाती है। भाषा: भाषा ऊर्जावान, जोशीली और संगीतमय है। संस्कृत-प्रभावित हिंदी शब्दावली भव्यता जोड़ती है, जबकि लयबद्ध छंद दौड़ने का प्रभाव बनाता है जो चेतक की गति को प्रतिबिंबित करता है। भावनात्मक प्रभाव: कविता एक साथ गर्व, प्रशंसा और दुख की भावनाएँ जगाती है। चेतक की वीरता पर हमें गर्व होता है, उसकी वफ़ादारी की प्रशंसा करते हैं और उसकी मृत्यु पर शोक मनाते हैं। वह चरमोत्कर्ष, जहाँ चेतक अपने स्वामी की सुरक्षा सुनिश्चित करने के बाद गिर पड़ता है, गहराई से मर्मस्पर्शी है। कुल मिलाकर, यह साहस और बलिदान को एक कालजयी श्रद्धांजलि है।",
+      "keyPoints": [
+        "Central theme: loyalty, sacrifice, patriotism | केंद्रीय विषय: वफ़ादारी, बलिदान, देशभक्ति",
+        "Literary devices: Veera Ras, personification, simile | साहित्यिक उपकरण: वीर रस, मानवीकरण, उपमा",
+        "Language: energetic, Sanskrit-influenced, rhythmic | भाषा: ऊर्जावान, संस्कृत-प्रभावित, लयबद्ध",
+        "Emotional impact: pride, admiration, grief | भावनात्मक प्रभाव: गर्व, प्रशंसा, दुख"
+      ]
+    },
+    {
+      "id": "q22",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "How does 'Chetak Ki Veerta' use the historical event of Haldighati to convey universal moral lessons? Explain with reference to the poem.",
+      "questionHi": "'चेतक की वीरता' हल्दीघाटी की ऐतिहासिक घटना का उपयोग सार्वभौमिक नैतिक पाठ देने के लिए कैसे करती है? कविता के संदर्भ में व्याख्या कीजिए।",
+      "answer": "The poem uses the historical Battle of Haldighati (1576) as its setting but transforms it into a vehicle for universal moral lessons. Lesson 1 — Courage Over Fear: The poem shows that true courage means acting rightly even when danger is overwhelming. Chetak, although wounded, chose to carry his master rather than flee, teaching us that fear must never overcome duty. Lesson 2 — Loyalty is Supreme: Chetak's undying loyalty shows that faithfulness to one's bond is more precious than self-preservation. Lesson 3 — Sacrifice Immortalizes: Chetak's sacrifice gave him immortality. He lives on in poems, statues, and cultural memory, showing that selfless deeds never perish. Lesson 4 — Heroism Has No Species: By making a horse the hero, the poem teaches that greatness is measured not by who you are, but by what you do. Lesson 5 — The Power of Unity: The harmony between Pratap and Chetak shows how unity and trust between companions can overcome even the most impossible odds. These lessons from a historical ballad remain relevant for all times and people.",
+      "answerHi": "कविता अपनी पृष्ठभूमि के रूप में हल्दीघाटी के ऐतिहासिक युद्ध (1576) का उपयोग करती है लेकिन इसे सार्वभौमिक नैतिक पाठों के माध्यम में बदल देती है। पाठ 1 — भय पर साहस: कविता दिखाती है कि सच्चा साहस तब भी सही कार्य करना है जब खतरा भारी हो। चेतक, हालाँकि घायल था, अपने स्वामी को ले जाना चुना न कि भागना, हमें सिखाता है कि भय को कभी कर्तव्य पर हावी नहीं होना चाहिए। पाठ 2 — वफ़ादारी सर्वोच्च है: चेतक की अमर वफ़ादारी दिखाती है कि अपने बंधन के प्रति निष्ठा आत्म-संरक्षण से अधिक बहुमूल्य है। पाठ 3 — बलिदान अमर करता है: चेतक के बलिदान ने उसे अमरता दी। वह कविताओं, मूर्तियों और सांस्कृतिक स्मृति में जीवित है, दिखाता है कि निःस्वार्थ कार्य कभी नष्ट नहीं होते। पाठ 4 — वीरता की कोई प्रजाति नहीं: एक घोड़े को नायक बनाकर, कविता सिखाती है कि महानता इससे नहीं मापी जाती कि आप कौन हैं, बल्कि इससे मापी जाती है कि आप क्या करते हैं। पाठ 5 — एकता की शक्ति: प्रताप और चेतक के बीच सामंजस्य दिखाता है कि साथियों के बीच एकता और विश्वास सबसे असंभव बाधाओं को भी पार कर सकता है।",
+      "keyPoints": [
+        "Courage over fear — act right despite danger | भय पर साहस — खतरे में भी सही कार्य करें",
+        "Loyalty more precious than self-preservation | आत्म-संरक्षण से अधिक बहुमूल्य वफ़ादारी",
+        "Sacrifice grants immortality | बलिदान अमरता देता है",
+        "Heroism measured by deeds, not species | वीरता कार्यों से मापी जाती है, प्रजाति से नहीं"
+      ]
+    },
+    {
+      "id": "q23",
+      "type": "value-based",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Chetak sacrificed his life to save his master. Relate this act of selfless sacrifice to a value you consider most important in life, and explain why.",
+      "questionHi": "चेतक ने अपने स्वामी को बचाने के लिए अपना जीवन बलिदान कर दिया। इस निःस्वार्थ बलिदान के कार्य को जीवन में आपके द्वारा सबसे महत्वपूर्ण माने जाने वाले एक मूल्य से जोड़िए और समझाइए कि क्यों।",
+      "answer": "Chetak's selfless sacrifice embodies the value of Selfless Service (Nishkam Seva). He did not pause to consider his own pain or survival — his only thought was the safety of his master. This mirrors the concept of putting others before oneself, which is one of the highest moral virtues across all cultures and religions. In everyday life, this value is practiced by teachers who work tirelessly for their students, soldiers who protect their nation, and parents who sacrifice their own comforts for their children. Chetak teaches us that true service asks nothing in return. He received no reward — not even the chance to rest. Yet his name is immortal. This shows that selfless deeds earn a respect and remembrance that selfish actions never can. As students, we can practice this value by helping our friends, being kind to animals, and contributing to our community without expecting praise or reward. Chetak's story reminds us: the greatest life is one lived for others.",
+      "answerHi": "चेतक का निःस्वार्थ बलिदान निःस्वार्थ सेवा (निष्काम सेवा) के मूल्य को मूर्त रूप देता है। उसने अपने दर्द या जीवन के बारे में सोचने के लिए एक पल भी नहीं रुका — उसका एकमात्र विचार अपने स्वामी की सुरक्षा था। यह दूसरों को स्वयं से पहले रखने की अवधारणा को प्रतिबिंबित करता है, जो सभी संस्कृतियों और धर्मों में सर्वोच्च नैतिक गुणों में से एक है। रोजमर्रा के जीवन में, यह मूल्य उन शिक्षकों द्वारा अभ्यास किया जाता है जो अपने छात्रों के लिए अथक परिश्रम करते हैं, उन सैनिकों द्वारा जो अपने राष्ट्र की रक्षा करते हैं, और उन माता-पिता द्वारा जो अपने बच्चों के लिए अपना आराम त्याग देते हैं। चेतक हमें सिखाता है कि सच्ची सेवा बदले में कुछ नहीं माँगती। छात्रों के रूप में, हम अपने दोस्तों की मदद करके, जानवरों के प्रति दयालु होकर, और प्रशंसा या पुरस्कार की उम्मीद किए बिना अपने समुदाय में योगदान देकर इस मूल्य का अभ्यास कर सकते हैं।",
+      "keyPoints": [
+        "Selfless service is the highest virtue | निःस्वार्थ सेवा सर्वोच्च गुण है",
+        "Chetak thought only of master's safety | चेतक केवल स्वामी की सुरक्षा की सोचा",
+        "Parallels: teachers, soldiers, parents | समानताएँ: शिक्षक, सैनिक, माता-पिता",
+        "Selfless deeds earn immortal remembrance | निःस्वार्थ कार्य अमर स्मृति अर्जित करते हैं"
+      ]
+    },
+    {
+      "id": "q24",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Describe the emotions a reader experiences while reading 'Chetak Ki Veerta'. How does the poet guide the reader from excitement to grief?",
+      "questionHi": "'चेतक की वीरता' पढ़ते समय पाठक किन भावनाओं का अनुभव करता है? कवि पाठक को उत्तेजना से दुख की ओर कैसे ले जाता है?",
+      "answer": "Reading 'Chetak Ki Veerta' is an emotional journey. Phase 1 — Excitement: The poem begins with the energy and thrill of battle. Vivid imagery of warriors, galloping horses, and clashing swords creates excitement and anticipation. The reader feels the adrenaline of the battlefield. Phase 2 — Pride and Admiration: As the poem describes Chetak's fearless charge through enemy lines carrying Maharana Pratap, the reader feels immense pride and admiration for the horse's bravery. The heroic imagery of Chetak leaping over the nullah is the emotional high point. Phase 3 — Anxiety and Tension: As the reader realizes that Chetak is gravely wounded and may not survive, tension builds. The pace of verses slows, mirroring the slowing of Chetak's strength. Phase 4 — Grief and Mourning: When Chetak finally collapses and dies after delivering his master to safety, the reader is overcome with sorrow. This grief is mixed with reverence — the deep respect one feels for a noble sacrifice. The poet masterfully guides this emotional arc, making the poem a deeply moving experience that lingers long after the last verse.",
+      "answerHi": "'चेतक की वीरता' पढ़ना एक भावनात्मक यात्रा है। चरण 1 — उत्तेजना: कविता युद्ध की ऊर्जा और रोमांच के साथ शुरू होती है। योद्धाओं, दौड़ते घोड़ों और टकराती तलवारों के जीवंत चित्र उत्तेजना और प्रत्याशा पैदा करते हैं। चरण 2 — गर्व और प्रशंसा: जैसे ही कविता महाराणा प्रताप को ले जाते हुए दुश्मन की पंक्तियों में चेतक के निडर आगे बढ़ने का वर्णन करती है, पाठक घोड़े की वीरता के लिए अपार गर्व और प्रशंसा महसूस करता है। चरण 3 — चिंता और तनाव: जैसे ही पाठक को पता चलता है कि चेतक गंभीर रूप से घायल है, तनाव बढ़ता है। चरण 4 — दुख और शोक: जब चेतक अंततः अपने स्वामी को सुरक्षित पहुँचाने के बाद गिर पड़ता है और मर जाता है, पाठक दुख से अभिभूत हो जाता है। कवि इस भावनात्मक चाप को कुशलतापूर्वक निर्देशित करता है, कविता को एक गहराई से मर्मस्पर्शी अनुभव बनाता है।",
+      "keyPoints": [
+        "Phase 1: Excitement of battle | चरण 1: युद्ध की उत्तेजना",
+        "Phase 2: Pride and admiration for Chetak | चरण 2: चेतक के लिए गर्व और प्रशंसा",
+        "Phase 3: Anxiety as Chetak weakens | चरण 3: चेतक के कमज़ोर पड़ने पर चिंता",
+        "Phase 4: Grief mixed with reverence | चरण 4: श्रद्धा मिश्रित दुख"
+      ]
+    },
+    {
+      "id": "q25",
+      "type": "case-study",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Read the following lines and answer the questions: 'Wounded yet galloping, Chetak flew through the field / His master's life, a shield more precious than his own.' (a) What literary device is used in these lines? (b) What does 'shield' symbolize? (c) What emotion do these lines evoke?",
+      "questionHi": "निम्नलिखित पंक्तियाँ पढ़कर प्रश्नों के उत्तर दीजिए: 'घायल होकर भी दौड़ा चेतक, मैदान में उड़ता जाता था / स्वामी का जीवन, अपने जीवन से प्रिय उसे लगता जाता था।' (क) इन पंक्तियों में कौन-सा साहित्यिक अलंकार है? (ख) 'प्रिय' यहाँ किसका प्रतीक है? (ग) ये पंक्तियाँ कौन-सी भावना जगाती हैं?",
+      "answer": "(a) Literary Devices: The lines use Personification — the horse is given human-like emotional reasoning (valuing another's life over his own). Simile/metaphor is implied in 'flew through the field' comparing Chetak's speed to flight. Veera Ras (heroic sentiment) pervades the verse. (b) Symbolism: 'Master's life more precious than his own' symbolizes the supreme ideal of Selfless Love (Nishkam Prem). It represents the idea that true devotion requires placing the beloved's welfare above one's own existence. In a broader sense, it symbolizes the sacrifice of a noble soul. (c) Emotional Response: These lines evoke deep admiration and a lump-in-throat sadness. The reader is moved by the contrast between Chetak's severe pain and his unshaken resolve. The emotion is a complex mix of awe (for his courage), love (for his devotion), and grief (for his impending death). This emotional blend is the hallmark of great heroic poetry.",
+      "answerHi": "(क) साहित्यिक अलंकार: पंक्तियों में मानवीकरण — घोड़े को मानवीय भावनात्मक तर्क दिया गया है (दूसरे के जीवन को अपने से अधिक मूल्यवान मानना)। 'उड़ता जाता था' में उपमा/रूपक चेतक की गति की तुलना उड़ान से करता है। वीर रस पूरी पंक्ति में व्याप्त है। (ख) प्रतीकवाद: 'स्वामी का जीवन अपने से प्रिय' निःस्वार्थ प्रेम के सर्वोच्च आदर्श का प्रतीक है। यह उस विचार का प्रतिनिधित्व करता है कि सच्ची भक्ति के लिए प्रिय के कल्याण को अपने अस्तित्व से ऊपर रखना आवश्यक है। (ग) भावनात्मक प्रतिक्रिया: ये पंक्तियाँ गहरी प्रशंसा और गले में गाँठ जैसा दुख जगाती हैं। पाठक चेतक की गंभीर पीड़ा और उसके अटल संकल्प के बीच के विरोधाभास से मर्मस्पर्शी हो जाता है। यह भावना विस्मय (उसके साहस के लिए), प्रेम (उसकी भक्ति के लिए) और शोक (उसकी आसन्न मृत्यु के लिए) का जटिल मिश्रण है।",
+      "keyPoints": [
+        "Personification and Veera Ras as literary devices | मानवीकरण और वीर रस साहित्यिक अलंकार",
+        "Symbolizes selfless love and supreme devotion | निःस्वार्थ प्रेम और सर्वोच्च भक्ति का प्रतीक",
+        "Evokes admiration, love, and grief together | एक साथ प्रशंसा, प्रेम और शोक जगाती हैं",
+        "Contrast between pain and resolve is powerful | पीड़ा और संकल्प का विरोधाभास शक्तिशाली है"
+      ]
+    },
+    {
+      "id": "q26",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Maharana Pratap is known as a symbol of national pride. How does the poem 'Chetak Ki Veerta' reinforce this idea?",
+      "questionHi": "महाराणा प्रताप को राष्ट्रीय गर्व के प्रतीक के रूप में जाना जाता है। 'चेतक की वीरता' कविता इस विचार को कैसे पुष्ट करती है?",
+      "answer": "The poem reinforces Maharana Pratap's status as a symbol of national pride through several layers. First, it presents him as a king who chose hardship over submission — he lived in forests, ate humble food, and endured great suffering rather than accept Mughal dominance. This voluntary sacrifice for the freedom of his people is the essence of national pride. Second, Chetak's dedication to Pratap can be read as an allegory for the nation's devotion to its ideal of independence. The horse represents the common soldier or citizen who gives everything for the greater cause. Third, the poem's Veera Ras stirs patriotic feelings in readers across generations, keeping the flame of national pride alive. Fourth, the battle imagery of the poem shows that even in defeat (Pratap lost the battle), the spirit of resistance was not extinguished — and this indomitable spirit is what makes Pratap a timeless national symbol. The poem thus becomes a patriotic anthem wrapped in a horse's heroic story.",
+      "answerHi": "कविता कई स्तरों पर महाराणा प्रताप की राष्ट्रीय गर्व के प्रतीक के रूप में स्थिति को पुष्ट करती है। पहला, यह उन्हें एक ऐसे राजा के रूप में प्रस्तुत करती है जिन्होंने समर्पण से अधिक कठिनाई को चुना — वे जंगलों में रहे, साधारण भोजन खाया, और मुगल प्रभुत्व को स्वीकार करने के बजाय बड़ी पीड़ा सही। दूसरा, प्रताप के प्रति चेतक का समर्पण स्वतंत्रता के आदर्श के प्रति राष्ट्र की भक्ति के रूपक के रूप में पढ़ा जा सकता है। तीसरा, कविता का वीर रस पीढ़ियों में पाठकों में देशभक्ति की भावनाएँ जगाता है। चौथा, कविता के युद्ध चित्रण से पता चलता है कि हार में भी (प्रताप युद्ध हार गए), प्रतिरोध की भावना नहीं बुझी — और यह अदम्य भावना ही प्रताप को एक कालजयी राष्ट्रीय प्रतीक बनाती है।",
+      "keyPoints": [
+        "Pratap chose hardship over submission | प्रताप ने समर्पण से अधिक कठिनाई चुनी",
+        "Chetak as allegory for national devotion | चेतक राष्ट्रीय भक्ति के रूपक के रूप में",
+        "Veera Ras stirs patriotic feelings | वीर रस देशभक्ति की भावनाएँ जगाता है",
+        "Indomitable spirit even in defeat | हार में भी अदम्य भावना"
+      ]
+    },
+    {
+      "id": "q27",
+      "type": "value-based",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "If you were to write a short poem praising a modern-day hero who shows the same qualities as Chetak (loyalty, courage, sacrifice), who would you choose and why? What lines would you write?",
+      "questionHi": "यदि आप एक आधुनिक नायक की प्रशंसा में एक छोटी कविता लिखते जो चेतक (वफ़ादारी, साहस, बलिदान) जैसे गुण दिखाता है, तो आप किसे चुनेंगे और क्यों? आप कौन-सी पंक्तियाँ लिखेंगे?",
+      "answer": "I would choose a soldier of the Indian Army as my modern-day hero — someone who guards the nation's borders in freezing mountains or scorching deserts, far from family, without recognition. Like Chetak, the soldier shows loyalty (to the nation), courage (facing danger daily), and sacrifice (giving up personal comfort and risking life). Sample lines: 'Silent guardian of snowy peaks, / Through storm and cold your duty speaks. / No medal sought, no glory claimed, / Yet in our hearts your name is framed. / Like Chetak bold, you bear the load, / And light for us the darkest road.' These lines reflect Chetak's spirit in a modern context. The comparison reminds us that the values the poem celebrates — loyalty, sacrifice, and selfless courage — are not relics of the past but living virtues embodied by heroes among us today.",
+      "answerHi": "मैं भारतीय सेना के एक सैनिक को अपना आधुनिक नायक चुनूँगा — कोई ऐसा व्यक्ति जो परिवार से दूर, बर्फीले पहाड़ों या तपती रेगिस्तान में, बिना पहचान के, राष्ट्र की सीमाओं की रक्षा करता है। चेतक की तरह, सैनिक वफ़ादारी (राष्ट्र के प्रति), साहस (रोज खतरे का सामना करते हुए), और बलिदान (व्यक्तिगत आराम त्यागकर और जीवन जोखिम में डालकर) दिखाता है। नमूना पंक्तियाँ: 'बर्फीली चोटियों का मूक संरक्षक / तूफान और ठंड में भी कर्तव्य निभाता / न पदक की चाह, न गौरव का दावा / पर हमारे दिलों में उसका नाम बसा / चेतक की तरह बोझ उठाता है / और अँधेरे में भी रोशनी दिखाता है।'",
+      "keyPoints": [
+        "Indian Army soldier as modern Chetak | भारतीय सेना का सैनिक आधुनिक चेतक",
+        "Same qualities: loyalty, courage, sacrifice | समान गुण: वफ़ादारी, साहस, बलिदान",
+        "Sample poem lines in creative response | रचनात्मक उत्तर में नमूना कविता पंक्तियाँ",
+        "Values are timeless and present today | मूल्य कालजयी हैं और आज भी जीवित हैं"
+      ]
+    },
+    {
+      "id": "q28",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "How is the theme of 'duty before self' depicted through Chetak's actions in the poem? Connect this theme to its relevance in today's world.",
+      "questionHi": "कविता में चेतक के कार्यों के माध्यम से 'स्वयं से पहले कर्तव्य' की विषय-वस्तु कैसे चित्रित की गई है? इस विषय-वस्तु की आज की दुनिया में प्रासंगिकता से जोड़िए।",
+      "answer": "The theme of 'Duty Before Self' is the moral spine of the poem. Chetak's entire story is an enactment of this principle: his body was broken, his wounds were severe, and by any reasonable measure he had 'done enough' — yet he pushed on. In the poem, every step Chetak takes after being wounded is a choice of duty over self-preservation. He does not stop when pain overcomes him; he stops only when duty is fulfilled. This theme resonates powerfully in today's world. Consider a doctor who works through the night during a health crisis, ignoring their own exhaustion. Consider a firefighter who rushes into a burning building while others flee. Consider a teacher who stays after hours to help a struggling student. All these modern heroes embody Chetak's principle — duty first, self later. In a world increasingly driven by personal gain and instant gratification, Chetak's story is a timely reminder that the highest fulfillment comes not from what we get, but from what we give. True heroes are defined by what they do when it costs them the most.",
+      "answerHi": "'स्वयं से पहले कर्तव्य' की विषय-वस्तु कविता का नैतिक आधार है। चेतक की पूरी कहानी इस सिद्धांत का अभिनय है: उसका शरीर टूट चुका था, घाव गंभीर थे, और किसी भी उचित माप से वह 'पर्याप्त कर चुका था' — फिर भी वह आगे बढ़ता रहा। कविता में, घायल होने के बाद चेतक का हर कदम कर्तव्य को आत्म-संरक्षण के ऊपर चुनना है। वह दर्द के बावजूद नहीं रुकता; वह केवल तब रुकता है जब कर्तव्य पूरा हो जाता है। यह विषय-वस्तु आज की दुनिया में शक्तिशाली ढंग से गूँजती है। स्वास्थ्य संकट के दौरान रात भर काम करने वाला डॉक्टर, जलती इमारत में दौड़ने वाला अग्निशामक, देर तक रुककर संघर्षरत छात्र की मदद करने वाला शिक्षक — ये सभी आधुनिक नायक चेतक के सिद्धांत को मूर्त रूप देते हैं।",
+      "keyPoints": [
+        "Chetak chose duty over self-preservation | चेतक ने आत्म-संरक्षण के ऊपर कर्तव्य चुना",
+        "Stopped only when duty was fulfilled | केवल तब रुका जब कर्तव्य पूरा हुआ",
+        "Modern parallels: doctors, firefighters, teachers | आधुनिक समानताएँ: डॉक्टर, अग्निशामक, शिक्षक",
+        "True fulfillment comes from giving, not getting | सच्ची तृप्ति देने से आती है, पाने से नहीं"
+      ]
+    },
+    {
+      "id": "q29",
+      "type": "case-study",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "A student says: 'The poem is just about a horse — why should we study it in school?' Write a detailed response arguing why 'Chetak Ki Veerta' deserves its place in the school curriculum.",
+      "questionHi": "एक छात्र कहता है: 'यह कविता केवल एक घोड़े के बारे में है — हमें इसे स्कूल में क्यों पढ़ना चाहिए?' 'चेतक की वीरता' के स्कूली पाठ्यक्रम में अपना स्थान पाने के पक्ष में एक विस्तृत उत्तर लिखिए।",
+      "answer": "Argument for including 'Chetak Ki Veerta' in the school curriculum: Point 1 — Historical Education: The poem is rooted in the real Battle of Haldighati (1576) and introduces students to an important chapter of Indian history, the spirit of Rajput resistance, and the life of Maharana Pratap — a genuine national hero. Point 2 — Literary Education: It is a rich example of Veera Ras, personification, battle imagery, and heroic ballad form. Students learn key concepts of Hindi literary criticism through this single poem. Point 3 — Value Education: The poem teaches loyalty, sacrifice, duty, and patriotism — values explicitly required by education policy for holistic development. Point 4 — Environmental and Empathy Education: By making an animal the hero, the poem teaches empathy for animals and the recognition that all life has dignity and can show nobility. Point 5 — Creative Inspiration: The poem has inspired art, films, statues, and literature for generations — studying it connects students to India's rich creative and cultural legacy. Conclusion: 'Chetak Ki Veerta' is not just about a horse — it is about the best qualities of the heart, wrapped in the thrilling story of a legendary animal. It is exactly what education should be.",
+      "answerHi": "'चेतक की वीरता' को स्कूली पाठ्यक्रम में शामिल करने के पक्ष में तर्क: बिंदु 1 — ऐतिहासिक शिक्षा: कविता वास्तविक हल्दीघाटी के युद्ध (1576) में निहित है। बिंदु 2 — साहित्यिक शिक्षा: यह वीर रस, मानवीकरण, युद्ध-चित्रण और वीरगाथा रूप का एक समृद्ध उदाहरण है। बिंदु 3 — मूल्य शिक्षा: कविता वफ़ादारी, बलिदान, कर्तव्य और देशभक्ति सिखाती है। बिंदु 4 — पर्यावरण और सहानुभूति शिक्षा: एक जानवर को नायक बनाकर, कविता जानवरों के प्रति सहानुभूति सिखाती है। बिंदु 5 — रचनात्मक प्रेरणा: कविता ने पीढ़ियों के लिए कला, फ़िल्मों, मूर्तियों और साहित्य को प्रेरित किया है। निष्कर्ष: 'चेतक की वीरता' केवल एक घोड़े के बारे में नहीं है — यह एक पौराणिक जानवर की रोमांचक कहानी में लिपटे हृदय के सर्वोत्तम गुणों के बारे में है।",
+      "keyPoints": [
+        "Historical: introduces Haldighati and Pratap | ऐतिहासिक: हल्दीघाटी और प्रताप का परिचय",
+        "Literary: Veera Ras and personification | साहित्यिक: वीर रस और मानवीकरण",
+        "Values: loyalty, duty, patriotism | मूल्य: वफ़ादारी, कर्तव्य, देशभक्ति",
+        "Empathy for animals and all living beings | जानवरों और सभी जीवों के प्रति सहानुभूति"
+      ]
+    },
+    {
+      "id": "q30",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Imagine you are Chetak in his final moments. Write a first-person account of his thoughts, feelings, and actions as he carries Maharana Pratap to safety.",
+      "questionHi": "कल्पना कीजिए कि आप अपने अंतिम क्षणों में चेतक हैं। जैसे ही वह महाराणा प्रताप को सुरक्षित स्थान पर ले जाता है, उसके विचारों, भावनाओं और कार्यों का प्रथम-पुरुष वर्णन लिखिए।",
+      "answer": "Creative Writing — Chetak's Perspective: 'The arrow tore through my leg, but I barely felt it. All I could feel was his weight on my back — the weight of my master, my Maharana, the pride of Mewar. The enemy surrounded us from all sides. I heard their war cries, felt the heat of their torches. But my eyes were fixed ahead. One thought consumed me: he must live. My body screamed in protest — every muscle burning, every breath a battle. But I ran. I ran as I had never run before. I could hear his voice above my pounding heart: 'Chetak, my brave one.' That was enough. Ahead lay the nullah — wide and deep. A lesser horse would have stopped. But I was not going to stop. I gathered my last reserve of strength, and I leaped. I flew. For one glorious moment, I was above the pain, above the battle, above the earth itself. And we cleared it. I set him down on the other side — my master, my purpose, my everything. Then my legs gave way. As I sank to the earth, I felt no regret. Only peace. My duty was done. And that was enough.'",
+      "answerHi": "रचनात्मक लेखन — चेतक का दृष्टिकोण: 'तीर मेरी टाँग में धँस गया, पर मुझे मुश्किल से महसूस हुआ। मैं केवल अपनी पीठ पर उसका वजन महसूस कर सकता था — मेरे स्वामी, मेरे महाराणा, मेवाड़ की शान का वजन। दुश्मन ने हमें चारों तरफ से घेर लिया। मैंने उनकी रणहुंकार सुनी, उनकी मशालों की गर्मी महसूस की। पर मेरी आँखें आगे टिकी थीं। एक विचार ने मुझे जकड़ रखा था: उन्हें जीना चाहिए। मेरा शरीर विरोध में चीख रहा था — हर माँसपेशी जल रही थी, हर साँस एक युद्ध थी। पर मैं दौड़ा। जैसा मैंने पहले कभी नहीं दौड़ा था। मैं अपनी धड़कती छाती के ऊपर उनकी आवाज़ सुन सकता था: चेतक, मेरे वीर। बस इतना काफी था। आगे नाला था — चौड़ा और गहरा। एक साधारण घोड़ा रुक जाता। पर मैं रुकने वाला नहीं था। मैंने अपनी आखिरी ताकत जुटाई, और मैं कूद गया। मैंने उन्हें दूसरी तरफ उतारा — मेरे स्वामी, मेरा उद्देश्य, मेरा सब कुछ। फिर मेरी टाँगें जवाब दे गईं। पर जब मैं धरती पर गिरा, मुझे कोई पछतावा नहीं था। केवल शांति।'",
+      "keyPoints": [
+        "First-person creative writing from Chetak's view | चेतक के दृष्टिकोण से प्रथम-पुरुष रचनात्मक लेखन",
+        "Describes pain, resolve, and the final leap | पीड़ा, संकल्प और अंतिम छलाँग का वर्णन",
+        "Ends with peace after duty fulfilled | कर्तव्य पूरा होने पर शांति के साथ समाप्त",
+        "Demonstrates empathy and imaginative writing | सहानुभूति और कल्पनाशील लेखन का प्रदर्शन"
+      ]
+    }
+  ]
+}
