@@ -1,0 +1,481 @@
+{
+  "chapterTitle": "Prime Time",
+  "chapterTitleHi": "अभाज्य समय",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Define prime numbers and composite numbers with two examples of each.",
+      "questionHi": "अभाज्य संख्याएँ और भाज्य संख्याएँ किसे कहते हैं? प्रत्येक के दो उदाहरण दीजिए।",
+      "answer": "1. Prime Numbers: Numbers greater than 1 which have exactly two factors, namely 1 and the number itself, are called prime numbers. Examples: 2, 3, 5, 7.\n2. Composite Numbers: Numbers greater than 1 which have more than two factors are called composite numbers. Examples: 4 (factors: 1, 2, 4), 6 (factors: 1, 2, 3, 6).",
+      "answerHi": "1. अभाज्य संख्याएँ (Prime Numbers): 1 से बड़ी वे संख्याएँ जिनके केवल दो गुणनखंड होते हैं— 1 और स्वयं वही संख्या, अभाज्य संख्याएँ कहलाती हैं। उदाहरण: 2, 3, 5, 7।\n2. भाज्य संख्याएँ (Composite Numbers): 1 से बड़ी वे संख्याएँ जिनके दो से अधिक गुणनखंड होते हैं, भाज्य संख्याएँ कहलाती हैं। उदाहरण: 4 (गुणनखंड: 1, 2, 4), 6 (गुणनखंड: 1, 2, 3, 6)।",
+      "keyPoints": [
+        "Prime numbers have only 2 factors: 1 and the number itself. / अभाज्य संख्याओं के केवल 2 गुणनखंड होते हैं: 1 और स्वयं संख्या।",
+        "Composite numbers have more than 2 factors. / भाज्य संख्याओं के 2 से अधिक गुणनखंड होते हैं।",
+        "2 is the smallest and the only even prime number. / 2 सबसे छोटी और एकमात्र सम अभाज्य संख्या है।",
+        "4 is the smallest composite number. / 4 सबसे छोटी भाज्य संख्या है।"
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Why is the number 1 considered neither a prime number nor a composite number? Explain with reason.",
+      "questionHi": "संख्या 1 को न तो अभाज्य संख्या और न ही भाज्य संख्या क्यों माना जाता है? कारण सहित स्पष्ट कीजिए।",
+      "answer": "By definition, a prime number must have exactly two distinct factors (1 and the number itself), while a composite number must have more than two distinct factors. The number 1 has only one factor, which is 1 itself. Since it does not meet the condition of having two factors (for prime) or more than two factors (for composite), 1 is a unique number that is neither prime nor composite.",
+      "answerHi": "परिभाषा के अनुसार, एक अभाज्य संख्या के ठीक दो भिन्न गुणनखंड (1 और स्वयं वह संख्या) होने चाहिए, जबकि एक भाज्य संख्या के दो से अधिक गुणनखंड होने चाहिए। संख्या 1 का केवल एक ही गुणनखंड होता है, जो कि स्वयं 1 है। चूँकि यह न तो दो गुणनखंडों की शर्त पूरा करता है और न ही दो से अधिक गुणनखंडों की, इसलिए 1 एक विशिष्ट संख्या है जो न तो अभाज्य है और न ही भाज्य।",
+      "keyPoints": [
+        "Number 1 has only ONE factor (itself). / संख्या 1 का केवल एक ही गुणनखंड होता है (स्वयं)।",
+        "Prime = exactly 2 distinct factors. / अभाज्य = ठीक 2 भिन्न गुणनखंड।",
+        "Composite = more than 2 distinct factors. / भाज्य = 2 से अधिक भिन्न गुणनखंड।",
+        "Therefore, 1 is a unique number (neither prime nor composite). / अतः 1 एक अद्वितीय संख्या है (न तो अभाज्य और न ही भाज्य)।"
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Write all the prime numbers between 10 and 30. How many such prime numbers are there?",
+      "questionHi": "10 और 30 के बीच की सभी अभाज्य संख्याएँ लिखिए। ऐसी कुल कितनी अभाज्य संख्याएँ हैं?",
+      "answer": "To find prime numbers between 10 and 30, we check numbers that are divisible only by 1 and themselves.\nThe prime numbers between 10 and 30 are: 11, 13, 17, 19, 23, and 29.\nCounting these numbers, there are exactly 6 prime numbers between 10 and 30.",
+      "answerHi": "10 और 30 के बीच की अभाज्य संख्याएँ ज्ञात करने के लिए, हम उन संख्याओं को देखते हैं जो केवल 1 और स्वयं से विभाजित होती हैं।\n10 और 30 के बीच की अभाज्य संख्याएँ हैं: 11, 13, 17, 19, 23 और 29।\nइनकी गिनती करने पर, 10 और 30 के बीच कुल 6 अभाज्य संख्याएँ हैं।",
+      "keyPoints": [
+        "List primes between 10 and 30: 11, 13, 17, 19, 23, 29. / 10 से 30 के बीच की अभाज्य संख्याएँ: 11, 13, 17, 19, 23, 29।",
+        "Total count = 6 prime numbers. / कुल संख्या = 6 अभाज्य संख्याएँ।",
+        "Check that none of these are divisible by 2, 3, or 5. / जाँच करें कि इनमें से कोई भी 2, 3 या 5 से विभाज्य नहीं है।"
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "What are twin primes? Write two pairs of twin primes between 1 and 50.",
+      "questionHi": "जुड़वाँ अभाज्य (Twin Primes) संख्याएँ क्या होती हैं? 1 और 50 के बीच जुड़वाँ अभाज्य संख्याओं के दो युग्म (जोड़े) लिखिए।",
+      "answer": "Twin Primes: Two prime numbers whose difference is 2 are called twin primes.\nExamples between 1 and 50:\n1st Pair: (3, 5) since both are primes and 5 - 3 = 2.\n2nd Pair: (11, 13) since both are primes and 13 - 11 = 2.\n(Other valid pairs are (5, 7), (17, 19), (29, 31), and (41, 43)).",
+      "answerHi": "जुड़वाँ अभाज्य (Twin Primes): ऐसी दो अभाज्य संख्याएँ जिनके बीच का अंतर 2 हो, जुड़वाँ अभाज्य संख्याएँ कहलाती हैं।\n1 से 50 के बीच के उदाहरण:\nपहला युग्म: (3, 5) क्योंकि दोनों अभाज्य हैं और 5 - 3 = 2।\nदूसरा युग्म: (11, 13) क्योंकि दोनों अभाज्य हैं और 13 - 11 = 2।\n(अन्य सही युग्म (5, 7), (17, 19), (29, 31) और (41, 43) हैं)।",
+      "keyPoints": [
+        "Twin Primes = Two prime numbers with a difference of 2. / जुड़वाँ अभाज्य = 2 के अंतर वाली दो अभाज्य संख्याएँ।",
+        "Example 1: (3, 5) -> 5 - 3 = 2. / उदाहरण 1: (3, 5) -> 5 - 3 = 2।",
+        "Example 2: (11, 13) -> 13 - 11 = 2. / उदाहरण 2: (11, 13) -> 13 - 11 = 2।",
+        "Remember: Both numbers in the pair MUST be prime! / याद रखें: जोड़े की दोनों संख्याएँ अभाज्य होनी चाहिए!"
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "What are co-prime numbers? Check whether 15 and 28 are co-prime numbers.",
+      "questionHi": "सह-अभाज्य (Co-prime) संख्याएँ क्या होती हैं? जाँच कीजिए कि क्या 15 और 28 सह-अभाज्य संख्याएँ हैं।",
+      "answer": "Co-prime Numbers: Two numbers are said to be co-prime if they do not have any common factor other than 1 (i.e., their HCF is 1).\nChecking for 15 and 28:\nFactors of 15 = 1, 3, 5, 15\nFactors of 28 = 1, 2, 4, 7, 14, 28\nCommon factor of 15 and 28 = 1 only.\nSince the only common factor is 1, 15 and 28 are co-prime numbers.",
+      "answerHi": "सह-अभाज्य संख्याएँ (Co-prime Numbers): दो संख्याएँ सह-अभाज्य कहलाती हैं यदि उनमें 1 के अलावा कोई अन्य सार्व गुणनखंड (Common Factor) न हो (अर्थात् उनका म.स. 1 हो)।\n15 और 28 की जाँच:\n15 के गुणनखंड = 1, 3, 5, 15\n28 के गुणनखंड = 1, 2, 4, 7, 14, 28\n15 और 28 का सार्व गुणनखंड = केवल 1।\nचूँकि इनका एकमात्र सार्व गुणनखंड 1 है, अतः 15 और 28 सह-अभाज्य संख्याएँ हैं।",
+      "keyPoints": [
+        "Co-prime numbers have ONLY 1 as their common factor. / सह-अभाज्य संख्याओं का सार्व गुणनखंड केवल 1 होता है।",
+        "HCF of co-prime numbers is always 1. / सह-अभाज्य संख्याओं का म.स. (HCF) सदैव 1 होता है।",
+        "15 and 28 are composite individually, but co-prime to each other! / 15 और 28 अलग-अलग भाज्य हैं, लेकिन आपस में सह-अभाज्य हैं!"
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Write the first five multiples of 12 and all the factors of 36.",
+      "questionHi": "12 के प्रथम पाँच गुणज (Multiples) और 36 के सभी गुणनखंड (Factors) लिखिए।",
+      "answer": "1. First five multiples of 12:\nTo find multiples, multiply 12 by 1, 2, 3, 4, and 5:\n12 × 1 = 12, 12 × 2 = 24, 12 × 3 = 36, 12 × 4 = 48, 12 × 5 = 60.\nSo, first five multiples of 12 are: 12, 24, 36, 48, 60.\n\n2. All factors of 36:\nWe write 36 as product of two numbers: 1 × 36, 2 × 18, 3 × 12, 4 × 9, 6 × 6.\nSo, all factors of 36 are: 1, 2, 3, 4, 6, 9, 12, 18, and 36.",
+      "answerHi": "1. 12 के प्रथम पाँच गुणज:\nगुणज ज्ञात करने के लिए 12 को 1, 2, 3, 4 और 5 से गुणा करते हैं:\n12 × 1 = 12, 12 × 2 = 24, 12 × 3 = 36, 12 × 4 = 48, 12 × 5 = 60।\nअतः 12 के प्रथम पाँच गुणज हैं: 12, 24, 36, 48, 60।\n\n2. 36 के सभी गुणनखंड:\nहम 36 को दो संख्याओं के गुणनफल के रूप में लिखते हैं: 1 × 36, 2 × 18, 3 × 12, 4 × 9, 6 × 6।\nअतः 36 के सभी गुणनखंड हैं: 1, 2, 3, 4, 6, 9, 12, 18 और 36।",
+      "keyPoints": [
+        "Multiples of 12: 12, 24, 36, 48, 60 (infinite in number). / 12 के गुणज: 12, 24, 36, 48, 60 (अनंत होते हैं)।",
+        "Factors of 36: 1, 2, 3, 4, 6, 9, 12, 18, 36 (finite in number). / 36 के गुणनखंड: 1, 2, 3, 4, 6, 9, 12, 18, 36 (सीमित होते हैं)।",
+        "1 is a factor of every number; every number is a multiple of itself. / 1 प्रत्येक संख्या का गुणनखंड है; प्रत्येक संख्या स्वयं का गुणज है।"
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "Without actual division, test whether the number 5445 is divisible by 3 and 5.",
+      "questionHi": "वास्तविक विभाजन किए बिना, जाँच कीजिए कि क्या संख्या 5445, 3 और 5 से विभाज्य है।",
+      "answer": "1. Test of divisibility by 3:\nA number is divisible by 3 if the sum of its digits is a multiple of 3.\nSum of digits of 5445 = 5 + 4 + 4 + 5 = 18.\nSince 18 is divisible by 3 (18 ÷ 3 = 6), 5445 is divisible by 3.\n\n2. Test of divisibility by 5:\nA number is divisible by 5 if its unit (ones) digit is either 0 or 5.\nIn 5445, the unit digit is 5.\nTherefore, 5445 is divisible by 5.",
+      "answerHi": "1. 3 से विभाज्यता की जाँच:\nकोई संख्या 3 से विभाज्य होती है यदि उसके अंकों का योग 3 का गुणज हो।\n5445 के अंकों का योग = 5 + 4 + 4 + 5 = 18।\nचूँकि 18, 3 से विभाज्य है (18 ÷ 3 = 6), इसलिए 5445 भी 3 से विभाज्य है।\n\n2. 5 से विभाज्यता की जाँच:\nकोई संख्या 5 से विभाज्य होती है यदि उसका इकाई का अंक 0 या 5 हो।\n5445 में इकाई का अंक 5 है।\nअतः 5445, 5 से विभाज्य है।",
+      "keyPoints": [
+        "Divisibility by 3: Sum of digits must be a multiple of 3. / 3 से विभाज्यता: अंकों का योग 3 का गुणज होना चाहिए।",
+        "5 + 4 + 4 + 5 = 18 (Divisible by 3). / 5 + 4 + 4 + 5 = 18 (3 से विभाज्य)।",
+        "Divisibility by 5: Unit digit must be 0 or 5. / 5 से विभाज्यता: इकाई का अंक 0 या 5 होना चाहिए।",
+        "Unit digit is 5, so divisible by 5. / इकाई अंक 5 है, अतः 5 से विभाज्य है।"
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "Check whether the number 297144 is divisible by 6 using divisibility rules.",
+      "questionHi": "विभाज्यता के नियमों का उपयोग करते हुए जाँच कीजिए कि क्या संख्या 297144, 6 से विभाज्य है।",
+      "answer": "Rule: A number is divisible by 6 if it is divisible by both 2 and 3.\n1. Divisibility by 2:\nThe unit digit of 297144 is 4 (an even number). Hence, it is divisible by 2.\n2. Divisibility by 3:\nSum of digits = 2 + 9 + 7 + 1 + 4 + 4 = 27.\nSince 27 is divisible by 3 (27 ÷ 3 = 9), the number is divisible by 3.\n\nConclusion: Since 297144 is divisible by both 2 and 3, it is divisible by 6.",
+      "answerHi": "नियम: कोई संख्या 6 से विभाज्य होती है यदि वह 2 और 3 दोनों से विभाज्य हो।\n1. 2 से विभाज्यता:\n297144 का इकाई अंक 4 (सम संख्या) है। अतः यह 2 से विभाज्य है।\n2. 3 से विभाज्यता:\nअंकों का योग = 2 + 9 + 7 + 1 + 4 + 4 = 27।\nचूँकि 27, 3 से विभाज्य है (27 ÷ 3 = 9), अतः संख्या 3 से विभाज्य है।\n\nनिष्कर्ष: चूँकि 297144 संख्या 2 और 3 दोनों से विभाज्य है, इसलिए यह 6 से भी विभाज्य है।",
+      "keyPoints": [
+        "Divisibility by 6 = Must be divisible by BOTH 2 and 3. / 6 से विभाज्यता = 2 और 3 दोनों से विभाज्य होना अनिवार्य है।",
+        "Unit digit 4 -> Divisible by 2. / इकाई अंक 4 -> 2 से विभाज्य।",
+        "Sum of digits = 27 -> Divisible by 3. / अंकों का योग = 27 -> 3 से विभाज्य।",
+        "Therefore, 297144 is divisible by 6. / अतः 297144, 6 से विभाज्य है।"
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Express 36 as the sum of two odd prime numbers in two different ways.",
+      "questionHi": "36 को दो विषम अभाज्य संख्याओं के योग के रूप में दो अलग-अलग प्रकार से व्यक्त कीजिए।",
+      "answer": "We need to find pairs of odd prime numbers whose sum is 36.\nList of odd primes less than 36: 3, 5, 7, 11, 13, 17, 19, 23, 29, 31.\nChecking pairs:\nWay 1: 5 + 31 = 36 (Both 5 and 31 are odd primes).\nWay 2: 7 + 29 = 36 (Both 7 and 29 are odd primes).\nWay 3: 13 + 23 = 36 (Both 13 and 23 are odd primes).\nWay 4: 17 + 19 = 36 (Both 17 and 19 are odd primes).\nAny two of these ways can be written as the final answer.",
+      "answerHi": "हमें ऐसी दो विषम अभाज्य संख्याओं के जोड़े खोजने हैं जिनका योग 36 हो।\n36 से छोटी विषम अभाज्य संख्याएँ: 3, 5, 7, 11, 13, 17, 19, 23, 29, 31।\nजोड़ों की जाँच:\nपहला तरीका: 5 + 31 = 36 (5 और 31 दोनों विषम अभाज्य हैं)।\nदूसरा तरीका: 7 + 29 = 36 (7 और 29 दोनों विषम अभाज्य हैं)।\nतीसरा तरीका: 13 + 23 = 36 (13 और 23 दोनों विषम अभाज्य हैं)।\nचौथा तरीका: 17 + 19 = 36 (17 और 19 दोनों विषम अभाज्य हैं)।\nइनमें से कोई भी दो तरीके उत्तर के रूप में लिखे जा सकते हैं।",
+      "keyPoints": [
+        "Way 1: 36 = 5 + 31 / तरीका 1: 36 = 5 + 31",
+        "Way 2: 36 = 7 + 29 / तरीका 2: 36 = 7 + 29",
+        "Way 3: 36 = 13 + 23 / तरीका 3: 36 = 13 + 23",
+        "Verify: Both numbers in the sum must be ODD and PRIME! / जाँचें: योग की दोनों संख्याएँ विषम और अभाज्य होनी चाहिए!"
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "Find the prime factorization of 120 using the factor tree method.",
+      "questionHi": "गुणनखंड वृक्ष (Factor Tree) विधि का उपयोग करके 120 का अभाज्य गुणनखंडन ज्ञात कीजिए।",
+      "answer": "Using the factor tree method for 120:\nStep 1: Split 120 into two factors, say 2 × 60.\nStep 2: 2 is prime. Now split 60 into 2 × 30.\nStep 3: 2 is prime. Now split 30 into 2 × 15.\nStep 4: Split 15 into 3 × 5. Both 3 and 5 are prime numbers.\n\nCollecting all prime branches: 120 = 2 × 2 × 2 × 3 × 5.\nThus, the prime factorization of 120 is 2 × 2 × 2 × 3 × 5 (or 2³ × 3 × 5).",
+      "answerHi": "120 के लिए गुणनखंड वृक्ष विधि का उपयोग:\nचरण 1: 120 को दो गुणनखंडों में तोड़ें, जैसे 2 × 60।\nचरण 2: 2 अभाज्य है। अब 60 को 2 × 30 में तोड़ें।\nचरण 3: 2 अभाज्य है। अब 30 को 2 × 15 में तोड़ें।\nचरण 4: 15 को 3 × 5 में तोड़ें। 3 और 5 दोनों अभाज्य संख्याएँ हैं।\n\nसभी अभाज्य शाखाओं को एकत्र करने पर: 120 = 2 × 2 × 2 × 3 × 5।\nअतः 120 का अभाज्य गुणनखंडन 2 × 2 × 2 × 3 × 5 (या 2³ × 3 × 5) है।",
+      "keyPoints": [
+        "Factor Tree: 120 -> 2 × 60 -> 2 × 2 × 30 -> 2 × 2 × 2 × 15 -> 2 × 2 × 2 × 3 × 5.",
+        "Prime factorization of 120 = 2 × 2 × 2 × 3 × 5. / 120 का अभाज्य गुणनखंडन = 2 × 2 × 2 × 3 × 5।",
+        "Stop branching when all end nodes are prime numbers! / जब सभी अंतिम नोड अभाज्य संख्याएँ बन जाएँ, तो विभाजित करना रोक दें!"
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Using the divisibility test, determine whether the number 61809 is divisible by 11.",
+      "questionHi": "विभाज्यता की जाँच का उपयोग करते हुए ज्ञात कीजिए कि क्या संख्या 61809, 11 से विभाज्य है।",
+      "answer": "Divisibility rule for 11: Find the difference between the sum of digits at odd places (from the right) and the sum of digits at even places (from the right). If the difference is 0 or divisible by 11, the number is divisible by 11.\n\nNumber: 6 1 8 0 9\nDigits from right to left: 9 (1st), 0 (2nd), 8 (3rd), 1 (4th), 6 (5th).\nSum of digits at odd places = 9 + 8 + 6 = 23.\nSum of digits at even places = 0 + 1 = 1.\n\nDifference = 23 - 1 = 22.\nSince 22 is divisible by 11 (22 ÷ 11 = 2), the number 61809 is divisible by 11.",
+      "answerHi": "11 से विभाज्यता का नियम: दाएँ से विषम स्थानों के अंकों के योग और सम स्थानों के अंकों के योग का अंतर ज्ञात कीजिए। यदि अंतर 0 हो या 11 से विभाज्य हो, तो संख्या 11 से विभाज्य होती है।\n\nसंख्या: 6 1 8 0 9\nदाएँ से बाएँ अंक: 9 (पहला), 0 (दूसरा), 8 (तीसरा), 1 (चौथा), 6 (पाँचवाँ)।\nविषम स्थानों के अंकों का योग = 9 + 8 + 6 = 23।\nसम स्थानों के अंकों का योग = 0 + 1 = 1।\n\nअंतर = 23 - 1 = 22।\nचूँकि 22, 11 से विभाज्य है (22 ÷ 11 = 2), इसलिए संख्या 61809, 11 से विभाज्य है।",
+      "keyPoints": [
+        "Sum of digits at odd places (from right) = 9 + 8 + 6 = 23. / विषम स्थानों के अंकों का योग = 23।",
+        "Sum of digits at even places (from right) = 0 + 1 = 1. / सम स्थानों के अंकों का योग = 1।",
+        "Difference = 23 - 1 = 22. / अंतर = 23 - 1 = 22।",
+        "Since 22 is a multiple of 11, 61809 is divisible by 11. / चूँकि 22, 11 का गुणज है, अतः 61809, 11 से विभाज्य है।"
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Find the Highest Common Factor (HCF) of 36, 54, and 81 by prime factorization method.",
+      "questionHi": "अभाज्य गुणनखंडन विधि द्वारा 36, 54 और 81 का महत्तम समापवर्तक (म.स. / HCF) ज्ञात कीजिए।",
+      "answer": "Step 1: Write the prime factorization of each number:\n36 = 2 × 2 × 3 × 3 = 2² × 3²\n54 = 2 × 3 × 3 × 3 = 2 × 3³\n81 = 3 × 3 × 3 × 3 = 3⁴\n\nStep 2: Identify the common prime factors in all three numbers:\nThe only prime factor common to 36, 54, and 81 is 3.\n\nStep 3: Take the lowest power of the common factor:\nIn 36, we have 3² (3 × 3).\nIn 54, we have 3³.\nIn 81, we have 3⁴.\nThe lowest power of common prime factor 3 is 3² = 3 × 3 = 9.\n\nTherefore, HCF of 36, 54, and 81 is 9.",
+      "answerHi": "चरण 1: प्रत्येक संख्या का अभाज्य गुणनखंडन लिखिए:\n36 = 2 × 2 × 3 × 3 = 2² × 3²\n54 = 2 × 3 × 3 × 3 = 2 × 3³\n81 = 3 × 3 × 3 × 3 = 3⁴\n\nचरण 2: तीनों संख्याओं में उभयनिष्ठ (सार्व) अभाज्य गुणनखंड पहचानिए:\n36, 54 और 81 में एकमात्र उभयनिष्ठ अभाज्य गुणनखंड 3 है।\n\nचरण 3: उभयनिष्ठ गुणनखंड की न्यूनतम घात (सबसे कम बार आया गुणनखंड) लीजिए:\n36 में 3² (3 × 3) है।\n54 में 3³ है।\n81 में 3⁴ है।\nउभयनिष्ठ अभाज्य गुणनखंड 3 की न्यूनतम घात = 3² = 3 × 3 = 9।\n\nअतः 36, 54 और 81 का महत्तम समापवर्तक (HCF) 9 है।",
+      "keyPoints": [
+        "36 = 2 × 2 × 3 × 3 / 36 का अभाज्य गुणनखंडन = 2 × 2 × 3 × 3",
+        "54 = 2 × 3 × 3 × 3 / 54 का अभाज्य गुणनखंडन = 2 × 3 × 3 × 3",
+        "81 = 3 × 3 × 3 × 3 / 81 का अभाज्य गुणनखंडन = 3 × 3 × 3 × 3",
+        "Common prime factors = 3 × 3 = 9. Hence, HCF = 9. / सार्व अभाज्य गुणनखंड = 3 × 3 = 9। अतः म.स. = 9।"
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Find the Lowest Common Multiple (LCM) of 24, 36, and 40 using the common division method.",
+      "questionHi": "संयुक्त विभाजन विधि (Common Division Method) का उपयोग करके 24, 36 और 40 का लघुत्तम समापवर्त्य (ल.स. / LCM) ज्ञात कीजिए।",
+      "answer": "Using the common division method:\nDivide by prime numbers step-by-step:\n2 | 24, 36, 40\n2 | 12, 18, 20\n2 |  6,  9, 10\n3 |  3,  9,  5\n3 |  1,  3,  5\n5 |  1,  1,  5\n  |  1,  1,  1\n\nNow, multiply all the divisors:\nLCM = 2 × 2 × 2 × 3 × 3 × 5\nLCM = 8 × 9 × 5 = 360.\n\nTherefore, the LCM of 24, 36, and 40 is 360.",
+      "answerHi": "संयुक्त विभाजन विधि का उपयोग:\nअभाज्य संख्याओं से चरणबद्ध विभाजन:\n2 | 24, 36, 40\n2 | 12, 18, 20\n2 |  6,  9, 10\n3 |  3,  9,  5\n3 |  1,  3,  5\n5 |  1,  1,  5\n  |  1,  1,  1\n\nअब, सभी भाजकों का गुणा करें:\nल.स. (LCM) = 2 × 2 × 2 × 3 × 3 × 5\nल.स. = 8 × 9 × 5 = 360।\n\nअतः 24, 36 और 40 का लघुत्तम समापवर्त्य 360 है।",
+      "keyPoints": [
+        "Divide simultaneously by common prime factors: 2, 2, 2, 3, 3, 5. / सार्व अभाज्य गुणनखंडों से एक साथ भाग दें: 2, 2, 2, 3, 3, 5।",
+        "LCM = Product of all divisors = 2 × 2 × 2 × 3 × 3 × 5 = 360. / ल.स. = सभी भाजकों का गुणनफल = 360।",
+        "Continue division until you get 1, 1, 1 at the bottom. / तब तक भाग दें जब तक अंत में 1, 1, 1 न प्राप्त हो जाए।"
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "The HCF of two numbers is 6 and their LCM is 180. If one of the numbers is 30, find the other number.",
+      "questionHi": "दो संख्याओं का महत्तम समापवर्तक (म.स.) 6 है और उनका लघुत्तम समापवर्त्य (ल.स.) 180 है। यदि उनमें से एक संख्या 30 है, तो दूसरी संख्या ज्ञात कीजिए।",
+      "answer": "We know the fundamental property of HCF and LCM for two numbers:\nProduct of two numbers = HCF × LCM\n\nLet the first number be A and the second number be B.\nGiven: HCF = 6, LCM = 180, First number (A) = 30.\n\nSubstituting the values in the formula:\n30 × B = 6 × 180\n30 × B = 1080\nB = 1080 ÷ 30\nB = 36.\n\nTherefore, the other number is 36.",
+      "answerHi": "हम जानते हैं कि दो संख्याओं के म.स. और ल.स. का मूलभूत गुणधर्म है:\nदो संख्याओं का गुणनफल = म.स. × ल.स.\n\nमाना पहली संख्या A और दूसरी संख्या B है।\nदिया गया है: म.स. = 6, ल.स. = 180, पहली संख्या (A) = 30।\n\nसूत्र में मान रखने पर:\n30 × B = 6 × 180\n30 × B = 1080\nB = 1080 ÷ 30\nB = 36।\n\nअतः दूसरी संख्या 36 है।",
+      "keyPoints": [
+        "Formula: First Number × Second Number = HCF × LCM / सूत्र: पहली संख्या × दूसरी संख्या = म.स. × ल.स.",
+        "30 × Second Number = 6 × 180 = 1080 / 30 × दूसरी संख्या = 6 × 180 = 1080",
+        "Second Number = 1080 ÷ 30 = 36. / दूसरी संख्या = 1080 ÷ 30 = 36।",
+        "Always verify: 30 × 36 = 1080 and 6 × 180 = 1080 (Verified). / हमेशा जाँचें: 30 × 36 = 1080 और 6 × 180 = 1080 (सत्यापित)।"
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Find the smallest 4-digit number which is exactly divisible by 12, 18, and 24.",
+      "questionHi": "4 अंकों की वह सबसे छोटी संख्या ज्ञात कीजिए जो 12, 18 और 24 से पूर्णतः विभाज्य हो।",
+      "answer": "Step 1: Find the LCM of 12, 18, and 24.\nPrime factorizations:\n12 = 2² × 3\n18 = 2 × 3²\n24 = 2³ × 3\nLCM(12, 18, 24) = 2³ × 3² = 8 × 9 = 72.\n\nStep 2: Find the smallest 4-digit number.\nThe smallest 4-digit number is 1000.\n\nStep 3: Divide 1000 by 72 to find the remainder.\n1000 ÷ 72: Quotient = 13, Remainder = 64 (since 72 × 13 = 936, 1000 - 936 = 64).\n\nStep 4: Find the required multiple of 72.\nTo make it exactly divisible by 72, we add (72 - Remainder) to 1000:\nRequired number = 1000 + (72 - 64) = 1000 + 8 = 1008.\n\nTherefore, the smallest 4-digit number divisible by 12, 18, and 24 is 1008.",
+      "answerHi": "चरण 1: 12, 18 और 24 का ल.स. (LCM) ज्ञात कीजिए।\nअभाज्य गुणनखंडन:\n12 = 2² × 3\n18 = 2 × 3²\n24 = 2³ × 3\nल.स.(12, 18, 24) = 2³ × 3² = 8 × 9 = 72।\n\nचरण 2: 4 अंकों की सबसे छोटी संख्या लिखिए।\n4 अंकों की सबसे छोटी संख्या 1000 है।\n\nचरण 3: शेषफल ज्ञात करने के लिए 1000 को 72 से भाग दीजिए।\n1000 ÷ 72: भागफल = 13, शेषफल = 64 (क्योंकि 72 × 13 = 936, 1000 - 936 = 64)।\n\nचरण 4: 72 का अभीष्ट गुणज ज्ञात कीजिए।\n72 से पूर्णतः विभाज्य बनाने के लिए, हम 1000 में (72 - शेषफल) जोड़ते हैं:\nअभीष्ट संख्या = 1000 + (72 - 64) = 1000 + 8 = 1008।\n\nअतः 12, 18 और 24 से विभाज्य 4 अंकों की सबसे छोटी संख्या 1008 है।",
+      "keyPoints": [
+        "LCM of 12, 18, 24 = 72. / 12, 18, 24 का ल.स. = 72।",
+        "Smallest 4-digit number = 1000. / 4 अंकों की सबसे छोटी संख्या = 1000।",
+        "1000 ÷ 72 gives Remainder = 64. / 1000 ÷ 72 करने पर शेषफल = 64 प्राप्त होता है।",
+        "Required Number = 1000 + (72 - 64) = 1008. / अभीष्ट संख्या = 1000 + (72 - 64) = 1008।"
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "Find the greatest 3-digit number which is exactly divisible by 8, 10, and 12.",
+      "questionHi": "3 अंकों की वह सबसे बड़ी संख्या ज्ञात कीजिए जो 8, 10 और 12 से पूर्णतः विभाज्य हो।",
+      "answer": "Step 1: Find the LCM of 8, 10, and 12.\n8 = 2³\n10 = 2 × 5\n12 = 2² × 3\nLCM(8, 10, 12) = 2³ × 3 × 5 = 8 × 3 × 5 = 120.\n\nStep 2: Find the greatest 3-digit number.\nThe greatest 3-digit number is 999.\n\nStep 3: Divide 999 by the LCM (120).\n999 ÷ 120: Quotient = 8, Remainder = 39 (since 120 × 8 = 960, 999 - 960 = 39).\n\nStep 4: Subtract the remainder from 999.\nRequired number = 999 - 39 = 960.\n\nTherefore, the greatest 3-digit number exactly divisible by 8, 10, and 12 is 960.",
+      "answerHi": "चरण 1: 8, 10 और 12 का ल.स. (LCM) ज्ञात कीजिए।\n8 = 2³\n10 = 2 × 5\n12 = 2² × 3\nल.स.(8, 10, 12) = 2³ × 3 × 5 = 8 × 3 × 5 = 120।\n\nचरण 2: 3 अंकों की सबसे बड़ी संख्या लिखिए।\n3 अंकों की सबसे बड़ी संख्या 999 है।\n\nचरण 3: 999 को ल.स. (120) से भाग दीजिए।\n999 ÷ 120: भागफल = 8, शेषफल = 39 (क्योंकि 120 × 8 = 960, 999 - 960 = 39)।\n\nचरण 4: 999 में से शेषफल घटाइए।\nअभीष्ट संख्या = 999 - 39 = 960।\n\nअतः 8, 10 और 12 से पूर्णतः विभाज्य 3 अंकों की सबसे बड़ी संख्या 960 है।",
+      "keyPoints": [
+        "LCM of 8, 10, 12 = 120. / 8, 10, 12 का ल.स. = 120।",
+        "Greatest 3-digit number = 999. / 3 अंकों की सबसे बड़ी संख्या = 999।",
+        "999 ÷ 120 -> Remainder = 39. / 999 ÷ 120 -> शेषफल = 39।",
+        "Required Number = 999 - 39 = 960. / अभीष्ट संख्या = 999 - 39 = 960।"
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Replace the blank space by the smallest digit so that the number 4765_2 is divisible by both 3 and 9.",
+      "questionHi": "रिक्त स्थान पर वह सबसे छोटा अंक लिखिए जिससे संख्या 4765_2, 3 और 9 दोनों से पूर्णतः विभाज्य हो जाए।",
+      "answer": "Rule: If a number is divisible by 9, it is automatically divisible by 3 (since 9 is a multiple of 3). So we only need to ensure divisibility by 9.\nFor a number to be divisible by 9, the sum of its digits must be divisible by 9.\n\nLet the missing digit be x.\nSum of digits = 4 + 7 + 6 + 5 + x + 2 = 24 + x.\n\nWe need (24 + x) to be a multiple of 9.\nThe multiples of 9 greater than 24 are 27, 36, 45...\nSince x must be a single digit (0 to 9), we set:\n24 + x = 27\nx = 27 - 24 = 3.\n\nIf x = 3, sum of digits = 27 (divisible by 9 and 3).\nTherefore, the smallest digit to replace the blank space is 3, making the number 476532.",
+      "answerHi": "नियम: यदि कोई संख्या 9 से विभाज्य है, तो वह स्वतः ही 3 से भी विभाज्य होगी (क्योंकि 9, 3 का गुणज है)। अतः हमें केवल 9 से विभाज्यता सुनिश्चित करनी है।\nकिसी संख्या के 9 से विभाज्य होने के लिए, उसके अंकों का योग 9 से विभाज्य होना चाहिए।\n\nमाना अज्ञात अंक x है।\nअंकों का योग = 4 + 7 + 6 + 5 + x + 2 = 24 + x।\n\nहमें (24 + x) को 9 का गुणज बनाना है।\n24 से बड़े 9 के गुणज 27, 36, 45... हैं।\nचूँकि x एक अकेला अंक (0 से 9 तक) होना चाहिए, हम रखते हैं:\n24 + x = 27\nx = 27 - 24 = 3।\n\nयदि x = 3 हो, तो अंकों का योग = 27 (जो 9 और 3 दोनों से विभाज्य है)।\nअतः रिक्त स्थान पर आने वाला सबसे छोटा अंक 3 है, जिससे संख्या 476532 बन जाएगी।",
+      "keyPoints": [
+        "Divisibility by 9 implies divisibility by 3. / 9 से विभाज्यता का अर्थ है 3 से भी विभाज्य होना।",
+        "Sum of known digits = 4 + 7 + 6 + 5 + 2 = 24. / ज्ञात अंकों का योग = 24।",
+        "Next multiple of 9 after 24 is 27. / 24 के बाद 9 का अगला गुणज 27 है।",
+        "Required missing digit = 27 - 24 = 3. / अभीष्ट अज्ञात अंक = 27 - 24 = 3।"
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "Find the greatest number that will divide 43, 91, and 183 so as to leave the same remainder in each case.",
+      "questionHi": "वह सबसे बड़ी संख्या ज्ञात कीजिए जिससे 43, 91 और 183 को भाग देने पर प्रत्येक स्थिति में समान शेषफल बचे।",
+      "answer": "To find the greatest number dividing three given numbers leaving the same remainder in each case, we find the HCF of the absolute differences between the numbers taken in pairs.\n\nStep 1: Find the differences between pairs of numbers:\nDifference 1: 91 - 43 = 48\nDifference 2: 183 - 91 = 92\nDifference 3: 183 - 43 = 140\n\nStep 2: Find the HCF of 48, 92, and 140.\nPrime factorizations:\n48 = 2⁴ × 3 = 16 × 3\n92 = 2² × 23 = 4 × 23\n140 = 2² × 5 × 7 = 4 × 35\n\nThe common prime factor with the lowest power is 2² = 4.\nTherefore, HCF(48, 92, 140) = 4.\n\nConclusion: The greatest number that divides 43, 91, and 183 leaving the same remainder is 4. (Verification: 43 ÷ 4 leaves remainder 3; 91 ÷ 4 leaves remainder 3; 183 ÷ 4 leaves remainder 3).",
+      "answerHi": "तीन दी गई संख्याओं को भाग देने पर प्रत्येक स्थिति में समान शेषफल छोड़ने वाली सबसे बड़ी संख्या ज्ञात करने के लिए, हम संख्याओं को युग्मों (जोड़ों) में लेकर उनके आपसी अंतरों का महत्तम समापवर्तक (म.स. / HCF) ज्ञात करते हैं।\n\nचरण 1: संख्याओं के जोड़ों के बीच का अंतर ज्ञात कीजिए:\nअंतर 1: 91 - 43 = 48\nअंतर 2: 183 - 91 = 92\nअंतर 3: 183 - 43 = 140\n\nचरण 2: 48, 92 और 140 का म.स. ज्ञात कीजिए।\nअभाज्य गुणनखंडन:\n48 = 2⁴ × 3 = 16 × 3\n92 = 2² × 23 = 4 × 23\n140 = 2² × 5 × 7 = 4 × 35\n\nन्यूनतम घात वाला उभयनिष्ठ गुणनखंड 2² = 4 है।\nअतः म.स.(48, 92, 140) = 4।\n\nनिष्कर्ष: 43, 91 और 183 को भाग देने पर समान शेषफल छोड़ने वाली सबसे बड़ी संख्या 4 है। (सत्यापन: 43 ÷ 4 में शेषफल 3; 91 ÷ 4 में शेषफल 3; 183 ÷ 4 में शेषफल 3 बचता है)।",
+      "keyPoints": [
+        "Take differences of numbers: 91 - 43 = 48; 183 - 91 = 92; 183 - 43 = 140. / संख्याओं का अंतर लें: 48, 92, 140।",
+        "Required Number = HCF of (48, 92, 140). / अभीष्ट संख्या = (48, 92, 140) का म.स.।",
+        "HCF(48, 92, 140) = 4. / म.स.(48, 92, 140) = 4।",
+        "Verification: Remainder in each case is exactly 3! / सत्यापन: प्रत्येक स्थिति में शेषफल ठीक 3 बचता है!"
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Three bells toll together at intervals of 9, 12, and 15 minutes respectively. If they start tolling together at 8:00 AM, at what time will they toll together again?",
+      "questionHi": "तीन घंटियाँ क्रमशः 9, 12 और 15 मिनट के अंतराल पर एक साथ बजती हैं। यदि वे प्रातः 8:00 बजे एक साथ बजना शुरू करती हैं, तो वे दोबारा किस समय एक साथ बजेंगी?",
+      "answer": "The time interval after which the three bells will toll together again is given by the LCM of their individual tolling intervals: 9, 12, and 15 minutes.\n\nStep 1: Find LCM of 9, 12, and 15.\nPrime factorizations:\n9 = 3²\n12 = 2² × 3\n15 = 3 × 5\nLCM(9, 12, 15) = 2² × 3² × 5 = 4 × 9 × 5 = 180 minutes.\n\nStep 2: Convert minutes into hours.\nWe know 60 minutes = 1 hour.\n180 minutes = 180 ÷ 60 = 3 hours.\n\nStep 3: Add the time to the starting time.\nStarting time = 8:00 AM.\nNext tolling together = 8:00 AM + 3 hours = 11:00 AM.\n\nTherefore, the three bells will toll together again at 11:00 AM.",
+      "answerHi": "वह समय अंतराल जिसके बाद तीनों घंटियाँ दोबारा एक साथ बजेंगी, उनके बजने के अंतरालों (9, 12 और 15 मिनट) के लघुत्तम समापवर्त्य (ल.स. / LCM) के बराबर होगा।\n\nचरण 1: 9, 12 और 15 का ल.स. ज्ञात कीजिए।\nअभाज्य गुणनखंडन:\n9 = 3²\n12 = 2² × 3\n15 = 3 × 5\nल.स.(9, 12, 15) = 2² × 3² × 5 = 4 × 9 × 5 = 180 मिनट।\n\nचरण 2: मिनट को घंटे में बदलिए।\nहम जानते हैं कि 60 मिनट = 1 घंटा।\n180 मिनट = 180 ÷ 60 = 3 घंटे।\n\nचरण 3: प्रारंभिक समय में यह समय जोड़िए।\nप्रारंभिक समय = प्रातः 8:00 बजे।\nपुनः एक साथ बजने का समय = प्रातः 8:00 + 3 घंटे = प्रातः 11:00 बजे (11:00 AM)।\n\nअतः तीनों घंटियाँ पुनः प्रातः 11:00 बजे एक साथ बजेंगी।",
+      "keyPoints": [
+        "Time together again = LCM of intervals (9, 12, 15). / पुनः एक साथ बजने का समय = अंतरालों (9, 12, 15) का ल.स.।",
+        "LCM(9, 12, 15) = 180 minutes. / ल.स.(9, 12, 15) = 180 मिनट।",
+        "180 minutes = 3 hours. / 180 मिनट = 3 घंटे।",
+        "8:00 AM + 3 hours = 11:00 AM. / प्रातः 8:00 + 3 घंटे = प्रातः 11:00 बजे।"
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "Determine the longest measuring tape which can be used to measure exactly the lengths 7 m, 3 m 85 cm, and 12 m 95 cm.",
+      "questionHi": "उस सबसे लंबे मापने वाले फीते (Tape) की लंबाई ज्ञात कीजिए जो 7 मीटर, 3 मीटर 85 सेमी और 12 मीटर 95 सेमी की लंबाइयों को पूरा-पूरा माप सके।",
+      "answer": "Step 1: Convert all lengths into a single unit (centimeters).\nWe know 1 m = 100 cm.\nLength 1 = 7 m = 700 cm.\nLength 2 = 3 m 85 cm = 300 cm + 85 cm = 385 cm.\nLength 3 = 12 m 95 cm = 1200 cm + 95 cm = 1295 cm.\n\nStep 2: Find the HCF of 700, 385, and 1295.\nPrime factorizations:\n700 = 2² × 5² × 7 = 4 × 25 × 7\n385 = 5 × 7 × 11\n1295 = 5 × 7 × 37\n\nCommon prime factors in all three numbers are 5 and 7.\nHCF(700, 385, 1295) = 5 × 7 = 35 cm.\n\nTherefore, the length of the longest measuring tape is 35 cm.",
+      "answerHi": "चरण 1: सभी लंबाइयों को एक ही इकाई (सेंटीमीटर) में बदलिए।\nहम जानते हैं कि 1 मीटर = 100 सेमी।\nलंबाई 1 = 7 मीटर = 700 सेमी।\nलंबाई 2 = 3 मीटर 85 सेमी = 300 सेमी + 85 सेमी = 385 सेमी।\nलंबाई 3 = 12 मीटर 95 सेमी = 1200 सेमी + 95 सेमी = 1295 सेमी।\n\nचरण 2: 700, 385 और 1295 का म.स. (HCF) ज्ञात कीजिए।\nअभाज्य गुणनखंडन:\n700 = 2² × 5² × 7\n385 = 5 × 7 × 11\n1295 = 5 × 7 × 37\n\nतीनों संख्याओं में उभयनिष्ठ अभाज्य गुणनखंड 5 और 7 हैं।\nम.स.(700, 385, 1295) = 5 × 7 = 35 सेमी।\n\nअतः सबसे लंबे मापने वाले फीते की लंबाई 35 सेमी है।",
+      "keyPoints": [
+        "Convert to cm: 700 cm, 385 cm, 1295 cm. / सेमी में बदलिए: 700 सेमी, 385 सेमी, 1295 सेमी।",
+        "Longest tape = HCF of (700, 385, 1295). / सबसे लंबा फीता = (700, 385, 1295) का म.स.।",
+        "Common prime factors = 5 and 7. / उभयनिष्ठ अभाज्य गुणनखंड = 5 और 7।",
+        "HCF = 5 × 7 = 35 cm. / म.स. = 5 × 7 = 35 सेमी।"
+      ]
+    },
+    {
+      "id": "q21",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "Explain the Sieve of Eratosthenes method to find all prime numbers from 1 to 50. List all the prime numbers obtained.",
+      "questionHi": "1 से 50 तक की सभी अभाज्य संख्याओं को ज्ञात करने के लिए इरेटोस्थनीज की छलनी (Sieve of Eratosthenes) विधि को समझाइए। प्राप्त सभी अभाज्य संख्याओं की सूची बनाइए।",
+      "answer": "The Sieve of Eratosthenes is an ancient and simple algorithm to find all prime numbers up to a specified limit.\n\nSteps for finding primes from 1 to 50:\n1. Write all numbers from 1 to 50 in a table.\n2. Cross out 1, because 1 is neither prime nor composite.\n3. Circle 2 (the first prime number) and cross out all its multiples (4, 6, 8, 10, 12... 50).\n4. Circle the next unmarked number, which is 3, and cross out all its multiples (6, 9, 12, 15... 48).\n5. The next unmarked number is 5. Circle 5 and cross out all its multiples (10, 15, 20... 50).\n6. Circle the next unmarked number, 7, and cross out all its multiples (14, 21, 28, 35, 42, 49).\n7. Continue this process until all numbers up to 50 are either circled or crossed out.\n\nList of circled numbers (Prime numbers between 1 and 50):\nThere are exactly 15 prime numbers between 1 and 50:\n2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, and 47.",
+      "answerHi": "इरेटोस्थनीज की छलनी एक प्राचीन और सरल विधि है जिससे किसी तय सीमा तक की सभी अभाज्य संख्याएँ ज्ञात की जाती हैं।\n\n1 से 50 तक अभाज्य संख्याएँ ज्ञात करने के चरण:\n1. एक सारणी में 1 से 50 तक की सभी संख्याएँ लिखिए।\n2. 1 को काट दीजिए (क्रॉस करें), क्योंकि 1 न तो अभाज्य है और न ही भाज्य।\n3. 2 (पहली अभाज्य संख्या) पर गोला लगाइए और इसके सभी गुणजों (4, 6, 8, 10, 12... 50) को काट दीजिए।\n4. अगली बिना कटी संख्या 3 पर गोला लगाइए और इसके सभी गुणजों (6, 9, 12, 15... 48) को काट दीजिए।\n5. अगली बिना कटी संख्या 5 पर गोला लगाइए और इसके सभी गुणजों (10, 15, 20... 50) को काट दीजिए।\n6. अगली बिना कटी संख्या 7 पर गोला लगाइए और इसके सभी गुणजों (14, 21, 28, 35, 42, 49) को काट दीजिए।\n7. यह प्रक्रिया तब तक जारी रखिए जब तक 50 तक की सभी संख्याओं पर गोला या क्रॉस न लग जाए।\n\nगोला लगी संख्याओं की सूची (1 से 50 के बीच की अभाज्य संख्याएँ):\n1 से 50 के बीच कुल 15 अभाज्य संख्याएँ होती हैं:\n2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43 और 47।",
+      "keyPoints": [
+        "Step 1: Cross out 1 (neither prime nor composite). / चरण 1: 1 को काटें (न अभाज्य, न भाज्य)।",
+        "Step 2: Circle prime p (2, 3, 5, 7) and cross out all its multiples. / चरण 2: अभाज्य p (2, 3, 5, 7) पर गोला लगाएँ और उसके सभी गुणज काटें।",
+        "Total prime numbers from 1 to 50 = 15. / 1 से 50 तक कुल अभाज्य संख्याएँ = 15।",
+        "Primes: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47."
+      ]
+    },
+    {
+      "id": "q22",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Find the HCF and LCM of 48, 72, and 108. Also verify whether the product of HCF and LCM is equal to the product of the numbers for any two numbers taking 48 and 72 as an example.",
+      "questionHi": "48, 72 और 108 का म.स. (HCF) और ल.स. (LCM) ज्ञात कीजिए। साथ ही, 48 और 72 को उदाहरण के रूप में लेकर सत्यापित कीजिए कि क्या किन्हीं दो संख्याओं के लिए म.स. और ल.स. का गुणनफल उन संख्याओं के गुणनफल के बराबर होता है।",
+      "answer": "Part 1: Find HCF and LCM of 48, 72, and 108.\nPrime factorizations:\n48 = 2⁴ × 3\n72 = 2³ × 3²\n108 = 2² × 3³\n\n1. HCF (Lowest powers of common primes):\nHCF = 2² × 3¹ = 4 × 3 = 12.\n\n2. LCM (Highest powers of all primes involved):\nLCM = 2⁴ × 3³ = 16 × 27 = 432.\nSo, HCF(48, 72, 108) = 12 and LCM(48, 72, 108) = 432.\n\nPart 2: Verification for two numbers (48 and 72):\nLet A = 48 and B = 72.\nFirst, find HCF and LCM of only 48 and 72:\n48 = 2⁴ × 3, 72 = 2³ × 3²\nHCF(48, 72) = 2³ × 3 = 8 × 3 = 24.\nLCM(48, 72) = 2⁴ × 3² = 16 × 9 = 144.\n\nNow, calculate both products:\nProduct of numbers = 48 × 72 = 3456.\nProduct of HCF and LCM = 24 × 144 = 3456.\n\nSince 3456 = 3456, it is verified that for two numbers: HCF × LCM = Product of numbers.",
+      "answerHi": "भाग 1: 48, 72 और 108 का म.स. और ल.स. ज्ञात करना।\nअभाज्य गुणनखंडन:\n48 = 2⁴ × 3\n72 = 2³ × 3²\n108 = 2² × 3³\n\n1. म.स. (HCF - उभयनिष्ठ अभाज्य गुणनखंडों की न्यूनतम घात):\nम.स. = 2² × 3¹ = 4 × 3 = 12।\n\n2. ल.स. (LCM - सभी अभाज्य गुणनखंडों की अधिकतम घात):\nल.स. = 2⁴ × 3³ = 16 × 27 = 432।\nअतः म.स.(48, 72, 108) = 12 और ल.स.(48, 72, 108) = 432।\n\nभाग 2: दो संख्याओं (48 और 72) के लिए सत्यापन:\nमाना A = 48 और B = 72।\nपहले केवल 48 और 72 का म.स. और ल.स. ज्ञात करें:\n48 = 2⁴ × 3, 72 = 2³ × 3²\nम.स.(48, 72) = 2³ × 3 = 8 × 3 = 24।\nल.स.(48, 72) = 2⁴ × 3² = 16 × 9 = 144।\n\nअब दोनों गुणनफल निकालें:\nसंख्याओं का गुणनफल = 48 × 72 = 3456।\nम.स. × ल.स. का गुणनफल = 24 × 144 = 3456।\n\nचूँकि 3456 = 3456, अतः सत्यापित होता है कि दो संख्याओं के लिए: म.स. × ल.स. = संख्याओं का गुणनफल।",
+      "keyPoints": [
+        "For 3 numbers (48, 72, 108): HCF = 12, LCM = 432. / 3 संख्याओं (48, 72, 108) के लिए: म.स. = 12, ल.स. = 432।",
+        "For 2 numbers (48, 72): HCF = 24, LCM = 144. / 2 संख्याओं (48, 72) के लिए: म.स. = 24, ल.स. = 144।",
+        "48 × 72 = 3456 and 24 × 144 = 3456. / 48 × 72 = 3456 और 24 × 144 = 3456।",
+        "Rule: HCF × LCM = Product of Two Numbers is true ONLY for TWO numbers! / नियम: म.स. × ल.स. = दो संख्याओं का गुणनफल केवल दो संख्याओं के लिए ही सत्य है!"
+      ]
+    },
+    {
+      "id": "q23",
+      "type": "value-based",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "In a school library, there are 780 English books, 600 Hindi books, and 480 Science books. The librarian wants to pack them in boxes such that each box contains the same number of books of only one subject and no books are left over. \n(a) What is the maximum number of books that can be put in each box?\n(b) How many boxes will be required in total?\n(c) What value is demonstrated by the librarian in organizing the books systematically?",
+      "questionHi": "एक विद्यालय के पुस्तकालय में 780 अंग्रेजी की पुस्तकें, 600 हिंदी की पुस्तकें और 480 विज्ञान की पुस्तकें हैं। पुस्तकालयाध्यक्ष (Librarian) उन्हें बक्सों में इस प्रकार पैक करना चाहते हैं कि प्रत्येक बक्से में केवल एक ही विषय की समान संख्या में पुस्तकें हों और कोई भी पुस्तक शेष न बचे।\n(a) प्रत्येक बक्से में अधिकतम कितनी पुस्तकें रखी जा सकती हैं?\n(b) कुल कितने बक्सों की आवश्यकता होगी?\n(c) पुस्तकों को व्यवस्थित रूप से रखने में पुस्तकालयाध्यक्ष द्वारा कौन-सा मूल्य (Value) प्रदर्शित होता है?",
+      "answer": "(a) To find the maximum number of books in each box, we must find the HCF of 780, 600, and 480.\nPrime factorizations:\n780 = 2² × 3 × 5 × 13\n600 = 2³ × 3 × 5²\n480 = 2⁵ × 3 × 5\n\nCommon factors with lowest powers = 2² × 3 × 5 = 4 × 3 × 5 = 60.\nTherefore, the maximum number of books in each box is 60.\n\n(b) Number of boxes required for each subject:\nBoxes for English = 780 ÷ 60 = 13 boxes.\nBoxes for Hindi = 600 ÷ 60 = 10 boxes.\nBoxes for Science = 480 ÷ 60 = 8 boxes.\nTotal boxes required = 13 + 10 + 8 = 31 boxes.\n\n(c) Value Demonstrated:\nThe librarian demonstrates values of systematic organization, equality, discipline, resource management, and dedication to maintaining cleanliness and orderliness in an educational environment.",
+      "answerHi": "(a) प्रत्येक बक्से में पुस्तकों की अधिकतम संख्या ज्ञात करने के लिए, हमें 780, 600 और 480 का म.स. (HCF) ज्ञात करना होगा।\nअभाज्य गुणनखंडन:\n780 = 2² × 3 × 5 × 13\n600 = 2³ × 3 × 5²\n480 = 2⁵ × 3 × 5\n\nन्यूनतम घात वाले उभयनिष्ठ गुणनखंड = 2² × 3 × 5 = 4 × 3 × 5 = 60।\nअतः प्रत्येक बक्से में अधिकतम 60 पुस्तकें रखी जा सकती हैं।\n\n(b) प्रत्येक विषय के लिए आवश्यक बक्सों की संख्या:\nअंग्रेजी के लिए बक्से = 780 ÷ 60 = 13 बक्से।\nहिंदी के लिए बक्से = 600 ÷ 60 = 10 बक्से।\nविज्ञान के लिए बक्से = 480 ÷ 60 = 8 बक्से।\nकुल आवश्यक बक्से = 13 + 10 + 8 = 31 बक्से।\n\n(c) प्रदर्शित मूल्य (Value):\nपुस्तकालयाध्यक्ष व्यवस्थित संगठन, समानता, अनुशासन, संसाधन प्रबंधन तथा शैक्षिक वातावरण में स्वच्छता और व्यवस्था बनाए रखने के प्रति समर्पण का मूल्य प्रदर्शित करते हैं।",
+      "keyPoints": [
+        "Maximum books per box = HCF(780, 600, 480) = 60 books. / प्रति बक्से अधिकतम पुस्तकें = म.स.(780, 600, 480) = 60 पुस्तकें।",
+        "English boxes = 780 ÷ 60 = 13; Hindi = 600 ÷ 60 = 10; Science = 480 ÷ 60 = 8.",
+        "Total boxes = 13 + 10 + 8 = 31 boxes. / कुल बक्से = 13 + 10 + 8 = 31 बक्से।",
+        "Value: Systematic organization and equality. / मूल्य: व्यवस्थित संगठन और समानता।"
+      ]
+    },
+    {
+      "id": "q24",
+      "type": "case-study",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Case Study: Traffic Lights at Road Crossings.\nThe traffic lights at three different road crossings change after every 48 seconds, 72 seconds, and 108 seconds respectively. If they change simultaneously at 7:00:00 AM:\n(a) Find the LCM of 48, 72, and 108.\n(b) At what exact time will they change simultaneously again?\n(c) How many times will they change together between 7:00 AM and 7:30 AM (excluding 7:00 AM)?",
+      "questionHi": "केस स्टडी: सड़क चौराहों पर ट्रैफिक सिग्नल (यातायात बत्तियाँ)।\nतीन अलग-अलग सड़क चौराहों की ट्रैफिक सिग्नल बत्तियाँ क्रमशः प्रत्येक 48 सेकंड, 72 सेकंड और 108 सेकंड के बाद बदलती हैं। यदि वे प्रातः 7:00:00 बजे एक साथ बदलती हैं:\n(a) 48, 72 और 108 का ल.स. (LCM) ज्ञात कीजिए।\n(b) वे दोबारा किस निश्चित समय पर एक साथ बदलेंगी?\n(c) प्रातः 7:00 बजे से प्रातः 7:30 बजे के बीच (7:00 बजे को छोड़कर) वे कितनी बार एक साथ बदलेंगी?",
+      "answer": "(a) Finding LCM of 48, 72, and 108:\n48 = 2⁴ × 3\n72 = 2³ × 3²\n108 = 2² × 3³\nLCM = Highest powers = 2⁴ × 3³ = 16 × 27 = 432 seconds.\n\n(b) Exact time of changing together again:\n432 seconds in minutes and seconds:\n432 ÷ 60 gives Quotient = 7 minutes and Remainder = 12 seconds (since 60 × 7 = 420, 432 - 420 = 12).\nSo, 432 seconds = 7 minutes 12 seconds.\nAdding to starting time 7:00:00 AM:\nNext simultaneous change = 7:07:12 AM (7 hours, 7 minutes, 12 seconds AM).\n\n(c) Number of times changing together in 30 minutes:\nTotal time interval = 30 minutes = 30 × 60 = 1800 seconds.\nSince they change together every 432 seconds:\nNumber of times = 1800 ÷ 432 = 4.16...\nSo, they will change together exactly 4 times (at 7:07:12 AM, 7:14:24 AM, 7:21:36 AM, and 7:28:48 AM).",
+      "answerHi": "(a) 48, 72 और 108 का ल.स. (LCM) ज्ञात करना:\n48 = 2⁴ × 3\n72 = 2³ × 3²\n108 = 2² × 3³\nल.स. = अधिकतम घातें = 2⁴ × 3³ = 16 × 27 = 432 सेकंड।\n\n(b) पुनः एक साथ बदलने का निश्चित समय:\n432 सेकंड को मिनट और सेकंड में बदलना:\n432 ÷ 60 करने पर भागफल = 7 मिनट और शेषफल = 12 सेकंड प्राप्त होता है (क्योंकि 60 × 7 = 420, 432 - 420 = 12)।\nअतः 432 सेकंड = 7 मिनट 12 सेकंड।\nप्रारंभिक समय 7:00:00 AM में जोड़ने पर:\nअगला एक साथ बदलाव = प्रातः 7:07:12 बजे (7 बजकर 7 मिनट 12 सेकंड)।\n\n(c) 30 मिनट में एक साथ बदलने की संख्या:\nकुल समय अंतराल = 30 मिनट = 30 × 60 = 1800 सेकंड।\nचूँकि वे हर 432 सेकंड में एक साथ बदलती हैं:\nबदलने की संख्या = 1800 ÷ 432 = 4.16...\nअतः वे ठीक 4 बार एक साथ बदलेंगी (7:07:12 AM, 7:14:24 AM, 7:21:36 AM और 7:28:48 AM पर)।",
+      "keyPoints": [
+        "LCM(48, 72, 108) = 432 seconds. / ल.स.(48, 72, 108) = 432 सेकंड।",
+        "432 seconds = 7 minutes 12 seconds. / 432 सेकंड = 7 मिनट 12 सेकंड।",
+        "Next change time = 7:07:12 AM. / अगला बदलाव समय = प्रातः 7:07:12 बजे।",
+        "In 30 mins (1800 sec): 1800 ÷ 432 = 4 times! / 30 मिनट (1800 सेकंड) में: 1800 ÷ 432 = 4 बार!"
+      ]
+    },
+    {
+      "id": "q25",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Three boys step off together from the same spot for a morning walk. Their steps measure 63 cm, 70 cm, and 77 cm respectively. What is the minimum distance each should cover so that all can cover the distance in complete steps? Express your final answer in meters and centimeters.",
+      "questionHi": "तीन लड़के प्रातःकाल सैर के लिए एक ही स्थान से एक साथ कदम उठाते हैं। उनके कदमों की माप क्रमशः 63 सेमी, 70 सेमी और 77 सेमी है। प्रत्येक को न्यूनतम कितनी दूरी तय करनी चाहिए ताकि सभी उस दूरी को पूरे-पूरे कदमों में तय कर सकें? अपने अंतिम उत्तर को मीटर और सेंटीमीटर में व्यक्त कीजिए।",
+      "answer": "To find the minimum distance that each boy should cover in complete steps, we need to find the LCM of their step measures: 63 cm, 70 cm, and 77 cm.\n\nStep 1: Prime factorizations of 63, 70, and 77:\n63 = 3 × 3 × 7 = 3² × 7\n70 = 2 × 5 × 7\n77 = 7 × 11\n\nStep 2: Find the LCM:\nTake all prime factors with their highest powers involved:\nLCM = 2 × 3² × 5 × 7 × 11\nLCM = 2 × 9 × 5 × 7 × 11\nLCM = 10 × 9 × 77 = 90 × 77 = 6930 cm.\n\nStep 3: Convert centimeters into meters and centimeters:\nWe know 100 cm = 1 meter.\n6930 cm = 6900 cm + 30 cm = 69 meters and 30 centimeters (69 m 30 cm).\n\nTherefore, the minimum distance each boy should cover is 69 m 30 cm.",
+      "answerHi": "वह न्यूनतम दूरी ज्ञात करने के लिए जिसे प्रत्येक लड़का पूरे-पूरे कदमों में तय कर सके, हमें उनके कदमों की माप (63 सेमी, 70 सेमी और 77 सेमी) का लघुत्तम समापवर्त्य (ल.स. / LCM) ज्ञात करना होगा।\n\nचरण 1: 63, 70 और 77 का अभाज्य गुणनखंडन:\n63 = 3 × 3 × 7 = 3² × 7\n70 = 2 × 5 × 7\n77 = 7 × 11\n\nचरण 2: ल.स. ज्ञात करना:\nसभी अभाज्य गुणनखंडों की अधिकतम घातों को लेने पर:\nल.स. = 2 × 3² × 5 × 7 × 11\nल.स. = 2 × 9 × 5 × 7 × 11\nल.स. = 10 × 9 × 77 = 90 × 77 = 6930 सेमी।\n\nचरण 3: सेंटीमीटर को मीटर और सेंटीमीटर में बदलना:\nहम जानते हैं कि 100 सेमी = 1 मीटर।\n6930 सेमी = 6900 सेमी + 30 सेमी = 69 मीटर और 30 सेंटीमीटर (69 मी 30 सेमी)।\n\nअतः प्रत्येक लड़के को न्यूनतम 69 मी 30 सेमी की दूरी तय करनी चाहिए।",
+      "keyPoints": [
+        "Minimum distance = LCM of step lengths (63, 70, 77). / न्यूनतम दूरी = कदमों की लंबाई (63, 70, 77) का ल.स.।",
+        "63 = 3² × 7; 70 = 2 × 5 × 7; 77 = 7 × 11.",
+        "LCM = 2 × 9 × 5 × 7 × 11 = 6930 cm. / ल.स. = 6930 सेमी।",
+        "Convert to meters: 6930 cm = 69 m 30 cm. / मीटर में बदलिए: 6930 सेमी = 69 मी 30 सेमी।"
+      ]
+    },
+    {
+      "id": "q26",
+      "type": "value-based",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "An NGO is distributing flood relief food packages to two affected villages. Village A receives 288 packets of dry rations and Village B receives 360 packets. The NGO wants to divide the packets equally among families in each village such that every family gets the maximum possible identical share and no packet is wasted.\n(a) What is the maximum number of packets each family will receive?\n(b) How many families will benefit in Village A and Village B respectively?\n(c) What moral value is highlighted by the NGO's effort?",
+      "questionHi": "एक गैर-सरकारी संगठन (NGO) बाढ़ प्रभावित दो गाँवों में राहत भोजन पैकेट वितरित कर रहा है। गाँव A को सूखा राशन के 288 पैकेट और गाँव B को 360 पैकेट मिलते हैं। संगठन इन पैकेटों को प्रत्येक गाँव के परिवारों में इस प्रकार बराबर बाँटना चाहता है कि प्रत्येक परिवार को अधिकतम संभव एक समान पैकेट मिलें और कोई भी पैकेट बेकार न जाए।\n(a) प्रत्येक परिवार को अधिकतम कितने पैकेट मिलेंगे?\n(b) गाँव A और गाँव B में क्रमशः कितने परिवार लाभान्वित होंगे?\n(c) संगठन के इस प्रयास द्वारा कौन-सा नैतिक मूल्य उजागर होता है?",
+      "answer": "(a) To find the maximum number of packets per family, we find the HCF of 288 and 360.\nPrime factorizations:\n288 = 2⁵ × 3² = 32 × 9\n360 = 2³ × 3² × 5 = 8 × 9 × 5\n\nCommon prime factors with lowest powers = 2³ × 3² = 8 × 9 = 72.\nTherefore, each family will receive a maximum of 72 packets.\n\n(b) Number of benefiting families:\nFamilies in Village A = 288 ÷ 72 = 4 families.\nFamilies in Village B = 360 ÷ 72 = 5 families.\nTotal benefiting families = 4 + 5 = 9 families.\n\n(c) Moral Value Highlighted:\nThe NGO highlights the values of empathy, social responsibility, fairness, equal distribution of resources without discrimination, and helping victims during natural disasters.",
+      "answerHi": "(a) प्रति परिवार पैकेटों की अधिकतम संख्या ज्ञात करने के लिए, हम 288 और 360 का म.स. (HCF) ज्ञात करते हैं।\nअभाज्य गुणनखंडन:\n288 = 2⁵ × 3² = 32 × 9\n360 = 2³ × 3² × 5 = 8 × 9 × 5\n\nन्यूनतम घात वाले उभयनिष्ठ अभाज्य गुणनखंड = 2³ × 3² = 8 × 9 = 72।\nअतः प्रत्येक परिवार को अधिकतम 72 पैकेट मिलेंगे।\n\n(b) लाभान्वित परिवारों की संख्या:\nगाँव A में परिवार = 288 ÷ 72 = 4 परिवार।\nगाँव B में परिवार = 360 ÷ 72 = 5 परिवार।\nकुल लाभान्वित परिवार = 4 + 5 = 9 परिवार।\n\n(c) उजागर नैतिक मूल्य:\nसंगठन सहानुभूति, सामाजिक उत्तरदायित्व, निष्पक्षता, बिना किसी भेदभाव के संसाधनों के समान वितरण तथा प्राकृतिक आपदाओं के दौरान पीड़ितों की सहायता करने का मूल्य उजागर करता है।",
+      "keyPoints": [
+        "Maximum packets per family = HCF(288, 360) = 72 packets. / प्रति परिवार अधिकतम पैकेट = म.स.(288, 360) = 72 पैकेट।",
+        "Village A families = 288 ÷ 72 = 4 families. / गाँव A के परिवार = 4 परिवार।",
+        "Village B families = 360 ÷ 72 = 5 families. / गाँव B के परिवार = 5 परिवार।",
+        "Value: Empathy, fairness, and social responsibility. / मूल्य: सहानुभूति, निष्पक्षता और सामाजिक उत्तरदायित्व।"
+      ]
+    },
+    {
+      "id": "q27",
+      "type": "case-study",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Case Study: School Sports Day March Past Arrangement.\nFor the annual school sports day, the physical education teacher is arranging students for a march past. When students are grouped in rows of 12, 15, or 20, exactly 4 students are left out every time. However, when arranged in rows of 7, no student is left out at all!\n(a) Find the LCM of 12, 15, and 20.\n(b) Write the general algebraic expression for numbers that leave a remainder of 4 when divided by 12, 15, and 20.\n(c) What is the minimum number of students present in the school? Show step-by-step testing for divisibility by 7.",
+      "questionHi": "केस स्टडी: विद्यालय खेल दिवस मार्च पास्ट व्यवस्था।\nवार्षिक विद्यालय खेल दिवस के लिए, शारीरिक शिक्षा शिक्षक छात्रों को मार्च पास्ट के लिए व्यवस्थित कर रहे हैं। जब छात्रों को 12, 15 या 20 की पंक्तियों में खड़ा किया जाता है, तो हर बार ठीक 4 छात्र बच जाते हैं। हालाँकि, जब उन्हें 7 की पंक्तियों में व्यवस्थित किया जाता है, तो कोई भी छात्र नहीं बचता है!\n(a) 12, 15 और 20 का ल.स. (LCM) ज्ञात कीजिए।\n(b) उन संख्याओं के लिए सामान्य बीजीय व्यंजक लिखिए जिन्हें 12, 15 और 20 से भाग देने पर 4 शेषफल बचता है।\n(c) विद्यालय में उपस्थित छात्रों की न्यूनतम संख्या क्या है? 7 से विभाज्यता के लिए चरणबद्ध परीक्षण दिखाइए।",
+      "answer": "(a) LCM of 12, 15, and 20:\n12 = 2² × 3\n15 = 3 × 5\n20 = 2² × 5\nLCM = 2² × 3 × 5 = 4 × 3 × 5 = 60.\n\n(b) General Expression:\nAny number which leaves a remainder of 4 when divided by 12, 15, and 20 will be of the form:\nNumber = (LCM × k) + Remainder = 60k + 4, where k is a natural number (1, 2, 3...).\n\n(c) Finding minimum students (Divisible by 7):\nWe test values of k in the expression 60k + 4 until we find a number divisible by 7:\nFor k = 1: Number = 60(1) + 4 = 64 (Not divisible by 7, 64 ÷ 7 leaves remainder 1).\nFor k = 2: Number = 60(2) + 4 = 124 (Not divisible by 7, 124 ÷ 7 leaves remainder 5).\nFor k = 3: Number = 60(3) + 4 = 184 (Not divisible by 7, 184 ÷ 7 leaves remainder 2).\nFor k = 4: Number = 60(4) + 4 = 244 (Not divisible by 7, 244 ÷ 7 leaves remainder 6).\nFor k = 5: Number = 60(5) + 4 = 304 (Not divisible by 7, 304 ÷ 7 leaves remainder 3).\nFor k = 6: Number = 60(6) + 4 = 364.\nLet's check 364 ÷ 7: 364 ÷ 7 = 52 exactly! (Remainder = 0).\n\nTherefore, the minimum number of students present in the school is 364.",
+      "answerHi": "(a) 12, 15 और 20 का ल.स. (LCM):\n12 = 2² × 3\n15 = 3 × 5\n20 = 2² × 5\nल.स. = 2² × 3 × 5 = 4 × 3 × 5 = 60।\n\n(b) सामान्य व्यंजक:\nकोई भी संख्या जिसे 12, 15 और 20 से भाग देने पर 4 शेषफल बचे, वह इस रूप में होगी:\nसंख्या = (ल.स. × k) + शेषफल = 60k + 4, जहाँ k एक प्राकृत संख्या (1, 2, 3...) है।\n\n(c) न्यूनतम छात्रों की संख्या (7 से विभाज्य):\nहम 60k + 4 व्यंजक में k के मान तब तक रखते हैं जब तक कि 7 से विभाज्य संख्या न मिल जाए:\nk = 1 के लिए: संख्या = 60(1) + 4 = 64 (7 से विभाज्य नहीं, 64 ÷ 7 में शेषफल 1)।\nk = 2 के लिए: संख्या = 60(2) + 4 = 124 (7 से विभाज्य नहीं, 124 ÷ 7 में शेषफल 5)।\nk = 3 के लिए: संख्या = 60(3) + 4 = 184 (7 से विभाज्य नहीं, 184 ÷ 7 में शेषफल 2)।\nk = 4 के लिए: संख्या = 60(4) + 4 = 244 (7 से विभाज्य नहीं, 244 ÷ 7 में शेषफल 6)।\nk = 5 के लिए: संख्या = 60(5) + 4 = 304 (7 से विभाज्य नहीं, 304 ÷ 7 में शेषफल 3)।\nk = 6 के लिए: संख्या = 60(6) + 4 = 364।\n364 ÷ 7 की जाँच: 364 ÷ 7 = 52 पूर्णतः विभाज्य! (शेषफल = 0)।\n\nअतः विद्यालय में उपस्थित छात्रों की न्यूनतम संख्या 364 है।",
+      "keyPoints": [
+        "LCM(12, 15, 20) = 60. / ल.स.(12, 15, 20) = 60।",
+        "General form of required number = 60k + 4. / आवश्यक संख्या का सामान्य रूप = 60k + 4।",
+        "Test for k = 1, 2, 3, 4, 5, 6 until divisible by 7. / k = 1 से 6 तक जाँचें जब तक 7 से विभाज्य न हो।",
+        "For k = 6: Number = 364, which is exactly divisible by 7 (364 ÷ 7 = 52). / k = 6 पर संख्या 364 है, जो 7 से पूर्णतः विभाज्य है।"
+      ]
+    },
+    {
+      "id": "q28",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Test the divisibility of the number 7138965 by 11. Also, explain why the number 24680 is divisible by 4 and 8, but not by 9. Show all working steps clearly.",
+      "questionHi": "संख्या 7138965 की 11 से विभाज्यता की जाँच कीजिए। साथ ही, स्पष्ट कीजिए कि संख्या 24680, 4 और 8 से विभाज्य क्यों है, लेकिन 9 से विभाज्य क्यों नहीं है। सभी कार्य-चरण स्पष्ट रूप से दिखाइए।",
+      "answer": "Part 1: Divisibility of 7138965 by 11:\nWrite digits from right to left: 5 (1st), 6 (2nd), 9 (3rd), 8 (4th), 3 (5th), 1 (6th), 7 (7th).\nSum of digits at odd places = 5 + 9 + 3 + 7 = 24.\nSum of digits at even places = 6 + 8 + 1 = 15.\n\nDifference = 24 - 15 = 9.\nSince the difference 9 is neither 0 nor a multiple of 11, the number 7138965 is NOT divisible by 11.\n\nPart 2: Checking 24680 for divisibility by 4, 8, and 9:\n1. Divisibility by 4:\nA number is divisible by 4 if the number formed by its last two digits is divisible by 4.\nLast two digits of 24680 = 80.\nSince 80 is divisible by 4 (80 ÷ 4 = 20), 24680 is divisible by 4.\n\n2. Divisibility by 8:\nA number is divisible by 8 if the number formed by its last three digits is divisible by 8.\nLast three digits of 24680 = 680.\nSince 680 is divisible by 8 (680 ÷ 8 = 85), 24680 is divisible by 8.\n\n3. Divisibility by 9:\nA number is divisible by 9 if the sum of its digits is divisible by 9.\nSum of digits of 24680 = 2 + 4 + 6 + 8 + 0 = 20.\nSince 20 is not divisible by 9, the number 24680 is NOT divisible by 9.",
+      "answerHi": "भाग 1: 7138965 की 11 से विभाज्यता:\nदाएँ से बाएँ अंक: 5 (पहला), 6 (दूसरा), 9 (तीसरा), 8 (चौथा), 3 (पाँचवाँ), 1 (छठा), 7 (सातवाँ)।\nविषम स्थानों के अंकों का योग = 5 + 9 + 3 + 7 = 24।\nसम स्थानों के अंकों का योग = 6 + 8 + 1 = 15।\n\nअंतर = 24 - 15 = 9।\nचूँकि अंतर 9 न तो 0 है और न ही 11 का गुणज है, इसलिए संख्या 7138965, 11 से विभाज्य नहीं है।\n\nभाग 2: 24680 की 4, 8 और 9 से विभाज्यता की जाँच:\n1. 4 से विभाज्यता:\nकोई संख्या 4 से विभाज्य होती है यदि उसके अंतिम दो अंकों से बनी संख्या 4 से विभाज्य हो।\n24680 के अंतिम दो अंक = 80।\nचूँकि 80, 4 से विभाज्य है (80 ÷ 4 = 20), अतः 24680, 4 से विभाज्य है।\n\n2. 8 से विभाज्यता:\nकोई संख्या 8 से विभाज्य होती है यदि उसके अंतिम तीन अंकों से बनी संख्या 8 से विभाज्य हो।\n24680 के अंतिम तीन अंक = 680।\nचूँकि 680, 8 से विभाज्य है (680 ÷ 8 = 85), अतः 24680, 8 से विभाज्य है।\n\n3. 9 से विभाज्यता:\nकोई संख्या 9 से विभाज्य होती है यदि उसके अंकों का योग 9 से विभाज्य हो।\n24680 के अंकों का योग = 2 + 4 + 6 + 8 + 0 = 20।\nचूँकि 20, 9 से विभाज्य नहीं है, अतः संख्या 24680, 9 से विभाज्य नहीं है।",
+      "keyPoints": [
+        "7138965: Difference of odd/even sums = 24 - 15 = 9 -> Not divisible by 11. / 7138965: अंतर = 9 -> 11 से विभाज्य नहीं।",
+        "24680: Last 2 digits (80) divisible by 4 -> Divisible by 4. / अंतिम 2 अंक (80) 4 से विभाज्य -> 4 से विभाज्य।",
+        "24680: Last 3 digits (680) divisible by 8 -> Divisible by 8. / अंतिम 3 अंक (680) 8 से विभाज्य -> 8 से विभाज्य।",
+        "24680: Sum of digits = 20 -> Not divisible by 9. / अंकों का योग = 20 -> 9 से विभाज्य नहीं।"
+      ]
+    },
+    {
+      "id": "q29",
+      "type": "case-study",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "Case Study: Sweet Shop Tray Arrangement.\nA sweet shop maker has 420 Kaju Katlis and 130 Badam Bahars. He wants to stack them in such a way that each stack has the same number of sweets, contains only one type of sweet, and they take up the least area of the tray.\n(a) What is the maximum number of sweets that can be placed in each stack to take up the least area?\n(b) How many stacks of Kaju Katli and Badam Bahar will be formed respectively?\n(c) What is the total number of stacks formed in the tray?",
+      "questionHi": "केस स्टडी: मिठाई की दुकान में ट्रे की सजावट।\nएक मिठाई विक्रेता के पास 420 काजू कतली और 130 बादाम बहार हैं। वह उन्हें इस प्रकार ढेर (Stack) के रूप में लगाना चाहता है कि प्रत्येक ढेर में मिठाइयों की संख्या समान हो, प्रत्येक ढेर में केवल एक ही प्रकार की मिठाई हो, तथा वे ट्रे का न्यूनतम क्षेत्रफल घेरें।\n(a) ट्रे का न्यूनतम क्षेत्रफल घेरने के लिए प्रत्येक ढेर में रखी जा सकने वाली मिठाइयों की अधिकतम संख्या क्या है?\n(b) काजू कतली और बादाम बहार के क्रमशः कितने ढेर बनेंगे?\n(c) ट्रे में कुल कितने ढेर बनेंगे?",
+      "answer": "(a) To take up the least area of the tray, the number of sweets in each stack must be the maximum possible. This maximum number is given by the HCF of 420 and 130.\nPrime factorizations:\n420 = 2² × 3 × 5 × 7\n130 = 2 × 5 × 13\n\nCommon prime factors with lowest powers = 2 × 5 = 10.\nTherefore, the maximum number of sweets in each stack is 10.\n\n(b) Number of stacks for each type:\nStacks of Kaju Katli = 420 ÷ 10 = 42 stacks.\nStacks of Badam Bahar = 130 ÷ 10 = 13 stacks.\n\n(c) Total number of stacks:\nTotal stacks = 42 + 13 = 55 stacks.",
+      "answerHi": "(a) ट्रे का न्यूनतम क्षेत्रफल घेरने के लिए, प्रत्येक ढेर में मिठाइयों की संख्या अधिकतम होनी चाहिए। यह अधिकतम संख्या 420 और 130 के म.स. (HCF) के बराबर होगी।\nअभाज्य गुणनखंडन:\n420 = 2² × 3 × 5 × 7\n130 = 2 × 5 × 13\n\nन्यूनतम घात वाले उभयनिष्ठ अभाज्य गुणनखंड = 2 × 5 = 10।\nअतः प्रत्येक ढेर में अधिकतम 10 मिठाइयाँ रखी जा सकती हैं।\n\n(b) प्रत्येक प्रकार के ढेरों की संख्या:\nकाजू कतली के ढेर = 420 ÷ 10 = 42 ढेर।\nबादाम बहार के ढेर = 130 ÷ 10 = 13 ढेर।\n\n(c) ढेरों की कुल संख्या:\nकुल ढेर = 42 + 13 = 55 ढेर।",
+      "keyPoints": [
+        "Least area -> Maximum sweets per stack -> HCF(420, 130). / न्यूनतम क्षेत्रफल -> प्रति ढेर अधिकतम मिठाई -> म.स.(420, 130)।",
+        "HCF of 420 and 130 = 10 sweets per stack. / 420 और 130 का म.स. = प्रति ढेर 10 मिठाइयाँ।",
+        "Kaju Katli stacks = 420 ÷ 10 = 42; Badam Bahar stacks = 130 ÷ 10 = 13.",
+        "Total stacks in tray = 42 + 13 = 55 stacks. / ट्रे में कुल ढेर = 42 + 13 = 55 ढेर।"
+      ]
+    },
+    {
+      "id": "q30",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "(a) Find the smallest number which when divided by 25, 40, and 60 leaves remainder 7 in each case.\n(b) Can two numbers have 16 as their HCF and 380 as their LCM? Give mathematical reason to justify your answer.",
+      "questionHi": "(a) वह सबसे छोटी संख्या ज्ञात कीजिए जिसे 25, 40 और 60 से भाग देने पर प्रत्येक स्थिति में 7 शेषफल बचे।\n(b) क्या किन्हीं दो संख्याओं का महत्तम समापवर्तक (म.स.) 16 और लघुत्तम समापवर्त्य (ल.स.) 380 हो सकता है? अपने उत्तर की पुष्टि के लिए गणितीय कारण दीजिए।",
+      "answer": "(a) Finding the smallest number leaving remainder 7:\nStep 1: Find the LCM of 25, 40, and 60.\nPrime factorizations:\n25 = 5²\n40 = 2³ × 5\n60 = 2² × 3 × 5\nLCM(25, 40, 60) = 2³ × 3 × 5² = 8 × 3 × 25 = 600.\n\nStep 2: Add the required remainder (7) to the LCM.\nRequired smallest number = LCM + Remainder = 600 + 7 = 607.\n(Verification: 607 ÷ 25 leaves remainder 7; 607 ÷ 40 leaves remainder 7; 607 ÷ 60 leaves remainder 7).\n\n(b) Checking if HCF = 16 and LCM = 380 is possible:\nMathematical Rule: The HCF of two or more numbers must ALWAYS be a factor of their LCM (i.e., LCM must be completely divisible by HCF without any remainder).\nLet us divide 380 by 16:\n380 ÷ 16:\n16 × 23 = 368\nRemainder = 380 - 368 = 12.\nSince 380 is NOT completely divisible by 16 (it leaves a remainder of 12), 16 is not a factor of 380.\n\nConclusion: No, two numbers cannot have 16 as their HCF and 380 as their LCM.",
+      "answerHi": "(a) 7 शेषफल छोड़ने वाली सबसे छोटी संख्या ज्ञात करना:\nचरण 1: 25, 40 और 60 का ल.स. (LCM) ज्ञात कीजिए।\nअभाज्य गुणनखंडन:\n25 = 5²\n40 = 2³ × 5\n60 = 2² × 3 × 5\nल.स.(25, 40, 60) = 2³ × 3 × 5² = 8 × 3 × 25 = 600।\n\nचरण 2: ल.स. में अभीष्ट शेषफल (7) जोड़िए।\nअभीष्ट सबसे छोटी संख्या = ल.स. + शेषफल = 600 + 7 = 607।\n(सत्यापन: 607 ÷ 25 में शेषफल 7; 607 ÷ 40 में शेषफल 7; 607 ÷ 60 में शेषफल 7 बचता है)।\n\n(b) जाँच करना कि क्या म.स. = 16 और ल.स. = 380 संभव है:\nगणितीय नियम: किन्हीं दो या अधिक संख्याओं का महत्तम समापवर्तक (म.स.) सदैव उनके लघुत्तम समापवर्त्य (ल.स.) का एक गुणनखंड होना चाहिए (अर्थात् ल.स., म.स. से पूर्णतः विभाज्य होना चाहिए)।\nआइए 380 को 16 से भाग दें:\n380 ÷ 16:\n16 × 23 = 368\nशेषफल = 380 - 368 = 12।\nचूँकि 380, 16 से पूर्णतः विभाज्य नहीं है (शेषफल 12 बचता है), इसलिए 16, 380 का गुणनखंड नहीं है।\n\nनिष्कर्ष: नहीं, किन्हीं दो संख्याओं का म.स. 16 और ल.स. 380 नहीं हो सकता।",
+      "keyPoints": [
+        "Part (a): LCM(25, 40, 60) = 600. / भाग (a): ल.स.(25, 40, 60) = 600।",
+        "Required number = LCM + Remainder = 600 + 7 = 607. / अभीष्ट संख्या = 600 + 7 = 607।",
+        "Part (b): Golden Rule -> HCF MUST divide LCM completely! / भाग (b): सुनहरा नियम -> म.स. सदैव ल.स. को पूर्णतः विभाजित करता है!",
+        "380 is NOT divisible by 16 (Remainder = 12). Hence, not possible! / 380, 16 से विभाज्य नहीं है (शेषफल 12)। अतः यह संभव नहीं है!"
+      ]
+    }
+  ]
+}
