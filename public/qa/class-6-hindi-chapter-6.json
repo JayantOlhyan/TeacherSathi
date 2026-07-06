@@ -1,0 +1,465 @@
+{
+  "chapterTitle": "Meri Maa (My Mother - Autobiography)",
+  "chapterTitleHi": "मेरी माँ (आत्मकथा)",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Who is the author of 'Meri Maa', and what literary genre does it belong to?",
+      "questionHi": "'मेरी माँ' के लेखक कौन हैं, और यह किस साहित्यिक विधा से संबंधित है?",
+      "answer": "The author of 'Meri Maa' is the great Indian freedom fighter and revolutionary Ram Prasad Bismil. This chapter belongs to the genre of 'Autobiography' (आत्मकथा), as it is an excerpt written by him about his own life and his deep bond with his mother.",
+      "answerHi": "'मेरी माँ' के लेखक महान भारतीय स्वतंत्रता सेनानी और क्रांतिकारी राम प्रसाद बिस्मिल हैं। यह अध्याय 'आत्मकथा' विधा से संबंधित है, क्योंकि यह उनके द्वारा अपने स्वयं के जीवन और अपनी माँ के साथ उनके गहरे बंधन के बारे में लिखा गया एक अंश है।",
+      "keyPoints": [
+        "लेखक: महान क्रांतिकारी राम प्रसाद बिस्मिल (Author: Great revolutionary Ram Prasad Bismil)",
+        "विधा: आत्मकथा (Genre: Autobiography)",
+        "यह उनकी माँ के साथ उनके भावनात्मक बंधन का वर्णन करता है (It describes his emotional bond with his mother)"
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "How did Bismil's mother help him in his childhood when he used to get beaten?",
+      "questionHi": "बचपन में जब बिस्मिल की पिटाई होती थी, तो उनकी माँ ने उनकी कैसे मदद की?",
+      "answer": "In his childhood, Ram Prasad Bismil was very mischievous and often got beaten by his father. His mother would protect him from his father's anger. She would affectionately explain things to him, forgive his mistakes, and guide him with immense patience and love.",
+      "answerHi": "बचपन में, राम प्रसाद बिस्मिल बहुत शरारती थे और अक्सर उनके पिता उन्हें पीटते थे। उनकी माँ उन्हें उनके पिता के क्रोध से बचाती थीं। वह उन्हें प्यार से समझाती थीं, उनकी गलतियों को माफ कर देती थीं, और उन्हें अपार धैर्य और प्यार से राह दिखाती थीं।",
+      "keyPoints": [
+        "बचपन में बिस्मिल बहुत शरारती थे (In childhood, Bismil was very mischievous)",
+        "माँ उन्हें पिता की पिटाई और क्रोध से बचाती थीं (Mother protected him from father's beatings and anger)",
+        "वे प्यार और धैर्य से उनकी गलतियों को सुधारती थीं (She corrected his mistakes with love and patience)"
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "What role did Bismil's mother play in his education?",
+      "questionHi": "बिस्मिल की शिक्षा में उनकी माँ ने क्या भूमिका निभाई?",
+      "answer": "Although Bismil's mother was initially uneducated, she learned to read Hindi after marriage. She became Bismil's true guide. When he struggled with his studies, she encouraged him. Her self-learning inspired him, and her moral teachings formed the real foundation of his education and character.",
+      "answerHi": "हालाँकि बिस्मिल की माँ शुरू में अशिक्षित थीं, लेकिन शादी के बाद उन्होंने हिंदी पढ़ना सीखा। वह बिस्मिल की सच्ची मार्गदर्शक बन गईं। जब वह पढ़ाई में संघर्ष कर रहे थे, तो उन्होंने उसे प्रोत्साहित किया। उनके स्वयं-सीखने ने उन्हें प्रेरित किया, और उनकी नैतिक शिक्षाओं ने उनकी शिक्षा और चरित्र की वास्तविक नींव बनाई।",
+      "keyPoints": [
+        "माँ ने शादी के बाद स्वयं हिंदी पढ़ना सीखा (Mother learned to read Hindi herself after marriage)",
+        "उन्होंने बिस्मिल को पढ़ाई के लिए प्रोत्साहित किया (She encouraged Bismil to study)",
+        "उनकी नैतिक शिक्षा ही बिस्मिल के चरित्र की वास्तविक नींव थी (Her moral teachings were the real foundation of Bismil's character)"
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "How did Bismil's mother support his revolutionary activities?",
+      "questionHi": "बिस्मिल की माँ ने उनकी क्रांतिकारी गतिविधियों का समर्थन कैसे किया?",
+      "answer": "Bismil's mother was a courageous woman. Instead of stopping him out of fear, she actively supported his patriotic feelings. She never discouraged him from joining the freedom struggle. Even when he was in danger, she stood by him like a rock, blessing him to serve the motherland.",
+      "answerHi": "बिस्मिल की माँ एक साहसी महिला थीं। डर के मारे उन्हें रोकने के बजाय, उन्होंने सक्रिय रूप से उनकी देशभक्ति की भावनाओं का समर्थन किया। उन्होंने कभी भी उन्हें स्वतंत्रता संग्राम में शामिल होने से निराश नहीं किया। जब वह खतरे में थे, तब भी वह एक चट्टान की तरह उनके साथ खड़ी रहीं, उन्हें मातृभूमि की सेवा करने का आशीर्वाद दिया।",
+      "keyPoints": [
+        "वे एक साहसी महिला थीं जो देशभक्ति का समर्थन करती थीं (She was a courageous woman who supported patriotism)",
+        "उन्होंने कभी बिस्मिल को देश सेवा से नहीं रोका (She never stopped Bismil from serving the country)",
+        "खतरे के समय में भी वे एक चट्टान की तरह उनके साथ खड़ी रहीं (Even in times of danger, she stood by him like a rock)"
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What is the supreme desire that Ram Prasad Bismil mentions at the end of the text?",
+      "questionHi": "राम प्रसाद बिस्मिल पाठ के अंत में किस सर्वोच्च इच्छा का उल्लेख करते हैं?",
+      "answer": "At the end of the text, Bismil expresses his supreme desire: he wishes that at the time of his death, he could place his head on his mother's feet and peacefully sacrifice his life. However, since he is in jail awaiting execution, he knows this physical meeting is impossible.",
+      "answerHi": "पाठ के अंत में, बिस्मिल अपनी सर्वोच्च इच्छा व्यक्त करते हैं: वह चाहते हैं कि मृत्यु के समय, वह अपना सिर अपनी माँ के चरणों में रख सकें और शांति से अपने जीवन का बलिदान कर सकें। हालाँकि, चूंकि वह जेल में फाँसी की प्रतीक्षा कर रहे हैं, वह जानते हैं कि यह शारीरिक मुलाकात असंभव है।",
+      "keyPoints": [
+        "मृत्यु के समय माँ के चरणों में सिर रखने की इच्छा (Desire to place head on mother's feet at the time of death)",
+        "शांति से मातृभूमि के लिए प्राण त्यागना (To peacefully sacrifice life for the motherland)",
+        "जेल में होने के कारण यह शारीरिक इच्छा अधूरी रही (Due to being in jail, this physical desire remained unfulfilled)"
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "Why does Bismil feel he can never repay his mother's debt?",
+      "questionHi": "बिस्मिल को ऐसा क्यों लगता है कि वे अपनी माँ का कर्ज कभी नहीं चुका सकते?",
+      "answer": "Bismil feels he can never repay his mother's debt because she gave him not just physical life, but also shaped his soul, courage, and patriotism. Her sacrifices, unwavering support, and moral guidance were so immense that even in multiple lifetimes, he believes he could not repay her selfless love.",
+      "answerHi": "बिस्मिल को लगता है कि वह अपनी माँ का कर्ज कभी नहीं चुका सकते क्योंकि उन्होंने उन्हें न केवल शारीरिक जीवन दिया, बल्कि उनकी आत्मा, साहस और देशभक्ति को भी आकार दिया। उनके बलिदान, अटूट समर्थन और नैतिक मार्गदर्शन इतने अपार थे कि उनका मानना है कि कई जन्मों में भी वह उनके निस्वार्थ प्रेम को नहीं चुका सकते।",
+      "keyPoints": [
+        "माँ ने शारीरिक जीवन के साथ-साथ आत्मा और साहस को भी आकार दिया (Mother shaped soul and courage along with physical life)",
+        "माँ का निस्वार्थ प्रेम और समर्थन अमूल्य है (Mother's selfless love and support is priceless)",
+        "कई जन्मों में भी माँ का कर्ज चुकाना असंभव है (It is impossible to repay mother's debt even in multiple lifetimes)"
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What does Bismil call his mother besides giving him birth?",
+      "questionHi": "जन्म देने के अलावा बिस्मिल अपनी माँ को क्या कहकर बुलाते हैं?",
+      "answer": "Besides giving him birth, Bismil calls his mother his true 'Guru' (teacher) and guide. He credits her for all his good qualities, his education, and his deep devotion to the motherland.",
+      "answerHi": "उन्हें जन्म देने के अलावा, बिस्मिल अपनी माँ को अपना सच्चा 'गुरु' (शिक्षक) और मार्गदर्शक कहते हैं। वह अपने सभी अच्छे गुणों, अपनी शिक्षा और मातृभूमि के प्रति अपनी गहरी भक्ति का श्रेय उन्हें देते हैं।",
+      "keyPoints": [
+        "माँ केवल जन्मदात्री नहीं, बल्कि सच्ची 'गुरु' और मार्गदर्शक हैं (Mother is not just birth-giver, but true 'Guru' and guide)",
+        "सभी अच्छे गुणों और देशभक्ति का श्रेय माँ को है (Credit for all good qualities and patriotism goes to mother)"
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "How did Bismil's mother react when he joined the revolutionary Arya Samaj movement?",
+      "questionHi": "जब बिस्मिल क्रांतिकारी आर्य समाज आंदोलन में शामिल हुए तो उनकी माँ की क्या प्रतिक्रिया थी?",
+      "answer": "When Bismil joined the Arya Samaj and started wearing khadi, his father opposed him. However, his mother quietly supported him. She managed the situation at home, sent him money for his activities secretly, and encouraged his noble path of social and national reform.",
+      "answerHi": "जब बिस्मिल आर्य समाज में शामिल हुए और खादी पहनना शुरू किया, तो उनके पिता ने उनका विरोध किया। हालाँकि, उनकी माँ ने चुपचाप उनका समर्थन किया। उन्होंने घर पर स्थिति को संभाला, गुप्त रूप से उन्हें उनकी गतिविधियों के लिए पैसे भेजे, और सामाजिक और राष्ट्रीय सुधार के उनके नेक मार्ग को प्रोत्साहित किया।",
+      "keyPoints": [
+        "पिता के विरोध के बावजूद माँ ने गुप्त रूप से समर्थन किया (Despite father's opposition, mother supported secretly)",
+        "क्रांतिकारी गतिविधियों के लिए पैसे भेजे (Sent money for revolutionary activities)",
+        "देश सेवा के नेक मार्ग को प्रोत्साहित किया (Encouraged the noble path of serving the country)"
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What is the main theme of the chapter 'Meri Maa'?",
+      "questionHi": "'मेरी माँ' अध्याय का मुख्य विषय (theme) क्या है?",
+      "answer": "The main theme of the chapter is the supreme greatness of a mother's love and her vital role in shaping a child's character. It highlights how a mother's courage and moral support can create a great patriot and revolutionary who sacrifices his life for the nation.",
+      "answerHi": "अध्याय का मुख्य विषय माँ के प्यार की सर्वोच्च महानता और बच्चे के चरित्र को आकार देने में उसकी महत्वपूर्ण भूमिका है। यह इस बात पर प्रकाश डालता है कि कैसे एक माँ का साहस और नैतिक समर्थन एक महान देशभक्त और क्रांतिकारी बना सकता है जो राष्ट्र के लिए अपना जीवन बलिदान कर देता है।",
+      "keyPoints": [
+        "माँ के निस्वार्थ प्रेम और महानता का वर्णन (Description of mother's selfless love and greatness)",
+        "बच्चे के चरित्र निर्माण में माँ की भूमिका (Mother's role in building child's character)",
+        "माँ के समर्थन से देशभक्त और क्रांतिकारी का निर्माण (Creation of a patriot and revolutionary through mother's support)"
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "In what state of mind did Ram Prasad Bismil write this autobiography?",
+      "questionHi": "राम प्रसाद बिस्मिल ने यह आत्मकथा किस मनःस्थिति में लिखी थी?",
+      "answer": "Ram Prasad Bismil wrote this autobiography while he was imprisoned in Gorakhpur jail, waiting to be hanged by the British government for his role in the Kakori conspiracy. He wrote it with a heart full of devotion for the nation and immense gratitude towards his mother.",
+      "answerHi": "राम प्रसाद बिस्मिल ने यह आत्मकथा तब लिखी थी जब वह गोरखपुर जेल में कैद थे, और काकोरी षड्यंत्र में अपनी भूमिका के लिए ब्रिटिश सरकार द्वारा फाँसी दिए जाने की प्रतीक्षा कर रहे थे। उन्होंने इसे राष्ट्र के प्रति भक्ति और अपनी माँ के प्रति अपार कृतज्ञता से भरे दिल से लिखा था।",
+      "keyPoints": [
+        "गोरखपुर जेल में फाँसी की प्रतीक्षा करते हुए लिखी गई (Written in Gorakhpur jail while awaiting execution)",
+        "देश के प्रति भक्ति से भरे हृदय के साथ (With a heart full of devotion for the country)",
+        "माँ के प्रति अपार कृतज्ञता की भावना (Feeling of immense gratitude towards mother)"
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Describe the incident from Bismil's childhood that shows his mother's patience.",
+      "questionHi": "बिस्मिल के बचपन की उस घटना का वर्णन कीजिए जो उनकी माँ के धैर्य को दर्शाती है।",
+      "answer": "Once, Bismil's father became very angry with him for some mischief and wanted to beat him severely. Bismil's mother intervened, taking the blows herself to protect him. Later, instead of scolding him, she patiently and lovingly explained his mistake to him. This calm and patient approach deeply affected Bismil and reformed his mischievous nature permanently.",
+      "answerHi": "एक बार, बिस्मिल के पिता किसी शरारत के लिए उन पर बहुत क्रोधित हुए और उन्हें बुरी तरह पीटना चाहते थे। बिस्मिल की माँ ने बीच-बचाव किया, उन्हें बचाने के लिए खुद वार सहे। बाद में, उसे डांटने के बजाय, उसने धैर्यपूर्वक और प्यार से उसे उसकी गलती समझाई। इस शांत और धैर्यपूर्ण दृष्टिकोण ने बिस्मिल को गहराई से प्रभावित किया और उनके शरारती स्वभाव को स्थायी रूप से सुधार दिया।",
+      "keyPoints": [
+        "माँ ने पिता के क्रोध से बिस्मिल को बचाया (Mother saved Bismil from father's anger)",
+        "डांटने के बजाय प्यार और धैर्य से गलती समझाई (Instead of scolding, explained mistake with love and patience)",
+        "इस धैर्य ने बिस्मिल के स्वभाव को स्थायी रूप से सुधार दिया (This patience reformed Bismil's nature permanently)"
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "How does Bismil's mother represent the ideal Indian woman according to the text?",
+      "questionHi": "पाठ के अनुसार बिस्मिल की माँ आदर्श भारतीय महिला का प्रतिनिधित्व कैसे करती हैं?",
+      "answer": "Bismil's mother represents the ideal Indian woman through her boundless sacrifice, patience, and moral strength. Though uneducated initially, she empowered herself by learning to read. She balanced domestic duties perfectly while silently supporting her son's revolutionary path. She possessed immense inner courage, not crying over her son's impending death but feeling proud of his sacrifice for the motherland.",
+      "answerHi": "बिस्मिल की माँ अपने असीम बलिदान, धैर्य और नैतिक शक्ति के माध्यम से आदर्श भारतीय महिला का प्रतिनिधित्व करती हैं। यद्यपि शुरू में अशिक्षित थीं, उन्होंने पढ़ना सीखकर खुद को सशक्त बनाया। उन्होंने अपने बेटे के क्रांतिकारी मार्ग का चुपचाप समर्थन करते हुए घरेलू कर्तव्यों को पूरी तरह से संतुलित किया। उनके पास अपार आंतरिक साहस था, वे अपने बेटे की आसन्न मृत्यु पर नहीं रोईं बल्कि मातृभूमि के लिए उसके बलिदान पर गर्व महसूस किया।",
+      "keyPoints": [
+        "स्वयं को शिक्षित करके सशक्त बनाना (Empowering herself by getting educated)",
+        "घरेलू कर्तव्यों और देशभक्ति के समर्थन में संतुलन (Balancing domestic duties and support for patriotism)",
+        "बेटे के बलिदान पर रोने के बजाय गर्व महसूस करना (Feeling proud instead of crying over son's sacrifice)"
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "What parallel does Bismil draw between his physical mother and 'Bharat Mata' (Mother India)?",
+      "questionHi": "बिस्मिल अपनी जन्मदात्री माँ और 'भारत माता' के बीच क्या समानता (parallel) खींचते हैं?",
+      "answer": "Bismil seamlessly merges his devotion for his physical mother with his devotion for Mother India. He implies that his physical mother nurtured his body and character so that he could serve the greater mother—Bharat Mata. Just as a mother sacrifices everything for her child, Bismil feels it is his duty to sacrifice his life for Mother India. His love for his mother ultimately translates into his supreme sacrifice for the nation.",
+      "answerHi": "बिस्मिल अपनी जन्मदात्री माँ के लिए अपनी भक्ति को भारत माता के लिए अपनी भक्ति के साथ सहजता से मिला देते हैं। उनका तात्पर्य है कि उनकी शारीरिक माँ ने उनके शरीर और चरित्र का पोषण किया ताकि वे बड़ी माँ - भारत माता की सेवा कर सकें। जिस तरह एक माँ अपने बच्चे के लिए सब कुछ त्याग देती है, बिस्मिल को लगता है कि भारत माता के लिए अपना जीवन बलिदान करना उनका कर्तव्य है। अपनी माँ के प्रति उनका प्यार अंततः राष्ट्र के लिए उनके सर्वोच्च बलिदान में बदल जाता है।",
+      "keyPoints": [
+        "जन्मदात्री माँ ने चरित्र का निर्माण भारत माता की सेवा के लिए किया (Birth mother built character to serve Mother India)",
+        "माँ का बलिदान और देश के लिए बेटे का बलिदान एक समान हैं (Mother's sacrifice and son's sacrifice for country are similar)",
+        "जन्मदात्री माँ का प्रेम राष्ट्रप्रेम में परिवर्तित हो जाता है (Love for birth mother transforms into patriotism)"
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Explain the significance of the quote: 'इस जीवन में तो क्या, अनेक जन्मों में भी मैं तुम्हारे ऋण से उऋण नहीं हो सकता।'",
+      "questionHi": "इस उद्धरण के महत्व को स्पष्ट कीजिए: 'इस जीवन में तो क्या, अनेक जन्मों में भी मैं तुम्हारे ऋण से उऋण नहीं हो सकता।'",
+      "answer": "This powerful quote means, 'Not just in this life, but even in multiple lifetimes, I cannot repay your debt.' Bismil says this because his mother gave him much more than just birth. She gave him moral courage, education, and the inspiration to become a revolutionary. A financial debt can be repaid, but the debt of unconditional love, character-building, and spiritual guidance given by a mother is infinite and unpayable.",
+      "answerHi": "इस शक्तिशाली उद्धरण का अर्थ है, 'केवल इस जीवन में नहीं, बल्कि कई जन्मों में भी, मैं आपका कर्ज नहीं चुका सकता।' बिस्मिल ऐसा इसलिए कहते हैं क्योंकि उनकी माँ ने उन्हें जन्म के अलावा और भी बहुत कुछ दिया। उसने उन्हें नैतिक साहस, शिक्षा और क्रांतिकारी बनने की प्रेरणा दी। आर्थिक कर्ज चुकाया जा सकता है, लेकिन एक माँ द्वारा दिए गए बिना शर्त प्यार, चरित्र-निर्माण और आध्यात्मिक मार्गदर्शन का कर्ज अनंत और अप्राप्य है।",
+      "keyPoints": [
+        "माँ का कर्ज आर्थिक नहीं, बल्कि भावनात्मक और आध्यात्मिक है (Mother's debt is not financial, but emotional and spiritual)",
+        "माँ ने निस्वार्थ प्रेम, साहस और चरित्र-निर्माण दिया (Mother gave selfless love, courage, and character-building)",
+        "ऐसा अनमोल कर्ज कई जन्मों में भी चुकाया नहीं जा सकता (Such an invaluable debt cannot be repaid even in multiple lifetimes)"
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "How does the autobiography 'Meri Maa' evoke patriotic feelings among readers?",
+      "questionHi": "आत्मकथा 'मेरी माँ' पाठकों में देशभक्ति की भावनाएँ कैसे जगाती है?",
+      "answer": "'Meri Maa' evokes profound patriotism by showing the human side of a revolutionary. When readers see that Bismil loved his mother deeply yet chose to sacrifice his life for the country, they realize the magnitude of his patriotism. Furthermore, the mother's courage in willingly offering her son to the gallows for India's freedom inspires readers. The text shows that true patriotism requires immense personal sacrifice from both the martyr and their family.",
+      "answerHi": "'मेरी माँ' एक क्रांतिकारी के मानवीय पक्ष को दिखाकर गहरी देशभक्ति जगाती है। जब पाठक देखते हैं कि बिस्मिल अपनी माँ से बहुत प्यार करते थे, फिर भी उन्होंने देश के लिए अपना जीवन बलिदान करने का विकल्प चुना, तो उन्हें उनकी देशभक्ति की परिमाण का एहसास होता है। इसके अलावा, भारत की स्वतंत्रता के लिए स्वेच्छा से अपने बेटे को फांसी पर चढ़ाने में माँ का साहस पाठकों को प्रेरित करता है। पाठ दर्शाता है कि सच्ची देशभक्ति के लिए शहीद और उनके परिवार दोनों से अपार व्यक्तिगत बलिदान की आवश्यकता होती है।",
+      "keyPoints": [
+        "क्रांतिकारी के गहरे मानवीय प्रेम और सर्वोच्च बलिदान का चित्रण (Depiction of revolutionary's deep human love and supreme sacrifice)",
+        "माँ का अपने बेटे को देश के लिए खुशी-खुशी कुर्बान करना (Mother happily sacrificing her son for the country)",
+        "देशभक्ति के लिए शहीद और परिवार दोनों के बलिदान की प्रेरणा (Inspiration of sacrifice from both martyr and family for patriotism)"
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "What specific prayer does Bismil make to his mother regarding his impending death?",
+      "questionHi": "अपनी आसन्न मृत्यु के संबंध में बिस्मिल अपनी माँ से क्या विशिष्ट प्रार्थना करते हैं?",
+      "answer": "Bismil prays to his mother that when the news of his execution reaches her, she should not shed a single tear or lose her composure. He asks her to believe that her son has sacrificed his life for a noble cause, serving Mother India. He wants her to be proud, like a brave mother, and not grieve like an ordinary woman.",
+      "answerHi": "बिस्मिल अपनी माँ से प्रार्थना करते हैं कि जब उनकी फांसी की खबर उन तक पहुंचे, तो वह एक भी आंसू न बहाएं या अपना धैर्य न खोएं। वह उनसे यह विश्वास करने के लिए कहते हैं कि उनके बेटे ने भारत माता की सेवा करते हुए एक नेक काम के लिए अपना जीवन बलिदान कर दिया है। वह चाहते हैं कि वह एक बहादुर माँ की तरह गर्व करे, और एक साधारण महिला की तरह शोक न करे।",
+      "keyPoints": [
+        "फांसी की खबर सुनकर आंसू न बहाने की प्रार्थना (Prayer not to shed tears upon hearing the news of execution)",
+        "बेटे के बलिदान पर गर्व महसूस करने का आग्रह (Request to feel proud of son's sacrifice)",
+        "शोक के बजाय धैर्य और साहस बनाए रखने की अपील (Appeal to maintain patience and courage instead of grief)"
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Why does Bismil call his mother 'Tapasvini' (an ascetic)?",
+      "questionHi": "बिस्मिल अपनी माँ को 'तपस्विनी' (तपस्या करने वाली) क्यों कहते हैं?",
+      "answer": "Bismil calls his mother 'Tapasvini' because her life was filled with extreme sacrifice, patience, and self-denial. Like an ascetic who endures hardships for spiritual goals, his mother endured poverty, family disputes, and emotional pain with a calm mind. Her ultimate 'tapasya' was sacrificing her beloved son for the freedom of the nation without shedding a tear.",
+      "answerHi": "बिस्मिल अपनी माँ को 'तपस्विनी' कहते हैं क्योंकि उनका जीवन अत्यधिक बलिदान, धैर्य और आत्म-त्याग से भरा था। एक तपस्वी की तरह जो आध्यात्मिक लक्ष्यों के लिए कठिनाइयों को सहता है, उनकी माँ ने शांत मन से गरीबी, पारिवारिक विवादों और भावनात्मक दर्द को सहा। उनकी अंतिम 'तपस्या' राष्ट्र की स्वतंत्रता के लिए एक भी आंसू बहाए बिना अपने प्यारे बेटे का बलिदान करना था।",
+      "keyPoints": [
+        "माँ का जीवन बलिदान, धैर्य और आत्म-त्याग से भरा था (Mother's life was full of sacrifice, patience, and self-denial)",
+        "उन्होंने सभी कठिनाइयों को शांत मन से सहा (She endured all hardships with a calm mind)",
+        "देश के लिए बेटे का बलिदान उनकी सबसे बड़ी 'तपस्या' थी (Sacrificing son for country was her greatest 'tapasya')"
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "How does the autobiography highlight the importance of women's education in that era?",
+      "questionHi": "आत्मकथा उस युग में महिला शिक्षा के महत्व को कैसे उजागर करती है?",
+      "answer": "The autobiography subtly highlights women's education. When Bismil's mother came to her in-laws' house, she was uneducated. However, with determination, she taught herself to read Hindi. This self-education transformed her. She was then able to guide Bismil's studies, understand social and national issues, and support his revolutionary path. It shows that an educated mother builds a strong, progressive generation.",
+      "answerHi": "आत्मकथा सूक्ष्मता से महिला शिक्षा को उजागर करती है। जब बिस्मिल की माँ अपने ससुराल आई थीं, तो वह अशिक्षित थीं। हालाँकि, दृढ़ संकल्प के साथ, उन्होंने खुद को हिंदी पढ़ना सिखाया। इस स्व-शिक्षा ने उन्हें बदल दिया। वह तब बिस्मिल की पढ़ाई का मार्गदर्शन करने, सामाजिक और राष्ट्रीय मुद्दों को समझने और उनके क्रांतिकारी मार्ग का समर्थन करने में सक्षम थीं। यह दर्शाता है कि एक शिक्षित माँ एक मजबूत, प्रगतिशील पीढ़ी का निर्माण करती है।",
+      "keyPoints": [
+        "माँ ने दृढ़ संकल्प के साथ स्वयं हिंदी पढ़ना सीखा (Mother learned to read Hindi herself with determination)",
+        "शिक्षा ने उन्हें बिस्मिल का मार्गदर्शन करने में सक्षम बनाया (Education enabled her to guide Bismil)",
+        "एक शिक्षित माँ एक मजबूत और देशभक्त पीढ़ी का निर्माण करती है (An educated mother builds a strong and patriotic generation)"
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "What emotional conflict does Bismil experience at the end of the text, and how does he resolve it?",
+      "questionHi": "पाठ के अंत में बिस्मिल किस भावनात्मक द्वंद्व (conflict) का अनुभव करते हैं, और वे इसे कैसे हल करते हैं?",
+      "answer": "Bismil experiences a deep emotional conflict: his intense desire to see his mother one last time and place his head at her feet, versus the harsh reality that he is locked in a death cell. He resolves this conflict through spiritual acceptance. He consoles himself by believing that while physical meeting is impossible, his soul will forever remain connected to her, and his sacrifice will make her the proud mother of a martyr.",
+      "answerHi": "बिस्मिल एक गहरे भावनात्मक द्वंद्व का अनुभव करते हैं: अपनी माँ को आखिरी बार देखने और उनके चरणों में अपना सिर रखने की उनकी तीव्र इच्छा, बनाम यह कठोर वास्तविकता कि वह मौत की कोठरी में बंद हैं। वह आध्यात्मिक स्वीकृति के माध्यम से इस द्वंद्व को हल करते हैं। वह यह मानकर खुद को सांत्वना देते हैं कि यद्यपि शारीरिक मुलाकात असंभव है, उनकी आत्मा हमेशा उनके साथ जुड़ी रहेगी, और उनका बलिदान उन्हें एक शहीद की गौरवान्वित माँ बना देगा।",
+      "keyPoints": [
+        "द्वंद्व: माँ से मिलने की अंतिम इच्छा बनाम जेल की कठोर वास्तविकता (Conflict: final desire to meet mother vs harsh reality of jail)",
+        "समाधान: आध्यात्मिक स्वीकृति और आत्मा के जुड़ाव पर विश्वास (Resolution: spiritual acceptance and belief in soul connection)",
+        "बलिदान के माध्यम से माँ को गौरवान्वित करने का विचार (Thought of making mother proud through sacrifice)"
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "In the text, Bismil mentions a 'Vrat' (vow). What was this vow, and how did his mother help him keep it?",
+      "questionHi": "पाठ में, बिस्मिल एक 'व्रत' (प्रतिज्ञा) का उल्लेख करते हैं। यह प्रतिज्ञा क्या थी, और उनकी माँ ने इसे निभाने में उनकी कैसे मदद की?",
+      "answer": "The 'Vrat' (vow) Bismil refers to is his solemn pledge to remain celibate (Brahmacharya) and dedicate his entire life to the freedom struggle. While the rest of the family pressured him to marry and settle down, his mother understood his higher purpose. She firmly supported his vow and shielded him from family pressure, allowing him to focus entirely on the national cause.",
+      "answerHi": "'व्रत' (प्रतिज्ञा) जिसे बिस्मिल संदर्भित करते हैं, वह है आजीवन ब्रह्मचारी रहने और अपना पूरा जीवन स्वतंत्रता संग्राम को समर्पित करने की उनकी गंभीर प्रतिज्ञा। जहाँ परिवार के बाकी लोगों ने उन पर शादी करने और घर बसाने का दबाव डाला, वहीं उनकी माँ ने उनके उच्च उद्देश्य को समझा। उन्होंने दृढ़ता से उनके व्रत का समर्थन किया और उन्हें पारिवारिक दबाव से बचाया, जिससे वे पूरी तरह से राष्ट्रीय कारण पर ध्यान केंद्रित कर सके।",
+      "keyPoints": [
+        "व्रत: आजीवन ब्रह्मचर्य और देश सेवा की प्रतिज्ञा (Vow: Pledge of lifelong celibacy and serving the country)",
+        "परिवार ने शादी का दबाव डाला, पर माँ ने व्रत का समर्थन किया (Family pressured for marriage, but mother supported the vow)",
+        "माँ के समर्थन ने उन्हें पूरी तरह से राष्ट्र को समर्पित होने दिया (Mother's support allowed him to be fully dedicated to the nation)"
+      ]
+    },
+    {
+      "id": "q21",
+      "type": "case-study",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Read the following scenario:\nRohit wants to join the Indian Army to serve the nation. However, his father wants him to take over the family business, which is very profitable. His father strictly opposes the army idea, fearing for Rohit's safety. Rohit's mother, knowing the risks, silently supports Rohit. She secretly helps him fill out the NDA forms, encouraging him to follow his noble dream of serving the country, even if it means she might lose him.\n\n(a) Which historical character does Rohit's mother resemble?\n(b) What similarities do you see between Rohit's mother and the mother described in the chapter?\n(c) Why do mothers sometimes go against family wishes to support their children's noble causes?\n(d) What value does this scenario highlight?",
+      "questionHi": "निम्नलिखित परिदृश्य पढ़िए:\nरोहित देश की सेवा के लिए भारतीय सेना में शामिल होना चाहता है। हालाँकि, उसके पिता चाहते हैं कि वह पारिवारिक व्यवसाय संभाले, जो बहुत लाभदायक है। उसके पिता रोहित की सुरक्षा को लेकर आशंकित हैं और सेना के विचार का सख्ती से विरोध करते हैं। रोहित की माँ, जोखिमों को जानते हुए, चुपचाप रोहित का समर्थन करती है। वह गुप्त रूप से उसे एनडीए फॉर्म भरने में मदद करती है, उसे देश की सेवा करने के अपने नेक सपने का पालन करने के लिए प्रोत्साहित करती है, भले ही इसका मतलब यह हो कि वह उसे खो सकती है।\n\n(क) रोहित की माँ किस ऐतिहासिक पात्र के समान है?\n(ख) रोहित की माँ और अध्याय में वर्णित माँ के बीच आप क्या समानताएँ देखते हैं?\n(ग) माताएँ कभी-कभी अपने बच्चों के नेक कार्यों का समर्थन करने के लिए परिवार की इच्छाओं के खिलाफ क्यों जाती हैं?\n(घ) यह परिदृश्य किस मूल्य (value) को उजागर करता है?",
+      "answer": "(a) Rohit's mother resembles Ram Prasad Bismil's mother from the autobiography 'Meri Maa'.\n(b) Both mothers faced opposition from the father (family) regarding their sons' risky but noble paths. Both mothers chose to silently and actively support their sons' patriotism despite knowing the grave dangers involved, prioritizing national duty over personal attachment.\n(c) Mothers often possess a deep understanding of their child's true calling. They realize that a child's happiness and life purpose are more important than just financial security or physical safety. They support noble causes because they possess immense moral courage and selflessness.\n(d) This scenario highlights the values of Patriotism, Supreme Maternal Sacrifice, Courage, and Moral Support in the face of adversity.",
+      "answerHi": "(क) रोहित की माँ आत्मकथा 'मेरी माँ' से राम प्रसाद बिस्मिल की माँ के समान है।\n(ख) दोनों माताओं ने अपने बेटों के जोखिम भरे लेकिन नेक रास्तों के संबंध में पिता (परिवार) के विरोध का सामना किया। दोनों माताओं ने व्यक्तिगत लगाव पर राष्ट्रीय कर्तव्य को प्राथमिकता देते हुए, शामिल गंभीर खतरों को जानने के बावजूद चुपचाप और सक्रिय रूप से अपने बेटों की देशभक्ति का समर्थन करने का विकल्प चुना।\n(ग) माताओं को अक्सर अपने बच्चे के सच्चे बुलावे (true calling) की गहरी समझ होती है। वे महसूस करती हैं कि बच्चे की खुशी और जीवन का उद्देश्य केवल वित्तीय सुरक्षा या शारीरिक सुरक्षा से अधिक महत्वपूर्ण है। वे नेक कार्यों का समर्थन करती हैं क्योंकि उनके पास अपार नैतिक साहस और निस्वार्थता होती है।\n(घ) यह परिदृश्य देशभक्ति, सर्वोच्च मातृ बलिदान, साहस, और विपरीत परिस्थितियों में नैतिक समर्थन के मूल्यों को उजागर करता है।",
+      "keyPoints": [
+        "रोहित की माँ राम प्रसाद बिस्मिल की माँ के समान है (Rohit's mother is similar to Ram Prasad Bismil's mother)",
+        "दोनों ने व्यक्तिगत लगाव से ऊपर उठकर देशभक्ति का समर्थन किया (Both rose above personal attachment to support patriotism)",
+        "माताएं बच्चे के सच्चे उद्देश्य को समझकर नैतिक साहस दिखाती हैं (Mothers show moral courage by understanding child's true purpose)",
+        "यह परिदृश्य देशभक्ति, साहस और मातृ बलिदान को उजागर करता है (This scenario highlights patriotism, courage and maternal sacrifice)"
+      ]
+    },
+    {
+      "id": "q22",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "Ram Prasad Bismil gives the entire credit for his character building to his mother. Elaborate on this statement with examples from the text.",
+      "questionHi": "राम प्रसाद बिस्मिल अपने चरित्र निर्माण का पूरा श्रेय अपनी माँ को देते हैं। पाठ के उदाहरणों के साथ इस कथन का विस्तार कीजिए।",
+      "answer": "Ram Prasad Bismil firmly believed that his mother was the architect of his life and character. \n\n1. **Moral Guidance:** When he was a mischievous child, she did not beat him but used love and patience to reform his behavior. This taught him the power of compassion.\n2. **Educational Foundation:** Though she learned Hindi late, she became his first guide, helping him overcome his struggles in studies and instilling a love for learning.\n3. **Support for Truth:** When he joined the Arya Samaj to work for social reform, his father opposed it, but his mother secretly supported him morally and financially, teaching him to stand by the truth.\n4. **Courage and Patriotism:** Her unwavering support when he chose the dangerous path of a revolutionary filled him with fearlessness. She never shed tears of weakness, which made his resolve stronger.\n\nBecause she shaped his intellect, morality, and bravery, Bismil calls her his true 'Guru' and gives her the entire credit for making him a great patriot.",
+      "answerHi": "राम प्रसाद बिस्मिल का दृढ़ विश्वास था कि उनकी माँ उनके जीवन और चरित्र की निर्माता थीं।\n\n1. **नैतिक मार्गदर्शन:** जब वह एक शरारती बच्चे थे, तो उन्होंने उसे पीटा नहीं, बल्कि उसके व्यवहार को सुधारने के लिए प्यार और धैर्य का इस्तेमाल किया। इसने उन्हें करुणा की शक्ति सिखाई।\n2. **शैक्षिक नींव:** यद्यपि उन्होंने देर से हिंदी सीखी, वह उनकी पहली मार्गदर्शक बनीं, पढ़ाई में उनके संघर्षों को दूर करने में मदद की और सीखने के लिए प्यार जगाया।\n3. **सत्य के लिए समर्थन:** जब वह सामाजिक सुधार के लिए काम करने के लिए आर्य समाज में शामिल हुए, तो उनके पिता ने इसका विरोध किया, लेकिन उनकी माँ ने गुप्त रूप से नैतिक और आर्थिक रूप से उनका समर्थन किया, जिससे उन्हें सत्य के साथ खड़े होना सिखाया।\n4. **साहस और देशभक्ति:** जब उन्होंने क्रांतिकारी का खतरनाक रास्ता चुना, तो उनके अटूट समर्थन ने उन्हें निडरता से भर दिया। उसने कभी कमजोरी के आंसू नहीं बहाए, जिससे उनका संकल्प मजबूत हुआ।\n\nचूंकि उसने उनकी बुद्धि, नैतिकता और बहादुरी को आकार दिया, इसलिए बिस्मिल उन्हें अपना सच्चा 'गुरु' कहते हैं और एक महान देशभक्त बनाने का पूरा श्रेय उन्हें देते हैं।",
+      "keyPoints": [
+        "प्यार और धैर्य से बचपन की शरारतों को सुधारना (Reforming childhood mischiefs with love and patience)",
+        "पढ़ाई में मार्गदर्शन और शिक्षा की नींव रखना (Guiding in studies and laying foundation of education)",
+        "सत्य और सामाजिक सुधार के मार्ग पर गुप्त समर्थन (Secret support on the path of truth and social reform)",
+        "क्रांतिकारी मार्ग पर निडरता और साहस प्रदान करना (Providing fearlessness and courage on revolutionary path)"
+      ]
+    },
+    {
+      "id": "q23",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "The text 'Meri Maa' is not just a tribute to a mother, but also a document of intense patriotism. Discuss this statement.",
+      "questionHi": "पाठ 'मेरी माँ' केवल एक माँ को श्रद्धांजलि नहीं है, बल्कि तीव्र देशभक्ति का एक दस्तावेज भी है। इस कथन पर चर्चा कीजिए।",
+      "answer": "While 'Meri Maa' is a deeply emotional tribute to Bismil's mother, it is fundamentally steeped in intense patriotism:\n\n1. **Mother India Above All:** Bismil clearly states that his physical mother raised him so that he could serve the greater mother, 'Bharat Mata'. His ultimate goal was never personal happiness, but national freedom.\n2. **Sacrifice as a Duty:** Writing from a death cell in Gorakhpur jail, there is no fear or regret in Bismil's words. He views his impending execution not as a tragedy, but as a glorious sacrifice for the nation.\n3. **The Mother's Role in Nation Building:** The text shows that behind a fearless revolutionary is a fearless mother. By supporting her son's path to martyrdom, the mother herself becomes a great patriot.\n4. **Final Wish:** His final wish is not for his own life to be saved, but for his mother to feel proud that her son died for the country. \nThus, the love for the mother and the love for the motherland blend perfectly, making the text a powerful patriotic document.",
+      "answerHi": "जबकि 'मेरी माँ' बिस्मिल की माँ के लिए एक गहरी भावनात्मक श्रद्धांजलि है, यह मौलिक रूप से तीव्र देशभक्ति में डूबा हुआ है:\n\n1. **भारत माता सर्वोपरि:** बिस्मिल स्पष्ट रूप से कहते हैं कि उनकी जन्मदात्री माँ ने उन्हें इसलिए पाला ताकि वे बड़ी माँ, 'भारत माता' की सेवा कर सकें। उनका अंतिम लक्ष्य कभी भी व्यक्तिगत खुशी नहीं था, बल्कि राष्ट्रीय स्वतंत्रता था।\n2. **कर्तव्य के रूप में बलिदान:** गोरखपुर जेल में मौत की कोठरी से लिखते हुए, बिस्मिल के शब्दों में कोई डर या पछतावा नहीं है। वह अपनी आसन्न फांसी को एक त्रासदी के रूप में नहीं, बल्कि राष्ट्र के लिए एक शानदार बलिदान के रूप में देखते हैं।\n3. **राष्ट्र निर्माण में माँ की भूमिका:** पाठ दर्शाता है कि एक निडर क्रांतिकारी के पीछे एक निडर माँ होती है। शहादत के लिए अपने बेटे के मार्ग का समर्थन करके, माँ स्वयं एक महान देशभक्त बन जाती है।\n4. **अंतिम इच्छा:** उनकी अंतिम इच्छा अपनी जान बचाने की नहीं है, बल्कि उनकी माँ को इस बात पर गर्व महसूस करने की है कि उनका बेटा देश के लिए मर गया।\nइस प्रकार, माँ के लिए प्यार और मातृभूमि के लिए प्यार पूरी तरह से मिल जाता है, जिससे यह पाठ एक शक्तिशाली देशभक्ति दस्तावेज बन जाता है।",
+      "keyPoints": [
+        "जन्मदात्री माँ का लक्ष्य भारत माता की सेवा के लिए पुत्र तैयार करना था (Birth mother's goal was to prepare son for Mother India's service)",
+        "मौत की कोठरी में निडरता और बलिदान को कर्तव्य मानना (Fearlessness in death cell and viewing sacrifice as duty)",
+        "निडर माँ ही निडर क्रांतिकारी को जन्म देती है (A fearless mother gives birth to a fearless revolutionary)",
+        "अंतिम इच्छा: माँ को बेटे की शहादत पर गर्व हो (Final wish: Mother should be proud of son's martyrdom)"
+      ]
+    },
+    {
+      "id": "q24",
+      "type": "value-based",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "Bismil's mother did not cry or stop him when he chose the path of revolution. What values does this action display? How can modern youth adopt such values?",
+      "questionHi": "जब बिस्मिल ने क्रांति का रास्ता चुना तो उनकी माँ न रोईं और न ही उन्हें रोका। यह कार्य किन मूल्यों (values) को प्रदर्शित करता है? आधुनिक युवा ऐसे मूल्यों को कैसे अपना सकते हैं?",
+      "answer": "Bismil's mother's action of not crying or stopping him displays extraordinary values:\n\n**Values Displayed:**\n1. **Supreme Selflessness:** She put the nation's freedom above her own motherhood and personal attachment.\n2. **Emotional Strength:** Not crying in the face of her son's impending death shows unparalleled mental toughness.\n3. **Clarity of Purpose:** She understood that the fight for freedom was righteous and necessary.\n\n**Adoption by Modern Youth:**\nModern youth can adopt these values by learning to prioritize greater causes over personal comforts. \n- When facing career challenges or working for social causes, they should not get disheartened by emotional attachments or fear of failure.\n- Youth can learn emotional resilience—controlling their tears and fears when standing up for the truth.\n- They can learn to support their friends and family members who choose unconventional but noble paths (like joining the army, social work, or scientific research) instead of forcing them into safe, money-making careers.",
+      "answerHi": "बिस्मिल की माँ का न रोने या उन्हें न रोकने का कार्य असाधारण मूल्यों को प्रदर्शित करता है:\n\n**प्रदर्शित मूल्य:**\n1. **सर्वोच्च निस्वार्थता:** उसने राष्ट्र की स्वतंत्रता को अपने स्वयं के मातृत्व और व्यक्तिगत लगाव से ऊपर रखा।\n2. **भावनात्मक शक्ति:** अपने बेटे की आसन्न मृत्यु के सामने न रोना अद्वितीय मानसिक दृढ़ता को दर्शाता है।\n3. **उद्देश्य की स्पष्टता:** वह समझती थीं कि स्वतंत्रता की लड़ाई धर्मी और आवश्यक थी।\n\n**आधुनिक युवाओं द्वारा अपनाना:**\nआधुनिक युवा व्यक्तिगत सुख-सुविधाओं पर बड़े कारणों को प्राथमिकता देना सीखकर इन मूल्यों को अपना सकते हैं।\n- कैरियर की चुनौतियों का सामना करते समय या सामाजिक कारणों के लिए काम करते समय, उन्हें भावनात्मक लगाव या विफलता के डर से निराश नहीं होना चाहिए।\n- युवा भावनात्मक लचीलापन सीख सकते हैं - सच्चाई के लिए खड़े होने पर अपने आँसू और भय को नियंत्रित करना।\n- वे अपने दोस्तों और परिवार के सदस्यों का समर्थन करना सीख सकते हैं जो सुरक्षित, पैसा बनाने वाले करियर में मजबूर करने के बजाय अपरंपरागत लेकिन नेक रास्ते (जैसे सेना, सामाजिक कार्य या वैज्ञानिक अनुसंधान में शामिल होना) चुनते हैं।",
+      "keyPoints": [
+        "व्यक्तिगत मोह से ऊपर उठकर राष्ट्र को प्राथमिकता (Prioritizing nation above personal attachment)",
+        "असाधारण भावनात्मक शक्ति और मानसिक दृढ़ता (Extraordinary emotional strength and mental toughness)",
+        "युवाओं को व्यक्तिगत सुख से ऊपर बड़े सामाजिक लक्ष्यों को रखना चाहिए (Youth should place larger social goals above personal comforts)",
+        "सच्चाई और नेक रास्तों पर चलने वालों का निडरता से समर्थन करना (Fearlessly supporting those walking on truth and noble paths)"
+      ]
+    },
+    {
+      "id": "q25",
+      "type": "case-study",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Read the following scenario:\nDeepa is a very bright student who wants to open a free school for street children in her city. Her father tells her to take up a high-paying corporate job instead, saying social work will not give her a comfortable life. Deepa is confused and sad. Her mother, however, holds her hand and says, 'A comfortable life is not the only successful life. If your heart is in helping those children, I will support you, even if we have to live simply.' With her mother's blessing, Deepa starts her school.\n\n(a) How does Deepa's mother mirror the character of Ram Prasad Bismil's mother?\n(b) What is the main conflict in this scenario?\n(c) Why is the mother's support crucial in such life decisions?\n(d) What message does this give to modern parents?",
+      "questionHi": "निम्नलिखित परिदृश्य पढ़िए:\nदीपा एक बहुत ही होनहार छात्रा है जो अपने शहर में सड़क के बच्चों के लिए एक मुफ्त स्कूल खोलना चाहती है। उसके पिता उसे इसके बजाय उच्च वेतन वाली कॉर्पोरेट नौकरी करने के लिए कहते हैं, यह कहते हुए कि सामाजिक कार्य उसे आरामदायक जीवन नहीं देगा। दीपा भ्रमित और दुखी है। हालाँकि, उसकी माँ उसका हाथ पकड़ती है और कहती है, 'आरामदायक जीवन ही एकमात्र सफल जीवन नहीं है। यदि तुम्हारा दिल उन बच्चों की मदद करने में है, तो मैं तुम्हारा समर्थन करूँगी, भले ही हमें सादगी से रहना पड़े।' अपनी माँ के आशीर्वाद से, दीपा अपना स्कूल शुरू करती है।\n\n(क) दीपा की माँ राम प्रसाद बिस्मिल की माँ के चरित्र को कैसे दर्शाती है?\n(ख) इस परिदृश्य में मुख्य द्वंद्व (conflict) क्या है?\n(ग) जीवन के ऐसे निर्णयों में माँ का समर्थन महत्वपूर्ण क्यों है?\n(घ) यह आधुनिक माता-पिता को क्या संदेश देता है?",
+      "answer": "(a) Deepa's mother mirrors Bismil's mother by recognizing the nobility in her child's unconventional path. Just as Bismil's mother supported his revolutionary path against the father's wishes, Deepa's mother supports her social work against the father's desire for financial comfort.\n(b) The main conflict is between materialistic success (high-paying corporate job/comfort) and noble purpose (helping street children/social work).\n(c) A mother's support is crucial because she provides the emotional anchor and moral courage needed to face societal pressure. When a child takes a difficult path, the mother's blessing gives them the fearlessness and conviction to succeed, as seen with Bismil.\n(d) It gives modern parents the message that they should not force their children only toward financial security. They should recognize, respect, and support their children's higher ideals and noble purposes, helping them build character rather than just a bank balance.",
+      "answerHi": "(क) दीपा की माँ अपने बच्चे के अपरंपरागत मार्ग में महानता को पहचान कर बिस्मिल की माँ को दर्शाती है। जिस प्रकार बिस्मिल की माँ ने पिता की इच्छा के विरुद्ध उनके क्रांतिकारी मार्ग का समर्थन किया, उसी प्रकार दीपा की माँ वित्तीय आराम की पिता की इच्छा के विरुद्ध उसके सामाजिक कार्य का समर्थन करती है।\n(ख) मुख्य द्वंद्व भौतिकवादी सफलता (उच्च वेतन वाली कॉर्पोरेट नौकरी/आराम) और नेक उद्देश्य (सड़क के बच्चों की मदद करना/सामाजिक कार्य) के बीच है।\n(ग) माँ का समर्थन महत्वपूर्ण है क्योंकि वह सामाजिक दबाव का सामना करने के लिए आवश्यक भावनात्मक लंगर और नैतिक साहस प्रदान करती है। जब बच्चा कठिन रास्ता चुनता है, तो माँ का आशीर्वाद उन्हें सफल होने के लिए निडरता और दृढ़ विश्वास देता है, जैसा कि बिस्मिल के साथ देखा गया।\n(घ) यह आधुनिक माता-पिता को संदेश देता है कि उन्हें अपने बच्चों को केवल वित्तीय सुरक्षा की ओर नहीं धकेलना चाहिए। उन्हें अपने बच्चों के उच्च आदर्शों और नेक उद्देश्यों को पहचानना, उनका सम्मान करना और उनका समर्थन करना चाहिए, जिससे उन्हें केवल बैंक बैलेंस के बजाय चरित्र निर्माण में मदद मिले।",
+      "keyPoints": [
+        "दोनों माताओं ने पिता के विरोध के बावजूद बच्चे के नेक मार्ग का समर्थन किया (Both mothers supported child's noble path despite father's opposition)",
+        "द्वंद्व: भौतिकवादी सफलता बनाम नेक उद्देश्य/सामाजिक कार्य (Conflict: Materialistic success vs Noble purpose/social work)",
+        "माँ का समर्थन बच्चे को निडरता और नैतिक साहस प्रदान करता है (Mother's support provides fearlessness and moral courage to child)",
+        "माता-पिता को बच्चों के उच्च आदर्शों का समर्थन करना चाहिए, केवल पैसे का नहीं (Parents should support children's high ideals, not just money)"
+      ]
+    },
+    {
+      "id": "q26",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "What difficulties did Bismil's mother face when she first came to her marital home, and how did she overcome them?",
+      "questionHi": "जब बिस्मिल की माँ पहली बार अपने ससुराल आईं तो उन्हें किन कठिनाइयों का सामना करना पड़ा, और उन्होंने उन पर कैसे काबू पाया?",
+      "answer": "When Bismil's mother first came to her marital home, she was very young (only eleven years old) and completely uneducated. She faced several difficulties:\n\n1. **Unfamiliar Environment:** Being very young, she had to adjust to a new, conservative family environment where she didn't know the household ways.\n2. **Lack of Education:** She did not know how to read or write, which made her dependent and limited her worldview.\n\n**How she overcame them:**\nInstead of accepting her limitations, she showed great determination. When her sister-in-law (Bismil's aunt) came to the house, she started learning Hindi alphabets from her. Through sheer willpower and hard work, she quickly learned to read and write Hindi. Furthermore, she managed the household responsibilities so perfectly that everyone in the family started respecting her. By educating herself, she transformed from a helpless child-bride into the strong, guiding force of the family.",
+      "answerHi": "जब बिस्मिल की माँ पहली बार अपने ससुराल आईं, तो वह बहुत छोटी (केवल ग्यारह वर्ष की) और पूरी तरह से अशिक्षित थीं। उन्हें कई कठिनाइयों का सामना करना पड़ा:\n\n1. **अपरिचित वातावरण:** बहुत छोटी होने के कारण, उन्हें एक नए, रूढ़िवादी पारिवारिक वातावरण में समायोजित होना पड़ा जहाँ वह घर के तौर-तरीके नहीं जानती थीं।\n2. **शिक्षा का अभाव:** वह पढ़ना या लिखना नहीं जानती थीं, जिसने उन्हें आश्रित बना दिया और उनके विश्वदृष्टिकोण को सीमित कर दिया।\n\n**उन्होंने उन पर कैसे काबू पाया:**\nअपनी सीमाओं को स्वीकार करने के बजाय, उन्होंने महान दृढ़ संकल्प दिखाया। जब उनकी भाभी (बिस्मिल की चाची) घर आईं, तो उन्होंने उनसे हिंदी वर्णमाला सीखना शुरू कर दिया। सरासर इच्छाशक्ति और कड़ी मेहनत के माध्यम से, वह जल्दी ही हिंदी पढ़ना और लिखना सीख गईं। इसके अलावा, उन्होंने घर की जिम्मेदारियों को इतनी पूर्णता से संभाला कि परिवार में सभी उनका सम्मान करने लगे। खुद को शिक्षित करके, वह एक असहाय बाल-वधू से परिवार की मजबूत, मार्गदर्शक शक्ति में बदल गईं।",
+      "keyPoints": [
+        "11 वर्ष की कम उम्र और अशिक्षित होने की कठिनाई (Difficulty of being only 11 years old and uneducated)",
+        "नए रूढ़िवादी पारिवारिक वातावरण में समायोजन (Adjustment in a new conservative family environment)",
+        "भाभी से हिंदी वर्णमाला सीखी और स्वयं को शिक्षित किया (Learned Hindi alphabets from sister-in-law and educated herself)",
+        "शिक्षा और कुशलता से परिवार की मजबूत मार्गदर्शक बनीं (Became a strong guide of family through education and skill)"
+      ]
+    },
+    {
+      "id": "q27",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Analyze the emotional state of Ram Prasad Bismil as reflected in the last paragraphs of the chapter 'Meri Maa'.",
+      "questionHi": "अध्याय 'मेरी माँ' के अंतिम अनुच्छेदों में परिलक्षित (reflected) राम प्रसाद बिस्मिल की भावनात्मक स्थिति का विश्लेषण कीजिए।",
+      "answer": "The last paragraphs of 'Meri Maa' reflect a highly charged, complex, and deeply spiritual emotional state of Ram Prasad Bismil:\n\n1. **Profound Gratitude:** He is overwhelmed with gratitude, stating that his mother's debt is impossible to repay across lifetimes. He views her as a divine figure.\n2. **Heartbreaking Yearning:** There is a deep, unfulfilled human yearning. Knowing he will be hanged soon, his greatest sorrow is that he cannot physically touch his mother's feet one last time.\n3. **Spiritual Acceptance:** Despite the sorrow, there is no fear of death. He transcends his physical attachment through spiritual acceptance, trusting that their souls are connected forever.\n4. **Patriotic Pride:** His sorrow is overshadowed by immense patriotic pride. He prays for his mother to stay strong, hoping his sacrifice will make her proud. He dies not as a helpless victim, but as a triumphant martyr dedicating his life to Bharat Mata.",
+      "answerHi": "'मेरी माँ' के अंतिम अनुच्छेद राम प्रसाद बिस्मिल की अत्यधिक आवेशित, जटिल और गहराई से आध्यात्मिक भावनात्मक स्थिति को दर्शाते हैं:\n\n1. **गहरी कृतज्ञता:** वे कृतज्ञता से अभिभूत हैं, यह कहते हुए कि जन्म-जन्मांतर में उनकी माँ का कर्ज चुकाना असंभव है। वे उन्हें एक दिव्य स्वरूप के रूप में देखते हैं।\n2. **हृदयविदारक लालसा:** एक गहरी, अधूरी मानवीय लालसा है। यह जानते हुए कि उन्हें जल्द ही फाँसी दे दी जाएगी, उनका सबसे बड़ा दुख यह है कि वे आखिरी बार अपनी माँ के चरण शारीरिक रूप से नहीं छू सकते।\n3. **आध्यात्मिक स्वीकृति:** दुख के बावजूद, मृत्यु का कोई भय नहीं है। वे आध्यात्मिक स्वीकृति के माध्यम से अपने शारीरिक लगाव को पार कर जाते हैं, यह विश्वास करते हुए कि उनकी आत्माएं हमेशा जुड़ी हुई हैं।\n4. **देशभक्ति का गर्व:** उनका दुख अपार देशभक्ति के गर्व से छिप जाता है। वे अपनी माँ के मजबूत रहने की प्रार्थना करते हैं, यह आशा करते हुए कि उनका बलिदान उन्हें गौरवान्वित करेगा। वे एक असहाय पीड़ित के रूप में नहीं, बल्कि भारत माता को अपना जीवन समर्पित करने वाले एक विजयी शहीद के रूप में मरते हैं।",
+      "keyPoints": [
+        "माँ के प्रति अपार कृतज्ञता और उन्हें दिव्य मानना (Immense gratitude towards mother and considering her divine)",
+        "अंतिम बार माँ के चरण न छू पाने की हृदयविदारक लालसा (Heartbreaking yearning of not being able to touch mother's feet one last time)",
+        "मृत्यु का कोई भय नहीं, बल्कि आध्यात्मिक स्वीकृति (No fear of death, but spiritual acceptance)",
+        "शोक पर देशभक्ति का गर्व हावी—भारत माता के लिए विजयी शहादत (Patriotic pride overpowers grief — triumphant martyrdom for Mother India)"
+      ]
+    },
+    {
+      "id": "q28",
+      "type": "case-study",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "Read the following scenario:\nAman was a student who often got into trouble for anger issues and fighting. The teachers often punished him, which only made him angrier. One day, a new teacher, Mrs. Sharma, noticed Aman fighting. Instead of taking him to the Principal, she sat him down, offered him water, and gently asked what was troubling him. She spoke to him with love and immense patience, explaining how his anger was harming his own bright future. Slowly, Aman's behavior changed completely.\n\n(a) Whose behavior from the chapter 'Meri Maa' does Mrs. Sharma's action remind you of?\n(b) Why did the punishments fail to reform Aman, but Mrs. Sharma's approach succeeded?\n(c) What life lesson did Bismil learn from similar treatment in his childhood?\n(d) Why is patience considered a powerful tool for reforming someone?",
+      "questionHi": "निम्नलिखित परिदृश्य पढ़िए:\nअमन एक छात्र था जो अक्सर गुस्से और लड़ाई-झगड़े के कारण परेशानी में पड़ जाता था। शिक्षक अक्सर उसे दंडित करते थे, जिससे उसे और अधिक गुस्सा आता था। एक दिन, एक नई शिक्षिका, श्रीमती शर्मा ने अमन को लड़ते हुए देखा। उसे प्रधानाचार्य के पास ले जाने के बजाय, उन्होंने उसे बैठाया, उसे पानी दिया, और धीरे से पूछा कि उसे क्या परेशानी है। उन्होंने प्यार और अपार धैर्य के साथ उससे बात की, यह समझाते हुए कि उसका गुस्सा उसके अपने उज्ज्वल भविष्य को कैसे नुकसान पहुँचा रहा है। धीरे-धीरे, अमन का व्यवहार पूरी तरह से बदल गया।\n\n(क) श्रीमती शर्मा का कार्य आपको अध्याय 'मेरी माँ' के किस पात्र के व्यवहार की याद दिलाता है?\n(ख) दंड अमन को सुधारने में विफल क्यों रहे, लेकिन श्रीमती शर्मा का दृष्टिकोण सफल रहा?\n(ग) बिस्मिल ने अपने बचपन में इसी तरह के व्यवहार से जीवन का क्या सबक सीखा?\n(घ) किसी को सुधारने के लिए धैर्य को एक शक्तिशाली उपकरण क्यों माना जाता है?",
+      "answer": "(a) Mrs. Sharma's action reminds us of Ram Prasad Bismil's mother, who also used love and patience instead of physical punishment to reform Bismil's mischievous childhood behavior.\n(b) Punishments failed because they only caused physical pain and generated more anger and rebellion in Aman. Mrs. Sharma's approach succeeded because love and empathy touched his heart, made him feel understood, and triggered a genuine internal desire to change.\n(c) From his mother's loving treatment, Bismil learned the power of compassion over violence. He learned that mistakes should be corrected through understanding and moral guidance, not through fear. This shaped his strong but compassionate character.\n(d) Patience is a powerful tool because it gives the wrongdoer the time and safe space to realize their mistake without feeling attacked. It builds trust and brings out the inner goodness of a person, creating a permanent moral transformation rather than forced, temporary obedience.",
+      "answerHi": "(क) श्रीमती शर्मा का कार्य हमें राम प्रसाद बिस्मिल की माँ की याद दिलाता है, जिन्होंने बिस्मिल के शरारती बचपन के व्यवहार को सुधारने के लिए शारीरिक दंड के बजाय प्यार और धैर्य का इस्तेमाल किया था।\n(ख) दंड विफल रहे क्योंकि उन्होंने केवल शारीरिक दर्द दिया और अमन में अधिक क्रोध और विद्रोह पैदा किया। श्रीमती शर्मा का दृष्टिकोण सफल रहा क्योंकि प्यार और सहानुभूति ने उसके दिल को छुआ, उसे महसूस कराया कि उसे समझा जा रहा है, और बदलने की वास्तविक आंतरिक इच्छा पैदा की।\n(ग) अपनी माँ के प्यार भरे व्यवहार से, बिस्मिल ने हिंसा पर करुणा की शक्ति सीखी। उन्होंने सीखा कि गलतियों को डर के माध्यम से नहीं, बल्कि समझ और नैतिक मार्गदर्शन के माध्यम से सुधारा जाना चाहिए। इसने उनके मजबूत लेकिन दयालु चरित्र को आकार दिया।\n(घ) धैर्य एक शक्तिशाली उपकरण है क्योंकि यह गलत काम करने वाले को हमला महसूस किए बिना अपनी गलती का एहसास करने के लिए समय और सुरक्षित स्थान देता है। यह विश्वास बनाता है और किसी व्यक्ति की आंतरिक अच्छाई को सामने लाता है, जिससे जबरन, अस्थायी आज्ञाकारिता के बजाय स्थायी नैतिक परिवर्तन होता है।",
+      "keyPoints": [
+        "श्रीमती शर्मा का कार्य बिस्मिल की माँ के प्यार और धैर्य के समान है (Mrs. Sharma's action is similar to Bismil's mother's love and patience)",
+        "दंड से विद्रोह पैदा होता है, जबकि प्यार और सहानुभूति से आंतरिक बदलाव (Punishment causes rebellion, while love and empathy cause internal change)",
+        "हिंसा पर करुणा की शक्ति की शिक्षा (Learning the power of compassion over violence)",
+        "धैर्य विश्वास बनाता है और स्थायी नैतिक सुधार लाता है (Patience builds trust and brings permanent moral reform)"
+      ]
+    },
+    {
+      "id": "q29",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Discuss the significance of the title 'Meri Maa'. Why do you think Bismil chose to write about his mother in his final days instead of his revolutionary exploits?",
+      "questionHi": "शीर्षक 'मेरी माँ' के महत्व पर चर्चा कीजिए। आपको क्यों लगता है कि बिस्मिल ने अपने अंतिम दिनों में अपने क्रांतिकारी कारनामों के बजाय अपनी माँ के बारे में लिखना चुना?",
+      "answer": "The title 'Meri Maa' (My Mother) is highly significant because it reveals the emotional core of one of India's greatest revolutionaries.\n\n**Significance of the Title:**\nIt shifts the focus from Bismil, the famous freedom fighter, to the silent architect behind him—his mother. By naming the chapter 'Meri Maa', Bismil declares that his life, his courage, and his sacrifice are not his own achievements, but the direct result of his mother's teachings.\n\n**Why he wrote about her in his final days:**\n1. **True Patriotism originates at home:** Bismil wanted the world to know that revolutions are not just fought with guns; they are born in the laps of brave mothers. \n2. **Ultimate Gratitude:** Facing death, a person remembers what is most sacred to them. For Bismil, his mother was his 'Guru' and God. Writing about her was his final act of worship and gratitude.\n3. **Message to Society:** By highlighting her role, he sent a message to all Indian mothers that if they instill courage and patriotism in their children, the nation will inevitably be free. He chose to immortalize her sacrifice rather than his own fame.",
+      "answerHi": "शीर्षक 'मेरी माँ' अत्यधिक महत्वपूर्ण है क्योंकि यह भारत के सबसे महान क्रांतिकारियों में से एक के भावनात्मक मूल को प्रकट करता है।\n\n**शीर्षक का महत्व:**\nयह प्रसिद्ध स्वतंत्रता सेनानी बिस्मिल से ध्यान हटाकर उनके पीछे की मूक निर्माता—उनकी माँ पर केंद्रित करता है। अध्याय का नाम 'मेरी माँ' रखकर, बिस्मिल घोषणा करते हैं कि उनका जीवन, उनका साहस और उनका बलिदान उनकी अपनी उपलब्धियां नहीं हैं, बल्कि उनकी माँ की शिक्षाओं का प्रत्यक्ष परिणाम हैं।\n\n**अंतिम दिनों में उनके बारे में क्यों लिखा:**\n1. **सच्ची देशभक्ति घर से शुरू होती है:** बिस्मिल चाहते थे कि दुनिया जाने कि क्रांतियां केवल बंदूकों से नहीं लड़ी जातीं; वे बहादुर माताओं की गोद में पैदा होती हैं।\n2. **अंतिम कृतज्ञता:** मृत्यु का सामना करते हुए, एक व्यक्ति उसे याद करता है जो उसके लिए सबसे पवित्र है। बिस्मिल के लिए, उनकी माँ उनकी 'गुरु' और ईश्वर थीं। उनके बारे में लिखना उनकी पूजा और कृतज्ञता का अंतिम कार्य था।\n3. **समाज को संदेश:** उनकी भूमिका को उजागर करके, उन्होंने सभी भारतीय माताओं को एक संदेश भेजा कि यदि वे अपने बच्चों में साहस और देशभक्ति जगाती हैं, तो राष्ट्र अनिवार्य रूप से स्वतंत्र होगा। उन्होंने अपनी प्रसिद्धि के बजाय उनके बलिदान को अमर करना चुना।",
+      "keyPoints": [
+        "शीर्षक माँ को बिस्मिल के जीवन की 'मूक निर्माता' के रूप में स्थापित करता है (Title establishes mother as 'silent architect' of Bismil's life)",
+        "क्रांतियां बंदूकों से नहीं, बहादुर माताओं की गोद में जन्म लेती हैं (Revolutions are born in laps of brave mothers, not with guns)",
+        "मृत्यु के समय माँ को याद करना सर्वोच्च कृतज्ञता और पूजा है (Remembering mother at death is supreme gratitude and worship)",
+        "समाज की माताओं को देशभक्त पीढ़ी तैयार करने का संदेश (Message to society's mothers to raise a patriotic generation)"
+      ]
+    },
+    {
+      "id": "q30",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "What lessons can students of today learn from the relationship between Ram Prasad Bismil and his mother?",
+      "questionHi": "आज के छात्र राम प्रसाद बिस्मिल और उनकी माँ के संबंधों से क्या सबक सीख सकते हैं?",
+      "answer": "The relationship between Ram Prasad Bismil and his mother offers profound lessons for today's students:\n\n1. **Unconditional Respect for Parents:** Students should learn to deeply respect and acknowledge the sacrifices their parents make for them, just as Bismil considered his mother his 'Guru' and ultimate guide.\n2. **Power of Self-Education:** Bismil's mother educated herself despite having no formal schooling. This teaches students that with willpower, anyone can learn and grow, regardless of resources.\n3. **Higher Purpose over Comfort:** The mother-son duo prioritized the freedom of the nation over a safe, comfortable family life. Students must learn to dedicate their lives to a higher purpose (like society, environment, or nation) rather than just personal material success.\n4. **Moral Courage:** Students should learn moral courage—the ability to stand by truth and noble causes even if family members or society oppose them, just as the mother supported Bismil against all odds. Their relationship defines what true strength and devotion mean.",
+      "answerHi": "राम प्रसाद बिस्मिल और उनकी माँ के बीच का संबंध आज के छात्रों के लिए गहरे सबक प्रदान करता है:\n\n1. **माता-पिता के लिए बिना शर्त सम्मान:** छात्रों को उनके माता-पिता द्वारा उनके लिए किए गए बलिदानों का गहराई से सम्मान करना और उन्हें स्वीकार करना सीखना चाहिए, ठीक वैसे ही जैसे बिस्मिल अपनी माँ को अपना 'गुरु' और अंतिम मार्गदर्शक मानते थे।\n2. **स्व-शिक्षा की शक्ति:** बिस्मिल की माँ ने कोई औपचारिक स्कूली शिक्षा नहीं होने के बावजूद खुद को शिक्षित किया। यह छात्रों को सिखाता है कि इच्छाशक्ति के साथ, कोई भी संसाधनों की परवाह किए बिना सीख और बढ़ सकता है।\n3. **सुविधा पर उच्च उद्देश्य:** माँ-बेटे की जोड़ी ने सुरक्षित, आरामदायक पारिवारिक जीवन के बजाय राष्ट्र की स्वतंत्रता को प्राथमिकता दी। छात्रों को केवल व्यक्तिगत भौतिक सफलता के बजाय एक उच्च उद्देश्य (जैसे समाज, पर्यावरण या राष्ट्र) के लिए अपना जीवन समर्पित करना सीखना चाहिए।\n4. **नैतिक साहस:** छात्रों को नैतिक साहस सीखना चाहिए - सच्चाई और नेक कार्यों के साथ खड़े होने की क्षमता, भले ही परिवार के सदस्य या समाज उनका विरोध करे, ठीक वैसे ही जैसे माँ ने सभी बाधाओं के खिलाफ बिस्मिल का समर्थन किया। उनका रिश्ता परिभाषित करता है कि सच्ची ताकत और भक्ति का क्या अर्थ है।",
+      "keyPoints": [
+        "माता-पिता के बलिदानों का सम्मान करना और उन्हें 'गुरु' मानना (Respecting parents' sacrifices and considering them 'Guru')",
+        "सीमित संसाधनों के बावजूद इच्छाशक्ति से स्व-शिक्षा का महत्व (Importance of self-education with willpower despite limited resources)",
+        "व्यक्तिगत सुख-सुविधाओं से ऊपर उठकर राष्ट्र या समाज सेवा का लक्ष्य (Rising above personal comforts to aim for national/social service)",
+        "सच्चाई के लिए खड़े होने का नैतिक साहस (Moral courage to stand up for the truth)"
+      ]
+    }
+  ]
+}
