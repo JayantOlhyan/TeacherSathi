@@ -2,223 +2,223 @@
   "questions": [
     {
       "id": "1",
-      "question": "What is the main message of the chapter 'The Value of Work'?",
+      "question": "Work that is specifically performed to earn a livelihood, profit, or money is formally classified as an:",
       "options": [
         {
           "id": "A",
-          "text": "Every type of work deserves respect."
+          "text": "Entertaining activity"
         },
         {
           "id": "B",
-          "text": "Only office jobs are important."
+          "text": "Economic activity"
         },
         {
           "id": "C",
-          "text": "Only government jobs have value."
+          "text": "Non-economic activity"
         },
         {
           "id": "D",
-          "text": "Physical work has no importance."
+          "text": "Illegal activity"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "2",
-      "question": "Which of the following is an example of productive work?",
+      "question": "Conversely, work that is done out of love, care, profound respect, or civic duty, without expecting any financial payment, is called a:",
       "options": [
         {
           "id": "A",
-          "text": "Teaching students"
+          "text": "Economic activity"
         },
         {
           "id": "B",
-          "text": "Wasting water"
+          "text": "Non-economic activity"
         },
         {
           "id": "C",
-          "text": "Littering public places"
+          "text": "Profitable activity"
         },
         {
           "id": "D",
-          "text": "Damaging property"
+          "text": "Corporate business"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "3",
-      "question": "Why do people work?",
+      "question": "Which of the following scenarios is a clear, standard example of an economic activity?",
       "options": [
         {
           "id": "A",
-          "text": "To earn a livelihood and meet their needs"
+          "text": "A mother lovingly cooking food for her children"
         },
         {
           "id": "B",
-          "text": "To waste time"
+          "text": "A highly trained doctor treating patients in a hospital for a professional fee"
         },
         {
           "id": "C",
-          "text": "To increase pollution"
+          "text": "Friends playing a friendly game of cricket"
         },
         {
           "id": "D",
-          "text": "To avoid learning"
+          "text": "A teenager helping a blind person cross a busy street"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "4",
-      "question": "Which quality is developed through work?",
+      "question": "Which of the following scenarios is a clear, standard example of a non-economic activity?",
       "options": [
         {
           "id": "A",
-          "text": "Responsibility"
+          "text": "A commercial farmer selling bulk wheat in the wholesale market"
         },
         {
           "id": "B",
-          "text": "Laziness"
+          "text": "A professional tailor stitching clothes for paying customers"
         },
         {
           "id": "C",
-          "text": "Carelessness"
+          "text": "Parents patiently helping their children with their daily schoolwork"
         },
         {
           "id": "D",
-          "text": "Dishonesty"
+          "text": "A commercial pilot flying a passenger airplane"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
     },
     {
       "id": "5",
-      "question": "Who deserves respect in society?",
+      "question": "The regular, fixed monthly payment made to permanent employees (like teachers or office workers) for their continued work is called a:",
       "options": [
         {
           "id": "A",
-          "text": "Every worker"
+          "text": "Wage"
         },
         {
           "id": "B",
-          "text": "Only rich people"
+          "text": "Salary"
         },
         {
           "id": "C",
-          "text": "Only famous people"
+          "text": "Fee"
         },
         {
           "id": "D",
-          "text": "Only government officials"
+          "text": "Profit"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "6",
-      "question": "Which of the following is skilled work?",
+      "question": "Payment that is calculated strictly based on hours worked or daily physical tasks completed (such as a daily construction worker) is called a:",
       "options": [
         {
           "id": "A",
-          "text": "Electrician"
+          "text": "Salary"
         },
         {
           "id": "B",
-          "text": "Throwing garbage"
+          "text": "Wage"
         },
         {
           "id": "C",
-          "text": "Wasting electricity"
+          "text": "Fee"
         },
         {
           "id": "D",
-          "text": "Breaking public property"
+          "text": "Rent"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "7",
-      "question": "Which value is associated with honest work?",
+      "question": "What is the specific financial term for the payment made to a highly trained professional, like a lawyer or a specialized doctor, in exchange for their expert advice or service?",
       "options": [
         {
           "id": "A",
-          "text": "Dignity of labour"
+          "text": "Wage"
         },
         {
           "id": "B",
-          "text": "Discrimination"
+          "text": "Fee"
         },
         {
           "id": "C",
-          "text": "Jealousy"
+          "text": "Rent"
         },
         {
           "id": "D",
-          "text": "Pride without effort"
+          "text": "Profit"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "8",
-      "question": "Why is work important for society?",
+      "question": "If a rural farm labourer receives a large basket of mangoes instead of physical cash for his hard day of work, what is this traditional form of payment called?",
       "options": [
         {
           "id": "A",
-          "text": "It helps fulfil people's needs and supports development."
+          "text": "Salary"
         },
         {
           "id": "B",
-          "text": "It creates only competition."
+          "text": "Fee"
         },
         {
           "id": "C",
-          "text": "It has no social value."
+          "text": "Payment in kind"
         },
         {
           "id": "D",
-          "text": "It reduces cooperation."
+          "text": "Corporate commission"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
     },
     {
       "id": "9",
-      "question": "Which of the following is an example of community service?",
+      "question": "A physical or digital place where people actively engage in the economic exchange of goods and services is called a:",
       "options": [
         {
           "id": "A",
-          "text": "Cleaning a public park"
+          "text": "Market"
         },
         {
           "id": "B",
-          "text": "Damaging public property"
+          "text": "Museum"
         },
         {
           "id": "C",
-          "text": "Polluting a river"
+          "text": "Public Park"
         },
         {
           "id": "D",
-          "text": "Ignoring civic duties"
+          "text": "Library"
         }
       ],
       "difficulty": "Easy",
@@ -227,98 +227,98 @@
     },
     {
       "id": "10",
-      "question": "The chapter teaches us to _____.",
+      "question": "Massive community service activities, such as serving free food to thousands at a Gurudwara (Langar), are shining examples of:",
       "options": [
         {
           "id": "A",
-          "text": "Respect every kind of work"
+          "text": "Purely Economic activities"
         },
         {
           "id": "B",
-          "text": "Judge people by their jobs"
+          "text": "Non-economic activities"
         },
         {
           "id": "C",
-          "text": "Ignore workers"
+          "text": "Commercial Farming"
         },
         {
           "id": "D",
-          "text": "Respect only highly paid jobs"
+          "text": "Industrial Manufacturing"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "11",
-      "question": "Why is the dignity of labour important?",
+      "question": "How does engaging in a sequential economic activity result in \"value addition\"?",
       "options": [
         {
           "id": "A",
-          "text": "It teaches that every honest job deserves equal respect."
+          "text": "It simply adds extra physical weight to the product"
         },
         {
           "id": "B",
-          "text": "It gives importance only to office jobs."
+          "text": "It transforms a basic raw material into a refined, finished product, actively increasing its monetary worth at each progressive stage of production"
         },
         {
           "id": "C",
-          "text": "It discourages hard work."
+          "text": "It legally makes all things free"
         },
         {
           "id": "D",
-          "text": "It promotes discrimination."
+          "text": "It permanently destroys the original raw material"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "12",
-      "question": "How does work contribute to the development of society?",
+      "question": "If Rajesh the carpenter buys raw wood for ₹600 and skillfully uses his tools and time to make a beautiful chair which he sells for ₹1000, what is the exact financial \"value addition\"?",
       "options": [
         {
           "id": "A",
-          "text": "It provides goods, services and improves people's lives."
+          "text": "₹600"
         },
         {
           "id": "B",
-          "text": "It only increases population."
+          "text": "₹1000"
         },
         {
           "id": "C",
-          "text": "It has no economic importance."
+          "text": "₹400"
         },
         {
           "id": "D",
-          "text": "It creates conflicts."
+          "text": "₹1600"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
     },
     {
       "id": "13",
-      "question": "Which action shows respect for workers?",
+      "question": "Which of the following complex activities actively creates 'Monetary Value' in the economy?",
       "options": [
         {
           "id": "A",
-          "text": "Treating every worker with dignity and gratitude"
+          "text": "A brilliant scientist conducting laboratory research and earning a monthly salary"
         },
         {
           "id": "B",
-          "text": "Looking down upon manual workers"
+          "text": "A devoted person taking full-time care of a sick, bedridden grandparent"
         },
         {
           "id": "C",
-          "text": "Ignoring sanitation workers"
+          "text": "A group of volunteers spending their weekend cleaning a public park"
         },
         {
           "id": "D",
-          "text": "Disrespecting helpers"
+          "text": "A family organizing a massive festival for their relatives"
         }
       ],
       "difficulty": "Medium",
@@ -327,23 +327,23 @@
     },
     {
       "id": "14",
-      "question": "Why should children understand the value of work?",
+      "question": "A highly qualified teacher teaching students in a private school for a salary is performing an ________ activity. The exact same teacher teaching her own son at home for free in the evening is performing a ________ activity.",
       "options": [
         {
           "id": "A",
-          "text": "To develop responsibility, empathy and respect for all occupations"
+          "text": "Economic; Non-economic"
         },
         {
           "id": "B",
-          "text": "To avoid learning skills"
+          "text": "Non-economic; Economic"
         },
         {
           "id": "C",
-          "text": "To judge people by income"
+          "text": "Economic; Economic"
         },
         {
           "id": "D",
-          "text": "To ignore community helpers"
+          "text": "Non-economic; Non-economic"
         }
       ],
       "difficulty": "Medium",
@@ -352,398 +352,398 @@
     },
     {
       "id": "15",
-      "question": "Which occupation mainly provides essential public health services?",
+      "question": "If there is no money involved, why do millions of people still willingly engage in grueling non-economic activities?",
       "options": [
         {
           "id": "A",
-          "text": "Sanitation worker"
+          "text": "Simply to eventually become secretly rich"
         },
         {
           "id": "B",
-          "text": "Pilot"
+          "text": "For deep personal satisfaction, boundless love, a strong sense of social responsibility, or profound cultural bonding"
         },
         {
           "id": "C",
-          "text": "Actor"
+          "text": "Because they are physically forced by the central government"
         },
         {
           "id": "D",
-          "text": "Musician"
+          "text": "Simply as a complicated way to pay taxes"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "16",
-      "question": "Which of the following reflects teamwork at the workplace?",
+      "question": "In the strict realm of commerce, what is the primary, driving aim of engaging in an economic activity?",
       "options": [
         {
           "id": "A",
-          "text": "People working together to complete a task"
+          "text": "To achieve deep mental peace and spiritual satisfaction"
         },
         {
           "id": "B",
-          "text": "Refusing to cooperate"
+          "text": "Earning a sustainable livelihood or generating financial profit"
         },
         {
           "id": "C",
-          "text": "Ignoring responsibilities"
+          "text": "Doing widespread, selfless charity"
         },
         {
           "id": "D",
-          "text": "Working against each other"
+          "text": "Getting physical exercise"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "17",
-      "question": "Why are different occupations necessary in society?",
+      "question": "Massive corporate companies running complex international businesses primarily aim to generate:",
       "options": [
         {
           "id": "A",
-          "text": "Different jobs fulfil different needs of people."
+          "text": "Daily Wages"
         },
         {
           "id": "B",
-          "text": "Everyone should do the same work."
+          "text": "Consultation Fees"
         },
         {
           "id": "C",
-          "text": "Only one occupation is important."
+          "text": "Land Rent"
         },
         {
           "id": "D",
-          "text": "Jobs have no role in society."
+          "text": "Financial Profits"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "D",
+      "explanation": "The correct answer is D."
     },
     {
       "id": "18",
-      "question": "Which quality helps people perform their work well?",
+      "question": "Which prominent, national community program specifically helps combat severe deforestation and promotes long-term environmental sustainability through non-economic mass volunteering?",
       "options": [
         {
           "id": "A",
-          "text": "Discipline and dedication"
+          "text": "Diwali"
         },
         {
           "id": "B",
-          "text": "Laziness"
+          "text": "Van Mahotsav (National Tree planting drive)"
         },
         {
           "id": "C",
-          "text": "Carelessness"
+          "text": "Langar"
         },
         {
           "id": "D",
-          "text": "Irresponsibility"
+          "text": "The National Election"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "19",
-      "question": "Which statement about work is correct?",
+      "question": "How do unpaid, non-economic activities like grueling daily household chores meaningfully contribute to the broader society?",
       "options": [
         {
           "id": "A",
-          "text": "Both mental and physical work are equally valuable."
+          "text": "They directly generate massive amounts of national tax revenue"
         },
         {
           "id": "B",
-          "text": "Only physical work is valuable."
+          "text": "They critically provide a safe, nurturing environment, vital emotional support, and maintain family/community well-being, forming the very backbone of a stable society"
         },
         {
           "id": "C",
-          "text": "Only office work is valuable."
+          "text": "They produce high-tech goods for international export"
         },
         {
           "id": "D",
-          "text": "Work has no importance in life."
+          "text": "Economists agree they have absolutely no value whatsoever"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "20",
-      "question": "What is the central idea of this chapter?",
+      "question": "If Kabir's grandfather, a highly decorated retired army officer, spends his evenings teaching local impoverished children for absolutely free, what is this a textbook example of?",
       "options": [
         {
           "id": "A",
-          "text": "Every honest occupation contributes to society and deserves respect."
+          "text": "An illegal economic activity"
         },
         {
           "id": "B",
-          "text": "Only high-paying jobs matter."
+          "text": "Selfless community service (a high-value non-economic activity)"
         },
         {
           "id": "C",
-          "text": "Physical work has no value."
+          "text": "A highly profitable corporate business"
         },
         {
           "id": "D",
-          "text": "Work is important only for earning money."
+          "text": "Industrial manufacturing"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "21",
-      "question": "Why is the dignity of labour considered essential in a democratic society?",
+      "question": "The profound social concept of the \"Dignity of Labour\" heavily emphasized in this chapter practically implies that:",
       "options": [
         {
           "id": "A",
-          "text": "It promotes equality by respecting every honest occupation."
+          "text": "Only highly educated, mental work is valuable to a nation"
         },
         {
           "id": "B",
-          "text": "It values only educated workers."
+          "text": "Only incredibly high-paying corporate jobs are respectable"
         },
         {
           "id": "C",
-          "text": "It encourages discrimination."
+          "text": "All forms of honest, hard work—whether gruelingly physical or intensely mental, paid or unpaid—deserve absolute, equal respect and contribute indispensably to society"
         },
         {
           "id": "D",
-          "text": "It gives importance only to government jobs."
+          "text": "Unpaid volunteer work should be legally banned"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
     },
     {
       "id": "22",
-      "question": "If society stopped respecting certain occupations, what is the most likely consequence?",
+      "question": "How does the economic concept of \"value addition\" mathematically and philosophically represent human effort?",
       "options": [
         {
           "id": "A",
-          "text": "Essential services and social harmony could be affected."
+          "text": "It shows that raw materials magically change form on their own"
         },
         {
           "id": "B",
-          "text": "Development would automatically improve."
+          "text": "The monetary difference in price between the base raw materials and the final finished product represents the exact financial compensation for the human labor, time, intense creativity, and specialized skill applied during the process"
         },
         {
           "id": "C",
-          "text": "All occupations would become identical."
+          "text": "It proves that all money is fundamentally useless"
         },
         {
           "id": "D",
-          "text": "People's needs would decrease."
+          "text": "It shows that all carpenters inherently overcharge"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "23",
-      "question": "Which situation best demonstrates the value of work?",
+      "question": "Why is it an urgent sociological necessity to recognize and validate the immense value of \"invisible\" or \"unpaid\" work, such as the relentless caregiving and domestic labor predominantly performed by women at home?",
       "options": [
         {
           "id": "A",
-          "text": "Students thanking sanitation workers for keeping the school clean"
+          "text": "Because it is actually a highly taxed economic activity"
         },
         {
           "id": "B",
-          "text": "Making fun of manual workers"
+          "text": "Because while it is unjustly ignored in formal GDP measurements, it is the absolute foundational bedrock that ensures the daily survival, physical health, and social stability of the entire paid workforce and society as a whole"
         },
         {
           "id": "C",
-          "text": "Ignoring community helpers"
+          "text": "Merely so the government can begin taxing it"
         },
         {
           "id": "D",
-          "text": "Refusing to cooperate with workers"
+          "text": "Because women should be legally forced to be paid by the central government for it"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "24",
-      "question": "Why is teamwork important in most occupations?",
+      "question": "A highly skilled software engineer works for a massive tech company (earning a massive salary) and then volunteers on weekends to teach those exact same computer skills at an impoverished orphanage for free. Which analytical statement is true?",
       "options": [
         {
           "id": "A",
-          "text": "It improves efficiency and helps achieve common goals."
+          "text": "Both actions are strictly economic activities"
         },
         {
           "id": "B",
-          "text": "It increases conflicts."
+          "text": "Both actions are strictly non-economic activities"
         },
         {
           "id": "C",
-          "text": "It reduces productivity."
+          "text": "The exact same highly specialized skill can underlie both an economic and a non-economic activity, distinguished entirely by the presence or absence of monetary exchange and intent"
         },
         {
           "id": "D",
-          "text": "It discourages responsibility."
+          "text": "Volunteering completely ruins his economic value to the tech company"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
     },
     {
       "id": "25",
-      "question": "Which example best reflects responsible work ethics?",
+      "question": "What profound social value is actively demonstrated by massive, unpaid community practices like Swachh Bharat Abhiyan (Clean India Mission) or the Sikh tradition of Langar?",
       "options": [
         {
           "id": "A",
-          "text": "Completing assigned work honestly and on time"
+          "text": "Maximizing and earning corporate profits"
         },
         {
           "id": "B",
-          "text": "Avoiding responsibilities"
+          "text": "Fostering a deep sense of radical equality, shared humanity, profound civic responsibility, and environmental care entirely devoid of any financial motives"
         },
         {
           "id": "C",
-          "text": "Wasting resources during work"
+          "text": "Artificially inflating local property values"
         },
         {
           "id": "D",
-          "text": "Ignoring rules and safety measures"
+          "text": "Creating aggressive corporate monopolies"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "26",
-      "question": "How does work contribute to personal development?",
+      "question": "If wealthy landowners legally allow someone to use their fertile agricultural land or a commercial building, the specific economic payment they receive in return is called:",
       "options": [
         {
           "id": "A",
-          "text": "It develops confidence, discipline, skills and responsibility."
+          "text": "Salary"
         },
         {
           "id": "B",
-          "text": "It encourages laziness."
+          "text": "Wage"
         },
         {
           "id": "C",
-          "text": "It reduces knowledge."
+          "text": "Fee"
         },
         {
           "id": "D",
-          "text": "It has no effect on personality."
+          "text": "Rent"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "D",
+      "explanation": "The correct answer is D."
     },
     {
       "id": "27",
-      "question": "Which action best shows appreciation for the dignity of labour?",
+      "question": "A person who strategically buys products in bulk from primary producers and sells them at a markup to end consumers, charging a fee for this logistical and sales service, is acting as a:",
       "options": [
         {
           "id": "A",
-          "text": "Respecting all workers regardless of their occupation"
+          "text": "Manufacturer"
         },
         {
           "id": "B",
-          "text": "Judging people based on their income"
+          "text": "Middleman"
         },
         {
           "id": "C",
-          "text": "Ignoring manual workers"
+          "text": "Volunteer"
         },
         {
           "id": "D",
-          "text": "Treating some occupations as inferior"
+          "text": "Farmer"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "28",
-      "question": "A hospital functions efficiently because doctors, nurses, cleaners and technicians work together. What does this demonstrate?",
+      "question": "Which of the following complex situations most effectively blurs the strict, traditional line between economic and non-economic activities?",
       "options": [
         {
           "id": "A",
-          "text": "Every occupation is important and interdependent."
+          "text": "A factory worker assembling cars for a wage"
         },
         {
           "id": "B",
-          "text": "Only doctors are important."
+          "text": "A commercial baker selling bread for profit"
         },
         {
           "id": "C",
-          "text": "Cleaners have no role."
+          "text": "A subsistence farmer growing vegetables, keeping half to feed his starving family (non-economic survival) and selling the remaining half in the local market to buy tools (economic)"
         },
         {
           "id": "D",
-          "text": "One profession can perform every task."
+          "text": "A highly paid doctor performing surgery in a luxury private hospital"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
     },
     {
       "id": "29",
-      "question": "Which lesson from this chapter is most relevant in daily life?",
+      "question": "\"When you are doing any work, do not think of anything beyond. Do it as worship...\" This profound quote by Swami Vivekananda highlights:",
       "options": [
         {
           "id": "A",
-          "text": "Respect every person's work and perform your own responsibilities sincerely."
+          "text": "That all work must only be done for massive amounts of money"
         },
         {
           "id": "B",
-          "text": "Value only high-status jobs."
+          "text": "The intrinsic spiritual value, total dedication, and deep mindfulness one should apply to any task, elevating it far beyond just a mundane chore into an act of supreme devotion"
         },
         {
           "id": "C",
-          "text": "Compare people based on income."
+          "text": "That strictly religious work is the only real work worth doing"
         },
         {
           "id": "D",
-          "text": "Avoid physical work."
+          "text": "That people should be forced to work 24 hours a day without rest"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "30",
-      "question": "Which statement best summarizes the main idea of this chapter?",
+      "question": "In the broader scope of macroeconomics, why are economic activities considered the absolute \"root of prosperity\" as famously stated in Kautilya's ancient Arthashastra?",
       "options": [
         {
           "id": "A",
-          "text": "Every type of honest work has dignity and plays an essential role in the well-being and progress of society."
+          "text": "Because they systematically generate vast wealth, provide essential livelihoods, continuously produce the necessary goods/services for survival, and actively prevent widespread material distress and societal collapse"
         },
         {
           "id": "B",
-          "text": "Only professional jobs contribute to society."
+          "text": "Simply because they make ruling kings infinitely powerful"
         },
         {
           "id": "C",
-          "text": "Work is valuable only if it earns a high income."
+          "text": "Because they completely replace the need for loving families"
         },
         {
           "id": "D",
-          "text": "Manual work is less important than mental work."
+          "text": "Because they intentionally cause hyper-inflation"
         }
       ],
       "difficulty": "Hard",
