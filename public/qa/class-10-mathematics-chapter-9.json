@@ -1,0 +1,350 @@
+{
+  "chapterTitle": "Some Applications of Trigonometry",
+  "chapterTitleHi": "त्रिकोणमिति के कुछ अनुप्रयोग",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Define 'line of sight' and 'angle of elevation'.",
+      "questionHi": "'दृष्टि रेखा' और 'उन्नयन कोण' को परिभाषित कीजिए।",
+      "answer": "The **line of sight** is the straight line drawn from the eye of an observer to the point in the object viewed. The **angle of elevation** is the angle formed by the line of sight with the horizontal when the object is above the horizontal level (i.e., looking up).",
+      "answerHi": "**दृष्टि रेखा** प्रेक्षक की आँख से देखी जाने वाली वस्तु के बिंदु तक खींची गई सीधी रेखा है। **उन्नयन कोण** वह कोण है जो क्षैतिज रेखा के साथ दृष्टि रेखा द्वारा बनता है जब वस्तु क्षैतिज स्तर से ऊपर होती है (अर्थात, ऊपर देखने पर)।",
+      "keyPoints": [
+        "Line of sight: Eye to object.",
+        "Angle of elevation: Looking up from horizontal."
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What is meant by the 'angle of depression'?",
+      "questionHi": "'अवनमन कोण' से क्या तात्पर्य है?",
+      "answer": "The **angle of depression** is the angle formed by the line of sight with the horizontal when the point being viewed is below the horizontal level (i.e., when the observer looks down at the object).",
+      "answerHi": "**अवनमन कोण** वह कोण है जो क्षैतिज रेखा के साथ दृष्टि रेखा द्वारा बनता है जब देखा जाने वाला बिंदु क्षैतिज स्तर से नीचे होता है (अर्थात, जब प्रेक्षक वस्तु को नीचे देखता है)।",
+      "keyPoints": [
+        "Angle of depression: Looking down from horizontal."
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "A tower is $10\\sqrt{3}\\text{ m}$ high. Find the angle of elevation of its top from a point $30\\text{ m}$ away from its foot.",
+      "questionHi": "एक मीनार $10\\sqrt{3}\\text{ मीटर}$ ऊँची है। इसके पाद से $30\\text{ मीटर}$ दूर एक बिंदु से इसके शिखर का उन्नयन कोण ज्ञात कीजिए।",
+      "answer": "Let the angle of elevation be $\\theta$.\n\n$$\\tan\\theta = \\frac{\\text{Height}}{\\text{Base}} = \\frac{10\\sqrt{3}}{30} = \\frac{\\sqrt{3}}{3} = \\frac{1}{\\sqrt{3}}$$\n\nSince $\\tan 30^\\circ = \\frac{1}{\\sqrt{3}}$, the angle of elevation is **$30^\\circ$**.",
+      "answerHi": "मान लीजिए उन्नयन कोण $\\theta$ है।\n\n$$\\tan\\theta = \\frac{\\text{ऊँचाई}}{\\text{आधार}} = \\frac{10\\sqrt{3}}{30} = \\frac{\\sqrt{3}}{3} = \\frac{1}{\\sqrt{3}}$$\n\nचूँकि $\\tan 30^\\circ = \\frac{1}{\\sqrt{3}}$ है, उन्नयन कोण **$30^\\circ$** है।",
+      "keyPoints": [
+        "Use tan = Height / Base.",
+        "Solve for angle $\\theta$."
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "If the length of the shadow of a tree is equal to its height, find the angle of elevation of the sun.",
+      "questionHi": "यदि किसी पेड़ की छाया की लंबाई उसकी ऊँचाई के बराबर है, तो सूर्य का उन्नयन कोण ज्ञात कीजिए।",
+      "answer": "Let the height of the tree be $h$ and the length of its shadow be $x$. Given $h = x$.\n\n$$\\tan\\theta = \\frac{\\text{Height}}{\\text{Shadow}} = \\frac{h}{x} = \\frac{h}{h} = 1$$\n\nSince $\\tan 45^\\circ = 1$, the angle of elevation of the sun is **$45^\\circ$**.",
+      "answerHi": "मान लीजिए पेड़ की ऊँचाई $h$ है और इसकी छाया की लंबाई $x$ है। दिया गया है $h = x$।\n\n$$\\tan\\theta = \\frac{\\text{ऊँचाई}}{\\text{छाया}} = \\frac{h}{x} = \\frac{h}{h} = 1$$\n\nचूँकि $\\tan 45^\\circ = 1$ है, सूर्य का उन्नयन कोण **$45^\\circ$** है।",
+      "keyPoints": [
+        "Height = Shadow implies tan $\\theta$ = 1.",
+        "Angle is 45°."
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "A kite is flying at a height of $60\\text{ m}$ above the ground. The string attached to the kite is temporarily tied to a point on the ground. The inclination of the string with the ground is $60^\\circ$. Find the length of the string, assuming there is no slack.",
+      "questionHi": "भूमि से $60\\text{ मीटर}$ की ऊँचाई पर एक पतंग उड़ रही है। पतंग से लगी डोरी को अस्थायी रूप से भूमि के एक बिंदु से बाँध दिया गया है। भूमि के साथ डोरी का झुकाव $60^\\circ$ है। यह मानकर कि डोरी में कोई ढील नहीं है, डोरी की लंबाई ज्ञात कीजिए।",
+      "answer": "Let the length of the string be $l$.\n\n$$\\sin 60^\\circ = \\frac{\\text{Height}}{\\text{Hypotenuse}} \\implies \\frac{\\sqrt{3}}{2} = \\frac{60}{l}$$\n\n$$l = \\frac{120}{\\sqrt{3}} = \\frac{120\\sqrt{3}}{3} = 40\\sqrt{3}\\text{ m}$$",
+      "answerHi": "मान लीजिए डोरी की लंबाई $l$ है।\n\n$$\\sin 60^\\circ = \\frac{\\text{लंब}}{\\text{कर्ण}} \\implies \\frac{\\sqrt{3}}{2} = \\frac{60}{l}$$\n\n$$l = \\frac{120}{\\sqrt{3}} = \\frac{120\\sqrt{3}}{3} = 40\\sqrt{3}\\text{ मीटर}$$",
+      "keyPoints": [
+        "String is hypotenuse, height is opposite side.",
+        "Use sin 60° to find length."
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "From a point on the ground, $20\\text{ m}$ away from the foot of a vertical tower, the angle of elevation of the top of the tower is $45^\\circ$. Find the height of the tower.",
+      "questionHi": "भूमि के एक बिंदु से, जो एक ऊर्ध्वाधर मीनार के पाद-बिंदु से $20\\text{ मीटर}$ दूर है, मीनार के शिखर का उन्नयन कोण $45^\\circ$ है। मीनार की ऊँचाई ज्ञात कीजिए।",
+      "answer": "Let the height of the tower be $h$.\n\n$$\\tan 45^\\circ = \\frac{\\text{Height}}{\\text{Base}} \\implies 1 = \\frac{h}{20}$$\n\n$$h = 20\\text{ m}$$\n\nThe height of the tower is **$20\\text{ m}$**.",
+      "answerHi": "मान लीजिए मीनार की ऊँचाई $h$ है।\n\n$$\\tan 45^\\circ = \\frac{\\text{ऊँचाई}}{\\text{आधार}} \\implies 1 = \\frac{h}{20}$$\n\n$$h = 20\\text{ मीटर}$$\n\nमीनार की ऊँचाई **$20\\text{ मीटर}$** है।",
+      "keyPoints": [
+        "Use tan 45° = 1.",
+        "Height equals base."
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "The ratio of the length of a vertical rod and the length of its shadow is $1 : \\sqrt{3}$. Find the angle of elevation of the sun.",
+      "questionHi": "एक ऊर्ध्वाधर छड़ की लंबाई और उसकी छाया की लंबाई का अनुपात $1 : \\sqrt{3}$ है। सूर्य का उन्नयन कोण ज्ञात कीजिए।",
+      "answer": "Let the height of the rod be $x$ and its shadow be $\\sqrt{3}x$.\n\n$$\\tan\\theta = \\frac{\\text{Height}}{\\text{Shadow}} = \\frac{x}{\\sqrt{3}x} = \\frac{1}{\\sqrt{3}}$$\n\nThe angle of elevation of the sun is **$30^\\circ$**.",
+      "answerHi": "मान लीजिए छड़ की ऊँचाई $x$ है और उसकी छाया $\\sqrt{3}x$ है।\n\n$$\\tan\\theta = \\frac{\\text{ऊँचाई}}{\\text{छाया}} = \\frac{x}{\\sqrt{3}x} = \\frac{1}{\\sqrt{3}}$$\n\nसूर्य का उन्नयन कोण **$30^\\circ$** है।",
+      "keyPoints": [
+        "Ratio gives tan $\\theta = 1/\\sqrt{3}$.",
+        "Angle is 30°."
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Hard",
+      "question": "A ladder $15\\text{ m}$ long just reaches the top of a vertical wall. If the ladder makes an angle of $60^\\circ$ with the wall, find the height of the wall.",
+      "questionHi": "$15\\text{ मीटर}$ लंबी एक सीढ़ी एक ऊर्ध्वाधर दीवार के शिखर तक पहुँचती है। यदि सीढ़ी दीवार के साथ $60^\\circ$ का कोण बनाती है, तो दीवार की ऊँचाई ज्ञात कीजिए।",
+      "answer": "Let the height of the wall be $h$. Since the angle is made with the *vertical wall*, the angle it makes with the ground is $90^\\circ - 60^\\circ = 30^\\circ$.\n\n$$\\sin 30^\\circ = \\frac{h}{\\text{Length of ladder}} \\implies \\frac{1}{2} = \\frac{h}{15}$$\n\n$$h = \\frac{15}{2} = 7.5\\text{ m}$$",
+      "answerHi": "मान लीजिए दीवार की ऊँचाई $h$ है। चूँकि कोण *ऊर्ध्वाधर दीवार* के साथ बनता है, इसलिए यह भूमि के साथ $90^\\circ - 60^\\circ = 30^\\circ$ का कोण बनाती है।\n\n$$\\sin 30^\\circ = \\frac{h}{\\text{सीढ़ी की लंबाई}} \\implies \\frac{1}{2} = \\frac{h}{15}$$\n\n$$h = \\frac{15}{2} = 7.5\\text{ मीटर}$$",
+      "keyPoints": [
+        "Careful: Angle is with the wall, not ground.",
+        "Angle with ground = 30°.",
+        "Use sin 30° to find height."
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "A bridge across a river makes an angle of $45^\\circ$ with the river bank. If the length of the bridge across the river is $150\\text{ m}$, find the width of the river.",
+      "questionHi": "नदी के ऊपर एक पुल नदी के किनारे के साथ $45^\\circ$ का कोण बनाता है। यदि नदी के ऊपर पुल की लंबाई $150\\text{ मीटर}$ है, तो नदी की चौड़ाई ज्ञात कीजिए।",
+      "answer": "Let the width of the river be $w$. The bridge forms the hypotenuse of a right-angled triangle.\n\n$$\\sin 45^\\circ = \\frac{w}{\\text{Length of bridge}} \\implies \\frac{1}{\\sqrt{2}} = \\frac{w}{150}$$\n\n$$w = \\frac{150}{\\sqrt{2}} = 75\\sqrt{2}\\text{ m}$$",
+      "answerHi": "मान लीजिए नदी की चौड़ाई $w$ है। पुल एक समकोण त्रिभुज का कर्ण बनाता है।\n\n$$\\sin 45^\\circ = \\frac{w}{\\text{पुल की लंबाई}} \\implies \\frac{1}{\\sqrt{2}} = \\frac{w}{150}$$\n\n$$w = \\frac{150}{\\sqrt{2}} = 75\\sqrt{2}\\text{ मीटर}$$",
+      "keyPoints": [
+        "Bridge is hypotenuse, width is perpendicular.",
+        "Use sin 45°."
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "An observer $1.5\\text{ m}$ tall is $28.5\\text{ m}$ away from a chimney. The angle of elevation of the top of the chimney from her eyes is $45^\\circ$. What is the height of the chimney?",
+      "questionHi": "$1.5\\text{ मीटर}$ लंबा एक प्रेक्षक एक चिमनी से $28.5\\text{ मीटर}$ की दूरी पर है। उसकी आँखों से चिमनी के शिखर का उन्नयन कोण $45^\\circ$ है। चिमनी की ऊँचाई क्या है?",
+      "answer": "Let the height of the chimney above the observer's eye level be $h$.\n\n$$\\tan 45^\\circ = \\frac{h}{28.5} \\implies 1 = \\frac{h}{28.5} \\implies h = 28.5\\text{ m}$$\n\n$$\\text{Total height of the chimney} = h + \\text{observer's height} = 28.5 + 1.5 = 30\\text{ m}$$",
+      "answerHi": "मान लीजिए प्रेक्षक की आँख के स्तर से ऊपर चिमनी की ऊँचाई $h$ है।\n\n$$\\tan 45^\\circ = \\frac{h}{28.5} \\implies 1 = \\frac{h}{28.5} \\implies h = 28.5\\text{ मीटर}$$\n\n$$\\text{चिमनी की कुल ऊँचाई} = h + \\text{प्रेक्षक की ऊँचाई} = 28.5 + 1.5 = 30\\text{ मीटर}$$",
+      "keyPoints": [
+        "Calculate height above eye level.",
+        "Add observer's height to get total height."
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "Two poles of equal heights are standing opposite each other on either side of the road, which is $80\\text{ m}$ wide. From a point between them on the road, the angles of elevation of the tops of the poles are $60^\\circ$ and $30^\\circ$ respectively. Find the height of the poles and the distances of the point from the poles.",
+      "questionHi": "$80\\text{ मीटर}$ चौड़ी एक सड़क के दोनों ओर आमने-सामने समान ऊँचाई वाले दो खंभे खड़े हैं। सड़क पर उनके बीच एक बिंदु से, खंभों के शिखर के उन्नयन कोण क्रमशः $60^\\circ$ और $30^\\circ$ हैं। खंभों की ऊँचाई और खंभों से बिंदु की दूरियाँ ज्ञात कीजिए।",
+      "answer": "Let the height of the poles be $h$ and the point be $x$ meters from the first pole. The distance from the second pole is $(80 - x)$.\n\nFor the first pole: $\\tan 60^\\circ = \\frac{h}{x} \\implies \\sqrt{3} = \\frac{h}{x} \\implies h = x\\sqrt{3} \\quad \\text{--- (1)}$\n\nFor the second pole: $\\tan 30^\\circ = \\frac{h}{80 - x} \\implies \\frac{1}{\\sqrt{3}} = \\frac{h}{80 - x} \\implies h = \\frac{80 - x}{\\sqrt{3}} \\quad \\text{--- (2)}$\n\nEquating (1) and (2):\n\n$$x\\sqrt{3} = \\frac{80 - x}{\\sqrt{3}} \\implies 3x = 80 - x \\implies 4x = 80 \\implies x = 20\\text{ m}$$\n\nThe distances are **$20\\text{ m}$ and $60\\text{ m}$**. The height is $h = 20\\sqrt{3}\\text{ m}$.",
+      "answerHi": "मान लीजिए खंभों की ऊँचाई $h$ है और वह बिंदु पहले खंभे से $x$ मीटर दूर है। दूसरे खंभे से दूरी $(80 - x)$ है।\n\nपहले खंभे के लिए: $\\tan 60^\\circ = \\frac{h}{x} \\implies \\sqrt{3} = \\frac{h}{x} \\implies h = x\\sqrt{3} \\quad \\text{--- (1)}$\n\nदूसरे खंभे के लिए: $\\tan 30^\\circ = \\frac{h}{80 - x} \\implies \\frac{1}{\\sqrt{3}} = \\frac{h}{80 - x} \\implies h = \\frac{80 - x}{\\sqrt{3}} \\quad \\text{--- (2)}$\n\n(1) और (2) को बराबर करने पर:\n\n$$x\\sqrt{3} = \\frac{80 - x}{\\sqrt{3}} \\implies 3x = 80 - x \\implies 4x = 80 \\implies x = 20\\text{ मीटर}$$\n\nदूरियाँ **$20\\text{ मीटर}$ और $60\\text{ मीटर}$** हैं। ऊँचाई $h = 20\\sqrt{3}\\text{ मीटर}$ है।",
+      "keyPoints": [
+        "Set distances as x and 80-x.",
+        "Equate heights h from both triangles.",
+        "Solve for x, then find h."
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "A statue, $1.6\\text{ m}$ tall, stands on the top of a pedestal. From a point on the ground, the angle of elevation of the top of the statue is $60^\\circ$ and from the same point, the angle of elevation of the top of the pedestal is $45^\\circ$. Find the height of the pedestal.",
+      "questionHi": "एक पेडस्टल के शिखर पर $1.6\\text{ मीटर}$ ऊँची एक मूर्ति खड़ी है। भूमि के एक बिंदु से, मूर्ति के शिखर का उन्नयन कोण $60^\\circ$ है और उसी बिंदु से, पेडस्टल के शिखर का उन्नयन कोण $45^\\circ$ है। पेडस्टल की ऊँचाई ज्ञात कीजिए।",
+      "answer": "Let the height of the pedestal be $h$ and the distance of the point from the base be $x$.\n\nFrom the smaller triangle (top of pedestal):\n\n$$\\tan 45^\\circ = \\frac{h}{x} \\implies 1 = \\frac{h}{x} \\implies x = h$$\n\nFrom the larger triangle (top of statue):\n\n$$\\tan 60^\\circ = \\frac{h + 1.6}{x} \\implies \\sqrt{3} = \\frac{h + 1.6}{h}$$\n\n$$h\\sqrt{3} = h + 1.6 \\implies h(\\sqrt{3} - 1) = 1.6$$\n\n$$h = \\frac{1.6}{\\sqrt{3} - 1} \\times \\frac{\\sqrt{3} + 1}{\\sqrt{3} + 1} = \\frac{1.6(\\sqrt{3} + 1)}{2} = 0.8(\\sqrt{3} + 1)\\text{ m}$$",
+      "answerHi": "मान लीजिए पेडस्टल की ऊँचाई $h$ है और आधार से बिंदु की दूरी $x$ है।\n\nछोटे त्रिभुज (पेडस्टल के शिखर) से:\n\n$$\\tan 45^\\circ = \\frac{h}{x} \\implies 1 = \\frac{h}{x} \\implies x = h$$\n\nबड़े त्रिभुज (मूर्ति के शिखर) से:\n\n$$\\tan 60^\\circ = \\frac{h + 1.6}{x} \\implies \\sqrt{3} = \\frac{h + 1.6}{h}$$\n\n$$h\\sqrt{3} = h + 1.6 \\implies h(\\sqrt{3} - 1) = 1.6$$\n\n$$h = \\frac{1.6}{\\sqrt{3} - 1} \\times \\frac{\\sqrt{3} + 1}{\\sqrt{3} + 1} = \\frac{1.6(\\sqrt{3} + 1)}{2} = 0.8(\\sqrt{3} + 1)\\text{ मीटर}$$",
+      "keyPoints": [
+        "Base x equals height h from 45° angle.",
+        "Total height is h + 1.6.",
+        "Rationalize denominator to solve for h."
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "The angle of elevation of the top of a building from the foot of a tower is $30^\\circ$ and the angle of elevation of the top of the tower from the foot of the building is $60^\\circ$. If the tower is $50\\text{ m}$ high, find the height of the building.",
+      "questionHi": "एक मीनार के पाद-बिंदु से एक भवन के शिखर का उन्नयन कोण $30^\\circ$ है और भवन के पाद-बिंदु से मीनार के शिखर का उन्नयन कोण $60^\\circ$ है। यदि मीनार की ऊँचाई $50\\text{ मीटर}$ है, तो भवन की ऊँचाई ज्ञात कीजिए।",
+      "answer": "Let the distance between the building and the tower be $x$ and the building's height be $h$.\n\nFrom the tower's base triangle:\n\n$$\\tan 60^\\circ = \\frac{50}{x} \\implies \\sqrt{3} = \\frac{50}{x} \\implies x = \\frac{50}{\\sqrt{3}}$$\n\nFrom the building's base triangle:\n\n$$\\tan 30^\\circ = \\frac{h}{x} \\implies \\frac{1}{\\sqrt{3}} = \\frac{h}{\\frac{50}{\\sqrt{3}}}$$\n\n$$h = \\frac{1}{\\sqrt{3}} \\times \\frac{50}{\\sqrt{3}} = \\frac{50}{3} = 16\\frac{2}{3}\\text{ m}$$",
+      "answerHi": "मान लीजिए भवन और मीनार के बीच की दूरी $x$ है और भवन की ऊँचाई $h$ है।\n\nमीनार के आधार वाले त्रिभुज से:\n\n$$\\tan 60^\\circ = \\frac{50}{x} \\implies \\sqrt{3} = \\frac{50}{x} \\implies x = \\frac{50}{\\sqrt{3}}$$\n\nभवन के आधार वाले त्रिभुज से:\n\n$$\\tan 30^\\circ = \\frac{h}{x} \\implies \\frac{1}{\\sqrt{3}} = \\frac{h}{\\frac{50}{\\sqrt{3}}}$$\n\n$$h = \\frac{1}{\\sqrt{3}} \\times \\frac{50}{\\sqrt{3}} = \\frac{50}{3} = 16\\frac{2}{3}\\text{ मीटर}$$",
+      "keyPoints": [
+        "Find distance x using tower's height.",
+        "Use x to find building's height h."
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "A tree breaks due to a storm and the broken part bends so that the top of the tree touches the ground making an angle of $30^\\circ$ with it. The distance between the foot of the tree to the point where the top touches the ground is $8\\text{ m}$. Find the height of the tree.",
+      "questionHi": "आँधी आने से एक पेड़ टूट जाता है और टूटा हुआ भाग इस तरह मुड़ जाता है कि पेड़ का शिखर जमीन को छूने लगता है और इसके साथ $30^\\circ$ का कोण बनाता है। पेड़ के पाद-बिंदु से उस बिंदु की दूरी जहाँ शिखर जमीन को छूता है, $8\\text{ मीटर}$ है। पेड़ की ऊँचाई ज्ञात कीजिए।",
+      "answer": "Let the unbroken vertical part be $y$ and the broken bent part (hypotenuse) be $x$. The total height of the tree is $(x + y)$.\n\n$$\\tan 30^\\circ = \\frac{y}{8} \\implies \\frac{1}{\\sqrt{3}} = \\frac{y}{8} \\implies y = \\frac{8}{\\sqrt{3}}$$\n\n$$\\cos 30^\\circ = \\frac{8}{x} \\implies \\frac{\\sqrt{3}}{2} = \\frac{8}{x} \\implies x = \\frac{16}{\\sqrt{3}}$$\n\n$$\\text{Total Height} = x + y = \\frac{16}{\\sqrt{3}} + \\frac{8}{\\sqrt{3}} = \\frac{24}{\\sqrt{3}} = 8\\sqrt{3}\\text{ m}$$",
+      "answerHi": "मान लीजिए बिना टूटा ऊर्ध्वाधर भाग $y$ है और टूटा हुआ मुड़ा भाग (कर्ण) $x$ है। पेड़ की कुल ऊँचाई $(x + y)$ है।\n\n$$\\tan 30^\\circ = \\frac{y}{8} \\implies \\frac{1}{\\sqrt{3}} = \\frac{y}{8} \\implies y = \\frac{8}{\\sqrt{3}}$$\n\n$$\\cos 30^\\circ = \\frac{8}{x} \\implies \\frac{\\sqrt{3}}{2} = \\frac{8}{x} \\implies x = \\frac{16}{\\sqrt{3}}$$\n\n$$\\text{कुल ऊँचाई} = x + y = \\frac{16}{\\sqrt{3}} + \\frac{8}{\\sqrt{3}} = \\frac{24}{\\sqrt{3}} = 8\\sqrt{3}\\text{ मीटर}$$",
+      "keyPoints": [
+        "Tree height is sum of perpendicular and hypotenuse.",
+        "Find y using tan 30°, find x using cos 30°."
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "From a point on a bridge across a river, the angles of depression of the banks on opposite sides of the river are $30^\\circ$ and $45^\\circ$ respectively. If the bridge is at a height of $3\\text{ m}$ from the banks, find the width of the river.",
+      "questionHi": "नदी के ऊपर एक पुल के एक बिंदु से, नदी के विपरीत किनारों के अवनमन कोण क्रमशः $30^\\circ$ और $45^\\circ$ हैं। यदि पुल किनारों से $3\\text{ मीटर}$ की ऊँचाई पर है, तो नदी की चौड़ाई ज्ञात कीजिए।",
+      "answer": "Let the point on the bridge be $P$ at a height of $3\\text{ m}$. The width of the river is the sum of the horizontal distances on either side of the perpendicular drop, say $x$ and $y$.\n\nFor the first bank ($30^\\circ$ angle of depression $\\implies 30^\\circ$ angle of elevation):\n\n$$\\tan 30^\\circ = \\frac{3}{x} \\implies \\frac{1}{\\sqrt{3}} = \\frac{3}{x} \\implies x = 3\\sqrt{3}\\text{ m}$$\n\nFor the second bank ($45^\\circ$ angle of elevation):\n\n$$\\tan 45^\\circ = \\frac{3}{y} \\implies 1 = \\frac{3}{y} \\implies y = 3\\text{ m}$$\n\n$$\\text{Width of the river} = x + y = 3\\sqrt{3} + 3 = 3(\\sqrt{3} + 1)\\text{ m}$$",
+      "answerHi": "मान लीजिए पुल पर बिंदु $P$, $3\\text{ मीटर}$ की ऊँचाई पर है। नदी की चौड़ाई लंबवत बिंदु के दोनों ओर की क्षैतिज दूरियों, मान लीजिए $x$ और $y$, का योग है।\n\nपहले किनारे के लिए ($30^\\circ$ अवनमन कोण $\\implies 30^\\circ$ उन्नयन कोण):\n\n$$\\tan 30^\\circ = \\frac{3}{x} \\implies \\frac{1}{\\sqrt{3}} = \\frac{3}{x} \\implies x = 3\\sqrt{3}\\text{ मीटर}$$\n\nदूसरे किनारे के लिए ($45^\\circ$ उन्नयन कोण):\n\n$$\\tan 45^\\circ = \\frac{3}{y} \\implies 1 = \\frac{3}{y} \\implies y = 3\\text{ मीटर}$$\n\n$$\\text{नदी की चौड़ाई} = x + y = 3\\sqrt{3} + 3 = 3(\\sqrt{3} + 1)\\text{ मीटर}$$",
+      "keyPoints": [
+        "Width = x + y.",
+        "Calculate x and y using tan 30° and tan 45°."
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "As observed from the top of a $75\\text{ m}$ high lighthouse from the sea-level, the angles of depression of two ships are $30^\\circ$ and $45^\\circ$. If one ship is exactly behind the other on the same side of the lighthouse, find the distance between the two ships.",
+      "questionHi": "समुद्र तल से $75\\text{ मीटर}$ ऊँचे एक लाइटहाउस के शिखर से देखने पर, दो समुद्री जहाजों के अवनमन कोण $30^\\circ$ और $45^\\circ$ हैं। यदि एक जहाज लाइटहाउस के एक ही ओर दूसरे के ठीक पीछे है, तो दोनों जहाजों के बीच की दूरी ज्ञात कीजिए।",
+      "answer": "Let the distance of the closer ship ($45^\\circ$) be $x$ and the further ship ($30^\\circ$) be $y$.\n\nFrom the first triangle:\n\n$$\\tan 45^\\circ = \\frac{75}{x} \\implies 1 = \\frac{75}{x} \\implies x = 75\\text{ m}$$\n\nFrom the second triangle:\n\n$$\\tan 30^\\circ = \\frac{75}{y} \\implies \\frac{1}{\\sqrt{3}} = \\frac{75}{y} \\implies y = 75\\sqrt{3}\\text{ m}$$\n\n$$\\text{Distance between ships} = y - x = 75\\sqrt{3} - 75 = 75(\\sqrt{3} - 1)\\text{ m}$$",
+      "answerHi": "मान लीजिए निकट वाले जहाज ($45^\\circ$) की दूरी $x$ है और दूर वाले जहाज ($30^\\circ$) की दूरी $y$ है।\n\nपहले त्रिभुज से:\n\n$$\\tan 45^\\circ = \\frac{75}{x} \\implies 1 = \\frac{75}{x} \\implies x = 75\\text{ मीटर}$$\n\nदूसरे त्रिभुज से:\n\n$$\\tan 30^\\circ = \\frac{75}{y} \\implies \\frac{1}{\\sqrt{3}} = \\frac{75}{y} \\implies y = 75\\sqrt{3}\\text{ मीटर}$$\n\n$$\\text{जहाजों के बीच की दूरी} = y - x = 75\\sqrt{3} - 75 = 75(\\sqrt{3} - 1)\\text{ मीटर}$$",
+      "keyPoints": [
+        "Closer ship has larger angle.",
+        "Distance between ships = y - x."
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "The shadow of a tower standing on a level ground is found to be $40\\text{ m}$ longer when the Sun's altitude is $30^\\circ$ than when it is $60^\\circ$. Find the height of the tower.",
+      "questionHi": "समतल भूमि पर खड़ी एक मीनार की छाया उस स्थिति में $40\\text{ मीटर}$ अधिक लंबी हो जाती है जब सूर्य का उन्नतांश (altitude) $60^\\circ$ से घटकर $30^\\circ$ हो जाता है। मीनार की ऊँचाई ज्ञात कीजिए।",
+      "answer": "Let the height of the tower be $h$ and the length of the shorter shadow ($60^\\circ$) be $x$. The longer shadow ($30^\\circ$) is $(x + 40)$.\n\n$$\\tan 60^\\circ = \\frac{h}{x} \\implies \\sqrt{3} = \\frac{h}{x} \\implies x = \\frac{h}{\\sqrt{3}} \\quad \\text{--- (1)}$$\n\n$$\\tan 30^\\circ = \\frac{h}{x + 40} \\implies \\frac{1}{\\sqrt{3}} = \\frac{h}{x + 40} \\implies x + 40 = h\\sqrt{3} \\quad \\text{--- (2)}$$\n\nSubstitute $x$ from (1) into (2):\n\n$$\\frac{h}{\\sqrt{3}} + 40 = h\\sqrt{3} \\implies 40 = h\\sqrt{3} - \\frac{h}{\\sqrt{3}} = \\frac{3h - h}{\\sqrt{3}} = \\frac{2h}{\\sqrt{3}}$$\n\n$$2h = 40\\sqrt{3} \\implies h = 20\\sqrt{3}\\text{ m}$$",
+      "answerHi": "मान लीजिए मीनार की ऊँचाई $h$ है और छोटी छाया ($60^\\circ$) की लंबाई $x$ है। लंबी छाया ($30^\\circ$) $(x + 40)$ है।\n\n$$\\tan 60^\\circ = \\frac{h}{x} \\implies \\sqrt{3} = \\frac{h}{x} \\implies x = \\frac{h}{\\sqrt{3}} \\quad \\text{--- (1)}$$\n\n$$\\tan 30^\\circ = \\frac{h}{x + 40} \\implies \\frac{1}{\\sqrt{3}} = \\frac{h}{x + 40} \\implies x + 40 = h\\sqrt{3} \\quad \\text{--- (2)}$$\n\n(1) से $x$ को (2) में प्रतिस्थापित करें:\n\n$$\\frac{h}{\\sqrt{3}} + 40 = h\\sqrt{3} \\implies 40 = h\\sqrt{3} - \\frac{h}{\\sqrt{3}} = \\frac{3h - h}{\\sqrt{3}} = \\frac{2h}{\\sqrt{3}}$$\n\n$$2h = 40\\sqrt{3} \\implies h = 20\\sqrt{3}\\text{ मीटर}$$",
+      "keyPoints": [
+        "Relate shadow lengths x and x+40.",
+        "Express x in terms of h.",
+        "Solve for h."
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "A $1.2\\text{ m}$ tall girl spots a balloon moving with the wind in a horizontal line at a height of $88.2\\text{ m}$ from the ground. The angle of elevation of the balloon from the eyes of the girl at any instant is $60^\\circ$. After some time, the angle of elevation reduces to $30^\\circ$. Find the distance travelled by the balloon.",
+      "questionHi": "$1.2\\text{ मीटर}$ लंबी एक लड़की भूमि से $88.2\\text{ मीटर}$ की ऊँचाई पर हवा में क्षैतिज रेखा में उड़ते हुए एक गुब्बारे को देखती है। किसी भी क्षण लड़की की आँखों से गुब्बारे का उन्नयन कोण $60^\\circ$ होता है। कुछ समय बाद, उन्नयन कोण घटकर $30^\\circ$ हो जाता है। गुब्बारे द्वारा तय की गई दूरी ज्ञात कीजिए।",
+      "answer": "Effective height of the balloon from the girl's eye level = $88.2 - 1.2 = 87\\text{ m}$.\n\nLet the initial horizontal distance be $x$ and the final horizontal distance be $y$.\n\n$$\\tan 60^\\circ = \\frac{87}{x} \\implies \\sqrt{3} = \\frac{87}{x} \\implies x = \\frac{87}{\\sqrt{3}} = 29\\sqrt{3}\\text{ m}$$\n\n$$\\tan 30^\\circ = \\frac{87}{y} \\implies \\frac{1}{\\sqrt{3}} = \\frac{87}{y} \\implies y = 87\\sqrt{3}\\text{ m}$$\n\n$$\\text{Distance travelled} = y - x = 87\\sqrt{3} - 29\\sqrt{3} = 58\\sqrt{3}\\text{ m}$$",
+      "answerHi": "लड़की की आँख के स्तर से गुब्बारे की प्रभावी ऊँचाई = $88.2 - 1.2 = 87\\text{ मीटर}$।\n\nमान लीजिए प्रारंभिक क्षैतिज दूरी $x$ है और अंतिम क्षैतिज दूरी $y$ है।\n\n$$\\tan 60^\\circ = \\frac{87}{x} \\implies \\sqrt{3} = \\frac{87}{x} \\implies x = \\frac{87}{\\sqrt{3}} = 29\\sqrt{3}\\text{ मीटर}$$\n\n$$\\tan 30^\\circ = \\frac{87}{y} \\implies \\frac{1}{\\sqrt{3}} = \\frac{87}{y} \\implies y = 87\\sqrt{3}\\text{ मीटर}$$\n\n$$\\text{तय की गई दूरी} = y - x = 87\\sqrt{3} - 29\\sqrt{3} = 58\\sqrt{3}\\text{ मीटर}$$",
+      "keyPoints": [
+        "Subtract girl's height from total height.",
+        "Find x for 60° and y for 30°.",
+        "Distance = y - x."
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "From the top of a $7\\text{ m}$ high building, the angle of elevation of the top of a cable tower is $60^\\circ$ and the angle of depression of its foot is $45^\\circ$. Determine the height of the tower.",
+      "questionHi": "एक $7\\text{ मीटर}$ ऊँचे भवन के शिखर से, एक केबल टावर के शिखर का उन्नयन कोण $60^\\circ$ है और इसके पाद का अवनमन कोण $45^\\circ$ है। टावर की ऊँचाई निर्धारित कीजिए।",
+      "answer": "Let the horizontal distance between the building and the tower be $x$. The tower consists of two parts: the part below the horizontal eye level ($7\\text{ m}$) and the part above it ($h$).\n\nFrom the angle of depression ($45^\\circ$):\n\n$$\\tan 45^\\circ = \\frac{7}{x} \\implies 1 = \\frac{7}{x} \\implies x = 7\\text{ m}$$\n\nFrom the angle of elevation ($60^\\circ$):\n\n$$\\tan 60^\\circ = \\frac{h}{x} \\implies \\sqrt{3} = \\frac{h}{7} \\implies h = 7\\sqrt{3}\\text{ m}$$\n\n$$\\text{Total height of tower} = h + 7 = 7\\sqrt{3} + 7 = 7(\\sqrt{3} + 1)\\text{ m}$$",
+      "answerHi": "मान लीजिए भवन और टावर के बीच क्षैतिज दूरी $x$ है। टावर के दो भाग हैं: क्षैतिज आँख के स्तर से नीचे का भाग ($7\\text{ मीटर}$) और इसके ऊपर का भाग ($h$)।\n\nअवनमन कोण ($45^\\circ$) से:\n\n$$\\tan 45^\\circ = \\frac{7}{x} \\implies 1 = \\frac{7}{x} \\implies x = 7\\text{ मीटर}$$\n\nउन्नयन कोण ($60^\\circ$) से:\n\n$$\\tan 60^\\circ = \\frac{h}{x} \\implies \\sqrt{3} = \\frac{h}{7} \\implies h = 7\\sqrt{3}\\text{ मीटर}$$\n\n$$\\text{टावर की कुल ऊँचाई} = h + 7 = 7\\sqrt{3} + 7 = 7(\\sqrt{3} + 1)\\text{ मीटर}$$",
+      "keyPoints": [
+        "Horizontal distance = building height (45°).",
+        "Tower height = building height + h."
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "A TV tower stands vertically on a bank of a canal. From a point on the other bank directly opposite the tower, the angle of elevation of the top of the tower is $60^\\circ$. From another point $20\\text{ m}$ away from this point on the line joining this point to the foot of the tower, the angle of elevation of the top of the tower is $30^\\circ$. Find the height of the tower and the width of the canal.",
+      "questionHi": "एक नहर के एक तट पर एक टीवी टावर ऊर्ध्वाधर खड़ा है। टावर के ठीक सामने दूसरे तट के एक बिंदु से, टावर के शिखर का उन्नयन कोण $60^\\circ$ है। इसी तट पर इस बिंदु से $20\\text{ मीटर}$ दूर और इस बिंदु को टावर के पाद से मिलाने वाली रेखा पर स्थित एक अन्य बिंदु से, टावर के शिखर का उन्नयन कोण $30^\\circ$ है। टावर की ऊँचाई और नहर की चौड़ाई ज्ञात कीजिए।",
+      "answer": "Let the height of the tower be $h$ and the width of the canal be $x$.\n\n$$\\tan 60^\\circ = \\frac{h}{x} \\implies \\sqrt{3} = \\frac{h}{x} \\implies h = x\\sqrt{3} \\quad \\text{--- (1)}$$\n\nFrom the point $20\\text{ m}$ further away, the total distance is $(x + 20)$:\n\n$$\\tan 30^\\circ = \\frac{h}{x + 20} \\implies \\frac{1}{\\sqrt{3}} = \\frac{h}{x + 20} \\implies x + 20 = h\\sqrt{3}$$\n\nSubstitute $h = x\\sqrt{3}$:\n\n$$x + 20 = (x\\sqrt{3})\\sqrt{3} = 3x \\implies 2x = 20 \\implies x = 10\\text{ m}$$\n\nWidth of the canal is **$10\\text{ m}$**. The height of the tower is $h = 10\\sqrt{3}\\text{ m}$.",
+      "answerHi": "मान लीजिए टावर की ऊँचाई $h$ है और नहर की चौड़ाई $x$ है।\n\n$$\\tan 60^\\circ = \\frac{h}{x} \\implies \\sqrt{3} = \\frac{h}{x} \\implies h = x\\sqrt{3} \\quad \\text{--- (1)}$$\n\n$20\\text{ मीटर}$ दूर स्थित बिंदु से, कुल दूरी $(x + 20)$ है:\n\n$$\\tan 30^\\circ = \\frac{h}{x + 20} \\implies \\frac{1}{\\sqrt{3}} = \\frac{h}{x + 20} \\implies x + 20 = h\\sqrt{3}$$\n\n$h = x\\sqrt{3}$ प्रतिस्थापित करें:\n\n$$x + 20 = (x\\sqrt{3})\\sqrt{3} = 3x \\implies 2x = 20 \\implies x = 10\\text{ मीटर}$$\n\nनहर की चौड़ाई **$10\\text{ मीटर}$** है। टावर की ऊँचाई $h = 10\\sqrt{3}\\text{ मीटर}$ है।",
+      "keyPoints": [
+        "Canal width is x.",
+        "Express h in terms of x using 60°.",
+        "Solve for x using 30° triangle."
+      ]
+    },
+    {
+      "id": "q21",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Competency-Based Question: A boy is standing on the deck of a ship, which is $10\\text{ m}$ above the water level. He observes the angle of elevation of the top of a hill as $60^\\circ$ and the angle of depression of the base of the hill as $30^\\circ$. Calculate the distance of the hill from the ship and the total height of the hill.",
+      "questionHi": "योग्यता-आधारित प्रश्न: एक लड़का एक जहाज के डेक पर खड़ा है, जो जल स्तर से $10\\text{ मीटर}$ ऊपर है। वह एक पहाड़ी के शिखर का उन्नयन कोण $60^\\circ$ और पहाड़ी के आधार का अवनमन कोण $30^\\circ$ देखता है। जहाज से पहाड़ी की दूरी और पहाड़ी की कुल ऊँचाई की गणना कीजिए।",
+      "answer": "Let the horizontal distance between the ship and the hill be $x$. The hill's height is divided into two segments relative to the boy's eye level: the part below ($10\\text{ m}$, equal to the deck height) and the part above ($h$).\n\nFrom the angle of depression ($30^\\circ$) to the base of the hill:\n\n$$\\tan 30^\\circ = \\frac{10}{x} \\implies \\frac{1}{\\sqrt{3}} = \\frac{10}{x} \\implies x = 10\\sqrt{3}\\text{ m}$$\n\nThe distance of the hill from the ship is **$10\\sqrt{3}\\text{ m}$** (approx. $17.32\\text{ m}$).\n\nFrom the angle of elevation ($60^\\circ$) to the top of the hill:\n\n$$\\tan 60^\\circ = \\frac{h}{x} \\implies \\sqrt{3} = \\frac{h}{10\\sqrt{3}} \\implies h = 10\\sqrt{3} \\times \\sqrt{3} = 30\\text{ m}$$\n\nThe total vertical height of the hill is the sum of both segments:\n\n$$\\text{Total Height} = h + 10 = 30 + 10 = 40\\text{ m}$$",
+      "answerHi": "मान लीजिए जहाज और पहाड़ी के बीच क्षैतिज दूरी $x$ है। लड़के की आँख के स्तर के सापेक्ष पहाड़ी की ऊँचाई दो खंडों में विभाजित है: नीचे का भाग ($10\\text{ मीटर}$, डेक की ऊँचाई के बराबर) और ऊपर का भाग ($h$)।\n\nपहाड़ी के आधार के अवनमन कोण ($30^\\circ$) से:\n\n$$\\tan 30^\\circ = \\frac{10}{x} \\implies \\frac{1}{\\sqrt{3}} = \\frac{10}{x} \\implies x = 10\\sqrt{3}\\text{ मीटर}$$\n\nजहाज से पहाड़ी की दूरी **$10\\sqrt{3}\\text{ मीटर}$** (लगभग $17.32\\text{ मीटर}$) है।\n\nपहाड़ी के शिखर के उन्नयन कोण ($60^\\circ$) से:\n\n$$\\tan 60^\\circ = \\frac{h}{x} \\implies \\sqrt{3} = \\frac{h}{10\\sqrt{3}} \\implies h = 10\\sqrt{3} \\times \\sqrt{3} = 30\\text{ मीटर}$$\n\nपहाड़ी की कुल ऊर्ध्वाधर ऊँचाई दोनों खंडों का योग है:\n\n$$\\text{कुल ऊँचाई} = h + 10 = 30 + 10 = 40\\text{ मीटर}$$",
+      "keyPoints": [
+        "Horizontal distance found using tan 30°.",
+        "Height above deck found using tan 60°.",
+        "Total height = h + 10."
+      ]
+    },
+    {
+      "id": "q22",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Real-Life Application / Case Based: An aeroplane at an altitude of $200\\text{ m}$ observes the angles of depression of two opposite points on the two banks of a river to be $45^\\circ$ and $60^\\circ$. Find the exact width of the river. (Use $\\sqrt{3} = 1.732$).",
+      "questionHi": "वास्तविक जीवन अनुप्रयोग / केस आधारित: $200\\text{ मीटर}$ की ऊँचाई पर एक हवाई जहाज नदी के दो किनारों पर विपरीत बिंदुओं के अवनमन कोणों को $45^\\circ$ और $60^\\circ$ देखता है। नदी की सटीक चौड़ाई ज्ञात कीजिए। ($\\sqrt{3} = 1.732$ का प्रयोग करें)।",
+      "answer": "Let the aeroplane be at point $A$, positioned vertically above a point $P$ on the river segment. The altitude $AP = 200\\text{ m}$. Let the two points on the opposite banks be $B$ and $C$.\n\nSince the angles of depression are $45^\\circ$ and $60^\\circ$, the alternate interior angles of elevation from the banks are also $45^\\circ$ and $60^\\circ$.\n\nIn $\\Delta APB$:\n\n$$\\tan 45^\\circ = \\frac{AP}{BP} \\implies 1 = \\frac{200}{BP} \\implies BP = 200\\text{ m}$$\n\nIn $\\Delta APC$:\n\n$$\\tan 60^\\circ = \\frac{AP}{PC} \\implies \\sqrt{3} = \\frac{200}{PC} \\implies PC = \\frac{200}{\\sqrt{3}} = \\frac{200\\sqrt{3}}{3}\\text{ m}$$\n\nThe width of the river is $BP + PC$:\n\n$$\\text{Width} = 200 + \\frac{200(1.732)}{3} = 200 + \\frac{346.4}{3} = 200 + 115.46 = 315.46\\text{ m}$$\n\nThe width of the river is approximately **$315.46\\text{ m}$**.",
+      "answerHi": "मान लीजिए हवाई जहाज बिंदु $A$ पर है, जो नदी खंड पर एक बिंदु $P$ के ठीक ऊपर लंबवत स्थित है। ऊँचाई $AP = 200\\text{ मीटर}$ है। मान लीजिए विपरीत किनारों पर दो बिंदु $B$ और $C$ हैं।\n\nचूँकि अवनमन कोण $45^\\circ$ और $60^\\circ$ हैं, किनारों से एकांतर अंतः उन्नयन कोण भी $45^\\circ$ और $60^\\circ$ होंगे।\n\n$\\Delta APB$ में:\n\n$$\\tan 45^\\circ = \\frac{AP}{BP} \\implies 1 = \\frac{200}{BP} \\implies BP = 200\\text{ मीटर}$$\n\n$\\Delta APC$ में:\n\n$$\\tan 60^\\circ = \\frac{AP}{PC} \\implies \\sqrt{3} = \\frac{200}{PC} \\implies PC = \\frac{200}{\\sqrt{3}} = \\frac{200\\sqrt{3}}{3}\\text{ मीटर}$$\n\nनदी की चौड़ाई $BP + PC$ है:\n\n$$\\text{चौड़ाई} = 200 + \\frac{200(1.732)}{3} = 200 + \\frac{346.4}{3} = 200 + 115.46 = 315.46\\text{ मीटर}$$\n\nनदी की चौड़ाई लगभग **$315.46\\text{ मीटर}$** है।",
+      "keyPoints": [
+        "Width = sum of base of two triangles.",
+        "Calculate using tan 45° and tan 60°.",
+        "Substitute $\\sqrt{3} = 1.732$."
+      ]
+    },
+    {
+      "id": "q23",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Analytical Challenge: The angle of elevation of an aeroplane from a point on the ground is $60^\\circ$. After a flight of 15 seconds horizontally, the angle of elevation changes to $30^\\circ$. If the aeroplane is flying at a constant height of $1500\\sqrt{3}\\text{ m}$, find the speed of the plane in km/hr.",
+      "questionHi": "विश्लेषणात्मक चुनौती: भूमि के एक बिंदु से एक हवाई जहाज का उन्नयन कोण $60^\\circ$ है। 15 सेकंड की क्षैतिज उड़ान के बाद, उन्नयन कोण $30^\\circ$ हो जाता है। यदि हवाई जहाज $1500\\sqrt{3}\\text{ मीटर}$ की निरंतर ऊँचाई पर उड़ रहा है, तो जहाज की गति किमी/घंटा में ज्ञात कीजिए।",
+      "answer": "Let the initial point of the plane be $A$ and the final point after 15 seconds be $B$. The constant height is $h = 1500\\sqrt{3}\\text{ m}$. Let the observer be at point $O$.\n\nLet the horizontal distance for the $60^\\circ$ elevation be $x$:\n\n$$\\tan 60^\\circ = \\frac{1500\\sqrt{3}}{x} \\implies \\sqrt{3} = \\frac{1500\\sqrt{3}}{x} \\implies x = 1500\\text{ m}$$\n\nLet the total horizontal distance for the $30^\\circ$ elevation be $(x + y)$, where $y$ is the distance travelled by the plane in 15 seconds:\n\n$$\\tan 30^\\circ = \\frac{1500\\sqrt{3}}{x + y} \\implies \\frac{1}{\\sqrt{3}} = \\frac{1500\\sqrt{3}}{1500 + y}$$\n\n$$1500 + y = 1500\\sqrt{3} \\times \\sqrt{3} = 4500 \\implies y = 4500 - 1500 = 3000\\text{ m}$$\n\nThe plane travelled $3000\\text{ m}$ in 15 seconds.\n\n$$\\text{Speed (m/s)} = \\frac{3000}{15} = 200\\text{ m/s}$$\n\nTo convert to km/hr, multiply by $\\frac{18}{5}$:\n\n$$\\text{Speed} = 200 \\times \\frac{18}{5} = 40 \\times 18 = 720\\text{ km/hr}$$",
+      "answerHi": "मान लीजिए जहाज का प्रारंभिक बिंदु $A$ है और 15 सेकंड बाद अंतिम बिंदु $B$ है। निरंतर ऊँचाई $h = 1500\\sqrt{3}\\text{ मीटर}$ है। मान लीजिए प्रेक्षक बिंदु $O$ पर है।\n\nमान लीजिए $60^\\circ$ उन्नयन के लिए क्षैतिज दूरी $x$ है:\n\n$$\\tan 60^\\circ = \\frac{1500\\sqrt{3}}{x} \\implies \\sqrt{3} = \\frac{1500\\sqrt{3}}{x} \\implies x = 1500\\text{ मीटर}$$\n\nमान लीजिए $30^\\circ$ उन्नयन के लिए कुल क्षैतिज दूरी $(x + y)$ है, जहाँ $y$, 15 सेकंड में जहाज द्वारा तय की गई दूरी है:\n\n$$\\tan 30^\\circ = \\frac{1500\\sqrt{3}}{x + y} \\implies \\frac{1}{\\sqrt{3}} = \\frac{1500\\sqrt{3}}{1500 + y}$$\n\n$$1500 + y = 1500\\sqrt{3} \\times \\sqrt{3} = 4500 \\implies y = 4500 - 1500 = 3000\\text{ मीटर}$$\n\nजहाज ने 15 सेकंड में $3000\\text{ मीटर}$ की यात्रा की।\n\n$$\\text{गति (मीटर/सेकंड)} = \\frac{3000}{15} = 200\\text{ मीटर/सेकंड}$$\n\nकिमी/घंटा में बदलने के लिए, $\\frac{18}{5}$ से गुणा करें:\n\n$$\\text{गति} = 200 \\times \\frac{18}{5} = 40 \\times 18 = 720\\text{ किमी/घंटा}$$",
+      "keyPoints": [
+        "Find initial horizontal distance x.",
+        "Find total distance x + y, solve for y.",
+        "Speed = y / time, convert to km/hr."
+      ]
+    },
+    {
+      "id": "q24",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "A straight highway leads to the foot of a tower. A man standing at the top of the tower observes a car at an angle of depression of $30^\\circ$, which is approaching the foot of the tower with a uniform speed. Six seconds later, the angle of depression of the car is found to be $60^\\circ$. Find the time taken by the car to reach the foot of the tower from this point.",
+      "questionHi": "एक सीधा राजमार्ग एक मीनार के पाद तक जाता है। मीनार के शिखर पर खड़ा एक आदमी एक कार को $30^\\circ$ के अवनमन कोण पर देखता है, जो एकसमान गति से मीनार के पाद की ओर आ रही है। छह सेकंड बाद, कार का अवनमन कोण $60^\\circ$ हो जाता है। इस बिंदु से मीनार के पाद तक पहुँचने में कार द्वारा लिया गया समय ज्ञात कीजिए।",
+      "answer": "Let the height of the tower be $h$. Let the distance from the foot of the tower to the car at $60^\\circ$ be $x$, and the distance covered by the car in 6 seconds (from $30^\\circ$ to $60^\\circ$) be $y$.\n\nIn the triangle with the $60^\\circ$ angle of elevation:\n\n$$\\tan 60^\\circ = \\frac{h}{x} \\implies h = x\\sqrt{3} \\quad \\text{--- (1)}$$\n\nIn the triangle with the $30^\\circ$ angle of elevation (total base $= x + y$):\n\n$$\\tan 30^\\circ = \\frac{h}{x + y} \\implies \\frac{1}{\\sqrt{3}} = \\frac{x\\sqrt{3}}{x + y}$$\n\n$$x + y = 3x \\implies y = 2x$$\n\nThe distance $y$ is double the remaining distance $x$. Since the car travels distance $y$ ($=2x$) in 6 seconds at a uniform speed, it will take half that time to travel the distance $x$.\n\n$$\\text{Time to cover } x = \\frac{6}{2} = 3\\text{ seconds}$$\n\nThe car will take **3 seconds** to reach the foot of the tower from the second observation point.",
+      "answerHi": "मान लीजिए मीनार की ऊँचाई $h$ है। मान लीजिए मीनार के पाद से $60^\\circ$ पर कार की दूरी $x$ है, और 6 सेकंड ($30^\\circ$ से $60^\\circ$ तक) में कार द्वारा तय की गई दूरी $y$ है।\n\n$60^\\circ$ उन्नयन कोण वाले त्रिभुज में:\n\n$$\\tan 60^\\circ = \\frac{h}{x} \\implies h = x\\sqrt{3} \\quad \\text{--- (1)}$$\n\n$30^\\circ$ उन्नयन कोण वाले त्रिभुज में (कुल आधार $= x + y$):\n\n$$\\tan 30^\\circ = \\frac{h}{x + y} \\implies \\frac{1}{\\sqrt{3}} = \\frac{x\\sqrt{3}}{x + y}$$\n\n$$x + y = 3x \\implies y = 2x$$\n\nदूरी $y$ शेष दूरी $x$ की दोगुनी है। चूँकि कार एकसमान गति से 6 सेकंड में दूरी $y$ ($=2x$) तय करती है, इसलिए दूरी $x$ तय करने में उसे आधा समय लगेगा।\n\n$$x \\text{ तय करने का समय} = \\frac{6}{2} = 3\\text{ सेकंड}$$\n\nकार को दूसरे प्रेक्षण बिंदु से मीनार के पाद तक पहुँचने में **3 सेकंड** का समय लगेगा।",
+      "keyPoints": [
+        "Relate distances x and y.",
+        "y = 2x means time for x is half of time for y."
+      ]
+    }
+  ]
+}
