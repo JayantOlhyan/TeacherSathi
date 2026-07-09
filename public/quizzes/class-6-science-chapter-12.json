@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "What is the massive, glowing ball of hot gas located at the exact center of our solar system?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Moon"
+        },
+        {
+          "id": "B",
+          "text": "The Earth"
+        },
+        {
+          "id": "C",
+          "text": "The Sun"
+        },
+        {
+          "id": "D",
+          "text": "The Milky Way"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "2",
+      "question": "According to modern astronomy, how many recognized planets are there in our solar system?",
+      "options": [
+        {
+          "id": "A",
+          "text": "7"
+        },
+        {
+          "id": "B",
+          "text": "8"
+        },
+        {
+          "id": "C",
+          "text": "9"
+        },
+        {
+          "id": "D",
+          "text": "10"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "3",
+      "question": "Which is the third planet from the Sun, and the only one currently known to support life?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Venus"
+        },
+        {
+          "id": "B",
+          "text": "Mars"
+        },
+        {
+          "id": "C",
+          "text": "Earth"
+        },
+        {
+          "id": "D",
+          "text": "Jupiter"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "4",
+      "question": "What celestial body serves as Earth's one and only natural satellite?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Sun"
+        },
+        {
+          "id": "B",
+          "text": "The Moon"
+        },
+        {
+          "id": "C",
+          "text": "Mars"
+        },
+        {
+          "id": "D",
+          "text": "A passing comet"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "5",
+      "question": "Luminous, massive objects in the night sky that generate and shine with their own intense light are called:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Planets"
+        },
+        {
+          "id": "B",
+          "text": "Asteroids"
+        },
+        {
+          "id": "C",
+          "text": "Moons"
+        },
+        {
+          "id": "D",
+          "text": "Stars"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "D",
+      "explanation": "The correct answer is D."
+    },
+    {
+      "id": "6",
+      "question": "Distinct, recognizable geometric patterns of stars visible in the night sky are scientifically known as:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Galaxies"
+        },
+        {
+          "id": "B",
+          "text": "Constellations"
+        },
+        {
+          "id": "C",
+          "text": "Comets"
+        },
+        {
+          "id": "D",
+          "text": "Solar systems"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "7",
+      "question": "Which neighboring planet is widely known as the \"Red Planet\" due to the iron oxide on its surface?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Jupiter"
+        },
+        {
+          "id": "B",
+          "text": "Mars"
+        },
+        {
+          "id": "C",
+          "text": "Venus"
+        },
+        {
+          "id": "D",
+          "text": "Saturn"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "8",
+      "question": "Which massive gas giant planet is most famous for its extensive, highly visible, and beautiful ring system?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Uranus"
+        },
+        {
+          "id": "B",
+          "text": "Saturn"
+        },
+        {
+          "id": "C",
+          "text": "Neptune"
+        },
+        {
+          "id": "D",
+          "text": "Mercury"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "9",
+      "question": "The vast, spiral galaxy that contains our entire Solar System is called the:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Andromeda Galaxy"
+        },
+        {
+          "id": "B",
+          "text": "Orion Galaxy"
+        },
+        {
+          "id": "C",
+          "text": "Milky Way Galaxy"
+        },
+        {
+          "id": "D",
+          "text": "Triangulum Galaxy"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "10",
+      "question": "What is typically the brightest natural celestial object visible in the night sky after the Moon?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mars"
+        },
+        {
+          "id": "B",
+          "text": "Venus"
+        },
+        {
+          "id": "C",
+          "text": "Sirius"
+        },
+        {
+          "id": "D",
+          "text": "The Pole Star"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "11",
+      "question": "Why is it impossible to see the billions of distant stars during the daytime?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They turn off their nuclear fusion during the day to save energy."
+        },
+        {
+          "id": "B",
+          "text": "They orbit to the other side of the Earth, hiding behind it."
+        },
+        {
+          "id": "C",
+          "text": "The Sun's intense light scatters in the Earth's atmosphere, making the sky far too bright to see the fainter light of other stars."
+        },
+        {
+          "id": "D",
+          "text": "They physically fall out of the sky when the sun rises."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "12",
+      "question": "The North Star (Polaris) is historically incredibly important for human navigation because:",
+      "options": [
+        {
+          "id": "A",
+          "text": "It is by far the brightest, largest star in the entire sky."
+        },
+        {
+          "id": "B",
+          "text": "It wildly changes position every hour, tracking time."
+        },
+        {
+          "id": "C",
+          "text": "It remains almost perfectly stationary in the night sky, always pointing directly towards true North."
+        },
+        {
+          "id": "D",
+          "text": "It glows with a bright red color."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "13",
+      "question": "Which famous, easily identifiable constellation contains the \"Big Dipper\" asterism and helps navigators in locating the Pole Star?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Orion (The Hunter)"
+        },
+        {
+          "id": "B",
+          "text": "Cassiopeia"
+        },
+        {
+          "id": "C",
+          "text": "Ursa Major (The Great Bear)"
+        },
+        {
+          "id": "D",
+          "text": "Scorpius"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "14",
+      "question": "What exactly are \"artificial satellites\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Natural rocks from deep space that get caught in Earth's orbit."
+        },
+        {
+          "id": "B",
+          "text": "Complex, man-made machines deliberately launched into orbit for communication, weather monitoring, and scientific research."
+        },
+        {
+          "id": "C",
+          "text": "Fake, glowing stars painted on a planetarium ceiling."
+        },
+        {
+          "id": "D",
+          "text": "Alien spacecraft observing Earth."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "15",
+      "question": "What are the relatively small, rocky celestial objects that mostly orbit the Sun in a wide belt between Mars and Jupiter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Comets"
+        },
+        {
+          "id": "B",
+          "text": "Stars"
+        },
+        {
+          "id": "C",
+          "text": "Asteroids"
+        },
+        {
+          "id": "D",
+          "text": "Black holes"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "16",
+      "question": "Why is the Hanle observatory in Ladakh considered one of the absolute best places in India for deep-space astronomical observation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because it is located right next to the ocean, reflecting light."
+        },
+        {
+          "id": "B",
+          "text": "Due to its extreme high altitude, incredibly clear skies, dry climate, and almost zero artificial light pollution."
+        },
+        {
+          "id": "C",
+          "text": "Because it has massive stadium lights to help astronomers see."
+        },
+        {
+          "id": "D",
+          "text": "Because it is constantly raining, washing the telescope lenses."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "17",
+      "question": "What astronomical mechanics cause the different visible phases of the Moon (like Full Moon, Half Moon, Crescent) seen from Earth?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dark clouds periodically covering the moon in a set pattern."
+        },
+        {
+          "id": "B",
+          "text": "The Earth's large shadow frequently falling directly on the Moon."
+        },
+        {
+          "id": "C",
+          "text": "The changing relative orbital positions of the Moon, Earth, and Sun, which alters how much of the Moon's sunlit side we can see."
+        },
+        {
+          "id": "D",
+          "text": "The Moon physically inflating and deflating its shape."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "18",
+      "question": "Which is the absolute largest planet in our solar system, known for its Great Red Spot?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Earth"
+        },
+        {
+          "id": "B",
+          "text": "Saturn"
+        },
+        {
+          "id": "C",
+          "text": "Jupiter"
+        },
+        {
+          "id": "D",
+          "text": "Uranus"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "19",
+      "question": "What is the scientific definition of a comet?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A hot, burning star moving rapidly through space."
+        },
+        {
+          "id": "B",
+          "text": "A relatively small, icy body that releases trapped gas and dust, forming a glowing coma and a long tail when its orbit brings it close to the heat of the Sun."
+        },
+        {
+          "id": "C",
+          "text": "A man-made spacecraft returning to Earth."
+        },
+        {
+          "id": "D",
+          "text": "A rocky planet that completely lost its orbit."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "20",
+      "question": "What is the modern environmental issue known as \"light pollution\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pollution in the air caused directly by too much natural sunlight."
+        },
+        {
+          "id": "B",
+          "text": "Excessive, misdirected artificial lighting in urban cities that brightens the night sky, washing out starlight and making it incredibly hard to see celestial bodies."
+        },
+        {
+          "id": "C",
+          "text": "Military lasers pointed at the sky for defense."
+        },
+        {
+          "id": "D",
+          "text": "Dust in the air that naturally glows in the dark."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "21",
+      "question": "Why do the vast majority of stars and constellations appear to slowly move across the sky from east to west over the course of a single night?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because the entire universe is rapidly spinning in a circle around the Earth."
+        },
+        {
+          "id": "B",
+          "text": "Because the Earth itself rotates continuously on its axis from west to east, creating an optical illusion of the sky moving."
+        },
+        {
+          "id": "C",
+          "text": "Because intense solar wind physically blows the stars across the sky."
+        },
+        {
+          "id": "D",
+          "text": "Because the stars are locked in a fast orbit around the Sun."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "22",
+      "question": "If you are hopelessly lost at night in the Northern Hemisphere, how exactly can the Ursa Major constellation save you?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It points directly to the brightest star, Sirius, which is always South."
+        },
+        {
+          "id": "B",
+          "text": "An imaginary straight line drawn upwards through the two outer \"pointer stars\" of the Big Dipper's bowl points directly to Polaris (the North Star), indicating true North."
+        },
+        {
+          "id": "C",
+          "text": "The long handle of the dipper always points exactly East."
+        },
+        {
+          "id": "D",
+          "text": "It is purely mythological and cannot help you navigate at all."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "23",
+      "question": "What is the fundamental, physical difference in composition between the inner (terrestrial) planets and the outer (giant) planets in our solar system?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Inner planets are made entirely of hot gas; outer planets are made of solid rock."
+        },
+        {
+          "id": "B",
+          "text": "Inner planets (Mercury, Venus, Earth, Mars) are relatively small, rocky, and solid; outer planets (Jupiter, Saturn, Uranus, Neptune) are massive gas or ice giants with no solid surface."
+        },
+        {
+          "id": "C",
+          "text": "Inner planets have massive ring systems; outer planets do not."
+        },
+        {
+          "id": "D",
+          "text": "Inner planets are significantly colder than outer planets."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "24",
+      "question": "Regardless of the direction a comet is traveling through space, why does the glowing tail of a comet ALWAYS point directly away from the Sun?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because the icy tail is inherently afraid of extreme heat."
+        },
+        {
+          "id": "B",
+          "text": "Because the intense solar wind and radiation pressure emitted by the Sun physically blow the evaporating gas and dust away from it."
+        },
+        {
+          "id": "C",
+          "text": "Because of the Earth's immense gravitational pull."
+        },
+        {
+          "id": "D",
+          "text": "Because the comet is always moving backward."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "25",
+      "question": "Meteors are commonly and romantically called \"shooting stars.\" Scientifically, what exactly is a meteor?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A distant star that is dying, exploding, and falling to Earth."
+        },
+        {
+          "id": "B",
+          "text": "A small piece of space rock or debris that burns up brightly due to intense atmospheric friction as it enters Earth's atmosphere at high speed."
+        },
+        {
+          "id": "C",
+          "text": "A massive asteroid colliding violently with the Moon."
+        },
+        {
+          "id": "D",
+          "text": "A comet violently losing its tail in deep space."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "26",
+      "question": "Why is the number of visible meteor impact craters on the Moon's surface vastly larger than the number found on Earth's surface, despite being in the same region of space?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Moon's gravity is much stronger, actively attracting more meteors."
+        },
+        {
+          "id": "B",
+          "text": "The Earth possesses a thick atmosphere that burns up most small meteors before they hit the ground, whereas the Moon has virtually no atmosphere to protect it."
+        },
+        {
+          "id": "C",
+          "text": "The Earth moves too fast in its orbit to be hit frequently."
+        },
+        {
+          "id": "D",
+          "text": "Meteors are made of moon rock returning home."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "27",
+      "question": "What massive, observable natural phenomenon links the Moon's gravitational pull directly and visibly to the Earth's oceans?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Catastrophic tsunamis"
+        },
+        {
+          "id": "B",
+          "text": "Global warming and ice melt"
+        },
+        {
+          "id": "C",
+          "text": "Daily tidal cycles (the predictable rising and falling of high and low tides)"
+        },
+        {
+          "id": "D",
+          "text": "Severe ocean acidification"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "28",
+      "question": "How does finding the famous Orion constellation in the winter sky help a stargazer easily locate the star Sirius?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Orion's belt is made of three distinct stars; following an imaginary straight line drawn downwards through this belt points directly to Sirius, the brightest star in the night sky."
+        },
+        {
+          "id": "B",
+          "text": "Sirius is the exact middle star of Orion's belt."
+        },
+        {
+          "id": "C",
+          "text": "Sirius is located exactly 180 degrees opposite to Orion."
+        },
+        {
+          "id": "D",
+          "text": "Orion completely hides Sirius until exactly midnight."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "29",
+      "question": "Venus is often colloquially called the \"morning star\" or \"evening star,\" even though it is a planet. Since it doesn't produce its own light, what makes it shine so intensely brightly?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It generates its own massive nuclear energy in its core."
+        },
+        {
+          "id": "B",
+          "text": "It is completely covered in a highly dense layer of thick clouds (containing sulfuric acid) that act like a mirror, highly reflecting the Sun's light back into space."
+        },
+        {
+          "id": "C",
+          "text": "It has massive, glowing rings of pure ice."
+        },
+        {
+          "id": "D",
+          "text": "Its entire surface is currently on fire."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "30",
+      "question": "Which comprehensive statement accurately and fully describes Earth's physical place in the universe?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Earth is the exact center of the Milky Way galaxy."
+        },
+        {
+          "id": "B",
+          "text": "Earth is the absolute largest planet in a very small galaxy."
+        },
+        {
+          "id": "C",
+          "text": "Earth is the third planet from the Sun, located in the Orion Arm of the Milky Way galaxy, which is just one of billions of galaxies comprising the vast universe."
+        },
+        {
+          "id": "D",
+          "text": "Earth is the only existing planet in the entire known universe."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    }
+  ]
+}
