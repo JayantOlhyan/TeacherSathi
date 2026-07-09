@@ -1,0 +1,308 @@
+{
+  "chapterTitle": "Triangles",
+  "chapterTitleHi": "त्रिभुज",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "State the Basic Proportionality Theorem (BPT) or Thales Theorem.",
+      "questionHi": "आधारभूत समानुपातिकता प्रमेय (BPT) या थेल्स प्रमेय का कथन लिखिए।",
+      "answer": "If a line is drawn parallel to one side of a triangle to intersect the other two sides in distinct points, the other two sides are divided in the same ratio. For $\\Delta ABC$ where $DE \\parallel BC$:\n\n\n$$\\frac{AD}{DB} = \\frac{AE}{EC}$$",
+      "answerHi": "यदि किसी त्रिभुज की एक भुजा के समांतर अन्य दो भुजाओं को भिन्न-भिन्न बिंदुओं पर प्रतिच्छेद करने के लिए एक रेखा खींची जाए, तो ये अन्य दो भुजाएँ एक ही अनुपात में विभाजित हो जाती हैं। $\\Delta ABC$ के लिए जहाँ $DE \\parallel BC$:\n\n\n$$\\frac{AD}{DB} = \\frac{AE}{EC}$$",
+      "keyPoints": [
+        "Line drawn parallel to one side.",
+        "Divides the other two sides in the same ratio."
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What is the fundamental difference between congruent figures and similar figures?",
+      "questionHi": "सर्वांगसम आकृतियों और समरूप आकृतियों के बीच मूलभूत अंतर क्या है?",
+      "answer": "Congruent figures have exactly the **same shape** and the **same size**. Similar figures, on the other hand, have the **same shape** but not necessarily the same size. All congruent figures are similar, but all similar figures are not congruent.",
+      "answerHi": "सर्वांगसम आकृतियों का **आकार (shape)** और **आमाप (size)** बिल्कुल समान होता है। दूसरी ओर, समरूप आकृतियों का **आकार समान** होता है, लेकिन जरूरी नहीं कि उनका आमाप समान हो। सभी सर्वांगसम आकृतियाँ समरूप होती हैं, लेकिन सभी समरूप आकृतियाँ सर्वांगसम नहीं होती हैं।",
+      "keyPoints": [
+        "Congruent = same shape + same size.",
+        "Similar = same shape (not necessarily same size)."
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "State the criteria under which two polygons are said to be similar to each other.",
+      "questionHi": "वे कसौटियाँ बताइए जिनके अंतर्गत दो बहुभुजों को एक दूसरे के समरूप कहा जाता है।",
+      "answer": "Two polygons of the same number of sides are similar if:\n\n1. Their corresponding angles are equal, and\n2. Their corresponding sides are in the same ratio (or proportion).",
+      "answerHi": "समान भुजाओं वाले दो बहुभुज समरूप होते हैं यदि:\n\n1. उनके संगत कोण बराबर हों, और\n2. उनकी संगत भुजाएँ एक ही अनुपात (या समानुपात) में हों।",
+      "keyPoints": [
+        "Corresponding angles must be equal.",
+        "Corresponding sides must be proportional."
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "In $\\Delta ABC$, $DE \\parallel BC$ such that $AD = 1.5\\text{ cm}$, $BD = 3\\text{ cm}$, and $AE = 1\\text{ cm}$. Find the length of $EC$.",
+      "questionHi": "$\\Delta ABC$ में, $DE \\parallel BC$ इस प्रकार है कि $AD = 1.5\\text{ सेमी}$, $BD = 3\\text{ सेमी}$ और $AE = 1\\text{ सेमी}$ है। $EC$ की लंबाई ज्ञात कीजिए।",
+      "answer": "By Basic Proportionality Theorem (BPT):\n\n\n$$\\frac{AD}{DB} = \\frac{AE}{EC} \\implies \\frac{1.5}{3} = \\frac{1}{EC}$$\n\n$$\\frac{1}{2} = \\frac{1}{EC} \\implies EC = 2\\text{ cm}$$",
+      "answerHi": "आधारभूत समानुपातिकता प्रमेय (BPT) द्वारा:\n\n\n$$\\frac{AD}{DB} = \\frac{AE}{EC} \\implies \\frac{1.5}{3} = \\frac{1}{EC}$$\n\n$$\\frac{1}{2} = \\frac{1}{EC} \\implies EC = 2\\text{ सेमी}$$",
+      "keyPoints": [
+        "Use BPT $AD/DB = AE/EC$.",
+        "Substitute values and solve for EC."
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "State the AAA (Angle-Angle-Angle) similarity criterion for two triangles.",
+      "questionHi": "दो त्रिभुजों के लिए AAA (कोण-कोण-कोण) समरूपता कसौटी का कथन लिखिए।",
+      "answer": "If in two triangles, corresponding angles are equal, then their corresponding sides are in the same ratio (or proportion) and hence the two triangles are similar.",
+      "answerHi": "यदि दो त्रिभुजों में, संगत कोण बराबर हों, तो उनकी संगत भुजाएँ एक ही अनुपात (या समानुपात) में होती हैं और इसलिए दोनों त्रिभुज समरूप होते हैं।",
+      "keyPoints": [
+        "Corresponding angles are equal.",
+        "Corresponding sides become proportional."
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "If $\\Delta ABC \\sim \\Delta EDF$ and $\\Delta ABC$ is not similar to $\\Delta DEF$, then which of the following is true: (i) $BC \\cdot EF = AC \\cdot DF$ or (ii) $BC \\cdot DE = AB \\cdot EF$?",
+      "questionHi": "यदि $\\Delta ABC \\sim \\Delta EDF$ और $\\Delta ABC$, $\\Delta DEF$ के समरूप नहीं है, तो निम्नलिखित में से कौन सा सत्य है: (i) $BC \\cdot EF = AC \\cdot DF$ या (ii) $BC \\cdot DE = AB \\cdot EF$?",
+      "answer": "Since $\\Delta ABC \\sim \\Delta EDF$, their corresponding sides are proportional:\n\n\n$$\\frac{AB}{ED} = \\frac{BC}{DF} = \\frac{AC}{EF}$$\n\n\nFrom $\\frac{AB}{ED} = \\frac{AC}{EF} \\implies AB \\cdot EF = AC \\cdot ED$.\n\nFrom $\\frac{BC}{DF} = \\frac{AC}{EF} \\implies BC \\cdot EF = AC \\cdot DF$. Thus, **statement (i) is true**.",
+      "answerHi": "चूँकि $\\Delta ABC \\sim \\Delta EDF$, उनकी संगत भुजाएँ समानुपाती होती हैं:\n\n\n$$\\frac{AB}{ED} = \\frac{BC}{DF} = \\frac{AC}{EF}$$\n\n\n$\\frac{AB}{ED} = \\frac{AC}{EF} \\implies AB \\cdot EF = AC \\cdot ED$ से।\n\n$\\frac{BC}{DF} = \\frac{AC}{EF} \\implies BC \\cdot EF = AC \\cdot DF$ से। इस प्रकार, **कथन (i) सत्य है**।",
+      "keyPoints": [
+        "Identify corresponding sides correctly.",
+        "Set up the proportionality equation and cross-multiply."
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "In $\\Delta ABC$, $D$ and $E$ are points on sides $AB$ and $AC$ respectively such that $\\frac{AD}{DB} = \\frac{AE}{EC}$. What can you conclude about line $DE$? State the theorem.",
+      "questionHi": "$\\Delta ABC$ में, $D$ और $E$ क्रमशः भुजाओं $AB$ और $AC$ पर ऐसे बिंदु हैं कि $\\frac{AD}{DB} = \\frac{AE}{EC}$ है। आप रेखा $DE$ के बारे में क्या निष्कर्ष निकाल सकते हैं? प्रमेय बताइए।",
+      "answer": "According to the **Converse of Basic Proportionality Theorem**, line $DE$ must be strictly parallel to the third side $BC$ ($DE \\parallel BC$). The theorem states that if a line divides any two sides of a triangle in the same ratio, then the line is parallel to the third side.",
+      "answerHi": "**आधारभूत समानुपातिकता प्रमेय के विलोम** के अनुसार, रेखा $DE$ तीसरी भुजा $BC$ के पूर्णतः समांतर होनी चाहिए ($DE \\parallel BC$)। प्रमेय कहता है कि यदि कोई रेखा किसी त्रिभुज की किन्हीं दो भुजाओं को समान अनुपात में विभाजित करती है, तो वह रेखा तीसरी भुजा के समांतर होती है।",
+      "keyPoints": [
+        "Equal ratio implies parallel lines.",
+        "Converse of BPT."
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Write the mathematical statement for the SAS (Side-Angle-Side) similarity criterion.",
+      "questionHi": "SAS (भुजा-कोण-भुजा) समरूपता कसौटी के लिए गणितीय कथन लिखिए।",
+      "answer": "If one angle of a triangle is equal to one angle of the other triangle and the sides including these angles are proportional, then the two triangles are similar.",
+      "answerHi": "यदि एक त्रिभुज का एक कोण दूसरे त्रिभुज के एक कोण के बराबर हो और इन कोणों को अंतर्गत करने वाली भुजाएँ समानुपाती हों, तो दोनों त्रिभुज समरूप होते हैं।",
+      "keyPoints": [
+        "One pair of corresponding angles equal.",
+        "Including sides are proportional."
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "Are all isosceles triangles similar? Give a brief reason.",
+      "questionHi": "क्या सभी समद्विबाहु त्रिभुज समरूप होते हैं? एक संक्षिप्त कारण दीजिए।",
+      "answer": "No, all isosceles triangles are not similar. While they all have two equal sides, their corresponding angles are not necessarily equal. For example, an isosceles triangle with angles $40^\\circ, 70^\\circ, 70^\\circ$ is not similar to an isosceles triangle with angles $90^\\circ, 45^\\circ, 45^\\circ$.",
+      "answerHi": "नहीं, सभी समद्विबाहु त्रिभुज समरूप नहीं होते हैं। यद्यपि उन सभी की दो भुजाएँ बराबर होती हैं, उनके संगत कोणों का बराबर होना आवश्यक नहीं है। उदाहरण के लिए, $40^\\circ, 70^\\circ, 70^\\circ$ कोणों वाला एक समद्विबाहु त्रिभुज $90^\\circ, 45^\\circ, 45^\\circ$ कोणों वाले समद्विबाहु त्रिभुज के समरूप नहीं होता है।",
+      "keyPoints": [
+        "Not all isosceles triangles are similar.",
+        "Angles can differ across different isosceles triangles."
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "If $\\Delta ABC \\sim \\Delta PQR$, with $\\frac{AB}{PQ} = \\frac{1}{3}$, find the ratio of their perimeters.",
+      "questionHi": "यदि $\\Delta ABC \\sim \\Delta PQR$ है, और $\\frac{AB}{PQ} = \\frac{1}{3}$ है, तो उनके परिमापों का अनुपात ज्ञात कीजिए।",
+      "answer": "For similar triangles, the ratio of their perimeters is equal to the ratio of their corresponding sides.\n\n$$\\frac{\\text{Perimeter of } \\Delta ABC}{\\text{Perimeter of } \\Delta PQR} = \\frac{AB}{PQ} = \\frac{1}{3}$$\n\nThe ratio of their perimeters is **$1:3$**.",
+      "answerHi": "समरूप त्रिभुजों के लिए, उनके परिमापों का अनुपात उनकी संगत भुजाओं के अनुपात के बराबर होता है।\n\n$$\\frac{\\Delta ABC \\text{ का परिमाप}}{\\Delta PQR \\text{ का परिमाप}} = \\frac{AB}{PQ} = \\frac{1}{3}$$\n\nउनके परिमापों का अनुपात **$1:3$** है।",
+      "keyPoints": [
+        "Ratio of perimeters = ratio of corresponding sides."
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "In the given figure, $DE \\parallel AC$ and $DF \\parallel AE$. Prove that $\\frac{BF}{FE} = \\frac{BE}{EC}$.",
+      "questionHi": "दी गई आकृति में, $DE \\parallel AC$ और $DF \\parallel AE$ है। सिद्ध कीजिए कि $\\frac{BF}{FE} = \\frac{BE}{EC}$ है।",
+      "answer": "1. In $\\Delta ABE$, since $DF \\parallel AE$, applying the Basic Proportionality Theorem (BPT):\n\n\n$$\\frac{BF}{FE} = \\frac{BD}{DA} \\quad \\text{--- (Equation 1)}$$\n\n\n2. In $\\Delta ABC$, since $DE \\parallel AC$, applying the Basic Proportionality Theorem (BPT):\n\n\n$$\\frac{BE}{EC} = \\frac{BD}{DA} \\quad \\text{--- (Equation 2)}$$\n\n\nComparing Equation 1 and Equation 2, since their right-hand sides are equal ($\\frac{BD}{DA}$), their left-hand sides must be equal:\n\n\n$$\\frac{BF}{FE} = \\frac{BE}{EC}$$\n\n\nHence proved.",
+      "answerHi": "1. $\\Delta ABE$ में, चूँकि $DF \\parallel AE$, आधारभूत समानुपातिकता प्रमेय (BPT) लागू करने पर:\n\n\n$$\\frac{BF}{FE} = \\frac{BD}{DA} \\quad \\text{--- (समीकरण 1)}$$\n\n\n2. $\\Delta ABC$ में, चूँकि $DE \\parallel AC$, आधारभूत समानुपातिकता प्रमेय (BPT) लागू करने पर:\n\n\n$$\\frac{BE}{EC} = \\frac{BD}{DA} \\quad \\text{--- (समीकरण 2)}$$\n\n\nसमीकरण 1 और समीकरण 2 की तुलना करने पर, चूँकि उनके दाहिने पक्ष बराबर हैं ($\\frac{BD}{DA}$), उनके बाएँ पक्ष भी बराबर होने चाहिए:\n\n\n$$\\frac{BF}{FE} = \\frac{BE}{EC}$$\n\n\nइति सिद्धम।",
+      "keyPoints": [
+        "Apply BPT in $\\Delta ABE$.",
+        "Apply BPT in $\\Delta ABC$.",
+        "Equate the two ratios from common RHS."
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Diagonals of a trapezium $ABCD$ with $AB \\parallel DC$ intersect each other at the point $O$. Using a similarity criterion for two triangles, show that $\\frac{OA}{OC} = \\frac{OB}{OD}$.",
+      "questionHi": "एक समलंब (trapezium) $ABCD$ जिसमें $AB \\parallel DC$ है, के विकर्ण परस्पर बिंदु $O$ पर प्रतिच्छेद करते हैं। दो त्रिभुजों की समरूपता कसौटी का उपयोग करते हुए, दर्शाइए कि $\\frac{OA}{OC} = \\frac{OB}{OD}$ है।",
+      "answer": "In triangles $\\Delta AOB$ and $\\Delta COD$:\n\n1. $\\angle AOB = \\angle COD$ (Vertically opposite angles)\n2. $\\angle OAB = \\angle OCD$ (Alternate interior angles, since $AB \\parallel DC$ with transversal $AC$)\n3. $\\angle OBA = \\angle ODC$ (Alternate interior angles, since $AB \\parallel DC$ with transversal $BD$)\n\nBy **AAA similarity criterion**, $\\Delta AOB \\sim \\Delta COD$.\n\nSince corresponding sides of similar triangles are proportional:\n\n\n$$\\frac{OA}{OC} = \\frac{OB}{OD}$$\n\n\nHence proved.",
+      "answerHi": "त्रिभुजों $\\Delta AOB$ और $\\Delta COD$ में:\n\n1. $\\angle AOB = \\angle COD$ (शीर्षाभिमुख कोण)\n2. $\\angle OAB = \\angle OCD$ (एकांतर अंतः कोण, चूँकि तिर्यक रेखा $AC$ के साथ $AB \\parallel DC$)\n3. $\\angle OBA = \\angle ODC$ (एकांतर अंतः कोण, चूँकि तिर्यक रेखा $BD$ के साथ $AB \\parallel DC$)\n\n**AAA समरूपता कसौटी** द्वारा, $\\Delta AOB \\sim \\Delta COD$।\n\nचूँकि समरूप त्रिभुजों की संगत भुजाएँ समानुपाती होती हैं:\n\n\n$$\\frac{OA}{OC} = \\frac{OB}{OD}$$\n\n\nइति सिद्धम।",
+      "keyPoints": [
+        "Identify alternate interior angles and vertically opposite angles.",
+        "Prove $\\Delta AOB \\sim \\Delta COD$ by AAA.",
+        "Take ratio of corresponding sides."
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "A girl of height $90\\text{ cm}$ is walking away from the base of a lamp-post at a speed of $1.2\\text{ m/s}$. If the lamp is $3.6\\text{ m}$ above the ground, find the length of her shadow after 4 seconds.",
+      "questionHi": "$90\\text{ सेमी}$ लंबाई वाली एक लड़की $1.2\\text{ मीटर/सेकंड}$ की चाल से एक लैंप-पोस्ट के आधार से दूर जा रही है। यदि लैंप जमीन से $3.6\\text{ मीटर}$ ऊपर है, तो 4 सेकंड बाद उसकी छाया की लंबाई ज्ञात कीजिए।",
+      "answer": "Let $AB$ be the lamp-post ($3.6\\text{ m}$) and $CD$ be the girl ($90\\text{ cm} = 0.9\\text{ m}$). Let $DE = x$ be her shadow.\n\nDistance covered by the girl in 4 seconds: $BD = \\text{Speed} \\times \\text{Time} = 1.2 \\times 4 = 4.8\\text{ m}$.\n\nTotal base length $BE = BD + DE = 4.8 + x$.\n\nIn $\\Delta ABE$ and $\\Delta CDE$, $\\angle B = \\angle D = 90^\\circ$ and $\\angle E = \\angle E$ (Common). By AA similarity, $\\Delta ABE \\sim \\Delta CDE$.\n\n\n$$\\frac{AB}{CD} = \\frac{BE}{DE} \\implies \\frac{3.6}{0.9} = \\frac{4.8 + x}{x}$$\n\n$$4 = \\frac{4.8 + x}{x} \\implies 4x = 4.8 + x \\implies 3x = 4.8 \\implies x = 1.6\\text{ m}$$\n\nThe length of her shadow after 4 seconds is **$1.6\\text{ m}$**.",
+      "answerHi": "मान लीजिए $AB$ लैंप-पोस्ट ($3.6\\text{ मीटर}$) है और $CD$ लड़की ($90\\text{ सेमी} = 0.9\\text{ मीटर}$) है। मान लीजिए कि उसकी छाया $DE = x$ है।\n\n4 सेकंड में लड़की द्वारा तय की गई दूरी: $BD = \\text{चाल} \\times \\text{समय} = 1.2 \\times 4 = 4.8\\text{ मीटर}$।\n\nकुल आधार लंबाई $BE = BD + DE = 4.8 + x$।\n\n$\\Delta ABE$ और $\\Delta CDE$ में, $\\angle B = \\angle D = 90^\\circ$ और $\\angle E = \\angle E$ (उभयनिष्ठ)। AA समरूपता द्वारा, $\\Delta ABE \\sim \\Delta CDE$।\n\n\n$$\\frac{AB}{CD} = \\frac{BE}{DE} \\implies \\frac{3.6}{0.9} = \\frac{4.8 + x}{x}$$\n\n$$4 = \\frac{4.8 + x}{x} \\implies 4x = 4.8 + x \\implies 3x = 4.8 \\implies x = 1.6\\text{ मीटर}$$\n\n4 सेकंड बाद उसकी छाया की लंबाई **$1.6\\text{ मीटर}$** है।",
+      "keyPoints": [
+        "Calculate distance moved = speed x time.",
+        "Identify similar triangles by AA criterion.",
+        "Set up proportionality relation and solve for x."
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "In a $\\Delta ABC$, $AD$ is the bisector of $\\angle A$, meeting side $BC$ at $D$. If $AB = 10\\text{ cm}$, $AC = 14\\text{ cm}$, and $BC = 6\\text{ cm}$, find $BD$ and $DC$ using similarity tools.",
+      "questionHi": "एक $\\Delta ABC$ में, $AD$ कोण $\\angle A$ का समद्विभाजक है, जो भुजा $BC$ से $D$ पर मिलता है। यदि $AB = 10\\text{ सेमी}$, $AC = 14\\text{ सेमी}$, और $BC = 6\\text{ सेमी}$ है, तो समरूपता विधियों का उपयोग करके $BD$ और $DC$ ज्ञात कीजिए।",
+      "answer": "By the Angle Bisector Theorem (which can be derived using BPT by drawing a line parallel to $AD$ from $C$): the internal bisector of an angle of a triangle divides the opposite side internally in the ratio of the sides containing the angle.\n\n\n$$\\frac{BD}{DC} = \\frac{AB}{AC} = \\frac{10}{14} = \\frac{5}{7}$$\n\n\nLet $BD = 5k$ and $DC = 7k$. Given $BC = BD + DC = 6\\text{ cm}$:\n\n\n$$5k + 7k = 6 \\implies 12k = 6 \\implies k = 0.5$$\n\n* $BD = 5(0.5) = 2.5\\text{ cm}$\n* $DC = 7(0.5) = 3.5\\text{ cm}$",
+      "answerHi": "कोण समद्विभाजक प्रमेय (Angle Bisector Theorem) द्वारा (जिसे $C$ से $AD$ के समांतर एक रेखा खींचकर BPT का उपयोग करके प्राप्त किया जा सकता है): त्रिभुज के किसी कोण का आंतरिक समद्विभाजक विपरीत भुजा को आंतरिक रूप से उन भुजाओं के अनुपात में विभाजित करता है जिनमें कोण शामिल है।\n\n\n$$\\frac{BD}{DC} = \\frac{AB}{AC} = \\frac{10}{14} = \\frac{5}{7}$$\n\n\nमान लीजिए $BD = 5k$ और $DC = 7k$। दिया गया है $BC = BD + DC = 6\\text{ सेमी}$:\n\n\n$$5k + 7k = 6 \\implies 12k = 6 \\implies k = 0.5$$\n\n* $BD = 5(0.5) = 2.5\\text{ सेमी}$\n* $DC = 7(0.5) = 3.5\\text{ सेमी}$",
+      "keyPoints": [
+        "Angle Bisector Theorem: $BD/DC = AB/AC$.",
+        "Set up ratio equations with total length."
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "$S$ and $T$ are points on sides $PR$ and $QR$ of $\\Delta PQR$ such that $\\angle P = \\angle RTS$. Show that $\\Delta RPQ \\sim \\Delta RTS$.",
+      "questionHi": "$\\Delta PQR$ की भुजाओं $PR$ और $QR$ पर क्रमशः बिंदु $S$ और $T$ इस प्रकार स्थित हैं कि $\\angle P = \\angle RTS$ है। दर्शाइए कि $\\Delta RPQ \\sim \\Delta RTS$ है।",
+      "answer": "Let us compare the two target triangles $\\Delta RPQ$ and $\\Delta RTS$:\n\n1. $\\angle RPQ = \\angle RTS$ (Given explicitly in the question problem statement)\n2. $\\angle PRQ = \\angle SRT$ (This is the exact same common angle $\\angle R$ shared by both triangles)\n\nSince two corresponding angles are equal, by the **AA (Angle-Angle) similarity criterion**, we conclusively establish that:\n\n\n$$\\Delta RPQ \\sim \\Delta RTS$$\n\n\nHence proved.",
+      "answerHi": "आइए दो लक्ष्य त्रिभुजों $\\Delta RPQ$ और $\\Delta RTS$ की तुलना करें:\n\n1. $\\angle RPQ = \\angle RTS$ (प्रश्न में स्पष्ट रूप से दिया गया है)\n2. $\\angle PRQ = \\angle SRT$ (यह बिल्कुल समान उभयनिष्ठ कोण $\\angle R$ है जो दोनों त्रिभुजों में है)\n\nचूँकि दो संगत कोण बराबर हैं, **AA (कोण-कोण) समरूपता कसौटी** द्वारा, हम निश्चित रूप से यह स्थापित करते हैं कि:\n\n\n$$\\Delta RPQ \\sim \\Delta RTS$$\n\n\nइति सिद्धम।",
+      "keyPoints": [
+        "Identify given equal angles.",
+        "Identify common angle.",
+        "Use AA similarity."
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "CM and RN are respectively the medians of $\\Delta ABC$ and $\\Delta PQR$. If $\\Delta ABC \\sim \\Delta PQR$, prove that $\\Delta AMC \\sim \\Delta PNR$.",
+      "questionHi": "CM और RN क्रमशः $\\Delta ABC$ और $\\Delta PQR$ की माध्यिकाएँ (medians) हैं। यदि $\\Delta ABC \\sim \\Delta PQR$ है, तो सिद्ध कीजिए कि $\\Delta AMC \\sim \\Delta PNR$ है।",
+      "answer": "Since $\\Delta ABC \\sim \\Delta PQR$, we have $\\frac{AB}{PQ} = \\frac{AC}{PR}$ and $\\angle A = \\angle P$.\n\nSince $M$ and $N$ are midpoints of $AB$ and $PQ$ (as $CM, RN$ are medians), $AB = 2AM$ and $PQ = 2PN$.\n\n$$\\frac{2AM}{2PN} = \\frac{AC}{PR} \\implies \\frac{AM}{PN} = \\frac{AC}{PR}$$\n\nNow, in $\\Delta AMC$ and $\\Delta PNR$:\n\n$\\frac{AM}{PN} = \\frac{AC}{PR}$ and $\\angle A = \\angle P$.\n\nTherefore, by **SAS similarity criterion**, $\\Delta AMC \\sim \\Delta PNR$.",
+      "answerHi": "चूँकि $\\Delta ABC \\sim \\Delta PQR$ है, हमारे पास $\\frac{AB}{PQ} = \\frac{AC}{PR}$ और $\\angle A = \\angle P$ है।\n\nचूँकि $M$ और $N$ क्रमशः $AB$ और $PQ$ के मध्य-बिंदु हैं (क्योंकि $CM, RN$ माध्यिकाएँ हैं), $AB = 2AM$ और $PQ = 2PN$ है।\n\n$$\\frac{2AM}{2PN} = \\frac{AC}{PR} \\implies \\frac{AM}{PN} = \\frac{AC}{PR}$$\n\nअब, $\\Delta AMC$ और $\\Delta PNR$ में:\n\n$\\frac{AM}{PN} = \\frac{AC}{PR}$ और $\\angle A = \\angle P$ है।\n\nइसलिए, **SAS समरूपता कसौटी** द्वारा, $\\Delta AMC \\sim \\Delta PNR$ है।",
+      "keyPoints": [
+        "Use properties of similar triangles.",
+        "Use median property (halving sides).",
+        "Prove SAS similarity."
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "If a line intersects sides $AB$ and $AC$ of a $\\Delta ABC$ at $D$ and $E$ respectively and is parallel to $BC$, prove that $\\frac{AD}{AB} = \\frac{AE}{AC}$.",
+      "questionHi": "यदि कोई रेखा एक $\\Delta ABC$ की भुजाओं $AB$ और $AC$ को क्रमशः $D$ और $E$ पर प्रतिच्छेद करे और भुजा $BC$ के समांतर हो, तो सिद्ध कीजिए कि $\\frac{AD}{AB} = \\frac{AE}{AC}$ होगा।",
+      "answer": "Given $DE \\parallel BC$. By Basic Proportionality Theorem (BPT):\n\n\n$$\\frac{DB}{AD} = \\frac{EC}{AE}$$\n\n\nAdd 1 to both sides of the equation:\n\n\n$$\\frac{DB}{AD} + 1 = \\frac{EC}{AE} + 1 \\implies \\frac{DB + AD}{AD} = \\frac{EC + AE}{AE}$$\n\n$$\\frac{AB}{AD} = \\frac{AC}{AE}$$\n\n\nTaking the reciprocal of both sides gives the desired relation:\n\n\n$$\\frac{AD}{AB} = \\frac{AE}{AC}$$\n\n\nHence proved.",
+      "answerHi": "दिया गया है $DE \\parallel BC$। आधारभूत समानुपातिकता प्रमेय (BPT) द्वारा:\n\n\n$$\\frac{DB}{AD} = \\frac{EC}{AE}$$\n\n\nसमीकरण के दोनों पक्षों में 1 जोड़ने पर:\n\n\n$$\\frac{DB}{AD} + 1 = \\frac{EC}{AE} + 1 \\implies \\frac{DB + AD}{AD} = \\frac{EC + AE}{AE}$$\n\n$$\\frac{AB}{AD} = \\frac{AC}{AE}$$\n\n\nदोनों पक्षों का व्युत्क्रम (reciprocal) लेने पर वांछित संबंध प्राप्त होता है:\n\n\n$$\\frac{AD}{AB} = \\frac{AE}{AC}$$\n\n\nइति सिद्धम।",
+      "keyPoints": [
+        "Apply BPT.",
+        "Take reciprocal and add 1 to both sides."
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "State and prove the Basic Proportionality Theorem (Thales Theorem).",
+      "questionHi": "आधारभूत समानुपातिकता प्रमेय (थेल्स प्रमेय) का कथन दीजिए और इसे सिद्ध कीजिए।",
+      "answer": "**Statement:** If a line is drawn parallel to one side of a triangle to intersect the other two sides in distinct points, the other two sides are divided in the same ratio.\n\n**Given:** A triangle $ABC$ in which a line $DE$ parallel to $BC$ intersects $AB$ at $D$ and $AC$ at $E$.\n\n**To Prove:** $\\frac{AD}{DB} = \\frac{AE}{EC}$.\n\n**Construction:** Join $BE$ and $CD$. Draw $DM \\perp AC$ and $EN \\perp AB$.\n\n**Proof:** \n\n$$\\text{Area of } \\Delta ADE = \\frac{1}{2} \\times \\text{base} \\times \\text{height} = \\frac{1}{2} \\times AD \\times EN$$\n\n$$\\text{Area of } \\Delta BDE = \\frac{1}{2} \\times BD \\times EN$$\n\n$$\\frac{\\text{Area}(\\Delta ADE)}{\\text{Area}(\\Delta BDE)} = \\frac{\\frac{1}{2} \\times AD \\times EN}{\\frac{1}{2} \\times BD \\times EN} = \\frac{AD}{BD} \\quad \\text{--- (1)}$$\n\nSimilarly, tracking the other side heights with base $AE$ and $EC$:\n\n\n$$\\frac{\\text{Area}(\\Delta ADE)}{\\text{Area}(\\Delta DEC)} = \\frac{\\frac{1}{2} \\times AE \\times DM}{\\frac{1}{2} \\times EC \\times DM} = \\frac{AE}{EC} \\quad \\text{--- (2)}$$\n\nNote that $\\Delta BDE$ and $\\Delta DEC$ are on the same base $DE$ and between the same parallel lines $DE$ and $BC$.\n\n$$\\text{Therefore, Area}(\\Delta BDE) = \\text{Area}(\\Delta DEC) \\quad \\text{--- (3)}$$\n\n\nFrom equations (1), (2), and (3), the left-hand ratios are completely identical. Therefore:\n\n\n$$\\frac{AD}{DB} = \\frac{AE}{EC}$$\n\n\nHence proved.",
+      "answerHi": "**कथन:** यदि किसी त्रिभुज की एक भुजा के समांतर अन्य दो भुजाओं को भिन्न-भिन्न बिंदुओं पर प्रतिच्छेद करने के लिए एक रेखा खींची जाए, तो ये अन्य दो भुजाएँ एक ही अनुपात में विभाजित हो जाती हैं।\n\n**दिया गया है:** एक त्रिभुज $ABC$ जिसमें $BC$ के समांतर एक रेखा $DE$, $AB$ को $D$ पर और $AC$ को $E$ पर प्रतिच्छेद करती है।\n\n**सिद्ध करना है:** $\\frac{AD}{DB} = \\frac{AE}{EC}$।\n\n**रचना:** $BE$ और $CD$ को मिलाएँ। $DM \\perp AC$ और $EN \\perp AB$ खींचें।\n\n**प्रमाण:** \n\n$$\\Delta ADE \\text{ का क्षेत्रफल} = \\frac{1}{2} \\times \\text{आधार} \\times \\text{ऊँचाई} = \\frac{1}{2} \\times AD \\times EN$$\n\n$$\\Delta BDE \\text{ का क्षेत्रफल} = \\frac{1}{2} \\times BD \\times EN$$\n\n$$\\frac{\\text{क्षेत्रफल}(\\Delta ADE)}{\\text{क्षेत्रफल}(\\Delta BDE)} = \\frac{\\frac{1}{2} \\times AD \\times EN}{\\frac{1}{2} \\times BD \\times EN} = \\frac{AD}{BD} \\quad \\text{--- (1)}$$\n\nइसी प्रकार, आधार $AE$ और $EC$ के साथ दूसरी तरफ की ऊँचाइयों को ट्रैक करते हुए:\n\n\n$$\\frac{\\text{क्षेत्रफल}(\\Delta ADE)}{\\text{क्षेत्रफल}(\\Delta DEC)} = \\frac{\\frac{1}{2} \\times AE \\times DM}{\\frac{1}{2} \\times EC \\times DM} = \\frac{AE}{EC} \\quad \\text{--- (2)}$$\n\nध्यान दें कि $\\Delta BDE$ और $\\Delta DEC$ समान आधार $DE$ पर और समान समांतर रेखाओं $DE$ और $BC$ के बीच स्थित हैं।\n\n$$\\text{इसलिए, क्षेत्रफल}(\\Delta BDE) = \\text{क्षेत्रफल}(\\Delta DEC) \\quad \\text{--- (3)}$$\n\n\nसमीकरण (1), (2), और (3) से, बाएँ हाथ के अनुपात पूरी तरह से समान हैं। इसलिए:\n\n\n$$\\frac{AD}{DB} = \\frac{AE}{EC}$$\n\n\nइति सिद्धम।",
+      "keyPoints": [
+        "Construct perpendiculars and join base points.",
+        "Find area ratios of corresponding triangles.",
+        "Equate areas using same base and parallels."
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "Competency-Based Question: A vertical pole of length $6\\text{ m}$ casts a shadow $4\\text{ m}$ long on the ground and at the same time a tower casts a shadow $28\\text{ m}$ long. Find the height of the tower using similarity rules and explain why the angles of elevation of the sun are considered equal.",
+      "questionHi": "योग्यता-आधारित प्रश्न: लंबाई $6\\text{ मीटर}$ वाले एक ऊर्ध्वाधर स्तंभ की भूमि पर छाया की लंबाई $4\\text{ मीटर}$ है, जबकि उसी समय एक मीनार की छाया की लंबाई $28\\text{ मीटर}$ है। समरूपता के नियमों का उपयोग करके मीनार की ऊँचाई ज्ञात कीजिए और स्पष्ट कीजिए कि सूर्य के उन्नयन कोण समान क्यों माने जाते हैं।",
+      "answer": "Let $AB$ be the vertical pole ($6\\text{ m}$) and $BC$ be its shadow ($4\\text{ m}$). Let $PQ$ be the vertical tower (height $h$) and $QR$ be its long shadow ($28\\text{ m}$). \n\nIn $\\Delta ABC$ and $\\Delta PQR$:\n\n1. $\\angle B = \\angle Q = 90^\\circ$ (Both structures stand vertically straight on the flat ground level).\n2. $\\angle C = \\angle R$ (Sun's angle of elevation). Since both shadows are measured \"at the same time\", the sun rays hit the earth at the exact same inclination angle relative to the flat horizon.\n\nTherefore, by **AA similarity criterion**, $\\Delta ABC \\sim \\Delta PQR$.\n\nSince corresponding sides of similar triangles are in identical mathematical proportion:\n\n\n$$\\frac{AB}{PQ} = \\frac{BC}{QR} \\implies \\frac{6}{h} = \\frac{4}{28}$$\n\n$$\\frac{6}{h} = \\frac{1}{7} \\implies h = 6 \\times 7 = 42\\text{ m}$$\n\n\nThe total vertical height of the tower is **$42\\text{ m}$**.",
+      "answerHi": "मान लीजिए $AB$ ऊर्ध्वाधर स्तंभ ($6\\text{ मीटर}$) है और $BC$ इसकी छाया ($4\\text{ मीटर}$) है। मान लीजिए $PQ$ ऊर्ध्वाधर मीनार (ऊँचाई $h$) है और $QR$ इसकी लंबी छाया ($28\\text{ मीटर}$) है।\n\n$\\Delta ABC$ और $\\Delta PQR$ में:\n\n1. $\\angle B = \\angle Q = 90^\\circ$ (दोनों संरचनाएँ समतल जमीनी स्तर पर लंबवत सीधी खड़ी हैं)।\n2. $\\angle C = \\angle R$ (सूर्य का उन्नयन कोण)। चूँकि दोनों छायाओं को \"एक ही समय\" पर मापा जाता है, इसलिए सूर्य की किरणें समतल क्षितिज के सापेक्ष बिल्कुल समान झुकाव कोण पर पृथ्वी से टकराती हैं।\n\nइसलिए, **AA समरूपता कसौटी** द्वारा, $\\Delta ABC \\sim \\Delta PQR$ है।\n\nचूँकि समरूप त्रिभुजों की संगत भुजाएँ समान गणितीय अनुपात में होती हैं:\n\n\n$$\\frac{AB}{PQ} = \\frac{BC}{QR} \\implies \\frac{6}{h} = \\frac{4}{28}$$\n\n$$\\frac{6}{h} = \\frac{1}{7} \\implies h = 6 \\times 7 = 42\\text{ मीटर}$$\n\n\nमीनार की कुल ऊर्ध्वाधर ऊँचाई **$42\\text{ मीटर}$** है।",
+      "keyPoints": [
+        "Sun's elevation is same at the same time.",
+        "Prove AA similarity.",
+        "Equate side ratios to find height."
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Diagonals of a quadrilateral $ABCD$ intersect each other at the point $O$ such that $\\frac{AO}{BO} = \\frac{CO}{DO}$. Prove that $ABCD$ is a trapezium.",
+      "questionHi": "एक चतुर्भुज $ABCD$ के विकर्ण परस्पर बिंदु $O$ पर इस प्रकार प्रतिच्छेद करते हैं कि $\\frac{AO}{BO} = \\frac{CO}{DO}$ है। दर्शाइए कि $ABCD$ एक समलंब (trapezium) है।",
+      "answer": "**Given:** A quadrilateral $ABCD$ whose diagonals $AC$ and $BD$ cut at $O$ such that $\\frac{AO}{BO} = \\frac{CO}{DO}$, which can be rewritten as $\\frac{AO}{CO} = \\frac{BO}{DO}$.\n\n**To Prove:** $ABCD$ is a trapezium (i.e., $AB \\parallel DC$).\n\n**Construction:** Draw a line segment $OE \\parallel AB$ through point $O$, meeting side $AD$ at point $E$.\n\n**Proof:** In $\\Delta ABD$, since $OE \\parallel AB$, by Basic Proportionality Theorem (BPT):\n\n\n$$\\frac{AE}{ED} = \\frac{BO}{DO} \\quad \\text{--- (1)}$$\n\n\nHowever, we are already given the mathematical ratio condition in the problem:\n\n\n$$\\frac{AO}{CO} = \\frac{BO}{DO} \\quad \\text{--- (2)}$$\n\n\nComparing equations (1) and (2), we get:\n\n\n$$\\frac{AE}{ED} = \\frac{AO}{CO}$$\n\n\nIn $\\Delta ADC$, the line segment $OE$ divides sides $AD$ and $AC$ in the exact same proportion. Therefore, by the **Converse of Basic Proportionality Theorem**:\n\n\n$$OE \\parallel DC$$\n\n\nSince we constructed $OE \\parallel AB$ and proved $OE \\parallel DC$, it follows that $AB \\parallel DC$.\n\nA quadrilateral with one pair of opposite parallel sides is a trapezium. Thus, $ABCD$ is a trapezium. Hence proved.",
+      "answerHi": "**दिया गया है:** एक चतुर्भुज $ABCD$ जिसके विकर्ण $AC$ और $BD$, $O$ पर इस प्रकार प्रतिच्छेद करते हैं कि $\\frac{AO}{BO} = \\frac{CO}{DO}$ है, जिसे $\\frac{AO}{CO} = \\frac{BO}{DO}$ के रूप में फिर से लिखा जा सकता है।\n\n**सिद्ध करना है:** $ABCD$ एक समलंब है (अर्थात्, $AB \\parallel DC$)।\n\n**रचना:** बिंदु $O$ से होकर एक रेखाखंड $OE \\parallel AB$ खींचें, जो भुजा $AD$ को बिंदु $E$ पर मिलता है।\n\n**प्रमाण:** $\\Delta ABD$ में, चूँकि $OE \\parallel AB$ है, आधारभूत समानुपातिकता प्रमेय (BPT) द्वारा:\n\n\n$$\\frac{AE}{ED} = \\frac{BO}{DO} \\quad \\text{--- (1)}$$\n\n\nहालाँकि, हमें पहले से ही समस्या में गणितीय अनुपात स्थिति दी गई है:\n\n\n$$\\frac{AO}{CO} = \\frac{BO}{DO} \\quad \\text{--- (2)}$$\n\n\nसमीकरण (1) और (2) की तुलना करने पर, हमें प्राप्त होता है:\n\n\n$$\\frac{AE}{ED} = \\frac{AO}{CO}$$\n\n\n$\\Delta ADC$ में, रेखाखंड $OE$ भुजाओं $AD$ और $AC$ को बिल्कुल समान अनुपात में विभाजित करता है। इसलिए, **आधारभूत समानुपातिकता प्रमेय के विलोम** द्वारा:\n\n\n$$OE \\parallel DC$$\n\n\nचूँकि हमने $OE \\parallel AB$ की रचना की और $OE \\parallel DC$ सिद्ध किया, यह इस प्रकार है कि $AB \\parallel DC$ है।\n\nएक चतुर्भुज जिसमें सम्मुख समांतर भुजाओं का एक युग्म हो, समलंब होता है। इस प्रकार, $ABCD$ एक समलंब है। इति सिद्धम।",
+      "keyPoints": [
+        "Construct line parallel to one base.",
+        "Use BPT and Converse of BPT.",
+        "Show both bases are parallel to constructed line."
+      ]
+    },
+    {
+      "id": "q21",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "In the given figure, $\\frac{QR}{QS} = \\frac{QT}{PR}$ and $\\angle 1 = \\angle 2$. Show that $\\Delta PQS \\sim \\Delta TQR$.",
+      "questionHi": "दी गई आकृति में, $\\frac{QR}{QS} = \\frac{QT}{PR}$ और $\\angle 1 = \\angle 2$ है। दर्शाइए कि $\\Delta PQS \\sim \\Delta TQR$ है।",
+      "answer": "**Given:** $\\frac{QR}{QS} = \\frac{QT}{PR}$ and $\\angle 1 = \\angle 2$ (where $\\angle 1 = \\angle PQR$ and $\\angle 2 = \\angle PRQ$).\n\nIn $\\Delta PQR$, since $\\angle 1 = \\angle 2$, the sides opposite to equal angles must be equal:\n\n$$PR = PQ \\quad \\text{--- (1)}$$\n\nNow, we look at the given ratio equation:\n\n$$\\frac{QR}{QS} = \\frac{QT}{PR}$$\n\nSubstitute $PR = PQ$ from equation (1) into the ratio equation:\n\n$$\\frac{QR}{QS} = \\frac{QT}{PQ} \\implies \\frac{PQ}{QS} = \\frac{QT}{QR} \\quad \\text{--- (2)}$$\n\nNow, let us compare triangles $\\Delta PQS$ and $\\Delta TQR$:\n\n1. $\\frac{PQ}{QS} = \\frac{QT}{QR}$ (Proved in equation 2)\n2. $\\angle Q = \\angle Q$ (The exact same common angle $\\angle 1$ included between those matching sides)\n\nTherefore, by the **SAS (Side-Angle-Side) similarity criterion**, the triangles match in proportion:\n\n$$\\Delta PQS \\sim \\Delta TQR$$\n\nHence proved.",
+      "answerHi": "**दिया गया है:** $\\frac{QR}{QS} = \\frac{QT}{PR}$ और $\\angle 1 = \\angle 2$ (जहाँ $\\angle 1 = \\angle PQR$ और $\\angle 2 = \\angle PRQ$)।\n\n$\\Delta PQR$ में, चूँकि $\\angle 1 = \\angle 2$ है, समान कोणों के सम्मुख भुजाएँ बराबर होनी चाहिए:\n\n$$PR = PQ \\quad \\text{--- (1)}$$\n\nअब, हम दिए गए अनुपात समीकरण को देखते हैं:\n\n$$\\frac{QR}{QS} = \\frac{QT}{PR}$$\n\nसमीकरण (1) से $PR = PQ$ को अनुपात समीकरण में प्रतिस्थापित करें:\n\n$$\\frac{QR}{QS} = \\frac{QT}{PQ} \\implies \\frac{PQ}{QS} = \\frac{QT}{QR} \\quad \\text{--- (2)}$$\n\nअब, आइए त्रिभुजों $\\Delta PQS$ और $\\Delta TQR$ की तुलना करें:\n\n1. $\\frac{PQ}{QS} = \\frac{QT}{QR}$ (समीकरण 2 में सिद्ध हुआ)\n2. $\\angle Q = \\angle Q$ (उन मिलान वाली भुजाओं के बीच बिल्कुल समान उभयनिष्ठ कोण $\\angle 1$ शामिल है)\n\nइसलिए, **SAS (भुजा-कोण-भुजा) समरूपता कसौटी** द्वारा, त्रिभुज समानुपात में मेल खाते हैं:\n\n$$\\Delta PQS \\sim \\Delta TQR$$\n\nइति सिद्धम।",
+      "keyPoints": [
+        "Equal angles imply equal opposite sides ($PQ=PR$).",
+        "Substitute in given ratio.",
+        "Apply SAS similarity."
+      ]
+    }
+  ]
+}
