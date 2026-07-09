@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "What is the primary driving force behind all scientific discoveries?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Reading textbooks"
+        },
+        {
+          "id": "B",
+          "text": "Human curiosity"
+        },
+        {
+          "id": "C",
+          "text": "Sleeping"
+        },
+        {
+          "id": "D",
+          "text": "Writing poetry"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "2",
+      "question": "Which planet in our solar system is known to sustain life and ecosystems?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Venus"
+        },
+        {
+          "id": "B",
+          "text": "Mars"
+        },
+        {
+          "id": "C",
+          "text": "Earth"
+        },
+        {
+          "id": "D",
+          "text": "Jupiter"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "3",
+      "question": "What term describes a community of living and non-living things interacting together?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Galaxy"
+        },
+        {
+          "id": "B",
+          "text": "Ecosystem"
+        },
+        {
+          "id": "C",
+          "text": "Laboratory"
+        },
+        {
+          "id": "D",
+          "text": "Kingdom"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "4",
+      "question": "Which of the following is a food source obtained directly from animals?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Spinach"
+        },
+        {
+          "id": "B",
+          "text": "Wheat"
+        },
+        {
+          "id": "C",
+          "text": "Milk"
+        },
+        {
+          "id": "D",
+          "text": "Apples"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "5",
+      "question": "What is the solid state of water called?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Vapour"
+        },
+        {
+          "id": "B",
+          "text": "Steam"
+        },
+        {
+          "id": "C",
+          "text": "Rain"
+        },
+        {
+          "id": "D",
+          "text": "Ice"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "D",
+      "explanation": "The correct answer is D."
+    },
+    {
+      "id": "6",
+      "question": "What provides living organisms with the energy required to do work and grow?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Soil"
+        },
+        {
+          "id": "B",
+          "text": "Stones"
+        },
+        {
+          "id": "C",
+          "text": "Food"
+        },
+        {
+          "id": "D",
+          "text": "Wood"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "7",
+      "question": "What do we call a professional who studies science and gathers information?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Teacher"
+        },
+        {
+          "id": "B",
+          "text": "Scientist"
+        },
+        {
+          "id": "C",
+          "text": "Pilot"
+        },
+        {
+          "id": "D",
+          "text": "Doctor"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "8",
+      "question": "Which of these represents the first step in the scientific method?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Making an observation"
+        },
+        {
+          "id": "B",
+          "text": "Doing an experiment"
+        },
+        {
+          "id": "C",
+          "text": "Drawing a conclusion"
+        },
+        {
+          "id": "D",
+          "text": "Writing a book"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "9",
+      "question": "How many states does water commonly exist in on Earth?",
+      "options": [
+        {
+          "id": "A",
+          "text": "One"
+        },
+        {
+          "id": "B",
+          "text": "Two"
+        },
+        {
+          "id": "C",
+          "text": "Three"
+        },
+        {
+          "id": "D",
+          "text": "Four"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "10",
+      "question": "What is an educated guess in the scientific method called?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Observation"
+        },
+        {
+          "id": "B",
+          "text": "Hypothesis"
+        },
+        {
+          "id": "C",
+          "text": "Question"
+        },
+        {
+          "id": "D",
+          "text": "Conclusion"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "11",
+      "question": "Which step comes immediately after making an observation in the scientific method?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Testing it"
+        },
+        {
+          "id": "B",
+          "text": "Formulating a question"
+        },
+        {
+          "id": "C",
+          "text": "Telling a friend"
+        },
+        {
+          "id": "D",
+          "text": "Making a graph"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "12",
+      "question": "What does a seed fundamentally require from the environment to germinate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only sunlight"
+        },
+        {
+          "id": "B",
+          "text": "Only soil"
+        },
+        {
+          "id": "C",
+          "text": "Water, sunlight, and nutrients"
+        },
+        {
+          "id": "D",
+          "text": "Darkness and cold air"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "13",
+      "question": "The drastic physical transformation of a caterpillar into a butterfly is an example of what?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Metamorphosis"
+        },
+        {
+          "id": "B",
+          "text": "Evaporation"
+        },
+        {
+          "id": "C",
+          "text": "Germination"
+        },
+        {
+          "id": "D",
+          "text": "Photosynthesis"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "14",
+      "question": "Why do stars shine in the night sky?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They reflect Earth's light"
+        },
+        {
+          "id": "B",
+          "text": "Due to intense internal reactions"
+        },
+        {
+          "id": "C",
+          "text": "They are made of fireflies"
+        },
+        {
+          "id": "D",
+          "text": "The moon lights them"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "15",
+      "question": "During an experiment, why is it vital to use controls?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To make it fun"
+        },
+        {
+          "id": "B",
+          "text": "To ensure fair testing by keeping certain things constant"
+        },
+        {
+          "id": "C",
+          "text": "To change all variables at once"
+        },
+        {
+          "id": "D",
+          "text": "To finish faster"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "16",
+      "question": "Which of these is a plant-based food source?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Honey"
+        },
+        {
+          "id": "B",
+          "text": "Eggs"
+        },
+        {
+          "id": "C",
+          "text": "Pulses"
+        },
+        {
+          "id": "D",
+          "text": "Paneer"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "17",
+      "question": "What happens to liquid water when it is heated to its boiling point?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It freezes"
+        },
+        {
+          "id": "B",
+          "text": "It turns into steam (vapour)"
+        },
+        {
+          "id": "C",
+          "text": "It turns red"
+        },
+        {
+          "id": "D",
+          "text": "It solidifies"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "18",
+      "question": "Seeing a wet floor and assuming someone spilled water is an example of what?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Observation"
+        },
+        {
+          "id": "B",
+          "text": "Inference"
+        },
+        {
+          "id": "C",
+          "text": "Measurement"
+        },
+        {
+          "id": "D",
+          "text": "Experimentation"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "19",
+      "question": "Why is water considered essential for the human body?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It makes up our bones"
+        },
+        {
+          "id": "B",
+          "text": "It transports nutrients and cools the body"
+        },
+        {
+          "id": "C",
+          "text": "It gives us vitamins"
+        },
+        {
+          "id": "D",
+          "text": "It provides carbohydrates"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "20",
+      "question": "What is the correct sequence of the silkworm life cycle?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Egg → Pupa → Larva → Adult"
+        },
+        {
+          "id": "B",
+          "text": "Adult → Pupa → Egg → Larva"
+        },
+        {
+          "id": "C",
+          "text": "Egg → Larva → Pupa → Adult"
+        },
+        {
+          "id": "D",
+          "text": "Larva → Egg → Adult → Pupa"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "21",
+      "question": "If a pen stops writing, what is the most logical first hypothesis to test?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The paper is too soft"
+        },
+        {
+          "id": "B",
+          "text": "The pen is out of ink"
+        },
+        {
+          "id": "C",
+          "text": "The room is too dark"
+        },
+        {
+          "id": "D",
+          "text": "Gravity has stopped"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "22",
+      "question": "How does science explain the specific timing of flowers blooming?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Plants have internal mechanical clocks"
+        },
+        {
+          "id": "B",
+          "text": "Plants react to environmental light and temperature changes"
+        },
+        {
+          "id": "C",
+          "text": "Insects tell them to open"
+        },
+        {
+          "id": "D",
+          "text": "Wind blows petals open"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "23",
+      "question": "Which statement best differentiates an observation from an inference?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both are the same"
+        },
+        {
+          "id": "B",
+          "text": "Observation is directly sensing; inference is drawing a conclusion based on observations"
+        },
+        {
+          "id": "C",
+          "text": "Inference comes first"
+        },
+        {
+          "id": "D",
+          "text": "Observation uses memories"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "24",
+      "question": "Why is science often described metaphorically as a \"never-ending puzzle\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Scientists lose the pieces"
+        },
+        {
+          "id": "B",
+          "text": "Every new discovery reveals new questions to explore"
+        },
+        {
+          "id": "C",
+          "text": "Textbooks are too long"
+        },
+        {
+          "id": "D",
+          "text": "Nature hides things intentionally"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "25",
+      "question": "In an experiment testing how sunlight affects plant growth, what is the 'independent variable'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Soil type"
+        },
+        {
+          "id": "B",
+          "text": "Amount of water"
+        },
+        {
+          "id": "C",
+          "text": "Amount of sunlight the plants receive"
+        },
+        {
+          "id": "D",
+          "text": "Final plant height"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "26",
+      "question": "What strictly indicates that a hypothesis is scientifically valid?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Everyone agrees with it"
+        },
+        {
+          "id": "B",
+          "text": "It makes an interesting story"
+        },
+        {
+          "id": "C",
+          "text": "It can be tested through experimentation"
+        },
+        {
+          "id": "D",
+          "text": "It is found in ancient texts"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "27",
+      "question": "How do trees contribute directly to maintaining a clean atmosphere?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They absorb sunlight"
+        },
+        {
+          "id": "B",
+          "text": "They release oxygen during photosynthesis"
+        },
+        {
+          "id": "C",
+          "text": "They drop leaves"
+        },
+        {
+          "id": "D",
+          "text": "They absorb water"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "28",
+      "question": "If a student tests a hypothesis and the results show the guess was incorrect, what is the next step?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Falsify the results"
+        },
+        {
+          "id": "B",
+          "text": "Stop the experiment"
+        },
+        {
+          "id": "C",
+          "text": "Form a new hypothesis and retest"
+        },
+        {
+          "id": "D",
+          "text": "Assume the equipment is broken"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "29",
+      "question": "What role does a 'dependent variable' play in an experiment?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It is kept identical across tests"
+        },
+        {
+          "id": "B",
+          "text": "It is the specific outcome being measured"
+        },
+        {
+          "id": "C",
+          "text": "It is changed on purpose"
+        },
+        {
+          "id": "D",
+          "text": "It is the core question"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "30",
+      "question": "Which activity best demonstrates \"thinking like a scientist\" in everyday life?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Memorizing facts"
+        },
+        {
+          "id": "B",
+          "text": "Believing rumors without proof"
+        },
+        {
+          "id": "C",
+          "text": "Systematically testing why a toy car won't move by checking wheels, then batteries"
+        },
+        {
+          "id": "D",
+          "text": "Ignoring problems"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    }
+  ]
+}
