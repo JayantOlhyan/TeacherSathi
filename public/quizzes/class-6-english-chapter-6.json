@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "What is the name of the boy in the story?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Surya"
+        },
+        {
+          "id": "B",
+          "text": "Rama"
+        },
+        {
+          "id": "C",
+          "text": "Mario"
+        },
+        {
+          "id": "D",
+          "text": "Balamurali"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "2",
+      "question": "What did Mario love to talk and boast about?",
+      "options": [
+        {
+          "id": "A",
+          "text": "His new bicycle"
+        },
+        {
+          "id": "B",
+          "text": "How many friends he had at school"
+        },
+        {
+          "id": "C",
+          "text": "His grades"
+        },
+        {
+          "id": "D",
+          "text": "His video games"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "3",
+      "question": "Who challenged Mario's belief about his friends?",
+      "options": [
+        {
+          "id": "A",
+          "text": "His teacher"
+        },
+        {
+          "id": "B",
+          "text": "His mother"
+        },
+        {
+          "id": "C",
+          "text": "His grandfather"
+        },
+        {
+          "id": "D",
+          "text": "His brother"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "4",
+      "question": "What did the grandfather bet Mario?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A fruit chaat"
+        },
+        {
+          "id": "B",
+          "text": "A chocolate cake"
+        },
+        {
+          "id": "C",
+          "text": "A new toy"
+        },
+        {
+          "id": "D",
+          "text": "A book"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "5",
+      "question": "What did the grandfather bring from the attic?",
+      "options": [
+        {
+          "id": "A",
+          "text": "An old table"
+        },
+        {
+          "id": "B",
+          "text": "A dusty book"
+        },
+        {
+          "id": "C",
+          "text": "An invisible magic chair"
+        },
+        {
+          "id": "D",
+          "text": "A magic wand"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "6",
+      "question": "Why was it tricky to sit on the chair?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It was broken"
+        },
+        {
+          "id": "B",
+          "text": "It was invisible and you couldn't see it"
+        },
+        {
+          "id": "C",
+          "text": "It was covered in glue"
+        },
+        {
+          "id": "D",
+          "text": "It was too high"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "7",
+      "question": "Where did Mario take the invisible chair?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To the park"
+        },
+        {
+          "id": "B",
+          "text": "To a birthday party"
+        },
+        {
+          "id": "C",
+          "text": "To his school"
+        },
+        {
+          "id": "D",
+          "text": "To the market"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "8",
+      "question": "What happened when Mario first tried to sit on the chair?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He sat perfectly"
+        },
+        {
+          "id": "B",
+          "text": "He floated"
+        },
+        {
+          "id": "C",
+          "text": "He missed the seat and fell on the ground"
+        },
+        {
+          "id": "D",
+          "text": "The chair broke"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "9",
+      "question": "What did most of his classmates do when he fell?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They helped him up"
+        },
+        {
+          "id": "B",
+          "text": "They called a teacher"
+        },
+        {
+          "id": "C",
+          "text": "They laughed and made fun of him"
+        },
+        {
+          "id": "D",
+          "text": "They cried"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "10",
+      "question": "Which three classmates helped Mario stay up?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ali, Raj, Simran"
+        },
+        {
+          "id": "B",
+          "text": "Guneet, Asma, Deepa"
+        },
+        {
+          "id": "C",
+          "text": "Surya, Prabhat, Amber"
+        },
+        {
+          "id": "D",
+          "text": "Ila, Chitra, Buntee"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "11",
+      "question": "Why did the grandfather make the bet with Mario?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He was hungry for fruit chaat"
+        },
+        {
+          "id": "B",
+          "text": "He wanted Mario to realize that having many 'companions' is not the same as having true 'friends'"
+        },
+        {
+          "id": "C",
+          "text": "He didn't like Mario's friends"
+        },
+        {
+          "id": "D",
+          "text": "He wanted to trick Mario"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "12",
+      "question": "How did the invisible chair act like a \"test\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It tested Mario's balance"
+        },
+        {
+          "id": "B",
+          "text": "It showed who would laugh at Mario's failure and who would step forward to help him"
+        },
+        {
+          "id": "C",
+          "text": "It tested his eyesight"
+        },
+        {
+          "id": "D",
+          "text": "It tested his strength"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "13",
+      "question": "What does the word 'companions' mean according to the grandfather?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Enemies"
+        },
+        {
+          "id": "B",
+          "text": "People you just hang out with, but who might not care deeply for you"
+        },
+        {
+          "id": "C",
+          "text": "True friends"
+        },
+        {
+          "id": "D",
+          "text": "Family members"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "14",
+      "question": "How did Guneet, Asma, and Deepa help Mario?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They brought a real chair"
+        },
+        {
+          "id": "B",
+          "text": "They held him up in the air so he wouldn't fall, proving the \"magic\""
+        },
+        {
+          "id": "C",
+          "text": "They yelled at the other kids"
+        },
+        {
+          "id": "D",
+          "text": "They gave him a cushion"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "15",
+      "question": "Why did Mario's other classmates laugh?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because Mario told a funny joke"
+        },
+        {
+          "id": "B",
+          "text": "Because they enjoyed seeing him fall and struggle, showing they were not real friends"
+        },
+        {
+          "id": "C",
+          "text": "Because the teacher told them to"
+        },
+        {
+          "id": "D",
+          "text": "Because the invisible chair tickled them"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "16",
+      "question": "Did Mario win or lose the bet with his grandfather?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He won"
+        },
+        {
+          "id": "B",
+          "text": "He lost, because he realized he didn't have as many real friends as he thought"
+        },
+        {
+          "id": "C",
+          "text": "It was a tie"
+        },
+        {
+          "id": "D",
+          "text": "The grandfather forgot"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "17",
+      "question": "What did Mario realize while hanging in mid-air?",
+      "options": [
+        {
+          "id": "A",
+          "text": "That magic is real"
+        },
+        {
+          "id": "B",
+          "text": "That a true friend cares for you and helps you when you are in trouble"
+        },
+        {
+          "id": "C",
+          "text": "That he was very strong"
+        },
+        {
+          "id": "D",
+          "text": "That school is boring"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "18",
+      "question": "What did the four children do at the grandfather's house that evening?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They did homework"
+        },
+        {
+          "id": "B",
+          "text": "They listened to stories and celebrated with fruit chaat"
+        },
+        {
+          "id": "C",
+          "text": "They built a real chair"
+        },
+        {
+          "id": "D",
+          "text": "They watched TV"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "19",
+      "question": "How did Mario change after this experience?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He stopped talking to everyone"
+        },
+        {
+          "id": "B",
+          "text": "He stopped boasting about being popular and learned to value true, caring friends"
+        },
+        {
+          "id": "C",
+          "text": "He became angry"
+        },
+        {
+          "id": "D",
+          "text": "He decided to leave school"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "20",
+      "question": "What did the children decide to do with the \"magic chair test\" in the future?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Throw it away"
+        },
+        {
+          "id": "B",
+          "text": "Use it on other occasions to find out who their true friends for life were"
+        },
+        {
+          "id": "C",
+          "text": "Sell it"
+        },
+        {
+          "id": "D",
+          "text": "Keep it in the attic"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "21",
+      "question": "What does the \"invisible chair\" symbolize in the story?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A piece of furniture"
+        },
+        {
+          "id": "B",
+          "text": "A situation of vulnerability or difficulty where you need support from others"
+        },
+        {
+          "id": "C",
+          "text": "A magical superpower"
+        },
+        {
+          "id": "D",
+          "text": "A science experiment"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "22",
+      "question": "How does the grandfather teach Mario a lesson without lecturing him?",
+      "options": [
+        {
+          "id": "A",
+          "text": "By grounding him"
+        },
+        {
+          "id": "B",
+          "text": "By using a creative, experiential activity (the chair) to let Mario discover the truth himself"
+        },
+        {
+          "id": "C",
+          "text": "By forcing him to read a book"
+        },
+        {
+          "id": "D",
+          "text": "By yelling at him"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "23",
+      "question": "What is the main difference between \"popularity\" and \"true friendship\" shown here?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Popularity means everyone likes you; true friendship means you are rich"
+        },
+        {
+          "id": "B",
+          "text": "Popularity is having many people around for fun; true friendship is having loyal support during hard times"
+        },
+        {
+          "id": "C",
+          "text": "They are exactly the same"
+        },
+        {
+          "id": "D",
+          "text": "Popularity is better"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "24",
+      "question": "What does the word \"empathy\" mean, as shown by Guneet, Asma, and Deepa?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Laughing at others"
+        },
+        {
+          "id": "B",
+          "text": "Understanding someone else's difficulty and stepping in to help them"
+        },
+        {
+          "id": "C",
+          "text": "Ignoring people"
+        },
+        {
+          "id": "D",
+          "text": "Being very smart"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "25",
+      "question": "Why is it important that Mario took the chair to school (a public place)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because it was heavy"
+        },
+        {
+          "id": "B",
+          "text": "Because a public test clearly revealed the different reactions of his peers (mockery vs. support)"
+        },
+        {
+          "id": "C",
+          "text": "Because he wanted to show off"
+        },
+        {
+          "id": "D",
+          "text": "Because his grandfather told him not to"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "26",
+      "question": "The phrase \"friends for life\" implies that strong relationships are built on what?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Playing games every day"
+        },
+        {
+          "id": "B",
+          "text": "Shared trust, care, and proven support during difficult moments"
+        },
+        {
+          "id": "C",
+          "text": "Having the same toys"
+        },
+        {
+          "id": "D",
+          "text": "Living in the same town"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "27",
+      "question": "What does it mean when the story says Mario \"boasted\" about his friends?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He complained about them"
+        },
+        {
+          "id": "B",
+          "text": "He spoke with excessive pride and showed off about how many friends he had"
+        },
+        {
+          "id": "C",
+          "text": "He whispered about them"
+        },
+        {
+          "id": "D",
+          "text": "He forgot their names"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "28",
+      "question": "Which of these words best describes the classmates who laughed at Mario?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Empathetic"
+        },
+        {
+          "id": "B",
+          "text": "Opportunistic and unkind"
+        },
+        {
+          "id": "C",
+          "text": "Helpful"
+        },
+        {
+          "id": "D",
+          "text": "Courageous"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "29",
+      "question": "What valuable lesson did Mario's failure to sit on the chair provide?",
+      "options": [
+        {
+          "id": "A",
+          "text": "That he needs better balance"
+        },
+        {
+          "id": "B",
+          "text": "That failure is often the best way to reveal who truly cares about your well-being"
+        },
+        {
+          "id": "C",
+          "text": "That invisible things are dangerous"
+        },
+        {
+          "id": "D",
+          "text": "That school is hard"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "30",
+      "question": "How does the story connect to the real-life experiences of middle school students?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It shows them how to do magic"
+        },
+        {
+          "id": "B",
+          "text": "It addresses the common challenge of navigating peer pressure and finding genuine connections over superficial popularity"
+        },
+        {
+          "id": "C",
+          "text": "It teaches them how to make fruit chaat"
+        },
+        {
+          "id": "D",
+          "text": "It explains how to build chairs"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    }
+  ]
+}
