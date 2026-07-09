@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "Where was Ila Sachani born?",
+      "options": [
+        {
+          "id": "A",
+          "text": "In a big city in Maharashtra"
+        },
+        {
+          "id": "B",
+          "text": "In a quiet place called Amreli, Gujarat"
+        },
+        {
+          "id": "C",
+          "text": "In Kerala"
+        },
+        {
+          "id": "D",
+          "text": "In Punjab"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "2",
+      "question": "What physical challenge was Ila born with?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She could not see"
+        },
+        {
+          "id": "B",
+          "text": "She could not hear"
+        },
+        {
+          "id": "C",
+          "text": "Her hands hung loosely and she could not use them"
+        },
+        {
+          "id": "D",
+          "text": "She could not speak"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "3",
+      "question": "What did Ila want to do when she saw other children drawing in the sand?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She wanted to run away"
+        },
+        {
+          "id": "B",
+          "text": "She wanted to hold a chalk and draw too"
+        },
+        {
+          "id": "C",
+          "text": "She wanted to sleep"
+        },
+        {
+          "id": "D",
+          "text": "She wanted to sing"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "4",
+      "question": "What special traditional art did Ila learn to do?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cook food"
+        },
+        {
+          "id": "B",
+          "text": "Paint houses"
+        },
+        {
+          "id": "C",
+          "text": "Kathiawar embroidery"
+        },
+        {
+          "id": "D",
+          "text": "Play the piano"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "5",
+      "question": "How did Ila perform this delicate embroidery?",
+      "options": [
+        {
+          "id": "A",
+          "text": "With a machine"
+        },
+        {
+          "id": "B",
+          "text": "Using her mouth"
+        },
+        {
+          "id": "C",
+          "text": "Using her feet and toes"
+        },
+        {
+          "id": "D",
+          "text": "With magic"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "6",
+      "question": "Who initially taught and supported Ila in learning this skill?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Her teacher at school"
+        },
+        {
+          "id": "B",
+          "text": "Her mother and grandmother"
+        },
+        {
+          "id": "C",
+          "text": "A famous artist"
+        },
+        {
+          "id": "D",
+          "text": "The village headman"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "7",
+      "question": "Was it easy for Ila to learn embroidery at first?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes, she learned it in a day"
+        },
+        {
+          "id": "B",
+          "text": "No, it was a long and difficult journey requiring immense patience"
+        },
+        {
+          "id": "C",
+          "text": "Yes, it required no effort"
+        },
+        {
+          "id": "D",
+          "text": "No, she never learned it"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "8",
+      "question": "What major award did Ila receive in 2001 for her courage and craft?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Nobel Prize"
+        },
+        {
+          "id": "B",
+          "text": "The State Award"
+        },
+        {
+          "id": "C",
+          "text": "The Olympic Gold"
+        },
+        {
+          "id": "D",
+          "text": "The Oscar"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "9",
+      "question": "What did Ila gain from selling her beautiful embroidery?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A new house"
+        },
+        {
+          "id": "B",
+          "text": "A regular income and financial independence"
+        },
+        {
+          "id": "C",
+          "text": "A car"
+        },
+        {
+          "id": "D",
+          "text": "New hands"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "10",
+      "question": "What does Ila do now to help others?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She gives away money"
+        },
+        {
+          "id": "B",
+          "text": "She conducts training workshops to teach and empower other women"
+        },
+        {
+          "id": "C",
+          "text": "She works in a hospital"
+        },
+        {
+          "id": "D",
+          "text": "She runs a regular school"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "11",
+      "question": "How did Ila overcome the specific challenge of threading a needle?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She couldn't do it and had others do it"
+        },
+        {
+          "id": "B",
+          "text": "She practiced relentlessly to develop extreme dexterity and control with her toes"
+        },
+        {
+          "id": "C",
+          "text": "She used a very large needle"
+        },
+        {
+          "id": "D",
+          "text": "She used glue instead of thread"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "12",
+      "question": "Why did Ila often wonder \"why she could not join them\" when observing other children?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She felt a deep sense of isolation and a strong desire to express herself normally"
+        },
+        {
+          "id": "B",
+          "text": "She hated the other children"
+        },
+        {
+          "id": "C",
+          "text": "She wanted to steal their chalk"
+        },
+        {
+          "id": "D",
+          "text": "She didn't know what games they were playing"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "13",
+      "question": "What makes Kathiawar embroidery unique?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It is done entirely in black and white"
+        },
+        {
+          "id": "B",
+          "text": "It uses bright colors, geometric shapes, and intricate mirror work"
+        },
+        {
+          "id": "C",
+          "text": "It is woven on huge machines"
+        },
+        {
+          "id": "D",
+          "text": "It only uses wool"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "14",
+      "question": "What role did the \"first state exhibition\" play in Ila's life?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It was a failure"
+        },
+        {
+          "id": "B",
+          "text": "It was a turning point that brought her talent to a wider audience, gaining her fame and validation"
+        },
+        {
+          "id": "C",
+          "text": "She lost her artwork there"
+        },
+        {
+          "id": "D",
+          "text": "She met the Prime Minister"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "15",
+      "question": "How does Ila's story change how we think about \"disability\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It shows disability is an excuse"
+        },
+        {
+          "id": "B",
+          "text": "It demonstrates that physical limitations do not mean a lack of ability, talent, or potential"
+        },
+        {
+          "id": "C",
+          "text": "It proves disability is easily cured"
+        },
+        {
+          "id": "D",
+          "text": "It shows disabled people cannot work"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "16",
+      "question": "What does \"new independence\" mean for Ila?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It meant she moved out of her house"
+        },
+        {
+          "id": "B",
+          "text": "It refers to her ability to earn her own living, rely on her skills, and live with pride and dignity"
+        },
+        {
+          "id": "C",
+          "text": "It meant she got a wheelchair"
+        },
+        {
+          "id": "D",
+          "text": "It meant India became free"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "17",
+      "question": "How did Ila's family show true, positive support?",
+      "options": [
+        {
+          "id": "A",
+          "text": "By doing everything for her and pitying her"
+        },
+        {
+          "id": "B",
+          "text": "By encouraging her, teaching her alternative ways to adapt, and believing in her potential"
+        },
+        {
+          "id": "C",
+          "text": "By hiding her from the village"
+        },
+        {
+          "id": "D",
+          "text": "By selling her art secretly"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "18",
+      "question": "Why does Ila teach other women now?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To make more money"
+        },
+        {
+          "id": "B",
+          "text": "To empower them, share her skills, and inspire them to believe in themselves like she did"
+        },
+        {
+          "id": "C",
+          "text": "Because she is bored"
+        },
+        {
+          "id": "D",
+          "text": "To win another award"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "19",
+      "question": "What parallel is drawn between Ila and Pranav (the boy in the pre-reading activity)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both are from Gujarat"
+        },
+        {
+          "id": "B",
+          "text": "Both were born without the use of their hands but achieved immense success through sheer determination"
+        },
+        {
+          "id": "C",
+          "text": "Both are singers"
+        },
+        {
+          "id": "D",
+          "text": "Both won the State Award"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "20",
+      "question": "What does the title \"Embroidering Dreams\" metaphorically mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She sews while sleeping"
+        },
+        {
+          "id": "B",
+          "text": "She used her embroidery skills as the tool to weave her hopes of independence and success into reality"
+        },
+        {
+          "id": "C",
+          "text": "She only embroiders pictures of clouds"
+        },
+        {
+          "id": "D",
+          "text": "Her dreams are made of thread"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "21",
+      "question": "Ila's ability to use her feet to do fine needlework is a profound testament to what human capacity?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Genetic mutation"
+        },
+        {
+          "id": "B",
+          "text": "Incredible adaptability and the brain's capacity to reroute complex motor functions to overcome physical limits"
+        },
+        {
+          "id": "C",
+          "text": "Muscle shrinking"
+        },
+        {
+          "id": "D",
+          "text": "Spontaneous healing"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "22",
+      "question": "How does the author use contrast to make Ila's story more powerful?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To show art is easy"
+        },
+        {
+          "id": "B",
+          "text": "By highlighting the flawless, delicate beauty of the embroidery against the severe physical hardship required to create it"
+        },
+        {
+          "id": "C",
+          "text": "To prove she had help"
+        },
+        {
+          "id": "D",
+          "text": "To show feet are better than hands"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "23",
+      "question": "How did Ila's economic independence change her status in her community?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It lowered her status"
+        },
+        {
+          "id": "B",
+          "text": "It shifted her from being seen as a \"dependent\" to being an empowered, contributing, and respected community leader"
+        },
+        {
+          "id": "C",
+          "text": "It made her an outcast"
+        },
+        {
+          "id": "D",
+          "text": "It had no effect"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "24",
+      "question": "What does the statement \"art has the power to rise above physical boundaries and touch the soul\" mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Art is only about physical beauty"
+        },
+        {
+          "id": "B",
+          "text": "The true value of art lies in its emotional resonance and the human spirit embedded in it, regardless of how it was physically made"
+        },
+        {
+          "id": "C",
+          "text": "Art must be made with hands"
+        },
+        {
+          "id": "D",
+          "text": "Physical boundaries prevent art"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "25",
+      "question": "How does the chapter frame the preservation of traditional Indian crafts (like Kathiawar)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "As a dying hobby"
+        },
+        {
+          "id": "B",
+          "text": "As a viable, dignified path for socio-economic empowerment and keeping culture alive"
+        },
+        {
+          "id": "C",
+          "text": "As a waste of time"
+        },
+        {
+          "id": "D",
+          "text": "As something only for the wealthy"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "26",
+      "question": "What psychological trait was most crucial for Ila to go from watching others play to becoming a Master Artisan?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Apathy (not caring)"
+        },
+        {
+          "id": "B",
+          "text": "Unyielding resilience, grit, and the ability to turn obstacles into manageable challenges"
+        },
+        {
+          "id": "C",
+          "text": "Jealousy"
+        },
+        {
+          "id": "D",
+          "text": "Acceptance of defeat"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "27",
+      "question": "The role of the mother and grandmother in Ila's life proves the importance of what?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Institutional government support"
+        },
+        {
+          "id": "B",
+          "text": "A nurturing, adaptive, and patient micro-community (family) in fostering resilience in a child"
+        },
+        {
+          "id": "C",
+          "text": "Financial sponsorship"
+        },
+        {
+          "id": "D",
+          "text": "Medical intervention"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "28",
+      "question": "By transitioning from a struggling student to a teacher conducting workshops, Ila becomes what kind of figure?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A trickster"
+        },
+        {
+          "id": "B",
+          "text": "An empowered mentor who uses her own conquered struggles to uplift and inspire others"
+        },
+        {
+          "id": "C",
+          "text": "A tragic hero"
+        },
+        {
+          "id": "D",
+          "text": "An outcast"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "29",
+      "question": "How does Ila's story challenge 'ableist' assumptions (prejudice against disabilities)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It confirms them"
+        },
+        {
+          "id": "B",
+          "text": "It violently overthrows laws"
+        },
+        {
+          "id": "C",
+          "text": "It systematically breaks down the false idea that physical disability prevents high-level skill, economic agency, and artistic genius"
+        },
+        {
+          "id": "D",
+          "text": "It ignores ableism"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "30",
+      "question": "Why does the author describe the Kathiawar motifs (mirrors, geometric shapes) in such detail?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To make the story longer"
+        },
+        {
+          "id": "B",
+          "text": "To ground the inspiring biography in rich, tangible cultural authenticity and show respect for indigenous art"
+        },
+        {
+          "id": "C",
+          "text": "To teach a geometry lesson"
+        },
+        {
+          "id": "D",
+          "text": "To sell mirrors"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    }
+  ]
+}
