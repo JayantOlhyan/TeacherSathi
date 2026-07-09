@@ -1,0 +1,426 @@
+{
+  "chapterTitle": "Real Numbers",
+  "chapterTitleHi": "वास्तविक संख्याएँ",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "State the Fundamental Theorem of Arithmetic.",
+      "questionHi": "अंकगणित की आधारभूत प्रमेय का कथन लिखिए।",
+      "answer": "Every composite number can be expressed (factorised) as a product of primes, and this factorisation is unique, apart from the order in which the prime factors occur. For example:\n\n$$6 = 2 \\times 3$$",
+      "answerHi": "प्रत्येक भाज्य संख्या को अभाज्य संख्याओं के गुणनफल के रूप में व्यक्त (गुणनखंडित) किया जा सकता है, और यह गुणनखंडन अद्वितीय होता है, इस पर ध्यान दिए बिना कि अभाज्य गुणनखंड किस क्रम में आते हैं। उदाहरण के लिए:\n\n$$6 = 2 \\times 3$$",
+      "keyPoints": [
+        "Unique factorisation of composite numbers.",
+        "Order of prime factors does not matter."
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Find the HCF and LCM of 12, 15 and 21 using the prime factorisation method.",
+      "questionHi": "अभाज्य गुणनखंडन विधि का उपयोग करके 12, 15 और 21 का HCF और LCM ज्ञात कीजिए।",
+      "answer": "* $12 = 2^2 \\times 3$\n* $15 = 3 \\times 5$\n* $21 = 3 \\times 7$\n\n$$\\text{HCF}(12, 15, 21) = 3^1 = 3$$\n\n$$\\text{LCM}(12, 15, 21) = 2^2 \\times 3 \\times 5 \\times 7 = 420$$",
+      "answerHi": "* $12 = 2^2 \\times 3$\n* $15 = 3 \\times 5$\n* $21 = 3 \\times 7$\n\n$$\\text{HCF}(12, 15, 21) = 3^1 = 3$$\n\n$$\\text{LCM}(12, 15, 21) = 2^2 \\times 3 \\times 5 \\times 7 = 420$$",
+      "keyPoints": [
+        "HCF = Product of the smallest power of each common prime factor.",
+        "LCM = Product of the greatest power of each prime factor."
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Check whether $6^n$ can end with the digit 0 for any natural number $n$.",
+      "questionHi": "जाँच कीजिए कि क्या किसी प्राकृत संख्या $n$ के लिए $6^n$ अंक 0 पर समाप्त हो सकता है।",
+      "answer": "For a number to end with the digit 0, its prime factors must contain the pair $2 \\times 5$. The prime factorisation of $6^n$ is $(2 \\times 3)^n = 2^n \\times 3^n$. Since 5 is not a prime factor of $6^n$, it cannot end with the digit 0.",
+      "answerHi": "किसी संख्या को अंक 0 पर समाप्त होने के लिए, उसके अभाज्य गुणनखंडों में $2 \\times 5$ का युग्म होना चाहिए। $6^n$ का अभाज्य गुणनखंडन $(2 \\times 3)^n = 2^n \\times 3^n$ है। चूँकि 5, $6^n$ का अभाज्य गुणनखंड नहीं है, इसलिए यह अंक 0 पर समाप्त नहीं हो सकता।",
+      "keyPoints": [
+        "Ending in 0 requires prime factors 2 and 5.",
+        "Prime factors of $6^n$ are only 2 and 3."
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "Explain why $7 \\times 11 \\times 13 + 13$ is a composite number.",
+      "questionHi": "व्याख्या कीजिए कि $7 \\times 11 \\times 13 + 13$ एक भाज्य संख्या क्यों है।",
+      "answer": "Taking 13 as a common factor:\n\n$$7 \\times 11 \\times 13 + 13 = 13 \\times (7 \\times 11 + 1) = 13 \\times (77 + 1) = 13 \\times 78$$\n\nSince the given number can be expressed as a product of more than two factors (excluding 1 and itself), it is a composite number.",
+      "answerHi": "13 को उभयनिष्ठ (common) लेने पर:\n\n$$7 \\times 11 \\times 13 + 13 = 13 \\times (7 \\times 11 + 1) = 13 \\times (77 + 1) = 13 \\times 78$$\n\nचूँकि दी गई संख्या को दो से अधिक गुणनखंडों (1 और स्वयं को छोड़कर) के गुणनफल के रूप में व्यक्त किया जा सकता है, इसलिए यह एक भाज्य संख्या है।",
+      "keyPoints": [
+        "Factor out the common term (13).",
+        "A composite number has factors other than 1 and itself."
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "If $\\text{HCF}(306, 657) = 9$, find $\\text{LCM}(306, 657)$.",
+      "questionHi": "यदि $\\text{HCF}(306, 657) = 9$ है, तो $\\text{LCM}(306, 657)$ ज्ञात कीजिए।",
+      "answer": "We know that $\\text{HCF} \\times \\text{LCM} = \\text{Product of two numbers}$.\n\n$$9 \\times \\text{LCM} = 306 \\times 657$$\n\n$$\\text{LCM} = \\frac{306 \\times 657}{9} = 34 \\times 657 = 22338$$",
+      "answerHi": "हम जानते हैं कि $\\text{HCF} \\times \\text{LCM} = \\text{दो संख्याओं का गुणनफल}$।\n\n$$9 \\times \\text{LCM} = 306 \\times 657$$\n\n$$\\text{LCM} = \\frac{306 \\times 657}{9} = 34 \\times 657 = 22338$$",
+      "keyPoints": [
+        "Use formula: $\\text{HCF}(a,b) \\times \\text{LCM}(a,b) = a \\times b$."
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Define an irrational number and give two examples based on the current NCERT syllabus.",
+      "questionHi": "अपरिमेय संख्या को परिभाषित कीजिए और वर्तमान NCERT पाठ्यक्रम के आधार पर दो उदाहरण दीजिए।",
+      "answer": "A number that cannot be written in the form $\\frac{p}{q}$, where $p$ and $q$ are integers and $q \\neq 0$, is called an irrational number. Their decimal expansions are non-terminating and non-recurring. Examples: $\\sqrt{2}, \\sqrt{3}, \\pi$.",
+      "answerHi": "वह संख्या जिसे $\\frac{p}{q}$ के रूप में नहीं लिखा जा सकता, जहाँ $p$ और $q$ पूर्णांक हैं और $q \\neq 0$, अपरिमेय संख्या कहलाती है। उनका दशमलव प्रसार असांत अनावर्ती (non-terminating and non-recurring) होता है। उदाहरण: $\\sqrt{2}, \\sqrt{3}, \\pi$।",
+      "keyPoints": [
+        "Cannot be expressed as $p/q$ ($q \\neq 0$).",
+        "Decimal expansion is non-terminating and non-recurring."
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "If $p$ is a prime number and $p$ divides $a^2$ (where $a$ is a positive integer), what can you conclude about $p$ and $a$? State the theorem.",
+      "questionHi": "यदि $p$ एक अभाज्य संख्या है और $p$, $a^2$ को विभाजित करती है (जहाँ $a$ एक धनात्मक पूर्णांक है), तो आप $p$ और $a$ के बारे में क्या निष्कर्ष निकाल सकते हैं? प्रमेय बताइए।",
+      "answer": "According to the NCERT theorem, if $p$ is a prime number and $p$ divides $a^2$, then $p$ also divides $a$. This forms the mathematical basis for proving the irrationality of numbers like $\\sqrt{2}$ and $\\sqrt{5}$.",
+      "answerHi": "NCERT प्रमेय के अनुसार, यदि $p$ एक अभाज्य संख्या है और $p$, $a^2$ को विभाजित करती है, तो $p$, $a$ को भी विभाजित करेगी। यह $\\sqrt{2}$ और $\\sqrt{5}$ जैसी संख्याओं की अपरिमेयता सिद्ध करने का गणितीय आधार है।",
+      "keyPoints": [
+        "Theorem: If prime $p$ divides $a^2$, then $p$ divides $a$."
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Write the exponent of 2 in the prime factorisation of 144.",
+      "questionHi": "144 के अभाज्य गुणनखंडन में 2 का घातांक लिखिए।",
+      "answer": "Let us perform the prime factorisation of 144:\n\n$$144 = 2 \\times 2 \\times 2 \\times 2 \\times 3 \\times 3 = 2^4 \\times 3^2$$\n\nTherefore, the exponent (power) of 2 in 144 is 4.",
+      "answerHi": "आइए 144 का अभाज्य गुणनखंडन करें:\n\n$$144 = 2 \\times 2 \\times 2 \\times 2 \\times 3 \\times 3 = 2^4 \\times 3^2$$\n\nइसलिए, 144 में 2 का घातांक (घात) 4 है।",
+      "keyPoints": [
+        "Find prime factorisation.",
+        "Identify the power of base 2."
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "Can two numbers have 15 as their HCF and 175 as their LCM? Give a reason.",
+      "questionHi": "क्या दो संख्याओं का HCF 15 और LCM 175 हो सकता है? कारण दीजिए।",
+      "answer": "No, two numbers cannot have 15 as HCF and 175 as LCM. This is because the HCF must always be a complete divisor of the LCM. Here, 175 is not completely divisible by 15 ($\\frac{175}{15} = 11.66$).",
+      "answerHi": "नहीं, दो संख्याओं का HCF 15 और LCM 175 नहीं हो सकता। इसका कारण यह है कि HCF हमेशा LCM का पूर्ण भाजक होना चाहिए। यहाँ, 175, 15 से पूर्णतः विभाज्य नहीं है ($\\frac{175}{15} = 11.66$)।",
+      "keyPoints": [
+        "HCF is always a factor of LCM."
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "Without actual calculation, determine the total number of prime factors in the expression $2^3 \\times 3^4 \\times 5^2$.",
+      "questionHi": "बिना वास्तविक गणना किए, व्यंजक $2^3 \\times 3^4 \\times 5^2$ में अभाज्य गुणनखंडों की कुल संख्या निर्धारित कीजिए।",
+      "answer": "The base numbers 2, 3, and 5 are already prime numbers. Therefore, the total number of prime factors is simply the sum of their respective exponents:\n\n$$3 + 4 + 2 = 9$$",
+      "answerHi": "आधार संख्याएँ 2, 3 और 5 पहले से ही अभाज्य संख्याएँ हैं। इसलिए, अभाज्य गुणनखंडों की कुल संख्या उनके संबंधित घातांकों का योग है:\n\n$$3 + 4 + 2 = 9$$",
+      "keyPoints": [
+        "Count of prime factors = Sum of exponents of prime bases."
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "Prove that $\\sqrt{3}$ is an irrational number.",
+      "questionHi": "सिद्ध कीजिए कि $\\sqrt{3}$ एक अपरिमेय संख्या है।",
+      "answer": "Let us assume, to the contrary, that $\\sqrt{3}$ is rational. So, we can find co-prime integers $a$ and $b$ ($b \\neq 0$) such that:\n\n$$\\sqrt{3} = \\frac{a}{b} \\implies 3b^2 = a^2$$\n\nThus, 3 divides $a^2$, which implies 3 divides $a$. Let $a = 3c$ for some integer $c$.\n\n$$3b^2 = (3c)^2 = 9c^2 \\implies b^2 = 3c^2$$\n\nThus, 3 divides $b^2$, which implies 3 divides $b$.\nTherefore, $a$ and $b$ have at least 3 as a common factor. This contradicts our assumption that $a$ and $b$ are co-prime. Hence, $\\sqrt{3}$ is irrational.",
+      "answerHi": "आइए, इसके विपरीत मान लें कि $\\sqrt{3}$ एक परिमेय संख्या है। इसलिए, हम सह-अभाज्य (co-prime) पूर्णांक $a$ और $b$ ($b \\neq 0$) प्राप्त कर सकते हैं ताकि:\n\n$$\\sqrt{3} = \\frac{a}{b} \\implies 3b^2 = a^2$$\n\nइस प्रकार, 3, $a^2$ को विभाजित करता है, जिसका अर्थ है कि 3, $a$ को विभाजित करता है। मान लें $a = 3c$ (जहाँ $c$ कोई पूर्णांक है)।\n\n$$3b^2 = (3c)^2 = 9c^2 \\implies b^2 = 3c^2$$\n\nइस प्रकार, 3, $b^2$ को विभाजित करता है, जिसका अर्थ है कि 3, $b$ को विभाजित करता है।\nइसलिए, $a$ और $b$ में कम से कम 3 एक उभयनिष्ठ गुणनखंड है। यह हमारी इस धारणा का विरोधाभास है कि $a$ और $b$ सह-अभाज्य हैं। अतः, $\\sqrt{3}$ अपरिमेय है।",
+      "keyPoints": [
+        "Proof by contradiction.",
+        "Assume $\\sqrt{3} = a/b$ (co-prime).",
+        "Show both $a$ and $b$ are divisible by 3."
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Prove that $5 - \\sqrt{3}$ is an irrational number.",
+      "questionHi": "सिद्ध कीजिए कि $5 - \\sqrt{3}$ एक अपरिमेय संख्या है।",
+      "answer": "Let us assume $5 - \\sqrt{3}$ is rational. Therefore, it can be written as $\\frac{a}{b}$, where $a$ and $b$ are co-prime integers and $b \\neq 0$.\n\n$$5 - \\sqrt{3} = \\frac{a}{b}$$\n\n$$\\sqrt{3} = 5 - \\frac{a}{b} \\implies \\sqrt{3} = \\frac{5b - a}{b}$$\n\nSince $a$ and $b$ are integers, $\\frac{5b - a}{b}$ is a rational number. This implies that $\\sqrt{3}$ is also a rational number. However, this contradicts the known fact that $\\sqrt{3}$ is irrational. Hence, $5 - \\sqrt{3}$ is irrational.",
+      "answerHi": "मान लीजिए $5 - \\sqrt{3}$ एक परिमेय संख्या है। इसलिए, इसे $\\frac{a}{b}$ के रूप में लिखा जा सकता है, जहाँ $a$ और $b$ सह-अभाज्य पूर्णांक हैं और $b \\neq 0$।\n\n$$5 - \\sqrt{3} = \\frac{a}{b}$$\n\n$$\\sqrt{3} = 5 - \\frac{a}{b} \\implies \\sqrt{3} = \\frac{5b - a}{b}$$\n\nचूँकि $a$ और $b$ पूर्णांक हैं, $\\frac{5b - a}{b}$ एक परिमेय संख्या है। इसका अर्थ यह होगा कि $\\sqrt{3}$ भी एक परिमेय संख्या है। हालाँकि, यह इस ज्ञात तथ्य का विरोधाभास है कि $\\sqrt{3}$ अपरिमेय है। अतः, $5 - \\sqrt{3}$ अपरिमेय है।",
+      "keyPoints": [
+        "Assume it equals $a/b$.",
+        "Rearrange to isolate the irrational part ($\\sqrt{3}$).",
+        "Show contradiction."
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "There is a circular path around a sports field. Sonia takes 18 minutes to drive one round of the field, while Ravi takes 12 minutes for the same. Suppose they both start at the same point and at the same time, and go in the same direction. After how many minutes will they meet again at the starting point?",
+      "questionHi": "किसी खेल के मैदान के चारों ओर एक वृत्ताकार पथ है। सोनिया को मैदान का एक चक्कर लगाने में 18 मिनट लगते हैं, जबकि रवि को 12 मिनट लगते हैं। मान लीजिए वे दोनों एक ही बिंदु से और एक ही समय पर चलना प्रारंभ करते हैं, और एक ही दिशा में जाते हैं। कितने मिनट बाद वे पुनः प्रारंभिक बिंदु पर मिलेंगे?",
+      "answer": "To find the time when they will meet again at the starting point, we need to calculate the Lowest Common Multiple (LCM) of 18 and 12.\nUsing prime factorisation:\n\n* $18 = 2 \\times 3^2$\n* $12 = 2^2 \\times 3$\n\n$$\\text{LCM}(18, 12) = 2^2 \\times 3^2 = 4 \\times 9 = 36$$\n\nThus, Sonia and Ravi will meet again at the starting point after **36 minutes**.",
+      "answerHi": "वह समय ज्ञात करने के लिए जब वे प्रारंभिक बिंदु पर पुनः मिलेंगे, हमें 18 और 12 का लघुत्तम समापवर्त्य (LCM) ज्ञात करना होगा।\nअभाज्य गुणनखंडन का उपयोग करने पर:\n\n* $18 = 2 \\times 3^2$\n* $12 = 2^2 \\times 3$\n\n$$\\text{LCM}(18, 12) = 2^2 \\times 3^2 = 4 \\times 9 = 36$$\n\nइस प्रकार, सोनिया और रवि **36 मिनट** बाद पुनः प्रारंभिक बिंदु पर मिलेंगे।",
+      "keyPoints": [
+        "Find the LCM of 18 and 12."
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Find the HCF and LCM of 26 and 91, and verify that $\\text{HCF} \\times \\text{LCM} = \\text{product of the two numbers}$.",
+      "questionHi": "26 और 91 का HCF और LCM ज्ञात कीजिए, और जाँच कीजिए कि $\\text{HCF} \\times \\text{LCM} = \\text{दो संख्याओं का गुणनफल}$।",
+      "answer": "Prime factorisation:\n\n* $26 = 2 \\times 13$\n* $91 = 7 \\times 13$\n\n$$\\text{HCF} = 13$$\n\n$$\\text{LCM} = 2 \\times 7 \\times 13 = 182$$\n\n**Verification:**\n\n* $\\text{Product of Numbers} = 26 \\times 91 = 2366$\n* $\\text{HCF} \\times \\text{LCM} = 13 \\times 182 = 2366$\nSince $\\text{LHS} = \\text{RHS}$, the relationship is verified.",
+      "answerHi": "अभाज्य गुणनखंडन:\n\n* $26 = 2 \\times 13$\n* $91 = 7 \\times 13$\n\n$$\\text{HCF} = 13$$\n\n$$\\text{LCM} = 2 \\times 7 \\times 13 = 182$$\n\n**सत्यापन:**\n\n* $\\text{संख्याओं का गुणनफल} = 26 \\times 91 = 2366$\n* $\\text{HCF} \\times \\text{LCM} = 13 \\times 182 = 2366$\nचूँकि $\\text{LHS} = \\text{RHS}$, संबंध सत्यापित होता है।",
+      "keyPoints": [
+        "Find prime factors of both numbers.",
+        "Calculate HCF and LCM.",
+        "Show Product = HCF * LCM."
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Prove that $3\\sqrt{2}$ is irrational.",
+      "questionHi": "सिद्ध कीजिए कि $3\\sqrt{2}$ अपरिमेय है।",
+      "answer": "Let $3\\sqrt{2}$ be a rational number equal to $\\frac{a}{b}$, where $a, b \\in \\mathbb{Z}$, $b \\neq 0$ and $\\text{gcd}(a,b)=1$.\n\n$$3\\sqrt{2} = \\frac{a}{b} \\implies \\sqrt{2} = \\frac{a}{3b}$$\n\nSince $a$, 3, and $b$ are integers, $\\frac{a}{3b}$ must be a rational number. This forces $\\sqrt{2}$ to be rational, which contradicts the established theorem that $\\sqrt{2}$ is irrational. Thus, our initial assumption is wrong, and $3\\sqrt{2}$ is irrational.",
+      "answerHi": "माना कि $3\\sqrt{2}$ एक परिमेय संख्या है जो $\\frac{a}{b}$ के बराबर है, जहाँ $a, b \\in \\mathbb{Z}$, $b \\neq 0$ और $\\text{gcd}(a,b)=1$ है।\n\n$$3\\sqrt{2} = \\frac{a}{b} \\implies \\sqrt{2} = \\frac{a}{3b}$$\n\nचूँकि $a$, 3, और $b$ पूर्णांक हैं, इसलिए $\\frac{a}{3b}$ एक परिमेय संख्या होनी चाहिए। इससे $\\sqrt{2}$ को परिमेय होना पड़ेगा, जो इस स्थापित प्रमेय का विरोधाभास है कि $\\sqrt{2}$ अपरिमेय है। इस प्रकार, हमारी प्रारंभिक धारणा गलत है, और $3\\sqrt{2}$ अपरिमेय है।",
+      "keyPoints": [
+        "Assume $3\\sqrt{2} = a/b$.",
+        "Isolate $\\sqrt{2}$ to show contradiction."
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Easy",
+      "question": "Explain the difference between a rational and an irrational number in terms of their decimal representations, and classify $\\pi$ according to NCERT.",
+      "questionHi": "परिमेय और अपरिमेय संख्या के बीच उनके दशमलव निरूपण के संदर्भ में अंतर स्पष्ट कीजिए, और NCERT के अनुसार $\\pi$ को वर्गीकृत कीजिए।",
+      "answer": "The decimal expansion of a rational number is either terminating (e.g., $0.5$) or non-terminating repeating/recurring (e.g., $0.333...$). Conversely, the decimal expansion of an irrational number is always non-terminating and non-repeating. According to NCERT standards, $\\pi$ is an irrational number because its exact decimal value never repeats and never ends, though we approximate it as $\\frac{22}{7}$ for calculations.",
+      "answerHi": "परिमेय संख्या का दशमलव प्रसार या तो सांत (terminating) (जैसे, $0.5$) या असांत आवर्ती (non-terminating repeating/recurring) (जैसे, $0.333...$) होता है। इसके विपरीत, अपरिमेय संख्या का दशमलव प्रसार हमेशा असांत और अनावर्ती (non-terminating and non-repeating) होता है। NCERT मानकों के अनुसार, $\\pi$ एक अपरिमेय संख्या है क्योंकि इसका सटीक दशमलव मान कभी दोहराता नहीं है और कभी समाप्त नहीं होता है, हालाँकि हम गणना के लिए इसका अनुमानित मान $\\frac{22}{7}$ लेते हैं।",
+      "keyPoints": [
+        "Rational: Terminating or non-terminating repeating.",
+        "Irrational: Non-terminating non-repeating.",
+        "$\\pi$ is irrational."
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "Find the largest number which divides 70 and 125, leaving remainders 5 and 8, respectively.",
+      "questionHi": "वह सबसे बड़ी संख्या ज्ञात कीजिए जिससे 70 और 125 को भाग देने पर क्रमशः 5 और 8 शेषफल प्राप्त हों।",
+      "answer": "The required number must divide $(70 - 5)$ and $(125 - 8)$ completely.\n\n* $70 - 5 = 65$\n* $125 - 8 = 117$\n\nNow, find the HCF of 65 and 117:\n\n* $65 = 5 \\times 13$\n* $117 = 3^2 \\times 13$\n\n$$\\text{HCF}(65, 117) = 13$$\n\nThe largest number is **13**.",
+      "answerHi": "अभीष्ट संख्या को $(70 - 5)$ और $(125 - 8)$ को पूर्णतः विभाजित करना चाहिए।\n\n* $70 - 5 = 65$\n* $125 - 8 = 117$\n\nअब, 65 और 117 का HCF ज्ञात कीजिए:\n\n* $65 = 5 \\times 13$\n* $117 = 3^2 \\times 13$\n\n$$\\text{HCF}(65, 117) = 13$$\n\nसबसे बड़ी संख्या **13** है।",
+      "keyPoints": [
+        "Subtract remainders from numbers.",
+        "Find HCF of resulting numbers."
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Express 5005 as a product of its prime factors in ascending order.",
+      "questionHi": "5005 को आरोही क्रम में इसके अभाज्य गुणनखंडों के गुणनफल के रूप में व्यक्त कीजिए।",
+      "answer": "We divide 5005 step-by-step by prime numbers:\n\n1. $5005 \\div 5 = 1001$\n2. $1001 \\div 7 = 143$\n3. $143 \\div 11 = 13$\n4. $13 \\div 13 = 1$\n\nThus, the prime factorisation in ascending order is:\n\n$$5005 = 5 \\times 7 \\times 11 \\times 13$$",
+      "answerHi": "हम 5005 को क्रमानुसार अभाज्य संख्याओं से विभाजित करते हैं:\n\n1. $5005 \\div 5 = 1001$\n2. $1001 \\div 7 = 143$\n3. $143 \\div 11 = 13$\n4. $13 \\div 13 = 1$\n\nइस प्रकार, आरोही क्रम में अभाज्य गुणनखंडन है:\n\n$$5005 = 5 \\times 7 \\times 11 \\times 13$$",
+      "keyPoints": [
+        "Divide by smallest prime continuously."
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Easy",
+      "question": "If $p$ and $q$ are two co-prime numbers, find their HCF and LCM.",
+      "questionHi": "यदि $p$ और $q$ दो सह-अभाज्य संख्याएँ हैं, तो उनका HCF और LCM ज्ञात कीजिए।",
+      "answer": "By definition, co-prime numbers are those numbers that do not have any common prime factor other than 1.\nTherefore:\n\n* $\\text{HCF}(p, q) = 1$\n* $\\text{LCM}(p, q) = p \\times q = pq$",
+      "answerHi": "परिभाषा के अनुसार, सह-अभाज्य संख्याएँ वे संख्याएँ होती हैं जिनमें 1 के अतिरिक्त कोई उभयनिष्ठ (common) अभाज्य गुणनखंड नहीं होता है।\nइसलिए:\n\n* $\\text{HCF}(p, q) = 1$\n* $\\text{LCM}(p, q) = p \\times q = pq$",
+      "keyPoints": [
+        "Co-prime numbers have no common factors except 1.",
+        "HCF = 1",
+        "LCM = Product of the numbers."
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Show that any number of the form $4^n$, where $n \\in \\mathbb{N}$, can never end with the digit 0.",
+      "questionHi": "दिखाइए कि $4^n$ के रूप की कोई भी संख्या, जहाँ $n \\in \\mathbb{N}$ है, कभी भी अंक 0 पर समाप्त नहीं हो सकती।",
+      "answer": "For a number to end with the digit 0, its prime factorisation must contain the prime factor 5.\nThe prime factorisation of $4^n$ is $(2^2)^n = 2^{2n}$. The only prime factor here is 2. Since 5 does not exist in the prime factorisation of $4^n$, by the uniqueness of the Fundamental Theorem of Arithmetic, $4^n$ can never end with the digit 0 for any natural number $n$.",
+      "answerHi": "किसी संख्या को अंक 0 पर समाप्त होने के लिए, उसके अभाज्य गुणनखंडन में अभाज्य गुणनखंड 5 होना चाहिए।\n$4^n$ का अभाज्य गुणनखंडन $(2^2)^n = 2^{2n}$ है। यहाँ एकमात्र अभाज्य गुणनखंड 2 है। चूँकि $4^n$ के अभाज्य गुणनखंडन में 5 मौजूद नहीं है, इसलिए अंकगणित की आधारभूत प्रमेय की अद्वितीयता के कारण, किसी भी प्राकृत संख्या $n$ के लिए $4^n$ कभी भी अंक 0 पर समाप्त नहीं हो सकता।",
+      "keyPoints": [
+        "Check prime factorization for 2 and 5.",
+        "$4^n = 2^{2n}$ has no factor of 5."
+      ]
+    },
+    {
+      "id": "q21",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Prove that $\\sqrt{5}$ is an irrational number, and use this result to prove that $2 + 3\\sqrt{5}$ is also irrational.",
+      "questionHi": "सिद्ध कीजिए कि $\\sqrt{5}$ एक अपरिमेय संख्या है, और इस परिणाम का उपयोग करके सिद्ध कीजिए कि $2 + 3\\sqrt{5}$ भी अपरिमेय है।",
+      "answer": "**Part 1:** Let $\\sqrt{5} = \\frac{a}{b}$ where $a, b$ are co-prime integers and $b \\neq 0$.\n\n$$5b^2 = a^2 \\implies 5 \\text{ divides } a^2 \\implies 5 \\text{ divides } a$$\n\nLet $a = 5c$. Then $5b^2 = (5c)^2 = 25c^2 \\implies b^2 = 5c^2$.\nThis means 5 divides $b^2$, so 5 divides $b$. Since 5 divides both $a$ and $b$, it contradicts that they are co-prime. Thus, $\\sqrt{5}$ is irrational.\n\n**Part 2:** Now, let $2 + 3\\sqrt{5} = r$, where $r$ is rational.\n\n$$3\\sqrt{5} = r - 2 \\implies \\sqrt{5} = \\frac{r - 2}{3}$$\n\nSince $r$ is rational, $\\frac{r - 2}{3}$ must be rational. This implies $\\sqrt{5}$ is rational, which contradicts our previous proof. Hence, $2 + 3\\sqrt{5}$ is irrational.",
+      "answerHi": "**भाग 1:** मान लीजिए $\\sqrt{5} = \\frac{a}{b}$ जहाँ $a, b$ सह-अभाज्य पूर्णांक हैं और $b \\neq 0$।\n\n$$5b^2 = a^2 \\implies 5, a^2 \\text{ को विभाजित करता है} \\implies 5, a \\text{ को विभाजित करता है}$$\n\nमाना $a = 5c$। तो $5b^2 = (5c)^2 = 25c^2 \\implies b^2 = 5c^2$।\nइसका अर्थ है कि 5, $b^2$ को विभाजित करता है, इसलिए 5, $b$ को विभाजित करता है। चूँकि 5, $a$ और $b$ दोनों को विभाजित करता है, यह इस तथ्य का विरोधाभास है कि वे सह-अभाज्य हैं। अतः, $\\sqrt{5}$ अपरिमेय है।\n\n**भाग 2:** अब, मान लीजिए $2 + 3\\sqrt{5} = r$, जहाँ $r$ परिमेय है।\n\n$$3\\sqrt{5} = r - 2 \\implies \\sqrt{5} = \\frac{r - 2}{3}$$\n\nचूँकि $r$ परिमेय है, $\\frac{r - 2}{3}$ परिमेय होना चाहिए। इसका अर्थ है कि $\\sqrt{5}$ परिमेय है, जो हमारे पिछले प्रमाण का विरोधाभास है। अतः, $2 + 3\\sqrt{5}$ अपरिमेय है।",
+      "keyPoints": [
+        "First prove $\\sqrt{5}$ irrational.",
+        "Then express the composite expression in terms of $\\sqrt{5}$.",
+        "Show contradiction."
+      ]
+    },
+    {
+      "id": "q22",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "Competency-Based Question: A school library has two sections—Section A and Section B. There are 32 students in Section A and 36 students in Section B. Determine the minimum number of books required for their class library so that they can be distributed equally among students of Section A or Section B.",
+      "questionHi": "योग्यता-आधारित प्रश्न: एक स्कूल पुस्तकालय में दो अनुभाग—अनुभाग A और अनुभाग B हैं। अनुभाग A में 32 छात्र हैं और अनुभाग B में 36 छात्र हैं। उनके कक्षा पुस्तकालय के लिए आवश्यक पुस्तकों की न्यूनतम संख्या निर्धारित कीजिए ताकि उन्हें अनुभाग A या अनुभाग B के छात्रों के बीच समान रूप से वितरित किया जा सके।",
+      "answer": "The problem states we need to find the \"minimum number of books\" that can be divided equally among either 32 or 36 students. This requires finding the Least Common Multiple (LCM) of 32 and 36.\n\nLet us find the prime factorisation of both numbers:\n\n* $32 = 2 \\times 2 \\times 2 \\times 2 \\times 2 = 2^5$\n* $36 = 2 \\times 2 \\times 3 \\times 3 = 2^2 \\times 3^2$\n\nTo find the LCM, we take the highest power of each prime factor involved:\n\n$$\\text{LCM}(32, 36) = 2^5 \\times 3^2$$\n\n$$\\text{LCM}(32, 36) = 32 \\times 9 = 288$$\n\nThus, the minimum number of books required for the class library is **288 books**.",
+      "answerHi": "समस्या में कहा गया है कि हमें \"पुस्तकों की न्यूनतम संख्या\" ज्ञात करनी है जिसे 32 या 36 छात्रों में समान रूप से विभाजित किया जा सके। इसके लिए 32 और 36 का लघुत्तम समापवर्त्य (LCM) ज्ञात करने की आवश्यकता है।\n\nआइए दोनों संख्याओं का अभाज्य गुणनखंडन ज्ञात करें:\n\n* $32 = 2 \\times 2 \\times 2 \\times 2 \\times 2 = 2^5$\n* $36 = 2 \\times 2 \\times 3 \\times 3 = 2^2 \\times 3^2$\n\nLCM ज्ञात करने के लिए, हम शामिल प्रत्येक अभाज्य गुणनखंड की उच्चतम घात लेते हैं:\n\n$$\\text{LCM}(32, 36) = 2^5 \\times 3^2$$\n\n$$\\text{LCM}(32, 36) = 32 \\times 9 = 288$$\n\nइस प्रकार, कक्षा पुस्तकालय के लिए आवश्यक पुस्तकों की न्यूनतम संख्या **288 पुस्तकें** है।",
+      "keyPoints": [
+        "Recognize 'minimum number' implies LCM.",
+        "Calculate LCM of 32 and 36."
+      ]
+    },
+    {
+      "id": "q23",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "Case-Based descriptive concept: Three bells toll together at intervals of 9, 12 and 15 minutes respectively. If they toll together now, after how many hours will they toll together next? Show detailed mathematical reasoning.",
+      "questionHi": "केस-आधारित वर्णनात्मक अवधारणा: तीन घंटियाँ क्रमशः 9, 12 और 15 मिनट के अंतराल पर एक साथ बजती हैं। यदि वे अभी एक साथ बजती हैं, तो कितने घंटे बाद वे पुनः एक साथ बजेंगी? विस्तृत गणितीय तर्क दर्शाइए।",
+      "answer": "The bells toll at different intervals. To find the exact time when they will all toll together again, we must compute the lowest common multiple (LCM) of their individual intervals, i.e., $\\text{LCM}(9, 12, 15)$.\n\nLet's break them down into prime factors:\n\n* $9 = 3^2$\n* $12 = 2^2 \\times 3$\n* $15 = 3 \\times 5$\n\nNow, calculating the LCM by taking the highest powers:\n\n$$\\text{LCM} = 2^2 \\times 3^2 \\times 5 = 4 \\times 9 \\times 5 = 180 \\text{ minutes}$$\n\nThe question explicitly asks for the answer in **hours**. We know that $1 \\text{ hour} = 60 \\text{ minutes}$.\n\n$$\\text{Time in hours} = \\frac{180}{60} = 3 \\text{ hours}$$\n\nTherefore, the bells will toll together next after exactly **3 hours**.",
+      "answerHi": "घंटियाँ अलग-अलग अंतरालों पर बजती हैं। वह सटीक समय ज्ञात करने के लिए जब वे पुनः एक साथ बजेंगी, हमें उनके व्यक्तिगत अंतरालों का लघुत्तम समापवर्त्य (LCM) ज्ञात करना होगा, अर्थात् $\\text{LCM}(9, 12, 15)$।\n\nआइए उन्हें अभाज्य गुणनखंडों में विभाजित करें:\n\n* $9 = 3^2$\n* $12 = 2^2 \\times 3$\n* $15 = 3 \\times 5$\n\nअब, उच्चतम घातें लेकर LCM की गणना करते हैं:\n\n$$\\text{LCM} = 2^2 \\times 3^2 \\times 5 = 4 \\times 9 \\times 5 = 180 \\text{ मिनट}$$\n\nप्रश्न स्पष्ट रूप से **घंटों** में उत्तर माँगता है। हम जानते हैं कि $1 \\text{ घंटा} = 60 \\text{ मिनट}$।\n\n$$\\text{घंटों में समय} = \\frac{180}{60} = 3 \\text{ घंटे}$$\n\nइसलिए, घंटियाँ ठीक **3 घंटे** बाद पुनः एक साथ बजेंगी।",
+      "keyPoints": [
+        "Calculate LCM for recurring common events.",
+        "Convert minutes to hours."
+      ]
+    },
+    {
+      "id": "q24",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "Real-Life Application: An army contingent of 616 members is to march behind an army band of 32 members in a parade. The two groups are to march in the same number of columns. What is the maximum number of columns in which they can march?",
+      "questionHi": "वास्तविक जीवन अनुप्रयोग: किसी परेड में 616 सदस्यों वाली एक सेना की टुकड़ी को 32 सदस्यों वाले एक आर्मी बैंड के पीछे मार्च करना है। दोनों समूहों को समान संख्या वाले स्तंभों (columns) में मार्च करना है। उन स्तंभों की अधिकतम संख्या क्या है जिसमें वे मार्च कर सकते हैं?",
+      "answer": "To find the maximum number of columns in which both groups can march symmetrically, we need to calculate the Highest Common Factor (HCF) of the total members in the contingent (616) and the band (32).\n\nUsing the prime factorisation method:\n\n* $32 = 2^5$\n* $616 = 2 \\times 308 = 2^2 \\times 154 = 2^3 \\times 77 = 2^3 \\times 7 \\times 11$\n\nTo find the HCF, we take the lowest common power of the common prime factors:\n\n$$\\text{Common prime factor} = 2$$\n\n$$\\text{Lowest power matching both} = 2^3 = 8$$\n\n$$\\text{HCF}(616, 32) = 8$$\n\nThus, the maximum number of columns in which they can march is **8**.",
+      "answerHi": "स्तंभों की वह अधिकतम संख्या ज्ञात करने के लिए जिसमें दोनों समूह सममित रूप से मार्च कर सकें, हमें टुकड़ी (616) और बैंड (32) के कुल सदस्यों का महत्तम समापवर्तक (HCF) ज्ञात करना होगा।\n\nअभाज्य गुणनखंडन विधि का उपयोग करने पर:\n\n* $32 = 2^5$\n* $616 = 2 \\times 308 = 2^2 \\times 154 = 2^3 \\times 77 = 2^3 \\times 7 \\times 11$\n\nHCF ज्ञात करने के लिए, हम उभयनिष्ठ अभाज्य गुणनखंडों की सबसे कम घात लेते हैं:\n\n$$\\text{उभयनिष्ठ अभाज्य गुणनखंड} = 2$$\n\n$$\\text{दोनों से मेल खाने वाली सबसे कम घात} = 2^3 = 8$$\n\n$$\\text{HCF}(616, 32) = 8$$\n\nइस प्रकार, वे अधिकतम **8** स्तंभों में मार्च कर सकते हैं।",
+      "keyPoints": [
+        "Maximum number of columns implies finding HCF.",
+        "Calculate HCF of 616 and 32."
+      ]
+    },
+    {
+      "id": "q25",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Analytical Challenge: Prove that the product of any three consecutive positive integers is divisible by 6.",
+      "questionHi": "विश्लेषणात्मक चुनौती: सिद्ध कीजिए कि किन्हीं तीन क्रमागत धनात्मक पूर्णांकों का गुणनफल 6 से विभाज्य होता है।",
+      "answer": "Let the three consecutive positive integers be $n$, $n+1$, and $n+2$. We need to show that their product $P = n(n+1)(n+2)$ is divisible by 6, which means it must be divisible by both 2 and 3.\n\n1. **Divisibility by 2:** Out of two consecutive integers ($n$ and $n+1$), one must be even and divisible by 2. Thus, their product always contains a factor of 2.\n2. **Divisibility by 3:** Out of any three consecutive integers, exactly one number must be a multiple of 3. Therefore, the product $n(n+1)(n+2)$ will always contain a factor of 3.\n\nSince the product is independently and simultaneously divisible by both co-prime numbers 2 and 3, it must be divisible by their product:\n\n$$2 \\times 3 = 6$$\n\nHence, the product of any three consecutive positive integers is always divisible by 6.",
+      "answerHi": "मान लीजिए तीन क्रमागत धनात्मक पूर्णांक $n$, $n+1$, और $n+2$ हैं। हमें यह दिखाना है कि उनका गुणनफल $P = n(n+1)(n+2)$, 6 से विभाज्य है, जिसका अर्थ है कि यह 2 और 3 दोनों से विभाज्य होना चाहिए।\n\n1. **2 से विभाज्यता:** किन्हीं दो क्रमागत पूर्णांकों ($n$ और $n+1$) में से एक सम होना चाहिए और 2 से विभाज्य होना चाहिए। इस प्रकार, उनके गुणनफल में हमेशा 2 का गुणनखंड होता है।\n2. **3 से विभाज्यता:** किन्हीं तीन क्रमागत पूर्णांकों में से, ठीक एक संख्या 3 का गुणज होनी चाहिए। इसलिए, गुणनफल $n(n+1)(n+2)$ में हमेशा 3 का गुणनखंड होगा।\n\nचूँकि गुणनफल स्वतंत्र रूप से और एक साथ दोनों सह-अभाज्य संख्याओं 2 और 3 से विभाज्य है, यह उनके गुणनफल से विभाज्य होना चाहिए:\n\n$$2 \\times 3 = 6$$\n\nअतः, किन्हीं तीन क्रमागत धनात्मक पूर्णांकों का गुणनफल हमेशा 6 से विभाज्य होता है।",
+      "keyPoints": [
+        "Product of $k$ consecutive integers is divisible by $k!$.",
+        "Show divisibility by 2 and 3 independently."
+      ]
+    },
+    {
+      "id": "q26",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "Find the HCF and LCM of 404 and 96 using prime factorisation, and show that their product matches the product of HCF and LCM.",
+      "questionHi": "अभाज्य गुणनखंडन का उपयोग करके 404 और 96 का HCF और LCM ज्ञात कीजिए, और दिखाइए कि उनका गुणनफल HCF और LCM के गुणनफल के समान है।",
+      "answer": "Let us prime factorise 96 and 404:\n\n* $96 = 2^5 \\times 3$\n* $404 = 2^2 \\times 101$\n\nNow, find the HCF and LCM:\n\n* $\\text{HCF} = 2^2 = 4$\n* $\\text{LCM} = 2^5 \\times 3 \\times 101 = 32 \\times 3 \\times 101 = 9696$\n\nNow, let us verify the mathematical property:\n\n* $\\text{Product of HCF and LCM} = 4 \\times 9696 = 38784$\n* $\\text{Product of Given Numbers} = 96 \\times 404 = 38784$\n\nSince both calculations result in 38784, it is proved that $\\text{HCF} \\times \\text{LCM} = \\text{Product of the two numbers}$.",
+      "answerHi": "आइए 96 और 404 का अभाज्य गुणनखंडन करें:\n\n* $96 = 2^5 \\times 3$\n* $404 = 2^2 \\times 101$\n\nअब, HCF और LCM ज्ञात करें:\n\n* $\\text{HCF} = 2^2 = 4$\n* $\\text{LCM} = 2^5 \\times 3 \\times 101 = 32 \\times 3 \\times 101 = 9696$\n\nअब, आइए गणितीय गुणधर्म की जाँच करें:\n\n* $\\text{HCF और LCM का गुणनफल} = 4 \\times 9696 = 38784$\n* $\\text{दी गई संख्याओं का गुणनफल} = 96 \\times 404 = 38784$\n\nचूँकि दोनों गणनाओं का परिणाम 38784 है, यह सिद्ध होता है कि $\\text{HCF} \\times \\text{LCM} = \\text{दो संख्याओं का गुणनफल}$।",
+      "keyPoints": [
+        "Calculate HCF and LCM.",
+        "Check $\\text{HCF} \\times \\text{LCM} = a \\times b$."
+      ]
+    },
+    {
+      "id": "q27",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "Explain why $7 \\times 6 \\times 5 \\times 4 \\times 3 \\times 2 \\times 1 + 5$ is a composite number according to the Fundamental Theorem of Arithmetic.",
+      "questionHi": "अंकगणित की आधारभूत प्रमेय के अनुसार व्याख्या कीजिए कि $7 \\times 6 \\times 5 \\times 4 \\times 3 \\times 2 \\times 1 + 5$ एक भाज्य संख्या क्यों है।",
+      "answer": "According to the Fundamental Theorem of Arithmetic, any composite number can be uniquely factorised into prime components. Let us solve the given expression by factoring out 5:\n\n$$= 5 \\times (7 \\times 6 \\times 1 \\times 4 \\times 3 \\times 2 \\times 1 + 1)$$\n\n$$= 5 \\times (1008 + 1)$$\n\n$$= 5 \\times 1009$$\n\nThe number 1009 is a prime number, and 5 is also a prime number. The expression has been rewritten as a product of two distinct prime numbers ($5 \\times 1009$). Since it has prime factors other than 1 and itself, it cannot be a prime number. Hence, it is completely verified as a composite number.",
+      "answerHi": "अंकगणित की आधारभूत प्रमेय के अनुसार, किसी भी भाज्य संख्या को अभाज्य घटकों में विशिष्ट रूप से गुणनखंडित किया जा सकता है। आइए 5 को उभयनिष्ठ लेकर दिए गए व्यंजक को हल करें:\n\n$$= 5 \\times (7 \\times 6 \\times 1 \\times 4 \\times 3 \\times 2 \\times 1 + 1)$$\n\n$$= 5 \\times (1008 + 1)$$\n\n$$= 5 \\times 1009$$\n\nसंख्या 1009 एक अभाज्य संख्या है, और 5 भी एक अभाज्य संख्या है। व्यंजक को दो अलग-अलग अभाज्य संख्याओं ($5 \\times 1009$) के गुणनफल के रूप में फिर से लिखा गया है। चूँकि इसमें 1 और स्वयं के अलावा अभाज्य गुणनखंड हैं, इसलिए यह अभाज्य संख्या नहीं हो सकती है। अतः, यह पूरी तरह से एक भाज्य संख्या के रूप में सत्यापित है।",
+      "keyPoints": [
+        "Factor out the common number 5.",
+        "Show it is a product of two numbers other than 1."
+      ]
+    },
+    {
+      "id": "q28",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Show that the square of any odd positive integer is of the form $8q + 1$, where $q$ is some integer.",
+      "questionHi": "दिखाइए कि किसी भी विषम धनात्मक पूर्णांक का वर्ग $8q + 1$ के रूप का होता है, जहाँ $q$ कोई पूर्णांक है।",
+      "answer": "Any odd positive integer can be written in the mathematical form $4m + 1$ or $4m + 3$, where $m$ is an integer.\n\n* **Case 1: When the number is $4m + 1$**\n\n$$\\text{Square} = (4m + 1)^2 = 16m^2 + 8m + 1 = 8(2m^2 + m) + 1 = 8q + 1$$\n\n (where $q = 2m^2 + m$)\n* **Case 2: When the number is $4m + 3$**\n\n$$\\text{Square} = (4m + 3)^2 = 16m^2 + 24m + 9 = 16m^2 + 24m + 8 + 1$$\n\n$$= 8(2m^2 + 3m + 1) + 1 = 8q + 1$$\n\n (where $q = 2m^2 + 3m + 1$)\n\nIn both instances, the square of an odd positive integer simplifies perfectly to the form $8q + 1$.",
+      "answerHi": "किसी भी विषम धनात्मक पूर्णांक को गणितीय रूप $4m + 1$ या $4m + 3$ में लिखा जा सकता है, जहाँ $m$ एक पूर्णांक है।\n\n* **स्थिति 1: जब संख्या $4m + 1$ हो**\n\n$$\\text{वर्ग} = (4m + 1)^2 = 16m^2 + 8m + 1 = 8(2m^2 + m) + 1 = 8q + 1$$\n\n (जहाँ $q = 2m^2 + m$)\n* **स्थिति 2: जब संख्या $4m + 3$ हो**\n\n$$\\text{वर्ग} = (4m + 3)^2 = 16m^2 + 24m + 9 = 16m^2 + 24m + 8 + 1$$\n\n$$= 8(2m^2 + 3m + 1) + 1 = 8q + 1$$\n\n (जहाँ $q = 2m^2 + 3m + 1$)\n\nदोनों ही स्थितियों में, विषम धनात्मक पूर्णांक का वर्ग पूरी तरह से $8q + 1$ के रूप में सरल हो जाता है।",
+      "keyPoints": [
+        "Assume odd integer as $4m+1$ or $4m+3$.",
+        "Square them and factor out 8."
+      ]
+    },
+    {
+      "id": "q29",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "Find the HCF of 180, 252 and 324 using prime factorisation.",
+      "questionHi": "अभाज्य गुणनखंडन का उपयोग करके 180, 252 और 324 का HCF ज्ञात कीजिए।",
+      "answer": "Let us write down the prime factors for all three numbers:\n\n* $180 = 2 \\times 90 = 2^2 \\times 45 = 2^2 \\times 3^2 \\times 5$\n* $252 = 2 \\times 126 = 2^2 \\times 63 = 2^2 \\times 3^2 \\times 7$\n* $324 = 2 \\times 162 = 2^2 \\times 81 = 2^2 \\times 3^4$\n\nTo calculate the HCF of three numbers, we look for common prime factors and select their minimum power present across all terms:\n\n* The common prime factors are 2 and 3.\n* The lowest power of 2 across all expressions is $2^2$.\n* The lowest power of 3 across all expressions is $3^2$.\n\n$$\\text{HCF} = 2^2 \\times 3^2 = 4 \\times 9 = 36$$\n\nHence, the HCF of 180, 252, and 324 is **36**.",
+      "answerHi": "आइए तीनों संख्याओं के लिए अभाज्य गुणनखंड लिखें:\n\n* $180 = 2 \\times 90 = 2^2 \\times 45 = 2^2 \\times 3^2 \\times 5$\n* $252 = 2 \\times 126 = 2^2 \\times 63 = 2^2 \\times 3^2 \\times 7$\n* $324 = 2 \\times 162 = 2^2 \\times 81 = 2^2 \\times 3^4$\n\nतीन संख्याओं के HCF की गणना करने के लिए, हम उभयनिष्ठ अभाज्य गुणनखंडों को देखते हैं और सभी पदों में मौजूद उनकी न्यूनतम घात का चयन करते हैं:\n\n* उभयनिष्ठ अभाज्य गुणनखंड 2 और 3 हैं।\n* सभी व्यंजकों में 2 की सबसे कम घात $2^2$ है।\n* सभी व्यंजकों में 3 की सबसे कम घात $3^2$ है।\n\n$$\\text{HCF} = 2^2 \\times 3^2 = 4 \\times 9 = 36$$\n\nअतः, 180, 252, और 324 का HCF **36** है।",
+      "keyPoints": [
+        "Prime factorize all three numbers.",
+        "Take lowest powers of common prime factors."
+      ]
+    },
+    {
+      "id": "q30",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "Write a descriptive note on how the Fundamental Theorem of Arithmetic is utilized to find HCF and LCM, and explain the step-by-step logic.",
+      "questionHi": "इस पर एक वर्णनात्मक टिप्पणी लिखिए कि अंकगणित की आधारभूत प्रमेय का उपयोग HCF और LCM ज्ञात करने के लिए कैसे किया जाता है, और चरण-दर-चरण तर्क स्पष्ट कीजिए।",
+      "answer": "The Fundamental Theorem of Arithmetic states that every composite number can be uniquely broken down into prime factors. This decomposition provides a systematic path to finding the HCF and LCM of any set of positive integers:\n\n1. **Step 1:** Express each given number as the product of its prime factors using exponents.\n2. **Step 2 (HCF calculation):** Identify all the common prime bases. The HCF is calculated by taking the product of the **smallest power** of each common prime factor.\n3. **Step 3 (LCM calculation):** Look at all unique prime factors that appear across any of the numbers. The LCM is calculated by taking the product of the **highest power** of every prime factor involved.\n\nThis unique fundamental breakdown replaces trial-and-error methods with definitive algebraic solutions.",
+      "answerHi": "अंकगणित की आधारभूत प्रमेय में कहा गया है कि प्रत्येक भाज्य संख्या को अभाज्य गुणनखंडों में विशिष्ट रूप से विभाजित किया जा सकता है। यह अपघटन (decomposition) किन्हीं भी धनात्मक पूर्णांकों के समुच्चय का HCF और LCM ज्ञात करने के लिए एक व्यवस्थित मार्ग प्रदान करता है:\n\n1. **चरण 1:** दी गई प्रत्येक संख्या को घातांकों का उपयोग करके उसके अभाज्य गुणनखंडों के गुणनफल के रूप में व्यक्त करें।\n2. **चरण 2 (HCF गणना):** सभी उभयनिष्ठ अभाज्य आधारों की पहचान करें। HCF की गणना प्रत्येक उभयनिष्ठ अभाज्य गुणनखंड की **सबसे छोटी घात** का गुणनफल लेकर की जाती है।\n3. **चरण 3 (LCM गणना):** उन सभी अद्वितीय अभाज्य गुणनखंडों को देखें जो किसी भी संख्या में आते हैं। LCM की गणना शामिल प्रत्येक अभाज्य गुणनखंड की **सबसे बड़ी घात** का गुणनफल लेकर की जाती है।\n\nयह विशिष्ट आधारभूत अपघटन परीक्षण-और-त्रुटि (trial-and-error) विधियों को निश्चित बीजगणितीय समाधानों से बदल देता है।",
+      "keyPoints": [
+        "HCF uses smallest power of common prime factors.",
+        "LCM uses highest power of all prime factors involved."
+      ]
+    }
+  ]
+}
