@@ -1,0 +1,319 @@
+{
+  "chapterTitle": "Quadratic Equations",
+  "chapterTitleHi": "द्विघात समीकरण",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Define a quadratic equation and write its standard form.",
+      "questionHi": "द्विघात समीकरण को परिभाषित कीजिए और इसका मानक रूप लिखिए।",
+      "answer": "A quadratic equation in the variable $x$ is an equation of the form $ax^2 + bx + c = 0$, where $a, b, c$ are real numbers and $a \\neq 0$. The condition $a \\neq 0$ is essential to ensure the polynomial maintains a degree of 2.",
+      "answerHi": "चर $x$ में एक द्विघात समीकरण $ax^2 + bx + c = 0$ के रूप का एक समीकरण है, जहाँ $a, b, c$ वास्तविक संख्याएँ हैं और $a \\neq 0$ है। शर्त $a \\neq 0$ यह सुनिश्चित करने के लिए आवश्यक है कि बहुपद की घात 2 बनी रहे।",
+      "keyPoints": [
+        "Form: $ax^2 + bx + c = 0$",
+        "Condition: $a \\neq 0$"
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Check whether $(x+1)^2 = 2(x-3)$ is a quadratic equation.",
+      "questionHi": "जाँच कीजिए कि क्या $(x+1)^2 = 2(x-3)$ एक द्विघात समीकरण है।",
+      "answer": "Expand both sides of the equation:\n\n$$x^2 + 2x + 1 = 2x - 6$$\n\nBring all terms to one side:\n\n$$x^2 + 2x - 2x + 1 + 6 = 0 \\implies x^2 + 7 = 0$$\n\nSince it is of the form $ax^2 + bx + c = 0$ (where $a=1, b=0, c=7$), it **is** a quadratic equation.",
+      "answerHi": "समीकरण के दोनों पक्षों का विस्तार करें:\n\n$$x^2 + 2x + 1 = 2x - 6$$\n\nसभी पदों को एक तरफ लाएँ:\n\n$$x^2 + 2x - 2x + 1 + 6 = 0 \\implies x^2 + 7 = 0$$\n\nचूँकि यह $ax^2 + bx + c = 0$ (जहाँ $a=1, b=0, c=7$) के रूप का है, इसलिए यह एक द्विघात समीकरण **है**।",
+      "keyPoints": [
+        "Expand and simplify the equation.",
+        "Check if it matches $ax^2 + bx + c = 0$ with $a \\neq 0$."
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "Find the roots of the quadratic equation $x^2 - 3x - 10 = 0$ by factorization.",
+      "questionHi": "गुणनखंडन विधि द्वारा द्विघात समीकरण $x^2 - 3x - 10 = 0$ के मूल ज्ञात कीजिए।",
+      "answer": "Split the middle term using factors of $-10$ that add up to $-3$, which are $-5$ and $2$:\n\n$$x^2 - 5x + 2x - 10 = 0 \\implies x(x - 5) + 2(x - 5) = 0$$\n\n$$(x - 5)(x + 2) = 0 \\implies x = 5 \\text{ or } x = -2$$\n\nThe roots are **5 and $-2$**.",
+      "answerHi": "$-10$ के ऐसे गुणनखंडों का उपयोग करके मध्य पद को विभक्त करें जिनका योग $-3$ हो, जो $-5$ और $2$ हैं:\n\n$$x^2 - 5x + 2x - 10 = 0 \\implies x(x - 5) + 2(x - 5) = 0$$\n\n$$(x - 5)(x + 2) = 0 \\implies x = 5 \\text{ या } x = -2$$\n\nमूल **5 और $-2$** हैं।",
+      "keyPoints": [
+        "Find factors of $-10$ adding to $-3$.",
+        "Factorize by splitting the middle term."
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "State the quadratic formula used to find the roots of $ax^2 + bx + c = 0$ and define the discriminant.",
+      "questionHi": "$ax^2 + bx + c = 0$ के मूल ज्ञात करने के लिए उपयोग किए जाने वाले द्विघाती सूत्र (quadratic formula) को बताइए और विविक्तकर (discriminant) को परिभाषित कीजिए।",
+      "answer": "The roots are given by the formula:\n\n$$x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}$$\n\nThe term $D = b^2 - 4ac$ is called the **discriminant**. It determines whether the roots are real, equal, or imaginary.",
+      "answerHi": "मूल इस सूत्र द्वारा दिए गए हैं:\n\n$$x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}$$\n\n$D = b^2 - 4ac$ पद को **विविक्तकर** कहा जाता है। यह निर्धारित करता है कि मूल वास्तविक, समान या काल्पनिक हैं।",
+      "keyPoints": [
+        "Quadratic formula: $x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}$",
+        "Discriminant $D = b^2 - 4ac$."
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Find the nature of the roots of the quadratic equation $2x^2 - 4x + 3 = 0$.",
+      "questionHi": "द्विघात समीकरण $2x^2 - 4x + 3 = 0$ के मूलों की प्रकृति ज्ञात कीजिए।",
+      "answer": "Identify the coefficients: $a=2, b=-4, c=3$. Calculate the discriminant ($D$):\n\n$$D = b^2 - 4ac = (-4)^2 - 4(2)(3) = 16 - 24 = -8$$\n\nSince $D < 0$, the equation has **no real roots** (it has imaginary roots).",
+      "answerHi": "गुणांक पहचानें: $a=2, b=-4, c=3$। विविक्तकर ($D$) की गणना करें:\n\n$$D = b^2 - 4ac = (-4)^2 - 4(2)(3) = 16 - 24 = -8$$\n\nचूँकि $D < 0$, समीकरण का **कोई वास्तविक मूल नहीं** है (इसके काल्पनिक मूल हैं)।",
+      "keyPoints": [
+        "Calculate $D = b^2 - 4ac$.",
+        "If $D < 0$, no real roots."
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "For what value of $k$ will the quadratic equation $2x^2 + kx + 3 = 0$ have two equal real roots?",
+      "questionHi": "$k$ के किस मान के लिए द्विघात समीकरण $2x^2 + kx + 3 = 0$ के दो बराबर वास्तविक मूल होंगे?",
+      "answer": "For equal real roots, the discriminant must be zero ($D = 0 \\implies b^2 - 4ac = 0$).\n\n$$k^2 - 4(2)(3) = 0 \\implies k^2 - 24 = 0$$\n\n$$k^2 = 24 \\implies k = \\pm\\sqrt{24} = \\pm2\\sqrt{6}$$",
+      "answerHi": "बराबर वास्तविक मूलों के लिए, विविक्तकर शून्य होना चाहिए ($D = 0 \\implies b^2 - 4ac = 0$)।\n\n$$k^2 - 4(2)(3) = 0 \\implies k^2 - 24 = 0$$\n\n$$k^2 = 24 \\implies k = \\pm\\sqrt{24} = \\pm2\\sqrt{6}$$",
+      "keyPoints": [
+        "Condition for equal roots: $D = 0$."
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "Find the roots of the equation $x^2 - x - 1 = 0$ using the quadratic formula.",
+      "questionHi": "द्विघाती सूत्र का उपयोग करके समीकरण $x^2 - x - 1 = 0$ के मूल ज्ञात कीजिए।",
+      "answer": "Here, $a=1, b=-1, c=-1$. Compute the discriminant: $D = (-1)^2 - 4(1)(-1) = 1 + 4 = 5$.\n\nUsing the quadratic formula:\n\n$$x = \\frac{-(-1) \\pm \\sqrt{5}}{2(1)} = \\frac{1 \\pm \\sqrt{5}}{2}$$\n\nThe roots are **$\\frac{1 + \\sqrt{5}}{2}$ and $\\frac{1 - \\sqrt{5}}{2}$**.",
+      "answerHi": "यहाँ, $a=1, b=-1, c=-1$। विविक्तकर की गणना करें: $D = (-1)^2 - 4(1)(-1) = 1 + 4 = 5$।\n\nद्विघाती सूत्र का उपयोग करते हुए:\n\n$$x = \\frac{-(-1) \\pm \\sqrt{5}}{2(1)} = \\frac{1 \\pm \\sqrt{5}}{2}$$\n\nमूल **$\\frac{1 + \\sqrt{5}}{2}$ और $\\frac{1 - \\sqrt{5}}{2}$** हैं।",
+      "keyPoints": [
+        "Use quadratic formula directly."
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Represent the following situation mathematically: \"The product of two consecutive positive integers is 306. We need to find the integers.\"",
+      "questionHi": "निम्नलिखित स्थिति को गणितीय रूप में व्यक्त कीजिए: \"दो क्रमागत धनात्मक पूर्णांकों का गुणनफल 306 है। हमें पूर्णांक ज्ञात करने हैं।\"",
+      "answer": "Let the first positive integer be $x$. The next consecutive positive integer will be $x + 1$.\n\nAccording to the problem:\n\n$$x(x + 1) = 306 \\implies x^2 + x - 306 = 0$$",
+      "answerHi": "मान लीजिए पहला धनात्मक पूर्णांक $x$ है। अगला क्रमागत धनात्मक पूर्णांक $x + 1$ होगा।\n\nसमस्या के अनुसार:\n\n$$x(x + 1) = 306 \\implies x^2 + x - 306 = 0$$",
+      "keyPoints": [
+        "Let integers be $x$ and $x+1$.",
+        "Formulate equation $x(x+1) = 306$."
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "If $x = 2$ is a root of the quadratic equation $kx^2 + 2x - 3 = 0$, find the value of $k$.",
+      "questionHi": "यदि $x = 2$ द्विघात समीकरण $kx^2 + 2x - 3 = 0$ का एक मूल है, तो $k$ का मान ज्ञात कीजिए।",
+      "answer": "Since $x = 2$ is a root, it must satisfy the equation:\n\n$$k(2)^2 + 2(2) - 3 = 0$$\n\n$$4k + 4 - 3 = 0 \\implies 4k + 1 = 0 \\implies k = -\\frac{1}{4}$$",
+      "answerHi": "चूँकि $x = 2$ एक मूल है, इसे समीकरण को संतुष्ट करना चाहिए:\n\n$$k(2)^2 + 2(2) - 3 = 0$$\n\n$$4k + 4 - 3 = 0 \\implies 4k + 1 = 0 \\implies k = -\\frac{1}{4}$$",
+      "keyPoints": [
+        "Substitute $x=2$ into the equation and solve for $k$."
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Find the discriminant of the quadratic equation $3x^2 - 2x + \\frac{1}{3} = 0$ and hence find the nature of its roots.",
+      "questionHi": "द्विघात समीकरण $3x^2 - 2x + \\frac{1}{3} = 0$ का विविक्तकर ज्ञात कीजिए और फिर इसके मूलों की प्रकृति ज्ञात कीजिए।",
+      "answer": "Here, $a=3, b=-2, c=\\frac{1}{3}$.\n\n$$D = b^2 - 4ac = (-2)^2 - 4(3)\\left(\\frac{1}{3}\\right) = 4 - 4 = 0$$\n\nSince $D = 0$, the quadratic equation has **two equal real roots**.",
+      "answerHi": "यहाँ, $a=3, b=-2, c=\\frac{1}{3}$।\n\n$$D = b^2 - 4ac = (-2)^2 - 4(3)\\left(\\frac{1}{3}\\right) = 4 - 4 = 0$$\n\nचूँकि $D = 0$, द्विघात समीकरण के **दो बराबर वास्तविक मूल** हैं।",
+      "keyPoints": [
+        "Calculate $D = b^2 - 4ac$.",
+        "If $D=0$, roots are real and equal."
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Find the roots of the quadratic equation $6x^2 - x - 2 = 0$ by the method of factorization.",
+      "questionHi": "गुणनखंडन विधि द्वारा द्विघात समीकरण $6x^2 - x - 2 = 0$ के मूल ज्ञात कीजिए।",
+      "answer": "We need two numbers whose product is $6 \\times (-2) = -12$ and whose sum is $-1$. These numbers are $-4$ and $3$.\n\n$$6x^2 - 4x + 3x - 2 = 0$$\n\nTake out common factors from the groups:\n\n$$2x(3x - 2) + 1(3x - 2) = 0$$\n\n$$(3x - 2)(2x + 1) = 0$$\n\nEquating each factor to zero:\n\n$$3x - 2 = 0 \\implies x = \\frac{2}{3} \\quad \\text{and} \\quad 2x + 1 = 0 \\implies x = -\\frac{1}{2}$$\n\nThe roots of the equation are **$\\frac{2}{3}$ and $-\\frac{1}{2}$**.",
+      "answerHi": "हमें दो ऐसी संख्याओं की आवश्यकता है जिनका गुणनफल $6 \\times (-2) = -12$ हो और जिनका योग $-1$ हो। ये संख्याएँ $-4$ और $3$ हैं।\n\n$$6x^2 - 4x + 3x - 2 = 0$$\n\nसमूहों से उभयनिष्ठ गुणनखंड बाहर निकालें:\n\n$$2x(3x - 2) + 1(3x - 2) = 0$$\n\n$$(3x - 2)(2x + 1) = 0$$\n\nप्रत्येक गुणनखंड को शून्य के बराबर करने पर:\n\n$$3x - 2 = 0 \\implies x = \\frac{2}{3} \\quad \\text{और} \\quad 2x + 1 = 0 \\implies x = -\\frac{1}{2}$$\n\nसमीकरण के मूल **$\\frac{2}{3}$ और $-\\frac{1}{2}$** हैं।",
+      "keyPoints": [
+        "Find factors of -12 adding to -1.",
+        "Split middle term and factorize."
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "Find the roots of the quadratic equation $3x^2 - 2\\sqrt{6}x + 2 = 0$ by factorization.",
+      "questionHi": "गुणनखंडन विधि द्वारा द्विघात समीकरण $3x^2 - 2\\sqrt{6}x + 2 = 0$ के मूल ज्ञात कीजिए।",
+      "answer": "We can write $-2\\sqrt{6}x$ as $-\\sqrt{6}x - \\sqrt{6}x$.\n\n$$3x^2 - \\sqrt{6}x - \\sqrt{6}x + 2 = 0$$\n\nSince $3 = (\\sqrt{3})^2$, $2 = (\\sqrt{2})^2$, and $\\sqrt{6} = \\sqrt{3} \\times \\sqrt{2}$, we factor by grouping:\n\n$$\\sqrt{3}x(\\sqrt{3}x - \\sqrt{2}) - \\sqrt{2}(\\sqrt{3}x - \\sqrt{2}) = 0$$\n\n$$(\\sqrt{3}x - \\sqrt{2})(\\sqrt{3}x - \\sqrt{2}) = 0$$\n\nEquating either factor to zero gives:\n\n$$\\sqrt{3}x - \\sqrt{2} = 0 \\implies x = \\frac{\\sqrt{2}}{\\sqrt{3}} = \\sqrt{\\frac{2}{3}}$$\n\nThe equation has two repeated roots: **$\\sqrt{\\frac{2}{3}}, \\sqrt{\\frac{2}{3}}$**.",
+      "answerHi": "हम $-2\\sqrt{6}x$ को $-\\sqrt{6}x - \\sqrt{6}x$ के रूप में लिख सकते हैं।\n\n$$3x^2 - \\sqrt{6}x - \\sqrt{6}x + 2 = 0$$\n\nचूँकि $3 = (\\sqrt{3})^2$, $2 = (\\sqrt{2})^2$, और $\\sqrt{6} = \\sqrt{3} \\times \\sqrt{2}$, हम समूहन (grouping) द्वारा गुणनखंड करते हैं:\n\n$$\\sqrt{3}x(\\sqrt{3}x - \\sqrt{2}) - \\sqrt{2}(\\sqrt{3}x - \\sqrt{2}) = 0$$\n\n$$(\\sqrt{3}x - \\sqrt{2})(\\sqrt{3}x - \\sqrt{2}) = 0$$\n\nकिसी भी गुणनखंड को शून्य के बराबर करने पर प्राप्त होता है:\n\n$$\\sqrt{3}x - \\sqrt{2} = 0 \\implies x = \\frac{\\sqrt{2}}{\\sqrt{3}} = \\sqrt{\\frac{2}{3}}$$\n\nसमीकरण के दो पुनरावृत्त (repeated) मूल हैं: **$\\sqrt{\\frac{2}{3}}, \\sqrt{\\frac{2}{3}}$**।",
+      "keyPoints": [
+        "Split $-2\\sqrt{6}x$ into $-\\sqrt{6}x$ and $-\\sqrt{6}x$.",
+        "Factor using roots of 3 and 2."
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Find the values of $k$ for the quadratic equation $kx(x - 2) + 6 = 0$, so that it has two equal real roots.",
+      "questionHi": "द्विघात समीकरण $kx(x - 2) + 6 = 0$ के लिए $k$ का मान ज्ञात कीजिए, ताकि उसके दो बराबर वास्तविक मूल हों।",
+      "answer": "First, expand the given equation into standard quadratic form:\n\n$$kx^2 - 2kx + 6 = 0$$\n\nHere, $a = k, b = -2k, c = 6$. For the equation to have two equal real roots, its discriminant must be zero ($D = 0$):\n\n$$b^2 - 4ac = 0 \\implies (-2k)^2 - 4(k)(6) = 0$$\n\n$$4k^2 - 24k = 0 \\implies 4k(k - 6) = 0$$\n\nThis implies either $4k = 0 \\implies k = 0$ or $k - 6 = 0 \\implies k = 6$.\n\nHowever, if $k = 0$, the equation is no longer quadratic (the $x^2$ term disappears). Therefore, the valid value is **$k = 6$**.",
+      "answerHi": "सबसे पहले, दिए गए समीकरण को मानक द्विघात रूप में विस्तारित करें:\n\n$$kx^2 - 2kx + 6 = 0$$\n\nयहाँ, $a = k, b = -2k, c = 6$। समीकरण के दो बराबर वास्तविक मूल होने के लिए, इसका विविक्तकर शून्य होना चाहिए ($D = 0$):\n\n$$b^2 - 4ac = 0 \\implies (-2k)^2 - 4(k)(6) = 0$$\n\n$$4k^2 - 24k = 0 \\implies 4k(k - 6) = 0$$\n\nइसका अर्थ है कि या तो $4k = 0 \\implies k = 0$ या $k - 6 = 0 \\implies k = 6$।\n\nहालाँकि, यदि $k = 0$ है, तो समीकरण अब द्विघात नहीं रहता है ($x^2$ पद गायब हो जाता है)। इसलिए, मान्य मान **$k = 6$** है।",
+      "keyPoints": [
+        "Expand to standard form.",
+        "Apply $D = 0$ condition.",
+        "Reject $k=0$ as it eliminates $x^2$ term."
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Find the roots of the quadratic equation $2x^2 - 7x + 3 = 0$ using the quadratic formula.",
+      "questionHi": "द्विघाती सूत्र का उपयोग करके द्विघात समीकरण $2x^2 - 7x + 3 = 0$ के मूल ज्ञात कीजिए।",
+      "answer": "Compare with $ax^2 + bx + c = 0$ to find coefficients: $a = 2, b = -7, c = 3$.\n\nFirst, compute the discriminant to verify real roots exist:\n\n$$D = b^2 - 4ac = (-7)^2 - 4(2)(3) = 49 - 24 = 25$$\n\nSince $D > 0$, real roots exist. Now apply the quadratic formula:\n\n$$x = \\frac{-b \\pm \\sqrt{D}}{2a} = \\frac{-(-7) \\pm \\sqrt{25}}{2(2)} = \\frac{7 \\pm 5}{4}$$\n\n* **Case 1 (Plus sign):** $x = \\frac{7 + 5}{4} = \\frac{12}{4} = 3$\n* **Case 2 (Minus sign):** $x = \\frac{7 - 5}{4} = \\frac{2}{4} = \\frac{1}{2}$\nThe roots are **$3$ and $\\frac{1}{2}$**.",
+      "answerHi": "गुणांक ज्ञात करने के लिए $ax^2 + bx + c = 0$ के साथ तुलना करें: $a = 2, b = -7, c = 3$।\n\nसबसे पहले, वास्तविक मूल मौजूद हैं यह सत्यापित करने के लिए विविक्तकर की गणना करें:\n\n$$D = b^2 - 4ac = (-7)^2 - 4(2)(3) = 49 - 24 = 25$$\n\nचूँकि $D > 0$ है, वास्तविक मूल मौजूद हैं। अब द्विघाती सूत्र लागू करें:\n\n$$x = \\frac{-b \\pm \\sqrt{D}}{2a} = \\frac{-(-7) \\pm \\sqrt{25}}{2(2)} = \\frac{7 \\pm 5}{4}$$\n\n* **स्थिति 1 (धन चिह्न):** $x = \\frac{7 + 5}{4} = \\frac{12}{4} = 3$\n* **स्थिति 2 (ऋण चिह्न):** $x = \\frac{7 - 5}{4} = \\frac{2}{4} = \\frac{1}{2}$\nमूल **$3$ और $\\frac{1}{2}$** हैं।",
+      "keyPoints": [
+        "Calculate Discriminant.",
+        "Apply quadratic formula and solve both cases."
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "Is it possible to design a rectangular park whose perimeter is 80 m and area is 400 m²? If so, find its length and breadth.",
+      "questionHi": "क्या एक ऐसा आयताकार पार्क बनाना संभव है जिसका परिमाप 80 मीटर और क्षेत्रफल 400 वर्ग मीटर हो? यदि हाँ, तो उसकी लंबाई और चौड़ाई ज्ञात कीजिए।",
+      "answer": "Let the length of the rectangular park be $x$ meters.\n\n$$\\text{Perimeter} = 2(\\text{Length} + \\text{Breadth}) = 80 \\implies \\text{Length} + \\text{Breadth} = 400 \\div 10 \\implies 40$$\n\n$$\\text{Breadth} = 40 - x \\text{ meters}$$\n\n$$\\text{Area} = \\text{Length} \\times \\text{Breadth} = 400 \\implies x(40 - x) = 400$$\n\n$$40x - x^2 = 400 \\implies x^2 - 40x + 400 = 0$$\n\nLet's check the discriminant: $D = (-40)^2 - 4(1)(400) = 1600 - 1600 = 0$.\n\nSince $D = 0$, it **is possible** to design such a park. Solving the equation:\n\n$$(x - 20)^2 = 0 \\implies x = 20$$\n\nThus, $\\text{Length} = 20\\text{ m}$ and $\\text{Breadth} = 40 - 20 = 20\\text{ m}$ (The park is a square).",
+      "answerHi": "मान लीजिए आयताकार पार्क की लंबाई $x$ मीटर है।\n\n$$\\text{परिमाप} = 2(\\text{लंबाई} + \\text{चौड़ाई}) = 80 \\implies \\text{लंबाई} + \\text{चौड़ाई} = 40$$\n\n$$\\text{चौड़ाई} = 40 - x \\text{ मीटर}$$\n\n$$\\text{क्षेत्रफल} = \\text{लंबाई} \\times \\text{चौड़ाई} = 400 \\implies x(40 - x) = 400$$\n\n$$40x - x^2 = 400 \\implies x^2 - 40x + 400 = 0$$\n\nआइए विविक्तकर की जाँच करें: $D = (-40)^2 - 4(1)(400) = 1600 - 1600 = 0$।\n\nचूँकि $D = 0$ है, इसलिए ऐसा पार्क बनाना **संभव है**। समीकरण को हल करने पर:\n\n$$(x - 20)^2 = 0 \\implies x = 20$$\n\nइस प्रकार, $\\text{लंबाई} = 20\\text{ मीटर}$ और $\\text{चौड़ाई} = 40 - 20 = 20\\text{ मीटर}$ है (पार्क एक वर्ग है)।",
+      "keyPoints": [
+        "Formulate equation for area using perimeter relation.",
+        "Check Discriminant to confirm possibility.",
+        "Solve for dimensions."
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "Sum of the areas of two squares is 468 m². If the difference of their perimeters is 24 m, find the sides of the two squares.",
+      "questionHi": "दो वर्गों के क्षेत्रफलों का योग 468 वर्ग मीटर है। यदि उनके परिमापों का अंतर 24 मीटर हो, तो दोनों वर्गों की भुजाएँ ज्ञात कीजिए।",
+      "answer": "Let the side of the larger square be $x$ meters and the side of the smaller square be $y$ meters.\n\n$$\\text{Difference of perimeters} = 4x - 4y = 24 \\implies x - y = 6 \\implies x = y + 6$$\n\n$$\\text{Sum of their areas} = x^2 + y^2 = 468$$\n\nSubstitute $x = y + 6$ into the area equation:\n\n$$(y + 6)^2 + y^2 = 468 \\implies y^2 + 12y + 36 + y^2 = 468$$\n\n$$2y^2 + 12y - 432 = 0 \\implies y^2 + 6y - 216 = 0$$\n\nFactoring gives: $(y + 18)(y - 12) = 0 \\implies y = 12$ (side length cannot be negative).\n\nThus, the sides of the squares are **12 m and 18 m** ($12 + 6$).",
+      "answerHi": "मान लीजिए बड़े वर्ग की भुजा $x$ मीटर और छोटे वर्ग की भुजा $y$ मीटर है।\n\n$$\\text{परिमापों का अंतर} = 4x - 4y = 24 \\implies x - y = 6 \\implies x = y + 6$$\n\n$$\\text{उनके क्षेत्रफलों का योग} = x^2 + y^2 = 468$$\n\n$x = y + 6$ को क्षेत्रफल समीकरण में प्रतिस्थापित करने पर:\n\n$$(y + 6)^2 + y^2 = 468 \\implies y^2 + 12y + 36 + y^2 = 468$$\n\n$$2y^2 + 12y - 432 = 0 \\implies y^2 + 6y - 216 = 0$$\n\nगुणनखंडन करने पर प्राप्त होता है: $(y + 18)(y - 12) = 0 \\implies y = 12$ (भुजा की लंबाई ऋणात्मक नहीं हो सकती)।\n\nइस प्रकार, वर्गों की भुजाएँ **12 मीटर और 18 मीटर** ($12 + 6$) हैं।",
+      "keyPoints": [
+        "Use difference of perimeters to relate sides.",
+        "Formulate quadratic equation for sum of areas.",
+        "Solve and reject negative value."
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Find the roots of $5x^2 - 6x - 2 = 0$ using the quadratic formula.",
+      "questionHi": "द्विघाती सूत्र का उपयोग करके $5x^2 - 6x - 2 = 0$ के मूल ज्ञात कीजिए।",
+      "answer": "Given $a=5, b=-6, c=-2$. Compute the discriminant:\n\n$$D = b^2 - 4ac = (-6)^2 - 4(5)(-2) = 36 + 40 = 76$$\n\nUsing the quadratic formula:\n\n$$x = \\frac{-(-6) \\pm \\sqrt{76}}{2(5)} = \\frac{6 \\pm 2\\sqrt{19}}{10} = \\frac{2(3 \\pm \\sqrt{19})}{10} = \\frac{3 \\pm \\sqrt{19}}{5}$$\n\nThe roots are **$\\frac{3 + \\sqrt{19}}{5}$ and $\\frac{3 - \\sqrt{19}}{5}$**.",
+      "answerHi": "दिया गया है $a=5, b=-6, c=-2$। विविक्तकर की गणना करें:\n\n$$D = b^2 - 4ac = (-6)^2 - 4(5)(-2) = 36 + 40 = 76$$\n\nद्विघाती सूत्र का उपयोग करते हुए:\n\n$$x = \\frac{-(-6) \\pm \\sqrt{76}}{2(5)} = \\frac{6 \\pm 2\\sqrt{19}}{10} = \\frac{2(3 \\pm \\sqrt{19})}{10} = \\frac{3 \\pm \\sqrt{19}}{5}$$\n\nमूल **$\\frac{3 + \\sqrt{19}}{5}$ और $\\frac{3 - \\sqrt{19}}{5}$** हैं।",
+      "keyPoints": [
+        "Calculate Discriminant.",
+        "Simplify the square root term.",
+        "Substitute in quadratic formula."
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "If the roots of the quadratic equation $(b-c)x^2 + (c-a)x + (a-b) = 0$ are equal, prove that $2b = a + c$.",
+      "questionHi": "यदि द्विघात समीकरण $(b-c)x^2 + (c-a)x + (a-b) = 0$ के मूल समान हों, तो सिद्ध कीजिए कि $2b = a + c$।",
+      "answer": "Notice that if we substitute $x = 1$ into the equation, it satisfies it perfectly because the sum of the coefficients is $(b-c) + (c-a) + (a-b) = 0$. Therefore, $x = 1$ is one root.\n\nSince the problem states that the roots are equal, the second root must also be 1.\n\nThe product of the roots is given by $\\frac{\\text{Constant term}}{\\text{Coefficient of } x^2}$:\n\n$$1 \\times 1 = \\frac{a - b}{b - c} \\implies 1 = \\frac{a - b}{b - c}$$\n\n$$b - c = a - b \\implies b + b = a + c \\implies 2b = a + c$$\n\nHence proved.",
+      "answerHi": "ध्यान दें कि यदि हम समीकरण में $x = 1$ प्रतिस्थापित करते हैं, तो यह इसे पूरी तरह से संतुष्ट करता है क्योंकि गुणांकों का योग $(b-c) + (c-a) + (a-b) = 0$ है। इसलिए, $x = 1$ एक मूल है।\n\nचूँकि प्रश्न में कहा गया है कि मूल समान हैं, दूसरा मूल भी 1 होना चाहिए।\n\nमूलों का गुणनफल $\\frac{\\text{अचर पद}}{x^2 \\text{ का गुणांक}}$ द्वारा दिया जाता है:\n\n$$1 \\times 1 = \\frac{a - b}{b - c} \\implies 1 = \\frac{a - b}{b - c}$$\n\n$$b - c = a - b \\implies b + b = a + c \\implies 2b = a + c$$\n\nइति सिद्धम।",
+      "keyPoints": [
+        "Identify $x=1$ as a root by sum of coefficients.",
+        "Equate product of roots to $c/a$."
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "A motor boat whose speed is 18 km/h in still water takes 1 hour more to go 24 km upstream than to return downstream to the same spot. Find the speed of the stream.",
+      "questionHi": "एक मोटर बोट जिसकी शांत जल में चाल 18 किमी/घंटा है, 24 किमी धारा के प्रतिकूल (upstream) जाने में, वही दूरी धारा के अनुकूल (downstream) वापस आने की अपेक्षा 1 घंटा अधिक लेती है। धारा की चाल ज्ञात कीजिए।",
+      "answer": "Let the speed of the stream be $x$ km/h.\n\n* Speed of the boat upstream = $(18 - x)$ km/h\n* Speed of the boat downstream = $(18 + x)$ km/h\n\nTime taken to travel 24 km upstream is $\\frac{24}{18-x}$ hours, and time taken downstream is $\\frac{24}{18+x}$ hours. According to the problem:\n\n$$\\frac{24}{18-x} - \\frac{24}{18+x} = 1$$\n\n$$24 \\left[ \\frac{(18+x) - (18-x)}{(18-x)(18+x)} \\right] = 1 \\implies 24 \\left[ \\frac{2x}{324 - x^2} \\right] = 1$$\n\n$$48x = 324 - x^2 \\implies x^2 + 48x - 324 = 0$$\n\nSplitting the middle term using factors $54$ and $-6$:\n\n$$x^2 + 54x - 6x - 324 = 0 \\implies x(x + 54) - 6(x + 54) = 0$$\n\n$$(x + 54)(x - 6) = 0 \\implies x = 6 \\text{ or } x = -54$$\n\nSince speed cannot be negative, the speed of the stream is **6 km/h**.",
+      "answerHi": "मान लीजिए धारा की चाल $x$ किमी/घंटा है।\n\n* धारा के प्रतिकूल नाव की चाल = $(18 - x)$ किमी/घंटा\n* धारा के अनुकूल नाव की चाल = $(18 + x)$ किमी/घंटा\n\n24 किमी धारा के प्रतिकूल यात्रा करने में लगा समय $\\frac{24}{18-x}$ घंटे है, और धारा के अनुकूल लगा समय $\\frac{24}{18+x}$ घंटे है। प्रश्न के अनुसार:\n\n$$\\frac{24}{18-x} - \\frac{24}{18+x} = 1$$\n\n$$24 \\left[ \\frac{(18+x) - (18-x)}{(18-x)(18+x)} \\right] = 1 \\implies 24 \\left[ \\frac{2x}{324 - x^2} \\right] = 1$$\n\n$$48x = 324 - x^2 \\implies x^2 + 48x - 324 = 0$$\n\n$54$ और $-6$ गुणनखंडों का उपयोग करके मध्य पद को विभक्त करने पर:\n\n$$x^2 + 54x - 6x - 324 = 0 \\implies x(x + 54) - 6(x + 54) = 0$$\n\n$$(x + 54)(x - 6) = 0 \\implies x = 6 \\text{ या } x = -54$$\n\nचूँकि चाल ऋणात्मक नहीं हो सकती है, धारा की चाल **6 किमी/घंटा** है।",
+      "keyPoints": [
+        "Upstream speed = $18-x$, Downstream speed = $18+x$.",
+        "Formulate equation using Time = Distance / Speed.",
+        "Solve quadratic equation and reject negative root."
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Competency-Based Question: A fast train takes 1 hour less than a passenger train to travel 132 km between Mysore and Bangalore (without taking into consideration the time they stop at intermediate stations). If the average speed of the fast train is 11 km/h more than that of the passenger train, find the average speed of the two trains.",
+      "questionHi": "योग्यता-आधारित प्रश्न: एक एक्सप्रेस रेलगाड़ी मैसूर और बैंगलोर के बीच 132 किमी की यात्रा करने में एक सवारी (passenger) रेलगाड़ी से 1 घंटा कम समय लेती है (मध्यवर्ती स्टेशनों पर ठहरने के समय को ध्यान में न रखते हुए)। यदि एक्सप्रेस रेलगाड़ी की औसत चाल सवारी रेलगाड़ी की औसत चाल से 11 किमी/घंटा अधिक है, तो दोनों रेलगाड़ियों की औसत चाल ज्ञात कीजिए।",
+      "answer": "Let the average speed of the passenger train be $x$ km/h.\n\nTherefore, the average speed of the fast train will be $(x + 11)$ km/h.\n\nTotal transit distance = 132 km.\n\nAccording to the time difference relationship given:\n\n$$\\frac{132}{x} - \\frac{132}{x+11} = 1$$\n\n$$132 \\left[ \\frac{(x+11) - x}{x(x+11)} \\right] = 1 \\implies 132 \\left[ \\frac{11}{x^2 + 11x} \\right] = 1$$\n\n$$1452 = x^2 + 11x \\implies x^2 + 11x - 1452 = 0$$\n\nWe solve this using factorization. The middle factors for $-1452$ that add up to $11$ are $44$ and $-33$:\n\n$$x^2 + 44x - 33x - 1452 = 0 \\implies x(x + 44) - 33(x + 44) = 0$$\n\n$$(x + 44)(x - 33) = 0 \\implies x = 33 \\text{ or } x = -44$$\n\nSince train speed must be a positive quantity, $x = 33$ km/h.\n\nThus, the speed of the passenger train is **33 km/h** and the speed of the fast train is $33 + 11 = \\textbf{44 km/h}$.",
+      "answerHi": "मान लीजिए सवारी रेलगाड़ी की औसत चाल $x$ किमी/घंटा है।\n\nइसलिए, एक्सप्रेस रेलगाड़ी की औसत चाल $(x + 11)$ किमी/घंटा होगी।\n\nकुल यात्रा दूरी = 132 किमी।\n\nदिए गए समय अंतर संबंध के अनुसार:\n\n$$\\frac{132}{x} - \\frac{132}{x+11} = 1$$\n\n$$132 \\left[ \\frac{(x+11) - x}{x(x+11)} \\right] = 1 \\implies 132 \\left[ \\frac{11}{x^2 + 11x} \\right] = 1$$\n\n$$1452 = x^2 + 11x \\implies x^2 + 11x - 1452 = 0$$\n\nहम इसे गुणनखंडन का उपयोग करके हल करते हैं। $-1452$ के लिए मध्य गुणनखंड जिनका योग $11$ है, $44$ और $-33$ हैं:\n\n$$x^2 + 44x - 33x - 1452 = 0 \\implies x(x + 44) - 33(x + 44) = 0$$\n\n$$(x + 44)(x - 33) = 0 \\implies x = 33 \\text{ या } x = -44$$\n\nचूँकि रेलगाड़ी की चाल एक धनात्मक मात्रा होनी चाहिए, $x = 33$ किमी/घंटा।\n\nइस प्रकार, सवारी रेलगाड़ी की चाल **33 किमी/घंटा** है और एक्सप्रेस रेलगाड़ी की चाल $33 + 11 = \\textbf{44 किमी/घंटा}$ है।",
+      "keyPoints": [
+        "Let passenger train speed be $x$, fast train be $x+11$.",
+        "Formulate equation using time difference = 1 hr.",
+        "Solve for $x$ and reject negative speed."
+      ]
+    },
+    {
+      "id": "q21",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Case-Based Descriptive Concept: Two water taps together can fill a tank in $9\\frac{3}{8}$ hours. The tap of larger diameter takes 10 hours less than the smaller one to fill the tank separately. Find the time in which each tap can separately fill the tank.",
+      "questionHi": "केस-आधारित वर्णनात्मक अवधारणा: पानी के दो नल एक साथ एक हौज को $9\\frac{3}{8}$ घंटों में भर सकते हैं। बड़े व्यास वाला नल हौज को अलग से भरने में छोटे नल की तुलना में 10 घंटे कम समय लेता है। वह समय ज्ञात कीजिए जिसमें प्रत्येक नल अलग-अलग हौज को भर सकता है।",
+      "answer": "Let the time taken by the smaller tap to fill the tank be $x$ hours.\n\nThen, the time taken by the larger diameter tap is $(x - 10)$ hours.\n\n* Part of the tank filled by the smaller tap in 1 hour = $\\frac{1}{x}$\n* Part of the tank filled by the larger tap in 1 hour = $\\frac{1}{x-10}$\n\nTogether, they fill the tank in $9\\frac{3}{8} = \\frac{75}{8}$ hours. In 1 hour, both taps together fill $\\frac{8}{75}$ of the tank:\n\n$$\\frac{1}{x} + \\frac{1}{x-10} = \\frac{8}{75} \\implies \\frac{(x-10) + x}{x(x-10)} = \\frac{8}{75}$$\n\n$$\\frac{2x - 10}{x^2 - 10x} = \\frac{8}{75} \\implies 75(2x - 10) = 8(x^2 - 10x)$$\n\n$$150x - 750 = 8x^2 - 80x \\implies 8x^2 - 230x + 750 = 0$$\n\nDivide by 2 to simplify: $4x^2 - 115x + 375 = 0$. Split the middle term using $-100$ and $-15$:\n\n$$4x^2 - 100x - 15x + 375 = 0 \\implies 4x(x - 25) - 15(x - 25) = 0$$\n\n$$(x - 25)(4x - 15) = 0 \\implies x = 25 \\text{ or } x = \\frac{15}{4} = 3.75$$\n\nIf $x = 3.75\\text{ hours}$, the larger tap time would be $3.75 - 10 = -6.25\\text{ hours}$ (impossible). Thus, $x = 25$.\n\nThe smaller tap takes **25 hours** and the larger tap takes **15 hours** ($25 - 10$).",
+      "answerHi": "मान लीजिए छोटे नल द्वारा हौज को भरने में लिया गया समय $x$ घंटे है।\n\nतब, बड़े व्यास वाले नल द्वारा लिया गया समय $(x - 10)$ घंटे है।\n\n* 1 घंटे में छोटे नल द्वारा भरा गया हौज का भाग = $\\frac{1}{x}$\n* 1 घंटे में बड़े नल द्वारा भरा गया हौज का भाग = $\\frac{1}{x-10}$\n\nदोनों मिलकर हौज को $9\\frac{3}{8} = \\frac{75}{8}$ घंटों में भरते हैं। 1 घंटे में, दोनों नल एक साथ हौज का $\\frac{8}{75}$ भाग भरते हैं:\n\n$$\\frac{1}{x} + \\frac{1}{x-10} = \\frac{8}{75} \\implies \\frac{(x-10) + x}{x(x-10)} = \\frac{8}{75}$$\n\n$$\\frac{2x - 10}{x^2 - 10x} = \\frac{8}{75} \\implies 75(2x - 10) = 8(x^2 - 10x)$$\n\n$$150x - 750 = 8x^2 - 80x \\implies 8x^2 - 230x + 750 = 0$$\n\nसरल करने के लिए 2 से भाग दें: $4x^2 - 115x + 375 = 0$। $-100$ और $-15$ का उपयोग करके मध्य पद को विभक्त करें:\n\n$$4x^2 - 100x - 15x + 375 = 0 \\implies 4x(x - 25) - 15(x - 25) = 0$$\n\n$$(x - 25)(4x - 15) = 0 \\implies x = 25 \\text{ या } x = \\frac{15}{4} = 3.75$$\n\nयदि $x = 3.75\\text{ घंटे}$, तो बड़े नल का समय $3.75 - 10 = -6.25\\text{ घंटे}$ (असंभव) होगा। इस प्रकार, $x = 25$ है।\n\nछोटा नल **25 घंटे** लेता है और बड़ा नल **15 घंटे** ($25 - 10$) लेता है।",
+      "keyPoints": [
+        "Work done in 1 hour = $1/x + 1/(x-10)$.",
+        "Formulate equation with $8/75$.",
+        "Solve quadratic equation and check validity of answers."
+      ]
+    },
+    {
+      "id": "q22",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Analytical Challenge: Find the values of $m$ for which the quadratic equation $(m+1)x^2 - 2(m-1)x + 1 = 0$ has real and equal roots.",
+      "questionHi": "विश्लेषणात्मक चुनौती: $m$ के वे मान ज्ञात कीजिए जिनके लिए द्विघात समीकरण $(m+1)x^2 - 2(m-1)x + 1 = 0$ के वास्तविक और समान मूल हों।",
+      "answer": "For the quadratic equation to have real and equal roots, the discriminant must be zero ($D = 0$).\n\nHere, $a = (m+1), b = -2(m-1), c = 1$.\n\n$$b^2 - 4ac = 0 \\implies [-2(m-1)]^2 - 4(m+1)(1) = 0$$\n\n$$4(m-1)^2 - 4(m+1) = 0$$\n\nDivide the entire equation by 4:\n\n$$(m-1)^2 - (m+1) = 0$$\n\n$$m^2 - 2m + 1 - m - 1 = 0$$\n\n$$m^2 - 3m = 0 \\implies m(m - 3) = 0$$\n\nThis gives two possible mathematical values for $m$: $m = 0$ or $m = 3$.\n\nWe must check if $m = 0$ or $m = 3$ violates the base quadratic condition ($a \\neq 0$).\n\n* If $m = 0$, $a = 0 + 1 = 1 \\neq 0$ (Valid)\n* If $m = 3$, $a = 3 + 1 = 4 \\neq 0$ (Valid)\nThus, the values of $m$ are **$0$ and $3$**.",
+      "answerHi": "द्विघात समीकरण के वास्तविक और समान मूल होने के लिए, विविक्तकर शून्य होना चाहिए ($D = 0$)।\n\nयहाँ, $a = (m+1), b = -2(m-1), c = 1$ है।\n\n$$b^2 - 4ac = 0 \\implies [-2(m-1)]^2 - 4(m+1)(1) = 0$$\n\n$$4(m-1)^2 - 4(m+1) = 0$$\n\nपूरे समीकरण को 4 से भाग दें:\n\n$$(m-1)^2 - (m+1) = 0$$\n\n$$m^2 - 2m + 1 - m - 1 = 0$$\n\n$$m^2 - 3m = 0 \\implies m(m - 3) = 0$$\n\nयह $m$ के लिए दो संभावित गणितीय मान देता है: $m = 0$ या $m = 3$।\n\nहमें यह जाँचना होगा कि क्या $m = 0$ या $m = 3$ मूल द्विघात शर्त ($a \\neq 0$) का उल्लंघन करता है।\n\n* यदि $m = 0$ है, $a = 0 + 1 = 1 \\neq 0$ (मान्य)\n* यदि $m = 3$ है, $a = 3 + 1 = 4 \\neq 0$ (मान्य)\nइस प्रकार, $m$ के मान **$0$ और $3$** हैं।",
+      "keyPoints": [
+        "Condition for equal roots: $D=0$.",
+        "Solve quadratic equation in terms of m.",
+        "Check validity against $a \\neq 0$."
+      ]
+    }
+  ]
+}
