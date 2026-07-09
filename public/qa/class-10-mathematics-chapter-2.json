@@ -1,0 +1,351 @@
+{
+  "chapterTitle": "Polynomials",
+  "chapterTitleHi": "बहुपद",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Define the degree of a polynomial and give an example of a quadratic polynomial.",
+      "questionHi": "बहुपद की घात को परिभाषित कीजिए और एक द्विघात बहुपद का उदाहरण दीजिए।",
+      "answer": "The highest power of the variable $x$ in a polynomial $p(x)$ is called the degree of the polynomial. A polynomial of degree 2 is called a quadratic polynomial. Example:\n\n$$p(x) = 2x^2 - 3x + 4$$",
+      "answerHi": "किसी बहुपद $p(x)$ में चर $x$ की उच्चतम घात को बहुपद की घात कहा जाता है। घात 2 वाले बहुपद को द्विघात बहुपद कहा जाता है। उदाहरण:\n\n$$p(x) = 2x^2 - 3x + 4$$",
+      "keyPoints": [
+        "Highest power of variable is the degree.",
+        "Quadratic polynomial has degree 2."
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Look at the graph of $y = p(x)$ below. Find the number of zeroes of $p(x)$ and give a reason.\n\n$$\\text{[Graph description: A curve intersecting the x-axis at exactly three distinct points]}$$",
+      "questionHi": "नीचे $y = p(x)$ का ग्राफ देखें। $p(x)$ के शून्यकों की संख्या ज्ञात कीजिए और कारण बताइए।\n\n$$\\text{[ग्राफ विवरण: एक वक्र जो x-अक्ष को ठीक तीन अलग-अलग बिंदुओं पर प्रतिच्छेद करता है]}$$",
+      "answer": "The number of zeroes is 3. This is because the graph of $y = p(x)$ intersects the $x$-axis at exactly three distinct points. The number of intersections with the $x$-axis equals the number of real zeroes.",
+      "answerHi": "शून्यकों की संख्या 3 है। ऐसा इसलिए है क्योंकि $y = p(x)$ का ग्राफ $x$-अक्ष को ठीक तीन अलग-अलग बिंदुओं पर प्रतिच्छेद करता है। $x$-अक्ष के साथ प्रतिच्छेदन की संख्या वास्तविक शून्यकों की संख्या के बराबर होती है।",
+      "keyPoints": [
+        "Number of zeroes = number of intersections with x-axis."
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "Find the zeroes of the quadratic polynomial $x^2 - 2x - 8$.",
+      "questionHi": "द्विघात बहुपद $x^2 - 2x - 8$ के शून्यक ज्ञात कीजिए।",
+      "answer": "Setting the polynomial to 0 and splitting the middle term:\n\n$$x^2 - 4x + 2x - 8 = 0$$\n\n$$x(x - 4) + 2(x - 4) = 0 \\implies (x - 4)(x + 2) = 0$$\n\nThus, $x = 4$ or $x = -2$. The zeroes are **4 and $-2$**.",
+      "answerHi": "बहुपद को 0 के बराबर रखने और मध्य पद को विभक्त करने पर:\n\n$$x^2 - 4x + 2x - 8 = 0$$\n\n$$x(x - 4) + 2(x - 4) = 0 \\implies (x - 4)(x + 2) = 0$$\n\nइस प्रकार, $x = 4$ या $x = -2$। शून्यक **4 और $-2$** हैं।",
+      "keyPoints": [
+        "Set polynomial to zero.",
+        "Factorize by splitting the middle term."
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "Find a quadratic polynomial, the sum and product of whose zeroes are $-3$ and $2$, respectively.",
+      "questionHi": "एक द्विघात बहुपद ज्ञात कीजिए, जिसके शून्यकों का योग और गुणनफल क्रमशः $-3$ और $2$ है।",
+      "answer": "A quadratic polynomial is given by the formula: $k[x^2 - (\\text{Sum of zeroes})x + (\\text{Product of zeroes})]$.\n\nGiven $\\alpha + \\beta = -3$ and $\\alpha\\beta = 2$:\n\n$$p(x) = x^2 - (-3)x + 2 = x^2 + 3x + 2$$",
+      "answerHi": "द्विघात बहुपद इस सूत्र द्वारा दिया जाता है: $k[x^2 - (\\text{शून्यकों का योग})x + (\\text{शून्यकों का गुणनफल})]$।\n\nदिया गया है $\\alpha + \\beta = -3$ और $\\alpha\\beta = 2$:\n\n$$p(x) = x^2 - (-3)x + 2 = x^2 + 3x + 2$$",
+      "keyPoints": [
+        "Formula: $x^2 - (\\alpha + \\beta)x + \\alpha\\beta$."
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "If one zero of the quadratic polynomial $x^2 + 3x + k$ is $2$, find the value of $k$.",
+      "questionHi": "यदि द्विघात बहुपद $x^2 + 3x + k$ का एक शून्यक $2$ है, तो $k$ का मान ज्ञात कीजिए।",
+      "answer": "Since $2$ is a zero of $p(x) = x^2 + 3x + k$, then $p(2) = 0$.\n\n$$(2)^2 + 3(2) + k = 0$$\n\n$$4 + 6 + k = 0 \\implies 10 + k = 0 \\implies k = -10$$",
+      "answerHi": "चूँकि $2$, $p(x) = x^2 + 3x + k$ का एक शून्यक है, इसलिए $p(2) = 0$।\n\n$$(2)^2 + 3(2) + k = 0$$\n\n$$4 + 6 + k = 0 \\implies 10 + k = 0 \\implies k = -10$$",
+      "keyPoints": [
+        "Substitute the zero into the polynomial.",
+        "Set the polynomial equal to 0."
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Write the relationship between the zeroes and coefficients of a standard quadratic polynomial $ax^2 + bx + c$.",
+      "questionHi": "एक मानक द्विघात बहुपद $ax^2 + bx + c$ के शून्यकों और गुणांकों के बीच संबंध लिखिए।",
+      "answer": "If $\\alpha$ and $\\beta$ are the zeroes of $ax^2 + bx + c$ ($a \\neq 0$), then:\n\n* **Sum of zeroes ($\\alpha + \\beta$):** $-\\frac{b}{a} = \\frac{-\\text{Coefficient of } x}{\\text{Coefficient of } x^2}$\n* **Product of zeroes ($\\alpha\\beta$):** $\\frac{c}{a} = \\frac{\\text{Constant term}}{\\text{Coefficient of } x^2}$",
+      "answerHi": "यदि $\\alpha$ और $\\beta$, $ax^2 + bx + c$ ($a \\neq 0$) के शून्यक हैं, तो:\n\n* **शून्यकों का योग ($\\alpha + \\beta$):** $-\\frac{b}{a} = \\frac{- x \\text{ का गुणांक}}{x^2 \\text{ का गुणांक}}$\n* **शून्यकों का गुणनफल ($\\alpha\\beta$):** $\\frac{c}{a} = \\frac{\\text{अचर पद}}{x^2 \\text{ का गुणांक}}$",
+      "keyPoints": [
+        "Sum = $-b/a$",
+        "Product = $c/a$"
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "If the product of the zeroes of the polynomial $ax^2 - 6x - 6$ is $4$, find the value of $a$.",
+      "questionHi": "यदि बहुपद $ax^2 - 6x - 6$ के शून्यकों का गुणनफल $4$ है, तो $a$ का मान ज्ञात कीजिए।",
+      "answer": "For the polynomial $ax^2 - 6x - 6$, the product of zeroes is $\\frac{c}{a} = \\frac{-6}{a}$.\n\nGiven that the product is $4$:\n\n$$\\frac{-6}{a} = 4 \\implies 4a = -6 \\implies a = -\\frac{6}{4} = -\\frac{3}{2}$$",
+      "answerHi": "बहुपद $ax^2 - 6x - 6$ के लिए, शून्यकों का गुणनफल $\\frac{c}{a} = \\frac{-6}{a}$ है।\n\nदिया गया है कि गुणनफल $4$ है:\n\n$$\\frac{-6}{a} = 4 \\implies 4a = -6 \\implies a = -\\frac{6}{4} = -\\frac{3}{2}$$",
+      "keyPoints": [
+        "Use Product of zeroes = $c/a$.",
+        "Equate to the given value and solve."
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "Can a quadratic polynomial have no real zeroes? Explain geometrically.",
+      "questionHi": "क्या किसी द्विघात बहुपद का कोई वास्तविक शून्यक नहीं हो सकता है? ज्यामितीय रूप से व्याख्या कीजिए।",
+      "answer": "Yes, a quadratic polynomial can have no real zeroes. Geometrically, this happens when the parabola representing the quadratic polynomial lies entirely above or entirely below the $x$-axis and does not intersect or touch the $x$-axis at any point.",
+      "answerHi": "हाँ, किसी द्विघात बहुपद का कोई वास्तविक शून्यक नहीं हो सकता है। ज्यामितीय रूप से, ऐसा तब होता है जब द्विघात बहुपद को निरूपित करने वाला परवलय पूरी तरह से $x$-अक्ष के ऊपर या पूरी तरह से नीचे होता है और $x$-अक्ष को किसी भी बिंदु पर प्रतिच्छेद या स्पर्श नहीं करता है।",
+      "keyPoints": [
+        "Graph does not intersect x-axis."
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Find the sum and product of the zeroes of the polynomial $3x^2 - x - 4$.",
+      "questionHi": "बहुपद $3x^2 - x - 4$ के शून्यकों का योग और गुणनफल ज्ञात कीजिए।",
+      "answer": "Comparing with $ax^2 + bx + c$, we get $a = 3, b = -1, c = -4$.\n\n$$\\text{Sum of zeroes } (\\alpha + \\beta) = -\\frac{b}{a} = -\\frac{-1}{3} = \\frac{1}{3}$$\n\n$$\\text{Product of zeroes } (\\alpha\\beta) = \\frac{c}{a} = \\frac{-4}{3}$$",
+      "answerHi": "$ax^2 + bx + c$ के साथ तुलना करने पर, हमें $a = 3, b = -1, c = -4$ प्राप्त होता है।\n\n$$\\text{शून्यकों का योग } (\\alpha + \\beta) = -\\frac{b}{a} = -\\frac{-1}{3} = \\frac{1}{3}$$\n\n$$\\text{शून्यकों का गुणनफल } (\\alpha\\beta) = \\frac{c}{a} = \\frac{-4}{3}$$",
+      "keyPoints": [
+        "Identify coefficients $a, b, c$.",
+        "Use formulas $-b/a$ and $c/a$."
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Form a quadratic polynomial whose zeroes are $\\sqrt{2}$ and $-\\sqrt{2}$.",
+      "questionHi": "एक द्विघात बहुपद बनाइए जिसके शून्यक $\\sqrt{2}$ और $-\\sqrt{2}$ हैं।",
+      "answer": "* $\\text{Sum of zeroes } (\\alpha + \\beta) = \\sqrt{2} + (-\\sqrt{2}) = 0$\n* $\\text{Product of zeroes } (\\alpha\\beta) = \\sqrt{2} \\times (-\\sqrt{2}) = -2$\n\n$$\\text{Polynomial} = x^2 - (\\text{Sum})x + \\text{Product} = x^2 - (0)x - 2 = x^2 - 2$$",
+      "answerHi": "* $\\text{शून्यकों का योग } (\\alpha + \\beta) = \\sqrt{2} + (-\\sqrt{2}) = 0$\n* $\\text{शून्यकों का गुणनफल } (\\alpha\\beta) = \\sqrt{2} \\times (-\\sqrt{2}) = -2$\n\n$$\\text{बहुपद} = x^2 - (\\text{योग})x + \\text{गुणनफल} = x^2 - (0)x - 2 = x^2 - 2$$",
+      "keyPoints": [
+        "Calculate sum and product of zeroes.",
+        "Substitute in $x^2 - (\\text{sum})x + \\text{product}$."
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Find the zeroes of the quadratic polynomial $4x^2 - 4x + 1$ and verify the relationship between the zeroes and the coefficients.",
+      "questionHi": "द्विघात बहुपद $4x^2 - 4x + 1$ के शून्यक ज्ञात कीजिए और शून्यकों तथा गुणांकों के बीच संबंध की सत्यता की जाँच कीजिए।",
+      "answer": "Let $4x^2 - 4x + 1 = 0$.\n\n$$4x^2 - 2x - 2x + 1 = 0 \\implies 2x(2x - 1) - 1(2x - 1) = 0$$\n\n$$(2x - 1)(2x - 1) = 0 \\implies x = \\frac{1}{2}, \\frac{1}{2}$$\n\nThe zeroes are $\\alpha = \\frac{1}{2}$ and $\\beta = \\frac{1}{2}$.\n\n**Verification:** \n* $\\text{Sum of zeroes} = \\frac{1}{2} + \\frac{1}{2} = 1$. From coefficients: $-\\frac{b}{a} = -\\frac{-4}{4} = 1$. (Verified)\n* $\\text{Product of zeroes} = \\frac{1}{2} \\times \\frac{1}{2} = \\frac{1}{4}$. From coefficients: $\\frac{c}{a} = \\frac{1}{4}$. (Verified)",
+      "answerHi": "माना $4x^2 - 4x + 1 = 0$।\n\n$$4x^2 - 2x - 2x + 1 = 0 \\implies 2x(2x - 1) - 1(2x - 1) = 0$$\n\n$$(2x - 1)(2x - 1) = 0 \\implies x = \\frac{1}{2}, \\frac{1}{2}$$\n\nशून्यक $\\alpha = \\frac{1}{2}$ और $\\beta = \\frac{1}{2}$ हैं।\n\n**सत्यापन:**\n* $\\text{शून्यकों का योग} = \\frac{1}{2} + \\frac{1}{2} = 1$। गुणांकों से: $-\\frac{b}{a} = -\\frac{-4}{4} = 1$। (सत्यापित)\n* $\\text{शून्यकों का गुणनफल} = \\frac{1}{2} \\times \\frac{1}{2} = \\frac{1}{4}$। गुणांकों से: $\\frac{c}{a} = \\frac{1}{4}$। (सत्यापित)",
+      "keyPoints": [
+        "Find zeroes by factorization.",
+        "Verify sum = $-b/a$ and product = $c/a$."
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Find the zeroes of the polynomial $t^2 - 15$ and verify the relation with its coefficients.",
+      "questionHi": "बहुपद $t^2 - 15$ के शून्यक ज्ञात कीजिए और इसके गुणांकों के साथ संबंध की जाँच कीजिए।",
+      "answer": "Let $t^2 - 15 = 0 \\implies t^2 = 15 \\implies t = \\pm\\sqrt{15}$.\n\nThe zeroes are $\\alpha = \\sqrt{15}$ and $\\beta = -\\sqrt{15}$.\n\nHere, $a = 1, b = 0, c = -15$.\n\n**Verification:** \n* $\\text{Sum of zeroes} = \\sqrt{15} + (-\\sqrt{15}) = 0$. From coefficients: $-\\frac{b}{a} = -\\frac{0}{1} = 0$.\n* $\\text{Product of zeroes} = \\sqrt{15} \\times (-\\sqrt{15}) = -15$. From coefficients: $\\frac{c}{a} = \\frac{-15}{1} = -15$.\n\nThe relationships stand verified.",
+      "answerHi": "माना $t^2 - 15 = 0 \\implies t^2 = 15 \\implies t = \\pm\\sqrt{15}$।\n\nशून्यक $\\alpha = \\sqrt{15}$ और $\\beta = -\\sqrt{15}$ हैं।\n\nयहाँ, $a = 1, b = 0, c = -15$।\n\n**सत्यापन:**\n* $\\text{शून्यकों का योग} = \\sqrt{15} + (-\\sqrt{15}) = 0$। गुणांकों से: $-\\frac{b}{a} = -\\frac{0}{1} = 0$।\n* $\\text{शून्यकों का गुणनफल} = \\sqrt{15} \\times (-\\sqrt{15}) = -15$। गुणांकों से: $\\frac{c}{a} = \\frac{-15}{1} = -15$।\n\nसंबंध सत्यापित होते हैं।",
+      "keyPoints": [
+        "Zeroes are $\\pm\\sqrt{15}$.",
+        "Coefficient of linear term is 0."
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "If $\\alpha$ and $\\beta$ are the zeroes of the quadratic polynomial $p(x) = x^2 - 5x + 6$, find the value of $\\alpha^2 + \\beta^2$.",
+      "questionHi": "यदि $\\alpha$ और $\\beta$ द्विघात बहुपद $p(x) = x^2 - 5x + 6$ के शून्यक हैं, तो $\\alpha^2 + \\beta^2$ का मान ज्ञात कीजिए।",
+      "answer": "From the polynomial $x^2 - 5x + 6$, we identify $a=1, b=-5, c=6$.\n\n$$\\alpha + \\beta = -\\frac{-5}{1} = 5$$\n\n$$\\alpha\\beta = \\frac{6}{1} = 6$$\n\nWe know the algebraic identity: $\\alpha^2 + \\beta^2 = (\\alpha + \\beta)^2 - 2\\alpha\\beta$.\n\nSubstituting the values:\n\n$$\\alpha^2 + \\beta^2 = (5)^2 - 2(6) = 25 - 12 = 13$$",
+      "answerHi": "बहुपद $x^2 - 5x + 6$ से, हम $a=1, b=-5, c=6$ पहचानते हैं।\n\n$$\\alpha + \\beta = -\\frac{-5}{1} = 5$$\n\n$$\\alpha\\beta = \\frac{6}{1} = 6$$\n\nहम बीजगणितीय सर्वसमिका जानते हैं: $\\alpha^2 + \\beta^2 = (\\alpha + \\beta)^2 - 2\\alpha\\beta$।\n\nमानों को प्रतिस्थापित करने पर:\n\n$$\\alpha^2 + \\beta^2 = (5)^2 - 2(6) = 25 - 12 = 13$$",
+      "keyPoints": [
+        "Use identity $\\alpha^2 + \\beta^2 = (\\alpha + \\beta)^2 - 2\\alpha\\beta$."
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "Find a quadratic polynomial whose zeroes are reciprocal to the zeroes of the polynomial $p(x) = ax^2 + bx + c$.",
+      "questionHi": "एक ऐसा द्विघात बहुपद ज्ञात कीजिए जिसके शून्यक बहुपद $p(x) = ax^2 + bx + c$ के शून्यकों के व्युत्क्रम (reciprocal) हों।",
+      "answer": "Let $\\alpha$ and $\\beta$ be the zeroes of $ax^2 + bx + c$. Then $\\alpha + \\beta = -\\frac{b}{a}$ and $\\alpha\\beta = \\frac{c}{a}$.\n\nThe zeroes of the new polynomial are $\\frac{1}{\\alpha}$ and $\\frac{1}{\\beta}$.\n\n$$\\text{New Sum} = \\frac{1}{\\alpha} + \\frac{1}{\\beta} = \\frac{\\alpha + \\beta}{\\alpha\\beta} = \\frac{-b/a}{c/a} = -\\frac{b}{c}$$\n\n$$\\text{New Product} = \\frac{1}{\\alpha} \\times \\frac{1}{\\beta} = \\frac{1}{\\alpha\\beta} = \\frac{1}{c/a} = \\frac{a}{c}$$\n\nThe required polynomial is $x^2 - (\\text{New Sum})x + \\text{New Product} = x^2 - \\left(-\\frac{b}{c}\\right)x + \\frac{a}{c} = cx^2 + bx + a$.",
+      "answerHi": "मान लीजिए $\\alpha$ और $\\beta$, $ax^2 + bx + c$ के शून्यक हैं। तब $\\alpha + \\beta = -\\frac{b}{a}$ और $\\alpha\\beta = \\frac{c}{a}$।\n\nनए बहुपद के शून्यक $\\frac{1}{\\alpha}$ और $\\frac{1}{\\beta}$ हैं।\n\n$$\\text{नया योग} = \\frac{1}{\\alpha} + \\frac{1}{\\beta} = \\frac{\\alpha + \\beta}{\\alpha\\beta} = \\frac{-b/a}{c/a} = -\\frac{b}{c}$$\n\n$$\\text{नया गुणनफल} = \\frac{1}{\\alpha} \\times \\frac{1}{\\beta} = \\frac{1}{\\alpha\\beta} = \\frac{1}{c/a} = \\frac{a}{c}$$\n\nअभीष्ट बहुपद $x^2 - (\\text{नया योग})x + \\text{नया गुणनफल} = x^2 - \\left(-\\frac{b}{c}\\right)x + \\frac{a}{c} = cx^2 + bx + a$ है।",
+      "keyPoints": [
+        "Calculate sum and product of reciprocal zeroes.",
+        "Form polynomial."
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "If the sum of the zeroes of the quadratic polynomial $kx^2 + 2x + 3k$ is equal to their product, find the value of $k$.",
+      "questionHi": "यदि द्विघात बहुपद $kx^2 + 2x + 3k$ के शून्यकों का योग उनके गुणनफल के बराबर है, तो $k$ का मान ज्ञात कीजिए।",
+      "answer": "For the polynomial $kx^2 + 2x + 3k$, we have $a = k, b = 2, c = 3k$.\n\n* $\\text{Sum of zeroes } (\\alpha + \\beta) = -\\frac{2}{k}$\n* $\\text{Product of zeroes } (\\alpha\\beta) = \\frac{3k}{k} = 3$\n\nAccording to the question, $\\text{Sum} = \\text{Product}$:\n\n$$-\\frac{2}{k} = 3 \\implies 3k = -2 \\implies k = -\\frac{2}{3}$$",
+      "answerHi": "बहुपद $kx^2 + 2x + 3k$ के लिए, हमारे पास $a = k, b = 2, c = 3k$ है।\n\n* $\\text{शून्यकों का योग } (\\alpha + \\beta) = -\\frac{2}{k}$\n* $\\text{शून्यकों का गुणनफल } (\\alpha\\beta) = \\frac{3k}{k} = 3$\n\nप्रश्नानुसार, $\\text{योग} = \\text{गुणनफल}$:\n\n$$-\\frac{2}{k} = 3 \\implies 3k = -2 \\implies k = -\\frac{2}{3}$$",
+      "keyPoints": [
+        "Equate $-b/a$ with $c/a$."
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Geometrically explain how many maximum zeroes a linear polynomial, a quadratic polynomial, and a cubic polynomial can have.",
+      "questionHi": "ज्यामितीय रूप से व्याख्या कीजिए कि एक रैखिक बहुपद, एक द्विघात बहुपद और एक त्रिघात बहुपद के अधिकतम कितने शून्यक हो सकते हैं।",
+      "answer": "The number of zeroes corresponds to the maximum number of points where the graph intersects the $x$-axis:\n\n1. A **linear polynomial** ($ax+b$) represents a straight line and can intersect the $x$-axis at most at **1 point**, so it has 1 zero.\n2. A **quadratic polynomial** represents a parabola and can intersect the $x$-axis at most at **2 points**, yielding a maximum of 2 zeroes.\n3. A **cubic polynomial** can curve to cross the $x$-axis at most at **3 points**, yielding a maximum of 3 zeroes.",
+      "answerHi": "शून्यकों की संख्या उन बिंदुओं की अधिकतम संख्या के अनुरूप होती है जहाँ ग्राफ $x$-अक्ष को प्रतिच्छेद करता है:\n\n1. एक **रैखिक बहुपद** ($ax+b$) एक सीधी रेखा का निरूपण करता है और $x$-अक्ष को अधिकतम **1 बिंदु** पर प्रतिच्छेद कर सकता है, इसलिए इसका 1 शून्यक होता है।\n2. एक **द्विघात बहुपद** एक परवलय (parabola) का निरूपण करता है और $x$-अक्ष को अधिकतम **2 बिंदुओं** पर प्रतिच्छेद कर सकता है, जिससे अधिकतम 2 शून्यक प्राप्त होते हैं।\n3. एक **त्रिघात बहुपद** वक्र (curve) बनाकर $x$-अक्ष को अधिकतम **3 बिंदुओं** पर पार कर सकता है, जिससे अधिकतम 3 शून्यक प्राप्त होते हैं।",
+      "keyPoints": [
+        "Linear: Max 1 zero.",
+        "Quadratic: Max 2 zeroes.",
+        "Cubic: Max 3 zeroes."
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Easy",
+      "question": "Find the zeroes of the polynomial $4u^2 + 8u$.",
+      "questionHi": "बहुपद $4u^2 + 8u$ के शून्यक ज्ञात कीजिए।",
+      "answer": "To find the zeroes, set $4u^2 + 8u = 0$.\n\nFactor out the common terms:\n\n$$4u(u + 2) = 0$$\n\nThis implies either $4u = 0 \\implies u = 0$, or $u + 2 = 0 \\implies u = -2$.\n\nTherefore, the zeroes of the given polynomial are **0 and $-2$**.",
+      "answerHi": "शून्यक ज्ञात करने के लिए, $4u^2 + 8u = 0$ रखें।\n\nउभयनिष्ठ पदों को बाहर निकालें:\n\n$$4u(u + 2) = 0$$\n\nइसका अर्थ है कि या तो $4u = 0 \\implies u = 0$, या $u + 2 = 0 \\implies u = -2$।\n\nइसलिए, दिए गए बहुपद के शून्यक **0 और $-2$** हैं।",
+      "keyPoints": [
+        "Factorize by taking out common term."
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "If $\\alpha$ and $\\beta$ are zeroes of $x^2 - x - 4$, find the value of $\\frac{1}{\\alpha} + \\frac{1}{\\beta} - \\alpha\\beta$.",
+      "questionHi": "यदि $\\alpha$ और $\\beta$, $x^2 - x - 4$ के शून्यक हैं, तो $\\frac{1}{\\alpha} + \\frac{1}{\\beta} - \\alpha\\beta$ का मान ज्ञात कीजिए।",
+      "answer": "From the polynomial, $\\alpha + \\beta = 1$ and $\\alpha\\beta = -4$.\n\nThe given expression is $\\frac{1}{\\alpha} + \\frac{1}{\\beta} - \\alpha\\beta = \\frac{\\alpha + \\beta}{\\alpha\\beta} - \\alpha\\beta$.\n\nSubstituting the values:\n\n$$= \\frac{1}{-4} - (-4) = -\\frac{1}{4} + 4 = \\frac{-1 + 16}{4} = \\frac{15}{4}$$",
+      "answerHi": "बहुपद से, $\\alpha + \\beta = 1$ और $\\alpha\\beta = -4$।\n\nदिया गया व्यंजक $\\frac{1}{\\alpha} + \\frac{1}{\\beta} - \\alpha\\beta = \\frac{\\alpha + \\beta}{\\alpha\\beta} - \\alpha\\beta$ है।\n\nमानों को प्रतिस्थापित करने पर:\n\n$$= \\frac{1}{-4} - (-4) = -\\frac{1}{4} + 4 = \\frac{-1 + 16}{4} = \\frac{15}{4}$$",
+      "keyPoints": [
+        "Simplify the expression in terms of sum and product."
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "If one zero of a quadratic polynomial $p(x) = x^2 - kx - 15$ is $-3$, find the other zero.",
+      "questionHi": "यदि द्विघात बहुपद $p(x) = x^2 - kx - 15$ का एक शून्यक $-3$ है, तो दूसरा शून्यक ज्ञात कीजिए।",
+      "answer": "Let the two zeroes be $\\alpha = -3$ and $\\beta$. From the polynomial, the product of zeroes is $\\frac{c}{a} = -15$.\n\n$$\\alpha \\times \\beta = -15$$\n\n$$(-3) \\times \\beta = -15 \\implies \\beta = \\frac{-15}{-3} = 5$$\n\nThus, the other zero is **5**.",
+      "answerHi": "मान लीजिए दो शून्यक $\\alpha = -3$ और $\\beta$ हैं। बहुपद से, शून्यकों का गुणनफल $\\frac{c}{a} = -15$ है।\n\n$$\\alpha \\times \\beta = -15$$\n\n$$(-3) \\times \\beta = -15 \\implies \\beta = \\frac{-15}{-3} = 5$$\n\nइस प्रकार, दूसरा शून्यक **5** है।",
+      "keyPoints": [
+        "Use product of zeroes property."
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Easy",
+      "question": "Show that $x = -1$ is a zero of the polynomial $p(x) = 2x^3 - x^2 - 5x - 2$.",
+      "questionHi": "दिखाइए कि $x = -1$ बहुपद $p(x) = 2x^3 - x^2 - 5x - 2$ का एक शून्यक है।",
+      "answer": "For $x = -1$ to be a zero, $p(-1)$ must evaluate to 0.\n\n$$p(-1) = 2(-1)^3 - (-1)^2 - 5(-1) - 2$$\n\n$$= 2(-1) - (1) + 5 - 2 = -2 - 1 + 5 - 2 = -5 + 5 = 0$$\n\nSince $p(-1) = 0$, $x = -1$ is verified as a zero of the polynomial.",
+      "answerHi": "$x = -1$ के शून्यक होने के लिए, $p(-1)$ का मान 0 होना चाहिए।\n\n$$p(-1) = 2(-1)^3 - (-1)^2 - 5(-1) - 2$$\n\n$$= 2(-1) - (1) + 5 - 2 = -2 - 1 + 5 - 2 = -5 + 5 = 0$$\n\nचूँकि $p(-1) = 0$, इसलिए $x = -1$ बहुपद के शून्यक के रूप में सत्यापित होता है।",
+      "keyPoints": [
+        "Evaluate polynomial at $x=-1$."
+      ]
+    },
+    {
+      "id": "q21",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Find the zeroes of the quadratic polynomial $6x^2 - 3 - 7x$ and verify the relationship between the zeroes and the coefficients.",
+      "questionHi": "द्विघात बहुपद $6x^2 - 3 - 7x$ के शून्यक ज्ञात कीजिए और शून्यकों तथा गुणांकों के बीच संबंध की सत्यता की जाँच कीजिए।",
+      "answer": "First, rearrange the terms in standard form: $p(x) = 6x^2 - 7x - 3$.\n\nTo find the zeroes, set $6x^2 - 7x - 3 = 0$. Split the middle term using factors of $6 \\times (-3) = -18$, which are $-9$ and $2$:\n\n$$6x^2 - 9x + 2x - 3 = 0$$\n\n$$3x(2x - 3) + 1(2x - 3) = 0 \\implies (2x - 3)(3x + 1) = 0$$\n\nThis gives $2x - 3 = 0 \\implies x = \\frac{3}{2}$ and $3x + 1 = 0 \\implies x = -\\frac{1}{3}$.\n\nSo, the zeroes are $\\alpha = \\frac{3}{2}$ and $\\beta = -\\frac{1}{3}$.\n\n**Verification:** Here, $a = 6, b = -7, c = -3$.\n\n1. **Sum of zeroes:** $\\alpha + \\beta = \\frac{3}{2} + \\left(-\\frac{1}{3}\\right) = \\frac{9 - 2}{6} = \\frac{7}{6}$.\nFrom coefficients: $-\\frac{b}{a} = -\\frac{-7}{6} = \\frac{7}{6}$. (Sum is verified)\n2. **Product of zeroes:** $\\alpha\\beta = \\frac{3}{2} \\times \\left(-\\frac{1}{3}\\right) = -\\frac{3}{6} = -\\frac{1}{2}$.\nFrom coefficients: $\\frac{c}{a} = \\frac{-3}{6} = -\\frac{1}{2}$. (Product is verified)",
+      "answerHi": "सबसे पहले, पदों को मानक रूप में पुनर्व्यवस्थित करें: $p(x) = 6x^2 - 7x - 3$।\n\nशून्यक ज्ञात करने के लिए, $6x^2 - 7x - 3 = 0$ रखें। मध्य पद को विभक्त करने के लिए $6 \\times (-3) = -18$ के गुणनखंडों का उपयोग करें, जो $-9$ और $2$ हैं:\n\n$$6x^2 - 9x + 2x - 3 = 0$$\n\n$$3x(2x - 3) + 1(2x - 3) = 0 \\implies (2x - 3)(3x + 1) = 0$$\n\nइससे $2x - 3 = 0 \\implies x = \\frac{3}{2}$ और $3x + 1 = 0 \\implies x = -\\frac{1}{3}$ प्राप्त होता है।\n\nइसलिए, शून्यक $\\alpha = \\frac{3}{2}$ और $\\beta = -\\frac{1}{3}$ हैं।\n\n**सत्यापन:** यहाँ, $a = 6, b = -7, c = -3$।\n\n1. **शून्यकों का योग:** $\\alpha + \\beta = \\frac{3}{2} + \\left(-\\frac{1}{3}\\right) = \\frac{9 - 2}{6} = \\frac{7}{6}$।\nगुणांकों से: $-\\frac{b}{a} = -\\frac{-7}{6} = \\frac{7}{6}$। (योग सत्यापित है)\n2. **शून्यकों का गुणनफल:** $\\alpha\\beta = \\frac{3}{2} \\times \\left(-\\frac{1}{3}\\right) = -\\frac{3}{6} = -\\frac{1}{2}$।\nगुणांकों से: $\\frac{c}{a} = \\frac{-3}{6} = -\\frac{1}{2}$। (गुणनफल सत्यापित है)",
+      "keyPoints": [
+        "Rearrange to standard form first.",
+        "Factorize by splitting the middle term.",
+        "Verify sum and product relations."
+      ]
+    },
+    {
+      "id": "q22",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "Competency-Based Question: An architect designs a parabolic entry gate for a theme park. The shape of the gate is modeled by the quadratic polynomial $p(x) = -x^2 + 4x + 5$. Find the points where the base of the gate touches the ground (i.e., find its zeroes) and interpret what the maximum point of this inverted parabola signifies structurally.",
+      "questionHi": "योग्यता-आधारित प्रश्न: एक वास्तुकार एक थीम पार्क के लिए एक परवलयाकार प्रवेश द्वार डिजाइन करता है। द्वार का आकार द्विघात बहुपद $p(x) = -x^2 + 4x + 5$ द्वारा तैयार किया गया है। वे बिंदु ज्ञात कीजिए जहाँ द्वार का आधार जमीन को छूता है (अर्थात्, इसके शून्यक ज्ञात कीजिए) और व्याख्या कीजिए कि इस उल्टे परवलय का अधिकतम बिंदु संरचनात्मक रूप से क्या दर्शाता है।",
+      "answer": "The base of the gate touches the ground where the height is zero, meaning $p(x) = 0$.\n\n$$-x^2 + 4x + 5 = 0 \\implies x^2 - 4x - 5 = 0$$\n\nSplitting the middle term:\n\n$$x^2 - 5x + x - 5 = 0 \\implies x(x - 5) + 1(x - 5) = 0$$\n\n$$(x - 5)(x + 1) = 0 \\implies x = 5 \\text{ or } x = -1$$\n\nThe gate touches the ground at coordinate points $(-1, 0)$ and $(5, 0)$. The distance between these points represents the total width of the gate at ground level, which is $5 - (-1) = 6$ units.\n\nStructurally, because the leading coefficient ($a = -1$) is negative, the parabola opens downwards like a dome. The peak point (vertex) of this inverted parabola signifies the highest clearing point or the maximum vertical height of the entrance arch, ensuring large vehicles or crowds can pass through safely.",
+      "answerHi": "द्वार का आधार उस स्थान पर जमीन को छूता है जहाँ ऊँचाई शून्य होती है, जिसका अर्थ है $p(x) = 0$।\n\n$$-x^2 + 4x + 5 = 0 \\implies x^2 - 4x - 5 = 0$$\n\nमध्य पद को विभक्त करने पर:\n\n$$x^2 - 5x + x - 5 = 0 \\implies x(x - 5) + 1(x - 5) = 0$$\n\n$$(x - 5)(x + 1) = 0 \\implies x = 5 \\text{ या } x = -1$$\n\nद्वार निर्देशांक बिंदुओं $(-1, 0)$ और $(5, 0)$ पर जमीन को छूता है। इन बिंदुओं के बीच की दूरी जमीन के स्तर पर द्वार की कुल चौड़ाई को दर्शाती है, जो $5 - (-1) = 6$ इकाइयाँ है।\n\nसंरचनात्मक रूप से, चूँकि प्रमुख गुणांक ($a = -1$) ऋणात्मक है, परवलय गुंबद की तरह नीचे की ओर खुलता है। इस उल्टे परवलय का शिखर बिंदु (शीर्ष) प्रवेश मेहराब (arch) के उच्चतम निकासी बिंदु या अधिकतम ऊर्ध्वाधर ऊँचाई को दर्शाता है, जिससे यह सुनिश्चित होता है कि बड़े वाहन या भीड़ सुरक्षित रूप से गुजर सके।",
+      "keyPoints": [
+        "Ground contact points correspond to zeroes.",
+        "Solve polynomial equal to 0.",
+        "Vertex represents maximum height."
+      ]
+    },
+    {
+      "id": "q23",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "If $\\alpha$ and $\\beta$ are the zeroes of the quadratic polynomial $p(x) = 2x^2 + 5x + k$ such that $\\alpha^2 + \\beta^2 + \\alpha\\beta = \\frac{21}{4}$, find the value of $k$.",
+      "questionHi": "यदि $\\alpha$ और $\\beta$ द्विघात बहुपद $p(x) = 2x^2 + 5x + k$ के शून्यक हैं, इस प्रकार कि $\\alpha^2 + \\beta^2 + \\alpha\\beta = \\frac{21}{4}$ है, तो $k$ का मान ज्ञात कीजिए।",
+      "answer": "For the polynomial $2x^2 + 5x + k$, the coefficients are $a = 2, b = 5, c = k$.\n\nThe sum of zeroes is $\\alpha + \\beta = -\\frac{b}{a} = -\\frac{5}{2}$.\n\nThe product of zeroes is $\\alpha\\beta = \\frac{c}{a} = \\frac{k}{2}$.\n\nThe given algebraic equation is:\n\n$$\\alpha^2 + \\beta^2 + \\alpha\\beta = \\frac{21}{4}$$\n\nWe can rewrite $\\alpha^2 + \\beta^2 + \\alpha\\beta$ as $(\\alpha + \\beta)^2 - \\alpha\\beta$.\n\n$$(\\alpha + \\beta)^2 - \\alpha\\beta = \\frac{21}{4}$$\n\nSubstituting our known coefficient fractions:\n\n$$\\left(-\\frac{5}{2}\\right)^2 - \\frac{k}{2} = \\frac{21}{4}$$\n\n$$\\frac{25}{4} - \\frac{k}{2} = \\frac{21}{4} \\implies \\frac{25}{4} - \\frac{21}{4} = \\frac{k}{2}$$\n\n$$\\frac{4}{4} = \\frac{k}{2} \\implies 1 = \\frac{k}{2} \\implies k = 2$$\n\nThe value of $k$ is **2**.",
+      "answerHi": "बहुपद $2x^2 + 5x + k$ के लिए, गुणांक $a = 2, b = 5, c = k$ हैं।\n\nशून्यकों का योग $\\alpha + \\beta = -\\frac{b}{a} = -\\frac{5}{2}$ है।\n\nशून्यकों का गुणनफल $\\alpha\\beta = \\frac{c}{a} = \\frac{k}{2}$ है।\n\nदिया गया बीजगणितीय समीकरण है:\n\n$$\\alpha^2 + \\beta^2 + \\alpha\\beta = \\frac{21}{4}$$\n\nहम $\\alpha^2 + \\beta^2 + \\alpha\\beta$ को $(\\alpha + \\beta)^2 - \\alpha\\beta$ के रूप में फिर से लिख सकते हैं।\n\n$$(\\alpha + \\beta)^2 - \\alpha\\beta = \\frac{21}{4}$$\n\nहमारे ज्ञात गुणांक भिन्नों को प्रतिस्थापित करने पर:\n\n$$\\left(-\\frac{5}{2}\\right)^2 - \\frac{k}{2} = \\frac{21}{4}$$\n\n$$\\frac{25}{4} - \\frac{k}{2} = \\frac{21}{4} \\implies \\frac{25}{4} - \\frac{21}{4} = \\frac{k}{2}$$\n\n$$\\frac{4}{4} = \\frac{k}{2} \\implies 1 = \\frac{k}{2} \\implies k = 2$$\n\n$k$ का मान **2** है।",
+      "keyPoints": [
+        "Rewrite algebraic expression using sum and product formulas."
+      ]
+    },
+    {
+      "id": "q24",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "If $\\alpha$ and $\\beta$ are the zeroes of the quadratic polynomial $x^2 - 3x - 2$, find a new quadratic polynomial whose zeroes are $2\\alpha + 3\\beta$ and $3\\alpha + 2\\beta$.",
+      "questionHi": "यदि $\\alpha$ और $\\beta$ द्विघात बहुपद $x^2 - 3x - 2$ के शून्यक हैं, तो एक नया द्विघात बहुपद ज्ञात कीजिए जिसके शून्यक $2\\alpha + 3\\beta$ और $3\\alpha + 2\\beta$ हों।",
+      "answer": "For the base polynomial $x^2 - 3x - 2$, we have $\\alpha + \\beta = 3$ and $\\alpha\\beta = -2$.\n\nLet the zeroes of the new polynomial be $S_1 = 2\\alpha + 3\\beta$ and $S_2 = 3\\alpha + 2\\beta$.\n\n1. **Sum of new zeroes ($S_1 + S_2$):** \n$$S_1 + S_2 = (2\\alpha + 3\\beta) + (3\\alpha + 2\\beta) = 5\\alpha + 5\\beta = 5(\\alpha + \\beta) = 5(3) = 15$$\n\n\n2. **Product of new zeroes ($S_1 \\times S_2$):** \n$$S_1S_2 = (2\\alpha + 3\\beta)(3\\alpha + 2\\beta) = 6\\alpha^2 + 4\\alpha\\beta + 9\\alpha\\beta + 6\\beta^2$$\n\n\n$$= 6(\\alpha^2 + \\beta^2) + 13\\alpha\\beta$$\n\n\nWe know $\\alpha^2 + \\beta^2 = (\\alpha + \\beta)^2 - 2\\alpha\\beta = (3)^2 - 2(-2) = 9 + 4 = 13$.\n$$S_1S_2 = 6(13) + 13(-2) = 78 - 26 = 52$$\n\n\n\nThe required quadratic polynomial is:\n\n$$x^2 - (\\text{New Sum})x + \\text{New Product} = x^2 - 15x + 52$$",
+      "answerHi": "आधार बहुपद $x^2 - 3x - 2$ के लिए, हमारे पास $\\alpha + \\beta = 3$ और $\\alpha\\beta = -2$ है।\n\nमान लीजिए नए बहुपद के शून्यक $S_1 = 2\\alpha + 3\\beta$ और $S_2 = 3\\alpha + 2\\beta$ हैं।\n\n1. **नए शून्यकों का योग ($S_1 + S_2$):** \n$$S_1 + S_2 = (2\\alpha + 3\\beta) + (3\\alpha + 2\\beta) = 5\\alpha + 5\\beta = 5(\\alpha + \\beta) = 5(3) = 15$$\n\n\n2. **नए शून्यकों का गुणनफल ($S_1 \\times S_2$):** \n$$S_1S_2 = (2\\alpha + 3\\beta)(3\\alpha + 2\\beta) = 6\\alpha^2 + 4\\alpha\\beta + 9\\alpha\\beta + 6\\beta^2$$\n\n\n$$= 6(\\alpha^2 + \\beta^2) + 13\\alpha\\beta$$\n\n\nहम जानते हैं कि $\\alpha^2 + \\beta^2 = (\\alpha + \\beta)^2 - 2\\alpha\\beta = (3)^2 - 2(-2) = 9 + 4 = 13$।\n$$S_1S_2 = 6(13) + 13(-2) = 78 - 26 = 52$$\n\n\n\nअभीष्ट द्विघात बहुपद है:\n\n$$x^2 - (\\text{नया योग})x + \\text{नया गुणनफल} = x^2 - 15x + 52$$",
+      "keyPoints": [
+        "Find sum of new roots.",
+        "Find product of new roots.",
+        "Substitute in polynomial formula."
+      ]
+    },
+    {
+      "id": "q25",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "Analytical Case Concept: A toy rocket is launched upward from a platform. Its height $h$ (in meters) at any time $t$ (in seconds) is given by a polynomial equation. If the curve plotted is a parabola crossing the time axis at $t = 1$ second and $t = 5$ seconds, reconstruct the standard quadratic polynomial showing your steps, and explain what happens when $t=0$.",
+      "questionHi": "विश्लेषणात्मक केस अवधारणा: एक खिलौना रॉकेट को एक मंच से ऊपर की ओर लॉन्च किया जाता है। किसी भी समय $t$ (सेकंड में) पर इसकी ऊँचाई $h$ (मीटर में) एक बहुपद समीकरण द्वारा दी जाती है। यदि प्लॉट किया गया वक्र एक परवलय है जो $t = 1$ सेकंड और $t = 5$ सेकंड पर समय अक्ष को पार करता है, तो अपने चरण दिखाते हुए मानक द्विघात बहुपद का पुनर्निर्माण करें, और व्याख्या करें कि $t=0$ पर क्या होता है।",
+      "answer": "The times when the rocket's height becomes zero ($h = 0$) correspond to the zeroes of the polynomial. Here, the zeroes are given as $\\alpha = 1$ and $\\beta = 5$.\n\n1. **Sum of zeroes:** $\\alpha + \\beta = 1 + 5 = 6$\n2. **Product of zeroes:** $\\alpha \\times \\beta = 1 \\times 5 = 5$\n\nUsing the standard structural form of a quadratic polynomial, $p(t) = k[t^2 - (\\text{Sum})t + \\text{Product}]$, and assuming a scaling factor $k = -1$ (since a launched projectile curve always opens downwards due to gravity):\n\n$$h(t) = -(t^2 - 6t + 5) = -t^2 + 6t - 5$$\n\nWhen $t = 0$ seconds (the initial launch time boundary calculation):\n\n$$h(0) = -(0)^2 + 6(0) - 5 = -5 \\text{ meters}$$\n\nIn a practical setting, if a constant adjustment is made to keep the launch pad above the ground level, this absolute constant value represents the initial positional placement or physical elevation height from which the rocket was fired.",
+      "answerHi": "वह समय जब रॉकेट की ऊँचाई शून्य ($h = 0$) हो जाती है, वह बहुपद के शून्यकों के अनुरूप होता है। यहाँ, शून्यक $\\alpha = 1$ और $\\beta = 5$ दिए गए हैं।\n\n1. **शून्यकों का योग:** $\\alpha + \\beta = 1 + 5 = 6$\n2. **शून्यकों का गुणनफल:** $\\alpha \\times \\beta = 1 \\times 5 = 5$\n\nद्विघात बहुपद के मानक संरचनात्मक रूप, $p(t) = k[t^2 - (\\text{योग})t + \\text{गुणनफल}]$ का उपयोग करते हुए, और एक स्केलिंग कारक $k = -1$ मानते हुए (चूँकि एक प्रक्षेपित प्रक्षेप्य वक्र हमेशा गुरुत्वाकर्षण के कारण नीचे की ओर खुलता है):\n\n$$h(t) = -(t^2 - 6t + 5) = -t^2 + 6t - 5$$\n\nजब $t = 0$ सेकंड (प्रारंभिक लॉन्च समय सीमा गणना):\n\n$$h(0) = -(0)^2 + 6(0) - 5 = -5 \\text{ मीटर}$$\n\nव्यावहारिक परिदृश्य में, यदि लॉन्च पैड को जमीनी स्तर से ऊपर रखने के लिए एक निरंतर समायोजन किया जाता है, तो यह पूर्ण अचर मान उस प्रारंभिक स्थितीय स्थान या भौतिक ऊँचाई का प्रतिनिधित्व करता है जहाँ से रॉकेट दागा गया था।",
+      "keyPoints": [
+        "Time axis intersections are zeroes.",
+        "Construct polynomial considering downward parabola ($k=-1$).",
+        "Evaluate at $t=0$ for initial height."
+      ]
+    }
+  ]
+}
