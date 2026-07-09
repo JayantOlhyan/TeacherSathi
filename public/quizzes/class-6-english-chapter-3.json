@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "What time of day did the story happen?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Morning"
+        },
+        {
+          "id": "B",
+          "text": "Afternoon"
+        },
+        {
+          "id": "C",
+          "text": "Night"
+        },
+        {
+          "id": "D",
+          "text": "Evening"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "2",
+      "question": "What did the tired man and his wife hear outside?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rain falling"
+        },
+        {
+          "id": "B",
+          "text": "Suspicious noises of a thief"
+        },
+        {
+          "id": "C",
+          "text": "A dog barking"
+        },
+        {
+          "id": "D",
+          "text": "Music playing"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "3",
+      "question": "What did the wife tell her husband to do?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Run outside and fight"
+        },
+        {
+          "id": "B",
+          "text": "Lie down quietly and not make sudden noises"
+        },
+        {
+          "id": "C",
+          "text": "Call the neighbors"
+        },
+        {
+          "id": "D",
+          "text": "Hide under the bed"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "4",
+      "question": "Who were the couple pretending to talk about?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Their pet dog"
+        },
+        {
+          "id": "B",
+          "text": "Naming their future child"
+        },
+        {
+          "id": "C",
+          "text": "Buying new clothes"
+        },
+        {
+          "id": "D",
+          "text": "Cooking dinner"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "5",
+      "question": "What name did they decide to call out loudly?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Krishna"
+        },
+        {
+          "id": "B",
+          "text": "Shiva"
+        },
+        {
+          "id": "C",
+          "text": "Rama"
+        },
+        {
+          "id": "D",
+          "text": "Arjun"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "6",
+      "question": "Who was the real Rama in their village?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A rich farmer"
+        },
+        {
+          "id": "B",
+          "text": "The local policeman (Kotwal)"
+        },
+        {
+          "id": "C",
+          "text": "The village headman"
+        },
+        {
+          "id": "D",
+          "text": "A teacher"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "7",
+      "question": "How did the wife call the name Rama?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She whispered it"
+        },
+        {
+          "id": "B",
+          "text": "She sang it as a song"
+        },
+        {
+          "id": "C",
+          "text": "She called it softly, loudly, and very loudly"
+        },
+        {
+          "id": "D",
+          "text": "She wrote it on paper"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "8",
+      "question": "Where was the thief waiting?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Inside the kitchen"
+        },
+        {
+          "id": "B",
+          "text": "Outside, hoping they would fall asleep"
+        },
+        {
+          "id": "C",
+          "text": "On the roof"
+        },
+        {
+          "id": "D",
+          "text": "At the police station"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "9",
+      "question": "Why did the real Rama come to the house?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He wanted food"
+        },
+        {
+          "id": "B",
+          "text": "He heard his name being called repeatedly"
+        },
+        {
+          "id": "C",
+          "text": "He was invited"
+        },
+        {
+          "id": "D",
+          "text": "He saw the thief"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "10",
+      "question": "What happened to the thief at the end?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He stole the jewels"
+        },
+        {
+          "id": "B",
+          "text": "He ran away safely"
+        },
+        {
+          "id": "C",
+          "text": "The watchman Rama caught him"
+        },
+        {
+          "id": "D",
+          "text": "He became a policeman"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "11",
+      "question": "Why did the couple choose the name \"Rama\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It sounded nice"
+        },
+        {
+          "id": "B",
+          "text": "It was a secret code for the thief"
+        },
+        {
+          "id": "C",
+          "text": "It was the name of the village watchman, so he would hear it"
+        },
+        {
+          "id": "D",
+          "text": "It was their grandfather's name"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "12",
+      "question": "What was the couple's smart plan meant to do?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Invite the thief inside"
+        },
+        {
+          "id": "B",
+          "text": "Confuse and frighten the thief by making him think the watchman was near"
+        },
+        {
+          "id": "C",
+          "text": "Wake up the whole village"
+        },
+        {
+          "id": "D",
+          "text": "Practice acting"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "13",
+      "question": "Why did the wife call out at different volumes?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She was losing her voice"
+        },
+        {
+          "id": "B",
+          "text": "To make it seem like she was calling a child in different places (inside, in the yard, outside)"
+        },
+        {
+          "id": "C",
+          "text": "She wanted to sing"
+        },
+        {
+          "id": "D",
+          "text": "To scare ghosts"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "14",
+      "question": "How did the thief feel when he heard the name Rama again and again?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Happy"
+        },
+        {
+          "id": "B",
+          "text": "Confused, alarmed, and panicked"
+        },
+        {
+          "id": "C",
+          "text": "Sleepy"
+        },
+        {
+          "id": "D",
+          "text": "Hungry"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "15",
+      "question": "What does \"presence of mind\" mean in this story?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Forgetting things quickly"
+        },
+        {
+          "id": "B",
+          "text": "Thinking clearly and quickly in a dangerous situation without panicking"
+        },
+        {
+          "id": "C",
+          "text": "Having a good memory"
+        },
+        {
+          "id": "D",
+          "text": "Being afraid"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "16",
+      "question": "What did the husband realize when he listened at the door?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The thief had left"
+        },
+        {
+          "id": "B",
+          "text": "The thief was already close by or in the compound"
+        },
+        {
+          "id": "C",
+          "text": "It was just a cat"
+        },
+        {
+          "id": "D",
+          "text": "The door was broken"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "17",
+      "question": "Why did the thief panic and try to escape?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He thought the watchman Rama was being called and was on his way"
+        },
+        {
+          "id": "B",
+          "text": "He saw the husband with a stick"
+        },
+        {
+          "id": "C",
+          "text": "It started raining"
+        },
+        {
+          "id": "D",
+          "text": "He felt sick"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "18",
+      "question": "How did the husband and wife show good teamwork?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They ran away together"
+        },
+        {
+          "id": "B",
+          "text": "They cooperated and followed a common plan without arguing or panicking"
+        },
+        {
+          "id": "C",
+          "text": "They both fought the thief"
+        },
+        {
+          "id": "D",
+          "text": "They hid in a closet"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "19",
+      "question": "What would have happened if they had shouted for help instead of using a trick?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The thief would have been scared"
+        },
+        {
+          "id": "B",
+          "text": "The thief might have known they were alone and attacked them"
+        },
+        {
+          "id": "C",
+          "text": "The Kotwal would have come faster"
+        },
+        {
+          "id": "D",
+          "text": "Nothing would change"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "20",
+      "question": "What is a 'Kotwal' in the story?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A thief"
+        },
+        {
+          "id": "B",
+          "text": "A village policeman or watchman"
+        },
+        {
+          "id": "C",
+          "text": "A type of jewel"
+        },
+        {
+          "id": "D",
+          "text": "A wild animal"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "21",
+      "question": "What is the central theme taught by the couple's actions?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Always keep your doors open"
+        },
+        {
+          "id": "B",
+          "text": "Cleverness, calm planning, and quick thinking can overcome physical danger"
+        },
+        {
+          "id": "C",
+          "text": "Never trust the police"
+        },
+        {
+          "id": "D",
+          "text": "Thieves are very smart"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "22",
+      "question": "How does the story use 'dramatic irony'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The reader knows the couple doesn't have a child named Rama, but the thief believes they do"
+        },
+        {
+          "id": "B",
+          "text": "The Kotwal is actually the thief"
+        },
+        {
+          "id": "C",
+          "text": "The couple thinks they are alone"
+        },
+        {
+          "id": "D",
+          "text": "The story is very sad"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "23",
+      "question": "What does the wife's strategy reveal about human communication?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It is always honest"
+        },
+        {
+          "id": "B",
+          "text": "Variations in sound and volume can create a false reality to deceive a threat"
+        },
+        {
+          "id": "C",
+          "text": "Shouting is the only way to get help"
+        },
+        {
+          "id": "D",
+          "text": "Communication is useless in danger"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "24",
+      "question": "How does the narrative contrast intellect with brute force?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Kotwal uses a big stick"
+        },
+        {
+          "id": "B",
+          "text": "The couple uses intellectual deception to defeat the thief's intent to use stealth and force"
+        },
+        {
+          "id": "C",
+          "text": "The thief solves a puzzle"
+        },
+        {
+          "id": "D",
+          "text": "The couple fights back physically"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "25",
+      "question": "Why is teamwork highlighted as a powerful tool here?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They needed two people to hold the door"
+        },
+        {
+          "id": "B",
+          "text": "Their synchronized cooperation allowed them to execute a complex deception smoothly"
+        },
+        {
+          "id": "C",
+          "text": "One person could not call a name loudly"
+        },
+        {
+          "id": "D",
+          "text": "They needed to carry heavy jewels"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "26",
+      "question": "What does the story imply about community security figures?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They are lazy"
+        },
+        {
+          "id": "B",
+          "text": "Having a vigilant and responsive watchman is crucial for maintaining village safety"
+        },
+        {
+          "id": "C",
+          "text": "They always arrive too late"
+        },
+        {
+          "id": "D",
+          "text": "They do not help poor people"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "27",
+      "question": "What does the word 'ruse' mean as used to describe the couple's plan?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A violent fight"
+        },
+        {
+          "id": "B",
+          "text": "A clever trick or deception intended to fool someone"
+        },
+        {
+          "id": "C",
+          "text": "A loud noise"
+        },
+        {
+          "id": "D",
+          "text": "A type of lock"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "28",
+      "question": "Why is 'situational awareness' critical in this story?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It helps you sleep better"
+        },
+        {
+          "id": "B",
+          "text": "It allowed the couple to quickly assess the threat and use their environment to their advantage"
+        },
+        {
+          "id": "C",
+          "text": "It helps find lost items"
+        },
+        {
+          "id": "D",
+          "text": "It prevents bad dreams"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "29",
+      "question": "How does the story show that bravery is not just physical strength?",
+      "options": [
+        {
+          "id": "A",
+          "text": "By having a small child fight the thief"
+        },
+        {
+          "id": "B",
+          "text": "By showing that remaining calm and using one's mind in an emergency is a true form of courage"
+        },
+        {
+          "id": "C",
+          "text": "By running away bravely"
+        },
+        {
+          "id": "D",
+          "text": "By hiding bravely"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "30",
+      "question": "What happens at the 'turning point' of the story?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The thief enters the house"
+        },
+        {
+          "id": "B",
+          "text": "The real Kotwal hears his name and arrives just as the thief panics, completing the rescue"
+        },
+        {
+          "id": "C",
+          "text": "The couple falls asleep"
+        },
+        {
+          "id": "D",
+          "text": "Morning comes"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    }
+  ]
+}
