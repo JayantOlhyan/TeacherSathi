@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "What is the name of the poem?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Winner"
+        },
+        {
+          "id": "B",
+          "text": "A Friend's Prayer"
+        },
+        {
+          "id": "C",
+          "text": "The Kites"
+        },
+        {
+          "id": "D",
+          "text": "Neem Baba"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "2",
+      "question": "Who wrote \"A Friend's Prayer\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Jill Wolf"
+        },
+        {
+          "id": "B",
+          "text": "Sudha Murty"
+        },
+        {
+          "id": "C",
+          "text": "Ruskin Bond"
+        },
+        {
+          "id": "D",
+          "text": "R.K. Narayan"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "3",
+      "question": "What does the poet say is the \"most important thing\" to her?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Her toys"
+        },
+        {
+          "id": "B",
+          "text": "Her friendships"
+        },
+        {
+          "id": "C",
+          "text": "Winning games"
+        },
+        {
+          "id": "D",
+          "text": "Her school"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "4",
+      "question": "How does the poet feel because she has special friends?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She feels angry"
+        },
+        {
+          "id": "B",
+          "text": "She feels bored"
+        },
+        {
+          "id": "C",
+          "text": "She feels blessed"
+        },
+        {
+          "id": "D",
+          "text": "She feels scared"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "5",
+      "question": "What does the poet want to give to her friends?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Her old clothes"
+        },
+        {
+          "id": "B",
+          "text": "Her very best"
+        },
+        {
+          "id": "C",
+          "text": "Lots of money"
+        },
+        {
+          "id": "D",
+          "text": "Homework"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "6",
+      "question": "The poet wants to do much more than just \"share\" what?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Food and drinks"
+        },
+        {
+          "id": "B",
+          "text": "The hopes and plans of friends who care"
+        },
+        {
+          "id": "C",
+          "text": "Books and pens"
+        },
+        {
+          "id": "D",
+          "text": "Secrets"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "7",
+      "question": "What will the poet try to make come true?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Her own wishes"
+        },
+        {
+          "id": "B",
+          "text": "Her friends' wishes"
+        },
+        {
+          "id": "C",
+          "text": "A fairy tale"
+        },
+        {
+          "id": "D",
+          "text": "A magic trick"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "8",
+      "question": "What does the poet want to use to \"see\" what friends can be?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Her eyes"
+        },
+        {
+          "id": "B",
+          "text": "A magnifying glass"
+        },
+        {
+          "id": "C",
+          "text": "Her heart"
+        },
+        {
+          "id": "D",
+          "text": "Her brain"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "9",
+      "question": "What does the poet not want to make from afar?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Judgements"
+        },
+        {
+          "id": "B",
+          "text": "Paintings"
+        },
+        {
+          "id": "C",
+          "text": "Noises"
+        },
+        {
+          "id": "D",
+          "text": "Wishes"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "10",
+      "question": "How does the poet want to love her friends?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only if they are perfect"
+        },
+        {
+          "id": "B",
+          "text": "The way they are"
+        },
+        {
+          "id": "C",
+          "text": "Only when they are happy"
+        },
+        {
+          "id": "D",
+          "text": "If they give her gifts"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "11",
+      "question": "Why is this poem called a \"prayer\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It is sung in a temple"
+        },
+        {
+          "id": "B",
+          "text": "It expresses deep, selfless wishes and sincere hopes for the happiness of others"
+        },
+        {
+          "id": "C",
+          "text": "It talks about gods"
+        },
+        {
+          "id": "D",
+          "text": "It was written a long time ago"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "12",
+      "question": "What does \"give my very best\" mean in the poem?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Winning a race"
+        },
+        {
+          "id": "B",
+          "text": "Trying hard to be the most supportive, loyal, and kind friend possible"
+        },
+        {
+          "id": "C",
+          "text": "Giving away the best toys"
+        },
+        {
+          "id": "D",
+          "text": "Getting the best grades"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "13",
+      "question": "How does the poet plan to support her friends' dreams?",
+      "options": [
+        {
+          "id": "A",
+          "text": "By just listening to them"
+        },
+        {
+          "id": "B",
+          "text": "By trying everything a friend can do to actively help make their wishes come true"
+        },
+        {
+          "id": "C",
+          "text": "By telling them to give up"
+        },
+        {
+          "id": "D",
+          "text": "By doing their homework"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "14",
+      "question": "What does it mean to \"use my heart to see\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To go for a medical checkup"
+        },
+        {
+          "id": "B",
+          "text": "To understand friends with deep feelings, empathy, and love, not just with logic or eyes"
+        },
+        {
+          "id": "C",
+          "text": "To pump blood"
+        },
+        {
+          "id": "D",
+          "text": "To close your eyes"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "15",
+      "question": "What does \"making no judgements from afar\" mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Not looking at friends from a distance"
+        },
+        {
+          "id": "B",
+          "text": "Not forming bad opinions about friends without truly understanding them closely"
+        },
+        {
+          "id": "C",
+          "text": "Refusing to be a judge in a contest"
+        },
+        {
+          "id": "D",
+          "text": "Standing far away"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "16",
+      "question": "Why does the poet want to love her friends \"the way they are\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because she is lazy"
+        },
+        {
+          "id": "B",
+          "text": "Because true friendship means accepting people with all their unique differences and flaws"
+        },
+        {
+          "id": "C",
+          "text": "Because they are rich"
+        },
+        {
+          "id": "D",
+          "text": "Because they never make mistakes"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "17",
+      "question": "What kind of friend is the speaker of the poem?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Selfish and mean"
+        },
+        {
+          "id": "B",
+          "text": "Caring, selfless, and supportive"
+        },
+        {
+          "id": "C",
+          "text": "Funny and loud"
+        },
+        {
+          "id": "D",
+          "text": "Quiet and shy"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "18",
+      "question": "According to the poem, friendship is more than just talking; it involves what?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fighting"
+        },
+        {
+          "id": "B",
+          "text": "Active participation and helping each other achieve goals"
+        },
+        {
+          "id": "C",
+          "text": "Borrowing things"
+        },
+        {
+          "id": "D",
+          "text": "Going to school"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "19",
+      "question": "How does the poet know about her friends' wishes?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She reads their diaries"
+        },
+        {
+          "id": "B",
+          "text": "She listens to them and cares about their hopes and plans"
+        },
+        {
+          "id": "C",
+          "text": "She guesses them"
+        },
+        {
+          "id": "D",
+          "text": "A teacher told her"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "20",
+      "question": "Which word is closest in meaning to \"blessed\" as used in the poem?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Angry"
+        },
+        {
+          "id": "B",
+          "text": "Grateful/Lucky"
+        },
+        {
+          "id": "C",
+          "text": "Tired"
+        },
+        {
+          "id": "D",
+          "text": "Confused"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "21",
+      "question": "What is the main theme of the poem?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Playing games together"
+        },
+        {
+          "id": "B",
+          "text": "The profound value of selfless love, emotional support, and unconditional acceptance in friendship"
+        },
+        {
+          "id": "C",
+          "text": "How to make many friends"
+        },
+        {
+          "id": "D",
+          "text": "Buying gifts for friends"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "22",
+      "question": "How does the poem differentiate between a 'casual friend' and a 'true friend'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A casual friend shares secrets; a true friend keeps them"
+        },
+        {
+          "id": "B",
+          "text": "A casual friend just shares plans, while a true friend actively tries to make those plans come true"
+        },
+        {
+          "id": "C",
+          "text": "True friends are older"
+        },
+        {
+          "id": "D",
+          "text": "There is no difference"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "23",
+      "question": "What does the word \"empathy\" mean in the context of \"using my heart to see\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Feeling sorry for someone"
+        },
+        {
+          "id": "B",
+          "text": "The ability to understand and share the feelings of another person deeply"
+        },
+        {
+          "id": "C",
+          "text": "Ignoring someone's pain"
+        },
+        {
+          "id": "D",
+          "text": "Giving good advice"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "24",
+      "question": "Why is \"acceptance\" considered the greatest gift a friend can give?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because it costs no money"
+        },
+        {
+          "id": "B",
+          "text": "Because it means loving someone without trying to change them or judge their flaws"
+        },
+        {
+          "id": "C",
+          "text": "Because it is polite"
+        },
+        {
+          "id": "D",
+          "text": "Because it is easy"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "25",
+      "question": "The structure of the poem (rhyming lines) helps create what kind of tone?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Scary and loud"
+        },
+        {
+          "id": "B",
+          "text": "Gentle, earnest, and musical, fitting for a sincere prayer"
+        },
+        {
+          "id": "C",
+          "text": "Sarcastic and funny"
+        },
+        {
+          "id": "D",
+          "text": "Angry and fast"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "26",
+      "question": "What is the opposite of making \"judgements from afar\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Judging from up close"
+        },
+        {
+          "id": "B",
+          "text": "Showing close understanding, compassion, and acceptance"
+        },
+        {
+          "id": "C",
+          "text": "Ignoring people"
+        },
+        {
+          "id": "D",
+          "text": "Shouting at someone"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "27",
+      "question": "By calling the poem a \"prayer,\" what does the poet suggest about her feelings toward friendship?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It is a burden"
+        },
+        {
+          "id": "B",
+          "text": "It is something sacred, spiritual, and deeply important to her life"
+        },
+        {
+          "id": "C",
+          "text": "It is just for fun"
+        },
+        {
+          "id": "D",
+          "text": "It requires going to a temple"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "28",
+      "question": "Which of the following words best describes the poet's attitude?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Arrogant"
+        },
+        {
+          "id": "B",
+          "text": "Demanding"
+        },
+        {
+          "id": "C",
+          "text": "Altruistic (selfless)"
+        },
+        {
+          "id": "D",
+          "text": "Jealous"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "29",
+      "question": "What lesson does the poem teach us about how we should treat others?",
+      "options": [
+        {
+          "id": "A",
+          "text": "We should always point out their mistakes"
+        },
+        {
+          "id": "B",
+          "text": "We should offer kindness, look beyond surface flaws, and be a source of strength"
+        },
+        {
+          "id": "C",
+          "text": "We should only help if they help us first"
+        },
+        {
+          "id": "D",
+          "text": "We should leave them alone"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "30",
+      "question": "What does the poet mean by \"The hopes and plans of friends who care\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Friends who worry a lot"
+        },
+        {
+          "id": "B",
+          "text": "Friends who share mutual love and investment in each other's futures"
+        },
+        {
+          "id": "C",
+          "text": "Friends who take care of pets"
+        },
+        {
+          "id": "D",
+          "text": "Friends who are careful crossing the street"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    }
+  ]
+}
