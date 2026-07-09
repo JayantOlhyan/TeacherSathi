@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "What is the name of the school programme in the chapter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Clean India"
+        },
+        {
+          "id": "B",
+          "text": "Ek Bharat, Shreshtha Bharat"
+        },
+        {
+          "id": "C",
+          "text": "Make in India"
+        },
+        {
+          "id": "D",
+          "text": "Skill India"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "2",
+      "question": "What does the \"Ek Bharat, Shreshtha Bharat\" programme celebrate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "India's military"
+        },
+        {
+          "id": "B",
+          "text": "India's unity in diversity"
+        },
+        {
+          "id": "C",
+          "text": "India's space program"
+        },
+        {
+          "id": "D",
+          "text": "India's economy"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "3",
+      "question": "Where is the student Akanksha from?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kerala"
+        },
+        {
+          "id": "B",
+          "text": "Odisha"
+        },
+        {
+          "id": "C",
+          "text": "Uttarakhand"
+        },
+        {
+          "id": "D",
+          "text": "Andhra Pradesh"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "4",
+      "question": "What kind of art does Akanksha talk about?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rangoli"
+        },
+        {
+          "id": "B",
+          "text": "Aipan (folk art)"
+        },
+        {
+          "id": "C",
+          "text": "Madhubani"
+        },
+        {
+          "id": "D",
+          "text": "Warli"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "5",
+      "question": "Where does Priyaranjan come from?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Odisha"
+        },
+        {
+          "id": "B",
+          "text": "Punjab"
+        },
+        {
+          "id": "C",
+          "text": "Gujarat"
+        },
+        {
+          "id": "D",
+          "text": "Assam"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "6",
+      "question": "What metal craft does Priyaranjan talk about?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Iron forging"
+        },
+        {
+          "id": "B",
+          "text": "Dhokra"
+        },
+        {
+          "id": "C",
+          "text": "Silver filigree"
+        },
+        {
+          "id": "D",
+          "text": "Copper shaping"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "7",
+      "question": "Which state is famous for coconut shell craft, presented by Chitra?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tamil Nadu"
+        },
+        {
+          "id": "B",
+          "text": "Kerala"
+        },
+        {
+          "id": "C",
+          "text": "Goa"
+        },
+        {
+          "id": "D",
+          "text": "Maharashtra"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "8",
+      "question": "Who talks about the Kondapalli toys?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Balamurali"
+        },
+        {
+          "id": "B",
+          "text": "Chitra"
+        },
+        {
+          "id": "C",
+          "text": "Priyaranjan"
+        },
+        {
+          "id": "D",
+          "text": "Akanksha"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "9",
+      "question": "What material is used to make Kondapalli toys?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hard stone"
+        },
+        {
+          "id": "B",
+          "text": "Plastic"
+        },
+        {
+          "id": "C",
+          "text": "Soft wood from nearby hills"
+        },
+        {
+          "id": "D",
+          "text": "Clay"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "10",
+      "question": "Why is coconut shell craft good for the environment (eco-friendly)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It uses electricity"
+        },
+        {
+          "id": "B",
+          "text": "It is biodegradable and uses natural waste"
+        },
+        {
+          "id": "C",
+          "text": "It pollutes the air"
+        },
+        {
+          "id": "D",
+          "text": "It requires cutting forests"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "11",
+      "question": "What is the main goal of the \"Ek Bharat, Shreshtha Bharat\" programme?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To build a sense of national unity, respect, and pride in India's different cultures"
+        },
+        {
+          "id": "B",
+          "text": "To teach mathematics"
+        },
+        {
+          "id": "C",
+          "text": "To promote sports"
+        },
+        {
+          "id": "D",
+          "text": "To divide states"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "12",
+      "question": "How do people make Aipan art?",
+      "options": [
+        {
+          "id": "A",
+          "text": "With oil paints"
+        },
+        {
+          "id": "B",
+          "text": "Using a paste of white rice flour on red walls (geru)"
+        },
+        {
+          "id": "C",
+          "text": "With charcoal"
+        },
+        {
+          "id": "D",
+          "text": "With watercolors"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "13",
+      "question": "Where do the designs for Aipan come from?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Modern abstract art"
+        },
+        {
+          "id": "B",
+          "text": "Nature, daily life, and cultural traditions"
+        },
+        {
+          "id": "C",
+          "text": "Comic books"
+        },
+        {
+          "id": "D",
+          "text": "Machinery"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "14",
+      "question": "Explain how Dhokra craft is made.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wax is lost in the forest"
+        },
+        {
+          "id": "B",
+          "text": "A wax model is covered in clay, heated so the wax melts out, and then molten metal is poured into the empty space"
+        },
+        {
+          "id": "C",
+          "text": "Wax is painted on metal"
+        },
+        {
+          "id": "D",
+          "text": "Metal is turned into wax"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "15",
+      "question": "What steps are taken to make coconut shell crafts?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Polishing, adding a base, cleaning"
+        },
+        {
+          "id": "B",
+          "text": "Cleaning, smoothing, shaping, adding a base for stability, and polishing"
+        },
+        {
+          "id": "C",
+          "text": "Painting, breaking, burning"
+        },
+        {
+          "id": "D",
+          "text": "Eating the coconut, throwing the shell"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "16",
+      "question": "What special paste (makku) is used to join pieces of Kondapalli toys?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Superglue"
+        },
+        {
+          "id": "B",
+          "text": "A mixture of tamarind seed powder and sawdust"
+        },
+        {
+          "id": "C",
+          "text": "Cement"
+        },
+        {
+          "id": "D",
+          "text": "Mud"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "17",
+      "question": "What stories do Kondapalli toys usually show?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aliens and spaceships"
+        },
+        {
+          "id": "B",
+          "text": "Folk stories and rural village life"
+        },
+        {
+          "id": "C",
+          "text": "Skyscrapers"
+        },
+        {
+          "id": "D",
+          "text": "Cars"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "18",
+      "question": "How do India's different landscapes (mountains, deserts, coasts) affect its culture?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They don't"
+        },
+        {
+          "id": "B",
+          "text": "Different landscapes provide different natural materials, leading to unique regional art forms and traditions"
+        },
+        {
+          "id": "C",
+          "text": "They make people angry"
+        },
+        {
+          "id": "D",
+          "text": "They force everyone to be the same"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "19",
+      "question": "What advice does the chapter give about India's diversity?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To ignore our differences"
+        },
+        {
+          "id": "B",
+          "text": "To appreciate and celebrate our unique cultures while staying united as one nation"
+        },
+        {
+          "id": "C",
+          "text": "To only like your own state"
+        },
+        {
+          "id": "D",
+          "text": "To move away"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "20",
+      "question": "Why is it good that Kondapalli toys use vegetable dyes and watercolors?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They are extremely bright"
+        },
+        {
+          "id": "B",
+          "text": "It is a sustainable, traditional practice that respects the environment"
+        },
+        {
+          "id": "C",
+          "text": "They are cheap"
+        },
+        {
+          "id": "D",
+          "text": "They dry faster"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "21",
+      "question": "Why does the author use a virtual video interaction between children to tell the story?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because a teacher lecturing is boring"
+        },
+        {
+          "id": "B",
+          "text": "Peer-to-peer sharing makes learning about different cultures more engaging, relatable, and personal for young readers"
+        },
+        {
+          "id": "C",
+          "text": "To show off computers"
+        },
+        {
+          "id": "D",
+          "text": "To avoid writing a long story"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "22",
+      "question": "How does the chapter prove the idea of \"Unity in Diversity\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "By focusing on only one state"
+        },
+        {
+          "id": "B",
+          "text": "By showing how highly unique and different regional crafts (like Aipan and Dhokra) all come together to form the single, rich identity of \"Incredible India\""
+        },
+        {
+          "id": "C",
+          "text": "By showing conflicts"
+        },
+        {
+          "id": "D",
+          "text": "By translating everything to English"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "23",
+      "question": "What does the 4,000-year history of Dhokra craft tell us about Indian civilization?",
+      "options": [
+        {
+          "id": "A",
+          "text": "That they lacked new ideas"
+        },
+        {
+          "id": "B",
+          "text": "The remarkable unbroken continuity of ancient knowledge, skill, and artistic heritage"
+        },
+        {
+          "id": "C",
+          "text": "That wax is durable"
+        },
+        {
+          "id": "D",
+          "text": "That metal was cheap"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "24",
+      "question": "How do crafts like coconut shell bowls and Kondapalli toys teach us about 'sustainability'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They use toxic chemicals"
+        },
+        {
+          "id": "B",
+          "text": "They creatively upcycle natural waste (shells, sawdust, tamarind seeds) into beautiful, biodegradable art instead of polluting"
+        },
+        {
+          "id": "C",
+          "text": "They are mass-produced in factories"
+        },
+        {
+          "id": "D",
+          "text": "They require deforestation"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "25",
+      "question": "What is the difference between \"culture\" and \"tradition\" as shown in the text?",
+      "options": [
+        {
+          "id": "A",
+          "text": "There is no difference"
+        },
+        {
+          "id": "B",
+          "text": "Culture is broad shared elements (language, values), while traditions are specific practices passed down through generations (like making Aipan)"
+        },
+        {
+          "id": "C",
+          "text": "Culture is new, tradition is old"
+        },
+        {
+          "id": "D",
+          "text": "Culture is food, tradition is clothes"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "26",
+      "question": "What civic value is promoted by celebrating different regional arts?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Separatism"
+        },
+        {
+          "id": "B",
+          "text": "Inclusive nationalism, where respecting local cultures strengthens our love and solidarity for the whole country"
+        },
+        {
+          "id": "C",
+          "text": "Fear of strangers"
+        },
+        {
+          "id": "D",
+          "text": "Uniformity (making everyone the same)"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "27",
+      "question": "What does the complex \"lost-wax\" process show about rural artisans?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They are slow workers"
+        },
+        {
+          "id": "B",
+          "text": "It highlights their deep, empirical mastery of science (melting points, metallurgy) combined with fine artistic sculpting"
+        },
+        {
+          "id": "C",
+          "text": "They need modern machines"
+        },
+        {
+          "id": "D",
+          "text": "They just play with clay"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "28",
+      "question": "The use of \"makku\" (tamarind seed and sawdust paste) demonstrates what about indigenous people?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Resourcefulness and the innovative use of locally available, eco-friendly materials to solve problems"
+        },
+        {
+          "id": "C",
+          "text": "Poor craftsmanship"
+        },
+        {
+          "id": "B",
+          "text": "A lack of proper glue"
+        },
+        {
+          "id": "D",
+          "text": "Reliance on imports"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "29",
+      "question": "Why is it vital to preserve these traditional crafts?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They make good souvenirs for tourists"
+        },
+        {
+          "id": "B",
+          "text": "They are living libraries of India's historical memory, aesthetic beauty, and socio-economic resilience"
+        },
+        {
+          "id": "C",
+          "text": "They are required by law"
+        },
+        {
+          "id": "D",
+          "text": "They keep children busy"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "30",
+      "question": "Why is the word \"Incredible\" used to describe India in the title?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because it is impossible to understand"
+        },
+        {
+          "id": "B",
+          "text": "It captures the awe-inspiring, almost unbelievable richness and variety of the country's pluralistic heritage"
+        },
+        {
+          "id": "C",
+          "text": "Because it is a big country"
+        },
+        {
+          "id": "D",
+          "text": "Because of the magic tricks"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    }
+  ]
+}
