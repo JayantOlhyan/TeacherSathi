@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "Who is the main character who hated losing?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Surya"
+        },
+        {
+          "id": "B",
+          "text": "Prabhat"
+        },
+        {
+          "id": "C",
+          "text": "Mario"
+        },
+        {
+          "id": "D",
+          "text": "Rama"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "2",
+      "question": "What did Prabhat do if he thought he might lose a game?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He practiced harder"
+        },
+        {
+          "id": "B",
+          "text": "He simply refused to play"
+        },
+        {
+          "id": "C",
+          "text": "He asked for help"
+        },
+        {
+          "id": "D",
+          "text": "He cried loudly"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "3",
+      "question": "Which sport was Prabhat very good at?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Basketball"
+        },
+        {
+          "id": "B",
+          "text": "Cricket"
+        },
+        {
+          "id": "C",
+          "text": "Badminton"
+        },
+        {
+          "id": "D",
+          "text": "Marbles"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "4",
+      "question": "Who was the new student at school?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Surya"
+        },
+        {
+          "id": "B",
+          "text": "Anish"
+        },
+        {
+          "id": "C",
+          "text": "Balamurali"
+        },
+        {
+          "id": "D",
+          "text": "Shyam"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "5",
+      "question": "What sport was Surya excellent at?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Football"
+        },
+        {
+          "id": "B",
+          "text": "Tennis"
+        },
+        {
+          "id": "C",
+          "text": "Badminton"
+        },
+        {
+          "id": "D",
+          "text": "Hockey"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "6",
+      "question": "When did the coach hold friendly matches?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Every Monday"
+        },
+        {
+          "id": "B",
+          "text": "The last Friday of the month"
+        },
+        {
+          "id": "C",
+          "text": "Every weekend"
+        },
+        {
+          "id": "D",
+          "text": "During holidays"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "7",
+      "question": "What bad thing did Prabhat do during the badminton match?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He tripped Surya"
+        },
+        {
+          "id": "B",
+          "text": "He secretly changed the score to win while Surya wasn't looking"
+        },
+        {
+          "id": "C",
+          "text": "He broke Surya's racket"
+        },
+        {
+          "id": "D",
+          "text": "He shouted at the coach"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "8",
+      "question": "How did Prabhat feel that night after he cheated to win?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Extremely happy"
+        },
+        {
+          "id": "B",
+          "text": "Very proud"
+        },
+        {
+          "id": "C",
+          "text": "Unhappy, guilty, and unable to sleep well"
+        },
+        {
+          "id": "D",
+          "text": "Angry at Surya"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "9",
+      "question": "Did Surya get angry when he lost the match?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes"
+        },
+        {
+          "id": "B",
+          "text": "No, he remained cheerful and said it was fun"
+        },
+        {
+          "id": "C",
+          "text": "He cried"
+        },
+        {
+          "id": "D",
+          "text": "He complained"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "10",
+      "question": "What game was Surya playing the next day where he struggled to score?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Chess"
+        },
+        {
+          "id": "B",
+          "text": "Basketball"
+        },
+        {
+          "id": "C",
+          "text": "Hide and seek"
+        },
+        {
+          "id": "D",
+          "text": "Tennis"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "11",
+      "question": "Why did Prabhat's parents and friends criticize him at the beginning?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He was lazy"
+        },
+        {
+          "id": "B",
+          "text": "He could not accept defeat and was obsessed with winning everything"
+        },
+        {
+          "id": "C",
+          "text": "He never studied"
+        },
+        {
+          "id": "D",
+          "text": "He was always late"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "12",
+      "question": "How did Prabhat's fear of losing affect his life?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It made him popular"
+        },
+        {
+          "id": "B",
+          "text": "It made games stressful, and he couldn't enjoy playing just for fun"
+        },
+        {
+          "id": "C",
+          "text": "It made him a better team player"
+        },
+        {
+          "id": "D",
+          "text": "It didn't affect him"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "13",
+      "question": "How were Prabhat and Surya different before their match?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both were very nervous"
+        },
+        {
+          "id": "B",
+          "text": "Prabhat was highly stressed and serious; Surya was relaxed and carefree"
+        },
+        {
+          "id": "C",
+          "text": "Surya was stressed; Prabhat was relaxed"
+        },
+        {
+          "id": "D",
+          "text": "Both didn't care"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "14",
+      "question": "Why did Prabhat cheat?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The coach told him to"
+        },
+        {
+          "id": "B",
+          "text": "He was too afraid of losing to Surya and wanted to win at any cost"
+        },
+        {
+          "id": "C",
+          "text": "It was an accident"
+        },
+        {
+          "id": "D",
+          "text": "He wanted to test Surya"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "15",
+      "question": "Why couldn't Prabhat enjoy his victory?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He lost his racket"
+        },
+        {
+          "id": "B",
+          "text": "He realized that winning by cheating gave him no real joy or satisfaction"
+        },
+        {
+          "id": "C",
+          "text": "Surya laughed at him"
+        },
+        {
+          "id": "D",
+          "text": "He was tired"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "16",
+      "question": "What did Prabhat notice about Surya on the basketball court?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Surya was scoring all the points"
+        },
+        {
+          "id": "B",
+          "text": "Even though Surya was bad at basketball, he played with a big smile and enjoyed the game"
+        },
+        {
+          "id": "C",
+          "text": "Surya was fighting"
+        },
+        {
+          "id": "D",
+          "text": "Surya quit the game"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "17",
+      "question": "What big lesson does Prabhat learn about sportsmanship?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Winning is everything"
+        },
+        {
+          "id": "B",
+          "text": "True joy comes from participating, trying your best, and having fun, not just winning"
+        },
+        {
+          "id": "C",
+          "text": "Always pick weaker players"
+        },
+        {
+          "id": "D",
+          "text": "Cheating is fine"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "18",
+      "question": "How did Prabhat's behavior change at the end of the story?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He stopped playing sports"
+        },
+        {
+          "id": "B",
+          "text": "He started playing all games, laughing, and showing good sporting spirit even if he lost"
+        },
+        {
+          "id": "C",
+          "text": "He only played basketball"
+        },
+        {
+          "id": "D",
+          "text": "He became a coach"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "19",
+      "question": "How did others react when Prabhat changed his attitude?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They ignored him"
+        },
+        {
+          "id": "B",
+          "text": "They admired his new sporting spirit and liked playing with him much more"
+        },
+        {
+          "id": "C",
+          "text": "They made fun of him"
+        },
+        {
+          "id": "D",
+          "text": "They stopped playing with him"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "20",
+      "question": "What does Surya's character do in the story?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He is a fierce enemy"
+        },
+        {
+          "id": "B",
+          "text": "He is a role model who shows Prabhat what healthy, happy sportsmanship looks like"
+        },
+        {
+          "id": "C",
+          "text": "He is a victim"
+        },
+        {
+          "id": "D",
+          "text": "He is a strict teacher"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "21",
+      "question": "What does it mean to have an \"unhealthy obsession\" with winning?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Trying your best to win"
+        },
+        {
+          "id": "B",
+          "text": "Believing that your worth only comes from winning, causing you to fear failure and avoid challenges"
+        },
+        {
+          "id": "C",
+          "text": "Playing games every day"
+        },
+        {
+          "id": "D",
+          "text": "Liking sports"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "22",
+      "question": "Why does the author use basketball to contrast with badminton?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To show which sport is better"
+        },
+        {
+          "id": "B",
+          "text": "To show Surya playing a sport he is bad at, proving that he loves the process of playing, not just the glory of winning"
+        },
+        {
+          "id": "C",
+          "text": "To prove Surya is a bad athlete"
+        },
+        {
+          "id": "D",
+          "text": "To make the story longer"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "23",
+      "question": "Why is Prabhat's guilt important to the plot?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It creates a mystery"
+        },
+        {
+          "id": "B",
+          "text": "It acts as the turning point that forces him to reflect on his morals and change his toxic mindset"
+        },
+        {
+          "id": "C",
+          "text": "It proves he is a villain"
+        },
+        {
+          "id": "D",
+          "text": "It makes Surya angry"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "24",
+      "question": "What emotional skill does Surya have that Prabhat lacks at the start?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Physical stamina"
+        },
+        {
+          "id": "B",
+          "text": "Emotional regulation—the ability to stay calm and happy whether he wins or loses"
+        },
+        {
+          "id": "C",
+          "text": "Mathematical calculation"
+        },
+        {
+          "id": "D",
+          "text": "Aggression"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "25",
+      "question": "Why is the title \"Change of Heart\" a good fit for this story?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It is about a heart operation"
+        },
+        {
+          "id": "B",
+          "text": "It describes Prabhat's deep internal change from being a stressed, win-obsessed boy to a joyful, fair player"
+        },
+        {
+          "id": "C",
+          "text": "It means exchanging team jerseys"
+        },
+        {
+          "id": "D",
+          "text": "It refers to getting tired"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "26",
+      "question": "How does the story show that the \"win at all costs\" mentality is bad?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It causes physical injuries"
+        },
+        {
+          "id": "B",
+          "text": "It shows that it makes a person cheat, lose their integrity, and ruins the actual fun of the game"
+        },
+        {
+          "id": "C",
+          "text": "It makes people poor"
+        },
+        {
+          "id": "D",
+          "text": "It proves it is the only way to succeed"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "27",
+      "question": "What is the \"irony\" of Prabhat winning the match?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He actually lost"
+        },
+        {
+          "id": "B",
+          "text": "He got what he wanted (the win), but it felt terrible instead of good because he cheated"
+        },
+        {
+          "id": "C",
+          "text": "The coach cancelled the match"
+        },
+        {
+          "id": "D",
+          "text": "Surya won a trophy"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "28",
+      "question": "Which of the following is true about how Prabhat learned his lesson?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The coach punished him"
+        },
+        {
+          "id": "B",
+          "text": "He learned through self-reflection after silently observing Surya's positive behavior"
+        },
+        {
+          "id": "C",
+          "text": "He read a book about rules"
+        },
+        {
+          "id": "D",
+          "text": "His parents yelled at him"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "29",
+      "question": "What does Surya's reaction to losing the badminton match show about him?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He is lazy and doesn't care"
+        },
+        {
+          "id": "B",
+          "text": "He possesses maturity and true sportsmanship, valuing the shared experience over the final score"
+        },
+        {
+          "id": "C",
+          "text": "He didn't know the rules"
+        },
+        {
+          "id": "D",
+          "text": "He was planning revenge"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "30",
+      "question": "Why is it significant that Prabhat started playing \"hide and seek\" at the end?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It shows he is acting like a baby"
+        },
+        {
+          "id": "B",
+          "text": "It symbolizes that he let go of his ego and finally embraced pure, fun play without worrying about competition"
+        },
+        {
+          "id": "C",
+          "text": "He wanted to hide from his friends"
+        },
+        {
+          "id": "D",
+          "text": "He lost his badminton racket"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    }
+  ]
+}
