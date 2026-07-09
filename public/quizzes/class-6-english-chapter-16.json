@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "Where is the National War Memorial located?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mumbai"
+        },
+        {
+          "id": "B",
+          "text": "Kolkata"
+        },
+        {
+          "id": "C",
+          "text": "New Delhi"
+        },
+        {
+          "id": "D",
+          "text": "Chennai"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "2",
+      "question": "When was the National War Memorial established?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1947"
+        },
+        {
+          "id": "B",
+          "text": "1950"
+        },
+        {
+          "id": "C",
+          "text": "February 2019"
+        },
+        {
+          "id": "D",
+          "text": "2000"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "3",
+      "question": "Who built the National War Memorial?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A private company"
+        },
+        {
+          "id": "B",
+          "text": "The Government of India"
+        },
+        {
+          "id": "C",
+          "text": "The United Nations"
+        },
+        {
+          "id": "D",
+          "text": "A king"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "4",
+      "question": "Whom does the memorial honour and remember?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Politicians"
+        },
+        {
+          "id": "B",
+          "text": "Brave soldiers who sacrificed their lives for the nation"
+        },
+        {
+          "id": "C",
+          "text": "Scientists"
+        },
+        {
+          "id": "D",
+          "text": "Teachers"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "5",
+      "question": "How many concentric circles (Chakras) does the memorial have?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Two"
+        },
+        {
+          "id": "B",
+          "text": "Three"
+        },
+        {
+          "id": "C",
+          "text": "Four"
+        },
+        {
+          "id": "D",
+          "text": "Five"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "6",
+      "question": "What burns continuously at the center (Amar Chakra) of the memorial?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A campfire"
+        },
+        {
+          "id": "B",
+          "text": "The eternal flame (Amar Jawan Jyoti)"
+        },
+        {
+          "id": "C",
+          "text": "A giant lightbulb"
+        },
+        {
+          "id": "D",
+          "text": "A laser"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "7",
+      "question": "What is engraved on the granite plaques in the Tyag Chakra?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Poems"
+        },
+        {
+          "id": "B",
+          "text": "The names of fallen soldiers"
+        },
+        {
+          "id": "C",
+          "text": "Maps"
+        },
+        {
+          "id": "D",
+          "text": "Paintings"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "8",
+      "question": "What do the rows of trees in the Rakshak Chakra represent?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The forest"
+        },
+        {
+          "id": "B",
+          "text": "The soldiers protecting the nation"
+        },
+        {
+          "id": "C",
+          "text": "The government"
+        },
+        {
+          "id": "D",
+          "text": "The civilians"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "9",
+      "question": "What does the Veerta Chakra display?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bronze murals depicting battles"
+        },
+        {
+          "id": "B",
+          "text": "Flowers"
+        },
+        {
+          "id": "C",
+          "text": "Water fountains"
+        },
+        {
+          "id": "D",
+          "text": "Weapons"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "10",
+      "question": "How are the soldiers said to stand for Bharat in the poem?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Far apart"
+        },
+        {
+          "id": "B",
+          "text": "In hiding"
+        },
+        {
+          "id": "C",
+          "text": "Side by side"
+        },
+        {
+          "id": "D",
+          "text": "Behind walls"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "11",
+      "question": "What is the symbolic meaning of the \"eternal flame\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To save electricity"
+        },
+        {
+          "id": "B",
+          "text": "It represents the undying spirit, courage, and immortal memory of the martyrs"
+        },
+        {
+          "id": "C",
+          "text": "To keep visitors warm"
+        },
+        {
+          "id": "D",
+          "text": "To act as a lighthouse"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "12",
+      "question": "Why are the names of the soldiers \"etched in stone\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because paper is expensive"
+        },
+        {
+          "id": "B",
+          "text": "To signify permanence, ensuring their individual identities and sacrifices are never forgotten"
+        },
+        {
+          "id": "C",
+          "text": "Because it looks nice"
+        },
+        {
+          "id": "D",
+          "text": "To practice carving"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "13",
+      "question": "What does the layout of the four concentric circles aim to represent overall?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A solar system"
+        },
+        {
+          "id": "B",
+          "text": "Different aspects of a soldier's journey: immortality, bravery, sacrifice, and continuous protection"
+        },
+        {
+          "id": "C",
+          "text": "A target practice range"
+        },
+        {
+          "id": "D",
+          "text": "An ancient city"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "14",
+      "question": "The phrase \"From battle fields to skies, and to oceans wide\" refers to what?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tourist destinations"
+        },
+        {
+          "id": "B",
+          "text": "The Army, Air Force, and Navy encompassing all domains where soldiers defend the country"
+        },
+        {
+          "id": "C",
+          "text": "The weather"
+        },
+        {
+          "id": "D",
+          "text": "The size of India"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "15",
+      "question": "What is the central emotion the poem aims to evoke in the reader?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fear of war"
+        },
+        {
+          "id": "B",
+          "text": "Profound respect, gratitude, and patriotic pride"
+        },
+        {
+          "id": "C",
+          "text": "Sadness and despair"
+        },
+        {
+          "id": "D",
+          "text": "Anger"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "16",
+      "question": "How does the Rakshak Chakra (Circle of Protection) utilize nature symbolically?",
+      "options": [
+        {
+          "id": "A",
+          "text": "By planting rare flowers"
+        },
+        {
+          "id": "B",
+          "text": "By using rows of trees to symbolize the steadfast, living resilience of soldiers safeguarding the borders"
+        },
+        {
+          "id": "C",
+          "text": "By building a moat"
+        },
+        {
+          "id": "D",
+          "text": "By keeping animals"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "17",
+      "question": "What is the educational purpose of visiting the National War Memorial, as suggested in the activities?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To have a picnic"
+        },
+        {
+          "id": "B",
+          "text": "To witness history, pay respects, and deeply understand the real-life cost of freedom"
+        },
+        {
+          "id": "C",
+          "text": "To buy souvenirs"
+        },
+        {
+          "id": "D",
+          "text": "To meet politicians"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "18",
+      "question": "What does \"paying homage\" mean in the context of the eternal flame?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Paying money"
+        },
+        {
+          "id": "B",
+          "text": "Showing deep respect, honor, and formal acknowledgment of their ultimate sacrifice"
+        },
+        {
+          "id": "C",
+          "text": "Ignoring them"
+        },
+        {
+          "id": "D",
+          "text": "Singing loudly"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "19",
+      "question": "Why does the poem mention \"each story to confide\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To show that soldiers like to talk"
+        },
+        {
+          "id": "B",
+          "text": "To emphasize that behind every etched name is a unique, personal narrative of heroism and sacrifice"
+        },
+        {
+          "id": "C",
+          "text": "To keep secrets"
+        },
+        {
+          "id": "D",
+          "text": "To write a book"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "20",
+      "question": "What is the significance of the memorial being built in \"Bharat's heartland\" (New Delhi)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It was the only empty space"
+        },
+        {
+          "id": "B",
+          "text": "Locating it in the capital places the memory of the martyrs at the very center of the nation's governance and consciousness"
+        },
+        {
+          "id": "C",
+          "text": "It is close to the airport"
+        },
+        {
+          "id": "D",
+          "text": "The weather is good"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "21",
+      "question": "The architectural design of the memorial (Chakras) consciously mirrors what ancient Indian motif?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The caste system"
+        },
+        {
+          "id": "B",
+          "text": "The cyclical nature of existence (Chakra), symbolizing eternity, duty (Dharma), and the continuum of life and sacrifice"
+        },
+        {
+          "id": "C",
+          "text": "The square roots"
+        },
+        {
+          "id": "D",
+          "text": "The pyramid structure"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "22",
+      "question": "How does the poem employ the concept of \"collective memory\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "By telling people to forget the past"
+        },
+        {
+          "id": "B",
+          "text": "By creating a shared narrative (\"blessed memory, forever remind\") that binds the citizens through shared gratitude"
+        },
+        {
+          "id": "C",
+          "text": "By making everyone take a test"
+        },
+        {
+          "id": "D",
+          "text": "By banning history books"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "23",
+      "question": "What is the rhetorical function of personifying the memorial as standing \"with respect and grace\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It makes the building seem alive"
+        },
+        {
+          "id": "B",
+          "text": "It transfers the noble virtues of the fallen soldiers onto the physical structure itself, making the stone embody their spirit"
+        },
+        {
+          "id": "C",
+          "text": "It proves buildings have feelings"
+        },
+        {
+          "id": "D",
+          "text": "It describes the architects"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "24",
+      "question": "In the discourse of nation-building, why are physical monuments like the National War Memorial critical?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They use up excess stone"
+        },
+        {
+          "id": "B",
+          "text": "They provide a tangible, spatial anchor for abstract concepts of patriotism, sacrifice, and national identity"
+        },
+        {
+          "id": "C",
+          "text": "They create traffic"
+        },
+        {
+          "id": "D",
+          "text": "They generate tourism revenue only"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "25",
+      "question": "The transition from the \"Amar Chakra\" (Immortality) in the center to the \"Rakshak Chakra\" (Protection) on the outside represents what?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Moving from hot to cold"
+        },
+        {
+          "id": "B",
+          "text": "The outward radiation of the martyrs' spiritual legacy, which continues to protect the living nation"
+        },
+        {
+          "id": "C",
+          "text": "A mistake in design"
+        },
+        {
+          "id": "D",
+          "text": "A timeline of wars"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "26",
+      "question": "How does the poem address the solemnity of death without glorifying violence?",
+      "options": [
+        {
+          "id": "A",
+          "text": "By focusing on the weapons used"
+        },
+        {
+          "id": "B",
+          "text": "By elevating the sacrifice and courage (\"honours brave stories\") rather than the act of killing, framing it as selfless service"
+        },
+        {
+          "id": "C",
+          "text": "By showing pictures of battles"
+        },
+        {
+          "id": "D",
+          "text": "By ignoring the war entirely"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "27",
+      "question": "The use of \"silence\" in relation to the eternal flame contrasts with what implicit reality of the soldiers' experience?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The silence of space"
+        },
+        {
+          "id": "B",
+          "text": "The deafening chaos, violence, and noise of the \"battle fields\" they perished in, offering them ultimate peace now"
+        },
+        {
+          "id": "C",
+          "text": "The noise of the city"
+        },
+        {
+          "id": "D",
+          "text": "The sound of music"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "28",
+      "question": "What does the Tyag Chakra (Circle of Sacrifice) demand of the civilian visitor?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To ignore it"
+        },
+        {
+          "id": "B",
+          "text": "An existential confrontation with the ultimate price paid by others for the visitor's current liberties and peace"
+        },
+        {
+          "id": "C",
+          "text": "To pay an entry fee"
+        },
+        {
+          "id": "D",
+          "text": "To plant a tree"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "29",
+      "question": "The phrase \"honours brave stories retold\" suggests that heroism relies on what mechanism to survive?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Genetic inheritance"
+        },
+        {
+          "id": "B",
+          "text": "The active, continuous oral and historical transmission of legacy by subsequent generations"
+        },
+        {
+          "id": "C",
+          "text": "Magic"
+        },
+        {
+          "id": "D",
+          "text": "Burial"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "30",
+      "question": "Ultimately, the National War Memorial stands as an architectural defense against what?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Modern art"
+        },
+        {
+          "id": "B",
+          "text": "The erosion of time and the human tendency to forget the severe cost of national freedom"
+        },
+        {
+          "id": "C",
+          "text": "Urban development"
+        },
+        {
+          "id": "D",
+          "text": "Peace treaties"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    }
+  ]
+}
