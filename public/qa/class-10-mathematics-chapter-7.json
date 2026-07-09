@@ -1,0 +1,278 @@
+{
+  "chapterTitle": "Coordinate Geometry",
+  "chapterTitleHi": "निर्देशांक ज्यामिति",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "State the Distance Formula used to find the distance between two points $P(x_1, y_1)$ and $Q(x_2, y_2)$.",
+      "questionHi": "दो बिंदुओं $P(x_1, y_1)$ और $Q(x_2, y_2)$ के बीच की दूरी ज्ञात करने के लिए उपयोग किए जाने वाले दूरी सूत्र (Distance Formula) को बताइए।",
+      "answer": "The distance between any two points $P(x_1, y_1)$ and $Q(x_2, y_2)$ in a Cartesian plane is given by the formula:\n\n$$PQ = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$$",
+      "answerHi": "एक कार्तीय तल में किन्हीं दो बिंदुओं $P(x_1, y_1)$ और $Q(x_2, y_2)$ के बीच की दूरी इस सूत्र द्वारा दी जाती है:\n\n$$PQ = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$$",
+      "keyPoints": [
+        "Used to find distance between two points.",
+        "Formula: $\\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$"
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Find the distance between the points $(2, 3)$ and $(4, 1)$.",
+      "questionHi": "बिंदुओं $(2, 3)$ और $(4, 1)$ के बीच की दूरी ज्ञात कीजिए।",
+      "answer": "Let $P = (2, 3)$ and $Q = (4, 1)$. Applying the distance formula:\n\n$$PQ = \\sqrt{(4 - 2)^2 + (1 - 3)^2} = \\sqrt{(2)^2 + (-2)^2}$$\n\n$$PQ = \\sqrt{4 + 4} = \\sqrt{8} = 2\\sqrt{2} \\text{ units}$$",
+      "answerHi": "मान लीजिए $P = (2, 3)$ और $Q = (4, 1)$। दूरी सूत्र लागू करने पर:\n\n$$PQ = \\sqrt{(4 - 2)^2 + (1 - 3)^2} = \\sqrt{(2)^2 + (-2)^2}$$\n\n$$PQ = \\sqrt{4 + 4} = \\sqrt{8} = 2\\sqrt{2} \\text{ इकाइयाँ}$$",
+      "keyPoints": [
+        "Apply distance formula.",
+        "Simplify the square root."
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "State the Section Formula for finding the coordinates of a point which divides the line segment joining $(x_1, y_1)$ and $(x_2, y_2)$ internally in the ratio $m_1 : m_2$.",
+      "questionHi": "$(x_1, y_1)$ और $(x_2, y_2)$ को मिलाने वाले रेखाखंड को $m_1 : m_2$ के अनुपात में आंतरिक रूप से विभाजित करने वाले बिंदु के निर्देशांक ज्ञात करने के लिए विभाजन सूत्र (Section Formula) बताइए।",
+      "answer": "The coordinates of the point $P(x, y)$ are given by:\n\n$$P(x, y) = \\left( \\frac{m_1x_2 + m_2x_1}{m_1 + m_2}, \\frac{m_1y_2 + m_2y_1}{m_1 + m_2} \\right)$$",
+      "answerHi": "बिंदु $P(x, y)$ के निर्देशांक इस प्रकार दिए गए हैं:\n\n$$P(x, y) = \\left( \\frac{m_1x_2 + m_2x_1}{m_1 + m_2}, \\frac{m_1y_2 + m_2y_1}{m_1 + m_2} \\right)$$",
+      "keyPoints": [
+        "Internal division in ratio $m_1 : m_2$.",
+        "Provides coordinates of the dividing point."
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Find the coordinates of the mid-point of the line segment joining the points $(22, 20)$ and $(0, 16)$.",
+      "questionHi": "बिंदुओं $(22, 20)$ और $(0, 16)$ को मिलाने वाले रेखाखंड के मध्य-बिंदु के निर्देशांक ज्ञात कीजिए।",
+      "answer": "The mid-point formula is a special case of the section formula where ratio is $1:1$: $\\left(\\frac{x_1 + x_2}{2}, \\frac{y_1 + y_2}{2}\\right)$.\n\n$$\\text{Mid-point} = \\left(\\frac{22 + 0}{2}, \\frac{20 + 16}{2}\\right) = \\left(\\frac{22}{2}, \\frac{36}{2}\\right) = (11, 18)$$",
+      "answerHi": "मध्य-बिंदु सूत्र विभाजन सूत्र का एक विशेष मामला है जहाँ अनुपात $1:1$ होता है: $\\left(\\frac{x_1 + x_2}{2}, \\frac{y_1 + y_2}{2}\\right)$।\n\n$$\\text{मध्य-बिंदु} = \\left(\\frac{22 + 0}{2}, \\frac{20 + 16}{2}\\right) = \\left(\\frac{22}{2}, \\frac{36}{2}\\right) = (11, 18)$$",
+      "keyPoints": [
+        "Use mid-point formula.",
+        "Average of x and y coordinates."
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Find the distance of the point $P(3, -4)$ from the origin $(0, 0)$.",
+      "questionHi": "बिंदु $P(3, -4)$ की मूल बिंदु $(0, 0)$ से दूरी ज्ञात कीजिए।",
+      "answer": "The distance of any general point $P(x, y)$ from the origin is given by $\\sqrt{x^2 + y^2}$.\n\n$$\\text{Distance} = \\sqrt{(3)^2 + (-4)^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5 \\text{ units}$$",
+      "answerHi": "किसी भी सामान्य बिंदु $P(x, y)$ की मूल बिंदु से दूरी $\\sqrt{x^2 + y^2}$ द्वारा दी जाती है।\n\n$$\\text{दूरी} = \\sqrt{(3)^2 + (-4)^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5 \\text{ इकाइयाँ}$$",
+      "keyPoints": [
+        "Distance from origin = $\\sqrt{x^2 + y^2}$."
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "Find the coordinates of a point $A$, where $AB$ is the diameter of a circle whose centre is $(2, -3)$ and $B$ is $(1, 4)$.",
+      "questionHi": "एक बिंदु $A$ के निर्देशांक ज्ञात कीजिए, जहाँ $AB$ एक वृत्त का व्यास है जिसका केंद्र $(2, -3)$ है तथा $B$ $(1, 4)$ है।",
+      "answer": "Let $A = (x, y)$. The centre $(2, -3)$ is the mid-point of diameter $AB$.\n\n$$\\frac{x + 1}{2} = 2 \\implies x + 1 = 4 \\implies x = 3$$\n\n$$\\frac{y + 4}{2} = -3 \\implies y + 4 = -6 \\implies y = -10$$\n\nThe coordinates of point $A$ are **$(3, -10)$**.",
+      "answerHi": "मान लीजिए $A = (x, y)$। केंद्र $(2, -3)$ व्यास $AB$ का मध्य-बिंदु है।\n\n$$\\frac{x + 1}{2} = 2 \\implies x + 1 = 4 \\implies x = 3$$\n\n$$\\frac{y + 4}{2} = -3 \\implies y + 4 = -6 \\implies y = -10$$\n\nबिंदु $A$ के निर्देशांक **$(3, -10)$** हैं।",
+      "keyPoints": [
+        "Centre is the mid-point of the diameter.",
+        "Use mid-point formula to find unknown coordinates."
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "For what value of $k$ is the distance between the points $A(k, -1)$ and $B(5, 3)$ equal to 5 units?",
+      "questionHi": "$k$ के किस मान के लिए बिंदुओं $A(k, -1)$ और $B(5, 3)$ के बीच की दूरी 5 इकाई के बराबर है?",
+      "answer": "Apply the distance formula:\n\n$$\\sqrt{(5 - k)^2 + (3 - (-1))^2} = 5 \\implies (5 - k)^2 + (4)^2 = 25$$\n\n$$(5 - k)^2 + 16 = 25 \\implies (5 - k)^2 = 9 \\implies 5 - k = \\pm 3$$\n\n* If $5 - k = 3 \\implies k = 2$\n* If $5 - k = -3 \\implies k = 8$\nThe values of $k$ are **2 or 8**.",
+      "answerHi": "दूरी सूत्र लागू करें:\n\n$$\\sqrt{(5 - k)^2 + (3 - (-1))^2} = 5 \\implies (5 - k)^2 + (4)^2 = 25$$\n\n$$(5 - k)^2 + 16 = 25 \\implies (5 - k)^2 = 9 \\implies 5 - k = \\pm 3$$\n\n* यदि $5 - k = 3 \\implies k = 2$\n* यदि $5 - k = -3 \\implies k = 8$\n$k$ के मान **2 या 8** हैं।",
+      "keyPoints": [
+        "Set up equation using distance formula.",
+        "Solve the resulting quadratic equation."
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "Determine if the points $(1, 5)$, $(2, 3)$, and $(-2, -11)$ are collinear.",
+      "questionHi": "निर्धारित कीजिए कि क्या बिंदु $(1, 5)$, $(2, 3)$, और $(-2, -11)$ संरेखी (collinear) हैं।",
+      "answer": "Points $A, B, C$ are collinear if the sum of the distances of two segments equals the third ($AB + BC = AC$). Calculating distances: $AB = \\sqrt{5}$, $BC = \\sqrt{212} = 2\\sqrt{53}$, and $AC = \\sqrt{265}$. Since $AB + BC \\neq AC$, the points **are not collinear**.",
+      "answerHi": "बिंदु $A, B, C$ संरेखी होते हैं यदि दो रेखाखंडों की दूरियों का योग तीसरे के बराबर हो ($AB + BC = AC$)। दूरियों की गणना करने पर: $AB = \\sqrt{5}$, $BC = \\sqrt{212} = 2\\sqrt{53}$, और $AC = \\sqrt{265}$। चूँकि $AB + BC \\neq AC$, बिंदु **संरेखी नहीं हैं**।",
+      "keyPoints": [
+        "Calculate all three pairwise distances.",
+        "Check if sum of any two equals the third."
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "Find a relation between $x$ and $y$ such that the point $(x, y)$ is equidistant from the points $(7, 1)$ and $(3, 5)$.",
+      "questionHi": "$x$ और $y$ के बीच एक ऐसा संबंध ज्ञात कीजिए कि बिंदु $(x, y)$ बिंदुओं $(7, 1)$ और $(3, 5)$ से समदूरस्थ (equidistant) हो।",
+      "answer": "Let $P(x,y)$ be equidistant from $A(7,1)$ and $B(3,5)$, so $PA^2 = PB^2$:\n\n$$(x - 7)^2 + (y - 1)^2 = (x - 3)^2 + (y - 5)^2$$\n\n$$x^2 - 14x + 49 + y^2 - 2y + 1 = x^2 - 6x + 9 + y^2 - 10y + 25$$\n\n$$-14x + 6x - 2y + 10y + 50 - 34 = 0 \\implies -8x + 8y + 16 = 0 \\implies x - y = 2$$",
+      "answerHi": "मान लीजिए $P(x,y)$, $A(7,1)$ और $B(3,5)$ से समदूरस्थ है, इसलिए $PA^2 = PB^2$:\n\n$$(x - 7)^2 + (y - 1)^2 = (x - 3)^2 + (y - 5)^2$$\n\n$$x^2 - 14x + 49 + y^2 - 2y + 1 = x^2 - 6x + 9 + y^2 - 10y + 25$$\n\n$$-14x + 6x - 2y + 10y + 50 - 34 = 0 \\implies -8x + 8y + 16 = 0 \\implies x - y = 2$$",
+      "keyPoints": [
+        "Equidistant means distances are equal.",
+        "Equate the squares of distances to simplify."
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Find the coordinates of the point which divides the line segment joining $(-1, 7)$ and $(4, -3)$ in the ratio $2 : 3$ internally.",
+      "questionHi": "उस बिंदु के निर्देशांक ज्ञात कीजिए जो $(-1, 7)$ और $(4, -3)$ को मिलाने वाले रेखाखंड को $2 : 3$ के अनुपात में आंतरिक रूप से विभाजित करता है।",
+      "answer": "Using the Section Formula with $m_1=2, m_2=3$:\n\n$$x = \\frac{2(4) + 3(-1)}{2 + 3} = \\frac{8 - 3}{5} = \\frac{5}{5} = 1$$\n\n$$y = \\frac{2(-3) + 3(7)}{2 + 3} = \\frac{-6 + 21}{5} = \\frac{15}{5} = 3$$\n\nThe coordinates are **$(1, 3)$**.",
+      "answerHi": "$m_1=2, m_2=3$ के साथ विभाजन सूत्र का उपयोग करने पर:\n\n$$x = \\frac{2(4) + 3(-1)}{2 + 3} = \\frac{8 - 3}{5} = \\frac{5}{5} = 1$$\n\n$$y = \\frac{2(-3) + 3(7)}{2 + 3} = \\frac{-6 + 21}{5} = \\frac{15}{5} = 3$$\n\nनिर्देशांक **$(1, 3)$** हैं।",
+      "keyPoints": [
+        "Identify $m_1, m_2$ and coordinates.",
+        "Apply section formula."
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Find the coordinates of the points of trisection of the line segment joining $(4, -1)$ and $(-2, -3)$.",
+      "questionHi": "बिंदुओं $(4, -1)$ और $(-2, -3)$ को मिलाने वाले रेखाखंड के समत्रिभाजन (trisection) बिंदुओं के निर्देशांक ज्ञात कीजिए।",
+      "answer": "Trisection means dividing the line into three equal parts by two points, say $P$ and $Q$.\n\n1. **Point $P$** divides the segment internally in the ratio $1 : 2$. Applying the section formula:\n$$x_p = \\frac{1(-2) + 2(4)}{1 + 2} = \\frac{-2 + 8}{3} = 2, \\quad y_p = \\frac{1(-3) + 2(-1)}{1 + 2} = \\frac{-3 - 2}{3} = -\\frac{5}{3}$$\n\n\n2. **Point $Q$** divides the segment internally in the ratio $2 : 1$. Alternatively, $Q$ is the midpoint of $PB$:\n$$x_q = \\frac{2(-2) + 1(4)}{2 + 1} = 0, \\quad y_q = \\frac{2(-3) + 1(-1)}{2 + 1} = -\\frac{7}{3}$$\n\n\nThe points of trisection are **$\\left(2, -\\frac{5}{3}\\right)$ and $\\left(0, -\\frac{7}{3}\\right)$**.",
+      "answerHi": "समत्रिभाजन का अर्थ है रेखा को दो बिंदुओं, मान लीजिए $P$ और $Q$ द्वारा तीन समान भागों में विभाजित करना।\n\n1. **बिंदु $P$** रेखाखंड को $1 : 2$ के अनुपात में आंतरिक रूप से विभाजित करता है। विभाजन सूत्र लागू करने पर:\n$$x_p = \\frac{1(-2) + 2(4)}{1 + 2} = \\frac{-2 + 8}{3} = 2, \\quad y_p = \\frac{1(-3) + 2(-1)}{1 + 2} = \\frac{-3 - 2}{3} = -\\frac{5}{3}$$\n\n\n2. **बिंदु $Q$** रेखाखंड को $2 : 1$ के अनुपात में आंतरिक रूप से विभाजित करता है। वैकल्पिक रूप से, $Q$, $PB$ का मध्य-बिंदु है:\n$$x_q = \\frac{2(-2) + 1(4)}{2 + 1} = 0, \\quad y_q = \\frac{2(-3) + 1(-1)}{2 + 1} = -\\frac{7}{3}$$\n\n\nसमत्रिभाजन के बिंदु **$\\left(2, -\\frac{5}{3}\\right)$ और $\\left(0, -\\frac{7}{3}\\right)$** हैं।",
+      "keyPoints": [
+        "Trisection means dividing into three equal parts.",
+        "Points divide in ratio 1:2 and 2:1.",
+        "Use section formula."
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Find the ratio in which the y-axis divides the line segment joining the points $(5, -6)$ and $(-1, -4)$. Also find the point of intersection.",
+      "questionHi": "वह अनुपात ज्ञात कीजिए जिसमें y-अक्ष बिंदुओं $(5, -6)$ और $(-1, -4)$ को मिलाने वाले रेखाखंड को विभाजित करता है। प्रतिच्छेद बिंदु भी ज्ञात कीजिए।",
+      "answer": "Any point on the $y$-axis has coordinates of the form $(0, y)$. Let the required ratio be $k : 1$.\n\nUsing the section formula for the x-coordinate:\n\n$$0 = \\frac{k(-1) + 1(5)}{k + 1} \\implies -k + 5 = 0 \\implies k = 5$$\n\nSo, the required ratio is **$5 : 1$**.\n\nNow, substitute $k = 5$ to find the y-coordinate:\n\n$$y = \\frac{5(-4) + 1(-6)}{5 + 1} = \\frac{-20 - 6}{6} = \\frac{-26}{6} = -\\frac{13}{3}$$\n\nThe point of intersection on the y-axis is **$\\left(0, -\\frac{13}{3}\\right)$**.",
+      "answerHi": "$y$-अक्ष पर किसी भी बिंदु के निर्देशांक $(0, y)$ के रूप के होते हैं। मान लीजिए कि अभीष्ट अनुपात $k : 1$ है।\n\nx-निर्देशांक के लिए विभाजन सूत्र का उपयोग करने पर:\n\n$$0 = \\frac{k(-1) + 1(5)}{k + 1} \\implies -k + 5 = 0 \\implies k = 5$$\n\nइसलिए, अभीष्ट अनुपात **$5 : 1$** है।\n\nअब, y-निर्देशांक ज्ञात करने के लिए $k = 5$ प्रतिस्थापित करें:\n\n$$y = \\frac{5(-4) + 1(-6)}{5 + 1} = \\frac{-20 - 6}{6} = \\frac{-26}{6} = -\\frac{13}{3}$$\n\ny-अक्ष पर प्रतिच्छेद बिंदु **$\\left(0, -\\frac{13}{3}\\right)$** है।",
+      "keyPoints": [
+        "Point on y-axis is (0, y).",
+        "Assume ratio as k:1.",
+        "Use x-coordinate to find ratio, then find y."
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "Show that the points $(1, 7)$, $(4, 2)$, $(-1, -1)$, and $(-4, 4)$ are the vertices of a square.",
+      "questionHi": "दर्शाइए कि बिंदु $(1, 7)$, $(4, 2)$, $(-1, -1)$, और $(-4, 4)$ एक वर्ग के शीर्ष हैं।",
+      "answer": "Let $A(1, 7), B(4, 2), C(-1, -1),$ and $D(-4, 4)$. To prove $ABCD$ is a square, we must verify that all four sides are equal and both diagonals are equal.\n\n* **Sides:** \n$$AB = \\sqrt{(4-1)^2 + (2-7)^2} = \\sqrt{9+25} = \\sqrt{34}$$\n\n\n$$BC = \\sqrt{(-1-4)^2 + (-1-2)^2} = \\sqrt{25+9} = \\sqrt{34}$$\n\n\n$$CD = \\sqrt{(-4+1)^2 + (4+1)^2} = \\sqrt{9+25} = \\sqrt{34}$$\n\n\n$$DA = \\sqrt{(1+4)^2 + (7-4)^2} = \\sqrt{25+9} = \\sqrt{34}$$\n\n\n* **Diagonals:** \n$$AC = \\sqrt{(-1-1)^2 + (-1-7)^2} = \\sqrt{4+64} = \\sqrt{68}$$\n\n\n$$BD = \\sqrt{(-4-4)^2 + (4-2)^2} = \\sqrt{64+4} = \\sqrt{68}$$\n\n\nSince $AB = BC = CD = DA$ and $AC = BD$, the vertices form a **square**.",
+      "answerHi": "मान लीजिए $A(1, 7), B(4, 2), C(-1, -1),$ और $D(-4, 4)$ है। यह सिद्ध करने के लिए कि $ABCD$ एक वर्ग है, हमें यह सत्यापित करना होगा कि चारों भुजाएँ बराबर हैं और दोनों विकर्ण बराबर हैं।\n\n* **भुजाएँ:** \n$$AB = \\sqrt{(4-1)^2 + (2-7)^2} = \\sqrt{9+25} = \\sqrt{34}$$\n\n\n$$BC = \\sqrt{(-1-4)^2 + (-1-2)^2} = \\sqrt{25+9} = \\sqrt{34}$$\n\n\n$$CD = \\sqrt{(-4+1)^2 + (4+1)^2} = \\sqrt{9+25} = \\sqrt{34}$$\n\n\n$$DA = \\sqrt{(1+4)^2 + (7-4)^2} = \\sqrt{25+9} = \\sqrt{34}$$\n\n\n* **विकर्ण:** \n$$AC = \\sqrt{(-1-1)^2 + (-1-7)^2} = \\sqrt{4+64} = \\sqrt{68}$$\n\n\n$$BD = \\sqrt{(-4-4)^2 + (4-2)^2} = \\sqrt{64+4} = \\sqrt{68}$$\n\n\nचूँकि $AB = BC = CD = DA$ और $AC = BD$ है, अतः शीर्ष एक **वर्ग** बनाते हैं।",
+      "keyPoints": [
+        "Calculate lengths of all four sides.",
+        "Calculate lengths of both diagonals.",
+        "Square requires equal sides and equal diagonals."
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Find the values of $y$ for which the distance between the points $P(2, -3)$ and $Q(10, y)$ is 10 units.",
+      "questionHi": "$y$ के वे मान ज्ञात कीजिए जिनके लिए बिंदुओं $P(2, -3)$ और $Q(10, y)$ के बीच की दूरी 10 मात्रक है।",
+      "answer": "Using the distance formula between $P$ and $Q$:\n\n$$PQ = \\sqrt{(10 - 2)^2 + (y - (-3))^2} = 10$$\n\n$$\\sqrt{(8)^2 + (y + 3)^2} = 10 \\implies 64 + (y + 3)^2 = 100 \\quad \\text{(Squaring both sides)}$$\n\n$$(y + 3)^2 = 100 - 64 = 36 \\implies y + 3 = \\pm 6$$\n\n* **Case 1:** $y + 3 = 6 \\implies y = 3$\n* **Case 2:** $y + 3 = -6 \\implies y = -9$\nThe possible values of $y$ are **3 and $-9$**.",
+      "answerHi": "$P$ और $Q$ के बीच दूरी सूत्र का उपयोग करने पर:\n\n$$PQ = \\sqrt{(10 - 2)^2 + (y - (-3))^2} = 10$$\n\n$$\\sqrt{(8)^2 + (y + 3)^2} = 10 \\implies 64 + (y + 3)^2 = 100 \\quad \\text{(दोनों पक्षों का वर्ग करने पर)}$$\n\n$$(y + 3)^2 = 100 - 64 = 36 \\implies y + 3 = \\pm 6$$\n\n* **स्थिति 1:** $y + 3 = 6 \\implies y = 3$\n* **स्थिति 2:** $y + 3 = -6 \\implies y = -9$\n$y$ के संभावित मान **3 और $-9$** हैं।",
+      "keyPoints": [
+        "Set up equation using distance formula.",
+        "Square both sides to solve for y."
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "If $(1, 2)$, $(4, y)$, $(x, 6)$, and $(3, 5)$ are the vertices of a parallelogram taken in order, find $x$ and $y$.",
+      "questionHi": "यदि $(1, 2)$, $(4, y)$, $(x, 6)$, और $(3, 5)$ एक समांतर चतुर्भुज (parallelogram) के शीर्ष इसी क्रम में हों, तो $x$ और $y$ ज्ञात कीजिए।",
+      "answer": "We know that the diagonals of a parallelogram bisect each other, meaning the mid-point of diagonal $AC$ is identical to the mid-point of diagonal $BD$.\n\n* Mid-point of $AC = \\left(\\frac{1 + x}{2}, \\frac{2 + 6}{2}\\right) = \\left(\\frac{1 + x}{2}, 4\\right)$\n* Mid-point of $BD = \\left(\\frac{4 + 3}{2}, \\frac{y + 5}{2}\\right) = \\left(\\frac{7}{2}, \\frac{y + 5}{2}\\right)$\n\nEquating coordinates:\n\n$$\\frac{1 + x}{2} = \\frac{7}{2} \\implies 1 + x = 7 \\implies x = 6$$\n\n$$4 = \\frac{y + 5}{2} \\implies 8 = y + 5 \\implies y = 3$$\n\nThe values are **$x = 6, y = 3$**.",
+      "answerHi": "हम जानते हैं कि एक समांतर चतुर्भुज के विकर्ण एक-दूसरे को समद्विभाजित करते हैं, जिसका अर्थ है कि विकर्ण $AC$ का मध्य-बिंदु विकर्ण $BD$ के मध्य-बिंदु के समान है।\n\n* $AC$ का मध्य-बिंदु = $\\left(\\frac{1 + x}{2}, \\frac{2 + 6}{2}\\right) = \\left(\\frac{1 + x}{2}, 4\\right)$\n* $BD$ का मध्य-बिंदु = $\\left(\\frac{4 + 3}{2}, \\frac{y + 5}{2}\\right) = \\left(\\frac{7}{2}, \\frac{y + 5}{2}\\right)$\n\nनिर्देशांकों को बराबर करने पर:\n\n$$\\frac{1 + x}{2} = \\frac{7}{2} \\implies 1 + x = 7 \\implies x = 6$$\n\n$$4 = \\frac{y + 5}{2} \\implies 8 = y + 5 \\implies y = 3$$\n\nमान **$x = 6, y = 3$** हैं।",
+      "keyPoints": [
+        "Diagonals of parallelogram bisect each other.",
+        "Equate midpoints of both diagonals."
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Find the coordinates of the centre of a circle passing through the points $(6, -6)$, $(3, -7)$, and $(3, 3)$.",
+      "questionHi": "बिंदुओं $(6, -6)$, $(3, -7)$, और $(3, 3)$ से होकर जाने वाले वृत्त के केंद्र के निर्देशांक ज्ञात कीजिए।",
+      "answer": "Let the centre of the circle be $O(x, y)$ and the given points be $A(6, -6), B(3, -7),$ and $C(3, 3)$. Since all points lie on the circumference, their distances from the centre are equal radii ($OA = OB = OC \\implies OA^2 = OB^2 = OC^2$).\n\n1. **Equating $OB^2 = OC^2$:** \n$$(x - 3)^2 + (y + 7)^2 = (x - 3)^2 + (y - 3)^2$$\n\n\n$$y^2 + 14y + 49 = y^2 - 6y + 9 \\implies 20y = -40 \\implies y = -2$$\n\n\n2. **Equating $OA^2 = OB^2$ and substituting $y = -2$:** \n$$(x - 6)^2 + (-2 + 6)^2 = (x - 3)^2 + (-2 + 7)^2$$\n\n\n$$x^2 - 12x + 36 + 16 = x^2 - 6x + 9 + 25$$\n\n\n$$-12x + 52 = -6x + 34 \\implies -6x = -18 \\implies x = 3$$\n\n\n\nThe coordinates of the centre of the circle are **$(3, -2)$**.",
+      "answerHi": "मान लीजिए वृत्त का केंद्र $O(x, y)$ है और दिए गए बिंदु $A(6, -6), B(3, -7),$ और $C(3, 3)$ हैं। चूँकि सभी बिंदु परिधि पर स्थित हैं, केंद्र से उनकी दूरियाँ समान त्रिज्याएँ हैं ($OA = OB = OC \\implies OA^2 = OB^2 = OC^2$)।\n\n1. **$OB^2 = OC^2$ को बराबर करने पर:** \n$$(x - 3)^2 + (y + 7)^2 = (x - 3)^2 + (y - 3)^2$$\n\n\n$$y^2 + 14y + 49 = y^2 - 6y + 9 \\implies 20y = -40 \\implies y = -2$$\n\n\n2. **$OA^2 = OB^2$ को बराबर करने और $y = -2$ प्रतिस्थापित करने पर:** \n$$(x - 6)^2 + (-2 + 6)^2 = (x - 3)^2 + (-2 + 7)^2$$\n\n\n$$x^2 - 12x + 36 + 16 = x^2 - 6x + 9 + 25$$\n\n\n$$-12x + 52 = -6x + 34 \\implies -6x = -18 \\implies x = 3$$\n\n\n\nवृत्त के केंद्र के निर्देशांक **$(3, -2)$** हैं।",
+      "keyPoints": [
+        "Centre is equidistant from all points on circle.",
+        "Set up equations for equal squared distances.",
+        "Solve simultaneously for x and y."
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Competency-Based Question: To conduct Sports Day activities in a rectangular shaped school ground $ABCD$, lines have been drawn with chalk powder at a distance of 1 m each. 100 flower pots have been placed at a distance of 1 m from each other along $AD$. Niharika runs $\\frac{1}{4}$th the distance $AD$ on the $2^{\\text{nd}}$ line and posts a green flag. Preet runs $\\frac{1}{5}$th the distance $AD$ on the $8^{\\text{th}}$ line and posts a red flag. Find the distance between both the flags. If Rashmi has to post a blue flag exactly halfway between the line segment joining the two flags, where should she post her flag?",
+      "questionHi": "योग्यता-आधारित प्रश्न: एक आयताकार स्कूल के मैदान $ABCD$ में खेलकूद दिवस (Sports Day) की गतिविधियाँ आयोजित करने के लिए, 1 मीटर की दूरी पर चाक पाउडर से रेखाएँ खींची गई हैं। $AD$ के अनुदिश एक दूसरे से 1 मीटर की दूरी पर 100 गमले रखे गए हैं। निहारिका दूसरी रेखा पर $AD$ की दूरी का $\\frac{1}{4}$ भाग दौड़ती है और एक हरा झंडा गाड़ देती है। प्रीत आठवीं रेखा पर $AD$ की दूरी का $\\frac{1}{5}$ भाग दौड़ती है और एक लाल झंडा गाड़ देती है। दोनों झंडों के बीच की दूरी ज्ञात कीजिए। यदि रश्मि को दोनों झंडों को मिलाने वाले रेखाखंड के ठीक बीच में एक नीला झंडा गाड़ना है, तो उसे अपना झंडा कहाँ गाड़ना चाहिए?",
+      "answer": "Let us establish the ground as a coordinate plane with $A$ as the origin $(0,0)$. The horizontal line $AB$ represents the x-axis and vertical line $AD$ represents the y-axis.\n\nTotal distance $AD = 100 \\text{ m}$.\n\n* **Niharika's position (Green Flag, G):** She is on the $2^{\\text{nd}}$ line ($x = 2$) and covers $\\frac{1}{4} \\times 100 = 25 \\text{ m}$ along the y-axis. So, $G = (2, 25)$.\n* **Preet's position (Red Flag, R):** She is on the $8^{\\text{th}}$ line ($x = 8$) and covers $\\frac{1}{5} \\times 100 = 20 \\text{ m}$ along the y-axis. So, $R = (8, 20)$.\n\nUsing the Distance Formula to find the distance between the flags:\n\n$$GR = \\sqrt{(8 - 2)^2 + (20 - 25)^2} = \\sqrt{(6)^2 + (-5)^2} = \\sqrt{36 + 25} = \\sqrt{61} \\text{ m}$$\n\nRashmi needs to post her blue flag ($B$) exactly halfway, which is the mid-point of segment $GR$:\n\n$$B = \\left( \\frac{2 + 8}{2}, \\frac{25 + 20}{2} \\right) = \\left( \\frac{10}{2}, \\frac{45}{2} \\right) = (5, 22.5)$$\n\nTherefore, Rashmi should post her blue flag on the **$5^{\\text{th}}$ line at a distance of 22.5 m** along the vertical axis.",
+      "answerHi": "मान लीजिए कि हम मैदान को एक कार्तीय तल के रूप में स्थापित करते हैं जहाँ $A$ मूल बिंदु $(0,0)$ है। क्षैतिज रेखा $AB$, x-अक्ष को दर्शाती है और ऊर्ध्वाधर रेखा $AD$, y-अक्ष को दर्शाती है।\n\nकुल दूरी $AD = 100 \\text{ मीटर}$।\n\n* **निहारिका की स्थिति (हरा झंडा, G):** वह दूसरी रेखा ($x = 2$) पर है और y-अक्ष के अनुदिश $\\frac{1}{4} \\times 100 = 25 \\text{ मीटर}$ की दूरी तय करती है। अतः, $G = (2, 25)$।\n* **प्रीत की स्थिति (लाल झंडा, R):** वह आठवीं रेखा ($x = 8$) पर है और y-अक्ष के अनुदिश $\\frac{1}{5} \\times 100 = 20 \\text{ मीटर}$ की दूरी तय करती है। अतः, $R = (8, 20)$।\n\nझंडों के बीच की दूरी ज्ञात करने के लिए दूरी सूत्र का उपयोग करने पर:\n\n$$GR = \\sqrt{(8 - 2)^2 + (20 - 25)^2} = \\sqrt{(6)^2 + (-5)^2} = \\sqrt{36 + 25} = \\sqrt{61} \\text{ मीटर}$$\n\nरश्मि को अपना नीला झंडा ($B$) ठीक बीच में गाड़ना है, जो रेखाखंड $GR$ का मध्य-बिंदु है:\n\n$$B = \\left( \\frac{2 + 8}{2}, \\frac{25 + 20}{2} \\right) = \\left( \\frac{10}{2}, \\frac{45}{2} \\right) = (5, 22.5)$$\n\nइसलिए, रश्मि को अपना नीला झंडा ऊर्ध्वाधर अक्ष के अनुदिश **5वीं रेखा पर 22.5 मीटर की दूरी पर** गाड़ना चाहिए।",
+      "keyPoints": [
+        "Translate word problem into coordinate plane.",
+        "Calculate coordinates for G and R.",
+        "Use Distance formula for length and Mid-point formula for position."
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Find the coordinates of the points which divide the line segment joining $A(-2, 2)$ and $B(2, 8)$ into four equal parts.",
+      "questionHi": "बिंदुओं $A(-2, 2)$ और $B(2, 8)$ को मिलाने वाले रेखाखंड को चार बराबर भागों में विभाजित करने वाले बिंदुओं के निर्देशांक ज्ञात कीजिए।",
+      "answer": "Let the line segment $AB$ be divided into four equal parts by three internal points: $P, Q,$ and $R$ such that $AP = PQ = QR = RB$.\n\n1. **Point $Q$** is the exact middle point of the main segment $AB$. Applying the mid-point formula:\n$$Q = \\left( \\frac{-2 + 2}{2}, \\frac{2 + 8}{2} \\right) = \\left( 0, \\frac{10}{2} \\right) = (0, 5)$$\n\n\n2. **Point $P$** is the mid-point of the sub-segment $AQ$ (spanning between $A(-2,2)$ and $Q(0,5)$):\n$$P = \\left( \\frac{-2 + 0}{2}, \\frac{2 + 5}{2} \\right) = \\left( -1, \\frac{7}{2} \\right) = (-1, 3.5)$$\n\n\n3. **Point $R$** is the mid-point of the sub-segment $QB$ (spanning between $Q(0,5)$ and $B(2,8)$):\n$$R = \\left( \\frac{0 + 2}{2}, \\frac{5 + 8}{2} \\right) = \\left( 1, \\frac{13}{2} \\right) = (1, 6.5)$$\n\n\n\nThe coordinates of the three points dividing $AB$ into four equal parts are **$\\left(-1, \\frac{7}{2}\\right)$, $(0, 5)$, and $\\left(1, \\frac{13}{2}\\right)$**.",
+      "answerHi": "मान लीजिए कि रेखाखंड $AB$ को तीन आंतरिक बिंदुओं: $P, Q,$ और $R$ द्वारा चार समान भागों में विभाजित किया जाता है ताकि $AP = PQ = QR = RB$ हो।\n\n1. **बिंदु $Q$** मुख्य रेखाखंड $AB$ का ठीक मध्य-बिंदु है। मध्य-बिंदु सूत्र लागू करने पर:\n$$Q = \\left( \\frac{-2 + 2}{2}, \\frac{2 + 8}{2} \\right) = \\left( 0, \\frac{10}{2} \\right) = (0, 5)$$\n\n\n2. **बिंदु $P$** उप-रेखाखंड $AQ$ ($A(-2,2)$ और $Q(0,5)$ के बीच फैला हुआ) का मध्य-बिंदु है:\n$$P = \\left( \\frac{-2 + 0}{2}, \\frac{2 + 5}{2} \\right) = \\left( -1, \\frac{7}{2} \\right) = (-1, 3.5)$$\n\n\n3. **बिंदु $R$** उप-रेखाखंड $QB$ ($Q(0,5)$ और $B(2,8)$ के बीच फैला हुआ) का मध्य-बिंदु है:\n$$R = \\left( \\frac{0 + 2}{2}, \\frac{5 + 8}{2} \\right) = \\left( 1, \\frac{13}{2} \\right) = (1, 6.5)$$\n\n\n\n$AB$ को चार बराबर भागों में विभाजित करने वाले तीन बिंदुओं के निर्देशांक **$\\left(-1, \\frac{7}{2}\\right)$, $(0, 5)$, और $\\left(1, \\frac{13}{2}\\right)$** हैं।",
+      "keyPoints": [
+        "Divide into 4 equal parts implies 3 points.",
+        "Find midpoint of the whole segment first.",
+        "Find midpoints of the two resulting halves."
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Analytical Challenge: Prove that the line segment joining the mid-points of two sides of a triangle is parallel to the third side and equal to half of it, using coordinate geometry tools (Coordinate proof of Mid-point Theorem).",
+      "questionHi": "विश्लेषणात्मक चुनौती: निर्देशांक ज्यामिति उपकरणों का उपयोग करते हुए, सिद्ध कीजिए कि किसी त्रिभुज की किन्हीं दो भुजाओं के मध्य-बिंदुओं को मिलाने वाला रेखाखंड तीसरी भुजा के समांतर होता है और उसका आधा होता है (मध्य-बिंदु प्रमेय का निर्देशांक प्रमाण)।",
+      "answer": "Let us place a triangle $ABC$ on a coordinate plane. For simplicity of calculation, let the vertices be $A(x_1, y_1), B(x_2, y_2),$ and $C(x_3, y_3)$. Let $D$ be the mid-point of side $AB$ and $E$ be the mid-point of side $AC$.\n\nUsing the mid-point formula, we find the coordinates of $D$ and $E$:\n\n$$D = \\left(\\frac{x_1 + x_2}{2}, \\frac{y_1 + y_2}{2}\\right), \\quad E = \\left(\\frac{x_1 + x_3}{2}, \\frac{y_1 + y_3}{2}\\right)$$\n\nNow, let us find the length of the segment $DE$ using the Distance Formula:\n\n$$DE = \\sqrt{\\left(\\frac{x_1 + x_3}{2} - \\frac{x_1 + x_2}{2}\\right)^2 + \\left(\\frac{y_1 + y_3}{2} - \\frac{y_1 + y_2}{2}\\right)^2}$$\n\n$$DE = \\sqrt{\\left(\\frac{x_3 - x_2}{2}\\right)^2 + \\left(\\frac{y_3 - y_2}{2}\\right)^2} = \\frac{1}{2}\\sqrt{(x_3 - x_2)^2 + (y_3 - y_2)^2}$$\n\nNotice that $\\sqrt{(x_3 - x_2)^2 + (y_3 - y_2)^2}$ is precisely the distance formula definition for the third side length $BC$.\n\n$$DE = \\frac{1}{2}BC$$\n\n*(Note: Comparing slopes shows that Slope of $DE$ = Slope of $BC = \\frac{y_3-y_2}{x_3-x_2}$, which analytically proves $DE \\parallel BC$).* Hence proved.",
+      "answerHi": "आइए एक निर्देशांक तल पर एक त्रिभुज $ABC$ रखें। गणना की सरलता के लिए, मान लीजिए कि शीर्ष $A(x_1, y_1), B(x_2, y_2),$ और $C(x_3, y_3)$ हैं। मान लीजिए $D$ भुजा $AB$ का मध्य-बिंदु है और $E$ भुजा $AC$ का मध्य-बिंदु है।\n\nमध्य-बिंदु सूत्र का उपयोग करते हुए, हम $D$ और $E$ के निर्देशांक ज्ञात करते हैं:\n\n$$D = \\left(\\frac{x_1 + x_2}{2}, \\frac{y_1 + y_2}{2}\\right), \\quad E = \\left(\\frac{x_1 + x_3}{2}, \\frac{y_1 + y_3}{2}\\right)$$\n\nअब, आइए दूरी सूत्र का उपयोग करके रेखाखंड $DE$ की लंबाई ज्ञात करें:\n\n$$DE = \\sqrt{\\left(\\frac{x_1 + x_3}{2} - \\frac{x_1 + x_2}{2}\\right)^2 + \\left(\\frac{y_1 + y_3}{2} - \\frac{y_1 + y_2}{2}\\right)^2}$$\n\n$$DE = \\sqrt{\\left(\\frac{x_3 - x_2}{2}\\right)^2 + \\left(\\frac{y_3 - y_2}{2}\\right)^2} = \\frac{1}{2}\\sqrt{(x_3 - x_2)^2 + (y_3 - y_2)^2}$$\n\nध्यान दें कि $\\sqrt{(x_3 - x_2)^2 + (y_3 - y_2)^2}$ ठीक तीसरी भुजा की लंबाई $BC$ के लिए दूरी सूत्र की परिभाषा है।\n\n$$DE = \\frac{1}{2}BC$$\n\n*(नोट: प्रवणताओं की तुलना करने पर ज्ञात होता है कि $DE$ की प्रवणता = $BC$ की प्रवणता = $\\frac{y_3-y_2}{x_3-x_2}$ है, जो विश्लेषणात्मक रूप से $DE \\parallel BC$ सिद्ध करता है)।* इति सिद्धम।",
+      "keyPoints": [
+        "Assign general coordinates to vertices.",
+        "Find midpoints D and E using midpoint formula.",
+        "Calculate distance DE and show it is half of BC."
+      ]
+    }
+  ]
+}
