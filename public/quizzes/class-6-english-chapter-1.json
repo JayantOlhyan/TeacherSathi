@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "What did Rama Natha want to find?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A magic potion"
+        },
+        {
+          "id": "B",
+          "text": "A golden pot"
+        },
+        {
+          "id": "C",
+          "text": "A new farm"
+        },
+        {
+          "id": "D",
+          "text": "A treasure chest"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "2",
+      "question": "What did Rama Natha think the potion could do?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Make him fly"
+        },
+        {
+          "id": "B",
+          "text": "Turn objects into gold"
+        },
+        {
+          "id": "C",
+          "text": "Make plants grow fast"
+        },
+        {
+          "id": "D",
+          "text": "Cure diseases"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "3",
+      "question": "Who was Madhumati?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rama Natha's mother"
+        },
+        {
+          "id": "B",
+          "text": "The village teacher"
+        },
+        {
+          "id": "C",
+          "text": "Rama Natha's wife"
+        },
+        {
+          "id": "D",
+          "text": "A wise sage"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "4",
+      "question": "Who gave advice to Rama Natha?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The village king"
+        },
+        {
+          "id": "B",
+          "text": "Sage Mahipati"
+        },
+        {
+          "id": "C",
+          "text": "His father"
+        },
+        {
+          "id": "D",
+          "text": "A rich merchant"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "5",
+      "question": "What did the sage ask Rama Natha to collect?",
+      "options": [
+        {
+          "id": "A",
+          "text": "River water"
+        },
+        {
+          "id": "B",
+          "text": "Rain drops"
+        },
+        {
+          "id": "C",
+          "text": "Dew from banana leaves"
+        },
+        {
+          "id": "D",
+          "text": "Golden coins"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "6",
+      "question": "How many litres of dew were needed?",
+      "options": [
+        {
+          "id": "A",
+          "text": "One litre"
+        },
+        {
+          "id": "B",
+          "text": "Two litres"
+        },
+        {
+          "id": "C",
+          "text": "Five litres"
+        },
+        {
+          "id": "D",
+          "text": "Ten litres"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "7",
+      "question": "How many years did it take to collect the dew?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Two years"
+        },
+        {
+          "id": "B",
+          "text": "Four years"
+        },
+        {
+          "id": "C",
+          "text": "Six years"
+        },
+        {
+          "id": "D",
+          "text": "Eight years"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "8",
+      "question": "What did Rama Natha's father leave for him?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Large areas of land"
+        },
+        {
+          "id": "B",
+          "text": "A small shop"
+        },
+        {
+          "id": "C",
+          "text": "A bag of money"
+        },
+        {
+          "id": "D",
+          "text": "Empty boxes"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "9",
+      "question": "What did Madhumati do with the bananas?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She ate them all"
+        },
+        {
+          "id": "B",
+          "text": "She sold them in the market"
+        },
+        {
+          "id": "C",
+          "text": "She gave them to the sage"
+        },
+        {
+          "id": "D",
+          "text": "She threw them away"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "10",
+      "question": "Did the dew turn the copper vessel into gold?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes, instantly"
+        },
+        {
+          "id": "B",
+          "text": "Yes, after one day"
+        },
+        {
+          "id": "C",
+          "text": "No, nothing happened"
+        },
+        {
+          "id": "D",
+          "text": "It turned it into silver"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "11",
+      "question": "Why was Madhumati worried at the beginning of the story?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Her husband was sick"
+        },
+        {
+          "id": "B",
+          "text": "He was wasting money and ignoring his land"
+        },
+        {
+          "id": "C",
+          "text": "There was no rain"
+        },
+        {
+          "id": "D",
+          "text": "She lost her jewelry"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "12",
+      "question": "Why did people cheat Rama Natha?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He was very rich"
+        },
+        {
+          "id": "B",
+          "text": "He was blind to the truth because he only wanted the magic potion"
+        },
+        {
+          "id": "C",
+          "text": "He could not count money"
+        },
+        {
+          "id": "D",
+          "text": "He told them to cheat him"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "13",
+      "question": "Why did the sage tell Rama Natha to do all the work himself?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because the sage was lazy"
+        },
+        {
+          "id": "B",
+          "text": "So Rama Natha would learn the value of hard work"
+        },
+        {
+          "id": "C",
+          "text": "Because no one else could touch the plants"
+        },
+        {
+          "id": "D",
+          "text": "To save money"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "14",
+      "question": "How did Rama Natha feel when the copper did not turn to gold?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Happy"
+        },
+        {
+          "id": "B",
+          "text": "Scared"
+        },
+        {
+          "id": "C",
+          "text": "Angry and disappointed"
+        },
+        {
+          "id": "D",
+          "text": "Sleepy"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "15",
+      "question": "Where did the couple's real wealth come from?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A hidden treasure"
+        },
+        {
+          "id": "B",
+          "text": "Selling the bananas they grew with hard work"
+        },
+        {
+          "id": "C",
+          "text": "The sage's magic spell"
+        },
+        {
+          "id": "D",
+          "text": "Borrowing from neighbors"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "16",
+      "question": "Why didn't Rama Natha give up even when people cheated him?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He liked losing money"
+        },
+        {
+          "id": "B",
+          "text": "He strongly believed the magic potion would make him rich"
+        },
+        {
+          "id": "C",
+          "text": "He had too much time"
+        },
+        {
+          "id": "D",
+          "text": "He wanted to be poor"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "17",
+      "question": "What did Rama Natha have to do before planting the banana trees?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Build a house"
+        },
+        {
+          "id": "B",
+          "text": "Clear and prepare his neglected fields"
+        },
+        {
+          "id": "C",
+          "text": "Sell his land"
+        },
+        {
+          "id": "D",
+          "text": "Buy new tools"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "18",
+      "question": "How did the sage's trick help Rama Natha?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It gave him gold"
+        },
+        {
+          "id": "B",
+          "text": "It forced him to focus on farming, which eventually made him rich"
+        },
+        {
+          "id": "C",
+          "text": "It taught him magic"
+        },
+        {
+          "id": "D",
+          "text": "It made him famous"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "19",
+      "question": "What does a 'plantation' mean in the story?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A small garden"
+        },
+        {
+          "id": "B",
+          "text": "A large farm where crops are grown"
+        },
+        {
+          "id": "C",
+          "text": "A forest"
+        },
+        {
+          "id": "D",
+          "text": "A marketplace"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "20",
+      "question": "How did Rama Natha change by the end of the story?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He became lazier"
+        },
+        {
+          "id": "B",
+          "text": "He turned from a foolish dreamer into a responsible, hardworking man"
+        },
+        {
+          "id": "C",
+          "text": "He became angry at his wife"
+        },
+        {
+          "id": "D",
+          "text": "He became a sage"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "21",
+      "question": "What is the main moral lesson of \"A Bottle of Dew\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Magic is real if you wait long enough"
+        },
+        {
+          "id": "B",
+          "text": "Real success comes from hard work and effort, not shortcuts"
+        },
+        {
+          "id": "C",
+          "text": "Bananas are the best fruit"
+        },
+        {
+          "id": "D",
+          "text": "Never trust wise men"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "22",
+      "question": "Why is Madhumati an important character in the story?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She knows magic"
+        },
+        {
+          "id": "B",
+          "text": "She represents practical wisdom and family support, which leads to their success"
+        },
+        {
+          "id": "C",
+          "text": "She stops him from farming"
+        },
+        {
+          "id": "D",
+          "text": "She finds the dew"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "23",
+      "question": "What does the \"bottle of dew\" symbolize in the story?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pure drinking water"
+        },
+        {
+          "id": "B",
+          "text": "The result of patience, steady effort, and discipline over many years"
+        },
+        {
+          "id": "C",
+          "text": "A complete waste of time"
+        },
+        {
+          "id": "D",
+          "text": "Winter weather"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "24",
+      "question": "How did the sage show true wisdom?",
+      "options": [
+        {
+          "id": "A",
+          "text": "By giving Rama Natha gold directly"
+        },
+        {
+          "id": "B",
+          "text": "By understanding Rama Natha's mind and guiding him to discover the truth himself"
+        },
+        {
+          "id": "C",
+          "text": "By punishing him"
+        },
+        {
+          "id": "D",
+          "text": "By sending him to the forest"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "25",
+      "question": "Why is it ironic that Rama Natha worked so hard for the dew?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The dew was poisonous"
+        },
+        {
+          "id": "B",
+          "text": "He wanted a shortcut to wealth, but ended up working harder than anyone else for six years"
+        },
+        {
+          "id": "C",
+          "text": "He collected rain instead"
+        },
+        {
+          "id": "D",
+          "text": "He hated bananas"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "26",
+      "question": "What does the word 'illusion' mean in the context of Rama Natha's dream?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A true fact"
+        },
+        {
+          "id": "B",
+          "text": "A false belief or fake appearance of a shortcut to success"
+        },
+        {
+          "id": "C",
+          "text": "A type of painting"
+        },
+        {
+          "id": "D",
+          "text": "A magic trick"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "27",
+      "question": "How do we know the sage never intended to do real magic?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He smiled and just told Rama Natha to test it, knowing it would fail but the farm had succeeded"
+        },
+        {
+          "id": "B",
+          "text": "He forgot the magic words"
+        },
+        {
+          "id": "C",
+          "text": "He ran away"
+        },
+        {
+          "id": "D",
+          "text": "He asked for money"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "28",
+      "question": "Which word best describes Rama Natha's effort over the six years?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lazy"
+        },
+        {
+          "id": "B",
+          "text": "Careless"
+        },
+        {
+          "id": "C",
+          "text": "Diligent"
+        },
+        {
+          "id": "D",
+          "text": "Angry"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "29",
+      "question": "The story teaches that intelligence combined with what leads to success?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Good luck"
+        },
+        {
+          "id": "B",
+          "text": "Magic potions"
+        },
+        {
+          "id": "C",
+          "text": "Consistent effort and hard work"
+        },
+        {
+          "id": "D",
+          "text": "Borrowing money"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "30",
+      "question": "Why is the title \"A Bottle of Dew\" appropriate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It is the name of a drink"
+        },
+        {
+          "id": "B",
+          "text": "It represents the metaphorical journey where collecting dew taught him the value of labor"
+        },
+        {
+          "id": "C",
+          "text": "It sounds nice"
+        },
+        {
+          "id": "D",
+          "text": "It shows how thirsty the farmer was"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    }
+  ]
+}

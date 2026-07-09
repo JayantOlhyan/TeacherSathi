@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "What kind of bird is in the poem?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A parrot"
+        },
+        {
+          "id": "B",
+          "text": "A raven"
+        },
+        {
+          "id": "C",
+          "text": "A peacock"
+        },
+        {
+          "id": "D",
+          "text": "A sparrow"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "2",
+      "question": "What is the name of the fox?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rama"
+        },
+        {
+          "id": "B",
+          "text": "Rufus"
+        },
+        {
+          "id": "C",
+          "text": "Reynard"
+        },
+        {
+          "id": "D",
+          "text": "Rusty"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "3",
+      "question": "What did the raven have in its beak?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A piece of food"
+        },
+        {
+          "id": "B",
+          "text": "A shiny coin"
+        },
+        {
+          "id": "C",
+          "text": "A small stone"
+        },
+        {
+          "id": "D",
+          "text": "A leaf"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "4",
+      "question": "Where was the raven sitting?",
+      "options": [
+        {
+          "id": "A",
+          "text": "On a house roof"
+        },
+        {
+          "id": "B",
+          "text": "High up in a tree"
+        },
+        {
+          "id": "C",
+          "text": "On a rock"
+        },
+        {
+          "id": "D",
+          "text": "On a fence"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "5",
+      "question": "What did the fox call the raven to make him happy?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ugly bird"
+        },
+        {
+          "id": "B",
+          "text": "Sir Raven"
+        },
+        {
+          "id": "C",
+          "text": "Small bird"
+        },
+        {
+          "id": "D",
+          "text": "Black bird"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "6",
+      "question": "What did the fox ask the raven to do?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To fly down"
+        },
+        {
+          "id": "B",
+          "text": "To sing a song"
+        },
+        {
+          "id": "C",
+          "text": "To dance"
+        },
+        {
+          "id": "D",
+          "text": "To drop the food"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "7",
+      "question": "How did the fox describe the raven's feathers?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Shiny and beautiful"
+        },
+        {
+          "id": "B",
+          "text": "Dark and dirty"
+        },
+        {
+          "id": "C",
+          "text": "Small and weak"
+        },
+        {
+          "id": "D",
+          "text": "Broken"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "8",
+      "question": "What happened when the raven opened its beak?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It sang beautifully"
+        },
+        {
+          "id": "B",
+          "text": "The fox ran away"
+        },
+        {
+          "id": "C",
+          "text": "The food fell down"
+        },
+        {
+          "id": "D",
+          "text": "It ate the food"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "9",
+      "question": "What did the fox do after the food fell?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He cried"
+        },
+        {
+          "id": "B",
+          "text": "He ate it and laughed"
+        },
+        {
+          "id": "C",
+          "text": "He gave it back"
+        },
+        {
+          "id": "D",
+          "text": "He walked away"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "10",
+      "question": "Where do the raven and the fox live?",
+      "options": [
+        {
+          "id": "A",
+          "text": "In the city"
+        },
+        {
+          "id": "B",
+          "text": "In the woods"
+        },
+        {
+          "id": "C",
+          "text": "In a desert"
+        },
+        {
+          "id": "D",
+          "text": "Near the sea"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "11",
+      "question": "Why did the fox praise the raven's looks?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because he wanted to be friends"
+        },
+        {
+          "id": "B",
+          "text": "Because he wanted to trick the raven into dropping the food"
+        },
+        {
+          "id": "C",
+          "text": "Because the raven was truly the most beautiful bird"
+        },
+        {
+          "id": "D",
+          "text": "Because he wanted to paint a picture"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "12",
+      "question": "What does the word \"flattery\" mean in the story?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Telling the truth"
+        },
+        {
+          "id": "B",
+          "text": "Fake praise used to get something you want"
+        },
+        {
+          "id": "C",
+          "text": "Being very angry"
+        },
+        {
+          "id": "D",
+          "text": "Sharing food"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "13",
+      "question": "Why did the raven forget that its voice was just a croak?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It had a sore throat"
+        },
+        {
+          "id": "B",
+          "text": "It felt too proud after hearing the fox's fake praise"
+        },
+        {
+          "id": "C",
+          "text": "It thought it was a parrot"
+        },
+        {
+          "id": "D",
+          "text": "It wanted to scare the fox"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "14",
+      "question": "What title did the fox say the other birds would give the raven?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The King"
+        },
+        {
+          "id": "B",
+          "text": "The Helper"
+        },
+        {
+          "id": "C",
+          "text": "The Leader"
+        },
+        {
+          "id": "D",
+          "text": "The Fighter"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "15",
+      "question": "Why did the raven open its beak?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To eat the food"
+        },
+        {
+          "id": "B",
+          "text": "To talk to the fox"
+        },
+        {
+          "id": "C",
+          "text": "Because he wanted to sing and show off"
+        },
+        {
+          "id": "D",
+          "text": "To breathe"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "16",
+      "question": "How does the poem describe the raven at the end?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Very smart"
+        },
+        {
+          "id": "B",
+          "text": "Silly and foolish"
+        },
+        {
+          "id": "C",
+          "text": "Brave and strong"
+        },
+        {
+          "id": "D",
+          "text": "Happy"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "17",
+      "question": "What was the fox's real goal?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To listen to a song"
+        },
+        {
+          "id": "B",
+          "text": "To get a free meal from the raven"
+        },
+        {
+          "id": "C",
+          "text": "To climb the tree"
+        },
+        {
+          "id": "D",
+          "text": "To help the raven"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "18",
+      "question": "Why did Reynard say that pride is not wise?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because proud people are smart"
+        },
+        {
+          "id": "B",
+          "text": "Because it makes people foolish and easy to trick"
+        },
+        {
+          "id": "C",
+          "text": "Because pride makes you strong"
+        },
+        {
+          "id": "D",
+          "text": "Because he wanted to be proud"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "19",
+      "question": "Which word is the opposite of 'wise' as used in the poem?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Smart"
+        },
+        {
+          "id": "B",
+          "text": "Clever"
+        },
+        {
+          "id": "C",
+          "text": "Unwise/Foolish"
+        },
+        {
+          "id": "D",
+          "text": "Happy"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "20",
+      "question": "How do we know the fox was clever?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He climbed the tree"
+        },
+        {
+          "id": "B",
+          "text": "He knew the raven liked to hear good things about himself and used it against him"
+        },
+        {
+          "id": "C",
+          "text": "He fought the raven"
+        },
+        {
+          "id": "D",
+          "text": "He found the food on the ground"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "21",
+      "question": "What is the main moral of this fable?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Always share your food with foxes"
+        },
+        {
+          "id": "B",
+          "text": "Be careful of people who use sweet words just to get what they want"
+        },
+        {
+          "id": "C",
+          "text": "Ravens are better singers than foxes"
+        },
+        {
+          "id": "D",
+          "text": "Never sit in trees"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "22",
+      "question": "How does the fox exploit the raven's weakness?",
+      "options": [
+        {
+          "id": "A",
+          "text": "By attacking its nest"
+        },
+        {
+          "id": "B",
+          "text": "By feeding its vanity and ego until the raven loses common sense"
+        },
+        {
+          "id": "C",
+          "text": "By throwing stones"
+        },
+        {
+          "id": "D",
+          "text": "By waiting until the raven falls asleep"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "23",
+      "question": "What does the line \"did not see the joke\" mean for the raven?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The raven didn't understand the language"
+        },
+        {
+          "id": "B",
+          "text": "The raven did not realize he was being tricked by a fake compliment"
+        },
+        {
+          "id": "C",
+          "text": "The raven told a bad joke"
+        },
+        {
+          "id": "D",
+          "text": "The raven couldn't see the fox"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "24",
+      "question": "Why is being humble better than being proud in this story?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Humble birds fly faster"
+        },
+        {
+          "id": "B",
+          "text": "Pride blinded the raven to danger, while humility keeps you alert to tricks"
+        },
+        {
+          "id": "C",
+          "text": "Proud birds don't eat food"
+        },
+        {
+          "id": "D",
+          "text": "The fox is humble"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "25",
+      "question": "Which of these traits belongs to the fox?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Proud and silly"
+        },
+        {
+          "id": "B",
+          "text": "Sly and clever"
+        },
+        {
+          "id": "C",
+          "text": "Honest and kind"
+        },
+        {
+          "id": "D",
+          "text": "Scared and weak"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "26",
+      "question": "What is an example of 'alliteration' used to make the poem sound musical?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bright and dark"
+        },
+        {
+          "id": "B",
+          "text": "Woods would"
+        },
+        {
+          "id": "C",
+          "text": "Up and down"
+        },
+        {
+          "id": "D",
+          "text": "Fox and raven"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "27",
+      "question": "Why does the fox laugh at the end?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because the song was funny"
+        },
+        {
+          "id": "B",
+          "text": "Because his clever trick worked perfectly on the foolish bird"
+        },
+        {
+          "id": "C",
+          "text": "Because he was happy to be friends"
+        },
+        {
+          "id": "D",
+          "text": "Because he likes laughing"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "28",
+      "question": "The story teaches that flattery is often a tool for what?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Making true friends"
+        },
+        {
+          "id": "B",
+          "text": "Manipulation and getting something for free"
+        },
+        {
+          "id": "C",
+          "text": "Teaching birds to sing"
+        },
+        {
+          "id": "D",
+          "text": "Showing respect"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "29",
+      "question": "If someone praises you with words that sound \"too good to be true,\" what should you do?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Believe them immediately"
+        },
+        {
+          "id": "B",
+          "text": "Stop and think if they want something from you"
+        },
+        {
+          "id": "C",
+          "text": "Give them your food"
+        },
+        {
+          "id": "D",
+          "text": "Sing for them"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "30",
+      "question": "What did the piece of food falling represent for the raven?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A gift to a friend"
+        },
+        {
+          "id": "B",
+          "text": "The immediate loss caused by letting vanity control his actions"
+        },
+        {
+          "id": "C",
+          "text": "A mistake in flying"
+        },
+        {
+          "id": "D",
+          "text": "The end of the winter"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    }
+  ]
+}
