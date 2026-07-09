@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "Which of the following is an example of a naturally occurring resource?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Plastic"
+        },
+        {
+          "id": "B",
+          "text": "Sunlight"
+        },
+        {
+          "id": "C",
+          "text": "Glass"
+        },
+        {
+          "id": "D",
+          "text": "Nylon"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "2",
+      "question": "What specific gas makes up the largest part (approximately 78%) of the air we breathe?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Oxygen"
+        },
+        {
+          "id": "B",
+          "text": "Carbon dioxide"
+        },
+        {
+          "id": "C",
+          "text": "Nitrogen"
+        },
+        {
+          "id": "D",
+          "text": "Hydrogen"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "3",
+      "question": "Which gas present in the atmosphere is absolutely essential for humans and animals to breathe and survive?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nitrogen"
+        },
+        {
+          "id": "B",
+          "text": "Argon"
+        },
+        {
+          "id": "C",
+          "text": "Oxygen"
+        },
+        {
+          "id": "D",
+          "text": "Helium"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "4",
+      "question": "The Earth's surface is covered predominantly (about 71%) by what natural treasure?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dense forests"
+        },
+        {
+          "id": "B",
+          "text": "Arid deserts"
+        },
+        {
+          "id": "C",
+          "text": "Liquid water"
+        },
+        {
+          "id": "D",
+          "text": "High mountains"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "5",
+      "question": "What is the primary, overarching source of energy that sustains all life on Earth?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Moon's gravity"
+        },
+        {
+          "id": "B",
+          "text": "Buried fossil fuels"
+        },
+        {
+          "id": "C",
+          "text": "The Sun"
+        },
+        {
+          "id": "D",
+          "text": "Active volcanoes"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "6",
+      "question": "Natural resources that can be replenished or renewed naturally over a relatively short period (like sunlight and wind) are scientifically called:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Non-renewable resources"
+        },
+        {
+          "id": "B",
+          "text": "Renewable resources"
+        },
+        {
+          "id": "C",
+          "text": "Exhaustible resources"
+        },
+        {
+          "id": "D",
+          "text": "Artificial resources"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "7",
+      "question": "Which of the following is commonly classified as a fossil fuel?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Firewood"
+        },
+        {
+          "id": "B",
+          "text": "Solar energy"
+        },
+        {
+          "id": "C",
+          "text": "Coal"
+        },
+        {
+          "id": "D",
+          "text": "Wind power"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "8",
+      "question": "Forests provide vital homes to wildlife. What is another major ecological benefit provided by forests?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They naturally produce plastic materials."
+        },
+        {
+          "id": "B",
+          "text": "Their deep roots help prevent soil erosion and maintain the global water cycle."
+        },
+        {
+          "id": "C",
+          "text": "They significantly increase air pollution."
+        },
+        {
+          "id": "D",
+          "text": "They manufacture solid rocks."
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "9",
+      "question": "From what specific natural resource do humans extract valuable metals like iron, copper, and gold?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ocean water"
+        },
+        {
+          "id": "B",
+          "text": "Hardwood trees"
+        },
+        {
+          "id": "C",
+          "text": "Minerals found buried in rocks"
+        },
+        {
+          "id": "D",
+          "text": "The upper atmosphere"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "10",
+      "question": "What percentage of Earth's massive total water supply is actually fresh water suitable for human consumption?",
+      "options": [
+        {
+          "id": "A",
+          "text": "About 71%"
+        },
+        {
+          "id": "B",
+          "text": "About 50%"
+        },
+        {
+          "id": "C",
+          "text": "Only about 2.6%"
+        },
+        {
+          "id": "D",
+          "text": "100%"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "11",
+      "question": "Why is atmospheric air scientifically considered a \"mixture\" rather than a single pure substance?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because it is frequently filled with visible dust."
+        },
+        {
+          "id": "B",
+          "text": "Because it is composed of multiple distinct gases, primarily nitrogen and oxygen, along with trace amounts of argon and carbon dioxide, which retain their individual properties."
+        },
+        {
+          "id": "C",
+          "text": "Because it is completely invisible."
+        },
+        {
+          "id": "D",
+          "text": "Because it frequently changes color."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "12",
+      "question": "Plants take in atmospheric carbon dioxide and release oxygen. What is this life-sustaining biochemical process called?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cellular respiration"
+        },
+        {
+          "id": "B",
+          "text": "Gastric digestion"
+        },
+        {
+          "id": "C",
+          "text": "Photosynthesis"
+        },
+        {
+          "id": "D",
+          "text": "Rapid evaporation"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "13",
+      "question": "Which of the following heavily utilized resources is classified as strictly non-renewable?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Solar thermal energy"
+        },
+        {
+          "id": "B",
+          "text": "A pine forest"
+        },
+        {
+          "id": "C",
+          "text": "Liquid petroleum (crude oil)"
+        },
+        {
+          "id": "D",
+          "text": "Ocean wind"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "14",
+      "question": "What were traditional architectural structures like stepwells (e.g., Bawadi and Vav) primarily designed and used for in ancient India?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Storing mined fossil fuels"
+        },
+        {
+          "id": "B",
+          "text": "Rainwater harvesting and long-term community water conservation"
+        },
+        {
+          "id": "C",
+          "text": "Deep underground mineral mining"
+        },
+        {
+          "id": "D",
+          "text": "Generating ancient solar power"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "15",
+      "question": "How are carbon-rich fossil fuels, such as coal and petroleum, actually formed in nature?",
+      "options": [
+        {
+          "id": "A",
+          "text": "By chemically mixing elements in modern laboratories."
+        },
+        {
+          "id": "B",
+          "text": "From the compressed remains of dead prehistoric plants and animals subjected to intense geological heat and pressure over millions of years."
+        },
+        {
+          "id": "C",
+          "text": "By rapidly cooling magma ejected from volcanoes."
+        },
+        {
+          "id": "D",
+          "text": "By filtering salt out of ocean water."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "16",
+      "question": "Which abundant gas in the atmosphere is specifically known to NOT support the process of burning (combustion)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Oxygen"
+        },
+        {
+          "id": "B",
+          "text": "Nitrogen"
+        },
+        {
+          "id": "C",
+          "text": "Hydrogen"
+        },
+        {
+          "id": "D",
+          "text": "Methane"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "17",
+      "question": "What is the cleaner-burning alternative to petrol and diesel that is currently used in many modern public transport vehicles and city buses?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Liquid kerosene"
+        },
+        {
+          "id": "B",
+          "text": "Pulverized coal"
+        },
+        {
+          "id": "C",
+          "text": "Compressed Natural Gas (CNG)"
+        },
+        {
+          "id": "D",
+          "text": "Processed wood pellets"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "18",
+      "question": "Soil is created through the extremely slow breakdown of large rocks by natural forces like wind, water, and temperature changes. What is this geological process called?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Weathering"
+        },
+        {
+          "id": "B",
+          "text": "Melting"
+        },
+        {
+          "id": "C",
+          "text": "Evaporation"
+        },
+        {
+          "id": "D",
+          "text": "Churning"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "19",
+      "question": "Why is the indiscriminate, large-scale cutting of forests (deforestation) highly harmful to the planet?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It creates far too much open space for wild animals."
+        },
+        {
+          "id": "B",
+          "text": "It aggressively increases topsoil erosion, severely disturbs the local water cycle, and accelerates climate change by leaving excess carbon dioxide in the atmosphere."
+        },
+        {
+          "id": "C",
+          "text": "It makes the remaining soil instantly richer in deep minerals."
+        },
+        {
+          "id": "D",
+          "text": "It permanently stops floods from occurring."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "20",
+      "question": "What is one highly effective, practical way an individual citizen can actively conserve fossil fuels?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Leave household lights on all day to generate heat."
+        },
+        {
+          "id": "B",
+          "text": "Utilize public transport, organize carpools, or ride a bicycle instead of driving a personal internal-combustion car."
+        },
+        {
+          "id": "C",
+          "text": "Keep the water tap running constantly while brushing teeth."
+        },
+        {
+          "id": "D",
+          "text": "Burn raw coal for cooking meals every single day."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "21",
+      "question": "If the sun were to miraculously stop shining for a few weeks, what would be the most immediate, fatal consequence for the Earth's ecosystem?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Humans would simply have to rely heavily on artificial flashlights."
+        },
+        {
+          "id": "B",
+          "text": "Photosynthesis would cease globally, causing the rapid collapse of the entire food chain, and temperatures would plummet, freezing most surface life."
+        },
+        {
+          "id": "C",
+          "text": "Cars would immediately run out of fuel."
+        },
+        {
+          "id": "D",
+          "text": "The oceans would instantly boil and evaporate."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "22",
+      "question": "Why are fossil fuels strictly classified as non-renewable resources, despite the fact that they are technically formed by entirely natural Earth processes?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because they are not actually made by nature; they are synthetic."
+        },
+        {
+          "id": "B",
+          "text": "The rate at which modern human civilization consumes them is millions of times faster than the geological timeline required for the Earth to replenish them."
+        },
+        {
+          "id": "C",
+          "text": "They evaporate into space too quickly once extracted."
+        },
+        {
+          "id": "D",
+          "text": "They are actually renewable; scientists just misclassified them."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "23",
+      "question": "How does the presence of a dense forest directly and significantly influence the local micro-climate and water cycle?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Trees aggressively absorb all groundwater and never release it back."
+        },
+        {
+          "id": "B",
+          "text": "Forests significantly increase local rainfall through high rates of leaf transpiration and help vital groundwater recharge by physically slowing down surface rain runoff."
+        },
+        {
+          "id": "C",
+          "text": "Forests stop rain from falling by physically blocking the rain clouds."
+        },
+        {
+          "id": "D",
+          "text": "Forests have absolutely no measurable effect on the water cycle."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "24",
+      "question": "Which of the following best describes the delicate, symbiotic ecological relationship between oxygen and carbon dioxide in the Earth's atmosphere?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both are highly toxic gases and must be entirely removed for survival."
+        },
+        {
+          "id": "B",
+          "text": "Animals consume oxygen and release carbon dioxide during respiration; conversely, plants consume carbon dioxide and release oxygen during photosynthesis, perfectly maintaining the atmospheric balance."
+        },
+        {
+          "id": "C",
+          "text": "Plants consume oxygen and release carbon dioxide exclusively."
+        },
+        {
+          "id": "D",
+          "text": "They constantly undergo chemical reactions that destroy each other in the upper air."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "25",
+      "question": "A growing city faces a severe, critical groundwater shortage. Which three-step municipal plan is the most scientifically sound for long-term water conservation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Build deeper borewells, concrete over all open dirt roads, and legally ban drinking water."
+        },
+        {
+          "id": "B",
+          "text": "Implement widespread rainwater harvesting (stepwells/tanks), repair leaking city infrastructure, and aggressively promote afforestation to improve the soil's natural water retention."
+        },
+        {
+          "id": "C",
+          "text": "Import water daily by trucks, boil all city water, and cut down surrounding trees to make space for artificial lakes."
+        },
+        {
+          "id": "D",
+          "text": "Evaporate seawater, freeze it, and bury it underground."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "26",
+      "question": "Why is transitioning global transportation to electric vehicles (EVs) powered specifically by solar or wind energy considered a highly sustainable practice?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It fundamentally shifts humanity's energy reliance from exhaustible, highly polluting fossil fuels to infinite, clean, renewable energy sources."
+        },
+        {
+          "id": "B",
+          "text": "It requires significantly more coal to run the electric grid."
+        },
+        {
+          "id": "C",
+          "text": "Electric vehicles operate without using rubber wheels, saving trees."
+        },
+        {
+          "id": "D",
+          "text": "Solar energy is a non-renewable resource that burns cleaner."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "27",
+      "question": "What does the concept of the hidden \"energy cost\" or \"carbon footprint\" of a simple manufactured product, like a stainless steel spoon, refer to?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The retail price of the spoon at the local store."
+        },
+        {
+          "id": "B",
+          "text": "The massive total energy expended in mining the raw ore, refining the metal at high heat, manufacturing the spoon, and transporting it globally—usually relying heavily on burning fossil fuels."
+        },
+        {
+          "id": "C",
+          "text": "The human calories you burn while using the spoon to eat a meal."
+        },
+        {
+          "id": "D",
+          "text": "The physical heat of the food the spoon touches."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "28",
+      "question": "If a local aquatic environment (like a lake) becomes heavily polluted with chemical runoff, how does this specifically and fatally affect the fish living there?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The fish will rapidly evolve lungs and migrate to walk on land."
+        },
+        {
+          "id": "B",
+          "text": "Chemical pollution heavily depletes the dissolved oxygen levels in the water, which fish rely entirely on to breathe through their gills, leading to mass suffocation."
+        },
+        {
+          "id": "C",
+          "text": "The fish will seamlessly switch to breathing carbon dioxide instead."
+        },
+        {
+          "id": "D",
+          "text": "The fish will learn to fly out of the water to catch breath."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "29",
+      "question": "Why is Compressed Natural Gas (CNG) widely considered a \"cleaner-burning\" fuel alternative compared to traditional coal or diesel fuel?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It has liquid soap artificially mixed into it to clean the engine."
+        },
+        {
+          "id": "B",
+          "text": "Upon combustion, it produces significantly fewer harmful atmospheric pollutants, such as heavy particulate matter, sulfur dioxide, and toxic carbon monoxide."
+        },
+        {
+          "id": "C",
+          "text": "It is a bright white-colored gas that looks clean."
+        },
+        {
+          "id": "D",
+          "text": "It fundamentally doesn't produce any thermal heat when burned."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "30",
+      "question": "Which of the following statements best reflects a responsible \"custodian mindset\" toward nature's invaluable treasures?",
+      "options": [
+        {
+          "id": "A",
+          "text": "\"The Earth's resources are here exclusively for humans to use up as quickly and profitably as possible.\""
+        },
+        {
+          "id": "B",
+          "text": "\"We must actively manage, conserve, and protect Earth's natural resources responsibly to ensure they remain available, healthy, and viable for all future generations.\""
+        },
+        {
+          "id": "C",
+          "text": "\"Only renewable resources should be wasted; non-renewables should be hoarded.\""
+        },
+        {
+          "id": "D",
+          "text": "\"Future advanced technology will magically solve all resource shortages, so conservation is unnecessary.\""
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    }
+  ]
+}
