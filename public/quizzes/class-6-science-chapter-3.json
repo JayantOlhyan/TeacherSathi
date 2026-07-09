@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "What is the primary biological purpose of consuming food?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To waste time"
+        },
+        {
+          "id": "B",
+          "text": "To obtain energy, facilitate growth, and maintain health"
+        },
+        {
+          "id": "C",
+          "text": "To change body color"
+        },
+        {
+          "id": "D",
+          "text": "To induce sleep"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "2",
+      "question": "Which nutrient is recognized as the human body's primary energy provider?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Vitamins"
+        },
+        {
+          "id": "B",
+          "text": "Minerals"
+        },
+        {
+          "id": "C",
+          "text": "Carbohydrates"
+        },
+        {
+          "id": "D",
+          "text": "Water"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "3",
+      "question": "What does the practice of \"mindful eating\" essentially involve?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Eating rapidly"
+        },
+        {
+          "id": "B",
+          "text": "Paying full attention to the taste, smell, and texture of food"
+        },
+        {
+          "id": "C",
+          "text": "Eating while watching television"
+        },
+        {
+          "id": "D",
+          "text": "Consuming only sweets"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "4",
+      "question": "Which of these food items is a rich source of protein?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Apple"
+        },
+        {
+          "id": "B",
+          "text": "Sugar"
+        },
+        {
+          "id": "C",
+          "text": "Egg"
+        },
+        {
+          "id": "D",
+          "text": "Butter"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "5",
+      "question": "Which nutrient is fundamentally responsible for building and repairing body tissues?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Carbohydrates"
+        },
+        {
+          "id": "B",
+          "text": "Proteins"
+        },
+        {
+          "id": "C",
+          "text": "Fats"
+        },
+        {
+          "id": "D",
+          "text": "Roughage"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "6",
+      "question": "Which of the following is commonly categorized as \"junk food\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Spinach"
+        },
+        {
+          "id": "B",
+          "text": "Pulses"
+        },
+        {
+          "id": "C",
+          "text": "Potato chips"
+        },
+        {
+          "id": "D",
+          "text": "Brown rice"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "7",
+      "question": "Fresh fruits and vegetables are primarily rich sources of which essential nutrients?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fats and oils"
+        },
+        {
+          "id": "B",
+          "text": "Vitamins and minerals"
+        },
+        {
+          "id": "C",
+          "text": "Only proteins"
+        },
+        {
+          "id": "D",
+          "text": "Only carbohydrates"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "8",
+      "question": "What liquid is biologically essential for transporting nutrients and oxygen throughout our body?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Soda"
+        },
+        {
+          "id": "B",
+          "text": "Cooking oil"
+        },
+        {
+          "id": "C",
+          "text": "Water"
+        },
+        {
+          "id": "D",
+          "text": "Milk"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "9",
+      "question": "Serving yourself only as much food as you can actually eat primarily helps to prevent what?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Weight gain"
+        },
+        {
+          "id": "B",
+          "text": "Food wastage"
+        },
+        {
+          "id": "C",
+          "text": "Hunger"
+        },
+        {
+          "id": "D",
+          "text": "Fast digestion"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "10",
+      "question": "What are millets classified as?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Junk food snacks"
+        },
+        {
+          "id": "B",
+          "text": "Nutrition-rich, climate-resilient cereals"
+        },
+        {
+          "id": "C",
+          "text": "A type of fruit"
+        },
+        {
+          "id": "D",
+          "text": "Meat products"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "11",
+      "question": "How is a \"balanced diet\" scientifically defined?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Eating equal weights of all food"
+        },
+        {
+          "id": "B",
+          "text": "A diet containing all essential macronutrients and micronutrients in the correct proportions"
+        },
+        {
+          "id": "C",
+          "text": "Eating one type of food daily"
+        },
+        {
+          "id": "D",
+          "text": "Balancing a plate physically"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "12",
+      "question": "If a rubbed food item leaves a permanent translucent, oily patch on paper, it is rich in:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Protein"
+        },
+        {
+          "id": "B",
+          "text": "Starch"
+        },
+        {
+          "id": "C",
+          "text": "Fat"
+        },
+        {
+          "id": "D",
+          "text": "Vitamin C"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "13",
+      "question": "A prolonged deficiency of Vitamin C in the human diet causes which disease?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Anemia"
+        },
+        {
+          "id": "B",
+          "text": "Scurvy"
+        },
+        {
+          "id": "C",
+          "text": "Rickets"
+        },
+        {
+          "id": "D",
+          "text": "Goiter"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "14",
+      "question": "What specific chemical reagent is used to test for the presence of starch in a food sample?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Caustic soda"
+        },
+        {
+          "id": "B",
+          "text": "Copper sulphate"
+        },
+        {
+          "id": "C",
+          "text": "Iodine solution"
+        },
+        {
+          "id": "D",
+          "text": "Salt water"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "15",
+      "question": "What observable change occurs if a few drops of iodine solution are applied to a raw potato slice?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It turns bright red"
+        },
+        {
+          "id": "B",
+          "text": "It turns blue-black"
+        },
+        {
+          "id": "C",
+          "text": "It turns pale yellow"
+        },
+        {
+          "id": "D",
+          "text": "No change occurs"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "16",
+      "question": "What is the physiological role of dietary fiber (roughage) in the human digestive system?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It provides extreme energy"
+        },
+        {
+          "id": "B",
+          "text": "It assists the body in eliminating undigested food and prevents constipation"
+        },
+        {
+          "id": "C",
+          "text": "It builds muscles"
+        },
+        {
+          "id": "D",
+          "text": "It clots blood"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "17",
+      "question": "Which of the following are the primary symptoms of Iron deficiency in the human body?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Brittle bones"
+        },
+        {
+          "id": "B",
+          "text": "Bleeding gums"
+        },
+        {
+          "id": "C",
+          "text": "Anemia, fatigue, and weakness"
+        },
+        {
+          "id": "D",
+          "text": "Night blindness"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "18",
+      "question": "What does the environmental term \"food miles\" refer to?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The time food sits on a plate"
+        },
+        {
+          "id": "B",
+          "text": "The geographical distance food travels from the farm to the consumer's plate"
+        },
+        {
+          "id": "C",
+          "text": "The length of the intestines"
+        },
+        {
+          "id": "D",
+          "text": "Farm size"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "19",
+      "question": "Which two chemical solutions are required to accurately test for the presence of proteins in food?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Iodine and water"
+        },
+        {
+          "id": "B",
+          "text": "Copper sulphate and caustic soda"
+        },
+        {
+          "id": "C",
+          "text": "Salt and sugar"
+        },
+        {
+          "id": "D",
+          "text": "Baking soda and vinegar"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "20",
+      "question": "What color change indicates a positive test for protein when using the appropriate chemical reagents?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Blue-black"
+        },
+        {
+          "id": "B",
+          "text": "Violet (purple)"
+        },
+        {
+          "id": "C",
+          "text": "Bright red"
+        },
+        {
+          "id": "D",
+          "text": "Green"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "21",
+      "question": "Why is minimizing \"food miles\" considered highly beneficial for environmental sustainability?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It makes food taste sweeter"
+        },
+        {
+          "id": "B",
+          "text": "It reduces transportation fuel costs, lowers greenhouse gas emissions, and supports local agricultural economies"
+        },
+        {
+          "id": "C",
+          "text": "It reduces caloric intake"
+        },
+        {
+          "id": "D",
+          "text": "It accelerates plant growth"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "22",
+      "question": "How do vitamins and minerals fundamentally differ from carbohydrates and fats regarding human metabolism?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Vitamins yield more caloric energy"
+        },
+        {
+          "id": "B",
+          "text": "Minerals provide immediate fuel"
+        },
+        {
+          "id": "C",
+          "text": "Vitamins and minerals do not yield energy, but act as essential coenzymes and structural components to regulate bodily functions and prevent diseases"
+        },
+        {
+          "id": "D",
+          "text": "They are identical in function"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "23",
+      "question": "If a person consumes a high-calorie diet consisting exclusively of junk food, what paradoxical health issue are they most likely to face?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perfect metabolic health"
+        },
+        {
+          "id": "B",
+          "text": "They may suffer from obesity while simultaneously experiencing severe malnutrition and micronutrient deficiencies"
+        },
+        {
+          "id": "C",
+          "text": "Rapid skeletal growth"
+        },
+        {
+          "id": "D",
+          "text": "Immediate scurvy onset"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "24",
+      "question": "What does the term \"fortification\" signify in modern food processing and nutrition?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Building physical defenses around farms"
+        },
+        {
+          "id": "B",
+          "text": "Cooking at ultra-high temperatures"
+        },
+        {
+          "id": "C",
+          "text": "The deliberate addition of essential micronutrients to food to enhance its nutritional quality and prevent public health deficiencies"
+        },
+        {
+          "id": "D",
+          "text": "Dehydrating food for storage"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "25",
+      "question": "Why is the prolonged overcooking of vegetables considered a detrimental culinary practice?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It makes the food toxic"
+        },
+        {
+          "id": "B",
+          "text": "Heat easily destroys essential, heat-sensitive nutrients, particularly Vitamin C"
+        },
+        {
+          "id": "C",
+          "text": "It converts all carbohydrates into fats"
+        },
+        {
+          "id": "D",
+          "text": "It increases the food miles"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "26",
+      "question": "A clinical examination of a student reveals weak, brittle bones and rapid tooth decay. Which specific mineral is likely deficient in their daily diet?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Iron"
+        },
+        {
+          "id": "B",
+          "text": "Calcium"
+        },
+        {
+          "id": "C",
+          "text": "Iodine"
+        },
+        {
+          "id": "D",
+          "text": "Sodium"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "27",
+      "question": "Why are millets highly advocated by nutritional experts for inclusion in a balanced diet?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They are extremely high in saturated fats"
+        },
+        {
+          "id": "B",
+          "text": "They are nutrient-dense, naturally gluten-free, rich in dietary fiber, and assist in regulating blood sugar levels"
+        },
+        {
+          "id": "C",
+          "text": "They dissolve instantly in water"
+        },
+        {
+          "id": "D",
+          "text": "They contain zero calories"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "28",
+      "question": "How does the practice of mindful eating physiologically facilitate better digestion?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rapid eating forces the stomach to work harder"
+        },
+        {
+          "id": "B",
+          "text": "Eating slowly and chewing thoroughly initiates mechanical breakdown and salivary enzyme action before the food reaches the stomach"
+        },
+        {
+          "id": "C",
+          "text": "Watching television relaxes the intestines"
+        },
+        {
+          "id": "D",
+          "text": "It bypasses the chewing phase"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "29",
+      "question": "Which of the following accurately distinguishes between malnutrition and starvation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They are medically identical"
+        },
+        {
+          "id": "B",
+          "text": "Starvation is an absolute lack of caloric intake, while malnutrition is a physiological imbalance or deficiency of specific nutrients, which can occur even if caloric intake is high"
+        },
+        {
+          "id": "C",
+          "text": "Malnutrition only affects animals"
+        },
+        {
+          "id": "D",
+          "text": "Starvation is caused by junk food"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "30",
+      "question": "Why is water universally considered an indispensable component of a balanced diet despite containing zero calories or nutrients?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It acts as a solvent facilitating nutrient absorption, biochemical reactions, temperature regulation, and the excretion of metabolic wastes"
+        },
+        {
+          "id": "B",
+          "text": "It substitutes for protein synthesis"
+        },
+        {
+          "id": "C",
+          "text": "It induces necessary sleep cycles"
+        },
+        {
+          "id": "D",
+          "text": "It prevents scurvy directly"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    }
+  ]
+}
