@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "What animal was Gajaraj?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A horse"
+        },
+        {
+          "id": "B",
+          "text": "A royal elephant"
+        },
+        {
+          "id": "C",
+          "text": "A stray dog"
+        },
+        {
+          "id": "D",
+          "text": "A lion"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "2",
+      "question": "Where did Gajaraj live?",
+      "options": [
+        {
+          "id": "A",
+          "text": "In a forest"
+        },
+        {
+          "id": "B",
+          "text": "In the royal stables"
+        },
+        {
+          "id": "C",
+          "text": "In a village"
+        },
+        {
+          "id": "D",
+          "text": "On a mountain"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "3",
+      "question": "Why was Gajaraj sad at the beginning of the story?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He had no food"
+        },
+        {
+          "id": "B",
+          "text": "He had no friends to play with"
+        },
+        {
+          "id": "C",
+          "text": "He was sick"
+        },
+        {
+          "id": "D",
+          "text": "The king was mean to him"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "4",
+      "question": "Who was Gajaraj's caretaker?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The king"
+        },
+        {
+          "id": "B",
+          "text": "A farmer"
+        },
+        {
+          "id": "C",
+          "text": "A mahout"
+        },
+        {
+          "id": "D",
+          "text": "A guard"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "5",
+      "question": "Who wandered into the stable one evening?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A monkey"
+        },
+        {
+          "id": "B",
+          "text": "A tired and hungry stray dog"
+        },
+        {
+          "id": "C",
+          "text": "A cat"
+        },
+        {
+          "id": "D",
+          "text": "Another elephant"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "6",
+      "question": "What was the name of the dog?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Moti"
+        },
+        {
+          "id": "B",
+          "text": "Tommy"
+        },
+        {
+          "id": "C",
+          "text": "Buntee"
+        },
+        {
+          "id": "D",
+          "text": "Sheru"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "7",
+      "question": "What did Gajaraj do when he saw the dog?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He chased him away"
+        },
+        {
+          "id": "B",
+          "text": "He shared his food with him"
+        },
+        {
+          "id": "C",
+          "text": "He ignored him"
+        },
+        {
+          "id": "D",
+          "text": "He stepped on him"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "8",
+      "question": "Where did Gajaraj and Buntee go to have fun?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The forest"
+        },
+        {
+          "id": "B",
+          "text": "The elephant pond for a bath"
+        },
+        {
+          "id": "C",
+          "text": "The king's palace"
+        },
+        {
+          "id": "D",
+          "text": "The market"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "9",
+      "question": "Who took Buntee away from the stable?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A thief"
+        },
+        {
+          "id": "B",
+          "text": "The mahout"
+        },
+        {
+          "id": "C",
+          "text": "A farmer who was his original owner"
+        },
+        {
+          "id": "D",
+          "text": "The king"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "10",
+      "question": "What did Gajaraj and Buntee do when they were separated?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They played with new friends"
+        },
+        {
+          "id": "B",
+          "text": "They refused to eat their food because they were sad"
+        },
+        {
+          "id": "C",
+          "text": "They slept all day"
+        },
+        {
+          "id": "D",
+          "text": "They ran away"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "11",
+      "question": "Why is the mahout described as a good caretaker but not a friend?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He hit Gajaraj"
+        },
+        {
+          "id": "B",
+          "text": "He gave Gajaraj food and baths, but could not give him emotional companionship"
+        },
+        {
+          "id": "C",
+          "text": "He did not speak"
+        },
+        {
+          "id": "D",
+          "text": "He was planning to leave"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "12",
+      "question": "Why is the friendship between the elephant and dog called \"unlikely\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They hated each other"
+        },
+        {
+          "id": "B",
+          "text": "They are very different in size, shape, and species, so people don't expect them to be friends"
+        },
+        {
+          "id": "C",
+          "text": "They never met"
+        },
+        {
+          "id": "D",
+          "text": "They live in different countries"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "13",
+      "question": "How did Gajaraj show he missed his friend?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He cried loudly"
+        },
+        {
+          "id": "B",
+          "text": "He lost his appetite and refused to eat"
+        },
+        {
+          "id": "C",
+          "text": "He broke his chains"
+        },
+        {
+          "id": "D",
+          "text": "He attacked the mahout"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "14",
+      "question": "How did the farmer realize how much Buntee missed the elephant?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Buntee told him"
+        },
+        {
+          "id": "B",
+          "text": "Buntee looked sad and refused to eat at the farmer's house"
+        },
+        {
+          "id": "C",
+          "text": "Buntee kept running to the stable"
+        },
+        {
+          "id": "D",
+          "text": "Buntee was sick"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "15",
+      "question": "What kind thing did the farmer do?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He bought the elephant"
+        },
+        {
+          "id": "B",
+          "text": "He removed the rope and let Buntee go back to his friend"
+        },
+        {
+          "id": "C",
+          "text": "He gave Buntee more food"
+        },
+        {
+          "id": "D",
+          "text": "He sold Buntee"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "16",
+      "question": "How did the mahout find out the dog was there?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He heard him barking"
+        },
+        {
+          "id": "B",
+          "text": "He discovered the dog sleeping in the stable the next morning"
+        },
+        {
+          "id": "C",
+          "text": "The king told him"
+        },
+        {
+          "id": "D",
+          "text": "He tripped over him"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "17",
+      "question": "What shows that Gajaraj and Buntee had fun together?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They fought over food"
+        },
+        {
+          "id": "B",
+          "text": "Gajaraj playfully splashed water on Buntee and gave him a ride on his back"
+        },
+        {
+          "id": "C",
+          "text": "They slept all day"
+        },
+        {
+          "id": "D",
+          "text": "They ignored each other"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "18",
+      "question": "What happened to the mahout and the farmer at the end?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They fought"
+        },
+        {
+          "id": "B",
+          "text": "They realized the power of companionship and became friends too"
+        },
+        {
+          "id": "C",
+          "text": "They left the village"
+        },
+        {
+          "id": "D",
+          "text": "They bought a new dog"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "19",
+      "question": "Why did Gajaraj share his food in the first place?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He wasn't hungry"
+        },
+        {
+          "id": "B",
+          "text": "He saw the dog was exhausted and hungry, showing empathy"
+        },
+        {
+          "id": "C",
+          "text": "He wanted to trap the dog"
+        },
+        {
+          "id": "D",
+          "text": "The mahout ordered him to"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "20",
+      "question": "Why did Buntee lick the farmer's hand?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He tasted food"
+        },
+        {
+          "id": "B",
+          "text": "To show gratitude for being allowed to return to Gajaraj"
+        },
+        {
+          "id": "C",
+          "text": "He was angry"
+        },
+        {
+          "id": "D",
+          "text": "He wanted water"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "21",
+      "question": "What is the main theme of \"The Unlikely Best Friends\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Elephants are stronger than dogs"
+        },
+        {
+          "id": "B",
+          "text": "True friendship is based on emotional connection and care, not on appearances or species"
+        },
+        {
+          "id": "C",
+          "text": "Royal stables are comfortable"
+        },
+        {
+          "id": "D",
+          "text": "Farmers shouldn't keep dogs"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "22",
+      "question": "How does the story use the act of eating (or not eating)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To teach about animal diets"
+        },
+        {
+          "id": "B",
+          "text": "As a powerful symbol of emotional health; they share food in joy, and refuse food in grief"
+        },
+        {
+          "id": "C",
+          "text": "To show that royal food is bad"
+        },
+        {
+          "id": "D",
+          "text": "To explain why they are tired"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "23",
+      "question": "What does the farmer's final decision demonstrate about true care?",
+      "options": [
+        {
+          "id": "A",
+          "text": "True care means owning something forever"
+        },
+        {
+          "id": "B",
+          "text": "True care means understanding and prioritizing the emotional happiness of the one you love, even if it means letting them go"
+        },
+        {
+          "id": "C",
+          "text": "True care is feeding animals"
+        },
+        {
+          "id": "D",
+          "text": "True care means punishing bad behavior"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "24",
+      "question": "What does the word 'companionship' mean as shown by Gajaraj and Buntee?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Working together to build something"
+        },
+        {
+          "id": "B",
+          "text": "A deep feeling of friendship and sharing joyful experiences together"
+        },
+        {
+          "id": "C",
+          "text": "Traveling in the same vehicle"
+        },
+        {
+          "id": "D",
+          "text": "Eating the exact same food"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "25",
+      "question": "How does the setting of a \"royal stable\" highlight Gajaraj's feelings?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It shows he was poor"
+        },
+        {
+          "id": "B",
+          "text": "It creates irony; despite having every physical luxury, he suffered from deep emotional loneliness"
+        },
+        {
+          "id": "C",
+          "text": "It shows he was a king"
+        },
+        {
+          "id": "D",
+          "text": "It explains why the dog came"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "26",
+      "question": "The story shows that small acts of kindness (like sharing food) can lead to what?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Losing your wealth"
+        },
+        {
+          "id": "B",
+          "text": "Building strong, unexpected bonds and healing loneliness"
+        },
+        {
+          "id": "C",
+          "text": "Making people angry"
+        },
+        {
+          "id": "D",
+          "text": "Nothing important"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "27",
+      "question": "What does the reunion of the elephant and the dog symbolize?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The victory of love and empathy across different boundaries"
+        },
+        {
+          "id": "B",
+          "text": "The failure of the farmer"
+        },
+        {
+          "id": "C",
+          "text": "That dogs run fast"
+        },
+        {
+          "id": "D",
+          "text": "That elephants have good memory"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "28",
+      "question": "Which word best describes the farmer when he realizes Buntee's sadness?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Selfish"
+        },
+        {
+          "id": "B",
+          "text": "Observant and empathetic"
+        },
+        {
+          "id": "C",
+          "text": "Angry and strict"
+        },
+        {
+          "id": "D",
+          "text": "Confused"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "29",
+      "question": "How did the animals' friendship influence the humans around them?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It made them fight over the dog"
+        },
+        {
+          "id": "B",
+          "text": "The humans witnessed the pure bond, which inspired them to form their own friendship"
+        },
+        {
+          "id": "C",
+          "text": "The humans ignored them"
+        },
+        {
+          "id": "D",
+          "text": "The humans locked the stable"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "30",
+      "question": "What is the opposite of the word \"joyous\" as used in the story?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Happy"
+        },
+        {
+          "id": "B",
+          "text": "Cheerful"
+        },
+        {
+          "id": "C",
+          "text": "Miserable/Sad"
+        },
+        {
+          "id": "D",
+          "text": "Excited"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    }
+  ]
+}
