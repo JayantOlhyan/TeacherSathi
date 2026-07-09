@@ -1,0 +1,280 @@
+{
+  "chapterTitle": "Circles",
+  "chapterTitleHi": "वृत्त",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Define a tangent to a circle.",
+      "questionHi": "वृत्त की स्पर्श रेखा को परिभाषित कीजिए।",
+      "answer": "A tangent to a circle is a straight line that intersects (or touches) the circle at exactly one point. This point of intersection is called the \"point of contact.\"",
+      "answerHi": "वृत्त की स्पर्श रेखा एक सीधी रेखा है जो वृत्त को केवल एक ही बिंदु पर प्रतिच्छेद करती है (या छूती है)। प्रतिच्छेदन के इस बिंदु को \"स्पर्श बिंदु\" कहा जाता है।",
+      "keyPoints": [
+        "Tangent touches circle at exactly one point.",
+        "Intersection point is called point of contact."
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "How many tangents can a circle have in total, and how many parallel tangents can it have at most?",
+      "questionHi": "एक वृत्त में कुल कितनी स्पर्श रेखाएँ हो सकती हैं, और इसमें अधिक से अधिक कितनी समांतर स्पर्श रेखाएँ हो सकती हैं?",
+      "answer": "A circle can have infinitely many tangents in total, because it has infinitely many points on its circumference. However, it can have at most **two** parallel tangents, which are drawn at the opposite ends of a single diameter.",
+      "answerHi": "एक वृत्त में कुल अनंत स्पर्श रेखाएँ हो सकती हैं, क्योंकि इसकी परिधि पर अनंत बिंदु होते हैं। हालाँकि, इसमें अधिक से अधिक **दो** समांतर स्पर्श रेखाएँ हो सकती हैं, जो एक ही व्यास के विपरीत सिरों पर खींची जाती हैं।",
+      "keyPoints": [
+        "Infinitely many total tangents.",
+        "At most two parallel tangents (ends of a diameter)."
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "From a point $Q$, the length of the tangent to a circle is $24\\text{ cm}$ and the distance of $Q$ from the centre is $25\\text{ cm}$. Find the radius of the circle.",
+      "questionHi": "एक बिंदु $Q$ से, वृत्त पर स्पर्श रेखा की लंबाई $24\\text{ सेमी}$ है और केंद्र से $Q$ की दूरी $25\\text{ सेमी}$ है। वृत्त की त्रिज्या ज्ञात कीजिए।",
+      "answer": "Let the centre be $O$ and the point of contact be $P$. Since the tangent is perpendicular to the radius at the point of contact, $\\Delta OPQ$ is a right-angled triangle with $\\angle OPQ = 90^\\circ$.\n\nBy Pythagoras Theorem:\n\n$$OQ^2 = OP^2 + PQ^2 \\implies 25^2 = r^2 + 24^2$$\n\n$$625 = r^2 + 576 \\implies r^2 = 625 - 576 = 49 \\implies r = 7\\text{ cm}$$",
+      "answerHi": "मान लीजिए केंद्र $O$ है और स्पर्श बिंदु $P$ है। चूँकि स्पर्श रेखा स्पर्श बिंदु पर त्रिज्या पर लंब होती है, $\\Delta OPQ$ एक समकोण त्रिभुज है जिसमें $\\angle OPQ = 90^\\circ$ है।\n\nपाइथागोरस प्रमेय द्वारा:\n\n$$OQ^2 = OP^2 + PQ^2 \\implies 25^2 = r^2 + 24^2$$\n\n$$625 = r^2 + 576 \\implies r^2 = 625 - 576 = 49 \\implies r = 7\\text{ सेमी}$$",
+      "keyPoints": [
+        "Tangent is perpendicular to radius.",
+        "Use Pythagoras Theorem to find radius."
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "If $TP$ and $TQ$ are the two tangents to a circle with centre $O$ so that $\\angle POQ = 110^\\circ$, find the measure of $\\angle PTQ$.",
+      "questionHi": "यदि $TP$ और $TQ$ केंद्र $O$ वाले वृत्त पर दो स्पर्श रेखाएँ इस प्रकार हैं कि $\\angle POQ = 110^\\circ$ है, तो $\\angle PTQ$ की माप ज्ञात कीजिए।",
+      "answer": "In quadrilateral $OPTQ$, the angles at the points of contact $P$ and $Q$ are exactly $90^\\circ$ each.\n\nSum of angles of a quadrilateral $= 360^\\circ$:\n\n$$\\angle OPT + \\angle OQT + \\angle POQ + \\angle PTQ = 360^\\circ$$\n\n$$90^\\circ + 90^\\circ + 110^\\circ + \\angle PTQ = 360^\\circ$$\n\n$$290^\\circ + \\angle PTQ = 360^\\circ \\implies \\angle PTQ = 70^\\circ$$",
+      "answerHi": "चतुर्भुज $OPTQ$ में, स्पर्श बिंदुओं $P$ और $Q$ पर कोण ठीक $90^\\circ$ हैं।\n\nचतुर्भुज के कोणों का योग $= 360^\\circ$:\n\n$$\\angle OPT + \\angle OQT + \\angle POQ + \\angle PTQ = 360^\\circ$$\n\n$$90^\\circ + 90^\\circ + 110^\\circ + \\angle PTQ = 360^\\circ$$\n\n$$290^\\circ + \\angle PTQ = 360^\\circ \\implies \\angle PTQ = 70^\\circ$$",
+      "keyPoints": [
+        "Angles at point of contact are 90°.",
+        "Sum of angles in quadrilateral is 360°."
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "The length of a tangent from a point $A$ at a distance $5\\text{ cm}$ from the centre of the circle is $4\\text{ cm}$. Find the radius of the circle.",
+      "questionHi": "वृत्त के केंद्र से $5\\text{ सेमी}$ की दूरी पर स्थित बिंदु $A$ से स्पर्श रेखा की लंबाई $4\\text{ सेमी}$ है। वृत्त की त्रिज्या ज्ञात कीजिए।",
+      "answer": "Let the point of contact be $B$. The triangle formed is right-angled at $B$.\n\nUsing Pythagoras theorem:\n\n$$\\text{Hypotenuse}^2 = \\text{Base}^2 + \\text{Perpendicular}^2$$\n\n$$5^2 = 4^2 + r^2 \\implies 25 = 16 + r^2$$\n\n$$r^2 = 9 \\implies r = 3\\text{ cm}$$",
+      "answerHi": "मान लीजिए स्पर्श बिंदु $B$ है। बना हुआ त्रिभुज $B$ पर समकोण है।\n\nपाइथागोरस प्रमेय का उपयोग करते हुए:\n\n$$\\text{कर्ण}^2 = \\text{आधार}^2 + \\text{लंब}^2$$\n\n$$5^2 = 4^2 + r^2 \\implies 25 = 16 + r^2$$\n\n$$r^2 = 9 \\implies r = 3\\text{ सेमी}$$",
+      "keyPoints": [
+        "Hypotenuse is distance from centre (5).",
+        "Tangent is base (4). Solve for radius (3)."
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "Prove that the tangents drawn at the ends of a diameter of a circle are parallel.",
+      "questionHi": "सिद्ध कीजिए कि वृत्त के व्यास के सिरों पर खींची गई स्पर्श रेखाएँ समांतर होती हैं।",
+      "answer": "Let $AB$ be a diameter of a circle with centre $O$. Let lines $PQ$ and $RS$ be drawn as tangents at points $A$ and $B$ respectively.\n\nSince a tangent is perpendicular to the radius: $\\angle OAP = 90^\\circ$ and $\\angle OBS = 90^\\circ$.\n\nLine segment $AB$ acts as a transversal crossing lines $PQ$ and $RS$. The alternate interior angles $\\angle OAP$ and $\\angle OBS$ are equal ($90^\\circ$). Hence, $PQ \\parallel RS$.",
+      "answerHi": "मान लीजिए केंद्र $O$ वाले वृत्त का व्यास $AB$ है। मान लीजिए रेखाएँ $PQ$ और $RS$ क्रमशः बिंदुओं $A$ और $B$ पर स्पर्श रेखाओं के रूप में खींची गई हैं।\n\nचूँकि स्पर्श रेखा त्रिज्या पर लंब होती है: $\\angle OAP = 90^\\circ$ और $\\angle OBS = 90^\\circ$।\n\nरेखाखंड $AB$ रेखाओं $PQ$ और $RS$ को काटने वाली एक तिर्यक रेखा के रूप में कार्य करता है। एकांतर अंतःकोण $\\angle OAP$ और $\\angle OBS$ बराबर ($90^\\circ$) हैं। इसलिए, $PQ \\parallel RS$ है।",
+      "keyPoints": [
+        "Tangents are perpendicular to diameter at ends.",
+        "Alternate interior angles are equal (90°)."
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "State the theorem regarding the lengths of tangents drawn from an external point to a circle.",
+      "questionHi": "किसी बाह्य बिंदु से वृत्त पर खींची गई स्पर्श रेखाओं की लंबाइयों के संबंध में प्रमेय बताइए।",
+      "answer": "The theorem states that the lengths of the two tangents drawn from an external point to a circle are perfectly equal.",
+      "answerHi": "प्रमेय कहता है कि किसी बाह्य बिंदु से वृत्त पर खींची गई दोनों स्पर्श रेखाओं की लंबाइयाँ पूरी तरह से बराबर होती हैं।",
+      "keyPoints": [
+        "Lengths of tangents from external point are equal."
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "Two concentric circles are of radii $5\\text{ cm}$ and $3\\text{ cm}$. Find the length of the chord of the larger circle which touches the smaller circle.",
+      "questionHi": "दो संकेंद्री वृत्तों की त्रिज्याएँ $5\\text{ सेमी}$ और $3\\text{ सेमी}$ हैं। बड़े वृत्त की उस जीवा की लंबाई ज्ञात कीजिए जो छोटे वृत्त को स्पर्श करती है।",
+      "answer": "Let $AB$ be the chord of the larger circle that touches the smaller circle at $P$. Let the centre be $O$.\n\n$OP = 3\\text{ cm}$ (radius of smaller circle), $OA = 5\\text{ cm}$ (radius of larger circle).\n\nSince $AB$ is a tangent to the smaller circle, $OP \\perp AB$.\n\nIn right $\\Delta OPA$: $AP = \\sqrt{5^2 - 3^2} = \\sqrt{25 - 9} = \\sqrt{16} = 4\\text{ cm}$.\n\nSince the perpendicular from the centre bisects the chord, total length $AB = 2 \\times AP = 2 \\times 4 = 8\\text{ cm}$.",
+      "answerHi": "मान लीजिए बड़े वृत्त की जीवा $AB$ है जो छोटे वृत्त को $P$ पर स्पर्श करती है। मान लीजिए केंद्र $O$ है।\n\n$OP = 3\\text{ सेमी}$ (छोटे वृत्त की त्रिज्या), $OA = 5\\text{ सेमी}$ (बड़े वृत्त की त्रिज्या)।\n\nचूँकि $AB$ छोटे वृत्त की स्पर्श रेखा है, $OP \\perp AB$ है।\n\nसमकोण $\\Delta OPA$ में: $AP = \\sqrt{5^2 - 3^2} = \\sqrt{25 - 9} = \\sqrt{16} = 4\\text{ सेमी}$।\n\nचूँकि केंद्र से डाला गया लंब जीवा को समद्विभाजित करता है, कुल लंबाई $AB = 2 \\times AP = 2 \\times 4 = 8\\text{ सेमी}$ है।",
+      "keyPoints": [
+        "Chord is tangent to smaller circle.",
+        "Radius bisects chord. Use Pythagoras to find half-chord."
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Is it possible to draw a tangent to a circle from a point situated inside the circle? Explain.",
+      "questionHi": "क्या वृत्त के अंदर स्थित किसी बिंदु से वृत्त पर स्पर्श रेखा खींचना संभव है? स्पष्ट कीजिए।",
+      "answer": "No, it is not possible to draw any tangent from a point located inside the circle. Any line drawn passing through an interior point will always intersect the circle at exactly two points, making it a secant line, not a tangent.",
+      "answerHi": "नहीं, वृत्त के अंदर स्थित किसी बिंदु से कोई स्पर्श रेखा खींचना संभव नहीं है। आंतरिक बिंदु से होकर खींची गई कोई भी रेखा हमेशा वृत्त को ठीक दो बिंदुओं पर काटेगी, जिससे वह छेदक रेखा (secant line) बन जाएगी, स्पर्श रेखा नहीं।",
+      "keyPoints": [
+        "Line from inside intersects at two points.",
+        "It becomes a secant, not a tangent."
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "A quadrilateral $ABCD$ is drawn to circumscribe a circle. Prove that $AB + CD = AD + BC$.",
+      "questionHi": "एक वृत्त के परिगत एक चतुर्भुज $ABCD$ खींचा गया है। सिद्ध कीजिए कि $AB + CD = AD + BC$ है।",
+      "answer": "Let the circle touch sides $AB, BC, CD,$ and $DA$ at points $P, Q, R,$ and $S$ respectively.\n\nLengths of tangents from an external point are equal:\n\n$AP = AS$, $BP = BQ$, $CR = CQ$, $DR = DS$.\n\nAdd all equations: $(AP + BP) + (CR + DR) = (AS + DS) + (BQ + CQ)$.\n\n$$AB + CD = AD + BC$$\n\n. Hence proved.",
+      "answerHi": "मान लीजिए कि वृत्त भुजाओं $AB, BC, CD,$ और $DA$ को क्रमशः बिंदुओं $P, Q, R,$ और $S$ पर स्पर्श करता है।\n\nबाह्य बिंदु से स्पर्श रेखाओं की लंबाइयाँ बराबर होती हैं:\n\n$AP = AS$, $BP = BQ$, $CR = CQ$, $DR = DS$।\n\nसभी समीकरणों को जोड़ने पर: $(AP + BP) + (CR + DR) = (AS + DS) + (BQ + CQ)$।\n\n$$AB + CD = AD + BC$$\n\nइति सिद्धम।",
+      "keyPoints": [
+        "Tangents from external points are equal.",
+        "Add equations for all four vertices."
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "State and prove the theorem: \"The tangent at any point of a circle is perpendicular to the radius through the point of contact.\"",
+      "questionHi": "प्रमेय का कथन दें और सिद्ध करें: \"वृत्त के किसी भी बिंदु पर स्पर्श रेखा, स्पर्श बिंदु से होकर जाने वाली त्रिज्या पर लंब होती है।\"",
+      "answer": "**Given:** A circle with centre $O$ and a tangent $XY$ touching the circle at a point $P$.\n\n**To Prove:** $OP \\perp XY$.\n\n**Construction:** Take any point $Q$ (other than $P$) on the tangent $XY$ and join $OQ$.\n\n**Proof:** Since $Q$ lies on the tangent, it must lie entirely outside the circle (if it were inside, $XY$ would be a secant, not a tangent).\n\nTherefore, the length of $OQ$ must be strictly greater than the radius $OP$ of the circle (i.e., $OQ > OP$).\n\nThis is true for every single point on line $XY$ except point $P$. Since the shortest distance between a point and a line is the perpendicular distance, $OP$ must be the perpendicular distance from $O$ to line $XY$.\n\nThus, $OP \\perp XY$. Hence proved.",
+      "answerHi": "**दिया गया है:** केंद्र $O$ वाला एक वृत्त और एक स्पर्श रेखा $XY$ जो वृत्त को बिंदु $P$ पर छूती है।\n\n**सिद्ध करना है:** $OP \\perp XY$।\n\n**रचना:** स्पर्श रेखा $XY$ पर $P$ के अतिरिक्त कोई बिंदु $Q$ लें और $OQ$ को मिलाएँ।\n\n**प्रमाण:** चूँकि $Q$ स्पर्श रेखा पर स्थित है, यह पूरी तरह से वृत्त के बाहर स्थित होना चाहिए (यदि यह अंदर होता, तो $XY$ एक छेदक रेखा होती, स्पर्श रेखा नहीं)।\n\nइसलिए, $OQ$ की लंबाई वृत्त की त्रिज्या $OP$ से पूर्णतः अधिक होनी चाहिए (अर्थात, $OQ > OP$)।\n\nयह बिंदु $P$ को छोड़कर रेखा $XY$ के प्रत्येक बिंदु के लिए सत्य है। चूँकि एक बिंदु और एक रेखा के बीच की सबसे छोटी दूरी लंबवत दूरी होती है, इसलिए $OP$, $O$ से रेखा $XY$ की लंबवत दूरी होनी चाहिए।\n\nइस प्रकार, $OP \\perp XY$। इति सिद्धम।",
+      "keyPoints": [
+        "Take point Q on tangent outside circle.",
+        "OQ > OP shows OP is shortest distance.",
+        "Shortest distance is perpendicular."
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Two tangents $TP$ and $TQ$ are drawn to a circle with centre $O$ from an external point $T$. Prove that $\\angle PTQ = 2\\angle OPQ$.",
+      "questionHi": "केंद्र $O$ वाले वृत्त पर बाह्य बिंदु $T$ से दो स्पर्श रेखाएँ $TP$ और $TQ$ खींची गई हैं। सिद्ध कीजिए कि $\\angle PTQ = 2\\angle OPQ$ है।",
+      "answer": "Let $\\angle PTQ = \\theta$.\n\nSince tangents from an external point are equal, $TP = TQ$. Thus, $\\Delta TPQ$ is an isosceles triangle.\n\n$$\\angle TPQ = \\angle TQP = \\frac{1}{2}(180^\\circ - \\theta) = 90^\\circ - \\frac{\\theta}{2}$$\n\nWe know that the radius is perpendicular to the tangent at the point of contact, so total angle $\\angle OPT = 90^\\circ$.\n\n$$\\angle OPQ = \\angle OPT - \\angle TPQ = 90^\\circ - \\left(90^\\circ - \\frac{\\theta}{2}\\right) = \\frac{\\theta}{2}$$\n\nMultiplying both sides by 2, we get: $2\\angle OPQ = \\theta = \\angle PTQ$. Hence proved.",
+      "answerHi": "मान लीजिए $\\angle PTQ = \\theta$ है।\n\nचूँकि बाह्य बिंदु से स्पर्श रेखाएँ बराबर होती हैं, $TP = TQ$। इस प्रकार, $\\Delta TPQ$ एक समद्विबाहु त्रिभुज है।\n\n$$\\angle TPQ = \\angle TQP = \\frac{1}{2}(180^\\circ - \\theta) = 90^\\circ - \\frac{\\theta}{2}$$\n\nहम जानते हैं कि त्रिज्या स्पर्श बिंदु पर स्पर्श रेखा पर लंब होती है, इसलिए कुल कोण $\\angle OPT = 90^\\circ$ है।\n\n$$\\angle OPQ = \\angle OPT - \\angle TPQ = 90^\\circ - \\left(90^\\circ - \\frac{\\theta}{2}\\right) = \\frac{\\theta}{2}$$\n\nदोनों पक्षों को 2 से गुणा करने पर, हमें प्राप्त होता है: $2\\angle OPQ = \\theta = \\angle PTQ$। इति सिद्धम।",
+      "keyPoints": [
+        "Triangle TPQ is isosceles.",
+        "Calculate $\\angle TPQ$.",
+        "$\\angle OPQ = 90^\\circ - \\angle TPQ$."
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Prove that the lengths of tangents drawn from an external point to a circle are equal.",
+      "questionHi": "सिद्ध कीजिए कि किसी बाह्य बिंदु से वृत्त पर खींची गई स्पर्श रेखाओं की लंबाइयाँ बराबर होती हैं।",
+      "answer": "**Given:** A circle with centre $O$, an external point $P$, and two tangents $PQ$ and $PR$ touching the circle at $Q$ and $R$.\n\n**To Prove:** $PQ = PR$.\n\n**Construction:** Join $OP$, $OQ$, and $OR$.\n\n**Proof:** In right-angled triangles $\\Delta OQP$ and $\\Delta ORP$:\n\n1. $\\angle OQP = \\angle ORP = 90^\\circ$ (Radius is perpendicular to the tangent at the point of contact).\n2. $OP = OP$ (Common hypotenuse).\n3. $OQ = OR$ (Radii of the same circle).\nBy **RHS congruence criterion**, $\\Delta OQP \\cong \\Delta ORP$.\nTherefore, by CPCT (Corresponding Parts of Congruent Triangles), **$PQ = PR$**. Hence proved.",
+      "answerHi": "**दिया गया है:** केंद्र $O$ वाला एक वृत्त, एक बाह्य बिंदु $P$, और दो स्पर्श रेखाएँ $PQ$ और $PR$ जो वृत्त को $Q$ और $R$ पर छूती हैं।\n\n**सिद्ध करना है:** $PQ = PR$।\n\n**रचना:** $OP$, $OQ$, और $OR$ को मिलाएँ।\n\n**प्रमाण:** समकोण त्रिभुजों $\\Delta OQP$ और $\\Delta ORP$ में:\n\n1. $\\angle OQP = \\angle ORP = 90^\\circ$ (त्रिज्या स्पर्श बिंदु पर स्पर्श रेखा पर लंब होती है)।\n2. $OP = OP$ (उभयनिष्ठ कर्ण)।\n3. $OQ = OR$ (एक ही वृत्त की त्रिज्याएँ)।\n**RHS सर्वांगसमता कसौटी** द्वारा, $\\Delta OQP \\cong \\Delta ORP$।\nइसलिए, CPCT (सर्वांगसम त्रिभुजों के संगत भाग) द्वारा, **$PQ = PR$** है। इति सिद्धम।",
+      "keyPoints": [
+        "Create two right triangles OQP and ORP.",
+        "Prove congruence using RHS.",
+        "PQ = PR by CPCT."
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "In the given figure, $XY$ and $X'Y'$ are two parallel tangents to a circle with centre $O$ and another tangent $AB$ with point of contact $C$ intersecting $XY$ at $A$ and $X'Y'$ at $B$. Prove that $\\angle AOB = 90^\\circ$.",
+      "questionHi": "दी गई आकृति में, $XY$ और $X'Y'$ केंद्र $O$ वाले वृत्त की दो समांतर स्पर्श रेखाएँ हैं और स्पर्श बिंदु $C$ वाली एक अन्य स्पर्श रेखा $AB$, $XY$ को $A$ पर और $X'Y'$ को $B$ पर प्रतिच्छेद करती है। सिद्ध कीजिए कि $\\angle AOB = 90^\\circ$ है।",
+      "answer": "Let $P$ and $Q$ be the points of contact of parallel tangents $XY$ and $X'Y'$ respectively. Join $OC$.\n\nIn $\\Delta OPA$ and $\\Delta OCA$:\n\n$OP = OC$ (Radii), $OA = OA$ (Common), $AP = AC$ (Tangents from $A$).\n\nBy SSS congruence, $\\Delta OPA \\cong \\Delta OCA \\implies \\angle POA = \\angle COA$.\n\nSimilarly, $\\Delta OQB \\cong \\Delta OCB \\implies \\angle QOB = \\angle COB$.\n\nSince $POQ$ is a straight line (diameter connecting parallel tangents), the sum of angles is $180^\\circ$:\n\n$$\\angle POA + \\angle COA + \\angle COB + \\angle QOB = 180^\\circ$$\n\n$$2\\angle COA + 2\\angle COB = 180^\\circ \\implies \\angle COA + \\angle COB = 90^\\circ$$\n\nSince $\\angle AOB = \\angle COA + \\angle COB$, we conclude $\\angle AOB = 90^\\circ$.",
+      "answerHi": "मान लीजिए कि समांतर स्पर्श रेखाओं $XY$ और $X'Y'$ के स्पर्श बिंदु क्रमशः $P$ और $Q$ हैं। $OC$ को मिलाएँ।\n\n$\\Delta OPA$ और $\\Delta OCA$ में:\n\n$OP = OC$ (त्रिज्याएँ), $OA = OA$ (उभयनिष्ठ), $AP = AC$ ($A$ से स्पर्श रेखाएँ)।\n\nSSS सर्वांगसमता द्वारा, $\\Delta OPA \\cong \\Delta OCA \\implies \\angle POA = \\angle COA$।\n\nइसी प्रकार, $\\Delta OQB \\cong \\Delta OCB \\implies \\angle QOB = \\angle COB$।\n\nचूँकि $POQ$ एक सीधी रेखा (समांतर स्पर्श रेखाओं को जोड़ने वाला व्यास) है, कोणों का योग $180^\\circ$ है:\n\n$$\\angle POA + \\angle COA + \\angle COB + \\angle QOB = 180^\\circ$$\n\n$$2\\angle COA + 2\\angle COB = 180^\\circ \\implies \\angle COA + \\angle COB = 90^\\circ$$\n\nचूँकि $\\angle AOB = \\angle COA + \\angle COB$, हम निष्कर्ष निकालते हैं कि $\\angle AOB = 90^\\circ$ है।",
+      "keyPoints": [
+        "Prove $\\angle POA = \\angle COA$ and $\\angle QOB = \\angle COB$.",
+        "Angles on straight line add to 180°.",
+        "Sum of half-angles is 90°."
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "A triangle $ABC$ is drawn to circumscribe a circle of radius $4\\text{ cm}$ such that the segments $BD$ and $DC$ into which $BC$ is divided by the point of contact $D$ are of lengths $8\\text{ cm}$ and $6\\text{ cm}$ respectively. Given that the area of $\\Delta ABC$ is $84\\text{ cm}^2$, find the sides $AB$ and $AC$.",
+      "questionHi": "$4\\text{ सेमी}$ त्रिज्या वाले एक वृत्त के परिगत एक त्रिभुज $ABC$ इस प्रकार खींचा गया है कि रेखाखंड $BD$ और $DC$, जिनमें स्पर्श बिंदु $D$ द्वारा $BC$ विभाजित होता है, की लंबाइयाँ क्रमशः $8\\text{ सेमी}$ और $6\\text{ सेमी}$ हैं। यह देखते हुए कि $\\Delta ABC$ का क्षेत्रफल $84\\text{ सेमी}^2$ है, भुजाएँ $AB$ और $AC$ ज्ञात कीजिए।",
+      "answer": "Let the circle touch sides $AB$ and $AC$ at points $E$ and $F$. Let $AE = AF = x\\text{ cm}$.\n\n* $CD = CF = 6\\text{ cm}$\n* $BD = BE = 8\\text{ cm}$\nSides: $BC = 14$, $AC = x + 6$, $AB = x + 8$.\nSemi-perimeter $s = \\frac{14 + x + 6 + x + 8}{2} = 14 + x$.\nUsing Heron's formula: $\\text{Area} = \\sqrt{s(s-a)(s-b)(s-c)} = \\sqrt{(14+x)(x)(8)(6)} = \\sqrt{48x(14+x)}$.\nGiven Area = $84$, squaring both sides:\n$$84 \\times 84 = 48x(14+x) \\implies 7056 = 672x + 48x^2 \\implies x^2 + 14x - 147 = 0$$\n\n\nFactoring: $(x + 21)(x - 7) = 0 \\implies x = 7$.\nSides are **$AB = 7 + 8 = 15\\text{ cm}$** and **$AC = 7 + 6 = 13\\text{ cm}$**.",
+      "answerHi": "मान लीजिए कि वृत्त भुजाओं $AB$ और $AC$ को बिंदुओं $E$ और $F$ पर स्पर्श करता है। मान लीजिए $AE = AF = x\\text{ सेमी}$ है।\n\n* $CD = CF = 6\\text{ सेमी}$\n* $BD = BE = 8\\text{ सेमी}$\nभुजाएँ: $BC = 14$, $AC = x + 6$, $AB = x + 8$।\nअर्ध-परिमाप $s = \\frac{14 + x + 6 + x + 8}{2} = 14 + x$।\nहीरोन के सूत्र का उपयोग करते हुए: $\\text{क्षेत्रफल} = \\sqrt{s(s-a)(s-b)(s-c)} = \\sqrt{(14+x)(x)(8)(6)} = \\sqrt{48x(14+x)}$।\nदिया गया क्षेत्रफल = $84$, दोनों पक्षों का वर्ग करने पर:\n$$84 \\times 84 = 48x(14+x) \\implies 7056 = 672x + 48x^2 \\implies x^2 + 14x - 147 = 0$$\n\n\nगुणनखंड करने पर: $(x + 21)(x - 7) = 0 \\implies x = 7$।\nभुजाएँ **$AB = 7 + 8 = 15\\text{ सेमी}$** और **$AC = 7 + 6 = 13\\text{ सेमी}$** हैं।",
+      "keyPoints": [
+        "Assign x to AE and AF.",
+        "Use Heron's formula for area.",
+        "Solve quadratic equation for x."
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Prove that the angle between the two tangents drawn from an external point to a circle is supplementary to the angle subtended by the line segment joining the points of contact at the centre.",
+      "questionHi": "सिद्ध कीजिए कि किसी बाह्य बिंदु से वृत्त पर खींची गई दो स्पर्श रेखाओं के बीच का कोण, स्पर्श बिंदुओं को मिलाने वाले रेखाखंड द्वारा केंद्र पर अंतरित कोण का संपूरक होता है।",
+      "answer": "**Given:** A circle with centre $O$. Let $P$ be an external point from which two tangents $PA$ and $PB$ are drawn touching the circle at points $A$ and $B$.\n\n**To Prove:** $\\angle APB + \\angle AOB = 180^\\circ$ (supplementary).\n\n**Proof:** Consider the quadrilateral $PAOB$ formed by joining the centre $O$ to the external point $P$ and the points of contact $A$ and $B$.\n\nAccording to the theorem, the radius is always perpendicular to the tangent at the point of contact. Therefore:\n\n$$\\angle OAP = 90^\\circ$$\n\n$$\\angle OBP = 90^\\circ$$\n\nThe sum of all four interior angles in any quadrilateral is $360^\\circ$:\n\n$$\\angle OAP + \\angle APB + \\angle OBP + \\angle AOB = 360^\\circ$$\n\n$$90^\\circ + \\angle APB + 90^\\circ + \\angle AOB = 360^\\circ$$\n\n$$180^\\circ + \\angle APB + \\angle AOB = 360^\\circ \\implies \\angle APB + \\angle AOB = 360^\\circ - 180^\\circ = 180^\\circ$$\n\nThus, the angle between the tangents and the angle subtended by the points of contact at the centre are perfectly supplementary. Hence proved.",
+      "answerHi": "**दिया गया है:** केंद्र $O$ वाला एक वृत्त। मान लीजिए $P$ एक बाह्य बिंदु है जहाँ से दो स्पर्श रेखाएँ $PA$ और $PB$ खींची जाती हैं जो वृत्त को बिंदुओं $A$ और $B$ पर छूती हैं।\n\n**सिद्ध करना है:** $\\angle APB + \\angle AOB = 180^\\circ$ (संपूरक)।\n\n**प्रमाण:** केंद्र $O$ को बाह्य बिंदु $P$ और स्पर्श बिंदुओं $A$ और $B$ से मिलाने पर बने चतुर्भुज $PAOB$ पर विचार करें।\n\nप्रमेय के अनुसार, त्रिज्या हमेशा स्पर्श बिंदु पर स्पर्श रेखा पर लंब होती है। इसलिए:\n\n$$\\angle OAP = 90^\\circ$$\n\n$$\\angle OBP = 90^\\circ$$\n\nकिसी भी चतुर्भुज में सभी चार अंतःकोणों का योग $360^\\circ$ होता है:\n\n$$\\angle OAP + \\angle APB + \\angle OBP + \\angle AOB = 360^\\circ$$\n\n$$90^\\circ + \\angle APB + 90^\\circ + \\angle AOB = 360^\\circ$$\n\n$$180^\\circ + \\angle APB + \\angle AOB = 360^\\circ \\implies \\angle APB + \\angle AOB = 360^\\circ - 180^\\circ = 180^\\circ$$\n\nइस प्रकार, स्पर्श रेखाओं के बीच का कोण और स्पर्श बिंदुओं द्वारा केंद्र पर अंतरित कोण पूरी तरह से संपूरक होते हैं। इति सिद्धम।",
+      "keyPoints": [
+        "Angles at contact points are 90°.",
+        "Sum of angles in quadrilateral is 360°.",
+        "Remaining two angles sum to 180°."
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Competency-Based Question: A Ferris wheel has a circular steel support structure. Two straight beams are welded to the edge of the circular ring from a single mounting block on the ground. If the angle formed at the mounting block between the two beams is $60^\\circ$ and the radius of the circular ring is $10\\text{ m}$, find the exact length of the welded beams from the block to the contact point.",
+      "questionHi": "योग्यता-आधारित प्रश्न: एक फेरिस व्हील में एक गोलाकार स्टील समर्थन संरचना होती है। जमीन पर एक ही माउंटिंग ब्लॉक से गोलाकार रिंग के किनारे पर दो सीधी बीम वेल्ड की जाती हैं। यदि दो बीमों के बीच माउंटिंग ब्लॉक पर बना कोण $60^\\circ$ है और गोलाकार रिंग की त्रिज्या $10\\text{ मीटर}$ है, तो ब्लॉक से स्पर्श बिंदु तक वेल्ड की गई बीम की सटीक लंबाई ज्ञात कीजिए।",
+      "answer": "Let the circular support structure be a circle with centre $O$ and radius $r = 10\\text{ m}$. Let the ground mounting block be point $P$. The two welded beams act as tangents to the circle, touching at points $A$ and $B$.\n\nThe angle between the tangents is given as $\\angle APB = 60^\\circ$.\n\nWe know that the line joining the external point to the centre of the circle ($OP$) perfectly bisects the angle between the tangents.\n\nTherefore, in right-angled $\\Delta OAP$:\n\n$$\\angle APO = \\frac{60^\\circ}{2} = 30^\\circ$$\n\nThe radius $OA$ is perpendicular to tangent $PA$, so $\\angle OAP = 90^\\circ$.\n\nUsing trigonometry in $\\Delta OAP$ to find the length of the tangent (beam) $PA$:\n\n$$\\tan(\\angle APO) = \\frac{\\text{Opposite}}{\\text{Adjacent}} = \\frac{OA}{PA}$$\n\n$$\\tan 30^\\circ = \\frac{10}{PA} \\implies \\frac{1}{\\sqrt{3}} = \\frac{10}{PA} \\implies PA = 10\\sqrt{3}\\text{ m}$$\n\nThe length of each welded beam from the block to the contact point is exactly **$10\\sqrt{3}\\text{ m}$**.",
+      "answerHi": "मान लीजिए कि गोलाकार समर्थन संरचना केंद्र $O$ और त्रिज्या $r = 10\\text{ मीटर}$ वाला एक वृत्त है। मान लीजिए कि ग्राउंड माउंटिंग ब्लॉक बिंदु $P$ है। दो वेल्ड की गई बीम वृत्त की स्पर्श रेखाओं के रूप में कार्य करती हैं, जो बिंदुओं $A$ और $B$ पर छूती हैं।\n\nस्पर्श रेखाओं के बीच का कोण $\\angle APB = 60^\\circ$ दिया गया है।\n\nहम जानते हैं कि बाह्य बिंदु को वृत्त के केंद्र ($OP$) से मिलाने वाली रेखा स्पर्श रेखाओं के बीच के कोण को पूरी तरह से समद्विभाजित करती है।\n\nइसलिए, समकोण $\\Delta OAP$ में:\n\n$$\\angle APO = \\frac{60^\\circ}{2} = 30^\\circ$$\n\nत्रिज्या $OA$ स्पर्श रेखा $PA$ पर लंब है, इसलिए $\\angle OAP = 90^\\circ$।\n\nस्पर्श रेखा (बीम) $PA$ की लंबाई ज्ञात करने के लिए $\\Delta OAP$ में त्रिकोणमिति का उपयोग करना:\n\n$$\\tan(\\angle APO) = \\frac{\\text{सम्मुख}}{\\text{संलग्न}} = \\frac{OA}{PA}$$\n\n$$\\tan 30^\\circ = \\frac{10}{PA} \\implies \\frac{1}{\\sqrt{3}} = \\frac{10}{PA} \\implies PA = 10\\sqrt{3}\\text{ मीटर}$$\n\nब्लॉक से स्पर्श बिंदु तक प्रत्येक वेल्ड की गई बीम की लंबाई ठीक **$10\\sqrt{3}\\text{ मीटर}$** है।",
+      "keyPoints": [
+        "Line to centre bisects the angle (30°).",
+        "Use tan 30° in right triangle.",
+        "Solve for adjacent side (tangent length)."
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Prove that opposite sides of a quadrilateral circumscribing a circle subtend supplementary angles at the centre of the circle.",
+      "questionHi": "सिद्ध कीजिए कि किसी वृत्त के परिगत चतुर्भुज की सम्मुख भुजाएँ वृत्त के केंद्र पर संपूरक कोण अंतरित करती हैं।",
+      "answer": "**Given:** A quadrilateral $ABCD$ circumscribing a circle with centre $O$. It touches the circle at points $P, Q, R, S$ on sides $AB, BC, CD, DA$ respectively.\n\n**To Prove:** $\\angle AOB + \\angle COD = 180^\\circ$ and $\\angle BOC + \\angle AOD = 180^\\circ$.\n\n**Proof:** Join the centre $O$ to all vertices $A, B, C, D$ and to all points of contact $P, Q, R, S$.\n\nThis forms 8 small triangles around the centre. Let the angles at the centre be numbered $\\angle 1$ to $\\angle 8$.\n\nConsider $\\Delta OAP$ and $\\Delta OAS$:\n\n$OP = OS$ (Radii), $OA = OA$ (Common), $AP = AS$ (Tangents).\n\nBy SSS congruence, $\\Delta OAP \\cong \\Delta OAS$. Therefore, $\\angle 1 = \\angle 8$.\n\nSimilarly, $\\angle 2 = \\angle 3$, $\\angle 4 = \\angle 5$, and $\\angle 6 = \\angle 7$.\n\nSum of all angles at centre point $O$ is $360^\\circ$:\n\n$$\\angle 1 + \\angle 2 + \\angle 3 + \\angle 4 + \\angle 5 + \\angle 6 + \\angle 7 + \\angle 8 = 360^\\circ$$\n\nSubstitute the equal pairs:\n\n$$2(\\angle 1 + \\angle 2 + \\angle 5 + \\angle 6) = 360^\\circ \\implies (\\angle 1 + \\angle 2) + (\\angle 5 + \\angle 6) = 180^\\circ$$\n\nSince $(\\angle 1 + \\angle 2) = \\angle AOB$ and $(\\angle 5 + \\angle 6) = \\angle COD$, we get:\n\n$$\\angle AOB + \\angle COD = 180^\\circ$$\n\nSimilarly, $\\angle BOC + \\angle AOD = 180^\\circ$. Hence proved.",
+      "answerHi": "**दिया गया है:** केंद्र $O$ वाले वृत्त के परिगत एक चतुर्भुज $ABCD$। यह वृत्त को क्रमशः भुजाओं $AB, BC, CD, DA$ पर बिंदुओं $P, Q, R, S$ पर छूता है।\n\n**सिद्ध करना है:** $\\angle AOB + \\angle COD = 180^\\circ$ और $\\angle BOC + \\angle AOD = 180^\\circ$।\n\n**प्रमाण:** केंद्र $O$ को सभी शीर्षों $A, B, C, D$ और सभी स्पर्श बिंदुओं $P, Q, R, S$ से मिलाएँ।\n\nइससे केंद्र के चारों ओर 8 छोटे त्रिभुज बनते हैं। मान लीजिए केंद्र पर कोणों को $\\angle 1$ से $\\angle 8$ तक क्रमांकित किया गया है।\n\n$\\Delta OAP$ और $\\Delta OAS$ पर विचार करें:\n\n$OP = OS$ (त्रिज्याएँ), $OA = OA$ (उभयनिष्ठ), $AP = AS$ (स्पर्श रेखाएँ)।\n\nSSS सर्वांगसमता द्वारा, $\\Delta OAP \\cong \\Delta OAS$। इसलिए, $\\angle 1 = \\angle 8$।\n\nइसी प्रकार, $\\angle 2 = \\angle 3$, $\\angle 4 = \\angle 5$, और $\\angle 6 = \\angle 7$।\n\nकेंद्र बिंदु $O$ पर सभी कोणों का योग $360^\\circ$ है:\n\n$$\\angle 1 + \\angle 2 + \\angle 3 + \\angle 4 + \\angle 5 + \\angle 6 + \\angle 7 + \\angle 8 = 360^\\circ$$\n\nसमान युग्मों को प्रतिस्थापित करें:\n\n$$2(\\angle 1 + \\angle 2 + \\angle 5 + \\angle 6) = 360^\\circ \\implies (\\angle 1 + \\angle 2) + (\\angle 5 + \\angle 6) = 180^\\circ$$\n\nचूँकि $(\\angle 1 + \\angle 2) = \\angle AOB$ और $(\\angle 5 + \\angle 6) = \\angle COD$, हमें प्राप्त होता है:\n\n$$\\angle AOB + \\angle COD = 180^\\circ$$\n\nइसी प्रकार, $\\angle BOC + \\angle AOD = 180^\\circ$। इति सिद्धम।",
+      "keyPoints": [
+        "Form 8 small triangles at the centre.",
+        "Adjacent triangles are congruent.",
+        "Sum of angles is 360°, halve it for 180°."
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Analytical Challenge: Prove that the parallelogram circumscribing a circle is a rhombus.",
+      "questionHi": "विश्लेषणात्मक चुनौती: सिद्ध कीजिए कि वृत्त के परिगत समांतर चतुर्भुज एक समचतुर्भुज (rhombus) होता है।",
+      "answer": "**Given:** A parallelogram $ABCD$ circumscribes a circle, touching its sides $AB, BC, CD, DA$ at points $P, Q, R, S$ respectively.\n\n**To Prove:** $ABCD$ is a rhombus (all four sides are equal).\n\n**Proof:** We know that the lengths of tangents drawn from an external point to a circle are equal. Therefore:\n\n1. $AP = AS$ (Tangents from $A$)\n2. $BP = BQ$ (Tangents from $B$)\n3. $CR = CQ$ (Tangents from $C$)\n4. $DR = DS$ (Tangents from $D$)\n\nAdding all these equations together:\n\n$$(AP + BP) + (CR + DR) = (AS + DS) + (BQ + CQ)$$\n\n$$AB + CD = AD + BC \\quad \\text{--- (Equation I)}$$\n\nSince $ABCD$ is given as a parallelogram, its opposite sides are mathematically equal:\n\n$AB = CD$ and $AD = BC$.\n\nSubstitute $CD$ with $AB$ and $AD$ with $BC$ in Equation I:\n\n$$AB + AB = BC + BC \\implies 2AB = 2BC \\implies AB = BC$$\n\nIf adjacent sides of a parallelogram are equal, then all four sides are equal ($AB = BC = CD = DA$). A parallelogram with all sides equal is by definition a rhombus. Hence proved.",
+      "answerHi": "**दिया गया है:** एक समांतर चतुर्भुज $ABCD$ एक वृत्त के परिगत है, जो इसकी भुजाओं $AB, BC, CD, DA$ को क्रमशः बिंदुओं $P, Q, R, S$ पर छूता है।\n\n**सिद्ध करना है:** $ABCD$ एक समचतुर्भुज है (चारों भुजाएँ बराबर हैं)।\n\n**प्रमाण:** हम जानते हैं कि किसी बाह्य बिंदु से वृत्त पर खींची गई स्पर्श रेखाओं की लंबाइयाँ बराबर होती हैं। इसलिए:\n\n1. $AP = AS$ ($A$ से स्पर्श रेखाएँ)\n2. $BP = BQ$ ($B$ से स्पर्श रेखाएँ)\n3. $CR = CQ$ ($C$ से स्पर्श रेखाएँ)\n4. $DR = DS$ ($D$ से स्पर्श रेखाएँ)\n\nइन सभी समीकरणों को एक साथ जोड़ने पर:\n\n$$(AP + BP) + (CR + DR) = (AS + DS) + (BQ + CQ)$$\n\n$$AB + CD = AD + BC \\quad \\text{--- (समीकरण I)}$$\n\nचूँकि $ABCD$ एक समांतर चतुर्भुज के रूप में दिया गया है, इसकी सम्मुख भुजाएँ गणितीय रूप से बराबर हैं:\n\n$AB = CD$ और $AD = BC$।\n\nसमीकरण I में $CD$ को $AB$ से और $AD$ को $BC$ से प्रतिस्थापित करें:\n\n$$AB + AB = BC + BC \\implies 2AB = 2BC \\implies AB = BC$$\n\nयदि किसी समांतर चतुर्भुज की आसन्न भुजाएँ बराबर हैं, तो सभी चार भुजाएँ बराबर होती हैं ($AB = BC = CD = DA$)। समान भुजाओं वाला समांतर चतुर्भुज परिभाषा के अनुसार एक समचतुर्भुज (rhombus) होता है। इति सिद्धम।",
+      "keyPoints": [
+        "Tangents from external points are equal.",
+        "Show AB + CD = AD + BC.",
+        "Use parallelogram property AB=CD, AD=BC."
+      ]
+    }
+  ]
+}
