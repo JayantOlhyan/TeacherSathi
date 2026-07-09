@@ -1,5 +1,5 @@
 {
-  "chapterTitle": "Ped Ki Baat (Essay) - The Story of a Tree / Plant Sensitivity",
+  "chapterTitle": "Ped Ki Baat (Nibandh)",
   "chapterTitleHi": "पेड़ की बात (निबंध)",
   "questions": [
     {
@@ -7,480 +7,330 @@
       "type": "short",
       "marks": 2,
       "difficulty": "Easy",
-      "question": "Who is the author of the essay 'Ped Ki Baat' and what groundbreaking truth about the plant kingdom does he reveal in this chapter?",
-      "questionHi": "'पेड़ की बात' निबंध के लेखक कौन हैं और उन्होंने इस पाठ में वनस्पति जगत के बारे में कौन-सा युगांतकारी सत्य उजागर किया है?",
-      "answer": "The essay 'Ped Ki Baat' is written by the renowned Indian scientist and scholar Acharya Jagadish Chandra Bose (J.C. Bose). In this essay, he reveals the groundbreaking scientific truth that trees and plants are not lifeless objects; rather, they possess life, sensitivity, and feelings just like humans and animals. He explains that plants experience hunger, thirst, joy, sorrow, and pain, and they undergo a complete lifecycle from birth to growth and decay.",
-      "answerHi": "'पेड़ की बात' निबंध के लेखक प्रसिद्ध भारतीय वैज्ञानिक एवं आचार्य जगदीश चंद्र बसु (जे.सी. बसु) हैं। इस पाठ में उन्होंने यह युगांतकारी वैज्ञानिक सत्य उजागर किया है कि पेड़-पौधे निर्जीव वस्तुएँ नहीं हैं; बल्कि मनुष्यों और पशु-पक्षियों की तरह उनमें भी जीवन, संवेदनशीलता और भावनाएँ होती हैं। उन्होंने स्पष्ट किया है कि पौधों को भी भूख, प्यास, सुख, दुख और पीड़ा का अनुभव होता है और वे जन्म से लेकर विकास और मृत्यु तक का पूरा जीवन-चक्र जीते हैं।",
-      "keyPoints": [
-        "Author: Acharya Jagadish Chandra Bose / लेखक: आचार्य जगदीश चंद्र बसु",
-        "Plants have life and sensitivity / वनस्पतियों में जीवन और संवेदनशीलता",
-        "Experience hunger, thirst, joy, and sorrow / भूख, प्यास, सुख और दुख का अनुभव",
-        "Complete lifecycle similar to humans / मनुष्यों के समान संपूर्ण जीवन-चक्र"
-      ]
+      "question": "\"पेड़ की बात\" पाठ के लेखक कौन हैं और उन्होंने विज्ञान के क्षेत्र में क्या महत्वपूर्ण खोज की थी?",
+      "questionHi": "\"पेड़ की बात\" पाठ के लेखक कौन हैं और उन्होंने विज्ञान के क्षेत्र में क्या महत्वपूर्ण खोज की थी?",
+      "answer": "इस पाठ के लेखक महान भारतीय वैज्ञानिक सर जगदीश चंद्र बसु हैं। उन्होंने संसार को पहली बार वैज्ञानिक प्रमाणों के साथ यह बताया था कि पेड़-पौधों में भी मनुष्यों की तरह ही जीवन होता है, वे भी सुख-दुःख का अनुभव करते हैं और सोते-जागते हैं।",
+      "answerHi": "इस पाठ के लेखक महान भारतीय वैज्ञानिक सर जगदीश चंद्र बसु हैं। उन्होंने संसार को पहली बार वैज्ञानिक प्रमाणों के साथ यह बताया था कि पेड़-पौधों में भी मनुष्यों की तरह ही जीवन होता है, वे भी सुख-दुःख का अनुभव करते हैं और सोते-जागते हैं।",
+      "keyPoints": []
     },
     {
       "id": "q2",
       "type": "short",
       "marks": 2,
       "difficulty": "Easy",
-      "question": "How does a seed lie dormant in the soil before germination, according to the author?",
-      "questionHi": "लेखक के अनुसार, अंकुरण से पहले एक बीज मिट्टी में किस प्रकार सुप्तावस्था में पड़ा रहता है?",
-      "answer": "According to the author, before germination, a seed lies dormant in the dark soil just like a newborn baby sleeping peacefully in its cradle or wrapped in a blanket. It remains in a state of deep sleep (dormancy) inside the earth, protected by its hard outer shell (seed coat), waiting for favorable environmental conditions to awaken.",
-      "answerHi": "लेखक के अनुसार, अंकुरण से पूर्व एक बीज अंधकारमय मिट्टी के नीचे इस प्रकार सुप्तावस्था में पड़ा रहता है जैसे कोई नवजात शिशु अपने पालने में या कंबल में लिपटकर शांतिपूर्वक सो रहा हो। वह पृथ्वी के गर्भ में गहरी नींद (सुप्तावस्था) में रहता है और अपने सख्त बाहरी कवच (बीजावरण) द्वारा सुरक्षित रहकर अनुकूल पर्यावरणीय परिस्थितियों की प्रतीक्षा करता है।",
-      "keyPoints": [
-        "Dormant state in dark soil / अंधकारमय मिट्टी में सुप्तावस्था",
-        "Compared to a sleeping baby / सोते हुए नवजात शिशु से तुलना",
-        "Protected by hard outer shell (seed coat) / सख्त बाहरी कवच (बीजावरण) द्वारा सुरक्षा",
-        "Waiting for favorable conditions / अनुकूल परिस्थितियों की प्रतीक्षा"
-      ]
+      "question": "लेखक के अनुसार पेड़-पौधों और मनुष्यों के जीवन में क्या मुख्य समानताएँ हैं?",
+      "questionHi": "लेखक के अनुसार पेड़-पौधों और मनुष्यों के जीवन में क्या मुख्य समानताएँ हैं?",
+      "answer": "मनुष्यों की तरह पेड़-पौधों को भी जीवित रहने के लिए आहार (भोजन) और पानी की आवश्यकता होती है। मनुष्यों की भाँति वे भी बचपन में छोटे होते हैं, धीरे-धीरे बढ़ते हैं और समय आने पर मृत्यु को प्राप्त होते हैं।",
+      "answerHi": "मनुष्यों की तरह पेड़-पौधों को भी जीवित रहने के लिए आहार (भोजन) और पानी की आवश्यकता होती है। मनुष्यों की भाँति वे भी बचपन में छोटे होते हैं, धीरे-धीरे बढ़ते हैं और समय आने पर मृत्यु को प्राप्त होते हैं।",
+      "keyPoints": []
     },
     {
       "id": "q3",
       "type": "short",
       "marks": 2,
       "difficulty": "Easy",
-      "question": "What are the three essential environmental conditions required for a sleeping seed to awaken and germinate?",
-      "questionHi": "सोते हुए बीज को जागने और अंकुरित होने के लिए किन तीन आवश्यक पर्यावरणीय परिस्थितियों की आवश्यकता होती है?",
-      "answer": "For a sleeping seed to awaken from its dormancy and initiate germination, three essential environmental conditions are required: adequate moisture (water from rain or soil), warmth (sunlight and favorable temperature), and fresh air (oxygen). When the seed receives these three elements in the right proportion, its life force is activated and it begins to sprout.",
-      "answerHi": "सोते हुए बीज को अपनी सुप्तावस्था से जागने और अंकुरण प्रारंभ करने के लिए तीन आवश्यक पर्यावरणीय परिस्थितियों की आवश्यकता होती है: पर्याप्त नमी (वर्षा या मिट्टी से जल), ऊष्मा या गर्मी (सूर्य का प्रकाश एवं अनुकूल तापमान), और ताजी हवा (ऑक्सीजन)। जब बीज को ये तीनों तत्व सही अनुपात में मिलते हैं, तो उसकी प्राण-शक्ति जाग्रत हो जाती है और वह अंकुरित होने लगता है।",
-      "keyPoints": [
-        "Adequate moisture or water / पर्याप्त नमी या जल",
-        "Warmth and sunlight / ऊष्मा (गर्मी) और सूर्य का प्रकाश",
-        "Fresh air (oxygen) / ताजी हवा (ऑक्सीजन)",
-        "Activation of life force / प्राण-शक्ति का जाग्रत होना"
-      ]
+      "question": "बीज के भीतर जीवन किस अवस्था में रहता है और उसे जागने के लिए किन चीज़ों की आवश्यकता होती है?",
+      "questionHi": "बीज के भीतर जीवन किस अवस्था में रहता है और उसे जागने के लिए किन चीज़ों की आवश्यकता होती है?",
+      "answer": "बीज के भीतर पौधा सुप्तावस्था (सोने की अवस्था) में रहता है, मानो वह गहरी नींद में सोया हो। जब बीज को मिट्टी, उचित मात्रा में पानी (नमी) और सूर्य का प्रकाश (गर्मी) मिलता है, तब उसका जीवन जाग उठता है।",
+      "answerHi": "बीज के भीतर पौधा सुप्तावस्था (सोने की अवस्था) में रहता है, मानो वह गहरी नींद में सोया हो। जब बीज को मिट्टी, उचित मात्रा में पानी (नमी) और सूर्य का प्रकाश (गर्मी) मिलता है, तब उसका जीवन जाग उठता है।",
+      "keyPoints": []
     },
     {
       "id": "q4",
       "type": "short",
       "marks": 2,
-      "difficulty": "Medium",
-      "question": "When a seed germinates, in which two opposite directions do its shoots grow and what are these parts called?",
-      "questionHi": "जब बीज अंकुरित होता है, तो उसके अंकुर किन दो विपरीत दिशाओं में बढ़ते हैं और इन भागों को क्या कहा जाता है?",
-      "answer": "When a seed germinates and its outer shell breaks open, two distinct shoots emerge growing in opposite directions. One part grows downward into the dark depths of the soil, which is called the root (Radicle / जड़). The other part grows upward towards the sunlight and open sky, which develops into the stem and tender leaves (Plumule / तना और पत्तियाँ).",
-      "answerHi": "जब बीज अंकुरित होता है और उसका बाहरी कवच टूटता है, तो दो विपरीत दिशाओं में बढ़ने वाले अंकुर निकलते हैं। एक भाग नीचे अंधकारमय मिट्टी की गहराइयों में बढ़ता है, जिसे 'जड़' (मूल/Radicle) कहा जाता है। दूसरा भाग ऊपर सूर्य के प्रकाश और खुले आकाश की ओर बढ़ता है, जो विकसित होकर 'तना और कोमल पत्तियाँ' (प्ररोह/Plumule) बनता है।",
-      "keyPoints": [
-        "Downward growth into soil: Root (Radicle) / मिट्टी में नीचे की ओर वृद्धि: जड़ (मूल)",
-        "Upward growth toward sky: Stem/Leaves (Plumule) / आकाश की ओर ऊपर की ओर वृद्धि: तना/पत्तियाँ (प्ररोह)",
-        "Rupture of hard seed coat / सख्त बीजावरण का टूटना",
-        "Opposite directional growth / विपरीत दिशाओं में वृद्धि"
-      ]
+      "difficulty": "Easy",
+      "question": "पेड़ के बीज एक स्थान से दूसरे स्थान पर कैसे पहुँचते हैं? कोई दो माध्यम लिखिए।",
+      "questionHi": "पेड़ के बीज एक स्थान से दूसरे स्थान पर कैसे पहुँचते हैं? कोई दो माध्यम लिखिए।",
+      "answer": "पेड़ के बीज खुद चल नहीं सकते, इसलिए वे हवा के झोंकों द्वारा उड़कर, बहते हुए पानी के साथ बहकर, अथवा पक्षियों और जानवरों द्वारा एक स्थान से दूसरे स्थान पर पहुँचाए जाते हैं।",
+      "answerHi": "पेड़ के बीज खुद चल नहीं सकते, इसलिए वे हवा के झोंकों द्वारा उड़कर, बहते हुए पानी के साथ बहकर, अथवा पक्षियों और जानवरों द्वारा एक स्थान से दूसरे स्थान पर पहुँचाए जाते हैं।",
+      "keyPoints": []
     },
     {
       "id": "q5",
       "type": "short",
       "marks": 2,
-      "difficulty": "Medium",
-      "question": "Why did observers in ancient times or casual onlookers mistakenly believe that trees and plants were inanimate or lifeless?",
-      "questionHi": "प्राचीन काल के लोग या सामान्य दर्शक गलतवश ऐसा क्यों मानते थे कि पेड़-पौधे निर्जीव या प्राणहीन होते हैं?",
-      "answer": "In ancient times and during casual observation, people mistakenly believed that trees were lifeless because plants do not walk, run, or move from one place to another like animals and humans. Additionally, their growth, movements, and responses to stimuli occur at an extremely slow pace that is invisible to the naked eye without scientific instruments.",
-      "answerHi": "प्राचीन काल में और सामान्य दृष्टि से देखने पर लोग गलतवश ऐसा मानते थे कि पेड़-पौधे निर्जीव होते हैं क्योंकि वे पशुओं और मनुष्यों की तरह चलकर या दौड़कर एक स्थान से दूसरे स्थान पर नहीं जाते। इसके अतिरिक्त, उनकी वृद्धि, हलचल और संवेदनाओं के प्रति प्रतिक्रिया इतनी धीमी गति से होती है कि बिना वैज्ञानिक उपकरणों के सामान्य आँखों से उन्हें देख पाना असंभव होता है।",
-      "keyPoints": [
-        "Lack of locomotion or physical movement / चलने-फिरने या शारीरिक गति का अभाव",
-        "Extremely slow rate of growth and response / वृद्धि और प्रतिक्रिया की अत्यधिक धीमी गति",
-        "Invisibility of internal processes to naked eye / सामान्य आँखों से आंतरिक प्रक्रियाओं का न दिखना",
-        "Need for scientific instruments to observe life / जीवन देखने के लिए वैज्ञानिक उपकरणों की आवश्यकता"
-      ]
+      "difficulty": "Easy",
+      "question": "पौधे का कौन सा भाग ज़मीन के अंदर जाता है और कौन सा भाग ऊपर की ओर बढ़ता है?",
+      "questionHi": "पौधे का कौन सा भाग ज़मीन के अंदर जाता है और कौन सा भाग ऊपर की ओर बढ़ता है?",
+      "answer": "बीज के अंकुरित होने पर उसका निचला हिस्सा, जिसे जड़ कहते हैं, प्रकाश से दूर ज़मीन के अंदर गहराई की ओर जाता है। उसका ऊपरी हिस्सा, जिसे तना या अंकुर कहते हैं, प्रकाश की खोज में ऊपर आसमान की ओर बढ़ता है।",
+      "answerHi": "बीज के अंकुरित होने पर उसका निचला हिस्सा, जिसे जड़ कहते हैं, प्रकाश से दूर ज़मीन के अंदर गहराई की ओर जाता है। उसका ऊपरी हिस्सा, जिसे तना या अंकुर कहते हैं, प्रकाश की खोज में ऊपर आसमान की ओर बढ़ता है।",
+      "keyPoints": []
     },
     {
       "id": "q6",
       "type": "short",
       "marks": 2,
-      "difficulty": "Medium",
-      "question": "How do the roots of a tree function like tiny sponges or mouths to absorb nourishment from the soil?",
-      "questionHi": "पेड़ की जड़ें मिट्टी से पोषण अवशोषित करने के लिए छोटे स्पंज या मुख की तरह कैसे कार्य करती हैं?",
-      "answer": "The roots of a tree spread deep and wide into the soil, covered with thousands of microscopic root hairs. These root hairs function like tiny sponges or thousands of drinking mouths that continuously absorb underground water and dissolved mineral salts. This liquid nourishment is then pumped upward through the trunk to feed the entire tree.",
-      "answerHi": "पेड़ की जड़ें मिट्टी के भीतर गहराई और चौड़ाई में फैल जाती हैं, जिन पर हजारों सूक्ष्म मूल-रोम (root hairs) होते हैं। ये मूल-रोम छोटे स्पंज या हजारों पीने वाले मुखों की तरह कार्य करते हैं जो लगातार भूमिगत जल और उसमें घुले खनिज लवणों को अवशोषित करते हैं। इस तरल पोषण को फिर तने के माध्यम से ऊपर भेजा जाता है जिससे पूरे पेड़ को भोजन मिलता है।",
-      "keyPoints": [
-        "Microscopic root hairs act as tiny mouths / सूक्ष्म मूल-रोम छोटे मुखों की तरह कार्य करते हैं",
-        "Continuous absorption of water and minerals / जल और खनिज लवणों का निरंतर अवशोषण",
-        "Function like sponges in the deep soil / गहरी मिट्टी में स्पंज के समान कार्य",
-        "Upward conduction of sap to feed the tree / पेड़ को पोषण देने के लिए रस का ऊपर प्रवाह"
-      ]
+      "difficulty": "Easy",
+      "question": "पेड़-पौधों के लिए मिट्टी और पानी का क्या महत्व है?",
+      "questionHi": "पेड़-पौधों के लिए मिट्टी और पानी का क्या महत्व है?",
+      "answer": "मिट्टी पौधों को सीधा खड़े रहने के लिए मजबूत आधार देती है। जड़ें मिट्टी के अंदर से पानी और ज़रूरी खनिज लवणों को सोखकर पेड़ के पत्तों तक पहुँचाती हैं, जिससे पेड़ का पोषण होता है।",
+      "answerHi": "मिट्टी पौधों को सीधा खड़े रहने के लिए मजबूत आधार देती है। जड़ें मिट्टी के अंदर से पानी और ज़रूरी खनिज लवणों को सोखकर पेड़ के पत्तों तक पहुँचाती हैं, जिससे पेड़ का पोषण होता है।",
+      "keyPoints": []
     },
     {
       "id": "q7",
       "type": "short",
       "marks": 2,
       "difficulty": "Easy",
-      "question": "What vital role do green leaves play as the 'kitchens' of a tree in sustaining plant life?",
-      "questionHi": "पेड़ के 'रसोईघर' के रूप में हरी पत्तियाँ वनस्पति जीवन को बनाए रखने में क्या महत्वपूर्ण भूमिका निभाती हैं?",
-      "answer": "Green leaves act as the natural kitchens of a tree. They contain a green pigment called chlorophyll and utilize sunlight, carbon dioxide from the air, and water sent up by the roots to synthesize nutritious food through the process of photosynthesis. This food sustains the growth, energy, and vitality of the entire plant.",
-      "answerHi": "हरी पत्तियाँ पेड़ के प्राकृतिक रसोईघर के रूप में कार्य करती हैं। उनमें क्लोरोफिल नामक हरा पदार्थ होता है और वे सूर्य के प्रकाश, हवा से कार्बन डाइऑक्साइड तथा जड़ों द्वारा भेजे गए जल का उपयोग करके 'प्रकाश-संश्लेषण' (photosynthesis) की प्रक्रिया द्वारा पौष्टिक भोजन का निर्माण करती हैं। यह भोजन पूरे पौधे की वृद्धि, ऊर्जा और जीवंतता को बनाए रखता है।",
-      "keyPoints": [
-        "Leaves act as natural kitchens / पत्तियाँ प्राकृतिक रसोईघर के रूप में कार्य करती हैं",
-        "Use sunlight, air, and water for photosynthesis / प्रकाश-संश्लेषण के लिए सूर्य प्रकाश, हवा और जल का उपयोग",
-        "Presence of green pigment (chlorophyll) / हरित लवक (क्लोरोफिल) की उपस्थिति",
-        "Production of food for overall growth / संपूर्ण विकास के लिए भोजन का निर्माण"
-      ]
+      "question": "पेड़ अपना भोजन कैसे बनाते हैं? इस प्रक्रिया को वैज्ञानिक भाषा में क्या कहते हैं?",
+      "questionHi": "पेड़ अपना भोजन कैसे बनाते हैं? इस प्रक्रिया को वैज्ञानिक भाषा में क्या कहते हैं?",
+      "answer": "पेड़ अपनी हरी पत्तियों की सहायता से, सूर्य के प्रकाश और हवा (कार्बन डाइऑक्साइड) की उपस्थिति में जड़ों द्वारा भेजे गए पानी से अपना भोजन बनाते हैं। इस प्रक्रिया को 'प्रकाश-संश्लेषण' (Photosynthesis) कहते हैं।",
+      "answerHi": "पेड़ अपनी हरी पत्तियों की सहायता से, सूर्य के प्रकाश और हवा (कार्बन डाइऑक्साइड) की उपस्थिति में जड़ों द्वारा भेजे गए पानी से अपना भोजन बनाते हैं। इस प्रक्रिया को 'प्रकाश-संश्लेषण' (Photosynthesis) कहते हैं।",
+      "keyPoints": []
     },
     {
       "id": "q8",
       "type": "short",
       "marks": 2,
-      "difficulty": "Medium",
-      "question": "Give a vivid example from the essay or plant kingdom demonstrating that plants possess sensitivity and react to physical touch.",
-      "questionHi": "निबंध या वनस्पति जगत से एक जीवंत उदाहरण दीजिए जो यह दर्शाता हो कि पौधों में संवेदनशीलता होती है और वे स्पर्श के प्रति प्रतिक्रिया करते हैं।",
-      "answer": "A vivid example demonstrating plant sensitivity is the 'Touch-me-not' plant (Lajwanti / Chhui-mui / Mimosa pudica). When a human finger or any object gently touches its leaves, the plant immediately senses the contact and droops or folds its leaves inward as a protective nervous reflex, proving that plants possess tactile sensitivity.",
-      "answerHi": "पौधों की संवेदनशीलता को दर्शाने वाला एक जीवंत उदाहरण 'छुईमुई' (लजवंती / Mimosa pudica) का पौधा है। जब कोई मानव उँगली या कोई वस्तु उसकी पत्तियों को धीरे से छूती है, तो पौधा तुरंत स्पर्श को महसूस कर लेता है और सुरक्षात्मक तंत्रिका प्रतिक्रिया के रूप में अपनी पत्तियों को सिकोड़कर झुका लेता है, जिससे सिद्ध होता है कि पौधों में स्पर्श संवेदनशीलता होती है।",
-      "keyPoints": [
-        "Example of Touch-me-not (Chhui-mui) plant / छुईमुई (लजवंती) के पौधे का उदाहरण",
-        "Immediate folding of leaves upon touch / स्पर्श करते ही पत्तियों का तुरंत सिकुड़ना",
-        "Demonstrates tactile sensitivity and nervous reflex / स्पर्श संवेदनशीलता और तंत्रिका प्रतिक्रिया का प्रदर्शन",
-        "Protective response against external stimuli / बाहरी उद्दीपनों के प्रति सुरक्षात्मक प्रतिक्रिया"
-      ]
+      "difficulty": "Easy",
+      "question": "वर्षा लाने में पेड़ किस प्रकार सहायक होते हैं?",
+      "questionHi": "वर्षा लाने में पेड़ किस प्रकार सहायक होते हैं?",
+      "answer": "पेड़ जड़ों द्वारा सोखे गए अतिरिक्त पानी को अपनी पत्तियों के माध्यम से वाष्प (भाप) बनाकर हवा में छोड़ते हैं। यह वाष्प ऊपर जाकर बादल बनती है, जिससे वर्षा होती है। इसलिए जहाँ अधिक पेड़ होते हैं, वहाँ अच्छी वर्षा होती है।",
+      "answerHi": "पेड़ जड़ों द्वारा सोखे गए अतिरिक्त पानी को अपनी पत्तियों के माध्यम से वाष्प (भाप) बनाकर हवा में छोड़ते हैं। यह वाष्प ऊपर जाकर बादल बनती है, जिससे वर्षा होती है। इसलिए जहाँ अधिक पेड़ होते हैं, वहाँ अच्छी वर्षा होती है।",
+      "keyPoints": []
     },
     {
       "id": "q9",
       "type": "short",
       "marks": 2,
-      "difficulty": "Medium",
-      "question": "How do trees visibly express difference in emotions when provided with favorable conditions versus extreme drought or injury?",
-      "questionHi": "अनुकूल परिस्थितियाँ मिलने पर और अत्यधिक सूखा या चोट लगने पर पेड़ अपने भावों में अंतर को किस प्रकार स्पष्ट रूप से व्यक्त करते हैं?",
-      "answer": "When trees receive favorable conditions like bright sunlight, fresh air, and abundant water, they express joy and vigor by stand erect with fresh, green, blooming leaves and flowers. Conversely, during extreme drought, harsh cold, or when physically injured, they express sorrow, fatigue, and pain by wilting, drooping their leaves, and drying up.",
-      "answerHi": "जब पेड़ों को पर्याप्त सूर्य का प्रकाश, ताजी हवा और प्रचुर जल जैसी अनुकूल परिस्थितियाँ मिलती हैं, तो वे अपनी प्रसन्नता और स्फूर्ति को हरी-भरी, खिली हुई पत्तियों और फूलों के साथ तने हुए खड़े रहकर व्यक्त करते हैं। इसके विपरीत, अत्यधिक सूखे, भीषण ठंड या शारीरिक चोट लगने पर वे अपनी दुख, थकान और पीड़ा को मुरझाकर, पत्तियाँ झुकाकर और सूखकर प्रकट करते हैं।",
-      "keyPoints": [
-        "Joy and vigor in sunlight and water: blooming leaves / प्रकाश और जल में हर्ष व स्फूर्ति: खिली हुई पत्तियाँ",
-        "Sorrow and pain in drought or injury: wilting and drooping / सूखे या चोट में दुख व पीड़ा: मुरझाना और झुकना",
-        "Visible physiological changes reflect emotions / स्पष्ट शारीरिक बदलाव भावनाओं को दर्शाते हैं",
-        "Sensitivity to environmental stress / पर्यावरणीय तनाव के प्रति संवेदनशीलता"
-      ]
+      "difficulty": "Easy",
+      "question": "लेखक ने बीजों को \"अद्भुत संदूक\" क्यों कहा है?",
+      "questionHi": "लेखक ने बीजों को \"अद्भुत संदूक\" क्यों कहा है?",
+      "answer": "लेखक ने बीजों को \"अद्भुत संदूक\" इसलिए कहा है क्योंकि एक बहुत छोटे और कठोर दिखने वाले बीज के भीतर एक विशाल पेड़ का पूरा जीवन और उसकी भावी शाखाएँ, पत्तियाँ व फल बहुत सुरक्षित ढंग से छिपे रहते हैं।",
+      "answerHi": "लेखक ने बीजों को \"अद्भुत संदूक\" इसलिए कहा है क्योंकि एक बहुत छोटे और कठोर दिखने वाले बीज के भीतर एक विशाल पेड़ का पूरा जीवन और उसकी भावी शाखाएँ, पत्तियाँ व फल बहुत सुरक्षित ढंग से छिपे रहते हैं।",
+      "keyPoints": []
     },
     {
       "id": "q10",
       "type": "short",
       "marks": 2,
       "difficulty": "Easy",
-      "question": "Why does J.C. Bose compare the hard seed coat to a protective blanket or armor for the baby plant?",
-      "questionHi": "जे.सी. बसु सख्त बीजावरण (बीज के छिलके) की तुलना नन्हे पौधे के लिए सुरक्षात्मक कंबल या कवच से क्यों करते हैं?",
-      "answer": "J.C. Bose compares the hard seed coat to a protective blanket or armor because the delicate embryo (baby plant) inside is extremely fragile. Just as a blanket or armor protects a baby from harsh cold, heat, physical shocks, and external injuries, the tough seed coat safely shields the dormant embryo in the soil until germination occurs.",
-      "answerHi": "जे.सी. बसु सख्त बीजावरण की तुलना सुरक्षात्मक कंबल या कवच से इसलिए करते हैं क्योंकि बीज के भीतर मौजूद नन्हा भ्रूण (शिशु पौधा) अत्यधिक कोमल और नाजुक होता है। जिस प्रकार एक कंबल या कवच शिशु को भीषण सर्दी, गर्मी, शारीरिक आघातों और बाहरी चोटों से बचाता है, उसी प्रकार कठोर बीजावरण मिट्टी के भीतर सुप्त भ्रूण को अंकुरण होने तक सुरक्षित रखता है।",
-      "keyPoints": [
-        "Delicate embryo inside needs shielding / भीतर मौजूद नाजुक भ्रूण को सुरक्षा की आवश्यकता",
-        "Protection from harsh heat, cold, and shocks / भीषण गर्मी, सर्दी और आघातों से सुरक्षा",
-        "Acts like a warm protective blanket or armor / गर्म सुरक्षात्मक कंबल या कवच की तरह कार्य",
-        "Ensures survival during dormancy / सुप्तावस्था के दौरान जीवित रहना सुनिश्चित करना"
-      ]
+      "question": "इस पाठ से हमें पर्यावरण के प्रति किस प्रकार के दृष्टिकोण को अपनाने की प्रेरणा मिलती है?",
+      "questionHi": "इस पाठ से हमें पर्यावरण के प्रति किस प्रकार के दृष्टिकोण को अपनाने की प्रेरणा मिलती है?",
+      "answer": "इस पाठ से हमें यह प्रेरणा मिलती है कि हम पेड़-पौधों को बेजान न समझें, बल्कि उन्हें अपने ही समान जीवित प्राणी मानकर उनके प्रति संवेदनशीलता, दया और संरक्षण का दृष्टिकोण अपनाएँ।",
+      "answerHi": "इस पाठ से हमें यह प्रेरणा मिलती है कि हम पेड़-पौधों को बेजान न समझें, बल्कि उन्हें अपने ही समान जीवित प्राणी मानकर उनके प्रति संवेदनशीलता, दया और संरक्षण का दृष्टिकोण अपनाएँ।",
+      "keyPoints": []
     },
     {
       "id": "q11",
       "type": "short",
       "marks": 3,
       "difficulty": "Medium",
-      "question": "Explain the step-by-step physiological process of seed germination as described by Jagadish Chandra Bose in the essay.",
-      "questionHi": "निबंध में जगदीश चंद्र बसु द्वारा वर्णित बीज के अंकुरण की क्रमिक शारीरिक प्रक्रिया की व्याख्या कीजिए।",
-      "answer": "The step-by-step process of seed germination begins when a dormant seed in the soil absorbs moisture from rain or earth along with warmth from the sun. The absorbed water causes the inner embryo to swell, exerting outward pressure that ruptures the hard seed coat. First, the radicle (root shoot) emerges and grows downward into the earth to secure anchorage and absorb minerals. Following this, the plumule (stem shoot) pushes upward through the soil towards the sunlight, unfolding its tiny green leaves to begin independent photosynthesis.",
-      "answerHi": "बीज के अंकुरण की क्रमिक प्रक्रिया तब प्रारंभ होती है जब मिट्टी में पड़ा सुप्त बीज वर्षा या भूमि से नमी और सूर्य से ऊष्मा अवशोषित करता है। अवशोषित जल से भीतरी भ्रूण फूलने लगता है, जिससे बाहर की ओर दबाव पड़ता है और कठोर बीजावरण फट जाता है। सर्वप्रथम, मूलांकुर (जड़) बाहर निकलता है और जमीन में मजबूती से टिकने तथा खनिज सोखने के लिए नीचे की ओर बढ़ता है। इसके पश्चात, प्रांकुर (तना) मिट्टी को भेदकर ऊपर सूर्य के प्रकाश की ओर बढ़ता है और स्वतंत्र प्रकाश-संश्लेषण हेतु अपनी नन्ही हरी पत्तियाँ खोल देता है।",
-      "keyPoints": [
-        "Absorption of water and warmth causes embryo swelling / जल और ऊष्मा के अवशोषण से भ्रूण का फूलना",
-        "Rupture of the hard seed coat due to internal pressure / आंतरिक दबाव के कारण कठोर बीजावरण का फटना",
-        "Radicle grows downward for anchorage and absorption / मजबूती और अवशोषण के लिए मूलांकुर का नीचे बढ़ना",
-        "Plumule grows upward toward sunlight to form leaves / पत्तियों के निर्माण हेतु प्रांकुर का प्रकाश की ओर ऊपर बढ़ना"
-      ]
+      "question": "\"पेड़-पौधे हमारी तरह ही खाते-पीते हैं, परंतु उनका खाने का ढंग थोड़ा अलग है।\" लेखक के इस कथन को स्पष्ट कीजिए।",
+      "questionHi": "\"पेड़-पौधे हमारी तरह ही खाते-पीते हैं, परंतु उनका खाने का ढंग थोड़ा अलग है।\" लेखक के इस कथन को स्पष्ट कीजिए।",
+      "answer": "लेखक समझाते हैं कि मनुष्य और पशु अपने मुँह से ठोस या तरल भोजन ग्रहण करते हैं। इसके विपरीत, पेड़ों का मुँह उनकी जड़ों में होता है। जड़ें मिट्टी से केवल तरल रूप में (पानी में घुले हुए पोषक तत्व) भोजन सोखती हैं। यदि आप किसी पौधे की जड़ में केवल सूखा पाउडर या खाद डाल देंगे, तो वह उसे नहीं खा पाएगा। जब तक उसमें पानी नहीं मिलाया जाएगा, पेड़ भूखा ही रहेगा। इसलिए उनका भोजन पूरी तरह तरल और सोखने की प्रक्रिया पर आधारित होता है।",
+      "answerHi": "लेखक समझाते हैं कि मनुष्य और पशु अपने मुँह से ठोस या तरल भोजन ग्रहण करते हैं। इसके विपरीत, पेड़ों का मुँह उनकी जड़ों में होता है। जड़ें मिट्टी से केवल तरल रूप में (पानी में घुले हुए पोषक तत्व) भोजन सोखती हैं। यदि आप किसी पौधे की जड़ में केवल सूखा पाउडर या खाद डाल देंगे, तो वह उसे नहीं खा पाएगा। जब तक उसमें पानी नहीं मिलाया जाएगा, पेड़ भूखा ही रहेगा। इसलिए उनका भोजन पूरी तरह तरल और सोखने की प्रक्रिया पर आधारित होता है।",
+      "keyPoints": []
     },
     {
       "id": "q12",
       "type": "short",
       "marks": 3,
-      "difficulty": "Hard",
-      "question": "How did Jagadish Chandra Bose scientifically prove to the world that plants possess a nervous system and experience emotional states?",
-      "questionHi": "जगदीश चंद्र बसु ने दुनिया के सामने वैज्ञानिक रूप से कैसे सिद्ध किया कि पौधों में भी स्नायु तंत्र (नाड़ी तंत्र) होता है और वे भावनात्मक अवस्थाओं का अनुभव करते हैं?",
-      "answer": "Jagadish Chandra Bose scientifically proved that plants have life and a nervous system by inventing ultra-sensitive scientific instruments, most notably the 'Crescograph'. This apparatus magnified plant movements and growth by up to 10,000 times. Through rigorous experiments, he demonstrated that plants exhibit electrical pulsations similar to animal nervous systems and show measurable reactions of joy, fatigue, excitement, and distress when exposed to stimuli such as light, chemicals, physical injuries, or poisons.",
-      "answerHi": "जगदीश चंद्र बसु ने अति-संवेदनशील वैज्ञानिक उपकरणों, विशेष रूप से 'क्रेसकोग्राफ' (Crescograph) का आविष्कार करके वैज्ञानिक रूप से सिद्ध किया कि पौधों में भी जीवन और स्नायु तंत्र होता है। यह यंत्र पौधों की सूक्ष्म हलचलों और वृद्धि को 10,000 गुना तक बड़ा करके दिखाता था। गहन प्रयोगों के माध्यम से, उन्होंने दिखाया कि पौधों में पशुओं के नाड़ी तंत्र जैसी विद्युतीय स्पंदन (pulsations) होती हैं और वे प्रकाश, रसायनों, शारीरिक चोटों या विष जैसे उद्दीपनों के संपर्क में आने पर हर्ष, थकान, उत्तेजना और कष्ट की मापनीय प्रतिक्रियाएँ दर्शाते हैं।",
-      "keyPoints": [
-        "Invention of ultra-sensitive instrument: Crescograph / अति-संवेदनशील यंत्र 'क्रेसकोग्राफ' का आविष्कार",
-        "Magnification of plant movements by 10,000 times / पौधों की हलचलों को 10,000 गुना बड़ा करके दिखाना",
-        "Demonstrated electrical pulsations like animal nerves / पशुओं के नाड़ी तंत्र जैसी विद्युतीय स्पंदन का प्रदर्शन",
-        "Measurable reactions to light, injury, chemicals, and poison / प्रकाश, चोट, रसायन और विष के प्रति मापनीय प्रतिक्रिया"
-      ]
+      "difficulty": "Medium",
+      "question": "अंकुरित होते समय पौधा किस प्रकार अपनी बुद्धिमत्ता और दिशा का चुनाव करता है?",
+      "questionHi": "अंकुरित होते समय पौधा किस प्रकार अपनी बुद्धिमत्ता और दिशा का चुनाव करता है?",
+      "answer": "जब एक अंधकारमयी मिट्टी के नीचे बीज अंकुरित होता है, तो वह बिना किसी गाइड के अपनी सही दिशा चुन लेता है। पौधे की जड़ें हमेशा नीचे अंधेरे और पानी की खोज में ज़मीन के भीतर जाती हैं, चाहे बीज को किसी भी करवट बोया गया हो। वहीं उसका तना हमेशा ऊपर उजाले और हवा की तरफ बढ़ता है। यदि हम किसी गमले को उल्टा या आड़ा भी रख दें, तो भी कुछ दिनों बाद तना घूमकर ऊपर की ओर और जड़ें नीचे की ओर ही बढ़ेंगी, जो उनकी प्राकृतिक बुद्धिमत्ता को दर्शाता है।",
+      "answerHi": "जब एक अंधकारमयी मिट्टी के नीचे बीज अंकुरित होता है, तो वह बिना किसी गाइड के अपनी सही दिशा चुन लेता है। पौधे की जड़ें हमेशा नीचे अंधेरे और पानी की खोज में ज़मीन के भीतर जाती हैं, चाहे बीज को किसी भी करवट बोया गया हो। वहीं उसका तना हमेशा ऊपर उजाले और हवा की तरफ बढ़ता है। यदि हम किसी गमले को उल्टा या आड़ा भी रख दें, तो भी कुछ दिनों बाद तना घूमकर ऊपर की ओर और जड़ें नीचे की ओर ही बढ़ेंगी, जो उनकी प्राकृतिक बुद्धिमत्ता को दर्शाता है।",
+      "keyPoints": []
     },
     {
       "id": "q13",
       "type": "short",
       "marks": 3,
       "difficulty": "Medium",
-      "question": "Describe the critical dual function of roots in ensuring both the physical stability and nutritional survival of a tree.",
-      "questionHi": "पेड़ की शारीरिक मजबूती और पोषण संबंधी उत्तरजीविता दोनों को सुनिश्चित करने में जड़ों के महत्वपूर्ण दोहरे कार्य का वर्णन कीजिए।",
-      "answer": "Roots perform a critical dual function for a tree's survival. First, they provide mechanical stability and anchorage by penetrating deep and spreading widely into the soil, gripping the earth firmly like strong anchors so that massive trees can withstand violent storms and high winds without toppling. Second, they fulfill a nutritional function; their countless microscopic root hairs act as pumps that continuously suck up groundwater and dissolved essential minerals, sending this sap up through the trunk to nourish the entire plant.",
-      "answerHi": "जड़ें पेड़ के जीवित रहने के लिए एक महत्वपूर्ण दोहरा कार्य करती हैं। पहला, वे शारीरिक मजबूती और स्थायित्व प्रदान करती हैं; वे मिट्टी में गहराई तक जाकर और चौड़ाई में फैलकर पृथ्वी को मजबूत लंगरों की तरह जकड़ लेती हैं, जिससे विशाल पेड़ भयंकर तूफानों और तेज हवाओं में भी बिना गिरे खड़े रहते हैं। दूसरा, वे पोषण संबंधी कार्य करती हैं; उनके अनगिनत सूक्ष्म मूल-रोम पंप की तरह कार्य करते हैं जो लगातार भूमिगत जल और उसमें घुले आवश्यक खनिजों को सोखते हैं और इस रस को तने के रास्ते ऊपर भेजकर पूरे पौधे को पोषण देते हैं।",
-      "keyPoints": [
-        "Mechanical stability: Deep anchorage against storms / शारीरिक मजबूती: तूफानों के विरुद्ध गहरा ठहराव (लंगर)",
-        "Firm grip on soil prevents toppling / मिट्टी पर मजबूत पकड़ पेड़ को गिरने से बचाती है",
-        "Nutritional function: Absorption of groundwater and minerals / पोषण कार्य: भूमिगत जल और खनिजों का अवशोषण",
-        "Continuous upward pumping of sap to feed leaves / पत्तियों को पोषण देने के लिए रस का निरंतर ऊपर पंप करना"
-      ]
+      "question": "पेड़-पौधों में भी भावनाएँ और संवेदनशीलता होती है, इसे हम अपने दैनिक जीवन में कैसे देख सकते हैं?",
+      "questionHi": "पेड़-पौधों में भी भावनाएँ और संवेदनशीलता होती है, इसे हम अपने दैनिक जीवन में कैसे देख सकते हैं?",
+      "answer": "हम अपने दैनिक जीवन में पेड़-पौधों की संवेदनशीलता को आसानी से महसूस कर सकते हैं। उदाहरण के लिए, 'छुईमुई' (Touch-me-not) के पौधे को छूते ही उसकी पत्तियाँ आपस में सिकुड़ कर बंद हो जाती हैं, मानो वह शर्मा या डर गई हो। कई पौधे सूर्य के प्रकाश की दिशा में ही मुड़ जाते हैं (जैसे सूरजमुखी)। यदि हम किसी पौधे को नियमित रूप से प्यार और पानी दें, तो वह तेजी से फलता-फूलता है, और यदि उसे प्रताड़ित किया जाए या कंक्रीट के बीच दबा दिया जाए, तो वह मुरझा जाता है।",
+      "answerHi": "हम अपने दैनिक जीवन में पेड़-पौधों की संवेदनशीलता को आसानी से महसूस कर सकते हैं। उदाहरण के लिए, 'छुईमुई' (Touch-me-not) के पौधे को छूते ही उसकी पत्तियाँ आपस में सिकुड़ कर बंद हो जाती हैं, मानो वह शर्मा या डर गई हो। कई पौधे सूर्य के प्रकाश की दिशा में ही मुड़ जाते हैं (जैसे सूरजमुखी)। यदि हम किसी पौधे को नियमित रूप से प्यार और पानी दें, तो वह तेजी से फलता-फूलता है, और यदि उसे प्रताड़ित किया जाए या कंक्रीट के बीच दबा दिया जाए, तो वह मुरझा जाता है।",
+      "keyPoints": []
     },
     {
       "id": "q14",
       "type": "short",
       "marks": 3,
-      "difficulty": "Hard",
-      "question": "What is the supreme importance of sunlight in a tree's life, and how do trees in a dense forest silently compete to obtain it?",
-      "questionHi": "पेड़ के जीवन में सूर्य के प्रकाश का सर्वोच्च महत्त्व क्या है, और घने जंगल में पेड़ इसे पाने के लिए किस प्रकार मौन प्रतिस्पर्धा करते हैं?",
-      "answer": "Sunlight is of supreme importance to a tree because it is the primary source of energy required for photosynthesis, without which leaves cannot cook food, leading to the tree's starvation and death. In a dense forest, where many plants grow close together, there is a fierce yet silent competition for sunlight. Trees adapt by growing taller and taller, pushing their trunks upward and spreading their top branches wide into the canopy to capture the maximum life-giving rays of the sun, overshadowing weaker plants.",
-      "answerHi": "पेड़ के जीवन में सूर्य के प्रकाश का सर्वोच्च महत्त्व इसलिए है क्योंकि यह प्रकाश-संश्लेषण के लिए आवश्यक ऊर्जा का प्राथमिक स्रोत है, जिसके बिना पत्तियाँ भोजन नहीं बना सकतीं और पेड़ भूख से सूखकर मर सकता है। घने जंगल में, जहाँ अनेक पौधे एक साथ पास-पास उगते हैं, सूर्य का प्रकाश पाने के लिए एक तीव्र किंतु मौन प्रतिस्पर्धा होती है। पेड़ अपने तनों को ऊपर की ओर तेजी से बढ़ाकर और अपनी ऊपरी शाखाओं को छतरी की तरह फैलाकर अधिक से अधिक जीवनदायी धूप पाने का प्रयास करते हैं, जिससे कमजोर पौधे नीचे छांव में रह जाते हैं।",
-      "keyPoints": [
-        "Sunlight is vital energy source for photosynthesis / सूर्य प्रकाश प्रकाश-संश्लेषण हेतु परम आवश्यक ऊर्जा स्रोत है",
-        "Without light, food production stops leading to death / प्रकाश के बिना भोजन निर्माण बंद होने से मृत्यु का खतरा",
-        "Silent competition in dense forests for sun rays / घने जंगलों में सूर्य की किरणों के लिए मौन प्रतिस्पर्धा",
-        "Upward growth and spreading canopy to capture light / प्रकाश पाने के लिए ऊपर की ओर वृद्धि और शाखाओं का फैलाव"
-      ]
+      "difficulty": "Medium",
+      "question": "बीजों के बिखरने या दूर-दूर तक फैलने की प्रक्रिया प्रकृति के संतुलन के लिए क्यों आवश्यक है?",
+      "questionHi": "बीजों के बिखरने या दूर-दूर तक फैलने की प्रक्रिया प्रकृति के संतुलन के लिए क्यों आवश्यक है?",
+      "answer": "यदि किसी पेड़ के सभी बीज उसी पेड़ के ठीक नीचे गिर जाएँ, तो वे कभी भी बड़े पौधे नहीं बन पाएंगे। एक ही स्थान पर बहुत सारे बीज होने के कारण उन्हें पर्याप्त मात्रा में मिट्टी, पानी, धूप और हवा नहीं मिल पाएगी और वे आपस में प्रतिस्पर्धा करके नष्ट हो जाएंगे। इसलिए प्रकृति ने हवा, पानी और जीव-जंतुओं के माध्यम से बीजों को दूर-दूर फैलाने की व्यवस्था की है ताकि वे नई जगहों पर आज़ादी से उग सकें और पृथ्वी हरी-भरी बनी रहे।",
+      "answerHi": "यदि किसी पेड़ के सभी बीज उसी पेड़ के ठीक नीचे गिर जाएँ, तो वे कभी भी बड़े पौधे नहीं बन पाएंगे। एक ही स्थान पर बहुत सारे बीज होने के कारण उन्हें पर्याप्त मात्रा में मिट्टी, पानी, धूप और हवा नहीं मिल पाएगी और वे आपस में प्रतिस्पर्धा करके नष्ट हो जाएंगे। इसलिए प्रकृति ने हवा, पानी और जीव-जंतुओं के माध्यम से बीजों को दूर-दूर फैलाने की व्यवस्था की है ताकि वे नई जगहों पर आज़ादी से उग सकें और पृथ्वी हरी-भरी बनी रहे।",
+      "keyPoints": []
     },
     {
       "id": "q15",
       "type": "short",
       "marks": 3,
       "difficulty": "Medium",
-      "question": "Compare and contrast the feeding and digestive mechanisms of trees with those of animals and humans as highlighted in the essay.",
-      "questionHi": "निबंध में दर्शाए गए अनुसार पेड़ों की भोजन ग्रहण करने और पाचन करने की प्रणाली की तुलना पशुओं और मनुष्यों से कीजिए।",
-      "answer": "While humans and animals ingest solid and complex organic foods through a single mouth and digest them in an internal stomach, trees have a very different mechanism. Trees are autotrophs (producers) that absorb simple inorganic raw materials: roots drink water and dissolved minerals from the soil like thousands of microscopic mouths, while green leaves absorb carbon dioxide from the air. Instead of an internal stomach, the green leaves act as external open-air kitchens that synthesize food using sunlight through photosynthesis.",
-      "answerHi": "जहाँ मनुष्य और पशु एक मुख के माध्यम से ठोस और जटिल कार्बनिक भोजन ग्रहण करते हैं और उसे आंतरिक आमाशय (पेट) में पचाते हैं, वहीं पेड़ों की भोजन प्रणाली इससे सर्वथा भिन्न होती है। पेड़ स्वपोषी (उत्पादक) होते हैं जो सरल अकार्बनिक कच्चे माल को ग्रहण करते हैं: जड़ें हजारों सूक्ष्म मुखों की तरह मिट्टी से जल और घुले खनिज पीती हैं, जबकि हरी पत्तियाँ हवा से कार्बन डाइऑक्साइड सोखती हैं। आंतरिक पेट के बजाय, हरी पत्तियाँ खुले आकाश में रसोईघर की तरह कार्य करती हैं जो सूर्य के प्रकाश की मदद से प्रकाश-संश्लेषण द्वारा भोजन बनाती हैं।",
-      "keyPoints": [
-        "Animals ingest solid food via one mouth into a stomach / प्राणी एक मुख से ठोस भोजन लेकर पेट में पचाते हैं",
-        "Trees absorb inorganic materials via thousands of root hairs / पेड़ हजारों मूल-रोमों द्वारा अकार्बनिक तत्व सोखते हैं",
-        "Leaves absorb CO2 from air and act as kitchens / पत्तियाँ हवा से CO2 सोखती हैं और रसोईघर का काम करती हैं",
-        "Autotrophic food synthesis via sunlight (photosynthesis) / सूर्य प्रकाश से स्वपोषी भोजन निर्माण (प्रकाश-संश्लेषण)"
-      ]
+      "question": "\"पेड़ हमारे सच्चे मित्र और रक्षक हैं।\" पाठ के आधार पर तीन तर्कों द्वारा इस कथन की पुष्टि कीजिए।",
+      "questionHi": "\"पेड़ हमारे सच्चे मित्र और रक्षक हैं।\" पाठ के आधार पर तीन तर्कों द्वारा इस कथन की पुष्टि कीजिए।",
+      "answer": "पेड़ निम्नलिखित कारणों से हमारे सच्चे मित्र और रक्षक हैं:\n\n1. वे हमें सांस लेने के लिए प्राणवायु (ऑक्सीजन) देते हैं और हमारे द्वारा छोड़ी गई दूषित हवा (कार्बन डाइऑक्साइड) को खुद ग्रहण कर लेते हैं।\n2. वे अपनी जड़ों से मिट्टी को बांधकर रखते हैं, जिससे भूमि का कटाव (Soil Erosion) और भयंकर बाढ़ जैसी आपदाएँ रुकती हैं।\n3. वे हमें मीठे फल, छाया, लकड़ियाँ और औषधियाँ प्रदान करके बिना किसी स्वार्थ के मानव जीवन का भरण-पोषण करते हैं।",
+      "answerHi": "पेड़ निम्नलिखित कारणों से हमारे सच्चे मित्र और रक्षक हैं:\n\n1. वे हमें सांस लेने के लिए प्राणवायु (ऑक्सीजन) देते हैं और हमारे द्वारा छोड़ी गई दूषित हवा (कार्बन डाइऑक्साइड) को खुद ग्रहण कर लेते हैं।\n2. वे अपनी जड़ों से मिट्टी को बांधकर रखते हैं, जिससे भूमि का कटाव (Soil Erosion) और भयंकर बाढ़ जैसी आपदाएँ रुकती हैं।\n3. वे हमें मीठे फल, छाया, लकड़ियाँ और औषधियाँ प्रदान करके बिना किसी स्वार्थ के मानव जीवन का भरण-पोषण करते हैं।",
+      "keyPoints": []
     },
     {
       "id": "q16",
       "type": "short",
       "marks": 3,
       "difficulty": "Medium",
-      "question": "Explain how the lifecycle of a tree guarantees the immortality and continuity of its species across generations.",
-      "questionHi": "व्याख्या कीजिए कि एक पेड़ का जीवन-चक्र किस प्रकार पीढ़ियों तक उसकी प्रजाति की अमरता और निरंतरता की गारंटी देता है।",
-      "answer": "The lifecycle of a tree is a continuous, self-renewing circle that ensures species immortality. A seed germinates into a seedling, which grows over years into a majestic mature tree. This mature tree blossoms with flowers that transform into fruit containing hundreds of new seeds. When the old tree eventually ages, decays, and falls back into the soil, its seeds are scattered by wind, water, or birds. These seeds germinate to birth a new generation of trees, ensuring that the lineage and life force of the species never die.",
-      "answerHi": "एक पेड़ का जीवन-चक्र एक निरंतर, स्वयं नवीनीकृत होने वाला चक्र है जो प्रजाति की अमरता सुनिश्चित करता है। एक बीज अंकुरित होकर पौधा बनता है, जो वर्षों की वृद्धि के बाद विशाल वयस्क वृक्ष का रूप लेता है। इस वृक्ष पर फूल खिलते हैं जो सैकड़ों नए बीजों से युक्त फलों में बदल जाते हैं। जब बूढ़ा पेड़ अंततः जीर्ण होकर मिट्टी में गिर जाता है, तो उसके बीज हवा, पानी या पक्षियों द्वारा चारों ओर बिखर जाते हैं। ये बीज फिर से अंकुरित होकर पेड़ों की नई पीढ़ी को जन्म देते हैं, जिससे यह सुनिश्चित होता है कि प्रजाति का वंश और प्राण-धारा कभी समाप्त नहीं होती।",
-      "keyPoints": [
-        "Continuous circle: Seed to seedling to mature tree / निरंतर चक्र: बीज से पौधा और फिर विशाल वृक्ष",
-        "Production of flowers and fruit bearing numerous seeds / अनेक बीजों से युक्त फूलों और फलों का उत्पादन",
-        "Dispersal of seeds upon the death of old trees / पुराने पेड़ों की मृत्यु पर बीजों का प्रकीर्णन (फैलाव)",
-        "Birth of new generations ensures species immortality / नई पीढ़ियों के जन्म से प्रजाति की अमरता सुनिश्चित"
-      ]
+      "question": "माँ और बच्चे के उदाहरण के माध्यम से लेखक ने बीज और पौधे के संबंध को कैसे दर्शाया है?",
+      "questionHi": "माँ और बच्चे के उदाहरण के माध्यम से लेखक ने बीज और पौधे के संबंध को कैसे दर्शाया है?",
+      "answer": "लेखक ने बहुत ही सुंदर और भावुक उपमा का प्रयोग करते हुए बताया है कि जिस प्रकार एक माँ अपने बच्चे को पालने के लिए अपने सुखों का त्याग कर देती है और उसे अपनी छाती से लगाकर सुरक्षित रखती है, ठीक वैसी ही ममता एक बीज के भीतर भी होती है। बीज का कठोर बाहरी आवरण भीतर सोए कोमल पौधे की रक्षा करता है और जब तक पौधा अपनी जड़ें मिट्टी में नहीं जमा लेता, तब तक बीज के अंदर संचित भोजन ही उस नन्हे पौधे का पेट भरता है।",
+      "answerHi": "लेखक ने बहुत ही सुंदर और भावुक उपमा का प्रयोग करते हुए बताया है कि जिस प्रकार एक माँ अपने बच्चे को पालने के लिए अपने सुखों का त्याग कर देती है और उसे अपनी छाती से लगाकर सुरक्षित रखती है, ठीक वैसी ही ममता एक बीज के भीतर भी होती है। बीज का कठोर बाहरी आवरण भीतर सोए कोमल पौधे की रक्षा करता है और जब तक पौधा अपनी जड़ें मिट्टी में नहीं जमा लेता, तब तक बीज के अंदर संचित भोजन ही उस नन्हे पौधे का पेट भरता है।",
+      "keyPoints": []
     },
     {
       "id": "q17",
       "type": "short",
       "marks": 3,
-      "difficulty": "Hard",
-      "question": "How do trees exhibit daily and seasonal rhythms of wakefulness, fatigue, sleep, and renewal?",
-      "questionHi": "पेड़ किस प्रकार जागरण, थकान, निद्रा और पुनर्नवीनीकरण (स्फूर्ति) की दैनिक और मौसमी लय को प्रदर्शित करते हैं?",
-      "answer": "Trees exhibit distinct physiological rhythms corresponding to daily and seasonal cycles. At sunrise, they awaken: their leaves become erect, stomata open, and photosynthesis actively begins. By sunset and during the night, after a full day of physiological work, trees experience fatigue; many species droop or fold their leaves and enter a nocturnal sleep state where food production pauses. Seasonally, during harsh winter or drought, trees shed their leaves and enter a deep state of dormancy (hibernation), only to awaken with renewed vigor and fresh green shoots when spring arrives.",
-      "answerHi": "पेड़ दैनिक और मौसमी चक्रों के अनुरूप स्पष्ट शारीरिक लय प्रदर्शित करते हैं। सूर्योदय के समय वे जागते हैं: उनकी पत्तियाँ तन जाती हैं, रंध्र खुल जाते हैं और प्रकाश-संश्लेषण सक्रिय रूप से शुरू हो जाता है। सूर्यास्त के समय और रात में, दिन भर के शारीरिक कार्य के बाद, पेड़ों को थकान का अनुभव होता है; कई प्रजातियाँ अपनी पत्तियाँ झुका या सिकोड़ लेती हैं और रात्रि की निद्रा में चली जाती हैं जहाँ भोजन निर्माण रुक जाता है। मौसमी रूप से, कठोर सर्दी या सूखे के दौरान, पेड़ अपनी पत्तियाँ गिरा देते हैं और गहरी सुप्तावस्था (शीत-निद्रा) में चले जाते हैं, और वसंत ऋतु आने पर नई ऊर्जा व हरी कोपलों के साथ पुनर्जीवित हो जाते हैं।",
-      "keyPoints": [
-        "Daily awakening at sunrise with active photosynthesis / सूर्योदय पर जागरण और सक्रिय प्रकाश-संश्लेषण",
-        "Nocturnal fatigue and sleep with drooping/folding leaves / रात में थकान और पत्तियों के झुकने के साथ निद्रा",
-        "Seasonal dormancy (shedding leaves) during harsh winter / कठोर सर्दी में पत्तियों को गिराकर मौसमी सुप्तावस्था",
-        "Spring awakening with renewed vigor and fresh shoots / वसंत ऋतु में नई ऊर्जा और कोपलों के साथ पुनर्जागरण"
-      ]
+      "difficulty": "Medium",
+      "question": "पेड़ों के सोने और जागने की प्रक्रिया के बारे में लेखक जगदीश चंद्र बसु ने क्या बताया है?",
+      "questionHi": "पेड़ों के सोने और जागने की प्रक्रिया के बारे में लेखक जगदीश चंद्र बसु ने क्या बताया है?",
+      "answer": "सर जगदीश चंद्र बसु ने अपनी वैज्ञानिक खोजों से सिद्ध किया कि पेड़-पौधों की भी अपनी दिनचर्या होती है। वे दिनभर सूर्य के प्रकाश में जागते हैं, अपना भोजन बनाते हैं और सक्रिय रहते हैं। रात होने पर, जब अंधकार छा जाता है, तब पेड़-पौधे भी मनुष्यों की तरह विश्राम करते हैं अर्थात सो जाते हैं। इसलिए रात के समय पेड़ों की पत्तियों को तोड़ना या उन्हें हिलाना सही नहीं माना जाता, क्योंकि इससे उनकी नींद में बाधा पहुँचती है।",
+      "answerHi": "सर जगदीश चंद्र बसु ने अपनी वैज्ञानिक खोजों से सिद्ध किया कि पेड़-पौधों की भी अपनी दिनचर्या होती है। वे दिनभर सूर्य के प्रकाश में जागते हैं, अपना भोजन बनाते हैं और सक्रिय रहते हैं। रात होने पर, যখন (जब) अंधकार छा जाता है, तब पेड़-पौधे भी मनुष्यों की तरह विश्राम करते हैं अर्थात सो जाते हैं। इसलिए रात के समय पेड़ों की पत्तियों को तोड़ना या उन्हें हिलाना सही नहीं माना जाता, क्योंकि इससे उनकी नींद में बाधा पहुँचती है।",
+      "keyPoints": []
     },
     {
       "id": "q18",
       "type": "short",
       "marks": 3,
       "difficulty": "Medium",
-      "question": "Why is the hard seed coat (Bijavaran) biologically indispensable for a seed, and what mechanical change occurs to it during germination?",
-      "questionHi": "सख्त बीजावरण (बीज का छिलका) एक बीज के लिए जैविक रूप से क्यों अपरिहार्य है, और अंकुरण के दौरान इसमें क्या यांत्रिक परिवर्तन होता है?",
-      "answer": "The hard seed coat (Bijavaran) is biologically indispensable because it acts as a tough, protective shield for the delicate, living embryo inside. It prevents dehydration, protects against microbial infections, and defends against mechanical injuries, extreme temperatures, and digestive enzymes of animals. During germination, when the seed absorbs water, the internal embryo swells and exerts tremendous outward biological pressure. This mechanical pressure causes the hard seed coat to split and burst open, allowing the radicle and plumule to escape and grow.",
-      "answerHi": "सख्त बीजावरण (बीज का छिलका) जैविक रूप से इसलिए अपरिहार्य है क्योंकि यह भीतर मौजूद नाजुक, जीवित भ्रूण के लिए एक कठोर, सुरक्षात्मक कवच का काम करता है। यह निर्जलीकरण (पानी सूखने), सूक्ष्मजीवों के संक्रमण, यांत्रिक चोटों, अत्यधिक तापमान और पशुओं के पाचक रसों से भ्रूण की रक्षा करता है। अंकुरण के दौरान, जब बीज पानी सोखता है, तो भीतरी भ्रूण फूल जाता है और बाहर की ओर अत्यधिक जैविक दबाव डालता है। इस यांत्रिक दबाव के कारण कठोर बीजावरण फटकर खुल जाता है, जिससे मूलांकुर और प्रांकुर बाहर निकलकर वृद्धि कर पाते हैं।",
-      "keyPoints": [
-        "Shields delicate embryo from dehydration and infection / नाजुक भ्रूण को निर्जलीकरण और संक्रमण से बचाता है",
-        "Protects against extreme temperatures and physical injury / अत्यधिक तापमान और शारीरिक चोट से रक्षा करता है",
-        "Water absorption causes embryo swelling and pressure / जल अवशोषण से भ्रूण का फूलना और आंतरिक दबाव",
-        "Mechanical splitting of coat allows shoot emergence / कवच के यांत्रिक फटने से अंकुरों का बाहर निकलना"
-      ]
+      "question": "यदि पृथ्वी से सारे पेड़-पौधे समाप्त हो जाएँ, तो मानव जीवन पर इसका क्या प्रभाव पड़ेगा?",
+      "questionHi": "यदि पृथ्वी से सारे पेड़-पौधे समाप्त हो जाएँ, तो मानव जीवन पर इसका क्या प्रभाव पड़ेगा?",
+      "answer": "यदि पृथ्वी से सारे पेड़ समाप्त हो जाएँ, तो मानव जाति का अंत निश्चित है। पेड़ों के बिना वायुमंडल में ऑक्सीजन का स्तर समाप्त हो जाएगा और सांस लेना असंभव हो जाएगा। भोजन के मुख्य स्रोत (अनाज, फल, सब्जियाँ) पूरी तरह खत्म हो जाएंगे। वर्षा होना बंद हो जाएगी, जिससे चारों तरफ सूखा और मरुस्थल फैल जाएगा। ग्लोबल वार्मिंग के कारण तापमान इतना बढ़ जाएगा कि पृथ्वी पर जीवन का नामोनिशान मिट जाएगा।",
+      "answerHi": "यदि पृथ्वी से सारे पेड़ समाप्त हो जाएँ, तो मानव जाति का अंत निश्चित है। पेड़ों के बिना वायुमंडल में ऑक्सीजन का स्तर समाप्त हो जाएगा और सांस लेना असंभव हो जाएगा। भोजन के मुख्य स्रोत (अनाज, फल, सब्जियाँ) पूरी तरह खत्म हो जाएंगे। वर्षा होना बंद हो जाएगी, जिससे चारों तरफ सूखा और मरुस्थल फैल जाएगा। ग्लोबल वार्मिंग के कारण तापमान इतना बढ़ जाएगा कि पृथ्वी पर जीवन का नामोनिशान मिट जाएगा।",
+      "keyPoints": []
     },
     {
       "id": "q19",
       "type": "short",
       "marks": 3,
       "difficulty": "Medium",
-      "question": "In what ways do trees serve as the ultimate model of self-sufficiency and independence in the natural ecosystem?",
-      "questionHi": "प्राकृतिक पारिस्थितिक तंत्र में पेड़ किस प्रकार आत्मनिर्भरता और स्वावलंबन के सर्वोत्तम आदर्श के रूप में कार्य करते हैं?",
-      "answer": "Trees serve as the ultimate model of self-sufficiency (Swavlamban) because they do not depend on any other organism for their food or shelter. Unlike animals and humans who must hunt, harvest, or beg for food, trees absorb raw, freely available natural resources—sunlight, air, water, and soil minerals—to synthesize their own nourishment independently. Furthermore, while remaining rooted in one place, they not only sustain themselves but also selflessly produce life-giving oxygen, food, shade, and shelter for the entire animal kingdom without asking for anything in return.",
-      "answerHi": "पेड़ आत्मनिर्भरता (स्वावलंबन) के सर्वोत्तम आदर्श हैं क्योंकि वे अपने भोजन या आश्रय के लिए किसी अन्य जीव पर निर्भर नहीं होते। पशुओं और मनुष्यों के विपरीत जिन्हें भोजन के लिए शिकार, खेती या दूसरों पर निर्भर रहना पड़ता है, पेड़ मुक्त रूप से उपलब्ध प्राकृतिक संसाधनों—सूर्य प्रकाश, हवा, जल और मिट्टी के खनिजों—को सोखकर स्वतंत्र रूप से अपना पोषण स्वयं बनाते हैं। इसके अलावा, एक ही स्थान पर टिके रहकर वे न केवल अपना भरण-पोषण करते हैं, बल्कि बदले में कुछ भी मांगे बिना संपूर्ण प्राणी जगत के लिए निःस्वार्थ भाव से जीवनदायी ऑक्सीजन, भोजन, छाया और आश्रय प्रदान करते हैं।",
-      "keyPoints": [
-        "Complete independence in producing their own food / अपना भोजन स्वयं बनाने में पूर्ण स्वतंत्रता (स्वपोषी)",
-        "Utilization of free natural elements: sunlight, air, water / मुक्त प्राकृतिक तत्वों का उपयोग: सूर्य प्रकाश, हवा, जल",
-        "No dependence on hunting or gathering from others / दूसरों से शिकार या भोजन संग्रह पर कोई निर्भरता नहीं",
-        "Selfless providers of oxygen, food, and shelter to all / सभी को ऑक्सीजन, भोजन और आश्रय के निःस्वार्थ प्रदाता"
-      ]
+      "question": "शुष्क और कठोर परिस्थितियों में भी बीज जीवित कैसे बचे रहते हैं? पाठ के आलोक में उत्तर दीजिए।",
+      "questionHi": "शुष्क और कठोर परिस्थितियों में भी बीज जीवित कैसे बचे रहते हैं? पाठ के आलोक में उत्तर दीजिए।",
+      "answer": "बीजों के ऊपर एक बहुत ही मजबूत, सूखी और कठोर परत (छिलका) होती है। यह परत बाहरी भयंकर गर्मी, अत्यधिक ठंड या सूखे के प्रभाव को बीज के भीतर छिपे कोमल जीवन तक पहुँचने नहीं देती। जब तक परिस्थितियाँ अनुकूल नहीं होतीं (अर्थात पानी और उपजाऊ मिट्टी नहीं मिलती), तब तक बीज बिना खाए-पीए महीनों या सालों तक सुप्तावस्था में जीवित पड़े रह सकते हैं। जैसे ही अनुकूल समय आता है, वे कवच तोड़कर बाहर आ जाते हैं।",
+      "answerHi": "बीजों के ऊपर एक बहुत ही मजबूत, सूखी और कठोर परत (छिलका) होती है। यह परत बाहरी भयंकर गर्मी, अत्यधिक ठंड या सूखे के प्रभाव को बीज के भीतर छिपे कोमल जीवन तक पहुँचने नहीं देती। जब तक परिस्थितियाँ अनुकूल नहीं होतीं (अर्थात पानी और उपजाऊ मिट्टी नहीं मिलती), तब तक बीज बिना खाए-पीए महीनों या सालों तक सुप्तावस्था में जीवित पड़े रह सकते हैं। जैसे ही अनुकूल समय आता है, वे कवच तोड़कर बाहर आ जाते हैं।",
+      "keyPoints": []
     },
     {
       "id": "q20",
       "type": "short",
       "marks": 3,
-      "difficulty": "Hard",
-      "question": "What fundamental transformation in human attitude and behavior towards the plant kingdom does J.C. Bose aim to inspire through this essay?",
-      "questionHi": "इस निबंध के माध्यम से जे.सी. बसु वनस्पति जगत के प्रति मानव के दृष्टिकोण और व्यवहार में कौन-सा मौलिक परिवर्तन लाना चाहते हैं?",
-      "answer": "Through this essay, J.C. Bose aims to transform the traditional human attitude of treating trees as mere inanimate objects, commercial timber, or insensitive commodities. He wishes to inspire deep empathy, scientific curiosity, and a sense of universal kinship (Atmiyata) by making humans realize that trees are living, breathing companions who share the same biological feelings of joy, pain, and struggle as we do. He encourages humanity to treat flora with gentleness, stop unnecessary deforestation and cruelty toward plants, and actively protect and nurture the green environment.",
-      "answerHi": "इस निबंध के माध्यम से जे.सी. बसु पेड़ों को केवल निर्जीव वस्तु, व्यापारिक लकड़ी या संवेदनहीन सामग्री समझने के पारंपरिक मानव दृष्टिकोण को बदलना चाहते हैं। वे यह एहसास कराकर कि पेड़ हमारे जीवित, साँस लेने वाले साथी हैं जो हमारी ही तरह सुख, दुख और संघर्ष की जैविक भावनाएँ साझा करते हैं, मानव मन में गहरी सहानुभूति, वैज्ञानिक जिज्ञासा और आत्मीयता की भावना जाग्रत करना चाहते हैं। वे मानवता को प्रेरित करते हैं कि वनस्पतियों के साथ कोमलता का व्यवहार करें, अनावश्यक वनों की कटाई और पौधों के प्रति क्रूरता बंद करें, तथा हरे-भरे पर्यावरण की सक्रिय रूप से रक्षा व संवर्धन करें।",
-      "keyPoints": [
-        "End viewing trees as mere timber or inanimate objects / पेड़ों को केवल लकड़ी या निर्जीव वस्तु समझना बंद करना",
-        "Inspire empathy and universal kinship (Atmiyata) / गहरी सहानुभूति और विश्व-बंधुत्व (आत्मीयता) की भावना जगाना",
-        "Recognize plants as living companions with feelings / पौधों को भावनाओं वाले जीवित साथी के रूप में मान्यता देना",
-        "Promote active environmental conservation and gentleness / सक्रिय पर्यावरण संरक्षण और कोमल व्यवहार को बढ़ावा देना"
-      ]
+      "difficulty": "Medium",
+      "question": "इस वैज्ञानिक निबंध की भाषा-शैली की क्या विशेषताएँ हैं, जो इसे बालकों के लिए सुबोध बनाती हैं?",
+      "questionHi": "इस वैज्ञानिक निबंध की भाषा-शैली की क्या विशेषताएँ हैं, जो इसे बालकों के लिए सुबोध बनाती हैं?",
+      "answer": "इस निबंध की भाषा-शैली अत्यंत सरल, आत्मीय और वर्णनात्मक है। वैज्ञानिक जगदीश चंद्र बसु ने क्लिष्ट (कठिन) वैज्ञानिक शब्दों का प्रयोग करने के बजाय, मानवीकरण अलंकार का सहारा लिया है। वे पेड़-पौधों की तुलना 'छोटे बच्चों', 'सोते हुए प्राणियों' और 'माताओं' से करते हैं। कहानी जैसी इस रोचक शैली के कारण कक्षा 6 के बच्चे भी विज्ञान के इस कठिन सिद्धांत को बहुत आसानी और रुचि के साथ समझ जाते हैं।",
+      "answerHi": "इस निबंध की भाषा-शैली अत्यंत सरल, आत्मीय और वर्णनात्मक है। वैज्ञानिक जगदीश चंद्र बसु ने क्लिष्ट (कठिन) वैज्ञानिक शब्दों का प्रयोग करने के बजाय, मानवीकरण अलंकार का सहारा लिया है। वे पेड़-पौधों की तुलना 'छोटे बच्चों', 'सोते हुए प्राणियों' और 'माताओं' से करते हैं। कहानी जैसी इस रोचक शैली के कारण कक्षा 6 के बच्चे भी विज्ञान के इस कठिन सिद्धांत को बहुत आसानी और रुचि के साथ समझ जाते हैं।",
+      "keyPoints": []
     },
     {
       "id": "q21",
       "type": "long",
       "marks": 4,
       "difficulty": "Hard",
-      "question": "Summarize the philosophical and scientific core of J.C. Bose's essay 'Ped Ki Baat'. How does he successfully bridge the gap between hard scientific rigor and poetic literary sensitivity?",
-      "questionHi": "जे.सी. बसु के निबंध 'पेड़ की बात' के दार्शनिक एवं वैज्ञानिक सार को संक्षेप में लिखिए। वे किस प्रकार कठोर वैज्ञानिक सटीकता और काव्यात्मक साहित्यिक संवेदनशीलता के बीच सफल सेतु बनाते हैं?",
-      "answer": "The core of J.C. Bose's essay 'Ped Ki Baat' lies in establishing the profound unity of all life on Earth. Scientifically, Bose dismantles the long-held myth that plants are inanimate by explaining their complex biological functions—seed germination, root absorption, photosynthesis, nervous reactivity, and life-cycle continuity. Philosophically, he elevates plants to the status of our biological kin who experience the same existential struggles, joys, sorrows, and mortality as humans.\n\nBose brilliantly bridges the gap between hard science and literature through his masterful narrative style. Instead of using dry, impenetrable jargon, he employs poetic metaphors and emotional resonance: he describes a dormant seed as a 'sleeping baby wrapped in a blanket', roots as 'thousands of drinking mouths', leaves as 'sunlit kitchens', and the struggle for sunlight as a 'silent epic battle'. By fusing precise empirical observation with compassionate, literary storytelling, Bose not only educates the reader about plant physiology but also awakens a deep emotional empathy and reverence for nature in the heart of Class 6 students.",
-      "answerHi": "जे.सी. बसु के निबंध 'पेड़ की बात' का सार पृथ्वी पर समस्त जीवन की गहरी एकता को स्थापित करने में निहित है। वैज्ञानिक रूप से, बसु पौधों के जटिल जैविक कार्यों—बीज अंकुरण, जड़ों द्वारा अवशोषण, प्रकाश-संश्लेषण, स्नायु प्रतिक्रिया और जीवन-चक्र की निरंतरता—की व्याख्या करके इस सदियों पुराने भ्रम को तोड़ते हैं कि पौधे निर्जीव होते हैं। दार्शनिक रूप से, वे पौधों को हमारे जैविक बंधुओं का दर्जा देते हैं जो मनुष्यों के समान ही अस्तित्वगत संघर्ष, सुख, दुख और नश्वरता का अनुभव करते हैं।\n\nबसु अपनी उत्कृष्ट कथा-शैली के माध्यम से कठोर विज्ञान और साहित्य के बीच एक अद्भुत सेतु बनाते हैं। शुष्क और कठिन पारिभाषिक शब्दों का उपयोग करने के बजाय, वे काव्यात्मक रूपकों और भावनात्मक संवेदनशीलता का सहारा लेते हैं: वे सुप्त बीज को 'कंबल में लिपटा सोता हुआ शिशु', जड़ों को 'हजारों पीने वाले मुख', पत्तियों को 'सूर्य-प्रकाशित रसोईघर' और धूप पाने के संघर्ष को 'मौन महासंग्राम' के रूप में वर्णित करते हैं। सटीक प्रायोगिक अवलोकन को करुणामय साहित्यिक कथा-वाचन के साथ जोड़कर, बसु न केवल पाठक को वनस्पति शास्त्र की शिक्षा देते हैं, बल्कि कक्षा 6 के छात्रों के हृदय में प्रकृति के प्रति गहरी भावनात्मक सहानुभूति और श्रद्धा भी जाग्रत करते हैं।",
-      "keyPoints": [
-        "Scientific core: Demonstrates plant sensitivity, photosynthesis, and life-cycle / वैज्ञानिक सार: पौधों में संवेदनशीलता, प्रकाश-संश्लेषण और जीवन-चक्र का प्रदर्शन",
-        "Philosophical core: Unity of all life and kinship between humans and plants / दार्शनिक सार: समस्त जीवन की एकता और मानव-वनस्पति आत्मीयता",
-        "Literary bridge: Uses poetic metaphors (sleeping baby, kitchen, drinking mouths) / साहित्यिक सेतु: काव्यात्मक रूपकों (सोता शिशु, रसोईघर, पीने वाले मुख) का उपयोग",
-        "Fuses empirical science with emotional empathy for holistic education / समग्र शिक्षा हेतु प्रायोगिक विज्ञान का भावनात्मक सहानुभूति से मिलन"
-      ]
+      "question": "\"पेड़ की बात\" निबंध का मूल प्रतिपाद्य (Summary) और इसके माध्यम से लेखक द्वारा दिए गए संदेश का विस्तृत विश्लेषण कीजिए।",
+      "questionHi": "\"पेड़ की बात\" निबंध का मूल प्रतिपाद्य (Summary) और इसके माध्यम से लेखक द्वारा दिए गए संदेश का विस्तृत विश्लेषण कीजिए।",
+      "answer": "\"पेड़ की बात\" विज्ञान और प्रकृति के अंतर्संबंधों को उजागर करने वाला एक बेहद ज्ञानवर्धक निबंध है। इस पाठ का मूल प्रतिपाद्य यह सिद्ध करना है कि पेड़-पौधे कोई बेजान वस्तु नहीं हैं, बल्कि वे भी हमारी तरह ही सजीव और संवेदनशील प्राणी हैं। लेखक सर जगदीश चंद्र बसु बताते हैं कि बीजों के भीतर जीवन छुपा होता है, जो उचित वातावरण मिलने पर अंकुरित होता है। पेड़ जड़ों से पानी पीते हैं, पत्तों से सांस लेते हैं और सूरज की धूप से अपना भोजन स्वयं तैयार करते हैं। वे रात में सोते हैं और दिन में जागते हैं।\nइस निबंध के माध्यम से लेखक संपूर्ण मानव समाज को यह गहरा संदेश देना चाहते हैं कि हमें प्रकृति और वनस्पति जगत के प्रति दयालु और कृतज्ञ होना चाहिए। पेड़ हमारे जीवन के आधार हैं। हमें बिना कारण पत्तियाँ और फूल तोड़कर उन्हें कष्ट नहीं देना चाहिए, बल्कि अधिक से अधिक पौधे लगाकर धरती को हरा-भरा और सुरक्षित बनाने में अपना योगदान देना चाहिए।",
+      "answerHi": "\"पेड़ की बात\" विज्ञान और प्रकृति के अंतर्संबंधों को उजागर करने वाला एक बेहद ज्ञानवर्धक निबंध है। इस पाठ का मूल प्रतिपाद्य यह सिद्ध करना है कि पेड़-पौधे कोई बेजान वस्तु नहीं हैं, बल्कि वे भी हमारी तरह ही सजीव और संवेदनशील प्राणी हैं। लेखक सर जगदीश चंद्र बसु बताते हैं कि बीजों के भीतर जीवन छुपा होता है, जो उचित वातावरण मिलने पर अंकुरित होता है। पेड़ जड़ों से पानी पीते हैं, पत्तों से सांस लेते हैं और सूरज की धूप से अपना भोजन स्वयं तैयार करते हैं। वे रात में सोते हैं और दिन में जागते हैं।\nइस निबंध के माध्यम से लेखक संपूर्ण मानव समाज को यह गहरा संदेश देना चाहते हैं कि हमें प्रकृति और वनस्पति जगत के प्रति दयालु और कृतज्ञ होना चाहिए। पेड़ हमारे जीवन के आधार हैं। हमें बिना कारण पत्तियाँ और फूल तोड़कर उन्हें कष्ट नहीं देना चाहिए, बल्कि अधिक से अधिक पौधे लगाकर धरती को हरा-भरा और सुरक्षित बनाने में अपना योगदान देना चाहिए।",
+      "keyPoints": []
     },
     {
       "id": "q22",
-      "type": "value-based",
+      "type": "long",
       "marks": 4,
-      "difficulty": "Medium",
-      "question": "'Trees are noble living beings that exemplify silent patience, resilience, selflessness, and boundless generosity.' Discuss the core moral values and character traits that students can absorb into their own lives from the example of trees.",
-      "questionHi": "'पेड़ महान जीवित प्राणी हैं जो मौन धैर्य, सहनशीलता, निःस्वार्थ भाव और असीम उदारता के सर्वोत्तम उदाहरण हैं।' उन मुख्य नैतिक मूल्यों और चारित्रिक गुणों की चर्चा कीजिए जिन्हें छात्र पेड़ों के जीवन से अपने जीवन में ग्रहण कर सकते हैं।",
-      "answer": "The essay 'Ped Ki Baat' is not merely a scientific lesson; it is a profound moral text that offers vital life lessons for students. From the life of trees, students can absorb several transformative moral values:\n\n1. **Silent Patience and Resilience (धैर्य और सहनशीलता):** A seed waits patiently in the dark, cold soil for the right time to germinate. Similarly, trees silently endure scorching summer heat, freezing winter cold, and violent storms without complaining, teaching us to remain steadfast and resilient during life's hardships.\n\n2. **Selfless Generosity and Altruism (निःस्वार्थ परोपकार):** Trees produce life-saving oxygen, delicious fruits, fragrant flowers, timber, and soothing shade. They share these treasures unconditionally with all creatures—even with the woodcutter who raises an axe against them. This teaches us the supreme value of altruism, forgiveness, and serving society without expecting rewards.\n\n3. **Self-Sufficiency and Hard Work (स्वावलंबन और परिश्रम):** Trees synthesize their own food through continuous toil in sunlight without depending on others. This inspires students to become independent, industrious, and self-reliant in their studies and personal growth.\n\n4. **Harmony and Cooperation (सामंजस्य):** Trees live together in forests, supporting ecosystems and enriching the soil for future generations. By imbibing these virtues, students can develop into compassionate, responsible, and environmentally conscious citizens.",
-      "answerHi": "'पेड़ की बात' निबंध केवल एक वैज्ञानिक पाठ नहीं है; यह एक गहरा नैतिक ग्रंथ है जो छात्रों को जीवन की महत्वपूर्ण शिक्षाएँ देता है। पेड़ों के जीवन से छात्र कई परिवर्तनकारी नैतिक मूल्यों को आत्मसात कर सकते हैं:\n\n1. **मौन धैर्य और सहनशीलता (Silent Patience and Resilience):** एक बीज अंकुरित होने के लिए सही समय की प्रतीक्षा में अंधकारमय, ठंडी मिट्टी में धैर्यपूर्वक पड़ा रहता है। इसी प्रकार, पेड़ भीषण गर्मी, कड़ाके की ठंड और भयंकर तूफानों को बिना किसी शिकायत के मौन रहकर सहते हैं, जो हमें जीवन की कठिनाइयों में दृढ़ और सहनशील बने रहने की शिक्षा देता है।\n\n2. **निःस्वार्थ परोपकार और उदारता (Selfless Generosity and Altruism):** पेड़ जीवनदायी ऑक्सीजन, स्वादिष्ट फल, सुगंधित फूल, लकड़ी और शीतल छाया प्रदान करते हैं। वे इन खजानों को बिना किसी शर्त के सभी जीवों के साथ बाँटते हैं—यहाँ तक कि उस लकड़हारे को भी जो उन पर कुल्हाड़ी चलाता है। यह हमें परोपकार, क्षमा और बिना फल की इच्छा के समाज सेवा का सर्वोच्च मूल्य सिखाता है।\n\n3. **स्वावलंबन और परिश्रम (Self-Sufficiency and Hard Work):** पेड़ दूसरों पर निर्भर रहे बिना सूर्य के प्रकाश में निरंतर परिश्रम करके अपना भोजन स्वयं बनाते हैं। यह छात्रों को अपने अध्ययन और व्यक्तिगत विकास में आत्मनिर्भर, परिश्रमी और स्वावलंबी बनने की प्रेरणा देता है।\n\n4. **सामंजस्य और सहकारिता (Harmony and Cooperation):** पेड़ जंगलों में एक साथ रहते हुए पारिस्थितिक तंत्र का समर्थन करते हैं और भावी पीढ़ियों के लिए मिट्टी को उपजाऊ बनाते हैं। इन गुणों को अपनाकर छात्र दयालु, जिम्मेदार और पर्यावरण के प्रति जागरूक नागरिक बन सकते हैं।",
-      "keyPoints": [
-        "Silent Patience & Resilience: Enduring hardships without complaint / मौन धैर्य व सहनशीलता: बिना शिकायत कठिनाइयों को सहना",
-        "Selfless Altruism: Giving oxygen, fruits, and shade unconditionally / निःस्वार्थ परोपकार: बिना शर्त ऑक्सीजन, फल और छाया देना",
-        "Forgiveness: Benevolence even toward those who harm them / क्षमाशीलता: नुकसान पहुँचाने वालों के प्रति भी उदारता",
-        "Self-Reliance & Hard Work: Independent food production via steady toil / स्वावलंबन व परिश्रम: निरंतर मेहनत से स्वतंत्र भोजन निर्माण"
-      ]
+      "difficulty": "Hard",
+      "question": "योग्यता-आधारित प्रश्न (Competency-Based): पेड़ किस प्रकार हवा को शुद्ध करते हैं और वायुमंडल में गैसों का संतुलन बनाए रखते हैं? इस प्रक्रिया को वैज्ञानिक संदर्भ में सविस्तार समझाइए।",
+      "questionHi": "योग्यता-आधारित प्रश्न (Competency-Based): पेड़ किस प्रकार हवा को शुद्ध करते हैं और वायुमंडल में गैसों का संतुलन बनाए रखते हैं? इस प्रक्रिया को वैज्ञानिक संदर्भ में सविस्तार समझाइए।",
+      "answer": "पेड़-पौधे पृथ्वी के \"कृत्रिम फेफड़े\" (Green Lungs) की तरह काम करते हैं और वायुमंडल में ऑक्सीजन तथा कार्बन डाइऑक्साइड गैसों का संतुलन बनाए रखने में सबसे बड़ी भूमिका निभाते हैं। जब मनुष्य, जीव-जंतु सांस लेते हैं या कारखानों और वाहनों से धुआं निकलता है, तो वातावरण में हानिकारक कार्बन डाइऑक्साइड (CO2) गैस की मात्रा बढ़ जाती है।\nपेड़ अपनी हरी पत्तियों में मौजूद 'क्लोरोफिल' और सूर्य के प्रकाश की मदद से भोजन बनाने की प्रक्रिया (प्रकाश-संश्लेषण) करते हैं। इस प्रक्रिया के दौरान वे हवा से इसी हानिकारक कार्बन डाइऑक्साइड को सोख लेते हैं और बदले में शुद्ध ऑक्सीजन (O2) गैस बाहर छोड़ते हैं, जिसे हम प्राणवायु कहते हैं। इस प्रकार, पेड़ वायुमंडल को प्रदूषित होने से बचाते हैं, तापमान को नियंत्रित करते हैं और पृथ्वी पर ग्रीनहाउस प्रभाव (Global Warming) को बढ़ने से रोकते हैं। पेड़ों के बिना वायुमंडल का यह गैस-संतुलन पूरी तरह बिगड़ जाएगा।",
+      "answerHi": "पेड़-पौधे पृथ्वी के \"कृत्रिम फेफड़े\" (Green Lungs) की तरह काम करते हैं और वायुमंडल में ऑक्सीजन तथा कार्बन डाइऑक्साइड गैसों का संतुलन बनाए रखने में सबसे बड़ी भूमिका निभाते हैं। जब मनुष्य, जीव-जंतु सांस लेते हैं या कारखानों और वाहनों से धुआं निकलता है, तो वातावरण में हानिकारक कार्बन डाइऑक्साइड (CO2) गैस की मात्रा बढ़ जाती है।\nपेड़ अपनी हरी पत्तियों में मौजूद 'क्लोरोफिल' और सूर्य के प्रकाश की मदद से भोजन बनाने की प्रक्रिया (प्रकाश-संश्लेषण) करते हैं। इस प्रक्रिया के दौरान वे हवा से इसी हानिकारक कार्बन डाइऑक्साइड को सोख लेते हैं और बदले में शुद्ध ऑक्सीजन (O2) गैस बाहर छोड़ते हैं, जिसे हम प्राणवायु कहते हैं। इस प्रकार, पेड़ वायुमंडल को प्रदूषित होने से बचाते हैं, तापमान को नियंत्रित करते हैं और पृथ्वी पर ग्रीनहाउस प्रभाव (Global Warming) को बढ़ने से रोकते हैं। पेड़ों के बिना वायुमंडल का यह गैस-संतुलन पूरी तरह बिगड़ जाएगा।",
+      "keyPoints": []
     },
     {
       "id": "q23",
       "type": "long",
       "marks": 4,
       "difficulty": "Hard",
-      "question": "Elaborate comprehensively on the complete anatomical and physiological journey of water and nutrition in a tree—from subterranean absorption in the dark soil to solar food synthesis in the green leaves.",
-      "questionHi": "एक पेड़ में जल और पोषण की संपूर्ण शारीरिक एवं जैविक यात्रा का विस्तार से वर्णन कीजिए—मिट्टी के अंधकार में भूमिगत अवशोषण से लेकर हरी पत्तियों में सूर्य के प्रकाश से भोजन निर्माण तक।",
-      "answer": "The anatomical and physiological journey of water and nutrition in a tree is a marvelous biological process that unites the dark subterranean depths of the earth with the sunlit sky. This journey occurs in three distinct sequential phases:\n\n1. **Subterranean Absorption by Roots (जड़ों द्वारा भूमिगत अवशोषण):** In the dark depths of the soil, a tree spreads an extensive network of roots. The tips of these roots are covered with billions of microscopic, thin-walled structures called root hairs. Acting like thousands of tiny biological pumps or drinking mouths, these root hairs absorb groundwater and dissolved mineral salts (such as nitrogen, phosphorus, and potassium) through the process of osmosis.\n\n2. **Upward Conduction through the Trunk (तने के माध्यम से ऊपर की ओर संवहन):** Once absorbed, this mineral-rich water (xylem sap) must travel upward against the force of gravity. Through specialized vascular tubes (xylem vessels) running through the trunk and branches, the sap is pulled upward by capillary action and the powerful suction force created by transpiration (evaporation of water from leaves). The trunk acts as a sturdy botanical pipeline transporting nourishment to the topmost branches.\n\n3. **Solar Food Synthesis in Green Leaves (हरी पत्तियों में प्रकाश-संश्लेषण द्वारा भोजन निर्माण):** Upon reaching the green leaves—which serve as open-air solar kitchens—the water is distributed through delicate leaf veins. The leaves absorb carbon dioxide from the atmosphere through microscopic pores called stomata. Utilizing the green pigment chlorophyll as a solar collector, the leaves capture sunlight energy to synthesize glucose (sugar) from carbon dioxide and water, releasing pure oxygen as a byproduct. This prepared organic food (phloem sap) is then distributed back to all living cells of the tree for energy, growth, and tissue repair.",
-      "answerHi": "एक पेड़ में जल और पोषण की शारीरिक एवं जैविक यात्रा एक अद्भुत जैविक प्रक्रिया है जो पृथ्वी के अंधकारमय पाताल को सूर्य-प्रकाशित आकाश से जोड़ती है। यह यात्रा तीन स्पष्ट क्रमिक चरणों में संपन्न होती है:\n\n1. **जड़ों द्वारा भूमिगत अवशोषण (Subterranean Absorption by Roots):** मिट्टी की अंधकारमय गहराइयों में, पेड़ अपनी जड़ों का एक विशाल जाल फैलाता है। इन जड़ों के सिरों पर अरबों सूक्ष्म, पतली झिल्ली वाले मूल-रोम (root hairs) होते हैं। हजारों छोटे जैविक पंपों या पीने वाले मुखों की तरह कार्य करते हुए, ये मूल-रोम परासरण (osmosis) की प्रक्रिया द्वारा भूमिगत जल और उसमें घुले खनिज लवणों (जैसे नाइट्रोजन, फॉस्फोरस और पोटेशियम) को अवशोषित करते हैं।\n\n2. **तने के माध्यम से ऊपर की ओर संवहन (Upward Conduction through the Trunk):** अवशोषित होने के बाद, यह खनिज-युक्त जल (रस) गुरुत्वाकर्षण के विपरीत ऊपर की ओर यात्रा करता है। तने और शाखाओं में मौजूद विशेष संवहन नलिकाओं (जाइलम/xylem) के माध्यम से, केशिका क्रिया और वाष्पोत्सर्जन (पत्तियों से पानी के भाप बनने) द्वारा उत्पन्न शक्तिशाली खिंचाव बल से यह रस ऊपर खींचा जाता है। तना एक मजबूत वानस्पतिक पाइपलाइन की तरह कार्य करता है जो सबसे ऊपरी शाखाओं तक पोषण पहुँचाता है।\n\n3. **हरी पत्तियों में प्रकाश-संश्लेषण द्वारा भोजन निर्माण (Solar Food Synthesis in Green Leaves):** हरी पत्तियों—जो खुले आकाश में सौर रसोईघर का काम करती हैं—तक पहुँचने पर, जल को बारीक शिराओं द्वारा फैलाया जाता है। पत्तियाँ 'रंध्रों' (stomata) नामक सूक्ष्म छिद्रों से वायुमंडल से कार्बन डाइऑक्साइड सोखती हैं। हरित लवक (क्लोरोफिल) का उपयोग सौर-संग्राहक के रूप में करते हुए, पत्तियाँ सूर्य के प्रकाश की ऊर्जा से कार्बन डाइऑक्साइड और जल को मिलाकर ग्लूकोज (शर्करा) का निर्माण करती हैं और शुद्ध ऑक्सीजन को उप-उत्पाद के रूप में छोड़ती हैं। यह तैयार भोजन फिर पेड़ के सभी जीवित अंगों तक वृद्धि और ऊर्जा के लिए वापस भेजा जाता है।",
-      "keyPoints": [
-        "Root absorption: Microscopic root hairs absorb water and minerals from soil / जड़ अवशोषण: सूक्ष्म मूल-रोम मिट्टी से जल और खनिज सोखते हैं",
-        "Upward conduction: Xylem vessels transport sap upward against gravity via transpiration pull / संवहन: जाइलम नलिकाएँ वाष्पोत्सर्जन खिंचाव से रस को गुरुत्वाकर्षण के विरुद्ध ऊपर ले जाती हैं",
-        "Leaf absorption: Stomata take in atmospheric CO2 into chlorophyll-rich cells / पत्ती अवशोषण: रंध्र वायुमंडल से CO2 को क्लोरोफिल-युक्त कोशिकाओं में लेते हैं",
-        "Photosynthesis: Sunlight energy converts CO2 and water into glucose and releases oxygen / प्रकाश-संश्लेषण: सौर ऊर्जा CO2 व जल को ग्लूकोज में बदलती है और ऑक्सीजन छोड़ती है"
-      ]
+      "question": "पाठ के आधार पर स्पष्ट कीजिए कि बीजों के अंकुरण की पूरी प्रक्रिया क्या है? एक छोटे से बीज से विशाल वृक्ष बनने तक की यात्रा का वर्णन कीजिए।",
+      "questionHi": "पाठ के आधार पर स्पष्ट कीजिए कि बीजों के अंकुरण की पूरी प्रक्रिया क्या है? एक छोटे से बीज से विशाल वृक्ष बनने तक की यात्रा का वर्णन कीजिए।",
+      "answer": "एक छोटे से बीज से विशाल वृक्ष बनने की यात्रा अत्यंत विस्मयकारी और सुंदर है। इसकी शुरुआत तब होती है जब एक सूखा और सुप्त बीज मिट्टी के नीचे दबाया जाता है। जब उसे पानी की नमी और सूर्य की गर्मी मिलती है, तो बीज के भीतर सोया हुआ पौधा जाग उठता है। वह धीरे-धीरे फूलने लगता है और उसका बाहरी कड़ा आवरण (कवच) टूट जाता है।\nइसके बाद बीज से एक छोटा सा अंकुर बाहर निकलता है। इसका निचला हिस्सा जड़ बनकर ज़मीन के अंदर गहराई की ओर बढ़ने लगता है ताकि वह पौधे को मजबूती से पकड़ सके और पानी सोख सके। इसका ऊपरी हिस्सा रोशनी की तलाश में मिट्टी को चीरता हुआ बाहर आता है और तना बनता है। धीरे-धीरे इस तने में शाखाएँ और हरी पत्तियाँ निकलने लगती हैं। पत्तियाँ सूर्य की रोशनी से भोजन बनाना शुरू करती हैं, जिससे पौधे को ऊर्जा मिलती है। वर्षों तक हवा, पानी, धूप और मिट्टी के पोषण को ग्रहण करते-करते वही नन्हा सा अंकुर अंततः एक विशाल, फलदार और छायादार वृक्ष का रूप ले लेता है।",
+      "answerHi": "एक छोटे से बीज से विशाल वृक्ष बनने की यात्रा अत्यंत विस्मयकारी और सुंदर है। इसकी शुरुआत तब होती है जब एक सूखा और सुप्त बीज मिट्टी के नीचे दबाया जाता है। जब उसे पानी की नमी और सूर्य की गर्मी मिलती है, तो बीज के भीतर सोया हुआ पौधा जाग उठता है। वह धीरे-धीरे फूलने लगता है और उसका बाहरी कड़ा आवरण (कवच) टूट जाता है।\nइसके बाद बीज से एक छोटा सा अंकुर बाहर निकलता है। इसका निचला हिस्सा जड़ बनकर ज़मीन के अंदर गहराई की ओर बढ़ने लगता है ताकि वह पौधे को मजबूती से पकड़ सके और पानी सोख सके। इसका ऊपरी हिस्सा रोशनी की तलाश में मिट्टी को चीरता हुआ बाहर आता है और तना बनता है। धीरे-धीरे इस तने में शाखाएँ और हरी पत्तियाँ निकलने लगती हैं। पत्तियाँ सूर्य की रोशनी से भोजन बनाना शुरू करती हैं, जिससे पौधे को ऊर्जा मिलती है। वर्षों तक हवा, पानी, धूप और मिट्टी के पोषण को ग्रहण करते-करते वही नन्हा सा अंकुर अंततः एक विशाल, फलदार और छायादार वृक्ष का रूप ले लेता है।",
+      "keyPoints": []
     },
     {
       "id": "q24",
-      "type": "value-based",
+      "type": "long",
       "marks": 4,
       "difficulty": "Hard",
-      "question": "In our modern era of severe deforestation, urbanization, and global climate change, how does reading J.C. Bose's essay 'Ped Ki Baat' serve as a powerful catalyst to inspire young students toward environmental conservation and ecological empathy?",
-      "questionHi": "भयंकर वनों की कटाई, शहरीकरण और वैश्विक जलवायु परिवर्तन के हमारे आधुनिक युग में, जे.सी. बसु के निबंध 'पेड़ की बात' का अध्ययन युवा छात्रों को पर्यावरण संरक्षण और पारिस्थितिक संवेदनशीलता की ओर प्रेरित करने के लिए एक शक्तिशाली उत्प्रेरक के रूप में कैसे कार्य करता है?",
-      "answer": "In the modern era, humanity is facing an existential environmental crisis characterized by rampant deforestation, rapid concrete urbanization, global warming, and loss of biodiversity. This crisis largely stems from an anthropocentric attitude that treats nature as a dead, mechanical resource to be exploited indiscriminately. Reading J.C. Bose's essay 'Ped Ki Baat' serves as a powerful catalyst for environmental consciousness in the following ways:\n\n1. **Awakening Ecological Empathy (पारिस्थितिक संवेदनशीलता का जागरण):** By scientifically proving that plants breathe, feel pain, experience joy, and share our biological vulnerability, Bose humanizes the plant kingdom. When students realize that cutting a tree is causing severe physical distress and death to a living companion, their passive indifference transforms into active, heart-felt empathy.\n\n2. **Fostering Environmental Stewardship (पर्यावरण संरक्षण का दायित्व):** The essay helps students understand that trees are the primary producers and life-support systems of Earth—providing the oxygen we breathe, regulating global rainfall, and holding the soil together. This realization instills a profound sense of duty among youth to protect existing green cover.\n\n3. **Inspiring Action-Oriented Green Habits (सक्रिय हरित आदतों की प्रेरणा):** Inspired by the essay, students are motivated to move beyond classroom theory into tangible action. They are inspired to initiate school tree-planting drives (Vriksharopan), nurture house plants, avoid paper wastage, oppose illegal tree-felling in their neighborhoods, and promote sustainable living, thereby becoming lifelong guardians of our planet.",
-      "answerHi": "आधुनिक युग में, मानवता अंधाधुंध वनों की कटाई, तेजी से कंक्रीट के शहरीकरण, ग्लोबल वार्मिंग और जैव विविधता के विनाश जैसे गंभीर पर्यावरणीय संकट का सामना कर रही है। यह संकट मुख्य रूप से इस मानव-केंद्रित सोच से उपजा है जो प्रकृति को एक मृत, यांत्रिक संसाधन मानकर उसका मनमाना शोषण करती है। जे.सी. बसु के निबंध 'पेड़ की बात' का अध्ययन निम्नलिखित तरीकों से पर्यावरण चेतना के लिए एक शक्तिशाली उत्प्रेरक के रूप में कार्य करता है:\n\n1. **पारिस्थितिक संवेदनशीलता का जागरण (Awakening Ecological Empathy):** यह वैज्ञानिक रूप से सिद्ध करके कि पौधे साँस लेते हैं, दर्द महसूस करते हैं, प्रसन्न होते हैं और हमारी तरह जैविक रूप से संवेदनशील हैं, बसु वनस्पति जगत को मानवीय संवेदना से जोड़ते हैं। जब छात्र यह समझते हैं कि पेड़ काटना एक जीवित साथी को भारी शारीरिक कष्ट और मृत्यु देना है, तो उनकी उदासीनता सक्रिय और सच्चे प्रेम में बदल जाती है।\n\n2. **पर्यावरण संरक्षण का दायित्व (Fostering Environmental Stewardship):** यह निबंध छात्रों को यह समझने में मदद करता है कि पेड़ पृथ्वी के प्राथमिक उत्पादक और जीवन-रक्षक प्रणाली हैं—जो हमें साँस लेने के लिए ऑक्सीजन देते हैं, वर्षा को नियंत्रित करते हैं और मिट्टी को बांधकर रखते हैं। यह अहसास युवाओं में मौजूदा हरित आवरण की रक्षा करने का गहरा कर्तव्य-बोध भरता है।\n\n3. **सक्रिय हरित आदतों की प्रेरणा (Inspiring Action-Oriented Green Habits):** पाठ से प्रेरित होकर, छात्र केवल किताबी ज्ञान से आगे बढ़कर ठोस कार्रवाई करने के लिए प्रेरित होते हैं। वे स्कूलों में वृक्षारोपण अभियान शुरू करने, घर के पौधों की देखभाल करने, कागज की बर्बादी रोकने, अपने मोहल्ले में अवैध पेड़ कटाई का विरोध करने और टिकाऊ जीवन शैली अपनाने के लिए प्रेरित होते हैं, जिससे वे पृथ्वी के आजीवन संरक्षक बन जाते हैं।",
-      "keyPoints": [
-        "Transforms view of plants from dead resources to living, feeling companions / पौधों को मृत संसाधन के बजाय जीवित, संवेदनशील साथी के रूप में देखने की दृष्टि",
-        "Awakens deep ecological empathy and moral outrage against deforestation / वनों की कटाई के विरुद्ध गहरी पारिस्थितिक संवेदनशीलता और नैतिक चेतना का जागरण",
-        "Highlights trees as critical life-support systems (oxygen, rainfall, soil) / पेड़ों को महत्वपूर्ण जीवन-रक्षक प्रणाली (ऑक्सीजन, वर्षा, मिट्टी) के रूप में दर्शाना",
-        "Inspires concrete actions: tree planting, reducing waste, environmental advocacy / ठोस कार्यों की प्रेरणा: वृक्षारोपण, बर्बादी रोकना और पर्यावरण वकालत"
-      ]
+      "question": "उच्च स्तरीय चिंतन कौशल (HOTS): \"पेड़ों में भी जीवन और चेतना होती है।\" यदि आपको इस बात को अपने विद्यालय के बगीचे में किसी छोटे बच्चे को प्रमाणित करके दिखाना हो, तो आप पाठ के किन उदाहरणों और प्रयोगों का सहारा लेंगे?",
+      "questionHi": "उच्च स्तरीय चिंतन कौशल (HOTS): \"पेड़ों में भी जीवन और चेतना होती है।\" यदि आपको इस बात को अपने विद्यालय के बगीचे में किसी छोटे बच्चे को प्रमाणित करके दिखाना हो, तो आप पाठ के किन उदाहरणों और प्रयोगों का सहारा लेंगे?",
+      "answer": "यदि मुझे किसी छोटे बच्चे को यह समझाना हो कि पेड़ों में भी जीवन और हमारी तरह ही चेतना होती है, तो मैं निम्नलिखित व्यावहारिक उदाहरणों और पाठ के सिद्धांतों का सहारा लूँगा:\n\n1. छुईमुई का प्रयोग: मैं बच्चे को छुईमुई (लाजवंती) के पौधे के पास ले जाऊँगा और उसे उसकी पत्ती छूने को कहूँगा। जैसे ही पत्तियाँ सिकुड़ेंगी, मैं बच्चे को समझाऊँगा कि देखो, पौधे ने तुम्हारे स्पर्श को महसूस किया है, जैसे तुम्हें छूने पर महसूस होता है। यह पौधों की संवेदनशीलता का सबसे बड़ा प्रमाण है।\n2. प्रकाश की ओर झुकाव: मैं उसे बगीचे के किसी ऐसे पौधे को दिखाऊँगा जो छाया में होने के बावजूद धूप की तरफ झुका हुआ बढ़ रहा है। मैं उसे समझाऊँगा कि पेड़ भूखा है और वह भोजन (धूप) की तलाश में अपना सिर उठा रहा है।\n3. मुरझाना और खिलना: मैं उसे दिखाऊँगा कि कैसे पानी न मिलने पर पौधा उदास (मुरझा) जाता है और पानी डालते ही वह खुश होकर दोबारा उठ खड़ा होता है। इन जीती-जागती हरकतों से बच्चा आसानी से मान जाएगा कि पेड़ों के भीतर भी एक जीव धड़कता है।",
+      "answerHi": "यदि मुझे किसी छोटे बच्चे को यह समझाना हो कि पेड़ों में भी जीवन और हमारी तरह ही चेतना होती है, तो मैं निम्नलिखित व्यावहारिक उदाहरणों और पाठ के सिद्धांतों का सहारा लूँगा:\n\n1. छुईमुई का प्रयोग: मैं बच्चे को छुईमुई (लाजवंती) के पौधे के पास ले जाऊँगा और उसे उसकी पत्ती छूने को कहूँगा। जैसे ही पत्तियाँ सिकुड़ेंगी, मैं बच्चे को समझाऊँगा कि देखो, पौधे ने तुम्हारे स्पर्श को महसूस किया है, जैसे तुम्हें छूने पर महसूस होता है। यह पौधों की संवेदनशीलता का सबसे बड़ा प्रमाण है।\n2. प्रकाश की ओर झुकाव: मैं उसे बगीचे के किसी ऐसे पौधे को दिखाऊँगा जो छाया में होने के बावजूद धूप की तरफ झुका हुआ बढ़ रहा है। मैं उसे समझाऊँगा कि पेड़ भूखा है और वह भोजन (धूप) की तलाश में अपना सिर उठा रहा है।\n3. मुरझाना और खिलना: मैं उसे दिखाऊँगा कि कैसे पानी न मिलने पर पौधा उदास (मुरझा) जाता है और पानी डालते ही वह खुश होकर दोबारा उठ खड़ा होता है। इन जीती-जागती हरकतों से बच्चा आसानी से मान जाएगा कि पेड़ों के भीतर भी एक जीव धड़कता है।",
+      "keyPoints": []
     },
     {
       "id": "q25",
-      "type": "case-study",
+      "type": "long",
       "marks": 4,
-      "difficulty": "Medium",
-      "question": "Read the following passage from the chapter and answer the questions below:\n\"मिट्टी के नीचे अंधकार में पड़ा बीज एक छोटे शिशु की तरह सो रहा था। उसके ऊपर एक सख्त छिलके का आवरण था जो उसे सर्दी, गर्मी और बाहरी आघातों से बचाता था। जब उसे पर्याप्त नमी, ताप और ताजी हवा मिली, तो वह अंगड़ाई लेकर जाग उठा और उसका बाहरी कवच टूट गया।\"\n(a) Why is the dormant seed compared to a sleeping baby?\n(b) What is the biological function of the hard outer shell (seed coat)?\n(c) What three specific environmental factors triggered the seed to wake up?\n(d) What happened immediately after the seed woke up?",
-      "questionHi": "पाठ से निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़िए और नीचे दिए गए प्रश्नों के उत्तर दीजिए:\n\"मिट्टी के नीचे अंधकार में पड़ा बीज एक छोटे शिशु की तरह सो रहा था। उसके ऊपर एक सख्त छिलके का आवरण था जो उसे सर्दी, गर्मी और बाहरी आघातों से बचाता था। जब उसे पर्याप्त नमी, ताप और ताजी हवा मिली, तो वह अंगड़ाई लेकर जाग उठा और उसका बाहरी कवच टूट गया।\"\n(क) सुप्त बीज की तुलना सोते हुए शिशु से क्यों की गई है?\n(ख) सख्त बाहरी छिलके (बीजावरण) का जैविक कार्य क्या है?\n(ग) किन तीन विशिष्ट पर्यावरणीय कारकों ने बीज को जागने के लिए प्रेरित किया?\n(घ) बीज के जागने के तुरंत बाद क्या हुआ?",
-      "answer": "(a) The dormant seed is compared to a sleeping baby because, inside its shell, it contains a living, highly delicate, and fragile miniature plant (embryo) that rests peacefully in the dark womb of the soil, waiting to grow just like a newborn human infant.\n(b) The biological function of the hard outer shell (seed coat / Bijavaran) is to act as protective armor. It defends the tender internal embryo from extreme winter cold, scorching summer heat, physical shocks, mechanical injuries, and bacterial infections during its long dormancy.\n(c) The three specific environmental factors that triggered the seed to awaken from its slumber were adequate moisture (water), warmth (favorable temperature/sunlight), and fresh air (oxygen).\n(d) Immediately after waking up, the seed absorbed water and swelled, causing its hard protective outer coat to rupture and break open, allowing the tiny shoots (radicle and plumule) to emerge and initiate germination.",
-      "answerHi": "(क) सुप्त बीज की तुलना सोते हुए शिशु से इसलिए की गई है क्योंकि उसके छिलके के भीतर एक जीवित, अत्यंत कोमल और नाजुक नन्हा पौधा (भ्रूण) होता है, जो नवजात मानव शिशु की तरह मिट्टी के गर्भ में शांति से सोता हुआ विकास के अनुकूल समय की प्रतीक्षा करता है।\n(ख) सख्त बाहरी छिलके (बीजावरण) का जैविक कार्य एक सुरक्षात्मक कवच के रूप में कार्य करना है। यह लंबी सुप्तावस्था के दौरान कोमल आंतरिक भ्रूण को भीषण सर्दी, कड़ाके की गर्मी, शारीरिक आघातों, यांत्रिक चोटों और जीवाणु संक्रमण से बचाता है।\n(ग) जिन तीन विशिष्ट पर्यावरणीय कारकों ने बीज को अपनी नींद से जागने के लिए प्रेरित किया, वे थे—पर्याप्त नमी (जल), ऊष्मा (अनुकूल तापमान/सूर्य प्रकाश) और ताजी हवा (ऑक्सीजन)।\n(घ) जागने के तुरंत बाद, बीज ने जल अवशोषित करके आकार में वृद्धि की (फूला), जिससे उसका कठोर बाहरी सुरक्षात्मक कवच फटकर टूट गया और नन्हे अंकुरों (मूलांकुर और प्रांकुर) को बाहर निकलने व अंकुरण शुरू करने का मार्ग मिल गया।",
-      "keyPoints": [
-        "(a) Contains a delicate, living embryo resting like a newborn baby / (क) भीतर एक कोमल, जीवित भ्रूण होता है जो नवजात शिशु की तरह विश्राम करता है",
-        "(b) Hard coat shields from heat, cold, shocks, and infections / (ख) कठोर छिलका गर्मी, सर्दी, आघातों और संक्रमणों से रक्षा करता है",
-        "(c) Three triggers: Moisture, Warmth, and Fresh Air / (ग) तीन प्रेरक कारक: पर्याप्त नमी, ऊष्मा (ताप) और ताजी हवा",
-        "(d) Swelling ruptures seed coat allowing shoots to emerge / (घ) फूलने से बीजावरण टूट जाता है जिससे अंकुर बाहर निकलते हैं"
-      ]
+      "difficulty": "Hard",
+      "question": "\"पेड़ ज़मीन के भीतर से पानी खींचते हैं।\" इस प्रक्रिया में जड़ों की बनावट और कार्यप्रणाली का विस्तृत वर्णन निबंध के आधार पर कीजिए।",
+      "questionHi": "\"पेड़ ज़मीन के भीतर से पानी खींचते हैं।\" इस प्रक्रिया में जड़ों की बनावट और कार्यप्रणाली का विस्तृत वर्णन निबंध के आधार पर कीजिए।",
+      "answer": "पेड़-पौधों के जीवन में जड़ों की भूमिका उनके मुँह और पैरों जैसी होती है। जिस प्रकार हमारे पैर हमें ज़मीन पर टिकाए रखते हैं, उसी प्रकार जड़ें मिट्टी के भीतर चारों तरफ फैलकर पेड़ के विशाल शरीर को आंधी-तूफान में भी मजबूती से खड़ा रखती हैं। जड़ों के सिरों पर बहुत ही बारीक और महीन 'मूलरोम' (Root Hairs) होते हैं, जो मिट्टी के कणों के बीच फंसे पानी और खनिज लवणों को चूसने का काम करते हैं।\nजड़ें एक अदृश्य पंप की तरह काम करती हैं। वे ज़मीन की गहराइयों से पानी को खींचती हैं और तने के भीतर मौजूद पतली नलिकाओं (जाइलम) के माध्यम से उस पानी को पेड़ के सबसे ऊपरी हिस्से और पत्तियों तक पहुँचाती हैं। लेखक बताते हैं कि पेड़ों को ठोस भोजन पसंद नहीं है, इसलिए जड़ें केवल उसी भोजन को स्वीकार करती हैं जो पानी में पूरी तरह घुला हुआ हो। इस प्रकार जड़ें चौबीसों घंटे बिना थके पेड़ के लिए पानी और पोषण जुटाने का मुख्य कार्य करती हैं।",
+      "answerHi": "पेड़-पौधों के जीवन में जड़ों की भूमिका उनके मुँह और पैरों जैसी होती है। जिस प्रकार हमारे पैर हमें ज़मीन पर टिकाए रखते हैं, उसी प्रकार जड़ें मिट्टी के भीतर चारों तरफ फैलकर पेड़ के विशाल शरीर को आंधी-तूफान में भी मजबूती से खड़ा रखती हैं। जड़ों के सिरों पर बहुत ही बारीक और महीन 'मूलरोम' (Root Hairs) होते हैं, जो मिट्टी के कणों के बीच फंसे पानी और खनिज लवणों को चूसने का काम करते हैं।\nजड़ें एक अदृश्य पंप की तरह काम करती हैं। वे ज़मीन की गहराइयों से पानी को खींचती हैं और तने के भीतर मौजूद पतली नलिकाओं (जाइलम) के माध्यम से उस पानी को पेड़ के सबसे ऊपरी हिस्से और पत्तियों तक पहुँचाती हैं। लेखक बताते हैं कि पेड़ों को ठोस भोजन पसंद नहीं है, इसलिए जड़ें केवल उसी भोजन को स्वीकार करती हैं जो पानी में पूरी तरह घुला हुआ हो। इस प्रकार जड़ें चौबीसों घंटे बिना थके पेड़ के लिए पानी और पोषण जुटाने का मुख्य कार्य करती हैं।",
+      "keyPoints": []
     },
     {
       "id": "q26",
-      "type": "case-study",
+      "type": "long",
       "marks": 4,
       "difficulty": "Hard",
-      "question": "Read the following historical context regarding J.C. Bose's scientific research and answer the questions below:\n\"आचार्य जगदीश चंद्र बसु ने अपने बनाए गए अति-संवेदनशील यंत्रों—विशेषकर 'क्रेसकोग्राफ'—से विश्व के वैज्ञानिकों को चकित कर दिया। उन्होंने दिखाया कि जिस प्रकार चोट लगने पर या विष देने पर मनुष्य का शरीर तड़पता है, उसी प्रकार पौधे भी उत्तेजना, अवसाद और मृत्यु-कष्ट का अनुभव करते हैं। उनके इस अनुसंधान ने जीव विज्ञान और वनस्पति शास्त्र के बीच की दीवारों को ढहा दिया।\"\n(a) Name the revolutionary scientific instrument invented by J.C. Bose mentioned in the text.\n(b) What extraordinary capability did this instrument possess regarding plant movements?\n(c) How do plants react to physical injury or poison compared to humans, according to Bose's findings?\n(d) How did Bose's research permanently transform global science and the classification of biological disciplines?",
-      "questionHi": "जे.सी. बसु के वैज्ञानिक अनुसंधान से संबंधित निम्नलिखित ऐतिहासिक संदर्भ को पढ़िए और नीचे दिए गए प्रश्नों के उत्तर दीजिए:\n\"आचार्य जगदीश चंद्र बसु ने अपने बनाए गए अति-संवेदनशील यंत्रों—विशेषकर 'क्रेसकोग्राफ'—से विश्व के वैज्ञानिकों को चकित कर दिया। उन्होंने दिखाया कि जिस प्रकार चोट लगने पर या विष देने पर मनुष्य का शरीर तड़पता है, उसी प्रकार पौधे भी उत्तेजना, अवसाद और मृत्यु-कष्ट का अनुभव करते हैं। उनके इस अनुसंधान ने जीव विज्ञान और वनस्पति शास्त्र के बीच की दीवारों को ढहा दिया।\"\n(क) गद्यांश में उल्लिखित जे.सी. बसु द्वारा आविष्कृत क्रांतिकारी वैज्ञानिक यंत्र का नाम बताइए।\n(ख) पौधों की हलचलों के संबंध में इस यंत्र में कौन-सी असाधारण क्षमता थी?\n(ग) बसु के निष्कर्षों के अनुसार, मनुष्यों की तुलना में पौधे शारीरिक चोट या विष के प्रति कैसी प्रतिक्रिया करते हैं?\n(घ) बसु के अनुसंधान ने वैश्विक विज्ञान और जैविक विषयों के वर्गीकरण को स्थायी रूप से कैसे बदल दिया?",
-      "answer": "(a) The revolutionary scientific instrument invented by Acharya Jagadish Chandra Bose mentioned in the text is the **Crescograph** (क्रेसकोग्राफ).\n(b) The extraordinary capability of the Crescograph was its ultra-sensitivity; it could magnify the microscopic movements, vibrations, and growth rates of plants by up to 10,000 times, making their invisible physiological reactions clearly visible and recordable.\n(c) According to Bose's findings, plants react to physical injury, electrical shocks, or chemical poisons in a manner fundamentally identical to humans and animals. When poisoned or injured, they exhibit measurable physiological distress, violent spasms, depression, and ultimate death-spasms (mrityu-kasht).\n(d) Bose's research permanently transformed global science by demolishing the artificial rigid walls between Zoology (study of animals) and Botany (study of plants). He established the unifying principle of physiology—proving that all living organisms share a universal nervous sensitivity and common biological laws of life and response.",
-      "answerHi": "(क) गद्यांश में उल्लिखित आचार्य जगदीश चंद्र बसु द्वारा आविष्कृत क्रांतिकारी वैज्ञानिक यंत्र का नाम **क्रेसकोग्राफ** (Crescograph) है।\n(ख) क्रेसकोग्राफ की असाधारण क्षमता उसकी अति-संवेदनशीलता थी; यह पौधों की सूक्ष्म हलचलों, स्पंदनों और वृद्धि दर को 10,000 गुना तक बड़ा करके दिखा सकता था, जिससे उनकी अदृश्य शारीरिक प्रतिक्रियाएँ स्पष्ट रूप से देखने व रिकॉर्ड करने योग्य हो गईं।\n(ग) बसु के निष्कर्षों के अनुसार, पौधे शारीरिक चोट, बिजली के झटके या रासायनिक विष के प्रति मनुष्यों और पशुओं के बिल्कुल समान प्रतिक्रिया करते हैं। विष देने या चोट लगने पर वे मापनीय शारीरिक कष्ट, तीव्र ऐंठन, अवसाद (उदासी) और अंततः मृत्यु-कष्ट का प्रदर्शन करते हैं।\n(घ) बसु के अनुसंधान ने जीव विज्ञान (प्राणी शास्त्र) और वनस्पति शास्त्र के बीच की कृत्रिम और कठोर दीवारों को ढहाकर वैश्विक विज्ञान को स्थायी रूप से बदल दिया। उन्होंने शरीर क्रिया विज्ञान (physiology) के एकीकृत सिद्धांत को स्थापित किया—यह सिद्ध किया कि सभी जीवित जीवों में एक समान नाड़ी संवेदनशीलता और जीवन व प्रतिक्रिया के सामान्य जैविक नियम होते हैं।",
-      "keyPoints": [
-        "(a) Instrument invented: Crescograph (क्रेसकोग्राफ) / (क) आविष्कृत यंत्र: क्रेसकोग्राफ",
-        "(b) Magnified plant movements up to 10,000 times / (ख) पौधों की हलचलों को 10,000 गुना तक बड़ा करके दिखाया",
-        "(c) Plants show distress, spasms, and death-throes like humans when injured/poisoned / (ग) चोट या विष पर पौधे मनुष्यों की तरह कष्ट, ऐंठन और मृत्यु-कष्ट दर्शाते हैं",
-        "(d) Demolished barriers between Botany and Zoology, proving unity of life / (घ) वनस्पति व प्राणी शास्त्र की दीवारें तोड़कर जीवन की एकता सिद्ध की"
-      ]
+      "question": "मानवीकरण अलंकार के दृष्टिकोण से स्पष्ट कीजिए कि लेखक ने पेड़ की पत्तियों, शाखाओं और फूलों को मनुष्यों के किन रूपों और व्यवहारों से जोड़ा है?",
+      "questionHi": "मानवीकरण अलंकार के दृष्टिकोण से स्पष्ट कीजिए कि लेखक ने पेड़ की पत्तियों, शाखाओं और फूलों को मनुष्यों के किन रूपों और व्यवहारों से जोड़ा है?",
+      "answer": "लेखक सर जगदीश चंद्र बसु ने इस पूरे निबंध में 'मानवीकरण' (पेड़-पौधों को इंसानों की तरह व्यवहार करते दिखाना) का बहुत ही कलात्मक प्रयोग किया है। उन्होंने पेड़ की विभिन्न अवस्थाओं को इंसानी जीवन से इस प्रकार जोड़ा है:\n\n* बीज और माँ: बीज के कड़े छिलके को उन्होंने माँ की ममतामयी गोद कहा है, जो बच्चे (नन्हे पौधे) को दुनिया के कष्टों से बचाकर रखती है।\n* पत्तियाँ और रसोइया: पत्तियों को उन्होंने पेड़ की 'रसोई' या हाथ कहा है, जो दिनभर धूप में तपकर पूरे पेड़ के परिवार के लिए भोजन पकाने का काम करती हैं।\n* शाखाएँ और भुजाएँ: पेड़ की टहनियों को उन्होंने मनुष्य के हाथ या भुजाएँ माना है, जो हवा चलने पर नाचती हैं और पक्षियों को सहारा देती हैं।\n* फूल और मुस्कान: फूलों को उन्होंने पेड़ की प्रसन्नता या उसकी 'मुस्कान' कहा है। जब पेड़ खुश होता है, तो वह फूलों के रूप में मुस्कुराता है। इस शैली से पेड़ हमारे बहुत करीब महसूस होने लगते हैं।",
+      "answerHi": "लेखक सर जगदीश चंद्र बसु ने इस पूरे निबंध में 'मानवीकरण' (पेड़-पौधों को इंसानों की तरह व्यवहार करते दिखाना) का बहुत ही कलात्मक प्रयोग किया है। उन्होंने पेड़ की विभिन्न अवस्थाओं को इंसानी जीवन से इस प्रकार जोड़ा है:\n\n* बीज और माँ: बीज के कड़े छिलके को उन्होंने माँ की ममतामयी गोद कहा है, जो बच्चे (नन्हे पौधे) को दुनिया के कष्टों से बचाकर रखती है।\n* पत्तियाँ और रसोइया: पत्तियों को उन्होंने पेड़ की 'रसोई' या हाथ कहा है, जो दिनभर धूप में तपकर पूरे पेड़ के परिवार के लिए भोजन पकाने का काम करती हैं।\n* शाखाएँ और भुजाएँ: पेड़ की टहनियों को उन्होंने मनुष्य के हाथ या भुजाएँ माना है, जो हवा चलने पर नाचती हैं और पक्षियों को सहारा देती हैं।\n* फूल और मुस्कान: फूलों को उन्होंने पेड़ की प्रसन्नता या उसकी 'मुस्कान' कहा है। जब पेड़ खुश होता है, तो वह फूलों के रूप में मुस्कुराता है। इस शैली से पेड़ हमारे बहुत करीब महसूस होने लगते हैं।",
+      "keyPoints": []
     },
     {
       "id": "q27",
       "type": "long",
       "marks": 4,
       "difficulty": "Hard",
-      "question": "Compare and contrast the physiological and behavioral characteristics of plants and animals as presented in 'Ped Ki Baat'. In what fundamental aspects are they identical despite extreme external differences in physical mobility?",
-      "questionHi": "'पेड़ की बात' में प्रस्तुत किए गए अनुसार पौधों और पशुओं (प्राणियों) की शारीरिक एवं व्यावहारिक विशेषताओं की तुलना कीजिए। शारीरिक गतिशीलता में अत्यधिक बाहरी अंतर के बावजूद वे किन मौलिक पहलुओं में बिल्कुल समान हैं?",
-      "answer": "A comparative analysis of plants and animals based on J.C. Bose's essay reveals both striking external differences and profound internal biological identities:\n\n**1. Contrasting External Characteristics (बाहरी अंतर):**\n* **Locomotion (गतिशीलता):** Animals and humans possess locomotion; they can walk, run, or fly to seek food, shelter, and escape danger. In contrast, plants are sessile (stationary); they remain rooted to one spot in the soil throughout their entire lives.\n* **Feeding Mechanism (भोजन प्रणाली):** Animals are heterotrophs that consume complex organic solid food through an external mouth into an internal digestive stomach. Plants are autotrophs; their roots absorb inorganic water and minerals from the soil, and their green leaves cook food externally in sunlight via photosynthesis.\n* **Speed of Response (प्रतिक्रिया की गति):** Animal responses to stimuli are immediate and visible to the naked eye, whereas plant movements and growth occur at a microscopic, slow pace requiring specialized instruments like the Crescograph to observe.\n\n**2. Fundamental Biological Identities (मौलिक समानताएँ):**\nDespite these external differences, Bose proves that plants and animals are fundamentally identical in their core life processes:\n* **Sensitivity and Nervous System (संवेदनशीलता और नाड़ी तंत्र):** Both possess nervous sensitivity. Plants react to physical touch (e.g., Touch-me-not), sunlight, temperature changes, and electrical stimuli just as animals do.\n* **Emotional States (भावनात्मक अनुभव):** Both experience joy, vigor, and freshness when well-nourished and hydrated, and suffer from fatigue, depression, sorrow, and pain when starved, injured, or poisoned.\n* **Lifecycle and Mortality (जीवन-चक्र और नश्वरता):** Both undergo an identical biological cycle of birth (germination/birth), youth, maturation, reproduction (seeds/offspring), aging, and ultimate death.",
-      "answerHi": "जे.सी. बसु के निबंध पर आधारित पौधों और प्राणियों का तुलनात्मक विश्लेषण स्पष्ट बाहरी अंतरों और गहरी आंतरिक जैविक समानताओं दोनों को उजागर करता है:\n\n**1. विपरीत बाहरी विशेषताएँ (Contrasting External Characteristics):**\n* **गतिशीलता (Locomotion):** पशु और मनुष्य गतिशील होते हैं; वे भोजन, आश्रय और खतरे से बचने के लिए चल, दौड़ या उड़ सकते हैं। इसके विपरीत, पौधे स्थिर (sessile) होते हैं; वे जीवन भर मिट्टी में एक ही स्थान पर टिके रहते हैं।\n* **भोजन प्रणाली (Feeding Mechanism):** प्राणी परपोषी (heterotrophs) होते हैं जो बाहरी मुख से ठोस कार्बनिक भोजन लेकर आंतरिक पेट में पचाते हैं। पेड़ स्वपोषी (autotrophs) होते हैं; उनकी जड़ें मिट्टी से जल व खनिज सोखती हैं और हरी पत्तियाँ सूर्य प्रकाश में प्रकाश-संश्लेषण द्वारा भोजन बनाती हैं।\n* **प्रतिक्रिया की गति (Speed of Response):** उद्दीपनों के प्रति प्राणियों की प्रतिक्रिया तुरंत और सामान्य आँखों से दिखाई देने वाली होती है, जबकि पौधों की हलचल और वृद्धि इतनी धीमी व सूक्ष्म होती है कि उसे देखने के लिए क्रेसकोग्राफ जैसे यंत्रों की आवश्यकता होती है।\n\n**2. मौलिक जैविक समानताएँ (Fundamental Biological Identities):**\nइन बाहरी अंतरों के बावजूद, बसु सिद्ध करते हैं कि अपनी मूल जीवन प्रक्रियाओं में पौधे और प्राणी बिल्कुल समान हैं:\n* **संवेदनशीलता और नाड़ी तंत्र (Sensitivity & Nervous System):** दोनों में स्नायु संवेदनशीलता होती है। पौधे भी पशुओं की तरह स्पर्श (जैसे छुईमुई), प्रकाश, तापमान और विद्युतीय उद्दीपनों के प्रति प्रतिक्रिया करते हैं।\n* **भावनात्मक अनुभव (Emotional States):** दोनों पोषण और जल मिलने पर हर्ष, स्फूर्ति और ताजगी का अनुभव करते हैं, तथा भूखे रहने, चोट लगने या विष देने पर थकान, अवसाद, दुख और पीड़ा से तड़पते हैं।\n* **जीवन-चक्र और नश्वरता (Lifecycle & Mortality):** दोनों जन्म (अंकुरण/जन्म), यौवन, परिपक्वता, प्रजनन (बीज/संतान), बुढ़ापा और अंततः मृत्यु के एक समान जैविक चक्र से गुजरते हैं।",
-      "keyPoints": [
-        "Contrast in Locomotion: Animals move freely while plants remain rooted in one place / गतिशीलता में अंतर: प्राणी मुक्त रूप से चलते हैं जबकि पेड़ एक स्थान पर टिके रहते हैं",
-        "Contrast in Nutrition: Animals ingest solid food; plants synthesize food via photosynthesis / पोषण में अंतर: प्राणी ठोस भोजन लेते हैं; पेड़ प्रकाश-संश्लेषण से भोजन बनाते हैं",
-        "Identity in Sensitivity: Both possess nervous reflex and react to stimuli, injury, and poison / संवेदनशीलता में समानता: दोनों में नाड़ी प्रतिक्रिया होती है और चोट व विष का असर होता है",
-        "Identity in Lifecycle: Both share identical stages of birth, growth, reproduction, and death / जीवन-चक्र में समानता: दोनों जन्म, विकास, प्रजनन और मृत्यु के समान चरणों से गुजरते हैं"
-      ]
+      "question": "मूल्य-आधारित प्रश्न: वर्तमान समय में वनों की अंधाधुंध कटाई (Deforestation) हो रही है। \"पेड़ की बात\" पाठ के प्रकाश में इस समस्या के दुष्प्रभावों और इसके समाधानों पर अपने विचार लिखिए।",
+      "questionHi": "मूल्य-आधारित प्रश्न: वर्तमान समय में वनों की अंधाधुंध कटाई (Deforestation) हो रही है। \"पेड़ की बात\" पाठ के प्रकाश में इस समस्या के दुष्प्रभावों और इसके समाधानों पर अपने विचार लिखिए।",
+      "answer": "आज मनुष्य अपने स्वार्थ, फैक्ट्रियों और कंक्रीट के जंगल (शहरीकरण) बनाने के लिए वनों की अंधाधुंध कटाई कर रहा है, जो कि अत्यंत चिंताजनक है। इस पाठ के आलोक में, यदि हम पेड़ों को काट रहे हैं, तो हम वास्तव में जीवित प्राणियों की हत्या कर रहे हैं और अपने पैर पर खुद कुल्हाड़ी मार रहे हैं。\n\n* दुष्प्रभाव: पेड़ों के कटने से शुद्ध हवा की कमी हो रही है जिससे बीमारियाँ बढ़ रही हैं। वर्षा का चक्र बिगड़ गया है, कहीं सूखा तो कहीं भयानक बाढ़ आ रही है। जंगली जानवरों के घर छिन जाने से वे लुप्त हो रहे हैं और ग्लोबल वार्मिंग का खतरा बढ़ गया है।\n* समाधान: इसका एकमात्र समाधान यह है कि 'एक पेड़, एक जीवन' के नारे को अपनाया जाए। यदि किसी विकास कार्य के लिए एक पेड़ काटना पड़े, तो उसके बदले पाँच नए पौधे लगाए जाने चाहिए। प्रत्येक छात्र को अपने जन्मदिन पर एक पौधा लगाने और उसकी देखभाल करने का संकल्प लेना चाहिए। वनों की कटाई के खिलाफ कड़े कानून बनने चाहिए और समाज में पर्यावरण के प्रति जागरूकता फैलाई जानी चाहिए।",
+      "answerHi": "आज मनुष्य अपने स्वार्थ, फैक्ट्रियों और कंक्रीट के जंगल (शहरीकरण) बनाने के लिए वनों की अंधाधुंध कटाई कर रहा है, जो कि अत्यंत चिंताजनक है। इस पाठ के आलोक में, यदि हम पेड़ों को काट रहे हैं, तो हम वास्तव में जीवित प्राणियों की हत्या कर रहे हैं और अपने पैर पर खुद कुल्हाड़ी मार रहे हैं。\n\n* दुष्प्रभाव: पेड़ों के कटने से शुद्ध हवा की कमी हो रही है जिससे बीमारियाँ बढ़ रही हैं। वर्षा का चक्र बिगड़ गया है, कहीं सूखा तो कहीं भयानक बाढ़ आ रही है। जंगली जानवरों के घर छिन जाने से वे लुप्त हो रहे हैं और ग्लोबल वार्मिंग का खतरा बढ़ गया है।\n* समाधान: इसका एकमात्र समाधान यह है कि 'एक पेड़, एक जीवन' के नारे को अपनाया जाए। यदि किसी विकास कार्य के लिए एक पेड़ काटना पड़े, तो उसके बदले पाँच नए पौधे लगाए जाने चाहिए। प्रत्येक छात्र को अपने जन्मदिन पर एक पौधा लगाने और उसकी देखभाल करने का संकल्प लेना चाहिए। वनों की कटाई के खिलाफ कड़े कानून बनने चाहिए और समाज में पर्यावरण के प्रति जागरूकता फैलाई जानी चाहिए।",
+      "keyPoints": []
     },
     {
       "id": "q28",
-      "type": "value-based",
+      "type": "long",
       "marks": 4,
-      "difficulty": "Medium",
-      "question": "'A tree gives soothing shade and sweet fruits even to the cruel woodcutter who raises an axe to cut it down.' How is this unconditional altruism of trees reflected in J.C. Bose's portrayal of plant life, and what profound message does it offer to modern human society?",
-      "questionHi": "'एक पेड़ उस क्रूर लकड़हारे को भी शीतल छाया और मीठे फल देता है जो उसे काटने के लिए कुल्हाड़ी उठाता है।' पेड़ों का यह निःस्वार्थ परोपकार जे.सी. बसु द्वारा वनस्पति जीवन के चित्रण में कैसे झलकता है, और यह आधुनिक मानव समाज को क्या गहरा संदेश देता है?",
-      "answer": "In 'Ped Ki Baat', J.C. Bose portrays trees not merely as botanical specimens, but as silent, benevolent saints of the natural world. He highlights that trees spend their entire lives absorbing raw, inorganic elements from the earth and sky—toiling endlessly in the burning sun—only to convert them into life-giving gifts for others. The phrase 'giving shade and fruits even to the woodcutter' captures the absolute perfection of unconditional altruism (Nishwarth Paropkar). A tree does not discriminate between a friend who waters it and an enemy who chops it down; it continues to offer oxygen, shade, flowers, and fruits with boundless forgiveness and generosity until its last breath.\n\nThis portrayal offers a profound message to modern human society, which is increasingly plagued by greed, selfishness, conflict, and transactional relationships. It teaches us:\n1. **Universal Brotherhood and Forgiveness:** To rise above petty hatred, revenge, and enmity, and extend kindness and forgiveness even to those who wrong us.\n2. **Selfless Service (Seva):** To contribute our skills, wealth, and energy for the welfare of society and the protection of the environment without demanding recognition or material rewards.\n3. **Living a Meaningful Life:** That true greatness and immortality lie not in what we accumulate for ourselves, but in what we selflessly give to enrich the lives of others and future generations.",
-      "answerHi": "'पेड़ की बात' में, जे.सी. बसु पेड़ों को केवल वानस्पतिक नमूनों के रूप में नहीं, बल्कि प्राकृतिक जगत के मौन, परोपकारी संतों के रूप में चित्रित करते हैं। वे रेखांकित करते हैं कि पेड़ अपना संपूर्ण जीवन पृथ्वी और आकाश से कच्चे, अकार्बनिक तत्वों को सोखने तथा तपती धूप में निरंतर परिश्रम करने में बिता देते हैं—केवल इसलिए ताकि वे उन्हें दूसरों के लिए जीवनदायी उपहारों में बदल सकें। 'लकड़हारे को भी छाया और फल देना' निःस्वार्थ परोपकार की परम पूर्णता को दर्शाता है। एक पेड़ उस मित्र में जो उसे पानी देता है और उस शत्रु में जो उसे काटता है, कोई भेदभाव नहीं करता; वह अपनी अंतिम साँस तक असीम क्षमाशीलता और उदारता के साथ ऑक्सीजन, छाया, फूल और फल लुटाता रहता है।\n\nयह चित्रण आधुनिक मानव समाज को एक गहरा संदेश देता है, जो लगातार लालच, स्वार्थ, संघर्ष और सौदेबाजी के रिश्तों से ग्रसित होता जा रहा है। यह हमें सिखाता है:\n1. **विश्व-बंधुत्व और क्षमाशीलता:** क्षुद्र घृणा, बदले की भावना और शत्रुता से ऊपर उठकर उन लोगों के प्रति भी दया और क्षमा का भाव रखना जो हमें नुकसान पहुँचाते हैं।\n2. **निःस्वार्थ सेवा (निष्काम कर्म):** प्रशंसा या भौतिक पुरस्कारों की मांग किए बिना समाज के कल्याण और पर्यावरण की रक्षा के लिए अपने कौशल, धन और ऊर्जा का योगदान देना।\n3. **सार्थक जीवन जीना:** कि सच्ची महानता और अमरता इस बात में नहीं है कि हम अपने लिए क्या इकट्ठा करते हैं, बल्कि इसमें है कि हम दूसरों और भावी पीढ़ियों का जीवन संवारने के लिए निःस्वार्थ भाव से क्या देते हैं।",
-      "keyPoints": [
-        "Portrays trees as benevolent saints practicing unconditional altruism / पेड़ों को बिना शर्त निःस्वार्थ परोपकार करने वाले उदार संतों के रूप में चित्रण",
-        "No discrimination between a nurturing friend and a destructive woodcutter / पोषण करने वाले मित्र और काटने वाले लकड़हारे के बीच कोई भेदभाव नहीं",
-        "Teaches society to practice forgiveness and rise above revenge / समाज को क्षमाशीलता अपनाने और बदले की भावना से ऊपर उठने की सीख",
-        "Inspires selfless service (Seva) and living to enrich future generations / निःस्वार्थ सेवा (निष्काम कर्म) और भावी पीढ़ियों का जीवन संवारने की प्रेरणा"
-      ]
+      "difficulty": "Hard",
+      "question": "बीजों के प्रसार (Dispersal of Seeds) में हवा, पानी और पक्षियों की भूमिका का पाठ में किस प्रकार वर्णन किया गया है? सविस्तार स्पष्ट कीजिए।",
+      "questionHi": "बीजों के प्रसार (Dispersal of Seeds) में हवा, पानी और पक्षियों की भूमिका का पाठ में किस प्रकार वर्णन किया गया है? सविस्तार स्पष्ट कीजिए।",
+      "answer": "बीजों का एक स्थान से दूसरे स्थान पर फैलना प्रकृति की एक बहुत ही अनूठी और आवश्यक व्यवस्था है, जिसे बीजों का प्रसार कहते हैं। पाठ के अनुसार इसके मुख्य माध्यम निम्नलिखित हैं:\n\n1. हवा द्वारा: कुछ बीजों के साथ बहुत हल्के रोएँ या पंख जैसी संरचना होती है (जैसे कपास या मदार के बीज)। जब तेज हवा या आंधी चलती है, तो ये बीज हवा में गुब्बारे की तरह उड़कर मीलों दूर चले जाते हैं और नई जगह पर उग आते हैं।\n2. पानी द्वारा: जो पेड़ नदियों, तालाबों या समुद्र के किनारे होते हैं (जैसे नारियल), उनके बीज पानी में गिर जाते हैं। वे पानी के बहाव के साथ तैरते हुए दूसरे तटों पर पहुँच जाते हैं और वहाँ मिट्टी पाकर अंकुरित होते हैं।\n3. पक्षियों और जानवरों द्वारा: पक्षी जब पेड़ों के मीठे फल खाते हैं, तो वे उनके बीजों को साबुत निगल लेते हैं या अपनी चोंच में दबाकर दूर ले जाते हैं। उनके मल के माध्यम से या जहाँ वे बीज गिराते हैं, वहाँ नए पेड़ उग आते हैं। कुछ बीजों में कांटे होते हैं जो जानवरों के बालों से चिपककर दूर चले जाते हैं।",
+      "answerHi": "बीजों का एक स्थान से दूसरे स्थान पर फैलना प्रकृति की एक बहुत ही अनूठी और आवश्यक व्यवस्था है, जिसे बीजों का प्रसार कहते हैं। पाठ के अनुसार इसके मुख्य माध्यम निम्नलिखित हैं:\n\n1. हवा द्वारा: कुछ बीजों के साथ बहुत हल्के रोएँ या पंख जैसी संरचना होती है (जैसे कपास या मदार के बीज)। जब तेज हवा या आंधी चलती है, तो ये बीज हवा में गुब्बारे की तरह उड़कर मीलों दूर चले जाते हैं और नई जगह पर उग आते हैं।\n2. पानी द्वारा: जो पेड़ नदियों, तालाबों या समुद्र के किनारे होते हैं (जैसे नारियल), उनके बीज पानी में गिर जाते हैं। वे पानी के बहाव के साथ तैरते हुए दूसरे तटों पर पहुँच जाते हैं और वहाँ मिट्टी पाकर अंकुरित होते हैं।\n3. पक्षियों और जानवरों द्वारा: पक्षी जब पेड़ों के मीठे फल खाते हैं, तो वे उनके बीजों को साबुत निगल लेते हैं या अपनी चोंच में दबाकर दूर ले जाते हैं। उनके मल के माध्यम से या जहाँ वे बीज गिराते हैं, वहाँ नए पेड़ उग आते हैं। कुछ बीजों में कांटे होते हैं जो जानवरों के बालों से चिपककर दूर चले जाते हैं।",
+      "keyPoints": []
     },
     {
       "id": "q29",
-      "type": "case-study",
+      "type": "long",
       "marks": 4,
       "difficulty": "Hard",
-      "question": "Read the following ecological scenario described in the chapter and answer the questions below:\n\"जंगल में जब अनेक पेड़ एक साथ पास-पास उगते हैं, तो उनमें सूर्य की रोशनी और खुली हवा पाने के लिए एक मूक लेकिन तीव्र प्रतिस्पर्धा होती है। हर पेड़ अपनी शाखाओं को ऊपर आकाश की ओर फैलाने की कोशिश करता है ताकि वह धूप पा सके। जो पेड़ पीछे रह जाते हैं या धूप नहीं पा पाते, वे धीरे-धीरे कमजोर होकर सूख जाते हैं।\"\n(a) What natural resources are the trees in a dense forest silently competing for?\n(b) Why is this competition described as 'silent but intense' (mook lekin teevra)?\n(c) What physical adaptation or growth strategy do trees adopt to win this struggle for survival?\n(d) What is the ultimate ecological fate of the trees that fail to secure adequate sunlight, and what ecological lesson does this teach?",
-      "questionHi": "पाठ में वर्णित निम्नलिखित पारिस्थितिक परिदृश्य को पढ़िए और नीचे दिए गए प्रश्नों के उत्तर दीजिए:\n\"जंगल में जब अनेक पेड़ एक साथ पास-पास उगते हैं, तो उनमें सूर्य की रोशनी और खुली हवा पाने के लिए एक मूक लेकिन तीव्र प्रतिस्पर्धा होती है। हर पेड़ अपनी शाखाओं को ऊपर आकाश की ओर फैलाने की कोशिश करता है ताकि वह धूप पा सके। जो पेड़ पीछे रह जाते हैं या धूप नहीं पा पाते, वे धीरे-धीरे कमजोर होकर सूख जाते हैं।\"\n(क) घने जंगल में पेड़ किन प्राकृतिक संसाधनों को पाने के लिए मौन प्रतिस्पर्धा करते हैं?\n(ख) इस प्रतिस्पर्धा को 'मूक लेकिन तीव्र' (silent but intense) क्यों कहा गया है?\n(ग) जीवन के इस संघर्ष को जीतने के लिए पेड़ कौन-सा शारीरिक अनुकूलन या वृद्धि रणनीति अपनाते हैं?\n(घ) पर्याप्त सूर्य प्रकाश न पाने वाले पेड़ों का अंतिम पारिस्थितिक हश्र क्या होता है, और यह हमें क्या पारिस्थितिक पाठ पढ़ाता है?",
-      "answer": "(a) In a dense forest, trees are silently competing for two vital natural resources: solar energy (sunlight / surya ki roshni) and fresh atmospheric air (khuli hawa), which are indispensable for photosynthesis.\n(b) This competition is described as 'silent but intense' because trees do not fight violently with vocal noise, weapons, or physical blows like animals; yet, it is an intense, life-and-death biological struggle where every single leaf and branch is locked in a relentless race for survival.\n(c) To win this struggle, trees adopt a structural growth adaptation: they grow rapidly upward, pushing their main trunks taller towards the sky while shedding lower shaded branches, and spread their top branches wide into a dense canopy to capture the maximum sunlight before their neighbors can.\n(d) Trees that fail to secure adequate sunlight are overshadowed by taller trees; deprived of solar energy, their leaves cannot synthesize food, causing them to gradually weaken, wither, starve, and die. This teaches the ecological lesson of 'Survival of the Fittest' and highlights the paramount importance of sunlight and space in maintaining healthy forests.",
-      "answerHi": "(क) घने जंगल में, पेड़ दो अत्यंत महत्वपूर्ण प्राकृतिक संसाधनों को पाने के लिए मौन प्रतिस्पर्धा करते हैं: सौर ऊर्जा (सूर्य की रोशनी) और ताजी वायुमंडलीय हवा (खुली हवा), जो प्रकाश-संश्लेषण के लिए परम आवश्यक हैं।\n(ख) इस प्रतिस्पर्धा को 'मूक लेकिन तीव्र' इसलिए कहा गया है क्योंकि पेड़ पशुओं की तरह आवाज करके, हथियारों से या हिंसक मारपीट से नहीं लड़ते; फिर भी यह जीवन और मृत्यु का एक अत्यंत तीव्र जैविक संघर्ष है जहाँ हर एक पत्ती और शाखा जीवित रहने की निरंतर दौड़ में लगी रहती है।\n(ग) इस संघर्ष को जीतने के लिए, पेड़ एक संरचनात्मक वृद्धि अनुकूलन अपनाते हैं: वे तेजी से ऊपर की ओर बढ़ते हैं, अपने मुख्य तनों को आकाश की ओर ऊँचा उठाते हैं (निचली छांव वाली शाखाओं को गिराकर), और अपनी ऊपरी शाखाओं को एक घनी छतरी की तरह चौड़ा फैलाते हैं ताकि अपने पड़ोसियों से पहले अधिकतम धूप सोख सकें।\n(घ) जो पेड़ पर्याप्त सूर्य प्रकाश पाने में विफल रहते हैं, वे ऊँचे पेड़ों की घनी छाया से ढक जाते हैं; सौर ऊर्जा के अभाव में उनकी पत्तियाँ भोजन नहीं बना पातीं, जिससे वे धीरे-धीरे कमजोर होते हैं, मुरझाते हैं, भूख से सूखते हैं और अंततः मर जाते हैं। यह हमें 'योग्यतम की उत्तरजीविता' (Survival of the Fittest) का पारिस्थितिक पाठ पढ़ाता है और स्वस्थ जंगलों के लिए धूप व स्थान के अत्यधिक महत्त्व को दर्शाता है।",
-      "keyPoints": [
-        "(a) Competing for Sunlight and Fresh Air for photosynthesis / (क) प्रकाश-संश्लेषण हेतु सूर्य प्रकाश और ताजी हवा के लिए प्रतिस्पर्धा",
-        "(b) Silent yet a life-and-death biological race without physical noise / (ख) बिना शोर-शराबे के जीवन और मृत्यु की अत्यंत तीव्र जैविक दौड़",
-        "(c) Adaptation: Rapid upward vertical growth and wide top canopy / (ग) अनुकूलन: तेजी से ऊपर की ओर वृद्धि और ऊपरी छतरी का फैलाव",
-        "(d) Starvation and death of shaded trees demonstrates 'Survival of the Fittest' / (घ) धूप से वंचित पेड़ों की भूख से मृत्यु 'योग्यतम की उत्तरजीविता' दर्शाती है"
-      ]
+      "question": "लेखक ने इस निबंध में \"जीवन के छिपे हुए चमत्कार\" को किस प्रकार परिभाषित किया है? विज्ञान और चेतना के संबंध को स्पष्ट कीजिए।",
+      "questionHi": "लेखक ने इस निबंध में \"जीवन के छिपे हुए चमत्कार\" को किस प्रकार परिभाषित किया है? विज्ञान और चेतना के संबंध को स्पष्ट कीजिए।",
+      "answer": "लेखक ने एक निर्जीव और सूखे दिखाई देने वाले बीज के भीतर \"जीवन के छिपे हुए चमत्कार\" को परिभाषित किया है। बाहर से देखने पर एक बीज बिल्कुल पत्थर जैसा कठोर, गतिहीन और बेजान लगता है। उसे देखकर कोई नहीं कह सकता कि इसके भीतर कोई हलचल है। लेकिन वास्तव में उसके भीतर जीवन का एक बहुत बड़ा चमत्कार छिपा होता है। वह समय का इंतज़ार करता है।\nजैसे ही उसे मिट्टी की गोद और पानी का स्पर्श मिलता है, वह चमत्कार प्रकट हो जाता है और उस मृतप्राय बीज से एक सजीव, सुंदर हरा अंकुर मुस्कुराता हुआ बाहर आ जाता है। यह विज्ञान और चेतना के गहरे संबंध को दिखाता है कि प्रकृति ने हर छोटी से छोटी चीज़ में जीवन का संचार किया है। विज्ञान केवल उसी को जीवन नहीं मानता जो चल-फिर सके, बल्कि जिसमें संवेदनशीलता और वृद्धि है, वहाँ चेतना मौजूद है।",
+      "answerHi": "लेखक ने एक निर्जीव और सूखे दिखाई देने वाले बीज के भीतर \"जीवन के छिपे हुए चमत्कार\" को परिभाषित किया है। बाहर से देखने पर एक बीज बिल्कुल पत्थर जैसा कठोर, गतिहीन और बेजान लगता है। उसे देखकर कोई नहीं कह सकता कि इसके भीतर कोई हलचल है। लेकिन वास्तव में उसके भीतर जीवन का एक बहुत बड़ा चमत्कार छिपा होता है। वह समय का इंतज़ार करता है।\nजैसे ही उसे मिट्टी की गोद और पानी का स्पर्श मिलता है, वह चमत्कार प्रकट हो जाता है और उस मृतप्राय बीज से एक सजीव, सुंदर हरा अंकुर मुस्कुराता हुआ बाहर आ जाता है। यह विज्ञान और चेतना के गहरे संबंध को दिखाता है कि प्रकृति ने हर छोटी से छोटी चीज़ में जीवन का संचार किया है। विज्ञान केवल उसी को जीवन नहीं मानता जो चल-फिर सके, बल्कि जिसमें संवेदनशीलता और वृद्धि है, वहाँ चेतना मौजूद है।",
+      "keyPoints": []
     },
     {
       "id": "q30",
       "type": "long",
       "marks": 4,
       "difficulty": "Hard",
-      "question": "How does Acharya J.C. Bose's essay 'Ped Ki Baat' enrich Class 6 Hindi literature by blending scientific observation with poetic sensibility? Analyze its language style, literary devices, and educational significance for middle school students.",
-      "questionHi": "आचार्य जे.सी. बसु का निबंध 'पेड़ की बात' वैज्ञानिक अवलोकन को काव्यात्मक संवेदनशीलता के साथ मिलाकर कक्षा 6 के हिंदी साहित्य को किस प्रकार समृद्ध करता है? मिडिल स्कूल के छात्रों के लिए इसकी भाषा-शैली, साहित्यिक उपकरणों और शैक्षिक महत्त्व का विश्लेषण कीजिए।",
-      "answer": "Acharya Jagadish Chandra Bose's essay 'Ped Ki Baat' is a masterpiece of modern Hindi literature that enriches the Class 6 curriculum by seamlessly blending rigorous scientific observation with profound poetic sensibility and literary grace. Its contribution can be analyzed across three major dimensions:\n\n1. **Language Style and Simplicity (भाषा-शैली और सरलता):** Written originally to communicate complex botanical truths to common readers and young minds, the essay employs lucid, flowing, and accessible Hindi (Khadi Boli) enriched with appropriate Sanskrit-derived (Tatsam) and everyday (Tadbhav) words. Bose avoids dense, intimidating academic jargon, ensuring that a Class 6 student can effortlessly grasp intricate physiological concepts like dormancy, germination, osmosis, and photosynthesis.\n\n2. **Use of Literary Devices and Metaphors (साहित्यिक उपकरण और रूपक):** Bose humanizes the plant kingdom through brilliant personification (मानवीकरण) and vivid metaphors (रूपक). By describing the hard seed coat as a 'warm protective blanket', the sprouting seed as an 'awakening baby stretching its limbs', root hairs as 'thousands of drinking mouths', and leaves as 'busy kitchens', he transforms dry botany into an engaging, fairytale-like narrative that captures children's imagination.\n\n3. **Educational Significance and Holistic Learning (शैक्षिक महत्त्व):** For middle school students, this essay achieves a multidisciplinary synthesis—merging Hindi language learning with science (botany) and moral education (value education). It stimulates scientific curiosity, encourages analytical observation of nature, and nurtures deep emotional intelligence and environmental empathy. By learning that trees feel joy and pain just as we do, students develop a lifelong character value of reverence for all living beings, fulfilling the core objectives of the NCERT 2025-26 curriculum.",
-      "answerHi": "आचार्य जगदीश चंद्र बसु का निबंध 'पेड़ की बात' आधुनिक हिंदी साहित्य की एक उत्कृष्ट रचना है जो गहन वैज्ञानिक अवलोकन को काव्यात्मक संवेदनशीलता और साहित्यिक सौंदर्य के साथ सहजता से मिलाकर कक्षा 6 के पाठ्यक्रम को समृद्ध करती है। इसके योगदान का विश्लेषण तीन प्रमुख आयामों में किया जा सकता है:\n\n1. **भाषा-शैली और सरलता (Language Style and Simplicity):** सामान्य पाठकों और युवा मस्तिष्कों तक जटिल वानस्पतिक सत्यों को पहुँचाने के लिए लिखा गया यह निबंध सहज, प्रवाहमयी और बोधगम्य हिंदी (खड़ी बोली) का उपयोग करता है, जिसमें उपयुक्त तत्सम और तद्भव शब्दों का सुंदर समन्वय है। बसु कठिन और बोझिल अकादमिक शब्दावली से बचते हैं, जिससे कक्षा 6 का छात्र सुप्तावस्था, अंकुरण, परासरण और प्रकाश-संश्लेषण जैसी जटिल शारीरिक अवधारणाओं को बिना किसी कठिनाई के समझ लेता है।\n\n2. **साहित्यिक उपकरणों और रूपकों का उपयोग (Literary Devices & Metaphors):** बसु उत्कृष्ट मानवीकरण (personification) और जीवंत रूपकों (metaphors) के माध्यम से वनस्पति जगत को मानवीय संवेदना से जोड़ते हैं। सख्त बीजावरण को 'गर्म सुरक्षात्मक कंबल', अंकुरित होते बीज को 'अंगड़ाई लेकर जागता शिशु', मूल-रोमों को 'हजारों पीने वाले मुख' और पत्तियों को 'व्यस्त रसोईघर' के रूप में वर्णित करके, वे शुष्क वनस्पति विज्ञान को एक रोचक, परी-कथा जैसी कहानी में बदल देते हैं जो बच्चों की कल्पना को बांध लेती है।\n\n3. **शैक्षिक महत्त्व और समग्र शिक्षा (Educational Significance):** मिडिल स्कूल के छात्रों के लिए, यह निबंध एक बहु-विषयक समन्वय (multidisciplinary synthesis) हासिल करता है—जो हिंदी भाषा के अध्ययन को विज्ञान (वनस्पति शास्त्र) और नैतिक शिक्षा (मूल्य शिक्षा) के साथ जोड़ता है। यह वैज्ञानिक जिज्ञासा को भड़काता है, प्रकृति के विश्लेषणात्मक अवलोकन को प्रोत्साहित करता है, और गहरी भावनात्मक बुद्धिमत्ता व पर्यावरण सहानुभूति को पोषित करता है। यह जानकर कि पेड़ भी हमारी तरह सुख और दुख महसूस करते हैं, छात्र सभी जीव-जंतुओं के प्रति श्रद्धा का जीवनपर्यंत चारित्रिक मूल्य विकसित करते हैं, जो एनसीईआरटी 2025-26 पाठ्यक्रम के मुख्य उद्देश्यों को पूर्ण करता है।",
-      "keyPoints": [
-        "Language Style: Lucid, flowing Khadi Boli avoiding dense academic jargon / भाषा-शैली: कठिन अकादमिक शब्दावली से मुक्त सहज, प्रवाहमयी खड़ी बोली",
-        "Literary Devices: Brilliant personification and metaphors (sleeping baby, kitchen, drinking mouths) / साहित्यिक उपकरण: उत्कृष्ट मानवीकरण और जीवंत रूपक (सोता शिशु, रसोईघर, पीने वाले मुख)",
-        "Multidisciplinary Synthesis: Seamlessly merges Hindi literature, botany, and moral education / बहु-विषयक समन्वय: हिंदी साहित्य, वनस्पति विज्ञान और नैतिक शिक्षा का सुंदर संगम",
-        "Educational Impact: Fosters scientific curiosity, analytical observation, and lifelong environmental empathy / शैक्षिक प्रभाव: वैज्ञानिक जिज्ञासा, विश्लेषणात्मक अवलोकन और आजीवन पर्यावरण सहानुभूति का विकास"
-      ]
+      "question": "\"पेड़ की बात\" पाठ को पढ़ने के बाद आपकी दैनिक आदतों में क्या बदलाव आएंगे? एक छात्र के रूप में अपनी कार्ययोजना (Action Plan) लिखिए।",
+      "questionHi": "\"पेड़ की बात\" पाठ को पढ़ने के बाद आपकी दैनिक आदतों में क्या बदलाव आएंगे? एक छात्र के रूप में अपनी कार्ययोजना (Action Plan) लिखिए।",
+      "answer": "\"पेड़ की बात\" पाठ को पढ़ने के बाद मेरे मन में पेड़-पौधों के प्रति सम्मान और संवेदना बहुत बढ़ गई है। एक जागरूक छात्र के रूप में मेरी कार्ययोजना निम्नलिखित होगी:\n\n1. पौधों का संरक्षण: मैं अब कभी भी बिना किसी कारण के पेड़ों के पत्ते, टहनियाँ या फूल नहीं तोडूंगा और दूसरों को भी ऐसा करने से रोकूँगा। रात के समय पौधों को बिल्कुल नहीं छूऊँगा ताकि उनकी नींद में खलल न पड़े।\n2. वृक्षारोपण: मैं अपने इस वर्ष के जन्मदिन पर अपने घर के पास या विद्यालय में कम से कम एक छायादार पौधा लगाऊँगा और केवल लगाऊँगा ही नहीं, बल्कि उसके बड़ा होने तक रोज़ उसमें पानी देने और उसकी देखभाल करने की ज़िम्मेदारी लूँगा।\n3. जागरूकता: मैं अपने मित्रों और परिवार के सदस्यों को पेड़ों के महत्व के बारे में बताऊँगा और उन्हें समझाऊँगा कि पेड़ भी हमारी तरह दर्द महसूस करते हैं। मैं कागज़ का कम से कम उपयोग करूँगा और उसे बर्बाद नहीं करूँगा, क्योंकि कागज़ भी पेड़ों को काटकर ही बनाए जाते हैं।",
+      "answerHi": "\"पेड़ की बात\" पाठ को पढ़ने के बाद मेरे मन में पेड़-पौधों के प्रति सम्मान और संवेदना बहुत बढ़ गई है। एक जागरूक छात्र के रूप में मेरी कार्ययोजना निम्नलिखित होगी:\n\n1. पौधों का संरक्षण: मैं अब कभी भी बिना किसी कारण के पेड़ों के पत्ते, टहनियाँ या फूल नहीं तोडूंगा और दूसरों को भी ऐसा करने से रोकूँगा। रात के समय पौधों को बिल्कुल नहीं छूऊँगा ताकि उनकी नींद में खलल न पड़े।\n2. वृक्षारोपण: मैं अपने इस वर्ष के जन्मदिन पर अपने घर के पास या विद्यालय में कम से পণ্ডিত (विद्यालय) में कम से कम एक छायादार पौधा लगाऊँगा और केवल लगाऊँगा ही नहीं, बल्कि उसके बड़ा होने तक रोज़ उसमें पानी देने और उसकी देखभाल करने की ज़िम्मेदारी लूँगा।\n3. जागरूकता: मैं अपने मित्रों और परिवार के सदस्यों को पेड़ों के महत्व के बारे में बताऊँगा और उन्हें समझाऊँगा कि पेड़ भी हमारी तरह दर्द महसूस करते हैं। मैं कागज़ का कम से कम उपयोग करूँगा और उसे बर्बाद नहीं करूँगा, क्योंकि कागज़ भी पेड़ों को काटकर ही बनाए जाते हैं।",
+      "keyPoints": []
     }
   ]
 }
