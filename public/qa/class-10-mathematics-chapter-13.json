@@ -1,0 +1,268 @@
+{
+  "chapterTitle": "Statistics",
+  "chapterTitleHi": "सांख्यिकी",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Write the empirical relationship between the three measures of central tendency (Mean, Median, and Mode).",
+      "questionHi": "केंद्रीय प्रवृत्ति के तीन मापों (माध्य, माध्यिका और बहुलक) के बीच आनुभविक संबंध लिखिए।",
+      "answer": "The empirical relationship linking the three measures of central tendency for moderately skewed data is:\n\n\n$$3 \\times \\text{Median} = \\text{Mode} + 2 \\times \\text{Mean}$$",
+      "answerHi": "मध्यम रूप से विषम डेटा के लिए केंद्रीय प्रवृत्ति के तीन मापों को जोड़ने वाला आनुभविक संबंध है:\n\n\n$$3 \\times \\text{माध्यिका} = \\text{बहुलक} + 2 \\times \\text{माध्य}$$",
+      "keyPoints": [
+        "3 × Median = Mode + 2 × Mean."
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Find the class mark of the class interval $35 - 55$.",
+      "questionHi": "वर्ग अंतराल $35 - 55$ का वर्ग चिह्न ज्ञात कीजिए।",
+      "answer": "The class mark ($x_i$) is the exact midpoint of a class interval.\n\n\n$$\\text{Class Mark} = \\frac{\\text{Lower Limit} + \\text{Upper Limit}}{2}$$\n\n$$\\text{Class Mark} = \\frac{35 + 55}{2} = \\frac{90}{2} = 45$$",
+      "answerHi": "वर्ग चिह्न ($x_i$) वर्ग अंतराल का ठीक मध्य बिंदु होता है।\n\n\n$$\\text{वर्ग चिह्न} = \\frac{\\text{निचली सीमा} + \\text{ऊपरी सीमा}}{2}$$\n\n$$\\text{वर्ग चिह्न} = \\frac{35 + 55}{2} = \\frac{90}{2} = 45$$",
+      "keyPoints": [
+        "Class mark = (Upper limit + Lower limit) / 2.",
+        "Substitute values: (35 + 55) / 2 = 45."
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "State the formula for calculating the Mode of grouped data, identifying all the terms.",
+      "questionHi": "वर्गीकृत आँकड़ों के बहुलक की गणना करने का सूत्र लिखिए और सभी पदों की पहचान कीजिए।",
+      "answer": "$$\\text{Mode} = l + \\left( \\frac{f_1 - f_0}{2f_1 - f_0 - f_2} \\right) \\times h$$\n\n\nWhere:\n\n* $l = \\text{lower limit of the modal class}$\n* $h = \\text{size of the class interval}$\n* $f_1 = \\text{frequency of the modal class}$\n* $f_0 = \\text{frequency of the class preceding the modal class}$\n* $f_2 = \\text{frequency of the class succeeding the modal class}$",
+      "answerHi": "$$\\text{बहुलक} = l + \\left( \\frac{f_1 - f_0}{2f_1 - f_0 - f_2} \\right) \\times h$$\n\n\nजहाँ:\n\n* $l = \\text{बहुलक वर्ग की निचली सीमा}$\n* $h = \\text{वर्ग अंतराल की माप}$\n* $f_1 = \\text{बहुलक वर्ग की बारंबारता}$\n* $f_0 = \\text{बहुलक वर्ग से ठीक पहले वाले वर्ग की बारंबारता}$\n* $f_2 = \\text{बहुलक वर्ग के ठीक बाद वाले वर्ग की बारंबारता}$",
+      "keyPoints": [
+        "State Mode formula.",
+        "Identify l, h, $f_1, f_0, f_2$ clearly."
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "If the mean of the given data is 24 and the median is 26, find the mode using the empirical formula.",
+      "questionHi": "यदि दिए गए आँकड़ों का माध्य 24 और माध्यिका 26 है, तो आनुभविक सूत्र का उपयोग करके बहुलक ज्ञात कीजिए।",
+      "answer": "Given: $\\text{Mean} = 24$, $\\text{Median} = 26$.\n\n\n$$3 \\times \\text{Median} = \\text{Mode} + 2 \\times \\text{Mean}$$\n\n$$3 \\times 26 = \\text{Mode} + 2 \\times 24$$\n\n$$78 = \\text{Mode} + 48 \\implies \\text{Mode} = 78 - 48 = 30$$",
+      "answerHi": "दिया गया है: $\\text{माध्य} = 24$, $\\text{माध्यिका} = 26$।\n\n\n$$3 \\times \\text{माध्यिका} = \\text{बहुलक} + 2 \\times \\text{माध्य}$$\n\n$$3 \\times 26 = \\text{बहुलक} + 2 \\times 24$$\n\n$$78 = \\text{बहुलक} + 48 \\implies \\text{बहुलक} = 78 - 48 = 30$$",
+      "keyPoints": [
+        "Use empirical formula: 3 Median = Mode + 2 Mean.",
+        "Substitute Mean = 24, Median = 26.",
+        "Solve for Mode: Mode = 30."
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "State the formula for calculating the Median of grouped data, identifying the term $cf$.",
+      "questionHi": "वर्गीकृत आँकड़ों की माध्यिका की गणना करने का सूत्र लिखिए और पद $cf$ की पहचान कीजिए।",
+      "answer": "$$\\text{Median} = l + \\left( \\frac{\\frac{n}{2} - cf}{f} \\right) \\times h$$\n\n\nWhere $cf$ is the **cumulative frequency of the class preceding the median class**, $l$ is the lower limit of the median class, $f$ is the frequency of the median class, and $h$ is the class size.",
+      "answerHi": "$$\\text{माध्यिका} = l + \\left( \\frac{\\frac{n}{2} - cf}{f} \\right) \\times h$$\n\n\nजहाँ $cf$ **माध्यिका वर्ग से ठीक पहले वाले वर्ग की संचयी बारंबारता** है, $l$ माध्यिका वर्ग की निचली सीमा है, $f$ माध्यिका वर्ग की बारंबारता है, और $h$ वर्ग माप है।",
+      "keyPoints": [
+        "State Median formula.",
+        "cf is cumulative frequency of PRECEDING class."
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "For the following distribution, identify the modal class:\n\n| Class Interval | $0-10$ | $10-20$ | $20-30$ | $30-40$ | $40-50$ |\n| --- | --- | --- | --- | --- | --- |\n| Frequency | $8$ | $12$ | $20$ | $15$ | $7$ |",
+      "questionHi": "निम्नलिखित बंटन के लिए, बहुलक वर्ग की पहचान कीजिए:\n\n| वर्ग अंतराल | $0-10$ | $10-20$ | $20-30$ | $30-40$ | $40-50$ |\n| --- | --- | --- | --- | --- | --- |\n| बारंबारता | $8$ | $12$ | $20$ | $15$ | $7$ |",
+      "answer": "The modal class is the class interval with the highest frequency. In this table, the highest frequency is $20$.\nTherefore, the modal class is **$20 - 30$**.",
+      "answerHi": "बहुलक वर्ग वह वर्ग अंतराल होता है जिसकी बारंबारता सबसे अधिक होती है। इस सारणी में, सबसे अधिक बारंबारता $20$ है।\nइसलिए, बहुलक वर्ग **$20 - 30$** है।",
+      "keyPoints": [
+        "Modal class has the highest frequency.",
+        "Highest frequency is 20, corresponding to 20-30."
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "If $\\sum f_i = 50$ and $\\sum f_ix_i = 650$, find the mean of the grouped data.",
+      "questionHi": "यदि $\\sum f_i = 50$ और $\\sum f_ix_i = 650$ है, तो वर्गीकृत आँकड़ों का माध्य ज्ञात कीजिए।",
+      "answer": "Using the Direct Method formula for the mean ($\\bar{x}$):\n\n\n$$\\bar{x} = \\frac{\\sum f_ix_i}{\\sum f_i} = \\frac{650}{50} = 13$$\n\n\nThe mean is **$13$**.",
+      "answerHi": "माध्य ($\\bar{x}$) के लिए प्रत्यक्ष विधि सूत्र का उपयोग करते हुए:\n\n\n$$\\bar{x} = \\frac{\\sum f_ix_i}{\\sum f_i} = \\frac{650}{50} = 13$$\n\n\nमाध्य **$13$** है।",
+      "keyPoints": [
+        "Mean formula: $\\sum f_ix_i / \\sum f_i$.",
+        "Substitute 650 / 50 = 13."
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "How do you find the median class in a grouped frequency distribution?",
+      "questionHi": "आप एक वर्गीकृत बारंबारता बंटन में माध्यिका वर्ग कैसे ज्ञात करते हैं?",
+      "answer": "To find the median class, first calculate the cumulative frequency ($cf$) for all classes. Then find $\\frac{n}{2}$ (where $n = \\sum f_i$). The median class is the class whose cumulative frequency is strictly greater than and nearest to $\\frac{n}{2}$.",
+      "answerHi": "माध्यिका वर्ग ज्ञात करने के लिए, सबसे पहले सभी वर्गों के लिए संचयी बारंबारता ($cf$) की गणना करें। फिर $\\frac{n}{2}$ ज्ञात करें (जहाँ $n = \\sum f_i$)। माध्यिका वर्ग वह वर्ग है जिसकी संचयी बारंबारता $\\frac{n}{2}$ से ठीक अधिक और सबसे निकट होती है।",
+      "keyPoints": [
+        "Find cumulative frequencies (cf).",
+        "Calculate n/2.",
+        "Median class has cf just greater than n/2."
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "Consider the following frequency distribution:\n\n| Marks | $0-10$ | $10-20$ | $20-30$ | $30-40$ |\n| --- | --- | --- | --- | --- |\n| No. of students | $5$ | $8$ | $12$ | $15$ |\n\nFind the cumulative frequency of the class $20 - 30$.",
+      "questionHi": "निम्नलिखित बारंबारता बंटन पर विचार कीजिए:\n\n| अंक | $0-10$ | $10-20$ | $20-30$ | $30-40$ |\n| --- | --- | --- | --- | --- |\n| छात्रों की संख्या | $5$ | $8$ | $12$ | $15$ |\n\nवर्ग $20 - 30$ की संचयी बारंबारता ज्ञात कीजिए।",
+      "answer": "The cumulative frequency is the sum of the frequencies up to that class.\n\n$cf$ for ($20-30$) $= 5 + 8 + 12 = 25$.\n\nThe cumulative frequency is **$25$**.",
+      "answerHi": "संचयी बारंबारता उस वर्ग तक की बारंबारताओं का योग है।\n\n($20-30$) के लिए $cf$ $= 5 + 8 + 12 = 25$।\n\nसंचयी बारंबारता **$25$** है।",
+      "keyPoints": [
+        "Add frequencies up to the given class.",
+        "5 + 8 + 12 = 25."
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "Why is the 'Assumed Mean Method' preferred over the 'Direct Method' in some specific statistical problems?",
+      "questionHi": "कुछ विशिष्ट सांख्यिकीय समस्याओं में 'प्रत्यक्ष विधि' की तुलना में 'कल्पित माध्य विधि' (Assumed Mean Method) को प्राथमिकता क्यों दी जाती है?",
+      "answer": "The Assumed Mean Method is preferred when the numerical values of the class marks ($x_i$) and frequencies ($f_i$) are very large. It simplifies the multiplication and addition process, reducing calculation time and minimizing the chances of arithmetic errors.",
+      "answerHi": "कल्पित माध्य विधि को तब प्राथमिकता दी जाती है जब वर्ग चिह्नों ($x_i$) और बारंबारताओं ($f_i$) के संख्यात्मक मान बहुत बड़े होते हैं। यह गुणा और जोड़ की प्रक्रिया को सरल बनाता है, जिससे गणना का समय कम होता है और अंकगणितीय त्रुटियों की संभावना कम हो जाती है।",
+      "keyPoints": [
+        "Preferred when $x_i$ and $f_i$ are large.",
+        "Simplifies calculations and reduces errors."
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "Find the mean of the following distribution using the Direct Method:\n\n| Class | $10-25$ | $25-40$ | $40-55$ | $55-70$ | $70-85$ | $85-100$ |\n| --- | --- | --- | --- | --- | --- | --- |\n| Frequency ($f_i$) | $2$ | $3$ | $7$ | $6$ | $6$ | $6$ |",
+      "questionHi": "प्रत्यक्ष विधि का उपयोग करके निम्नलिखित बंटन का माध्य ज्ञात कीजिए:\n\n| वर्ग | $10-25$ | $25-40$ | $40-55$ | $55-70$ | $70-85$ | $85-100$ |\n| --- | --- | --- | --- | --- | --- | --- |\n| बारंबारता ($f_i$) | $2$ | $3$ | $7$ | $6$ | $6$ | $6$ |",
+      "answer": "Let us construct the table:\n\n| Class | $f_i$ | Class Mark ($x_i$) | $f_ix_i$ |\n| --- | --- | --- | --- |\n| 10-25 | 2 | 17.5 | 35.0 |\n| 25-40 | 3 | 32.5 | 97.5 |\n| 40-55 | 7 | 47.5 | 332.5 |\n| 55-70 | 6 | 62.5 | 375.0 |\n| 70-85 | 6 | 77.5 | 465.0 |\n| 85-100 | 6 | 92.5 | 555.0 |\n| **Total** | **$\\sum f_i = 30$** |  | **$\\sum f_ix_i = 1860$** |\n\n$$\\text{Mean } (\\bar{x}) = \\frac{\\sum f_ix_i}{\\sum f_i} = \\frac{1860}{30} = 62$$\n\n\nThe mean is **$62$**.",
+      "answerHi": "आइए तालिका बनाते हैं:\n\n| वर्ग | $f_i$ | वर्ग चिह्न ($x_i$) | $f_ix_i$ |\n| --- | --- | --- | --- |\n| 10-25 | 2 | 17.5 | 35.0 |\n| 25-40 | 3 | 32.5 | 97.5 |\n| 40-55 | 7 | 47.5 | 332.5 |\n| 55-70 | 6 | 62.5 | 375.0 |\n| 70-85 | 6 | 77.5 | 465.0 |\n| 85-100 | 6 | 92.5 | 555.0 |\n| **कुल** | **$\\sum f_i = 30$** |  | **$\\sum f_ix_i = 1860$** |\n\n$$\\text{माध्य } (\\bar{x}) = \\frac{\\sum f_ix_i}{\\sum f_i} = \\frac{1860}{30} = 62$$\n\n\nमाध्य **$62$** है।",
+      "keyPoints": [
+        "Calculate class marks $x_i$.",
+        "Calculate products $f_ix_i$.",
+        "Use direct mean formula."
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "The following data gives the information on the observed lifetimes (in hours) of 225 electrical components. Find the modal lifetime of the components.\n\n| Lifetimes (in hours) | $0-20$ | $20-40$ | $40-60$ | $60-80$ | $80-100$ | $100-120$ |\n| --- | --- | --- | --- | --- | --- | --- |\n| Frequency | $10$ | $35$ | $52$ | $61$ | $38$ | $29$ |",
+      "questionHi": "निम्नलिखित आँकड़े 225 बिजली उपकरणों के प्रेक्षित जीवनकाल (घंटों में) की जानकारी देते हैं। उपकरणों का बहुलक जीवनकाल ज्ञात कीजिए।\n\n| जीवनकाल (घंटों में) | $0-20$ | $20-40$ | $40-60$ | $60-80$ | $80-100$ | $100-120$ |\n| --- | --- | --- | --- | --- | --- | --- |\n| बारंबारता | $10$ | $35$ | $52$ | $61$ | $38$ | $29$ |",
+      "answer": "The maximum frequency is $61$, which corresponds to the modal class **$60 - 80$**.\nHere, $l = 60$, $h = 20$, $f_1 = 61$, $f_0 = 52$, and $f_2 = 38$.\n\n\n$$\\text{Mode} = l + \\left( \\frac{f_1 - f_0}{2f_1 - f_0 - f_2} \\right) \\times h = 60 + \\left( \\frac{61 - 52}{2(61) - 52 - 38} \\right) \\times 20$$\n\n$$\\text{Mode} = 60 + \\left( \\frac{9}{122 - 90} \\right) \\times 20 = 60 + \\left( \\frac{9}{32} \\right) \\times 20 = 60 + \\frac{180}{32} = 60 + 5.625$$\n\n\nThe modal lifetime is **$65.625\\text{ hours}$**.",
+      "answerHi": "अधिकतम बारंबारता $61$ है, जो बहुलक वर्ग **$60 - 80$** के संगत है।\nयहाँ, $l = 60$, $h = 20$, $f_1 = 61$, $f_0 = 52$, और $f_2 = 38$ है।\n\n\n$$\\text{बहुलक} = l + \\left( \\frac{f_1 - f_0}{2f_1 - f_0 - f_2} \\right) \\times h = 60 + \\left( \\frac{61 - 52}{2(61) - 52 - 38} \\right) \\times 20$$\n\n$$\\text{बहुलक} = 60 + \\left( \\frac{9}{122 - 90} \\right) \\times 20 = 60 + \\left( \\frac{9}{32} \\right) \\times 20 = 60 + \\frac{180}{32} = 60 + 5.625$$\n\n\nबहुलक जीवनकाल **$65.625\\text{ घंटे}$** है।",
+      "keyPoints": [
+        "Identify modal class (60-80).",
+        "Substitute values into mode formula.",
+        "Calculate final mode value."
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Calculate the median for the following frequency distribution:\n\n| Marks | $0-10$ | $10-20$ | $20-30$ | $30-40$ | $40-50$ |\n| --- | --- | --- | --- | --- | --- |\n| No. of Students | $5$ | $8$ | $20$ | $15$ | $7$ |",
+      "questionHi": "निम्नलिखित बारंबारता बंटन के लिए माध्यिका की गणना कीजिए:\n\n| अंक | $0-10$ | $10-20$ | $20-30$ | $30-40$ | $40-50$ |\n| --- | --- | --- | --- | --- | --- |\n| छात्रों की संख्या | $5$ | $8$ | $20$ | $15$ | $7$ |",
+      "answer": "Construct the cumulative frequency ($cf$) table:\n\n| Marks | Frequency ($f$) | Cumulative Frequency ($cf$) |\n| --- | --- | --- |\n| 0-10 | 5 | 5 |\n| 10-20 | 8 | 13 |\n| 20-30 | **20** | **33** |\n| 30-40 | 15 | 48 |\n| 40-50 | 7 | 55 |\n\nHere, $n = 55 \\implies \\frac{n}{2} = 27.5$.\nThe cumulative frequency just greater than $27.5$ is $33$, which belongs to the class **$20 - 30$** (Median Class).\nHere, $l = 20$, $cf = 13$, $f = 20$, $h = 10$.\n\n\n$$\\text{Median} = l + \\left( \\frac{\\frac{n}{2} - cf}{f} \\right) \\times h = 20 + \\left( \\frac{27.5 - 13}{20} \\right) \\times 10 = 20 + \\frac{14.5}{2} = 20 + 7.25 = 27.25$$",
+      "answerHi": "संचयी बारंबारता ($cf$) तालिका बनाएँ:\n\n| अंक | बारंबारता ($f$) | संचयी बारंबारता ($cf$) |\n| --- | --- | --- |\n| 0-10 | 5 | 5 |\n| 10-20 | 8 | 13 |\n| 20-30 | **20** | **33** |\n| 30-40 | 15 | 48 |\n| 40-50 | 7 | 55 |\n\nयहाँ, $n = 55 \\implies \\frac{n}{2} = 27.5$।\n$27.5$ से ठीक अधिक संचयी बारंबारता $33$ है, जो वर्ग **$20 - 30$** (माध्यिका वर्ग) से संबंधित है।\nयहाँ, $l = 20$, $cf = 13$, $f = 20$, $h = 10$ है।\n\n\n$$\\text{माध्यिका} = l + \\left( \\frac{\\frac{n}{2} - cf}{f} \\right) \\times h = 20 + \\left( \\frac{27.5 - 13}{20} \\right) \\times 10 = 20 + \\frac{14.5}{2} = 20 + 7.25 = 27.25$$",
+      "keyPoints": [
+        "Create cf table.",
+        "Find Median Class (20-30).",
+        "Use median formula to solve."
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "A survey was conducted regarding the heights of 50 girls of Class X of a school. If the median height is calculated as $149.5\\text{ cm}$ for a continuous data set where the median class is $145 - 150$, $cf=11$, $f=18$, verify this median value mathematically if $h=5$.",
+      "questionHi": "एक स्कूल की कक्षा X की 50 लड़कियों की ऊँचाई के संबंध में एक सर्वेक्षण किया गया था। यदि एक सतत डेटा सेट के लिए माध्यिका ऊँचाई $149.5\\text{ सेमी}$ के रूप में गणना की जाती है, जहाँ माध्यिका वर्ग $145 - 150$, $cf=11$, $f=18$ है, तो इस माध्यिका मान को गणितीय रूप से सत्यापित कीजिए यदि $h=5$ है।",
+      "answer": "Let us test the values against the standard median formula.\nGiven: $\\frac{n}{2} = \\frac{50}{2} = 25$, $l = 145$, $cf = 11$, $f = 18$, $h = 5$.\n\n\n$$\\text{Median} = l + \\left( \\frac{\\frac{n}{2} - cf}{f} \\right) \\times h$$\n\n$$\\text{Median} = 145 + \\left( \\frac{25 - 11}{18} \\right) \\times 5 = 145 + \\left( \\frac{14}{18} \\right) \\times 5$$\n\n$$\\text{Median} = 145 + \\frac{70}{18} = 145 + 3.88 = 148.88\\text{ cm}$$\n\n\nThe calculated median is **$148.88\\text{ cm}$**. The stated value of $149.5\\text{ cm}$ in the problem is mathematically **incorrect**.",
+      "answerHi": "आइए मानक माध्यिका सूत्र के साथ मानों का परीक्षण करें।\nदिया गया है: $\\frac{n}{2} = \\frac{50}{2} = 25$, $l = 145$, $cf = 11$, $f = 18$, $h = 5$।\n\n\n$$\\text{माध्यिका} = l + \\left( \\frac{\\frac{n}{2} - cf}{f} \\right) \\times h$$\n\n$$\\text{माध्यिका} = 145 + \\left( \\frac{25 - 11}{18} \\right) \\times 5 = 145 + \\left( \\frac{14}{18} \\right) \\times 5$$\n\n$$\\text{माध्यिका} = 145 + \\frac{70}{18} = 145 + 3.88 = 148.88\\text{ सेमी}$$\n\n\nगणना की गई माध्यिका **$148.88\\text{ सेमी}$** है। समस्या में बताया गया मान $149.5\\text{ सेमी}$ गणितीय रूप से **गलत** है।",
+      "keyPoints": [
+        "Use median formula with given values.",
+        "Calculate true median (148.88).",
+        "Compare and state it is incorrect."
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "A frequency distribution has classes $0-20, 20-40, 40-60, 60-80, 80-100$. If the maximum frequency occurs in the class $40-60$, what can you definitively conclude about the exact value of the Mode?",
+      "questionHi": "एक बारंबारता बंटन में $0-20, 20-40, 40-60, 60-80, 80-100$ वर्ग हैं। यदि अधिकतम बारंबारता वर्ग $40-60$ में आती है, तो आप बहुलक के सटीक मान के बारे में निश्चित रूप से क्या निष्कर्ष निकाल सकते हैं?",
+      "answer": "Because the maximum frequency occurs in the class $40-60$, this is confirmed as the **modal class**.\nAccording to the formula for Mode, the Mode will always lie *strictly within* the boundaries of the modal class. Therefore, we can definitively conclude that the exact value of the Mode will be a real number strictly greater than 40 and less than 60 ($40 < \\text{Mode} < 60$). It cannot be determined precisely without knowing the specific adjacent frequencies ($f_0$ and $f_2$).",
+      "answerHi": "चूँकि अधिकतम बारंबारता वर्ग $40-60$ में होती है, इसलिए इसे **बहुलक वर्ग** के रूप में पुष्टि की जाती है।\nबहुलक के सूत्र के अनुसार, बहुलक हमेशा बहुलक वर्ग की सीमाओं के *ठीक भीतर* स्थित होगा। इसलिए, हम निश्चित रूप से निष्कर्ष निकाल सकते हैं कि बहुलक का सटीक मान 40 से अधिक और 60 से कम ($40 < \\text{बहुलक} < 60$) एक वास्तविक संख्या होगी। विशिष्ट आसन्न बारंबारताओं ($f_0$ और $f_2$) को जाने बिना इसे सटीक रूप से निर्धारित नहीं किया जा सकता है।",
+      "keyPoints": [
+        "Modal class is 40-60.",
+        "Mode always lies within the modal class.",
+        "Exact value requires f0 and f2."
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Find the unknown frequencies $x$ and $y$ in the following distribution if it is given that the median is $28.5$ and the total frequency is $60$.\n\n| Class Interval | $0-10$ | $10-20$ | $20-30$ | $30-40$ | $40-50$ | $50-60$ |\n| --- | --- | --- | --- | --- | --- | --- |\n| Frequency | $5$ | $x$ | $20$ | $15$ | $y$ | $5$ |",
+      "questionHi": "निम्नलिखित बंटन में अज्ञात बारंबारता $x$ और $y$ ज्ञात कीजिए यदि यह दिया गया है कि माध्यिका $28.5$ है और कुल बारंबारता $60$ है।\n\n| वर्ग अंतराल | $0-10$ | $10-20$ | $20-30$ | $30-40$ | $40-50$ | $50-60$ |\n| --- | --- | --- | --- | --- | --- | --- |\n| बारंबारता | $5$ | $x$ | $20$ | $15$ | $y$ | $5$ |",
+      "answer": "Let's calculate the cumulative frequencies ($cf$):\n$0-10: 5$\n$10-20: 5+x$\n$20-30: 25+x$\n$30-40: 40+x$\n$40-50: 40+x+y$\n$50-60: 45+x+y$\n\nWe are given total frequency $n = 60$. Therefore:\n\n\n$$45 + x + y = 60 \\implies x + y = 15 \\quad \\text{--- (Equation 1)}$$\n\nSince the median is $28.5$, it lies in the class interval **$20-30$** (Median class).\nHere, $l = 20, f = 20, cf = 5 + x, h = 10, \\frac{n}{2} = 30$.\n\n\n$$\\text{Median} = l + \\left( \\frac{\\frac{n}{2} - cf}{f} \\right) \\times h$$\n\n$$28.5 = 20 + \\left( \\frac{30 - (5 + x)}{20} \\right) \\times 10 \\implies 8.5 = \\frac{25 - x}{2}$$\n\n$$17 = 25 - x \\implies x = 25 - 17 = 8$$\n\nSubstitute $x = 8$ into Equation 1:\n\n\n$$8 + y = 15 \\implies y = 7$$\n\n\nThe missing frequencies are **$x = 8$ and $y = 7$**.",
+      "answerHi": "आइए संचयी बारंबारताओं ($cf$) की गणना करें:\n$0-10: 5$\n$10-20: 5+x$\n$20-30: 25+x$\n$30-40: 40+x$\n$40-50: 40+x+y$\n$50-60: 45+x+y$\n\nहमें कुल बारंबारता $n = 60$ दी गई है। इसलिए:\n\n\n$$45 + x + y = 60 \\implies x + y = 15 \\quad \\text{--- (समीकरण 1)}$$\n\nचूँकि माध्यिका $28.5$ है, यह वर्ग अंतराल **$20-30$** (माध्यिका वर्ग) में स्थित है।\nयहाँ, $l = 20, f = 20, cf = 5 + x, h = 10, \\frac{n}{2} = 30$ है।\n\n\n$$\\text{माध्यिका} = l + \\left( \\frac{\\frac{n}{2} - cf}{f} \\right) \\times h$$\n\n$$28.5 = 20 + \\left( \\frac{30 - (5 + x)}{20} \\right) \\times 10 \\implies 8.5 = \\frac{25 - x}{2}$$\n\n$$17 = 25 - x \\implies x = 25 - 17 = 8$$\n\nसमीकरण 1 में $x = 8$ प्रतिस्थापित करें:\n\n\n$$8 + y = 15 \\implies y = 7$$\n\n\nअज्ञात बारंबारताएँ **$x = 8$ और $y = 7$** हैं।",
+      "keyPoints": [
+        "Form equation: x + y = 15.",
+        "Median class is 20-30.",
+        "Use median formula to find x=8.",
+        "Substitute to find y=7."
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "The following table gives the daily income of 50 workers of a factory. Find the mean daily income of the workers using the Assumed Mean Method.\n\n| Daily Income (in ₹) | $100-120$ | $120-140$ | $140-160$ | $160-180$ | $180-200$ |\n| --- | --- | --- | --- | --- | --- |\n| No. of workers ($f_i$) | $12$ | $14$ | $8$ | $6$ | $10$ |",
+      "questionHi": "निम्नलिखित तालिका एक कारखाने के 50 श्रमिकों की दैनिक आय देती है। कल्पित माध्य विधि (Assumed Mean Method) का उपयोग करके श्रमिकों की माध्य दैनिक आय ज्ञात कीजिए।\n\n| दैनिक आय (₹ में) | $100-120$ | $120-140$ | $140-160$ | $160-180$ | $180-200$ |\n| --- | --- | --- | --- | --- | --- |\n| श्रमिकों की संख्या ($f_i$) | $12$ | $14$ | $8$ | $6$ | $10$ |",
+      "answer": "First, find the class marks ($x_i$). Let the assumed mean $A = 150$. Compute the deviation $d_i = x_i - A$.\n\n| Income | $f_i$ | $x_i$ | $d_i = x_i - 150$ | $f_id_i$ |\n| --- | --- | --- | --- | --- |\n| 100-120 | 12 | 110 | -40 | -480 |\n| 120-140 | 14 | 130 | -20 | -280 |\n| 140-160 | 8 | **150 = A** | 0 | 0 |\n| 160-180 | 6 | 170 | 20 | 120 |\n| 180-200 | 10 | 190 | 40 | 400 |\n| **Total** | **$\\sum f_i = 50$** |  |  | **$\\sum f_id_i = -240$** |\n\nUsing the Assumed Mean formula:\n\n\n$$\\text{Mean } (\\bar{x}) = A + \\frac{\\sum f_id_i}{\\sum f_i}$$\n\n$$\\text{Mean} = 150 + \\frac{-240}{50} = 150 - 4.8 = 145.2$$\n\n\nThe mean daily income is **₹145.20**.",
+      "answerHi": "सबसे पहले, वर्ग चिह्न ($x_i$) ज्ञात करें। मान लीजिए कि कल्पित माध्य $A = 150$ है। विचलन $d_i = x_i - A$ की गणना करें।\n\n| आय | $f_i$ | $x_i$ | $d_i = x_i - 150$ | $f_id_i$ |\n| --- | --- | --- | --- | --- |\n| 100-120 | 12 | 110 | -40 | -480 |\n| 120-140 | 14 | 130 | -20 | -280 |\n| 140-160 | 8 | **150 = A** | 0 | 0 |\n| 160-180 | 6 | 170 | 20 | 120 |\n| 180-200 | 10 | 190 | 40 | 400 |\n| **कुल** | **$\\sum f_i = 50$** |  |  | **$\\sum f_id_i = -240$** |\n\nकल्पित माध्य सूत्र का उपयोग करते हुए:\n\n\n$$\\text{माध्य } (\\bar{x}) = A + \\frac{\\sum f_id_i}{\\sum f_i}$$\n\n$$\\text{माध्य} = 150 + \\frac{-240}{50} = 150 - 4.8 = 145.2$$\n\n\nमाध्य दैनिक आय **₹145.20** है।",
+      "keyPoints": [
+        "Choose Assumed Mean (A) = 150.",
+        "Calculate di = xi - A.",
+        "Use formula: Mean = A + (sum(fidi) / sum(fi))."
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Analytical Challenge: A life insurance agent found the following data for distribution of ages of 100 policy holders. Calculate the median age, if policies are given only to persons having age 18 years onwards but less than 60 years. Data is given in \"Below\" format:\n\n| Age (in years) | Below 20 | Below 25 | Below 30 | Below 35 | Below 40 | Below 45 | Below 50 | Below 55 | Below 60 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| Number of Policyholders | 2 | 6 | 24 | 45 | 78 | 89 | 92 | 98 | 100 |",
+      "questionHi": "विश्लेषणात्मक चुनौती: एक जीवन बीमा एजेंट ने 100 पॉलिसी धारकों की आयु के बंटन के लिए निम्नलिखित डेटा पाया। माध्यिका आयु की गणना कीजिए, यदि पॉलिसियां केवल 18 वर्ष और उससे अधिक लेकिन 60 वर्ष से कम आयु वाले व्यक्तियों को दी जाती हैं। डेटा \"से कम\" (Below) प्रारूप में दिया गया है:\n\n| आयु (वर्षों में) | 20 से कम | 25 से कम | 30 से कम | 35 से कम | 40 से कम | 45 से कम | 50 से कम | 55 से कम | 60 से कम |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| पॉलिसीधारकों की संख्या | 2 | 6 | 24 | 45 | 78 | 89 | 92 | 98 | 100 |",
+      "answer": "The given data is cumulative frequency ($cf$). We must first convert it into continuous class intervals and standard frequencies ($f$). Since policies start from 18 years, the first class is $18-20$. The rest have a gap of 5.\n\n| Class Interval | $f_i$ (Current $cf$ - Previous $cf$) | $cf$ |\n| --- | --- | --- |\n| 18 - 20 | 2 | 2 |\n| 20 - 25 | $6 - 2 = 4$ | 6 |\n| 25 - 30 | $24 - 6 = 18$ | 24 |\n| 30 - 35 | $45 - 24 = 21$ | 45 |\n| 35 - 40 | $78 - 45 = 33$ | 78 |\n| ... | ... | ... |\n\n*(We don't need to compute the rest because we only need the median class).*\nHere, $n = 100 \\implies \\frac{n}{2} = 50$.\nThe $cf$ just greater than $50$ is $78$, which corresponds to the class **$35 - 40$** (Median Class).\nHere, $l = 35$, $cf = 45$, $f = 33$, $h = 5$.\n\n\n$$\\text{Median} = l + \\left( \\frac{\\frac{n}{2} - cf}{f} \\right) \\times h = 35 + \\left( \\frac{50 - 45}{33} \\right) \\times 5$$\n\n$$\\text{Median} = 35 + \\left( \\frac{5}{33} \\right) \\times 5 = 35 + \\frac{25}{33} = 35 + 0.76 = 35.76$$\n\n\nThe median age is **35.76 years**.",
+      "answerHi": "दिया गया डेटा संचयी बारंबारता ($cf$) है। हमें पहले इसे सतत वर्ग अंतरालों और मानक बारंबारताओं ($f$) में बदलना होगा। चूँकि पॉलिसियां 18 वर्ष से शुरू होती हैं, इसलिए पहला वर्ग $18-20$ है। बाकी में 5 का अंतर है।\n\n| वर्ग अंतराल | $f_i$ (वर्तमान $cf$ - पिछला $cf$) | $cf$ |\n| --- | --- | --- |\n| 18 - 20 | 2 | 2 |\n| 20 - 25 | $6 - 2 = 4$ | 6 |\n| 25 - 30 | $24 - 6 = 18$ | 24 |\n| 30 - 35 | $45 - 24 = 21$ | 45 |\n| 35 - 40 | $78 - 45 = 33$ | 78 |\n| ... | ... | ... |\n\n*(हमें बाकी की गणना करने की आवश्यकता नहीं है क्योंकि हमें केवल माध्यिका वर्ग की आवश्यकता है)।*\nयहाँ, $n = 100 \\implies \\frac{n}{2} = 50$।\n$50$ से ठीक अधिक $cf$, $78$ है, जो वर्ग **$35 - 40$** (माध्यिका वर्ग) से मेल खाता है।\nयहाँ, $l = 35$, $cf = 45$, $f = 33$, $h = 5$ है।\n\n\n$$\\text{माध्यिका} = l + \\left( \\frac{\\frac{n}{2} - cf}{f} \\right) \\times h = 35 + \\left( \\frac{50 - 45}{33} \\right) \\times 5$$\n\n$$\\text{माध्यिका} = 35 + \\left( \\frac{5}{33} \\right) \\times 5 = 35 + \\frac{25}{33} = 35 + 0.76 = 35.76$$\n\n\nमाध्यिका आयु **35.76 वर्ष** है।",
+      "keyPoints": [
+        "Convert 'below' format to regular class intervals.",
+        "Calculate individual frequencies from cf.",
+        "Find Median Class (35-40) and apply formula."
+      ]
+    }
+  ]
+}
