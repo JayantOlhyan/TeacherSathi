@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "What is the poem primarily about?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Airplanes"
+        },
+        {
+          "id": "B",
+          "text": "Kites"
+        },
+        {
+          "id": "C",
+          "text": "Birds"
+        },
+        {
+          "id": "D",
+          "text": "Clouds"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "2",
+      "question": "Who wrote the poem \"The Kites\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Jill Wolf"
+        },
+        {
+          "id": "B",
+          "text": "Sudha Murty"
+        },
+        {
+          "id": "C",
+          "text": "Daphne Lister"
+        },
+        {
+          "id": "D",
+          "text": "Ruskin Bond"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "3",
+      "question": "What are the kites compared to as they fly in the sky?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Spaceships"
+        },
+        {
+          "id": "B",
+          "text": "Coloured birds"
+        },
+        {
+          "id": "C",
+          "text": "Falling leaves"
+        },
+        {
+          "id": "D",
+          "text": "Butterflies"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "4",
+      "question": "What kind of days are best for flying kites, according to the poem?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rainy days"
+        },
+        {
+          "id": "B",
+          "text": "Snowy days"
+        },
+        {
+          "id": "C",
+          "text": "Bright breezy days"
+        },
+        {
+          "id": "D",
+          "text": "Hot, still days"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "5",
+      "question": "What does the speaker in the poem wish to be?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A tall tree"
+        },
+        {
+          "id": "B",
+          "text": "Small and light as air"
+        },
+        {
+          "id": "C",
+          "text": "A fast runner"
+        },
+        {
+          "id": "D",
+          "text": "A pilot"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "6",
+      "question": "Why does the speaker want to be small and light?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To hide in a box"
+        },
+        {
+          "id": "B",
+          "text": "To climb on a kite and sail up high"
+        },
+        {
+          "id": "C",
+          "text": "To run fast"
+        },
+        {
+          "id": "D",
+          "text": "To avoid school"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "7",
+      "question": "What are the \"wings\" of the kite made of?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Feathers"
+        },
+        {
+          "id": "B",
+          "text": "Plastic"
+        },
+        {
+          "id": "C",
+          "text": "Paper"
+        },
+        {
+          "id": "D",
+          "text": "Wood"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "8",
+      "question": "What does the child imagine hearing while riding the kite?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Traffic noise"
+        },
+        {
+          "id": "B",
+          "text": "The songs that the wild wind sings"
+        },
+        {
+          "id": "C",
+          "text": "Birds chirping"
+        },
+        {
+          "id": "D",
+          "text": "Thunder"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "9",
+      "question": "What would the child look down over while flying?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The ocean"
+        },
+        {
+          "id": "B",
+          "text": "The park and the rooftops of town"
+        },
+        {
+          "id": "C",
+          "text": "A forest"
+        },
+        {
+          "id": "D",
+          "text": "A desert"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "10",
+      "question": "What would the people below do, according to the speaker?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Run away"
+        },
+        {
+          "id": "B",
+          "text": "Stand and stare"
+        },
+        {
+          "id": "C",
+          "text": "Throw stones"
+        },
+        {
+          "id": "D",
+          "text": "Cry"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "11",
+      "question": "What literary device is used in the line \"Like coloured birds\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Metaphor"
+        },
+        {
+          "id": "B",
+          "text": "Simile"
+        },
+        {
+          "id": "C",
+          "text": "Personification"
+        },
+        {
+          "id": "D",
+          "text": "Alliteration"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "12",
+      "question": "How does comparing kites to birds help us?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It doesn't help"
+        },
+        {
+          "id": "B",
+          "text": "It helps us clearly imagine the kites looking graceful, vibrant, and alive as they move in the sky"
+        },
+        {
+          "id": "C",
+          "text": "It shows kites have feathers"
+        },
+        {
+          "id": "D",
+          "text": "It proves kites can lay eggs"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "13",
+      "question": "What is the overall mood (feeling) of the poem?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sad and gloomy"
+        },
+        {
+          "id": "B",
+          "text": "Playful, joyful, and full of imaginative wonder"
+        },
+        {
+          "id": "C",
+          "text": "Angry and aggressive"
+        },
+        {
+          "id": "D",
+          "text": "Fearful"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "14",
+      "question": "What does the phrase \"wind-whipped sky\" mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The sky is perfectly calm"
+        },
+        {
+          "id": "B",
+          "text": "There are strong, active winds blowing through the sky, making it perfect for kites"
+        },
+        {
+          "id": "C",
+          "text": "It is raining heavily"
+        },
+        {
+          "id": "D",
+          "text": "There is no wind"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "15",
+      "question": "Why does the speaker think the people below would \"wish they were me\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because the speaker has money"
+        },
+        {
+          "id": "B",
+          "text": "Because the speaker is experiencing the thrilling freedom and amazing view from high up in the air"
+        },
+        {
+          "id": "C",
+          "text": "Because the speaker is invisible"
+        },
+        {
+          "id": "D",
+          "text": "Because the speaker is eating candy"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "16",
+      "question": "What does the word \"drift\" tell us about how the kite moves?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It falls with a sudden crash"
+        },
+        {
+          "id": "B",
+          "text": "It moves with a gentle, smooth, and floating motion carried by the wind"
+        },
+        {
+          "id": "C",
+          "text": "It launches like a rocket"
+        },
+        {
+          "id": "D",
+          "text": "It spins rapidly"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "17",
+      "question": "Looking down over \"the park and the rooftops\" gives the child what kind of view?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A microscopic view"
+        },
+        {
+          "id": "B",
+          "text": "A macroscopic, \"bird's-eye\" aerial view of the world"
+        },
+        {
+          "id": "C",
+          "text": "An underground view"
+        },
+        {
+          "id": "D",
+          "text": "A distorted view"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "18",
+      "question": "What dual nature of kite flying is mentioned in the broader chapter overview?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They cost money and break"
+        },
+        {
+          "id": "B",
+          "text": "The soaring success of flight, and the occasional disappointment when they fall or get tangled"
+        },
+        {
+          "id": "C",
+          "text": "They are heavy and light"
+        },
+        {
+          "id": "D",
+          "text": "They are loud and quiet"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "19",
+      "question": "How does the poet use personification with the wind?",
+      "options": [
+        {
+          "id": "A",
+          "text": "By saying it destroys things"
+        },
+        {
+          "id": "B",
+          "text": "By describing it as singing \"songs\" and \"calling\" out"
+        },
+        {
+          "id": "C",
+          "text": "By saying it sleeps"
+        },
+        {
+          "id": "D",
+          "text": "By giving it a human face"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "20",
+      "question": "What is the main idea of the child's fantasy?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The desire for wealth"
+        },
+        {
+          "id": "B",
+          "text": "Escapism, using imagination to feel ultimate physical freedom and adventure"
+        },
+        {
+          "id": "C",
+          "text": "The fear of heights"
+        },
+        {
+          "id": "D",
+          "text": "The desire to control the weather"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "21",
+      "question": "What human psychological desire does the flying kite symbolize?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The desire for a stable home"
+        },
+        {
+          "id": "B",
+          "text": "The deep yearning to break free from physical limits and experience pure liberation"
+        },
+        {
+          "id": "C",
+          "text": "The need to be like everyone else"
+        },
+        {
+          "id": "D",
+          "text": "The fear of the unknown"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "22",
+      "question": "How does the poet's use of sensory imagery (visual: colored birds; auditory: wind sings) affect us?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It creates confusion"
+        },
+        {
+          "id": "B",
+          "text": "It creates a multi-dimensional experience, allowing us to see, hear, and feel the child's magical flight"
+        },
+        {
+          "id": "C",
+          "text": "It makes the poem sound like a science book"
+        },
+        {
+          "id": "D",
+          "text": "It distracts from the story"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "23",
+      "question": "What contrast is set up between the child in the air and the \"people below\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wealth vs. Poverty"
+        },
+        {
+          "id": "B",
+          "text": "The boundless, exciting freedom of imagination vs. the static, grounded reality of normal life"
+        },
+        {
+          "id": "C",
+          "text": "Youth vs. Old age"
+        },
+        {
+          "id": "D",
+          "text": "Intelligence vs. Ignorance"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "24",
+      "question": "In the line \"drift upon / The paper wings,\" what is the poetic effect of highlighting \"paper\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It shows kites are cheap"
+        },
+        {
+          "id": "B",
+          "text": "It highlights the magical, delicate balance where something so fragile can ride the powerful \"wild wind\""
+        },
+        {
+          "id": "C",
+          "text": "It proves paper is unbreakable"
+        },
+        {
+          "id": "D",
+          "text": "It warns about rain"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "25",
+      "question": "How does the structure of the poem (short, bouncy, rhythmic lines) match its subject?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It mimics the heavy steps of walking"
+        },
+        {
+          "id": "B",
+          "text": "The light, airy rhythm mimics the bobbing, dancing, and floating movement of a kite in the wind"
+        },
+        {
+          "id": "C",
+          "text": "It looks like a square"
+        },
+        {
+          "id": "D",
+          "text": "It sounds like thunder"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "26",
+      "question": "The shift from watching the kites (Stanza 1) to imagining riding the kite (Stanza 2) represents what change?",
+      "options": [
+        {
+          "id": "A",
+          "text": "From objective observation to a deeply subjective, imaginative fantasy"
+        },
+        {
+          "id": "B",
+          "text": "From truth to a lie"
+        },
+        {
+          "id": "C",
+          "text": "A loss of interest"
+        },
+        {
+          "id": "D",
+          "text": "A change in location"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "27",
+      "question": "What does the \"wild wind\" represent in the child's adventure?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A destructive enemy"
+        },
+        {
+          "id": "B",
+          "text": "An untamed, powerful force of nature that the child harmoniously partners with to achieve flight"
+        },
+        {
+          "id": "C",
+          "text": "A frightening monster"
+        },
+        {
+          "id": "D",
+          "text": "A cold winter"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "28",
+      "question": "Which of the following words best captures the beautiful, awe-inspiring experience described in the poem?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mundane (boring)"
+        },
+        {
+          "id": "B",
+          "text": "Sublime (awe-inspiring and grand)"
+        },
+        {
+          "id": "C",
+          "text": "Claustrophobic (trapped)"
+        },
+        {
+          "id": "D",
+          "text": "Annoying"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "29",
+      "question": "How does kite flying connect to Indian cultural traditions?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It shows kites are dangerous"
+        },
+        {
+          "id": "B",
+          "text": "It connects this universal childhood fun to deep communal festivals like Makar Sankranti/Uttarayan that celebrate nature"
+        },
+        {
+          "id": "C",
+          "text": "It proves kites originated in Europe"
+        },
+        {
+          "id": "D",
+          "text": "It explains why kites are banned"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "30",
+      "question": "What is the ultimate message about the power of a child's imagination?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It is foolish and wastes time"
+        },
+        {
+          "id": "B",
+          "text": "It is a powerful, transformative tool that lets the mind explore perspectives and freedoms the physical body cannot"
+        },
+        {
+          "id": "C",
+          "text": "It should be stopped"
+        },
+        {
+          "id": "D",
+          "text": "It only works at night"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    }
+  ]
+}
