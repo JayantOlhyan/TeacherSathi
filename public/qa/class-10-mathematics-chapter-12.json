@@ -1,0 +1,281 @@
+{
+  "chapterTitle": "Surface Areas and Volumes",
+  "chapterTitleHi": "पृष्ठीय क्षेत्रफल और आयतन",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Write the formula for the Total Surface Area (TSA) of a solid hemisphere of radius $r$.",
+      "questionHi": "त्रिज्या $r$ वाले एक ठोस अर्धगोले के कुल पृष्ठीय क्षेत्रफल (TSA) का सूत्र लिखिए।",
+      "answer": "A solid hemisphere consists of a curved surface and a flat circular base.\n\n$$\\text{Curved Surface Area (CSA)} = 2\\pi r^2$$\n\n$$\\text{Base Area} = \\pi r^2$$\n\n$$\\text{Total Surface Area (TSA)} = 2\\pi r^2 + \\pi r^2 = 3\\pi r^2$$",
+      "answerHi": "एक ठोस अर्धगोले में एक वक्र पृष्ठ और एक समतल वृत्ताकार आधार होता है।\n\n$$\\text{वक्र पृष्ठीय क्षेत्रफल (CSA)} = 2\\pi r^2$$\n\n$$\\text{आधार का क्षेत्रफल} = \\pi r^2$$\n\n$$\\text{कुल पृष्ठीय क्षेत्रफल (TSA)} = 2\\pi r^2 + \\pi r^2 = 3\\pi r^2$$",
+      "keyPoints": [
+        "Solid hemisphere has curved and flat base.",
+        "CSA is $2\\pi r^2$ and base is $\\pi r^2$.",
+        "TSA = $3\\pi r^2$."
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "Two cubes, each of volume $27\\text{ cm}^3$, are joined end to end. Find the length, breadth, and height of the resulting cuboid.",
+      "questionHi": "दो घनों, जिनमें से प्रत्येक का आयतन $27\\text{ सेमी}^3$ है, को सिरे से सिरा मिलाकर जोड़ा जाता है। परिणामी घनाभ की लंबाई, चौड़ाई और ऊँचाई ज्ञात कीजिए।",
+      "answer": "Let the side of each cube be $a$.\n\n$$\\text{Volume} = a^3 = 27 \\implies a = 3\\text{ cm}$$\n\nWhen two cubes are joined end to end, the length doubles, while the breadth and height remain the same.\n\n$$\\text{Length } (l) = 3 + 3 = 6\\text{ cm}, \\quad \\text{Breadth } (b) = 3\\text{ cm}, \\quad \\text{Height } (h) = 3\\text{ cm}$$",
+      "answerHi": "मान लीजिए कि प्रत्येक घन की भुजा $a$ है।\n\n$$\\text{आयतन} = a^3 = 27 \\implies a = 3\\text{ सेमी}$$\n\nजब दो घनों को सिरे से सिरा मिलाकर जोड़ा जाता है, तो लंबाई दोगुनी हो जाती है, जबकि चौड़ाई और ऊँचाई वही रहती है।\n\n$$\\text{लंबाई } (l) = 3 + 3 = 6\\text{ सेमी}, \\quad \\text{चौड़ाई } (b) = 3\\text{ सेमी}, \\quad \\text{ऊँचाई } (h) = 3\\text{ सेमी}$$",
+      "keyPoints": [
+        "Find side of cube from volume (a=3).",
+        "Length doubles: 3+3 = 6.",
+        "Breadth and height remain 3."
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "A solid is in the shape of a cone standing on a hemisphere with both their radii being equal to $1\\text{ cm}$ and the height of the cone is equal to its radius. Find the volume of the solid in terms of $\\pi$.",
+      "questionHi": "एक ठोस एक अर्धगोले पर खड़े एक शंकु के आकार का है, जिनकी दोनों त्रिज्याएँ $1\\text{ सेमी}$ के बराबर हैं और शंकु की ऊँचाई उसकी त्रिज्या के बराबर है। $\\pi$ के पदों में ठोस का आयतन ज्ञात कीजिए।",
+      "answer": "Here, $r = 1\\text{ cm}$ and $h = 1\\text{ cm}$.\n\n$$\\text{Volume of Solid} = \\text{Volume of Cone} + \\text{Volume of Hemisphere}$$\n\n$$V = \\frac{1}{3}\\pi r^2h + \\frac{2}{3}\\pi r^3 = \\frac{1}{3}\\pi (1)^2(1) + \\frac{2}{3}\\pi (1)^3$$\n\n$$V = \\frac{1}{3}\\pi + \\frac{2}{3}\\pi = \\pi\\text{ cm}^3$$",
+      "answerHi": "यहाँ, $r = 1\\text{ सेमी}$ और $h = 1\\text{ सेमी}$ है।\n\n$$\\text{ठोस का आयतन} = \\text{शंकु का आयतन} + \\text{अर्धगोले का आयतन}$$\n\n$$V = \\frac{1}{3}\\pi r^2h + \\frac{2}{3}\\pi r^3 = \\frac{1}{3}\\pi (1)^2(1) + \\frac{2}{3}\\pi (1)^3$$\n\n$$V = \\frac{1}{3}\\pi + \\frac{2}{3}\\pi = \\pi\\text{ सेमी}^3$$",
+      "keyPoints": [
+        "Total Volume = Cone + Hemisphere.",
+        "Substitute r=1, h=1.",
+        "Result is $\\pi$."
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Define the slant height of a right circular cone mathematically.",
+      "questionHi": "एक लंब वृत्तीय शंकु की तिर्यक ऊँचाई को गणितीय रूप से परिभाषित कीजिए।",
+      "answer": "The slant height ($l$) is the distance from the apex (top) of the cone down the side to a point on the circumference of the base. It forms a right-angled triangle with the height ($h$) and radius ($r$):\n\n$$l = \\sqrt{r^2 + h^2}$$",
+      "answerHi": "तिर्यक ऊँचाई ($l$) शंकु के शीर्ष (apex) से नीचे की ओर आधार की परिधि पर एक बिंदु तक की दूरी है। यह ऊँचाई ($h$) और त्रिज्या ($r$) के साथ एक समकोण त्रिभुज बनाता है:\n\n$$l = \\sqrt{r^2 + h^2}$$",
+      "keyPoints": [
+        "Slant height is distance from apex to base edge.",
+        "Formula: $l = \\sqrt{r^2 + h^2}$."
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "A combination solid is formed by surmounting a hemisphere on a cylinder of the same radius. Write the expression for the Total Surface Area (TSA) of this solid.",
+      "questionHi": "समान त्रिज्या वाले बेलन पर एक अर्धगोला अध्यारोपित करके एक संयोजित ठोस बनाया जाता है। इस ठोस के कुल पृष्ठीय क्षेत्रफल (TSA) के लिए व्यंजक लिखिए।",
+      "answer": "When solids are joined, their hidden contact surfaces are not included in the TSA. The TSA is the sum of their visible outer surfaces:\n\n$$\\text{TSA} = \\text{CSA of Cylinder} + \\text{Area of Cylinder's Base} + \\text{CSA of Hemisphere}$$\n\n$$\\text{TSA} = 2\\pi rh + \\pi r^2 + 2\\pi r^2 = 2\\pi rh + 3\\pi r^2$$",
+      "answerHi": "जब ठोसों को जोड़ा जाता है, तो उनकी छिपी हुई संपर्क सतहों को TSA में शामिल नहीं किया जाता है। TSA उनकी दृश्यमान बाहरी सतहों का योग है:\n\n$$\\text{TSA} = \\text{बेलन का CSA} + \\text{बेलन के आधार का क्षेत्रफल} + \\text{अर्धगोले का CSA}$$\n\n$$\\text{TSA} = 2\\pi rh + \\pi r^2 + 2\\pi r^2 = 2\\pi rh + 3\\pi r^2$$",
+      "keyPoints": [
+        "Exclude hidden contact surfaces.",
+        "TSA = Cylinder CSA + Base + Hemisphere CSA."
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "If the radius of a sphere is doubled, what happens to its volume?",
+      "questionHi": "यदि किसी गोले की त्रिज्या दोगुनी कर दी जाए, तो उसके आयतन का क्या होता है?",
+      "answer": "The volume of a sphere is $V = \\frac{4}{3}\\pi r^3$.\n\nIf the new radius is $R = 2r$, then the new volume is:\n\n$$V_{\\text{new}} = \\frac{4}{3}\\pi (2r)^3 = \\frac{4}{3}\\pi (8r^3) = 8 \\left(\\frac{4}{3}\\pi r^3\\right) = 8V$$\n\nThe volume becomes **8 times** the original volume.",
+      "answerHi": "गोले का आयतन $V = \\frac{4}{3}\\pi r^3$ है।\n\nयदि नई त्रिज्या $R = 2r$ है, तो नया आयतन है:\n\n$$V_{\\text{नया}} = \\frac{4}{3}\\pi (2r)^3 = \\frac{4}{3}\\pi (8r^3) = 8 \\left(\\frac{4}{3}\\pi r^3\\right) = 8V$$\n\nआयतन मूल आयतन का **8 गुना** हो जाता है।",
+      "keyPoints": [
+        "Volume is proportional to $r^3$.",
+        "$(2r)^3 = 8r^3$. Volume becomes 8 times."
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "A medicine capsule is in the shape of a cylinder with two hemispheres stuck to each of its ends. If the entire length of the capsule is $14\\text{ mm}$ and the diameter is $5\\text{ mm}$, find the height (length) of the cylindrical part.",
+      "questionHi": "दवा का एक कैप्सूल एक बेलन के आकार का है जिसके दोनों सिरों पर दो अर्धगोले चिपके हुए हैं। यदि कैप्सूल की पूरी लंबाई $14\\text{ मिमी}$ है और व्यास $5\\text{ मिमी}$ है, तो बेलनाकार भाग की ऊँचाई (लंबाई) ज्ञात कीजिए।",
+      "answer": "The radius of the hemispheres is $r = \\frac{5}{2} = 2.5\\text{ mm}$.\n\nThe two hemispheres take up length on both ends $= 2.5 + 2.5 = 5\\text{ mm}$.\n\n$$\\text{Length of the cylindrical part } (h) = \\text{Total Length} - 5\\text{ mm}$$\n\n$$h = 14 - 5 = 9\\text{ mm}$$",
+      "answerHi": "अर्धगोलों की त्रिज्या $r = \\frac{5}{2} = 2.5\\text{ मिमी}$ है।\n\nदोनों अर्धगोले दोनों सिरों पर लंबाई घेरते हैं $= 2.5 + 2.5 = 5\\text{ मिमी}$।\n\n$$\\text{बेलनाकार भाग की लंबाई } (h) = \\text{कुल लंबाई} - 5\\text{ मिमी}$$\n\n$$h = 14 - 5 = 9\\text{ मिमी}$$",
+      "keyPoints": [
+        "Radius is half of diameter (2.5).",
+        "Cylinder length = Total length - 2(radius)."
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Hard",
+      "question": "A right circular cylinder and a cone have equal bases and equal heights. If their curved surface areas are in the ratio of $8 : 5$, show that the ratio of the radius to the height is $3 : 4$.",
+      "questionHi": "एक लंब वृत्तीय बेलन और एक शंकु के आधार समान हैं और ऊँचाइयाँ समान हैं। यदि उनके वक्र पृष्ठीय क्षेत्रफलों का अनुपात $8 : 5$ है, तो दर्शाइए कि त्रिज्या और ऊँचाई का अनुपात $3 : 4$ है।",
+      "answer": "Let radius be $r$ and height be $h$. CSA of cylinder $= 2\\pi rh$, CSA of cone $= \\pi rl$ (where $l = \\sqrt{r^2+h^2}$).\n\n$$\\frac{2\\pi rh}{\\pi r \\sqrt{r^2+h^2}} = \\frac{8}{5} \\implies \\frac{2h}{\\sqrt{r^2+h^2}} = \\frac{8}{5}$$\n\n$$10h = 8\\sqrt{r^2+h^2} \\implies 5h = 4\\sqrt{r^2+h^2}$$\n\nSquaring both sides: $25h^2 = 16(r^2 + h^2) \\implies 25h^2 = 16r^2 + 16h^2$.\n\n$$9h^2 = 16r^2 \\implies \\frac{r^2}{h^2} = \\frac{9}{16} \\implies \\frac{r}{h} = \\frac{3}{4}$$",
+      "answerHi": "मान लीजिए त्रिज्या $r$ और ऊँचाई $h$ है। बेलन का CSA $= 2\\pi rh$, शंकु का CSA $= \\pi rl$ (जहाँ $l = \\sqrt{r^2+h^2}$)।\n\n$$\\frac{2\\pi rh}{\\pi r \\sqrt{r^2+h^2}} = \\frac{8}{5} \\implies \\frac{2h}{\\sqrt{r^2+h^2}} = \\frac{8}{5}$$\n\n$$10h = 8\\sqrt{r^2+h^2} \\implies 5h = 4\\sqrt{r^2+h^2}$$\n\nदोनों पक्षों का वर्ग करने पर: $25h^2 = 16(r^2 + h^2) \\implies 25h^2 = 16r^2 + 16h^2$।\n\n$$9h^2 = 16r^2 \\implies \\frac{r^2}{h^2} = \\frac{9}{16} \\implies \\frac{r}{h} = \\frac{3}{4}$$",
+      "keyPoints": [
+        "Equate ratio of CSAs to 8:5.",
+        "Square both sides to remove square root.",
+        "Solve for r/h."
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Find the volume of a right circular cone with radius $6\\text{ cm}$ and height $7\\text{ cm}$. (Use $\\pi = \\frac{22}{7}$)",
+      "questionHi": "त्रिज्या $6\\text{ सेमी}$ और ऊँचाई $7\\text{ सेमी}$ वाले एक लंब वृत्तीय शंकु का आयतन ज्ञात कीजिए। ($\\pi = \\frac{22}{7}$ का प्रयोग करें)",
+      "answer": "$$V = \\frac{1}{3}\\pi r^2h$$\n\n$$V = \\frac{1}{3} \\times \\frac{22}{7} \\times 6^2 \\times 7 = \\frac{1}{3} \\times 22 \\times 36$$\n\n$$V = 22 \\times 12 = 264\\text{ cm}^3$$",
+      "answerHi": "$$V = \\frac{1}{3}\\pi r^2h$$\n\n$$V = \\frac{1}{3} \\times \\frac{22}{7} \\times 6^2 \\times 7 = \\frac{1}{3} \\times 22 \\times 36$$\n\n$$V = 22 \\times 12 = 264\\text{ सेमी}^3$$",
+      "keyPoints": [
+        "Cone Volume = $(1/3)\\pi r^2h$.",
+        "Substitute r=6, h=7."
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "A hemispherical depression is cut out from one face of a cubical wooden block such that the diameter $l$ of the hemisphere is equal to the edge of the cube. Express the total surface area of the remaining solid.",
+      "questionHi": "एक घनाकार लकड़ी के ब्लॉक के एक फलक से एक अर्धगोलाकार गड्ढा इस प्रकार काटा जाता है कि अर्धगोले का व्यास $l$ घन के किनारे के बराबर है। शेष ठोस का कुल पृष्ठीय क्षेत्रफल व्यक्त कीजिए।",
+      "answer": "The TSA includes the 5 full faces of the cube, the top face minus the circular hole, and the inner curved surface of the hemispherical depression.\n\n$$\\text{TSA} = \\text{Total area of cube} - \\text{Area of circle} + \\text{CSA of hemisphere}$$\n\n$$\\text{TSA} = 6l^2 - \\pi \\left(\\frac{l}{2}\\right)^2 + 2\\pi \\left(\\frac{l}{2}\\right)^2 = 6l^2 + \\pi \\left(\\frac{l^2}{4}\\right) = \\frac{l^2}{4}(24 + \\pi)$$",
+      "answerHi": "TSA में घन के 5 पूरे फलक, ऊपर का फलक (वृत्ताकार छेद को घटाकर) और अर्धगोलाकार गड्ढे का भीतरी वक्र पृष्ठ शामिल है।\n\n$$\\text{TSA} = \\text{घन का कुल क्षेत्रफल} - \\text{वृत्त का क्षेत्रफल} + \\text{अर्धगोले का CSA}$$\n\n$$\\text{TSA} = 6l^2 - \\pi \\left(\\frac{l}{2}\\right)^2 + 2\\pi \\left(\\frac{l}{2}\\right)^2 = 6l^2 + \\pi \\left(\\frac{l^2}{4}\\right) = \\frac{l^2}{4}(24 + \\pi)$$",
+      "keyPoints": [
+        "TSA = Cube Area - Circle Area + Hemisphere CSA.",
+        "Radius is l/2."
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Two cubes each of volume $64\\text{ cm}^3$ are joined end to end. Find the surface area of the resulting cuboid.",
+      "questionHi": "दो घनों, जिनमें से प्रत्येक का आयतन $64\\text{ सेमी}^3$ है, को सिरे से सिरा मिलाकर जोड़ा जाता है। परिणामी घनाभ का पृष्ठीय क्षेत्रफल ज्ञात कीजिए।",
+      "answer": "Let the side of a cube be $a$.\n\nVolume $a^3 = 64 \\implies a = 4\\text{ cm}$.\n\nWhen joined end to end, a cuboid is formed with dimensions:\n\n* $l = 4 + 4 = 8\\text{ cm}$\n* $b = 4\\text{ cm}$\n* $h = 4\\text{ cm}$\n\n$$\\text{Total Surface Area of Cuboid} = 2(lb + bh + hl)$$\n\n$$\\text{TSA} = 2(8 \\times 4 + 4 \\times 4 + 4 \\times 8) = 2(32 + 16 + 32)$$\n\n$$\\text{TSA} = 2(80) = 160\\text{ cm}^2$$",
+      "answerHi": "मान लीजिए कि घन की भुजा $a$ है।\n\nआयतन $a^3 = 64 \\implies a = 4\\text{ सेमी}$।\n\nजब सिरे से सिरा मिलाकर जोड़ा जाता है, तो निम्नलिखित विमाओं वाला एक घनाभ बनता है:\n\n* $l = 4 + 4 = 8\\text{ सेमी}$\n* $b = 4\\text{ सेमी}$\n* $h = 4\\text{ सेमी}$\n\n$$\\text{घनाभ का कुल पृष्ठीय क्षेत्रफल} = 2(lb + bh + hl)$$\n\n$$\\text{TSA} = 2(8 \\times 4 + 4 \\times 4 + 4 \\times 8) = 2(32 + 16 + 32)$$\n\n$$\\text{TSA} = 2(80) = 160\\text{ सेमी}^2$$",
+      "keyPoints": [
+        "Side of cube = 4 cm.",
+        "Cuboid: l=8, b=4, h=4.",
+        "Use TSA formula for cuboid."
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "A toy is in the form of a cone of radius $3.5\\text{ cm}$ mounted on a hemisphere of the same radius. The total height of the toy is $15.5\\text{ cm}$. Find the total surface area of the toy.",
+      "questionHi": "एक खिलौना $3.5\\text{ सेमी}$ त्रिज्या वाले एक शंकु के आकार का है जो उसी त्रिज्या वाले एक अर्धगोले पर अध्यारोपित है। खिलौने की कुल ऊँचाई $15.5\\text{ सेमी}$ है। खिलौने का कुल पृष्ठीय क्षेत्रफल ज्ञात कीजिए।",
+      "answer": "Radius ($r$) $= 3.5\\text{ cm} = \\frac{7}{2}\\text{ cm}$.\n\nHeight of the conical part ($h$) $= \\text{Total height} - \\text{radius of hemisphere} = 15.5 - 3.5 = 12\\text{ cm}$.\n\nFirst, find the slant height ($l$) of the cone:\n\n$$l = \\sqrt{r^2 + h^2} = \\sqrt{(3.5)^2 + 12^2} = \\sqrt{12.25 + 144} = \\sqrt{156.25} = 12.5\\text{ cm}$$\n\n$$\\text{TSA of toy} = \\text{CSA of cone} + \\text{CSA of hemisphere}$$\n\n$$\\text{TSA} = \\pi rl + 2\\pi r^2 = \\pi r(l + 2r)$$\n\n$$= \\frac{22}{7} \\times \\frac{7}{2} \\times (12.5 + 7) = 11 \\times 19.5 = 214.5\\text{ cm}^2$$",
+      "answerHi": "त्रिज्या ($r$) $= 3.5\\text{ सेमी} = \\frac{7}{2}\\text{ सेमी}$।\n\nशंक्वाकार भाग की ऊँचाई ($h$) $= \\text{कुल ऊँचाई} - \\text{अर्धगोले की त्रिज्या} = 15.5 - 3.5 = 12\\text{ सेमी}$।\n\nसबसे पहले, शंकु की तिर्यक ऊँचाई ($l$) ज्ञात करें:\n\n$$l = \\sqrt{r^2 + h^2} = \\sqrt{(3.5)^2 + 12^2} = \\sqrt{12.25 + 144} = \\sqrt{156.25} = 12.5\\text{ सेमी}$$\n\n$$\\text{खिलौने का TSA} = \\text{शंकु का CSA} + \\text{अर्धगोले का CSA}$$\n\n$$\\text{TSA} = \\pi rl + 2\\pi r^2 = \\pi r(l + 2r)$$\n\n$$= \\frac{22}{7} \\times \\frac{7}{2} \\times (12.5 + 7) = 11 \\times 19.5 = 214.5\\text{ सेमी}^2$$",
+      "keyPoints": [
+        "Cone height = Total - radius = 12.",
+        "Calculate slant height l = 12.5.",
+        "Total Area = Cone CSA + Hemisphere CSA."
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "A wooden article was made by scooping out a hemisphere from each end of a solid cylinder. If the height of the cylinder is $10\\text{ cm}$ and its base is of radius $3.5\\text{ cm}$, find the total surface area of the article.",
+      "questionHi": "लकड़ी का एक सामान (article) एक ठोस बेलन के प्रत्येक सिरे से एक अर्धगोला निकालकर बनाया गया था। यदि बेलन की ऊँचाई $10\\text{ सेमी}$ है और इसके आधार की त्रिज्या $3.5\\text{ सेमी}$ है, तो सामान का कुल पृष्ठीय क्षेत्रफल ज्ञात कीजिए।",
+      "answer": "The radius ($r$) $= 3.5\\text{ cm}$ and height ($h$) $= 10\\text{ cm}$.\n\nWhen scoops are removed, the new surface area is the outer cylinder plus the inner scooped hemispherical bowls.\n\n$$\\text{TSA} = \\text{CSA of cylinder} + 2 \\times (\\text{CSA of hemisphere})$$\n\n$$\\text{TSA} = 2\\pi rh + 2(2\\pi r^2) = 2\\pi r(h + 2r)$$\n\n$$= 2 \\times \\frac{22}{7} \\times 3.5 \\times (10 + 2(3.5)) = 2 \\times 22 \\times 0.5 \\times (10 + 7)$$\n\n$$= 22 \\times 17 = 374\\text{ cm}^2$$",
+      "answerHi": "त्रिज्या ($r$) $= 3.5\\text{ सेमी}$ और ऊँचाई ($h$) $= 10\\text{ सेमी}$।\n\nजब गड्ढे निकाले जाते हैं, तो नया पृष्ठीय क्षेत्रफल बाहरी बेलन और भीतरी अर्धगोलाकार कटोरों का योग होता है।\n\n$$\\text{TSA} = \\text{बेलन का CSA} + 2 \\times (\\text{अर्धगोले का CSA})$$\n\n$$\\text{TSA} = 2\\pi rh + 2(2\\pi r^2) = 2\\pi r(h + 2r)$$\n\n$$= 2 \\times \\frac{22}{7} \\times 3.5 \\times (10 + 2(3.5)) = 2 \\times 22 \\times 0.5 \\times (10 + 7)$$\n\n$$= 22 \\times 17 = 374\\text{ सेमी}^2$$",
+      "keyPoints": [
+        "TSA = Cylinder CSA + 2(Hemisphere CSA).",
+        "Evaluate using formula $2\\pi r(h+2r)$."
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "A solid iron pole consists of a cylinder of height $220\\text{ cm}$ and base diameter $24\\text{ cm}$, which is surmounted by another cylinder of height $60\\text{ cm}$ and radius $8\\text{ cm}$. Find the mass of the pole, given that $1\\text{ cm}^3$ of iron has approximately $8\\text{ g}$ mass. (Use $\\pi = 3.14$)",
+      "questionHi": "लोहे के एक ठोस खंभे में $220\\text{ सेमी}$ ऊँचाई और $24\\text{ सेमी}$ आधार व्यास वाला एक बेलन है, जिसके ऊपर $60\\text{ सेमी}$ ऊँचाई और $8\\text{ सेमी}$ त्रिज्या वाला एक अन्य बेलन अध्यारोपित है। खंभे का द्रव्यमान ज्ञात कीजिए, यह मानते हुए कि $1\\text{ सेमी}^3$ लोहे का द्रव्यमान लगभग $8\\text{ ग्राम}$ है। ($\\pi = 3.14$ का प्रयोग करें)",
+      "answer": "**Larger cylinder:** $r_1 = \\frac{24}{2} = 12\\text{ cm}, h_1 = 220\\text{ cm}$.\n\n$$V_1 = \\pi r_1^2 h_1 = 3.14 \\times 12^2 \\times 220 = 3.14 \\times 144 \\times 220 = 99475.2\\text{ cm}^3$$\n\n**Smaller cylinder:** $r_2 = 8\\text{ cm}, h_2 = 60\\text{ cm}$.\n\n$$V_2 = \\pi r_2^2 h_2 = 3.14 \\times 8^2 \\times 60 = 3.14 \\times 64 \\times 60 = 12057.6\\text{ cm}^3$$\n\n$$\\text{Total Volume} = V_1 + V_2 = 99475.2 + 12057.6 = 111532.8\\text{ cm}^3$$\n\n$$\\text{Total Mass} = 111532.8 \\times 8\\text{ g} = 892262.4\\text{ g} = 892.26\\text{ kg}$$",
+      "answerHi": "**बड़ा बेलन:** $r_1 = \\frac{24}{2} = 12\\text{ सेमी}, h_1 = 220\\text{ सेमी}$।\n\n$$V_1 = \\pi r_1^2 h_1 = 3.14 \\times 12^2 \\times 220 = 3.14 \\times 144 \\times 220 = 99475.2\\text{ सेमी}^3$$\n\n**छोटा बेलन:** $r_2 = 8\\text{ सेमी}, h_2 = 60\\text{ सेमी}$।\n\n$$V_2 = \\pi r_2^2 h_2 = 3.14 \\times 8^2 \\times 60 = 3.14 \\times 64 \\times 60 = 12057.6\\text{ सेमी}^3$$\n\n$$\\text{कुल आयतन} = V_1 + V_2 = 99475.2 + 12057.6 = 111532.8\\text{ सेमी}^3$$\n\n$$\\text{कुल द्रव्यमान} = 111532.8 \\times 8\\text{ ग्राम} = 892262.4\\text{ ग्राम} = 892.26\\text{ किग्रा}$$",
+      "keyPoints": [
+        "Calculate volumes of both cylinders.",
+        "Add volumes for total volume.",
+        "Multiply by 8 to find mass in grams."
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "A vessel is in the form of a hollow hemisphere mounted by a hollow cylinder. The diameter of the hemisphere is $14\\text{ cm}$ and the total height of the vessel is $13\\text{ cm}$. Find the inner surface area of the vessel.",
+      "questionHi": "एक बर्तन एक खोखले अर्धगोले के आकार का है जिसके ऊपर एक खोखला बेलन अध्यारोपित है। अर्धगोले का व्यास $14\\text{ सेमी}$ है और बर्तन की कुल ऊँचाई $13\\text{ सेमी}$ है। बर्तन का आंतरिक पृष्ठीय क्षेत्रफल ज्ञात कीजिए।",
+      "answer": "Radius of hemisphere = Radius of cylinder $= r = \\frac{14}{2} = 7\\text{ cm}$.\n\nHeight of the cylinder ($h$) = Total height - radius $= 13 - 7 = 6\\text{ cm}$.\n\nSince it is a hollow vessel, the inner surface area is simply the sum of the curved surface areas.\n\n$$\\text{Inner Surface Area} = \\text{CSA of cylinder} + \\text{CSA of hemisphere}$$\n\n$$\\text{Area} = 2\\pi rh + 2\\pi r^2 = 2\\pi r(h + r)$$\n\n$$= 2 \\times \\frac{22}{7} \\times 7 \\times (6 + 7) = 44 \\times 13 = 572\\text{ cm}^2$$",
+      "answerHi": "अर्धगोले की त्रिज्या = बेलन की त्रिज्या $= r = \\frac{14}{2} = 7\\text{ सेमी}$।\n\nबेलन की ऊँचाई ($h$) = कुल ऊँचाई - त्रिज्या $= 13 - 7 = 6\\text{ सेमी}$।\n\nचूँकि यह एक खोखला बर्तन है, आंतरिक पृष्ठीय क्षेत्रफल केवल वक्र पृष्ठीय क्षेत्रफलों का योग है।\n\n$$\\text{आंतरिक पृष्ठीय क्षेत्रफल} = \\text{बेलन का CSA} + \\text{अर्धगोले का CSA}$$\n\n$$\\text{क्षेत्रफल} = 2\\pi rh + 2\\pi r^2 = 2\\pi r(h + r)$$\n\n$$= 2 \\times \\frac{22}{7} \\times 7 \\times (6 + 7) = 44 \\times 13 = 572\\text{ सेमी}^2$$",
+      "keyPoints": [
+        "Cylinder height = Total - radius = 6.",
+        "Area = Cylinder CSA + Hemisphere CSA."
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Competency-Based Question: A tent is in the shape of a cylinder surmounted by a conical top. If the height and diameter of the cylindrical part are $2.1\\text{ m}$ and $4\\text{ m}$ respectively, and the slant height of the top is $2.8\\text{ m}$, find the area of the canvas used for making the tent. Also, find the cost of the canvas of the tent at the rate of $₹500\\text{ per m}^2$. (Note that the base of the tent will not be covered with canvas).",
+      "questionHi": "योग्यता-आधारित प्रश्न: एक तंबू एक बेलन के आकार का है जिसके ऊपर एक शंक्वाकार शीर्ष है। यदि बेलनाकार भाग की ऊँचाई और व्यास क्रमशः $2.1\\text{ मीटर}$ और $4\\text{ मीटर}$ हैं, और शीर्ष की तिर्यक ऊँचाई $2.8\\text{ मीटर}$ है, तो तंबू बनाने के लिए प्रयुक्त कैनवास का क्षेत्रफल ज्ञात कीजिए। साथ ही, $₹500\\text{ प्रति मीटर}^2$ की दर से तंबू के कैनवास की लागत ज्ञात कीजिए। (ध्यान दें कि तंबू का आधार कैनवास से ढका नहीं जाएगा)।",
+      "answer": "**For the cylindrical part:** Radius ($r$) $= \\frac{4}{2} = 2\\text{ m}$, Height ($h$) $= 2.1\\text{ m}$.\n\n**For the conical part:** Radius ($r$) $= 2\\text{ m}$, Slant height ($l$) $= 2.8\\text{ m}$.\n\nThe canvas required forms the visible outer boundary, excluding the ground base:\n\n$$\\text{Area of Canvas} = \\text{CSA of cylinder} + \\text{CSA of cone}$$\n\n$$\\text{Area} = 2\\pi rh + \\pi rl = \\pi r(2h + l)$$\n\n$$= \\frac{22}{7} \\times 2 \\times (2(2.1) + 2.8)$$\n\n$$= \\frac{44}{7} \\times (4.2 + 2.8) = \\frac{44}{7} \\times 7 = 44\\text{ m}^2$$\n\nThe total area of the canvas required is $44\\text{ m}^2$.\n\nNow, calculating the total financial cost:\n\n$$\\text{Total Cost} = \\text{Area} \\times \\text{Rate} = 44\\text{ m}^2 \\times ₹500\\text{/m}^2$$\n\n$$\\text{Total Cost} = ₹22,000$$",
+      "answerHi": "**बेलनाकार भाग के लिए:** त्रिज्या ($r$) $= \\frac{4}{2} = 2\\text{ मीटर}$, ऊँचाई ($h$) $= 2.1\\text{ मीटर}$।\n\n**शंक्वाकार भाग के लिए:** त्रिज्या ($r$) $= 2\\text{ मीटर}$, तिर्यक ऊँचाई ($l$) $= 2.8\\text{ मीटर}$।\n\nआवश्यक कैनवास बाहरी दृश्य सीमा बनाता है, जिसमें ज़मीन का आधार शामिल नहीं है:\n\n$$\\text{कैनवास का क्षेत्रफल} = \\text{बेलन का CSA} + \\text{शंकु का CSA}$$\n\n$$\\text{क्षेत्रफल} = 2\\pi rh + \\pi rl = \\pi r(2h + l)$$\n\n$$= \\frac{22}{7} \\times 2 \\times (2(2.1) + 2.8)$$\n\n$$= \\frac{44}{7} \\times (4.2 + 2.8) = \\frac{44}{7} \\times 7 = 44\\text{ मीटर}^2$$\n\nआवश्यक कैनवास का कुल क्षेत्रफल $44\\text{ मीटर}^2$ है।\n\nअब, कुल वित्तीय लागत की गणना:\n\n$$\\text{कुल लागत} = \\text{क्षेत्रफल} \\times \\text{दर} = 44\\text{ मीटर}^2 \\times ₹500\\text{/मीटर}^2$$\n\n$$\\text{कुल लागत} = ₹22,000$$",
+      "keyPoints": [
+        "Area = Cylinder CSA + Cone CSA.",
+        "Base is excluded.",
+        "Cost = Area × Rate."
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Case-Based Descriptive Concept: A gulab jamun, contains sugar syrup up to about $30\\%$ of its volume. Find approximately how much syrup would be found in 45 gulab jamuns, each shaped like a cylinder with two hemispherical ends with length $5\\text{ cm}$ and diameter $2.8\\text{ cm}$.",
+      "questionHi": "केस-आधारित वर्णनात्मक अवधारणा: एक गुलाब जामुन में उसके आयतन का लगभग $30\\%$ चीनी की चाशनी होती है। 45 गुलाब जामुनों में लगभग कितनी चाशनी पाई जाएगी, यदि प्रत्येक गुलाब जामुन एक बेलन के आकार का है जिसके दो अर्धगोलाकार सिरे हैं और इसकी लंबाई $5\\text{ सेमी}$ और व्यास $2.8\\text{ सेमी}$ है।",
+      "answer": "Radius of hemispherical ends $= \\frac{2.8}{2} = 1.4\\text{ cm}$.\n\nLength of the cylindrical part ($h$) $= \\text{Total length} - 2(\\text{radius})$\n\n$$h = 5 - 2(1.4) = 5 - 2.8 = 2.2\\text{ cm}$$\n\n**Volume of one gulab jamun** $= \\text{Volume of cylinder} + 2 \\times (\\text{Volume of hemisphere})$\n\n$$V = \\pi r^2h + 2 \\left(\\frac{2}{3}\\pi r^3\\right) = \\pi r^2 \\left(h + \\frac{4}{3}r\\right)$$\n\n$$V = \\frac{22}{7} \\times (1.4)^2 \\times \\left(2.2 + \\frac{4}{3}(1.4)\\right) = \\frac{22}{7} \\times 1.96 \\times \\left(2.2 + \\frac{5.6}{3}\\right)$$\n\n$$V = 22 \\times 0.28 \\times \\left(\\frac{6.6 + 5.6}{3}\\right) = 6.16 \\times \\frac{12.2}{3} \\approx 25.05\\text{ cm}^3$$\n\n**Volume of 45 gulab jamuns** $= 45 \\times 25.05 = 1127.25\\text{ cm}^3$.\n\nQuantity of sugar syrup $= 30\\%$ of total volume:\n\n$$\\text{Syrup Volume} = \\frac{30}{100} \\times 1127.25 = 0.3 \\times 1127.25 \\approx 338.17\\text{ cm}^3$$\n\nThere is approximately **$338\\text{ cm}^3$** of sugar syrup.",
+      "answerHi": "अर्धगोलाकार सिरों की त्रिज्या $= \\frac{2.8}{2} = 1.4\\text{ सेमी}$।\n\nबेलनाकार भाग की लंबाई ($h$) $= \\text{कुल लंबाई} - 2(\\text{त्रिज्या})$\n\n$$h = 5 - 2(1.4) = 5 - 2.8 = 2.2\\text{ सेमी}$$\n\n**एक गुलाब जामुन का आयतन** $= \\text{बेलन का आयतन} + 2 \\times (\\text{अर्धगोले का आयतन})$\n\n$$V = \\pi r^2h + 2 \\left(\\frac{2}{3}\\pi r^3\\right) = \\pi r^2 \\left(h + \\frac{4}{3}r\\right)$$\n\n$$V = \\frac{22}{7} \\times (1.4)^2 \\times \\left(2.2 + \\frac{4}{3}(1.4)\\right) = \\frac{22}{7} \\times 1.96 \\times \\left(2.2 + \\frac{5.6}{3}\\right)$$\n\n$$V = 22 \\times 0.28 \\times \\left(\\frac{6.6 + 5.6}{3}\\right) = 6.16 \\times \\frac{12.2}{3} \\approx 25.05\\text{ सेमी}^3$$\n\n**45 गुलाब जामुनों का आयतन** $= 45 \\times 25.05 = 1127.25\\text{ सेमी}^3$।\n\nचीनी की चाशनी की मात्रा $= \\text{कुल आयतन का } 30\\%$:\n\n$$\\text{चाशनी का आयतन} = \\frac{30}{100} \\times 1127.25 = 0.3 \\times 1127.25 \\approx 338.17\\text{ सेमी}^3$$\n\nचीनी की चाशनी लगभग **$338\\text{ सेमी}^3$** है।",
+      "keyPoints": [
+        "Find volume of 1 Gulab Jamun.",
+        "Multiply by 45 for total volume.",
+        "Syrup is 30% of total volume."
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Analytical Challenge: A pen stand made of wood is in the shape of a cuboid with four conical depressions to hold pens. The dimensions of the cuboid are $15\\text{ cm}$ by $10\\text{ cm}$ by $3.5\\text{ cm}$. The radius of each of the depressions is $0.5\\text{ cm}$ and the depth is $1.4\\text{ cm}$. Find the volume of wood in the entire stand.",
+      "questionHi": "विश्लेषणात्मक चुनौती: लकड़ी से बना एक पेन स्टैंड घनाभ के आकार का है जिसमें पेन रखने के लिए चार शंक्वाकार गड्ढे हैं। घनाभ की विमाएँ $15\\text{ सेमी}$, $10\\text{ सेमी}$ और $3.5\\text{ सेमी}$ हैं। प्रत्येक गड्ढे की त्रिज्या $0.5\\text{ सेमी}$ और गहराई $1.4\\text{ सेमी}$ है। पूरे स्टैंड में लकड़ी का आयतन ज्ञात कीजिए।",
+      "answer": "To find the volume of the remaining wood, we must subtract the volume of the four conical depressions from the total volume of the solid cuboid block.\n\n1. **Volume of the wooden cuboid:** \n$$V_{\\text{cuboid}} = l \\times b \\times h = 15 \\times 10 \\times 3.5 = 150 \\times 3.5 = 525\\text{ cm}^3$$\n\n\n2. **Volume of one conical depression:** Radius ($r$) $= 0.5\\text{ cm} = \\frac{1}{2}\\text{ cm}$, Depth/Height ($h$) $= 1.4\\text{ cm} = \\frac{14}{10}\\text{ cm}$.\n$$V_{\\text{cone}} = \\frac{1}{3}\\pi r^2h = \\frac{1}{3} \\times \\frac{22}{7} \\times \\left(\\frac{1}{2}\\right)^2 \\times \\frac{14}{10}$$\n\n\n$$= \\frac{1}{3} \\times \\frac{22}{7} \\times \\frac{1}{4} \\times \\frac{14}{10} = \\frac{22 \\times 2}{3 \\times 40} = \\frac{44}{120} = \\frac{11}{30} \\approx 0.366\\text{ cm}^3$$\n\n\n3. **Volume of four conical depressions:** \n$$V_{\\text{4 cones}} = 4 \\times \\frac{11}{30} = \\frac{44}{30} = 1.466\\text{ cm}^3$$\n\n\n4. **Final Volume of Wood:** \n$$V_{\\text{wood}} = V_{\\text{cuboid}} - V_{\\text{4 cones}} = 525 - 1.47 = 523.53\\text{ cm}^3$$\n\n\nThe volume of the wood in the entire stand is **$523.53\\text{ cm}^3$**.",
+      "answerHi": "शेष लकड़ी का आयतन ज्ञात करने के लिए, हमें ठोस घनाकार ब्लॉक के कुल आयतन में से चार शंक्वाकार गड्ढों के आयतन को घटाना होगा।\n\n1. **लकड़ी के घनाभ का आयतन:** \n$$V_{\\text{घनाभ}} = l \\times b \\times h = 15 \\times 10 \\times 3.5 = 150 \\times 3.5 = 525\\text{ सेमी}^3$$\n\n\n2. **एक शंक्वाकार गड्ढे का आयतन:** त्रिज्या ($r$) $= 0.5\\text{ सेमी} = \\frac{1}{2}\\text{ सेमी}$, गहराई/ऊँचाई ($h$) $= 1.4\\text{ सेमी} = \\frac{14}{10}\\text{ सेमी}$।\n$$V_{\\text{शंकु}} = \\frac{1}{3}\\pi r^2h = \\frac{1}{3} \\times \\frac{22}{7} \\times \\left(\\frac{1}{2}\\right)^2 \\times \\frac{14}{10}$$\n\n\n$$= \\frac{1}{3} \\times \\frac{22}{7} \\times \\frac{1}{4} \\times \\frac{14}{10} = \\frac{22 \\times 2}{3 \\times 40} = \\frac{44}{120} = \\frac{11}{30} \\approx 0.366\\text{ सेमी}^3$$\n\n\n3. **चार शंक्वाकार गड्ढों का आयतन:** \n$$V_{\\text{4 शंकु}} = 4 \\times \\frac{11}{30} = \\frac{44}{30} = 1.466\\text{ सेमी}^3$$\n\n\n4. **लकड़ी का अंतिम आयतन:** \n$$V_{\\text{लकड़ी}} = V_{\\text{घनाभ}} - V_{\\text{4 शंकु}} = 525 - 1.47 = 523.53\\text{ सेमी}^3$$\n\n\nपूरे स्टैंड में लकड़ी का आयतन **$523.53\\text{ सेमी}^3$** है।",
+      "keyPoints": [
+        "Volume of wood = Volume of cuboid - 4 * (Volume of cone).",
+        "Volume of cone is (1/3) * pi * r^2 * h."
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Rachel, an engineering student, was asked to make a model shaped like a cylinder with two cones attached at its two ends by using a thin aluminium sheet. The diameter of the model is $3\\text{ cm}$ and its length is $12\\text{ cm}$. If each cone has a height of $2\\text{ cm}$, find the volume of air contained in the model that Rachel made. (Assume the outer and inner dimensions of the model to be nearly the same).",
+      "questionHi": "इंजीनियरिंग की एक छात्रा रशेल को एक पतली एल्युमिनियम शीट का उपयोग करके एक बेलन के आकार का एक मॉडल बनाने के लिए कहा गया था जिसके दोनों सिरों पर दो शंकु जुड़े हुए थे। मॉडल का व्यास $3\\text{ सेमी}$ है और इसकी लंबाई $12\\text{ सेमी}$ है। यदि प्रत्येक शंकु की ऊँचाई $2\\text{ सेमी}$ है, तो रशेल द्वारा बनाए गए मॉडल में निहित हवा का आयतन ज्ञात कीजिए। (मान लीजिए कि मॉडल की बाहरी और आंतरिक विमाएँ लगभग समान हैं)।",
+      "answer": "The total volume of air inside the model is equal to the volume of the geometrical solid formed by the cylinder and the two cones.\n\nRadius for all parts ($r$) $= \\frac{3}{2} = 1.5\\text{ cm}$.\n\nHeight of each cone ($h_1$) $= 2\\text{ cm}$.\n\nHeight of the cylinder ($h_2$) $= \\text{Total length} - 2 \\times (\\text{height of cone})$\n\n$$h_2 = 12 - 2(2) = 12 - 4 = 8\\text{ cm}$$\n\n$$\\text{Total Volume} = \\text{Volume of Cylinder} + 2 \\times (\\text{Volume of Cone})$$\n\n$$V = \\pi r^2h_2 + 2 \\left(\\frac{1}{3}\\pi r^2h_1\\right) = \\pi r^2 \\left(h_2 + \\frac{2}{3}h_1\\right)$$\n\n$$V = \\frac{22}{7} \\times \\left(\\frac{3}{2}\\right)^2 \\times \\left(8 + \\frac{2}{3}(2)\\right) = \\frac{22}{7} \\times \\frac{9}{4} \\times \\left(8 + \\frac{4}{3}\\right)$$\n\n$$V = \\frac{22 \\times 9}{28} \\times \\left(\\frac{24 + 4}{3}\\right) = \\frac{198}{28} \\times \\frac{28}{3}$$\n\nCancel out 28 from the numerator and denominator:\n\n$$V = \\frac{198}{3} = 66\\text{ cm}^3$$\n\nThe volume of air contained in Rachel's model is exactly **$66\\text{ cm}^3$**.",
+      "answerHi": "मॉडल के अंदर हवा का कुल आयतन बेलन और दो शंकुओं द्वारा बने ज्यामितीय ठोस के आयतन के बराबर है।\n\nसभी भागों के लिए त्रिज्या ($r$) $= \\frac{3}{2} = 1.5\\text{ सेमी}$।\n\nप्रत्येक शंकु की ऊँचाई ($h_1$) $= 2\\text{ सेमी}$।\n\nबेलन की ऊँचाई ($h_2$) $= \\text{कुल लंबाई} - 2 \\times (\\text{शंकु की ऊँचाई})$\n\n$$h_2 = 12 - 2(2) = 12 - 4 = 8\\text{ सेमी}$$\n\n$$\\text{कुल आयतन} = \\text{बेलन का आयतन} + 2 \\times (\\text{शंकु का आयतन})$$\n\n$$V = \\pi r^2h_2 + 2 \\left(\\frac{1}{3}\\pi r^2h_1\\right) = \\pi r^2 \\left(h_2 + \\frac{2}{3}h_1\\right)$$\n\n$$V = \\frac{22}{7} \\times \\left(\\frac{3}{2}\\right)^2 \\times \\left(8 + \\frac{2}{3}(2)\\right) = \\frac{22}{7} \\times \\frac{9}{4} \\times \\left(8 + \\frac{4}{3}\\right)$$\n\n$$V = \\frac{22 \\times 9}{28} \\times \\left(\\frac{24 + 4}{3}\\right) = \\frac{198}{28} \\times \\frac{28}{3}$$\n\nअंश और हर से 28 को काटें:\n\n$$V = \\frac{198}{3} = 66\\text{ सेमी}^3$$\n\nरशेल के मॉडल में हवा का आयतन ठीक **$66\\text{ सेमी}^3$** है।",
+      "keyPoints": [
+        "Total Volume = Cylinder Vol + 2*(Cone Vol).",
+        "Cylinder height is total length - 2*(cone height)."
+      ]
+    }
+  ]
+}
