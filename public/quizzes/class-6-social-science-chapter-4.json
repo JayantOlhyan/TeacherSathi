@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "What graphical tool do historians use to display historical events in the exact sequential order they occurred?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A geographic coordinate"
+        },
+        {
+          "id": "B",
+          "text": "A timeline"
+        },
+        {
+          "id": "C",
+          "text": "An equator"
+        },
+        {
+          "id": "D",
+          "text": "A boundary line"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "2",
+      "question": "In the modern historical dating system, what does the abbreviation 'BCE' stand for?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Before Christ Era"
+        },
+        {
+          "id": "B",
+          "text": "Before Common Era"
+        },
+        {
+          "id": "C",
+          "text": "Behind Common Era"
+        },
+        {
+          "id": "D",
+          "text": "Basic Common Era"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "3",
+      "question": "Correspondingly, what does the abbreviation 'CE' signify?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Christian Era"
+        },
+        {
+          "id": "B",
+          "text": "Common Era"
+        },
+        {
+          "id": "C",
+          "text": "Century Era"
+        },
+        {
+          "id": "D",
+          "text": "Current Epoch"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "4",
+      "question": "The systematic, academic study of the human past is formally known as:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Geography"
+        },
+        {
+          "id": "B",
+          "text": "Civics"
+        },
+        {
+          "id": "C",
+          "text": "History"
+        },
+        {
+          "id": "D",
+          "text": "Environmental Science"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "5",
+      "question": "Scholars who excavate ancient sites and analyze physical objects left behind (like tools, pottery, and buildings) are called:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Geologists"
+        },
+        {
+          "id": "B",
+          "text": "Archaeologists"
+        },
+        {
+          "id": "C",
+          "text": "Botanists"
+        },
+        {
+          "id": "D",
+          "text": "Astronomers"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "6",
+      "question": "Which of the following items is a classic example of an archaeological source?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A newly printed novel"
+        },
+        {
+          "id": "B",
+          "text": "An ancient metal coin"
+        },
+        {
+          "id": "C",
+          "text": "A modern daily newspaper"
+        },
+        {
+          "id": "D",
+          "text": "A digital video"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "7",
+      "question": "During the earliest stages of human history, what primary materials did humans use to craft simple survival tools like axes and scrapers?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Plastic and fiberglass"
+        },
+        {
+          "id": "B",
+          "text": "Smelted iron and steel"
+        },
+        {
+          "id": "C",
+          "text": "Naturally occurring stone and animal bone"
+        },
+        {
+          "id": "D",
+          "text": "Processed paper and wood"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "8",
+      "question": "Where did early humans predominantly leave visual records, such as paintings of animals and hunting scenes?",
+      "options": [
+        {
+          "id": "A",
+          "text": "On processed paper scrolls"
+        },
+        {
+          "id": "B",
+          "text": "On the walls of caves and rock shelters"
+        },
+        {
+          "id": "C",
+          "text": "On woven canvas fabrics"
+        },
+        {
+          "id": "D",
+          "text": "On tailored clothing"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "9",
+      "question": "A specific chronological period comprising exactly 100 years is termed a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Decade"
+        },
+        {
+          "id": "B",
+          "text": "Millennium"
+        },
+        {
+          "id": "C",
+          "text": "Century"
+        },
+        {
+          "id": "D",
+          "text": "Month"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "10",
+      "question": "In the context of literary sources, what constitutes a manuscript?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A text mass-produced by a printing press"
+        },
+        {
+          "id": "B",
+          "text": "A delicate, hand-written text from the ancient past"
+        },
+        {
+          "id": "C",
+          "text": "A type of heavy ancient sword"
+        },
+        {
+          "id": "D",
+          "text": "A monumental stone building"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "11",
+      "question": "Why is the work of a historian frequently compared to the methodology of a detective?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because both wear official uniforms"
+        },
+        {
+          "id": "B",
+          "text": "Because both rely on scattered clues (sources) to reconstruct the truth about past events"
+        },
+        {
+          "id": "C",
+          "text": "Because both have the authority to arrest criminals"
+        },
+        {
+          "id": "D",
+          "text": "Because both use magnifying glasses exclusively"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "12",
+      "question": "If a historical figure was born in the year 1828 CE, to which specific century does their birth year belong?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The 18th century"
+        },
+        {
+          "id": "B",
+          "text": "The 19th century"
+        },
+        {
+          "id": "C",
+          "text": "The 20th century"
+        },
+        {
+          "id": "D",
+          "text": "The 17th century"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "13",
+      "question": "Which of the following artifacts is classified strictly as a 'literary source' of history?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Baked terracotta toys"
+        },
+        {
+          "id": "B",
+          "text": "The ancient texts of the Vedas and Epics"
+        },
+        {
+          "id": "C",
+          "text": "The carved Lion Capital of Ashoka"
+        },
+        {
+          "id": "D",
+          "text": "Prehistoric cave paintings"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "14",
+      "question": "What is the fundamental nature of 'oral histories'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Heavy books written in dead, ancient languages"
+        },
+        {
+          "id": "B",
+          "text": "Lineages, songs, legends, and narratives passed down by word of mouth across successive generations"
+        },
+        {
+          "id": "C",
+          "text": "Royal decrees carved onto copper plates"
+        },
+        {
+          "id": "D",
+          "text": "The physical ruins of ancient palaces"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "15",
+      "question": "What specific aspect of the past do paleontologists dedicate their research to?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Earth's deep physical rock structures"
+        },
+        {
+          "id": "B",
+          "text": "Modern human cultural interactions"
+        },
+        {
+          "id": "C",
+          "text": "Fossilized remains to trace ancient life forms and evolutionary biology"
+        },
+        {
+          "id": "D",
+          "text": "The movement of stars and planets"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "16",
+      "question": "The monumental shift from a nomadic hunting and gathering lifestyle to practicing agriculture and domesticating animals directly resulted in:",
+      "options": [
+        {
+          "id": "A",
+          "text": "The immediate extinction of the human species"
+        },
+        {
+          "id": "B",
+          "text": "Populations settling in one location and constructing permanent villages"
+        },
+        {
+          "id": "C",
+          "text": "People moving even more constantly"
+        },
+        {
+          "id": "D",
+          "text": "The onset of the global Ice Age"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "17",
+      "question": "What distinguishes an 'inscription' from other historical texts?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It is a fictional story told around a campfire"
+        },
+        {
+          "id": "B",
+          "text": "It is a permanent written record meticulously engraved onto hard surfaces like stone rock faces or metal plates"
+        },
+        {
+          "id": "C",
+          "text": "It is a fragile drawing on a dried leaf"
+        },
+        {
+          "id": "D",
+          "text": "It is a pattern woven into ancient clothing"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "18",
+      "question": "Around 12,000 BCE, a massive global climatic transition fundamentally altered human habitation patterns. What was this event?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The sudden invention of the printing press"
+        },
+        {
+          "id": "B",
+          "text": "The end of the last major Ice Age, leading to a warming climate"
+        },
+        {
+          "id": "C",
+          "text": "The catastrophic beginning of the Iron Age"
+        },
+        {
+          "id": "D",
+          "text": "The geographical discovery of the Americas"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "19",
+      "question": "In the categorization of oral sources, what does the specific term 'genealogical' pertain to?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Detailed family lineages and ancestral histories transmitted verbally"
+        },
+        {
+          "id": "B",
+          "text": "Ancient instructions for cooking meals"
+        },
+        {
+          "id": "C",
+          "text": "Architectural blueprints for building shelters"
+        },
+        {
+          "id": "D",
+          "text": "Navigational maps of the night sky"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "20",
+      "question": "The majestic Lion Capital of Ashoka, which serves as India's national emblem, represents which primary category of historical evidence?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Oral source"
+        },
+        {
+          "id": "B",
+          "text": "Literary source"
+        },
+        {
+          "id": "C",
+          "text": "Archaeological source"
+        },
+        {
+          "id": "D",
+          "text": "Foreign traveler's account"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "21",
+      "question": "\"History is 'an unending dialogue between the present and the past.'\" Which eminent historian articulated this profound view on the nature of historical inquiry?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Herodotus"
+        },
+        {
+          "id": "B",
+          "text": "E.H. Carr"
+        },
+        {
+          "id": "C",
+          "text": "Romila Thapar"
+        },
+        {
+          "id": "D",
+          "text": "B.B. Lal"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "22",
+      "question": "Beyond merely listing dates, how do timelines serve as powerful analytical tools for historians regarding 'cause and effect'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They definitively prove that memorizing dates is useless"
+        },
+        {
+          "id": "B",
+          "text": "By visualizing the strict chronological order of events, historians can deduce how an earlier geopolitical or social event directly triggered a subsequent one"
+        },
+        {
+          "id": "C",
+          "text": "They provide photographic evidence of what people wore"
+        },
+        {
+          "id": "D",
+          "text": "They allow historians to perfectly predict future events"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "23",
+      "question": "Why is it an absolute methodological necessity for historians to synthesize multiple types of sources (e.g., cross-referencing archaeological finds with literary texts)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because reading only one type of source is tedious"
+        },
+        {
+          "id": "B",
+          "text": "Because a single source type may be historically incomplete, biased, or propagandistic; cross-checking builds a multi-dimensional, reliable reconstruction of the past"
+        },
+        {
+          "id": "C",
+          "text": "Because ancient paper is too fragile to read alone"
+        },
+        {
+          "id": "D",
+          "text": "Because museum display cases need to be filled"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "24",
+      "question": "When plotting historical events Before the Common Era (BCE) on a timeline, what is the mathematical progression of the years?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Forward chronologically (e.g., 100 BCE is followed by 200 BCE)"
+        },
+        {
+          "id": "B",
+          "text": "Backward chronologically (e.g., 200 BCE is an older date and comes before 100 BCE)"
+        },
+        {
+          "id": "C",
+          "text": "Alphabetically based on the event's name"
+        },
+        {
+          "id": "D",
+          "text": "Randomly based on the phases of the moon"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "25",
+      "question": "Detailed travelogues and chronicles written by visiting international scholars (such as Xuanzang) are classified under which broad category of historical evidence?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Archaeological artifacts"
+        },
+        {
+          "id": "B",
+          "text": "Epigraphic inscriptions"
+        },
+        {
+          "id": "C",
+          "text": "Literary sources (Foreign Accounts)"
+        },
+        {
+          "id": "D",
+          "text": "Orally transmitted folklore"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "26",
+      "question": "Which specific academic discipline focuses on the holistic study of human societies, cultural practices, and the complex ways in which human interactions evolve over time?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Geology"
+        },
+        {
+          "id": "B",
+          "text": "Paleontology"
+        },
+        {
+          "id": "C",
+          "text": "Anthropology"
+        },
+        {
+          "id": "D",
+          "text": "Archaeology"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "27",
+      "question": "In the highly specialized vocabulary of archaeology, what exactly constitutes a 'mound'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A naturally occurring hill composed entirely of solid bedrock"
+        },
+        {
+          "id": "B",
+          "text": "An artificially raised area of land formed by the accumulated physical debris and ruins of consecutive past human settlements over centuries"
+        },
+        {
+          "id": "C",
+          "text": "A designated, modern burial ground for domestic animals"
+        },
+        {
+          "id": "D",
+          "text": "A contemporary municipal garbage dump"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "28",
+      "question": "Which of the following socio-economic sequences accurately represents the accepted chronological progression of early human civilisational development?",
+      "options": [
+        {
+          "id": "A",
+          "text": "City building → Advanced Farming → Nomadic Hunting/Gathering"
+        },
+        {
+          "id": "B",
+          "text": "Farming → Hunting/Gathering → Megacity building"
+        },
+        {
+          "id": "C",
+          "text": "Nomadic Hunting/Gathering → Farming and Animal Domestication → Permanent Sedentary Settlements and Cities"
+        },
+        {
+          "id": "D",
+          "text": "Permanent Sedentary Settlements → Hunting/Gathering → Subsistence Farming"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "29",
+      "question": "The mastery of fire was a watershed technological leap for early humans. Based on historical evidence, which of the following was NOT a primary use of fire during the Paleolithic era?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cooking and processing raw food"
+        },
+        {
+          "id": "B",
+          "text": "Smelting iron ore to construct advanced industrial machinery"
+        },
+        {
+          "id": "C",
+          "text": "Generating heat to survive in harsh, frigid climates"
+        },
+        {
+          "id": "D",
+          "text": "Emitting light and scaring away predatory wild animals"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "30",
+      "question": "To correct severe astronomical inaccuracies in timekeeping, the widely utilized Gregorian Calendar was introduced in 1582 to replace which older, flawed calendar system?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Roman Julian calendar"
+        },
+        {
+          "id": "B",
+          "text": "The ancient Mayan calendar"
+        },
+        {
+          "id": "C",
+          "text": "The Indian Saka calendar"
+        },
+        {
+          "id": "D",
+          "text": "The Islamic Hijri calendar"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    }
+  ]
+}
