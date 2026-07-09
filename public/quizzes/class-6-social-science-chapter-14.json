@@ -2,23 +2,23 @@
   "questions": [
     {
       "id": "1",
-      "question": "What are economic activities?",
+      "question": "Activities that involve directly extracting or utilizing raw materials straight from nature (like farming, forestry, and fishing) belong to which fundamental economic sector?",
       "options": [
         {
           "id": "A",
-          "text": "Activities done to earn income and satisfy human needs"
+          "text": "Primary Sector"
         },
         {
           "id": "B",
-          "text": "Activities done only for entertainment"
+          "text": "Secondary Sector"
         },
         {
           "id": "C",
-          "text": "Activities related only to sports"
+          "text": "Tertiary Sector"
         },
         {
           "id": "D",
-          "text": "Activities done only during festivals"
+          "text": "Public Sector"
         }
       ],
       "difficulty": "Easy",
@@ -27,148 +27,148 @@
     },
     {
       "id": "2",
-      "question": "Which of the following is an economic activity?",
+      "question": "Activities that involve processing raw materials and transforming them into finished goods (like manufacturing in large factories) belong to which economic sector?",
       "options": [
         {
           "id": "A",
-          "text": "Farming"
+          "text": "Primary Sector"
         },
         {
           "id": "B",
-          "text": "Sleeping"
+          "text": "Secondary Sector"
         },
         {
           "id": "C",
-          "text": "Playing a game for fun"
+          "text": "Tertiary Sector"
         },
         {
           "id": "D",
-          "text": "Watching television"
+          "text": "Service Sector"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "3",
-      "question": "Which sector includes farming and fishing?",
+      "question": "Activities that do not produce goods, but instead provide essential services (like transport, banking, and education) belong to which economic sector?",
       "options": [
         {
           "id": "A",
-          "text": "Primary sector"
+          "text": "Primary Sector"
         },
         {
           "id": "B",
-          "text": "Secondary sector"
+          "text": "Secondary Sector"
         },
         {
           "id": "C",
-          "text": "Tertiary sector"
+          "text": "Tertiary Sector"
         },
         {
           "id": "D",
-          "text": "Quaternary sector"
+          "text": "Manufacturing Sector"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
     },
     {
       "id": "4",
-      "question": "Which sector converts raw materials into finished goods?",
+      "question": "The act of growing crops such as wheat, rice, and vegetables on a farm is a classic example of an activity in the:",
       "options": [
         {
           "id": "A",
-          "text": "Secondary sector"
+          "text": "Tertiary Sector"
         },
         {
           "id": "B",
-          "text": "Primary sector"
+          "text": "Secondary Sector"
         },
         {
           "id": "C",
-          "text": "Tertiary sector"
+          "text": "Primary Sector"
         },
         {
           "id": "D",
-          "text": "Agricultural sector only"
+          "text": "Technology Sector"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
     },
     {
       "id": "5",
-      "question": "Which sector provides services such as banking and transport?",
+      "question": "The act of making finely crafted furniture out of raw wood in a workshop is a classic example of an activity in the:",
       "options": [
         {
           "id": "A",
-          "text": "Tertiary sector"
+          "text": "Primary Sector"
         },
         {
           "id": "B",
-          "text": "Primary sector"
+          "text": "Secondary Sector"
         },
         {
           "id": "C",
-          "text": "Secondary sector"
+          "text": "Tertiary Sector"
         },
         {
           "id": "D",
-          "text": "Mining sector"
+          "text": "Forest Sector"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "6",
-      "question": "Which of the following is an example of manufacturing?",
+      "question": "A truck driver who spends his days transporting fresh vegetables from the farm to the city market works in the:",
       "options": [
         {
           "id": "A",
-          "text": "Making clothes in a factory"
+          "text": "Primary Sector"
         },
         {
           "id": "B",
-          "text": "Growing wheat"
+          "text": "Secondary Sector"
         },
         {
           "id": "C",
-          "text": "Catching fish"
+          "text": "Tertiary Sector"
         },
         {
           "id": "D",
-          "text": "Driving a taxi"
+          "text": "Agricultural Sector"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
     },
     {
       "id": "7",
-      "question": "Which activity belongs to the service sector?",
+      "question": "Which of the following is strictly a Primary Sector economic activity?",
       "options": [
         {
           "id": "A",
-          "text": "Teaching in a school"
+          "text": "Deep-shaft mining for coal"
         },
         {
           "id": "B",
-          "text": "Mining coal"
+          "text": "Teaching mathematics in a high school"
         },
         {
           "id": "C",
-          "text": "Growing rice"
+          "text": "Baking bread in a commercial oven"
         },
         {
           "id": "D",
-          "text": "Making bricks"
+          "text": "Stitching clothes in a tailor shop"
         }
       ],
       "difficulty": "Easy",
@@ -177,223 +177,223 @@
     },
     {
       "id": "8",
-      "question": "Why are economic activities important?",
+      "question": "Which of the following is strictly a Tertiary Sector economic activity?",
       "options": [
         {
           "id": "A",
-          "text": "They provide goods, services and employment."
+          "text": "Catching fish in the deep ocean"
         },
         {
           "id": "B",
-          "text": "They reduce production."
+          "text": "Weaving raw cotton into fine cloth"
         },
         {
           "id": "C",
-          "text": "They stop trade."
+          "text": "Treating sick patients in a modern hospital (Healthcare)"
         },
         {
           "id": "D",
-          "text": "They increase unemployment."
+          "text": "Raising a herd of cows for fresh milk"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
     },
     {
       "id": "9",
-      "question": "Which natural resource is directly used in agriculture?",
+      "question": "A specific group of people who voluntarily come together to collectively meet their economic needs, such as a group of dairy farmers forming a shared enterprise, is called a:",
       "options": [
         {
           "id": "A",
-          "text": "Land"
+          "text": "Heavy Factory"
         },
         {
           "id": "B",
-          "text": "Plastic"
+          "text": "Cooperative"
         },
         {
           "id": "C",
-          "text": "Steel"
+          "text": "Central Bank"
         },
         {
           "id": "D",
-          "text": "Glass"
+          "text": "Commercial Warehouse"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "10",
-      "question": "The main aim of economic activities is to _____.",
+      "question": "Massive, secure buildings used specifically for storing vast quantities of products safely before they are sold or transported to shops are called:",
       "options": [
         {
           "id": "A",
-          "text": "Meet human needs and improve living standards"
+          "text": "Manufacturing Factories"
         },
         {
           "id": "B",
-          "text": "Waste natural resources"
+          "text": "Dairies"
         },
         {
           "id": "C",
-          "text": "Increase pollution only"
+          "text": "Warehouses"
         },
         {
           "id": "D",
-          "text": "Reduce production"
+          "text": "Medical Clinics"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
     },
     {
       "id": "11",
-      "question": "Why are all three economic sectors important?",
+      "question": "How are the three main economic sectors (Primary, Secondary, Tertiary) functionally related to each other in a real-world economy?",
       "options": [
         {
           "id": "A",
-          "text": "They depend on one another to produce goods and provide services."
+          "text": "They operate in total isolation and do not interact at all"
         },
         {
           "id": "B",
-          "text": "They work independently without any connection."
+          "text": "They aggressively compete to destroy each other"
         },
         {
           "id": "C",
-          "text": "Only the service sector is important."
+          "text": "They are highly interdependent; every single sector relies heavily on the output and services of the others to function"
         },
         {
           "id": "D",
-          "text": "Only farming is necessary."
+          "text": "Only the Primary sector actually matters to survival"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
     },
     {
       "id": "12",
-      "question": "Which activity is an example of the secondary sector?",
+      "question": "If a farmer sells raw milk, a massive factory pasteurizes and turns it into cheese, and a local shopkeeper sells the cheese, which specific sector does the factory belong to?",
       "options": [
         {
           "id": "A",
-          "text": "Converting cotton into cloth"
+          "text": "Primary"
         },
         {
           "id": "B",
-          "text": "Growing cotton"
+          "text": "Secondary"
         },
         {
           "id": "C",
-          "text": "Driving a bus"
+          "text": "Tertiary"
         },
         {
           "id": "D",
-          "text": "Fishing in a river"
+          "text": "None of the above"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "13",
-      "question": "Which of the following belongs to the tertiary sector?",
+      "question": "Why is the Secondary Sector frequently referred to by economists as the \"industrial\" or \"manufacturing\" sector?",
       "options": [
         {
           "id": "A",
-          "text": "Banking services"
+          "text": "Because it only involves planting trees"
         },
         {
           "id": "B",
-          "text": "Wheat cultivation"
+          "text": "Because it bridges the critical gap between raw natural materials and consumers by using heavy industries and machinery to process and manufacture finished goods"
         },
         {
           "id": "C",
-          "text": "Coal mining"
+          "text": "Because it provides financial services like banking"
         },
         {
           "id": "D",
-          "text": "Brick making"
+          "text": "Because it only operates within mega-cities"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "14",
-      "question": "Why is transport considered an economic activity?",
+      "question": "Which world-famous, highly successful cooperative in Gujarat fundamentally transformed the lives of millions of rural dairy farmers?",
       "options": [
         {
           "id": "A",
-          "text": "It helps move people and goods from one place to another."
+          "text": "BHEL"
         },
         {
           "id": "B",
-          "text": "It produces crops."
+          "text": "AMUL"
         },
         {
           "id": "C",
-          "text": "It manufactures machines."
+          "text": "Reliance"
         },
         {
           "id": "D",
-          "text": "It extracts minerals."
+          "text": "Tata"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "15",
-      "question": "Which factor mainly influences the type of economic activity in an area?",
+      "question": "What vital, sustaining role does the Tertiary Sector play for the other two production-based sectors?",
       "options": [
         {
           "id": "A",
-          "text": "Availability of natural resources and human skills"
+          "text": "It systematically destroys their products to keep prices high"
         },
         {
           "id": "B",
-          "text": "Colour of buildings"
+          "text": "It provides absolutely essential support services like massive transportation networks, fast communication, and global trade to help them physically operate and sell their goods"
         },
         {
           "id": "C",
-          "text": "Number of festivals"
+          "text": "It grows the raw materials for them in fields"
         },
         {
           "id": "D",
-          "text": "Type of clothing"
+          "text": "It physically manufactures heavy machines for them"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "16",
-      "question": "Why is trade important in the economy?",
+      "question": "In the complex, multi-stage process of making a school textbook, cutting down forest trees for wood pulp is a ________ activity, while utilizing complex machines to print the book is a ________ activity.",
       "options": [
         {
           "id": "A",
-          "text": "It helps exchange goods and services between producers and consumers."
+          "text": "Primary; Secondary"
         },
         {
           "id": "B",
-          "text": "It reduces production."
+          "text": "Secondary; Tertiary"
         },
         {
           "id": "C",
-          "text": "It prevents employment."
+          "text": "Primary; Tertiary"
         },
         {
           "id": "D",
-          "text": "It discourages development."
+          "text": "Tertiary; Secondary"
         }
       ],
       "difficulty": "Medium",
@@ -402,273 +402,273 @@
     },
     {
       "id": "17",
-      "question": "Which occupation belongs to the primary sector?",
+      "question": "A large national bank providing a heavy financial loan to a rural farmer so he can buy a modern tractor is a prime example of which sector actively supporting the Primary sector?",
       "options": [
         {
           "id": "A",
-          "text": "Dairy farming"
+          "text": "Primary Sector"
         },
         {
           "id": "B",
-          "text": "Teacher"
+          "text": "Secondary Sector"
         },
         {
           "id": "C",
-          "text": "Shopkeeper"
+          "text": "Tertiary Sector"
         },
         {
           "id": "D",
-          "text": "Factory worker"
+          "text": "Manufacturing Sector"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
     },
     {
       "id": "18",
-      "question": "Which quality is important for successful economic activities?",
+      "question": "In the context of the vast dairy industry, what exactly is 'pasteurisation'?",
       "options": [
         {
           "id": "A",
-          "text": "Skill and hard work"
+          "text": "A new process of making clothes from milk"
         },
         {
           "id": "B",
-          "text": "Laziness"
+          "text": "A critical scientific process of rapidly heating milk to a specific high temperature to kill harmful bacteria and preserve it for transport"
         },
         {
           "id": "C",
-          "text": "Carelessness"
+          "text": "A way to transport milk in pipes"
         },
         {
           "id": "D",
-          "text": "Irresponsibility"
+          "text": "A specific, high-yield breed of cow"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "19",
-      "question": "Which statement about economic activities is correct?",
+      "question": "The economic act of selling finished goods in small, individual quantities directly to the final end consumer is called:",
       "options": [
         {
           "id": "A",
-          "text": "They help improve people's standard of living."
+          "text": "International Export"
         },
         {
           "id": "B",
-          "text": "They have no effect on society."
+          "text": "Bulk Wholesale"
         },
         {
           "id": "C",
-          "text": "They are limited to cities only."
+          "text": "Retail"
         },
         {
           "id": "D",
-          "text": "They are limited to factories only."
+          "text": "Deep Earth Mining"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
     },
     {
       "id": "20",
-      "question": "What is the central idea of this chapter?",
+      "question": "Why do massive secondary sector factories desperately depend on tertiary communication and banking services?",
       "options": [
         {
           "id": "A",
-          "text": "Different economic activities work together to support society and the economy."
+          "text": "To catch fish in the nearby rivers"
         },
         {
           "id": "B",
-          "text": "Only agriculture is important."
+          "text": "To securely process massive financial payments, secure corporate loans, and instantly communicate with global suppliers and buyers"
         },
         {
           "id": "C",
-          "text": "Only industries contribute to development."
+          "text": "To grow crops inside the factory"
         },
         {
           "id": "D",
-          "text": "Services are not economic activities."
+          "text": "To physically mine iron ore"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "21",
-      "question": "Why are the primary, secondary and tertiary sectors interdependent?",
+      "question": "\"The root of prosperity is economic activity...\" What would catastrophically happen to the secondary and tertiary sectors if all primary activities globally suddenly ceased to exist?",
       "options": [
         {
           "id": "A",
-          "text": "Each sector supports the others by producing raw materials, manufactured goods and essential services."
+          "text": "They would thrive independently using synthetic materials"
         },
         {
           "id": "B",
-          "text": "They work completely independently."
+          "text": "They would face total systemic collapse, as the primary sector provides the absolute foundational raw materials required for any manufacturing and the physical goods needed for any trade"
         },
         {
           "id": "C",
-          "text": "Only the tertiary sector is necessary."
+          "text": "They would seamlessly turn into primary sectors themselves"
         },
         {
           "id": "D",
-          "text": "Only agriculture supports the economy."
+          "text": "Only massive digital banks would survive"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "22",
-      "question": "If farmers stop producing crops, which sector would be affected first?",
+      "question": "How does a massive cooperative structure like AMUL fundamentally empower primary sector workers (poor rural farmers) against economic exploitation?",
       "options": [
         {
           "id": "A",
-          "text": "Secondary sector (food processing and manufacturing)"
+          "text": "By forcing them to work long hours in dangerous factories"
         },
         {
           "id": "B",
-          "text": "Space research"
+          "text": "By entirely eliminating exploitative, profit-hoarding middlemen, pooling their resources, and giving the farmers direct collective ownership and fair, massive profits from the processing (secondary) and nationwide sale (tertiary) of their own milk"
         },
         {
           "id": "C",
-          "text": "Tourism only"
+          "text": "By legally stopping them from producing any milk"
         },
         {
           "id": "D",
-          "text": "Banking only"
+          "text": "By replacing biological cows with synthetic machines"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "23",
-      "question": "A company purchases cotton from farmers, makes clothes and sells them through shops. Which sectors are involved?",
+      "question": "Consider the complex economic journey of a simple cotton shirt: 1. Growing the raw cotton, 2. Spinning the yarn and weaving the cloth in a mill, 3. Selling it in a luxury mall. This accurately represents the sequential economic flow of:",
       "options": [
         {
           "id": "A",
-          "text": "Primary, Secondary and Tertiary sectors"
+          "text": "Tertiary -> Secondary -> Primary"
         },
         {
           "id": "B",
-          "text": "Primary sector only"
+          "text": "Primary -> Secondary -> Tertiary"
         },
         {
           "id": "C",
-          "text": "Secondary sector only"
+          "text": "Secondary -> Primary -> Tertiary"
         },
         {
           "id": "D",
-          "text": "Tertiary sector only"
+          "text": "Tertiary -> Primary -> Secondary"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "24",
-      "question": "Why are skilled workers important in economic development?",
+      "question": "Which of the following complex industrial activities adds the highest exponential 'value' to a raw material through intense, skilled processing?",
       "options": [
         {
           "id": "A",
-          "text": "They improve productivity, quality and innovation."
+          "text": "Simply plucking an apple from a tree"
         },
         {
           "id": "B",
-          "text": "They reduce production."
+          "text": "Catching a fish with a basic net"
         },
         {
           "id": "C",
-          "text": "They increase unemployment."
+          "text": "Transforming raw iron ore and basic steel into a highly advanced, computerized automobile"
         },
         {
           "id": "D",
-          "text": "They prevent industrial growth."
+          "text": "Digging a shallow well for water"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
     },
     {
       "id": "25",
-      "question": "Which example best demonstrates the relationship between natural resources and economic activities?",
+      "question": "A highly educated architect designing the complex blueprints for a massive new factory building is engaged in which economic sector?",
       "options": [
         {
           "id": "A",
-          "text": "Fertile land supports farming, which provides raw materials for industries."
+          "text": "Primary"
         },
         {
           "id": "B",
-          "text": "Roads produce crops."
+          "text": "Secondary"
         },
         {
           "id": "C",
-          "text": "Banks grow food grains."
+          "text": "Tertiary"
         },
         {
           "id": "D",
-          "text": "Schools manufacture machines."
+          "text": "Quaternary (Note: While advanced macroeconomic models use Quaternary, the Class 6 NCERT framework aligns all professional intellectual services firmly within the Tertiary sector)."
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
     },
     {
       "id": "26",
-      "question": "Which situation best reflects sustainable economic activity?",
+      "question": "Why are the specific tertiary sub-sectors of massive transportation and warehousing considered the absolute, crucial 'links' in any global economy?",
       "options": [
         {
           "id": "A",
-          "text": "Using natural resources wisely while protecting the environment."
+          "text": "Because they magically manufacture new goods out of thin air"
         },
         {
           "id": "B",
-          "text": "Wasting water and forests for short-term profit."
+          "text": "Because they physically and logistically connect the isolated primary producers to the secondary factories, and the factories to the final retail consumers, ensuring the delicate supply chain does not break"
         },
         {
           "id": "C",
-          "text": "Polluting rivers during production."
+          "text": "Because they extract resources from the earth"
         },
         {
           "id": "D",
-          "text": "Overusing resources without planning."
+          "text": "Because they operate entirely for free"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "27",
-      "question": "Which action contributes most to economic growth?",
+      "question": "If India successfully exports thousands of manufactured garments to another nation, what does the economic term 'export' precisely mean?",
       "options": [
         {
           "id": "A",
-          "text": "Producing goods efficiently and providing quality services."
+          "text": "High-quality goods that are produced in one country and profitably sold to buyers or consumers in another sovereign country"
         },
         {
           "id": "B",
-          "text": "Wasting raw materials."
+          "text": "Cheap goods aggressively bought from another country"
         },
         {
           "id": "C",
-          "text": "Ignoring workers' skills."
+          "text": "Defective goods thrown away into the ocean"
         },
         {
           "id": "D",
-          "text": "Reducing production unnecessarily."
+          "text": "Stolen goods hidden secretly in a warehouse"
         }
       ],
       "difficulty": "Hard",
@@ -677,78 +677,78 @@
     },
     {
       "id": "28",
-      "question": "A transport company delivers vegetables from villages to cities every day. Which economic role is it performing?",
+      "question": "The massive, generational shift of a developing country's workforce from basic subsistence farming to factory labor, and eventually to high-tech IT services, represents a macroeconomic transition from:",
       "options": [
         {
           "id": "A",
-          "text": "Connecting producers and consumers through the service sector"
+          "text": "Tertiary to Primary"
         },
         {
           "id": "B",
-          "text": "Manufacturing food products"
+          "text": "Primary to Secondary to Tertiary"
         },
         {
           "id": "C",
-          "text": "Growing crops"
+          "text": "Secondary to Tertiary to Primary"
         },
         {
           "id": "D",
-          "text": "Mining minerals"
+          "text": "Primary to Primary"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "29",
-      "question": "Which lesson from this chapter is most relevant in daily life?",
+      "question": "A skilled mobile phone repair technician provides a diagnostic service. However, the complex microchip spare parts he installs are manufactured goods. This common scenario best illustrates:",
       "options": [
         {
           "id": "A",
-          "text": "Every economic activity and every worker contributes to society's development."
+          "text": "That the primary sector is utterly useless in the modern world"
         },
         {
           "id": "B",
-          "text": "Only factory jobs are valuable."
+          "text": "The incredibly deep, unavoidable interdependence between the secondary sector (manufacturing the parts) and the tertiary sector (providing the repair service)"
         },
         {
           "id": "C",
-          "text": "Agriculture is no longer important."
+          "text": "That repairing electronics is actually a primary agricultural activity"
         },
         {
           "id": "D",
-          "text": "Services do not contribute to the economy."
+          "text": "That microchips grow organically on trees"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "30",
-      "question": "Which statement best summarizes the main idea of this chapter?",
+      "question": "Beyond just moving physical goods, how does the tertiary sector directly and profoundly improve the fundamental quality of life and build 'human capital' within a nation?",
       "options": [
         {
           "id": "A",
-          "text": "Economic activities in the primary, secondary and tertiary sectors are interconnected and together improve livelihoods, employment and national development."
+          "text": "By aggressively mining more coal"
         },
         {
           "id": "B",
-          "text": "Only one economic sector is important."
+          "text": "Through vital, life-altering services like advanced education (schools/universities) and expert healthcare (hospitals) which structurally build a highly skilled, intelligent, and healthy population capable of extreme innovation"
         },
         {
           "id": "C",
-          "text": "Economic activities are limited to industries."
+          "text": "By rapidly cutting down ancient forests"
         },
         {
           "id": "D",
-          "text": "Economic development depends only on trade."
+          "text": "By creating massive amounts of industrial pollution"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     }
   ]
 }
