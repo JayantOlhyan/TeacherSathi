@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "Which of the following is a definitive, universal characteristic of all living things?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They are manufactured from plastic."
+        },
+        {
+          "id": "B",
+          "text": "They grow, breathe (respire), and reproduce."
+        },
+        {
+          "id": "C",
+          "text": "They never require water."
+        },
+        {
+          "id": "D",
+          "text": "They remain the exact same size forever."
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "2",
+      "question": "The biological process by which living organisms produce more individuals of their own kind to ensure species survival is called:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Excretion"
+        },
+        {
+          "id": "B",
+          "text": "Respiration"
+        },
+        {
+          "id": "C",
+          "text": "Reproduction"
+        },
+        {
+          "id": "D",
+          "text": "Digestion"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "3",
+      "question": "What three vital components do green plants absolutely need to manufacture their own food?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only rich soil"
+        },
+        {
+          "id": "B",
+          "text": "Sunlight, water, and carbon dioxide"
+        },
+        {
+          "id": "C",
+          "text": "Oxygen and processed sugar"
+        },
+        {
+          "id": "D",
+          "text": "Complete darkness"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "4",
+      "question": "The biological removal of toxic metabolic waste products from an organism's body is known as:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Respiration"
+        },
+        {
+          "id": "B",
+          "text": "Excretion"
+        },
+        {
+          "id": "C",
+          "text": "Growth"
+        },
+        {
+          "id": "D",
+          "text": "Movement"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "5",
+      "question": "How do animals (as opposed to plants) generally obtain their required nutritional food?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They synthesize it internally using sunlight."
+        },
+        {
+          "id": "B",
+          "text": "They absorb it directly from the air."
+        },
+        {
+          "id": "C",
+          "text": "They consume plants or other animals."
+        },
+        {
+          "id": "D",
+          "text": "They survive by drinking only water."
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "6",
+      "question": "Which of the following entities is universally classified by scientists as a non-living thing?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A banyan tree"
+        },
+        {
+          "id": "B",
+          "text": "A leaping frog"
+        },
+        {
+          "id": "C",
+          "text": "A granite rock"
+        },
+        {
+          "id": "D",
+          "text": "A flying bird"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "7",
+      "question": "A potted plant placed near a window bending its stem towards the sunlight is a clear example of what biological characteristic?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Asexual reproduction"
+        },
+        {
+          "id": "B",
+          "text": "Excretion of waste"
+        },
+        {
+          "id": "C",
+          "text": "Response to external stimuli"
+        },
+        {
+          "id": "D",
+          "text": "Anaerobic breathing"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "8",
+      "question": "What is considered the very first, dormant stage in the life cycle of a typical flowering plant?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A blooming flower"
+        },
+        {
+          "id": "B",
+          "text": "A ripe fruit"
+        },
+        {
+          "id": "C",
+          "text": "A mature adult plant"
+        },
+        {
+          "id": "D",
+          "text": "A seed"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "D",
+      "explanation": "The correct answer is D."
+    },
+    {
+      "id": "9",
+      "question": "What is the biochemical process of taking in oxygen and giving out carbon dioxide to release vital energy from food called?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Photosynthesis"
+        },
+        {
+          "id": "B",
+          "text": "Respiration"
+        },
+        {
+          "id": "C",
+          "text": "Digestion"
+        },
+        {
+          "id": "D",
+          "text": "Excretion"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "10",
+      "question": "Do non-living things, like storm clouds or crystals, grow from the inside out via cellular division like living things do?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes, clouds grow exactly like trees."
+        },
+        {
+          "id": "B",
+          "text": "No, they do not possess cellular growth mechanisms."
+        },
+        {
+          "id": "C",
+          "text": "Yes, cars grow when you put fuel in them."
+        },
+        {
+          "id": "D",
+          "text": "Yes, if it rains heavily."
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "11",
+      "question": "What is the crucial scientific difference between \"breathing\" and \"respiration\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They are exactly the same synonymous terms."
+        },
+        {
+          "id": "B",
+          "text": "Breathing is the mechanical, physical act of inhaling/exhaling; respiration is the internal chemical process in cells that breaks down food to release energy."
+        },
+        {
+          "id": "C",
+          "text": "Only plants breathe, but only animals respire."
+        },
+        {
+          "id": "D",
+          "text": "Breathing releases energy, respiration takes in air."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "12",
+      "question": "How do plants successfully perform the vital process of excretion without having kidneys?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They have microscopic kidneys in their roots."
+        },
+        {
+          "id": "B",
+          "text": "They release excess water through leaves (transpiration) and secrete other wastes in the form of gums, resins, or shedding old leaves."
+        },
+        {
+          "id": "C",
+          "text": "Plants do not produce or excrete any metabolic waste."
+        },
+        {
+          "id": "D",
+          "text": "They excrete solid waste directly into the deep soil."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "13",
+      "question": "A developing tadpole uses its long tail to swim. What biologically happens to this tail as it matures into an adult frog?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It grows significantly larger to help it jump."
+        },
+        {
+          "id": "B",
+          "text": "It mutates into a third hind leg."
+        },
+        {
+          "id": "C",
+          "text": "It is gradually absorbed by the body and disappears completely during the process of metamorphosis."
+        },
+        {
+          "id": "D",
+          "text": "It violently falls off instantly one day."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "14",
+      "question": "What are the four distinct stages of a mosquito's life cycle, arranged in the correct chronological order?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Egg → Pupa → Larva → Adult"
+        },
+        {
+          "id": "B",
+          "text": "Egg → Larva → Pupa → Adult"
+        },
+        {
+          "id": "C",
+          "text": "Larva → Egg → Adult → Pupa"
+        },
+        {
+          "id": "D",
+          "text": "Adult → Pupa → Egg → Larva"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "15",
+      "question": "When you accidentally touch a hot stove, you instantly pull your hand away. The hot stove is the ________, and your rapid action is the ________.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Response, stimulus"
+        },
+        {
+          "id": "B",
+          "text": "Stimulus, response"
+        },
+        {
+          "id": "C",
+          "text": "Excretion, reproduction"
+        },
+        {
+          "id": "D",
+          "text": "Growth, movement"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "16",
+      "question": "How do the leaves of the Mimosa pudica (touch-me-not plant) physically respond to being touched?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They rapidly change color to bright red."
+        },
+        {
+          "id": "B",
+          "text": "They quickly fold up and droop downwards."
+        },
+        {
+          "id": "C",
+          "text": "They detach and fall off the stem."
+        },
+        {
+          "id": "D",
+          "text": "They grow sharp thorns instantly."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "17",
+      "question": "What are the tiny, microscopic pores on the surface of plant leaves that facilitate breathing (gas exchange) and transpiration called?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gills"
+        },
+        {
+          "id": "B",
+          "text": "Lungs"
+        },
+        {
+          "id": "C",
+          "text": "Stomata"
+        },
+        {
+          "id": "D",
+          "text": "Veins"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "18",
+      "question": "Which scientific statement about the biological growth of living things is entirely true?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Biological growth is easily reversible; adults can shrink back to babies."
+        },
+        {
+          "id": "B",
+          "text": "Growth is a permanent, internal increase in cell size, number, and organism complexity."
+        },
+        {
+          "id": "C",
+          "text": "Only animals possess the ability to grow; plants do not."
+        },
+        {
+          "id": "D",
+          "text": "Growth happens by adding layers of dirt on the outside, like a snowball."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "19",
+      "question": "Why is a car definitively not considered a living thing, even though it exhibits movement and consumes fuel?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because it cannot initiate movement on its own, experience cellular growth, respire, or reproduce offspring."
+        },
+        {
+          "id": "B",
+          "text": "Because it is manufactured entirely from metal."
+        },
+        {
+          "id": "C",
+          "text": "Because it doesn't possess a biological name."
+        },
+        {
+          "id": "D",
+          "text": "Because it moves too fast for nature."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "20",
+      "question": "What does the term \"spawn\" refer to in the context of amphibian biology (specifically the frog life cycle)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A fully grown, adult male frog."
+        },
+        {
+          "id": "B",
+          "text": "A massive, jelly-like cluster of frog eggs laid directly in water."
+        },
+        {
+          "id": "C",
+          "text": "A specific type of aquatic plant the frog eats."
+        },
+        {
+          "id": "D",
+          "text": "The strong hind legs of the frog."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "21",
+      "question": "A student argues that a stalactite crystal growing in a cave is a \"living thing\" because it demonstrably increases in size over time. How would a biologist refute this?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Crystals do not actually increase in size."
+        },
+        {
+          "id": "B",
+          "text": "Crystal growth is the passive, external accumulation of non-living mineral layers, whereas biological growth involves active internal cellular division and metabolism."
+        },
+        {
+          "id": "C",
+          "text": "Crystals are indeed living things, just very slow."
+        },
+        {
+          "id": "D",
+          "text": "Crystals only grow when exposed to sunlight."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "22",
+      "question": "The phenomenon of a plant's roots growing steadfastly downwards into the soil is a specific biological response to which environmental stimulus?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Light (Positive Phototropism)"
+        },
+        {
+          "id": "B",
+          "text": "Gravity (Positive Geotropism / Gravitropism)"
+        },
+        {
+          "id": "C",
+          "text": "Water availability only"
+        },
+        {
+          "id": "D",
+          "text": "Physical touch (Thigmotropism)"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "23",
+      "question": "If a healthy potted plant is placed in a completely dark box with only one small hole letting in a beam of sunlight, what will demonstrably happen over several days?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The roots will invert and grow out of the hole."
+        },
+        {
+          "id": "B",
+          "text": "The shoot will exhibit positive phototropism, actively bending and growing towards the single light source."
+        },
+        {
+          "id": "C",
+          "text": "The plant will die immediately within minutes."
+        },
+        {
+          "id": "D",
+          "text": "The plant will grow perfectly straight up, ignoring the light."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "24",
+      "question": "Why is the continuous process of excretion absolutely critical for the survival of any living organism?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It makes the organism physically heavier and stronger."
+        },
+        {
+          "id": "B",
+          "text": "It is the primary mechanism that helps the organism breathe."
+        },
+        {
+          "id": "C",
+          "text": "It prevents the fatal, toxic accumulation of metabolic waste products, thereby maintaining vital internal chemical balance (homeostasis)."
+        },
+        {
+          "id": "D",
+          "text": "It is the sole trigger that allows the organism to reproduce."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "25",
+      "question": "Which of the following organisms undergoes a complex life cycle involving drastic, full-body morphological changes known as \"complete metamorphosis\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Human being"
+        },
+        {
+          "id": "B",
+          "text": "Domestic dog"
+        },
+        {
+          "id": "C",
+          "text": "Silk moth"
+        },
+        {
+          "id": "D",
+          "text": "Mango tree"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "26",
+      "question": "In a controlled experiment, healthy seeds are kept in a completely dry, airtight glass jar. Will they successfully germinate? Why or why not?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes, seeds only require complete darkness to sprout."
+        },
+        {
+          "id": "B",
+          "text": "No, because successful germination strictly requires moisture, air (oxygen), and a suitable temperature, two of which are missing here."
+        },
+        {
+          "id": "C",
+          "text": "Yes, because the airtight jar protects them from hungry insects."
+        },
+        {
+          "id": "D",
+          "text": "No, because they must be buried in deep soil immediately."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "27",
+      "question": "Assertion (A): If an entity respires, it must inherently grow at some stage in its life cycle. Reason (R): Respiration is the precise mechanism that provides the chemical energy required for cellular growth and development.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both A and R are true, and R is the correct, logical explanation of A."
+        },
+        {
+          "id": "B",
+          "text": "Both A and R are true, but R is NOT the correct explanation of A."
+        },
+        {
+          "id": "C",
+          "text": "A is true, but R is false."
+        },
+        {
+          "id": "D",
+          "text": "A is false, but R is true."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "28",
+      "question": "What significant evolutionary and ecological advantage does complete metamorphosis (as seen in frogs or mosquitoes) provide a species?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It makes the adult animals look aesthetically pleasing."
+        },
+        {
+          "id": "B",
+          "text": "It allows the young (larvae/tadpoles) and adults to exploit completely different environmental habitats and food sources, drastically reducing direct competition for survival between parents and offspring."
+        },
+        {
+          "id": "C",
+          "text": "It intentionally shortens their lifespan to save resources."
+        },
+        {
+          "id": "D",
+          "text": "It prevents the adults from ever needing to breathe air."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "29",
+      "question": "How did the pioneering Indian scientist Jagadish Chandra Bose contribute significantly to our modern understanding of plant biology?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He invented the first electronic microscope."
+        },
+        {
+          "id": "B",
+          "text": "He proved conclusively that plants do not require water."
+        },
+        {
+          "id": "C",
+          "text": "He invented an incredibly sensitive device called a crescograph, using it to definitively prove that plants can sense and actively respond to external stimuli."
+        },
+        {
+          "id": "D",
+          "text": "He was the first to discover the chemical formula for photosynthesis."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "30",
+      "question": "Why is the concept of \"death\" universally considered a defining biological characteristic of living beings?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because non-living things, like rocks, die too."
+        },
+        {
+          "id": "B",
+          "text": "It signifies the permanent, irreversible cessation of all metabolic processes and the definitive end of the organism's life span, a state unique only to entities that were once biologically alive."
+        },
+        {
+          "id": "C",
+          "text": "Because it allows species to physically move faster."
+        },
+        {
+          "id": "D",
+          "text": "It isn't a biological characteristic; it is only a philosophical concept."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    }
+  ]
+}
