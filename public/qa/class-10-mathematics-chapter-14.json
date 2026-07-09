@@ -1,0 +1,299 @@
+{
+  "chapterTitle": "Probability",
+  "chapterTitleHi": "प्रायिकता",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Define the theoretical (classical) probability of an event $E$.",
+      "questionHi": "किसी घटना $E$ की सैद्धांतिक (शास्त्रीय) प्रायिकता को परिभाषित कीजिए।",
+      "answer": "The theoretical probability of an event $E$, denoted by $P(E)$, is defined as:\n\n\n$$P(E) = \\frac{\\text{Number of outcomes favorable to } E}{\\text{Number of all possible outcomes of the experiment}}$$\n\n\nThis assumes that all outcomes of the experiment are equally likely.",
+      "answerHi": "किसी घटना $E$ की सैद्धांतिक प्रायिकता, जिसे $P(E)$ द्वारा निरूपित किया जाता है, इस प्रकार परिभाषित की जाती है:\n\n\n$$P(E) = \\frac{E \\text{ के अनुकूल परिणामों की संख्या}}{\\text{प्रयोग के सभी संभव परिणामों की संख्या}}$$\n\n\nयह मान लेता है कि प्रयोग के सभी परिणाम समप्रायिक (equally likely) हैं।",
+      "keyPoints": [
+        "Formula: Favorable outcomes / Total outcomes.",
+        "Assumes all outcomes are equally likely."
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "If $P(E) = 0.05$, what is the probability of 'not $E$'?",
+      "questionHi": "यदि $P(E) = 0.05$ है, तो '$E$ नहीं' की प्रायिकता क्या है?",
+      "answer": "The sum of the probabilities of an event and its complementary event is always 1.\n\n\n$$P(E) + P(\\text{not } E) = 1$$\n\n$$0.05 + P(\\text{not } E) = 1 \\implies P(\\text{not } E) = 1 - 0.05 = 0.95$$",
+      "answerHi": "किसी घटना और उसकी पूरक घटना की प्रायिकताओं का योग हमेशा 1 होता है।\n\n\n$$P(E) + P(E \\text{ नहीं}) = 1$$\n\n$$0.05 + P(E \\text{ नहीं}) = 1 \\implies P(E \\text{ नहीं}) = 1 - 0.05 = 0.95$$",
+      "keyPoints": [
+        "P(E) + P(not E) = 1.",
+        "P(not E) = 1 - 0.05 = 0.95."
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "What is the probability of an impossible event and a sure (or certain) event? State the mathematical boundaries of probability.",
+      "questionHi": "एक असंभव घटना और एक निश्चित घटना की प्रायिकता क्या होती है? प्रायिकता की गणितीय सीमाएँ बताइए।",
+      "answer": "* The probability of an impossible event is **0**.\n\n* The probability of a sure (certain) event is **1**.\nMathematically, the probability of any event $E$ always lies between 0 and 1 (inclusive):\n\n$$0 \\le P(E) \\le 1$$",
+      "answerHi": "* एक असंभव घटना की प्रायिकता **0** होती है।\n\n* एक निश्चित घटना की प्रायिकता **1** होती है।\nगणितीय रूप से, किसी भी घटना $E$ की प्रायिकता हमेशा 0 और 1 (सहित) के बीच होती है:\n\n$$0 \\le P(E) \\le 1$$",
+      "keyPoints": [
+        "Impossible event P = 0.",
+        "Sure event P = 1.",
+        "Probability bounds: 0 <= P(E) <= 1."
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "Two different coins are tossed simultaneously. What is the probability of getting at least one head?",
+      "questionHi": "दो अलग-अलग सिक्कों को एक साथ उछाला जाता है। कम से कम एक चित (head) आने की प्रायिकता क्या है?",
+      "answer": "The possible outcomes are {HH, HT, TH, TT}. Total outcomes = 4.\nFavorable outcomes for getting \"at least one head\" (one or more) are {HH, HT, TH}. Total favorable outcomes = 3.\n\n\n$$P(\\text{at least one head}) = \\frac{3}{4}$$",
+      "answerHi": "संभव परिणाम {HH, HT, TH, TT} हैं। कुल परिणाम = 4।\n\"कम से कम एक चित\" (एक या अधिक) प्राप्त करने के अनुकूल परिणाम {HH, HT, TH} हैं। कुल अनुकूल परिणाम = 3।\n\n\n$$P(\\text{कम से कम एक चित}) = \\frac{3}{4}$$",
+      "keyPoints": [
+        "Sample space: {HH, HT, TH, TT}.",
+        "Favorable ('at least one H'): {HH, HT, TH}.",
+        "Probability = 3/4."
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "A die is thrown once. Find the probability of getting a prime number.",
+      "questionHi": "एक पासे को एक बार फेंका जाता है। एक अभाज्य संख्या प्राप्त करने की प्रायिकता ज्ञात कीजिए।",
+      "answer": "When a standard die is thrown, the possible outcomes are {1, 2, 3, 4, 5, 6}. Total outcomes = 6.\nThe prime numbers in this set are {2, 3, 5}. Total favorable outcomes = 3. (Note: 1 is not a prime number).\n\n\n$$P(\\text{Prime number}) = \\frac{3}{6} = \\frac{1}{2}$$",
+      "answerHi": "जब एक मानक पासा फेंका जाता है, तो संभव परिणाम {1, 2, 3, 4, 5, 6} होते हैं। कुल परिणाम = 6।\nइस सेट में अभाज्य संख्याएँ {2, 3, 5} हैं। कुल अनुकूल परिणाम = 3। (ध्यान दें: 1 अभाज्य संख्या नहीं है)।\n\n\n$$P(\\text{अभाज्य संख्या}) = \\frac{3}{6} = \\frac{1}{2}$$",
+      "keyPoints": [
+        "Sample space: {1, 2, 3, 4, 5, 6}.",
+        "Prime numbers: 2, 3, 5 (Total 3).",
+        "Probability = 3/6 = 1/2."
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "A card is drawn at random from a well-shuffled deck of 52 playing cards. Find the probability of getting a face card.",
+      "questionHi": "52 ताश के पत्तों की अच्छी तरह फेंटी गई गड्डी में से एक पत्ता यादृच्छया निकाला जाता है। एक तस्वीर वाला पत्ता (face card) प्राप्त करने की प्रायिकता ज्ञात कीजिए।",
+      "answer": "A standard deck has 52 cards. The face cards are Kings, Queens, and Jacks.\nSince there are 4 suits, total face cards = $3 \\times 4 = 12$.\n\n\n$$P(\\text{Face card}) = \\frac{12}{52} = \\frac{3}{13}$$",
+      "answerHi": "एक मानक गड्डी में 52 पत्ते होते हैं। तस्वीर वाले पत्ते बादशाह (Kings), बेगम (Queens) और गुलाम (Jacks) होते हैं।\nचूँकि 4 सूट होते हैं, कुल तस्वीर वाले पत्ते = $3 \\times 4 = 12$।\n\n\n$$P(\\text{तस्वीर वाला पत्ता}) = \\frac{12}{52} = \\frac{3}{13}$$",
+      "keyPoints": [
+        "Total cards = 52.",
+        "Face cards = Kings, Queens, Jacks (Total 12).",
+        "Probability = 12/52 = 3/13."
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "A bag contains 3 red balls and 5 black balls. A ball is drawn at random from the bag. What is the probability that the ball drawn is red?",
+      "questionHi": "एक थैले में 3 लाल गेंदें और 5 काली गेंदें हैं। थैले में से एक गेंद यादृच्छया निकाली जाती है। इसकी क्या प्रायिकता है कि निकाली गई गेंद लाल है?",
+      "answer": "Total number of balls = 3 (red) + 5 (black) = 8.\nNumber of favorable outcomes (drawing a red ball) = 3.\n\n\n$$P(\\text{Red ball}) = \\frac{3}{8}$$",
+      "answerHi": "गेंदों की कुल संख्या = 3 (लाल) + 5 (काली) = 8।\nअनुकूल परिणामों की संख्या (लाल गेंद निकालना) = 3।\n\n\n$$P(\\text{लाल गेंद}) = \\frac{3}{8}$$",
+      "keyPoints": [
+        "Total balls = 3 + 5 = 8.",
+        "Favorable (red) = 3.",
+        "Probability = 3/8."
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "A box contains pens, out of which 12 are defective and 132 are good. One pen is taken out at random. Find the probability that the pen taken out is a good one.",
+      "questionHi": "एक बक्से में पेन हैं, जिनमें से 12 खराब हैं और 132 अच्छे हैं। एक पेन यादृच्छया निकाला जाता है। प्रायिकता ज्ञात कीजिए कि निकाला गया पेन अच्छा है।",
+      "answer": "Total number of pens = Defective + Good = 12 + 132 = 144.\nNumber of good pens (favorable outcomes) = 132.\n\n\n$$P(\\text{Good pen}) = \\frac{132}{144} = \\frac{11}{12}$$",
+      "answerHi": "पेन की कुल संख्या = खराब + अच्छे = 12 + 132 = 144।\nअच्छे पेन की संख्या (अनुकूल परिणाम) = 132।\n\n\n$$P(\\text{अच्छा पेन}) = \\frac{132}{144} = \\frac{11}{12}$$",
+      "keyPoints": [
+        "Total pens = 12 + 132 = 144.",
+        "Favorable (good) = 132.",
+        "Probability = 132/144 = 11/12."
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Hard",
+      "question": "Suppose you drop a die at random on a rectangular region measuring 3 m by 2 m. What is the probability that it will land inside a circle with a diameter of 1 m located inside the rectangle?",
+      "questionHi": "मान लीजिए आप 3 मीटर लंबे और 2 मीटर चौड़े आयताकार क्षेत्र पर यादृच्छया एक पासा गिराते हैं। इसकी क्या प्रायिकता है कि यह आयत के अंदर स्थित 1 मीटर व्यास वाले वृत्त के अंदर गिरेगा?",
+      "answer": "Total area (possible outcomes) = Area of rectangle = $3 \\times 2 = 6\\text{ m}^2$.\nFavorable area = Area of the circle (radius $r = 0.5\\text{ m}$) = $\\pi (0.5)^2 = 0.25\\pi = \\frac{\\pi}{4}\\text{ m}^2$.\n\n\n$$P(\\text{Landing in circle}) = \\frac{\\text{Area of circle}}{\\text{Area of rectangle}} = \\frac{\\frac{\\pi}{4}}{6} = \\frac{\\pi}{24}$$",
+      "answerHi": "कुल क्षेत्रफल (संभव परिणाम) = आयत का क्षेत्रफल = $3 \\times 2 = 6\\text{ वर्ग मीटर}$।\nअनुकूल क्षेत्रफल = वृत्त का क्षेत्रफल (त्रिज्या $r = 0.5\\text{ मीटर}$) = $\\pi (0.5)^2 = 0.25\\pi = \\frac{\\pi}{4}\\text{ वर्ग मीटर}$।\n\n\n$$P(\\text{वृत्त में गिरना}) = \\frac{\\text{वृत्त का क्षेत्रफल}}{\\text{आयत का क्षेत्रफल}} = \\frac{\\frac{\\pi}{4}}{6} = \\frac{\\pi}{24}$$",
+      "keyPoints": [
+        "Total Area = Rectangle area = 3 × 2 = 6 sq m.",
+        "Favorable Area = Circle area = pi × r^2 = pi/4 sq m.",
+        "Probability = (pi/4) / 6 = pi/24."
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Why is tossing a coin considered a \"fair way\" of deciding which team should get the ball at the beginning of a football match?",
+      "questionHi": "फुटबॉल मैच की शुरुआत में यह तय करने के लिए कि किस टीम को गेंद मिलनी चाहिए, सिक्का उछालना \"निष्पक्ष तरीका\" क्यों माना जाता है?",
+      "answer": "Tossing a coin is considered fair because the outcomes (Head and Tail) are equally likely. Therefore, the result of the toss is completely unpredictable, giving both teams an exactly equal probability ($\\frac{1}{2}$) of winning the decision.",
+      "answerHi": "सिक्का उछालना निष्पक्ष माना जाता है क्योंकि परिणाम (चित और पट) समप्रायिक (equally likely) होते हैं। इसलिए, उछाल का परिणाम पूरी तरह से अप्रत्याशित होता है, जिससे दोनों टीमों को निर्णय जीतने की बिल्कुल समान प्रायिकता ($\\frac{1}{2}$) मिलती है।",
+      "keyPoints": [
+        "Outcomes (Head/Tail) are equally likely.",
+        "Result is completely unpredictable.",
+        "Each team has a 1/2 probability."
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Three different coins are tossed together. Find the probability of getting: (i) exactly two heads, (ii) at most two heads.",
+      "questionHi": "तीन अलग-अलग सिक्कों को एक साथ उछाला जाता है। प्राप्त करने की प्रायिकता ज्ञात कीजिए: (i) ठीक दो चित, (ii) अधिक से अधिक दो चित।",
+      "answer": "The total possible outcomes when 3 coins are tossed are 8: {HHH, HHT, HTH, THH, HTT, THT, TTH, TTT}.\n\n1. **Exactly two heads:** The favorable outcomes are {HHT, HTH, THH} (Total = 3).\n\n$$P(\\text{Exactly 2 heads}) = \\frac{3}{8}$$\n\n\n2. **At most two heads:** This means 0, 1, or 2 heads (everything except HHH). The favorable outcomes are 7.\n\n$$P(\\text{At most 2 heads}) = \\frac{7}{8}$$",
+      "answerHi": "जब 3 सिक्के उछाले जाते हैं तो कुल संभव परिणाम 8 होते हैं: {HHH, HHT, HTH, THH, HTT, THT, TTH, TTT}।\n\n1. **ठीक दो चित:** अनुकूल परिणाम {HHT, HTH, THH} हैं (कुल = 3)।\n\n$$P(\\text{ठीक 2 चित}) = \\frac{3}{8}$$\n\n\n2. **अधिक से अधिक दो चित:** इसका मतलब है 0, 1, या 2 चित (HHH को छोड़कर सब कुछ)। अनुकूल परिणाम 7 हैं।\n\n$$P(\\text{अधिक से अधिक 2 चित}) = \\frac{7}{8}$$",
+      "keyPoints": [
+        "Sample space has 8 outcomes.",
+        "Exactly 2 heads: {HHT, HTH, THH} -> 3/8.",
+        "At most 2 heads: All except {HHH} -> 7/8."
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Two dice, one blue and one grey, are thrown at the same time. Write down all the possible outcomes. What is the probability that the sum of the two numbers appearing on the top of the dice is: (i) 8, (ii) 13, (iii) less than or equal to 12?",
+      "questionHi": "दो पासे, एक नीला और एक ग्रे, एक ही समय में फेंके जाते हैं। सभी संभव परिणाम लिखिए। प्रायिकता क्या है कि पासों के ऊपर आने वाली दो संख्याओं का योग: (i) 8 है, (ii) 13 है, (iii) 12 से कम या उसके बराबर है?",
+      "answer": "When two dice are thrown, the total number of outcomes is $6 \\times 6 = 36$ (ranging from (1,1) to (6,6)).\n\n1. **Sum is 8:** Favorable outcomes are (2,6), (3,5), (4,4), (5,3), (6,2). (Total = 5).\n\n$$P(\\text{Sum is 8}) = \\frac{5}{36}$$\n\n\n2. **Sum is 13:** The maximum sum is $6 + 6 = 12$. Getting 13 is an impossible event.\n\n$$P(\\text{Sum is 13}) = 0$$\n\n\n3. **Sum $\\le$ 12:** All 36 outcomes have a sum less than or equal to 12. This is a sure event.\n\n$$P(\\text{Sum } \\le 12) = \\frac{36}{36} = 1$$",
+      "answerHi": "जब दो पासे फेंके जाते हैं, तो परिणामों की कुल संख्या $6 \\times 6 = 36$ ((1,1) से (6,6) तक) होती है।\n\n1. **योग 8 है:** अनुकूल परिणाम (2,6), (3,5), (4,4), (5,3), (6,2) हैं। (कुल = 5)।\n\n$$P(\\text{योग 8 है}) = \\frac{5}{36}$$\n\n\n2. **योग 13 है:** अधिकतम योग $6 + 6 = 12$ है। 13 प्राप्त करना एक असंभव घटना है।\n\n$$P(\\text{योग 13 है}) = 0$$\n\n\n3. **योग $\\le$ 12:** सभी 36 परिणामों का योग 12 से कम या उसके बराबर है। यह एक निश्चित घटना है।\n\n$$P(\\text{योग } \\le 12) = \\frac{36}{36} = 1$$",
+      "keyPoints": [
+        "Total outcomes for 2 dice = 36.",
+        "Sum 8: 5 outcomes -> 5/36.",
+        "Sum 13: Impossible event -> 0.",
+        "Sum <= 12: Sure event -> 1."
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "A bag contains 5 red balls and some blue balls. If the probability of drawing a blue ball is double that of a red ball, determine the number of blue balls in the bag.",
+      "questionHi": "एक थैले में 5 लाल गेंदें और कुछ नीली गेंदें हैं। यदि नीली गेंद निकालने की प्रायिकता लाल गेंद निकालने की प्रायिकता की दुगुनी है, तो थैले में नीली गेंदों की संख्या निर्धारित कीजिए।",
+      "answer": "Let the number of blue balls be $x$.\nTotal number of balls = $5 + x$.\n\n\n$$P(\\text{Red ball}) = \\frac{5}{5 + x}$$\n\n$$P(\\text{Blue ball}) = \\frac{x}{5 + x}$$\n\n\nAccording to the condition given in the problem:\n\n\n$$P(\\text{Blue ball}) = 2 \\times P(\\text{Red ball})$$\n\n$$\\frac{x}{5 + x} = 2 \\times \\left(\\frac{5}{5 + x}\\right) \\implies \\frac{x}{5 + x} = \\frac{10}{5 + x}$$\n\n\nSince the denominators are equal, $x = 10$. The number of blue balls is **10**.",
+      "answerHi": "मान लीजिए नीली गेंदों की संख्या $x$ है।\nगेंदों की कुल संख्या = $5 + x$।\n\n\n$$P(\\text{लाल गेंद}) = \\frac{5}{5 + x}$$\n\n$$P(\\text{नीली गेंद}) = \\frac{x}{5 + x}$$\n\n\nसमस्या में दी गई शर्त के अनुसार:\n\n\n$$P(\\text{नीली गेंद}) = 2 \\times P(\\text{लाल गेंद})$$\n\n$$\\frac{x}{5 + x} = 2 \\times \\left(\\frac{5}{5 + x}\\right) \\implies \\frac{x}{5 + x} = \\frac{10}{5 + x}$$\n\n\nचूँकि हर समान हैं, $x = 10$। नीली गेंदों की संख्या **10** है।",
+      "keyPoints": [
+        "Let blue balls be x. Total = 5 + x.",
+        "P(Blue) = 2 * P(Red).",
+        "x/(5+x) = 2 * 5/(5+x).",
+        "x = 10."
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "All Kings, Queens, and Jacks are removed from a deck of 52 playing cards. The remaining cards are well shuffled and one card is drawn at random. Find the probability that the drawn card is: (i) a black face card, (ii) a red card.",
+      "questionHi": "52 ताश के पत्तों की एक गड्डी में से सभी बादशाह, बेगम और गुलाम निकाल दिए जाते हैं। शेष पत्तों को अच्छी तरह फेंटा जाता है और यादृच्छया एक पत्ता निकाला जाता है। प्रायिकता ज्ञात कीजिए कि निकाला गया पत्ता: (i) एक काला तस्वीर वाला पत्ता है, (ii) एक लाल पत्ता है।",
+      "answer": "Total face cards removed = 4 Kings + 4 Queens + 4 Jacks = 12 cards.\nRemaining cards in the deck = $52 - 12 = 40$ cards.\n\n1. **Black face card:** Since all face cards have been removed, there are 0 black face cards left.\n\n$$P(\\text{Black face card}) = \\frac{0}{40} = 0$$\n\n\n2. **Red card:** Originally there are 26 red cards. The removed face cards include 6 red face cards. Remaining red cards = $26 - 6 = 20$.\n\n$$P(\\text{Red card}) = \\frac{20}{40} = \\frac{1}{2}$$",
+      "answerHi": "हटाए गए कुल तस्वीर वाले पत्ते = 4 बादशाह + 4 बेगम + 4 गुलाम = 12 पत्ते।\nगड्डी में शेष पत्ते = $52 - 12 = 40$ पत्ते।\n\n1. **काला तस्वीर वाला पत्ता:** चूँकि सभी तस्वीर वाले पत्ते हटा दिए गए हैं, इसलिए 0 काले तस्वीर वाले पत्ते बचे हैं।\n\n$$P(\\text{काला तस्वीर वाला पत्ता}) = \\frac{0}{40} = 0$$\n\n\n2. **लाल पत्ता:** मूल रूप से 26 लाल पत्ते होते हैं। हटाए गए तस्वीर वाले पत्तों में 6 लाल तस्वीर वाले पत्ते शामिल हैं। शेष लाल पत्ते = $26 - 6 = 20$।\n\n$$P(\\text{लाल पत्ता}) = \\frac{20}{40} = \\frac{1}{2}$$",
+      "keyPoints": [
+        "Removed 12 face cards. Total left = 40.",
+        "Black face cards = 0 -> P = 0.",
+        "Red cards = 26 - 6 = 20 -> P = 20/40 = 1/2."
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "Find the probability that a leap year selected at random will contain 53 Sundays.",
+      "questionHi": "प्रायिकता ज्ञात कीजिए कि यादृच्छया चुने गए लीप वर्ष में 53 रविवार होंगे।",
+      "answer": "A standard leap year has 366 days.\nWhen we divide 366 by 7 (days in a week), we get 52 complete weeks and exactly 2 extra days.\n52 weeks means there are guaranteed to be 52 Sundays. The 53rd Sunday depends entirely on the 2 extra days.\nThe possible consecutive combinations for the 2 extra days are:\n{(Sun, Mon), (Mon, Tue), (Tue, Wed), (Wed, Thu), (Thu, Fri), (Fri, Sat), (Sat, Sun)}.\nTotal combinations = 7. Combinations containing Sunday = 2.\n\n\n$$P(\\text{53 Sundays in a Leap Year}) = \\frac{2}{7}$$",
+      "answerHi": "एक मानक लीप वर्ष में 366 दिन होते हैं।\nजब हम 366 को 7 (एक सप्ताह में दिन) से विभाजित करते हैं, तो हमें 52 पूर्ण सप्ताह और ठीक 2 अतिरिक्त दिन मिलते हैं।\n52 सप्ताह का मतलब है कि 52 रविवार होने की गारंटी है। 53वां रविवार पूरी तरह से 2 अतिरिक्त दिनों पर निर्भर करता है।\n2 अतिरिक्त दिनों के लिए संभावित लगातार संयोजन हैं:\n{(रवि, सोम), (सोम, मंगल), (मंगल, बुध), (बुध, गुरु), (गुरु, शुक्र), (शुक्र, शनि), (शनि, रवि)}।\nकुल संयोजन = 7। रविवार वाले संयोजन = 2।\n\n\n$$P(\\text{लीप वर्ष में 53 रविवार}) = \\frac{2}{7}$$",
+      "keyPoints": [
+        "Leap year = 366 days = 52 weeks + 2 extra days.",
+        "Possible extra days pairs: (Sun,Mon), (Mon,Tue)... (Total 7).",
+        "Pairs with Sunday: (Sun,Mon), (Sat,Sun) (Total 2).",
+        "Probability = 2/7."
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "Competency-Based Question: A game of chance consists of spinning an arrow which comes to rest pointing at one of the numbers 1, 2, 3, 4, 5, 6, 7, 8 (all these are equally likely outcomes). Find the probability that it will point at: (i) 8, (ii) an odd number, (iii) a number greater than 2, and (iv) a number less than 9.",
+      "questionHi": "योग्यता-आधारित प्रश्न: संयोग के एक खेल में एक तीर घुमाना शामिल है जो 1, 2, 3, 4, 5, 6, 7, 8 संख्याओं में से किसी एक पर आकर रुकता है (ये सभी समप्रायिक परिणाम हैं)। इसकी क्या प्रायिकता है कि यह: (i) 8 को इंगित करेगा, (ii) एक विषम संख्या को, (iii) 2 से बड़ी संख्या को, और (iv) 9 से छोटी संख्या को इंगित करेगा?",
+      "answer": "The total number of equally likely outcomes on the spinning wheel is 8.\n\n1. **Pointing at 8:** There is only one '8' on the wheel.\n\n$$P(\\text{getting 8}) = \\frac{1}{8}$$\n\n\n2. **An odd number:** The odd numbers on the wheel are 1, 3, 5, 7. Total favorable outcomes = 4.\n\n$$P(\\text{odd number}) = \\frac{4}{8} = \\frac{1}{2}$$\n\n\n3. **A number greater than 2:** The numbers greater than 2 are 3, 4, 5, 6, 7, 8. Total favorable outcomes = 6.\n\n$$P(\\text{number } > 2) = \\frac{6}{8} = \\frac{3}{4}$$\n\n\n4. **A number less than 9:** All the numbers (1 through 8) are strictly less than 9. This is a sure event.\n\n$$P(\\text{number } < 9) = \\frac{8}{8} = 1$$",
+      "answerHi": "स्पिनिंग व्हील पर समप्रायिक परिणामों की कुल संख्या 8 है।\n\n1. **8 को इंगित करना:** व्हील पर केवल एक '8' है।\n\n$$P(\\text{8 प्राप्त करना}) = \\frac{1}{8}$$\n\n\n2. **एक विषम संख्या:** व्हील पर विषम संख्याएँ 1, 3, 5, 7 हैं। कुल अनुकूल परिणाम = 4।\n\n$$P(\\text{विषम संख्या}) = \\frac{4}{8} = \\frac{1}{2}$$\n\n\n3. **2 से बड़ी संख्या:** 2 से बड़ी संख्याएँ 3, 4, 5, 6, 7, 8 हैं। कुल अनुकूल परिणाम = 6।\n\n$$P(\\text{संख्या } > 2) = \\frac{6}{8} = \\frac{3}{4}$$\n\n\n4. **9 से छोटी संख्या:** सभी संख्याएँ (1 से 8 तक) 9 से छोटी हैं। यह एक निश्चित घटना है।\n\n$$P(\\text{संख्या } < 9) = \\frac{8}{8} = 1$$",
+      "keyPoints": [
+        "Total outcomes = 8.",
+        "8: 1/8.",
+        "Odd (1,3,5,7): 4/8 = 1/2.",
+        ">2 (3,4,5,6,7,8): 6/8 = 3/4.",
+        "<9 (All): 8/8 = 1."
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Two dice are thrown simultaneously. What is the probability that: (i) 5 will not come up on either of them? (ii) 5 will come up on at least one? (iii) 5 will come up on both dice?",
+      "questionHi": "दो पासे एक साथ फेंके जाते हैं। प्रायिकता क्या है कि: (i) 5 दोनों में से किसी पर भी नहीं आएगा? (ii) 5 कम से कम एक पर आएगा? (iii) 5 दोनों पासों पर आएगा?",
+      "answer": "When two dice are rolled, the total number of possible outcomes is $6 \\times 6 = 36$.\nLet us first find the outcomes where '5' appears on at least one die.\nThese are: (1,5), (2,5), (3,5), (4,5), (5,5), (6,5) and (5,1), (5,2), (5,3), (5,4), (5,6).\nNotice that (5,5) is counted only once. The total number of outcomes with at least one 5 is 11.\n\n1. **5 will not come up on either die:** This is the complement of \"5 coming up on at least one\".\nFavorable outcomes = Total outcomes - Outcomes with a 5 = $36 - 11 = 25$.\n\n$$P(\\text{No 5 appears}) = \\frac{25}{36}$$\n\n\n2. **5 will come up on at least one die:** As calculated, there are 11 such outcomes.\n\n$$P(\\text{At least one 5}) = \\frac{11}{36}$$\n\n\n3. **5 will come up on both dice:** There is only one such outcome, which is a doublet (5,5).\n\n$$P(\\text{Doublet of 5}) = \\frac{1}{36}$$",
+      "answerHi": "जब दो पासे फेंके जाते हैं, तो संभावित परिणामों की कुल संख्या $6 \\times 6 = 36$ होती है।\nआइए सबसे पहले उन परिणामों का पता लगाएं जहां '5' कम से कम एक पासे पर दिखाई देता है।\nये हैं: (1,5), (2,5), (3,5), (4,5), (5,5), (6,5) और (5,1), (5,2), (5,3), (5,4), (5,6)।\nध्यान दें कि (5,5) की गिनती केवल एक बार की जाती है। कम से कम एक 5 वाले परिणामों की कुल संख्या 11 है।\n\n1. **5 दोनों में से किसी भी पासे पर नहीं आएगा:** यह \"कम से कम एक पर 5 आने\" का पूरक है।\nअनुकूल परिणाम = कुल परिणाम - 5 वाले परिणाम = $36 - 11 = 25$।\n\n$$P(\\text{कोई 5 नहीं आएगा}) = \\frac{25}{36}$$\n\n\n2. **5 कम से कम एक पासे पर आएगा:** जैसा कि गणना की गई है, ऐसे 11 परिणाम हैं।\n\n$$P(\\text{कम से कम एक 5}) = \\frac{11}{36}$$\n\n\n3. **5 दोनों पासों पर आएगा:** ऐसा केवल एक परिणाम है, जो एक द्विक (5,5) है।\n\n$$P(\\text{5 का द्विक}) = \\frac{1}{36}$$",
+      "keyPoints": [
+        "Total outcomes = 36.",
+        "Outcomes with at least one 5 = 11.",
+        "Not 5 on either = 36 - 11 = 25 -> 25/36.",
+        "At least one 5 = 11/36.",
+        "5 on both = (5,5) -> 1/36."
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Case-Based Descriptive Concept: A box contains 90 discs which are numbered from 1 to 90. If one disc is drawn at random from the box, find the probability that it bears: (i) a two-digit number, (ii) a perfect square number, (iii) a number divisible by 5.",
+      "questionHi": "केस-आधारित वर्णनात्मक अवधारणा: एक बक्से में 90 डिस्क हैं जिन पर 1 से 90 तक संख्याएँ अंकित हैं। यदि बक्से में से एक डिस्क यादृच्छया निकाली जाती है, तो प्रायिकता ज्ञात कीजिए कि इस पर: (i) एक दो अंकों की संख्या, (ii) एक पूर्ण वर्ग संख्या, (iii) 5 से विभाज्य संख्या अंकित है।",
+      "answer": "Total number of possible outcomes (discs) = 90.\n\n1. **A two-digit number:** The numbers from 1 to 9 are single-digit numbers (9 numbers). The remaining numbers from 10 to 90 are two-digit numbers. Favorable outcomes = $90 - 9 = 81$.\n\n$$P(\\text{two-digit number}) = \\frac{81}{90} = \\frac{9}{10}$$\n\n\n2. **A perfect square number:** The perfect squares between 1 and 90 are 1, 4, 9, 16, 25, 36, 49, 64, and 81. Favorable outcomes = 9.\n\n$$P(\\text{perfect square}) = \\frac{9}{90} = \\frac{1}{10}$$\n\n\n3. **A number divisible by 5:** The numbers divisible by 5 are 5, 10, 15, ..., 90. This forms an Arithmetic Progression.\nFavorable outcomes = $\\frac{90}{5} = 18$.\n\n$$P(\\text{divisible by 5}) = \\frac{18}{90} = \\frac{1}{5}$$",
+      "answerHi": "संभव परिणामों (डिस्क) की कुल संख्या = 90।\n\n1. **एक दो अंकों की संख्या:** 1 से 9 तक की संख्याएँ एक-अंकीय संख्याएँ (9 संख्याएँ) हैं। 10 से 90 तक की शेष संख्याएँ दो अंकों की संख्याएँ हैं। अनुकूल परिणाम = $90 - 9 = 81$।\n\n$$P(\\text{दो अंकों की संख्या}) = \\frac{81}{90} = \\frac{9}{10}$$\n\n\n2. **एक पूर्ण वर्ग संख्या:** 1 और 90 के बीच पूर्ण वर्ग 1, 4, 9, 16, 25, 36, 49, 64 और 81 हैं। अनुकूल परिणाम = 9।\n\n$$P(\\text{पूर्ण वर्ग}) = \\frac{9}{90} = \\frac{1}{10}$$\n\n\n3. **5 से विभाज्य संख्या:** 5 से विभाज्य संख्याएँ 5, 10, 15, ..., 90 हैं। यह एक समांतर श्रेढ़ी (AP) बनाती है।\nअनुकूल परिणाम = $\\frac{90}{5} = 18$।\n\n$$P(\\text{5 से विभाज्य}) = \\frac{18}{90} = \\frac{1}{5}$$",
+      "keyPoints": [
+        "Total discs = 90.",
+        "Two-digit numbers = 81 -> 81/90 = 9/10.",
+        "Perfect squares = 9 -> 9/90 = 1/10.",
+        "Divisible by 5 = 18 -> 18/90 = 1/5."
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Analytical Challenge: A jar contains 24 marbles, some are green and others are blue. If a marble is drawn at random from the jar, the probability that it is green is $\\frac{2}{3}$. Find the exact number of blue marbles in the jar. Furthermore, if 6 more green marbles are added, what is the new probability of drawing a blue marble?",
+      "questionHi": "विश्लेषणात्मक चुनौती: एक जार में 24 कंचे हैं, कुछ हरे हैं और अन्य नीले हैं। यदि जार में से एक कंचा यादृच्छया निकाला जाता है, तो इसके हरे होने की प्रायिकता $\\frac{2}{3}$ है। जार में नीले कंचों की सटीक संख्या ज्ञात कीजिए। इसके अलावा, यदि 6 और हरे कंचे जोड़े जाते हैं, तो नीला कंचा निकालने की नई प्रायिकता क्या है?",
+      "answer": "**Part 1:** Total marbles in the jar = 24.\nLet the number of green marbles be $g$.\n\n\n$$P(\\text{Green}) = \\frac{g}{24}$$\n\n\nWe are given that $P(\\text{Green}) = \\frac{2}{3}$.\n\n\n$$\\frac{g}{24} = \\frac{2}{3} \\implies 3g = 48 \\implies g = 16$$\n\n\nThe number of green marbles is 16.\nTherefore, the number of blue marbles = $24 - 16 = \\textbf{8 blue marbles}$.\n\n**Part 2:** If 6 more green marbles are added to the jar:\nNew number of green marbles = $16 + 6 = 22$.\nNumber of blue marbles remains = 8.\nNew total number of marbles = $22 + 8 = 30$.\n\n\n$$P(\\text{Blue marble now}) = \\frac{\\text{Number of Blue}}{\\text{New Total}} = \\frac{8}{30} = \\frac{4}{15}$$\n\n\nThe new probability of drawing a blue marble is **$\\frac{4}{15}$**.",
+      "answerHi": "**भाग 1:** जार में कुल कंचे = 24।\nमान लीजिए कि हरे कंचों की संख्या $g$ है।\n\n\n$$P(\\text{हरा}) = \\frac{g}{24}$$\n\n\nहमें दिया गया है कि $P(\\text{हरा}) = \\frac{2}{3}$।\n\n\n$$\\frac{g}{24} = \\frac{2}{3} \\implies 3g = 48 \\implies g = 16$$\n\n\nहरे कंचों की संख्या 16 है।\nइसलिए, नीले कंचों की संख्या = $24 - 16 = \\textbf{8 नीले कंचे}$।\n\n**भाग 2:** यदि जार में 6 और हरे कंचे जोड़े जाते हैं:\nहरे कंचों की नई संख्या = $16 + 6 = 22$।\nनीले कंचों की संख्या वही रहती है = 8।\nकंचों की नई कुल संख्या = $22 + 8 = 30$।\n\n\n$$P(\\text{अब नीला कंचा}) = \\frac{\\text{नीले की संख्या}}{\\text{नया कुल}} = \\frac{8}{30} = \\frac{4}{15}$$\n\n\nनीला कंचा निकालने की नई प्रायिकता **$\\frac{4}{15}$** है।",
+      "keyPoints": [
+        "Total = 24, P(Green) = 2/3.",
+        "g / 24 = 2/3 -> g = 16 (Green).",
+        "Blue = 24 - 16 = 8.",
+        "Add 6 green: Total = 30, Blue = 8.",
+        "New P(Blue) = 8/30 = 4/15."
+      ]
+    }
+  ]
+}
