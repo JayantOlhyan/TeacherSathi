@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "What are the children doing in the poem?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Studying"
+        },
+        {
+          "id": "B",
+          "text": "Playing ball"
+        },
+        {
+          "id": "C",
+          "text": "Sleeping"
+        },
+        {
+          "id": "D",
+          "text": "Eating"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "2",
+      "question": "Where are the children playing?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Inside a house"
+        },
+        {
+          "id": "B",
+          "text": "On a busy street"
+        },
+        {
+          "id": "C",
+          "text": "Next to a creek in a neighbor's field"
+        },
+        {
+          "id": "D",
+          "text": "On a mountain"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "3",
+      "question": "Why does the speaker say, \"I can't even catch my breath\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They are swimming underwater"
+        },
+        {
+          "id": "B",
+          "text": "They are running very fast and playing hard"
+        },
+        {
+          "id": "C",
+          "text": "They have a cold"
+        },
+        {
+          "id": "D",
+          "text": "They are laughing too much"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "4",
+      "question": "What happens to the sky as they keep playing?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It turns pink"
+        },
+        {
+          "id": "B",
+          "text": "It starts raining"
+        },
+        {
+          "id": "C",
+          "text": "The \"blue dark turns to black\" (it gets dark)"
+        },
+        {
+          "id": "D",
+          "text": "The sun shines brighter"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "5",
+      "question": "How does the grass feel to the children's feet at the end?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Warm"
+        },
+        {
+          "id": "B",
+          "text": "Soft"
+        },
+        {
+          "id": "C",
+          "text": "Cold and aching"
+        },
+        {
+          "id": "D",
+          "text": "Ticklish"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "6",
+      "question": "What do the trees seem to do as it gets dark?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Run away"
+        },
+        {
+          "id": "B",
+          "text": "Creep close"
+        },
+        {
+          "id": "C",
+          "text": "Fall down"
+        },
+        {
+          "id": "D",
+          "text": "Sing"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "7",
+      "question": "What makes the game finally end?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Their parents call them"
+        },
+        {
+          "id": "B",
+          "text": "A whistle blows"
+        },
+        {
+          "id": "C",
+          "text": "Night comes and it gets too dark"
+        },
+        {
+          "id": "D",
+          "text": "The ball breaks"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "8",
+      "question": "According to the last line of the poem, who is \"the winner\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The fastest runner"
+        },
+        {
+          "id": "B",
+          "text": "The speaker"
+        },
+        {
+          "id": "C",
+          "text": "Night"
+        },
+        {
+          "id": "D",
+          "text": "The neighbor"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "9",
+      "question": "What sport uses a black-and-white ball and a goal?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Basketball"
+        },
+        {
+          "id": "B",
+          "text": "Football"
+        },
+        {
+          "id": "C",
+          "text": "Tennis"
+        },
+        {
+          "id": "D",
+          "text": "Cricket"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "10",
+      "question": "In the story about Shyam, what does he learn about winning?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Winning is the only thing that matters"
+        },
+        {
+          "id": "B",
+          "text": "You must always be first"
+        },
+        {
+          "id": "C",
+          "text": "Trying your best and not giving up is the true victory"
+        },
+        {
+          "id": "D",
+          "text": "Cheating is okay"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "11",
+      "question": "Why is playing \"next to the creek\" a nice setting for the poem?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It is dangerous"
+        },
+        {
+          "id": "B",
+          "text": "It adds a feeling of natural beauty, coolness, and outdoor fun"
+        },
+        {
+          "id": "C",
+          "text": "It is very loud"
+        },
+        {
+          "id": "D",
+          "text": "It makes them sleepy"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "12",
+      "question": "Why are there periods between the words \"I. can't. even. catch. my. breath.\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It's a mistake"
+        },
+        {
+          "id": "B",
+          "text": "To show the panting, breathless rhythm of a tired child pausing for air"
+        },
+        {
+          "id": "C",
+          "text": "To show anger"
+        },
+        {
+          "id": "D",
+          "text": "To make it easier to read"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "13",
+      "question": "What signs tell the children that the day is over?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The smell of dinner"
+        },
+        {
+          "id": "B",
+          "text": "The darkness falling and the cold grass hurting their tired feet"
+        },
+        {
+          "id": "C",
+          "text": "The sound of birds waking up"
+        },
+        {
+          "id": "D",
+          "text": "The feeling of rain"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "14",
+      "question": "What does \"trees creep close\" mean when it gets dark?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The trees are actually walking"
+        },
+        {
+          "id": "B",
+          "text": "The shadows get longer, making the trees look spooky and closer than they are"
+        },
+        {
+          "id": "C",
+          "text": "The trees are growing fast"
+        },
+        {
+          "id": "D",
+          "text": "The children are hiding in the trees"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "15",
+      "question": "Why does \"Night\" win the game?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because night scored a goal"
+        },
+        {
+          "id": "B",
+          "text": "Because the darkness is stronger than the children and forces them to stop playing"
+        },
+        {
+          "id": "C",
+          "text": "Because night runs faster"
+        },
+        {
+          "id": "D",
+          "text": "Because night hid the ball"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "16",
+      "question": "How does the poem show the energy of children?",
+      "options": [
+        {
+          "id": "A",
+          "text": "By focusing on the rules of the game"
+        },
+        {
+          "id": "B",
+          "text": "By showing them running fast and refusing to stop until nature forces them to"
+        },
+        {
+          "id": "C",
+          "text": "By showing them arguing over scores"
+        },
+        {
+          "id": "D",
+          "text": "By describing their shoes"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "17",
+      "question": "How do the children's feelings change from the start to the end of the poem?",
+      "options": [
+        {
+          "id": "A",
+          "text": "From sadness to joy"
+        },
+        {
+          "id": "B",
+          "text": "From high-energy excitement to physical exhaustion and stopping"
+        },
+        {
+          "id": "C",
+          "text": "From anger to peace"
+        },
+        {
+          "id": "D",
+          "text": "From fear to bravery"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "18",
+      "question": "In Shyam's story, why did he want to give up during his race?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He twisted his ankle"
+        },
+        {
+          "id": "B",
+          "text": "He saw Anish running faster and lost his confidence"
+        },
+        {
+          "id": "C",
+          "text": "He was too tired"
+        },
+        {
+          "id": "D",
+          "text": "He didn't like running"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "19",
+      "question": "How did Shyam become a \"winner\" even without coming first?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He got a gold medal anyway"
+        },
+        {
+          "id": "B",
+          "text": "He kept running and gave his absolute best effort, proving his perseverance"
+        },
+        {
+          "id": "C",
+          "text": "He tripped Anish"
+        },
+        {
+          "id": "D",
+          "text": "He quit early"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "20",
+      "question": "What is the shared lesson between the poem and Shyam's story?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sports are dangerous"
+        },
+        {
+          "id": "B",
+          "text": "Winning isn't always about beating others; it's about giving your best effort until the end"
+        },
+        {
+          "id": "C",
+          "text": "Always play at night"
+        },
+        {
+          "id": "D",
+          "text": "Football is the best sport"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "21",
+      "question": "How does the poet use 'personification' with the word \"Night\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "By describing night as a sleeping giant"
+        },
+        {
+          "id": "B",
+          "text": "By treating \"Night\" as an undefeated opponent who plays and ultimately wins the game against the children"
+        },
+        {
+          "id": "C",
+          "text": "By making night a friendly ghost"
+        },
+        {
+          "id": "D",
+          "text": "By comparing night to a star"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "22",
+      "question": "What does \"blue dark turns to black\" symbolize in the poem?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A storm approaching"
+        },
+        {
+          "id": "B",
+          "text": "The unstoppable passage of time ending the joyful moments of the day"
+        },
+        {
+          "id": "C",
+          "text": "A change in clothing"
+        },
+        {
+          "id": "D",
+          "text": "A solar eclipse"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "23",
+      "question": "Why does the poem end abruptly with \"Night wins!\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To provide a funny joke"
+        },
+        {
+          "id": "B",
+          "text": "It gives a sense of finality, matching how suddenly playtime must stop when it gets completely dark"
+        },
+        {
+          "id": "C",
+          "text": "To confuse the reader"
+        },
+        {
+          "id": "D",
+          "text": "To start a new game"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "24",
+      "question": "How does the poem use 'sensory imagery' to make us feel what the child feels?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It only uses dialogue"
+        },
+        {
+          "id": "B",
+          "text": "It uses movement (running fast), touch (cold grass aches), and sight (blue dark) to pull us into the scene"
+        },
+        {
+          "id": "C",
+          "text": "It only uses colors"
+        },
+        {
+          "id": "D",
+          "text": "It uses hard science words"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "25",
+      "question": "In Shyam's story, what mental block did he have to overcome to truly win?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Physical pain"
+        },
+        {
+          "id": "B",
+          "text": "The negative, ego-driven feeling of despair when he realized he wasn't the best compared to someone else"
+        },
+        {
+          "id": "C",
+          "text": "The fear of the dark"
+        },
+        {
+          "id": "D",
+          "text": "Pressure from his parents"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "26",
+      "question": "The phrase \"trees creep close\" uses which literary device to create a slightly spooky twilight feeling?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Simile"
+        },
+        {
+          "id": "B",
+          "text": "Personification"
+        },
+        {
+          "id": "C",
+          "text": "Oxymoron"
+        },
+        {
+          "id": "D",
+          "text": "Repetition"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "27",
+      "question": "What does the poem tell us about humans and nature?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Humans control nature"
+        },
+        {
+          "id": "B",
+          "text": "Human energy and activities are eventually stopped and controlled by the powerful cycles of nature (day and night)"
+        },
+        {
+          "id": "C",
+          "text": "Nature does not matter"
+        },
+        {
+          "id": "D",
+          "text": "Humans can play forever"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "28",
+      "question": "Why is the title \"The Winner\" slightly ironic in both the poem and the story?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because the winner is always the fastest"
+        },
+        {
+          "id": "B",
+          "text": "Because the \"winner\" isn't a traditional athlete coming in first; it's an abstract force (Night) or an internal moral victory (effort)"
+        },
+        {
+          "id": "C",
+          "text": "Because there is no winner"
+        },
+        {
+          "id": "D",
+          "text": "Because the winner cheated"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "29",
+      "question": "What is the main message about \"time\" in the poem?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Time goes backward"
+        },
+        {
+          "id": "B",
+          "text": "The joyful, carefree moments of childhood play are fleeting and must end when the day ends"
+        },
+        {
+          "id": "C",
+          "text": "Time stops when you play"
+        },
+        {
+          "id": "D",
+          "text": "You should only play in the morning"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "30",
+      "question": "What important life lesson regarding 'resilience' is taught through Shyam's continued running?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Quitting saves energy for tomorrow"
+        },
+        {
+          "id": "B",
+          "text": "True value and dignity lie in finishing the task and honoring your commitment, regardless of external validation or ranking"
+        },
+        {
+          "id": "C",
+          "text": "Running is bad for joints"
+        },
+        {
+          "id": "D",
+          "text": "Only the fastest people should race"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    }
+  ]
+}
