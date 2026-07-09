@@ -1,0 +1,357 @@
+{
+  "chapterTitle": "Pair of Linear Equations in Two Variables",
+  "chapterTitleHi": "दो चरों वाले रैखिक समीकरण युग्म",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "Under what condition does a pair of linear equations $a_1x + b_1y + c_1 = 0$ and $a_2x + b_2y + c_2 = 0$ have a unique solution? What do the lines look like geometrically?",
+      "questionHi": "किस स्थिति में रैखिक समीकरणों के युग्म $a_1x + b_1y + c_1 = 0$ और $a_2x + b_2y + c_2 = 0$ का एक अद्वितीय (unique) हल होता है? ज्यामितीय रूप से रेखाएँ कैसी दिखती हैं?",
+      "answer": "A pair of linear equations has a unique solution when the ratio of their coefficients satisfies the condition:\n\n\n$$\\frac{a_1}{a_2} \\neq \\frac{b_1}{b_2}$$\n\n\nGeometrically, this means the two straight lines intersect each other at exactly one point.",
+      "answerHi": "रैखिक समीकरणों के एक युग्म का एक अद्वितीय हल तब होता है जब उनके गुणांकों का अनुपात निम्नलिखित स्थिति को पूरा करता है:\n\n\n$$\\frac{a_1}{a_2} \\neq \\frac{b_1}{b_2}$$\n\n\nज्यामितीय रूप से, इसका अर्थ है कि दोनों सीधी रेखाएँ एक दूसरे को ठीक एक बिंदु पर प्रतिच्छेद करती हैं।",
+      "keyPoints": [
+        "Unique solution condition: $a_1/a_2 \\neq b_1/b_2$.",
+        "Geometrically represents intersecting lines."
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Check whether the pair of equations $x + 2y - 4 = 0$ and $2x + 4y - 12 = 0$ is consistent or inconsistent.",
+      "questionHi": "जाँच कीजिए कि समीकरणों का युग्म $x + 2y - 4 = 0$ और $2x + 4y - 12 = 0$ संगत (consistent) है या असंगत (inconsistent)।",
+      "answer": "Let us compare the ratios of the coefficients:\n\n\n$$\\frac{a_1}{a_2} = \\frac{1}{2}, \\quad \\frac{b_1}{b_2} = \\frac{2}{4} = \\frac{1}{2}, \\quad \\frac{c_1}{c_2} = \\frac{-4}{-12} = \\frac{1}{3}$$\n\n\nSince $\\frac{a_1}{a_2} = \\frac{b_1}{b_2} \\neq \\frac{c_1}{c_2}$, the lines are parallel and have no solution. Therefore, the pair is **inconsistent**.",
+      "answerHi": "आइए गुणांकों के अनुपातों की तुलना करें:\n\n\n$$\\frac{a_1}{a_2} = \\frac{1}{2}, \\quad \\frac{b_1}{b_2} = \\frac{2}{4} = \\frac{1}{2}, \\quad \\frac{c_1}{c_2} = \\frac{-4}{-12} = \\frac{1}{3}$$\n\n\nचूँकि $\\frac{a_1}{a_2} = \\frac{b_1}{b_2} \\neq \\frac{c_1}{c_2}$, इसलिए रेखाएँ समांतर हैं और इनका कोई हल नहीं है। इसलिए, यह युग्म **असंगत** है।",
+      "keyPoints": [
+        "Find ratios $a_1/a_2, b_1/b_2, c_1/c_2$.",
+        "If $a_1/a_2 = b_1/b_2 \\neq c_1/c_2$, it is inconsistent."
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "For what value of $k$ will the equations $3x - y - 5 = 0$ and $6x - 2y - k = 0$ have infinitely many solutions?",
+      "questionHi": "$k$ के किस मान के लिए समीकरणों $3x - y - 5 = 0$ और $6x - 2y - k = 0$ के अपरिमित रूप से अनेक (infinitely many) हल होंगे?",
+      "answer": "For infinitely many solutions, the condition is:\n\n\n$$\\frac{a_1}{a_2} = \\frac{b_1}{b_2} = \\frac{c_1}{c_2} \\implies \\frac{3}{6} = \\frac{-1}{-2} = \\frac{-5}{-k}$$\n\n$$\\frac{1}{2} = \\frac{5}{k} \\implies k = 10$$",
+      "answerHi": "अपरिमित रूप से अनेक हलों के लिए स्थिति है:\n\n\n$$\\frac{a_1}{a_2} = \\frac{b_1}{b_2} = \\frac{c_1}{c_2} \\implies \\frac{3}{6} = \\frac{-1}{-2} = \\frac{-5}{-k}$$\n\n$$\\frac{1}{2} = \\frac{5}{k} \\implies k = 10$$",
+      "keyPoints": [
+        "Condition for infinite solutions: $a_1/a_2 = b_1/b_2 = c_1/c_2$."
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Solve the pair of linear equations by substitution method: $x + y = 14$ and $x - y = 4$.",
+      "questionHi": "प्रतिस्थापन (substitution) विधि द्वारा रैखिक समीकरण युग्म को हल कीजिए: $x + y = 14$ और $x - y = 4$।",
+      "answer": "From the second equation, express $x$ as: $x = 4 + y$.\n\nSubstitute this value into the first equation:\n\n$$(4 + y) + y = 14 \\implies 4 + 2y = 14 \\implies 2y = 10 \\implies y = 5$$\n\nNow, substitute $y = 5$ back: $x = 4 + 5 = 9$.\n\nThe solution is **$x = 9, y = 5$**.",
+      "answerHi": "दूसरे समीकरण से, $x$ को इस प्रकार व्यक्त करें: $x = 4 + y$।\n\nइस मान को पहले समीकरण में प्रतिस्थापित करें:\n\n$$(4 + y) + y = 14 \\implies 4 + 2y = 14 \\implies 2y = 10 \\implies y = 5$$\n\nअब, $y = 5$ को वापस प्रतिस्थापित करें: $x = 4 + 5 = 9$।\n\nहल **$x = 9, y = 5$** है।",
+      "keyPoints": [
+        "Express one variable in terms of the other.",
+        "Substitute in the other equation."
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Express the following statement as a linear equation in two variables: \"The cost of a notebook is twice the cost of a pen.\"",
+      "questionHi": "निम्नलिखित कथन को दो चरों वाले रैखिक समीकरण के रूप में व्यक्त कीजिए: \"एक नोटबुक की कीमत एक कलम की कीमत की दोगुनी है।\"",
+      "answer": "Let the cost of a notebook be $x$ rupees and the cost of a pen be $y$ rupees.\n\nAccording to the condition given in the statement, the linear equation is:\n\n$$x = 2y \\implies x - 2y = 0$$",
+      "answerHi": "मान लीजिए एक नोटबुक की कीमत $x$ रुपये है और एक कलम की कीमत $y$ रुपये है।\n\nकथन में दी गई शर्त के अनुसार, रैखिक समीकरण है:\n\n$$x = 2y \\implies x - 2y = 0$$",
+      "keyPoints": [
+        "Assign variables to unknowns.",
+        "Formulate equation based on condition."
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "If the lines given by $3x + 2ky = 2$ and $2x + 5y + 1 = 0$ are parallel, find the value of $k$.",
+      "questionHi": "यदि $3x + 2ky = 2$ और $2x + 5y + 1 = 0$ द्वारा दी गई रेखाएँ समांतर हैं, तो $k$ का मान ज्ञात कीजिए।",
+      "answer": "For parallel lines, the coefficient condition is $\\frac{a_1}{a_2} = \\frac{b_1}{b_2} \\neq \\frac{c_1}{c_2}$.\n\n$$\\frac{3}{2} = \\frac{2k}{5} \\implies 4k = 15 \\implies k = \\frac{15}{4}$$",
+      "answerHi": "समांतर रेखाओं के लिए, गुणांक की स्थिति $\\frac{a_1}{a_2} = \\frac{b_1}{b_2} \\neq \\frac{c_1}{c_2}$ है।\n\n$$\\frac{3}{2} = \\frac{2k}{5} \\implies 4k = 15 \\implies k = \\frac{15}{4}$$",
+      "keyPoints": [
+        "Condition for parallel lines: $a_1/a_2 = b_1/b_2 \\neq c_1/c_2$."
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Find the value of $x$ and $y$ if $2x + 3y = 11$ and $2x - 4y = -24$ using the elimination method.",
+      "questionHi": "विलोपन (elimination) विधि का उपयोग करके यदि $2x + 3y = 11$ और $2x - 4y = -24$ हो तो $x$ और $y$ का मान ज्ञात कीजिए।",
+      "answer": "Subtract the second equation from the first equation to eliminate $x$:\n\n$$(2x + 3y) - (2x - 4y) = 11 - (-24)$$\n\n$$7y = 35 \\implies y = 5$$\n\nSubstitute $y = 5$ into the first equation: $2x + 3(5) = 11 \\implies 2x = -4 \\implies x = -2$.\n\nThe solution is **$x = -2, y = 5$**.",
+      "answerHi": "$x$ को विलुप्त करने के लिए पहले समीकरण में से दूसरा समीकरण घटाएं:\n\n$$(2x + 3y) - (2x - 4y) = 11 - (-24)$$\n\n$$7y = 35 \\implies y = 5$$\n\n$y = 5$ को पहले समीकरण में प्रतिस्थापित करें: $2x + 3(5) = 11 \\implies 2x = -4 \\implies x = -2$।\n\nहल **$x = -2, y = 5$** है।",
+      "keyPoints": [
+        "Eliminate a variable by subtraction/addition.",
+        "Solve for the other variable and substitute back."
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Define coincident lines and write down the algebraic condition for them.",
+      "questionHi": "संपाती (coincident) रेखाओं को परिभाषित कीजिए और उनके लिए बीजगणितीय स्थिति लिखिए।",
+      "answer": "Coincident lines are lines that lie directly on top of each other, meaning every point on one line is also a point on the other line. Algebraically, they represent a dependent system with infinitely many solutions under the condition:\n\n$$\\frac{a_1}{a_2} = \\frac{b_1}{b_2} = \\frac{c_1}{c_2}$$",
+      "answerHi": "संपाती रेखाएँ वे रेखाएँ होती हैं जो सीधे एक-दूसरे के ऊपर स्थित होती हैं, जिसका अर्थ है कि एक रेखा का प्रत्येक बिंदु दूसरी रेखा का भी बिंदु होता है। बीजगणितीय रूप से, वे अपरिमित रूप से अनेक हलों वाले एक आश्रित निकाय का प्रतिनिधित्व करते हैं, जिसकी स्थिति है:\n\n$$\\frac{a_1}{a_2} = \\frac{b_1}{b_2} = \\frac{c_1}{c_2}$$",
+      "keyPoints": [
+        "Lines overlapping entirely.",
+        "Condition: $a_1/a_2 = b_1/b_2 = c_1/c_2$."
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Find whether the lines representing $9x + 3y + 12 = 0$ and $18x + 6y + 24 = 0$ intersect at a point, are parallel, or coincide.",
+      "questionHi": "ज्ञात कीजिए कि समीकरणों $9x + 3y + 12 = 0$ और $18x + 6y + 24 = 0$ द्वारा निरूपित रेखाएँ एक बिंदु पर प्रतिच्छेद करती हैं, समांतर हैं, या संपाती हैं।",
+      "answer": "Comparing coefficient ratios:\n\n$$\\frac{a_1}{a_2} = \\frac{9}{18} = \\frac{1}{2}, \\quad \\frac{b_1}{b_2} = \\frac{3}{6} = \\frac{1}{2}, \\quad \\frac{c_1}{c_2} = \\frac{12}{24} = \\frac{1}{2}$$\n\nSince $\\frac{a_1}{a_2} = \\frac{b_1}{b_2} = \\frac{c_1}{c_2}$, the two lines **coincide**.",
+      "answerHi": "गुणांकों के अनुपातों की तुलना करने पर:\n\n$$\\frac{a_1}{a_2} = \\frac{9}{18} = \\frac{1}{2}, \\quad \\frac{b_1}{b_2} = \\frac{3}{6} = \\frac{1}{2}, \\quad \\frac{c_1}{c_2} = \\frac{12}{24} = \\frac{1}{2}$$\n\nचूँकि $\\frac{a_1}{a_2} = \\frac{b_1}{b_2} = \\frac{c_1}{c_2}$, इसलिए दोनों रेखाएँ **संपाती** हैं।",
+      "keyPoints": [
+        "Calculate the three ratios.",
+        "All ratios are equal, thus coincident lines."
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "If $x = 2$ and $y = 3$ is a solution of the equation $2x + 3y = k$, find the value of $k$.",
+      "questionHi": "यदि $x = 2$ और $y = 3$ समीकरण $2x + 3y = k$ का हल है, तो $k$ का मान ज्ञात कीजिए।",
+      "answer": "Substitute the values of $x$ and $y$ directly into the linear equation:\n\n$$2(2) + 3(3) = k$$\n\n$$4 + 9 = k \\implies k = 13$$",
+      "answerHi": "$x$ और $y$ के मानों को सीधे रैखिक समीकरण में प्रतिस्थापित करें:\n\n$$2(2) + 3(3) = k$$\n\n$$4 + 9 = k \\implies k = 13$$",
+      "keyPoints": [
+        "Substitute $(x,y)$ into the equation."
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "Find the values of $a$ and $b$ for which the following pair of linear equations has an infinite number of solutions: $2x + 3y = 7$ and $(a - b)x + (a + b)y = 3a + b - 2$.",
+      "questionHi": "$a$ और $b$ के वे मान ज्ञात कीजिए जिनके लिए निम्नलिखित रैखिक समीकरण युग्म के अपरिमित रूप से अनेक हल हैं: $2x + 3y = 7$ और $(a - b)x + (a + b)y = 3a + b - 2$।",
+      "answer": "For infinitely many solutions, the ratio of coefficients must be equal:\n\n$$\\frac{2}{a-b} = \\frac{3}{a+b} = \\frac{7}{3a+b-2}$$\n\nFrom the first two parts:\n\n$$2(a + b) = 3(a - b) \\implies 2a + 2b = 3a - 3b \\implies a = 5b \\quad \\text{--- (Equation 1)}$$\n\nFrom the first and third parts:\n\n$$2(3a + b - 2) = 7(a - b) \\implies 6a + 2b - 4 = 7a - 7b \\implies a - 9b = -4 \\quad \\text{--- (Equation 2)}$$\n\nSubstitute $a = 5b$ into Equation 2:\n\n$$5b - 9b = -4 \\implies -4b = -4 \\implies b = 1$$\n\nThen, $a = 5(1) = 5$. Thus, the answers are **$a = 5, b = 1$**.",
+      "answerHi": "अपरिमित रूप से अनेक हलों के लिए, गुणांकों का अनुपात बराबर होना चाहिए:\n\n$$\\frac{2}{a-b} = \\frac{3}{a+b} = \\frac{7}{3a+b-2}$$\n\nपहले दो भागों से:\n\n$$2(a + b) = 3(a - b) \\implies 2a + 2b = 3a - 3b \\implies a = 5b \\quad \\text{--- (समीकरण 1)}$$\n\nपहले और तीसरे भाग से:\n\n$$2(3a + b - 2) = 7(a - b) \\implies 6a + 2b - 4 = 7a - 7b \\implies a - 9b = -4 \\quad \\text{--- (समीकरण 2)}$$\n\n$a = 5b$ को समीकरण 2 में प्रतिस्थापित करने पर:\n\n$$5b - 9b = -4 \\implies -4b = -4 \\implies b = 1$$\n\nतब, $a = 5(1) = 5$। इस प्रकार, उत्तर **$a = 5, b = 1$** हैं।",
+      "keyPoints": [
+        "Equate ratios for infinite solutions.",
+        "Formulate two equations in a and b.",
+        "Solve the system for a and b."
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Solve the following pair of linear equations using the elimination method: $3x + 4y = 10$ and $2x - 2y = 2$.",
+      "questionHi": "विलोपन विधि का उपयोग करके निम्नलिखित रैखिक समीकरण युग्म को हल कीजिए: $3x + 4y = 10$ और $2x - 2y = 2$।",
+      "answer": "Multiply the second equation by 2 so that the coefficients of $y$ become equal in magnitude:\n\n$$2 \\times (2x - 2y = 2) \\implies 4x - 4y = 4$$\n\nNow, add this new equation to the first equation:\n\n$$(3x + 4y) + (4x - 4y) = 10 + 4$$\n\n$$7x = 14 \\implies x = 2$$\n\nSubstitute $x = 2$ into the second original equation:\n\n$$2(2) - 2y = 2 \\implies 4 - 2y = 2 \\implies 2y = 2 \\implies y = 1$$\n\nThe unique solution is **$x = 2, y = 1$**.",
+      "answerHi": "दूसरे समीकरण को 2 से गुणा करें ताकि $y$ के गुणांक परिमाण में समान हो जाएँ:\n\n$$2 \\times (2x - 2y = 2) \\implies 4x - 4y = 4$$\n\nअब, इस नए समीकरण को पहले समीकरण में जोड़ें:\n\n$$(3x + 4y) + (4x - 4y) = 10 + 4$$\n\n$$7x = 14 \\implies x = 2$$\n\n$x = 2$ को मूल दूसरे समीकरण में प्रतिस्थापित करें:\n\n$$2(2) - 2y = 2 \\implies 4 - 2y = 2 \\implies 2y = 2 \\implies y = 1$$\n\nअद्वितीय हल **$x = 2, y = 1$** है।",
+      "keyPoints": [
+        "Multiply to equalize coefficients.",
+        "Add/subtract to eliminate one variable."
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "Five years ago, Nuri was thrice as old as Sonu. Ten years later, Nuri will be twice as old as Sonu. How old are Nuri and Sonu now?",
+      "questionHi": "पाँच वर्ष पूर्व नूरी की आयु सोनू की आयु की तीन गुनी थी। दस वर्ष पश्चात्, नूरी की आयु सोनू की आयु की दोगुनी हो जाएगी। नूरी और सोनू की वर्तमान आयु कितनी है?",
+      "answer": "Let Nuri's present age be $x$ years and Sonu's present age be $y$ years.\n\n* **Condition 1 (Five years ago):** $(x - 5) = 3(y - 5) \\implies x - 3y = -10 \\quad \\text{--- (Eq. 1)}$\n* **Condition 2 (Ten years later):** $(x + 10) = 2(y + 10) \\implies x - 2y = 10 \\quad \\text{--- (Eq. 2)}$\n\nSubtracting Eq. 1 from Eq. 2 to eliminate $x$:\n\n$$(x - 2y) - (x - 3y) = 10 - (-10) \\implies y = 20$$\n\nSubstitute $y = 20$ into Eq. 2:\n\n$$x - 2(20) = 10 \\implies x - 40 = 10 \\implies x = 50$$\n\nTherefore, Nuri is **50 years old** and Sonu is **20 years old**.",
+      "answerHi": "मान लीजिए नूरी की वर्तमान आयु $x$ वर्ष है और सोनू की वर्तमान आयु $y$ वर्ष है।\n\n* **शर्त 1 (पाँच वर्ष पूर्व):** $(x - 5) = 3(y - 5) \\implies x - 3y = -10 \\quad \\text{--- (समीकरण 1)}$\n* **शर्त 2 (दस वर्ष पश्चात्):** $(x + 10) = 2(y + 10) \\implies x - 2y = 10 \\quad \\text{--- (समीकरण 2)}$\n\n$x$ को विलुप्त करने के लिए समीकरण 2 में से समीकरण 1 को घटाने पर:\n\n$$(x - 2y) - (x - 3y) = 10 - (-10) \\implies y = 20$$\n\n$y = 20$ को समीकरण 2 में प्रतिस्थापित करने पर:\n\n$$x - 2(20) = 10 \\implies x - 40 = 10 \\implies x = 50$$\n\nइसलिए, नूरी **50 वर्ष** की है और सोनू **20 वर्ष** का है।",
+      "keyPoints": [
+        "Frame equations for past and future ages.",
+        "Solve the system using elimination or substitution."
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "The sum of a two-digit number and the number obtained by reversing the digits is 66. If the digits of the number differ by 2, find the number. How many such numbers are there?",
+      "questionHi": "दो अंकों की एक संख्या एवं उसके अंकों को पलटने पर बनी संख्या का योग 66 है। यदि संख्या के अंकों का अंतर 2 हो, तो वह संख्या ज्ञात कीजिए। ऐसी कितनी संख्याएँ हैं?",
+      "answer": "Let the tens digit be $x$ and the units digit be $y$. The original number is $10x + y$, and the reversed number is $10y + x$.\n\nAccording to the first condition:\n\n$$(10x + y) + (10y + x) = 66 \\implies 11x + 11y = 66 \\implies x + y = 6 \\quad \\text{--- (Eq. 1)}$$\n\nAccording to the second condition, the digits differ by 2:\n\n* **Case A:** $x - y = 2 \\implies$ Adding with Eq. 1 gives $2x = 8 \\implies x = 4, y = 2$. The number is **42**.\n* **Case B:** $y - x = 2 \\implies$ Adding with Eq. 1 gives $2y = 8 \\implies y = 4, x = 2$. The number is **24**.\n\nThere are **two** such numbers: 42 and 24.",
+      "answerHi": "मान लीजिए दहाई का अंक $x$ और इकाई का अंक $y$ है। मूल संख्या $10x + y$ है, और पलटने पर बनी संख्या $10y + x$ है।\n\nपहली शर्त के अनुसार:\n\n$$(10x + y) + (10y + x) = 66 \\implies 11x + 11y = 66 \\implies x + y = 6 \\quad \\text{--- (समीकरण 1)}$$\n\nदूसरी शर्त के अनुसार, अंकों का अंतर 2 है:\n\n* **स्थिति A:** $x - y = 2 \\implies$ समीकरण 1 के साथ जोड़ने पर $2x = 8 \\implies x = 4, y = 2$ प्राप्त होता है। संख्या **42** है।\n* **स्थिति B:** $y - x = 2 \\implies$ समीकरण 1 के साथ जोड़ने पर $2y = 8 \\implies y = 4, x = 2$ प्राप्त होता है। संख्या **24** है।\n\nऐसी **दो** संख्याएँ हैं: 42 और 24।",
+      "keyPoints": [
+        "Number representation: $10x+y$.",
+        "Consider both cases for difference ($x-y=2$ and $y-x=2$)."
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "For what value of $k$ will the following pair of linear equations have no solution? $3x + y = 1$ and $(2k - 1)x + (k - 1)y = 2k + 1$.",
+      "questionHi": "$k$ के किस मान के लिए निम्नलिखित रैखिक समीकरण युग्म का कोई हल नहीं होगा? $3x + y = 1$ और $(2k - 1)x + (k - 1)y = 2k + 1$।",
+      "answer": "For a system to have no solution, the lines must be parallel, satisfying:\n\n$$\\frac{a_1}{a_2} = \\frac{b_1}{b_2} \\neq \\frac{c_1}{c_2}$$\n\n$$\\frac{3}{2k-1} = \\frac{1}{k-1} \\neq \\frac{1}{2k+1}$$\n\nEquating the first two fractions:\n\n$$3(k - 1) = 1(2k - 1)$$\n\n$$3k - 3 = 2k - 1 \\implies k = 2$$\n\nIf we check $k = 2$ in the third ratio, $\\frac{1}{2(2)+1} = \\frac{1}{5}$, which satisfies $\\frac{1}{1} \\neq \\frac{1}{5}$. Thus, **$k = 2$**.",
+      "answerHi": "किसी निकाय का कोई हल न होने के लिए, रेखाएँ समांतर होनी चाहिए, जो निम्नलिखित को संतुष्ट करें:\n\n$$\\frac{a_1}{a_2} = \\frac{b_1}{b_2} \\neq \\frac{c_1}{c_2}$$\n\n$$\\frac{3}{2k-1} = \\frac{1}{k-1} \\neq \\frac{1}{2k+1}$$\n\nपहले दो भिन्नों को बराबर करने पर:\n\n$$3(k - 1) = 1(2k - 1)$$\n\n$$3k - 3 = 2k - 1 \\implies k = 2$$\n\nयदि हम तीसरे अनुपात में $k = 2$ की जाँच करते हैं, तो $\\frac{1}{2(2)+1} = \\frac{1}{5}$, जो $\\frac{1}{1} \\neq \\frac{1}{5}$ को संतुष्ट करता है। इस प्रकार, **$k = 2$**।",
+      "keyPoints": [
+        "Equate $a_1/a_2 = b_1/b_2$.",
+        "Verify $a_1/a_2 \\neq c_1/c_2$ with obtained value."
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Solve the pair of linear equations graphically: $x + 3y = 6$ and $2x - 3y = 12$.",
+      "questionHi": "रैखिक समीकरण युग्म को ग्राफीय विधि से हल कीजिए: $x + 3y = 6$ और $2x - 3y = 12$।",
+      "answer": "Find two coordinating points for each straight line to plot:\n\n1. For $x + 3y = 6$: If $x=0, y=2 \\implies (0,2)$. If $y=0, x=6 \\implies (6,0)$.\n2. For $2x - 3y = 12$: If $x=0, y=-4 \\implies (0,-4)$. If $y=0, x=6 \\implies (6,0)$.\n\nWhen these coordinates are plotted on a graph, the two straight lines intersect precisely at the point **$(6,0)$**. Therefore, the graphical solution is $x = 6, y = 0$.",
+      "answerHi": "प्लॉट करने के लिए प्रत्येक सीधी रेखा के लिए दो निर्देशांक बिंदु ज्ञात करें:\n\n1. $x + 3y = 6$ के लिए: यदि $x=0, y=2 \\implies (0,2)$। यदि $y=0, x=6 \\implies (6,0)$।\n2. $2x - 3y = 12$ के लिए: यदि $x=0, y=-4 \\implies (0,-4)$। यदि $y=0, x=6 \\implies (6,0)$।\n\nजब इन निर्देशांकों को ग्राफ पर प्लॉट किया जाता है, तो दोनों सीधी रेखाएँ ठीक **$(6,0)$** बिंदु पर प्रतिच्छेद करती हैं। इसलिए, ग्राफीय हल $x = 6, y = 0$ है।",
+      "keyPoints": [
+        "Find at least two points for each equation.",
+        "Intersection point is the solution."
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "The larger of two supplementary angles exceeds the smaller by 18 degrees. Find the angles using algebraic methods.",
+      "questionHi": "दो संपूरक (supplementary) कोणों में से बड़ा कोण छोटे कोण से 18 डिग्री अधिक है। बीजगणितीय विधियों का उपयोग करके कोण ज्ञात कीजिए।",
+      "answer": "Let the larger angle be $x$ and the smaller angle be $y$.\n\nSince the angles are supplementary, their sum is $180^\\circ$:\n\n$$x + y = 180 \\quad \\text{--- (Equation 1)}$$\n\nThe larger exceeds the smaller by $18^\\circ$:\n\n$$x = y + 18 \\quad \\text{--- (Equation 2)}$$\n\nSubstitute Eq. 2 into Eq. 1:\n\n$$(y + 18) + y = 180 \\implies 2y + 18 = 180 \\implies 2y = 162 \\implies y = 81^\\circ$$\n\nNow, $x = 81 + 18 = 99^\\circ$. The two angles are **$99^\\circ$ and $81^\\circ$**.",
+      "answerHi": "मान लीजिए बड़ा कोण $x$ और छोटा कोण $y$ है।\n\nचूँकि कोण संपूरक हैं, उनका योग $180^\\circ$ है:\n\n$$x + y = 180 \\quad \\text{--- (समीकरण 1)}$$\n\nबड़ा कोण छोटे से $18^\\circ$ अधिक है:\n\n$$x = y + 18 \\quad \\text{--- (समीकरण 2)}$$\n\nसमीकरण 2 को समीकरण 1 में प्रतिस्थापित करने पर:\n\n$$(y + 18) + y = 180 \\implies 2y + 18 = 180 \\implies 2y = 162 \\implies y = 81^\\circ$$\n\nअब, $x = 81 + 18 = 99^\\circ$। दोनों कोण **$99^\\circ$ और $81^\\circ$** हैं।",
+      "keyPoints": [
+        "Supplementary angles sum to 180 degrees.",
+        "Formulate and solve two equations."
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "A fraction becomes $\\frac{9}{11}$, if 2 is added to both the numerator and the denominator. If 3 is added to both the numerator and the denominator it becomes $\\frac{5}{6}$. Find the fraction.",
+      "questionHi": "यदि किसी भिन्न के अंश और हर दोनों में 2 जोड़ दिया जाए, तो वह $\\frac{9}{11}$ हो जाती है। यदि अंश और हर दोनों में 3 जोड़ दिया जाए तो वह $\\frac{5}{6}$ हो जाती है। भिन्न ज्ञात कीजिए।",
+      "answer": "Let the fraction be $\\frac{x}{y}$.\n\n* **Condition 1:** $\\frac{x+2}{y+2} = \\frac{9}{11} \\implies 11(x + 2) = 9(y + 2) \\implies 11x - 9y = -4 \\quad \\text{--- (Eq. 1)}$\n* **Condition 2:** $\\frac{x+3}{y+3} = \\frac{5}{6} \\implies 6(x + 3) = 5(y + 3) \\implies 6x - 5y = -3 \\quad \\text{--- (Eq. 2)}$\n\nSolving these equations using substitution or elimination gives $x = 7$ and $y = 9$.\n\nTherefore, the required fraction is **$\\frac{7}{9}$**.",
+      "answerHi": "मान लीजिए भिन्न $\\frac{x}{y}$ है।\n\n* **शर्त 1:** $\\frac{x+2}{y+2} = \\frac{9}{11} \\implies 11(x + 2) = 9(y + 2) \\implies 11x - 9y = -4 \\quad \\text{--- (समीकरण 1)}$\n* **शर्त 2:** $\\frac{x+3}{y+3} = \\frac{5}{6} \\implies 6(x + 3) = 5(y + 3) \\implies 6x - 5y = -3 \\quad \\text{--- (समीकरण 2)}$\n\nप्रतिस्थापन या विलोपन का उपयोग करके इन समीकरणों को हल करने पर $x = 7$ और $y = 9$ प्राप्त होता है।\n\nइसलिए, अभीष्ट भिन्न **$\\frac{7}{9}$** है।",
+      "keyPoints": [
+        "Fraction is $x/y$.",
+        "Formulate linear equations and solve."
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Easy",
+      "question": "If $x=a, y=b$ is the solution of the equations $x - y = 2$ and $x + y = 4$, find the values of $a$ and $b$.",
+      "questionHi": "यदि $x=a, y=b$ समीकरणों $x - y = 2$ और $x + y = 4$ का हल है, तो $a$ और $b$ के मान ज्ञात कीजिए।",
+      "answer": "Add the two equations together to eliminate $y$:\n\n$$(x - y) + (x + y) = 2 + 4 \\implies 2x = 6 \\implies x = 3$$\n\nSubstitute $x = 3$ into the second equation:\n\n$$3 + y = 4 \\implies y = 1$$\n\nSince $x=a$ and $y=b$, the values are **$a = 3, b = 1$**.",
+      "answerHi": "$y$ को विलुप्त करने के लिए दोनों समीकरणों को एक साथ जोड़ें:\n\n$$(x - y) + (x + y) = 2 + 4 \\implies 2x = 6 \\implies x = 3$$\n\n$x = 3$ को दूसरे समीकरण में प्रतिस्थापित करें:\n\n$$3 + y = 4 \\implies y = 1$$\n\nचूँकि $x=a$ और $y=b$ है, मान **$a = 3, b = 1$** हैं।",
+      "keyPoints": [
+        "Add equations directly to eliminate $y$."
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Easy",
+      "question": "Show that the pair of linear equations $2x + 5y = 7$ and $6x + 15y = 18$ has no solution.",
+      "questionHi": "दिखाइए कि रैखिक समीकरण युग्म $2x + 5y = 7$ और $6x + 15y = 18$ का कोई हल नहीं है।",
+      "answer": "Let us evaluate the coefficient ratios:\n\n$$\\frac{a_1}{a_2} = \\frac{2}{6} = \\frac{1}{3}, \\quad \\frac{b_1}{b_2} = \\frac{5}{15} = \\frac{1}{3}, \\quad \\frac{c_1}{c_2} = \\frac{7}{18}$$\n\nSince $\\frac{a_1}{a_2} = \\frac{b_1}{b_2} \\neq \\frac{c_1}{c_2}$, the lines are strictly parallel to each other. Parallel lines never intersect, which algebraically means the system has **no solution**.",
+      "answerHi": "आइए गुणांक अनुपातों का मूल्यांकन करें:\n\n$$\\frac{a_1}{a_2} = \\frac{2}{6} = \\frac{1}{3}, \\quad \\frac{b_1}{b_2} = \\frac{5}{15} = \\frac{1}{3}, \\quad \\frac{c_1}{c_2} = \\frac{7}{18}$$\n\nचूँकि $\\frac{a_1}{a_2} = \\frac{b_1}{b_2} \\neq \\frac{c_1}{c_2}$, रेखाएँ एक दूसरे के पूर्णतः समांतर हैं। समांतर रेखाएँ कभी प्रतिच्छेद नहीं करती हैं, जिसका बीजगणितीय अर्थ है कि निकाय का **कोई हल नहीं** है।",
+      "keyPoints": [
+        "Show ratios $a_1/a_2 = b_1/b_2 \\neq c_1/c_2$."
+      ]
+    },
+    {
+      "id": "q21",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Draw the graphs of the equations $x - y + 1 = 0$ and $3x + 2y - 12 = 0$. Determine the coordinates of the vertices of the triangle formed by these lines and the x-axis, and shade the triangular region.",
+      "questionHi": "समीकरणों $x - y + 1 = 0$ और $3x + 2y - 12 = 0$ के ग्राफ खींचिए। इन रेखाओं और x-अक्ष द्वारा बने त्रिभुज के शीर्षों के निर्देशांक ज्ञात कीजिए, और त्रिभुजाकार पटल को छायांकित (shade) कीजिए।",
+      "answer": "First, find the table of values for both lines to map them on a graph:\n\n* For $x - y + 1 = 0 \\implies y = x + 1$: Coordinates are $(-1,0), (0,1), (2,3)$.\n* For $3x + 2y - 12 = 0 \\implies y = \\frac{12 - 3x}{2}$: Coordinates are $(4,0), (0,6), (2,3)$.\n\nNow, plot these points on graph paper and draw the straight lines. The lines intersect each other at the point $(2,3)$.\n\nThe first line cuts the $x$-axis at $(-1,0)$, and the second line cuts the $x$-axis at $(4,0)$.\n\nTherefore, the boundaries of the triangle formed by these two intersecting lines and the horizontal $x$-axis have their vertex coordinates at:\n\n$$A(2,3), \\quad B(-1,0), \\quad C(4,0)$$\n\nShade the interior area enclosed between these three coordinates to complete the task.",
+      "answerHi": "सबसे पहले, ग्राफ पर उन्हें मैप करने के लिए दोनों रेखाओं के लिए मानों की तालिका ज्ञात करें:\n\n* $x - y + 1 = 0 \\implies y = x + 1$ के लिए: निर्देशांक $(-1,0), (0,1), (2,3)$ हैं।\n* $3x + 2y - 12 = 0 \\implies y = \\frac{12 - 3x}{2}$ के लिए: निर्देशांक $(4,0), (0,6), (2,3)$ हैं।\n\nअब, इन बिंदुओं को ग्राफ पेपर पर प्लॉट करें और सीधी रेखाएँ खींचें। रेखाएँ बिंदु $(2,3)$ पर एक दूसरे को प्रतिच्छेद करती हैं।\n\nपहली रेखा $x$-अक्ष को $(-1,0)$ पर काटती है, और दूसरी रेखा $x$-अक्ष को $(4,0)$ पर काटती है।\n\nइसलिए, इन दो प्रतिच्छेदी रेखाओं और क्षैतिज $x$-अक्ष द्वारा बने त्रिभुज की सीमाओं के शीर्षों के निर्देशांक निम्न हैं:\n\n$$A(2,3), \\quad B(-1,0), \\quad C(4,0)$$\n\nकार्य पूरा करने के लिए इन तीन निर्देशांकों के बीच घिरे आंतरिक क्षेत्र को छायांकित करें।",
+      "keyPoints": [
+        "Find coordinate points for both equations.",
+        "Plot and identify intersection point.",
+        "Identify x-axis intersections for vertices."
+      ]
+    },
+    {
+      "id": "q22",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "Competency-Based Question: A rental bookstore has a fixed charge for the first three days and an additional charge for each day thereafter. Saritha paid ₹27 for a book kept for seven days, while Susy paid ₹21 for the book she kept for five days. Formulate the pair of linear equations, find the fixed charge and the charge for each extra day, and calculate the amount a student would pay if they kept a book for 10 days.",
+      "questionHi": "योग्यता-आधारित प्रश्न: एक किराये की किताब की दुकान में प्रथम तीन दिनों का एक नियत किराया है और उसके बाद प्रत्येक अतिरिक्त दिन का एक अलग किराया है। सरिता ने सात दिनों तक एक पुस्तक रखने के लिए ₹27 अदा किए, जबकि सूसी ने एक पुस्तक पाँच दिनों तक रखने के ₹21 अदा किए। रैखिक समीकरण युग्म बनाइए, नियत किराया तथा प्रत्येक अतिरिक्त दिन का किराया ज्ञात कीजिए, और उस राशि की गणना कीजिए जो एक छात्र 10 दिनों तक पुस्तक रखने पर भुगतान करेगा।",
+      "answer": "Let the fixed charge for the first three days be ₹$x$ and the variable charge per additional day be ₹$y$.\n\n* Saritha kept the book for 7 days (3 fixed days + 4 extra days):\n$$x + 4y = 27 \\quad \\text{--- (Equation 1)}$$\n\n\n* Susy kept the book for 5 days (3 fixed days + 2 extra days):\n$$x + 2y = 21 \\quad \\text{--- (Equation 2)}$$\n\n\n\nSubtract Equation 2 from Equation 1 to eliminate $x$:\n\n$$(x + 4y) - (x + 2y) = 27 - 21 \\implies 2y = 6 \\implies y = 3$$\n\nSubstitute $y = 3$ into Equation 2:\n\n$$x + 2(3) = 21 \\implies x + 6 = 21 \\implies x = 15$$\n\nThe fixed charge is **₹15** and the charge per extra day is **₹3**.\n\nFor a student keeping a book for 10 days (3 fixed days + 7 extra days):\n\n$$\\text{Total Cost} = x + 7y = 15 + 7(3) = 15 + 21 = \\text{₹}36$$",
+      "answerHi": "मान लीजिए प्रथम तीन दिनों का नियत किराया ₹$x$ है और प्रत्येक अतिरिक्त दिन का किराया ₹$y$ है।\n\n* सरिता ने 7 दिनों (3 नियत दिन + 4 अतिरिक्त दिन) के लिए पुस्तक रखी:\n$$x + 4y = 27 \\quad \\text{--- (समीकरण 1)}$$\n\n\n* सूसी ने 5 दिनों (3 नियत दिन + 2 अतिरिक्त दिन) के लिए पुस्तक रखी:\n$$x + 2y = 21 \\quad \\text{--- (समीकरण 2)}$$\n\n\n\n$x$ को विलुप्त करने के लिए समीकरण 1 में से समीकरण 2 को घटाएँ:\n\n$$(x + 4y) - (x + 2y) = 27 - 21 \\implies 2y = 6 \\implies y = 3$$\n\n$y = 3$ को समीकरण 2 में प्रतिस्थापित करें:\n\n$$x + 2(3) = 21 \\implies x + 6 = 21 \\implies x = 15$$\n\nनियत किराया **₹15** है और प्रत्येक अतिरिक्त दिन का किराया **₹3** है।\n\nएक छात्र द्वारा 10 दिनों (3 नियत दिन + 7 अतिरिक्त दिन) के लिए पुस्तक रखने पर:\n\n$$\\text{कुल लागत} = x + 7y = 15 + 7(3) = 15 + 21 = \\text{₹}36$$",
+      "keyPoints": [
+        "Frame equations considering fixed days and extra days separately.",
+        "Solve for fixed and variable charges.",
+        "Calculate cost for required days."
+      ]
+    },
+    {
+      "id": "q23",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "Case-Based descriptive concept: A taxi driver charges a fixed minimum fare along with a variable component depending on the total distance covered. For a journey of 10 km, the charge paid is ₹105 and for a journey of 15 km, the charge paid is ₹155. Formulate the linear equations to find the fixed charge and the charge per km. How much does a person have to pay for travelling a distance of 25 km?",
+      "questionHi": "केस-आधारित वर्णनात्मक अवधारणा: एक टैक्सी चालक कुल तय की गई दूरी के आधार पर एक चर घटक के साथ-साथ एक निश्चित न्यूनतम किराया लेता है। 10 किमी की दूरी के लिए भाड़ा ₹105 है और 15 किमी की दूरी के लिए भाड़ा ₹155 है। नियत भाड़ा और प्रति किमी भाड़ा ज्ञात करने के लिए रैखिक समीकरण बनाइए। एक व्यक्ति को 25 किमी की यात्रा करने के लिए कितना भाड़ा देना होगा?",
+      "answer": "Let the fixed base taxi fare be ₹$x$ and the variable rate per kilometer driven be ₹$y$.\n\nBased on the conditions provided:\n\n* For a 10 km trip: $x + 10y = 105 \\quad \\text{--- (Equation 1)}$\n* For a 15 km trip: $x + 15y = 155 \\quad \\text{--- (Equation 2)}$\n\nSubtracting Equation 1 from Equation 2 to eliminate the fixed charge $x$:\n\n$$(x + 15y) - (x + 10y) = 155 - 105$$\n\n$$5y = 50 \\implies y = 10$$\n\nThe rate per kilometer is ₹10. Substitute $y = 10$ back into Equation 1 to isolate $x$:\n\n$$x + 10(10) = 105 \\implies x + 100 = 105 \\implies x = 5$$\n\nThe fixed base taxi charge is ₹5.\n\nTo find the fare for a total traveling distance of 25 km, set up the cost function:\n\n$$\\text{Fare} = x + 25y = 5 + 25(10) = 5 + 250 = \\text{₹}255$$\n\nThe person must pay a total of **₹255**.",
+      "answerHi": "मान लीजिए निश्चित मूल टैक्सी भाड़ा ₹$x$ है और प्रति किलोमीटर की दर ₹$y$ है।\n\nदी गई शर्तों के आधार पर:\n\n* 10 किमी यात्रा के लिए: $x + 10y = 105 \\quad \\text{--- (समीकरण 1)}$\n* 15 किमी यात्रा के लिए: $x + 15y = 155 \\quad \\text{--- (समीकरण 2)}$\n\nनियत भाड़े $x$ को विलुप्त करने के लिए समीकरण 2 में से समीकरण 1 को घटाने पर:\n\n$$(x + 15y) - (x + 10y) = 155 - 105$$\n\n$$5y = 50 \\implies y = 10$$\n\nप्रति किलोमीटर की दर ₹10 है। $x$ को अलग करने के लिए $y = 10$ को वापस समीकरण 1 में प्रतिस्थापित करें:\n\n$$x + 10(10) = 105 \\implies x + 100 = 105 \\implies x = 5$$\n\nनियत मूल टैक्सी भाड़ा ₹5 है।\n\nकुल 25 किमी की यात्रा दूरी के लिए भाड़ा ज्ञात करने हेतु, लागत फलन स्थापित करें:\n\n$$\\text{भाड़ा} = x + 25y = 5 + 25(10) = 5 + 250 = \\text{₹}255$$\n\nव्यक्ति को कुल **₹255** का भुगतान करना होगा।",
+      "keyPoints": [
+        "Frame linear equations for fare.",
+        "Solve for fixed charge and per km charge.",
+        "Evaluate for given distance."
+      ]
+    },
+    {
+      "id": "q24",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Medium",
+      "question": "Solve the following pair of linear equations algebraically and verify your answer: $0.2x + 0.3y = 1.3$ and $0.4x + 0.5y = 2.3$.",
+      "questionHi": "निम्नलिखित रैखिक समीकरण युग्म को बीजगणितीय रूप से हल कीजिए और अपने उत्तर की जाँच कीजिए: $0.2x + 0.3y = 1.3$ और $0.4x + 0.5y = 2.3$।",
+      "answer": "To eliminate decimal confusion, multiply both linear equations by 10 across all terms:\n\n$$2x + 3y = 13 \\quad \\text{--- (Equation 1)}$$\n\n$$4x + 5y = 23 \\quad \\text{--- (Equation 2)}$$\n\nWe can use the elimination method. Multiply Equation 1 by 2 so that the $x$-coefficients match:\n\n$$2 \\times (2x + 3y = 13) \\implies 4x + 6y = 26 \\quad \\text{--- (Equation 3)}$$\n\nSubtract Equation 2 from Equation 3:\n\n$$(4x + 6y) - (4x + 5y) = 26 - 23 \\implies y = 3$$\n\nSubstitute $y = 3$ back into Equation 1 to find the matching value for $x$:\n\n$$2x + 3(3) = 13 \\implies 2x + 9 = 13 \\implies 2x = 4 \\implies x = 2$$\n\nThe solution is $x = 2, y = 3$.\n\n**Verification:** Plug the values into the original decimal equation 2:\n\n$$0.4(2) + 0.5(3) = 0.8 + 1.5 = 2.3$$\n\nSince $\\text{LHS} = \\text{RHS}$, the algebraic solution is verified as correct.",
+      "answerHi": "दशमलव भ्रम को दूर करने के लिए, दोनों रैखिक समीकरणों के सभी पदों को 10 से गुणा करें:\n\n$$2x + 3y = 13 \\quad \\text{--- (समीकरण 1)}$$\n\n$$4x + 5y = 23 \\quad \\text{--- (समीकरण 2)}$$\n\nहम विलोपन विधि का उपयोग कर सकते हैं। समीकरण 1 को 2 से गुणा करें ताकि $x$-गुणांक मेल खाएँ:\n\n$$2 \\times (2x + 3y = 13) \\implies 4x + 6y = 26 \\quad \\text{--- (समीकरण 3)}$$\n\nसमीकरण 3 में से समीकरण 2 को घटाएँ:\n\n$$(4x + 6y) - (4x + 5y) = 26 - 23 \\implies y = 3$$\n\n$x$ का मान ज्ञात करने के लिए $y = 3$ को वापस समीकरण 1 में प्रतिस्थापित करें:\n\n$$2x + 3(3) = 13 \\implies 2x + 9 = 13 \\implies 2x = 4 \\implies x = 2$$\n\nहल $x = 2, y = 3$ है।\n\n**सत्यापन:** मानों को मूल दशमलव समीकरण 2 में डालें:\n\n$$0.4(2) + 0.5(3) = 0.8 + 1.5 = 2.3$$\n\nचूँकि $\\text{LHS} = \\text{RHS}$ है, बीजगणितीय हल सही के रूप में सत्यापित होता है।",
+      "keyPoints": [
+        "Multiply by 10 to clear decimals.",
+        "Use elimination to find variables.",
+        "Verify in the original equation."
+      ]
+    },
+    {
+      "id": "q25",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Analytical Challenge: Points A and B are 100 km apart on a highway. One car starts from A and another from B at the same time. If the cars travel in the same direction at different speeds, they meet in 5 hours. If they travel towards each other, they meet in 1 hour. What are the speeds of the two cars?",
+      "questionHi": "विश्लेषणात्मक चुनौती: एक राजमार्ग पर दो स्थान A और B, 100 किमी की दूरी पर हैं। एक कार A से तथा दूसरी कार B से एक ही समय चलना प्रारंभ करती है। यदि ये कारें भिन्न-भिन्न चालों से एक ही दिशा में चलती हैं, तो वे 5 घंटे पश्चात् मिलती हैं। यदि वे विपरीत दिशा में (एक दूसरे की ओर) चलती हैं, तो वे 1 घंटे में मिलती हैं। दोनों कारों की चाल क्या है?",
+      "answer": "Let the speed of the car starting from point A be $u$ km/h and the speed of the car starting from point B be $v$ km/h (assume $u > v$).\n\n* **Case 1: Traveling in the same direction.** The relative speed is the difference between their speeds ($u - v$). They cover the 100 km gap in 5 hours:\n$$\\text{Distance} = \\text{Speed} \\times \\text{Time} \\implies 100 = (u - v) \\times 5 \\implies u - v = 20 \\quad \\text{--- (Eq. 1)}$\n* **Case 2: Traveling towards each other.** The relative speed is the sum of their speeds ($u + v$). They cover the 100 km gap in 1 hour:\n$$\\text{Distance} = \\text{Speed} \\times \\text{Time} \\implies 100 = (u + v) \\times 1 \\implies u + v = 100 \\quad \\text{--- (Eq. 2)}$$\n\n\n\nAdding Equation 1 and Equation 2 together:\n\n$$2u = 120 \\implies u = 60 \\text{ km/h}$$\n\nSubstitute $u = 60$ into Equation 2:\n\n$$60 + v = 100 \\implies v = 40 \\text{ km/h}$$\n\nThe speeds of the two cars are **60 km/h** and **40 km/h**.",
+      "answerHi": "मान लीजिए बिंदु A से शुरू होने वाली कार की चाल $u$ किमी/घंटा है और बिंदु B से शुरू होने वाली कार की चाल $v$ किमी/घंटा है (मान लें $u > v$)।\n\n* **स्थिति 1: एक ही दिशा में यात्रा करना।** सापेक्ष चाल उनकी चालों का अंतर ($u - v$) है। वे 5 घंटे में 100 किमी का फासला तय करते हैं:\n$$\\text{दूरी} = \\text{चाल} \\times \\text{समय} \\implies 100 = (u - v) \\times 5 \\implies u - v = 20 \\quad \\text{--- (समीकरण 1)}$\n* **स्थिति 2: एक दूसरे की ओर यात्रा करना।** सापेक्ष चाल उनकी चालों का योग ($u + v$) है। वे 1 घंटे में 100 किमी का फासला तय करते हैं:\n$$\\text{दूरी} = \\text{चाल} \\times \\text{समय} \\implies 100 = (u + v) \\times 1 \\implies u + v = 100 \\quad \\text{--- (समीकरण 2)}$$\n\n\n\nसमीकरण 1 और समीकरण 2 को एक साथ जोड़ने पर:\n\n$$2u = 120 \\implies u = 60 \\text{ किमी/घंटा}$$\n\n$u = 60$ को समीकरण 2 में प्रतिस्थापित करें:\n\n$$60 + v = 100 \\implies v = 40 \\text{ किमी/घंटा}$$\n\nदोनों कारों की चाल **60 किमी/घंटा** और **40 किमी/घंटा** है।",
+      "keyPoints": [
+        "Same direction: relative speed is u - v.",
+        "Opposite direction: relative speed is u + v.",
+        "Distance = Speed x Time."
+      ]
+    }
+  ]
+}
