@@ -1,0 +1,312 @@
+{
+  "chapterTitle": "Introduction to Trigonometry",
+  "chapterTitleHi": "त्रिकोणमिति का परिचय",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Define the six trigonometric ratios of an acute angle in a right-angled triangle.",
+      "questionHi": "एक समकोण त्रिभुज में एक न्यूनकोण के छह त्रिकोणमितीय अनुपातों को परिभाषित कीजिए।",
+      "answer": "In a right-angled triangle, the six trigonometric ratios are defined relative to an acute angle ($\\theta$):\n\n\n$$\\sin\\theta = \\frac{\\text{Side opposite to }\\theta}{\\text{Hypotenuse}}, \\quad \\cos\\theta = \\frac{\\text{Side adjacent to }\\theta}{\\text{Hypotenuse}}, \\quad \\tan\\theta = \\frac{\\text{Side opposite to }\\theta}{\\text{Side adjacent to }\\theta}$$\n\n\nThe remaining three ratios ($\\csc\\theta, \\sec\\theta, \\cot\\theta$) are the respective reciprocals of $\\sin\\theta, \\cos\\theta,$ and $\\tan\\theta$.",
+      "answerHi": "एक समकोण त्रिभुज में, छह त्रिकोणमितीय अनुपातों को एक न्यूनकोण ($\\theta$) के सापेक्ष परिभाषित किया जाता है:\n\n\n$$\\sin\\theta = \\frac{\\theta \\text{ की सम्मुख भुजा}}{\\text{कर्ण}}, \\quad \\cos\\theta = \\frac{\\theta \\text{ की संलग्न भुजा}}{\\text{कर्ण}}, \\quad \\tan\\theta = \\frac{\\theta \\text{ की सम्मुख भुजा}}{\\theta \\text{ की संलग्न भुजा}}$$\n\n\nशेष तीन अनुपात ($\\csc\\theta, \\sec\\theta, \\cot\\theta$) क्रमशः $\\sin\\theta, \\cos\\theta,$ और $\\tan\\theta$ के व्युत्क्रम (reciprocals) हैं।",
+      "keyPoints": [
+        "sine = Opp/Hyp, cosine = Adj/Hyp, tangent = Opp/Adj.",
+        "csc, sec, cot are reciprocals."
+      ]
+    },
+    {
+      "id": "q2",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "In a right $\\Delta ABC$, right-angled at $B$, if $\\tan A = 1$, find the value of $2\\sin A\\cos A$.",
+      "questionHi": "एक समकोण $\\Delta ABC$ में, जिसका कोण $B$ समकोण है, यदि $\\tan A = 1$ है, तो $2\\sin A\\cos A$ का मान ज्ञात कीजिए।",
+      "answer": "Given $\\tan A = \\frac{\\text{Opposite}}{\\text{Adjacent}} = 1 \\implies \\text{Opposite} = k, \\text{Adjacent} = k$.\n\n$$\\text{Hypotenuse} = \\sqrt{k^2 + k^2} = k\\sqrt{2}$$\n\n$$\\sin A = \\frac{k}{k\\sqrt{2}} = \\frac{1}{\\sqrt{2}}, \\quad \\cos A = \\frac{k}{k\\sqrt{2}} = \\frac{1}{\\sqrt{2}}$$\n\n$$2\\sin A\\cos A = 2\\left(\\frac{1}{\\sqrt{2}}\\right)\\left(\\frac{1}{\\sqrt{2}}\\right) = 2 \\times \\frac{1}{2} = 1$$",
+      "answerHi": "दिया गया है $\\tan A = \\frac{\\text{सम्मुख}}{\\text{संलग्न}} = 1 \\implies \\text{सम्मुख} = k, \\text{संलग्न} = k$।\n\n$$\\text{कर्ण} = \\sqrt{k^2 + k^2} = k\\sqrt{2}$$\n\n$$\\sin A = \\frac{k}{k\\sqrt{2}} = \\frac{1}{\\sqrt{2}}, \\quad \\cos A = \\frac{k}{k\\sqrt{2}} = \\frac{1}{\\sqrt{2}}$$\n\n$$2\\sin A\\cos A = 2\\left(\\frac{1}{\\sqrt{2}}\\right)\\left(\\frac{1}{\\sqrt{2}}\\right) = 2 \\times \\frac{1}{2} = 1$$",
+      "keyPoints": [
+        "tan A = 1 means opposite = adjacent.",
+        "Find hypotenuse using Pythagoras.",
+        "Substitute sin A and cos A."
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Evaluate the exact numeric expression: $\\sin 60^\\circ\\cos 30^\\circ + \\sin 30^\\circ\\cos 60^\\circ$.",
+      "questionHi": "सटीक संख्यात्मक व्यंजक का मान ज्ञात कीजिए: $\\sin 60^\\circ\\cos 30^\\circ + \\sin 30^\\circ\\cos 60^\\circ$।",
+      "answer": "Substitute standard values: $\\sin 60^\\circ = \\frac{\\sqrt{3}}{2}, \\cos 30^\\circ = \\frac{\\sqrt{3}}{2}, \\sin 30^\\circ = \\frac{1}{2}, \\cos 60^\\circ = \\frac{1}{2}$.\n\n$$\\text{Value} = \\left(\\frac{\\sqrt{3}}{2} \\times \\frac{\\sqrt{3}}{2}\\right) + \\left(\\frac{1}{2} \\times \\frac{1}{2}\\right) = \\frac{3}{4} + \\frac{1}{4} = \\frac{4}{4} = 1$$",
+      "answerHi": "मानक मान प्रतिस्थापित करें: $\\sin 60^\\circ = \\frac{\\sqrt{3}}{2}, \\cos 30^\\circ = \\frac{\\sqrt{3}}{2}, \\sin 30^\\circ = \\frac{1}{2}, \\cos 60^\\circ = \\frac{1}{2}$।\n\n$$\\text{मान} = \\left(\\frac{\\sqrt{3}}{2} \\times \\frac{\\sqrt{3}}{2}\\right) + \\left(\\frac{1}{2} \\times \\frac{1}{2}\\right) = \\frac{3}{4} + \\frac{1}{4} = \\frac{4}{4} = 1$$",
+      "keyPoints": [
+        "Recall values from trigonometric table.",
+        "Substitute and simplify."
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "State the three fundamental trigonometric identities according to the standard NCERT text.",
+      "questionHi": "मानक NCERT पाठ्यपुस्तक के अनुसार तीन आधारभूत त्रिकोणमितीय सर्वसमिकाएँ (identities) बताइए।",
+      "answer": "The core identities derived for an acute angle $A$ are:\n\n1. $\\sin^2 A + \\cos^2 A = 1$\n2. $1 + \\tan^2 A = \\sec^2 A$ (for $0^\\circ \\le A < 90^\\circ$)\n3. $1 + \\text{cot}^2 A = \\csc^2 A$ (for $0^\\circ < A \\le 90^\\circ$)",
+      "answerHi": "एक न्यूनकोण $A$ के लिए व्युत्पन्न मुख्य सर्वसमिकाएँ हैं:\n\n1. $\\sin^2 A + \\cos^2 A = 1$\n2. $1 + \\tan^2 A = \\sec^2 A$ ($0^\\circ \\le A < 90^\\circ$ के लिए)\n3. $1 + \\cot^2 A = \\csc^2 A$ ($0^\\circ < A \\le 90^\\circ$ के लिए)",
+      "keyPoints": [
+        "sin²A + cos²A = 1",
+        "1 + tan²A = sec²A",
+        "1 + cot²A = csc²A"
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "Given $\\sec \\theta = \\frac{13}{12}$, calculate the value of $\\sin \\theta$.",
+      "questionHi": "दिया गया है $\\sec \\theta = \\frac{13}{12}$, $\\sin \\theta$ का मान ज्ञात कीजिए।",
+      "answer": "Since $\\sec\\theta = \\frac{\\text{Hypotenuse}}{\\text{Adjacent}} = \\frac{13}{12}$, let $\\text{Hypotenuse} = 13k$ and $\\text{Adjacent} = 12k$.\n\n$$\\text{Opposite} = \\sqrt{(13k)^2 - (12k)^2} = \\sqrt{169k^2 - 144k^2} = \\sqrt{25k^2} = 5k$$\n\n$$\\sin\\theta = \\frac{\\text{Opposite}}{\\text{Hypotenuse}} = \\frac{5k}{13k} = \\frac{5}{13}$$",
+      "answerHi": "चूँकि $\\sec\\theta = \\frac{\\text{कर्ण}}{\\text{संलग्न}} = \\frac{13}{12}$, मान लीजिए $\\text{कर्ण} = 13k$ और $\\text{संलग्न} = 12k$ है।\n\n$$\\text{सम्मुख} = \\sqrt{(13k)^2 - (12k)^2} = \\sqrt{169k^2 - 144k^2} = \\sqrt{25k^2} = 5k$$\n\n$$\\sin\\theta = \\frac{\\text{सम्मुख}}{\\text{कर्ण}} = \\frac{5k}{13k} = \\frac{5}{13}$$",
+      "keyPoints": [
+        "sec = Hyp/Adj. Assign 13k and 12k.",
+        "Find opposite side using Pythagoras.",
+        "sin = Opp/Hyp."
+      ]
+    },
+    {
+      "id": "q6",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "If $\\sin(A - B) = \\frac{1}{2}$ and $\\cos(A + B) = \\frac{1}{2}$ where $0^\\circ < A + B \\le 90^\\circ$ and $A > B$, find the values of $A$ and $B$.",
+      "questionHi": "यदि $\\sin(A - B) = \\frac{1}{2}$ और $\\cos(A + B) = \\frac{1}{2}$ जहाँ $0^\\circ < A + B \\le 90^\\circ$ और $A > B$ है, तो $A$ और $B$ के मान ज्ञात कीजिए।",
+      "answer": "We know $\\sin 30^\\circ = \\frac{1}{2} \\implies A - B = 30^\\circ \\quad \\text{--- (1)}$\n\nWe know $\\cos 60^\\circ = \\frac{1}{2} \\implies A + B = 60^\\circ \\quad \\text{--- (2)}$\n\nAdding (1) and (2): $2A = 90^\\circ \\implies A = 45^\\circ$.\n\nFrom (2): $45^\\circ + B = 60^\\circ \\implies B = 15^\\circ$. Thus, **$A = 45^\\circ, B = 15^\\circ$**.",
+      "answerHi": "हम जानते हैं कि $\\sin 30^\\circ = \\frac{1}{2} \\implies A - B = 30^\\circ \\quad \\text{--- (1)}$\n\nहम जानते हैं कि $\\cos 60^\\circ = \\frac{1}{2} \\implies A + B = 60^\\circ \\quad \\text{--- (2)}$\n\n(1) और (2) को जोड़ने पर: $2A = 90^\\circ \\implies A = 45^\\circ$।\n\n(2) से: $45^\\circ + B = 60^\\circ \\implies B = 15^\\circ$। इस प्रकार, **$A = 45^\\circ, B = 15^\\circ$** है।",
+      "keyPoints": [
+        "Equate given values to angles from table.",
+        "Solve linear equations for A and B."
+      ]
+    },
+    {
+      "id": "q7",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Express $\\cos A$ in terms of $\\sin A$.",
+      "questionHi": "$\\cos A$ को $\\sin A$ के पदों में व्यक्त कीजिए।",
+      "answer": "Use the first fundamental trigonometric identity:\n\n$$\\sin^2 A + \\cos^2 A = 1 \\implies \\cos^2 A = 1 - \\sin^2 A$$\n\nTaking the positive square root for acute angle $A$:\n\n$$\\cos A = \\sqrt{1 - \\sin^2 A}$$",
+      "answerHi": "पहली आधारभूत त्रिकोणमितीय सर्वसमिका का उपयोग करें:\n\n$$\\sin^2 A + \\cos^2 A = 1 \\implies \\cos^2 A = 1 - \\sin^2 A$$\n\nन्यूनकोण $A$ के लिए धनात्मक वर्गमूल लेने पर:\n\n$$\\cos A = \\sqrt{1 - \\sin^2 A}$$",
+      "keyPoints": [
+        "Use $\\sin^2 A + \\cos^2 A = 1$."
+      ]
+    },
+    {
+      "id": "q8",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Medium",
+      "question": "Evaluate the following: $\\frac{2\\tan 30^\\circ}{1 + \\tan^2 30^\\circ}$.",
+      "questionHi": "निम्नलिखित का मान ज्ञात कीजिए: $\\frac{2\\tan 30^\\circ}{1 + \\tan^2 30^\\circ}$।",
+      "answer": "Substitute $\\tan 30^\\circ = \\frac{1}{\\sqrt{3}}$ into the expression:\n\n$$\\text{Expression} = \\frac{2\\left(\\frac{1}{\\sqrt{3}}\\right)}{1 + \\left(\\frac{1}{\\sqrt{3}}\\right)^2} = \\frac{\\frac{2}{\\sqrt{3}}}{1 + \\frac{1}{3}} = \\frac{\\frac{2}{\\sqrt{3}}}{\\frac{4}{3}} = \\frac{2}{\\sqrt{3}} \\times \\frac{3}{4} = \\frac{3}{2\\sqrt{3}} = \\frac{\\sqrt{3}}{2}$$",
+      "answerHi": "व्यंजक में $\\tan 30^\\circ = \\frac{1}{\\sqrt{3}}$ प्रतिस्थापित करें:\n\n$$\\text{व्यंजक} = \\frac{2\\left(\\frac{1}{\\sqrt{3}}\\right)}{1 + \\left(\\frac{1}{\\sqrt{3}}\\right)^2} = \\frac{\\frac{2}{\\sqrt{3}}}{1 + \\frac{1}{3}} = \\frac{\\frac{2}{\\sqrt{3}}}{\\frac{4}{3}} = \\frac{2}{\\sqrt{3}} \\times \\frac{3}{4} = \\frac{3}{2\\sqrt{3}} = \\frac{\\sqrt{3}}{2}$$",
+      "keyPoints": [
+        "Substitute $\\tan 30^\\circ = 1/\\sqrt{3}$.",
+        "Simplify the fractions."
+      ]
+    },
+    {
+      "id": "q9",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Is the statement \"$\\sin(A+B) = \\sin A + \\sin B$\" true or false? Justify your answer with an example.",
+      "questionHi": "क्या यह कथन \"$\\sin(A+B) = \\sin A + \\sin B$\" सत्य है या असत्य? एक उदाहरण के साथ अपने उत्तर का औचित्य सिद्ध कीजिए।",
+      "answer": "**False**. Let $A = 60^\\circ$ and $B = 30^\\circ$.\n\n$\\text{LHS} = \\sin(60^\\circ + 30^\\circ) = \\sin 90^\\circ = 1$.\n\n$\\text{RHS} = \\sin 60^\\circ + \\sin 30^\\circ = \\frac{\\sqrt{3}}{2} + \\frac{1}{2} = \\frac{\\sqrt{3}+1}{2}$.\n\nSince $\\text{LHS} \\neq \\text{RHS}$, the statement is false.",
+      "answerHi": "**असत्य**। मान लीजिए $A = 60^\\circ$ और $B = 30^\\circ$ है।\n\n$\\text{LHS} = \\sin(60^\\circ + 30^\\circ) = \\sin 90^\\circ = 1$।\n\n$\\text{RHS} = \\sin 60^\\circ + \\sin 30^\\circ = \\frac{\\sqrt{3}}{2} + \\frac{1}{2} = \\frac{\\sqrt{3}+1}{2}$।\n\nचूँकि $\\text{LHS} \\neq \\text{RHS}$, कथन असत्य है।",
+      "keyPoints": [
+        "Trigonometric functions are not distributive.",
+        "Provide a counterexample like 60° and 30°."
+      ]
+    },
+    {
+      "id": "q10",
+      "type": "short",
+      "marks": 2,
+      "difficulty": "Easy",
+      "question": "Find the maximum and minimum values of $\\sin\\theta$ and $\\cos\\theta$ for an acute angle $\\theta$ where $0^\\circ \\le \\theta \\le 90^\\circ$.",
+      "questionHi": "एक न्यूनकोण $\\theta$ जहाँ $0^\\circ \\le \\theta \\le 90^\\circ$ है, के लिए $\\sin\\theta$ और $\\cos\\theta$ के अधिकतम और न्यूनतम मान ज्ञात कीजिए।",
+      "answer": "Looking at the standard trigonometric tables across the specified boundaries:\n\n* For $\\sin\\theta$: Minimum value is **0** (at $0^\\circ$), and maximum value is **1** (at $90^\\circ$).\n* For $\\cos\\theta$: Minimum value is **0** (at $90^\\circ$), and maximum value is **1** (at $0^\\circ$).",
+      "answerHi": "निर्दिष्ट सीमाओं में मानक त्रिकोणमितीय तालिकाओं को देखते हुए:\n\n* $\\sin\\theta$ के लिए: न्यूनतम मान **0** ( $0^\\circ$ पर) है, और अधिकतम मान **1** ( $90^\\circ$ पर) है।\n* $\\cos\\theta$ के लिए: न्यूनतम मान **0** ( $90^\\circ$ पर) है, और अधिकतम मान **1** ( $0^\\circ$ पर) है।",
+      "keyPoints": [
+        "Sine goes from 0 to 1.",
+        "Cosine goes from 1 to 0."
+      ]
+    },
+    {
+      "id": "q11",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "If $\\cot \\theta = \\frac{7}{8}$, evaluate: $\\frac{(1 + \\sin \\theta)(1 - \\sin \\theta)}{(1 + \\cos \\theta)(1 - \\cos \\theta)}$.",
+      "questionHi": "यदि $\\cot \\theta = \\frac{7}{8}$ है, तो मान निकालिए: $\\frac{(1 + \\sin \\theta)(1 - \\sin \\theta)}{(1 + \\cos \\theta)(1 - \\cos \\theta)}$।",
+      "answer": "Simplify the expression algebraically using the identity $(a+b)(a-b) = a^2 - b^2$:\n\n$$\\text{Numerator} = (1 + \\sin\\theta)(1 - \\sin\\theta) = 1 - \\sin^2\\theta = \\cos^2\\theta$$\n\n$$\\text{Denominator} = (1 + \\cos\\theta)(1 - \\cos\\theta) = 1 - \\cos^2\\theta = \\sin^2\\theta$$\n\n$$\\text{Expression} = \\frac{\\cos^2\\theta}{\\sin^2\\theta} = \\left(\\frac{\\cos\\theta}{\\sin\\theta}\\right)^2 = (\\cot\\theta)^2$$\n\nGiven $\\cot\\theta = \\frac{7}{8}$, we substitute it directly:\n\n$$\\text{Value} = \\left(\\frac{7}{8}\\right)^2 = \\frac{49}{64}$$",
+      "answerHi": "सर्वसमिका $(a+b)(a-b) = a^2 - b^2$ का उपयोग करके व्यंजक को बीजगणितीय रूप से सरल करें:\n\n$$\\text{अंश} = (1 + \\sin\\theta)(1 - \\sin\\theta) = 1 - \\sin^2\\theta = \\cos^2\\theta$$\n\n$$\\text{हर} = (1 + \\cos\\theta)(1 - \\cos\\theta) = 1 - \\cos^2\\theta = \\sin^2\\theta$$\n\n$$\\text{व्यंजक} = \\frac{\\cos^2\\theta}{\\sin^2\\theta} = \\left(\\frac{\\cos\\theta}{\\sin\\theta}\\right)^2 = (\\cot\\theta)^2$$\n\nदिया गया है $\\cot\\theta = \\frac{7}{8}$, हम इसे सीधे प्रतिस्थापित करते हैं:\n\n$$\\text{मान} = \\left(\\frac{7}{8}\\right)^2 = \\frac{49}{64}$$",
+      "keyPoints": [
+        "Use $(a+b)(a-b)=a^2-b^2$.",
+        "Substitute identities $1-\\sin^2=cos^2$ and $1-\\cos^2=sin^2$.",
+        "Result is $\\cot^2\\theta$."
+      ]
+    },
+    {
+      "id": "q12",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "In $\\Delta PQR$, right-angled at $Q$, $PR + QR = 25\\text{ cm}$ and $PQ = 5\\text{ cm}$. Determine the values of $\\sin P$ and $\\cos P$.",
+      "questionHi": "$\\Delta PQR$ में, जिसका कोण $Q$ समकोण है, $PR + QR = 25\\text{ सेमी}$ और $PQ = 5\\text{ सेमी}$ है। $\\sin P$ और $\\cos P$ के मान ज्ञात कीजिए।",
+      "answer": "By Pythagoras theorem in $\\Delta PQR$: $PR^2 = PQ^2 + QR^2$.\n\nGiven $PR + QR = 25 \\implies PR = 25 - QR$. Substitute this along with $PQ = 5$:\n\n$$(25 - QR)^2 = 5^2 + QR^2 \\implies 625 - 50QR + QR^2 = 25 + QR^2$$\n\n$$625 - 25 = 50QR \\implies 50QR = 600 \\implies QR = 12\\text{ cm}$$\n\nThen, $PR = 25 - 12 = 13\\text{ cm}$.\n\nNow compute ratios for angle $P$:\n\n$$\\sin P = \\frac{\\text{Opposite}}{\\text{Hypotenuse}} = \\frac{QR}{PR} = \\frac{12}{13}, \\quad \\cos P = \\frac{\\text{Adjacent}}{\\text{Hypotenuse}} = \\frac{PQ}{PR} = \\frac{5}{13}$$",
+      "answerHi": "$\\Delta PQR$ में पाइथागोरस प्रमेय द्वारा: $PR^2 = PQ^2 + QR^2$।\n\nदिया गया है $PR + QR = 25 \\implies PR = 25 - QR$। इसे $PQ = 5$ के साथ प्रतिस्थापित करें:\n\n$$(25 - QR)^2 = 5^2 + QR^2 \\implies 625 - 50QR + QR^2 = 25 + QR^2$$\n\n$$625 - 25 = 50QR \\implies 50QR = 600 \\implies QR = 12\\text{ सेमी}$$\n\nफिर, $PR = 25 - 12 = 13\\text{ सेमी}$।\n\nअब कोण $P$ के लिए अनुपातों की गणना करें:\n\n$$\\sin P = \\frac{\\text{सम्मुख}}{\\text{कर्ण}} = \\frac{QR}{PR} = \\frac{12}{13}, \\quad \\cos P = \\frac{\\text{संलग्न}}{\\text{कर्ण}} = \\frac{PQ}{PR} = \\frac{5}{13}$$",
+      "keyPoints": [
+        "Use Pythagoras theorem.",
+        "Substitute PR = 25 - QR and solve.",
+        "Calculate ratios with standard definitions."
+      ]
+    },
+    {
+      "id": "q13",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Prove the trigonometric identity: $\\frac{\\cos A}{1 + \\sin A} + \\frac{1 + \\sin A}{\\cos A} = 2\\sec A$.",
+      "questionHi": "त्रिकोणमितीय सर्वसमिका सिद्ध कीजिए: $\\frac{\\cos A}{1 + \\sin A} + \\frac{1 + \\sin A}{\\cos A} = 2\\sec A$।",
+      "answer": "Take the Left-Hand Side ($\\text{LHS}$) and find a common denominator:\n\n$$\\text{LHS} = \\frac{\\cos^2 A + (1 + \\sin A)^2}{\\cos A(1 + \\sin A)} = \\frac{\\cos^2 A + 1 + 2\\sin A + \\sin^2 A}{\\cos A(1 + \\sin A)}$$\n\nGroup $\\sin^2 A + \\cos^2 A = 1$:\n\n$$\\text{LHS} = \\frac{1 + 1 + 2\\sin A}{\\cos A(1 + \\sin A)} = \\frac{2 + 2\\sin A}{\\cos A(1 + \\sin A)} = \\frac{2(1 + \\sin A)}{\\cos A(1 + \\sin A)}$$\n\nCancel the common bracket $(1 + \\sin A)$:\n\n$$\\text{LHS} = \\frac{2}{\\cos A} = 2\\sec A = \\text{RHS}$$\n\nHence proved.",
+      "answerHi": "बायाँ पक्ष ($\\text{LHS}$) लें और एक उभयनिष्ठ हर (common denominator) ज्ञात करें:\n\n$$\\text{LHS} = \\frac{\\cos^2 A + (1 + \\sin A)^2}{\\cos A(1 + \\sin A)} = \\frac{\\cos^2 A + 1 + 2\\sin A + \\sin^2 A}{\\cos A(1 + \\sin A)}$$\n\n$\\sin^2 A + \\cos^2 A = 1$ का समूह बनाएँ:\n\n$$\\text{LHS} = \\frac{1 + 1 + 2\\sin A}{\\cos A(1 + \\sin A)} = \\frac{2 + 2\\sin A}{\\cos A(1 + \\sin A)} = \\frac{2(1 + \\sin A)}{\\cos A(1 + \\sin A)}$$\n\nउभयनिष्ठ कोष्ठक $(1 + \\sin A)$ को निरस्त करें:\n\n$$\\text{LHS} = \\frac{2}{\\cos A} = 2\\sec A = \\text{RHS}$$\n\nइति सिद्धम।",
+      "keyPoints": [
+        "Take common denominator.",
+        "Expand $(1+\\sin A)^2$.",
+        "Use $\\sin^2 A + \\cos^2 A = 1$."
+      ]
+    },
+    {
+      "id": "q14",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Evaluate: $\\frac{5\\cos^2 60^\\circ + 4\\sec^2 30^\\circ - \\tan^2 45^\\circ}{\\sin^2 30^\\circ + \\cos^2 30^\\circ}$.",
+      "questionHi": "मान निकालिए: $\\frac{5\\cos^2 60^\\circ + 4\\sec^2 30^\\circ - \\tan^2 45^\\circ}{\\sin^2 30^\\circ + \\cos^2 30^\\circ}$।",
+      "answer": "We notice that the denominator $\\sin^2 30^\\circ + \\cos^2 30^\\circ = 1$ by the fundamental identity. Now, substitute values into the numerator:\n\n$$\\text{Numerator} = 5\\left(\\frac{1}{2}\\right)^2 + 4\\left(\\frac{2}{\\sqrt{3}}\\right)^2 - (1)^2$$\n\n$$= 5\\left(\\frac{1}{4}\\right) + 4\\left(\\frac{4}{3}\\right) - 1 = \\frac{5}{4} + \\frac{16}{3} - 1$$\n\nFind a common denominator of 12:\n\n$$= \\frac{15 + 64 - 12}{12} = \\frac{67}{12}$$\n\nThe final value is **$\\frac{67}{12}$**.",
+      "answerHi": "हम ध्यान देते हैं कि आधारभूत सर्वसमिका द्वारा हर $\\sin^2 30^\\circ + \\cos^2 30^\\circ = 1$ है। अब, अंश में मान प्रतिस्थापित करें:\n\n$$\\text{अंश} = 5\\left(\\frac{1}{2}\\right)^2 + 4\\left(\\frac{2}{\\sqrt{3}}\\right)^2 - (1)^2$$\n\n$$= 5\\left(\\frac{1}{4}\\right) + 4\\left(\\frac{4}{3}\\right) - 1 = \\frac{5}{4} + \\frac{16}{3} - 1$$\n\n12 का एक उभयनिष्ठ हर ज्ञात करें:\n\n$$= \\frac{15 + 64 - 12}{12} = \\frac{67}{12}$$\n\nअंतिम मान **$\\frac{67}{12}$** है।",
+      "keyPoints": [
+        "Recognize denominator = 1.",
+        "Substitute standard values in numerator.",
+        "Simplify the fractions."
+      ]
+    },
+    {
+      "id": "q15",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "Prove that $\\frac{\\sin\\theta - 2\\sin^3\\theta}{2\\cos^3\\theta - \\cos\\theta} = \\tan\\theta$.",
+      "questionHi": "सिद्ध कीजिए कि $\\frac{\\sin\\theta - 2\\sin^3\\theta}{2\\cos^3\\theta - \\cos\\theta} = \\tan\\theta$।",
+      "answer": "Factor out $\\sin\\theta$ from the numerator and $\\cos\\theta$ from the denominator:\n\n$$\\text{LHS} = \\frac{\\sin\\theta(1 - 2\\sin^2\\theta)}{\\cos\\theta(2\\cos^2\\theta - 1)}$$\n\nWe know that $1 = \\sin^2\\theta + \\cos^2\\theta$. Substitute this into the terms:\n\n$$\\text{Numerator bracket} = (\\sin^2\\theta + \\cos^2\\theta) - 2\\sin^2\\theta = \\cos^2\\theta - \\sin^2\\theta$$\n\n$$\\text{Denominator bracket} = 2\\cos^2\\theta - (\\sin^2\\theta + \\cos^2\\theta) = \\cos^2\\theta - \\sin^2\\theta$$\n\nThe expression simplifies to:\n\n$$\\text{LHS} = \\frac{\\sin\\theta(\\cos^2\\theta - \\sin^2\\theta)}{\\cos\\theta(\\cos^2\\theta - \\sin^2\\theta)} = \\frac{\\sin\\theta}{\\cos\\theta} = \\tan\\theta = \\text{RHS}$$\n\nHence proved.",
+      "answerHi": "अंश से $\\sin\\theta$ और हर से $\\cos\\theta$ को उभयनिष्ठ (factor out) लें:\n\n$$\\text{LHS} = \\frac{\\sin\\theta(1 - 2\\sin^2\\theta)}{\\cos\\theta(2\\cos^2\\theta - 1)}$$\n\nहम जानते हैं कि $1 = \\sin^2\\theta + \\cos^2\\theta$ है। इसे पदों में प्रतिस्थापित करें:\n\n$$\\text{अंश कोष्ठक} = (\\sin^2\\theta + \\cos^2\\theta) - 2\\sin^2\\theta = \\cos^2\\theta - \\sin^2\\theta$$\n\n$$\\text{हर कोष्ठक} = 2\\cos^2\\theta - (\\sin^2\\theta + \\cos^2\\theta) = \\cos^2\\theta - \\sin^2\\theta$$\n\nव्यंजक सरल होकर बनता है:\n\n$$\\text{LHS} = \\frac{\\sin\\theta(\\cos^2\\theta - \\sin^2\\theta)}{\\cos\\theta(\\cos^2\\theta - \\sin^2\\theta)} = \\frac{\\sin\\theta}{\\cos\\theta} = \\tan\\theta = \\text{RHS}$$\n\nइति सिद्धम।",
+      "keyPoints": [
+        "Factor out sin from top, cos from bottom.",
+        "Convert 1 to $\\sin^2 + \\cos^2$ inside brackets.",
+        "Cancel identical terms."
+      ]
+    },
+    {
+      "id": "q16",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Medium",
+      "question": "Express the ratios $\\cos A, \\tan A,$ and $\\sec A$ entirely in terms of $\\sin A$.",
+      "questionHi": "अनुपातों $\\cos A, \\tan A,$ और $\\sec A$ को पूरी तरह से $\\sin A$ के पदों में व्यक्त कीजिए।",
+      "answer": "1. By identity: $\\cos A = \\sqrt{1 - \\sin^2 A}$\n\n2. By quotient relationship: $\\tan A = \\frac{\\sin A}{\\cos A} = \\frac{\\sin A}{\\sqrt{1 - \\sin^2 A}}$\n\n3. By reciprocal relationship: $\\sec A = \\frac{1}{\\cos A} = \\frac{1}{\\sqrt{1 - \\sin^2 A}}$\n\nAll three targets are successfully translated.",
+      "answerHi": "1. सर्वसमिका द्वारा: $\\cos A = \\sqrt{1 - \\sin^2 A}$\n\n2. भागफल संबंध द्वारा: $\\tan A = \\frac{\\sin A}{\\cos A} = \\frac{\\sin A}{\\sqrt{1 - \\sin^2 A}}$\n\n3. व्युत्क्रम संबंध द्वारा: $\\sec A = \\frac{1}{\\cos A} = \\frac{1}{\\sqrt{1 - \\sin^2 A}}$\n\nतीनों लक्ष्य सफलतापूर्वक बदल दिए गए हैं।",
+      "keyPoints": [
+        "Use fundamental identity for cos.",
+        "Substitute cos in tan and sec formulas."
+      ]
+    },
+    {
+      "id": "q17",
+      "type": "short",
+      "marks": 3,
+      "difficulty": "Hard",
+      "question": "Prove that $\\sqrt{\\frac{1 + \\sin A}{1 - \\sin A}} = \\sec A + \\tan A$.",
+      "questionHi": "सिद्ध कीजिए कि $\\sqrt{\\frac{1 + \\sin A}{1 - \\sin A}} = \\sec A + \\tan A$।",
+      "answer": "Rationalize the denominator inside the square root by multiplying the numerator and denominator by $(1 + \\sin A)$:\n\n$$\\text{LHS} = \\sqrt{\\frac{(1 + \\sin A)(1 + \\sin A)}{(1 - \\sin A)(1 + \\sin A)}} = \\sqrt{\\frac{(1 + \\sin A)^2}{1 - \\sin^2 A}}$$\n\nSubstitute $1 - \\sin^2 A = \\cos^2 A$:\n\n$$\\text{LHS} = \\sqrt{\\frac{(1 + \\sin A)^2}{\\cos^2 A}} = \\frac{1 + \\sin A}{\\cos A}$$\n\nSplit the fraction:\n\n$$\\text{LHS} = \\frac{1}{\\cos A} + \\frac{\\sin A}{\\cos A} = \\sec A + \\tan A = \\text{RHS}$$\n\nHence proved.",
+      "answerHi": "अंश और हर को $(1 + \\sin A)$ से गुणा करके वर्गमूल के अंदर हर का परिमेयकरण (rationalize) करें:\n\n$$\\text{LHS} = \\sqrt{\\frac{(1 + \\sin A)(1 + \\sin A)}{(1 - \\sin A)(1 + \\sin A)}} = \\sqrt{\\frac{(1 + \\sin A)^2}{1 - \\sin^2 A}}$$\n\n$1 - \\sin^2 A = \\cos^2 A$ प्रतिस्थापित करें:\n\n$$\\text{LHS} = \\sqrt{\\frac{(1 + \\sin A)^2}{\\cos^2 A}} = \\frac{1 + \\sin A}{\\cos A}$$\n\nभिन्न को अलग-अलग करें:\n\n$$\\text{LHS} = \\frac{1}{\\cos A} + \\frac{\\sin A}{\\cos A} = \\sec A + \\tan A = \\text{RHS}$$\n\nइति सिद्धम।",
+      "keyPoints": [
+        "Rationalize the denominator inside square root.",
+        "Use $1 - \\sin^2 = \\cos^2$.",
+        "Split fraction."
+      ]
+    },
+    {
+      "id": "q18",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Prove the following identity step-by-step: $\\frac{\\tan\\theta}{1 - \\cot\\theta} + \\frac{\\cot\\theta}{1 - \\tan\\theta} = 1 + \\sec\\theta\\csc\\theta$.",
+      "questionHi": "निम्नलिखित सर्वसमिका को चरण-दर-चरण सिद्ध कीजिए: $\\frac{\\tan\\theta}{1 - \\cot\\theta} + \\frac{\\cot\\theta}{1 - \\tan\\theta} = 1 + \\sec\\theta\\csc\\theta$।",
+      "answer": "Convert all terms on the Left-Hand Side ($\\text{LHS}$) into sine and cosine versions:\n\n$$\\text{LHS} = \\frac{\\frac{\\sin\\theta}{\\cos\\theta}}{1 - \\frac{\\cos\\theta}{\\sin\\theta}} + \\frac{\\frac{\\cos\\theta}{\\sin\\theta}}{1 - \\frac{\\sin\\theta}{\\cos\\theta}} = \\frac{\\frac{\\sin\\theta}{\\cos\\theta}}{\\frac{\\sin\\theta - \\cos\\theta}{\\sin\\theta}} + \\frac{\\frac{\\cos\\theta}{\\sin\\theta}}{\\frac{\\cos\\theta - \\sin\\theta}{\\cos\\theta}}$$\n\n$$\\text{LHS} = \\frac{\\sin^2\\theta}{\\cos\\theta(\\sin\\theta - \\cos\\theta)} + \\frac{\\cos^2\\theta}{\\sin\\theta(\\cos\\theta - \\sin\\theta)}$$\n\nMake the denominator brackets identical by factoring out a minus sign from the second term:\n\n$$\\text{LHS} = \\frac{\\sin^2\\theta}{\\cos\\theta(\\sin\\theta - \\cos\\theta)} - \\frac{\\cos^2\\theta}{\\sin\\theta(\\sin\\theta - \\cos\\theta)} = \\frac{\\sin^3\\theta - \\cos^3\\theta}{\\sin\\theta\\cos\\theta(\\sin\\theta - \\cos\\theta)}$$\n\nApply the algebraic identity $a^3 - b^3 = (a-b)(a^2 + ab + b^2)$ to the numerator:\n\n$$\\text{LHS} = \\frac{(\\sin\\theta - \\cos\\theta)(\\sin^2\\theta + \\sin\\theta\\cos\\theta + \\cos^2\\theta)}{\\sin\\theta\\cos\\theta(\\sin\\theta - \\cos\\theta)} = \\frac{1 + \\sin\\theta\\cos\\theta}{\\sin\\theta\\cos\\theta}$$\n\nSplit the fraction to find the final form:\n\n$$\\text{LHS} = \\frac{1}{\\sin\\theta\\cos\\theta} + \\frac{\\sin\\theta\\cos\\theta}{\\sin\\theta\\cos\\theta} = \\csc\\theta\\sec\\theta + 1 = \\text{RHS}$$\n\nHence proved.",
+      "answerHi": "बाएँ पक्ष ($\\text{LHS}$) के सभी पदों को साइन और कोसाइन में बदलें:\n\n$$\\text{LHS} = \\frac{\\frac{\\sin\\theta}{\\cos\\theta}}{1 - \\frac{\\cos\\theta}{\\sin\\theta}} + \\frac{\\frac{\\cos\\theta}{\\sin\\theta}}{1 - \\frac{\\sin\\theta}{\\cos\\theta}} = \\frac{\\frac{\\sin\\theta}{\\cos\\theta}}{\\frac{\\sin\\theta - \\cos\\theta}{\\sin\\theta}} + \\frac{\\frac{\\cos\\theta}{\\sin\\theta}}{\\frac{\\cos\\theta - \\sin\\theta}{\\cos\\theta}}$$\n\n$$\\text{LHS} = \\frac{\\sin^2\\theta}{\\cos\\theta(\\sin\\theta - \\cos\\theta)} + \\frac{\\cos^2\\theta}{\\sin\\theta(\\cos\\theta - \\sin\\theta)}$$\n\nदूसरे पद से ऋणात्मक चिह्न उभयनिष्ठ लेकर हर के कोष्ठकों को समान बनाएँ:\n\n$$\\text{LHS} = \\frac{\\sin^2\\theta}{\\cos\\theta(\\sin\\theta - \\cos\\theta)} - \\frac{\\cos^2\\theta}{\\sin\\theta(\\sin\\theta - \\cos\\theta)} = \\frac{\\sin^3\\theta - \\cos^3\\theta}{\\sin\\theta\\cos\\theta(\\sin\\theta - \\cos\\theta)}$$\n\nअंश पर बीजगणितीय सर्वसमिका $a^3 - b^3 = (a-b)(a^2 + ab + b^2)$ लागू करें:\n\n$$\\text{LHS} = \\frac{(\\sin\\theta - \\cos\\theta)(\\sin^2\\theta + \\sin\\theta\\cos\\theta + \\cos^2\\theta)}{\\sin\\theta\\cos\\theta(\\sin\\theta - \\cos\\theta)} = \\frac{1 + \\sin\\theta\\cos\\theta}{\\sin\\theta\\cos\\theta}$$\n\nअंतिम रूप ज्ञात करने के लिए भिन्न को अलग-अलग करें:\n\n$$\\text{LHS} = \\frac{1}{\\sin\\theta\\cos\\theta} + \\frac{\\sin\\theta\\cos\\theta}{\\sin\\theta\\cos\\theta} = \\csc\\theta\\sec\\theta + 1 = \\text{RHS}$$\n\nइति सिद्धम।",
+      "keyPoints": [
+        "Convert everything to sin and cos.",
+        "Take common denominator and extract minus sign.",
+        "Use $a^3 - b^3$ identity."
+      ]
+    },
+    {
+      "id": "q19",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Competency-Based Question: An engineer designs an automated solar tracking panel. The efficiency of power generation depends on the tilt angle $A$ and is governed by the expression: $P(A) = (\\sin A + \\csc A)^2 + (\\cos A + \\sec A)^2$. Prove that this expression simplifies to $7 + \\tan^2 A + \\cot^2 A$, showing that the base efficiency is independent of individual sine/cosine values.",
+      "questionHi": "योग्यता-आधारित प्रश्न: एक इंजीनियर स्वचालित सोलर ट्रैकिंग पैनल डिज़ाइन करता है। बिजली उत्पादन की दक्षता झुकाव कोण $A$ पर निर्भर करती है और इस व्यंजक द्वारा शासित होती है: $P(A) = (\\sin A + \\csc A)^2 + (\\cos A + \\sec A)^2$। सिद्ध कीजिए कि यह व्यंजक $7 + \\tan^2 A + \\cot^2 A$ तक सरल हो जाता है, यह दर्शाते हुए कि आधार दक्षता व्यक्तिगत साइन/कोसाइन मानों से स्वतंत्र है।",
+      "answer": "Let us expand the components of the power equation using $(a+b)^2 = a^2 + 2ab + b^2$:\n\n$$\\text{Term 1} = \\sin^2 A + 2\\sin A\\csc A + \\csc^2 A = \\sin^2 A + 2(1) + \\csc^2 A \\quad (\\because \\sin A\\csc A = 1)$$\n\n$$\\text{Term 2} = \\cos^2 A + 2\\cos A\\sec A + \\sec^2 A = \\cos^2 A + 2(1) + \\sec^2 A \\quad (\\because \\cos A\\sec A = 1)$$\n\nNow, group the expanded terms together:\n\n$$P(A) = (\\sin^2 A + \\cos^2 A) + 2 + 2 + \\csc^2 A + \\sec^2 A$$\n\nSubstitute the identity $\\sin^2 A + \\cos^2 A = 1$:\n\n$$P(A) = 1 + 4 + \\csc^2 A + \\sec^2 A = 5 + \\csc^2 A + \\sec^2 A$$\n\nConvert $\\csc^2 A$ and $\\sec^2 A$ into their tangent and cotangent identity equivalents:\n\n$$\\csc^2 A = 1 + \\cot^2 A, \\quad \\sec^2 A = 1 + \\tan^2 A$$\n\n$$P(A) = 5 + (1 + \\cot^2 A) + (1 + \\tan^2 A)$$\n\n$$P(A) = 7 + \\tan^2 A + \\cot^2 A$$\n\nThe expression is simplified, proving the base mathematical efficiency constant is 7.",
+      "answerHi": "आइए $(a+b)^2 = a^2 + 2ab + b^2$ का उपयोग करके शक्ति समीकरण के घटकों का विस्तार करें:\n\n$$\\text{पहला पद} = \\sin^2 A + 2\\sin A\\csc A + \\csc^2 A = \\sin^2 A + 2(1) + \\csc^2 A \\quad (\\because \\sin A\\csc A = 1)$$\n\n$$\\text{दूसरा पद} = \\cos^2 A + 2\\cos A\\sec A + \\sec^2 A = \\cos^2 A + 2(1) + \\sec^2 A \\quad (\\because \\cos A\\sec A = 1)$$\n\nअब, विस्तारित पदों को एक साथ समूहीकृत करें:\n\n$$P(A) = (\\sin^2 A + \\cos^2 A) + 2 + 2 + \\csc^2 A + \\sec^2 A$$\n\nसर्वसमिका $\\sin^2 A + \\cos^2 A = 1$ को प्रतिस्थापित करें:\n\n$$P(A) = 1 + 4 + \\csc^2 A + \\sec^2 A = 5 + \\csc^2 A + \\sec^2 A$$\n\n$\\csc^2 A$ और $\\sec^2 A$ को उनके स्पर्शज्या (tangent) और व्युत्क्रम स्पर्शज्या (cotangent) सर्वसमिका समतुल्यों में बदलें:\n\n$$\\csc^2 A = 1 + \\cot^2 A, \\quad \\sec^2 A = 1 + \\tan^2 A$$\n\n$$P(A) = 5 + (1 + \\cot^2 A) + (1 + \\tan^2 A)$$\n\n$$P(A) = 7 + \\tan^2 A + \\cot^2 A$$\n\nव्यंजक सरल हो गया है, जो साबित करता है कि आधार गणितीय दक्षता स्थिरांक 7 है।",
+      "keyPoints": [
+        "Expand $(a+b)^2$.",
+        "Use reciprocal product = 1.",
+        "Apply all three fundamental identities."
+      ]
+    },
+    {
+      "id": "q20",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Prove the following identity: $\\frac{\\sin\\theta - \\cos\\theta + 1}{\\sin\\theta + \\cos\\theta - 1} = \\frac{1}{\\sec\\theta - \\tan\\theta}$.",
+      "questionHi": "निम्नलिखित सर्वसमिका सिद्ध कीजिए: $\\frac{\\sin\\theta - \\cos\\theta + 1}{\\sin\\theta + \\cos\\theta - 1} = \\frac{1}{\\sec\\theta - \\tan\\theta}$।",
+      "answer": "Divide the numerator and denominator on the Left-Hand Side ($\\text{LHS}$) by $\\cos\\theta$ to bring tangent and secant into the equation:\n\n$$\\text{LHS} = \\frac{\\frac{\\sin\\theta}{\\cos\\theta} - \\frac{\\cos\\theta}{\\cos\\theta} + \\frac{1}{\\cos\\theta}}{\\frac{\\sin\\theta}{\\cos\\theta} + \\frac{\\cos\\theta}{\\cos\\theta} - \\frac{1}{\\cos\\theta}} = \\frac{\\tan\\theta - 1 + \\sec\\theta}{\\tan\\theta + 1 - \\sec\\theta} = \\frac{(\\tan\\theta + \\sec\\theta) - 1}{\\tan\\theta - \\sec\\theta + 1}$$\n\nWe know the identity $\\sec^2\\theta - \\tan^2\\theta = 1$. Substitute this in place of the 1 in the numerator:\n\n$$\\text{LHS} = \\frac{(\\tan\\theta + \\sec\\theta) - (\\sec^2\\theta - \\tan^2\\theta)}{\\tan\\theta - \\sec\\theta + 1}$$\n\n$$\\text{LHS} = \\frac{(\\tan\\theta + \\sec\\theta) - (\\sec\\theta - \\tan\\theta)(\\sec\\theta + \\tan\\theta)}{\\tan\\theta - \\sec\\theta + 1}$$\n\nFactor out the common bracket $(\\sec\\theta + \\tan\\theta)$ from the numerator terms:\n\n$$\\text{LHS} = \\frac{(\\sec\\theta + \\tan\\theta)[1 - (\\sec\\theta - \\tan\\theta)]}{\\tan\\theta - \\sec\\theta + 1} = \\frac{(\\sec\\theta + \\tan\\theta)[1 - \\sec\\theta + \\tan\\theta]}{\\tan\\theta - \\sec\\theta + 1}$$\n\nThe large bracket cancel perfectly with the denominator:\n\n$$\\text{LHS} = \\sec\\theta + \\tan\\theta$$\n\nTo match the Right-Hand Side ($\\text{RHS}$), multiply and divide by $(\\sec\\theta - \\tan\\theta)$:\n\n$$\\text{LHS} = \\frac{(\\sec\\theta + \\tan\\theta)(\\sec\\theta - \\tan\\theta)}{\\sec\\theta - \\tan\\theta} = \\frac{\\sec^2\\theta - \\tan^2\\theta}{\\sec\\theta - \\tan\\theta} = \\frac{1}{\\sec\\theta - \\tan\\theta} = \\text{RHS}$$\n\nHence proved.",
+      "answerHi": "समीकरण में स्पर्शज्या (tangent) और छेदक (secant) लाने के लिए बाएँ पक्ष ($\\text{LHS}$) पर अंश और हर को $\\cos\\theta$ से विभाजित करें:\n\n$$\\text{LHS} = \\frac{\\frac{\\sin\\theta}{\\cos\\theta} - \\frac{\\cos\\theta}{\\cos\\theta} + \\frac{1}{\\cos\\theta}}{\\frac{\\sin\\theta}{\\cos\\theta} + \\frac{\\cos\\theta}{\\cos\\theta} - \\frac{1}{\\cos\\theta}} = \\frac{\\tan\\theta - 1 + \\sec\\theta}{\\tan\\theta + 1 - \\sec\\theta} = \\frac{(\\tan\\theta + \\sec\\theta) - 1}{\\tan\\theta - \\sec\\theta + 1}$$\n\nहम सर्वसमिका $\\sec^2\\theta - \\tan^2\\theta = 1$ को जानते हैं। इसे अंश में 1 के स्थान पर प्रतिस्थापित करें:\n\n$$\\text{LHS} = \\frac{(\\tan\\theta + \\sec\\theta) - (\\sec^2\\theta - \\tan^2\\theta)}{\\tan\\theta - \\sec\\theta + 1}$$\n\n$$\\text{LHS} = \\frac{(\\tan\\theta + \\sec\\theta) - (\\sec\\theta - \\tan\\theta)(\\sec\\theta + \\tan\\theta)}{\\tan\\theta - \\sec\\theta + 1}$$\n\nअंश के पदों से उभयनिष्ठ कोष्ठक $(\\sec\\theta + \\tan\\theta)$ बाहर निकालें:\n\n$$\\text{LHS} = \\frac{(\\sec\\theta + \\tan\\theta)[1 - (\\sec\\theta - \\tan\\theta)]}{\\tan\\theta - \\sec\\theta + 1} = \\frac{(\\sec\\theta + \\tan\\theta)[1 - \\sec\\theta + \\tan\\theta]}{\\tan\\theta - \\sec\\theta + 1}$$\n\nबड़ा कोष्ठक हर के साथ पूरी तरह से निरस्त हो जाता है:\n\n$$\\text{LHS} = \\sec\\theta + \\tan\\theta$$\n\nदाएँ पक्ष ($\\text{RHS}$) से मिलान करने के लिए, $(\\sec\\theta - \\tan\\theta)$ से गुणा और भाग करें:\n\n$$\\text{LHS} = \\frac{(\\sec\\theta + \\tan\\theta)(\\sec\\theta - \\tan\\theta)}{\\sec\\theta - \\tan\\theta} = \\frac{\\sec^2\\theta - \\tan^2\\theta}{\\sec\\theta - \\tan\\theta} = \\frac{1}{\\sec\\theta - \\tan\\theta} = \\text{RHS}$$\n\nइति सिद्धम।",
+      "keyPoints": [
+        "Divide by $\\cos\\theta$ to convert to sec and tan.",
+        "Replace 1 in numerator with $\\sec^2 - \\tan^2$.",
+        "Factor and cancel denominator."
+      ]
+    },
+    {
+      "id": "q21",
+      "type": "long",
+      "marks": 4,
+      "difficulty": "Hard",
+      "question": "Analytical Challenge: Geometrically derive the values of $\\sin 45^\\circ, \\cos 45^\\circ,$ and $\\tan 45^\\circ$ using an isosceles right-angled triangle setup.",
+      "questionHi": "विश्लेषणात्मक चुनौती: समद्विबाहु समकोण त्रिभुज व्यवस्था का उपयोग करके ज्यामितीय रूप से $\\sin 45^\\circ, \\cos 45^\\circ,$ और $\\tan 45^\\circ$ के मान व्युत्पन्न कीजिए।",
+      "answer": "Consider an isosceles right-angled triangle $ABC$, right-angled at $B$. Since it is isosceles, the sides opposite to the acute angles are equal. Let $AB = BC = a$.\n\nBy angle sum property, $\\angle A + \\angle C = 90^\\circ \\implies \\angle A = \\angle C = 45^\\circ$.\n\nApply Pythagoras theorem to find the hypotenuse side length ($AC$):\n\n$$AC^2 = AB^2 + BC^2 = a^2 + a^2 = 2a^2 \\implies AC = a\\sqrt{2}$$\n\nNow, we compute the trigonometric definitions relative to the acute angle $\\angle A = 45^\\circ$:\n\n1. $$\\sin 45^\\circ = \\frac{\\text{Side opposite to } 45^\\circ}{\\text{Hypotenuse}} = \\frac{BC}{AC} = \\frac{a}{a\\sqrt{2}} = \\frac{1}{\\sqrt{2}}$$\n\n\n2. $$\\cos 45^\\circ = \\frac{\\text{Side adjacent to } 45^\\circ}{\\text{Hypotenuse}} = \\frac{AB}{AC} = \\frac{a}{a\\sqrt{2}} = \\frac{1}{\\sqrt{2}}$$\n\n\n3. $$\\tan 45^\\circ = \\frac{\\text{Side opposite to } 45^\\circ}{\\text{Side adjacent to } 45^\\circ} = \\frac{BC}{AB} = \\frac{a}{a} = 1$$\n\n\nThe geometric derivation is complete.",
+      "answerHi": "एक समद्विबाहु समकोण त्रिभुज $ABC$ पर विचार करें, जिसका कोण $B$ समकोण है। चूँकि यह समद्विबाहु है, न्यूनकोणों की सम्मुख भुजाएँ बराबर होती हैं। मान लीजिए $AB = BC = a$ है।\n\nकोण योग गुणधर्म द्वारा, $\\angle A + \\angle C = 90^\\circ \\implies \\angle A = \\angle C = 45^\\circ$।\n\nकर्ण की लंबाई ($AC$) ज्ञात करने के लिए पाइथागोरस प्रमेय लागू करें:\n\n$$AC^2 = AB^2 + BC^2 = a^2 + a^2 = 2a^2 \\implies AC = a\\sqrt{2}$$\n\nअब, हम न्यूनकोण $\\angle A = 45^\\circ$ के सापेक्ष त्रिकोणमितीय परिभाषाओं की गणना करते हैं:\n\n1. $$\\sin 45^\\circ = \\frac{45^\\circ \\text{ की सम्मुख भुजा}}{\\text{कर्ण}} = \\frac{BC}{AC} = \\frac{a}{a\\sqrt{2}} = \\frac{1}{\\sqrt{2}}$$\n\n\n2. $$\\cos 45^\\circ = \\frac{45^\\circ \\text{ की संलग्न भुजा}}{\\text{कर्ण}} = \\frac{AB}{AC} = \\frac{a}{a\\sqrt{2}} = \\frac{1}{\\sqrt{2}}$$\n\n\n3. $$\\tan 45^\\circ = \\frac{45^\\circ \\text{ की सम्मुख भुजा}}{45^\\circ \\text{ की संलग्न भुजा}} = \\frac{BC}{AB} = \\frac{a}{a} = 1$$\n\n\nज्यामितीय व्युत्पत्ति पूर्ण हो गई है।",
+      "keyPoints": [
+        "Use isosceles right triangle sides $a, a$.",
+        "Hypotenuse is $a\\sqrt{2}$.",
+        "Calculate ratios for 45° angle."
+      ]
+    }
+  ]
+}
