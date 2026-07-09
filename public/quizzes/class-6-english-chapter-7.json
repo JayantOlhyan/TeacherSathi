@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "What does the girl Amber call the old tree in her courtyard?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mango Baba"
+        },
+        {
+          "id": "B",
+          "text": "Peepal Baba"
+        },
+        {
+          "id": "C",
+          "text": "Neem Baba"
+        },
+        {
+          "id": "D",
+          "text": "Banyan Baba"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "2",
+      "question": "Where did the Neem tree originate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "In Europe"
+        },
+        {
+          "id": "B",
+          "text": "In North India or Myanmar"
+        },
+        {
+          "id": "C",
+          "text": "In Africa"
+        },
+        {
+          "id": "D",
+          "text": "In America"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "3",
+      "question": "Who gave the tree the common name \"Neem\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Greeks"
+        },
+        {
+          "id": "B",
+          "text": "The Iranians"
+        },
+        {
+          "id": "C",
+          "text": "The Romans"
+        },
+        {
+          "id": "D",
+          "text": "The Egyptians"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "4",
+      "question": "Which part of the neem tree do people use to clean their teeth?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The roots"
+        },
+        {
+          "id": "B",
+          "text": "The flowers"
+        },
+        {
+          "id": "C",
+          "text": "The twigs"
+        },
+        {
+          "id": "D",
+          "text": "The seeds"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "5",
+      "question": "What is neem seed powder sprayed on crops to protect them from?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Heavy rain"
+        },
+        {
+          "id": "B",
+          "text": "Locusts and termites (insects)"
+        },
+        {
+          "id": "C",
+          "text": "Birds"
+        },
+        {
+          "id": "D",
+          "text": "Sunlight"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "6",
+      "question": "Which sickness is treated using neem leaves to reduce itching?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Measles"
+        },
+        {
+          "id": "B",
+          "text": "Malaria"
+        },
+        {
+          "id": "C",
+          "text": "Typhoid"
+        },
+        {
+          "id": "D",
+          "text": "Cholera"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "7",
+      "question": "What is special about furniture made from neem wood?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It is very light"
+        },
+        {
+          "id": "B",
+          "text": "It is soft"
+        },
+        {
+          "id": "C",
+          "text": "Termites cannot attack it"
+        },
+        {
+          "id": "D",
+          "text": "It changes color"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "8",
+      "question": "What do scientists call the neem tree?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The useless tree"
+        },
+        {
+          "id": "B",
+          "text": "Nature's gift to man"
+        },
+        {
+          "id": "C",
+          "text": "The sleeping tree"
+        },
+        {
+          "id": "D",
+          "text": "The dark tree"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "9",
+      "question": "What does spraying neem powder in still (stagnant) water stop?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Frogs from jumping"
+        },
+        {
+          "id": "B",
+          "text": "Mosquitoes from breeding"
+        },
+        {
+          "id": "C",
+          "text": "Fish from swimming"
+        },
+        {
+          "id": "D",
+          "text": "Water from drying"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "10",
+      "question": "What is neem oil used to make?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cooking oil"
+        },
+        {
+          "id": "B",
+          "text": "Soaps and toothpaste"
+        },
+        {
+          "id": "C",
+          "text": "Motor oil"
+        },
+        {
+          "id": "D",
+          "text": "Perfume"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "11",
+      "question": "Why does Amber respectfully call the tree \"Baba\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because it is very small"
+        },
+        {
+          "id": "B",
+          "text": "Because it is ancient, wise, and represents the knowledge of elders"
+        },
+        {
+          "id": "C",
+          "text": "Because she forgot its name"
+        },
+        {
+          "id": "D",
+          "text": "Because it belongs to her grandfather"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "12",
+      "question": "How does the neem tree help protect stored grains and clothes?",
+      "options": [
+        {
+          "id": "A",
+          "text": "By keeping them warm"
+        },
+        {
+          "id": "B",
+          "text": "By absorbing water"
+        },
+        {
+          "id": "C",
+          "text": "Its leaves naturally keep insects and pests away"
+        },
+        {
+          "id": "D",
+          "text": "By providing shade"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "13",
+      "question": "Why is neem a good choice for farmers?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It is expensive and looks nice"
+        },
+        {
+          "id": "B",
+          "text": "It is a natural, low-cost way to protect crops without using harmful chemicals"
+        },
+        {
+          "id": "C",
+          "text": "It doesn't need soil"
+        },
+        {
+          "id": "D",
+          "text": "It makes the crops grow overnight"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "14",
+      "question": "Which parts of the neem tree are used to make medicines?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only the leaves"
+        },
+        {
+          "id": "B",
+          "text": "Only the bark"
+        },
+        {
+          "id": "C",
+          "text": "Almost all parts: roots, bark, leaves, flowers, and seeds"
+        },
+        {
+          "id": "D",
+          "text": "Only the fruit"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "15",
+      "question": "How did Amber's grandmother use neem flowers?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To make a necklace"
+        },
+        {
+          "id": "B",
+          "text": "To make kajal to cure her father's eye infection"
+        },
+        {
+          "id": "C",
+          "text": "To make tea"
+        },
+        {
+          "id": "D",
+          "text": "To decorate the house"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "16",
+      "question": "What amazed Amber the most about the neem tree?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Its green color"
+        },
+        {
+          "id": "B",
+          "text": "That every single part of the tree has a specific, helpful use"
+        },
+        {
+          "id": "C",
+          "text": "That it doesn't have sweet fruits"
+        },
+        {
+          "id": "D",
+          "text": "That it loses leaves in winter"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "17",
+      "question": "Why can't Neem Baba remember the exact year he was born?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He is forgetful"
+        },
+        {
+          "id": "B",
+          "text": "Millions of years have passed since the neem species was born, which is too long to count"
+        },
+        {
+          "id": "C",
+          "text": "Trees don't have calendars"
+        },
+        {
+          "id": "D",
+          "text": "He was planted yesterday"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "18",
+      "question": "How does the neem tree help the environment in cities?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It makes loud noises"
+        },
+        {
+          "id": "B",
+          "text": "It purifies the air"
+        },
+        {
+          "id": "C",
+          "text": "It produces electricity"
+        },
+        {
+          "id": "D",
+          "text": "It grows into buildings"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "19",
+      "question": "What is a \"compound word\" (like 'childhood' or 'neem oil')?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A word with no meaning"
+        },
+        {
+          "id": "B",
+          "text": "Two or more words joined together to create a new meaning"
+        },
+        {
+          "id": "C",
+          "text": "A very long word"
+        },
+        {
+          "id": "D",
+          "text": "A magic word"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "20",
+      "question": "How does the author make learning about a tree interesting for children?",
+      "options": [
+        {
+          "id": "A",
+          "text": "By listing boring facts"
+        },
+        {
+          "id": "B",
+          "text": "By using personification, letting the tree talk and tell its own story as a character"
+        },
+        {
+          "id": "C",
+          "text": "By taking a test"
+        },
+        {
+          "id": "D",
+          "text": "By showing a movie"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "21",
+      "question": "What does the story teach us about \"traditional knowledge\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "That it is old and useless"
+        },
+        {
+          "id": "B",
+          "text": "That indigenous, natural remedies passed down through generations are highly valuable and scientifically valid"
+        },
+        {
+          "id": "C",
+          "text": "That it is dangerous"
+        },
+        {
+          "id": "D",
+          "text": "That only doctors know things"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "22",
+      "question": "Why is the neem tree called the \"bitter grace of God\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because it is toxic"
+        },
+        {
+          "id": "B",
+          "text": "Because its harsh, bitter taste is exactly what gives it its powerful healing and protective properties"
+        },
+        {
+          "id": "C",
+          "text": "Because it is a weed"
+        },
+        {
+          "id": "D",
+          "text": "Because it is sweet"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "23",
+      "question": "The use of neem seed powder in farming promotes what modern concept?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Chemical pollution"
+        },
+        {
+          "id": "B",
+          "text": "Eco-friendly, sustainable agriculture (bio-pesticides)"
+        },
+        {
+          "id": "C",
+          "text": "Deforestation"
+        },
+        {
+          "id": "D",
+          "text": "Genetic modification"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "24",
+      "question": "What does Amber's conversation with Neem Baba represent?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fear of nature"
+        },
+        {
+          "id": "B",
+          "text": "A harmonious, respectful relationship between humans and the natural world"
+        },
+        {
+          "id": "C",
+          "text": "The need to cut down trees"
+        },
+        {
+          "id": "D",
+          "text": "A waste of time"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "25",
+      "question": "Why does the author include the many different names for neem (Nimba, Leemba, Nimo)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To confuse the reader"
+        },
+        {
+          "id": "B",
+          "text": "To show how widely the tree is used and respected across many different cultures and regions in India"
+        },
+        {
+          "id": "C",
+          "text": "Because they are spelling mistakes"
+        },
+        {
+          "id": "D",
+          "text": "To prove people can't agree"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "26",
+      "question": "The fact that neem is used for both rural farming and urban toothpaste shows what?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Its limited use"
+        },
+        {
+          "id": "B",
+          "text": "Its incredible versatility and universal relevance to all types of human life"
+        },
+        {
+          "id": "C",
+          "text": "That cities are better than villages"
+        },
+        {
+          "id": "D",
+          "text": "That nature is dying"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "27",
+      "question": "What responsibility does Amber take on at the end of the story?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To chop the tree for wood"
+        },
+        {
+          "id": "B",
+          "text": "To continue learning about, valuing, and protecting natural resources as she grows up"
+        },
+        {
+          "id": "C",
+          "text": "To ignore the tree"
+        },
+        {
+          "id": "D",
+          "text": "To move away"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "28",
+      "question": "How does the neem tree act as a metaphor in the story?",
+      "options": [
+        {
+          "id": "A",
+          "text": "As a symbol of disease"
+        },
+        {
+          "id": "B",
+          "text": "As a symbol of nature's selfless generosity and silent service to humanity"
+        },
+        {
+          "id": "C",
+          "text": "As a symbol of darkness"
+        },
+        {
+          "id": "D",
+          "text": "As a symbol of winter"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "29",
+      "question": "What is the meaning of \"cost-effective\" when talking about neem spray?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Very expensive"
+        },
+        {
+          "id": "B",
+          "text": "It produces good results without costing a lot of money"
+        },
+        {
+          "id": "C",
+          "text": "It doesn't work"
+        },
+        {
+          "id": "D",
+          "text": "It requires gold to make"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "30",
+      "question": "By calling it \"The tree of the twentieth century,\" people are acknowledging what?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It will die soon"
+        },
+        {
+          "id": "B",
+          "text": "That its ancient benefits are highly relevant to solving modern environmental and health problems"
+        },
+        {
+          "id": "C",
+          "text": "That it was invented recently"
+        },
+        {
+          "id": "D",
+          "text": "That it only grows in cities"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    }
+  ]
+}
