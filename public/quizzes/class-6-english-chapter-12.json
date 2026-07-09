@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "From which ancient language does the word \"Yoga\" come?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Latin"
+        },
+        {
+          "id": "B",
+          "text": "Greek"
+        },
+        {
+          "id": "C",
+          "text": "Sanskrit"
+        },
+        {
+          "id": "D",
+          "text": "Hindi"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "2",
+      "question": "What does the root word 'yuj' mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To join or unite"
+        },
+        {
+          "id": "B",
+          "text": "To exercise"
+        },
+        {
+          "id": "C",
+          "text": "To breathe"
+        },
+        {
+          "id": "D",
+          "text": "To sit quietly"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "3",
+      "question": "Who wrote down the rules of yoga in the 'Yoga Sutras'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gautama Buddha"
+        },
+        {
+          "id": "B",
+          "text": "Sage Patanjali"
+        },
+        {
+          "id": "C",
+          "text": "Ashoka"
+        },
+        {
+          "id": "D",
+          "text": "Kalidasa"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "4",
+      "question": "When is International Yoga Day celebrated?",
+      "options": [
+        {
+          "id": "A",
+          "text": "15th August"
+        },
+        {
+          "id": "B",
+          "text": "21st June"
+        },
+        {
+          "id": "C",
+          "text": "2nd October"
+        },
+        {
+          "id": "D",
+          "text": "1st January"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "5",
+      "question": "What do we call the physical body postures in yoga?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mantras"
+        },
+        {
+          "id": "B",
+          "text": "Mudras"
+        },
+        {
+          "id": "C",
+          "text": "Asanas"
+        },
+        {
+          "id": "D",
+          "text": "Chakras"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "6",
+      "question": "Which organization launched the 'mYoga' app?",
+      "options": [
+        {
+          "id": "A",
+          "text": "UNESCO"
+        },
+        {
+          "id": "B",
+          "text": "UNICEF"
+        },
+        {
+          "id": "C",
+          "text": "WHO (World Health Organization)"
+        },
+        {
+          "id": "D",
+          "text": "Red Cross"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "7",
+      "question": "What bad feelings does yoga help to reduce?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Happiness"
+        },
+        {
+          "id": "B",
+          "text": "Stress and anxiety"
+        },
+        {
+          "id": "C",
+          "text": "Intelligence"
+        },
+        {
+          "id": "D",
+          "text": "Flexibility"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "8",
+      "question": "What is 'Tadasana' also known as?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tree pose"
+        },
+        {
+          "id": "B",
+          "text": "Mountain pose"
+        },
+        {
+          "id": "C",
+          "text": "Cobra pose"
+        },
+        {
+          "id": "D",
+          "text": "Lotus pose"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "9",
+      "question": "What is 'Bhujangasana' also known as?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cobra pose"
+        },
+        {
+          "id": "B",
+          "text": "Dog pose"
+        },
+        {
+          "id": "C",
+          "text": "Fish pose"
+        },
+        {
+          "id": "D",
+          "text": "Lion pose"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "10",
+      "question": "Does yoga only involve physical exercise?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes, it's just gymnastics"
+        },
+        {
+          "id": "B",
+          "text": "No, it also involves breathing exercises and meditation"
+        },
+        {
+          "id": "C",
+          "text": "Yes, it is only for muscles"
+        },
+        {
+          "id": "D",
+          "text": "No, it involves lifting heavy weights"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "11",
+      "question": "How does yoga help your heart and blood?",
+      "options": [
+        {
+          "id": "A",
+          "text": "By stopping the heart"
+        },
+        {
+          "id": "B",
+          "text": "By lowering blood pressure and improving blood circulation"
+        },
+        {
+          "id": "C",
+          "text": "By increasing stress"
+        },
+        {
+          "id": "D",
+          "text": "By building huge muscles"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "12",
+      "question": "What is the main purpose of breathing techniques and meditation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To hold your breath underwater"
+        },
+        {
+          "id": "B",
+          "text": "To calm the mind, reduce stress, and help you focus better"
+        },
+        {
+          "id": "C",
+          "text": "To sing better"
+        },
+        {
+          "id": "D",
+          "text": "To increase anger"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "13",
+      "question": "According to Patanjali, what does yoga do for the mind?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Makes it think about money"
+        },
+        {
+          "id": "B",
+          "text": "Helps quiet the mind and free it from distractions"
+        },
+        {
+          "id": "C",
+          "text": "Teaches it magic"
+        },
+        {
+          "id": "D",
+          "text": "Helps win sports"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "14",
+      "question": "What does \"unity\" mean when we talk about yoga?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A political party"
+        },
+        {
+          "id": "B",
+          "text": "Joining the mind and body together to work in harmony"
+        },
+        {
+          "id": "C",
+          "text": "Tying hands together"
+        },
+        {
+          "id": "D",
+          "text": "Wearing the same clothes"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "15",
+      "question": "Why is it important to focus your mind while doing yoga?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To show off to friends"
+        },
+        {
+          "id": "B",
+          "text": "Because true yoga requires moving your body, controlling your breath, and focusing your mind all at the same time"
+        },
+        {
+          "id": "C",
+          "text": "So you don't fall asleep"
+        },
+        {
+          "id": "D",
+          "text": "To memorize the names of poses"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "16",
+      "question": "How does Tadasana (Mountain pose) help your body?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It improves digestion"
+        },
+        {
+          "id": "B",
+          "text": "It improves posture by straightening the spine and helps you balance better"
+        },
+        {
+          "id": "C",
+          "text": "It cures colds"
+        },
+        {
+          "id": "D",
+          "text": "It helps you run faster"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "17",
+      "question": "How does Bhujangasana (Cobra pose) help you breathe?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It makes you hold your breath"
+        },
+        {
+          "id": "B",
+          "text": "It stretches your chest and opens your lungs, allowing better breathing"
+        },
+        {
+          "id": "C",
+          "text": "It shrinks the lungs"
+        },
+        {
+          "id": "D",
+          "text": "It makes you cough"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "18",
+      "question": "Why did the WHO launch the mYoga app?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To sell yoga mats"
+        },
+        {
+          "id": "B",
+          "text": "To provide free audio/video guidance so people all over the world can easily practice yoga for their health"
+        },
+        {
+          "id": "C",
+          "text": "To track calories"
+        },
+        {
+          "id": "D",
+          "text": "To play games"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "19",
+      "question": "If you practice yoga regularly, how does it help you handle problems?",
+      "options": [
+        {
+          "id": "A",
+          "text": "You get more anxious"
+        },
+        {
+          "id": "B",
+          "text": "It builds resilience, focus, and inner peace so you can face challenges calmly"
+        },
+        {
+          "id": "C",
+          "text": "You forget your problems"
+        },
+        {
+          "id": "D",
+          "text": "You get angry faster"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "20",
+      "question": "Why is yoga called a \"holistic\" practice?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It only treats the spine"
+        },
+        {
+          "id": "B",
+          "text": "It cares for the whole person: the physical body, the mental focus, and the emotional calm"
+        },
+        {
+          "id": "C",
+          "text": "It uses holy water"
+        },
+        {
+          "id": "D",
+          "text": "It is practiced in a hole"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "21",
+      "question": "The word 'yuj' (to unite) philosophically points to what core idea in yoga?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Separation of people"
+        },
+        {
+          "id": "B",
+          "text": "The deep connection between our inner self (mind/body) and the outside universe (nature)"
+        },
+        {
+          "id": "C",
+          "text": "The physical stretching of arms"
+        },
+        {
+          "id": "D",
+          "text": "Controlling animals"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "22",
+      "question": "How is yoga different from regular exercises like running or lifting weights?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yoga burns more calories"
+        },
+        {
+          "id": "B",
+          "text": "Yoga demands conscious mindfulness and synchronized breath control, making it a mental practice as much as a physical one"
+        },
+        {
+          "id": "C",
+          "text": "Yoga requires expensive equipment"
+        },
+        {
+          "id": "D",
+          "text": "Yoga is faster"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "23",
+      "question": "Why is stress reduction so important in our modern lives?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because people are too relaxed"
+        },
+        {
+          "id": "B",
+          "text": "Because modern life creates constant tension, and yoga activates the body's natural relaxation and healing responses"
+        },
+        {
+          "id": "C",
+          "text": "Because it replaces sleep entirely"
+        },
+        {
+          "id": "D",
+          "text": "Because stress doesn't exist"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "24",
+      "question": "What does it mean that a global health organization (WHO) promotes yoga?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It proves yoga is a chemical medicine"
+        },
+        {
+          "id": "B",
+          "text": "It shows that the ancient physical and mental benefits of yoga are recognized by modern global science and medicine"
+        },
+        {
+          "id": "C",
+          "text": "It shows WHO is running out of ideas"
+        },
+        {
+          "id": "D",
+          "text": "It makes yoga mandatory"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "25",
+      "question": "How do specific asanas like Bhujangasana act as a type of natural therapy?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They don't"
+        },
+        {
+          "id": "B",
+          "text": "By applying gentle pressure to the belly, they stimulate and improve the function of digestive organs"
+        },
+        {
+          "id": "C",
+          "text": "They cure cancer"
+        },
+        {
+          "id": "D",
+          "text": "They rearrange bones"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "26",
+      "question": "Why is the chapter titled \"Yoga – A Way of Life\" instead of just \"Yoga Exercises\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It sounds better"
+        },
+        {
+          "id": "B",
+          "text": "Because the balance, discipline, and calm learned in yoga should be applied to how we live our entire lives every day"
+        },
+        {
+          "id": "C",
+          "text": "It is a cult"
+        },
+        {
+          "id": "D",
+          "text": "It requires a specific diet"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "27",
+      "question": "What is \"mindfulness\" in the context of yoga?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ignoring your problems"
+        },
+        {
+          "id": "B",
+          "text": "Being completely aware and present in the moment, paying attention to your body and breath without distraction"
+        },
+        {
+          "id": "C",
+          "text": "Making your mind full of thoughts"
+        },
+        {
+          "id": "D",
+          "text": "Being angry"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "28",
+      "question": "Why is it important to learn that Sage Patanjali and the Sanskrit language are the roots of yoga?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To show India has no history"
+        },
+        {
+          "id": "B",
+          "text": "To acknowledge, respect, and preserve India's profound historical contribution to global health and philosophy"
+        },
+        {
+          "id": "C",
+          "text": "To prove yoga is a new invention"
+        },
+        {
+          "id": "D",
+          "text": "Language is irrelevant"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "29",
+      "question": "Why is the idea of \"harmony between human and nature\" central to yoga?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To protect animals"
+        },
+        {
+          "id": "B",
+          "text": "Because finding peace within our own bodies helps us live peacefully and respectfully with the environment around us"
+        },
+        {
+          "id": "C",
+          "text": "So people can live in forests"
+        },
+        {
+          "id": "D",
+          "text": "Because nature is scary"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "30",
+      "question": "According to the text, what turns a simple stretch into a \"true yogic experience\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Achieving the perfect physical pose"
+        },
+        {
+          "id": "B",
+          "text": "The seamless, focused combination of the body's movement, the mind's attention, and the flow of the breath"
+        },
+        {
+          "id": "C",
+          "text": "Sweating profusely"
+        },
+        {
+          "id": "D",
+          "text": "Competing with others"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    }
+  ]
+}
