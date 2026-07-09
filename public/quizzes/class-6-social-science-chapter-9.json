@@ -2,98 +2,98 @@
   "questions": [
     {
       "id": "1",
-      "question": "What is the smallest unit of society?",
+      "question": "According to sociological definitions, what is considered the fundamental and most ancient building block unit of any society?",
       "options": [
         {
           "id": "A",
-          "text": "Family"
+          "text": "The local school"
         },
         {
           "id": "B",
-          "text": "Village"
+          "text": "The family"
         },
         {
           "id": "C",
-          "text": "State"
+          "text": "The central government"
         },
         {
           "id": "D",
-          "text": "Country"
+          "text": "The economic market"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "2",
-      "question": "A community is a group of people who _____.",
+      "question": "A family structure that strictly consists only of parents and their immediate children is officially called a:",
       "options": [
         {
           "id": "A",
-          "text": "Live together and help one another"
+          "text": "Joint family"
         },
         {
           "id": "B",
-          "text": "Always belong to the same family"
+          "text": "Nuclear family"
         },
         {
           "id": "C",
-          "text": "Speak only one language"
+          "text": "Extended family"
         },
         {
           "id": "D",
-          "text": "Work in one office"
+          "text": "Community group"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "3",
-      "question": "Which is an important function of a family?",
+      "question": "A larger family structure where grandparents, parents, children, and sometimes uncles and aunts live together under one roof is called a:",
       "options": [
         {
           "id": "A",
-          "text": "Providing love, care and support"
+          "text": "Nuclear family"
         },
         {
           "id": "B",
-          "text": "Conducting elections"
+          "text": "Joint family"
         },
         {
           "id": "C",
-          "text": "Making laws"
+          "text": "Small family"
         },
         {
           "id": "D",
-          "text": "Collecting taxes"
+          "text": "Village council"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "4",
-      "question": "Which value is learned first in a family?",
+      "question": "What is the defining term for a group of connected people who share social bonds, live near each other, and support each other?",
       "options": [
         {
           "id": "A",
-          "text": "Respect and cooperation"
+          "text": "A community"
         },
         {
           "id": "B",
-          "text": "Competition only"
+          "text": "A random crowd"
         },
         {
           "id": "C",
-          "text": "Anger"
+          "text": "A financial market"
         },
         {
           "id": "D",
-          "text": "Discrimination"
+          "text": "A corporate business"
         }
       ],
       "difficulty": "Easy",
@@ -102,73 +102,73 @@
     },
     {
       "id": "5",
-      "question": "Community members help each other during _____.",
+      "question": "The celebrated ancient Tamil poet Tiruvalluvar famously wrote that the \"flower and fruit of family life\" are specifically:",
       "options": [
         {
           "id": "A",
-          "text": "Festivals and emergencies"
+          "text": "Money and political power"
         },
         {
           "id": "B",
-          "text": "Exams only"
+          "text": "Deep love and righteous dharma"
         },
         {
           "id": "C",
-          "text": "Sports only"
+          "text": "Plentiful food and large shelter"
         },
         {
           "id": "D",
-          "text": "Holidays only"
+          "text": "Worldly fame and military glory"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "6",
-      "question": "Which of the following is an example of cooperation?",
+      "question": "Which core Indian cultural value specifically translates to \"service\" to others?",
       "options": [
         {
           "id": "A",
-          "text": "Helping to clean the neighbourhood"
+          "text": "Dana"
         },
         {
           "id": "B",
-          "text": "Throwing garbage on the road"
+          "text": "Tyaga"
         },
         {
           "id": "C",
-          "text": "Damaging public property"
+          "text": "Seva"
         },
         {
           "id": "D",
-          "text": "Ignoring others' problems"
+          "text": "Ahimsa"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
     },
     {
       "id": "7",
-      "question": "A good family is based on _____.",
+      "question": "Which core Indian cultural value specifically translates to \"giving\" or \"charity\"?",
       "options": [
         {
           "id": "A",
-          "text": "Trust and mutual respect"
+          "text": "Dana"
         },
         {
           "id": "B",
-          "text": "Fear"
+          "text": "Seva"
         },
         {
           "id": "C",
-          "text": "Hatred"
+          "text": "Tyaga"
         },
         {
           "id": "D",
-          "text": "Selfishness"
+          "text": "Ahimsa"
         }
       ],
       "difficulty": "Easy",
@@ -177,48 +177,48 @@
     },
     {
       "id": "8",
-      "question": "Which of the following is a community place?",
+      "question": "The textbook metaphorically describes the family as a 'school'. What is the primary thing children learn in this 'school'?",
       "options": [
         {
           "id": "A",
-          "text": "Public park"
+          "text": "How to drive vehicles"
         },
         {
           "id": "B",
-          "text": "Personal bedroom"
+          "text": "Important moral values, cultural traditions, and social responsibilities"
         },
         {
           "id": "C",
-          "text": "Private cupboard"
+          "text": "Advanced computer programming"
         },
         {
           "id": "D",
-          "text": "School bag"
+          "text": "Complex mathematics"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "9",
-      "question": "Why should we protect community property?",
+      "question": "What does the vital sociological term \"interdependence\" mean when applied to a community?",
       "options": [
         {
           "id": "A",
-          "text": "Because it belongs to everyone"
+          "text": "People relying heavily on each other for mutual support, resources, and survival"
         },
         {
           "id": "B",
-          "text": "Because it belongs to one family"
+          "text": "People constantly fighting and competing with each other"
         },
         {
           "id": "C",
-          "text": "Because it has no value"
+          "text": "People living completely isolated and alone"
         },
         {
           "id": "D",
-          "text": "Because it is temporary"
+          "text": "People migrating away to large cities"
         }
       ],
       "difficulty": "Easy",
@@ -227,198 +227,198 @@
     },
     {
       "id": "10",
-      "question": "The main idea of this chapter is _____.",
+      "question": "Which universally famous, ethical literary text did the poet Tiruvalluvar author?",
       "options": [
         {
           "id": "A",
-          "text": "Families and communities shape responsible citizens."
+          "text": "The Mahabharata"
         },
         {
           "id": "B",
-          "text": "Families are not important."
+          "text": "The Tirukkural"
         },
         {
           "id": "C",
-          "text": "Communities have no role in society."
+          "text": "The Ramayana"
         },
         {
           "id": "D",
-          "text": "Only schools teach values."
+          "text": "The Atharvaveda"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "11",
-      "question": "Why is the family called the first school of a child?",
+      "question": "Why do many traditional Indian languages remarkably lack a single, generic word for the English term 'cousin'?",
       "options": [
         {
           "id": "A",
-          "text": "Because children first learn values, behaviour and responsibilities at home."
+          "text": "Because traditional Indian cultures do not value or recognize extended relatives"
         },
         {
           "id": "B",
-          "text": "Because schools are not necessary."
+          "text": "Because Indian languages possess a much richer, highly specific kinship vocabulary that describes the exact relationship (e.g., father's younger brother's son)"
         },
         {
           "id": "C",
-          "text": "Because families conduct examinations."
+          "text": "Because cousins rarely live in India"
         },
         {
           "id": "D",
-          "text": "Because families issue certificates."
+          "text": "Because ancient families were extremely small"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "12",
-      "question": "How does a community contribute to people's lives?",
+      "question": "What does the profound concept of 'Tyaga' mean in the specific context of sustaining family values?",
       "options": [
         {
           "id": "A",
-          "text": "By encouraging cooperation, safety and social support"
+          "text": "Taking all available resources for oneself"
         },
         {
           "id": "B",
-          "text": "By promoting conflicts"
+          "text": "Sacrifice; the act of individuals willingly giving up their own immediate needs or desires for the greater good and needs of the family"
         },
         {
           "id": "C",
-          "text": "By reducing social interaction"
+          "text": "Working strictly for monetary gain"
         },
         {
           "id": "D",
-          "text": "By preventing development"
+          "text": "Fighting bravely against foreign enemies"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "13",
-      "question": "Which action shows responsibility towards the community?",
+      "question": "How do traditional rural and tribal communities typically manage shared ecological resources like grazing lands or forest produce?",
       "options": [
         {
           "id": "A",
-          "text": "Keeping public places clean"
+          "text": "By engaging in constant physical warfare over them"
         },
         {
           "id": "B",
-          "text": "Damaging streetlights"
+          "text": "By establishing deeply respected unwritten agreements and traditional rules to ensure everyone has fair, secure access"
         },
         {
           "id": "C",
-          "text": "Wasting public water"
+          "text": "By surrendering all control to the central government"
         },
         {
           "id": "D",
-          "text": "Ignoring public rules"
+          "text": "By selling the resources to foreign countries"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "14",
-      "question": "Why are responsibilities shared among family members?",
+      "question": "What exactly is the 'Halma' tradition beautifully practiced by the indigenous Bhil community?",
       "options": [
         {
           "id": "A",
-          "text": "To ensure cooperation and smooth functioning of the family"
+          "text": "A competitive dance festival"
         },
         {
           "id": "B",
-          "text": "To increase conflicts"
+          "text": "A deep-rooted tradition of mass volunteering, coming together to support an individual in crisis or to execute large-scale community welfare work"
         },
         {
           "id": "C",
-          "text": "To reduce communication"
+          "text": "A specific type of nuclear family structure"
         },
         {
           "id": "D",
-          "text": "To create inequality"
+          "text": "A unique method of cooking community feasts"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "15",
-      "question": "Which value helps strengthen relationships within a family?",
+      "question": "Within the dynamics of a healthy family, the term \"cooperation\" practically means:",
       "options": [
         {
           "id": "A",
-          "text": "Honesty and respect"
+          "text": "Constantly arguing over who does household chores"
         },
         {
           "id": "B",
-          "text": "Jealousy"
+          "text": "Working together harmoniously, sharing responsibilities, and supporting one another"
         },
         {
           "id": "C",
-          "text": "Selfishness"
+          "text": "Forcing one person to do absolutely all the work"
         },
         {
           "id": "D",
-          "text": "Dishonesty"
+          "text": "Completely ignoring each other's needs"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "16",
-      "question": "Which of the following best reflects active participation in the community?",
+      "question": "How has rapid modern urbanization heavily affected traditional family structures across India?",
       "options": [
         {
           "id": "A",
-          "text": "Volunteering in a cleanliness drive"
+          "text": "It has forced all families to revert to massive joint families"
         },
         {
           "id": "B",
-          "text": "Damaging public property"
+          "text": "It has led to a significant increase in smaller nuclear families, primarily due to individuals migrating to cities for work and education"
         },
         {
           "id": "C",
-          "text": "Ignoring neighbourhood problems"
+          "text": "It has completely destroyed the sociological concept of family"
         },
         {
           "id": "D",
-          "text": "Refusing to help others"
+          "text": "It has legally stopped people from getting married"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "17",
-      "question": "Why are community rules important?",
+      "question": "Why is it structurally necessary for families and individuals within any community to have specific duties and responsibilities?",
       "options": [
         {
           "id": "A",
-          "text": "They help maintain peace, safety and cooperation."
+          "text": "Because otherwise, the complex social and economic fabric of the community will fail to function smoothly"
         },
         {
           "id": "B",
-          "text": "They reduce equality."
+          "text": "Because they are forced to do so under threat of strict police arrest"
         },
         {
           "id": "C",
-          "text": "They prevent development."
+          "text": "To earn a high financial salary directly from the community leaders"
         },
         {
           "id": "D",
-          "text": "They benefit only a few people."
+          "text": "To win local popularity competitions"
         }
       ],
       "difficulty": "Medium",
@@ -427,328 +427,328 @@
     },
     {
       "id": "18",
-      "question": "Which institution teaches both rights and responsibilities in everyday life?",
+      "question": "A tribal community coming together in thousands to plant trees and dig massive trenches for rainwater conservation (as beautifully demonstrated by the Bhils) is a prime example of:",
       "options": [
         {
           "id": "A",
-          "text": "Family and community"
+          "text": "Capitalist Industrialization"
         },
         {
           "id": "B",
-          "text": "Market only"
+          "text": "Deep social interdependence and highly effective collective community action"
         },
         {
           "id": "C",
-          "text": "Factory only"
+          "text": "The breakdown of the nuclear family structure"
         },
         {
           "id": "D",
-          "text": "Railway station only"
+          "text": "A purely profit-driven economic activity"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "19",
-      "question": "Which example best shows community cooperation?",
+      "question": "Which of the following is sociologically considered a primary, core function of the family unit?",
       "options": [
         {
           "id": "A",
-          "text": "Residents planting trees together in a park"
+          "text": "Issuing national passports and ID cards"
         },
         {
           "id": "B",
-          "text": "People damaging public benches"
+          "text": "Transmitting foundational moral values, maintaining ancient cultural traditions, and providing vital emotional support"
         },
         {
           "id": "C",
-          "text": "Throwing waste into rivers"
+          "text": "Building national highways and bridges"
         },
         {
           "id": "D",
-          "text": "Ignoring common problems"
+          "text": "Regulating the national stock market"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "20",
-      "question": "What is the central idea of this chapter?",
+      "question": "In the specific kinship vocabulary of Hindi, what exact relationship does the term Chacha denote?",
       "options": [
         {
           "id": "A",
-          "text": "Strong families and communities help build a responsible and caring society."
+          "text": "A mother's older brother"
         },
         {
           "id": "B",
-          "text": "Families are separate from society."
+          "text": "A father's younger brother"
         },
         {
           "id": "C",
-          "text": "Communities have no importance."
+          "text": "An older married sister"
         },
         {
           "id": "D",
-          "text": "Individual success alone matters."
+          "text": "A paternal grandfather"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "21",
-      "question": "Why are families and communities essential for the development of responsible citizens?",
+      "question": "What profound psychological and ethical insight did Tiruvalluvar convey by inextricably linking \"love and dharma\" as the fruit of family life?",
       "options": [
         {
           "id": "A",
-          "text": "They teach values, responsibilities, cooperation and respect from an early age."
+          "text": "That family life is merely a strict, joyless set of legal rules"
         },
         {
           "id": "B",
-          "text": "They provide only financial support."
+          "text": "That deep emotional bonds (love) and the fulfillment of righteous duty/responsibility (dharma) are the essential, mutually reinforcing outcomes of successfully living in a family"
         },
         {
           "id": "C",
-          "text": "They replace schools completely."
+          "text": "That love and duty are fundamentally opposing forces"
         },
         {
           "id": "D",
-          "text": "They have no role in character development."
+          "text": "That families should focus exclusively on agriculture"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "22",
-      "question": "If community members stop cooperating with one another, what is the most likely result?",
+      "question": "How does the ongoing structural demographic shift from large joint families to isolated nuclear families impact the transmission of cultural heritage?",
       "options": [
         {
           "id": "A",
-          "text": "Social harmony and collective well-being will be affected."
+          "text": "It completely and instantly stops all transmission of cultural values"
         },
         {
           "id": "B",
-          "text": "Public services will improve automatically."
+          "text": "It fundamentally alters the dynamics, often reducing the everyday, immersive influence of extended family elders, thus making conscious, deliberate effort necessary by parents to maintain and pass on traditions"
         },
         {
           "id": "C",
-          "text": "Community relationships will become stronger."
+          "text": "It miraculously makes cultural transmission much faster and more efficient"
         },
         {
           "id": "D",
-          "text": "Everyone will become more responsible."
+          "text": "It has absolutely no measurable sociological effect"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "23",
-      "question": "Which situation best demonstrates responsible citizenship?",
+      "question": "In what significant way does the Bhil 'Halma' tradition powerfully reflect the concept of grassroots social and ecological resilience?",
       "options": [
         {
           "id": "A",
-          "text": "Participating in a neighbourhood cleanliness campaign and protecting public property"
+          "text": "It shows that local communities must rely entirely on delayed government financial funds"
         },
         {
           "id": "B",
-          "text": "Ignoring damaged public facilities"
+          "text": "It demonstrates how ancient, traditional communal support systems can successfully mobilize to solve modern, severe ecological and social crises through collective, unpaid volunteer effort"
         },
         {
           "id": "C",
-          "text": "Wasting water in public places"
+          "text": "It proves that tribal traditions are outdated and useless in the modern world"
         },
         {
           "id": "D",
-          "text": "Refusing to follow community rules"
+          "text": "It is actually a highly disguised, profit-driven corporate economic activity"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "24",
-      "question": "Why is sharing responsibilities within a family important?",
+      "question": "How do modern community support networks often substitute for some of the lost functions of the traditional joint family in dense urban settings?",
       "options": [
         {
           "id": "A",
-          "text": "It promotes teamwork, equality and mutual understanding."
+          "text": "By legally replacing biological parents"
         },
         {
           "id": "B",
-          "text": "It increases conflicts."
+          "text": "Institutions such as close-knit neighborhoods, community centers, and local school networks organically step in to provide the critical social support, childcare assistance, and collective belonging that an extended family traditionally provided"
         },
         {
           "id": "C",
-          "text": "It reduces trust."
+          "text": "By paying strangers to act as family members"
         },
         {
           "id": "D",
-          "text": "It discourages cooperation."
+          "text": "Urban areas are sociologically proven to have zero community structures"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "25",
-      "question": "A neighbourhood comes together to help families affected by floods. Which value is best demonstrated?",
+      "question": "The existence of incredibly detailed kinship terms in Indian languages (such as clearly distinguishing a mother's sister from a father's sister with different words) analytically indicates:",
       "options": [
         {
           "id": "A",
-          "text": "Community solidarity and compassion"
+          "text": "A severe lack of general vocabulary in ancient times"
         },
         {
           "id": "B",
-          "text": "Competition"
+          "text": "The immense, deep sociological significance and highly precise, distinct roles assigned to extended family members in the functioning of traditional Indian society"
         },
         {
           "id": "C",
-          "text": "Self-interest"
+          "text": "That everyone historically lived strictly in isolated nuclear families"
         },
         {
           "id": "D",
-          "text": "Discrimination"
+          "text": "A historical confusion about genetic relationships"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "26",
-      "question": "Which statement best explains the relationship between family and community?",
+      "question": "When individuals actively practice the high value of 'Tyaga' (sacrifice) within a family setting, what are they ethically prioritizing?",
       "options": [
         {
           "id": "A",
-          "text": "Strong families contribute to strong communities, and strong communities support families."
+          "text": "Their own personal, ruthless ambition over everything else"
         },
         {
           "id": "B",
-          "text": "Families and communities are completely unrelated."
+          "text": "The long-term collective well-being, harmony, and stability of the family unit over their own immediate, short-term personal desires or comforts"
         },
         {
           "id": "C",
-          "text": "Communities replace families."
+          "text": "The accumulation of individual financial wealth"
         },
         {
           "id": "D",
-          "text": "Families do not influence society."
+          "text": "Breaking away entirely from community obligations"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "27",
-      "question": "Which action best protects community resources?",
+      "question": "Why are unwritten, traditional community rules regarding shared ecological resources so surprisingly effective in many rural and tribal areas?",
       "options": [
         {
           "id": "A",
-          "text": "Using public facilities responsibly and encouraging others to do the same"
+          "text": "Because the people live in constant fear of brutal police enforcement"
         },
         {
           "id": "B",
-          "text": "Damaging public property"
+          "text": "Because they are organically based on deep mutual respect, profound economic interdependence, and ancestral traditions that practically ensure the collective survival of the entire group"
         },
         {
           "id": "C",
-          "text": "Wasting electricity in public buildings"
+          "text": "Because historically, no one in the village knew how to write"
         },
         {
           "id": "D",
-          "text": "Ignoring maintenance of common spaces"
+          "text": "Because the rules are arbitrarily changed every single day by a dictator"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "28",
-      "question": "Why is mutual respect important in both families and communities?",
+      "question": "Based on sociological principles, which of the following statements best describes the symbiotic relationship between a family and its surrounding community?",
       "options": [
         {
           "id": "A",
-          "text": "It builds trust, cooperation and peaceful relationships."
+          "text": "They are completely independent entities that never interact"
         },
         {
           "id": "B",
-          "text": "It creates misunderstandings."
+          "text": "A community is organically formed by a network of interconnected families, and the foundational values (like cooperation and respect) learned within the micro-level of the family are what sustain the macro-level of the community"
         },
         {
           "id": "C",
-          "text": "It discourages teamwork."
+          "text": "The growth of a community always fundamentally destroys the family unit"
         },
         {
           "id": "D",
-          "text": "It reduces equality."
+          "text": "True communities only exist in highly populated, modern cities"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "29",
-      "question": "Which lesson from this chapter can be applied in school life?",
+      "question": "How did entrenched social hierarchies (such as the rigid caste system) historically affect the sociology of Indian family and community life?",
       "options": [
         {
           "id": "A",
-          "text": "Working together, respecting others and sharing responsibilities"
+          "text": "By seamlessly promoting absolute, utopian equality across all regions"
         },
         {
           "id": "B",
-          "text": "Avoiding teamwork"
+          "text": "By strictly determining traditional occupations, enforcing rigid marriage practices, and cementing unequal social status, leading to deep historical inequalities that modern constitutional policies now actively attempt to address"
         },
         {
           "id": "C",
-          "text": "Ignoring school rules"
+          "text": "By completely erasing all regional cultural differences"
         },
         {
           "id": "D",
-          "text": "Competing unfairly with classmates"
+          "text": "By legally forcing everyone into small nuclear families"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "30",
-      "question": "Which statement best summarizes the main idea of this chapter?",
+      "question": "The Bhil community's massive tree-planting and water-harvesting efforts earned them high national recognition (Padma Shri). What crucial economic and social lesson does this highlight about the nature of 'non-economic' activities?",
       "options": [
         {
           "id": "A",
-          "text": "Families and communities play a vital role in developing responsible, cooperative and caring citizens who contribute positively to society."
+          "text": "They are a total waste of productive time and resources"
         },
         {
           "id": "B",
-          "text": "Families are important only for children."
+          "text": "Activities purely driven by civic duty, love, and community responsibility can create immense, tangible environmental and social value without any direct monetary exchange or profit motive"
         },
         {
           "id": "C",
-          "text": "Communities have no influence on personal development."
+          "text": "Only heavily funded government projects can solve environmental issues"
         },
         {
           "id": "D",
-          "text": "Society develops without cooperation."
+          "text": "Trees can only be successfully planted if individuals are paid high corporate salaries"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     }
   ]
 }

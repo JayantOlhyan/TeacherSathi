@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "What does the critical political term 'governance' essentially mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The act of cooking community food"
+        },
+        {
+          "id": "B",
+          "text": "The complex process of taking decisions, organizing society, and ensuring rules are followed"
+        },
+        {
+          "id": "C",
+          "text": "Playing organized team sports"
+        },
+        {
+          "id": "D",
+          "text": "Building large residential houses"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "2",
+      "question": "The specific group of individuals or the formal system that holds the authority to make rules for a country is called the:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Free Market"
+        },
+        {
+          "id": "B",
+          "text": "Government"
+        },
+        {
+          "id": "C",
+          "text": "Public School"
+        },
+        {
+          "id": "D",
+          "text": "General Hospital"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "3",
+      "question": "The most important, formal rules that everyone in a country is legally required to follow are known as:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Recreational Games"
+        },
+        {
+          "id": "B",
+          "text": "Helpful Suggestions"
+        },
+        {
+          "id": "C",
+          "text": "Laws"
+        },
+        {
+          "id": "D",
+          "text": "Personal Opinions"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "4",
+      "question": "What is the fundamental, literal meaning of the word 'Democracy'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rule by a single powerful king"
+        },
+        {
+          "id": "B",
+          "text": "Rule exclusively by the wealthy elite"
+        },
+        {
+          "id": "C",
+          "text": "Rule by the armed military"
+        },
+        {
+          "id": "D",
+          "text": "Rule by the people"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "D",
+      "explanation": "The correct answer is D."
+    },
+    {
+      "id": "5",
+      "question": "The word 'Democracy' originates from two ancient Greek words: 'demos' and 'kratos'. What does the root 'demos' specifically mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Absolute Power"
+        },
+        {
+          "id": "B",
+          "text": "The People"
+        },
+        {
+          "id": "C",
+          "text": "Strict Law"
+        },
+        {
+          "id": "D",
+          "text": "Divine Justice"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "6",
+      "question": "Which specific organ of the modern government is primarily responsible for debating and making new laws?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Legislature"
+        },
+        {
+          "id": "B",
+          "text": "The Executive"
+        },
+        {
+          "id": "C",
+          "text": "The Judiciary"
+        },
+        {
+          "id": "D",
+          "text": "The Mass Media"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "7",
+      "question": "Which specific organ of the government is tasked with implementing, enforcing, and executing the laws?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Legislature"
+        },
+        {
+          "id": "B",
+          "text": "The Executive"
+        },
+        {
+          "id": "C",
+          "text": "The Judiciary"
+        },
+        {
+          "id": "D",
+          "text": "The Central Banks"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "8",
+      "question": "Which specific organ of the government has the authority to decide if a law has been broken and to punish the guilty?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Legislature"
+        },
+        {
+          "id": "B",
+          "text": "The Executive"
+        },
+        {
+          "id": "C",
+          "text": "The Judiciary"
+        },
+        {
+          "id": "D",
+          "text": "The Military"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "9",
+      "question": "What is the universally recognized legal voting age for citizens in India to participate in elections?",
+      "options": [
+        {
+          "id": "A",
+          "text": "15 years"
+        },
+        {
+          "id": "B",
+          "text": "18 years"
+        },
+        {
+          "id": "C",
+          "text": "21 years"
+        },
+        {
+          "id": "D",
+          "text": "25 years"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "10",
+      "question": "How many distinct levels or 'tiers' of government does the massive administrative structure of India have?",
+      "options": [
+        {
+          "id": "A",
+          "text": "One"
+        },
+        {
+          "id": "B",
+          "text": "Two"
+        },
+        {
+          "id": "C",
+          "text": "Three"
+        },
+        {
+          "id": "D",
+          "text": "Four"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "11",
+      "question": "Fundamentally, why is it absolutely necessary to have established rules and laws in any human society?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Merely to make people unhappy and restricted"
+        },
+        {
+          "id": "B",
+          "text": "To maintain social order, systematically prevent chaos, and ensure fairness, safety, and justice for all"
+        },
+        {
+          "id": "C",
+          "text": "Just so the police force has something to do"
+        },
+        {
+          "id": "D",
+          "text": "To prevent people from working hard"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "12",
+      "question": "In a system of 'Direct Democracy', how are political decisions legally made?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The people elect one strong leader to decide everything"
+        },
+        {
+          "id": "B",
+          "text": "Every single citizen votes directly on every major issue or proposed law"
+        },
+        {
+          "id": "C",
+          "text": "A hereditary king decides everything independently"
+        },
+        {
+          "id": "D",
+          "text": "Only the appointed judges make decisions"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "13",
+      "question": "India follows a practical system where millions of people elect specific leaders (like MLAs and MPs) to debate and make decisions on their behalf. This system is technically called:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Direct Democracy"
+        },
+        {
+          "id": "B",
+          "text": "Totalitarian Dictatorship"
+        },
+        {
+          "id": "C",
+          "text": "Representative Democracy"
+        },
+        {
+          "id": "D",
+          "text": "Absolute Monarchy"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "14",
+      "question": "At the highest national level, which tier of government handles vital nationwide issues like border defence and foreign affairs?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The State Government"
+        },
+        {
+          "id": "B",
+          "text": "The Local Village Government"
+        },
+        {
+          "id": "C",
+          "text": "The Central (Union) Government"
+        },
+        {
+          "id": "D",
+          "text": "The Municipal Corporation"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "15",
+      "question": "What is the primary, essential role of the local government (the third tier)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Defending the country's international borders against invasion"
+        },
+        {
+          "id": "B",
+          "text": "Printing and regulating national currency"
+        },
+        {
+          "id": "C",
+          "text": "Handling immediate local civic problems like garbage collection, local sanitation, and street lighting"
+        },
+        {
+          "id": "D",
+          "text": "Negotiating complex foreign trade treaties"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "16",
+      "question": "If a completely new law is drafted and passed to stop the rise of cybercrime, which specific organ of government performed this action?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Judiciary"
+        },
+        {
+          "id": "B",
+          "text": "The Legislature"
+        },
+        {
+          "id": "C",
+          "text": "The Executive"
+        },
+        {
+          "id": "D",
+          "text": "The Local Police"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "17",
+      "question": "When the police actively track down and arrest a dangerous cybercriminal, which organ of the government are they acting as an operational part of?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Legislature"
+        },
+        {
+          "id": "B",
+          "text": "The Judiciary"
+        },
+        {
+          "id": "C",
+          "text": "The Executive"
+        },
+        {
+          "id": "D",
+          "text": "The National Parliament"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "18",
+      "question": "Why is 'Education' considered a uniquely shared subject in India's complex governance structure?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only the Central government has the funds to handle it"
+        },
+        {
+          "id": "B",
+          "text": "Only the State government has the local knowledge to handle it"
+        },
+        {
+          "id": "C",
+          "text": "It is a concurrent responsibility handled collaboratively by both the Central and State governments"
+        },
+        {
+          "id": "D",
+          "text": "The government strictly does not handle education; only private businesses do"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "19",
+      "question": "What would likely be the disastrous outcome if all three organs of government (Legislature, Executive, Judiciary) were totally controlled by the exact same small group of people?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Absolute, perfect societal peace"
+        },
+        {
+          "id": "B",
+          "text": "Severe abuse of power, lack of fairness, and the destruction of democratic checks"
+        },
+        {
+          "id": "C",
+          "text": "Everyone in the country would become instantly wealthy"
+        },
+        {
+          "id": "D",
+          "text": "The government would simply stop working due to boredom"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "20",
+      "question": "What is a foundational, non-negotiable principle of a true democracy regarding its treatment of citizens?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only a wealthy few people have actual legal rights"
+        },
+        {
+          "id": "B",
+          "text": "All citizens have strictly equal rights, the freedom of expression, and possess the power to hold their elected leaders accountable"
+        },
+        {
+          "id": "C",
+          "text": "Citizens are legally forbidden to question the government"
+        },
+        {
+          "id": "D",
+          "text": "Citizens must blindly follow the commands of a king"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "21",
+      "question": "The strict constitutional separation of powers between the Legislature, Executive, and Judiciary is absolutely essential to a healthy democracy because:",
+      "options": [
+        {
+          "id": "A",
+          "text": "It saves the government a massive amount of money"
+        },
+        {
+          "id": "B",
+          "text": "It creates a robust, self-regulating system of 'checks and balances', ensuring that no single organ becomes overwhelmingly powerful and abuses its authority"
+        },
+        {
+          "id": "C",
+          "text": "It allows the Prime Minister to act exactly like an unchecked king"
+        },
+        {
+          "id": "D",
+          "text": "It makes the complex process of lawmaking much faster"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "22",
+      "question": "During the severe COVID-19 pandemic, the central legislature passed emergency guidelines, state police enforced curfews, and courts actively ensured citizens' rights to healthcare were not violated. What crucial democratic concept does this vividly demonstrate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "That only the Executive branch actually matters in a crisis"
+        },
+        {
+          "id": "B",
+          "text": "That all three organs and all three tiers of government must work synergistically and simultaneously to manage massive national crises"
+        },
+        {
+          "id": "C",
+          "text": "That the local tier of government was entirely unnecessary"
+        },
+        {
+          "id": "D",
+          "text": "That democratic systems completely fail during emergencies"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "23",
+      "question": "The ancient, profound quote from the epic Mahabharata, \"The ruler protects dharma and dharma protects those who protect it,\" analytically implies what about the nature of governance?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rulers possess divine right and can do whatever they want without consequence"
+        },
+        {
+          "id": "B",
+          "text": "Governance is based on a strict reciprocal duty; leaders must rule justly and ethically (protect dharma) in order to maintain their own legitimacy and societal stability"
+        },
+        {
+          "id": "C",
+          "text": "Written laws are completely unnecessary if a population is highly religious"
+        },
+        {
+          "id": "D",
+          "text": "Only trained warriors have the inherent right to rule"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "24",
+      "question": "In a representative democracy, the vital political concept of 'accountability' explicitly means that:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Citizens must constantly account for all their personal money to the king"
+        },
+        {
+          "id": "B",
+          "text": "Elected leaders are held strictly responsible for their official actions, decisions, and failures, and must constantly answer to the people who voted them into power"
+        },
+        {
+          "id": "C",
+          "text": "The Judiciary entirely controls the outcome of all local elections"
+        },
+        {
+          "id": "D",
+          "text": "The police have the unaccountable power to arrest anyone without cause"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "25",
+      "question": "Why was a complex, three-tier system of government (Central, State, Local) strategically adopted in a vast, diverse country like India?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because the Central government building is physically too small"
+        },
+        {
+          "id": "B",
+          "text": "To effectively decentralize administrative power, ensuring that highly specific local issues can be addressed rapidly and efficiently by local people who understand them best"
+        },
+        {
+          "id": "C",
+          "text": "Solely to create millions of more jobs for aspiring politicians"
+        },
+        {
+          "id": "D",
+          "text": "Because the modern Constitution was mindlessly copied from ancient texts"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "26",
+      "question": "If the Legislature uses its majority to pass a law that is blatantly unfair or directly violates the foundational rights guaranteed by the Constitution, which specific organ has the ultimate constitutional power to check or strike down this illegal law?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Executive Cabinet"
+        },
+        {
+          "id": "B",
+          "text": "The National Police Force"
+        },
+        {
+          "id": "C",
+          "text": "The Judiciary (The Supreme Court)"
+        },
+        {
+          "id": "D",
+          "text": "The Local Village Panchayat"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "27",
+      "question": "The advanced civic concept of 'Participatory Democracy' goes a significant step further than basic representative democracy by heavily emphasizing:",
+      "options": [
+        {
+          "id": "A",
+          "text": "That people only need to vote once every five years and then ignore politics"
+        },
+        {
+          "id": "B",
+          "text": "The continuous, active, and direct involvement of everyday citizens in day-to-day civic decision-making, planning, and community governance"
+        },
+        {
+          "id": "C",
+          "text": "That every single citizen must become a full-time, paid politician"
+        },
+        {
+          "id": "D",
+          "text": "That the act of voting is legally mandatory under threat of prison"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "28",
+      "question": "Which of the following analytical distinctions best differentiates a general 'rule' from a formal 'law'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rules are exclusively for adults; laws are exclusively for children"
+        },
+        {
+          "id": "B",
+          "text": "Rules organically guide general behavior in specific settings like homes or schools, while laws are highly specific, codified rules formally debated, enacted, and strictly enforced by the government for the entire society under threat of penalty"
+        },
+        {
+          "id": "C",
+          "text": "Laws are easily breakable without consequence; rules are not"
+        },
+        {
+          "id": "D",
+          "text": "There is absolutely no sociological or legal difference between the two"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "29",
+      "question": "How does the fundamental mechanism of a democracy actively promote and enforce equality among vastly different citizens?",
+      "options": [
+        {
+          "id": "A",
+          "text": "By ensuring the government gives everyone the exact same amount of money"
+        },
+        {
+          "id": "B",
+          "text": "By granting every single adult citizen exactly one, equal vote—regardless of their immense wealth, social caste, gender, or religion—making everyone politically equal"
+        },
+        {
+          "id": "C",
+          "text": "By legally giving more voting power to highly educated people"
+        },
+        {
+          "id": "D",
+          "text": "By enforcing a law that everyone must wear the exact same uniform clothes"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "30",
+      "question": "The cyber police successfully tracking down and arresting criminals is a clear example of the Executive branch enforcing laws. What is the mandatory next step in the democratic process to ensure justice?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The police instantly and independently decide the punishment for the criminal"
+        },
+        {
+          "id": "B",
+          "text": "The Legislature convenes to write a brand new law specifically for that one criminal"
+        },
+        {
+          "id": "C",
+          "text": "The Judiciary conducts a fair, impartial trial based on evidence to determine legal guilt and assign the appropriate, legal punishment"
+        },
+        {
+          "id": "D",
+          "text": "The criminal is automatically let go if they sign a promise not to do it again"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    }
+  ]
+}
