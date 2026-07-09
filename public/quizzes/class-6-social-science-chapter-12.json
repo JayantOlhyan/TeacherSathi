@@ -2,7 +2,57 @@
   "questions": [
     {
       "id": "1",
-      "question": "Which institution looks after local government in cities?",
+      "question": "What is the collective term for the local government structures operating in cities and towns?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gram Panchayats"
+        },
+        {
+          "id": "B",
+          "text": "Urban Local Bodies"
+        },
+        {
+          "id": "C",
+          "text": "Zila Parishads"
+        },
+        {
+          "id": "D",
+          "text": "National Parliaments"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "2",
+      "question": "Which powerful urban local body is established to manage very large, densely populated cities with a population exceeding 10 lakhs (1 million)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Municipal Council"
+        },
+        {
+          "id": "B",
+          "text": "Nagar Panchayat"
+        },
+        {
+          "id": "C",
+          "text": "Municipal Corporation (Mahanagar Nigam)"
+        },
+        {
+          "id": "D",
+          "text": "Gram Sabha"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "3",
+      "question": "Which urban local body is designed to manage smaller towns with a population ranging between 1 lakh and 10 lakhs?",
       "options": [
         {
           "id": "A",
@@ -10,7 +60,7 @@
         },
         {
           "id": "B",
-          "text": "Gram Panchayat"
+          "text": "Municipal Council (Nagar Palika)"
         },
         {
           "id": "C",
@@ -18,132 +68,82 @@
         },
         {
           "id": "D",
-          "text": "Parliament"
+          "text": "Ward Committee"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
-    },
-    {
-      "id": "2",
-      "question": "Local government in towns is generally called a _____.",
-      "options": [
-        {
-          "id": "A",
-          "text": "Municipality"
-        },
-        {
-          "id": "B",
-          "text": "Gram Sabha"
-        },
-        {
-          "id": "C",
-          "text": "Lok Sabha"
-        },
-        {
-          "id": "D",
-          "text": "Rajya Sabha"
-        }
-      ],
-      "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
-    },
-    {
-      "id": "3",
-      "question": "Who elects the members of a Municipal Corporation?",
-      "options": [
-        {
-          "id": "A",
-          "text": "The people living in the city"
-        },
-        {
-          "id": "B",
-          "text": "The Governor"
-        },
-        {
-          "id": "C",
-          "text": "The President"
-        },
-        {
-          "id": "D",
-          "text": "The Prime Minister"
-        }
-      ],
-      "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "4",
-      "question": "What is the main function of a Municipal Corporation?",
+      "question": "What type of local body governs a 'transitional area'—a place that is rapidly changing from a rural village into an urban town?",
       "options": [
         {
           "id": "A",
-          "text": "To provide civic services in urban areas"
+          "text": "Municipal Corporation"
         },
         {
           "id": "B",
-          "text": "To conduct national elections"
+          "text": "Nagar Panchayat"
         },
         {
           "id": "C",
-          "text": "To make laws for the whole country"
+          "text": "Village Panchayat"
         },
         {
           "id": "D",
-          "text": "To manage the armed forces"
+          "text": "State Assembly"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "5",
-      "question": "Which of the following is a civic service?",
+      "question": "For the purpose of elections and efficient administration, large cities and towns are divided into much smaller units. What are these units called?",
       "options": [
         {
           "id": "A",
-          "text": "Garbage collection"
+          "text": "Blocks"
         },
         {
           "id": "B",
-          "text": "Space research"
+          "text": "States"
         },
         {
           "id": "C",
-          "text": "Railway construction"
+          "text": "Wards"
         },
         {
           "id": "D",
-          "text": "Currency printing"
+          "text": "Districts"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
     },
     {
       "id": "6",
-      "question": "Which local body works in smaller towns?",
+      "question": "The individuals who are democratically elected by the people to represent a specific ward are called:",
       "options": [
         {
           "id": "A",
-          "text": "Municipality"
+          "text": "Ward Councillors"
         },
         {
           "id": "B",
-          "text": "Gram Panchayat"
+          "text": "Sarpanches"
         },
         {
           "id": "C",
-          "text": "Zila Parishad"
+          "text": "Patwaris"
         },
         {
           "id": "D",
-          "text": "Parliament"
+          "text": "Chief Ministers"
         }
       ],
       "difficulty": "Easy",
@@ -152,223 +152,223 @@
     },
     {
       "id": "7",
-      "question": "Which service is provided by urban local bodies?",
+      "question": "Which of the following is a key, daily duty of an urban local body?",
       "options": [
         {
           "id": "A",
-          "text": "Street lighting"
+          "text": "Printing national currency"
         },
         {
           "id": "B",
-          "text": "Defence of the country"
+          "text": "Efficient garbage collection and comprehensive waste management"
         },
         {
           "id": "C",
-          "text": "Foreign affairs"
+          "text": "Defending the country's borders"
         },
         {
           "id": "D",
-          "text": "Printing currency"
+          "text": "Running the national railways"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "8",
-      "question": "Why do cities need local governments?",
+      "question": "What is the urban equivalent of the rural Gram Sabha, where local citizens can directly participate and raise hyper-local issues?",
       "options": [
         {
           "id": "A",
-          "text": "To manage local services and development"
+          "text": "The Supreme Court"
         },
         {
           "id": "B",
-          "text": "To conduct international trade"
+          "text": "The National Parliament"
         },
         {
           "id": "C",
-          "text": "To control weather"
+          "text": "People of the Ward / Mohalla Sabha"
         },
         {
           "id": "D",
-          "text": "To run schools only"
+          "text": "The Mayor's private office"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
     },
     {
       "id": "9",
-      "question": "Who benefits from the services provided by urban local bodies?",
+      "question": "If you reside in a city, what primary financial contribution do you make to the urban local body to help them run essential civic services?",
       "options": [
         {
           "id": "A",
-          "text": "All residents of the town or city"
+          "text": "National Income tax"
         },
         {
           "id": "B",
-          "text": "Only government officials"
+          "text": "Local taxes (like property, sewage, or water tax)"
         },
         {
           "id": "C",
-          "text": "Only business owners"
+          "text": "International Import duty"
         },
         {
           "id": "D",
-          "text": "Only students"
+          "text": "None, services are free"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "10",
-      "question": "The main objective of urban local government is _____.",
+      "question": "Which specific constitutional amendment officially established and empowered the urban local bodies across India?",
       "options": [
         {
           "id": "A",
-          "text": "To improve the quality of life in towns and cities"
+          "text": "73rd Amendment"
         },
         {
           "id": "B",
-          "text": "To manage national defence"
+          "text": "74th Amendment"
         },
         {
           "id": "C",
-          "text": "To conduct Parliament sessions"
+          "text": "1st Amendment"
         },
         {
           "id": "D",
-          "text": "To frame the Constitution"
+          "text": "100th Amendment"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "11",
-      "question": "Why are Municipal Corporations important in large cities?",
+      "question": "Why does a massive metropolis like Mumbai have a Municipal Corporation, while a smaller town is governed by a Municipal Council?",
       "options": [
         {
           "id": "A",
-          "text": "They provide essential civic services and urban development."
+          "text": "Because Mumbai is a much older city"
         },
         {
           "id": "B",
-          "text": "They conduct General Elections."
+          "text": "Because the administrative structure strictly depends on population size; vastly larger populations require much bigger, more complex administrative bodies and larger budgets"
         },
         {
           "id": "C",
-          "text": "They appoint judges."
+          "text": "Because Mumbai has more wealthy residents"
         },
         {
           "id": "D",
-          "text": "They manage the Army."
+          "text": "Because small towns don't require any form of government"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "12",
-      "question": "Which of the following is a responsibility of urban local government?",
+      "question": "What is the practical, day-to-day function of a Ward Committee?",
       "options": [
         {
           "id": "A",
-          "text": "Maintaining roads, parks and sanitation"
+          "text": "To unilaterally elect the Prime Minister"
         },
         {
           "id": "B",
-          "text": "Conducting foreign policy"
+          "text": "To facilitate localized civic activities (like health camps) and diligently report micro-problems (like blocked drains) to the higher authorities"
         },
         {
           "id": "C",
-          "text": "Printing currency notes"
+          "text": "To build massive national highways"
         },
         {
           "id": "D",
-          "text": "Managing airports only"
+          "text": "To collect all national income tax"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "13",
-      "question": "Why should citizens pay municipal taxes?",
+      "question": "How is the democratic concept of 'decentralisation' practically applied in urban governance?",
       "options": [
         {
           "id": "A",
-          "text": "To help provide and maintain public services"
+          "text": "All power is hoarded by the Prime Minister in the capital"
         },
         {
           "id": "B",
-          "text": "To increase private profits"
+          "text": "Power is deliberately shifted down so local city communities have a direct, legal say in managing their immediate areas and solving hyper-local issues"
         },
         {
           "id": "C",
-          "text": "To conduct national elections"
+          "text": "The national military is given control to run the city"
         },
         {
           "id": "D",
-          "text": "To manage the Parliament"
+          "text": "Power is handed over to neighboring countries"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "14",
-      "question": "Which value is strengthened when citizens cooperate with urban local bodies?",
+      "question": "If there is a massive water leak or a dangerously broken streetlight in your ward, what is your primary duty as an active citizen in a participatory democracy?",
       "options": [
         {
           "id": "A",
-          "text": "Responsible citizenship"
+          "text": "Ignore it and hope someone else acts"
         },
         {
           "id": "B",
-          "text": "Social discrimination"
+          "text": "Wait indefinitely for the Mayor to personally notice it"
         },
         {
           "id": "C",
-          "text": "Corruption"
+          "text": "Promptly report the exact problem to the municipal authorities"
         },
         {
           "id": "D",
-          "text": "Inequality"
+          "text": "Immediately move to another city"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
     },
     {
       "id": "15",
-      "question": "Which action shows responsible behaviour in a city?",
+      "question": "Why is rigorous waste segregation by citizens at home so critically important for urban local bodies?",
       "options": [
         {
           "id": "A",
-          "text": "Keeping public places clean and following civic rules"
+          "text": "It makes large-scale garbage collection, recycling, and disposal vastly easier and more efficient for the municipality"
         },
         {
           "id": "B",
-          "text": "Throwing garbage on roads"
+          "text": "It is merely a fun game for children"
         },
         {
           "id": "C",
-          "text": "Damaging streetlights"
+          "text": "The municipality pays citizens large sums of cash for doing it"
         },
         {
           "id": "D",
-          "text": "Wasting drinking water"
+          "text": "It makes the garbage smell significantly better"
         }
       ],
       "difficulty": "Medium",
@@ -377,298 +377,298 @@
     },
     {
       "id": "16",
-      "question": "Why is waste management important in cities?",
+      "question": "While Ward Councillors make the decisions, who is responsible for carrying out the complex administrative work and actually implementing those decisions?",
       "options": [
         {
           "id": "A",
-          "text": "It helps maintain cleanliness and public health."
+          "text": "The President of India"
         },
         {
           "id": "B",
-          "text": "It increases pollution."
+          "text": "The appointed administrative staff led by the Municipal Commissioner"
         },
         {
           "id": "C",
-          "text": "It reduces public safety."
+          "text": "The local city police"
         },
         {
           "id": "D",
-          "text": "It has no effect on health."
+          "text": "The High Court judges"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "17",
-      "question": "Which institution represents the people in an urban ward?",
+      "question": "Maintaining public burial grounds, manicuring city parks, and verifying the implementation of government welfare schemes are core functions of:",
       "options": [
         {
           "id": "A",
-          "text": "Ward Councillor"
+          "text": "The State Police Force"
         },
         {
           "id": "B",
-          "text": "Governor"
+          "text": "Urban Local Bodies"
         },
         {
           "id": "C",
-          "text": "President"
+          "text": "The Central Government"
         },
         {
           "id": "D",
-          "text": "Chief Justice"
+          "text": "The Indian Army"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "18",
-      "question": "Why is urban planning necessary?",
+      "question": "What does the acronym CRM stand for in the context of advanced services offered by modern, high-tech municipal corporations like Indore?",
       "options": [
         {
           "id": "A",
-          "text": "To ensure organised development and better public services"
+          "text": "Central Railway Management"
         },
         {
           "id": "B",
-          "text": "To reduce transport facilities"
+          "text": "Citizen Relationship Management (a system for handling public grievances and swift service requests)"
         },
         {
           "id": "C",
-          "text": "To increase pollution"
+          "text": "City Road Maintenance"
         },
         {
           "id": "D",
-          "text": "To stop population growth"
+          "text": "Council Resource Money"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "19",
-      "question": "Which of the following best shows active citizenship?",
+      "question": "Which of the following is emphatically NOT a duty of a responsible citizen residing in a crowded urban area?",
       "options": [
         {
           "id": "A",
-          "text": "Reporting civic problems to local authorities"
+          "text": "Paying local property and water taxes honestly"
         },
         {
           "id": "B",
-          "text": "Ignoring damaged roads"
+          "text": "Not littering in shared public spaces"
         },
         {
           "id": "C",
-          "text": "Littering in public places"
+          "text": "Illegally encroaching on public footpaths to expand a shop"
         },
         {
           "id": "D",
-          "text": "Misusing public property"
+          "text": "Actively planting trees in the neighborhood"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
     },
     {
       "id": "20",
-      "question": "What is the central idea of this chapter?",
+      "question": "In the practical example provided in the textbook, how did the citizens Sameer and Anita successfully participate in grassroots democracy in their city?",
       "options": [
         {
           "id": "A",
-          "text": "Urban local governments improve city life through public participation and civic services."
+          "text": "They voted directly for the President"
         },
         {
           "id": "B",
-          "text": "Cities do not require local governments."
+          "text": "They spotted a dangerously low-hanging electricity wire, reported it to their local member, and successfully got the electric post shifted"
         },
         {
           "id": "C",
-          "text": "Only the Central Government develops cities."
+          "text": "They acted as vigilantes and arrested a criminal"
         },
         {
           "id": "D",
-          "text": "Civic services are unnecessary."
+          "text": "They personally built a new paved road"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "21",
-      "question": "Why is decentralisation important in urban governance?",
+      "question": "Why is urban governance generally considered vastly more complex and difficult to manage than rural governance?",
       "options": [
         {
           "id": "A",
-          "text": "It enables local problems to be solved quickly by elected local representatives."
+          "text": "Because cities have significantly smaller populations"
         },
         {
           "id": "B",
-          "text": "It transfers all powers to the Central Government."
+          "text": "Because urban areas are characterized by massive, incredibly dense populations, highly diverse and demanding infrastructure needs (like mass transit and massive sanitation systems), and highly complex economies"
         },
         {
           "id": "C",
-          "text": "It removes public participation."
+          "text": "Because there are absolutely no wards in cities"
         },
         {
           "id": "D",
-          "text": "It delays decision-making."
+          "text": "Because villages possess infinitely more financial wealth"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "22",
-      "question": "If a Municipal Corporation fails to manage waste properly, what is the most likely consequence?",
+      "question": "\"Participatory democracy\" in a bustling urban setting demands going far beyond just voting in elections every few years. Which action best illustrates this advanced civic concept?",
       "options": [
         {
           "id": "A",
-          "text": "Increased pollution and health problems"
+          "text": "Passively watching political news on television"
         },
         {
           "id": "B",
-          "text": "Better sanitation"
+          "text": "Actively attending local ward meetings, diligently participating in at-home waste segregation, and persistently reporting civic infrastructural issues"
         },
         {
           "id": "C",
-          "text": "More parks will be created"
+          "text": "Grudgingly paying taxes and completely avoiding all interaction with the local council"
         },
         {
           "id": "D",
-          "text": "Traffic congestion will disappear"
+          "text": "Constantly complaining to friends about terrible city traffic without taking action"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "23",
-      "question": "A Ward Councillor organises a meeting to discuss water shortages with residents. Which democratic principle is demonstrated?",
+      "question": "The formal, legal transition from a rural Gram Panchayat to an urban Nagar Panchayat is triggered when:",
       "options": [
         {
           "id": "A",
-          "text": "Public participation in local governance"
+          "text": "A village population drastically decreases"
         },
         {
           "id": "B",
-          "text": "Rule by one person"
+          "text": "A rural area starts rapidly developing urban economic features (like markets and non-agricultural jobs) and its population crosses a specific constitutional threshold, officially becoming a 'transitional area'"
         },
         {
           "id": "C",
-          "text": "Centralised administration"
+          "text": "The city is completely destroyed by a disaster"
         },
         {
           "id": "D",
-          "text": "Lack of accountability"
+          "text": "The state government simply runs out of rural funding"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "24",
-      "question": "Which statement best explains the role of municipal taxes?",
+      "question": "How do the elected Ward Councillors and the appointed Municipal Commissioner strategically balance power within a Municipal Corporation?",
       "options": [
         {
           "id": "A",
-          "text": "They help fund civic services such as roads, sanitation and street lighting."
+          "text": "Councillors execute the laws on the ground, while the Commissioner makes the laws"
         },
         {
           "id": "B",
-          "text": "They are collected only for national defence."
+          "text": "Elected Councillors make high-level policies and budget decisions representing the people's will, while the appointed Commissioner and their trained staff execute and administer these complex decisions"
         },
         {
           "id": "C",
-          "text": "They are used only for elections."
+          "text": "They fight violently until one side establishes total dominance"
         },
         {
           "id": "D",
-          "text": "They have no role in development."
+          "text": "The Commissioner is elected by the people, and Councillors are appointed by the state"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "25",
-      "question": "Which action best demonstrates accountability in an urban local body?",
+      "question": "When rigorously comparing the rural Panchayati Raj and urban municipal systems, what is the core structural and philosophical similarity between them?",
       "options": [
         {
           "id": "A",
-          "text": "Explaining how public funds have been spent on development projects"
+          "text": "Both are exclusively headed by a Mayor"
         },
         {
           "id": "B",
-          "text": "Keeping financial records secret"
+          "text": "Both are constitutionally mandated, three-tiered decentralised systems relying on elected local representatives and anchored by a grassroots participatory unit (Gram Sabha / People of the Ward)"
         },
         {
           "id": "C",
-          "text": "Ignoring citizens' complaints"
+          "text": "Both deal exclusively with regulating agricultural output"
         },
         {
           "id": "D",
-          "text": "Avoiding public meetings"
+          "text": "Both are directly managed and funded entirely by the Central Government"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "26",
-      "question": "Which example best reflects responsible urban citizenship?",
+      "question": "If a powerful Municipal Corporation utterly fails to provide clean, safe drinking water to its residents, which fundamental aspect of its constitutional duty is being egregiously neglected?",
       "options": [
         {
           "id": "A",
-          "text": "Conserving water, segregating waste and protecting public property"
+          "text": "Maintaining public burial grounds"
         },
         {
           "id": "B",
-          "text": "Damaging public parks"
+          "text": "Taking care of essential, life-sustaining civic infrastructure and protecting public health services"
         },
         {
           "id": "C",
-          "text": "Ignoring civic rules"
+          "text": "Managing high schools"
         },
         {
           "id": "D",
-          "text": "Wasting electricity in public places"
+          "text": "Collecting local taxes"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "27",
-      "question": "Why is cooperation between citizens and municipal authorities important?",
+      "question": "Why was the passage of the 74th Amendment Act deemed historically and administratively necessary by the Indian Parliament?",
       "options": [
         {
           "id": "A",
-          "text": "It leads to better planning, cleaner surroundings and improved public services."
+          "text": "Because urban areas were expanding rapidly and desperately needed a uniformly recognized, deeply democratic, and highly accountable local governance structure to handle complex city problems"
         },
         {
           "id": "B",
-          "text": "It reduces development."
+          "text": "Because rural villages suddenly wanted to become massive cities overnight"
         },
         {
           "id": "C",
-          "text": "It weakens democracy."
+          "text": "Because the Prime Minister could no longer physically visit every city"
         },
         {
           "id": "D",
-          "text": "It has no effect on city life."
+          "text": "Because major cities wanted to secede and become independent states"
         }
       ],
       "difficulty": "Hard",
@@ -677,78 +677,78 @@
     },
     {
       "id": "28",
-      "question": "Which situation best shows effective urban local governance?",
+      "question": "Why does illegally encroaching on public footpaths directly violate the core duties of an urban citizen?",
       "options": [
         {
           "id": "A",
-          "text": "Residents and the Municipal Corporation working together to improve roads and sanitation"
+          "text": "Simply because it makes the city look aesthetically ugly"
         },
         {
           "id": "B",
-          "text": "Ignoring public complaints for years"
+          "text": "Because it selfishly disrupts shared civic infrastructure, creating severe safety hazards and demonstrating a total lack of care for the community's fundamental right to safe public spaces"
         },
         {
           "id": "C",
-          "text": "Cancelling ward meetings permanently"
+          "text": "Because the municipality desperately wants to sell the footpath to corporations"
         },
         {
           "id": "D",
-          "text": "Leaving all local problems unsolved"
+          "text": "Because it is technically illegal to walk in a city"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "29",
-      "question": "Which lesson from this chapter is most relevant in daily life?",
+      "question": "The highly acclaimed Indore Municipal Corporation offers rapid services like mobile toilets and ambulance dispatch through its digital CRM system. What does this indicate about the evolution of urban governance?",
       "options": [
         {
           "id": "A",
-          "text": "Every citizen has a role in keeping the city clean, safe and well-managed."
+          "text": "That urban local bodies only exist to ruthlessly collect taxes"
         },
         {
           "id": "B",
-          "text": "Only municipal officials are responsible for cities."
+          "text": "That modern, effective urban governance aggressively leverages digital technology for highly efficient service delivery and direct, accountable citizen engagement"
         },
         {
           "id": "C",
-          "text": "Public property belongs to no one."
+          "text": "That Indore is actually a highly rural, underdeveloped area"
         },
         {
           "id": "D",
-          "text": "Civic rules need not be followed."
+          "text": "That modern citizens have absolutely no responsibilities left"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     },
     {
       "id": "30",
-      "question": "Which statement best summarizes the main idea of this chapter?",
+      "question": "If a sprawling, massive metropolis is meticulously divided into 100 distinct wards, how does this extensive division practically benefit the concept of governance?",
       "options": [
         {
           "id": "A",
-          "text": "Urban local governments strengthen democracy by providing civic services, encouraging public participation and ensuring planned development."
+          "text": "It deliberately divides the people so they constantly fight against each other"
         },
         {
           "id": "B",
-          "text": "City development depends only on the State Government."
+          "text": "It ensures high-resolution, micro-level representation, making it vastly easier for average citizens to reach their specific Ward Councillor with their hyper-local grievances"
         },
         {
           "id": "C",
-          "text": "Municipalities have no role in democracy."
+          "text": "It essentially means the city has 100 different Mayors"
         },
         {
           "id": "D",
-          "text": "Urban local bodies only collect taxes."
+          "text": "It drastically reduces the overall amount of taxes collected by the city"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
     }
   ]
 }
