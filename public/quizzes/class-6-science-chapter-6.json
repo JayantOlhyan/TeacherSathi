@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "Objects that naturally possess a shiny, reflective surface, such as gold and polished iron, are scientifically described as:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dull"
+        },
+        {
+          "id": "B",
+          "text": "Lustrous"
+        },
+        {
+          "id": "C",
+          "text": "Soft"
+        },
+        {
+          "id": "D",
+          "text": "Opaque"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "2",
+      "question": "A material that can be easily compressed, bent, or scratched by hand is generally described as:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hard"
+        },
+        {
+          "id": "B",
+          "text": "Soft"
+        },
+        {
+          "id": "C",
+          "text": "Heavy"
+        },
+        {
+          "id": "D",
+          "text": "Lustrous"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "3",
+      "question": "Materials through which light passes completely, allowing us to see objects clearly (like clear window glass), are called:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Opaque"
+        },
+        {
+          "id": "B",
+          "text": "Translucent"
+        },
+        {
+          "id": "C",
+          "text": "Transparent"
+        },
+        {
+          "id": "D",
+          "text": "Shiny"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "4",
+      "question": "Which of the following common materials is typically classified as opaque?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Clean, still water"
+        },
+        {
+          "id": "B",
+          "text": "Atmospheric air"
+        },
+        {
+          "id": "C",
+          "text": "Solid wood"
+        },
+        {
+          "id": "D",
+          "text": "Clear plastic wrap"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "5",
+      "question": "What is the scientific process of arranging various objects into specific groups based on shared, common properties called?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Measurement"
+        },
+        {
+          "id": "B",
+          "text": "Classification"
+        },
+        {
+          "id": "C",
+          "text": "Experimentation"
+        },
+        {
+          "id": "D",
+          "text": "Heating"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "6",
+      "question": "Which of these solid materials is completely soluble (dissolves entirely) when stirred into water?",
+      "options": [
+        {
+          "id": "A",
+          "text": "River sand"
+        },
+        {
+          "id": "B",
+          "text": "Chalk powder"
+        },
+        {
+          "id": "C",
+          "text": "Granulated sugar"
+        },
+        {
+          "id": "D",
+          "text": "Wood sawdust"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "7",
+      "question": "Materials that block light completely and cannot be seen through under any circumstance are called:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Transparent"
+        },
+        {
+          "id": "B",
+          "text": "Translucent"
+        },
+        {
+          "id": "C",
+          "text": "Opaque"
+        },
+        {
+          "id": "D",
+          "text": "Soluble"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "8",
+      "question": "Which of these everyday objects is predominantly made of metal?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cotton shirt"
+        },
+        {
+          "id": "B",
+          "text": "Iron nail"
+        },
+        {
+          "id": "C",
+          "text": "Wooden chair"
+        },
+        {
+          "id": "D",
+          "text": "Plastic bottle"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "9",
+      "question": "What immediately happens if you drop a solid iron coin into a glass of water?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It floats on the surface"
+        },
+        {
+          "id": "B",
+          "text": "It dissolves into the liquid"
+        },
+        {
+          "id": "C",
+          "text": "It sinks to the bottom"
+        },
+        {
+          "id": "D",
+          "text": "It turns into a gas"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "10",
+      "question": "Which specific material is best suited for manufacturing a window pane designed to let sunlight in and allow you to see outside?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Solid wood"
+        },
+        {
+          "id": "B",
+          "text": "Iron sheet"
+        },
+        {
+          "id": "C",
+          "text": "Clear glass"
+        },
+        {
+          "id": "D",
+          "text": "Thick rubber"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "11",
+      "question": "Butter paper allows some light to pass through, but you cannot see details clearly through it. What is this specific optical property called?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Transparent"
+        },
+        {
+          "id": "B",
+          "text": "Translucent"
+        },
+        {
+          "id": "C",
+          "text": "Opaque"
+        },
+        {
+          "id": "D",
+          "text": "Lustrous"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "12",
+      "question": "Why are cooking pots and pans usually manufactured from metals instead of plastics or wood?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because metals are highly transparent."
+        },
+        {
+          "id": "B",
+          "text": "Because metals are soft and easy to mold."
+        },
+        {
+          "id": "C",
+          "text": "Because metals are good conductors of heat and do not melt or burn easily during cooking."
+        },
+        {
+          "id": "D",
+          "text": "Because metals float on boiling water."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "13",
+      "question": "A student vigorously stirs sand into a beaker of water. After leaving it undisturbed for ten minutes, what will happen?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The sand will dissolve completely, creating a solution."
+        },
+        {
+          "id": "B",
+          "text": "The sand will float to the top layer."
+        },
+        {
+          "id": "C",
+          "text": "The sand, being insoluble and denser, will settle at the bottom."
+        },
+        {
+          "id": "D",
+          "text": "The water will undergo a chemical reaction and turn into solid sand."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "14",
+      "question": "Which of the following statements about the physical property of \"mass\" is scientifically true?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mass measures how much light an object reflects into the eye."
+        },
+        {
+          "id": "B",
+          "text": "Mass is a fundamental measure of exactly how much matter is contained inside an object."
+        },
+        {
+          "id": "C",
+          "text": "Light-colored objects always have more mass than dark objects."
+        },
+        {
+          "id": "D",
+          "text": "Mass is synonymous with transparency."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "15",
+      "question": "What scientific property fundamentally explains why an empty, sealed plastic bottle floats on water, but a solid stone sinks instantly?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hardness"
+        },
+        {
+          "id": "B",
+          "text": "Lustre"
+        },
+        {
+          "id": "C",
+          "text": "Transparency"
+        },
+        {
+          "id": "D",
+          "text": "Density (mass relative to volume)"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "D",
+      "explanation": "The correct answer is D."
+    },
+    {
+      "id": "16",
+      "question": "Why is the classification of materials a critical practice in science and industry?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because all materials are chemically identical anyway."
+        },
+        {
+          "id": "B",
+          "text": "It helps identify patterns, simplifies study, and allows engineers to select the most appropriate material for a specific functional use."
+        },
+        {
+          "id": "C",
+          "text": "It is only used to count inventory."
+        },
+        {
+          "id": "D",
+          "text": "To intentionally change their color."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "17",
+      "question": "Some metals slowly lose their shiny luster and look dull or tarnished over time. What primarily causes this chemical change?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Prolonged exposure to atmospheric air and moisture (oxidation)."
+        },
+        {
+          "id": "B",
+          "text": "Being kept in complete darkness."
+        },
+        {
+          "id": "C",
+          "text": "Being looked at too frequently."
+        },
+        {
+          "id": "D",
+          "text": "Washing them with pure, distilled water."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "18",
+      "question": "Which of the following groups contains EXCLUSIVELY natural, non-synthetic materials?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Plastic, glass, nylon"
+        },
+        {
+          "id": "B",
+          "text": "Wood, cotton, natural stone"
+        },
+        {
+          "id": "C",
+          "text": "Iron, synthetic rubber, plastic"
+        },
+        {
+          "id": "D",
+          "text": "Paper, stainless steel, polyester"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "19",
+      "question": "You are tasked with manufacturing a rigid container to hold liquid water. Which material should you absolutely NOT select?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Glass"
+        },
+        {
+          "id": "B",
+          "text": "Plastic"
+        },
+        {
+          "id": "C",
+          "text": "Steel"
+        },
+        {
+          "id": "D",
+          "text": "Woven cotton cloth"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "D",
+      "explanation": "The correct answer is D."
+    },
+    {
+      "id": "20",
+      "question": "How is the \"volume\" of an object defined in physical science?",
+      "options": [
+        {
+          "id": "A",
+          "text": "How loud an object sounds when struck."
+        },
+        {
+          "id": "B",
+          "text": "The total amount of three-dimensional space that the object occupies."
+        },
+        {
+          "id": "C",
+          "text": "How intensely shiny an object appears."
+        },
+        {
+          "id": "D",
+          "text": "The gravitational pull on the object."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "21",
+      "question": "A liquid mixture is experimentally created in a beaker using water, fresh lemon juice, and mustard oil. After settling, what will you observe?",
+      "options": [
+        {
+          "id": "A",
+          "text": "All three liquids will mix completely into one homogenous, clear liquid."
+        },
+        {
+          "id": "B",
+          "text": "The lemon juice will dissolve perfectly in the water, but the immiscible mustard oil will float on top as a distinct, separate layer."
+        },
+        {
+          "id": "C",
+          "text": "The mustard oil will dissolve, but the lemon juice will float."
+        },
+        {
+          "id": "D",
+          "text": "All three liquids will sink to the bottom as solids."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "22",
+      "question": "If you have two identical-looking solid blocks of the exact same physical size (identical volume), but Block A is made of solid iron and Block B is made of pine wood, how will their mass compare when weighed?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They will have the exact same mass because they occupy the same volume."
+        },
+        {
+          "id": "B",
+          "text": "Block A will have significantly more mass because iron is far denser (contains more matter per unit volume) than wood."
+        },
+        {
+          "id": "C",
+          "text": "Block B will have more mass due to trapped air."
+        },
+        {
+          "id": "D",
+          "text": "Mass cannot be determined without measuring transparency."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "23",
+      "question": "Why is the famous proverb \"All that glitters is not gold\" highly relevant when scientifically studying the luster of materials?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pure gold is never actually shiny in nature."
+        },
+        {
+          "id": "B",
+          "text": "Applying artificial coatings, wax, or polishing can make non-metals appear highly lustrous, so visual appearance alone is insufficient to identify a metal."
+        },
+        {
+          "id": "C",
+          "text": "Glitter is biologically made of gold."
+        },
+        {
+          "id": "D",
+          "text": "Only non-metals are capable of glittering."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "24",
+      "question": "In the life-saving creation of an Oral Rehydration Solution (ORS), salt and sugar are stirred into water until they disappear. Why is this possible?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because salt and sugar are inherently insoluble in water."
+        },
+        {
+          "id": "B",
+          "text": "Because salt and sugar are highly soluble in water, forming a uniform, homogenous liquid solution."
+        },
+        {
+          "id": "C",
+          "text": "Because they chemically react to make the water opaque."
+        },
+        {
+          "id": "D",
+          "text": "Because they float microscopically on the surface tension."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "25",
+      "question": "A shopkeeper purposefully stores expensive biscuits in a large glass jar rather than an opaque steel container. What is the scientific reasoning based on material properties?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Glass is physically harder and less prone to denting than steel."
+        },
+        {
+          "id": "B",
+          "text": "Glass is transparent, allowing light to pass through so customers can clearly see the product inside, driving sales."
+        },
+        {
+          "id": "C",
+          "text": "Glass chemically alters the biscuits to taste better."
+        },
+        {
+          "id": "D",
+          "text": "Glass is a highly lustrous, metallic material."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "26",
+      "question": "Which precise set of physical properties best describes a standard, solid iron nail?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Soft, lustrous, transparent, floats easily on water."
+        },
+        {
+          "id": "B",
+          "text": "Hard, naturally non-lustrous, opaque, highly soluble in water."
+        },
+        {
+          "id": "C",
+          "text": "Hard, lustrous (when freshly cut/clean), opaque, sinks rapidly in water."
+        },
+        {
+          "id": "D",
+          "text": "Soft, dull, translucent, sinks slowly in water."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "27",
+      "question": "How does the rigorous classification of materials actively assist in daily life manufacturing and engineering?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It prevents manufacturers from ever using any natural resources."
+        },
+        {
+          "id": "B",
+          "text": "By deeply understanding properties (e.g., the elasticity of rubber vs. the brittleness of glass), engineers can select appropriate materials to build safe, functional, and durable products."
+        },
+        {
+          "id": "C",
+          "text": "It mandates that manufacturers make everything out of cheap plastic."
+        },
+        {
+          "id": "D",
+          "text": "It makes manufacturing processes intentionally slower and more difficult."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "28",
+      "question": "If oxygen gas suddenly lost its physical property of dissolving in water (became insoluble), what would be the most immediate, catastrophic environmental consequence?",
+      "options": [
+        {
+          "id": "A",
+          "text": "All global water bodies would instantly become transparent."
+        },
+        {
+          "id": "B",
+          "text": "Aquatic life (like fish) would rapidly suffocate and die, because they rely entirely on extracting dissolved oxygen from the water to breathe."
+        },
+        {
+          "id": "C",
+          "text": "The water would boil immediately due to gas pressure."
+        },
+        {
+          "id": "D",
+          "text": "Aquatic plants would grow exponentially faster."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "29",
+      "question": "Which of the following architectural objects demonstrates the deliberate use of a translucent material by design?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A completely clear car windshield for driving."
+        },
+        {
+          "id": "B",
+          "text": "A solid, load-bearing brick wall."
+        },
+        {
+          "id": "C",
+          "text": "Frosted glass installed in a bathroom window to provide natural light while maintaining privacy."
+        },
+        {
+          "id": "D",
+          "text": "A highly polished magnifying glass."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "30",
+      "question": "Which of the following is the fundamental, defining physical property that identifies all \"matter\" in the universe?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It must be perfectly transparent to light."
+        },
+        {
+          "id": "B",
+          "text": "It must be able to float on liquid water."
+        },
+        {
+          "id": "C",
+          "text": "It must physically occupy space (have volume) and possess mass."
+        },
+        {
+          "id": "D",
+          "text": "It must be biologically living or have once been living."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    }
+  ]
+}
