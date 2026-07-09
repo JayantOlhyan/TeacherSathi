@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "Who wrote the letter in the chapter \"Spices That Heal Us\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A doctor"
+        },
+        {
+          "id": "B",
+          "text": "A grandmother (Daadi)"
+        },
+        {
+          "id": "C",
+          "text": "A scientist"
+        },
+        {
+          "id": "D",
+          "text": "A teacher"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "2",
+      "question": "Who did Daadi write the letter to?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Her neighbors"
+        },
+        {
+          "id": "B",
+          "text": "Her grandchildren, Vikram and Vaibhavi"
+        },
+        {
+          "id": "C",
+          "text": "A spice merchant"
+        },
+        {
+          "id": "D",
+          "text": "The king"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "3",
+      "question": "What is another name for 'haldi'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cumin"
+        },
+        {
+          "id": "B",
+          "text": "Mustard"
+        },
+        {
+          "id": "C",
+          "text": "Turmeric"
+        },
+        {
+          "id": "D",
+          "text": "Garlic"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "4",
+      "question": "What does haldi (turmeric) help improve?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Eyesight"
+        },
+        {
+          "id": "B",
+          "text": "Energy level, digestion, and body pain"
+        },
+        {
+          "id": "C",
+          "text": "Hearing"
+        },
+        {
+          "id": "D",
+          "text": "Hair growth"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "5",
+      "question": "Which spice is known as 'methi' in Hindi?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fenugreek"
+        },
+        {
+          "id": "B",
+          "text": "Clove"
+        },
+        {
+          "id": "C",
+          "text": "Cinnamon"
+        },
+        {
+          "id": "D",
+          "text": "Black pepper"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "6",
+      "question": "What do dalchini (cinnamon) and laung (clove) give relief from?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Stomach ache"
+        },
+        {
+          "id": "B",
+          "text": "Toothache"
+        },
+        {
+          "id": "C",
+          "text": "Fever"
+        },
+        {
+          "id": "D",
+          "text": "Back pain"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "7",
+      "question": "What did Daadi use to relieve gas in the children's tummies when they were babies?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cold water"
+        },
+        {
+          "id": "B",
+          "text": "Heeng (asafoetida) water"
+        },
+        {
+          "id": "C",
+          "text": "Milk"
+        },
+        {
+          "id": "D",
+          "text": "Sugar syrup"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "8",
+      "question": "Which herb has been used for cooking and curing coughs for over 4000 years?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Adrak (ginger)"
+        },
+        {
+          "id": "B",
+          "text": "Carrot"
+        },
+        {
+          "id": "C",
+          "text": "Potato"
+        },
+        {
+          "id": "D",
+          "text": "Onion"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "9",
+      "question": "Which spices are often served at the end of a meal to help digest food?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Chilli and turmeric"
+        },
+        {
+          "id": "B",
+          "text": "Saunf (fennel) and ajwain (carom seeds)"
+        },
+        {
+          "id": "C",
+          "text": "Clove and cinnamon"
+        },
+        {
+          "id": "D",
+          "text": "Mustard and garlic"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "10",
+      "question": "What did Daadi advise the children to do before trying these spices as medicine?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Eat as much as possible"
+        },
+        {
+          "id": "B",
+          "text": "Consult an elder"
+        },
+        {
+          "id": "C",
+          "text": "Only use them at night"
+        },
+        {
+          "id": "D",
+          "text": "Stop going to the doctor"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "11",
+      "question": "From whom did Daadi learn these natural cures?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A medical textbook"
+        },
+        {
+          "id": "B",
+          "text": "Her own grandmother"
+        },
+        {
+          "id": "C",
+          "text": "The internet"
+        },
+        {
+          "id": "D",
+          "text": "A local shopkeeper"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "12",
+      "question": "Why did Daadi write this letter to Vikram and Vaibhavi?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because she was angry with them"
+        },
+        {
+          "id": "B",
+          "text": "Because they had recently fallen ill and she wanted to share natural ways to stay healthy"
+        },
+        {
+          "id": "C",
+          "text": "To ask for money"
+        },
+        {
+          "id": "D",
+          "text": "To invite them for dinner"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "13",
+      "question": "How should methi (fenugreek) seeds be prepared to control sugar levels?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Boiled for an hour"
+        },
+        {
+          "id": "B",
+          "text": "Soaked overnight in water and drunk in the morning"
+        },
+        {
+          "id": "C",
+          "text": "Mixed with honey"
+        },
+        {
+          "id": "D",
+          "text": "Roasted in a pan"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "14",
+      "question": "What does soaking jeera (cumin) in water overnight help cure?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Broken bones"
+        },
+        {
+          "id": "B",
+          "text": "Sleeplessness and bad digestion"
+        },
+        {
+          "id": "C",
+          "text": "Bad eyesight"
+        },
+        {
+          "id": "D",
+          "text": "Hair fall"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "15",
+      "question": "What does the chapter tell us about Indian food?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It is too spicy and bad for you"
+        },
+        {
+          "id": "B",
+          "text": "It uses ingredients that naturally act as medicines to keep us healthy"
+        },
+        {
+          "id": "C",
+          "text": "It relies on artificial flavors"
+        },
+        {
+          "id": "D",
+          "text": "It takes too long to make"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "16",
+      "question": "Why did Daadi tell the children to share this knowledge with their friends?",
+      "options": [
+        {
+          "id": "A",
+          "text": "So they could sell spices"
+        },
+        {
+          "id": "B",
+          "text": "To pass on valuable traditional knowledge and help others stay healthy"
+        },
+        {
+          "id": "C",
+          "text": "Because it was a big secret"
+        },
+        {
+          "id": "D",
+          "text": "To show off"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "17",
+      "question": "How does Kali Mirch (black pepper) help the body?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It cures toothaches"
+        },
+        {
+          "id": "B",
+          "text": "It helps in digestion and gives relief from body pain"
+        },
+        {
+          "id": "C",
+          "text": "It lowers sugar"
+        },
+        {
+          "id": "D",
+          "text": "It clears skin"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "18",
+      "question": "What do cumin, coriander, fennel, and carom seeds generally have in common?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They are all red"
+        },
+        {
+          "id": "B",
+          "text": "They all help improve the digestive system"
+        },
+        {
+          "id": "C",
+          "text": "They are applied to the skin"
+        },
+        {
+          "id": "D",
+          "text": "They cure toothaches"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "19",
+      "question": "What is the tone (feeling) of Daadi's letter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Angry and loud"
+        },
+        {
+          "id": "B",
+          "text": "Affectionate, educational, and caring"
+        },
+        {
+          "id": "C",
+          "text": "Cold and formal"
+        },
+        {
+          "id": "D",
+          "text": "Sarcastic"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "20",
+      "question": "Why must you consult an elder before using these home remedies?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because spices are expensive"
+        },
+        {
+          "id": "B",
+          "text": "To make sure you use the right amount and it is safe for your specific problem"
+        },
+        {
+          "id": "C",
+          "text": "Because elders need to cook the food"
+        },
+        {
+          "id": "D",
+          "text": "To avoid making a mess"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "21",
+      "question": "What does this chapter teach us about \"traditional knowledge\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It is outdated and should be forgotten"
+        },
+        {
+          "id": "B",
+          "text": "Wisdom passed down from older generations is scientifically valuable and useful today"
+        },
+        {
+          "id": "C",
+          "text": "Modern medicine is always better"
+        },
+        {
+          "id": "D",
+          "text": "Older people tell fairy tales"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "22",
+      "question": "How does the text connect our culture to wellness?",
+      "options": [
+        {
+          "id": "A",
+          "text": "By saying we shouldn't eat"
+        },
+        {
+          "id": "B",
+          "text": "By showing that ancient Indian kitchen practices have proven health benefits"
+        },
+        {
+          "id": "C",
+          "text": "By claiming spices cure everything magically"
+        },
+        {
+          "id": "D",
+          "text": "By changing old recipes"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "23",
+      "question": "The fact that ginger has been used for over 4,000 years proves what?",
+      "options": [
+        {
+          "id": "A",
+          "text": "That it is an old, useless root"
+        },
+        {
+          "id": "B",
+          "text": "Its lasting success and reliability as a natural medicine and flavor across history"
+        },
+        {
+          "id": "C",
+          "text": "That it is difficult to grow"
+        },
+        {
+          "id": "D",
+          "text": "That it is a myth"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "24",
+      "question": "What does the advice to \"consult an elder\" reveal about home remedies?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They are dangerous poisons"
+        },
+        {
+          "id": "B",
+          "text": "While they are natural, they require careful guidance and aren't replacements for serious medical care"
+        },
+        {
+          "id": "C",
+          "text": "Elders possess magical powers"
+        },
+        {
+          "id": "D",
+          "text": "Children should not cook"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "25",
+      "question": "How does Heeng (asafoetida) act in two different ways?",
+      "options": [
+        {
+          "id": "A",
+          "text": "As a poison and a cure"
+        },
+        {
+          "id": "B",
+          "text": "As a tasty spice for food and an active medicine for tummy aches and colds"
+        },
+        {
+          "id": "C",
+          "text": "As a dye and a perfume"
+        },
+        {
+          "id": "D",
+          "text": "As a building material and a spice"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "26",
+      "question": "What big idea about health is promoted by using spices?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Health is only achieved in a hospital"
+        },
+        {
+          "id": "B",
+          "text": "Preventing illness and maintaining daily wellness can start simply with the food we eat"
+        },
+        {
+          "id": "C",
+          "text": "Diet does not affect health"
+        },
+        {
+          "id": "D",
+          "text": "Illness cannot be stopped"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "27",
+      "question": "Why is the kitchen an important setting in this narrative?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It is the only room in the house"
+        },
+        {
+          "id": "B",
+          "text": "It turns a normal household room into a place of profound healing and wisdom"
+        },
+        {
+          "id": "C",
+          "text": "It shows that women belong in the kitchen"
+        },
+        {
+          "id": "D",
+          "text": "It highlights the lack of hospitals"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "28",
+      "question": "The poem groups spices by what they cure (e.g., digestion, pain). This is similar to what science?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mathematics"
+        },
+        {
+          "id": "B",
+          "text": "Basic pharmacology (the science of medicines)"
+        },
+        {
+          "id": "C",
+          "text": "Geometry"
+        },
+        {
+          "id": "D",
+          "text": "Astronomy"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "29",
+      "question": "Why is it important that Daadi wrote this down for her grandchildren?",
+      "options": [
+        {
+          "id": "A",
+          "text": "So she could sell the paper"
+        },
+        {
+          "id": "B",
+          "text": "It is an act of deep care to ensure this valuable knowledge survives and protects them in the future"
+        },
+        {
+          "id": "C",
+          "text": "It was a school assignment"
+        },
+        {
+          "id": "D",
+          "text": "She wanted to scold them"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "30",
+      "question": "Which of the following words best describes the type of medicine Daadi practices?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Synthetic (chemical) medicine"
+        },
+        {
+          "id": "B",
+          "text": "Natural, indigenous home remedies"
+        },
+        {
+          "id": "C",
+          "text": "Abstract philosophy"
+        },
+        {
+          "id": "D",
+          "text": "Magical spells"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    }
+  ]
+}
