@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "What is a miniature, three-dimensional representation of the Earth called?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A map"
+        },
+        {
+          "id": "B",
+          "text": "A globe"
+        },
+        {
+          "id": "C",
+          "text": "A grid"
+        },
+        {
+          "id": "D",
+          "text": "A compass"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "2",
+      "question": "What are the imaginary horizontal lines drawn on the globe called?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Longitudes"
+        },
+        {
+          "id": "B",
+          "text": "Latitudes"
+        },
+        {
+          "id": "C",
+          "text": "Meridians"
+        },
+        {
+          "id": "D",
+          "text": "Time Zones"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "3",
+      "question": "Which important imaginary line divides the Earth exactly into the Northern and Southern Hemispheres?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tropic of Cancer"
+        },
+        {
+          "id": "B",
+          "text": "Prime Meridian"
+        },
+        {
+          "id": "C",
+          "text": "Equator"
+        },
+        {
+          "id": "D",
+          "text": "Tropic of Capricorn"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "4",
+      "question": "The Prime Meridian is designated as which degree of longitude?",
+      "options": [
+        {
+          "id": "A",
+          "text": "0°"
+        },
+        {
+          "id": "B",
+          "text": "90°"
+        },
+        {
+          "id": "C",
+          "text": "180°"
+        },
+        {
+          "id": "D",
+          "text": "360°"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "5",
+      "question": "The network formed by intersecting latitudes and longitudes is known as:",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Map Scale"
+        },
+        {
+          "id": "B",
+          "text": "The Grid System"
+        },
+        {
+          "id": "C",
+          "text": "The Compass Rose"
+        },
+        {
+          "id": "D",
+          "text": "The Symbol Network"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "6",
+      "question": "Which direction is generally indicated at the top of a standard map?",
+      "options": [
+        {
+          "id": "A",
+          "text": "South"
+        },
+        {
+          "id": "B",
+          "text": "East"
+        },
+        {
+          "id": "C",
+          "text": "West"
+        },
+        {
+          "id": "D",
+          "text": "North"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "D",
+      "explanation": "The correct answer is D."
+    },
+    {
+      "id": "7",
+      "question": "Why are symbols used extensively on maps?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To make maps look colourful"
+        },
+        {
+          "id": "B",
+          "text": "To show numerous details and information in a limited space"
+        },
+        {
+          "id": "C",
+          "text": "To hide secret locations"
+        },
+        {
+          "id": "D",
+          "text": "To practice drawing shapes"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "8",
+      "question": "What is the actual shape of the Earth?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perfectly flat"
+        },
+        {
+          "id": "B",
+          "text": "A perfect square"
+        },
+        {
+          "id": "C",
+          "text": "Nearly spherical, slightly flattened at the poles"
+        },
+        {
+          "id": "D",
+          "text": "A perfect circle"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "9",
+      "question": "What component of a map helps us measure the actual distance between two places?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The title"
+        },
+        {
+          "id": "B",
+          "text": "The scale"
+        },
+        {
+          "id": "C",
+          "text": "The colour blue"
+        },
+        {
+          "id": "D",
+          "text": "The date"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "10",
+      "question": "Which government body in India is responsible for fixing a standard set of conventional symbols for maps?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Reserve Bank of India"
+        },
+        {
+          "id": "B",
+          "text": "Ministry of Education"
+        },
+        {
+          "id": "C",
+          "text": "Survey of India"
+        },
+        {
+          "id": "D",
+          "text": "Indian Railways"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "11",
+      "question": "If a traveler moves from the Prime Meridian towards the East, what happens to their local time?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It becomes ahead of the Prime Meridian time"
+        },
+        {
+          "id": "B",
+          "text": "It becomes behind the Prime Meridian time"
+        },
+        {
+          "id": "C",
+          "text": "It remains exactly the same"
+        },
+        {
+          "id": "D",
+          "text": "Time completely stops"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "12",
+      "question": "What is the specific value of the Standard Meridian used to determine Indian Standard Time (IST)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "0°"
+        },
+        {
+          "id": "B",
+          "text": "82½° East"
+        },
+        {
+          "id": "C",
+          "text": "82½° West"
+        },
+        {
+          "id": "D",
+          "text": "90° East"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "13",
+      "question": "By how many minutes does the local time change for every 1° of longitude?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 minute"
+        },
+        {
+          "id": "B",
+          "text": "2 minutes"
+        },
+        {
+          "id": "C",
+          "text": "4 minutes"
+        },
+        {
+          "id": "D",
+          "text": "15 minutes"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "14",
+      "question": "Which ancient Indian city had its own prime meridian used by early astronomers centuries before Greenwich?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pataliputra"
+        },
+        {
+          "id": "B",
+          "text": "Ujjayini (Ujjain)"
+        },
+        {
+          "id": "C",
+          "text": "Varanasi"
+        },
+        {
+          "id": "D",
+          "text": "Taxila"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "15",
+      "question": "If it is exactly 12:00 noon in London (at 0° longitude), what time is it in India?",
+      "options": [
+        {
+          "id": "A",
+          "text": "12:00 midnight"
+        },
+        {
+          "id": "B",
+          "text": "5:30 am"
+        },
+        {
+          "id": "C",
+          "text": "5:30 pm"
+        },
+        {
+          "id": "D",
+          "text": "10:00 pm"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "16",
+      "question": "In which direction do the imaginary lines of longitude run on a globe?",
+      "options": [
+        {
+          "id": "A",
+          "text": "East to West"
+        },
+        {
+          "id": "B",
+          "text": "North to South"
+        },
+        {
+          "id": "C",
+          "text": "Only North"
+        },
+        {
+          "id": "D",
+          "text": "Only East"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "17",
+      "question": "Why is it geographically challenging to represent the Earth accurately on a flat paper map?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because paper is too thin"
+        },
+        {
+          "id": "B",
+          "text": "Because representing a three-dimensional sphere on a two-dimensional surface inevitably causes distortion"
+        },
+        {
+          "id": "C",
+          "text": "Because there are too many countries to draw"
+        },
+        {
+          "id": "D",
+          "text": "Because oceans cannot be coloured"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "18",
+      "question": "On a physical map, what is primarily depicted?",
+      "options": [
+        {
+          "id": "A",
+          "text": "State boundaries"
+        },
+        {
+          "id": "B",
+          "text": "Natural features like mountains, plains, and rivers"
+        },
+        {
+          "id": "C",
+          "text": "City populations"
+        },
+        {
+          "id": "D",
+          "text": "Locations of schools"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "19",
+      "question": "Which imaginary line runs parallel to the Equator in the Northern Hemisphere?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Prime Meridian"
+        },
+        {
+          "id": "B",
+          "text": "Tropic of Cancer"
+        },
+        {
+          "id": "C",
+          "text": "International Date Line"
+        },
+        {
+          "id": "D",
+          "text": "Standard Meridian"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "20",
+      "question": "Why did India adopt a single Standard Time for the whole country?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To create confusion during travel"
+        },
+        {
+          "id": "B",
+          "text": "To ensure uniformity of time across the nation, avoiding differences between eastern and western regions"
+        },
+        {
+          "id": "C",
+          "text": "Because the country is very small"
+        },
+        {
+          "id": "D",
+          "text": "Because there are no longitudes crossing India"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "21",
+      "question": "If a nation is geographically vast and spans across 45 degrees of longitude, what is the most scientifically sound approach for its timekeeping?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It must strictly use the time of London"
+        },
+        {
+          "id": "B",
+          "text": "It may need to establish multiple time zones to align local time with solar time"
+        },
+        {
+          "id": "C",
+          "text": "It should ignore standard time altogether"
+        },
+        {
+          "id": "D",
+          "text": "It should follow the lunar cycle"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "22",
+      "question": "How does the Earth's rotation influence the global perception of sunrise?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because the Earth rotates from West to East, places situated to the East experience sunrise earlier than places to the West"
+        },
+        {
+          "id": "B",
+          "text": "Places in the West experience sunrise first"
+        },
+        {
+          "id": "C",
+          "text": "The entire Earth experiences sunrise at the exact same moment"
+        },
+        {
+          "id": "D",
+          "text": "Sunrise is determined by the phases of the moon"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "23",
+      "question": "The geographic grid system is fundamentally similar to which of the following everyday concepts?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Painting a wall with different colours"
+        },
+        {
+          "id": "B",
+          "text": "Identifying a specific square on a chessboard using intersecting rows and columns"
+        },
+        {
+          "id": "C",
+          "text": "Measuring the weight of an object"
+        },
+        {
+          "id": "D",
+          "text": "Reading a clock face"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "24",
+      "question": "A student observes that the time is 12:04 pm at 1° East longitude. What is the exact time at 1° West longitude if both are calculated relative to 12:00 noon at the Prime Meridian?",
+      "options": [
+        {
+          "id": "A",
+          "text": "11:56 am"
+        },
+        {
+          "id": "B",
+          "text": "12:04 pm"
+        },
+        {
+          "id": "C",
+          "text": "12:08 pm"
+        },
+        {
+          "id": "D",
+          "text": "11:00 am"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "25",
+      "question": "Why are conventional symbols critically referred to as the \"universal language\" of maps?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because they use English letters exclusively"
+        },
+        {
+          "id": "B",
+          "text": "Because they transcend language barriers, enabling users of diverse linguistic backgrounds to understand spatial data seamlessly"
+        },
+        {
+          "id": "C",
+          "text": "Because they were designed for space exploration"
+        },
+        {
+          "id": "D",
+          "text": "Because they are only understood by cartographers"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "26",
+      "question": "Which of the following statements concerning the Equator is geographically inaccurate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It represents 0° latitude"
+        },
+        {
+          "id": "B",
+          "text": "It divides the Earth into the Eastern and Western Hemispheres"
+        },
+        {
+          "id": "C",
+          "text": "It is an imaginary circular line"
+        },
+        {
+          "id": "D",
+          "text": "It is the largest circle of latitude on the globe"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "27",
+      "question": "Given that the Earth completes a full 360° rotation in 24 hours, how many degrees of longitude does it traverse in exactly one hour?",
+      "options": [
+        {
+          "id": "A",
+          "text": "4°"
+        },
+        {
+          "id": "B",
+          "text": "10°"
+        },
+        {
+          "id": "C",
+          "text": "15°"
+        },
+        {
+          "id": "D",
+          "text": "30°"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "28",
+      "question": "What would be the primary navigational consequence if a map lacked a scale?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It would be mathematically impossible to determine the true distance between two locations on the ground"
+        },
+        {
+          "id": "B",
+          "text": "The map would automatically morph into a globe"
+        },
+        {
+          "id": "C",
+          "text": "All conventional symbols would disappear"
+        },
+        {
+          "id": "D",
+          "text": "The cardinal directions would reverse"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "29",
+      "question": "A thematic map is specifically engineered to display:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Exclusively political state boundaries"
+        },
+        {
+          "id": "B",
+          "text": "Exclusively natural physical terrain"
+        },
+        {
+          "id": "C",
+          "text": "Specific spatial information such as rainfall distribution, forest cover, or industrial zones"
+        },
+        {
+          "id": "D",
+          "text": "The exact spherical curvature of the Earth"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "30",
+      "question": "The Prime Meridian (0°) and the 180° meridian collectively form a great circle. What specific geographical division do they create?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Northern and Southern Hemispheres"
+        },
+        {
+          "id": "B",
+          "text": "The Eastern and Western Hemispheres"
+        },
+        {
+          "id": "C",
+          "text": "The Tropical and Polar climate zones"
+        },
+        {
+          "id": "D",
+          "text": "The continental and oceanic boundaries"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    }
+  ]
+}
