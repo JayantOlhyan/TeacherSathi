@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "Where did the baby bird live first?",
+      "options": [
+        {
+          "id": "A",
+          "text": "In a nest"
+        },
+        {
+          "id": "B",
+          "text": "In a little pale blue shell"
+        },
+        {
+          "id": "C",
+          "text": "In a cage"
+        },
+        {
+          "id": "D",
+          "text": "On the ground"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "2",
+      "question": "What did the bird think the world was made of when inside the shell?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Straw"
+        },
+        {
+          "id": "B",
+          "text": "Leaves"
+        },
+        {
+          "id": "C",
+          "text": "Pale blue shell"
+        },
+        {
+          "id": "D",
+          "text": "Glass"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "3",
+      "question": "Where did the bird move to after the shell hatched?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A little nest"
+        },
+        {
+          "id": "B",
+          "text": "The sky"
+        },
+        {
+          "id": "C",
+          "text": "The ocean"
+        },
+        {
+          "id": "D",
+          "text": "Another tree"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "4",
+      "question": "Who was with the bird in the little nest?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A farmer"
+        },
+        {
+          "id": "B",
+          "text": "Its siblings"
+        },
+        {
+          "id": "C",
+          "text": "Its mother"
+        },
+        {
+          "id": "D",
+          "text": "A squirrel"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "5",
+      "question": "What did the bird think the world was made of while in the nest?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Feathers"
+        },
+        {
+          "id": "B",
+          "text": "Mud"
+        },
+        {
+          "id": "C",
+          "text": "Straw"
+        },
+        {
+          "id": "D",
+          "text": "Sticks"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "6",
+      "question": "What did the bird do one day to see what it could find?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It fell asleep"
+        },
+        {
+          "id": "B",
+          "text": "It fluttered from its nest"
+        },
+        {
+          "id": "C",
+          "text": "It sang a song"
+        },
+        {
+          "id": "D",
+          "text": "It dug a hole"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "7",
+      "question": "What did the bird see all around when it left the nest?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The ocean"
+        },
+        {
+          "id": "B",
+          "text": "Leaves"
+        },
+        {
+          "id": "C",
+          "text": "People"
+        },
+        {
+          "id": "D",
+          "text": "Mountains"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "8",
+      "question": "When the bird saw the leaves, what did it say it had been?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Very smart"
+        },
+        {
+          "id": "B",
+          "text": "Very fast"
+        },
+        {
+          "id": "C",
+          "text": "Very blind"
+        },
+        {
+          "id": "D",
+          "text": "Very happy"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "9",
+      "question": "Where did the bird fly when it grew up?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Back to the shell"
+        },
+        {
+          "id": "B",
+          "text": "Beyond the tree into the wide world"
+        },
+        {
+          "id": "C",
+          "text": "Inside a house"
+        },
+        {
+          "id": "D",
+          "text": "Under the ground"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "10",
+      "question": "Does the grown-up bird know exactly how the whole world is made?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes, it knows everything"
+        },
+        {
+          "id": "B",
+          "text": "No, it admits it doesn't know, and neither do its neighbours"
+        },
+        {
+          "id": "C",
+          "text": "The world is flat"
+        },
+        {
+          "id": "D",
+          "text": "The world is made of water"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "11",
+      "question": "How does the bird's idea of the world change in the poem?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It gets smaller"
+        },
+        {
+          "id": "B",
+          "text": "It stays exactly the same"
+        },
+        {
+          "id": "C",
+          "text": "It gets bigger and changes every time the bird grows and sees more"
+        },
+        {
+          "id": "D",
+          "text": "It becomes scarier"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "12",
+      "question": "What does the \"pale, blue shell\" represent for a baby?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A school"
+        },
+        {
+          "id": "B",
+          "text": "The safe, tiny, and limited world of being a newborn infant"
+        },
+        {
+          "id": "C",
+          "text": "A playground"
+        },
+        {
+          "id": "D",
+          "text": "A toy"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "13",
+      "question": "Why did the bird think the world was made of straw?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because it was eating straw"
+        },
+        {
+          "id": "B",
+          "text": "Because its nest was made of straw, and that was all it could see"
+        },
+        {
+          "id": "C",
+          "text": "Its mother told it a lie"
+        },
+        {
+          "id": "D",
+          "text": "It saw a farm"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "14",
+      "question": "What made the bird realize the world was made of leaves?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It fell out of the tree"
+        },
+        {
+          "id": "B",
+          "text": "It gathered the courage to flutter out of the nest and look around the branches"
+        },
+        {
+          "id": "C",
+          "text": "A leaf hit its head"
+        },
+        {
+          "id": "D",
+          "text": "The wind blew the nest away"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "15",
+      "question": "Why does the bird say \"I have been very blind\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It lost its eyesight"
+        },
+        {
+          "id": "B",
+          "text": "It realizes its old idea of the world was wrong because it hadn't seen enough yet"
+        },
+        {
+          "id": "C",
+          "text": "It was dark outside"
+        },
+        {
+          "id": "D",
+          "text": "The leaves covered its eyes"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "16",
+      "question": "What does it mean when the bird is \"fit for grown-up labours\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It is building a house"
+        },
+        {
+          "id": "B",
+          "text": "It is strong and mature enough to take on adult responsibilities and fly away"
+        },
+        {
+          "id": "C",
+          "text": "It is carrying heavy things"
+        },
+        {
+          "id": "D",
+          "text": "It is tired"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "17",
+      "question": "Why was the bird happy in the first two stanzas?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It was flying"
+        },
+        {
+          "id": "B",
+          "text": "It felt secure, warm, and protected by its shell and its mother"
+        },
+        {
+          "id": "C",
+          "text": "It was eating worms"
+        },
+        {
+          "id": "D",
+          "text": "It was singing loudly"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "18",
+      "question": "How does the poem show the bird's curiosity?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The bird wants to stay in the shell forever"
+        },
+        {
+          "id": "B",
+          "text": "The bird actively flutters out to explore and see what it can find"
+        },
+        {
+          "id": "C",
+          "text": "The bird goes to sleep"
+        },
+        {
+          "id": "D",
+          "text": "The bird ignores the leaves"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "19",
+      "question": "What is the final lesson the bird learns about the world?",
+      "options": [
+        {
+          "id": "A",
+          "text": "We eventually learn everything"
+        },
+        {
+          "id": "B",
+          "text": "Even when we grow up, the world is so huge that we still don't know everything about it"
+        },
+        {
+          "id": "C",
+          "text": "Neighbors know more than we do"
+        },
+        {
+          "id": "D",
+          "text": "Learning is useless"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "20",
+      "question": "How do we know the bird is not afraid to admit it doesn't know something?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It cries"
+        },
+        {
+          "id": "B",
+          "text": "It honestly says \"I don't know how the world is made\" at the end"
+        },
+        {
+          "id": "C",
+          "text": "It asks a question"
+        },
+        {
+          "id": "D",
+          "text": "It hides in the tree"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "21",
+      "question": "What does the expanding journey (shell, nest, tree, beyond) act as a metaphor for?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The physical building of a house"
+        },
+        {
+          "id": "B",
+          "text": "A human being's journey of growing up, learning, and expanding their mind"
+        },
+        {
+          "id": "C",
+          "text": "The changing of seasons"
+        },
+        {
+          "id": "D",
+          "text": "How to fly"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "22",
+      "question": "How does the poet use \"dramatic irony\" when we read about the shell and the straw?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The bird lies to us"
+        },
+        {
+          "id": "B",
+          "text": "We (the readers) know the world is bigger, so we smile at the bird's innocent, limited understanding"
+        },
+        {
+          "id": "C",
+          "text": "The mother bird is a predator"
+        },
+        {
+          "id": "D",
+          "text": "The tree is fake"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "23",
+      "question": "What deep truth does the bird's changing ideas show?",
+      "options": [
+        {
+          "id": "A",
+          "text": "That birds are silly"
+        },
+        {
+          "id": "B",
+          "text": "That our understanding of reality is limited by what we have personally experienced"
+        },
+        {
+          "id": "C",
+          "text": "That nothing is real"
+        },
+        {
+          "id": "D",
+          "text": "That straw is better than leaves"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "24",
+      "question": "How does the feeling in the poem change from the beginning to the end?",
+      "options": [
+        {
+          "id": "A",
+          "text": "From fear to anger"
+        },
+        {
+          "id": "B",
+          "text": "From feeling totally certain in a tiny space to feeling humble in a massive, unknown universe"
+        },
+        {
+          "id": "C",
+          "text": "From sadness to extreme joy"
+        },
+        {
+          "id": "D",
+          "text": "From love to hate"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "25",
+      "question": "Why does the poet mention the \"neighbours\" in the last stanza?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To suggest a bird party"
+        },
+        {
+          "id": "B",
+          "text": "To show that nobody—not even adults or others around us—has all the answers to life's big mysteries"
+        },
+        {
+          "id": "C",
+          "text": "To introduce new characters"
+        },
+        {
+          "id": "D",
+          "text": "To show that birds talk to each other"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "26",
+      "question": "Which poetic device gives the poem a simple, musical feel like a nursery rhyme?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Blank verse (no rhyming)"
+        },
+        {
+          "id": "B",
+          "text": "A steady rhythm and a consistent rhyme scheme (like well/shell, other/mother)"
+        },
+        {
+          "id": "C",
+          "text": "Very long, complicated words"
+        },
+        {
+          "id": "D",
+          "text": "Shouting"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "27",
+      "question": "What is the turning point in the bird's mental growth?",
+      "options": [
+        {
+          "id": "A",
+          "text": "When it eats food"
+        },
+        {
+          "id": "B",
+          "text": "The moment of self-awareness when it says \"I have been very blind\" and accepts it was wrong before"
+        },
+        {
+          "id": "C",
+          "text": "When it returns to the nest"
+        },
+        {
+          "id": "D",
+          "text": "When it gets angry"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "28",
+      "question": "The changes in the materials (shell, straw, leaves) symbolize what?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Moving from plastic to natural"
+        },
+        {
+          "id": "B",
+          "text": "The movement from a tight, closed space into a vast, complex, and open reality"
+        },
+        {
+          "id": "C",
+          "text": "Building a better nest"
+        },
+        {
+          "id": "D",
+          "text": "What the bird eats"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "29",
+      "question": "What does this poem teach us about education and learning?",
+      "options": [
+        {
+          "id": "A",
+          "text": "You learn everything in school and then stop"
+        },
+        {
+          "id": "B",
+          "text": "True learning is a lifelong process of exploring, making mistakes, and discovering new things"
+        },
+        {
+          "id": "C",
+          "text": "Education only happens inside"
+        },
+        {
+          "id": "D",
+          "text": "Learning is dangerous"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "30",
+      "question": "Why is it important that the bird fluttered before it flew?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It shows the bird was clumsy"
+        },
+        {
+          "id": "B",
+          "text": "It represents taking small, brave steps out of our comfort zone before we are ready for big independence"
+        },
+        {
+          "id": "C",
+          "text": "It shows the wind was strong"
+        },
+        {
+          "id": "D",
+          "text": "It means the bird's wings were broken"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    }
+  ]
+}
