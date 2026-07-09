@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "The simple, manual process of removing small stones or impurities from rice or dal by hand is called:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sieving"
+        },
+        {
+          "id": "B",
+          "text": "Filtration"
+        },
+        {
+          "id": "C",
+          "text": "Handpicking"
+        },
+        {
+          "id": "D",
+          "text": "Winnowing"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "2",
+      "question": "Which physical method is traditionally used by farmers to separate edible grains from the stalks of harvested crops?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Handpicking"
+        },
+        {
+          "id": "B",
+          "text": "Evaporation"
+        },
+        {
+          "id": "C",
+          "text": "Threshing"
+        },
+        {
+          "id": "D",
+          "text": "Decantation"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "3",
+      "question": "What natural, environmental force is utilized during the process of winnowing to separate lighter husk from heavier grain?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Magnetism"
+        },
+        {
+          "id": "B",
+          "text": "Gravity"
+        },
+        {
+          "id": "C",
+          "text": "Wind or blowing air"
+        },
+        {
+          "id": "D",
+          "text": "Heat"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "4",
+      "question": "A physical tool featuring a mesh with tiny holes, used to separate larger particles from finer ones (like stones from construction sand), is called a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sieve"
+        },
+        {
+          "id": "B",
+          "text": "Magnet"
+        },
+        {
+          "id": "C",
+          "text": "Filter paper"
+        },
+        {
+          "id": "D",
+          "text": "Funnel"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "5",
+      "question": "How can iron nails be most efficiently separated from a mixed pile of wood sawdust?",
+      "options": [
+        {
+          "id": "A",
+          "text": "By washing them with water"
+        },
+        {
+          "id": "B",
+          "text": "By using a strong magnet (Magnetic separation)"
+        },
+        {
+          "id": "C",
+          "text": "By blowing air on them"
+        },
+        {
+          "id": "D",
+          "text": "By boiling the mixture"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "6",
+      "question": "The physical process wherein heavy, insoluble solid particles settle at the bottom of a liquid over time is called:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Evaporation"
+        },
+        {
+          "id": "B",
+          "text": "Sedimentation"
+        },
+        {
+          "id": "C",
+          "text": "Filtration"
+        },
+        {
+          "id": "D",
+          "text": "Churning"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "7",
+      "question": "The act of gently pouring out clear liquid from a vessel after solid impurities have settled at the bottom is known as:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Handpicking"
+        },
+        {
+          "id": "B",
+          "text": "Decantation"
+        },
+        {
+          "id": "C",
+          "text": "Winnowing"
+        },
+        {
+          "id": "D",
+          "text": "Condensation"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "8",
+      "question": "Which specific separation method is best and most commonly used for separating used tea leaves from brewed liquid tea?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Filtration (using a strainer)"
+        },
+        {
+          "id": "B",
+          "text": "Evaporation"
+        },
+        {
+          "id": "C",
+          "text": "Magnetic separation"
+        },
+        {
+          "id": "D",
+          "text": "Threshing"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "9",
+      "question": "What specific natural process is utilized in large shallow pans to obtain crystalline salt from seawater?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Filtration"
+        },
+        {
+          "id": "B",
+          "text": "Decantation"
+        },
+        {
+          "id": "C",
+          "text": "Evaporation"
+        },
+        {
+          "id": "D",
+          "text": "Sieving"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "10",
+      "question": "How is butter traditionally extracted from curd or milk in Indian households?",
+      "options": [
+        {
+          "id": "A",
+          "text": "By boiling it"
+        },
+        {
+          "id": "B",
+          "text": "By churning it vigorously"
+        },
+        {
+          "id": "C",
+          "text": "By filtering it through paper"
+        },
+        {
+          "id": "D",
+          "text": "By sieving it"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "11",
+      "question": "Why is the process of winnowing highly effective for separating agricultural husk from wheat grains?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because they possess different colors."
+        },
+        {
+          "id": "B",
+          "text": "Because the lighter husk is blown away by the wind, while the heavier wheat falls straight down due to gravity."
+        },
+        {
+          "id": "C",
+          "text": "Because husk is highly magnetic."
+        },
+        {
+          "id": "D",
+          "text": "Because wheat chemically dissolves in moving air."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "12",
+      "question": "If a mixture contains a suspension of sand and water, which sequential combination of methods is best to separate them completely?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Evaporation followed by condensation"
+        },
+        {
+          "id": "B",
+          "text": "Handpicking followed by sieving"
+        },
+        {
+          "id": "C",
+          "text": "Sedimentation, followed by decantation, and finally filtration"
+        },
+        {
+          "id": "D",
+          "text": "Magnetic separation"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "13",
+      "question": "In which of the following practical situations would you definitely use a sieve instead of the handpicking method?",
+      "options": [
+        {
+          "id": "A",
+          "text": "When there are only two large stones in a bowl of rice."
+        },
+        {
+          "id": "B",
+          "text": "When the particles to be separated are very small and present in massive quantities (like bran in flour)."
+        },
+        {
+          "id": "C",
+          "text": "When separating cooking oil from water."
+        },
+        {
+          "id": "D",
+          "text": "When separating dissolved salt from water."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "14",
+      "question": "What happens when a liquid mixture of mustard oil and water is left completely undisturbed in a beaker?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They chemically mix into a completely new, clear liquid."
+        },
+        {
+          "id": "B",
+          "text": "They instantly evaporate."
+        },
+        {
+          "id": "C",
+          "text": "They form two distinct, separate layers because they are immiscible, and can then be separated using decantation."
+        },
+        {
+          "id": "D",
+          "text": "The oil sinks to the very bottom."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "15",
+      "question": "What is the specific purpose of the process called 'loading' in domestic water purification?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Adding heavy rocks to water to make the bucket heavy."
+        },
+        {
+          "id": "B",
+          "text": "Adding a chemical like alum, which attaches to fine, suspended clay particles, making them heavier so they settle down faster."
+        },
+        {
+          "id": "C",
+          "text": "Boiling the water to kill germs."
+        },
+        {
+          "id": "D",
+          "text": "Freezing the water into blocks."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "16",
+      "question": "Which two distinct physical processes are working together sequentially when obtaining pure, drinkable water from a salty solution?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Handpicking and sieving"
+        },
+        {
+          "id": "B",
+          "text": "Evaporation (turning water to vapor) and condensation (turning vapor back to pure liquid)"
+        },
+        {
+          "id": "C",
+          "text": "Threshing and winnowing"
+        },
+        {
+          "id": "D",
+          "text": "Filtration and decantation"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "17",
+      "question": "If a mixture of very light puffed rice and heavier raw rice grains needs to be separated, which agricultural method is INCORRECT to use?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Threshing (beating stalks)"
+        },
+        {
+          "id": "B",
+          "text": "Winnowing"
+        },
+        {
+          "id": "C",
+          "text": "Handpicking"
+        },
+        {
+          "id": "D",
+          "text": "Floating in water (puffed rice floats)"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "18",
+      "question": "Why do we expend energy to separate useful components from non-useful ones in everyday domestic life?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To remove harmful impurities/stones, or to separate two different but highly useful components (like extracting butter and leaving buttermilk)."
+        },
+        {
+          "id": "B",
+          "text": "Solely to waste time during cooking."
+        },
+        {
+          "id": "C",
+          "text": "To chemically alter the color of the food."
+        },
+        {
+          "id": "D",
+          "text": "To increase the total mass of the food."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "19",
+      "question": "How are traditional medicinal practices, like Ayurveda, directly reliant on the concept of evaporation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Herbs are boiled until they vanish into the air completely."
+        },
+        {
+          "id": "B",
+          "text": "Plant materials are dried in the shade to slowly remove excess moisture via evaporation while preserving delicate medicinal properties."
+        },
+        {
+          "id": "C",
+          "text": "Medicines are vigorously mixed with salt."
+        },
+        {
+          "id": "D",
+          "text": "Herbs are stored permanently underwater."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "20",
+      "question": "A student accidentally mixes fine chalk powder into a glass of water. It does not dissolve. How can the chalk be completely removed?",
+      "options": [
+        {
+          "id": "A",
+          "text": "By evaporating the water"
+        },
+        {
+          "id": "B",
+          "text": "By using a strong magnet"
+        },
+        {
+          "id": "C",
+          "text": "By passing the mixture through a filter paper (Filtration)"
+        },
+        {
+          "id": "D",
+          "text": "By blowing air on it (Winnowing)"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "21",
+      "question": "You are given a complex mixture of fine sand, salt, and iron filings. What is the correct, most efficient sequence of methods to separate all three components into pure piles?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Add water, filter it, evaporate it, then use a magnet."
+        },
+        {
+          "id": "B",
+          "text": "Use a magnet first to remove iron, add water to dissolve the salt, filter out the insoluble sand, and finally evaporate the filtered water to recover the salt."
+        },
+        {
+          "id": "C",
+          "text": "Sieving, followed by winnowing, then handpicking."
+        },
+        {
+          "id": "D",
+          "text": "Evaporate the entire dry mixture directly."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "22",
+      "question": "Why does the sieving method completely fail to separate a dry mixture of fine wheat flour and finely ground table salt?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because both powders are white in color."
+        },
+        {
+          "id": "B",
+          "text": "Because the particles of both the flour and the salt are similarly small and will easily pass through the mesh of the sieve together."
+        },
+        {
+          "id": "C",
+          "text": "Because salt is technically a liquid."
+        },
+        {
+          "id": "D",
+          "text": "Because wheat flour is highly magnetic."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "23",
+      "question": "What is the fundamental, defining difference between a soluble and an insoluble solid when an engineer is choosing a separation method for liquids?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Soluble solids can be filtered; insoluble solids must be evaporated."
+        },
+        {
+          "id": "B",
+          "text": "Insoluble solids can be separated by physical barriers (filtration) or gravity (sedimentation), while soluble solids require thermal phase changes (evaporation or distillation)."
+        },
+        {
+          "id": "C",
+          "text": "There is no scientific difference in the methods used."
+        },
+        {
+          "id": "D",
+          "text": "Insoluble solids are always magnetic."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "24",
+      "question": "In a large, modern agricultural setting, massive \"combine harvesters\" are used in fields. Which two traditional, manual separation methods do these machines combine into one automated process?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Handpicking and sieving"
+        },
+        {
+          "id": "B",
+          "text": "Threshing (beating the grain) and winnowing (blowing away the chaff)"
+        },
+        {
+          "id": "C",
+          "text": "Evaporation and condensation"
+        },
+        {
+          "id": "D",
+          "text": "Filtration and decantation"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "25",
+      "question": "A saline solution contains dissolved salt. If you only want to recover the solid salt, you use evaporation. If you want to recover BOTH the pure liquid water and the solid salt, what specific process must immediately follow evaporation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Filtration"
+        },
+        {
+          "id": "B",
+          "text": "Condensation (as the second step in the distillation process)"
+        },
+        {
+          "id": "C",
+          "text": "Sedimentation"
+        },
+        {
+          "id": "D",
+          "text": "Decantation"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "26",
+      "question": "Why is 'loading' with a chemical like alum highly effective on extremely muddy water where simple sedimentation is too slow?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Alum acts as a powerful magnet to pull dirt to the surface."
+        },
+        {
+          "id": "B",
+          "text": "Alum chemically dissolves the dirt into nothingness."
+        },
+        {
+          "id": "C",
+          "text": "Alum particles physically attach to the microscopic, suspended clay particles, drastically increasing their mass and causing them to sink rapidly due to gravity."
+        },
+        {
+          "id": "D",
+          "text": "Alum causes the water to boil instantly."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "27",
+      "question": "In the textbook story \"Intelligent Leela,\" she purifies highly muddy water to make it safe and fit for drinking. What is the scientifically correct sequence of her actions?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Boil it, churn it, filter it."
+        },
+        {
+          "id": "B",
+          "text": "Allow for sedimentation (settling), perform filtration (using a fine muslin cloth), and finally boil it (to kill pathogens)."
+        },
+        {
+          "id": "C",
+          "text": "Evaporate it, condense it, winnow it."
+        },
+        {
+          "id": "D",
+          "text": "Thresh it, sieve it, decant it."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "28",
+      "question": "Which of the following statements regarding the physical principles of separation is scientifically FALSE?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Handpicking is only efficient and practical for small quantities of distinct impurities."
+        },
+        {
+          "id": "B",
+          "text": "Winnowing strictly requires a significant difference in mass/weight between the mixed components."
+        },
+        {
+          "id": "C",
+          "text": "A liquid mixture of mustard oil and lemon water can be easily separated by passing it through filter paper."
+        },
+        {
+          "id": "D",
+          "text": "Sieving strictly requires a noticeable difference in particle size."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "29",
+      "question": "By what specific physical mechanism does churning separate solid butter from liquid milk or curd?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It heats the milk rapidly until the butter evaporates."
+        },
+        {
+          "id": "B",
+          "text": "It violently agitates the liquid, causing the lighter, hydrophobic fat particles to collide, clump together, and float to the top based on density differences."
+        },
+        {
+          "id": "C",
+          "text": "It filters the milk through a microscopic internal sieve."
+        },
+        {
+          "id": "D",
+          "text": "It freezes the milk into a solid block of butter."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "30",
+      "question": "If you attempt to separate a fully dissolved mixture of sugar and water by passing it through standard laboratory filter paper, what will be the exact result?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The sugar crystals will stay on the paper and pure water will pass through."
+        },
+        {
+          "id": "B",
+          "text": "The water will stay on the paper and solid sugar will pass through."
+        },
+        {
+          "id": "C",
+          "text": "The entire sugar solution will pass straight through the filter paper because the dissolved sugar molecules are vastly too small to be trapped by the pores."
+        },
+        {
+          "id": "D",
+          "text": "The filter paper will spontaneously combust."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    }
+  ]
+}
