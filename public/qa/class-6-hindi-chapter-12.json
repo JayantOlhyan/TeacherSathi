@@ -1,486 +1,336 @@
 {
-  "chapterTitle": "Chhota-Sa Hindustan in the Indian Ocean (Travelogue) - Dinkar's Mauritius Travelogue",
-  "chapterTitleHi": "हिंद महासागर में छोटा-सा हिंदुस्तान (यात्रा-वृत्तांत)",
+  "chapterTitle": "Hind Mahasagar mein Chota-sa Hindustan",
+  "chapterTitleHi": "हिन्द महासागर में छोटा-सा हिन्दुस्तान (यात्रा-वृत्तांत)",
   "questions": [
     {
       "id": "q1",
       "type": "short",
       "marks": 2,
       "difficulty": "Easy",
-      "question": "Why is Mauritius referred to as a 'mini India' (Chhota-Sa Hindustan) in the Indian Ocean?",
-      "questionHi": "मॉरीशस को हिंद महासागर में 'छोटा-सा हिंदुस्तान' क्यों कहा जाता है?",
-      "answer": "Mauritius is referred to as a 'mini India' because a large majority of its population consists of people of Indian origin whose ancestors migrated there in the 19th century. Despite being thousands of miles away from India, they have preserved Indian traditions, languages (such as Hindi and Bhojpuri), religious rituals, and cultural festivals like Diwali, Holi, and Shivratri with immense devotion. Visiting Mauritius gives an Indian traveller the familiar and heartwarming feeling of being in India.",
-      "answerHi": "मॉरीशस को 'छोटा-सा हिंदुस्तान' इसलिए कहा जाता है क्योंकि वहाँ की आबादी का एक बहुत बड़ा हिस्सा भारतीय मूल के लोगों का है, जिनके पूर्वज 19वीं शताब्दी में वहाँ गए थे। भारत से हज़ारों मील दूर रहने के बावजूद, उन्होंने भारतीय परंपराओं, भाषाओं (जैसे हिंदी और भोजपुरी), धार्मिक अनुष्ठानों और दीपावली, होली व शिवरात्रि जैसे सांस्कृतिक त्योहारों को अत्यंत श्रद्धा के साथ सुरक्षित रखा है। मॉरीशस की यात्रा करने पर किसी भी भारतीय को अपने ही देश में होने जैसी आत्मीय अनुभूति होती है।",
-      "keyPoints": [
-        "Majority Indian origin population / भारतीय मूल की बहुसंख्यक आबादी",
-        "Preservation of Hindi and Bhojpuri languages / हिंदी और भोजपुरी भाषा का संरक्षण",
-        "Celebration of Indian festivals like Diwali and Holi / दीपावली और होली जैसे भारतीय त्योहारों का आयोजन",
-        "Deep cultural and spiritual connection with India / भारत के साथ गहरा सांस्कृतिक और आध्यात्मिक संबंध"
-      ]
+      "question": "Which country has the author called a 'miniature India in the Indian Ocean' and why?",
+      "questionHi": "लेखक ने किस देश को \"हिंद महासागर में छोटा-सा हिंदुस्तान\" कहा है और क्यों?",
+      "answer": "The author has called 'Mauritius' a miniature India. This is because the majority of the population in Mauritius is of Indian origin, who have kept Indian culture, festivals, language, and traditions alive with full devotion even today.",
+      "answerHi": "लेखक ने 'मॉरीशस' देश को छोटा-सा हिंदुस्तान कहा है। ऐसा इसलिए क्योंकि मॉरीशस की अधिकांश आबादी भारतीय मूल के लोगों की है, जो भारत की संस्कृति, त्योहार, भाषा और परंपराओं को पूरी निष्ठा के साथ आज भी जीवित रखे हुए हैं।",
+      "keyPoints": []
     },
     {
       "id": "q2",
       "type": "short",
       "marks": 2,
       "difficulty": "Easy",
-      "question": "Who is the author of the travelogue 'Hind Mahasagar Mein Chhota-Sa Hindustan' and what is his literary prominence?",
-      "questionHi": "'हिंद महासागर में छोटा-सा हिंदुस्तान' यात्रा-वृत्तांत के लेखक कौन हैं और उनका साहित्यिक महत्व क्या है?",
-      "answer": "The travelogue is written by Ramdhari Singh 'Dinkar', one of the most celebrated and influential modern Hindi poets and essayists, who is revered as the 'Rashtrakavi' (National Poet) of India. He is renowned for his patriotic compositions, nationalist fervor, and deep historical consciousness. In this travelogue, he beautifully captures the cultural resilience and emotional bond of the Indian diaspora in Mauritius.",
-      "answerHi": "इस यात्रा-वृत्तांत के लेखक रामधारी सिंह 'दिनकर' हैं, जो आधुनिक हिंदी साहित्य के सर्वाधिक प्रतिष्ठित और प्रभावशाली कवियों व निबंधकारों में से एक हैं तथा उन्हें भारत के 'राष्ट्रकवि' के रूप में सम्मानित किया गया है। वे अपनी देशभक्तिपूर्ण रचनाओं, राष्ट्रीय ओज और गहरी ऐतिहासिक चेतना के लिए प्रसिद्ध हैं। इस यात्रा-वृत्तांत में उन्होंने मॉरीशस में बसे भारतीय समाज की सांस्कृतिक जीवंतता और भावनात्मक जुड़ाव का अत्यंत सुंदर चित्रण किया है।",
-      "keyPoints": [
-        "Author: Ramdhari Singh 'Dinkar' / लेखक: रामधारी सिंह 'दिनकर'",
-        "Revered as 'Rashtrakavi' (National Poet) / 'राष्ट्रकवि' के रूप में सम्मानित",
-        "Famous for nationalist and patriotic writings / राष्ट्रीय ओज और देशभक्तिपूर्ण रचनाओं के लिए प्रसिद्ध",
-        "Depicts cultural resilience of Indian diaspora / भारतीय प्रवासी समाज की सांस्कृतिक दृढ़ता का चित्रण"
-      ]
+      "question": "When, why, and in what form did Indian people go to Mauritius?",
+      "questionHi": "मॉरीशस में भारतीय लोग कब, क्यों और किस रूप में गए थे?",
+      "answer": "Indian people went to Mauritius during the British rule (around the 19th century). They were taken there as indentured laborers or 'Girmitiya laborers' to work in the sugarcane fields.",
+      "answerHi": "मॉरीशस में भारतीय लोग ब्रिटिश शासनकाल के दौरान (लगभग 19वीं शताब्दी में) गए थे। उन्हें वहाँ गन्ने के खेतों में काम करने के लिए बंधुआ मजदूर या 'गिरमिटिया मजदूर' के रूप में ले जाया गया था।",
+      "keyPoints": []
     },
     {
       "id": "q3",
       "type": "short",
       "marks": 2,
       "difficulty": "Easy",
-      "question": "Who were the 'Girmitiyas' (indentured laborers) and under what circumstances did they go to Mauritius?",
-      "questionHi": "'गिरमिटिया' मजदूर कौन थे और वे किन परिस्थितियों में मॉरीशस गए थे?",
-      "answer": "The 'Girmitiyas' were Indian contract laborers (indentured workers) who were taken to colonial territories like Mauritius by the British rulers during the 19th century under an agreement or 'agreement' (which was pronounced as 'girmit' in rural dialects). They were transported under extremely difficult economic conditions in India to work on the vast sugarcane plantations in Mauritius, crossing the treacherous ocean known as 'Kalapani'.",
-      "answerHi": "'गिरमिटिया' वे भारतीय अनुबंधिक (एग्रीमेंट) मजदूर थे, जिन्हें 19वीं शताब्दी के दौरान ब्रिटिश शासकों द्वारा मॉरीशस जैसे उपनिवेशों में ले जाया गया था। अंग्रेजी शब्द 'एग्रीमेंट' को ग्रामीण बोली में 'गिरमिट' कहा जाने लगा, जिससे वे 'गिरमिटिया' कहलाए। भारत में कठिन आर्थिक परिस्थितियों के कारण वे 'कालापानी' पार करके मॉरीशस के विशाल गन्ने के खेतों में कड़ी मेहनत करने के लिए गए थे।",
-      "keyPoints": [
-        "Indentured workers under colonial agreement / औपनिवेशिक अनुबंध के तहत गए मजदूर",
-        "Origin of word: Agreement to 'Girmit' / शब्द की उत्पत्ति: 'एग्रीमेंट' से 'गिरमिट'",
-        "Worked on sugarcane plantations / गन्ने के बागानों में कठिन परिश्रम किया",
-        "Crossed the ocean known as 'Kalapani' / 'कालापानी' की दुर्गम समुद्री यात्रा तय की"
-      ]
+      "question": "Mention any two features of the geographical location and weather of Mauritius.",
+      "questionHi": "मॉरीशस की भौगोलिक स्थिति और वहाँ के मौसम की कोई दो विशेषताएँ बताइए।",
+      "answer": "Mauritius is a beautiful island country located in the Indian Ocean. The weather there remains very pleasant. It is neither too hot nor too cold, and cool sea breezes blow all around.",
+      "answerHi": "मॉरीशस हिंद महासागर में स्थित एक खूबसूरत द्वीप देश है। वहाँ का मौसम बहुत सुहावना रहता है। वहाँ न तो बहुत अधिक गर्मी पड़ती है और न ही बहुत अधिक ठंड, और चारों तरफ ठंडी समुद्री हवाएँ चलती रहती हैं।",
+      "keyPoints": []
     },
     {
       "id": "q4",
       "type": "short",
       "marks": 2,
       "difficulty": "Easy",
-      "question": "What role did Tulsidas's 'Ramcharitmanas' play in the lives of the early Indian laborers in Mauritius?",
-      "questionHi": "मॉरीशस के प्रारंभिक भारतीय मजदूरों के जीवन में तुलसीदास कृत 'रामचरितमानस' की क्या भूमिका रही?",
-      "answer": "Tulsidas's 'Ramcharitmanas' acted as the greatest spiritual anchor and moral bedrock for the early Indian laborers in Mauritius. In a foreign land surrounded by hardships and colonial exploitation, reciting verses from the Ramcharitmanas gave them psychological strength, solace, and hope. It served as a sacred vehicle that kept them connected to their motherland and preserved their moral values across generations.",
-      "answerHi": "तुलसीदास कृत 'रामचरितमानस' मॉरीशस के प्रारंभिक भारतीय मजदूरों के लिए सबसे बड़ा आध्यात्मिक सहारा और नैतिक आधार बनी। विदेश में कठिन श्रम और औपनिवेशिक शोषण के बीच, रामचरितमानस की चौपाइयों के पाठ ने उन्हें मानसिक संबल, शांति और आशा प्रदान की। इस पवित्र ग्रंथ ने उन्हें अपनी मातृभूमि से जोड़े रखा और पीढ़ियों तक उनके नैतिक मूल्यों को जीवित रखा।",
-      "keyPoints": [
-        "Spiritual anchor and moral bedrock / आध्यात्मिक सहारा और नैतिक आधार",
-        "Provided psychological strength during hardships / कठिन समय में मानसिक संबल और शांति प्रदान की",
-        "Maintained connection with motherland India / मातृभूमि भारत के साथ गहरा संबंध बनाए रखा",
-        "Safeguarded cultural and moral values / सांस्कृतिक और नैतिक मूल्यों की रक्षा की"
-      ]
+      "question": "What has the author compared the roads and cleanliness of Mauritius to?",
+      "questionHi": "लेखक ने मॉरीशस की सड़कों और वहाँ की सफाई की तुलना किससे की है?",
+      "answer": "The author has highly praised the roads of Mauritius. The roads there are so clean and smooth that the author has compared them to a 'mirror', where no trace of dust or dirt is visible anywhere.",
+      "answerHi": "लेखक ने मॉरीशस की सड़कों की भूरि-भूरि प्रशंसा की है। वहाँ की सड़कें इतनी साफ-सुथरी और चिकनी हैं कि लेखक ने उनकी तुलना 'शीशे' से की है, जहाँ कहीं भी धूल या गंदगी का नामोनिशान नहीं दिखता।",
+      "keyPoints": []
     },
     {
       "id": "q5",
       "type": "short",
       "marks": 2,
       "difficulty": "Easy",
-      "question": "Which regional language of India is deeply rooted in rural Mauritius, and how is it preserved?",
-      "questionHi": "भारत की कौन-सी क्षेत्रीय भाषा मॉरीशस के ग्रामीण क्षेत्रों में गहरी जड़ें जमाए हुए है, और यह कैसे सुरक्षित है?",
-      "answer": "Bhojpuri is the regional language deeply rooted in rural Mauritius, alongside standard Hindi. Most of the indentured laborers hailed from the Bhojpuri-speaking regions of Bihar and Eastern Uttar Pradesh. Even today, Bhojpuri is widely spoken in Mauritian homes, villages, and cultural gatherings, and is preserved through traditional folk songs (chaita, birha), weddings, and community festivals.",
-      "answerHi": "मानक हिंदी के साथ-साथ भोजपुरी भारत की वह क्षेत्रीय भाषा है जो मॉरीशस के ग्रामीण क्षेत्रों में गहरी जड़ें जमाए हुए है। अधिकांश गिरमिटिया मजदूर बिहार और पूर्वी उत्तर प्रदेश के भोजपुरी भाषी क्षेत्रों से गए थे। आज भी मॉरीशस के घरों, गाँवों और सांस्कृतिक आयोजनों में भोजपुरी व्यापक रूप से बोली जाती है तथा इसे पारंपरिक लोकगीतों (चैता, बिरहा), विवाह संस्कारों और सामुदायिक उत्सवों के माध्यम से सुरक्षित रखा गया है।",
-      "keyPoints": [
-        "Bhojpuri deeply rooted in rural Mauritius / मॉरीशस के ग्रामीण जीवन में भोजपुरी का गहरा प्रभाव",
-        "Laborers originated from Bihar and Eastern UP / बिहार और पूर्वी उत्तर प्रदेश से गए मजदूरों की भाषा",
-        "Preserved through folk songs like Chaita and Birha / चैता और बिरहा जैसे लोकगीतों द्वारा संरक्षण",
-        "Spoken actively in homes and cultural gatherings / घरों और सांस्कृतिक आयोजनों में जीवंत प्रयोग"
-      ]
+      "question": "Write the names of any two major festivals celebrated by Indians in Mauritius.",
+      "questionHi": "मॉरीशस में भारतीयों द्वारा मनाए जाने वाले किन्हीं दो प्रमुख त्योहारों के नाम लिखिए।",
+      "answer": "People of Indian origin in Mauritius celebrate festivals like Shivaratri, Diwali, Holi, and Ganesh Chaturthi with great joy and traditional customs, just like in India.",
+      "answerHi": "मॉरीशस में भारतीय मूल के लोग शिवरात्रि, दिवाली, होली और गणेश चतुर्थी जैसे त्योहार भारत की तरह ही अत्यंत हर्षोल्लास और पारंपरिक रीति-रिवाजों के साथ मनाते हैं।",
+      "keyPoints": []
     },
     {
       "id": "q6",
       "type": "short",
       "marks": 2,
-      "difficulty": "Medium",
-      "question": "Describe the geographical features and natural beauty of Mauritius as depicted by Ramdhari Singh Dinkar.",
-      "questionHi": "रामधारी सिंह दिनकर द्वारा वर्णित मॉरीशस की भौगोलिक विशेषताओं और प्राकृतिक सौंदर्य का वर्णन कीजिए।",
-      "answer": "Dinkar ji describes Mauritius as a breathtakingly beautiful tropical island situated in the turquoise waters of the Indian Ocean. It is surrounded by protective coral reefs that calm the ocean waves before they touch the pristine shores. The interior of the island is adorned with lush green sugarcane fields, volcanic mountain peaks, scenic valleys, and serene lakes, making it appear like a green emerald set in the ocean.",
-      "answerHi": "दिनकर जी ने मॉरीशस का वर्णन हिंद महासागर के नीले जल में स्थित एक अत्यंत मनमोहक उष्णकटिबंधीय द्वीप के रूप में किया है। यह चारों ओर से प्रवाल भित्तियों (मूंगे की चट्टानों) से घिरा हुआ है, जो समुद्र की तेज लहरों को तट तक पहुँचने से पहले ही शांत कर देती हैं। द्वीप का भीतरी हिस्सा हरे-भरे गन्ने के खेतों, ज्वालामुखी पर्वतों की चोटियों, सुंदर घाटियों और शांत झीलों से सुशोभित है, जिससे यह महासागर में जड़े एक हरे पन्ने जैसा प्रतीत होता है।",
-      "keyPoints": [
-        "Tropical island in the Indian Ocean / हिंद महासागर में स्थित उष्णकटिबंधीय द्वीप",
-        "Surrounded by protective coral reefs / रक्षात्मक प्रवाल भित्तियों (मूंगे की चट्टानों) से घिरा हुआ",
-        "Lush green sugarcane fields and volcanic hills / हरे-भरे गन्ने के खेत और ज्वालामुखी पर्वत",
-        "Appears like an emerald in turquoise waters / नीले जल में जड़े हरे पन्ने जैसा प्राकृतिक सौंदर्य"
-      ]
+      "difficulty": "Easy",
+      "question": "Why is 'Pariyon ka Talab' (Grand Bassin) considered sacred for Hindus in Mauritius?",
+      "questionHi": "'परियों का तालाब' (Grand Bassin) मॉरीशस में हिंदुओं के लिए क्यों पवित्र माना जाता है?",
+      "answer": "'Pariyon ka Talab' is a natural lake situated on the high mountains of Mauritius. Hindus here consider it as sacred as the river Ganges and during Shivaratri, they take water from here and offer it to Lord Shiva in temples.",
+      "answerHi": "'परियों का तालाब' मॉरीशस के ऊँचे पहाड़ों पर स्थित एक प्राकृतिक झील है। यहाँ के हिंदू इसे गंगा नदी के समान पवित्र मानते हैं और शिवरात्रि के समय यहाँ से जल लेकर शिवालयों में महादेव का जलाभिषेक करते हैं।",
+      "keyPoints": []
     },
     {
       "id": "q7",
       "type": "short",
       "marks": 2,
-      "difficulty": "Medium",
-      "question": "What is 'Ganga Talao' (Grand Bassin) in Mauritius, and why does it hold immense religious significance for Indo-Mauritians?",
-      "questionHi": "मॉरीशस में 'गंगा तालाब' (ग्रैंड बेसिन) क्या है, और भारतवंशियों के लिए इसका अत्यधिक धार्मिक महत्व क्यों है?",
-      "answer": "Ganga Talao (formerly known as Grand Bassin) is a serene crater lake situated in a secluded mountain area of Mauritius. It holds immense religious significance because early Indian laborers symbolically mixed holy Ganga water (brought from India) into this lake, dedicating it to Lord Shiva. Today, it is considered the most sacred Hindu pilgrimage site in Mauritius, where thousands of devotees gather during Maha Shivratri.",
-      "answerHi": "गंगा तालाब (जिसे पहले ग्रैंड बेसिन कहा जाता था) मॉरीशस के एक एकांत पर्वतीय क्षेत्र में स्थित एक शांत क्रेटर झील (ज्वालामुखी के मुख में बनी झील) है। इसका अत्यधिक धार्मिक महत्व इसलिए है क्योंकि प्रारंभिक भारतीय मजदूरों ने भारत से लाए गए पवित्र गंगाजल को प्रतीकात्मक रूप से इस झील में प्रवाहित किया और इसे भगवान शिव को समर्पित किया। आज यह मॉरीशस में हिंदुओं का सबसे पवित्र तीर्थस्थल है, जहाँ महाशिवरात्रि पर हज़ारों श्रद्धालु एकत्र होते हैं।",
-      "keyPoints": [
-        "Crater lake in mountainous region / पर्वतीय क्षेत्र में स्थित क्रेटर झील (ग्रैंड बेसिन)",
-        "Symbolically mixed with holy Ganga water / भारत से लाए गए पवित्र गंगाजल का प्रतीकात्मक प्रवाह",
-        "Dedicated to Lord Shiva / भगवान शिव को समर्पित पवित्र स्थल",
-        "Major pilgrimage site during Maha Shivratri / महाशिवरात्रि के अवसर पर प्रमुख तीर्थस्थल"
-      ]
+      "difficulty": "Easy",
+      "question": "What are the major languages spoken in Mauritius?",
+      "questionHi": "मॉरीशस में बोली जाने वाली प्रमुख भाषाएँ कौन-कौन सी हैं?",
+      "answer": "English and French are officially used in Mauritius, but 'Creole' language is used in common conversation. People of Indian origin there also speak Bhojpuri, Hindi, and Tamil.",
+      "answerHi": "मॉरीशस में आधिकारिक रूप से अंग्रेजी और फ्रेंच का प्रयोग होता है, लेकिन आम बोलचाल में 'क्रेयोल' भाषा का प्रयोग किया जाता है। भारतीय मूल के लोग वहाँ भोजपुरी, हिंदी और तमिल भी बोलते हैं।",
+      "keyPoints": []
     },
     {
       "id": "q8",
       "type": "short",
       "marks": 2,
-      "difficulty": "Medium",
-      "question": "How did the early Indian settlers in Mauritius maintain their religious and social customs despite severe colonial restrictions?",
-      "questionHi": "कठोर औपनिवेशिक प्रतिबंधों के बावजूद मॉरीशस में प्रारंभिक भारतीय प्रवासियों ने अपने धार्मिक और सामाजिक रीति-रिवाजों को कैसे बनाए रखा?",
-      "answer": "Despite grueling work hours and strict colonial monitoring, the early Indian settlers displayed extraordinary dedication by constructing small village temples (shivalayas), organizing evening recitations of religious scriptures, and collectively celebrating festivals like Diwali, Holi, and Makar Sankranti. They passed down oral traditions, prayers, and cultural values to their children, ensuring their heritage remained vibrant.",
-      "answerHi": "कठिन परिश्रम के घंटों और सख्त औपनिवेशिक निगरानी के बावजूद, प्रारंभिक भारतीय प्रवासियों ने अद्भुत निष्ठा का परिचय देते हुए छोटे-छोटे ग्रामीण मंदिरों (शिवालयों) का निर्माण किया, शाम के समय धार्मिक ग्रंथों के पाठ का आयोजन किया, तथा दीपावली, होली और मकर संक्रांति जैसे त्योहारों को सामूहिक रूप से मनाया। उन्होंने अपनी मौखिक परंपराओं, प्रार्थनाओं और सांस्कृतिक मूल्यों को अपनी संतानों में स्थानांतरित किया, जिससे उनकी विरासत जीवंत रही।",
-      "keyPoints": [
-        "Built small village temples (Shivalayas) / छोटे ग्रामीण मंदिरों (शिवालयों) का निर्माण किया",
-        "Organized evening scripture recitations / सायंकालीन धार्मिक ग्रंथों के पाठ का आयोजन",
-        "Collective celebration of Diwali and Holi / दीपावली और होली जैसे त्योहारों का सामूहिक आयोजन",
-        "Passed oral traditions to younger generations / युवा पीढ़ी को मौखिक परंपराओं और मूल्यों का हस्तांतरण"
-      ]
+      "difficulty": "Easy",
+      "question": "What has been the contribution of the ancestors of Indian immigrants in the development of Mauritius?",
+      "questionHi": "मॉरीशस के विकास में भारतीय प्रवासियों के पूर्वजों का क्या योगदान रहा है?",
+      "answer": "Indian ancestors irrigated the rugged forests and rocky lands of Mauritius with their blood and sweat and made it fertile. They started cultivating sugarcane, which made Mauritius a prosperous and beautiful country.",
+      "answerHi": "भारतीय पूर्वजों ने मॉरीशस के बीहड़ जंगलों और पथरीली ज़मीन को अपने खून-पसीने से सींचकर उपजाऊ बनाया। उन्होंने गन्ने की खेती शुरू की, जिससे मॉरीशस एक समृद्ध और सुंदर देश बन सका।",
+      "keyPoints": []
     },
     {
       "id": "q9",
       "type": "short",
       "marks": 2,
-      "difficulty": "Medium",
-      "question": "What were Ramdhari Singh Dinkar's immediate emotional impressions upon setting foot in Mauritius?",
-      "questionHi": "मॉरीशस की धरती पर कदम रखते ही रामधारी सिंह दिनकर की प्रारंभिक भावनात्मक अनुभूतियाँ क्या थीं?",
-      "answer": "Upon setting foot in Mauritius, Dinkar ji was overwhelmed with an intense feeling of familiarity and joy. Hearing people speak fluent Hindi and Bhojpuri, seeing Indian-style attire, and witnessing traditional Indian hospitality made him feel as though he had never left India at all. He felt an instant, deep emotional kinship with the Mauritian people, realizing that India's cultural soul thrived across the ocean.",
-      "answerHi": "मॉरीशस की धरती पर कदम रखते ही दिनकर जी आत्मीयता और आनंद की तीव्र भावना से विभोर हो गए। लोगों को सहज रूप से हिंदी और भोजपुरी बोलते सुनकर, भारतीय भारतीय वेशभूषा देखकर और पारंपरिक भारतीय आतिथ्य का अनुभव करके उन्हें ऐसा लगा जैसे वे भारत से बाहर गए ही नहीं हैं। उन्होंने मॉरीशस के लोगों के साथ एक त्वरित और गहरा भावनात्मक जुड़ाव महसूस किया और यह अनुभव किया कि भारत की सांस्कृतिक आत्मा समुद्र के पार भी पूरी तरह जीवित है।",
-      "keyPoints": [
-        "Overwhelmed with familiarity and joy / आत्मीयता और आनंद की तीव्र अनुभूति",
-        "Heard fluent Hindi and Bhojpuri spoken / सहज हिंदी और भोजपुरी भाषा का श्रवण",
-        "Felt as if he had never left India / भारत से बाहर न जाने जैसा घर जैसा अनुभव",
-        "Realized India's cultural soul thrived across ocean / समुद्र के पार भारतीय सांस्कृतिक आत्मा की जीवंतता का अनुभव"
-      ]
+      "difficulty": "Easy",
+      "question": "Which region of India does the author see the most glimpses of in the people of Mauritius?",
+      "questionHi": "लेखक को मॉरीशस के लोगों में भारत के किस क्षेत्र की झलक सबसे अधिक दिखाई देती है?",
+      "answer": "The author sees the glimpses of the culture of Bihar and Uttar Pradesh (Purvanchal) the most in Mauritius because most of the people there are connected to Bhojpuri culture and language.",
+      "answerHi": "लेखक को मॉरीशस में सबसे अधिक झलक भारत के बिहार और उत्तर प्रदेश (पूर्वांचल) राज्यों की संस्कृति की दिखाई देती है, क्योंकि वहाँ के अधिकांश लोग भोजपुरी संस्कृति और भाषा से जुड़े हैं।",
+      "keyPoints": []
     },
     {
       "id": "q10",
       "type": "short",
       "marks": 2,
-      "difficulty": "Medium",
-      "question": "Why is sugarcane cultivation considered the backbone of both the history and economy of Mauritius?",
-      "questionHi": "गन्ने की खेती को मॉरीशस के इतिहास और अर्थव्यवस्था दोनों की रीढ़ क्यों माना जाता है?",
-      "answer": "Sugarcane cultivation is the backbone of Mauritian history because it was the primary reason Indian indentured laborers were brought to the island in the 19th century. Economically, sugarcane has historically been Mauritius's most important agricultural crop and major export, occupying a vast majority of its arable land. The prosperity of modern Mauritius is built upon the sweat and toil of those who cultivated these sugarcane fields.",
-      "answerHi": "गन्ने की खेती मॉरीशस के इतिहास की रीढ़ इसलिए है क्योंकि 19वीं शताब्दी में भारतीय गिरमिटिया मजदूरों को द्वीप पर लाने का मुख्य कारण यही था। आर्थिक रूप से, गन्ना ऐतिहासिक रूप से मॉरीशस की सबसे महत्वपूर्ण कृषि फसल और प्रमुख निर्यात रहा है, जो इसकी अधिकांश कृषि योग्य भूमि पर उगाया जाता है। आधुनिक मॉरीशस की समृद्धि उन्हीं लोगों के पसीने और कठिन परिश्रम पर खड़ी है जिन्होंने इन गन्ने के खेतों को सींचा।",
-      "keyPoints": [
-        "Primary reason for indentured labor migration / गिरमिटिया मजदूरों के प्रवास का मुख्य कारण",
-        "Historically the most important agricultural export / ऐतिहासिक रूप से सबसे महत्वपूर्ण कृषि निर्यात",
-        "Occupies majority of arable land / द्वीप की अधिकांश कृषि योग्य भूमि पर विस्तार",
-        "Modern prosperity built on laborers' toil / मजदूरों के कठिन परिश्रम पर आधारित आधुनिक समृद्धि"
-      ]
+      "difficulty": "Easy",
+      "question": "What main life value do students learn from reading this travelogue?",
+      "questionHi": "इस यात्रा-वृत्तांत को पढ़ने से छात्रों को किस मुख्य जीवन-मूल्य की सीख मिलती है?",
+      "answer": "From this lesson, students learn the value of having a sense of pride in their motherland, culture, and the struggles of their ancestors, as well as preserving their identity and values even in adverse circumstances.",
+      "answerHi": "इस पाठ से छात्रों को अपनी मातृभूमि, संस्कृति और पूर्वजों के संघर्षों के प्रति गौरव का भाव रखने तथा विपरीत परिस्थितियों में भी अपनी पहचान और संस्कारों को बचाए रखने की सीख मिलती है।",
+      "keyPoints": []
     },
     {
       "id": "q11",
       "type": "short",
       "marks": 3,
       "difficulty": "Medium",
-      "question": "Explain the historical struggles and resilience of the 'Girmitiya' laborers under British colonial rule in Mauritius.",
-      "questionHi": "मॉरीशस में ब्रिटिश औपनिवेशिक शासन के तहत 'गिरमिटिया' मजदूरों के ऐतिहासिक संघर्षों और उनकी सहनशीलता की व्याख्या कीजिए।",
-      "answer": "The Girmitiya laborers faced heartbreaking struggles under British colonial rule, including arduous sea voyages, meager wages, harsh living conditions in plantation barracks, and severe physical labor in the sugarcane fields. Despite these oppressive conditions and attempts at colonial assimilation, their resilience was extraordinary. They bonded together as 'Jahaji Bhais' (ship brothers), established cooperative communities, built schools to teach their children Hindi, and steadily transformed their socio-economic status through sheer grit and unwavering faith.",
-      "answerHi": "गिरमिटिया मजदूरों ने ब्रिटिश औपनिवेशिक शासन के तहत हृदयविदारक संघर्षों का सामना किया, जिनमें दुर्गम समुद्री यात्राएँ, नाममात्र की मजदूरी, बागानों की बैरकों में कठोर जीवन परिस्थितियाँ और गन्ने के खेतों में हाड़-तोड़ शारीरिक श्रम शामिल था। इस दमनकारी वातावरण और औपनिवेशिक आत्मसातकरण के प्रयासों के बावजूद, उनकी सहनशीलता और दृढ़ता अद्भुत थी। वे 'जहाजी भाई' के रूप में एकजुट हुए, सहकारी समाजों की स्थापना की, बच्चों को हिंदी सिखाने के लिए विद्यालय खोले, और अपने अदम्य साहस व दृढ़ विश्वास के बल पर अपनी सामाजिक-आर्थिक स्थिति को बदल दिया।",
-      "keyPoints": [
-        "Arduous sea voyages and harsh plantation labor / दुर्गम समुद्री यात्राएँ और बागानों में हाड़-तोड़ परिश्रम",
-        "Bonded together as 'Jahaji Bhais' (ship brothers) / 'जहाजी भाई' के रूप में अटूट सामाजिक एकता",
-        "Built community schools to teach Hindi / हिंदी शिक्षा के लिए सामुदायिक विद्यालयों की स्थापना",
-        "Transformed socio-economic status through grit / अदम्य साहस और परिश्रम से सामाजिक-आर्थिक उत्थान"
-      ]
+      "question": "Briefly write the story of the struggle and success of the Girmitiya laborers.",
+      "questionHi": "गिरमिटिया मजदूरों के संघर्ष और उनकी सफलता की कहानी को संक्षेप में लिखिए।",
+      "answer": "When the Indian laborers reached Mauritius, they had neither money nor any amenities. They had to work extremely hard in the sugarcane fields under difficult conditions. Despite suffering atrocities from the British, they did not give up. They not only transformed the island with their hard work, but on the strength of education and political consciousness, today they have achieved the highest positions in the governance and economy of Mauritius.",
+      "answerHi": "जब भारतीय मजदूर मॉरीशस पहुँचे, तो उनके पास न धन था और न ही कोई सुख-सुविधा। उन्हें कठिन परिस्थितियों में गन्ने के खेतों में घोर परिश्रम करना पड़ता था। अंग्रेजों के अत्याचार सहने के बावजूद उन्होंने हार नहीं मानी। उन्होंने न केवल अपनी मेहनत से टापू का कायाकल्प किया, बल्कि शिक्षा और राजनीतिक चेतना के बल पर आज मॉरीशस के शासन और अर्थव्यवस्था में सर्वोच्च स्थान प्राप्त कर लिया है।",
+      "keyPoints": []
     },
     {
       "id": "q12",
       "type": "short",
       "marks": 3,
       "difficulty": "Medium",
-      "question": "How does the annual celebration of Maha Shivratri at Ganga Talao symbolize the enduring spiritual link between India and Mauritius?",
-      "questionHi": "गंगा तालाब पर महाशिवरात्रि का वार्षिक आयोजन भारत और मॉरीशस के बीच स्थायी आध्यात्मिक संबंध का प्रतीक कैसे है?",
-      "answer": "The annual Maha Shivratri celebration at Ganga Talao is the largest Hindu festival outside India, mirroring the traditional Kanwar Yatra of Indian states. Devotees from all corners of Mauritius walk barefoot for days, carrying decorated wooden structures (kanwars) to fetch holy water from Ganga Talao to anoint Shiva Lingas in their village temples. This grand spiritual pilgrimage demonstrates how Indo-Mauritians have successfully recreated the sacred geography of India on an island in the Indian Ocean, maintaining an unbroken spiritual bond with their ancestral homeland.",
-      "answerHi": "गंगा तालाब पर होने वाला वार्षिक महाशिवरात्रि उत्सव भारत के बाहर सबसे बड़ा हिंदू धार्मिक आयोजन है, जो भारत की पारंपरिक काँवर यात्रा का ही रूप है। मॉरीशस के कोने-कोने से श्रद्धालु नंगे पैर कई दिनों तक पैदल चलकर सजे हुए काँवर लेकर गंगा तालाब पहुँचते हैं, ताकि वहाँ से पवित्र जल लाकर अपने ग्रामीण मंदिरों के शिवलिंग पर जलाभिषेक कर सकें। यह भव्य आध्यात्मिक तीर्थयात्रा यह दर्शाती है कि किस प्रकार भारतवंशियों ने हिंद महासागर के एक द्वीप पर भारत के पवित्र भूगोल को पुनर्जीवित किया है, जिससे मातृभूमि के साथ उनका आध्यात्मिक संबंध अटूट बना हुआ है।",
-      "keyPoints": [
-        "Largest Hindu pilgrimage celebration outside India / भारत के बाहर सबसे बड़ा हिंदू तीर्थयात्रा उत्सव",
-        "Mirrors traditional Kanwar Yatra of Indian states / भारत की पारंपरिक काँवर यात्रा का जीवंत रूप",
-        "Devotees walk barefoot carrying decorated Kanwars / श्रद्धालु नंगे पैर सजे हुए काँवर लेकर चलते हैं",
-        "Recreates sacred geography of India in Mauritius / मॉरीशस में भारत के पवित्र भूगोल और आध्यात्म का पुनर्जन्म"
-      ]
+      "question": "How is the atmosphere of the festival of Shivaratri in Mauritius similar to the festivals of India?",
+      "questionHi": "मॉरीशस में शिवरात्रि के त्योहार का माहौल भारत के त्योहारों से किस प्रकार मिलता-जुलता है?",
+      "answer": "The festival of Shivaratri in Mauritius is celebrated exactly like in India (especially North India). People prepare Kanwads many days in advance, wear saffron clothes, and sing and dance to the tunes of bhajans as they proceed towards 'Pariyon ka Talab'. They bring holy water from there and offer it in the temples of their villages. The entire island develops a devotional and spiritual atmosphere just like India.",
+      "answerHi": "मॉरीशस में शिवरात्रि का त्योहार बिल्कुल भारत (विशेषकर उत्तर भारत) की तरह मनाया जाता है। लोग कई दिन पहले से ही कांवड़ तैयार करते हैं, केसरिया वस्त्र पहनते हैं और भजनों की धुन पर नाचते-गाते 'परियों के तालाब' की ओर बढ़ते हैं। वहाँ से पवित्र जल लाकर अपने गांवों के मंदिरों में चढ़ाते हैं। पूरे द्वीप पर भारत जैसा भक्तिमय और आध्यात्मिक माहौल बन जाता है।",
+      "keyPoints": []
     },
     {
       "id": "q13",
       "type": "short",
       "marks": 3,
       "difficulty": "Medium",
-      "question": "What impressed Ramdhari Singh Dinkar the most regarding the harmonious coexistence of different communities in Mauritius?",
-      "questionHi": "मॉरीशस में विभिन्न समुदायों के सामंजस्यपूर्ण सहअस्तित्व के संबंध में रामधारी सिंह दिनकर को किस बात ने सर्वाधिक प्रभावित किया?",
-      "answer": "Dinkar ji was deeply impressed by the exemplary social harmony, mutual respect, and peaceful coexistence among diverse ethnic and religious groups in Mauritius, including Hindus, Muslims, Christians, and Creoles. He observed that people of different faiths actively participate in each other's cultural festivals—such as Eid, Diwali, Christmas, and Holi—with genuine warmth and joy. This spirit of unity in diversity and tolerance served as a shining model of brotherhood for the entire world.",
-      "answerHi": "दिनकर जी मॉरीशस में हिंदू, मुस्लिम, ईसाई और क्रियोल सहित विभिन्न जातीय तथा धार्मिक समूहों के बीच अनुकरणीय सामाजिक समरसता, पारस्परिक सम्मान और शांतिपूर्ण सहअस्तित्व से अत्यधिक प्रभावित हुए। उन्होंने देखा कि विभिन्न आस्थाओं के लोग एक-दूसरे के सांस्कृतिक त्योहारों—जैसे ईद, दीपावली, क्रिसमस और होली—में सच्चे उत्साह और आत्मीयता के साथ भाग लेते हैं। अनेकता में एकता और सहिष्णुता की यह भावना संपूर्ण विश्व के लिए भाईचारे का एक आदर्श प्रतिरूप प्रस्तुत करती है।",
-      "keyPoints": [
-        "Exemplary harmony among Hindus, Muslims, Christians, Creoles / हिंदू, मुस्लिम, ईसाई और क्रियोल समुदायों में सामाजिक समरसता",
-        "Mutual participation in diverse religious festivals / विभिन्न धार्मिक त्योहारों (ईद, दीपावली, होली) में पारस्परिक भागीदारी",
-        "Genuine warmth, tolerance, and brotherhood / सच्ची आत्मीयता, सहिष्णुता और वैश्विक भाईचारा",
-        "Shining model of 'Unity in Diversity' for the world / विश्व के लिए 'अनेकता में एकता' का उत्कृष्ट आदर्श"
-      ]
+      "question": "When writer Ramdhari Singh Dinkar reached Mauritius, why did he feel 'at home' there?",
+      "questionHi": "लेखक रामधारी सिंह दिनकर जब मॉरीशस पहुँचे, तो उन्हें वहाँ 'घर जैसा' अहसास क्यों हुआ?",
+      "answer": "Dinkar ji did not feel like he was in a foreign land when he reached Mauritius. There were Tulsi plants all around, people talking in Hindi and Bhojpuri, men wearing tilak on their foreheads and Kalawa on their wrists, and women adorned in sarees. Hearing the sound of conch shells and bells coming from the temples, he felt as if he was roaming in some part or village of India itself. Because of this cultural similarity, he felt at home there.",
+      "answerHi": "दिनकर जी को मॉरीशस पहुँचकर विदेशी धरती जैसा बिल्कुल नहीं लगा। वहाँ चारों तरफ तुलसी के पौधे, हिंदी और भोजपुरी में बात करते लोग, माथे पर तिलक और हाथों में कलावा पहने हुए पुरुष और साड़ियों में सजी महिलाएँ दिखाई दीं। मंदिरों से आती शंख और घंटियों की आवाज़ सुनकर उन्हें ऐसा लगा मानो वे भारत के ही किसी हिस्से या गाँव में घूम रहे हों। इसी सांस्कृतिक समानता के कारण उन्हें वहाँ घर जैसा अहसास हुआ।",
+      "keyPoints": []
     },
     {
       "id": "q14",
       "type": "short",
       "marks": 3,
-      "difficulty": "Hard",
-      "question": "Analyze the role of Bhojpuri folk songs and oral traditions in preserving the cultural identity of Indo-Mauritians.",
-      "questionHi": "भारतवंशियों की सांस्कृतिक पहचान को बनाए रखने में भोजपुरी लोकगीतों और मौखिक परंपराओं की भूमिका का विश्लेषण कीजिए।",
-      "answer": "Bhojpuri folk songs and oral traditions acted as a living archive and emotional outlet for indentured laborers who had limited access to formal written education. Through traditional songs like 'Jhumar', 'Sohar' (birth songs), 'Vivah geet' (wedding songs), and 'Birha' (songs of separation and longing), they documented their struggles, plantation experiences, and memories of India. These oral traditions transmitted ancestral customs, linguistic nuances, and familial values across generations, shielding their cultural identity from colonial erosion.",
-      "answerHi": "भोजपुरी लोकगीत और मौखिक परंपराएँ उन गिरमिटिया मजदूरों के लिए एक जीवंत अभिलेखागार और भावनात्मक अभिव्यक्ति का साधन बनीं, जिनके पास औपचारिक लिखित शिक्षा के साधन सीमित थे। 'झूमर', 'सोहर' (जन्म गीत), 'विवाह गीत' और 'बिरहा' (विरह और लालसा के गीत) जैसे पारंपरिक गीतों के माध्यम से उन्होंने अपने संघर्षों, बागान के अनुभवों और भारत की स्मृतियों को संजोए रखा। इन मौखिक परंपराओं ने पैतृक रीति-रिवाजों, भाषाई बारीकियों और पारिवारिक मूल्यों को पीढ़ियों तक प्रवाहित किया, जिससे औपनिवेशिक प्रभाव के बीच भी उनकी सांस्कृतिक पहचान सुरक्षित रही।",
-      "keyPoints": [
-        "Living archive of plantation struggles and memories / बागान के संघर्षों और भारतीय स्मृतियों का जीवंत अभिलेखागार",
-        "Traditional songs: Sohar, Vivah geet, Birha, Jhumar / सोहर, विवाह गीत, बिरहा और झूमर जैसे पारंपरिक गीतों का गायन",
-        "Transmitted ancestral values without formal education / बिना औपचारिक शिक्षा के पैतृक मूल्यों का पीढ़ीगत हस्तांतरण",
-        "Shielded cultural identity from colonial erosion / औपनिवेशिक प्रभाव से सांस्कृतिक पहचान की प्रभावी रक्षा"
-      ]
+      "difficulty": "Medium",
+      "question": "Describe the natural beauty of Mauritius in your own words based on the lesson.",
+      "questionHi": "मॉरीशस के प्राकृतिक सौंदर्य का वर्णन पाठ के आधार पर अपने शब्दों में कीजिए।",
+      "answer": "Mauritius is a paradise of natural beauty. It is surrounded by the blue Indian Ocean on all sides. There are lush green hills, clean rivers, and beautiful waterfalls on the island. The biggest feature here is that waving sugarcane fields are visible for miles across the island. There is no trace of pollution here, and the pleasant sea breezes refresh the mind.",
+      "answerHi": "मॉरीशस प्राकृतिक सुंदरता का स्वर्ग है। यह चारों तरफ से नीले हिंद महासागर से घिरा हुआ है। द्वीप पर हरी-भरी पहाड़ियाँ, साफ-सुथरी नदियाँ और सुंदर झरने हैं। यहाँ की सबसे बड़ी खूबी यह है कि पूरे द्वीप पर मीलों दूर तक फैले गन्ने के लहलहाते खेत दिखाई देते हैं। यहाँ प्रदूषण का नामोनिशान नहीं है और सुहावनी समुद्री हवाएँ मन को तरोताज़ा कर देती हैं।",
+      "keyPoints": []
     },
     {
       "id": "q15",
       "type": "short",
       "marks": 3,
-      "difficulty": "Hard",
-      "question": "How did the descendants of indentured laborers transform their status from plantation workers to leaders of modern Mauritius?",
-      "questionHi": "गिरमिटिया मजदूरों के वंशजों ने बागान मजदूरों से आधुनिक मॉरीशस के नेताओं के रूप में अपनी स्थिति को कैसे बदला?",
-      "answer": "The descendants of indentured laborers achieved an extraordinary socio-economic transformation through immense dedication to education, hard work, and democratic participation. While their ancestors toiled in sugarcane fields, they sacrificed their meager earnings to provide higher education to their children. Equipped with knowledge, professional skills, and strong moral leadership, these descendants entered law, medicine, administration, and politics, eventually spearheading Mauritius's independence movement and becoming prime ministers, presidents, and builders of a prosperous, democratic nation.",
-      "answerHi": "गिरमिटिया मजदूरों के वंशजों ने शिक्षा के प्रति अत्यधिक समर्पण, कठिन परिश्रम और लोकतांत्रिक भागीदारी के माध्यम से एक ऐतिहासिक सामाजिक-आर्थिक रूपांतरण हासिल किया। जहाँ उनके पूर्वजों ने गन्ने के खेतों में हाड़-तोड़ मेहनत की, वहीं उन्होंने अपनी सीमित कमाई का त्याग कर अपने बच्चों को उच्च शिक्षा प्रदान की। ज्ञान, पेशेवर कौशल और सशक्त नैतिक नेतृत्व से सुसज्जित होकर इन वंशजों ने कानून, चिकित्सा, प्रशासन और राजनीति में प्रवेश किया, तथा अंततः मॉरीशस के स्वतंत्रता आंदोलन का नेतृत्व करते हुए प्रधानमंत्री, राष्ट्रपति और एक समृद्ध, लोकतांत्रिक राष्ट्र के निर्माता बने।",
-      "keyPoints": [
-        "Immense sacrifices made for children's higher education / बच्चों की उच्च शिक्षा के लिए पूर्वजों का अत्यधिक त्याग",
-        "Excellence in law, medicine, and administration / कानून, चिकित्सा और प्रशासनिक क्षेत्रों में उत्कृष्ट सफलता",
-        "Spearheaded democratic independence movement / लोकतांत्रिक स्वतंत्रता आंदोलन का सफल नेतृत्व किया",
-        "Rose to become prime ministers and nation builders / प्रधानमंत्री, राष्ट्रपति और आधुनिक राष्ट्र के निर्माता बने"
-      ]
+      "difficulty": "Medium",
+      "question": "Explain the mutual harmony between the 'Creole' language of Mauritius and Hindi/Bhojpuri.",
+      "questionHi": "मॉरीशस की 'क्रेयोल' भाषा और हिंदी/भोजपुरी के बीच के आपसी तालमेल को समझाइए।",
+      "answer": "People from different countries came and settled in Mauritius, which gave birth to the 'Creole' language there. But people of Indian origin never abandoned their mother tongue Bhojpuri and Hindi. Today, a deep impact of Bhojpuri can be seen on the Creole language of Mauritius as well. The people there converse very comfortably by mixing both Creole and Bhojpuri, which reflects the mutual harmony of the languages.",
+      "answerHi": "मॉरीशस में अलग-अलग देशों के लोग आकर बसे, जिससे वहाँ 'क्रेयोल' भाषा का जन्म हुआ। लेकिन भारतीय मूल के लोगों ने अपनी मातृभाषा भोजपुरी और हिंदी को कभी नहीं छोड़ा। आज मॉरीशस की क्रेयोल भाषा पर भी भोजपुरी का गहरा प्रभाव देखा जा सकता है। वहाँ के लोग आपस में क्रेयोल और भोजपुरी दोनों को मिलाकर बहुत सहजता से बात करते हैं, जो भाषाओं के आपसी सद्भाव को दर्शाता है।",
+      "keyPoints": []
     },
     {
       "id": "q16",
       "type": "short",
       "marks": 3,
       "difficulty": "Medium",
-      "question": "Describe the emotional impact on Dinkar ji when he heard Hindi and Bhojpuri being spoken in the streets and homes of Mauritius.",
-      "questionHi": "जब दिनकर जी ने मॉरीशस की सड़कों और घरों में हिंदी और भोजपुरी बोली जाती सुनी, तो उन पर क्या भावनात्मक प्रभाव पड़ा?",
-      "answer": "Hearing pure Hindi and sweet Bhojpuri spoken effortlessly in the streets, markets, and homes of Mauritius had a profound emotional impact on Dinkar ji. He felt a surge of pride and astonishment realizing that language had bridged a distance of thousands of miles across the ocean. It shattered any sense of alienation or foreignness, filling his heart with profound affection and confirming his belief that Mauritius was truly an extension of India's cultural and linguistic boundary.",
-      "answerHi": "मॉरीशस की सड़कों, बाजारों और घरों में सहज रूप से शुद्ध हिंदी और मीठी भोजपुरी बोली जाती सुनकर दिनकर जी पर अत्यंत गहरा भावनात्मक प्रभाव पड़ा। वे गर्व और आश्चर्य से भर उठे कि भाषा ने समुद्र के पार हज़ारों मील की दूरी को पूरी तरह पाट दिया है। इस अनुभव ने विदेश में होने के किसी भी पराएपन या अजनबीपन के भाव को समाप्त कर दिया, उनके हृदय को गहन आत्मीयता से भर दिया और उनके इस विश्वास को सुदृढ़ किया कि मॉरीशस वास्तव में भारत की सांस्कृतिक और भाषाई सीमा का ही एक विस्तार है।",
-      "keyPoints": [
-        "Profound surge of pride and astonishment / गर्व और सुखद आश्चर्य की तीव्र अनुभूति",
-        "Shattered any sense of alienation or foreignness / विदेश में होने के पराएपन और अजनबीपन का पूर्ण अंत",
-        "Language bridged thousands of miles across the ocean / भाषा द्वारा समुद्र के पार हज़ारों मील की दूरी का पाटा जाना",
-        "Confirmed Mauritius as an extension of Indian culture / मॉरीशस को भारतीय संस्कृति और भाषा का वास्तविक विस्तार माना"
-      ]
+      "question": "What has the author said about the behavior and hospitality of the people of Mauritius?",
+      "questionHi": "लेखक ने मॉरीशस के लोगों के व्यवहार और उनकी मेहमाननवाज़ी के बारे में क्या कहा है?",
+      "answer": "According to the author, the people of Mauritius are extremely simple, straightforward, calm, and sociable in nature. They have profound reverence and love for India and Indian guests in their hearts. They respect Indians like their own relatives and leave no stone unturned in their hospitality. The basic mantra of Indian culture 'Atithi Devo Bhava' (Guest is God) is clearly reflected in their behavior.",
+      "answerHi": "लेखक के अनुसार मॉरीशस के लोग अत्यंत सीधे, सरल, शांत और मिलनसार स्वभाव के हैं। उनके मन में भारत और भारतीय अतिथियों के प्रति अगाध श्रद्धा और प्रेम है। वे भारतीयों को अपने सगे-संबंधियों की तरह सम्मान देते हैं और उनकी मेहमाननवाज़ी में कोई कसर नहीं छोड़ते। उनके व्यवहार में भारतीय संस्कृति का मूल मंत्र 'अतिथि देवो भव' स्पष्ट झलकता है।",
+      "keyPoints": []
     },
     {
       "id": "q17",
       "type": "short",
       "marks": 3,
-      "difficulty": "Hard",
-      "question": "Why does the author emphasize that vast geographical separation by the ocean could not sever the cultural ties between India and Mauritius?",
-      "questionHi": "लेखक इस बात पर बल क्यों देते हैं कि महासागर का विशाल भौगोलिक अंतर भी भारत और मॉरीशस के बीच सांस्कृतिक संबंधों को नहीं तोड़ सका?",
-      "answer": "The author emphasizes this point because cultural roots are embedded in human consciousness, faith, and shared memory rather than mere physical proximity. Despite crossing the formidable ocean (Kalapani) and facing decades of isolation from India without modern communication, Indo-Mauritians fiercely safeguarded their heritage through scriptures like Ramcharitmanas, daily rituals, language, and values. This proves that true cultural bonds are spiritual and resilient enough to transcend any geographical barrier or passage of time.",
-      "answerHi": "लेखक इस बात पर इसलिए बल देते हैं क्योंकि सांस्कृतिक जड़ें केवल भौतिक निकटता पर नहीं, बल्कि मानव चेतना, अटूट श्रद्धा और साझा स्मृतियों में बसी होती हैं। विशाल महासागर (कालापानी) को पार करने और आधुनिक संचार साधनों के बिना दशकों तक भारत से कटे रहने के बावजूद, भारतवंशियों ने रामचरितमानस जैसे ग्रंथों, दैनिक अनुष्ठानों, भाषा और नैतिक मूल्यों के माध्यम से अपनी विरासत की पूरी ताकत से रक्षा की। यह सिद्ध करता है कि सच्चे सांस्कृतिक संबंध आध्यात्मिक होते हैं और वे किसी भी भौगोलिक बाधा या समय के अंतराल को पार करने में सक्षम होते हैं।",
-      "keyPoints": [
-        "Culture rooted in consciousness and shared memory / संस्कृति मानव चेतना और साझा स्मृतियों में गहराई से बसी है",
-        "Survived decades of isolation without modern communication / आधुनिक संचार के बिना दशकों के एकांतवास में भी जीवित रही",
-        "Safeguarded through scriptures, rituals, and language / ग्रंथों, अनुष्ठानों और भाषा के माध्यम से विरासत की रक्षा",
-        "Spiritual bonds transcend geographical barriers / आध्यात्मिक संबंध भौगोलिक बाधाओं और समय से परे होते हैं"
-      ]
+      "difficulty": "Medium",
+      "question": "'Culture is like water, which no one can bind.' What does this mean in the context of this lesson?",
+      "questionHi": "\"संस्कृति पानी की तरह होती है, जिसे कोई बांध नहीं सकता।\" इस पाठ के संदर्भ में इसका क्या अर्थ है?",
+      "answer": "This line means that just as water makes its own way and cannot be confined within boundaries, similarly is Indian culture. The British rulers had physically imprisoned Indians on the faraway island of Mauritius, but they could not bind the Indian culture and values within them. That culture flowed out into the soil of Mauritius and established a new 'Hindustan' there.",
+      "answerHi": "इस पंक्ति का अर्थ यह है कि जिस प्रकार पानी अपना रास्ता खुद बना लेता है और उसे सीमाओं में नहीं बांधा जा सकता, उसी प्रकार भारतीय संस्कृति भी है। ब्रिटिश शासकों ने भारतीयों को शारीरिक रूप से भारत से दूर मॉरीशस के टापू पर कैद कर दिया था, लेकिन वे उनके भीतर की भारतीय संस्कृति और संस्कारों को नहीं बांध पाए। वह संस्कृति मॉरीशस की मिट्टी में बह निकली और वहाँ एक नया 'हिंदुस्तान' खड़ा कर दिया।",
+      "keyPoints": []
     },
     {
       "id": "q18",
       "type": "short",
       "marks": 3,
-      "difficulty": "Hard",
-      "question": "Compare the natural physical landscape of Mauritius with the vibrant cultural landscape built by Indian immigrants.",
-      "questionHi": "मॉरीशस के प्राकृतिक भौतिक परिदृश्य की तुलना भारतीय प्रवासियों द्वारा निर्मित जीवंत सांस्कृतिक परिदृश्य से कीजिए।",
-      "answer": "The natural physical landscape of Mauritius is characterized by tropical splendor—turquoise seas, coral reefs, volcanic peaks, and endless green sugarcane fields. In harmony with this natural beauty, Indian immigrants constructed a captivating cultural landscape—dotted with white-domed Shivalayas (temples) in every village, colorful prayer flags (Jhandis) fluttering in courtyards, the fragrance of incense, and the echoing sounds of temple bells and Vedic hymns. Together, the physical and cultural landscapes blend seamlessly to create a paradise that feels uniquely Indian.",
-      "answerHi": "मॉरीशस का प्राकृतिक भौतिक परिदृश्य उष्णकटिबंधीय वैभव से परिपूर्ण है—नीला समुद्र, प्रवाल भित्तियाँ, ज्वालामुखी चोटियाँ और हरे-भरे गन्ने के अनंत खेत। इस प्राकृतिक सौंदर्य के साथ पूर्ण सामंजस्य बिठाते हुए भारतीय प्रवासियों ने एक आकर्षक सांस्कृतिक परिदृश्य का निर्माण किया—जिसमें प्रत्येक गाँव में सफेद गुंबद वाले शिवालय, आँगनों में लहराते रंग-बिरंगे धार्मिक ध्वज (झंडी), अगरबत्ती की सुगंध, और मंदिर की घंटियों व वैदिक मंत्रों की गूँज शामिल है। भौतिक और सांस्कृतिक परिदृश्य मिलकर एक ऐसे स्वर्ग का निर्माण करते हैं जो विशिष्ट रूप से भारतीय प्रतीत होता है।",
-      "keyPoints": [
-        "Physical landscape: Turquoise seas, coral reefs, sugarcane fields / भौतिक परिदृश्य: नीला समुद्र, प्रवाल भित्तियाँ, गन्ने के खेत",
-        "Cultural landscape: Shivalayas, prayer flags (Jhandis) in courtyards / सांस्कृतिक परिदृश्य: शिवालय और आँगनों में लहराती धार्मिक झंडियाँ",
-        "Echoing sounds of temple bells and Vedic hymns / मंदिर की घंटियों, शंख और वैदिक मंत्रों की पवित्र गूँज",
-        "Seamless blend creating a unique Indian paradise / भौतिक और सांस्कृतिक सौंदर्य का अद्भुत व अद्वितीय संगम"
-      ]
+      "difficulty": "Medium",
+      "question": "What information has the author given about the city of 'Port Louis' in Mauritius?",
+      "questionHi": "मॉरीशस के 'पोर्ट लुई' (Port Louis) शहर के बारे में लेखक ने क्या जानकारियाँ दी हैं?",
+      "answer": "Port Louis is the capital of Mauritius and a major commercial and cultural center there. The author points out that this city, along with being equipped with modern amenities, is very disciplined and organized. The markets, harbor, and historical buildings here attract tourists. A deep influence of Indian businessmen and culture can also be seen in this city.",
+      "answerHi": "पोर्ट लुई मॉरीशस की राजधानी और वहाँ का एक प्रमुख व्यापारिक एवं सांस्कृतिक केंद्र है। लेखक बताते हैं कि यह शहर आधुनिक सुख-सुविधाओं से युक्त होने के साथ-साथ बहुत ही अनुशासित और व्यवस्थित है। यहाँ का बाज़ार, बंदरगाह और ऐतिहासिक इमारतें पर्यटकों को आकर्षित करती हैं। इस शहर में भी भारतीय व्यवसायियों और संस्कृति का गहरा प्रभाव देखने को मिलता है।",
+      "keyPoints": []
     },
     {
       "id": "q19",
       "type": "short",
       "marks": 3,
       "difficulty": "Medium",
-      "question": "What invaluable lessons of patience, hard work, and cultural fidelity can Indian students learn from the ancestors of Indo-Mauritians?",
-      "questionHi": "भारतीय छात्र मॉरीशस के भारतवंशियों के पूर्वजों से धैर्य, कठिन परिश्रम और सांस्कृतिक निष्ठा के कौन-से अमूल्य पाठ सीख सकते हैं?",
-      "answer": "Indian students can learn three invaluable lessons: First, the power of resilience and patience (Dhairya) in overcoming extreme adversity without losing hope. Second, the dignity of hard work (Parishram), as the laborers built a prosperous nation through sheer physical toil and dedication to their children's future. Third, unwavering cultural fidelity (Nishtha)—teaching students that no matter how modern or globally dispersed they become, they must never abandon their mother tongue, moral traditions, and respect for their roots.",
-      "answerHi": "भारतीय छात्र तीन अमूल्य पाठ सीख सकते हैं: पहला, अत्यधिक विपरीत परिस्थितियों में बिना आशा खोए विपरीत परिस्थितियों पर विजय पाने के लिए धैर्य और सहनशीलता की शक्ति। दूसरा, कठिन परिश्रम (श्रम का गौरव), क्योंकि मजदूरों ने अपने शारीरिक श्रम और बच्चों के भविष्य के प्रति समर्पण से एक समृद्ध राष्ट्र का निर्माण किया। तीसरा, अटूट सांस्कृतिक निष्ठा—जो छात्रों को यह सिखाती है कि वे चाहे कितने भी आधुनिक या विश्व में कहीं भी पहुँच जाएँ, उन्हें अपनी मातृभाषा, नैतिक परंपराओं और अपनी जड़ों के प्रति सम्मान को कभी नहीं त्यागना चाहिए।",
-      "keyPoints": [
-        "Resilience and patience (Dhairya) in extreme adversity / कठिन परिस्थितियों में धैर्य और सहनशीलता की शक्ति",
-        "Dignity of hard work and nation-building (Parishram) / श्रम का गौरव और कठिन परिश्रम से राष्ट्र निर्माण",
-        "Unwavering fidelity to mother tongue and traditions / मातृभाषा और नैतिक परंपराओं के प्रति अटूट निष्ठा",
-        "Maintaining respect for ancestral roots while progressing / आधुनिक प्रगति के साथ-साथ अपनी जड़ों के प्रति सम्मान"
-      ]
+      "question": "How is Mauritius an inspiration for Non-Resident Indians (NRIs) living abroad?",
+      "questionHi": "विदेशों में रहने वाले भारतीय प्रवासियों (NRIs) के लिए मॉरीशस एक प्रेरणास्रोत कैसे है?",
+      "answer": "Mauritius is an ideal source of inspiration for the Indian diaspora spread all over the world. Often people go abroad and forget their language and culture, but the Indians in Mauritius have preserved their roots even after staying away for hundreds of years and passing of generations. They teach how to be proud of one's ancient culture and language even while embracing modernity.",
+      "answerHi": "मॉरीशस दुनिया भर में फैले भारतीय प्रवासियों के लिए एक आदर्श प्रेरणास्रोत है। अक्सर लोग विदेशों में जाकर अपनी भाषा और संस्कृति को भूल जाते हैं, लेकिन मॉरीशस के भारतीयों ने सैकड़ों साल दूर रहने और पीढ़ियाँ बीत जाने के बाद भी अपनी जड़ों को संभाल कर रखा। वे यह सिखाते हैं कि आधुनिकता को अपनाते हुए भी अपनी प्राचीन संस्कृति और भाषा पर गर्व कैसे किया जाता है।",
+      "keyPoints": []
     },
     {
       "id": "q20",
       "type": "short",
       "marks": 3,
-      "difficulty": "Hard",
-      "question": "How has the widespread adoption and preservation of Hindi in Mauritius contributed to the global promotion of the Hindi language?",
-      "questionHi": "मॉरीशस में हिंदी के व्यापक अपनाए जाने और संरक्षण ने विश्व स्तर पर हिंदी भाषा के प्रचार-प्रसार में किस प्रकार योगदान दिया है?",
-      "answer": "Mauritius has played a pioneering role in the global promotion of Hindi by establishing it as a language of education, literature, and media outside India. It hosted the historic Second World Hindi Conference (Vishwa Hindi Sammelan) in 1976 and is home to the World Hindi Secretariat (Vishwa Hindi Sachivalaya), which coordinates global Hindi initiatives. By producing eminent Hindi scholars and authors and integrating Hindi into its school curriculum, Mauritius stands as a vital international pillar for establishing Hindi as a world language.",
-      "answerHi": "मॉरीशस ने भारत के बाहर हिंदी को शिक्षा, साहित्य और मीडिया की भाषा के रूप में स्थापित करके विश्व स्तर पर इसके प्रचार-प्रसार में अग्रणी भूमिका निभाई है। इसने 1976 में ऐतिहासिक द्वितीय विश्व हिंदी सम्मेलन की मेजबानी की और यह विश्व हिंदी सचिवालय का मुख्यालय है, जो वैश्विक हिंदी पहलों का समन्वय करता है। प्रतिष्ठित हिंदी विद्वानों व रचनाकारों को जन्म देकर तथा अपने विद्यालयी पाठ्यक्रम में हिंदी को शामिल करके, मॉरीशस हिंदी को विश्व भाषा के रूप में स्थापित करने के लिए एक महत्वपूर्ण अंतर्राष्ट्रीय स्तंभ के रूप में खड़ा है।",
-      "keyPoints": [
-        "Home to the World Hindi Secretariat (Vishwa Hindi Sachivalaya) / विश्व हिंदी सचिवालय (Vishwa Hindi Sachivalaya) का मुख्यालय",
-        "Hosted historic World Hindi Conferences / ऐतिहासिक विश्व हिंदी सम्मेलनों की सफल मेजबानी",
-        "Integrated Hindi into formal school curriculum and media / विद्यालयी पाठ्यक्रम और मीडिया में हिंदी का सक्रिय प्रयोग",
-        "Vital international pillar for Hindi as a global language / हिंदी को विश्व भाषा बनाने में एक प्रमुख अंतर्राष्ट्रीय स्तंभ"
-      ]
+      "difficulty": "Medium",
+      "question": "What is the genre of the lesson 'Hind Mahasagar mein Chota-sa Hindustan' and what is the specialty of its writing style?",
+      "questionHi": "\"हिंद महासागर में छोटा-सा हिंदुस्तान\" पाठ की विधा क्या है और इसकी लेखन-शैली की क्या विशेषता है?",
+      "answer": "The genre of this lesson is a 'travelogue'. Its writing style is very simple, flowing, and descriptive. Ramdhari Singh Dinkar ji has woven the experiences of his journey in such a way that the reader feels as if they are themselves roaming the streets, beaches, and temples of Mauritius along with the author. The essence of patriotism and cultural pride is clearly visible in it.",
+      "answerHi": "इस पाठ की विधा 'यात्रा-वृत्तांत' (Travelogue) है। इसकी लेखन-शैली बहुत ही सरल, प्रवाहमयी और वर्णनात्मक है। रामधारी सिंह दिनकर जी ने अपनी इस यात्रा के अनुभवों को इस प्रकार पिरोया है कि पाठक को ऐसा लगता है मानो वह स्वयं लेखक के साथ मॉरीशस की गलियों, समुद्र तटों और मंदिरों की सैर कर रहा हो। इसमें देशप्रेम और सांस्कृतिक गौरव का पुट साफ दिखाई देता है।",
+      "keyPoints": []
     },
     {
       "id": "q21",
       "type": "long",
       "marks": 4,
       "difficulty": "Hard",
-      "question": "Elaborate on the central theme of Ramdhari Singh Dinkar's travelogue 'Hind Mahasagar Mein Chhota-Sa Hindustan'. How does the text celebrate cultural resilience and diaspora identity?",
-      "questionHi": "रामधारी सिंह दिनकर के यात्रा-वृत्तांत 'हिंद महासागर में छोटा-सा हिंदुस्तान' के केंद्रीय विषय का सविस्तार वर्णन कीजिए। यह पाठ सांस्कृतिक दृढ़ता और प्रवासी पहचान का उत्सव कैसे मनाता है?",
-      "answer": "The central theme of Ramdhari Singh Dinkar's travelogue 'Hind Mahasagar Mein Chhota-Sa Hindustan' revolves around the immortal bond between India and its diaspora, celebrating how cultural identity can flourish even across vast oceans. The text is not merely a description of Mauritius's scenic geography; it is a heartfelt tribute to the indomitable spirit of Indian indentured laborers (Girmitiyas) who migrated in the 19th century.\n\nThe travelogue celebrates cultural resilience by illustrating how these pioneers, despite enduring brutal colonial exploitation, poverty, and isolation, refused to let their heritage fade. They clung to their spiritual roots through Tulsidas's Ramcharitmanas, celebrated festivals like Diwali and Holi, and spoke Hindi and Bhojpuri with immense pride. Dinkar ji highlights that the diaspora did not just survive in a foreign land; they transformed Mauritius into a 'mini India' through their sweat and moral fortitude. Furthermore, the text explores how this diaspora identity evolved from oppressed plantation workers into empowered nation-builders who lead modern Mauritius. Thus, the travelogue stands as a timeless celebration of cultural preservation, human resilience, and the universal reach of Indian civilization.",
-      "answerHi": "रामधारी सिंह दिनकर के यात्रा-वृत्तांत 'हिंद महासागर में छोटा-सा हिंदुस्तान' का केंद्रीय विषय भारत और उसके प्रवासी समाज के बीच के अमर संबंध के इर्द-गिर्द घूमता है, जो यह दर्शाता है कि किस प्रकार विशाल महासागरों के पार भी सांस्कृतिक पहचान पल्लवित हो सकती है। यह पाठ केवल मॉरीशस के प्राकृतिक सौंदर्य का वर्णन नहीं है; यह 19वीं शताब्दी में प्रवास करने वाले भारतीय गिरमिटिया मजदूरों की अदम्य भावना को एक हृदयस्पर्शी श्रद्धांजलि है।\n\nयह यात्रा-वृत्तांत सांस्कृतिक दृढ़ता का उत्सव इस बात द्वारा मनाता है कि किस प्रकार इन अग्रदूतों ने क्रूर औपनिवेशिक शोषण, अत्यधिक निर्धनता और एकांतवास को सहने के बावजूद अपनी सांस्कृतिक विरासत को धूमिल नहीं होने दिया। उन्होंने तुलसीदास कृत रामचरितमानस के माध्यम से अपनी आध्यात्मिक जड़ों को मजबूती से पकड़े रखा, दीपावली और होली जैसे त्योहार मनाए, तथा अत्यधिक गर्व के साथ हिंदी और भोजपुरी भाषा का प्रयोग किया। दिनकर जी रेखांकित करते हैं कि प्रवासी समाज ने केवल विदेश में अपना अस्तित्व नहीं बचाया, बल्कि अपने पसीने और नैतिक दृढ़ता से मॉरीशस को एक 'छोटे हिंदुस्तान' में बदल दिया। इसके अतिरिक्त, पाठ यह भी दर्शाता है कि कैसे यह प्रवासी पहचान शोषित बागान मजदूरों से विकसित होकर आधुनिक मॉरीशस का नेतृत्व करने वाले सशक्त राष्ट्र-निर्माताओं के रूप में परिवर्तित हुई। अतः यह यात्रा-वृत्तांत सांस्कृतिक संरक्षण, मानवीय सहनशीलता और भारतीय सभ्यता के विश्वव्यापी विस्तार का एक अमर उत्सव है।",
-      "keyPoints": [
-        "Immortal bond between India and its global diaspora / भारत और उसके वैश्विक प्रवासी समाज के बीच अटूट संबंध",
-        "Tribute to indomitable spirit of Girmitiya laborers / गिरमिटिया मजदूरों के अदम्य साहस और संघर्ष को श्रद्धांजलि",
-        "Preservation of heritage through Ramcharitmanas and language / रामचरितमानस और भाषा के माध्यम से सांस्कृतिक विरासत का संरक्षण",
-        "Evolution from plantation laborers to empowered nation-builders / बागान मजदूरों से सशक्त राष्ट्र-निर्माताओं के रूप में ऐतिहासिक विकास"
-      ]
+      "question": "Write a detailed summary of the travelogue 'Hind Mahasagar mein Chota-sa Hindustan' written by Ramdhari Singh Dinkar in your own words.",
+      "questionHi": "रामधारी सिंह दिनकर रचित \"हिंद महासागर में छोटा-सा हिंदुस्तान\" यात्रा-वृत्तांत का विस्तृत सारांश अपने शब्दों में लिखिए।",
+      "answer": "This lesson is an extremely beautiful and inspiring travelogue based on author Ramdhari Singh Dinkar's journey to Mauritius. When the author reaches Mauritius, a small island located in the Indian Ocean, he is mesmerized by the natural beauty there, the clean mirror-like roads, and the sugarcane fields spread all around. But what impresses him the most is the culture there.\nMore than half of the population of Mauritius consists of people of Indian origin, whose ancestors were brought here as laborers by the British. These immigrants struggled hard to not only make this island prosperous, but also kept their Ramayana, Gita, Hindi-Bhojpuri language, and festivals like Shivaratri alive. The author has given a lively description of the 'Pariyon ka Talab' and the religious enthusiasm of the Hindu society there. Ultimately, the author considers Mauritius as such an unbreakable stronghold of Indian culture, which has preserved the soul of India with full vitality even across the seven seas.",
+      "answerHi": "यह पाठ लेखक रामधारी सिंह दिनकर की मॉरीशस यात्रा पर आधारित एक अत्यंत सुंदर और प्रेरणादायक यात्रा-वृत्तांत है। लेखक जब हिंद महासागर में स्थित छोटे से द्वीप मॉरीशस पहुँचते हैं, तो वहाँ की प्राकृतिक सुंदरता, साफ-सुथरी शीशे जैसी सड़कें और चारों तरफ फैले गन्ने के खेतों को देखकर मंत्रमुग्ध हो जाते हैं। लेकिन उन्हें सबसे ज्यादा प्रभावित वहाँ की संस्कृति करती है।\nमॉरीशस की आधी से अधिक आबादी भारतीय मूल के लोगों की है, जिनके पूर्वजों को अंग्रेज़ यहाँ मजदूर बनाकर लाए थे। इन प्रवासियों ने कठिन संघर्ष करके न केवल इस द्वीप को समृद्ध बनाया, बल्कि अपनी रामायण, गीता, हिंदी-भोजपुरी भाषा और शिवरात्रि जैसे त्योहारों को भी जीवित रखा। लेखक ने 'परियों के तालाब' और वहाँ के हिंदू समाज के धार्मिक उत्साह का जीवंत वर्णन किया है। अंततः, लेखक मॉरीशस को भारतीय संस्कृति का एक ऐसा अटूट गढ़ मानते हैं, जिसने सात समंदर पार भी हिंदुस्तान की आत्मा को पूरी जीवंतता के साथ संजो कर रखा है।",
+      "keyPoints": []
     },
     {
       "id": "q22",
-      "type": "value-based",
+      "type": "long",
       "marks": 4,
       "difficulty": "Hard",
-      "question": "The ancestors of Indo-Mauritians faced severe economic and physical hardships yet never abandoned their moral values, language, and cultural roots. In the light of this statement, discuss the importance of cultural roots and moral resilience in an individual's life.",
-      "questionHi": "भारतवंशियों के पूर्वजों ने गंभीर आर्थिक और शारीरिक कठिनाइयों का सामना किया, फिर भी उन्होंने कभी अपने नैतिक मूल्यों, भाषा और सांस्कृतिक जड़ों को नहीं त्यागा। इस कथन के आलोक में, किसी व्यक्ति के जीवन में सांस्कृतिक जड़ों और नैतिक दृढ़ता के महत्व पर चर्चा कीजिए।",
-      "answer": "The chapter deeply exemplifies that cultural roots and moral resilience are the foundational pillars of an individual's identity and inner strength. When the Girmitiyas arrived in Mauritius, they were stripped of material wealth and subjected to grueling physical labor. In such dehumanizing conditions, it was their moral resilience and deep adherence to cultural roots—represented by their prayers, scriptures, and mother tongue—that prevented them from succumbing to despair.\n\nIn an individual's life, cultural roots act as a moral compass and an anchor during times of crisis. They provide a sense of belonging, ethical direction, and emotional stability in a rapidly changing world. Abandoning one's culture for short-term comfort leads to alienation and loss of identity. The example of Indo-Mauritians teaches us that true prosperity is achieved when economic progress is matched by cultural integrity. By respecting our heritage, mother tongue, and family values, we gain the self-respect and psychological strength required to overcome any adversity and contribute meaningfully to society.",
-      "answerHi": "यह अध्याय गहराई से स्पष्ट करता है कि सांस्कृतिक जड़ें और नैतिक दृढ़ता किसी व्यक्ति की पहचान और आंतरिक शक्ति के आधारभूत स्तंभ होते हैं। जब गिरमिटिया मजदूर मॉरीशस पहुँचे, तो वे भौतिक संपदा से वंचित थे और उन्हें हाड़-तोड़ शारीरिक श्रम के लिए बाध्य किया गया। ऐसी अमानवीय परिस्थितियों में, यह उनकी नैतिक दृढ़ता और अपनी सांस्कृतिक जड़ों के प्रति गहरा लगाव ही था—जो उनकी प्रार्थनाओं, धार्मिक ग्रंथों और मातृभाषा में परिलक्षित होता था—जिसने उन्हें निराशा में डूबने से बचाया।\n\nकिसी व्यक्ति के जीवन में, सांस्कृतिक जड़ें संकट के समय एक नैतिक मार्गदर्शन और दिशा-सूचक का कार्य करती हैं। वे तेजी से बदलती दुनिया में आत्मीयता का भाव, नैतिक दिशा और भावनात्मक स्थिरता प्रदान करती हैं। अल्पकालिक सुख के लिए अपनी संस्कृति को त्यागने से अलगाव और पहचान का संकट उत्पन्न होता है। मॉरीशस के भारतवंशियों का उदाहरण हमें सिखाता है कि सच्ची समृद्धि तभी प्राप्त होती है जब आर्थिक प्रगति के साथ सांस्कृतिक निष्ठा भी बनी रहे। अपनी विरासत, मातृभाषा और पारिवारिक मूल्यों का सम्मान करके हम वह आत्मसम्मान और मानसिक शक्ति प्राप्त करते हैं जो किसी भी विपरीत परिस्थिति पर विजय पाने और समाज में सार्थक योगदान देने के लिए आवश्यक है।",
-      "keyPoints": [
-        "Foundational pillars of individual identity and inner strength / व्यक्तिगत पहचान और आंतरिक शक्ति के आधारभूत स्तंभ",
-        "Acts as a moral compass and anchor during crises / संकट के समय नैतिक मार्गदर्शन और मानसिक संबल प्रदान करना",
-        "Prevents alienation and preserves dignity in adversity / विपरीत परिस्थितियों में अलगाव से बचाव और आत्मसम्मान की रक्षा",
-        "True prosperity combines economic progress with cultural integrity / सच्ची समृद्धि: आर्थिक प्रगति और सांस्कृतिक निष्ठा का संतुलन"
-      ]
+      "question": "Competency-Based Question: How did the Indians in Mauritius preserve their 'Cultural Identity'? What can today's young generation learn from this to protect their own cultural roots?",
+      "questionHi": "योग्यता-आधारित प्रश्न (Competency-Based): मॉरीशस के भारतीयों ने अपनी 'सांस्कृतिक पहचान' (Cultural Identity) को कैसे बचाए रखा? आज की युवा पीढ़ी इससे अपनी सांस्कृतिक जड़ों को बचाने के लिए क्या सीख सकती है?",
+      "answer": "The Indians of Mauritius did not resort to any modern means to save their cultural identity, but relied on their values and collective unity. They established Tulsi plant altars (chaure) in their homes, continued the recitation of Ramayana, kept their folk language Bhojpuri alive, and celebrated their festivals with full devotion. They transferred these traditions from generation to generation verbally and practically.\nFor the younger generation living in today's modern and globalized world, this is a huge lesson. Today's youth often leave behind their language, food habits, and values under the influence of Western civilization. The example of Mauritius teaches us that no matter which corner of the world we live in, or how much modern education we acquire, our true identity remains our cultural roots. Taking pride in our language and culture makes us mentally strong and self-respecting.",
+      "answerHi": "मॉरीशस के भारतीयों ने अपनी सांस्कृतिक पहचान को बचाने के लिए किसी आधुनिक साधन का नहीं, बल्कि अपने संस्कारों और सामूहिक एकता का सहारा लिया। उन्होंने अपने घरों में तुलसी के चौरे स्थापित किए, रामायण का पाठ जारी रखा, अपनी लोकभाषा भोजपुरी को जीवित रखा और अपने त्योहारों को पूरी निष्ठा से मनाया। उन्होंने पीढ़ी-दर-पीढ़ी इन परंपराओं को मौखिक और व्यावहारिक रूप से ट्रांसफर किया।\nआज की आधुनिक और वैश्विक दुनिया में रहने वाली युवा पीढ़ी के लिए यह एक बहुत बड़ी सीख है। आज के युवा अक्सर पश्चिमी सभ्यता के प्रभाव में आकर अपनी भाषा, खान-पान और संस्कारों को पीछे छोड़ देते हैं। मॉरीशस का उदाहरण हमें सिखाता है कि हम दुनिया के किसी भी कोने में रहें, कितनी भी आधुनिक शिक्षा प्राप्त कर लें, लेकिन हमारी वास्तविक पहचान हमारी सांस्कृतिक जड़ें ही होती हैं। अपनी भाषा और संस्कृति पर गर्व करना हमें मानसिक रूप से मजबूत और स्वाभिमानी बनाता है।",
+      "keyPoints": []
     },
     {
       "id": "q23",
-      "type": "case-study",
+      "type": "long",
       "marks": 4,
       "difficulty": "Hard",
-      "question": "Read the historical context: 'In the 19th century, thousands of Indian indentured laborers crossed the Kalapani to work on sugarcane estates in Mauritius. They carried few personal belongings but brought bundled copies of Ramcharitmanas, Hanuman Chalisa, and memories of their folk culture. Under colonial masters, they worked from dawn to dusk.' Based on this context and Chapter 12, analyze how literature and cultural heritage act as a powerful source of mental rehabilitation and survival during traumatic times.",
-      "questionHi": "ऐतिहासिक संदर्भ पढ़िए: '19वीं शताब्दी में, हज़ारों भारतीय गिरमिटिया मजदूर मॉरीशस के गन्ने के बागानों में काम करने के लिए कालापानी पार कर गए। वे अपने साथ बहुत कम व्यक्तिगत सामान ले गए, लेकिन रामचरितमानस, हनुमान चालीसा की प्रतियाँ और अपनी लोक संस्कृति की स्मृतियाँ साथ ले गए। औपनिवेशिक मालिकों के अधीन वे सुबह से शाम तक काम करते थे।' इस संदर्भ और अध्याय 12 के आधार पर विश्लेषण कीजिए कि कैसे साहित्य और सांस्कृतिक विरासत दुखद और कठिन समय में मानसिक पुनर्वास और अस्तित्व रक्षा का एक शक्तिशाली स्रोत बनते हैं।",
-      "answer": "This historical context and Dinkar ji's travelogue vividly illustrate that literature and cultural heritage are not merely leisure pursuits; they are essential survival tools and powerful agents of mental rehabilitation during periods of trauma. For the indentured laborers, crossing the 'Kalapani' meant leaving behind their homes, families, and familiar world to face severe colonial exploitation and physical exhaustion.\n\nIn this traumatic environment, the holy verses of Tulsidas's 'Ramcharitmanas' and 'Hanuman Chalisa' functioned as spiritual therapy. The narrative of Lord Rama—who endured fourteen years of exile with righteousness and ultimately triumphed over evil—directly resonated with the laborers' own exile and hardships. Reciting these scriptures together after exhausting workdays fostered communal bonding, relieved psychological stress, and restored their human dignity. Their folk culture and songs reminded them of their ancestral identity, proving that while colonial masters could control their physical labor, their minds and spirits remained unconquered and rooted in Indian ethos.",
-      "answerHi": "यह ऐतिहासिक संदर्भ और दिनकर जी का यात्रा-वृत्तांत स्पष्ट रूप से यह दर्शाते हैं कि साहित्य और सांस्कृतिक विरासत केवल मनोरंजन के साधन नहीं हैं; वे अत्यधिक कठिन और दुखद समय में अस्तित्व रक्षा के अनिवार्य उपकरण और मानसिक पुनर्वास के शक्तिशाली माध्यम हैं। गिरमिटिया मजदूरों के लिए 'कालापानी' पार करने का अर्थ था अपने घर, परिवार और परिचित दुनिया को छोड़कर कठोर औपनिवेशिक शोषण और शारीरिक थकान का सामना करना।\n\nइस पीड़ादायक वातावरण में, तुलसीदास कृत 'रामचरितमानस' और 'हनुमान चालीसा' की चौपाइयों ने आध्यात्मिक चिकित्सा का कार्य किया। भगवान राम की कथा—जिन्होंने धर्म के साथ चौदह वर्ष का वनवास सहा और अंततः बुराई पर विजय प्राप्त की—मजदूरों के अपने वनवास और संघर्षों के साथ गहराई से जुड़ गई। दिन भर के थका देने वाले परिश्रम के बाद सामूहिक रूप से इन ग्रंथों का पाठ करने से सामाजिक एकता मजबूत हुई, मानसिक तनाव कम हुआ और उनका मानवीय आत्मसम्मान पुनर्स्थापित हुआ। उनकी लोक संस्कृति और गीतों ने उन्हें उनकी पैतृक पहचान की याद दिलाई, जिससे यह सिद्ध हुआ कि औपनिवेशिक मालिक उनके शारीरिक श्रम को नियंत्रित कर सकते थे, परंतु उनकी आत्मा और मन अपराजित तथा भारतीय संस्कारों में दृढ़ रहे।",
-      "keyPoints": [
-        "Literature as spiritual therapy and mental rehabilitation / आध्यात्मिक चिकित्सा और मानसिक पुनर्वास के रूप में साहित्य",
-        "Lord Rama's exile narrative inspired hope during hardships / भगवान राम के वनवास की कथा से संघर्षों में आशा और प्रेरणा",
-        "Communal recitation relieved stress and restored dignity / सामूहिक पाठ द्वारा मानसिक तनाव से मुक्ति और आत्मसम्मान की रक्षा",
-        "Folk culture preserved unconquered spirit and ancestral identity / लोक संस्कृति द्वारा अपराजित भावना और पैतृक पहचान का संरक्षण"
-      ]
+      "question": "'A country that is proud of the struggles of its ancestors always has a bright future.' Review this statement in detail in the context of Mauritius.",
+      "questionHi": "\"जिस देश को अपने पूर्वजों के संघर्षों पर गर्व होता है, उसका भविष्य हमेशा उज्ज्वल होता है।\" मॉरीशस के संदर्भ में इस कथन की विस्तार से समीक्षा कीजिए।",
+      "answer": "This statement fits perfectly with the history and present of Mauritius. The prosperous citizens of today's Mauritius never forget that their great-grandfathers came here with shackles on their feet and pickaxes in their hands. They highly respect that difficult period of their ancestors, their tears, and the blood shed in the sugarcane fields.\nThe people of Mauritius did not let the struggle of their ancestors become their inferiority complex, rather they made it their strength. They have built memorials in memory of their ancestors and made the culture saved by them a part of their national identity. When a society remembers its history and the sacrifices of its ancestors, gratitude, discipline, and a collective passion to take the country forward are born in it. This is the reason why today Mauritius is not only economically prosperous, but its social fabric is also very strong.",
+      "answerHi": "यह कथन मॉरीशस के इतिहास और वर्तमान पर पूरी तरह सटीक बैठता है। मॉरीशस के आज के समृद्ध नागरिक यह कभी नहीं भूलते कि उनके दादा-परदादा यहाँ पैर में बेड़ियाँ और हाथों में कुदाल लेकर आए थे। वे अपने पूर्वजों के उस कठिन दौर, उनके आंसुओं और गन्ने के खेतों में बहाए गए खून का बेहद सम्मान करते हैं।\nमॉरीशस के लोगों ने अपने पूर्वजों के संघर्ष को अपनी हीनभावना नहीं बनने दिया, बल्कि उसे अपनी शक्ति बनाया। उन्होंने अपने पूर्वजों की याद में स्मारक बनाए हैं और उनके द्वारा बचाई गई संस्कृति को अपनी राष्ट्रीय पहचान का हिस्सा बनाया है। जब कोई समाज अपने इतिहास और पूर्वजों के बलिदान को याद रखता है, तो उसमें कृतज्ञता, अनुशासन और देश को आगे ले जाने का एक सामूहिक जज्बा पैदा होता है। यही कारण है कि आज मॉरीशस न केवल आर्थिक रूप से समृद्ध है, बल्कि वहाँ का सामाजिक ताना-बाना भी बहुत मजबूत है।",
+      "keyPoints": []
     },
     {
       "id": "q24",
       "type": "long",
       "marks": 4,
-      "difficulty": "Medium",
-      "question": "Describe the historical and mythological transformation of Grand Bassin into 'Ganga Talao'. Why is this lake considered the supreme spiritual symbol of Indo-Mauritians?",
-      "questionHi": "ग्रैंड बेसिन के 'गंगा तालाब' के रूप में ऐतिहासिक और पौराणिक रूपांतरण का वर्णन कीजिए। इस झील को भारतवंशियों का सर्वोच्च आध्यात्मिक प्रतीक क्यों माना जाता है?",
-      "answer": "The transformation of Grand Bassin into 'Ganga Talao' is one of the most remarkable chapters in the spiritual history of the Indian diaspora. Originally, Grand Bassin was a natural crater lake located in a secluded, mountainous region of Mauritius. In the late 19th century, a devout Hindu priest named Pandit Jhummun Giri Goswami had a divine vision (dream) that the water of this lake sprang from the sacred river Ganga in India.\n\nInspired by this vision, Indian laborers journeyed barefoot to the lake and symbolically poured holy Ganga water—brought from India in small copper vessels—into the lake, dedicating it to Lord Shiva. From that moment, the crater lake was consecrated as 'Ganga Talao'. It is considered the supreme spiritual symbol of Indo-Mauritians because it physically and emotionally bridges the geographical divide between Mauritius and India. It gave the displaced community their own sacred Ganga and Kashi on foreign soil. Today, the annual Maha Shivratri pilgrimage to Ganga Talao stands as a powerful testament to their unbroken faith and devotion.",
-      "answerHi": "ग्रैंड बेसिन का 'गंगा तालाब' के रूप में रूपांतरण भारतीय प्रवासी समाज के आध्यात्मिक इतिहास के सबसे अद्भुत अध्यायों में से एक है। मूल रूप से, ग्रैंड बेसिन मॉरीशस के एक एकांत, पर्वतीय क्षेत्र में स्थित एक प्राकृतिक क्रेटर झील थी। 19वीं शताब्दी के उत्तरार्ध में, पंडित झम्मन गिरि गोस्वामी नामक एक श्रद्धालु हिंदू पुजारी को दिव्य स्वप्न (आभास) हुआ कि इस झील का जल भारत की पवित्र गंगा नदी से ही प्रकट हुआ है।\n\nइस स्वप्न से प्रेरित होकर, भारतीय मजदूरों ने नंगे पैर झील तक की यात्रा की और भारत से तांबे के छोटे पात्रों में लाए गए पवित्र गंगाजल को प्रतीकात्मक रूप से इस झील में प्रवाहित किया तथा इसे भगवान शिव को समर्पित किया। उसी क्षण से इस क्रेटर झील को 'गंगा तालाब' के रूप में प्रतिष्ठित किया गया। इसे भारतवंशियों का सर्वोच्च आध्यात्मिक प्रतीक इसलिए माना जाता है क्योंकि यह मॉरीशस और भारत के बीच की भौगोलिक दूरी को भौतिक और भावनात्मक रूप से पाटता है। इसने विस्थापित भारतीय समाज को विदेश की धरती पर उनकी अपनी पवित्र गंगा और काशी प्रदान की। आज, गंगा तालाब पर होने वाली वार्षिक महाशिवरात्रि तीर्थयात्रा उनकी अटूट आस्था और श्रद्धा का एक शक्तिशाली प्रमाण है।",
-      "keyPoints": [
-        "Natural crater lake transformed by divine vision and faith / दिव्य स्वप्न और अटूट आस्था द्वारा प्राकृतिक झील का पवित्र रूपांतरण",
-        "Symbolic pouring of holy Ganga water brought from India / भारत से लाए गए पवित्र गंगाजल का प्रतीकात्मक और पवित्र प्रवाह",
-        "Physically and emotionally bridges Mauritius and India / मॉरीशस और भारत के बीच भौतिक और भावनात्मक सेतु का निर्माण",
-        "Provides displaced community their own sacred Ganga and Kashi / विस्थापित भारतीय समाज को अपनी पवित्र गंगा और काशी की प्राप्ति"
-      ]
+      "difficulty": "Hard",
+      "question": "Draw a vivid picture of the natural scenery and religious significance of 'Pariyon ka Talab' (Grand Bassin) described in the text.",
+      "questionHi": "पाठ में वर्णित 'परियों का तालाब' (Grand Bassin) के प्राकृतिक दृश्य और धार्मिक महत्व का सजीव चित्रण कीजिए।",
+      "answer": "'Pariyon ka Talab' or 'Grand Bassin' is an extremely large and spectacular natural lake situated amidst the mountains in the central part of Mauritius. Being surrounded by dense forests and mountains on all sides, its view appears supernatural and magical, which is why it was called the lake of fairies in ancient times.\nFrom a religious point of view, this place is the holiest pilgrimage site for the Hindu society of Mauritius. Due to their profound reverence for the river Ganges of India, the immigrants here accepted this pond as 'Ganga Talab'. It is believed that its water is as pure as that of the Ganges. Every year on the auspicious occasion of Maha Shivaratri, lakhs of devotees from all over Mauritius come here lined up, carrying Kanwads in their hands and devotion towards Lord Shiva in their hearts. They take water from this lake and offer it in their local Shiva temples. This place is the center point of the spiritual consciousness of mini India in Mauritius.",
+      "answerHi": "'परियों का तालाब' या 'ग्रैंड बेसिन' मॉरीशस के मध्य भाग में स्थित पहाड़ों के बीच एक अत्यंत विशाल और विहंगम प्राकृतिक झील है। चारों तरफ से घने जंगलों और पहाड़ों से घिरे होने के कारण इसका दृश्य अलौकिक और जादुई सा प्रतीत होता है, इसीलिए प्राचीन काल में इसे परियों का तालाब कहा जाता था।\nधार्मिक दृष्टि से यह स्थान मॉरीशस के हिंदू समाज का सबसे पवित्र तीर्थ स्थल है। यहाँ के प्रवासियों ने भारत की गंगा नदी के प्रति अपनी अगाध श्रद्धा के कारण इस तालाब को 'गंगा तालाब' के रूप में स्वीकार किया। मान्यता है कि इसका पानी गंगा जी के समान ही पवित्र है। हर साल महाशिवरात्रि के पावन अवसर पर पूरे मॉरीशस से लाखों श्रद्धालु कतारबद्ध होकर, हाथों में कांवड़ और दिल में शिव के प्रति भक्ति लेकर यहाँ आते हैं। वे इस तालाब का जल लेते हैं और अपने स्थानीय शिव मंदिरों में चढ़ाते हैं। यह स्थान मॉरीशस में लघु भारत की आध्यात्मिक चेतना का केंद्र बिंदु है।",
+      "keyPoints": []
     },
     {
       "id": "q25",
-      "type": "value-based",
+      "type": "long",
       "marks": 4,
-      "difficulty": "Medium",
-      "question": "Dinkar ji observed that despite living thousands of miles away from India for generations, Mauritians treat Indian visitors with immense warmth, brotherhood, and reverence. What core Indian values of global family (Vasudhaiva Kutumbakam) and hospitality (Atithi Devo Bhava) are reflected in this behavior?",
-      "questionHi": "दिनकर जी ने देखा कि पीढ़ियों से भारत से हज़ारों मील दूर रहने के बावजूद, मॉरीशस के लोग भारतीय यात्रियों के साथ अत्यधिक आत्मीयता, भाईचारे और श्रद्धा से पेश आते हैं। इस आचरण में वैश्विक परिवार (वसुधैव कुटुम्बकम्) और आतिथ्य (अतिथि देवो भव) के कौन-से मूल भारतीय मूल्य परिलक्षित होते हैं?",
-      "answer": "The heartwarming behavior of Mauritians towards Indian visitors is a magnificent reflection of the eternal Indian values of 'Vasudhaiva Kutumbakam' (the world is one family) and 'Atithi Devo Bhava' (the guest is equivalent to God). Despite being separated by vast oceans and several generations, Indo-Mauritians do not view Indian travelers as foreigners; instead, they embrace them as long-lost brothers and esteemed members of their extended spiritual family.\n\nWhen Dinkar ji visited Mauritius, he was welcomed into homes with traditional greetings, respectful bows (Namaste), home-cooked Indian meals, and deep emotional reverence. This behavior proves that true Indian hospitality is not bound by geographical borders or national citizenship; it is a cultural ethos ingrained in the heart. By treating every guest with selfless love and honor, Mauritians demonstrate that the spirit of brotherhood and inclusivity is the greatest legacy of Indian civilization, teaching the world how empathy and warmth can unite humanity.",
-      "answerHi": "भारतीय यात्रियों के प्रति मॉरीशस के लोगों का हृदयस्पर्शी आचरण 'वसुधैव कुटुम्बकम्' (संपूर्ण विश्व एक परिवार है) और 'अतिथि देवो भव' (अतिथि देवता के समान है) के शाश्वत भारतीय मूल्यों का एक भव्य प्रतिबिंब है। विशाल महासागरों और कई पीढ़ियों के अंतराल के बावजूद, मॉरीशस के भारतवंशी भारतीय यात्रियों को विदेशी नहीं मानते; इसके बजाय, वे उन्हें अपने लंबे समय से बिछड़े भाइयों और अपने विस्तृत आध्यात्मिक परिवार के सम्मानित सदस्यों के रूप में अपनाते हैं।\n\nजब दिनकर जी ने मॉरीशस की यात्रा की, तो उनका घरों में पारंपरिक अभिवादन, सम्मानजनक प्रणाम (नमस्ते), भारतीय भोजन और गहरी भावनात्मक श्रद्धा के साथ स्वागत किया गया। यह आचरण सिद्ध करता है कि सच्चा भारतीय आतिथ्य भौगोलिक सीमाओं या राष्ट्रीय नागरिकता से बंधा नहीं होता; यह हृदय में बसा एक सांस्कृतिक संस्कार है। प्रत्येक अतिथि के साथ निस्वार्थ प्रेम और सम्मान का व्यवहार करके, मॉरीशस के लोग यह प्रमाणित करते हैं कि भाईचारे और समावेशिता की भावना भारतीय सभ्यता की सबसे बड़ी विरासत है, जो विश्व को यह सिखाती है कि संवेदना और आत्मीयता मानवता को कैसे एकजुट कर सकती है।",
-      "keyPoints": [
-        "Reflection of 'Vasudhaiva Kutumbakam' (World is one family) / 'वसुधैव कुटुम्बकम्' (संपूर्ण विश्व एक परिवार) के शाश्वत मूल्य का प्रतिबिंब",
-        "Embodiment of 'Atithi Devo Bhava' (Guest is God) / 'अतिथि देवो भव' (अतिथि देवता के समान) की पावन भावना का साकार रूप",
-        "Embracing visitors as long-lost spiritual brothers / यात्रियों को बिछड़े हुए आत्मीय भाइयों के रूप में अपनाना",
-        "Cultural ethos transcending geographical and national borders / भौगोलिक और राष्ट्रीय सीमाओं से परे मानवता और संस्कार का विस्तार"
-      ]
+      "difficulty": "Hard",
+      "question": "Comparative Question: Compared to the geographical and social situation of India, what similarities and differences has the author highlighted in the situation of Mauritius?",
+      "questionHi": "तुलनात्मक प्रश्न: भारत की भौगोलिक और सामाजिक स्थिति की तुलना में मॉरीशस की स्थिति में लेखक ने क्या समानताएँ और क्या भिन्नताएँ (अंतर) रेखांकित की हैं?",
+      "answer": "The author Ramdhari Singh Dinkar has shown many interesting similarities and differences between India and Mauritius in the lesson:\n*   **Similarities:** The biggest similarity between the two countries is cultural and religious. The dressing style (saree, dhoti) of the people of Mauritius, their food, worship of deities, language (Bhojpuri/Hindi), and the way they celebrate festivals are exactly like India. The people there are also as religious and tolerant as the people of India.\n*   **Differences:** There is a lot of difference on the geographical and systemic levels. India is a huge continent-like country, whereas Mauritius is a small island in the Indian Ocean. The weather of Mauritius is not excessively hot or cold like India, but remains pleasant throughout the year. The biggest difference is of the system—the roads of Mauritius are clean like 'mirrors', one does not see dust, dirt, or uncontrolled crowds like in India. The life there is calmer and better organized.",
+      "answerHi": "लेखक रामधारी सिंह दिनकर ने पाठ में भारत और मॉरीशस के बीच कई दिलचस्प समानताओं और अंतरों को दर्शाया है:\n* **समानताएँ:** दोनों देशों के बीच सबसे बड़ी समानता सांस्कृतिक और धार्मिक है। मॉरीशस के लोगों का पहनावा (साड़ी, धोती), खान-पान, देवी-देवताओं की पूजा, भाषा (भोजपुरी/हिंदी) और त्योहार मनाने का तरीका बिल्कुल भारत जैसा ही है। वहाँ के लोग भी वैसे ही आस्तिक और सहिष्णु हैं जैसे भारत के लोग।\n* **भिन्नताएँ (अंतर):** भौगोलिक और व्यवस्था के स्तर पर काफी अंतर है। भारत एक बहुत विशाल महाद्वीप जैसा देश है, जबकि मॉरीशस हिंद महासागर में एक छोटा सा टापू है। मॉरीशस का मौसम भारत की तरह अत्यधिक गर्म या ठंडा नहीं होता, बल्कि साल भर सुहावना रहता है। सबसे बड़ा अंतर व्यवस्था का है—मॉरीशस की सड़कें 'शीशे' जैसी साफ हैं, वहाँ भारत की तरह धूल, गंदगी या अनियंत्रित भीड़भाड़ देखने को नहीं मिलती। वहाँ का जीवन अधिक शांत और सुव्यवस्थित है।",
+      "keyPoints": []
     },
     {
       "id": "q26",
-      "type": "case-study",
+      "type": "long",
       "marks": 4,
       "difficulty": "Hard",
-      "question": "Read the observation: 'Mauritius is not merely a land of turquoise seas, coral reefs, and green sugarcane fields; it is a vibrant mosaic of cultures where Diwali, Eid, Christmas, and Holi are celebrated with equal enthusiasm by all citizens.' Based on this statement and Chapter 12, analyze the significance of social pluralism and communal harmony in building a peaceful and progressive nation.",
-      "questionHi": "इस अवलोकन को पढ़िए: 'मॉरीशस केवल नीले समुद्र, प्रवाल भित्तियों और हरे-भरे गन्ने के खेतों की धरती नहीं है; यह संस्कृतियों का एक जीवंत मोज़ेक (संगम) है जहाँ दीपावली, ईद, क्रिसमस और होली सभी नागरिकों द्वारा समान उत्साह के साथ मनाए जाते हैं।' इस कथन और अध्याय 12 के आधार पर, एक शांतिपूर्ण और प्रगतिशील राष्ट्र के निर्माण में सामाजिक बहुलवाद और सांप्रदायिक सौहार्द के महत्व का विश्लेषण कीजिए।",
-      "answer": "This observation highlights that the true wealth and stability of Mauritius lie in its remarkable social pluralism and communal harmony, rather than just its natural tropical beauty. In Chapter 12, Dinkar ji expresses deep admiration for how diverse communities—Hindus, Muslims, Christians, and Creoles—live together in complete unity without ethnic friction or religious bigotry.\n\nThe significance of social pluralism in nation-building is immense. When citizens celebrate each other's festivals like Diwali, Eid, Christmas, and Holi together, it breaks down walls of prejudice and builds a strong foundation of mutual trust and collective national identity. In a progressive nation, diversity is treated as a source of strength rather than division. Mauritius's peaceful transition from a colonial plantation economy to a prosperous democratic republic was only possible because its people prioritized social cohesion over sectarian conflict. This case study demonstrates to global society that economic development and national peace are directly dependent on fostering inclusivity, tolerance, and brotherhood among all citizens.",
-      "answerHi": "यह अवलोकन इस बात को रेखांकित करता है कि मॉरीशस की वास्तविक संपदा और स्थिरता केवल इसके प्राकृतिक उष्णकटिबंधीय सौंदर्य में नहीं, बल्कि इसके अद्भुत सामाजिक बहुलवाद और सांप्रदायिक सौहार्द में निहित है। अध्याय 12 में, दिनकर जी इस बात की गहरी प्रशंसा करते हैं कि किस प्रकार विभिन्न समुदाय—हिंदू, मुस्लिम, ईसाई और क्रियोल—बिना किसी जातीय तनाव या धार्मिक कट्टरता के पूर्ण एकता के साथ एक साथ रहते हैं।\n\nराष्ट्र-निर्माण में सामाजिक बहुलवाद का महत्व अत्यधिक है। जब नागरिक एक-दूसरे के त्योहारों जैसे दीपावली, ईद, क्रिसमस और होली को मिलकर मनाते हैं, तो यह पूर्वाग्रह की दीवारों को तोड़ता है और आपसी विश्वास व सामूहिक राष्ट्रीय पहचान की मजबूत नींव रखता है। एक प्रगतिशील राष्ट्र में, विविधता को विभाजन के बजाय शक्ति का स्रोत माना जाता है। एक औपनिवेशिक बागान अर्थव्यवस्था से एक समृद्ध लोकतांत्रिक गणराज्य के रूप में मॉरीशस का शांतिपूर्ण परिवर्तन केवल इसलिए संभव हो सका क्योंकि वहाँ के लोगों ने सांप्रदायिक संघर्ष के स्थान पर सामाजिक एकजुटता को प्राथमिकता दी। यह अध्ययन वैश्विक समाज को यह प्रमाणित करता है कि आर्थिक विकास और राष्ट्रीय शांति सभी नागरिकों के बीच समावेशिता, सहिष्णुता और भाईचारे को बढ़ावा देने पर सीधे निर्भर करती है।",
-      "keyPoints": [
-        "Social pluralism and harmony as true wealth of a nation / सामाजिक बहुलवाद और सांप्रदायिक सौहार्द राष्ट्र की वास्तविक संपदा",
-        "Mutual celebration of festivals builds trust and national identity / त्योहारों का सामूहिक आयोजन आपसी विश्वास और राष्ट्रीय पहचान बनाता है",
-        "Diversity treated as a source of national strength / विविधता को विभाजन के स्थान पर राष्ट्रीय शक्ति का स्रोत मानना",
-        "Peaceful democracy dependent on inclusivity and brotherhood / शांतिपूर्ण और समृद्ध लोकतंत्र समावेशिता और भाईचारे पर निर्भर करता है"
-      ]
+      "question": "Higher Order Thinking Skills (HOTS): 'If Mauritius is called a cultural colony of India, it would not be wrong.' Give a reasoned answer in favor or against this statement.",
+      "questionHi": "उच्च स्तरीय चिंतन कौशल (HOTS): \"मॉरीशस को यदि भारत का एक सांस्कृतिक उपनिवेश कहा जाए, तो यह गलत नहीं होगा।\" इस कथन के पक्ष या विपक्ष में तर्क सहित उत्तर दीजिए।",
+      "answer": "In favor of this statement, it can be said that the word 'colony' is generally used for political or economic slavery, but here 'cultural colony' means a place where the culture of a country is completely flourishing. In this sense, Mauritius is absolutely a cultural extension of India. Despite being thousands of miles away from India, the soul there is Indian. Indian blood runs in the veins of the people there and every ritual of their life—from birth to death—is based on Sanatan and Indian traditions.\nAn argument against it could be that the word 'colony' carries a slight sense of being imposed, whereas the Indian culture in Mauritius has flourished not under any pressure, but due to the people's own desire, reverence, and love for their ancestors. Therefore, instead of calling it a 'colony', it would be more appropriate to call it \"a beautiful cultural home of India across the seven seas\".",
+      "answerHi": "इस कथन के पक्ष में यह कहा जा सकता है कि 'उपनिवेश' शब्द का प्रयोग आम तौर पर राजनीतिक या आर्थिक गुलामी के लिए होता है, लेकिन यहाँ 'सांस्कृतिक उपनिवेश' का अर्थ एक ऐसे स्थान से है जहाँ किसी देश की संस्कृति पूरी तरह फल-फूल रही हो। इस अर्थ में मॉरीशस बिल्कुल भारत का सांस्कृतिक विस्तार है। भारत से हजारों मील दूर होने के बावजूद वहाँ की आत्मा भारतीय है। वहाँ के लोगों के रगों में भारतीय खून दौड़ता है और उनके जीवन के हर संस्कार—जन्म से लेकर मृत्यु तक—सनातन और भारतीय परंपराओं पर आधारित हैं।\nविपक्ष में तर्क यह हो सकता है कि 'उपनिवेश' शब्द में थोड़ा सा थोपे जाने का भाव होता है, जबकि मॉरीशस में भारतीय संस्कृति किसी दबाव में नहीं, बल्कि वहाँ के लोगों की अपनी इच्छा, श्रद्धा और पूर्वजों के प्रति प्रेम के कारण फली-फूली है। इसलिए इसे 'उपनिवेश' कहने के बजाय \"भारत का सात समंदर पार एक सुंदर सांस्कृतिक घर\" कहना अधिक उचित होगा।",
+      "keyPoints": []
     },
     {
       "id": "q27",
       "type": "long",
       "marks": 4,
       "difficulty": "Hard",
-      "question": "Evaluate Ramdhari Singh 'Dinkar' as a travelogue writer (yatra-vrittant kar) based on Chapter 12. How do his poetic sensibility and nationalist consciousness enrich the narrative style of 'Hind Mahasagar Mein Chhota-Sa Hindustan'?",
-      "questionHi": "अध्याय 12 के आधार पर एक यात्रा-वृत्तांत लेखक (यात्रा-वृत्तांतकार) के रूप में रामधारी सिंह 'दिनकर' का मूल्यांकन कीजिए। उनकी काव्यगत संवेदना और राष्ट्रीय चेतना 'हिंद महासागर में छोटा-सा हिंदुस्तान' की शैली को कैसे समृद्ध करती हैं?",
-      "answer": "Ramdhari Singh 'Dinkar' proves to be an exceptional travelogue writer who elevates genre of travel writing from mere objective geographical reporting to an emotional, cultural, and historical exploration. Based on Chapter 12, his writing style is distinguished by a harmonious blend of refined poetic sensibility (kavyagat samvedana) and deep nationalist consciousness (rashtriya chetna).\n\nHis poetic sensibility is evident in his enchanting visual descriptions of Mauritius—comparing the green island in the blue ocean to an emerald set in a turquoise ring, and vividly capturing the rhythmic rustling of sugarcane fields and the serene beauty of coral reefs. At the same time, his nationalist consciousness transforms the narrative into a profound historical commentary. Instead of viewing Mauritians as distant strangers, he sees them as courageous sons and daughters of Mother India who carried the torch of Indian civilization across the seas. His language is dignified, emotionally resonant, and infused with Sanskrit and Bhojpuri nuances. Dinkar ji successfully connects the reader's heart with the diaspora, making the travelogue a masterpiece of cultural pride and human empathy.",
-      "answerHi": "रामधारी सिंह 'दिनकर' एक उत्कृष्ट यात्रा-वृत्तांतकार के रूप में सिद्ध होते हैं, जो यात्रा साहित्य को केवल भौगोलिक विवरण से उठाकर एक भावनात्मक, सांस्कृतिक और ऐतिहासिक अन्वेषण के स्तर तक ले जाते हैं। अध्याय 12 के आधार पर, उनकी लेखन शैली परिष्कृत काव्यगत संवेदना और गहरी राष्ट्रीय चेतना के एक अद्भुत और सामंजस्यपूर्ण संगम से पहचानी जाती है।\n\nउनकी काव्यगत संवेदना मॉरीशस के मनमोहक दृश्य वर्णनों में स्पष्ट रूप से दिखाई देती है—नीले महासागर में स्थित हरे द्वीप की तुलना नीले जल में जड़े हरे पन्ने से करना, और गन्ने के खेतों की संगीतमय सरसराहट व प्रवाल भित्तियों के शांत सौंदर्य का जीवंत चित्रण करना। इसके साथ ही, उनकी राष्ट्रीय चेतना इस वृत्तांत को एक गंभीर ऐतिहासिक चिंतन में बदल देती है। मॉरीशस के लोगों को दूरस्थ अजनबी मानने के बजाय, वे उन्हें भारत माता के उन साहसी पुत्रों और पुत्रियों के रूप में देखते हैं जिन्होंने समुद्र के पार भी भारतीय सभ्यता की मशाल को जलाए रखा। उनकी भाषा गरिमामय, भावनात्मक रूप से प्रभावशाली और संस्कृत व भोजपुरी के पुट से समृद्ध है। दिनकर जी पाठक के हृदय को प्रवासी समाज से सफलतापूर्वक जोड़ते हैं, जिससे यह यात्रा-वृत्तांत सांस्कृतिक गर्व और मानवीय संवेदना का एक उत्कृष्ट ग्रंथ बन जाता है।",
-      "keyPoints": [
-        "Elevates travelogue from geographical report to cultural exploration / यात्रा-वृत्तांत को भौगोलिक विवरण से सांस्कृतिक अन्वेषण के स्तर तक उठाना",
-        "Enchanting poetic imagery of landscapes and coral reefs / प्राकृतिक परिदृश्यों और प्रवाल भित्तियों का मनमोहक काव्यगत चित्रण",
-        "Deep nationalist consciousness celebrating Indian diaspora / भारतीय प्रवासी समाज के संघर्ष और गौरव का जश्न मनाने वाली राष्ट्रीय चेतना",
-        "Dignified language resonant with empathy and cultural pride / संवेदना, आत्मीयता और सांस्कृतिक गर्व से परिपूर्ण गरिमामय भाषा"
-      ]
+      "question": "How has the author Dinkar ji described the sugarcane fields of Mauritius and how is it connected to the economy there?",
+      "questionHi": "लेखक दिनकर जी ने मॉरीशस के गन्ने के खेतों का वर्णन किस प्रकार किया है और यह वहाँ की अर्थव्यवस्था से कैसे जुड़ा है?",
+      "answer": "The author points out that the very first thing that catches the eyes upon stepping into Mauritius are the vast and swaying sugarcane fields there. From the foothills of the mountains to the shores of the sea, as far as the eye can see, only sugarcane is visible. When the wind blows and the sugarcane leaves sway, it seems as if the entire island is swaying wrapped in a green blanket.\nAs beautiful as this view is, it is equally important for the economy there. Sugarcane is the backbone of Mauritius. The prosperity of Mauritius, the sugar mills, and foreign trade are mainly dependent on sugarcane production. It is this sugarcane juice that once soaked up the blood and sweat of the laborers, and today that same juice has brought Mauritius in line with the richest and happiest island countries in the world.",
+      "answerHi": "लेखक बताते हैं कि मॉरीशस में कदम रखते ही जो चीज़ सबसे पहले आँखों को आकर्षित करती है, वह है वहाँ के विशाल और लहलहाते गन्ने के खेत। पहाड़ों की तलहटी से लेकर समुद्र के किनारों तक, जहाँ तक नज़र जाती है, सिर्फ गन्ना ही गन्ना दिखाई देता है। हवा चलने पर गन्ने की पत्तियाँ जब लहराती हैं, तो ऐसा लगता है मानो पूरा टापू हरे रंग की चादर ओढ़े झूम रहा हो।\nयह दृश्य जितना सुंदर है, वहाँ की अर्थव्यवस्था के लिए उतना ही महत्वपूर्ण है। गन्ना मॉरीशस की रीढ़ की हड्डी (Backbone) है। मॉरीशस की समृद्धि, चीनी मिलें और विदेशी व्यापार मुख्य रूप से गन्ने की पैदावार पर ही टिके हुए हैं। इसी गन्ने के रस ने कभी मजदूरों के खून-पसीने को सोखा था और आज वही रस मॉरीशस को दुनिया के सबसे अमीर और खुशहाल द्वीप देशों की कतार में खड़ा कर चुका है।",
+      "keyPoints": []
     },
     {
       "id": "q28",
-      "type": "value-based",
+      "type": "long",
       "marks": 4,
       "difficulty": "Hard",
-      "question": "'Language is the soul and carrier of culture.' In the light of this statement, evaluate how the continuous devotion to Hindi and Bhojpuri by Indo-Mauritians over generations safeguarded their cultural distinctiveness from colonial assimilation.",
-      "questionHi": "'भाषा संस्कृति की आत्मा और वाहक होती है।' इस कथन के आलोक में, मूल्यांकन कीजिए कि किस प्रकार भारतवंशियों द्वारा पीढ़ियों तक हिंदी और भोजपुरी के प्रति निरंतर समर्पण ने औपनिवेशिक आत्मसातकरण से उनकी सांस्कृतिक विशिष्टता की रक्षा की।",
-      "answer": "The statement 'Language is the soul and carrier of culture' is profoundly validated by the historical experience of Indo-Mauritians. When Indian indentured laborers arrived in Mauritius under British colonial rule, they faced intense pressure of colonial assimilation, where adopting European customs and languages was often presented as the only path to survival and social acceptance. However, they realized that losing their mother tongue would mean losing their ancestral memory and cultural identity.\n\nBy speaking Bhojpuri in their daily lives and teaching Hindi to their children in community evening schools, they created an impenetrable linguistic fortress around their heritage. Language acted as the vessel that carried their folk songs, moral stories, Ramcharitmanas verses, and religious rituals across generations. This continuous linguistic devotion ensured that even after centuries of living under foreign rule, their cultural distinctiveness, family values, and emotional connection to India remained entirely intact. Their inspiring journey teaches us that protecting one's mother tongue is the first and most essential step in safeguarding one's cultural soul against external cultural erosion.",
-      "answerHi": "'भाषा संस्कृति की आत्मा और वाहक होती है'—यह कथन मॉरीशस के भारतवंशियों के ऐतिहासिक अनुभव द्वारा पूर्णतः प्रमाणित होता है। जब भारतीय गिरमिटिया मजदूर ब्रिटिश औपनिवेशिक शासन के तहत मॉरीशस पहुँचे, तो उन पर औपनिवेशिक आत्मसातकरण (विदेशी संस्कृति में विलीन होने) का तीव्र दबाव था, जहाँ यूरोपीय तौर-तरीकों और भाषा को अपनाना ही जीवित रहने और सामाजिक स्वीकृति का एकमात्र साधन माना जाता था। परंतु उन्होंने यह समझ लिया कि अपनी मातृभाषा को खोने का अर्थ अपनी पैतृक स्मृति और सांस्कृतिक पहचान को खोना होगा।\n\nअपने दैनिक जीवन में भोजपुरी बोलकर और सामुदायिक रात्रिकालीन विद्यालयों में अपने बच्चों को हिंदी सिखाकर, उन्होंने अपनी विरासत के चारों ओर एक अभेद्य भाषाई दुर्ग का निर्माण किया। भाषा वह माध्यम बनी जिसने उनके लोकगीतों, नैतिक कथाओं, रामचरितमानस की चौपाइयों और धार्मिक अनुष्ठानों को पीढ़ियों तक प्रवाहित किया। इस निरंतर भाषाई समर्पण ने यह सुनिश्चित किया कि विदेशी शासन के अधीन सदियों तक रहने के बावजूद उनकी सांस्कृतिक विशिष्टता, पारिवारिक मूल्य और भारत के साथ भावनात्मक जुड़ाव पूरी तरह अक्षुण्ण रहे। उनकी प्रेरणादायक यात्रा हमें सिखाती है कि अपनी मातृभाषा की रक्षा करना बाह्य सांस्कृतिक क्षरण के विरुद्ध अपनी सांस्कृतिक आत्मा को सुरक्षित रखने का पहला और सर्वाधिक अनिवार्य कदम है।",
-      "keyPoints": [
-        "Language as an impenetrable fortress against colonial assimilation / औपनिवेशिक आत्मसातकरण के विरुद्ध अभेद्य दुर्ग के रूप में भाषा",
-        "Vessel carrying folk songs, scriptures, and rituals / लोकगीतों, धार्मिक ग्रंथों और अनुष्ठानों को पीढ़ियों तक ले जाने वाला माध्यम",
-        "Preserved ancestral memory and distinct Indian identity / पैतृक स्मृति और विशिष्ट भारतीय पहचान का ऐतिहासिक संरक्षण",
-        "Safeguarding mother tongue is essential for protecting cultural soul / अपनी सांस्कृतिक आत्मा की रक्षा के लिए मातृभाषा का संरक्षण अनिवार्य"
-      ]
+      "question": "Value-Based Question: In the light of this lesson, clarify how language and folk literature (like Ramayana and Bhojpuri) act as a shield in saving a society from disintegrating?",
+      "questionHi": "मूल्य-आधारित प्रश्न: इस पाठ के आलोक में स्पष्ट कीजिए कि भाषा और लोक-साहित्य (जैसे रामायण और भोजपुरी) किसी समाज को बिखरने से बचाने में किस प्रकार एक ढाल का काम करते हैं?",
+      "answer": "Language and folk literature are the biggest protectors of the consciousness and identity of any society. When Indian laborers went to Mauritius, they could not take any wealth with them. They only had copies of Tulsidas ji's 'Ramcharitmanas' (Ramayana) and their own mother tongue 'Bhojpuri'.\nAfter a day of hard and oppressive work, when they sat under the trees in the evening, they would sing verses from the Ramayana and folk songs in Bhojpuri. These songs and verses kept them connected to their roots, eased their sorrows, and kept alive the belief within them that they were not alone; their God and their culture were with them. The Ramayana taught them moral values, and Bhojpuri kept them connected to each other. Had they abandoned their language and this literature, they would have very quickly merged into the British culture and their society would have disintegrated.",
+      "answerHi": "भाषा और लोक-साहित्य किसी भी समाज की चेतना और उसकी पहचान के सबसे बड़े रक्षक होते हैं। जब भारतीय मजदूर मॉरीशस गए, तो वे अपने साथ कोई धन-दौलत नहीं ले जा सके थे। उनके पास केवल तुलसीदास जी की 'रामचरितमानस' (रामायण) की प्रतियाँ और उनकी अपनी मातृभाषा 'भोजपुरी' थी।\nदिनभर के कठिन और दमनकारी काम के बाद, जब वे शाम को पेड़ों के नीचे बैठते थे, तो रामायण की चौपाइयाँ गाते थे और भोजपुरी के लोकगीत गाते थे। इन गीतों और चौपाइयों ने उन्हें अपनी जड़ों से जोड़े रखा, उनके दुखों को कम किया और उनके भीतर यह विश्वास जगाए रखा कि वे अकेले नहीं हैं, उनका ईश्वर और उनकी संस्कृति उनके साथ है। रामायण ने उन्हें नैतिक मूल्य सिखाए और भोजपुरी ने उन्हें आपस में जोड़े रखा। यदि वे अपनी भाषा और इस साहित्य को छोड़ देते, तो वे बहुत जल्दी ब्रिटिश संस्कृति में विलीन हो जाते और उनका समाज बिखर जाता।",
+      "keyPoints": []
     },
     {
       "id": "q29",
-      "type": "case-study",
+      "type": "long",
       "marks": 4,
       "difficulty": "Hard",
-      "question": "Read the text scenario: 'During his travels across Mauritius, Dinkar ji observed that whether in modern city offices or remote sugarcane villages, Mauritians greeted each other with a warm \"Namaste\", read Tulsidas's Ramcharitmanas with reverence, and named their villages and children after Indian places and deities.' Analyze how oral traditions, naming practices, and daily customs serve as a bridge connecting geographical boundaries across generations.",
-      "questionHi": "पाठ्य परिदृश्य पढ़िए: 'मॉरीशस में अपनी यात्राओं के दौरान, दिनकर जी ने देखा कि चाहे आधुनिक शहरी कार्यालय हों या दूरदराज़ के गन्ने के गाँव, मॉरीशस के लोग एक-दूसरे का गर्मजोशी से \"नमस्ते\" कहकर अभिवादन करते थे, श्रद्धा से तुलसीदास की रामचरितमानस पढ़ते थे, और अपने गाँवों व बच्चों के नाम भारतीय स्थानों व देवी-देवताओं के नाम पर रखते थे।' विश्लेषण कीजिए कि किस प्रकार मौखिक परंपराएँ, नामकरण की प्रथाएँ और दैनिक रीति-रिवाज पीढ़ियों तक भौगोलिक सीमाओं को जोड़ने वाले सेतु का कार्य करते हैं।",
-      "answer": "This scenario from Dinkar ji's travelogue highlights the extraordinary power of daily customs, naming practices, and oral traditions in constructing an enduring cultural bridge across vast geographical oceans and generations. When physical migration separates a community from its motherland, intangible cultural practices become the primary mechanism for preserving their homeland in their collective consciousness.\n\nBy greeting each other with 'Namaste', Indo-Mauritians actively reinforce their philosophy of recognizing the divine within every individual. By naming their villages, rivers, and children after sacred Indian cities (like Patna, Banaras, or Gokul) and deities, they successfully recreated a symbolic India on Mauritian soil. Furthermore, the reverent recitation of Ramcharitmanas ensured that moral values and linguistic purity were transferred seamlessly to children born far away from India. These living customs demonstrate that cultural heritage is not confined to physical territory; it thrives through daily practice, acting as a timeless bridge that unites the diaspora with their ancestral roots across centuries.",
-      "answerHi": "दिनकर जी के यात्रा-वृत्तांत का यह परिदृश्य विशाल भौगोलिक महासागरों और पीढ़ियों के पार एक स्थायी सांस्कृतिक सेतु के निर्माण में दैनिक रीति-रिवाजों, नामकरण की प्रथाओं और मौखिक परंपराओं की अद्भुत शक्ति को रेखांकित करता है। जब भौतिक प्रवास किसी समाज को उसकी मातृभूमि से अलग कर देता है, तो अमूर्त सांस्कृतिक आचरण उनकी सामूहिक चेतना में अपनी मातृभूमि को जीवित रखने का प्रमुख साधन बन जाते हैं।\n\nएक-दूसरे का 'नमस्ते' से अभिवादन करके, भारतवंशी प्रत्येक व्यक्ति के भीतर ईश्वर के अंश को पहचानने के अपने दर्शन को सक्रिय रूप से सुदृढ़ करते हैं। अपने गाँवों, नदियों और बच्चों के नाम पवित्र भारतीय शहरों (जैसे पटना, बनारस या गोकुल) और देवी-देवताओं के नाम पर रखकर, उन्होंने मॉरीशस की धरती पर एक प्रतीकात्मक भारत का सफल पुनर्निर्माण किया। इसके अतिरिक्त, रामचरितमानस के श्रद्धापूर्ण पाठ ने यह सुनिश्चित किया कि भारत से दूर जन्मे बच्चों में भी नैतिक मूल्य और भाषाई शुद्धता सहजता से प्रवाहित हो। ये जीवंत रीति-रिवाज यह प्रमाणित करते हैं कि सांस्कृतिक विरासत भौतिक भूभाग तक सीमित नहीं होती; यह दैनिक आचरण के माध्यम से पल्लवित होती है और एक ऐसे शाश्वत सेतु का कार्य करती है जो सदियों तक प्रवासी समाज को उनकी पैतृक जड़ों से जोड़े रखता है।",
-      "keyPoints": [
-        "Intangible cultural practices preserve homeland in consciousness / अमूर्त सांस्कृतिक आचरण द्वारा सामूहिक चेतना में मातृभूमि का संरक्षण",
-        "'Namaste' and naming practices recreate symbolic India / 'नमस्ते' और नामकरण प्रथाओं द्वारा मॉरीशस में प्रतीकात्मक भारत का पुनर्निर्माण",
-        "Seamless transfer of moral values through daily scripture recitation / दैनिक धार्मिक पाठ द्वारा युवा पीढ़ी में नैतिक मूल्यों का सहज हस्तांतरण",
-        "Daily customs act as a timeless bridge transcending physical geography / दैनिक रीति-रिवाज भौतिक भूगोल से परे एक शाश्वत सांस्कृतिक सेतु बनाते हैं"
-      ]
+      "question": "Discuss the benefits of the travelogue genre. Why does the desire to visit Mauritius grow stronger within you after reading the lesson 'Hind Mahasagar mein Chota-sa Hindustan'?",
+      "questionHi": "यात्रा-वृत्तांत विधा के लाभों पर चर्चा कीजिए। \"हिंद महासागर में छोटा-सा हिंदुस्तान\" पाठ को पढ़कर आपके भीतर मॉरीशस जाने की इच्छा क्यों बलवती हो जाती है?",
+      "answer": "A travelogue is a genre of literature that introduces the reader to distant places of the world, their culture, history, and geography right from the comfort of their home. Through it, we learn a lot from the experiences of others, and the boundaries of our knowledge expand.\nThe desire to visit Mauritius becomes intense within us after reading this lesson by Dinkar ji because the lively and intimate description he has provided touches the heart. The mirror-like clean roads, pollution-free pleasant weather, the blue ocean spread all around, and amidst all this, the people of Indian origin giving love just like our own brothers and sisters—knowing all this makes it feel like Mauritius is not an alien country, but our own lost beautiful brother, which every Indian should have the duty and dream to go see and embrace.",
+      "answerHi": "यात्रा-वृत्तांत साहित्य की एक ऐसी विधा है जो पाठक को घर बैठे ही दुनिया के दूरदराज के स्थानों, वहाँ की संस्कृति, इतिहास और भूगोल से परिचित करा देती है। इसके माध्यम से हम दूसरों के अनुभवों से बहुत कुछ सीखते हैं और हमारी ज्ञान की सीमा का विस्तार होता है।\nदिनकर जी के इस पाठ को पढ़ने के बाद हमारे भीतर मॉरीशस जाने की इच्छा इसलिए तीव्र हो जाती है क्योंकि उन्होंने वहाँ का जो सजीव और आत्मीय वर्णन किया है, वह दिल को छू लेता है। शीशे जैसी साफ सड़कें, प्रदूषण मुक्त सुहावना मौसम, चारों तरफ फैला नीला समंदर और इन सबके बीच अपने ही देश के भाई-बहनों जैसा प्यार देने वाले भारतीय मूल के लोग—यह सब जानकर ऐसा लगता है कि मॉरीशस कोई पराया देश नहीं, बल्कि हमारा ही एक बिछड़ा हुआ सुंदर भाई है जिसे जाकर देखना और गले लगाना हर भारतीय का कर्तव्य और सपना होना चाहिए।",
+      "keyPoints": []
     },
     {
       "id": "q30",
       "type": "long",
       "marks": 4,
       "difficulty": "Hard",
-      "question": "What inspiring message does Chapter 12 'Hind Mahasagar Mein Chhota-Sa Hindustan' give to young learners in India regarding their relationship with the global Indian diaspora? Suggest practical ways to strengthen cultural and educational bonding between India and Mauritius today.",
-      "questionHi": "अध्याय 12 'हिंद महासागर में छोटा-सा हिंदुस्तान' भारत के युवा विद्यार्थियों को वैश्विक भारतीय प्रवासी समाज के साथ उनके संबंध के विषय में क्या प्रेरणादायक संदेश देता है? वर्तमान समय में भारत और मॉरीशस के बीच सांस्कृतिक और शैक्षिक संबंधों को सुदृढ़ करने के व्यावहारिक उपाय सुझाइए।",
-      "answer": "Chapter 12 gives an inspiring message to Indian learners: that India's cultural boundaries extend far beyond its geographical borders. It teaches young students to view the global Indian diaspora not as strangers who left the country, but as courageous cultural ambassadors ('Jahaji Bhais') who preserved Indian language, values, and traditions under the most adverse circumstances. It instills a sense of pride in the universal appeal of Indian civilization and emphasizes our moral responsibility to maintain deep emotional and familial bonds with our diaspora brothers and sisters.\n\nTo strengthen cultural and educational bonding between India and Mauritius today, several practical measures can be implemented:\n1. Student Exchange Programs and Scholarships: Establishing regular student and faculty exchange programs between Indian and Mauritian universities to foster collaborative research and historical exploration.\n2. Digital Cultural and Language Platforms: Creating joint online portals and virtual workshops for teaching Hindi, Bhojpuri, Vedic literature, and Indian classical arts.\n3. Youth Heritage Camps: Organizing annual heritage tourism and cultural camps where Mauritian youth visit ancestral villages in India and Indian youth visit historical sites like Ganga Talao and Aapravasi Ghat in Mauritius.\n4. Collaborative Media and Literary Projects: Co-producing documentary films, publishing bilingual literary anthologies, and actively participating in World Hindi Conferences to celebrate our shared heritage.",
-      "answerHi": "अध्याय 12 भारत के विद्यार्थियों को एक प्रेरणादायक संदेश देता है: कि भारत की सांस्कृतिक सीमाएँ उसकी भौगोलिक सीमाओं से कहीं आगे तक फैली हुई हैं। यह युवा छात्रों को सिखाता है कि वे वैश्विक भारतीय प्रवासी समाज को देश छोड़कर जाने वाले अजनबियों के रूप में न देखें, बल्कि उन साहसी सांस्कृतिक राजदूतों ('जहाजी भाइयों') के रूप में देखें जिन्होंने सर्वाधिक विपरीत परिस्थितियों में भी भारतीय भाषा, मूल्यों और परंपराओं को जीवित रखा। यह भारतीय सभ्यता के विश्वव्यापी प्रभाव पर गर्व की भावना जगाता है और हमारे प्रवासी भाइयों व बहनों के साथ गहरे भावनात्मक और पारिवारिक संबंध बनाए रखने के हमारे नैतिक दायित्व पर बल देता है।\n\nवर्तमान समय में भारत और मॉरीशस के बीच सांस्कृतिक और शैक्षिक संबंधों को सुदृढ़ करने के लिए निम्नलिखित व्यावहारिक उपाय लागू किए जा सकते हैं:\n1. छात्र आदान-प्रदान कार्यक्रम और छात्रवृत्तियाँ: भारतीय और मॉरीशस के विश्वविद्यालयों के बीच नियमित छात्र और शिक्षक आदान-प्रदान कार्यक्रमों की स्थापना करना, ताकि ऐतिहासिक अनुसंधान और सहयोग को बढ़ावा मिले।\n2. डिजिटल सांस्कृतिक और भाषा मंच: हिंदी, भोजपुरी, वैदिक साहित्य और भारतीय शास्त्रीय कलाओं के शिक्षण के लिए संयुक्त ऑनलाइन पोर्टल और आभासी कार्यशालाओं का निर्माण करना।\n3. युवा विरासत शिविर: वार्षिक विरासत पर्यटन और सांस्कृतिक शिविरों का आयोजन करना, जहाँ मॉरीशस के युवा भारत में अपने पूर्वजों के गाँवों का दौरा करें और भारतीय युवा मॉरीशस में गंगा तालाब व आप्रवासी घाट जैसे ऐतिहासिक स्थलों का भ्रमण करें।\n4. सहयोगात्मक मीडिया और साहित्यिक परियोजनाएँ: वृत्तचित्र फिल्मों का संयुक्त निर्माण करना, द्विभाषी साहित्यिक संग्रह प्रकाशित करना और हमारी साझा विरासत का जश्न मनाने के लिए विश्व हिंदी सम्मेलनों में सक्रिय रूप से भाग लेना।",
-      "keyPoints": [
-        "View diaspora as courageous cultural ambassadors ('Jahaji Bhais') / प्रवासी समाज को साहसी सांस्कृतिक राजदूत ('जहाजी भाई') के रूप में देखना",
-        "Student exchange programs and collaborative academic scholarships / छात्र आदान-प्रदान कार्यक्रम और सहयोगात्मक शैक्षिक छात्रवृत्तियाँ",
-        "Digital platforms for Hindi, Bhojpuri, and Vedic arts / हिंदी, भोजपुरी और वैदिक कलाओं के प्रसार के लिए डिजिटल मंचों का निर्माण",
-        "Youth heritage camps visiting Ganga Talao and Aapravasi Ghat / गंगा तालाब और आप्रवासी घाट के भ्रमण हेतु युवा विरासत शिविरों का आयोजन"
-      ]
+      "question": "Throw light on the current status of Hindus/Indians in the political and social life of Mauritius as indicated by the lesson.",
+      "questionHi": "मॉरीशस के राजनैतिक और सामाजिक जीवन में हिंदुओं/भारतीयों की वर्तमान स्थिति पर प्रकाश डालिए जैसा कि पाठ से संकेत मिलता है।",
+      "answer": "The lesson clearly indicates that today people of Indian origin (especially Hindus) have complete dominance and a respectable place in the political and social life of Mauritius. The ancestors who were once kept as 'laborers' on the lowest rung of society, their present generations occupy top positions in business, education, law, and politics there.\nIn democratically elected governments in Mauritius, Prime Ministers and Ministers of Indian origin lead the country. Socially too, they are highly organized. They fully enjoy their religious freedom and live with complete peace, harmony, and brotherhood alongside other communities (like Christians and Muslims) there. They have achieved a highly prestigious and respected position in the Mauritian society on the strength of their hard work.",
+      "answerHi": "पाठ से स्पष्ट संकेत मिलता है कि मॉरीशस के राजनैतिक और सामाजिक जीवन में आज भारतीय मूल के लोगों (विशेषकर हिंदुओं) का पूरी तरह से बोलबाला और सम्मानजनक स्थान है। जिन पूर्वजों को कभी समाज के सबसे निचले पायदान पर 'मजदूर' बनाकर रखा गया था, उनकी आज की पीढ़ियाँ वहाँ के व्यापार, शिक्षा, वकालत और राजनीति के शीर्ष पदों पर आसीन हैं।\nमॉरीशस में लोकतांत्रिक तरीके से चुनी गई सरकारों में भारतीय मूल के प्रधानमंत्री और मंत्री देश का नेतृत्व करते हैं। सामाजिक रूप से भी वे अत्यंत संगठित हैं। वे अपनी धार्मिक स्वतंत्रता का पूरा आनंद लेते हैं और वहाँ के अन्य समुदायों (जैसे क्रिश्चियन और मुस्लिम) के साथ पूरी शांति, सद्भाव और भाईचारे के साथ रहते हैं। उन्होंने अपनी मेहनत के बल पर मॉरीशस के समाज में एक अत्यंत प्रतिष्ठित और सम्मानित स्थान हासिल कर लिया है।",
+      "keyPoints": []
     }
   ]
 }
