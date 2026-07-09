@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "What specific physical property does temperature measure?",
+      "options": [
+        {
+          "id": "A",
+          "text": "How heavy an object is"
+        },
+        {
+          "id": "B",
+          "text": "How long an object is"
+        },
+        {
+          "id": "C",
+          "text": "How hot or cold an object is"
+        },
+        {
+          "id": "D",
+          "text": "How fast an object moves"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "2",
+      "question": "What scientific instrument is universally used to accurately measure temperature?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Barometer"
+        },
+        {
+          "id": "B",
+          "text": "Thermometer"
+        },
+        {
+          "id": "C",
+          "text": "Speedometer"
+        },
+        {
+          "id": "D",
+          "text": "Ruler"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "3",
+      "question": "Which specialized thermometer is designed specifically to measure the temperature of the human body?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Laboratory thermometer"
+        },
+        {
+          "id": "B",
+          "text": "Clinical thermometer"
+        },
+        {
+          "id": "C",
+          "text": "Weather thermometer"
+        },
+        {
+          "id": "D",
+          "text": "Industrial thermometer"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "4",
+      "question": "What is the widely accepted normal temperature of a healthy human body on the Celsius scale?",
+      "options": [
+        {
+          "id": "A",
+          "text": "100 °C"
+        },
+        {
+          "id": "B",
+          "text": "37.0 °C"
+        },
+        {
+          "id": "C",
+          "text": "0 °C"
+        },
+        {
+          "id": "D",
+          "text": "50 °C"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "5",
+      "question": "What is the exact freezing point of pure water on the Celsius scale at sea level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "100 °C"
+        },
+        {
+          "id": "B",
+          "text": "32 °C"
+        },
+        {
+          "id": "C",
+          "text": "0 °C"
+        },
+        {
+          "id": "D",
+          "text": "10 °C"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "6",
+      "question": "What is the exact boiling point of pure water on the Celsius scale at sea level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "0 °C"
+        },
+        {
+          "id": "B",
+          "text": "50 °C"
+        },
+        {
+          "id": "C",
+          "text": "100 °C"
+        },
+        {
+          "id": "D",
+          "text": "212 °C"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "7",
+      "question": "Why is the human sense of touch considered a scientifically unreliable way to measure temperature?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because human skin is too thick to feel heat."
+        },
+        {
+          "id": "B",
+          "text": "Because touch is highly subjective and depends entirely on relative differences from previous states."
+        },
+        {
+          "id": "C",
+          "text": "Because touch only detects cold objects."
+        },
+        {
+          "id": "D",
+          "text": "Because human hands are permanently cold."
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "8",
+      "question": "Which specific liquid metal was traditionally used inside the glass tube of a clinical thermometer?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Colored water"
+        },
+        {
+          "id": "B",
+          "text": "Alcohol"
+        },
+        {
+          "id": "C",
+          "text": "Mercury"
+        },
+        {
+          "id": "D",
+          "text": "Refined oil"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "9",
+      "question": "For hygiene and accuracy, what must you do immediately before using a standard clinical thermometer?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Heat it over an open fire."
+        },
+        {
+          "id": "B",
+          "text": "Wash its tip carefully with soap and water or an antiseptic/disinfectant."
+        },
+        {
+          "id": "C",
+          "text": "Submerge it in boiling water."
+        },
+        {
+          "id": "D",
+          "text": "Freeze it solid."
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "10",
+      "question": "What is the standard SI (International System) base unit of temperature primarily used by scientists globally?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Celsius"
+        },
+        {
+          "id": "B",
+          "text": "Fahrenheit"
+        },
+        {
+          "id": "C",
+          "text": "Kelvin"
+        },
+        {
+          "id": "D",
+          "text": "Gram"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "11",
+      "question": "Why must you never use a standard laboratory thermometer to measure human body temperature?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It is physically too small to read the numbers."
+        },
+        {
+          "id": "B",
+          "text": "It lacks a kink (constriction), so the liquid level drops immediately when removed from the heat source (the mouth), giving a false low reading."
+        },
+        {
+          "id": "C",
+          "text": "It measures distance in kilometers."
+        },
+        {
+          "id": "D",
+          "text": "It only measures freezing temperatures."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "12",
+      "question": "What is the critical structural purpose of the \"kink\" (constriction) in the glass tube of a clinical thermometer?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It prevents the mercury/liquid level from dropping on its own after removal from the patient, allowing time to read it."
+        },
+        {
+          "id": "B",
+          "text": "It makes the thermometer aesthetically pleasing."
+        },
+        {
+          "id": "C",
+          "text": "It helps the glass withstand boiling water."
+        },
+        {
+          "id": "D",
+          "text": "It prevents the glass from breaking."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "13",
+      "question": "What is the typical, broad temperature range marked on a standard laboratory thermometer?",
+      "options": [
+        {
+          "id": "A",
+          "text": "35°C to 42°C"
+        },
+        {
+          "id": "B",
+          "text": "0°C to 10°C"
+        },
+        {
+          "id": "C",
+          "text": "-10°C to 110°C"
+        },
+        {
+          "id": "D",
+          "text": "100°C to 200°C"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "14",
+      "question": "What is the strictly correct technique to read a laboratory thermometer while conducting an experiment?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Remove it from the liquid entirely and hold it close to your eyes."
+        },
+        {
+          "id": "B",
+          "text": "Read it while the bulb is still fully immersed in the substance, holding the thermometer perfectly vertically at eye level."
+        },
+        {
+          "id": "C",
+          "text": "Lay it flat on the laboratory table and read it from above."
+        },
+        {
+          "id": "D",
+          "text": "Shake it vigorously before attempting to read."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "15",
+      "question": "If a thermometer's scale has 10 small division lines marked between the 30°C and 40°C numbers, what exact value does one small division line represent?",
+      "options": [
+        {
+          "id": "A",
+          "text": "10°C"
+        },
+        {
+          "id": "B",
+          "text": "5°C"
+        },
+        {
+          "id": "C",
+          "text": "1°C"
+        },
+        {
+          "id": "D",
+          "text": "0.1°C"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "16",
+      "question": "Why do modern digital thermometers have a significant safety advantage over traditional glass mercury thermometers?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They do not contain highly toxic mercury, eliminating the danger of poisonous spills if broken."
+        },
+        {
+          "id": "B",
+          "text": "They run forever without needing batteries."
+        },
+        {
+          "id": "C",
+          "text": "They are completely immune to fire."
+        },
+        {
+          "id": "D",
+          "text": "They can measure length as well as temperature."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "17",
+      "question": "If a person states they have a severe fever of \"101 degrees,\" which temperature scale are they commonly using?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Celsius"
+        },
+        {
+          "id": "B",
+          "text": "Kelvin"
+        },
+        {
+          "id": "C",
+          "text": "Fahrenheit"
+        },
+        {
+          "id": "D",
+          "text": "Richter"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "18",
+      "question": "What physically happens to the temperature of water while it is in the process of boiling?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It keeps increasing indefinitely until the pot melts."
+        },
+        {
+          "id": "B",
+          "text": "It remains perfectly constant at 100°C until all the liquid water has turned into vapor."
+        },
+        {
+          "id": "C",
+          "text": "It drops back down to 0°C."
+        },
+        {
+          "id": "D",
+          "text": "It fluctuates wildly up and down."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "19",
+      "question": "When correctly writing a temperature measurement in Celsius, what is the proper typographical format?",
+      "options": [
+        {
+          "id": "A",
+          "text": "37°C"
+        },
+        {
+          "id": "B",
+          "text": "37 °C (with a space before the unit)"
+        },
+        {
+          "id": "C",
+          "text": "37° C"
+        },
+        {
+          "id": "D",
+          "text": "37C°"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "20",
+      "question": "Why is it incorrect to hold a thermometer by its sensitive bulb while trying to take a reading?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Your hand might get dirty from the glass."
+        },
+        {
+          "id": "B",
+          "text": "Your own body heat will transfer into the bulb, causing the liquid to expand and altering the final reading."
+        },
+        {
+          "id": "C",
+          "text": "It will shatter the glass instantly."
+        },
+        {
+          "id": "D",
+          "text": "It causes the liquid to freeze."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "21",
+      "question": "An experiment: A student dips their left hand in ice water and right hand in hot water for two minutes, then dips both simultaneously into lukewarm tap water. What will their nervous system tell them?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both hands will correctly feel the tap water as lukewarm."
+        },
+        {
+          "id": "B",
+          "text": "The left hand will feel the water as warm, while the right hand will feel it as cold, proving touch is relative."
+        },
+        {
+          "id": "C",
+          "text": "The left hand will feel it as cold, and the right hand will feel it as warm."
+        },
+        {
+          "id": "D",
+          "text": "Their hands will go completely numb."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "22",
+      "question": "If a high-precision laboratory thermometer has exactly 50 small division lines spanning the space between 0°C and 100°C, what is the smallest temperature change it can accurately measure?",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.5°C"
+        },
+        {
+          "id": "B",
+          "text": "1°C"
+        },
+        {
+          "id": "C",
+          "text": "2°C"
+        },
+        {
+          "id": "D",
+          "text": "5°C"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "23",
+      "question": "Why were infrared (non-contact) thermometers considered critical medical tools during viral pandemics like COVID-19?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They emit lasers that instantly cure viral infections."
+        },
+        {
+          "id": "B",
+          "text": "They accurately measure surface temperature from a distance, drastically reducing the risk of physical cross-infection between patients and doctors."
+        },
+        {
+          "id": "C",
+          "text": "They are the only thermometers programmed in Celsius."
+        },
+        {
+          "id": "D",
+          "text": "They require the patient to swallow a tracking chip."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "24",
+      "question": "The scientific formula to convert Celsius to Kelvin is K = °C + 273.15. If the boiling point of pure water is 100°C, what is this exact temperature expressed in Kelvin?",
+      "options": [
+        {
+          "id": "A",
+          "text": "273.15 K"
+        },
+        {
+          "id": "B",
+          "text": "373.15 K"
+        },
+        {
+          "id": "C",
+          "text": "100 K"
+        },
+        {
+          "id": "D",
+          "text": "173.15 K"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "25",
+      "question": "\"Absolute zero\" is theoretically defined as 0 K, the point where all molecular motion stops. What is this extreme temperature equivalent to on the standard Celsius scale?",
+      "options": [
+        {
+          "id": "A",
+          "text": "0 °C"
+        },
+        {
+          "id": "B",
+          "text": "-100 °C"
+        },
+        {
+          "id": "C",
+          "text": "-273.15 °C"
+        },
+        {
+          "id": "D",
+          "text": "273.15 °C"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "26",
+      "question": "When writing scientific reports using the Kelvin scale, why do scientists intentionally omit the degree symbol (°)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because Kelvin is a hypothetical, not real, temperature."
+        },
+        {
+          "id": "B",
+          "text": "It is the strict international convention for the SI base unit of thermodynamic temperature."
+        },
+        {
+          "id": "C",
+          "text": "The scientists who invented it forgot to include the symbol."
+        },
+        {
+          "id": "D",
+          "text": "Kelvin is only utilized to measure freezing objects."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "27",
+      "question": "A curious student attempts to measure the temperature of actively boiling water using a standard clinical thermometer. What is the most likely, dangerous outcome?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The thermometer will read 100°C with perfect accuracy."
+        },
+        {
+          "id": "B",
+          "text": "The thermometer will likely shatter because its maximum range is usually 42°C; the rapidly expanding liquid will break the narrow glass tube."
+        },
+        {
+          "id": "C",
+          "text": "The thermometer will default to showing 0°C."
+        },
+        {
+          "id": "D",
+          "text": "The boiling water will instantly cool down to 42°C."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "28",
+      "question": "How does the physical expansion of a liquid inside a thermometer's tube correlate directly to an accurate temperature measurement?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The liquid chemically changes color from blue to red as it absorbs heat."
+        },
+        {
+          "id": "B",
+          "text": "As temperature increases, increased thermal energy causes the liquid's molecules to move further apart, forcing the liquid to expand uniformly up the calibrated capillary tube."
+        },
+        {
+          "id": "C",
+          "text": "The liquid chemically turns into a solid."
+        },
+        {
+          "id": "D",
+          "text": "The liquid physically shrinks as it absorbs more heat."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "29",
+      "question": "Why does the temperature of a block of ice remain perfectly constant at 0°C while it is in the process of melting, even though heat is continuously being added by a burner?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ice naturally repels all external heat."
+        },
+        {
+          "id": "B",
+          "text": "The added thermal energy is entirely consumed as \"latent heat\" to break the solid molecular bonds and change the state to liquid, rather than raising the kinetic temperature."
+        },
+        {
+          "id": "C",
+          "text": "The thermometer is malfunctioning due to the cold."
+        },
+        {
+          "id": "D",
+          "text": "The surrounding air cools the burner down instantly."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "30",
+      "question": "You are examining a thermometer where exactly 10 small lines exist evenly spaced between the 10°C and 15°C marks. What exact temperature value does each small line increment represent?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1.0°C"
+        },
+        {
+          "id": "B",
+          "text": "0.5°C"
+        },
+        {
+          "id": "C",
+          "text": "0.1°C"
+        },
+        {
+          "id": "D",
+          "text": "5.0°C"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    }
+  ]
+}
