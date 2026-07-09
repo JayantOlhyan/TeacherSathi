@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "What are the three distinct physical states in which water exists on Earth?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hot, cold, warm"
+        },
+        {
+          "id": "B",
+          "text": "Solid, liquid, gas"
+        },
+        {
+          "id": "C",
+          "text": "Rain, snow, hail"
+        },
+        {
+          "id": "D",
+          "text": "River, lake, ocean"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "2",
+      "question": "The physical process of liquid water changing into invisible water vapor due to the addition of heat is called:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Condensation"
+        },
+        {
+          "id": "B",
+          "text": "Freezing"
+        },
+        {
+          "id": "C",
+          "text": "Evaporation"
+        },
+        {
+          "id": "D",
+          "text": "Melting"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "3",
+      "question": "What is the solid, frozen form of water commonly known as?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Vapour"
+        },
+        {
+          "id": "B",
+          "text": "Ice"
+        },
+        {
+          "id": "C",
+          "text": "Dew"
+        },
+        {
+          "id": "D",
+          "text": "Fog"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "4",
+      "question": "The physical process of gaseous water vapor cooling and turning back into liquid water droplets is called:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Evaporation"
+        },
+        {
+          "id": "B",
+          "text": "Condensation"
+        },
+        {
+          "id": "C",
+          "text": "Sublimation"
+        },
+        {
+          "id": "D",
+          "text": "Melting"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "5",
+      "question": "Which of the following everyday activities is a direct example of evaporation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ice melting inside a glass of juice"
+        },
+        {
+          "id": "B",
+          "text": "Drying wet clothes outside in the sun"
+        },
+        {
+          "id": "C",
+          "text": "Rain falling from dark clouds"
+        },
+        {
+          "id": "D",
+          "text": "Dew forming on morning grass"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "6",
+      "question": "What massive natural cycle constantly circulates water between the Earth's surface and the atmosphere?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Carbon Cycle"
+        },
+        {
+          "id": "B",
+          "text": "The Water Cycle"
+        },
+        {
+          "id": "C",
+          "text": "The Rock Cycle"
+        },
+        {
+          "id": "D",
+          "text": "The Nitrogen Cycle"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "7",
+      "question": "When liquid water is heated strongly on a stove, it turns into a gas scientifically called:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Oxygen"
+        },
+        {
+          "id": "B",
+          "text": "Smoke"
+        },
+        {
+          "id": "C",
+          "text": "Water vapour (steam)"
+        },
+        {
+          "id": "D",
+          "text": "Nitrogen"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "8",
+      "question": "What physically happens to a block of ice when it is removed from a freezer and kept at room temperature?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It evaporates immediately into space"
+        },
+        {
+          "id": "B",
+          "text": "It absorbs heat and melts into liquid water"
+        },
+        {
+          "id": "C",
+          "text": "It becomes significantly harder"
+        },
+        {
+          "id": "D",
+          "text": "Nothing happens to its state"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "9",
+      "question": "High in the atmosphere, water vapor cools and condenses around tiny dust particles to form what massive structures?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Stars"
+        },
+        {
+          "id": "B",
+          "text": "Clouds"
+        },
+        {
+          "id": "C",
+          "text": "Moons"
+        },
+        {
+          "id": "D",
+          "text": "Asteroids"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "10",
+      "question": "What is the specific process called when liquid water loses heat and turns into solid ice?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Melting"
+        },
+        {
+          "id": "B",
+          "text": "Boiling"
+        },
+        {
+          "id": "C",
+          "text": "Freezing"
+        },
+        {
+          "id": "D",
+          "text": "Condensation"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "11",
+      "question": "Which of the following environmental factors does NOT increase the speed (rate) at which evaporation occurs?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Higher air temperature"
+        },
+        {
+          "id": "B",
+          "text": "Stronger wind speeds"
+        },
+        {
+          "id": "C",
+          "text": "Higher humidity (excess moisture already in the air)"
+        },
+        {
+          "id": "D",
+          "text": "A larger exposed surface area"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "12",
+      "question": "Why do we routinely observe water droplets forming on the outer surface of a glass containing ice-cold water?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The glass is porous and leaking water from the inside."
+        },
+        {
+          "id": "B",
+          "text": "Water from inside the glass evaporates through the glass wall."
+        },
+        {
+          "id": "C",
+          "text": "Invisible water vapor in the warm surrounding air rapidly cools and condenses when it touches the cold glass surface."
+        },
+        {
+          "id": "D",
+          "text": "The ice melts and climbs out of the glass over the edge."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "13",
+      "question": "How do ceiling fans help wet clothes dry much faster when hung indoors?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They generate high heat to bake the clothes."
+        },
+        {
+          "id": "B",
+          "text": "They increase air circulation, which quickly removes the humid air near the clothes, speeding up the evaporation process."
+        },
+        {
+          "id": "C",
+          "text": "They physically suck the water out of the fabric."
+        },
+        {
+          "id": "D",
+          "text": "They cause the water to freeze and fall off."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "14",
+      "question": "What specific physical process causes the refreshing cooling effect in a traditional earthen pot (matka)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The clay pot naturally generates ice."
+        },
+        {
+          "id": "B",
+          "text": "Water seeps through the porous clay and evaporates on the outside, drawing the necessary heat energy from the water left inside, cooling it."
+        },
+        {
+          "id": "C",
+          "text": "The clay absorbs cold air from the surrounding environment."
+        },
+        {
+          "id": "D",
+          "text": "The pot acts as a vacuum."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "15",
+      "question": "At what temperatures does the process of evaporation take place?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only at exactly 100°C."
+        },
+        {
+          "id": "B",
+          "text": "Only at exactly 0°C."
+        },
+        {
+          "id": "C",
+          "text": "At all temperatures above freezing, though the rate is much faster at higher temperatures."
+        },
+        {
+          "id": "D",
+          "text": "Only in complete darkness."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "16",
+      "question": "If you place equal amounts of water in a narrow bottle cap and a wide, flat plate, which will evaporate faster and why?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The bottle cap, because the water is deeper and warmer."
+        },
+        {
+          "id": "B",
+          "text": "The plate, because it provides a much larger surface area exposed to the air for molecules to escape."
+        },
+        {
+          "id": "C",
+          "text": "They will evaporate at the exact same rate."
+        },
+        {
+          "id": "D",
+          "text": "Neither will evaporate indoors."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "17",
+      "question": "Why do wet clothes take significantly longer to dry on a rainy or cloudy day?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because the rain makes the fabric physically heavier."
+        },
+        {
+          "id": "B",
+          "text": "Because the air is already highly humid (saturated with moisture), which severely slows down the rate of evaporation."
+        },
+        {
+          "id": "C",
+          "text": "Because there is too much wind."
+        },
+        {
+          "id": "D",
+          "text": "Because the ambient temperature is too hot."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "18",
+      "question": "What critical role does the process of condensation play in the global water cycle?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It turns ocean water into atmospheric vapor."
+        },
+        {
+          "id": "B",
+          "text": "It creates clouds by forcing water vapor to turn back into tiny, suspended liquid droplets."
+        },
+        {
+          "id": "C",
+          "text": "It causes rivers to flow faster down mountains."
+        },
+        {
+          "id": "D",
+          "text": "It melts glaciers and snow."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "19",
+      "question": "When the black leather seat of a two-wheeler gets very hot in the summer sun, sprinkling a little water on it cools it down rapidly. Why?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The water makes the leather shiny, reflecting light."
+        },
+        {
+          "id": "B",
+          "text": "The water evaporates quickly, absorbing the intense thermal heat from the seat to change its state."
+        },
+        {
+          "id": "C",
+          "text": "The water freezes upon contact with the seat."
+        },
+        {
+          "id": "D",
+          "text": "The water pushes the heat deep inside the cushion."
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "20",
+      "question": "What is the primary, overarching source of energy that continuously drives the massive water cycle on Earth?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Earth's wind patterns"
+        },
+        {
+          "id": "B",
+          "text": "The gravitational pull of the Moon"
+        },
+        {
+          "id": "C",
+          "text": "The immense thermal energy from the Sun"
+        },
+        {
+          "id": "D",
+          "text": "The deep ocean currents"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "21",
+      "question": "What is the fundamental, scientific difference between the processes of evaporation and boiling?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Evaporation happens only at 100°C; boiling happens at any temperature."
+        },
+        {
+          "id": "B",
+          "text": "Evaporation occurs only at the surface of a liquid at any temperature, while boiling is a rapid phase change occurring throughout the entire bulk of the liquid at a specific temperature (boiling point)."
+        },
+        {
+          "id": "C",
+          "text": "Boiling produces water vapor, but evaporation produces oxygen."
+        },
+        {
+          "id": "D",
+          "text": "There is zero difference; they are identical processes."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "22",
+      "question": "If you accurately weigh a dry glass of ice water, and then weigh it again 30 minutes later after heavy condensation droplets have formed on the outside, what will you notice?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The total mass will have decreased due to cooling."
+        },
+        {
+          "id": "B",
+          "text": "The total mass will have slightly increased because condensation added new water molecules from the surrounding air to the outside of the glass."
+        },
+        {
+          "id": "C",
+          "text": "The mass will remain exactly the same down to the microgram."
+        },
+        {
+          "id": "D",
+          "text": "The mass will drop to zero."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "23",
+      "question": "Why do clouds typically form at high altitudes in the sky rather than close to the ground (excluding specific cases like fog)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because there is absolutely no water vapor near the ground."
+        },
+        {
+          "id": "B",
+          "text": "Because warm, moist air is less dense and rises; as it gets higher, the atmospheric pressure and temperature drop, causing the vapor to lose capacity and condense."
+        },
+        {
+          "id": "C",
+          "text": "Because Earth's gravity pushes clouds upwards."
+        },
+        {
+          "id": "D",
+          "text": "Because the sun magnetically pulls the water vapor."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "24",
+      "question": "Assertion (A): Solid ice does not flow, while liquid water flows easily. Reason (R): Ice and water are made of the exact same chemical substance.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both A and R are true, and R is the correct explanation of A."
+        },
+        {
+          "id": "B",
+          "text": "Both A and R are true, but R is NOT the correct explanation of A (ice doesn't flow due to its rigid molecular lattice, not just because they are the same substance)."
+        },
+        {
+          "id": "C",
+          "text": "A is true, but R is false."
+        },
+        {
+          "id": "D",
+          "text": "A is false, but R is true."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "25",
+      "question": "How do the microscopic structural differences in water molecules explain the distinct macroscopic properties of its three states?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Molecules completely change their chemical formula in each state."
+        },
+        {
+          "id": "B",
+          "text": "In ice, molecules are locked in a rigid lattice; in water, they slide past each other; in vapor, they move freely at high speeds and are widely spaced."
+        },
+        {
+          "id": "C",
+          "text": "Ice molecules are physically larger than vapor molecules."
+        },
+        {
+          "id": "D",
+          "text": "Vapor contains no molecules at all."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "26",
+      "question": "In municipal waste management, heavy sludge from a drain is often left in heaps next to the drain for 3-4 days in the sun. Why is this scientifically done?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To make the area look aesthetically pleasing."
+        },
+        {
+          "id": "B",
+          "text": "So the vast amount of water in the sludge evaporates, drastically reducing its volume and making it much lighter and easier to transport."
+        },
+        {
+          "id": "C",
+          "text": "To purposefully attract insects for biodiversity."
+        },
+        {
+          "id": "D",
+          "text": "So the solid sludge can melt into a liquid."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "27",
+      "question": "What specific biological process is termed \"transpiration\" in the context of the global water cycle?",
+      "options": [
+        {
+          "id": "A",
+          "text": "When mammals sweat to cool down."
+        },
+        {
+          "id": "B",
+          "text": "The continuous release of invisible water vapor from the stomata (pores) on the leaves of plants into the atmosphere."
+        },
+        {
+          "id": "C",
+          "text": "Water flowing rapidly from a river into the ocean."
+        },
+        {
+          "id": "D",
+          "text": "Solid ice turning directly into gas."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "28",
+      "question": "If the Earth's average global temperature continues to rise significantly due to climate change, what immediate, macro-level impact will this have on the water cycle?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Global evaporation rates will decrease to zero."
+        },
+        {
+          "id": "B",
+          "text": "Atmospheric condensation will stop entirely."
+        },
+        {
+          "id": "C",
+          "text": "Evaporation rates will aggressively increase, putting more moisture into the atmosphere, potentially leading to extreme, heavy rainfall in some areas and severe droughts in others."
+        },
+        {
+          "id": "D",
+          "text": "The oceans will freeze over entirely."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "29",
+      "question": "Which physical principle best explains why the biological mechanism of sweating cools the human body during exercise?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sweating induces cold condensation on the skin."
+        },
+        {
+          "id": "B",
+          "text": "Evaporative cooling; as the liquid sweat turns into a gas, it must absorb the required latent heat of vaporization directly from the body, lowering body temperature."
+        },
+        {
+          "id": "C",
+          "text": "Sweat is composed of microscopic ice crystals."
+        },
+        {
+          "id": "D",
+          "text": "The body's internal furnace shuts down when wet."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "30",
+      "question": "Why is the statement \"Water is our responsibility before it is our right\" both scientifically and socially significant?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because Earth's water is infinite and can never run out."
+        },
+        {
+          "id": "B",
+          "text": "While the Earth has vast oceans (71% coverage), usable freshwater is a tiny, finite fraction (approx 2.6%); we must actively conserve it to prevent catastrophic scarcity."
+        },
+        {
+          "id": "C",
+          "text": "Because only the government manufactures water."
+        },
+        {
+          "id": "D",
+          "text": "Because humans should only drink artificial beverages."
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    }
+  ]
+}
