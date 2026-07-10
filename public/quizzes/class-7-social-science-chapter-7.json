@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "The Gupta Era is often referred to by historians as what?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Dark Age"
+        },
+        {
+          "id": "B",
+          "text": "The Iron Age"
+        },
+        {
+          "id": "C",
+          "text": "Golden Age of India"
+        },
+        {
+          "id": "D",
+          "text": "The Silver Age"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Due to remarkable achievements in mathematics, astronomy, sculpture, literature, and philosophy, the Gupta era (~4th–6th century CE) is known as the Golden Age of India."
+    },
+    {
+      "id": "2",
+      "question": "Which mathematician introduced the concept of zero to the world?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kautilya"
+        },
+        {
+          "id": "B",
+          "text": "Aryabhata"
+        },
+        {
+          "id": "C",
+          "text": "Bhaskaracharya"
+        },
+        {
+          "id": "D",
+          "text": "Charaka"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The visionary Gupta-era astronomer and mathematician Aryabhata conceptualized the place-value system and formalized the mathematical concept of zero."
+    },
+    {
+      "id": "3",
+      "question": "What language saw a massive revival in literature during the Gupta era?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tamil"
+        },
+        {
+          "id": "B",
+          "text": "Prakrit"
+        },
+        {
+          "id": "C",
+          "text": "Sanskrit"
+        },
+        {
+          "id": "D",
+          "text": "Pali"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Classical Sanskrit flourished as the court and literary language under Gupta patronage, producing timeless epics, drama, and technical treatises."
+    },
+    {
+      "id": "4",
+      "question": "Which fields saw major advancements under the Guptas?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aviation"
+        },
+        {
+          "id": "B",
+          "text": "Medicine and Astronomy"
+        },
+        {
+          "id": "C",
+          "text": "Gunpowder"
+        },
+        {
+          "id": "D",
+          "text": "Plastics"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The era witnessed groundbreaking discoveries in astronomy (solar eclipses, planetary motion) and medical science (Sushruta and Charaka samhitas)."
+    },
+    {
+      "id": "5",
+      "question": "Who was the founder of the Gupta dynasty?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Chandragupta Maurya"
+        },
+        {
+          "id": "B",
+          "text": "Sri Gupta"
+        },
+        {
+          "id": "C",
+          "text": "Samudragupta"
+        },
+        {
+          "id": "D",
+          "text": "Ashoka"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Maharaja Sri Gupta founded the initial modest Gupta kingdom in the late 3rd century CE, which later expanded under Chandragupta I and Samudragupta."
+    },
+    {
+      "id": "6",
+      "question": "Which famous ancient university flourished during the Gupta period?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nalanda"
+        },
+        {
+          "id": "B",
+          "text": "Taxila"
+        },
+        {
+          "id": "C",
+          "text": "Vikramashila"
+        },
+        {
+          "id": "D",
+          "text": "Cambridge"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "Nalanda University in Bihar became a world-renowned residential center for Buddhist philosophy and secular sciences, attracting scholars across Asia."
+    },
+    {
+      "id": "7",
+      "question": "What type of art is the Gupta period highly famous for?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Oil painting"
+        },
+        {
+          "id": "B",
+          "text": "Sculptures and temples"
+        },
+        {
+          "id": "C",
+          "text": "Calligraphy"
+        },
+        {
+          "id": "D",
+          "text": "Glass blowing"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Gupta artisans mastered stone and bronze sculpture (such as the Sarnath Buddha) and initiated structural Hindu temple architecture."
+    },
+    {
+      "id": "8",
+      "question": "Which famous Chinese traveler visited India during Chandragupta II's reign?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Xuanzang"
+        },
+        {
+          "id": "B",
+          "text": "Faxian (Fa-Hien)"
+        },
+        {
+          "id": "C",
+          "text": "Zheng He"
+        },
+        {
+          "id": "D",
+          "text": "Marco Polo"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The Chinese Buddhist pilgrim Faxian visited India between 399–414 CE during Chandragupta II Vikramaditya's reign to collect authentic Buddhist scriptures."
+    },
+    {
+      "id": "9",
+      "question": "Which Gupta ruler is depicted playing the veena on coins?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sri Gupta"
+        },
+        {
+          "id": "B",
+          "text": "Samudragupta"
+        },
+        {
+          "id": "C",
+          "text": "Skandagupta"
+        },
+        {
+          "id": "D",
+          "text": "Kumargupta"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Gold coins depicting Emperor Samudragupta seated and playing the musical instrument veena showcase his deep love for music and fine arts alongside military prowess."
+    },
+    {
+      "id": "10",
+      "question": "What metal pillar in Delhi is a testament to Gupta metallurgical skills?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Iron Pillar"
+        },
+        {
+          "id": "B",
+          "text": "Gold Pillar"
+        },
+        {
+          "id": "C",
+          "text": "Copper Pillar"
+        },
+        {
+          "id": "D",
+          "text": "Bronze Pillar"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The Iron Pillar at Mehrauli, Delhi, erected around the 4th/5th century CE, stands unrusted and corrosion-free after 1,600 years, evidencing extraordinary metallurgical skill."
+    },
+    {
+      "id": "11",
+      "question": "Why is the Gupta period called the 'Golden Age'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Everything made of gold"
+        },
+        {
+          "id": "B",
+          "text": "Unprecedented growth in art/science"
+        },
+        {
+          "id": "C",
+          "text": "Discovered America"
+        },
+        {
+          "id": "D",
+          "text": "No poor people"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The designation honors the all-round cultural, intellectual, artistic, and scientific flowering that occurred under stable Gupta patronage."
+    },
+    {
+      "id": "12",
+      "question": "Aryabhata made significant contributions to astronomy by proving what?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Earth is flat"
+        },
+        {
+          "id": "B",
+          "text": "Earth rotates on its axis"
+        },
+        {
+          "id": "C",
+          "text": "Sun goes around Earth"
+        },
+        {
+          "id": "D",
+          "text": "Stars are holes"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "In his seminal work Aryabhatiya, Aryabhata scientifically deduced that the Earth is spherical and rotates daily on its own axis, explaining day/night and eclipses."
+    },
+    {
+      "id": "13",
+      "question": "How did the Guptas manage to maintain cultural unity?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Through military force"
+        },
+        {
+          "id": "B",
+          "text": "Patronizing arts & tolerance"
+        },
+        {
+          "id": "C",
+          "text": "Banning local languages"
+        },
+        {
+          "id": "D",
+          "text": "Building a giant wall"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "While devout followers of Vaishnavism and Shaivism, Gupta monarchs actively patronized Buddhist monasteries and Jain scholars, fostering peaceful cultural synthesis."
+    },
+    {
+      "id": "14",
+      "question": "What was Faxian's observation about society during the Gupta era?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It was violent"
+        },
+        {
+          "id": "B",
+          "text": "Peaceful, prosperous, happy"
+        },
+        {
+          "id": "C",
+          "text": "Suffering from famine"
+        },
+        {
+          "id": "D",
+          "text": "Everyone was a soldier"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Faxian wrote admiringly that the populace was prosperous and happy, capital punishment was rare, and charitable dispensaries and rest-houses abounded."
+    },
+    {
+      "id": "15",
+      "question": "Which famous poet and playwright wrote Shakuntalam during this era?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kalidasa"
+        },
+        {
+          "id": "B",
+          "text": "Tulsidas"
+        },
+        {
+          "id": "C",
+          "text": "Kabir"
+        },
+        {
+          "id": "D",
+          "text": "Valmiki"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "Mahakavi Kalidasa, one of the nine gems (Navaratnas) of Chandragupta II's court, authored masterpieces including Abhijnanashakuntalam, Meghaduta, and Raghuvamsha."
+    },
+    {
+      "id": "16",
+      "question": "How did the Gupta rulers expand their empire?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only through war"
+        },
+        {
+          "id": "B",
+          "text": "Wars, alliances, matrimonial ties"
+        },
+        {
+          "id": "C",
+          "text": "Buying land"
+        },
+        {
+          "id": "D",
+          "text": "Moving the capital"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Gupta emperors skillfully combined military campaigns (Samudragupta's conquests) with strategic marriage alliances (with Licchavis and Vakatakas) and diplomacy."
+    },
+    {
+      "id": "17",
+      "question": "What role did Nalanda University play during this era?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A military fort"
+        },
+        {
+          "id": "B",
+          "text": "Center for Buddhist/secular learning"
+        },
+        {
+          "id": "C",
+          "text": "A royal palace"
+        },
+        {
+          "id": "D",
+          "text": "A marketplace"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Nalanda served as an international intellectual hub teaching logic, grammar, medicine, astronomy, and Vedic philosophy alongside Mahayana Buddhism."
+    },
+    {
+      "id": "18",
+      "question": "What does the Iron Pillar of Delhi demonstrate about Gupta scientists?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They knew magic"
+        },
+        {
+          "id": "B",
+          "text": "Advanced knowledge of metallurgy"
+        },
+        {
+          "id": "C",
+          "text": "Had excess iron"
+        },
+        {
+          "id": "D",
+          "text": "Could not build with stone"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The pillar's resistance to rust proves ancient Indian metallurgists mastered high-phosphorus iron smelting and surface passivation techniques centuries ahead of the world."
+    },
+    {
+      "id": "19",
+      "question": "Did the Guptas force their subjects to follow a single religion?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes, Hinduism"
+        },
+        {
+          "id": "B",
+          "text": "Yes, Buddhism"
+        },
+        {
+          "id": "C",
+          "text": "No, supported religious diversity"
+        },
+        {
+          "id": "D",
+          "text": "Yes, Jainism"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Gupta emperors upheld religious pluralism, endowing land grants freely to Hindu temples, Buddhist stupas, and Jaina establishments without sectarian bias."
+    },
+    {
+      "id": "20",
+      "question": "Which medical practitioner's works (Ayurveda) were expanded during this time?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sushruta/Charaka"
+        },
+        {
+          "id": "B",
+          "text": "Hippocrates"
+        },
+        {
+          "id": "C",
+          "text": "Aryabhata"
+        },
+        {
+          "id": "D",
+          "text": "Kautilya"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The foundational Ayurvedic medical texts Sushruta Samhita (surgical procedures) and Charaka Samhita (internal medicine) were compiled and refined during the Gupta era."
+    },
+    {
+      "id": "21",
+      "question": "How did the economic prosperity of the Gupta empire influence its creativity?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wealth patronized scholars"
+        },
+        {
+          "id": "B",
+          "text": "Bought more weapons"
+        },
+        {
+          "id": "C",
+          "text": "Caused inflation"
+        },
+        {
+          "id": "D",
+          "text": "Stopped all trade"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "Surplus wealth generated from thriving agricultural tax yields and international silk/spice trade enabled royal courts to richly fund scholars, sculptors, and universities."
+    },
+    {
+      "id": "22",
+      "question": "What does the concept of zero, formalized by Aryabhata, signify globally?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A minor notation change"
+        },
+        {
+          "id": "B",
+          "text": "Revolutionary mathematical breakthrough"
+        },
+        {
+          "id": "C",
+          "text": "End of math"
+        },
+        {
+          "id": "D",
+          "text": "A philosophical idea"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Formalizing zero as both a placeholder and a standalone numerical value enabled complex arithmetic calculations, algebra, and the foundation of modern digital computing."
+    },
+    {
+      "id": "23",
+      "question": "How did the decentralized administrative system of Guptas differ from Mauryas?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It was stricter"
+        },
+        {
+          "id": "B",
+          "text": "Relied on local leaders/land grants"
+        },
+        {
+          "id": "C",
+          "text": "It had no king"
+        },
+        {
+          "id": "D",
+          "text": "It was exactly the same"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Unlike the highly centralized, bureaucratic Mauryan model, the Gupta state decentralized day-to-day governance to local city councils, merchant guilds, and feudatory rulers."
+    },
+    {
+      "id": "24",
+      "question": "Why are Gupta sculptures considered the pinnacle of classical Indian art?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They are the biggest"
+        },
+        {
+          "id": "B",
+          "text": "Balance of spiritual/physical beauty"
+        },
+        {
+          "id": "C",
+          "text": "Painted bright red"
+        },
+        {
+          "id": "D",
+          "text": "Made of plastic"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Gupta art abandoned early rigid ornamentation to achieve profound serenity, divine poise, and harmonious anatomical grace, establishing the classical aesthetic standard."
+    },
+    {
+      "id": "25",
+      "question": "What impact did the Huna invasions have on the Gupta Empire?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Made it stronger"
+        },
+        {
+          "id": "B",
+          "text": "Weakened it financially and politically"
+        },
+        {
+          "id": "C",
+          "text": "Forced it to expand"
+        },
+        {
+          "id": "D",
+          "text": "No impact"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Repeated destructive incursions by White Huna (Hephthalite) cavalry from Central Asia drained the imperial treasury, disrupted trade lines, and accelerated Gupta disintegration."
+    },
+    {
+      "id": "26",
+      "question": "How did Sanskrit literature serve a political purpose during the Gupta era?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Used as secret code"
+        },
+        {
+          "id": "B",
+          "text": "Created a unified elite identity"
+        },
+        {
+          "id": "C",
+          "text": "It was banned"
+        },
+        {
+          "id": "D",
+          "text": "Used to insult enemies"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Standardizing high Sanskrit across royal court inscriptions (prashastis) and literature cultivated a cohesive cultural and political identity among elite administrators across diverse regions."
+    },
+    {
+      "id": "27",
+      "question": "What does Faxian's account tell us about the justice system under the Guptas?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Extremely harsh"
+        },
+        {
+          "id": "B",
+          "text": "Mild punishments and low crime"
+        },
+        {
+          "id": "C",
+          "text": "There were no laws"
+        },
+        {
+          "id": "D",
+          "text": "Everyone was executed"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Faxian noted that crime rates were remarkably low and the judicial system relied on moderate fines rather than corporal or capital punishment."
+    },
+    {
+      "id": "28",
+      "question": "Why was the development of the decimal system during this era so crucial?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Changed poetry"
+        },
+        {
+          "id": "B",
+          "text": "Allowed for advanced astronomy"
+        },
+        {
+          "id": "C",
+          "text": "Helped in cooking"
+        },
+        {
+          "id": "D",
+          "text": "Religious requirement"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The base-10 decimal system simplified mathematical operations, enabling precise astronomical calculations of planetary orbits, eclipse timings, and calendar reform."
+    },
+    {
+      "id": "29",
+      "question": "How did temple architecture evolve during the Gupta period?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Free-standing stone/brick structures"
+        },
+        {
+          "id": "B",
+          "text": "From stone to mud"
+        },
+        {
+          "id": "C",
+          "text": "Stopped building temples"
+        },
+        {
+          "id": "D",
+          "text": "Built pyramids"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "Gupta architects transitioned from subterranean rock-cut caves to constructing India's earliest free-standing structural temples using dressed stone bricks and garbhagrihas (sanctums)."
+    },
+    {
+      "id": "30",
+      "question": "What does the phrase \"cultural synthesis\" mean in the context of the Gupta era?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Destroying old cultures"
+        },
+        {
+          "id": "B",
+          "text": "Blending diverse traditions"
+        },
+        {
+          "id": "C",
+          "text": "Writing a new language"
+        },
+        {
+          "id": "D",
+          "text": "Isolating from the world"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "It refers to the harmonious integration and assimilation of indigenous folk traditions, Vedic philosophy, Puranic mythology, Buddhist ideals, and foreign artistic motifs into a unified Indian civilization."
+    }
+  ]
+}

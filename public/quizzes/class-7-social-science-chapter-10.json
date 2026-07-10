@@ -2,753 +2,753 @@
   "questions": [
     {
       "id": "1",
-      "question": "What is a government?",
+      "question": "What is the supreme law/rulebook of India called?",
       "options": [
         {
           "id": "A",
-          "text": "A system that governs and administers a country or region"
+          "text": "The Vedas"
         },
         {
           "id": "B",
-          "text": "A market where people buy goods"
+          "text": "The Constitution"
         },
         {
           "id": "C",
-          "text": "A school for higher education"
+          "text": "The Arthashastra"
         },
         {
           "id": "D",
-          "text": "A place of worship"
+          "text": "The Penal Code"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The Constitution of India is the supreme legal document of the nation, laying down the fundamental governance framework, citizens' rights, and duties of the state."
     },
     {
       "id": "2",
-      "question": "Which type of government exists in India?",
+      "question": "Who was the Chairman of the Drafting Committee of the Constitution?",
       "options": [
         {
           "id": "A",
-          "text": "Democracy"
+          "text": "M.K. Gandhi"
         },
         {
           "id": "B",
-          "text": "Monarchy"
+          "text": "Jawaharlal Nehru"
         },
         {
           "id": "C",
-          "text": "Dictatorship"
+          "text": "Dr. B.R. Ambedkar"
         },
         {
           "id": "D",
-          "text": "Oligarchy"
+          "text": "Rajendra Prasad"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "C",
+      "explanation": "Dr. Bhimrao Ramji Ambedkar chaired the Drafting Committee of the Constituent Assembly, earning him the title of the Chief Architect of the Indian Constitution."
     },
     {
       "id": "3",
-      "question": "In a democracy, the government is chosen by _____.",
+      "question": "Who was the Chairman of the Constituent Assembly?",
       "options": [
         {
           "id": "A",
-          "text": "The people through elections"
+          "text": "Dr. B.R. Ambedkar"
         },
         {
           "id": "B",
-          "text": "Kings and queens"
+          "text": "Dr. Rajendra Prasad"
         },
         {
           "id": "C",
-          "text": "The military"
+          "text": "Sardar Patel"
         },
         {
           "id": "D",
-          "text": "Judges only"
+          "text": "Lord Mountbatten"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Dr. Rajendra Prasad presided as the permanent President/Chairman of the Constituent Assembly during its nearly three-year deliberative process, and later became India's first President."
     },
     {
       "id": "4",
-      "question": "In a monarchy, the ruler usually gets power through _____.",
+      "question": "On what date was the Constitution formally adopted?",
       "options": [
         {
           "id": "A",
-          "text": "Heredity"
+          "text": "15 Aug 1947"
         },
         {
           "id": "B",
-          "text": "Elections"
+          "text": "26 Nov 1949"
         },
         {
           "id": "C",
-          "text": "Lottery"
+          "text": "26 Jan 1950"
         },
         {
           "id": "D",
-          "text": "Public examination"
+          "text": "2 Oct 1948"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The Constituent Assembly formally adopted and signed the completed Constitution on November 26, 1949—a day now celebrated nationwide as Constitution Day (Samvidhan Diwas)."
     },
     {
       "id": "5",
-      "question": "Which type of government gives complete power to one ruler?",
+      "question": "On what date did the Constitution come into effect (Republic Day)?",
       "options": [
         {
           "id": "A",
-          "text": "Dictatorship"
+          "text": "15 Aug 1947"
         },
         {
           "id": "B",
-          "text": "Democracy"
+          "text": "26 Nov 1949"
         },
         {
           "id": "C",
-          "text": "Republic"
+          "text": "26 Jan 1950"
         },
         {
           "id": "D",
-          "text": "Federal system"
+          "text": "1 Jan 1950"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "C",
+      "explanation": "The Constitution officially came into legal effect across India on January 26, 1950, marking India's birth as a sovereign Republic (celebrated annually as Republic Day)."
     },
     {
       "id": "6",
-      "question": "Which feature is most closely associated with democracy?",
+      "question": "What is the introduction to the Constitution called?",
       "options": [
         {
           "id": "A",
-          "text": "Free and fair elections"
+          "text": "The Foreword"
         },
         {
           "id": "B",
-          "text": "Rule by force"
+          "text": "The Preamble"
         },
         {
           "id": "C",
-          "text": "No voting rights"
+          "text": "The Prologue"
         },
         {
           "id": "D",
-          "text": "Hereditary rule"
+          "text": "The Summary"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The Preamble is the introductory statement of the Constitution that articulates the core philosophy, guiding values, and ultimate aspirations of the Indian Republic."
     },
     {
       "id": "7",
-      "question": "Who are called citizens?",
+      "question": "What rights are guaranteed to all citizens by the Constitution?",
       "options": [
         {
           "id": "A",
-          "text": "People who legally belong to a country"
+          "text": "Royal Rights"
         },
         {
           "id": "B",
-          "text": "Only government employees"
+          "text": "Fundamental Rights"
         },
         {
           "id": "C",
-          "text": "Only voters above 18 years"
+          "text": "Feudal Rights"
         },
         {
           "id": "D",
-          "text": "Only elected leaders"
+          "text": "Divine Rights"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Part III of the Constitution guarantees basic Fundamental Rights (such as equality, freedom, and protection against exploitation) to all citizens, enforceable by courts."
     },
     {
       "id": "8",
-      "question": "Why do governments make laws?",
+      "question": "Which part of the Constitution outlines the moral obligations of citizens?",
       "options": [
         {
           "id": "A",
-          "text": "To maintain order and protect citizens"
+          "text": "Fundamental Duties"
         },
         {
           "id": "B",
-          "text": "To increase pollution"
+          "text": "The Preamble"
         },
         {
           "id": "C",
-          "text": "To stop education"
+          "text": "Directive Principles"
         },
         {
           "id": "D",
-          "text": "To reduce trade"
+          "text": "The Judiciary"
         }
       ],
       "difficulty": "Easy",
       "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "explanation": "Part IV-A (Article 51A) enumerates the Fundamental Duties of Indian citizens, urging them to respect national symbols, cherish constitutional ideals, and protect public property."
     },
     {
       "id": "9",
-      "question": "Which of the following is an example of citizen participation in democracy?",
+      "question": "The word 'Secular' in the Preamble means the state has:",
       "options": [
         {
           "id": "A",
-          "text": "Voting in elections"
+          "text": "One religion"
         },
         {
           "id": "B",
-          "text": "Ignoring laws"
+          "text": "No official religion"
         },
         {
           "id": "C",
-          "text": "Damaging public property"
+          "text": "Banned religion"
         },
         {
           "id": "D",
-          "text": "Avoiding civic duties"
+          "text": "A king"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "In the Indian constitutional context, 'Secular' means the state has no official state religion, treats all religious faiths with equal respect (Sarva Dharma Sambhava), and grants citizens freedom of worship."
     },
     {
       "id": "10",
-      "question": "The main purpose of government is to _____.",
+      "question": "Which document is kept safe in a helium-filled glass case in Parliament?",
       "options": [
         {
           "id": "A",
-          "text": "Serve the people and ensure their welfare"
+          "text": "The Declaration"
         },
         {
           "id": "B",
-          "text": "Benefit only a few people"
+          "text": "The original Constitution"
         },
         {
           "id": "C",
-          "text": "Prevent education"
+          "text": "The Magna Carta"
         },
         {
           "id": "D",
-          "text": "Increase inequality"
+          "text": "The Gita"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The original calligraphed and illustrated copies of the Indian Constitution (in Hindi and English) are preserved inside special helium-filled glass cases in the Library of the Parliament of India."
     },
     {
       "id": "11",
-      "question": "Why is democracy often called the 'government of the people'?",
+      "question": "Why did India need a Constituent Assembly from diverse backgrounds?",
       "options": [
         {
           "id": "A",
-          "text": "Because people elect their representatives and participate in governance."
+          "text": "Make it crowded"
         },
         {
           "id": "B",
-          "text": "Because rulers inherit power."
+          "text": "Ensure all regions had a voice"
         },
         {
           "id": "C",
-          "text": "Because only officials make decisions."
+          "text": "Save money"
         },
         {
           "id": "D",
-          "text": "Because citizens have no role."
+          "text": "British rule"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Including members from diverse regions, religions, castes, languages, and professions ensured that the Constitution reflected the collective will and aspirations of all segments of Indian society."
     },
     {
       "id": "12",
-      "question": "What is the main difference between a monarchy and a democracy?",
+      "question": "What does it mean that the Constitution is a \"living document\"?",
       "options": [
         {
           "id": "A",
-          "text": "In a monarchy, rulers inherit power; in a democracy, leaders are elected."
+          "text": "It breathes"
         },
         {
           "id": "B",
-          "text": "Both are exactly the same."
+          "text": "Can be amended to adapt to new times"
         },
         {
           "id": "C",
-          "text": "In democracy, there are no elections."
+          "text": "Made of plants"
         },
         {
           "id": "D",
-          "text": "In monarchy, citizens elect the king."
+          "text": "Cannot be changed"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "A living document can be amended and updated by Parliament (under Article 368) to meet changing societal needs, evolving democratic standards, and unforeseen future challenges."
     },
     {
       "id": "13",
-      "question": "Why are elections important in a democracy?",
+      "question": "What is the difference between Fundamental Rights and Directive Principles?",
       "options": [
         {
           "id": "A",
-          "text": "They allow citizens to choose their representatives peacefully."
+          "text": "No difference"
         },
         {
           "id": "B",
-          "text": "They appoint judges."
+          "text": "Rights: enforceable; Principles: guidelines"
         },
         {
           "id": "C",
-          "text": "They remove the Constitution."
+          "text": "Principles for citizens"
         },
         {
           "id": "D",
-          "text": "They replace laws."
+          "text": "Rights only for kings"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Fundamental Rights are justiciable (enforceable in courts if violated), whereas Directive Principles of State Policy are non-justiciable moral guidelines instructing the state to build a welfare society."
     },
     {
       "id": "14",
-      "question": "Which quality is essential for good governance?",
+      "question": "What does the term 'Republic' mean in the Preamble?",
       "options": [
         {
           "id": "A",
-          "text": "Accountability"
+          "text": "Rule by king"
         },
         {
           "id": "B",
-          "text": "Secrecy"
+          "text": "Head of state is elected, not hereditary"
         },
         {
           "id": "C",
-          "text": "Discrimination"
+          "text": "Rule by rich"
         },
         {
           "id": "D",
-          "text": "Corruption"
+          "text": "Type of market"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "A 'Republic' means the supreme Head of the State (the President of India) is elected directly or indirectly by the people for a fixed term, abolishing hereditary kingship."
     },
     {
       "id": "15",
-      "question": "Why do citizens have responsibilities as well as rights?",
+      "question": "Why is the Constitution considered a shield against the misuse of power?",
       "options": [
         {
           "id": "A",
-          "text": "Rights and responsibilities together strengthen democracy."
+          "text": "Gives police guns"
         },
         {
           "id": "B",
-          "text": "Only rights are important."
+          "text": "Sets limits on government authority"
         },
         {
           "id": "C",
-          "text": "Responsibilities reduce freedom."
+          "text": "Allows dictators"
         },
         {
           "id": "D",
-          "text": "Citizens have no duties."
+          "text": "Bans elections"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "By strictly delimiting powers across executive, legislative, and judicial branches and establishing fundamental citizens' rights, the Constitution prevents arbitrary or dictatorial state action."
     },
     {
       "id": "16",
-      "question": "Which example best reflects responsible citizenship?",
+      "question": "How did the Indian freedom struggle influence the Constitution?",
       "options": [
         {
           "id": "A",
-          "text": "Following laws and participating in community activities"
+          "text": "It didn't"
         },
         {
           "id": "B",
-          "text": "Ignoring elections"
+          "text": "Values like equality became the core"
         },
         {
           "id": "C",
-          "text": "Damaging public property"
+          "text": "Made it a monarchy"
         },
         {
           "id": "D",
-          "text": "Breaking traffic rules"
+          "text": "Banned voting"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Decades of anti-colonial struggle against British oppression inspired core constitutional values: liberty, racial/social equality, social justice, and self-governance."
     },
     {
       "id": "17",
-      "question": "Why is the rule of law important?",
+      "question": "What does 'Sovereign' mean in the context of India?",
       "options": [
         {
           "id": "A",
-          "text": "It ensures that everyone is treated equally under the law."
+          "text": "Very poor"
         },
         {
           "id": "B",
-          "text": "It gives special privileges to rulers."
+          "text": "Free from external control"
         },
         {
           "id": "C",
-          "text": "It allows some people to ignore laws."
+          "text": "Ruled by a king"
         },
         {
           "id": "D",
-          "text": "It removes equality."
+          "text": "Divided into states"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "'Sovereign' signifies that India is an completely independent nation possessing absolute internal and external authority, free from control or dictation by any foreign power."
     },
     {
       "id": "18",
-      "question": "Which type of government allows citizens to express their opinions freely?",
+      "question": "Why did India adopt Universal Adult Franchise immediately?",
       "options": [
         {
           "id": "A",
-          "text": "Democracy"
+          "text": "Copy America"
         },
         {
           "id": "B",
-          "text": "Dictatorship"
+          "text": "Believed in total equality"
         },
         {
           "id": "C",
-          "text": "Absolute monarchy"
+          "text": "By accident"
         },
         {
           "id": "D",
-          "text": "Military rule"
+          "text": "Tax people"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Demonstrating profound faith in the wisdom of common citizens, the framers granted instant universal suffrage to every adult, rejecting colonial restrictions based on property or education."
     },
     {
       "id": "19",
-      "question": "Which statement about democracy is correct?",
+      "question": "What role does the Judiciary play regarding the Constitution?",
       "options": [
         {
           "id": "A",
-          "text": "Citizens participate in decision-making through elected representatives."
+          "text": "Writes it"
         },
         {
           "id": "B",
-          "text": "One ruler has unlimited power."
+          "text": "Guardian, ensuring laws don't violate it"
         },
         {
           "id": "C",
-          "text": "Elections are unnecessary."
+          "text": "Ignores it"
         },
         {
           "id": "D",
-          "text": "Citizens cannot question the government."
+          "text": "Prints it"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The Supreme Court acts as the ultimate constitutional custodian and interpreter, possessing the power of judicial review to strike down any legislative or executive act violating constitutional tenets."
     },
     {
       "id": "20",
-      "question": "What is the central idea of this chapter?",
+      "question": "How many members were in the Constituent Assembly after Partition?",
       "options": [
         {
           "id": "A",
-          "text": "Different forms of government exist, but democracy values participation, equality and accountability."
+          "text": "389"
         },
         {
           "id": "B",
-          "text": "All governments function in the same way."
+          "text": "299"
         },
         {
           "id": "C",
-          "text": "Democracy has no role for citizens."
+          "text": "500"
         },
         {
           "id": "D",
-          "text": "Governments do not make laws."
+          "text": "100"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Following the Partition of India in August 1947, the membership of the Constituent Assembly representing independent India settled at exactly 299 members."
     },
     {
       "id": "21",
-      "question": "Why is democracy considered more participatory than other forms of government?",
+      "question": "How does the Constitution balance majority rule with minority protection?",
       "options": [
         {
           "id": "A",
-          "text": "Citizens have the right to vote, express opinions and hold leaders accountable."
+          "text": "It doesn't"
         },
         {
           "id": "B",
-          "text": "Only rulers make decisions."
+          "text": "Enshrining non-negotiable Fundamental Rights"
         },
         {
           "id": "C",
-          "text": "Elections are not conducted."
+          "text": "Banning majority"
         },
         {
           "id": "D",
-          "text": "Citizens cannot question the government."
+          "text": "Two presidents"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "While democratic decisions reflect majority votes, the Constitution protects religious and linguistic minorities through non-negotiable Fundamental Rights (like Articles 29 and 30) that no majority can abolish."
     },
     {
       "id": "22",
-      "question": "If citizens stop participating in elections, what is the most likely consequence?",
+      "question": "Why is Dr. B.R. Ambedkar considered the \"Chief Architect\"?",
       "options": [
         {
           "id": "A",
-          "text": "Democracy becomes weaker because public participation decreases."
+          "text": "Wrote it alone"
         },
         {
           "id": "B",
-          "text": "Democracy becomes stronger automatically."
+          "text": "Synthesized diverse ideas into a framework"
         },
         {
           "id": "C",
-          "text": "Elections become unnecessary."
+          "text": "He was oldest"
         },
         {
           "id": "D",
-          "text": "Laws stop functioning."
+          "text": "Paid for it"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "As Chairman of the Drafting Committee, Dr. Ambedkar masterfully synthesized vast comparative legal knowledge, debated complex clauses, and championed social justice, shaping the document's definitive architecture."
     },
     {
       "id": "23",
-      "question": "A government listens to public complaints and improves local services. Which democratic principle is demonstrated?",
+      "question": "What is the philosophical significance of \"We, the People\"?",
       "options": [
         {
           "id": "A",
-          "text": "Accountability and responsiveness"
+          "text": "It's a poem"
         },
         {
           "id": "B",
-          "text": "Dictatorship"
+          "text": "Establishes citizens as ultimate authority"
         },
         {
           "id": "C",
-          "text": "Hereditary rule"
+          "text": "Means nothing"
         },
         {
           "id": "D",
-          "text": "Military governance"
+          "text": "Honors the king"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The opening words 'We, the People of India' affirm the doctrine of popular sovereignty: the Constitution derives its ultimate moral and legal legitimacy directly from the citizens of India."
     },
     {
       "id": "24",
-      "question": "Why is the rule of law essential in a democracy?",
+      "question": "How do Fundamental Duties complement Fundamental Rights?",
       "options": [
         {
           "id": "A",
-          "text": "It ensures justice and equality for every citizen."
+          "text": "Cancel rights"
         },
         {
           "id": "B",
-          "text": "It allows leaders to ignore laws."
+          "text": "Remind citizens of responsibility to nation"
         },
         {
           "id": "C",
-          "text": "It applies only to government officials."
+          "text": "They are taxes"
         },
         {
           "id": "D",
-          "text": "It benefits only wealthy people."
+          "text": "Apply to politicians"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Rights and duties are two sides of the same democratic coin; Fundamental Duties remind citizens that enjoying liberties requires active civic responsibility toward community harmony and nation-building."
     },
     {
       "id": "25",
-      "question": "Which example best shows active citizenship?",
+      "question": "Why was it crucial to implement 'Equality before Law' in India?",
       "options": [
         {
           "id": "A",
-          "text": "Voting, following laws and participating in community welfare"
+          "text": "Look modern"
         },
         {
           "id": "B",
-          "text": "Ignoring civic duties"
+          "text": "Legally dismantle deep-rooted hierarchies"
         },
         {
           "id": "C",
-          "text": "Damaging public property"
+          "text": "Increase taxes"
         },
         {
           "id": "D",
-          "text": "Avoiding elections permanently"
+          "text": "Please the British"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "In a society historically stratified by rigid caste hierarchies, untouchability, and gender bias, Article 14 ('Equality before Law') legally dismantled privilege and established universal legal parity."
     },
     {
       "id": "26",
-      "question": "Why should governments remain accountable to citizens?",
+      "question": "In what way did 'Vasudhaiva Kutumbakam' influence the Constitution?",
       "options": [
         {
           "id": "A",
-          "text": "Governments derive their authority from the people in a democracy."
+          "text": "Caused wars"
         },
         {
           "id": "B",
-          "text": "Governments are above the law."
+          "text": "Fostered pluralism and fraternity"
         },
         {
           "id": "C",
-          "text": "Citizens have no role after elections."
+          "text": "Restricted trade"
         },
         {
           "id": "D",
-          "text": "Accountability slows development."
+          "text": "Promoted oligarchy"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The ancient Indian ideal 'Vasudhaiva Kutumbakam' (the world is one family) inspired the constitutional pursuit of fraternity, international peace, and harmonious coexistence across diverse cultures."
     },
     {
       "id": "27",
-      "question": "Which lesson from this chapter is most relevant today?",
+      "question": "What would be the consequence if the Constitution could NOT be amended?",
       "options": [
         {
           "id": "A",
-          "text": "Democracy succeeds when citizens actively participate and governments remain accountable."
+          "text": "Absolute stability"
         },
         {
           "id": "B",
-          "text": "Elections are the responsibility of leaders only."
+          "text": "Become obsolete to modern challenges"
         },
         {
           "id": "C",
-          "text": "Rights are more important than responsibilities."
+          "text": "Everyone happy"
         },
         {
           "id": "D",
-          "text": "Citizens do not influence governance."
+          "text": "No taxes"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "An unamendable constitution would rigidify laws, making the state incapable of adapting to technological breakthroughs, social evolution, or crises, eventually leading to societal rupture."
     },
     {
       "id": "28",
-      "question": "Which action would strengthen democracy the most?",
+      "question": "How does the separation of powers into three tiers aid governance?",
       "options": [
         {
           "id": "A",
-          "text": "Conducting free and fair elections and encouraging informed citizen participation."
+          "text": "Causes chaos"
         },
         {
           "id": "B",
-          "text": "Preventing people from voting."
+          "text": "Decentralizes power for local efficiency"
         },
         {
           "id": "C",
-          "text": "Giving unlimited power to one leader."
+          "text": "Voting illegal"
         },
         {
           "id": "D",
-          "text": "Ignoring the Constitution."
+          "text": "Concentrates wealth"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Decentralizing governance across Union, State, and Local (Panchayati Raj/Municipality) levels ensures grassroots participation, localized administrative efficiency, and responsive democratic delivery."
     },
     {
       "id": "29",
-      "question": "Which statement best explains the evolution from rulers to the ruled?",
+      "question": "Why is it said that without a Constitution, society might revert to 'Matsya Nyaya'?",
       "options": [
         {
           "id": "A",
-          "text": "Political systems gradually shifted from rule by a few individuals to governments accountable to citizens."
+          "text": "Fish would rule"
         },
         {
           "id": "B",
-          "text": "Modern governments are all monarchies."
+          "text": "The strong would consume the weak"
         },
         {
           "id": "C",
-          "text": "Democracy existed unchanged throughout history."
+          "text": "Fishing law"
         },
         {
           "id": "D",
-          "text": "Citizens have always had no role in governance."
+          "text": "Oceans dry up"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "In ancient political philosophy, 'Matsya Nyaya' (law of the fish) describes a lawless state of nature where big fish devour small fish; the Constitution prevents this by restraining the powerful and protecting the weak."
     },
     {
       "id": "30",
-      "question": "Which statement best summarizes the main idea of this chapter?",
+      "question": "What does the 1992 amendment adding the Panchayati Raj signify?",
       "options": [
         {
           "id": "A",
-          "text": "Governments have evolved over time, and democracy empowers citizens through participation, equality, rights and accountability."
+          "text": "Regressing"
         },
         {
           "id": "B",
-          "text": "Monarchy and democracy are identical systems."
+          "text": "Deepening of grassroots democracy"
         },
         {
           "id": "C",
-          "text": "Citizens have no role in modern governance."
+          "text": "It failed"
         },
         {
           "id": "D",
-          "text": "Governments exist only to make laws."
+          "text": "Banned villages"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The 73rd and 74th Constitutional Amendments (1992) institutionalized Panchayats and Municipalities, deepening democracy by empowering village councils and reserving one-third of seats for women."
     }
   ]
 }

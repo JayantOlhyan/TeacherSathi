@@ -2,753 +2,753 @@
   "questions": [
     {
       "id": "1",
-      "question": "What is the Constitution of India?",
+      "question": "What is the system of exchanging goods without using money called?",
       "options": [
         {
           "id": "A",
-          "text": "The supreme law of the country"
+          "text": "Banking"
         },
         {
           "id": "B",
-          "text": "A history textbook"
+          "text": "Barter system"
         },
         {
           "id": "C",
-          "text": "A law made by one state"
+          "text": "Trade deficit"
         },
         {
           "id": "D",
-          "text": "A school rule book"
+          "text": "E-commerce"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The barter system is the direct trade or exchange of goods and services between two parties without using any common intermediary currency like coins or notes."
     },
     {
       "id": "2",
-      "question": "When did the Constitution of India come into force?",
+      "question": "Which of these was a common commodity used in the barter system?",
       "options": [
         {
           "id": "A",
-          "text": "26 January 1950"
+          "text": "Credit cards"
         },
         {
           "id": "B",
-          "text": "15 August 1947"
+          "text": "UPI"
         },
         {
           "id": "C",
-          "text": "2 October 1948"
+          "text": "Cowrie shells"
         },
         {
           "id": "D",
-          "text": "26 November 1949"
+          "text": "Paper notes"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "C",
+      "explanation": "In ancient societies before metal coins appeared, items with natural value or rarity—such as cattle, grain, salt, and cowrie shells—were commonly traded as commodity money."
     },
     {
       "id": "3",
-      "question": "Who is known as the chief architect of the Indian Constitution?",
+      "question": "What is the common tool everybody accepts to make payments today?",
       "options": [
         {
           "id": "A",
-          "text": "B. R. Ambedkar"
+          "text": "Stones"
         },
         {
           "id": "B",
-          "text": "Mahatma Gandhi"
+          "text": "Cattle"
         },
         {
           "id": "C",
-          "text": "Jawaharlal Nehru"
+          "text": "Money"
         },
         {
           "id": "D",
-          "text": "Sardar Vallabhbhai Patel"
+          "text": "Shells"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "C",
+      "explanation": "Money is the universally accepted medium of exchange, recognized by society and law for settling debts, buying commodities, and measuring economic value."
     },
     {
       "id": "4",
-      "question": "The Constitution guarantees _____.",
+      "question": "What were ancient Indian coins commonly called?",
       "options": [
         {
           "id": "A",
-          "text": "Fundamental Rights"
+          "text": "Dollars"
         },
         {
           "id": "B",
-          "text": "Unlimited powers to rulers"
+          "text": "Panas / Karshapanas"
         },
         {
           "id": "C",
-          "text": "Rule by kings"
+          "text": "Euros"
         },
         {
           "id": "D",
-          "text": "No elections"
+          "text": "Pesos"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "In ancient India during the Mauryan and Mahajanapada eras, standardized punch-marked silver and copper coins were widely known as Karshapanas or Panas."
     },
     {
       "id": "5",
-      "question": "India is a _____.",
+      "question": "What metal were ancient coins usually made from?",
       "options": [
         {
           "id": "A",
-          "text": "Sovereign, Socialist, Secular, Democratic Republic"
+          "text": "Plastic"
         },
         {
           "id": "B",
-          "text": "Monarchy"
+          "text": "Wood"
         },
         {
           "id": "C",
-          "text": "Dictatorship"
+          "text": "Gold, silver, copper"
         },
         {
           "id": "D",
-          "text": "Colony"
+          "text": "Aluminum"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "C",
+      "explanation": "Historically, mints produced coinage using durable, precious, and semi-precious metals like gold, silver, and copper due to their intrinsic value and resistance to decay."
     },
     {
       "id": "6",
-      "question": "Which document protects the rights of Indian citizens?",
+      "question": "Which institution controls the issue of currency in India today?",
       "options": [
         {
           "id": "A",
-          "text": "Constitution of India"
+          "text": "State Bank"
         },
         {
           "id": "B",
-          "text": "School diary"
+          "text": "Supreme Court"
         },
         {
           "id": "C",
-          "text": "Atlas"
+          "text": "Reserve Bank of India (RBI)"
         },
         {
           "id": "D",
-          "text": "Calendar"
+          "text": "Parliament"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "C",
+      "explanation": "The Reserve Bank of India (RBI), established in 1935 as India's central bank, possesses the sole statutory authority to issue and regulate Indian rupee currency notes."
     },
     {
       "id": "7",
-      "question": "Who makes the Constitution?",
+      "question": "What is the modern digital payment system unique to India called?",
       "options": [
         {
           "id": "A",
-          "text": "The Constituent Assembly"
+          "text": "NEFT"
         },
         {
           "id": "B",
-          "text": "Parliament alone"
+          "text": "RTGS"
         },
         {
           "id": "C",
-          "text": "Supreme Court"
+          "text": "UPI"
         },
         {
           "id": "D",
-          "text": "Election Commission"
+          "text": "Cheque"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "C",
+      "explanation": "Unified Payments Interface (UPI) is India's indigenous, instant real-time digital payment system developed by NPCI that allows direct bank-to-bank mobile transfers."
     },
     {
       "id": "8",
-      "question": "Which of the following is a Fundamental Duty?",
+      "question": "What does the symbol '₹' represent?",
       "options": [
         {
           "id": "A",
-          "text": "Respect the National Flag and National Anthem"
+          "text": "US Dollar"
         },
         {
           "id": "B",
-          "text": "Ignore public property"
+          "text": "Japanese Yen"
         },
         {
           "id": "C",
-          "text": "Break traffic rules"
+          "text": "Indian Rupee"
         },
         {
           "id": "D",
-          "text": "Avoid voting"
+          "text": "British Pound"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "C",
+      "explanation": "The symbol '₹' is the official currency symbol for the Indian Rupee, combining the Devanagari consonant 'र' (Ra) and the Roman capital letter 'R'."
     },
     {
       "id": "9",
-      "question": "Why is the Constitution important?",
+      "question": "Who designed the Indian Rupee symbol (₹)?",
       "options": [
         {
           "id": "A",
-          "text": "It guides the government and protects citizens' rights."
+          "text": "M.K. Gandhi"
         },
         {
           "id": "B",
-          "text": "It controls the weather."
+          "text": "B.R. Ambedkar"
         },
         {
           "id": "C",
-          "text": "It decides school holidays."
+          "text": "Udaya Kumar"
         },
         {
           "id": "D",
-          "text": "It regulates international sports."
+          "text": "Aryabhata"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "C",
+      "explanation": "D. Udaya Kumar, an associate professor at IIT Guwahati, designed the official Indian Rupee symbol '₹', which was adopted by the Government of India in 2010."
     },
     {
       "id": "10",
-      "question": "The Constitution applies to _____.",
+      "question": "Making coins is called what?",
       "options": [
         {
           "id": "A",
-          "text": "Every citizen of India"
+          "text": "Printing"
         },
         {
           "id": "B",
-          "text": "Only government officials"
+          "text": "Minting"
         },
         {
           "id": "C",
-          "text": "Only Members of Parliament"
+          "text": "Forging"
         },
         {
           "id": "D",
-          "text": "Only judges"
+          "text": "Baking"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Minting is the industrial manufacturing process of stamping and producing standardized metallic coins at government-controlled facilities known as mints."
     },
     {
       "id": "11",
-      "question": "Why is the Constitution called the supreme law of India?",
+      "question": "What is the \"double coincidence of wants\" in the barter system?",
       "options": [
         {
           "id": "A",
-          "text": "All other laws must follow its principles."
+          "text": "Wanting 2 things"
         },
         {
           "id": "B",
-          "text": "It is written only for Parliament."
+          "text": "Both parties wanting exactly what the other has"
         },
         {
           "id": "C",
-          "text": "It applies only during elections."
+          "text": "Having no wants"
         },
         {
           "id": "D",
-          "text": "It changes every year."
+          "text": "Buying twice"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "A successful barter transaction requires a double coincidence of wants: Person A must desire exactly what Person B has to offer, and simultaneously Person B must desire what Person A possesses."
     },
     {
       "id": "12",
-      "question": "Why are Fundamental Rights important?",
+      "question": "Why was \"divisibility\" a major problem in the barter system?",
       "options": [
         {
           "id": "A",
-          "text": "They protect the freedom, equality and dignity of citizens."
+          "text": "Can't do math"
         },
         {
           "id": "B",
-          "text": "They give unlimited powers to the government."
+          "text": "Cannot split a live animal"
         },
         {
           "id": "C",
-          "text": "They apply only to adults."
+          "text": "Goods too small"
         },
         {
           "id": "D",
-          "text": "They remove equality."
+          "text": "Money easily split"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Many indivisible commodities (such as a live cow or horse) could not be divided into smaller portions to purchase low-value items like a pot of grain without destroying their value."
     },
     {
       "id": "13",
-      "question": "Which principle is essential to the Indian Constitution?",
+      "question": "Why did money replace the barter system?",
       "options": [
         {
           "id": "A",
-          "text": "Equality before the law"
+          "text": "Forgot to barter"
         },
         {
           "id": "B",
-          "text": "Rule by one family"
+          "text": "Solved problems of portability and durability"
         },
         {
           "id": "C",
-          "text": "Discrimination among citizens"
+          "text": "King hated cattle"
         },
         {
           "id": "D",
-          "text": "No elections"
+          "text": "Prettier"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Money eliminated barter inefficiencies by providing a universally accepted, highly portable, durable, and easily divisible standard of value."
     },
     {
       "id": "14",
-      "question": "Why do citizens also have Fundamental Duties?",
+      "question": "How does money act as a \"store of value\"?",
       "options": [
         {
           "id": "A",
-          "text": "Rights and duties together strengthen democracy."
+          "text": "Rots quickly"
         },
         {
           "id": "B",
-          "text": "Duties replace rights."
+          "text": "Save for years without spoiling"
         },
         {
           "id": "C",
-          "text": "Duties are optional."
+          "text": "Kept in a box"
         },
         {
           "id": "D",
-          "text": "Only the government has duties."
+          "text": "Loses value"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Unlike perishable barter goods such as vegetables or milk that rot rapidly, money can be stored safely in bank accounts or vaults for decades without physically spoiling."
     },
     {
       "id": "15",
-      "question": "What is the role of the Constitution in a democracy?",
+      "question": "What did the punched symbols (rupas) on ancient coins represent?",
       "options": [
         {
           "id": "A",
-          "text": "It defines the powers of government and protects citizens' rights."
+          "text": "Just art"
         },
         {
           "id": "B",
-          "text": "It only collects taxes."
+          "text": "Authority of the ruler validating the coin"
         },
         {
           "id": "C",
-          "text": "It conducts elections."
+          "text": "Random scratches"
         },
         {
           "id": "D",
-          "text": "It controls weather conditions."
+          "text": "Blacksmith's name"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Punch-marked symbols (sun, tree, animals) stamped onto ancient metal blanks signified the royal seal or merchant guild's official guarantee of the coin's weight and purity."
     },
     {
       "id": "16",
-      "question": "Which institution drafted the Constitution?",
+      "question": "Why are coins made of alloys rather than pure metals?",
       "options": [
         {
           "id": "A",
-          "text": "Constituent Assembly"
+          "text": "Cheaper"
         },
         {
           "id": "B",
-          "text": "Supreme Court"
+          "text": "Alloys make the coins stronger"
         },
         {
           "id": "C",
-          "text": "Lok Sabha"
+          "text": "Pure is toxic"
         },
         {
           "id": "D",
-          "text": "Election Commission"
+          "text": "Change color"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Pure metals like pure gold or silver are relatively soft and wear down quickly from daily handling; blending them into metallic alloys increases durability and scratch resistance."
     },
     {
       "id": "17",
-      "question": "Which statement about equality is correct?",
+      "question": "What did the finding of Roman gold coins in Tamil Nadu prove?",
       "options": [
         {
           "id": "A",
-          "text": "Every citizen is equal before the law."
+          "text": "Romans invaded"
         },
         {
           "id": "B",
-          "text": "Only rich people have equal rights."
+          "text": "Extensive maritime trade with Roman Empire"
         },
         {
           "id": "C",
-          "text": "Equality applies only in schools."
+          "text": "They were fake"
         },
         {
           "id": "D",
-          "text": "Equality depends on religion."
+          "text": "Tamils went to Rome"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Huge hoards of Roman gold and silver coins discovered across South Indian archaeological sites prove extensive, highly lucrative spice and textile maritime trade with Rome during the early centuries CE."
     },
     {
       "id": "18",
-      "question": "Why should citizens follow the Constitution?",
+      "question": "What is a key advantage of paper money over metallic coins?",
       "options": [
         {
           "id": "A",
-          "text": "It helps maintain justice, peace and democracy."
+          "text": "Heavier"
         },
         {
           "id": "B",
-          "text": "It is only for government officials."
+          "text": "Easier to carry (portability)"
         },
         {
           "id": "C",
-          "text": "It has no role in daily life."
+          "text": "Doesn't burn"
         },
         {
           "id": "D",
-          "text": "It applies only during elections."
+          "text": "Waterproof"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Paper currency notes are lightweight and highly portable, allowing merchants and citizens to transport large sums of monetary value easily compared to sacks of heavy metal coins."
     },
     {
       "id": "19",
-      "question": "Which action best reflects a Fundamental Duty?",
+      "question": "How does UPI make transactions easier?",
       "options": [
         {
           "id": "A",
-          "text": "Protecting public property and respecting national symbols"
+          "text": "Bank visit"
         },
         {
           "id": "B",
-          "text": "Damaging government property"
+          "text": "Instant electronic transfer"
         },
         {
           "id": "C",
-          "text": "Breaking laws intentionally"
+          "text": "Uses paper"
         },
         {
           "id": "D",
-          "text": "Ignoring civic responsibilities"
+          "text": "Relies on gold"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "UPI enables instant, secure 24/7 money transfers between any two bank accounts using a simple virtual ID or QR code directly from a smartphone without physical cash exchange."
     },
     {
       "id": "20",
-      "question": "What is the central idea of this chapter?",
+      "question": "Why couldn't a farmer use wheat to save \"wealth\" for 10 years in barter?",
       "options": [
         {
           "id": "A",
-          "text": "The Constitution protects democracy, rights, equality and justice while guiding the government."
+          "text": "Durable"
         },
         {
           "id": "B",
-          "text": "The Constitution is only a history document."
+          "text": "Durability problem: wheat rots"
         },
         {
           "id": "C",
-          "text": "Rights are more important than duties."
+          "text": "Turns to gold"
         },
         {
           "id": "D",
-          "text": "The Constitution applies only to leaders."
+          "text": "No one eats wheat"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Stored agricultural commodities like wheat or rice suffer from moisture, rodent infestation, and natural decay over time, making them incapable of serving as long-term stores of wealth."
     },
     {
       "id": "21",
-      "question": "Why is the Constitution essential for a democratic country?",
+      "question": "How did the invention of money accelerate the division of labor?",
       "options": [
         {
           "id": "A",
-          "text": "It limits government power and protects citizens' rights."
+          "text": "Stopped it"
         },
         {
           "id": "B",
-          "text": "It gives unlimited powers to leaders."
+          "text": "Allowed specialization instead of making everything"
         },
         {
           "id": "C",
-          "text": "It removes equality."
+          "text": "Everyone a farmer"
         },
         {
           "id": "D",
-          "text": "It discourages public participation."
+          "text": "Banned skills"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Once money provided a liquid market medium, individuals no longer needed to farm their own food; they could specialize full-time in specialized crafts (pottery, carpentry, medicine) and buy food with cash earnings."
     },
     {
       "id": "22",
-      "question": "If India did not have a Constitution, which would most likely be affected?",
+      "question": "What does an annual salary of 60 panas indicate about the currency?",
       "options": [
         {
           "id": "A",
-          "text": "Protection of citizens' rights and the rule of law."
+          "text": "Worthless"
         },
         {
           "id": "B",
-          "text": "Earth's rotation."
+          "text": "Pana had extremely high purchasing power"
         },
         {
           "id": "C",
-          "text": "The climate."
+          "text": "Massive inflation"
         },
         {
           "id": "D",
-          "text": "Ocean currents."
+          "text": "Used paper"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Historical records in Kautilya's Arthashastra listing modest numerical salaries in silver panas prove that single silver coins possessed significant real purchasing power in ancient markets."
     },
     {
       "id": "23",
-      "question": "A citizen peacefully approaches a court when their rights are violated. Which constitutional principle is being exercised?",
+      "question": "How did the standardization of coinage impact trade?",
       "options": [
         {
           "id": "A",
-          "text": "Protection of Fundamental Rights through the rule of law"
+          "text": "Caused confusion"
         },
         {
           "id": "B",
-          "text": "Rule by force"
+          "text": "Reduced transaction costs and built trust"
         },
         {
           "id": "C",
-          "text": "Dictatorship"
+          "text": "Stopped trade"
         },
         {
           "id": "D",
-          "text": "Hereditary rule"
+          "text": "Goods expensive"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Standardizing coin weights and purity eliminated the time-consuming need to weigh metal and test purity during every sale, drastically lowering transaction costs and expanding commerce."
     },
     {
       "id": "24",
-      "question": "Why is equality before the law an important constitutional principle?",
+      "question": "What is the difference between commodity money and fiat money?",
       "options": [
         {
           "id": "A",
-          "text": "It ensures that every citizen is treated fairly without discrimination."
+          "text": "No difference"
         },
         {
           "id": "B",
-          "text": "It gives special rights to rulers."
+          "text": "Commodity has intrinsic value; fiat relies on trust"
         },
         {
           "id": "C",
-          "text": "It applies only to elected representatives."
+          "text": "Fiat is heavier"
         },
         {
           "id": "D",
-          "text": "It benefits only wealthy citizens."
+          "text": "Commodity digital"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Commodity money (like gold coins or salt) has intrinsic physical value, whereas fiat money (modern paper notes) has no intrinsic value and derives authority entirely from government legal tender status."
     },
     {
       "id": "25",
-      "question": "Which example best demonstrates responsible citizenship?",
+      "question": "How does money serve as a \"standard of deferred payment\"?",
       "options": [
         {
           "id": "A",
-          "text": "Respecting the Constitution, obeying laws and performing Fundamental Duties"
+          "text": "Pay now"
         },
         {
           "id": "B",
-          "text": "Ignoring public responsibilities"
+          "text": "Allows for contracts to be paid in future"
         },
         {
           "id": "C",
-          "text": "Damaging national property"
+          "text": "Never pay"
         },
         {
           "id": "D",
-          "text": "Refusing to follow laws"
+          "text": "Involves barter"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Because money maintains a relatively stable numerical unit of account, it enables long-term borrowing, lending, pensions, and contractual agreements settled precisely in future installments."
     },
     {
       "id": "26",
-      "question": "Why are Fundamental Rights and Fundamental Duties closely related?",
+      "question": "Why did the transition to digital payments (UPI) represent a revolution?",
       "options": [
         {
           "id": "A",
-          "text": "Rights protect individual freedom, while duties promote responsibility towards society and the nation."
+          "text": "Slower"
         },
         {
           "id": "B",
-          "text": "Duties replace rights completely."
+          "text": "Removed physical friction from transactions"
         },
         {
           "id": "C",
-          "text": "Rights are more important than duties."
+          "text": "Uses more paper"
         },
         {
           "id": "D",
-          "text": "Duties apply only to government officials."
+          "text": "Requires metals"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Digital payments eliminated physical cash handling costs, ATM dependency, exact change friction, and geographical barriers, democratizing financial access for millions of micro-merchants."
     },
     {
       "id": "27",
-      "question": "Which lesson from the Constitution is most relevant today?",
+      "question": "What risk is inherent in a barter economy that money mitigates?",
       "options": [
         {
           "id": "A",
-          "text": "Democracy succeeds when citizens respect equality, justice, liberty and responsibility."
+          "text": "Inflation"
         },
         {
           "id": "B",
-          "text": "Only governments are responsible for democracy."
+          "text": "Inability to liquidate assets quickly"
         },
         {
           "id": "C",
-          "text": "Rights can exist without responsibilities."
+          "text": "Too many banks"
         },
         {
           "id": "D",
-          "text": "Laws apply only to leaders."
+          "text": "Counterfeiting"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "In a barter economy, finding a matching trade partner can take days or weeks (illiquidity); money solves this by providing instant liquidity accepted everywhere immediately."
     },
     {
       "id": "28",
-      "question": "Which action would strengthen constitutional values the most?",
+      "question": "Why is the control of currency issuance crucial for a modern state?",
       "options": [
         {
           "id": "A",
-          "text": "Respecting diversity, protecting public property and treating everyone equally."
+          "text": "Print endless"
         },
         {
           "id": "B",
-          "text": "Discriminating against others."
+          "text": "Maintain economic stability and sovereign authority"
         },
         {
           "id": "C",
-          "text": "Ignoring laws."
+          "text": "Make coins shiny"
         },
         {
           "id": "D",
-          "text": "Damaging national symbols."
+          "text": "Ban trade"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Unregulated money printing causes hyperinflation that destroys purchasing power; central bank control (RBI) ensures money supply grows steadily with economic productivity to preserve economic stability."
     },
     {
       "id": "29",
-      "question": "Which statement best explains the purpose of the Constitution?",
+      "question": "The use of giant Rai stones as money highlights what concept?",
       "options": [
         {
           "id": "A",
-          "text": "It provides the framework for governance while safeguarding citizens' rights and democratic values."
+          "text": "Must be portable"
         },
         {
           "id": "B",
-          "text": "It only explains India's history."
+          "text": "Money is fundamentally a system of agreed-upon trust"
         },
         {
           "id": "C",
-          "text": "It only conducts elections."
+          "text": "Must be metal"
         },
         {
           "id": "D",
-          "text": "It only defines state boundaries."
+          "text": "Must be light"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The giant limestone Rai stones of Yap island (too heavy to move) functioned perfectly as money because the community maintained collective oral agreement and social trust regarding ownership."
     },
     {
       "id": "30",
-      "question": "Which statement best summarizes the main idea of this chapter?",
+      "question": "How does the circular flow of money benefit the entire economy?",
       "options": [
         {
           "id": "A",
-          "text": "The Constitution of India is the foundation of the nation's democracy, ensuring justice, liberty, equality and dignity for all citizens while guiding the functioning of the government."
+          "text": "Pools in one place"
         },
         {
           "id": "B",
-          "text": "The Constitution is important only during elections."
+          "text": "Spending becomes someone else's income"
         },
         {
           "id": "C",
-          "text": "The Constitution applies only to Parliament."
+          "text": "Stops trade"
         },
         {
           "id": "D",
-          "text": "Rights are more important than constitutional values."
+          "text": "Causes poverty"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "In an active economy, one person's consumption expenditure immediately becomes another person's business income or wages, creating a continuous multiplier effect that drives production and employment."
     }
   ]
 }

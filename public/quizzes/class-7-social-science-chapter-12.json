@@ -2,745 +2,753 @@
   "questions": [
     {
       "id": "1",
-      "question": "What is barter?",
+      "question": "What is a place where buyers and sellers exchange goods called?",
       "options": [
         {
           "id": "A",
-          "text": "Exchange of goods and services without using money"
+          "text": "A factory"
         },
         {
           "id": "B",
-          "text": "Buying goods with digital payment"
+          "text": "A market"
         },
         {
           "id": "C",
-          "text": "Selling goods in a market"
+          "text": "A school"
         },
         {
           "id": "D",
-          "text": "Depositing money in a bank"
+          "text": "A court"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "A market is any physical or virtual space where buyers (consumers) and sellers (producers or merchants) come together to negotiate prices and exchange goods and services."
     },
     {
       "id": "2",
-      "question": "What replaced the barter system over time?",
+      "question": "What is a market that operates on the internet called?",
       "options": [
         {
           "id": "A",
-          "text": "Money"
+          "text": "Physical market"
         },
         {
           "id": "B",
-          "text": "Gold only"
+          "text": "Wholesale market"
         },
         {
           "id": "C",
-          "text": "Agriculture"
+          "text": "Online market"
         },
         {
           "id": "D",
-          "text": "Transport"
+          "text": "Local market"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "C",
+      "explanation": "An online market or e-commerce platform allows buyers and sellers to conduct commercial transactions digitally via websites or mobile apps over the internet."
     },
     {
       "id": "3",
-      "question": "Why was the barter system difficult?",
+      "question": "Which market deals with buying and selling in bulk quantities?",
       "options": [
         {
           "id": "A",
-          "text": "Both people had to want each other's goods at the same time."
+          "text": "Retail market"
         },
         {
           "id": "B",
-          "text": "There were too many coins."
+          "text": "Wholesale market"
         },
         {
           "id": "C",
-          "text": "Goods were free."
+          "text": "Weekly market"
         },
         {
           "id": "D",
-          "text": "There were no markets."
+          "text": "Flea market"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "A wholesale market (mandi) specializes in buying massive quantities of commodities directly from farmers or manufacturers and selling them in bulk to retail traders."
     },
     {
       "id": "4",
-      "question": "Which is a function of money?",
+      "question": "Which market sells goods directly to the final consumer?",
       "options": [
         {
+          "id": "A",
+          "text": "Wholesale market"
+        },
+        {
           "id": "B",
-          "text": "Source of rainfall"
+          "text": "Retail market"
         },
         {
           "id": "C",
-          "text": "Type of government"
+          "text": "Stock market"
         },
         {
           "id": "D",
-          "text": "Form of transport"
+          "text": "Export market"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "A retail market comprises local grocery shops, department stores, and vendors who sell goods in small quantities directly to final household consumers for personal use."
     },
     {
       "id": "5",
-      "question": "Which of the following is an example of barter?",
+      "question": "Selling goods produced in India to another country is called:",
       "options": [
         {
           "id": "A",
-          "text": "Exchanging wheat for rice"
+          "text": "Importing"
         },
         {
           "id": "B",
-          "text": "Buying rice with ₹100"
+          "text": "Retail"
         },
         {
           "id": "C",
-          "text": "Paying by UPI"
+          "text": "Exporting"
         },
         {
           "id": "D",
-          "text": "Using a debit card"
+          "text": "Smuggling"
         }
       ],
-      "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Exporting refers to the commercial shipment and sale of domestically manufactured goods or agricultural produce from India to international buyers in foreign countries."
     },
     {
       "id": "6",
-      "question": "What is used to measure the value of goods today?",
+      "question": "Buying goods from another country into India is called:",
       "options": [
         {
           "id": "A",
-          "text": "Money"
+          "text": "Exporting"
         },
         {
           "id": "B",
-          "text": "Rainfall"
+          "text": "Importing"
         },
         {
           "id": "C",
-          "text": "Population"
+          "text": "Wholesaling"
         },
         {
           "id": "D",
-          "text": "Temperature"
+          "text": "Producing"
         }
       ],
-      "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Importing is the purchasing and bringing in of goods, raw materials, or technology produced in foreign countries into the domestic Indian market."
     },
     {
       "id": "7",
-      "question": "Which institution issues currency notes in India?",
+      "question": "What determines the price of goods in a free market?",
       "options": [
         {
           "id": "A",
-          "text": "Reserve Bank of India"
+          "text": "The King"
         },
         {
           "id": "B",
-          "text": "Election Commission"
+          "text": "Interaction between demand and supply"
         },
         {
           "id": "C",
-          "text": "Supreme Court"
+          "text": "The weather"
         },
         {
           "id": "D",
-          "text": "Gram Panchayat"
+          "text": "The police"
         }
       ],
-      "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "In a free market economy, prices are dynamically determined by the interaction of consumer demand (how many want to buy) and available supply (how much is for sale)."
     },
     {
       "id": "8",
-      "question": "Which is the official currency of India?",
+      "question": "Where are large quantities of agricultural goods often stored?",
       "options": [
         {
           "id": "A",
-          "text": "Indian Rupee (₹)"
+          "text": "Houses"
         },
         {
           "id": "B",
-          "text": "Dollar"
+          "text": "Godowns / Warehouses"
         },
         {
           "id": "C",
-          "text": "Euro"
+          "text": "Banks"
         },
         {
           "id": "D",
-          "text": "Yen"
+          "text": "Schools"
         }
       ],
-      "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Warehouses and godowns (including cold storage facilities) provide secure storage for harvested agricultural crops to prevent rotting and ensure steady year-round market supply."
     },
     {
       "id": "9",
-      "question": "Digital payments are mainly used to _____.",
+      "question": "What is a local market that sets up once a week called?",
       "options": [
         {
           "id": "A",
-          "text": "Transfer money electronically"
+          "text": "Mall"
         },
         {
           "id": "B",
-          "text": "Measure rainfall"
+          "text": "Supermarket"
         },
         {
           "id": "C",
-          "text": "Predict weather"
+          "text": "Weekly market / Haat"
         },
         {
           "id": "D",
-          "text": "Grow crops"
+          "text": "Stock exchange"
         }
       ],
-      "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "A weekly market or rural 'Haat' convenes on a specific day of the week in a village or town square, allowing local vendors to sell fresh vegetables, tools, and daily necessities."
     },
     {
       "id": "10",
-      "question": "The main advantage of money over barter is that it _____.",
+      "question": "In a market, what must the buyer and seller agree upon to transact?",
       "options": [
         {
           "id": "A",
-          "text": "Makes buying and selling easier"
+          "text": "The weather"
         },
         {
           "id": "B",
-          "text": "Stops trade"
+          "text": "The price"
         },
         {
           "id": "C",
-          "text": "Reduces production"
+          "text": "The government"
         },
         {
           "id": "D",
-          "text": "Eliminates markets"
+          "text": "The time of day"
         }
       ],
-      "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Every market exchange requires mutual agreement between the buyer and seller regarding the transaction price per unit before goods or services exchange hands."
     },
     {
       "id": "11",
-      "question": "Why did societies gradually move from barter to money?",
+      "question": "What did Adam Smith mean by markets creating prosperity?",
       "options": [
         {
           "id": "A",
-          "text": "Money made trade easier and more efficient."
+          "text": "Cause poverty"
         },
         {
           "id": "B",
-          "text": "Barter was faster than money."
+          "text": "Markets allow people to access goods they can't make"
         },
         {
           "id": "C",
-          "text": "People stopped trading."
+          "text": "Help kings"
         },
         {
           "id": "D",
-          "text": "Goods lost their value."
+          "text": "Ban trade"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Classical economist Adam Smith explained that voluntary market exchange allows individuals to specialize in what they do best and trade for diverse goods they cannot produce themselves, maximizing overall wealth."
     },
     {
       "id": "12",
-      "question": "Which problem of barter is solved by money?",
+      "question": "What is the main difference between a physical and online market?",
       "options": [
         {
           "id": "A",
-          "text": "Double coincidence of wants"
+          "text": "No buyers online"
         },
         {
           "id": "B",
-          "text": "Population growth"
+          "text": "Online requires no physical presence"
         },
         {
           "id": "C",
-          "text": "Climate change"
+          "text": "Physical is free"
         },
         {
           "id": "D",
-          "text": "Soil erosion"
+          "text": "Online uses barter"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "While physical markets require buyers and sellers to meet in person at brick-and-mortar shops, online markets enable virtual browsing and digital checkout from anywhere without physical proximity."
     },
     {
       "id": "13",
-      "question": "Which function of money helps compare the prices of different goods?",
+      "question": "What is the 'Chain of Supply'?",
       "options": [
         {
           "id": "A",
-          "text": "Unit of account (measure of value)"
+          "text": "Metal chain"
+        },
+        {
+          "id": "B",
+          "text": "Flow of goods from Producer to Consumer"
         },
         {
           "id": "C",
-          "text": "Weather forecasting"
+          "text": "Type of store"
         },
         {
           "id": "D",
-          "text": "Communication"
+          "text": "A river"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The supply chain is the sequential network of producers, transporters, wholesale aggregators, warehouse distributors, and retail merchants that moves a product from origin to final consumer."
     },
     {
       "id": "14",
-      "question": "Why do people keep money in banks?",
+      "question": "If the supply of tomatoes is very high but demand is low, what happens?",
       "options": [
         {
           "id": "A",
-          "text": "For safety and easy transactions"
+          "text": "Price goes up"
         },
         {
           "id": "B",
-          "text": "To increase rainfall"
+          "text": "Price crashes / goes down"
         },
         {
           "id": "C",
-          "text": "To improve farming"
+          "text": "Stays the same"
         },
         {
           "id": "D",
-          "text": "To produce goods"
+          "text": "Becomes illegal"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "When market supply exceeds consumer demand (glut), competition forces sellers to slash prices to clear surplus inventory, causing market prices to drop significantly."
     },
     {
       "id": "15",
-      "question": "Which payment method is an example of digital money?",
+      "question": "Why might people pay higher prices in a supermarket?",
       "options": [
         {
           "id": "A",
-          "text": "UPI transaction"
+          "text": "Wasting money"
         },
         {
           "id": "B",
-          "text": "Exchange of wheat for rice"
+          "text": "Value convenience, cleanliness, and packaging"
         },
         {
           "id": "C",
-          "text": "Giving a goat for cloth"
+          "text": "It is a law"
         },
         {
           "id": "D",
-          "text": "Paying with grains"
+          "text": "Road is closed"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Supermarkets charge premium prices because they provide air-conditioned comfort, strict hygiene standards, branded quality assurance, clean packaging, and one-stop shopping convenience."
     },
     {
       "id": "16",
-      "question": "Which statement about money is correct?",
+      "question": "How do wholesalers help producers (like farmers)?",
       "options": [
         {
           "id": "A",
-          "text": "It acts as a medium of exchange and stores value."
+          "text": "Steal crops"
         },
         {
           "id": "B",
-          "text": "It is useful only for buying food."
+          "text": "Buy in bulk, providing immediate cash"
         },
         {
           "id": "C",
-          "text": "It has no role in trade."
+          "text": "Ban farming"
         },
         {
           "id": "D",
-          "text": "It is used only by governments."
+          "text": "Raise taxes"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Wholesalers purchase entire harvests directly from farmers in bulk, absorbing storage risks and providing immediate cash flow so farmers can invest in next season's crop."
     },
     {
       "id": "17",
-      "question": "Why is money accepted by everyone?",
+      "question": "What is a 'Domestic Market'?",
       "options": [
         {
           "id": "A",
-          "text": "It has common value recognised by society."
+          "text": "Buying/selling within a single nation"
         },
         {
           "id": "B",
-          "text": "It is made of paper only."
+          "text": "Selling to aliens"
         },
         {
           "id": "C",
-          "text": "It is always made of gold."
+          "text": "Only home goods"
         },
         {
           "id": "D",
-          "text": "It belongs only to banks."
+          "text": "International trade"
         }
       ],
       "difficulty": "Medium",
       "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "explanation": "A domestic market encompasses all internal commercial buying and selling transactions taking place within the geographical and national boundaries of a single country."
     },
     {
       "id": "18",
-      "question": "Which institution is mainly responsible for regulating India's currency?",
+      "question": "Why is bargaining more common in physical weekly markets than malls?",
       "options": [
         {
           "id": "A",
-          "text": "Reserve Bank of India"
+          "text": "Malls are loud"
         },
         {
           "id": "B",
-          "text": "Gram Sabha"
+          "text": "Malls have fixed prices; weekly markets negotiate"
         },
         {
           "id": "C",
-          "text": "Municipal Corporation"
+          "text": "Bargaining illegal"
         },
         {
           "id": "D",
-          "text": "Supreme Court"
+          "text": "Vendors can't speak"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Malls operate on corporate fixed-price tags with computerized billing, whereas weekly market street vendors operate with flexible margins that invite active verbal price negotiation (bargaining)."
     },
     {
       "id": "19",
-      "question": "Which development has made modern transactions faster?",
+      "question": "How does the government protect consumers in the market?",
       "options": [
         {
           "id": "A",
-          "text": "Digital payment systems"
+          "text": "Banning markets"
         },
         {
           "id": "B",
-          "text": "Barter system"
+          "text": "Enforcing quality certifications and fair prices"
         },
         {
           "id": "C",
-          "text": "Exchange of livestock"
+          "text": "Owning all shops"
         },
         {
           "id": "D",
-          "text": "Exchange of grains"
+          "text": "Arresting buyers"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Governments protect buyers by establishing consumer courts, monitoring weights and measures, preventing hoarding, and enforcing quality hallmarks like ISI, AGMARK, and FSSAI."
     },
     {
       "id": "20",
-      "question": "What is the central idea of this chapter?",
+      "question": "How do consumer preferences affect production?",
       "options": [
         {
           "id": "A",
-          "text": "Money replaced barter because it made trade easier, faster and more reliable."
+          "text": "They don't"
         },
         {
           "id": "B",
-          "text": "Barter is more efficient than money today."
+          "text": "Producers shift to make demanded goods"
         },
         {
           "id": "C",
-          "text": "Trade is not important in society."
+          "text": "Ignore buyers"
         },
         {
           "id": "D",
-          "text": "Banks have no role in the economy."
+          "text": "Government bans"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Consumer demand acts as a market signal; when consumers shift preferences toward organic food or electric vehicles, producers realign investments to manufacture those demanded goods."
     },
     {
       "id": "21",
-      "question": "Why was the barter system unsuitable for large-scale trade?",
+      "question": "How does the 'chain of markets' impact the final retail price?",
       "options": [
         {
           "id": "A",
-          "text": "It depended on the double coincidence of wants and lacked a common measure of value."
+          "text": "Lowers it"
         },
         {
           "id": "B",
-          "text": "It required digital payments."
+          "text": "Each middleman adds a margin, increasing final price"
         },
         {
           "id": "C",
-          "text": "It used too many coins."
+          "text": "No effect"
         },
         {
           "id": "D",
-          "text": "It was accepted everywhere."
+          "text": "Makes it free"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "At every stage along the distribution chain (transport, wholesale storage, distribution, retail shop), intermediaries add transport costs and profit margins, making the final retail price higher than farm-gate price."
     },
     {
       "id": "22",
-      "question": "If money did not exist today, which activity would become most difficult?",
+      "question": "What dilemma occurs when farmers have a bumper crop but lack storage?",
       "options": [
         {
           "id": "A",
-          "text": "Buying and selling goods efficiently"
+          "text": "Get rich"
         },
         {
           "id": "B",
-          "text": "Growing crops"
+          "text": "Oversupply causes prices to crash below cost"
         },
         {
           "id": "C",
-          "text": "Predicting weather"
+          "text": "Stop farming"
         },
         {
           "id": "D",
-          "text": "Conducting elections"
+          "text": "Government buys all"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Without cold storage or godowns during a bumper harvest, perishable crops flood local mandis simultaneously, causing oversupply that depresses prices below the farmer's cultivation cost."
     },
     {
       "id": "23",
-      "question": "A farmer sells wheat and receives money instead of exchanging it directly for clothes. Which advantage of money is shown?",
+      "question": "Why do international markets (exports/imports) exist?",
       "options": [
         {
           "id": "A",
-          "text": "Money separates selling from buying, making trade easier."
+          "text": "Cause wars"
         },
         {
           "id": "B",
-          "text": "Money reduces production."
+          "text": "No country is entirely self-sufficient in resources"
         },
         {
           "id": "C",
-          "text": "Money replaces markets."
+          "text": "Waste fuel"
         },
         {
           "id": "D",
-          "text": "Money eliminates agriculture."
+          "text": "Spread diseases"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "International trade thrives because countries possess differing natural endowments (crude oil, lithium, fertile farmland, advanced industrial technology); trade allows nations to import what they lack and export surplus."
     },
     {
       "id": "24",
-      "question": "Which statement best explains why money is called a 'store of value'?",
+      "question": "How does the rise of e-commerce disrupt the traditional wholesale chain?",
       "options": [
         {
           "id": "A",
-          "text": "It allows people to save purchasing power for future use."
+          "text": "Adds middlemen"
         },
         {
           "id": "B",
-          "text": "It changes weather conditions."
+          "text": "Connects producers directly to consumers"
         },
         {
           "id": "C",
-          "text": "It increases rainfall."
+          "text": "Uses barter"
         },
         {
           "id": "D",
-          "text": "It replaces banks completely."
+          "text": "Stops all trade"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Direct-to-consumer (D2C) e-commerce platforms allow manufacturers and artisans to bypass traditional wholesale middlemen and city distributors entirely, shipping directly to buyers via logistics networks."
     },
     {
       "id": "25",
-      "question": "Why are digital payment systems becoming increasingly popular?",
+      "question": "Why might the government set a 'price floor' (like MSP) for crops?",
       "options": [
         {
           "id": "A",
-          "text": "They make transactions fast, secure and convenient."
+          "text": "Tax farmers"
         },
         {
           "id": "B",
-          "text": "They replace all forms of currency immediately."
+          "text": "Ensure farmers recover costs when prices crash"
         },
         {
           "id": "C",
-          "text": "They work only without banks."
+          "text": "Make food expensive"
         },
         {
           "id": "D",
-          "text": "They are used only by businesses."
+          "text": "Ban farming"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Minimum Support Price (MSP) acts as an agricultural safety net, guaranteeing farmers a remunerative floor price from the state so they do not suffer ruinous losses during market price crashes."
     },
     {
       "id": "26",
-      "question": "Which example best illustrates the evolution of trade?",
+      "question": "In what way do markets serve as spaces for \"social interaction\"?",
       "options": [
         {
           "id": "A",
-          "text": "Society progressed from barter to coins, paper currency and digital payments."
+          "text": "They don't"
         },
         {
           "id": "B",
-          "text": "Trade has always depended only on barter."
+          "text": "People exchange ideas/culture along with goods"
         },
         {
           "id": "C",
-          "text": "Digital payments existed in ancient India."
+          "text": "Quiet zones"
         },
         {
           "id": "D",
-          "text": "Coins were introduced before barter."
+          "text": "People only fight"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Beyond monetary exchange, traditional bazaars and village haats have historically functioned as lively social commons where citizens gather to share news, build relationships, and experience cultural diversity."
     },
     {
       "id": "27",
-      "question": "Which lesson from this chapter is most relevant today?",
+      "question": "What happens to prices in a market if a monopoly exists?",
       "options": [
         {
           "id": "A",
-          "text": "Efficient payment systems support economic growth and everyday life."
+          "text": "Prices drop"
         },
         {
           "id": "B",
-          "text": "Money has no role in development."
+          "text": "Seller inflates prices due to no competition"
         },
         {
           "id": "C",
-          "text": "Barter should replace all modern payments."
+          "text": "Prices vanish"
         },
         {
           "id": "D",
-          "text": "Banks are unnecessary in the economy."
+          "text": "Government pays"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "In a monopoly, where a single seller controls the entire supply of a commodity without competition, the monopolist can artificially restrict output and inflate prices to extract excessive profits."
     },
     {
       "id": "28",
-      "question": "A shopkeeper accepts cash, cards and UPI payments. Which economic concept does this demonstrate?",
+      "question": "How does advertising influence the demand side of a market?",
       "options": [
         {
           "id": "A",
-          "text": "Multiple modern forms of money and payment systems"
+          "text": "Stops buying"
         },
         {
           "id": "B",
-          "text": "Barter economy only"
+          "text": "Shapes preferences, artificially increasing demand"
         },
         {
           "id": "C",
-          "text": "Agricultural production"
+          "text": "Lowers prices"
         },
         {
           "id": "D",
-          "text": "Government administration"
+          "text": "Educates farmers"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Persuasive advertising and brand marketing shape consumer psychology, generating awareness and emotional attachment that stimulates higher market demand for specific products over competitors."
     },
     {
       "id": "29",
-      "question": "Which action best promotes a safe financial system?",
+      "question": "What is the primary function of a stock market compared to a retail market?",
       "options": [
         {
           "id": "A",
-          "text": "Using authorised banks and secure digital payment methods"
+          "text": "Groceries"
         },
         {
           "id": "B",
-          "text": "Sharing banking passwords with others"
+          "text": "Facilitating buying/selling company ownership"
         },
         {
           "id": "C",
-          "text": "Ignoring transaction records"
+          "text": "Wholesale veg"
         },
         {
           "id": "D",
-          "text": "Using unsafe payment methods knowingly"
+          "text": "Bartering"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "While retail markets trade physical consumer goods like clothing or food, a stock exchange (like BSE or NSE) facilitates the buying and selling of equity shares representing ownership in corporate enterprises."
     },
     {
       "id": "30",
-      "question": "Which statement best summarizes the main idea of this chapter?",
+      "question": "How does global inflation affect domestic markets?",
       "options": [
         {
           "id": "A",
-          "text": "The evolution from barter to money transformed trade by making transactions more efficient, supporting economic growth and enabling modern banking and digital payments."
+          "text": "Things cheaper"
         },
         {
           "id": "B",
-          "text": "The barter system is more useful than money in today's economy."
+          "text": "Imported goods expensive, driving up cost of living"
         },
         {
           "id": "C",
-          "text": "Banks replaced trade completely."
+          "text": "No effect"
         },
         {
           "id": "D",
-          "text": "Money is useful only for buying goods."
+          "text": "Increases supply"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "When global inflation raises international commodity prices (such as crude oil or fertilizer), importing nations experience imported inflation, raising domestic transport, manufacturing, and retail grocery costs."
     }
   ]
 }

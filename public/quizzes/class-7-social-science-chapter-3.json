@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "What is the long-term pattern of weather called?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Season"
+        },
+        {
+          "id": "B",
+          "text": "Weather"
+        },
+        {
+          "id": "C",
+          "text": "Climate"
+        },
+        {
+          "id": "D",
+          "text": "Monsoon"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Climate refers to the average atmospheric conditions and weather patterns of a geographical region calculated over a long period (typically 30 years or more)."
+    },
+    {
+      "id": "2",
+      "question": "How many traditional seasons (ritus) are there in India?",
+      "options": [
+        {
+          "id": "A",
+          "text": "3"
+        },
+        {
+          "id": "B",
+          "text": "4"
+        },
+        {
+          "id": "C",
+          "text": "5"
+        },
+        {
+          "id": "D",
+          "text": "6"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "D",
+      "explanation": "According to ancient Indian calendars and cultural traditions, the year is divided into six distinct ritus (seasons): Vasanta, Grishma, Varsha, Sharad, Hemanta, and Shishir."
+    },
+    {
+      "id": "3",
+      "question": "What brings heavy rainfall to India during the summer?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Westerlies"
+        },
+        {
+          "id": "B",
+          "text": "Monsoon winds"
+        },
+        {
+          "id": "C",
+          "text": "Trade winds"
+        },
+        {
+          "id": "D",
+          "text": "Cyclones"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The Southwest Monsoon winds originating over the warm Indian Ocean bring widespread summer rains that sustain India's ecology and agriculture."
+    },
+    {
+      "id": "4",
+      "question": "Which factor makes hill stations cooler than plains?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Latitude"
+        },
+        {
+          "id": "B",
+          "text": "Ocean currents"
+        },
+        {
+          "id": "C",
+          "text": "Altitude"
+        },
+        {
+          "id": "D",
+          "text": "Longitude"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "As altitude (elevation above sea level) increases, atmospheric temperature drops at the environmental lapse rate, making high hill stations pleasantly cool."
+    },
+    {
+      "id": "5",
+      "question": "What acts as a temperature moderator for coastal cities?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mountains"
+        },
+        {
+          "id": "B",
+          "text": "Deserts"
+        },
+        {
+          "id": "C",
+          "text": "The Sea"
+        },
+        {
+          "id": "D",
+          "text": "Forests"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The sea heats up and cools down much slower than land, exerting a maritime moderating effect that keeps coastal temperatures pleasant and steady year-round."
+    },
+    {
+      "id": "6",
+      "question": "Which Indian city has an extreme climate due to being inland?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mumbai"
+        },
+        {
+          "id": "B",
+          "text": "Chennai"
+        },
+        {
+          "id": "C",
+          "text": "Panaji"
+        },
+        {
+          "id": "D",
+          "text": "Delhi"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "D",
+      "explanation": "Delhi is located far inland away from the moderating influence of oceans, resulting in a continental climate with scorching summers and chilly winters."
+    },
+    {
+      "id": "7",
+      "question": "Which traditional Indian season represents spring?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Grishma"
+        },
+        {
+          "id": "B",
+          "text": "Vasanta"
+        },
+        {
+          "id": "C",
+          "text": "Varsha"
+        },
+        {
+          "id": "D",
+          "text": "Hemanta"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Vasanta Ritu corresponds to spring, celebrated for blooming flowers, moderate temperatures, and rejuvenation across nature."
+    },
+    {
+      "id": "8",
+      "question": "Which traditional Indian season represents autumn?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sharad"
+        },
+        {
+          "id": "B",
+          "text": "Shishir"
+        },
+        {
+          "id": "C",
+          "text": "Vasanta"
+        },
+        {
+          "id": "D",
+          "text": "Varsha"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "Sharad Ritu corresponds to the autumn season that follows the monsoon, characterized by clear skies and pleasant harvest weather."
+    },
+    {
+      "id": "9",
+      "question": "What type of climate does the Thar desert have?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tropical wet"
+        },
+        {
+          "id": "B",
+          "text": "Alpine"
+        },
+        {
+          "id": "C",
+          "text": "Arid"
+        },
+        {
+          "id": "D",
+          "text": "Subtropical"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The Thar Desert experiences an arid (dry) climate characterized by minimal rainfall, low humidity, and high diurnal temperature variation."
+    },
+    {
+      "id": "10",
+      "question": "Which region of India experiences a cold, alpine climate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Deccan"
+        },
+        {
+          "id": "B",
+          "text": "The Himalayas"
+        },
+        {
+          "id": "C",
+          "text": "The Coasts"
+        },
+        {
+          "id": "D",
+          "text": "The Plains"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The high-elevation zones of the Himalayan mountain range experience a frigid, alpine climate characterized by sub-zero temperatures and snow."
+    },
+    {
+      "id": "11",
+      "question": "Why is Mumbai's summer cooler than Nagpur's?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mumbai is higher"
+        },
+        {
+          "id": "B",
+          "text": "Mumbai is near the sea"
+        },
+        {
+          "id": "C",
+          "text": "Nagpur has more rain"
+        },
+        {
+          "id": "D",
+          "text": "Nagpur is near equator"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Mumbai's proximity to the Arabian Sea ensures sea breezes moderate summer temperatures, whereas landlocked Nagpur experiences intense continental heat."
+    },
+    {
+      "id": "12",
+      "question": "How does latitude affect the climate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Higher altitude is colder"
+        },
+        {
+          "id": "B",
+          "text": "Closer to equator is warmer"
+        },
+        {
+          "id": "C",
+          "text": "Sea makes it humid"
+        },
+        {
+          "id": "D",
+          "text": "Winds bring rain"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Regions closer to the equator receive direct, intense solar radiation and remain warmer, whereas higher latitudes receive slanted rays and are cooler."
+    },
+    {
+      "id": "13",
+      "question": "What does the term 'retreating monsoon' refer to?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pre-monsoon showers"
+        },
+        {
+          "id": "B",
+          "text": "Post-monsoon winds"
+        },
+        {
+          "id": "C",
+          "text": "Winter snow"
+        },
+        {
+          "id": "D",
+          "text": "Summer heatwaves"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The retreating monsoon occurs around October and November when the southwest monsoon winds reverse direction and gradually withdraw from the Indian mainland."
+    },
+    {
+      "id": "14",
+      "question": "Why is Leh cold throughout the entire year?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Proximity to sea"
+        },
+        {
+          "id": "B",
+          "text": "Extreme high altitude"
+        },
+        {
+          "id": "C",
+          "text": "Heavy monsoon"
+        },
+        {
+          "id": "D",
+          "text": "It is in a desert"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Leh is situated at an elevation of around 3,500 meters in the trans-Himalayas; thin air and high altitude maintain cold temperatures year-round."
+    },
+    {
+      "id": "15",
+      "question": "The difference between maximum and minimum temperature is called what?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Temperature average"
+        },
+        {
+          "id": "B",
+          "text": "Temperature range"
+        },
+        {
+          "id": "C",
+          "text": "Heat index"
+        },
+        {
+          "id": "D",
+          "text": "Climate span"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Temperature range (diurnal or annual) is the numerical difference between the highest and lowest temperatures recorded in a given period."
+    },
+    {
+      "id": "16",
+      "question": "What happens to solar radiation near the Earth's poles?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It is concentrated"
+        },
+        {
+          "id": "B",
+          "text": "It is dispersed widely"
+        },
+        {
+          "id": "C",
+          "text": "It is blocked"
+        },
+        {
+          "id": "D",
+          "text": "It is absorbed entirely"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Due to the curvature of the Earth, solar radiation strikes the polar regions at an oblique angle, spreading energy over a larger surface area."
+    },
+    {
+      "id": "17",
+      "question": "Why does Panaji experience a tropical wet climate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High altitude"
+        },
+        {
+          "id": "B",
+          "text": "Desert proximity"
+        },
+        {
+          "id": "C",
+          "text": "Coastal location"
+        },
+        {
+          "id": "D",
+          "text": "Far from equator"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Panaji lies along the Konkan coast in low-latitude Goa, exposed directly to heavy monsoon rains from the Arabian Sea, creating a tropical wet climate."
+    },
+    {
+      "id": "18",
+      "question": "How do seasons occur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Moon's rotation"
+        },
+        {
+          "id": "B",
+          "text": "Earth's revolution"
+        },
+        {
+          "id": "C",
+          "text": "Ocean tides"
+        },
+        {
+          "id": "D",
+          "text": "Wind changes"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Seasons are caused by the Earth's annual revolution around the Sun combined with the constant 23.5-degree axial tilt of the Earth."
+    },
+    {
+      "id": "19",
+      "question": "Which factor is NOT a primary determinant of India's climate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Altitude"
+        },
+        {
+          "id": "B",
+          "text": "Latitude"
+        },
+        {
+          "id": "C",
+          "text": "Distance from sea"
+        },
+        {
+          "id": "D",
+          "text": "Standard time zone"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "D",
+      "explanation": "While altitude, latitude, and distance from the sea directly govern temperature and precipitation, time zones are human constructs for scheduling time."
+    },
+    {
+      "id": "20",
+      "question": "Why are traditional festivals tied to ritus?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Government rules"
+        },
+        {
+          "id": "B",
+          "text": "Agricultural natural cycles"
+        },
+        {
+          "id": "C",
+          "text": "Random choice"
+        },
+        {
+          "id": "D",
+          "text": "Historical wars"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Traditional Indian festivals like Baisakhi, Pongal, and Onam celebrate crucial agricultural milestones such as sowing and harvesting linked directly to the seasonal cycle (ritus)."
+    },
+    {
+      "id": "21",
+      "question": "Why does proximity to the ocean reduce temperature range?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Water heats/cools slower"
+        },
+        {
+          "id": "B",
+          "text": "Salt absorbs heat"
+        },
+        {
+          "id": "C",
+          "text": "Tides generate wind"
+        },
+        {
+          "id": "D",
+          "text": "Oceans block the sun"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "Water has a high specific heat capacity, meaning it absorbs and releases heat much more slowly than land, maintaining a steady, moderate temperature buffer."
+    },
+    {
+      "id": "22",
+      "question": "How does the Himalayan range influence the Northern Plains' climate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Causes deserts"
+        },
+        {
+          "id": "B",
+          "text": "Blocks cold Asian winds"
+        },
+        {
+          "id": "C",
+          "text": "Increases ocean tides"
+        },
+        {
+          "id": "D",
+          "text": "Lowers humidity"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The Himalayas act as a formidable thermal barrier, protecting the Northern Plains from the freezing polar winds of Siberia and trapping monsoon moisture."
+    },
+    {
+      "id": "23",
+      "question": "If a city is at 30°N latitude and high altitude, what climate is expected?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hot and humid"
+        },
+        {
+          "id": "B",
+          "text": "Arid and hot"
+        },
+        {
+          "id": "C",
+          "text": "Cool/Cold and temperate"
+        },
+        {
+          "id": "D",
+          "text": "Tropical rainforest"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Being outside the deep tropical belt (30°N) combined with high elevation produces a cool, temperate, or cold climate rather than tropical heat."
+    },
+    {
+      "id": "24",
+      "question": "How does the Southwest monsoon fundamentally sustain the economy?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Generates wind power"
+        },
+        {
+          "id": "B",
+          "text": "Provides crucial water"
+        },
+        {
+          "id": "C",
+          "text": "Warms the mountains"
+        },
+        {
+          "id": "D",
+          "text": "Prevents cyclones"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The monsoon replenishes groundwater, fills reservoirs for drinking water and hydropower, and directly irrigates over half of India's agricultural cropland."
+    },
+    {
+      "id": "25",
+      "question": "Why do inland areas like Delhi experience 'extreme' climates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lack of moderation"
+        },
+        {
+          "id": "B",
+          "text": "High altitude"
+        },
+        {
+          "id": "C",
+          "text": "Dense forests"
+        },
+        {
+          "id": "D",
+          "text": "Proximity to equator"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "Inland continental zones lack the moderating thermal capacity of large water bodies, so land heats rapidly in summer and loses heat rapidly in winter."
+    },
+    {
+      "id": "26",
+      "question": "What is the relationship between weather and climate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They are opposites"
+        },
+        {
+          "id": "B",
+          "text": "Climate is long-term average"
+        },
+        {
+          "id": "C",
+          "text": "Climate changes daily"
+        },
+        {
+          "id": "D",
+          "text": "No relationship"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Weather represents instantaneous atmospheric states, whereas climate is the statistical synthesis of weather parameters averaged over decades."
+    },
+    {
+      "id": "27",
+      "question": "In winter, what direction do the primary monsoon winds in India blow?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sea to land"
+        },
+        {
+          "id": "B",
+          "text": "Land to sea"
+        },
+        {
+          "id": "C",
+          "text": "West to East"
+        },
+        {
+          "id": "D",
+          "text": "South to North"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "During winter, high pressure builds over land and low pressure over the sea, causing dry Northeast Monsoon winds to blow outward from land toward the sea."
+    },
+    {
+      "id": "28",
+      "question": "Why does Chennai have a warm climate year-round?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Equator & sea level proximity"
+        },
+        {
+          "id": "B",
+          "text": "Surrounded by desert"
+        },
+        {
+          "id": "C",
+          "text": "High altitude"
+        },
+        {
+          "id": "D",
+          "text": "Blocked by Himalayas"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "Chennai's low latitude near the thermal equator and sea-level coastal elevation ensure steady tropical warmth with little winter cooling."
+    },
+    {
+      "id": "29",
+      "question": "How do animals adapt to climatic changes in winter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Shedding fur"
+        },
+        {
+          "id": "B",
+          "text": "Developing thick fur"
+        },
+        {
+          "id": "C",
+          "text": "Drinking more water"
+        },
+        {
+          "id": "D",
+          "text": "Moving higher"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Many wildlife species adapt to cold winter seasons by growing thicker insulating fur coats, hibernating, or migrating to warmer lower valleys."
+    },
+    {
+      "id": "30",
+      "question": "What drives the phenomenon of the monsoon winds?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tectonic shifts"
+        },
+        {
+          "id": "B",
+          "text": "Differential heating"
+        },
+        {
+          "id": "C",
+          "text": "Ocean salinity"
+        },
+        {
+          "id": "D",
+          "text": "Earth's magnetic field"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Monsoons are fundamentally driven by the differential heating and cooling rates of the massive Asian continental landmass compared to the surrounding Indian Ocean."
+    }
+  ]
+}

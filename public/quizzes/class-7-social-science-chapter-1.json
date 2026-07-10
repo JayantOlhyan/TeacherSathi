@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "What is India's global rank by land area?",
+      "options": [
+        {
+          "id": "A",
+          "text": "3rd"
+        },
+        {
+          "id": "B",
+          "text": "5th"
+        },
+        {
+          "id": "C",
+          "text": "7th"
+        },
+        {
+          "id": "D",
+          "text": "9th"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "India is the 7th largest country in the world by total land area after Russia, Canada, China, USA, Brazil, and Australia."
+    },
+    {
+      "id": "2",
+      "question": "Which mountain range forms India's northern barrier?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aravalli"
+        },
+        {
+          "id": "B",
+          "text": "Vindhya"
+        },
+        {
+          "id": "C",
+          "text": "Himalayas"
+        },
+        {
+          "id": "D",
+          "text": "Satpura"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The Himalayan mountain range extends along India's northern border, acting as a natural climatic and geographical barrier."
+    },
+    {
+      "id": "3",
+      "question": "What body of water lies to the west of India?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bay of Bengal"
+        },
+        {
+          "id": "B",
+          "text": "Arabian Sea"
+        },
+        {
+          "id": "C",
+          "text": "Indian Ocean"
+        },
+        {
+          "id": "D",
+          "text": "Red Sea"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The Arabian Sea borders the western coast of the Indian peninsula."
+    },
+    {
+      "id": "4",
+      "question": "Which of these is a cold desert in India?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Thar"
+        },
+        {
+          "id": "B",
+          "text": "Kutch"
+        },
+        {
+          "id": "C",
+          "text": "Ladakh"
+        },
+        {
+          "id": "D",
+          "text": "Spiti"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Ladakh is a high-altitude cold desert located in the northern trans-Himalayan region."
+    },
+    {
+      "id": "5",
+      "question": "What is the highest range of the Himalayas called?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Himadri"
+        },
+        {
+          "id": "B",
+          "text": "Himachal"
+        },
+        {
+          "id": "C",
+          "text": "Shivalik"
+        },
+        {
+          "id": "D",
+          "text": "Karakoram"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The Greater or Inner Himalayas, characterized by the loftiest peaks and perennial snow, is traditionally known as the Himadri."
+    },
+    {
+      "id": "6",
+      "question": "Which river basin forms the highly fertile northern plains?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Godavari"
+        },
+        {
+          "id": "B",
+          "text": "Narmada"
+        },
+        {
+          "id": "C",
+          "text": "Ganga-Brahmaputra"
+        },
+        {
+          "id": "D",
+          "text": "Kaveri"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The Ganga-Brahmaputra river system deposits rich alluvial silt that creates the fertile Northern Plains."
+    },
+    {
+      "id": "7",
+      "question": "What is the large desert located in Rajasthan?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gobi"
+        },
+        {
+          "id": "B",
+          "text": "Sahara"
+        },
+        {
+          "id": "C",
+          "text": "Thar"
+        },
+        {
+          "id": "D",
+          "text": "Atacama"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The Thar Desert, or Great Indian Desert, is located primarily in the northwestern state of Rajasthan."
+    },
+    {
+      "id": "8",
+      "question": "Which plateau is surrounded by water on three sides?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tibetan"
+        },
+        {
+          "id": "B",
+          "text": "Peninsular"
+        },
+        {
+          "id": "C",
+          "text": "Malwa"
+        },
+        {
+          "id": "D",
+          "text": "Chota Nagpur"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The Peninsular Plateau of India is bounded by the Arabian Sea, Bay of Bengal, and Indian Ocean."
+    },
+    {
+      "id": "9",
+      "question": "Which islands are located in the Arabian Sea?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Andaman"
+        },
+        {
+          "id": "B",
+          "text": "Nicobar"
+        },
+        {
+          "id": "C",
+          "text": "Lakshadweep"
+        },
+        {
+          "id": "D",
+          "text": "Maldives"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The Lakshadweep archipelago is located in the Arabian Sea off the southwestern coast of India."
+    },
+    {
+      "id": "10",
+      "question": "Which ancient supercontinent was India originally part of?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Laurasia"
+        },
+        {
+          "id": "B",
+          "text": "Pangaea"
+        },
+        {
+          "id": "C",
+          "text": "Gondwana"
+        },
+        {
+          "id": "D",
+          "text": "Eurasia"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The Indian landmass was originally part of the southern supercontinent Gondwana before drifting northward."
+    },
+    {
+      "id": "11",
+      "question": "At what rate is the Indian plate pushing into Asia?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 cm/yr"
+        },
+        {
+          "id": "B",
+          "text": "5 cm/yr"
+        },
+        {
+          "id": "C",
+          "text": "10 cm/yr"
+        },
+        {
+          "id": "D",
+          "text": "15 cm/yr"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The Indian tectonic plate continues to move northward into the Eurasian plate at a speed of roughly 5 cm per year."
+    },
+    {
+      "id": "12",
+      "question": "Which architectural style in Himachal uses stone and wood for warmth?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dravidian"
+        },
+        {
+          "id": "B",
+          "text": "Nagara"
+        },
+        {
+          "id": "C",
+          "text": "Kath-kuni"
+        },
+        {
+          "id": "D",
+          "text": "Mughal"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Kath-kuni is an indigenous earthquake-resistant architectural technique in Himachal Pradesh combining alternating layers of wood and stone."
+    },
+    {
+      "id": "13",
+      "question": "What does the term 'Himalaya' literally mean in Sanskrit?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tall Mountains"
+        },
+        {
+          "id": "B",
+          "text": "Abode of Snow"
+        },
+        {
+          "id": "C",
+          "text": "River Source"
+        },
+        {
+          "id": "D",
+          "text": "Sacred Land"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "In Sanskrit, 'Hima' means snow and 'Alaya' means abode, translating literally to 'Abode of Snow'."
+    },
+    {
+      "id": "14",
+      "question": "Which river originates from the Gaumukh glacier?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yamuna"
+        },
+        {
+          "id": "B",
+          "text": "Brahmaputra"
+        },
+        {
+          "id": "C",
+          "text": "Bhagirathi"
+        },
+        {
+          "id": "D",
+          "text": "Indus"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The Bhagirathi river, a primary headstream of the Ganga, originates at the Gaumukh snout of the Gangotri Glacier."
+    },
+    {
+      "id": "15",
+      "question": "Why are the Northern Plains ideal for intensive agriculture?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High rainfall"
+        },
+        {
+          "id": "B",
+          "text": "Volcanic soil"
+        },
+        {
+          "id": "C",
+          "text": "Rich alluvial soil"
+        },
+        {
+          "id": "D",
+          "text": "High altitude"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The perennial rivers flowing from the Himalayas continuously deposit fine, nutrient-rich alluvial soil across the Northern Plains."
+    },
+    {
+      "id": "16",
+      "question": "Which region is home to the world's largest mangrove forest?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gujarat"
+        },
+        {
+          "id": "B",
+          "text": "Kerala"
+        },
+        {
+          "id": "C",
+          "text": "West Bengal"
+        },
+        {
+          "id": "D",
+          "text": "Odisha"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The Sundarbans delta in West Bengal and Bangladesh hosts the world's largest contiguous tidal halophytic mangrove forest."
+    },
+    {
+      "id": "17",
+      "question": "What is a key feature of the Shivalik Hills?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Snow all year"
+        },
+        {
+          "id": "B",
+          "text": "Rolling hills & forests"
+        },
+        {
+          "id": "C",
+          "text": "Volcanic activity"
+        },
+        {
+          "id": "D",
+          "text": "Desert landscape"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The Shivaliks form the outermost, southernmost range of the Himalayas, characterized by rolling forested hills and longitudinal duns."
+    },
+    {
+      "id": "18",
+      "question": "Why is India often referred to as a 'mini-continent'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Due to population"
+        },
+        {
+          "id": "B",
+          "text": "Huge diverse landforms"
+        },
+        {
+          "id": "C",
+          "text": "Separate tectonic plate"
+        },
+        {
+          "id": "D",
+          "text": "Large islands"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "India possesses nearly every major geographical feature found on Earth, including towering mountains, vast deserts, expansive plains, plateaus, and long coastlines."
+    },
+    {
+      "id": "19",
+      "question": "Which mountain range is considered one of the oldest on Earth?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Himalayas"
+        },
+        {
+          "id": "B",
+          "text": "Aravalli"
+        },
+        {
+          "id": "C",
+          "text": "Western Ghats"
+        },
+        {
+          "id": "D",
+          "text": "Eastern Ghats"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The Aravalli Range is one of the world's oldest fold mountain systems, deeply eroded over hundreds of millions of years."
+    },
+    {
+      "id": "20",
+      "question": "What type of water does Pangong Tso lake have?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fresh"
+        },
+        {
+          "id": "B",
+          "text": "Salty"
+        },
+        {
+          "id": "C",
+          "text": "Acidic"
+        },
+        {
+          "id": "D",
+          "text": "Boiling"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Pangong Tso in Ladakh is an endorheic (landlocked) saline/salty lake situated at an elevation of over 4,300 meters."
+    },
+    {
+      "id": "21",
+      "question": "If the Himalayas did not exist, what would happen to North India?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Become a rainforest"
+        },
+        {
+          "id": "B",
+          "text": "Experience extreme cold"
+        },
+        {
+          "id": "C",
+          "text": "Sink below sea level"
+        },
+        {
+          "id": "D",
+          "text": "Have more rivers"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Without the Himalayas blocking frigid continental polar winds from Central Asia, northern India would experience severe winter freezing."
+    },
+    {
+      "id": "22",
+      "question": "How does the Peninsular Plateau benefit India economically?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Deep snow"
+        },
+        {
+          "id": "B",
+          "text": "Rich mineral deposits"
+        },
+        {
+          "id": "C",
+          "text": "Glacial rivers"
+        },
+        {
+          "id": "D",
+          "text": "Endless flat plains"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The ancient igneous and metamorphic rocks of the Peninsular Plateau contain vast reserves of essential minerals such as coal, iron ore, bauxite, and manganese."
+    },
+    {
+      "id": "23",
+      "question": "Why do Himalayan rivers flow year-round?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Heavier monsoon"
+        },
+        {
+          "id": "B",
+          "text": "Melting snow and rain"
+        },
+        {
+          "id": "C",
+          "text": "Steeper slopes"
+        },
+        {
+          "id": "D",
+          "text": "Artificial dams"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Himalayan rivers are perennial because they are sustained by both monsoon rains during summer and continuous glacial snowmelt throughout the dry months."
+    },
+    {
+      "id": "24",
+      "question": "What geographical feature causes the Thar desert to form?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High altitude"
+        },
+        {
+          "id": "B",
+          "text": "Blocked monsoon winds"
+        },
+        {
+          "id": "C",
+          "text": "Volcanic soil"
+        },
+        {
+          "id": "D",
+          "text": "Distance from equator"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The Aravalli range runs parallel to the direction of the southwest monsoon winds, offering no barrier to precipitate rain over western Rajasthan."
+    },
+    {
+      "id": "25",
+      "question": "How does India's peninsular shape impact its global position?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Isolates it"
+        },
+        {
+          "id": "B",
+          "text": "Vast maritime trade routes"
+        },
+        {
+          "id": "C",
+          "text": "Makes it vulnerable"
+        },
+        {
+          "id": "D",
+          "text": "Prevents agriculture"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Jutting into the Indian Ocean, India's long peninsular coastline grants command over major international maritime navigation and trade routes across the Eastern and Western hemispheres."
+    },
+    {
+      "id": "26",
+      "question": "The presence of coral reefs is a primary feature of which territory?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Andaman"
+        },
+        {
+          "id": "B",
+          "text": "Sundarbans"
+        },
+        {
+          "id": "C",
+          "text": "Lakshadweep"
+        },
+        {
+          "id": "D",
+          "text": "Gulf of Khambhat"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Lakshadweep is entirely composed of coral atolls and organic reefs formed by colonies of marine coral polyps."
+    },
+    {
+      "id": "27",
+      "question": "Why are settlements sparse in the Himadri range?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Extreme cold and snow"
+        },
+        {
+          "id": "B",
+          "text": "Dense rainforests"
+        },
+        {
+          "id": "C",
+          "text": "Frequent flooding"
+        },
+        {
+          "id": "D",
+          "text": "Desertification"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The extreme sub-zero temperatures, rugged terrain, low oxygen, and perpetual ice cover make the Himadri largely uninhabitable for large populations."
+    },
+    {
+      "id": "28",
+      "question": "How did tectonic collision ~50 million years ago shape India?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Formed oceans"
+        },
+        {
+          "id": "B",
+          "text": "Created the Himalayas"
+        },
+        {
+          "id": "C",
+          "text": "Created Thar Desert"
+        },
+        {
+          "id": "D",
+          "text": "Split the peninsula"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The collision between the northward-drifting Indian plate and the stationary Eurasian plate buckled the ancient Tethys sea floor, uplifting the Himalayas."
+    },
+    {
+      "id": "29",
+      "question": "What factor concentrates population density in the Gangetic Plains?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mining"
+        },
+        {
+          "id": "B",
+          "text": "Defensive terrain"
+        },
+        {
+          "id": "C",
+          "text": "Agricultural sustainability"
+        },
+        {
+          "id": "D",
+          "text": "Coastal trade"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Flat topography, abundant freshwater from perennial rivers, and highly fertile alluvial soil enable intense agricultural productivity supporting dense settlements."
+    },
+    {
+      "id": "30",
+      "question": "What does the continuing growth of the Himalayas indicate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Volcanic swelling"
+        },
+        {
+          "id": "B",
+          "text": "Ongoing tectonic collision"
+        },
+        {
+          "id": "C",
+          "text": "Glacial expansion"
+        },
+        {
+          "id": "D",
+          "text": "Soil deposition"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The Himalayas continue to rise a few millimeters annually due to the persistent northward convergence and underthrusting of the Indian tectonic plate beneath Asia."
+    }
+  ]
+}

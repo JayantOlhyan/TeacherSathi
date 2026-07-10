@@ -2,753 +2,753 @@
   "questions": [
     {
       "id": "1",
-      "question": "Why did people travel in ancient times?",
+      "question": "What type of government is elected by the people?",
       "options": [
         {
           "id": "A",
-          "text": "For pilgrimage, trade and learning"
+          "text": "Monarchy"
         },
         {
           "id": "B",
-          "text": "Only for sports"
+          "text": "Dictatorship"
         },
         {
           "id": "C",
-          "text": "Only for entertainment"
+          "text": "Democracy"
         },
         {
           "id": "D",
-          "text": "Only for wars"
+          "text": "Theocracy"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "C",
+      "explanation": "In a democracy (from Greek 'demos' = people, 'kratos' = rule), citizens hold the supreme power to elect their political leaders and representatives through free and fair voting."
     },
     {
       "id": "2",
-      "question": "Which route connected India with many other countries?",
+      "question": "In which government does a king or queen rule by birthright?",
       "options": [
         {
           "id": "A",
-          "text": "Land and sea trade routes"
+          "text": "Republic"
         },
         {
           "id": "B",
-          "text": "Metro routes"
+          "text": "Monarchy"
         },
         {
           "id": "C",
-          "text": "Railway routes"
+          "text": "Oligarchy"
         },
         {
           "id": "D",
-          "text": "Airways"
+          "text": "Democracy"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "A monarchy is a form of government where a single hereditary ruler (king, queen, or emperor) holds sovereign power passed down through royal bloodlines."
     },
     {
       "id": "3",
-      "question": "Ancient Indian merchants traded _____.",
+      "question": "What is a government ruled by one person with absolute power called?",
       "options": [
         {
           "id": "A",
-          "text": "Spices, textiles and precious stones"
+          "text": "Democracy"
         },
         {
           "id": "B",
-          "text": "Cars"
+          "text": "Theocracy"
         },
         {
           "id": "C",
-          "text": "Computers"
+          "text": "Dictatorship"
         },
         {
           "id": "D",
-          "text": "Aircraft"
+          "text": "Republic"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "C",
+      "explanation": "A dictatorship is an autocratic system where a single individual (dictator) or military junta holds unchecked, absolute political power without constitutional limits or free elections."
     },
     {
       "id": "4",
-      "question": "Which ocean helped India's maritime trade?",
+      "question": "What is the right of all adult citizens to vote called?",
       "options": [
         {
           "id": "A",
-          "text": "Indian Ocean"
+          "text": "Limited franchise"
         },
         {
           "id": "B",
-          "text": "Arctic Ocean"
+          "text": "Universal Adult Franchise"
         },
         {
           "id": "C",
-          "text": "Atlantic Ocean"
+          "text": "Oligarchy"
         },
         {
           "id": "D",
-          "text": "Southern Ocean"
+          "text": "Theocracy"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Universal Adult Franchise guarantees that every adult citizen, regardless of wealth, gender, caste, creed, or education, has an equal right to cast one vote in elections."
     },
     {
       "id": "5",
-      "question": "What did travellers carry besides goods?",
+      "question": "Which branch of government makes the laws?",
       "options": [
         {
           "id": "A",
-          "text": "Ideas, culture and knowledge"
+          "text": "Executive"
         },
         {
           "id": "B",
-          "text": "Only money"
+          "text": "Judiciary"
         },
         {
           "id": "C",
-          "text": "Only weapons"
+          "text": "Legislature"
         },
         {
           "id": "D",
-          "text": "Only food"
+          "text": "Media"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "C",
+      "explanation": "The Legislature (such as Parliament or State Legislative Assembly) is the representative deliberative body responsible for debating, drafting, and enacting national or state laws."
     },
     {
       "id": "6",
-      "question": "Which activity helped spread religions such as Buddhism?",
+      "question": "Which branch of government interprets the laws and settles disputes?",
       "options": [
         {
           "id": "A",
-          "text": "Pilgrimage and travel"
+          "text": "Legislature"
         },
         {
           "id": "B",
-          "text": "Air transport"
+          "text": "Executive"
         },
         {
           "id": "C",
-          "text": "Television"
+          "text": "Judiciary"
         },
         {
           "id": "D",
-          "text": "Internet"
+          "text": "Military"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "C",
+      "explanation": "The Judiciary (comprising the Supreme Court, High Courts, and district courts) interprets laws, protects citizens' fundamental rights, and settles disputes impartially."
     },
     {
       "id": "7",
-      "question": "Ancient Indian ports were important because they _____.",
+      "question": "Which branch of government implements the laws?",
       "options": [
         {
           "id": "A",
-          "text": "Connected India with foreign countries"
+          "text": "Judiciary"
         },
         {
           "id": "B",
-          "text": "Produced minerals"
+          "text": "Legislature"
         },
         {
           "id": "C",
-          "text": "Built mountains"
+          "text": "Executive"
         },
         {
           "id": "D",
-          "text": "Controlled the weather"
+          "text": "Police"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "C",
+      "explanation": "The Executive (comprising the President, Prime Minister, Council of Ministers, and civil service bureaucracy) is responsible for implementing, administering, and enforcing laws passed by the legislature."
     },
     {
       "id": "8",
-      "question": "Which occupation benefited greatly from trade?",
+      "question": "A government run by religious leaders based on religious laws is a:",
       "options": [
         {
           "id": "A",
-          "text": "Merchants"
+          "text": "Monarchy"
         },
         {
           "id": "B",
-          "text": "Astronauts"
+          "text": "Democracy"
         },
         {
           "id": "C",
-          "text": "Pilots"
+          "text": "Dictatorship"
         },
         {
           "id": "D",
-          "text": "Programmers"
+          "text": "Theocracy"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "D",
+      "explanation": "In a theocracy, religious clergy or priests hold supreme political authority, and state governance is strictly dictated by sacred religious doctrines and divine mandate."
     },
     {
       "id": "9",
-      "question": "Trade between countries promotes _____.",
+      "question": "A government ruled by a small, powerful group is called an:",
       "options": [
         {
           "id": "A",
-          "text": "Exchange of goods and ideas"
+          "text": "Oligarchy"
         },
         {
           "id": "B",
-          "text": "Isolation"
+          "text": "Republic"
         },
         {
           "id": "C",
-          "text": "Reduction of communication"
+          "text": "Democracy"
         },
         {
           "id": "D",
-          "text": "Elimination of culture"
+          "text": "Monarchy"
         }
       ],
       "difficulty": "Easy",
       "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "explanation": "An oligarchy ('rule by the few') occurs when political and economic control is concentrated in the hands of a small, elite minority distinguished by wealth, nobility, or military rank."
     },
     {
       "id": "10",
-      "question": "The chapter mainly explains India's connections with _____.",
+      "question": "Does India have a democratic government?",
       "options": [
         {
           "id": "A",
-          "text": "Other regions of the world"
+          "text": "Yes"
         },
         {
           "id": "B",
-          "text": "Antarctica only"
+          "text": "No"
         },
         {
           "id": "C",
-          "text": "The Moon"
+          "text": "It is a monarchy"
         },
         {
           "id": "D",
-          "text": "The Arctic region only"
+          "text": "It is an oligarchy"
         }
       ],
       "difficulty": "Easy",
       "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "explanation": "Yes, India is the world's largest sovereign democratic republic, operating under a parliamentary system where citizens elect representatives every five years."
     },
     {
       "id": "11",
-      "question": "Why were sea routes important for ancient India?",
+      "question": "What does \"separation of powers\" mean?",
       "options": [
         {
           "id": "A",
-          "text": "They made overseas trade faster and easier."
+          "text": "Dividing country"
         },
         {
           "id": "B",
-          "text": "They reduced communication."
+          "text": "Branches work independently"
         },
         {
           "id": "C",
-          "text": "They prevented trade."
+          "text": "Kings have all power"
         },
         {
           "id": "D",
-          "text": "They stopped cultural exchanges."
+          "text": "Voting is banned"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Separation of powers divides governance into three independent branches—Legislature, Executive, and Judiciary—ensuring a system of mutual checks and balances so no branch becomes absolute."
     },
     {
       "id": "12",
-      "question": "How did trade influence Indian culture?",
+      "question": "Why is Universal Adult Franchise important in a democracy?",
       "options": [
         {
           "id": "A",
-          "text": "It encouraged the exchange of ideas, customs and technologies."
+          "text": "Costs money"
         },
         {
           "id": "B",
-          "text": "It reduced cultural diversity."
+          "text": "Gives equal political power"
         },
         {
           "id": "C",
-          "text": "It isolated India from the world."
+          "text": "Makes voting hard"
         },
         {
           "id": "D",
-          "text": "It stopped religious interactions."
+          "text": "Allows rich to vote"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Universal Adult Franchise translates the constitutional principle of political equality into practice, ensuring the poorest and most marginalized citizens hold equal voting leverage as the wealthy."
     },
     {
       "id": "13",
-      "question": "Why were ports important in ancient India?",
+      "question": "What is the difference between direct and representative democracy?",
       "options": [
         {
           "id": "A",
-          "text": "They became centres of commerce and cultural interaction."
+          "text": "Direct: people decide; Rep: elect leaders"
         },
         {
           "id": "B",
-          "text": "They were used only for defence."
+          "text": "They are exactly same"
         },
         {
           "id": "C",
-          "text": "They had no economic role."
+          "text": "Direct has a king"
         },
         {
           "id": "D",
-          "text": "They existed only for fishing."
+          "text": "Rep has no voting"
         }
       ],
       "difficulty": "Medium",
       "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "explanation": "In direct democracy, all citizens gather to vote on laws personally (as in ancient Athens or Swiss towns), whereas in representative democracy, citizens elect officials to make decisions on their behalf."
     },
     {
       "id": "14",
-      "question": "Which factor helped Indian traders establish international trade?",
+      "question": "Why is direct democracy difficult in large countries like India?",
       "options": [
         {
           "id": "A",
-          "text": "Strategic location and maritime routes"
+          "text": "No one votes"
         },
         {
           "id": "B",
-          "text": "Isolation from neighbouring countries"
+          "text": "Impossible for a billion to gather"
         },
         {
           "id": "C",
-          "text": "Lack of transport"
+          "text": "King forbids it"
         },
         {
           "id": "D",
-          "text": "Absence of ports"
+          "text": "Costs too much paper"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "With a population exceeding 1.4 billion spread across vast geographical distances, it is practically impossible for all Indian citizens to assemble physically or vote directly on every daily law."
     },
     {
       "id": "15",
-      "question": "Why did pilgrims and traders often use the same routes?",
+      "question": "Why is an independent judiciary essential in a democracy?",
       "options": [
         {
           "id": "A",
-          "text": "The routes connected important religious and commercial centres."
+          "text": "Arrest president"
         },
         {
           "id": "B",
-          "text": "They travelled for the same purpose only."
+          "text": "Ensure laws applied fairly"
         },
         {
           "id": "C",
-          "text": "There were no roads elsewhere."
+          "text": "Make new laws"
         },
         {
           "id": "D",
-          "text": "They avoided towns and cities."
+          "text": "Run the army"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "An independent judiciary free from political or governmental pressure ensures laws are applied impartially, protects constitutional rights, and checks executive or legislative overreach."
     },
     {
       "id": "16",
-      "question": "Which of the following was a major export from ancient India?",
+      "question": "In a monarchy, where does the power usually come from?",
       "options": [
         {
           "id": "A",
-          "text": "Spices and cotton textiles"
+          "text": "Elections"
         },
         {
           "id": "B",
-          "text": "Petroleum"
+          "text": "Religious texts"
         },
         {
           "id": "C",
-          "text": "Automobiles"
+          "text": "Inheritance"
         },
         {
           "id": "D",
-          "text": "Computers"
+          "text": "The military"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "C",
+      "explanation": "In monarchies, political legitimacy and sovereignty are derived through hereditary inheritance within a royal dynasty rather than public mandate or electoral voting."
     },
     {
       "id": "17",
-      "question": "Why are travel accounts important historical sources?",
+      "question": "What is a core value of democracy?",
       "options": [
         {
           "id": "A",
-          "text": "They describe the society, economy and culture of the time."
+          "text": "Inequality"
         },
         {
           "id": "B",
-          "text": "They predict future events."
+          "text": "Freedom and Equality"
         },
         {
           "id": "C",
-          "text": "They explain weather forecasts."
+          "text": "Absolute power"
         },
         {
           "id": "D",
-          "text": "They replace archaeological evidence."
+          "text": "Fear"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Democracy is anchored in fundamental liberty, individual dignity, equal protection under the law, and freedom of expression for every citizen."
     },
     {
       "id": "18",
-      "question": "Which statement best explains cultural exchange?",
+      "question": "If a country's leader makes all decisions without a constitution, it is a:",
       "options": [
         {
           "id": "A",
-          "text": "People shared ideas, beliefs and customs through travel and trade."
+          "text": "Democracy"
         },
         {
           "id": "B",
-          "text": "Cultures remained completely isolated."
+          "text": "Dictatorship"
         },
         {
           "id": "C",
-          "text": "Trade reduced communication."
+          "text": "Republic"
         },
         {
           "id": "D",
-          "text": "Ideas never travelled across regions."
+          "text": "Legislature"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "When a ruler exercises unchecked personal command without any constitutional restraints, legislative oversight, or judicial review, the regime operates as an absolute dictatorship."
     },
     {
       "id": "19",
-      "question": "Which value is promoted through international interactions?",
+      "question": "How does a democratic government remain accountable to the people?",
       "options": [
         {
           "id": "A",
-          "text": "Mutual understanding and cooperation"
+          "text": "Using the army"
         },
         {
           "id": "B",
-          "text": "Isolation"
+          "text": "Regular elections"
         },
         {
           "id": "C",
-          "text": "Intolerance"
+          "text": "Hiding laws"
         },
         {
           "id": "D",
-          "text": "Conflict"
+          "text": "It is not accountable"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Through regular periodic elections, open parliamentary debates, independent media scrutiny, and public questioning, democratic leaders must continually justify their policies to voters."
     },
     {
       "id": "20",
-      "question": "What is the central idea of this chapter?",
+      "question": "Why do governments group their work into three main functions?",
       "options": [
         {
           "id": "A",
-          "text": "Pilgrimage and trade connected India with other parts of the world through cultural and economic exchanges."
+          "text": "Cause confusion"
         },
         {
           "id": "B",
-          "text": "Ancient India remained isolated from other countries."
+          "text": "Organized way with checks/balances"
         },
         {
           "id": "C",
-          "text": "Trade had no influence on culture."
+          "text": "Spend more money"
         },
         {
           "id": "D",
-          "text": "Pilgrimage affected only religion."
+          "text": "Give king a break"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Dividing state duties into law-making (legislative), law-enforcing (executive), and law-interpreting (judicial) creates systematic organization and prevents tyranny via checks and balances."
     },
     {
       "id": "21",
-      "question": "Why did trade contribute to the spread of ideas and religions?",
+      "question": "How does the separation of powers prevent the misuse of authority?",
       "options": [
         {
           "id": "A",
-          "text": "Traders and travellers carried beliefs, customs and knowledge along with goods."
+          "text": "All power to judges"
         },
         {
           "id": "B",
-          "text": "Trade discouraged communication."
+          "text": "No single branch has total control"
         },
         {
           "id": "C",
-          "text": "Religions spread only through wars."
+          "text": "Eliminating police"
         },
         {
           "id": "D",
-          "text": "Goods alone travelled between countries."
+          "text": "Stopping elections"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "By establishing that each branch monitors and limits the others (e.g., courts can overturn unconstitutional laws; parliament can question ministers), no single organ can monopolize state power."
     },
     {
       "id": "22",
-      "question": "If ancient maritime trade had declined, which would most likely have been affected?",
+      "question": "Why is freedom of expression a fundamental necessity for a democracy?",
       "options": [
         {
           "id": "A",
-          "text": "Economic growth and cultural exchange between India and other regions."
+          "text": "It's a luxury"
         },
         {
           "id": "B",
-          "text": "Formation of rivers."
+          "text": "Voice opinions to hold govt accountable"
         },
         {
           "id": "C",
-          "text": "Mountain building."
+          "text": "Causes chaos"
         },
         {
           "id": "D",
-          "text": "Earth's climate."
+          "text": "Helps the dictator"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Freedom of speech and press empowers citizens to criticize government failures, expose corruption, debate policies freely, and make informed choices during elections."
     },
     {
       "id": "23",
-      "question": "Which example best illustrates the relationship between pilgrimage and trade?",
+      "question": "Contrast a Theocracy with a Secular Democracy.",
       "options": [
         {
           "id": "A",
-          "text": "Pilgrimage centres attracted merchants who sold goods to travellers."
+          "text": "They are the same"
         },
         {
           "id": "B",
-          "text": "Pilgrimage reduced trade completely."
+          "text": "Theocracy: religious laws; Secular: separate"
         },
         {
           "id": "C",
-          "text": "Trade routes avoided religious centres."
+          "text": "Secular has king"
         },
         {
           "id": "D",
-          "text": "Pilgrims never interacted with traders."
+          "text": "Theocracy has elections"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "A theocracy merges religion and state under clergy enforcing religious laws, whereas a secular democracy strictly separates state governance from institutional religion, guaranteeing equal religious freedom."
     },
     {
       "id": "24",
-      "question": "Why were Indian ports considered gateways to the world?",
+      "question": "What happens to minority rights in an unchecked direct democracy?",
       "options": [
         {
           "id": "A",
-          "text": "They connected India with distant countries through sea trade."
+          "text": "Protected"
         },
         {
           "id": "B",
-          "text": "They prevented international contact."
+          "text": "Easily trampled by majority"
         },
         {
           "id": "C",
-          "text": "They were used only for military purposes."
+          "text": "They take over"
         },
         {
           "id": "D",
-          "text": "They had no economic importance."
+          "text": "Become kings"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Without constitutional protections and judicial checks, direct democracy can degenerate into 'tyranny of the majority,' where numeric majorities outvote and suppress vulnerable minority communities."
     },
     {
       "id": "25",
-      "question": "Which statement best explains the importance of travel accounts?",
+      "question": "Why did the framers of the Indian system choose representative democracy?",
       "options": [
         {
           "id": "A",
-          "text": "They provide valuable information about ancient societies and international contacts."
+          "text": "Lack of paper"
         },
         {
           "id": "B",
-          "text": "They are fictional stories only."
+          "text": "Vast scale required elected representation"
         },
         {
           "id": "C",
-          "text": "They have no historical value."
+          "text": "Disliked public"
         },
         {
           "id": "D",
-          "text": "They describe only battles."
+          "text": "British law"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Recognizing India's continental geographic scale, massive demographic size, and complex diversity, the Constituent Assembly opted for representative parliamentary democracy as the only viable model."
     },
     {
       "id": "26",
-      "question": "A merchant from India exchanges spices for silk in another country and learns new ideas during the journey. Which concept does this represent?",
+      "question": "How can an Oligarchy masquerade as a Democracy?",
       "options": [
         {
           "id": "A",
-          "text": "Economic and cultural exchange"
+          "text": "Having a king"
         },
         {
           "id": "B",
-          "text": "Political conflict"
+          "text": "Fake elections controlled by elites"
         },
         {
           "id": "C",
-          "text": "Climate change"
+          "text": "Banning voting"
         },
         {
           "id": "D",
-          "text": "Agricultural decline"
+          "text": "Writing a constitution"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "An oligarchy can stage superficial elections while elite cartels, wealthy oligarchs, or military insiders secretly control media, party nominations, and financial flows to retain real power."
     },
     {
       "id": "27",
-      "question": "Which lesson from this chapter is most relevant today?",
+      "question": "What is the relationship between equality and universal adult franchise?",
       "options": [
         {
           "id": "A",
-          "text": "Trade and cultural exchange strengthen understanding between different societies."
+          "text": "Unrelated"
         },
         {
           "id": "B",
-          "text": "Countries should avoid international cooperation."
+          "text": "Franchise is practical political equality"
         },
         {
           "id": "C",
-          "text": "Trade has no role in development."
+          "text": "Creates inequality"
         },
         {
           "id": "D",
-          "text": "Cultural exchanges weaken societies."
+          "text": "Bans voting"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Universal adult franchise operationalizes moral and democratic equality by ensuring that a billionaire's vote carries exactly the same numerical weight as a daily wage laborer's vote."
     },
     {
       "id": "28",
-      "question": "Why was India's geographical location advantageous for trade?",
+      "question": "Why might a dictatorship appear 'efficient' but be fundamentally flawed?",
       "options": [
         {
           "id": "A",
-          "text": "It connected important land and sea routes linking Asia with other regions."
+          "text": "No laws"
         },
         {
           "id": "B",
-          "text": "It was completely isolated from the oceans."
+          "text": "Quick decisions but lacks accountability"
         },
         {
           "id": "C",
-          "text": "It had no coastline."
+          "text": "Too many elections"
         },
         {
           "id": "D",
-          "text": "It prevented international trade."
+          "text": "Too democratic"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Dictators can issue rapid decrees without legislative debate, creating an illusion of efficiency; however, the absence of accountability, human rights, and corrective feedback ultimately leads to catastrophic governance errors."
     },
     {
       "id": "29",
-      "question": "Which action would have encouraged international trade in ancient India?",
+      "question": "How does a constitutional monarchy differ from an absolute monarchy?",
       "options": [
         {
           "id": "A",
-          "text": "Developing ports, protecting trade routes and supporting merchants."
+          "text": "No difference"
         },
         {
           "id": "B",
-          "text": "Closing ports permanently."
+          "text": "Monarch's power limited by constitution"
         },
         {
           "id": "C",
-          "text": "Discouraging overseas travel."
+          "text": "Monarch elected"
         },
         {
           "id": "D",
-          "text": "Banning markets."
+          "text": "Absolute has no king"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "In an absolute monarchy, the king's word is law; in a constitutional monarchy (like the UK or Japan), the monarch acts purely as a ceremonial figurehead while real power rests with an elected parliament."
     },
     {
       "id": "30",
-      "question": "Which statement best summarizes the main idea of this chapter?",
+      "question": "Why is the journey \"from the rulers to the ruled\" a major human achievement?",
       "options": [
         {
           "id": "A",
-          "text": "Pilgrimage, trade and travel connected India with the wider world, promoting economic prosperity, cultural exchange and the spread of knowledge."
+          "text": "More kings"
         },
         {
           "id": "B",
-          "text": "Ancient India remained isolated from other civilizations."
+          "text": "Historical shift of power to common people"
         },
         {
           "id": "C",
-          "text": "Trade affected only the economy, not culture."
+          "text": "Stopped trade"
         },
         {
           "id": "D",
-          "text": "Pilgrimage had no influence beyond religion."
+          "text": "Destroyed laws"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Transitioning from autocratic divine-right kingship to sovereign citizen democracy represents centuries of human struggle to assert individual dignity, self-determination, and popular sovereignty."
     }
   ]
 }

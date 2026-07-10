@@ -2,753 +2,753 @@
   "questions": [
     {
       "id": "1",
-      "question": "After the Vedic period, many new ____ emerged in India.",
+      "question": "What is the period following the Harappan decline known as?",
       "options": [
         {
           "id": "A",
-          "text": "Cities and States"
+          "text": "First Urbanisation"
         },
         {
           "id": "B",
-          "text": "Oceans"
+          "text": "Second Urbanisation"
         },
         {
           "id": "C",
-          "text": "Mountains"
+          "text": "Golden Age"
         },
         {
           "id": "D",
-          "text": "Deserts"
+          "text": "Dark Age"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The emergence of new cities, iron metallurgy, and structured states in the Ganga valley around 6th century BCE is known as the Second Urbanisation."
     },
     {
       "id": "2",
-      "question": "What were the large kingdoms of ancient India called?",
+      "question": "What does the Sanskrit word 'Janapada' literally mean?",
       "options": [
         {
           "id": "A",
-          "text": "Mahajanapadas"
+          "text": "Great city"
         },
         {
           "id": "B",
-          "text": "Sultanates"
+          "text": "Where people set foot"
         },
         {
           "id": "C",
-          "text": "Presidencies"
+          "text": "Royal palace"
         },
         {
           "id": "D",
-          "text": "Provinces"
+          "text": "Trading post"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "In Sanskrit, 'Jana' means people and 'Pada' means foot or foothold; a Janapada literally means the territory where a tribe or clan set foot and settled down."
     },
     {
       "id": "3",
-      "question": "How many Mahajanapadas are generally mentioned in ancient Indian texts?",
+      "question": "How many major Mahajanapadas emerged by the 8th/7th centuries BCE?",
       "options": [
         {
           "id": "A",
-          "text": "16"
-        },
-        {
-          "id": "B",
           "text": "10"
         },
         {
+          "id": "B",
+          "text": "12"
+        },
+        {
           "id": "C",
-          "text": "20"
+          "text": "16"
         },
         {
           "id": "D",
-          "text": "8"
+          "text": "20"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "C",
+      "explanation": "Ancient Buddhist and Jaina texts like the Anguttara Nikaya frequently record a list of 16 great kingdoms and republics known as the Shodasha Mahajanapadas."
     },
     {
       "id": "4",
-      "question": "Which Mahajanapada later became a powerful empire?",
+      "question": "Which Mahajanapada became the most powerful?",
       "options": [
         {
           "id": "A",
+          "text": "Kosala"
+        },
+        {
+          "id": "B",
+          "text": "Vatsa"
+        },
+        {
+          "id": "C",
           "text": "Magadha"
         },
         {
-          "id": "B",
-          "text": "Kuru"
-        },
-        {
-          "id": "C",
-          "text": "Gandhara"
-        },
-        {
           "id": "D",
-          "text": "Avanti"
+          "text": "Anga"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "C",
+      "explanation": "Magadha, located in present-day southern Bihar, expanded militarily and economically to become the dominant Mahajanapada and nucleus of India's first empire."
     },
     {
       "id": "5",
-      "question": "Which river valley helped the growth of many early cities?",
+      "question": "The discovery of which metal transformed early Indian society?",
       "options": [
         {
           "id": "A",
-          "text": "Ganga River Valley"
+          "text": "Copper"
         },
         {
           "id": "B",
-          "text": "Nile River Valley"
+          "text": "Bronze"
         },
         {
           "id": "C",
-          "text": "Thames River Valley"
-        },
-        {
-          "id": "D",
-          "text": "Amazon River Valley"
-        }
-      ],
-      "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
-    },
-    {
-      "id": "6",
-      "question": "Why did cities develop in ancient India?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Due to trade, agriculture and administration"
-        },
-        {
-          "id": "B",
-          "text": "Because of heavy snowfall"
-        },
-        {
-          "id": "C",
-          "text": "Because of deserts"
-        },
-        {
-          "id": "D",
-          "text": "Because of earthquakes"
-        }
-      ],
-      "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
-    },
-    {
-      "id": "7",
-      "question": "Which occupation became more important with the growth of cities?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Trade and crafts"
-        },
-        {
-          "id": "B",
-          "text": "Hunting only"
-        },
-        {
-          "id": "C",
-          "text": "Fishing only"
-        },
-        {
-          "id": "D",
-          "text": "Herding only"
-        }
-      ],
-      "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
-    },
-    {
-      "id": "8",
-      "question": "Ancient cities became centres of _____.",
-      "options": [
-        {
-          "id": "A",
-          "text": "Trade, education and administration"
-        },
-        {
-          "id": "B",
-          "text": "Space research"
-        },
-        {
-          "id": "C",
-          "text": "Aviation"
-        },
-        {
-          "id": "D",
-          "text": "Banking only"
-        }
-      ],
-      "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
-    },
-    {
-      "id": "9",
-      "question": "Which metal became widely used during this period?",
-      "options": [
-        {
-          "id": "A",
           "text": "Iron"
         },
         {
-          "id": "B",
-          "text": "Aluminium"
-        },
-        {
-          "id": "C",
-          "text": "Platinum"
-        },
-        {
           "id": "D",
-          "text": "Titanium"
+          "text": "Gold"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "C",
+      "explanation": "The widespread introduction of iron tools (axes, ploughshares) enabled the clearing of dense forests and intensive deep ploughing of the fertile Gangetic soil."
+    },
+    {
+      "id": "6",
+      "question": "What was the ruler of a Janapada usually called?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sultan"
+        },
+        {
+          "id": "B",
+          "text": "Raja"
+        },
+        {
+          "id": "C",
+          "text": "Emperor"
+        },
+        {
+          "id": "D",
+          "text": "President"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The head or monarch of an early Janapada was traditionally addressed as the Raja (king or tribal chieftain)."
+    },
+    {
+      "id": "7",
+      "question": "What ancient text was written by Kautilya?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ramayana"
+        },
+        {
+          "id": "B",
+          "text": "Arthashastra"
+        },
+        {
+          "id": "C",
+          "text": "Mahabharata"
+        },
+        {
+          "id": "D",
+          "text": "Vedas"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Kautilya (also known as Chanakya or Vishnugupta) authored the Arthashastra, a comprehensive treatise on statecraft, economics, taxation, and administration."
+    },
+    {
+      "id": "8",
+      "question": "Where did the Second Urbanisation primarily begin?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Deccan plateau"
+        },
+        {
+          "id": "B",
+          "text": "Thar Desert"
+        },
+        {
+          "id": "C",
+          "text": "Ganga plains"
+        },
+        {
+          "id": "D",
+          "text": "Coastal South"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The middle and lower Ganga river plains provided abundant freshwater and fertile alluvium, fostering the rapid growth of cities during the Second Urbanisation."
+    },
+    {
+      "id": "9",
+      "question": "Which was a common system of governance in early states?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Democracy"
+        },
+        {
+          "id": "B",
+          "text": "Monarchy"
+        },
+        {
+          "id": "C",
+          "text": "Dictatorship"
+        },
+        {
+          "id": "D",
+          "text": "Anarchy"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Monarchy (rajatantra), where a hereditary king held sovereign executive and military authority, was the most prevalent system among major kingdoms."
     },
     {
       "id": "10",
-      "question": "The growth of cities led to _____.",
+      "question": "In a monarchy, how is power usually passed down?",
       "options": [
         {
           "id": "A",
-          "text": "Better trade and organised administration"
+          "text": "Voting"
         },
         {
           "id": "B",
-          "text": "Less economic activity"
+          "text": "Hereditary succession"
         },
         {
           "id": "C",
-          "text": "No social changes"
+          "text": "Lottery"
         },
         {
           "id": "D",
-          "text": "End of agriculture"
+          "text": "Combat"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Monarchs typically rule by hereditary succession, where the crown passes within the royal family from father to eldest son (primogeniture)."
     },
     {
       "id": "11",
-      "question": "Why did Magadha become the most powerful Mahajanapada?",
+      "question": "What was the role of the 'sabha' and 'samiti' in early Vedic society?",
       "options": [
         {
           "id": "A",
-          "text": "It had fertile land, iron resources and efficient rulers."
+          "text": "Tax collection"
         },
         {
           "id": "B",
-          "text": "It had no rivers."
+          "text": "Tribal assemblies"
         },
         {
           "id": "C",
-          "text": "It was surrounded by deserts."
+          "text": "Farming guilds"
         },
         {
           "id": "D",
-          "text": "It had no trade routes."
+          "text": "Religious cults"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The Sabha and Samiti were popular tribal assemblies that advised the king, debated community matters, and exercised collective checks on royal authority."
     },
     {
       "id": "12",
-      "question": "Why did many early cities develop near rivers?",
+      "question": "How did the use of iron tools impact the Mahajanapadas?",
       "options": [
         {
           "id": "A",
-          "text": "Rivers provided water, fertile land and transport."
+          "text": "Ended wars"
         },
         {
           "id": "B",
-          "text": "Rivers reduced farming."
+          "text": "Improved agriculture"
         },
         {
           "id": "C",
-          "text": "Rivers prevented trade."
+          "text": "Made trade illegal"
         },
         {
           "id": "D",
-          "text": "Rivers caused permanent droughts."
+          "text": "Replaced gold"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Iron ploughshares could turn over heavy, fertile clay soil much more effectively than wooden tools, generating agricultural surplus that supported urban populations."
     },
     {
       "id": "13",
-      "question": "Which factor encouraged the growth of trade in ancient cities?",
+      "question": "Why did Janapadas merge into Mahajanapadas?",
       "options": [
         {
           "id": "A",
-          "text": "Better roads and trade routes"
+          "text": "Natural disasters"
         },
         {
           "id": "B",
-          "text": "Lack of agriculture"
+          "text": "Trade/political expansion"
         },
         {
           "id": "C",
-          "text": "Isolation from neighbouring regions"
+          "text": "Religious differences"
         },
         {
           "id": "D",
-          "text": "Absence of markets"
+          "text": "Royal decrees"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Through conquest, strategic matrimonial alliances, and economic integration, successful Janapadas annexed neighboring territories to form larger Mahajanapadas."
     },
     {
       "id": "14",
-      "question": "How did the use of iron contribute to the growth of states?",
+      "question": "According to Kautilya, why should a kingdom have good roads?",
       "options": [
         {
           "id": "A",
-          "text": "It improved farming tools and weapons."
+          "text": "For sports"
         },
         {
           "id": "B",
-          "text": "It reduced agricultural production."
+          "text": "Facilitate trade"
         },
         {
           "id": "C",
-          "text": "It stopped trade."
+          "text": "Isolate the kingdom"
         },
         {
           "id": "D",
-          "text": "It decreased settlements."
+          "text": "Prevent invasions"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "In the Arthashastra, Kautilya stressed that well-maintained roads ensure rapid movement of trade caravans, efficient tax collection, and troop deployment."
     },
     {
       "id": "15",
-      "question": "Which of the following best explains the rise of cities?",
+      "question": "How did urban life in the Second Urbanisation differ from Harappan?",
       "options": [
         {
           "id": "A",
-          "text": "Surplus agricultural production supported trade and urban growth."
+          "text": "No writing"
         },
         {
           "id": "B",
-          "text": "Cities developed without farming."
+          "text": "Emerged in Ganga plains"
         },
         {
           "id": "C",
-          "text": "Cities grew only because of wars."
+          "text": "They had no trade"
         },
         {
           "id": "D",
-          "text": "Agriculture had no role in urbanisation."
+          "text": "Used stone tools"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "While the Bronze Age Harappan civilization flourished in the Indus valley, the Iron Age Second Urbanisation centered far eastward in the fertile Ganga-Yamuna plains."
     },
     {
       "id": "16",
-      "question": "Why were markets important in ancient cities?",
+      "question": "Which resources helped Magadha become powerful?",
       "options": [
         {
           "id": "A",
-          "text": "They promoted trade and exchange of goods."
+          "text": "Coastal ports"
         },
         {
           "id": "B",
-          "text": "They were used only for festivals."
+          "text": "Iron ore & fertile plains"
         },
         {
           "id": "C",
-          "text": "They reduced production."
+          "text": "Desert isolation"
         },
         {
           "id": "D",
-          "text": "They had no economic role."
+          "text": "High mountain forts"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Magadha enjoyed natural proximity to rich iron ore deposits in Chota Nagpur for weapons/tools, dense elephant forests for cavalry, and extremely fertile agricultural plains."
     },
     {
       "id": "17",
-      "question": "Which feature distinguished a city from a village in ancient times?",
+      "question": "What does a 'productive economy' in Kautilya's Arthashastra mean?",
       "options": [
         {
           "id": "A",
-          "text": "Greater trade, administration and specialised occupations"
+          "text": "Only farming"
         },
         {
           "id": "B",
-          "text": "More forests only"
+          "text": "Wide variety of commodities"
         },
         {
           "id": "C",
-          "text": "Less population only"
+          "text": "Relying on imports"
         },
         {
           "id": "D",
-          "text": "Only farming activities"
+          "text": "Hoarding gold"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "A productive economy under Kautilyan statecraft required flourishing agriculture accompanied by diverse crafts, mining, forestry, and active internal/external commerce."
     },
     {
       "id": "18",
-      "question": "Why did rulers establish capitals in important cities?",
+      "question": "What social system began to crystallize during this period?",
       "options": [
         {
           "id": "A",
-          "text": "To manage administration and control their kingdoms effectively."
+          "text": "Feudalism"
         },
         {
           "id": "B",
-          "text": "To reduce trade."
+          "text": "Varna-Jati system"
         },
         {
           "id": "C",
-          "text": "To avoid communication."
+          "text": "Capitalism"
         },
         {
           "id": "D",
-          "text": "To stop economic growth."
+          "text": "Communism"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "As society diversified with new urban occupations and agricultural expansion, the four-fold Varna system increasingly crystallized into complex, hereditary occupational Jatis."
     },
     {
       "id": "19",
-      "question": "Which statement about the Mahajanapadas is correct?",
+      "question": "How did early states protect their capital cities?",
       "options": [
         {
           "id": "A",
-          "text": "They were important political units of ancient India."
+          "text": "Hiding them"
         },
         {
           "id": "B",
-          "text": "They were modern Indian states."
+          "text": "Fortification"
         },
         {
           "id": "C",
-          "text": "They existed during British rule."
+          "text": "Moving them yearly"
         },
         {
           "id": "D",
-          "text": "They were foreign kingdoms."
+          "text": "Disbanding armies"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Capital cities like Rajgir, Kaushambi, and Ujjain were fortified with massive defensive ramparts made of earth, stone, and baked bricks with guarded gates."
     },
     {
       "id": "20",
-      "question": "What is the central idea of this chapter?",
+      "question": "Excavations at Rajgir and Ujjain help historians understand what?",
       "options": [
         {
           "id": "A",
-          "text": "Agricultural growth, trade and strong administration led to the rise of cities and states."
+          "text": "Dinosaurs"
         },
         {
           "id": "B",
-          "text": "Ancient cities developed without trade."
+          "text": "Early urban planning"
         },
         {
           "id": "C",
-          "text": "Agriculture had no role in state formation."
+          "text": "Ocean currents"
         },
         {
           "id": "D",
-          "text": "States emerged only because of climate."
+          "text": "Weather patterns"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Archaeological digs at ancient capital sites reveal layout patterns, drainage, brick fortifications, punch-marked coins, and material culture of early urban centers."
     },
     {
       "id": "21",
-      "question": "Why did surplus agricultural production contribute to the growth of cities?",
+      "question": "Why did the Harappan urban order disappear before the Second Urbanisation?",
       "options": [
         {
           "id": "A",
-          "text": "It allowed people to engage in trade, crafts and administration instead of farming alone."
+          "text": "Lack of iron"
         },
         {
           "id": "B",
-          "text": "It reduced population growth."
+          "text": "Abandonment of cities"
         },
         {
           "id": "C",
-          "text": "It eliminated trade."
+          "text": "Alien invasion"
         },
         {
           "id": "D",
-          "text": "It discouraged settlements."
+          "text": "Flooding of the Ganga"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Between ~1900 BCE and 600 BCE, Harappan cities were gradually de-urbanized and abandoned due to hydrological shifts and environmental factors before new cities arose eastward."
     },
     {
       "id": "22",
-      "question": "If iron tools had not been developed, what would most likely have happened?",
+      "question": "How does Kautilya's advice on disaster readiness apply to modern states?",
       "options": [
         {
           "id": "A",
-          "text": "Agricultural expansion and the growth of powerful states would have been slower."
+          "text": "Irrelevant today"
         },
         {
           "id": "B",
-          "text": "Trade would have increased immediately."
+          "text": "Mirrors disaster management"
         },
         {
           "id": "C",
-          "text": "Cities would have grown faster."
+          "text": "Suggests abandoning cities"
         },
         {
           "id": "D",
-          "text": "Rivers would have changed direction."
+          "text": "Relying entirely on rain"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Kautilya mandated that states maintain grain reserves, embankments, and emergency relief systems during famines or floods, mirroring contemporary proactive disaster management."
     },
     {
       "id": "23",
-      "question": "Which example best shows the relationship between agriculture and urbanisation?",
+      "question": "Why was early kingship considered \"participatory\"?",
       "options": [
         {
           "id": "A",
-          "text": "Increased food production supported larger populations and city development."
+          "text": "Kings voted"
         },
         {
           "id": "B",
-          "text": "Cities developed without food production."
+          "text": "Leaders selected by merit"
         },
         {
           "id": "C",
-          "text": "Agriculture declined as cities expanded."
+          "text": "Kings randomly chosen"
         },
         {
           "id": "D",
-          "text": "Trade replaced farming completely."
+          "text": "No one wanted to rule"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "In early tribal stages and republican sanghas, governance involved collective deliberations and merit-based leadership selection before rigid hereditary absolutism took over."
     },
     {
       "id": "24",
-      "question": "Why did rulers encourage trade in ancient cities?",
+      "question": "What economic shift allowed more people to focus on arts and crafts?",
       "options": [
         {
           "id": "A",
-          "text": "Trade increased wealth and strengthened the kingdom."
+          "text": "Banning agriculture"
         },
         {
           "id": "B",
-          "text": "Trade reduced tax collection."
+          "text": "Agricultural surplus"
         },
         {
           "id": "C",
-          "text": "Trade weakened administration."
+          "text": "Import of food"
         },
         {
           "id": "D",
-          "text": "Trade discouraged economic growth."
+          "text": "Discovery of coins"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "When farmers produced more food grains than their immediate families needed (surplus), society could feed full-time specialized artisans, potters, weavers, and merchants."
     },
     {
       "id": "25",
-      "question": "Which statement best explains the success of Magadha?",
+      "question": "How did geographical determinism aid Magadha?",
       "options": [
         {
           "id": "A",
-          "text": "It combined natural resources, fertile land, river transport and capable rulers."
+          "text": "It had no rivers"
         },
         {
           "id": "B",
-          "text": "It had no agricultural land."
+          "text": "Access to iron and timber"
         },
         {
           "id": "C",
-          "text": "It depended only on foreign trade."
+          "text": "It was on an island"
         },
         {
           "id": "D",
-          "text": "It was isolated from neighbouring kingdoms."
+          "text": "Snowy mountains"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Geographical advantages—such as natural rock defenses around Rajgir, riverine highways on the Ganga, and nearby iron/timber resources—pre-determined Magadha's strategic supremacy."
     },
     {
       "id": "26",
-      "question": "A city develops because farmers produce surplus food, artisans make goods and merchants trade them. Which concept does this illustrate?",
+      "question": "In early republics (Ganas/Sanghas), how were decisions made?",
       "options": [
         {
           "id": "A",
-          "text": "Economic interdependence"
+          "text": "By one king"
         },
         {
           "id": "B",
-          "text": "Political conflict"
+          "text": "Councils and assemblies"
         },
         {
           "id": "C",
-          "text": "Religious reform"
+          "text": "By the military"
         },
         {
           "id": "D",
-          "text": "Climate change"
+          "text": "By religious heads"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "In non-monarchical republics like the Vajji confederacy (Shakyas, Licchavis), ruling heads gathered in representative assemblies to debate and vote on state policies."
     },
     {
       "id": "27",
-      "question": "Why were early cities important centres of culture and education?",
+      "question": "What does the term \"Second Urbanisation\" imply?",
       "options": [
         {
           "id": "A",
-          "text": "They attracted scholars, traders, artisans and administrators."
+          "text": "Urbanization never stopped"
         },
         {
           "id": "B",
-          "text": "They had no population."
+          "text": "Urban life vanished for long"
         },
         {
           "id": "C",
-          "text": "Only soldiers lived there."
+          "text": "Rebuilt on Harappan ruins"
         },
         {
           "id": "D",
-          "text": "Farming was the only activity."
+          "text": "Harappans moved to Ganga"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "It signifies that true city life, civic architecture, and monetary trade had largely vanished from the subcontinent for over a millennium following the decline of Harappa (the First Urbanisation)."
     },
     {
       "id": "28",
-      "question": "Which lesson from this chapter is most relevant today?",
+      "question": "Why did Kautilya advise kings not to depend only on rain for water?",
       "options": [
         {
           "id": "A",
-          "text": "Strong economies grow when agriculture, trade and administration support one another."
+          "text": "Rain is toxic"
         },
         {
           "id": "B",
-          "text": "Cities develop without planning."
+          "text": "Ensure agricultural resilience"
         },
         {
           "id": "C",
-          "text": "Trade has little importance in development."
+          "text": "Rain is unpredictable"
         },
         {
           "id": "D",
-          "text": "Agriculture is not connected to urban growth."
+          "text": "Rivers are cleaner"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Kautilya advocated investing royal funds into constructing artificial reservoirs, wells, and irrigation canals (setubandha) so agriculture remained resilient against monsoon failure."
     },
     {
       "id": "29",
-      "question": "Which action by an ancient ruler would most likely strengthen a kingdom?",
+      "question": "How did the Varna-Jati system impact the division of labor?",
       "options": [
         {
           "id": "A",
-          "text": "Building roads, encouraging trade and improving irrigation."
+          "text": "Everyone did every job"
         },
         {
           "id": "B",
-          "text": "Closing markets permanently."
+          "text": "Structured specialized groups"
         },
         {
           "id": "C",
-          "text": "Discouraging agriculture."
+          "text": "It banned trade"
         },
         {
           "id": "D",
-          "text": "Preventing communication between cities."
+          "text": "It promoted equality"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The Varna-Jati framework compartmentalized society into specialized occupational guilds and hereditary groups, creating structured economic interdependencies."
     },
     {
       "id": "30",
-      "question": "Which statement best summarizes the main idea of this chapter?",
+      "question": "What is the primary difference between a Janapada and a Mahajanapada?",
       "options": [
         {
           "id": "A",
-          "text": "The growth of agriculture, iron technology, trade and efficient administration led to the rise of cities and powerful states in ancient India."
+          "text": "Janapada is larger"
         },
         {
           "id": "B",
-          "text": "Ancient cities developed only because of wars."
+          "text": "Mahajanapada is larger"
         },
         {
           "id": "C",
-          "text": "Trade had no role in state formation."
+          "text": "Janapada has no king"
         },
         {
           "id": "D",
-          "text": "Agriculture was unrelated to urban development."
+          "text": "They are identical"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "A Mahajanapada ('Great Janapada') represented a larger, more complex territorial kingdom or confederacy formed by expanding and absorbing smaller Janapadas."
     }
   ]
 }

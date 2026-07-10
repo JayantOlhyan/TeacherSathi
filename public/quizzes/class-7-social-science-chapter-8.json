@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "What is a journey to a sacred place called?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Commute"
+        },
+        {
+          "id": "B",
+          "text": "Vacation"
+        },
+        {
+          "id": "C",
+          "text": "Pilgrimage (Tirthayatra)"
+        },
+        {
+          "id": "D",
+          "text": "Migration"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "A tirthayatra (pilgrimage) is a spiritual journey undertaken by devotees to holy rivers, temples, mountains, or shrines to seek divine grace or inner purification."
+    },
+    {
+      "id": "2",
+      "question": "What is the literal meaning of the word 'Tirtha'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mountain"
+        },
+        {
+          "id": "B",
+          "text": "Place to cross a river"
+        },
+        {
+          "id": "C",
+          "text": "Forest"
+        },
+        {
+          "id": "D",
+          "text": "Temple"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "In Sanskrit, 'tirtha' literally means a ford or crossing place in a river, metaphorically signifying a sacred spiritual threshold where humans can cross over from mundane life to the divine."
+    },
+    {
+      "id": "3",
+      "question": "How many Jyotirlingas dedicated to Shiva are spread across the subcontinent?",
+      "options": [
+        {
+          "id": "A",
+          "text": "4"
+        },
+        {
+          "id": "B",
+          "text": "7"
+        },
+        {
+          "id": "C",
+          "text": "12"
+        },
+        {
+          "id": "D",
+          "text": "51"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Across the Indian subcontinent, there are 12 revered Jyotirlingas (radiant signs of Lord Shiva), ranging from Kedarnath in the snowy north to Rameshwaram in the deep south."
+    },
+    {
+      "id": "4",
+      "question": "How many Shakti Pithas are linked to the story of Goddess Sati?",
+      "options": [
+        {
+          "id": "A",
+          "text": "12"
+        },
+        {
+          "id": "B",
+          "text": "24"
+        },
+        {
+          "id": "C",
+          "text": "51"
+        },
+        {
+          "id": "D",
+          "text": "108"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "According to Puranic mythology, 51 sacred Shakti Pithas emerged across the subcontinent where body parts of Goddess Sati fell after her self-immolation."
+    },
+    {
+      "id": "5",
+      "question": "Which river is considered highly sacred and worshipped as a Devi?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Thames"
+        },
+        {
+          "id": "B",
+          "text": "Amazon"
+        },
+        {
+          "id": "C",
+          "text": "Ganga"
+        },
+        {
+          "id": "D",
+          "text": "Nile"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The River Ganga (Ganges) is revered throughout India not merely as a watercourse but as a living maternal goddess (Maa Ganga) possessing divine purifying powers."
+    },
+    {
+      "id": "6",
+      "question": "Where is the Mahabodhi Stupa, where Buddha attained enlightenment, located?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sanchi"
+        },
+        {
+          "id": "B",
+          "text": "Bodh Gaya"
+        },
+        {
+          "id": "C",
+          "text": "Lumbini"
+        },
+        {
+          "id": "D",
+          "text": "Sarnath"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The Mahabodhi Temple and Stupa are situated in Bodh Gaya, Bihar, marking the exact site beneath the Bodhi tree where Siddhartha Gautama attained supreme enlightenment."
+    },
+    {
+      "id": "7",
+      "question": "What is the holy book of the Sikhs?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Torah"
+        },
+        {
+          "id": "B",
+          "text": "Quran"
+        },
+        {
+          "id": "C",
+          "text": "Bible"
+        },
+        {
+          "id": "D",
+          "text": "Guru Granth Sahib"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "D",
+      "explanation": "The Guru Granth Sahib is the central holy scripture and eternal, living Guru of Sikhism, containing hymns by Sikh Gurus and saints of diverse faiths."
+    },
+    {
+      "id": "8",
+      "question": "Where is the Kumbh Mela held every six years at the Triveni Sangam?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Varanasi"
+        },
+        {
+          "id": "B",
+          "text": "Haridwar"
+        },
+        {
+          "id": "C",
+          "text": "Prayagraj"
+        },
+        {
+          "id": "D",
+          "text": "Ujjain"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Prayagraj hosts the grand Kumbh Mela at the Triveni Sangam—the sacred confluence of the three holy rivers Ganga, Yamuna, and the mythical Saraswati."
+    },
+    {
+      "id": "9",
+      "question": "What natural feature is often seen as a symbolic gateway to heaven?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Caves"
+        },
+        {
+          "id": "B",
+          "text": "Valleys"
+        },
+        {
+          "id": "C",
+          "text": "Deserts"
+        },
+        {
+          "id": "D",
+          "text": "Mountains"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "D",
+      "explanation": "In Indian spiritual traditions, towering, snow-clad mountains like Kailash or Badrinath are revered as sacred abodes of gods and symbolic stairways to heavenly realms."
+    },
+    {
+      "id": "10",
+      "question": "Which tribe considers the Niyam Dongar hill as their supreme deity?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bhil"
+        },
+        {
+          "id": "B",
+          "text": "Santhal"
+        },
+        {
+          "id": "C",
+          "text": "Dongria Khond"
+        },
+        {
+          "id": "D",
+          "text": "Gond"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The indigenous Dongria Khond community of Odisha worships the Niyam Dongar hill range as Niyam Raja, their supreme deity and provider of all sustenance."
+    },
+    {
+      "id": "11",
+      "question": "What does \"sacred geography\" mean in the context of India?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Maps drawn by priests"
+        },
+        {
+          "id": "B",
+          "text": "Land mapped by holy sites"
+        },
+        {
+          "id": "C",
+          "text": "Country with one religion"
+        },
+        {
+          "id": "D",
+          "text": "A desert"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Sacred geography refers to viewing the physical landscape of India—its rivers, mountains, forests, and coasts—as a continuous network of interconnected divine shrines and spiritual destinations."
+    },
+    {
+      "id": "12",
+      "question": "How did pilgrimage routes aid in the cultural integration of India?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They caused wars"
+        },
+        {
+          "id": "B",
+          "text": "Shared languages and customs"
+        },
+        {
+          "id": "C",
+          "text": "Only for the rich"
+        },
+        {
+          "id": "D",
+          "text": "Kept people isolated"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "For centuries, pilgrims traveling across distant regions shared songs, customs, foods, languages, and philosophies, binding disparate cultural communities into a cohesive national identity."
+    },
+    {
+      "id": "13",
+      "question": "What does the story of the 51 Shakti Pithas symbolize?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A history of war"
+        },
+        {
+          "id": "B",
+          "text": "Subcontinent is the divine mother"
+        },
+        {
+          "id": "C",
+          "text": "A map of rivers"
+        },
+        {
+          "id": "D",
+          "text": "Invention of weapons"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "By mapping Sati's body across shrines from Kamakhya in Assam to Hinglaj in Balochistan, the myth spiritually consecrates the entire subcontinent as the physical body of the Divine Mother."
+    },
+    {
+      "id": "14",
+      "question": "Why is the concept of \"Sacred Ecology\" important today?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Harms nature"
+        },
+        {
+          "id": "B",
+          "text": "Promotes environmental protection"
+        },
+        {
+          "id": "C",
+          "text": "Encourages logging"
+        },
+        {
+          "id": "D",
+          "text": "Causes pollution"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Sacred ecology embeds ecological conservation into religious reverence; viewing rivers as mothers and groves as deity homes encourages communities to protect nature sustainably without external enforcement."
+    },
+    {
+      "id": "15",
+      "question": "How did trade connect with pilgrimage in ancient times?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Traders avoided pilgrims"
+        },
+        {
+          "id": "B",
+          "text": "Traders exchanged goods with pilgrims"
+        },
+        {
+          "id": "C",
+          "text": "Pilgrims banned trade"
+        },
+        {
+          "id": "D",
+          "text": "Traders stole"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Major pilgrimage centers naturally doubled as bustling commercial hubs; trade caravans traveled safely along well-trodden pilgrimage routes, exchanging commodities with travelers and temple bazaars."
+    },
+    {
+      "id": "16",
+      "question": "What is a 'Takht' in Sikhism?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A sword"
+        },
+        {
+          "id": "B",
+          "text": "Center of spiritual authority"
+        },
+        {
+          "id": "C",
+          "text": "A holy river"
+        },
+        {
+          "id": "D",
+          "text": "A type of food"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "A Takht (literally 'throne') represents a supreme temporal and spiritual seat of Sikh authority, with five holy Takhts spread across India including Akal Takht and Takht Patna Sahib."
+    },
+    {
+      "id": "17",
+      "question": "Why did people for 3,000 years crisscross India without modern transport?",
+      "options": [
+        {
+          "id": "A",
+          "text": "For trade and spiritual tīrthayātrās"
+        },
+        {
+          "id": "B",
+          "text": "Because they were lost"
+        },
+        {
+          "id": "C",
+          "text": "To fight wars"
+        },
+        {
+          "id": "D",
+          "text": "To escape floods"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "Deep spiritual faith and the cultural ethos of tirthayatra motivated millions to walk thousands of miles across challenging terrains to visit sacred shrines and trade markets."
+    },
+    {
+      "id": "18",
+      "question": "In Jainism, what makes a place sacred?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gold is found there"
+        },
+        {
+          "id": "B",
+          "text": "Tirthankaras meditated there"
+        },
+        {
+          "id": "C",
+          "text": "A king was born there"
+        },
+        {
+          "id": "D",
+          "text": "It has a big city"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "In Jain tradition, holy sites (such as Shikharji or Girnar) derive their sanctity from being spots where Tirthankaras and enlightened ascetics meditated, preached, or attained nirvana (moksha)."
+    },
+    {
+      "id": "19",
+      "question": "What happens to the environment if sacred ecology is ignored?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Overexploitation threatens rivers"
+        },
+        {
+          "id": "B",
+          "text": "Nature heals itself"
+        },
+        {
+          "id": "C",
+          "text": "Sacred sites grow"
+        },
+        {
+          "id": "D",
+          "text": "Nothing changes"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "When nature is stripped of its spiritual reverence and treated merely as a commercial commodity, unchecked overexploitation leads to severe river pollution, deforestation, and ecological collapse."
+    },
+    {
+      "id": "20",
+      "question": "How is sacredness connected to geography?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It isn't"
+        },
+        {
+          "id": "B",
+          "text": "Natural features are revered"
+        },
+        {
+          "id": "C",
+          "text": "Only buildings are sacred"
+        },
+        {
+          "id": "D",
+          "text": "Geography is science"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Sacredness is intrinsically woven into physical geography; mountains, river confluences (sangams), caves, and coastlines are revered as self-manifested (swayambhu) physical embodiments of the divine."
+    },
+    {
+      "id": "21",
+      "question": "How does David Suzuki's quote reflect Indian sacred ecology?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Promotes dam building"
+        },
+        {
+          "id": "B",
+          "text": "Shift from commodity to divine respect"
+        },
+        {
+          "id": "C",
+          "text": "Denies science"
+        },
+        {
+          "id": "D",
+          "text": "Encourages waste"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Renowned ecologist David Suzuki's call to treat Earth not as a dead resource base but as our living mother mirrors India's ancient sacred ecology regarding nature as divine."
+    },
+    {
+      "id": "22",
+      "question": "What socio-economic role did temples play in early medieval India?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Just for prayer"
+        },
+        {
+          "id": "B",
+          "text": "Major economic hubs"
+        },
+        {
+          "id": "C",
+          "text": "Stopped trade"
+        },
+        {
+          "id": "D",
+          "text": "Hoarded all wealth"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Major temples functioned as dynamic socio-economic engines: they owned agricultural lands, employed artisans and musicians, ran schools, funded irrigation works, and acted as local banks."
+    },
+    {
+      "id": "23",
+      "question": "How did the Char Dham yatra geographically unify the Indian subcontinent?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Built walls"
+        },
+        {
+          "id": "B",
+          "text": "Connecting the four corners"
+        },
+        {
+          "id": "C",
+          "text": "Separated states"
+        },
+        {
+          "id": "D",
+          "text": "Forced everyone central"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Established by Adi Shankaracharya, the Char Dham circuit (Badrinath in North, Rameshwaram in South, Puri in East, Dwarka in West) geographically bound the four corners of India into one sacred consciousness."
+    },
+    {
+      "id": "24",
+      "question": "What does the existence of sacred groves tell us about folk traditions?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hate trees"
+        },
+        {
+          "id": "B",
+          "text": "Understood sustainable conservation"
+        },
+        {
+          "id": "C",
+          "text": "Needed timber"
+        },
+        {
+          "id": "D",
+          "text": "Feared forests"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Sacred groves (like Orans in Rajasthan or Devara Kadu in Karnataka) prove indigenous folk traditions practiced community-led biodiversity conservation by strictly prohibiting cutting trees in consecrated forest patches."
+    },
+    {
+      "id": "25",
+      "question": "How did the sharing of sacred spaces by multiple religions impact society?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Caused civil war"
+        },
+        {
+          "id": "B",
+          "text": "Fostered pluralism & coexistence"
+        },
+        {
+          "id": "C",
+          "text": "Erased differences"
+        },
+        {
+          "id": "D",
+          "text": "Resulted in atheism"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Shared veneration of Sufi shrines (dargahs), holy rivers, and monastic centers across Hindu, Muslim, Sikh, Jain, and Buddhist communities nurtured a unique composite culture (syncretism and pluralism)."
+    },
+    {
+      "id": "26",
+      "question": "Why is the Kumbh Mela considered an 'intangible heritage' by UNESCO?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Physical monument"
+        },
+        {
+          "id": "B",
+          "text": "Largest peaceful congregation"
+        },
+        {
+          "id": "C",
+          "text": "Makes lots of money"
+        },
+        {
+          "id": "D",
+          "text": "A new invention"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "UNESCO inscribed the Kumbh Mela on its Representative List of Intangible Cultural Heritage because it represents the world's largest peaceful congregation of pilgrims united by living oral rituals and astronomical faith."
+    },
+    {
+      "id": "27",
+      "question": "What happens symbolically when a pilgrim crosses a 'Tirtha'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They get wet"
+        },
+        {
+          "id": "B",
+          "text": "Transition to higher spiritual state"
+        },
+        {
+          "id": "C",
+          "text": "Pay a toll"
+        },
+        {
+          "id": "D",
+          "text": "Change their name"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Stepping across a Tirtha symbolizes washing away mental impurities and egoistic attachments, spiritually transitioning from the transient material world into an elevated state of inner awareness."
+    },
+    {
+      "id": "28",
+      "question": "How did historical figures like Guru Nanak view the sacred geography of India?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ignored it"
+        },
+        {
+          "id": "B",
+          "text": "Travelled to diverse pilgrimage sites"
+        },
+        {
+          "id": "C",
+          "text": "Destroyed them"
+        },
+        {
+          "id": "D",
+          "text": "Built his own"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "During his epic spiritual journeys (Udasis), Guru Nanak traveled extensively across Hindu, Muslim, and Buddhist pilgrimage sites across India and beyond, engaging in dialogue and preaching universal brotherhood."
+    },
+    {
+      "id": "29",
+      "question": "Why do indigenous tribes like Dongria Khond prohibit cutting trees?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wood is cheap"
+        },
+        {
+          "id": "B",
+          "text": "Deep respect for the deity"
+        },
+        {
+          "id": "C",
+          "text": "Don't have axes"
+        },
+        {
+          "id": "D",
+          "text": "Government forces them"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "For the Dongria Khond, forests and hills are not economic timber but the physical domain of Niyam Raja; cutting sacred trees would desecrate their supreme deity and harm community survival."
+    },
+    {
+      "id": "30",
+      "question": "What is the broader implication of viewing the planet as 'Bhudevi'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Earth is to mine"
+        },
+        {
+          "id": "B",
+          "text": "Global ethical responsibility"
+        },
+        {
+          "id": "C",
+          "text": "Can't build houses"
+        },
+        {
+          "id": "D",
+          "text": "Only applies to India"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Venerating Earth as Bhudevi (Mother Earth) imposes an universal ethical obligation on humanity to practice stewardship, sustainability, and respect toward the planet's fragile ecosystems."
+    }
+  ]
+}

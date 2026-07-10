@@ -2,253 +2,253 @@
   "questions": [
     {
       "id": "1",
-      "question": "What does the term 'reorganisation' mean?",
+      "question": "What period followed the decline of the Maurya Empire?",
       "options": [
         {
           "id": "A",
-          "text": "Rearranging and rebuilding systems"
+          "text": "Golden Age"
         },
         {
           "id": "B",
-          "text": "Destroying cities"
+          "text": "Age of Reorganisation"
         },
         {
           "id": "C",
-          "text": "Starting wars"
+          "text": "Dark Age"
         },
         {
           "id": "D",
-          "text": "Building mountains"
+          "text": "Iron Age"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Following the Mauryan breakup (~2nd century BCE to 3rd century CE), India entered the Age of Reorganisation characterized by dynamic regional kingdoms and vibrant trade connections."
     },
     {
       "id": "2",
-      "question": "After the decline of the Mauryan Empire, India saw the rise of many _____.",
+      "question": "Who assassinated the last Maurya emperor to start the Shunga dynasty?",
       "options": [
         {
           "id": "A",
-          "text": "Regional kingdoms"
+          "text": "Ashoka"
         },
         {
           "id": "B",
-          "text": "Foreign continents"
+          "text": "Pushyamitra Shunga"
         },
         {
           "id": "C",
-          "text": "Oceans"
+          "text": "Gautamiputra"
         },
         {
           "id": "D",
-          "text": "Deserts"
+          "text": "Alexander"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Pushyamitra Shunga, the Mauryan commander-in-chief, assassinated the last Mauryan ruler Brihadratha around 185 BCE and established the Shunga dynasty."
     },
     {
       "id": "3",
-      "question": "Which dynasty ruled much of the Deccan region?",
+      "question": "Which dynasty ruled large parts of the Deccan from the 2nd century BCE?",
       "options": [
         {
           "id": "A",
-          "text": "Satavahana Dynasty"
+          "text": "Shungas"
         },
         {
           "id": "B",
-          "text": "Maurya Dynasty"
+          "text": "Satavahanas"
         },
         {
           "id": "C",
-          "text": "Gupta Dynasty"
+          "text": "Guptas"
         },
         {
           "id": "D",
-          "text": "Mughal Dynasty"
+          "text": "Cholas"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The Satavahana dynasty (also known as the Andhras) established a vast, long-lasting kingdom across the Deccan plateau and central India."
     },
     {
       "id": "4",
-      "question": "Which route helped in the exchange of goods and ideas during this period?",
+      "question": "Which ancient text is a rich source of early South Indian history?",
       "options": [
         {
           "id": "A",
-          "text": "Trade routes"
+          "text": "Arthashastra"
         },
         {
           "id": "B",
-          "text": "Railway routes"
+          "text": "Vedas"
         },
         {
           "id": "C",
-          "text": "Airways"
+          "text": "Sangam literature"
         },
         {
           "id": "D",
-          "text": "Metro routes"
+          "text": "Ramayana"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "C",
+      "explanation": "Sangam literature—composed by assemblies of Tamil poets in Madurai—provides vivid historical, social, and economic records of early South India."
     },
     {
       "id": "5",
-      "question": "Buddhism and Jainism spread mainly through _____.",
+      "question": "Which three kingdoms dominated the deep south during this period?",
       "options": [
         {
           "id": "A",
-          "text": "Monks and traders"
+          "text": "Shunga, Kanva, Nanda"
         },
         {
           "id": "B",
-          "text": "Soldiers only"
+          "text": "Chera, Chola, Pandya"
         },
         {
           "id": "C",
-          "text": "Farmers only"
+          "text": "Pallava, Chalukya"
         },
         {
           "id": "D",
-          "text": "Hunters only"
+          "text": "Maurya, Gupta, Harsha"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The Muvendar (Three Crowned Kings)—the Cheras, Cholas, and Pandyas—dominated the political and commercial landscape of ancient Tamilakam."
     },
     {
       "id": "6",
-      "question": "Which activity increased during this period?",
+      "question": "What ritual did kings use involving a free-wandering horse?",
       "options": [
         {
           "id": "A",
-          "text": "Trade"
+          "text": "Rajasuya"
         },
         {
           "id": "B",
-          "text": "Space exploration"
+          "text": "Ashvamedha"
         },
         {
           "id": "C",
-          "text": "Air travel"
+          "text": "Kumbh Mela"
         },
         {
           "id": "D",
-          "text": "Internet communication"
+          "text": "Tirthayatra"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The Ashvamedha (Horse Sacrifice) was a royal Vedic ritual where a consecrated horse wandered freely for a year; any territory it crossed uncontested was claimed by the king."
     },
     {
       "id": "7",
-      "question": "Ancient India had trade relations with _____.",
+      "question": "What is the system called where land is granted in exchange for service?",
       "options": [
         {
           "id": "A",
-          "text": "Many foreign regions"
+          "text": "Capitalism"
         },
         {
           "id": "B",
-          "text": "Antarctica only"
+          "text": "Socialism"
         },
         {
           "id": "C",
-          "text": "Australia only"
+          "text": "Feudalism"
         },
         {
           "id": "D",
-          "text": "South America only"
+          "text": "Democracy"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "C",
+      "explanation": "Feudalism involves decentralizing power by granting tracts of revenue-yielding land to officials, priests, or military commanders instead of direct cash salaries."
     },
     {
       "id": "8",
-      "question": "Which helped rulers manage their kingdoms effectively?",
+      "question": "Which ruler proudly included his mother's name (Gautami) in his title?",
       "options": [
         {
           "id": "A",
-          "text": "Better administration"
+          "text": "Pushyamitra"
         },
         {
           "id": "B",
-          "text": "No communication"
+          "text": "Chandragupta"
         },
         {
           "id": "C",
-          "text": "Closing markets"
+          "text": "Gautamiputra Satakarni"
         },
         {
           "id": "D",
-          "text": "Stopping agriculture"
+          "text": "Ashoka"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "C",
+      "explanation": "Gautamiputra Satakarni, the greatest Satavahana monarch, prefixed his mother Gautami Balashri's name to his own to honor her dignity and lineage."
     },
     {
       "id": "9",
-      "question": "This period is important because it saw the growth of _____.",
+      "question": "What famous Buddhist sites were built by the Satavahanas?",
       "options": [
         {
           "id": "A",
-          "text": "Regional powers and cultural exchange"
+          "text": "Taj Mahal"
         },
         {
           "id": "B",
-          "text": "Railways"
+          "text": "Karla and Pitalkhora caves"
         },
         {
           "id": "C",
-          "text": "Modern industries"
+          "text": "Sanchi Stupa"
         },
         {
           "id": "D",
-          "text": "Air transport"
+          "text": "Konark Temple"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The Satavahanas patronized magnificent rock-cut Buddhist chaityas (prayer halls) and viharas (monasteries) in the Western Ghats, including Karla, Bhaja, and Pitalkhora."
     },
     {
       "id": "10",
-      "question": "The chapter mainly explains the changes that took place after the _____.",
+      "question": "Which region became vulnerable to foreign invasions after the Mauryas fell?",
       "options": [
         {
           "id": "A",
-          "text": "Mauryan Empire"
+          "text": "Deep South"
         },
         {
           "id": "B",
-          "text": "Mughal Empire"
+          "text": "East Coast"
         },
         {
           "id": "C",
-          "text": "British Empire"
+          "text": "Northwest region"
         },
         {
           "id": "D",
-          "text": "Gupta Empire"
+          "text": "Central India"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "C",
+      "explanation": "Without a centralized Mauryan army guarding the Hindu Kush passes, the Northwestern frontier opened to waves of Indo-Greeks, Shakas, Parthians, and Kushanas."
     },
     {
       "id": "11",
@@ -256,499 +256,499 @@
       "options": [
         {
           "id": "A",
-          "text": "New kingdoms, trade networks and cultural developments emerged after the Mauryan Empire."
+          "text": "People moved cities"
         },
         {
           "id": "B",
-          "text": "India became one single empire again immediately."
+          "text": "Political boundaries changed"
         },
         {
           "id": "C",
-          "text": "Agriculture completely stopped."
+          "text": "Everyone changed religions"
         },
         {
           "id": "D",
-          "text": "Trade disappeared."
+          "text": "Alphabet reorganized"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The period witnessed political boundaries shifting away from single imperial control toward regional kingdoms, alongside the reorganization of trade networks and social structures."
     },
     {
       "id": "12",
-      "question": "Why did trade expand during this period?",
+      "question": "What does Sangam literature mostly consist of?",
       "options": [
         {
           "id": "A",
-          "text": "Better land and sea trade routes connected different regions."
+          "text": "Math formulas"
         },
         {
           "id": "B",
-          "text": "People stopped travelling."
+          "text": "Poems of love and heroism"
         },
         {
           "id": "C",
-          "text": "Rivers disappeared."
+          "text": "Royal decrees"
         },
         {
           "id": "D",
-          "text": "Farming ended."
+          "text": "Trade logs"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Sangam poetry is classified into Akam (internal, dealing with love and human relationships) and Puram (external, dealing with heroism, warfare, and public ethics)."
     },
     {
       "id": "13",
-      "question": "Which factor helped the spread of Buddhism beyond India?",
+      "question": "Why did Satavahana kings include their mother's name in their titles?",
       "options": [
         {
           "id": "A",
-          "text": "Traders and monks travelling to other countries"
+          "text": "It was a law"
         },
         {
           "id": "B",
-          "text": "Military invasions only"
+          "text": "Signify maternal importance"
         },
         {
           "id": "C",
-          "text": "Air transport"
+          "text": "They forgot their fathers"
         },
         {
           "id": "D",
-          "text": "Railways"
+          "text": "It was shorter"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Prefixing matronymics like Gautamiputra or Vashisthiputra reflected high respect for royal mothers and honored maternal clan prestige in Satavahana court culture."
     },
     {
       "id": "14",
-      "question": "Why were ports important during this period?",
+      "question": "What evidence shows the Satavahanas had strong maritime trade?",
       "options": [
         {
           "id": "A",
-          "text": "They encouraged overseas trade and cultural exchanges."
+          "text": "Written logs"
         },
         {
           "id": "B",
-          "text": "They reduced communication."
+          "text": "Coins depicting ships"
         },
         {
           "id": "C",
-          "text": "They stopped exports."
+          "text": "Sunken ships"
         },
         {
           "id": "D",
-          "text": "They prevented trade."
+          "text": "Foreign alliances"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Satavahana rulers like Yajna Sri Satakarni issued lead and copper coins embossed with double-masted sailing ships, evidencing thriving maritime trade across the Bay of Bengal."
     },
     {
       "id": "15",
-      "question": "Which statement correctly explains regional kingdoms?",
+      "question": "Which river system supported the agricultural stability of Satavahanas?",
       "options": [
         {
           "id": "A",
-          "text": "They developed their own administration and culture."
+          "text": "Indus"
         },
         {
           "id": "B",
-          "text": "They had no rulers."
+          "text": "Ganga-Yamuna"
         },
         {
           "id": "C",
-          "text": "They discouraged agriculture."
+          "text": "Krishna-Godavari"
         },
         {
           "id": "D",
-          "text": "They had no trade."
+          "text": "Brahmaputra"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "C",
+      "explanation": "The fertile alluvial basins and deltas of the Godavari and Krishna rivers in the Deccan provided the agrarian backbone for Satavahana prosperity."
     },
     {
       "id": "16",
-      "question": "Why did different regions develop unique cultural traditions?",
+      "question": "How did Pushyamitra Shunga gain power?",
       "options": [
         {
           "id": "A",
-          "text": "Regional kingdoms encouraged local art, language and customs."
+          "text": "By election"
         },
         {
           "id": "B",
-          "text": "Every region followed exactly the same culture."
+          "text": "Assassinating his commander"
         },
         {
           "id": "C",
-          "text": "Culture disappeared after the Mauryas."
+          "text": "Foreign invasion"
         },
         {
           "id": "D",
-          "text": "Only one language existed."
+          "text": "Marrying a queen"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Pushyamitra Shunga staged a military coup during an army review, slaying the weak Mauryan emperor Brihadratha to seize the throne."
     },
     {
       "id": "17",
-      "question": "Which activity contributed most to cultural exchange?",
+      "question": "What happens if a rival ruler stops the Ashvamedha horse?",
       "options": [
         {
           "id": "A",
-          "text": "Trade and travel"
+          "text": "Share the land"
         },
         {
           "id": "B",
-          "text": "Isolation"
+          "text": "Battle determines supremacy"
         },
         {
           "id": "C",
-          "text": "Deforestation"
+          "text": "Horse is returned"
         },
         {
           "id": "D",
-          "text": "Wars only"
+          "text": "Trade stops"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Capturing or stopping the sacrificial horse challenged the challenger king's sovereignty, inevitably provoking a decisive military battle between the two forces."
     },
     {
       "id": "18",
-      "question": "Why is this period important in Indian history?",
+      "question": "What do the Sangam texts reveal about common people?",
       "options": [
         {
           "id": "A",
-          "text": "It laid the foundation for later powerful kingdoms and cultural growth."
+          "text": "Only kings mattered"
         },
         {
           "id": "B",
-          "text": "It marked the end of all trade."
+          "text": "Record achievements of commoners"
         },
         {
           "id": "C",
-          "text": "It had no historical importance."
+          "text": "They didn't exist"
         },
         {
           "id": "D",
-          "text": "It stopped the spread of ideas."
+          "text": "All were warriors"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Unlike court chronicles focused purely on kings, Sangam poetry vividly depicts everyday life of ordinary farmers, pearl divers, salt merchants, dancers, and soldiers."
     },
     {
       "id": "19",
-      "question": "Which occupation became more significant due to increased trade?",
+      "question": "What was a peaceful method used to gain control over neighbors?",
       "options": [
         {
           "id": "A",
-          "text": "Merchants and artisans"
+          "text": "Ashvamedha"
         },
         {
           "id": "B",
-          "text": "Hunters only"
+          "text": "Matrimonial alliances"
         },
         {
           "id": "C",
-          "text": "Soldiers only"
+          "text": "Sieges"
         },
         {
           "id": "D",
-          "text": "Shepherds only"
+          "text": "Boycotts"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Dynasties like the Satavahanas frequently formed strategic matrimonial alliances with rival dynasties (like the Western Kshatrapas/Shakas) to establish lasting peace and territorial stability."
     },
     {
       "id": "20",
-      "question": "What is the central idea of this chapter?",
+      "question": "How did the Satavahanas show religious tolerance?",
       "options": [
         {
           "id": "A",
-          "text": "Political changes, expanding trade and cultural development shaped the period after the Mauryan Empire."
+          "text": "Banned all religions"
         },
         {
           "id": "B",
-          "text": "India remained unchanged after the Mauryas."
+          "text": "Grants to Vedic, Jaina, Buddhist"
         },
         {
           "id": "C",
-          "text": "Trade had no role in development."
+          "text": "Forced conversion"
         },
         {
           "id": "D",
-          "text": "Regional kingdoms weakened culture."
+          "text": "Built no temples"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Though orthodox Vedic patrons themselves, Satavahana rulers generously bestowed tax-free land grants and funds to Buddhist monks and Jaina institutions alike."
     },
     {
       "id": "21",
-      "question": "Why did regional kingdoms become powerful after the Mauryan Empire?",
+      "question": "How did the breakup of the Maurya empire affect India's political landscape?",
       "options": [
         {
           "id": "A",
-          "text": "The decline of central authority allowed local rulers to strengthen their kingdoms."
+          "text": "Unified it further"
         },
         {
           "id": "B",
-          "text": "Agriculture ended completely."
+          "text": "Created competing kingdoms"
         },
         {
           "id": "C",
-          "text": "Foreign trade stopped."
+          "text": "Eliminated all trade"
         },
         {
           "id": "D",
-          "text": "People moved to deserts."
+          "text": "Established democracy"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The central Mauryan canopy split into distinct regional powers—Shungas in the north, Satavahanas in the Deccan, and Indo-Greeks/Kushanas in the northwest—fostering localized cultural growth."
     },
     {
       "id": "22",
-      "question": "If trade routes had not expanded during this period, which would most likely have been affected?",
+      "question": "What does the famous epic Silappadikaram highlight about Tamil society?",
       "options": [
         {
           "id": "A",
-          "text": "The exchange of goods, ideas and cultural traditions"
+          "text": "Agricultural methods"
         },
         {
           "id": "B",
-          "text": "Formation of rivers"
+          "text": "Moral dilemmas and justice"
         },
         {
           "id": "C",
-          "text": "Growth of mountains"
+          "text": "Ship building"
         },
         {
           "id": "D",
-          "text": "Earth's climate"
+          "text": "Mining techniques"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The Tamil epic Silappadikaram ('The Tale of an Anklet') centers on Kannagi's quest for justice against an unjust king, illustrating high ethical ideals and judicial accountability."
     },
     {
       "id": "23",
-      "question": "Which example best shows the relationship between trade and culture?",
+      "question": "Why is the 'Age of Reorganisation' marked by cultural confluence?",
       "options": [
         {
           "id": "A",
-          "text": "Traders carried not only goods but also languages, religions and ideas."
+          "text": "Kingdoms isolated themselves"
         },
         {
           "id": "B",
-          "text": "Trade reduced communication."
+          "text": "Influx of foreign invaders"
         },
         {
           "id": "C",
-          "text": "Trade prevented cultural exchange."
+          "text": "Religion was banned"
         },
         {
           "id": "D",
-          "text": "Trade affected agriculture only."
+          "text": "Writing was invented"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Interactions with incoming Shakas, Kushanas, and Greeks, alongside thriving Roman maritime trade, blended Greek, Central Asian, and Indian artistic and cultural elements (like Gandhara art)."
     },
     {
       "id": "24",
-      "question": "Why were ports considered important centres of economic activity?",
+      "question": "How did feudalism begin to alter the administrative structure?",
       "options": [
         {
           "id": "A",
-          "text": "They connected India with other countries through sea trade."
+          "text": "Centralized all power"
         },
         {
           "id": "B",
-          "text": "They stopped international trade."
+          "text": "Decentralized power"
         },
         {
           "id": "C",
-          "text": "They existed only for defence."
+          "text": "Eliminated taxes"
         },
         {
           "id": "D",
-          "text": "They had no role in commerce."
+          "text": "Created a democracy"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "By granting tax-free land (brahmadeya or agrahara) with administrative immunities to donees, royal central control gradually devolved into decentralized regional feudal authority."
     },
     {
       "id": "25",
-      "question": "Which statement best explains the importance of regional kingdoms?",
+      "question": "What economic indicator proves the Deccan region flourished under Satavahanas?",
       "options": [
         {
           "id": "A",
-          "text": "They contributed to political diversity, cultural growth and economic development."
+          "text": "Built pyramids"
         },
         {
           "id": "B",
-          "text": "They weakened every aspect of society."
+          "text": "Maritime trade with Rome"
         },
         {
           "id": "C",
-          "text": "They had no administrative systems."
+          "text": "Used paper money"
         },
         {
           "id": "D",
-          "text": "They discouraged art and learning."
+          "text": "Stopped farming"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Excavations at port sites like Arikamedu and Paithan yield vast quantities of Roman gold coins, amphorae, and glass, attesting to a lucrative trade surplus with the Roman Empire."
     },
     {
       "id": "26",
-      "question": "A trader from South India exchanges spices for silk from another country. Which concept does this illustrate?",
+      "question": "Why would scholars hesitate to call the post-Mauryan era a \"Dark Age\"?",
       "options": [
         {
           "id": "A",
-          "text": "International trade and cultural interaction"
+          "text": "Because it was night"
         },
         {
           "id": "B",
-          "text": "Political conflict"
+          "text": "Immense growth in regional art"
         },
         {
           "id": "C",
-          "text": "Agricultural decline"
+          "text": "There were no wars"
         },
         {
           "id": "D",
-          "text": "Climate change"
+          "text": "Mauryas returned"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Despite lacking one pan-Indian emperor, the era saw unprecedented artistic flourishes (Sanchi, Karla caves), international trade booms, classical literature, and deep philosophical refinement."
     },
     {
       "id": "27",
-      "question": "Why is this period called a bridge between ancient empires and later kingdoms?",
+      "question": "What strategic advantage did the Krishna-Godavari delta provide?",
       "options": [
         {
           "id": "A",
-          "text": "It connected earlier political systems with new regional powers and cultural developments."
+          "text": "High mountains for defense"
         },
         {
           "id": "B",
-          "text": "It had no influence on later history."
+          "text": "Extremely fertile soil"
         },
         {
           "id": "C",
-          "text": "It ended all trade."
+          "text": "Deep snow for protection"
         },
         {
           "id": "D",
-          "text": "It prevented new kingdoms from emerging."
+          "text": "Isolation from north"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The rich alluvial soils of the Krishna-Godavari delta produced multiple annual rice harvests, while its coastal estuaries served as natural harbors for international oceanic commerce."
     },
     {
       "id": "28",
-      "question": "Which lesson from this chapter is most relevant today?",
+      "question": "How did the Ashvamedha ritual serve a political purpose?",
       "options": [
         {
           "id": "A",
-          "text": "Trade, communication and cultural exchange contribute to economic and social development."
+          "text": "It was a race"
         },
         {
           "id": "B",
-          "text": "Isolation is better than cooperation."
+          "text": "Physically asserting dominance"
         },
         {
           "id": "C",
-          "text": "Trade should be discouraged."
+          "text": "Fed the poor"
         },
         {
           "id": "D",
-          "text": "Cultural exchange weakens societies."
+          "text": "Trained cavalry"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Beyond spiritual reward, the Ashvamedha publicly broadcasted a monarch's military paramountcy over rival rulers without necessarily engaging in destructive full-scale wars."
     },
     {
       "id": "29",
-      "question": "Which action would have helped a regional kingdom prosper during this period?",
+      "question": "What does the inclusion of a mother's name in royal titles imply?",
       "options": [
         {
           "id": "A",
-          "text": "Encouraging trade, protecting trade routes and supporting artisans"
+          "text": "Absolute patriarchy"
         },
         {
           "id": "B",
-          "text": "Closing ports and markets"
+          "text": "Progressive approach to women"
         },
         {
           "id": "C",
-          "text": "Preventing cultural exchanges"
+          "text": "Matriarchy"
         },
         {
           "id": "D",
-          "text": "Discouraging agriculture"
+          "text": "Kings were adopted"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "It highlighted the prestige of maternal clan alliances and granted royal queens prominent ceremonial dignity, reflecting a more nuanced and respectful recognition of women in court."
     },
     {
       "id": "30",
-      "question": "Which statement best summarizes the main idea of this chapter?",
+      "question": "How did the political fragmentation of the Northwest impact the subcontinent?",
       "options": [
         {
           "id": "A",
-          "text": "After the Mauryan Empire, India witnessed political reorganisation, expanding trade and vibrant cultural growth that shaped the future of the subcontinent."
+          "text": "Made it richer"
         },
         {
           "id": "B",
-          "text": "India remained politically and economically unchanged."
+          "text": "Exposed region to invasions"
         },
         {
           "id": "C",
-          "text": "Trade declined completely after the Mauryas."
+          "text": "Created an empire"
         },
         {
           "id": "D",
-          "text": "Regional kingdoms had no historical importance."
+          "text": "Stopped all trade"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Without unified frontier defense, the fragmented kingdoms of the Northwest could not resist incoming Central Asian tribes, who subsequently settled and integrated into Indian society."
     }
   ]
 }

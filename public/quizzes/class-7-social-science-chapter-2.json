@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "What is the day-to-day condition of the atmosphere called?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Climate"
+        },
+        {
+          "id": "B",
+          "text": "Weather"
+        },
+        {
+          "id": "C",
+          "text": "Season"
+        },
+        {
+          "id": "D",
+          "text": "Monsoon"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Weather refers to the short-term, day-to-day atmospheric conditions of a specific place, such as temperature, humidity, and rainfall."
+    },
+    {
+      "id": "2",
+      "question": "Which layer of the atmosphere contains all weather phenomena?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Stratosphere"
+        },
+        {
+          "id": "B",
+          "text": "Mesosphere"
+        },
+        {
+          "id": "C",
+          "text": "Troposphere"
+        },
+        {
+          "id": "D",
+          "text": "Thermosphere"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The troposphere is the lowest layer of Earth's atmosphere where clouds, wind, rain, and all dynamic weather events occur."
+    },
+    {
+      "id": "3",
+      "question": "What instrument measures temperature?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Barometer"
+        },
+        {
+          "id": "B",
+          "text": "Thermometer"
+        },
+        {
+          "id": "C",
+          "text": "Anemometer"
+        },
+        {
+          "id": "D",
+          "text": "Hygrometer"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "A thermometer accurately measures air temperature using expanding mercury or alcohol, or digital sensors."
+    },
+    {
+      "id": "4",
+      "question": "Which instrument is used to measure rainfall?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rain gauge"
+        },
+        {
+          "id": "B",
+          "text": "Wind vane"
+        },
+        {
+          "id": "C",
+          "text": "Barometer"
+        },
+        {
+          "id": "D",
+          "text": "Hygrometer"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "A rain gauge collects and quantifies liquid precipitation over a set period, typically measured in millimeters."
+    },
+    {
+      "id": "5",
+      "question": "What does an anemometer measure?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Humidity"
+        },
+        {
+          "id": "B",
+          "text": "Air pressure"
+        },
+        {
+          "id": "C",
+          "text": "Wind speed"
+        },
+        {
+          "id": "D",
+          "text": "Temperature"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "An anemometer measures the velocity or speed of the wind using rotating cups or propellers."
+    },
+    {
+      "id": "6",
+      "question": "What does a hygrometer measure?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Air pressure"
+        },
+        {
+          "id": "B",
+          "text": "Rainfall"
+        },
+        {
+          "id": "C",
+          "text": "Humidity"
+        },
+        {
+          "id": "D",
+          "text": "Wind direction"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "A hygrometer measures atmospheric humidity—the amount of water vapor present in the air."
+    },
+    {
+      "id": "7",
+      "question": "What does a barometer measure?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wind speed"
+        },
+        {
+          "id": "B",
+          "text": "Atmospheric pressure"
+        },
+        {
+          "id": "C",
+          "text": "Humidity"
+        },
+        {
+          "id": "D",
+          "text": "Temperature"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "A barometer measures air pressure (atmospheric pressure), which helps predict incoming weather changes."
+    },
+    {
+      "id": "8",
+      "question": "Which organization predicts weather in India?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ISRO"
+        },
+        {
+          "id": "B",
+          "text": "DRDO"
+        },
+        {
+          "id": "C",
+          "text": "IMD"
+        },
+        {
+          "id": "D",
+          "text": "WHO"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The India Meteorological Department (IMD) is the national agency responsible for meteorological observations and weather forecasting across India."
+    },
+    {
+      "id": "9",
+      "question": "What forms when water vapor condenses in the sky?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wind"
+        },
+        {
+          "id": "B",
+          "text": "Clouds"
+        },
+        {
+          "id": "C",
+          "text": "Sun rays"
+        },
+        {
+          "id": "D",
+          "text": "Dust"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Clouds form when warm, moisture-laden air rises, cools, and condenses around tiny condensation nuclei such as dust particles."
+    },
+    {
+      "id": "10",
+      "question": "What is a common natural indicator of rain in forests?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Croaking frogs"
+        },
+        {
+          "id": "B",
+          "text": "Shedding leaves"
+        },
+        {
+          "id": "C",
+          "text": "Blooming lotuses"
+        },
+        {
+          "id": "D",
+          "text": "Hibernating bears"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "In traditional and forest observations, increased croaking by frogs responsive to rising humidity often serves as a natural indicator of approaching rain."
+    },
+    {
+      "id": "11",
+      "question": "What does a relative humidity of 0% mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Very humid"
+        },
+        {
+          "id": "B",
+          "text": "Raining"
+        },
+        {
+          "id": "C",
+          "text": "No water vapor"
+        },
+        {
+          "id": "D",
+          "text": "Freezing cold"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "A relative humidity of 0% means there is absolutely zero moisture or water vapor contained in the air."
+    },
+    {
+      "id": "12",
+      "question": "In which year was the India Meteorological Department established?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1857"
+        },
+        {
+          "id": "B",
+          "text": "1875"
+        },
+        {
+          "id": "C",
+          "text": "1947"
+        },
+        {
+          "id": "D",
+          "text": "1950"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The India Meteorological Department (IMD) was established in 1875 during the British colonial period."
+    },
+    {
+      "id": "13",
+      "question": "What is the approximate normal atmospheric pressure at sea level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "500 mb"
+        },
+        {
+          "id": "B",
+          "text": "800 mb"
+        },
+        {
+          "id": "C",
+          "text": "1013 mb"
+        },
+        {
+          "id": "D",
+          "text": "1500 mb"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Standard sea-level atmospheric pressure is approximately 1,013.25 millibars (mb) or hectopascals (hPa)."
+    },
+    {
+      "id": "14",
+      "question": "What happens to pine cones in highly humid weather?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They open"
+        },
+        {
+          "id": "B",
+          "text": "They turn red"
+        },
+        {
+          "id": "C",
+          "text": "They close"
+        },
+        {
+          "id": "D",
+          "text": "They fall off"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Pine cone scales absorb atmospheric moisture in high humidity and close up tightly to protect the seeds inside from getting soggy."
+    },
+    {
+      "id": "15",
+      "question": "Why do meteorologists need to know wind direction?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To plan flights"
+        },
+        {
+          "id": "B",
+          "text": "Predict moisture movement"
+        },
+        {
+          "id": "C",
+          "text": "Measure temperature"
+        },
+        {
+          "id": "D",
+          "text": "Count clouds"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Knowing wind direction allows meteorologists to trace where air masses originate and predict whether they will bring dry heat, cold waves, or moisture."
+    },
+    {
+      "id": "16",
+      "question": "What is the difference between a wind vane and an anemometer?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Vane=speed, Anem=dir"
+        },
+        {
+          "id": "B",
+          "text": "Vane=dir, Anem=speed"
+        },
+        {
+          "id": "C",
+          "text": "Both measure pressure"
+        },
+        {
+          "id": "D",
+          "text": "Both measure rain"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "A wind vane points to the direction from which the wind is blowing, while an anemometer specifically measures the speed of that wind."
+    },
+    {
+      "id": "17",
+      "question": "If the temperature is 29°C and humidity is 84%, what clothes are best?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Woolen"
+        },
+        {
+          "id": "B",
+          "text": "Silk"
+        },
+        {
+          "id": "C",
+          "text": "Cotton"
+        },
+        {
+          "id": "D",
+          "text": "Leather"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Breathable cotton clothes absorb sweat easily and promote evaporation, making them ideal for hot and humid tropical weather."
+    },
+    {
+      "id": "18",
+      "question": "Where is the best place to install a rain gauge?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Under a tree"
+        },
+        {
+          "id": "B",
+          "text": "Inside a house"
+        },
+        {
+          "id": "C",
+          "text": "Open area"
+        },
+        {
+          "id": "D",
+          "text": "Next to a fan"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "A rain gauge must be placed in a wide open area free from overhanging trees or buildings to prevent obstruction or runoff dripping."
+    },
+    {
+      "id": "19",
+      "question": "What does a sudden drop in a barometer reading indicate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Clear skies"
+        },
+        {
+          "id": "B",
+          "text": "Upcoming storm"
+        },
+        {
+          "id": "C",
+          "text": "Extreme heat"
+        },
+        {
+          "id": "D",
+          "text": "Drought"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "A rapid fall in atmospheric pressure signifies a low-pressure system moving in, which typically brings storms, strong winds, or heavy rainfall."
+    },
+    {
+      "id": "20",
+      "question": "Why is weather forecasting important for fishermen?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To catch more fish"
+        },
+        {
+          "id": "B",
+          "text": "Avoid severe sea storms"
+        },
+        {
+          "id": "C",
+          "text": "To sell fish"
+        },
+        {
+          "id": "D",
+          "text": "Find warm water"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Timely marine weather advisories alert fishermen to high waves, cyclones, and rough seas, enabling them to safely return to harbor or avoid venturing out."
+    },
+    {
+      "id": "21",
+      "question": "Why is the troposphere thicker at the equator than at the poles?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Less gravity"
+        },
+        {
+          "id": "B",
+          "text": "Warm air expands"
+        },
+        {
+          "id": "C",
+          "text": "More clouds"
+        },
+        {
+          "id": "D",
+          "text": "Earth's rotation"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Intense solar heating at the equator causes the air to warm, expand, and rise higher, extending the tropospheric boundary up to 18 km compared to just 8 km at the cold poles."
+    },
+    {
+      "id": "22",
+      "question": "How does high humidity affect the human body's ability to cool down?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Speeds up sweating"
+        },
+        {
+          "id": "B",
+          "text": "Evaporates sweat faster"
+        },
+        {
+          "id": "C",
+          "text": "Slows sweat evaporation"
+        },
+        {
+          "id": "D",
+          "text": "Lowers temperature"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "When the air is already saturated with water vapor (high humidity), sweat evaporates from the skin very slowly, hindering the body's natural cooling mechanism."
+    },
+    {
+      "id": "23",
+      "question": "What happens to atmospheric pressure as altitude increases?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Increases"
+        },
+        {
+          "id": "B",
+          "text": "Remains constant"
+        },
+        {
+          "id": "C",
+          "text": "Decreases"
+        },
+        {
+          "id": "D",
+          "text": "Fluctuates randomly"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "As altitude increases, the density and total weight of the overlying air column decrease, causing atmospheric pressure to steadily drop."
+    },
+    {
+      "id": "24",
+      "question": "If winds blow from the sea to the land, what weather change is likely?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Extreme dry heat"
+        },
+        {
+          "id": "B",
+          "text": "Increased moisture/rain"
+        },
+        {
+          "id": "C",
+          "text": "Sudden snowfall"
+        },
+        {
+          "id": "D",
+          "text": "Drop in air pressure"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Sea breezes or onshore winds carry abundant maritime moisture over the land surface, often resulting in cloud formation and precipitation."
+    },
+    {
+      "id": "25",
+      "question": "Why do weather predictions rely on data from multiple stations?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To save money"
+        },
+        {
+          "id": "B",
+          "text": "Map large-scale movements"
+        },
+        {
+          "id": "C",
+          "text": "Use less equipment"
+        },
+        {
+          "id": "D",
+          "text": "Measure local soil"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Because weather systems span vast geographical distances, data from thousands of ground, marine, and satellite stations must be synthesized to map weather movement and interactions accurately."
+    },
+    {
+      "id": "26",
+      "question": "What is the primary source of energy that drives all weather changes?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Earth's core"
+        },
+        {
+          "id": "B",
+          "text": "The Moon"
+        },
+        {
+          "id": "C",
+          "text": "The Sun"
+        },
+        {
+          "id": "D",
+          "text": "Ocean currents"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "The Sun provides the fundamental thermal energy that creates temperature differences across Earth's surface, driving atmospheric circulation, winds, and the water cycle."
+    },
+    {
+      "id": "27",
+      "question": "How does the closing of pine cones demonstrate a biological weather response?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Protects seeds"
+        },
+        {
+          "id": "B",
+          "text": "Collects drinking water"
+        },
+        {
+          "id": "C",
+          "text": "Absorbs sunlight"
+        },
+        {
+          "id": "D",
+          "text": "Prevents freezing"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "By closing in damp weather, pine cones shield dry seeds from moisture; once dry weather returns, the scales open so wind can disperse the seeds effectively."
+    },
+    {
+      "id": "28",
+      "question": "Why might a barometer reading below 1000 mb concern farmers?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Extreme frost"
+        },
+        {
+          "id": "B",
+          "text": "Heavy storms/flooding"
+        },
+        {
+          "id": "C",
+          "text": "Total drought"
+        },
+        {
+          "id": "D",
+          "text": "High humidity"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "A low atmospheric pressure reading below 1000 mb signals an intense low-pressure depression or cyclone that can bring destructive winds and flooding rains damaging standing crops."
+    },
+    {
+      "id": "29",
+      "question": "What is the scientific study of weather and its evolution called?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Geology"
+        },
+        {
+          "id": "B",
+          "text": "Meteorology"
+        },
+        {
+          "id": "C",
+          "text": "Astrology"
+        },
+        {
+          "id": "D",
+          "text": "Ecology"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Meteorology is the branch of atmospheric science dedicated to studying weather dynamics, physics, and short-term forecasting."
+    },
+    {
+      "id": "30",
+      "question": "How do interconnected weather instruments provide a holistic forecast?",
+      "options": [
+        {
+          "id": "A",
+          "text": "One measures everything"
+        },
+        {
+          "id": "B",
+          "text": "Elements interact systemically"
+        },
+        {
+          "id": "C",
+          "text": "They cancel errors"
+        },
+        {
+          "id": "D",
+          "text": "They are purely digital"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Temperature, pressure, humidity, and wind are dynamically interconnected; analyzing them together allows meteorologists to understand holistic atmospheric behavior."
+    }
+  ]
+}

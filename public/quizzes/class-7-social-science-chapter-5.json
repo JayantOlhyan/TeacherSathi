@@ -2,82 +2,107 @@
   "questions": [
     {
       "id": "1",
-      "question": "What is an empire?",
+      "question": "What is a large territory made up of many smaller kingdoms called?",
       "options": [
         {
           "id": "A",
-          "text": "A large kingdom ruled by one ruler"
+          "text": "Village"
         },
         {
           "id": "B",
-          "text": "A small village"
+          "text": "State"
         },
         {
           "id": "C",
-          "text": "A group of families"
+          "text": "Empire"
         },
         {
           "id": "D",
-          "text": "A marketplace"
+          "text": "District"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "C",
+      "explanation": "An empire is a vast political entity encompassing multiple kingdoms, diverse nationalities, and expansive territories under central sovereign control."
     },
     {
       "id": "2",
-      "question": "Which empire became one of the largest in ancient India?",
+      "question": "Who was the founder of the Nanda dynasty in Magadha?",
       "options": [
         {
           "id": "A",
-          "text": "Mauryan Empire"
+          "text": "Ashoka"
         },
         {
           "id": "B",
-          "text": "Mughal Empire"
+          "text": "Chandragupta"
         },
         {
           "id": "C",
-          "text": "Delhi Sultanate"
+          "text": "Mahapadma Nanda"
         },
         {
           "id": "D",
-          "text": "Gupta Empire"
+          "text": "Alexander"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "C",
+      "explanation": "Mahapadma Nanda founded the powerful Nanda dynasty of Magadha, establishing a colossal standing army and centralized administrative apparatus."
     },
     {
       "id": "3",
-      "question": "Who founded the Mauryan Empire?",
+      "question": "Who was the famous Greek conqueror that invaded India?",
       "options": [
         {
           "id": "A",
-          "text": "Chandragupta Maurya"
+          "text": "Julius Caesar"
         },
         {
           "id": "B",
-          "text": "Ashoka"
+          "text": "Alexander the Great"
         },
         {
           "id": "C",
-          "text": "Harshavardhana"
+          "text": "Porus"
         },
         {
           "id": "D",
-          "text": "Samudragupta"
+          "text": "Seleucus"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Alexander of Macedon (Alexander the Great) crossed the Hindu Kush mountains into northwestern India around 326 BCE, engaging King Porus at the Battle of the Hydaspes."
     },
     {
       "id": "4",
-      "question": "Who was the famous Mauryan ruler known for spreading the message of peace?",
+      "question": "Which famous Emperor promoted the policy of 'Dhamma'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Chandragupta"
+        },
+        {
+          "id": "B",
+          "text": "Mahapadma Nanda"
+        },
+        {
+          "id": "C",
+          "text": "Ashoka"
+        },
+        {
+          "id": "D",
+          "text": "Bimbisara"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Following the trauma of the Kalinga War, Mauryan Emperor Ashoka renounced military conquest and dedicated his reign to propagating moral conduct and peace known as Dhamma."
+    },
+    {
+      "id": "5",
+      "question": "Who wrote the famous book on governance, 'Arthashastra'?",
       "options": [
         {
           "id": "A",
@@ -85,107 +110,32 @@
         },
         {
           "id": "B",
-          "text": "Bindusara"
+          "text": "Megasthenes"
         },
         {
           "id": "C",
-          "text": "Bimbisara"
+          "text": "Kautilya (Chanakya)"
         },
         {
           "id": "D",
-          "text": "Ajatashatru"
+          "text": "Aryabhata"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
-    },
-    {
-      "id": "5",
-      "question": "Which battle changed Ashoka's life?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Kalinga War"
-        },
-        {
-          "id": "B",
-          "text": "Battle of Plassey"
-        },
-        {
-          "id": "C",
-          "text": "First Battle of Panipat"
-        },
-        {
-          "id": "D",
-          "text": "Battle of Haldighati"
-        }
-      ],
-      "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "C",
+      "explanation": "Kautilya, the brilliant political strategist and chief advisor to Chandragupta Maurya, authored the comprehensive statecraft treatise Arthashastra."
     },
     {
       "id": "6",
-      "question": "After the Kalinga War, Ashoka followed the path of _____.",
+      "question": "What was the capital of the Magadha empire?",
       "options": [
         {
           "id": "A",
-          "text": "Peace and Dhamma"
+          "text": "Taxila"
         },
         {
           "id": "B",
-          "text": "Expansion through wars"
-        },
-        {
-          "id": "C",
-          "text": "Trade only"
-        },
-        {
-          "id": "D",
-          "text": "Hunting"
-        }
-      ],
-      "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
-    },
-    {
-      "id": "7",
-      "question": "What were Ashoka's messages mainly written on?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Rocks and pillars"
-        },
-        {
-          "id": "B",
-          "text": "Paper only"
-        },
-        {
-          "id": "C",
-          "text": "Cloth only"
-        },
-        {
-          "id": "D",
-          "text": "Wooden boards only"
-        }
-      ],
-      "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
-    },
-    {
-      "id": "8",
-      "question": "The capital of the Mauryan Empire was _____.",
-      "options": [
-        {
-          "id": "A",
           "text": "Pataliputra"
-        },
-        {
-          "id": "B",
-          "text": "Delhi"
         },
         {
           "id": "C",
@@ -193,562 +143,612 @@
         },
         {
           "id": "D",
-          "text": "Taxila"
+          "text": "Kashi"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Pataliputra (modern Patna), situated at the strategic confluence of the Ganga and Son rivers, served as the imperial capital of the Mauryan and Gupta empires."
+    },
+    {
+      "id": "7",
+      "question": "What are associations of traders and craftsmen called?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Guilds"
+        },
+        {
+          "id": "B",
+          "text": "Armies"
+        },
+        {
+          "id": "C",
+          "text": "Sabhas"
+        },
+        {
+          "id": "D",
+          "text": "Samitis"
         }
       ],
       "difficulty": "Easy",
       "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "explanation": "Craftsmen and merchants organized themselves into corporate professional associations known as guilds (shrenis), which regulated trade standards, training, and banking."
+    },
+    {
+      "id": "8",
+      "question": "Which animal was heavily used for warfare by Indian empires?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Horses"
+        },
+        {
+          "id": "B",
+          "text": "Camels"
+        },
+        {
+          "id": "C",
+          "text": "Elephants"
+        },
+        {
+          "id": "D",
+          "text": "Tigers"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "War elephants acted as ancient heavy armored tanks, capable of breaking through enemy infantry formations and smashing fortified gate defenses."
     },
     {
       "id": "9",
-      "question": "Ashoka encouraged the spread of _____.",
+      "question": "Who united most of the Indian subcontinent under one central rule first?",
       "options": [
         {
           "id": "A",
-          "text": "Dhamma (moral values)"
+          "text": "Ashoka"
         },
         {
           "id": "B",
-          "text": "Warfare"
+          "text": "Chandragupta Maurya"
         },
         {
           "id": "C",
-          "text": "Slavery"
+          "text": "Alexander"
         },
         {
           "id": "D",
-          "text": "Heavy taxation"
+          "text": "Mahapadma Nanda"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Chandragupta Maurya overthrew the Nandas and defeated Greek governors, establishing the Maurya Empire which united most of the subcontinent under central governance."
     },
     {
       "id": "10",
-      "question": "The Mauryan Empire is important because it _____.",
+      "question": "What is the term for a subordinate ruler who pays taxes to an emperor?",
       "options": [
         {
           "id": "A",
-          "text": "Unified a large part of India under one administration"
+          "text": "King"
         },
         {
           "id": "B",
-          "text": "Built the Taj Mahal"
+          "text": "President"
         },
         {
           "id": "C",
-          "text": "Introduced railways"
+          "text": "Tributary / Vassal"
         },
         {
           "id": "D",
-          "text": "Started modern industries"
+          "text": "Mayor"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "C",
+      "explanation": "A tributary or vassal ruler retains local authority over his kingdom but acknowledges the emperor's supremacy by paying annual tribute and providing military aid."
     },
     {
       "id": "11",
-      "question": "Why was the Mauryan Empire considered powerful?",
+      "question": "What does the Latin word 'imperium' mean?",
       "options": [
         {
           "id": "A",
-          "text": "It had a strong administration, army and extensive territory."
+          "text": "Wealth"
         },
         {
           "id": "B",
-          "text": "It consisted only of villages."
+          "text": "Supreme power"
         },
         {
           "id": "C",
-          "text": "It had no organised government."
+          "text": "Large land"
         },
         {
           "id": "D",
-          "text": "It depended only on trade."
+          "text": "Trade"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The English word 'empire' derives from the Latin term 'imperium', which translates to supreme command, sovereignty, or absolute authority."
     },
     {
       "id": "12",
-      "question": "Why is Ashoka remembered as a great ruler?",
+      "question": "How does an empire differ from a kingdom?",
       "options": [
         {
           "id": "A",
-          "text": "He promoted peace, justice and welfare after the Kalinga War."
+          "text": "It is smaller"
         },
         {
           "id": "B",
-          "text": "He fought wars throughout his life."
+          "text": "Controls multiple kingdoms"
         },
         {
           "id": "C",
-          "text": "He ruled only one village."
+          "text": "It has no army"
         },
         {
           "id": "D",
-          "text": "He discouraged public welfare."
+          "text": "It relies on barter"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "While a kingdom typically governs a single cultural or geographical region under a king, an empire governs multiple kingdoms and diverse peoples across vast territories."
     },
     {
       "id": "13",
-      "question": "What do Ashoka's inscriptions tell us?",
+      "question": "What was one of Kautilya's main ideas for a strong ruler?",
       "options": [
         {
           "id": "A",
-          "text": "His policies, moral values and concern for his people"
+          "text": "Be cruel"
         },
         {
           "id": "B",
-          "text": "Details of modern technology"
+          "text": "Ensure public welfare"
         },
         {
           "id": "C",
-          "text": "Information about railways"
+          "text": "Ban trade"
         },
         {
           "id": "D",
-          "text": "Weather reports"
+          "text": "Disband the army"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Kautilya famously stated: 'In the happiness of his subjects lies the king's happiness; in their welfare his welfare.' Public welfare was essential for state stability."
     },
     {
       "id": "14",
-      "question": "Why was Pataliputra an important city?",
+      "question": "Why did trade networks and guilds help maintain an empire?",
       "options": [
         {
           "id": "A",
-          "text": "It was the capital and administrative centre of the Mauryan Empire."
+          "text": "They fought wars"
         },
         {
           "id": "B",
-          "text": "It was a desert town."
+          "text": "Generated needed wealth"
         },
         {
           "id": "C",
-          "text": "It had no trade routes."
+          "text": "They overthrew kings"
         },
         {
           "id": "D",
-          "text": "It was a small village."
+          "text": "They built temples"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Flourishing commerce and organized guilds generated substantial tax revenues, customs duties, and economic prosperity required to maintain the imperial army and civil administration."
     },
     {
       "id": "15",
-      "question": "Which value did Ashoka promote through Dhamma?",
+      "question": "Why was Dhana Nanda, the last Nanda emperor, overthrown?",
       "options": [
         {
           "id": "A",
-          "text": "Kindness, tolerance and non-violence"
+          "text": "He was weak"
         },
         {
           "id": "B",
-          "text": "Continuous warfare"
+          "text": "Highly unpopular & oppressive"
         },
         {
           "id": "C",
-          "text": "Religious conflict"
+          "text": "He resigned"
         },
         {
           "id": "D",
-          "text": "Discrimination"
+          "text": "Lost to Alexander"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Dhana Nanda had amassed immense wealth through heavy, oppressive taxation, causing profound resentment among his subjects and making him vulnerable to Chandragupta's rebellion."
     },
     {
       "id": "16",
-      "question": "Why are inscriptions valuable historical sources?",
+      "question": "What tactic did empires use to expand peacefully?",
       "options": [
         {
           "id": "A",
-          "text": "They provide direct evidence about rulers and their policies."
+          "text": "Assassinations"
         },
         {
           "id": "B",
-          "text": "They predict future events."
+          "text": "Marriage alliances"
         },
         {
           "id": "C",
-          "text": "They describe modern governments."
+          "text": "Burning crops"
         },
         {
           "id": "D",
-          "text": "They explain weather conditions."
+          "text": "Withholding water"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Matrimonial alliances between royal families (such as Chandragupta's alliance with Seleucus or later Gupta dynasties) secured borders and integrated territories peacefully."
     },
     {
       "id": "17",
-      "question": "How did the Mauryan rulers manage such a large empire?",
+      "question": "How did Alexander's invasion impact India?",
       "options": [
         {
           "id": "A",
-          "text": "Through an organised system of administration and officials"
+          "text": "Destroyed it completely"
         },
         {
           "id": "B",
-          "text": "Without any government"
+          "text": "Opened contacts with West"
         },
         {
           "id": "C",
-          "text": "By allowing every region to function independently"
+          "text": "Forced Greek language"
         },
         {
           "id": "D",
-          "text": "By eliminating trade"
+          "text": "No impact"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Alexander's campaign established direct land and maritime trade links between India and the Mediterranean, fostering cultural exchange and Indo-Greek art styles."
     },
     {
       "id": "18",
-      "question": "Which statement about the Kalinga War is correct?",
+      "question": "Why were rivers like the Ganga important for empires?",
       "options": [
         {
           "id": "A",
-          "text": "It led Ashoka to adopt a policy of peace and welfare."
+          "text": "For drinking only"
         },
         {
           "id": "B",
-          "text": "It marked the end of the Mauryan Empire immediately."
+          "text": "Natural highways for trade"
         },
         {
           "id": "C",
-          "text": "It was fought against the Gupta Empire."
+          "text": "To stop armies"
         },
         {
           "id": "D",
-          "text": "It had no effect on Ashoka."
+          "text": "For fishing"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Before paved highways existed, broad perennial rivers like the Ganga served as natural, low-cost transport arteries for deploying armies and shipping agricultural cargo."
     },
     {
       "id": "19",
-      "question": "Which factor helped the Mauryan Empire remain united?",
+      "question": "What is a key feature of an empire's administration?",
       "options": [
         {
           "id": "A",
-          "text": "Efficient administration and communication"
+          "text": "No taxes"
         },
         {
           "id": "B",
-          "text": "Lack of roads"
+          "text": "Appointing officials for order"
         },
         {
           "id": "C",
-          "text": "No officials"
+          "text": "Villages rule themselves"
         },
         {
           "id": "D",
-          "text": "Isolation between regions"
+          "text": "Using only barter"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "To manage vast territories, emperors appointed a hierarchy of civil and military officials (Mahamatras, Rajukas) responsible for maintaining law, collecting revenue, and justice."
     },
     {
       "id": "20",
-      "question": "What is the central idea of this chapter?",
+      "question": "What did 'Dhamma' emphasize during Ashoka's reign?",
       "options": [
         {
           "id": "A",
-          "text": "Strong leadership, administration and moral governance helped build and strengthen the Mauryan Empire."
+          "text": "War and conquest"
         },
         {
           "id": "B",
-          "text": "Empires grew only because of wars."
+          "text": "Peace and welfare of all"
         },
         {
           "id": "C",
-          "text": "Administration had no role in governance."
+          "text": "Strict religious rituals"
         },
         {
           "id": "D",
-          "text": "Ancient rulers ignored public welfare."
+          "text": "Wealth accumulation"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Ashoka's Dhamma transcended sectarian dogmas to promote universal ethical conduct: non-violence (ahimsa), respect for elders, compassion for animals, and communal harmony."
     },
     {
       "id": "21",
-      "question": "Why is Ashoka's transformation after the Kalinga War considered historically significant?",
+      "question": "Why did Kautilya emphasize a spy network in the Arthashastra?",
       "options": [
         {
           "id": "A",
-          "text": "He replaced military conquest with moral governance and public welfare."
+          "text": "To write books"
         },
         {
           "id": "B",
-          "text": "He expanded his empire through more wars."
+          "text": "Maintain security & intelligence"
         },
         {
           "id": "C",
-          "text": "He abandoned administration completely."
+          "text": "To trade goods"
         },
         {
           "id": "D",
-          "text": "He ruled only Kalinga thereafter."
+          "text": "To find brides"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Kautilya regarded an extensive espionage network of secret agents as the eyes and ears of the monarch, essential for uncovering conspiracies, corrupt officials, and enemy threats."
     },
     {
       "id": "22",
-      "question": "If Ashoka had continued fighting wars after Kalinga, which outcome would have been least likely?",
+      "question": "How did guilds function within an empire?",
       "options": [
         {
           "id": "A",
-          "text": "The spread of Dhamma and policies promoting peace."
+          "text": "Controlled by the king"
         },
         {
           "id": "B",
-          "text": "More military campaigns."
+          "text": "Had autonomy to create rules"
         },
         {
           "id": "C",
-          "text": "Greater use of the army."
+          "text": "They were banned"
         },
         {
           "id": "D",
-          "text": "Expansion through conquest."
+          "text": "Fought in the army"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Shrenis (guilds) operated with considerable internal legal autonomy; they formulated their own rules of work, settled member disputes, issued coins, and even served as banks."
     },
     {
       "id": "23",
-      "question": "Which example best demonstrates Ashoka's concern for his subjects?",
+      "question": "What economic shift made maintaining large standing armies possible?",
       "options": [
         {
           "id": "A",
-          "text": "Building roads, planting trees and promoting welfare measures."
+          "text": "Discovery of gold"
         },
         {
           "id": "B",
-          "text": "Increasing taxes without public benefit."
+          "text": "Agricultural surplus & taxes"
         },
         {
           "id": "C",
-          "text": "Closing trade routes."
+          "text": "Borrowing from Greeks"
         },
         {
           "id": "D",
-          "text": "Ignoring public needs."
+          "text": "Looting towns"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Regular, standardized agricultural taxation extracted from fertile agrarian regions provided the dependable cash and grain reserves needed to pay full-time professional soldiers."
     },
     {
       "id": "24",
-      "question": "Why was a well-organised administration necessary for the Mauryan Empire?",
+      "question": "What did symbols like the wheel (Chakra) on Ashoka's coins represent?",
       "options": [
         {
           "id": "A",
-          "text": "To govern a vast territory effectively and maintain law and order."
+          "text": "Weaponry"
         },
         {
           "id": "B",
-          "text": "To stop agriculture."
+          "text": "Dharma Chakra & Buddhism"
         },
         {
           "id": "C",
-          "text": "To reduce communication."
+          "text": "Sun worship"
         },
         {
           "id": "D",
-          "text": "To discourage trade."
+          "text": "Chariot racing"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "The 24-spoked Dharma Chakra (Wheel of Law) on Ashokan edicts and pillars symbolized the continuous turning of the wheel of moral order and righteous governance."
     },
     {
       "id": "25",
-      "question": "Which statement best explains the importance of Ashoka's inscriptions?",
+      "question": "Why do empires often promote art, literature, and learning?",
       "options": [
         {
           "id": "A",
-          "text": "They provide reliable evidence about his ideas, governance and policies."
+          "text": "To waste money"
         },
         {
           "id": "B",
-          "text": "They describe only battles."
+          "text": "Unify diverse cultures"
         },
         {
           "id": "C",
-          "text": "They contain myths only."
+          "text": "To hide weakness"
         },
         {
           "id": "D",
-          "text": "They have no historical value."
+          "text": "Distract the army"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Patronizing monumental architecture, scholarly institutions, and high literature creates a shared imperial culture, prestige, and ideological unity across disparate conquered regions."
     },
     {
       "id": "26",
-      "question": "A ruler builds roads, appoints officials and ensures justice across the kingdom. Which quality of governance is being demonstrated?",
+      "question": "In what way did iron technology directly contribute to empire-building?",
       "options": [
         {
           "id": "A",
-          "text": "Efficient administration"
+          "text": "Stone forts impossible"
         },
         {
           "id": "B",
-          "text": "Religious reform only"
+          "text": "Enhanced yield and weapons"
         },
         {
           "id": "C",
-          "text": "Military expansion only"
+          "text": "Used as currency"
         },
         {
           "id": "D",
-          "text": "Cultural isolation"
+          "text": "Replaced bronze"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Iron smelting enabled durable swords, arrowheads, and armor for imperial conquest, while iron agricultural tools ensured the bumper crop yields required to sustain the state."
     },
     {
       "id": "27",
-      "question": "Which lesson from Ashoka's life is most relevant today?",
+      "question": "How did tributary states benefit the central emperor?",
       "options": [
         {
           "id": "A",
-          "text": "Peace, compassion and good governance are stronger than violence."
+          "text": "They rebelled often"
         },
         {
           "id": "B",
-          "text": "Wars are the best way to solve every problem."
+          "text": "Provided resources easily"
         },
         {
           "id": "C",
-          "text": "Public welfare is unimportant."
+          "text": "They voted for him"
         },
         {
           "id": "D",
-          "text": "Leaders should ignore people's needs."
+          "text": "Supplied wild animals"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Tributary states provided regular wealth, luxury goods, and auxiliary troops to the emperor without the central government incurring the high administrative cost of direct governance."
     },
     {
       "id": "28",
-      "question": "Why are empires like the Mauryan Empire important in Indian history?",
+      "question": "Why is Chandragupta Maurya considered a visionary leader?",
       "options": [
         {
           "id": "A",
-          "text": "They introduced organised administration, political unity and welfare measures."
+          "text": "Defeated Alexander"
         },
         {
           "id": "B",
-          "text": "They existed only for trade."
+          "text": "United diverse regions"
         },
         {
           "id": "C",
-          "text": "They had no influence on later governments."
+          "text": "Invented the wheel"
         },
         {
           "id": "D",
-          "text": "They discouraged communication."
+          "text": "Wrote the Arthashastra"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "Chandragupta rose from humble origins to defeat formidable foreign and domestic rivals, establishing an unprecedentedly large, unified, and administratively advanced pan-Indian empire."
     },
     {
       "id": "29",
-      "question": "Which action would best strengthen a large empire?",
+      "question": "What was the strategic value of elephants in ancient warfare?",
       "options": [
         {
           "id": "A",
-          "text": "Developing roads, communication, justice and efficient administration."
+          "text": "Fast transport"
         },
         {
           "id": "B",
-          "text": "Closing all markets."
+          "text": "Carrying heavy loads"
         },
         {
           "id": "C",
-          "text": "Ignoring distant regions."
+          "text": "Used as spies"
         },
         {
           "id": "D",
-          "text": "Eliminating public services."
+          "text": "Swimming across oceans"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "correctAnswerId": "B",
+      "explanation": "War elephants terrified opposing cavalry whose horses feared their scent and size, while acting as elevated mobile platforms for archers and battering rams against city walls."
     },
     {
       "id": "30",
-      "question": "Which statement best summarizes the main idea of this chapter?",
+      "question": "Why did Alexander want to \"rule the entire world\"?",
       "options": [
         {
           "id": "A",
-          "text": "The rise of the Mauryan Empire shows how strong leadership, efficient administration and ethical governance can build a powerful and enduring empire."
+          "text": "Spread Greek culture & glory"
         },
         {
           "id": "B",
-          "text": "Empires depended only on military strength."
+          "text": "To find a new home"
         },
         {
           "id": "C",
-          "text": "Administration was unimportant in ancient empires."
+          "text": "To learn Sanskrit"
         },
         {
           "id": "D",
-          "text": "Ashoka is remembered only for winning battles."
+          "text": "To escape Greece"
         }
       ],
       "difficulty": "Hard",
       "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
+      "explanation": "Driven by Hellenistic ambitions of personal glory, heroic myth, and the desire to diffuse Greek cultural dominance across the known world, Alexander relentlessly marched eastward."
     }
   ]
 }
