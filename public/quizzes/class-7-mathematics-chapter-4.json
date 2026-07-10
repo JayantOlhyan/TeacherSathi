@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "91",
+      "question": "A letter used to represent an unknown number is called a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Constant"
+        },
+        {
+          "id": "B",
+          "text": "Variable"
+        },
+        {
+          "id": "C",
+          "text": "Expression"
+        },
+        {
+          "id": "D",
+          "text": "Term"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "92",
+      "question": "Write an expression for \"5 more than x\".",
+      "options": [
+        {
+          "id": "A",
+          "text": "5x"
+        },
+        {
+          "id": "B",
+          "text": "x - 5"
+        },
+        {
+          "id": "C",
+          "text": "x + 5"
+        },
+        {
+          "id": "D",
+          "text": "5/x"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "93",
+      "question": "Which of the following is an algebraic expression?",
+      "options": [
+        {
+          "id": "A",
+          "text": "5 + 3 = 8"
+        },
+        {
+          "id": "B",
+          "text": "2x + 7"
+        },
+        {
+          "id": "C",
+          "text": "10 - 4"
+        },
+        {
+          "id": "D",
+          "text": "100"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "94",
+      "question": "\"y decreased by 10\" is written as:",
+      "options": [
+        {
+          "id": "A",
+          "text": "10 - y"
+        },
+        {
+          "id": "B",
+          "text": "y/10"
+        },
+        {
+          "id": "C",
+          "text": "y - 10"
+        },
+        {
+          "id": "D",
+          "text": "10y"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "95",
+      "question": "In the expression 3x + 4, the number 4 is a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Variable"
+        },
+        {
+          "id": "B",
+          "text": "Constant"
+        },
+        {
+          "id": "C",
+          "text": "Factor"
+        },
+        {
+          "id": "D",
+          "text": "Product"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "96",
+      "question": "The omission of the multiplication symbol means 4 × a is written:",
+      "options": [
+        {
+          "id": "A",
+          "text": "4+a"
+        },
+        {
+          "id": "B",
+          "text": "4a"
+        },
+        {
+          "id": "C",
+          "text": "a4"
+        },
+        {
+          "id": "D",
+          "text": "4/a"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "97",
+      "question": "Write \"the product of x and 8\".",
+      "options": [
+        {
+          "id": "A",
+          "text": "x + 8"
+        },
+        {
+          "id": "B",
+          "text": "8x"
+        },
+        {
+          "id": "C",
+          "text": "x/8"
+        },
+        {
+          "id": "D",
+          "text": "8-x"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "98",
+      "question": "Evaluate x + 2 when x = 5.",
+      "options": [
+        {
+          "id": "A",
+          "text": "3"
+        },
+        {
+          "id": "B",
+          "text": "10"
+        },
+        {
+          "id": "C",
+          "text": "7"
+        },
+        {
+          "id": "D",
+          "text": "52"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "99",
+      "question": "A number 'n' multiplied by itself is written as:",
+      "options": [
+        {
+          "id": "A",
+          "text": "2n"
+        },
+        {
+          "id": "B",
+          "text": "n²"
+        },
+        {
+          "id": "C",
+          "text": "n+n"
+        },
+        {
+          "id": "D",
+          "text": "n/n"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "100",
+      "question": "If one pen costs ₹y, what is the cost of 5 pens?",
+      "options": [
+        {
+          "id": "A",
+          "text": "y + 5"
+        },
+        {
+          "id": "B",
+          "text": "5y"
+        },
+        {
+          "id": "C",
+          "text": "y/5"
+        },
+        {
+          "id": "D",
+          "text": "5/y"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "101",
+      "question": "Simplify by combining like terms: 2x + 3x",
+      "options": [
+        {
+          "id": "A",
+          "text": "5x"
+        },
+        {
+          "id": "B",
+          "text": "6x"
+        },
+        {
+          "id": "C",
+          "text": "5x²"
+        },
+        {
+          "id": "D",
+          "text": "x"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "102",
+      "question": "Evaluate 5y - 2 when y = 4.",
+      "options": [
+        {
+          "id": "A",
+          "text": "20"
+        },
+        {
+          "id": "B",
+          "text": "18"
+        },
+        {
+          "id": "C",
+          "text": "2"
+        },
+        {
+          "id": "D",
+          "text": "22"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "103",
+      "question": "Write \"half of a number p added to 7\".",
+      "options": [
+        {
+          "id": "A",
+          "text": "7p/2"
+        },
+        {
+          "id": "B",
+          "text": "p/2 + 7"
+        },
+        {
+          "id": "C",
+          "text": "2p + 7"
+        },
+        {
+          "id": "D",
+          "text": "7 - p/2"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "104",
+      "question": "If Rohit's age is 'a' years, what was his age 3 years ago?",
+      "options": [
+        {
+          "id": "A",
+          "text": "a + 3"
+        },
+        {
+          "id": "B",
+          "text": "3a"
+        },
+        {
+          "id": "C",
+          "text": "a - 3"
+        },
+        {
+          "id": "D",
+          "text": "3 - a"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "105",
+      "question": "Simplify: 4a + 2b + a - b",
+      "options": [
+        {
+          "id": "A",
+          "text": "5a + b"
+        },
+        {
+          "id": "B",
+          "text": "4a + b"
+        },
+        {
+          "id": "C",
+          "text": "3a + 3b"
+        },
+        {
+          "id": "D",
+          "text": "5a + 3b"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "106",
+      "question": "In 7xy, the numerical coefficient of xy is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "x"
+        },
+        {
+          "id": "B",
+          "text": "y"
+        },
+        {
+          "id": "C",
+          "text": "7"
+        },
+        {
+          "id": "D",
+          "text": "7x"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "107",
+      "question": "Evaluate 10 - 2x when x = 3.",
+      "options": [
+        {
+          "id": "A",
+          "text": "4"
+        },
+        {
+          "id": "B",
+          "text": "8"
+        },
+        {
+          "id": "C",
+          "text": "16"
+        },
+        {
+          "id": "D",
+          "text": "24"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "108",
+      "question": "The sum of two consecutive integers, if the first is x, is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "x + 1"
+        },
+        {
+          "id": "B",
+          "text": "2x"
+        },
+        {
+          "id": "C",
+          "text": "2x + 1"
+        },
+        {
+          "id": "D",
+          "text": "x² + 1"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "109",
+      "question": "What is the perimeter of an equilateral triangle with side 's'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "2s"
+        },
+        {
+          "id": "B",
+          "text": "3s"
+        },
+        {
+          "id": "C",
+          "text": "s²"
+        },
+        {
+          "id": "D",
+          "text": "s+3"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "110",
+      "question": "Number of matchsticks for 'n' letter T's (1 T needs 2 sticks) is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "2n"
+        },
+        {
+          "id": "B",
+          "text": "3n"
+        },
+        {
+          "id": "C",
+          "text": "n+2"
+        },
+        {
+          "id": "D",
+          "text": "n-2"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "111",
+      "question": "Simplify: 3(x + 2) - 2x",
+      "options": [
+        {
+          "id": "A",
+          "text": "x + 2"
+        },
+        {
+          "id": "B",
+          "text": "x + 6"
+        },
+        {
+          "id": "C",
+          "text": "5x + 6"
+        },
+        {
+          "id": "D",
+          "text": "x - 6"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "112",
+      "question": "Evaluate x² + 2x + 1 for x = 4.",
+      "options": [
+        {
+          "id": "A",
+          "text": "25"
+        },
+        {
+          "id": "B",
+          "text": "16"
+        },
+        {
+          "id": "C",
+          "text": "9"
+        },
+        {
+          "id": "D",
+          "text": "24"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "113",
+      "question": "Ram has ₹10 more than twice Shyam's money. If Shyam has ₹y, Ram has:",
+      "options": [
+        {
+          "id": "A",
+          "text": "2y - 10"
+        },
+        {
+          "id": "B",
+          "text": "2(y + 10)"
+        },
+        {
+          "id": "C",
+          "text": "2y + 10"
+        },
+        {
+          "id": "D",
+          "text": "y + 20"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "114",
+      "question": "Find the value of 5x - 3y when x = 2 and y = -1.",
+      "options": [
+        {
+          "id": "A",
+          "text": "7"
+        },
+        {
+          "id": "B",
+          "text": "13"
+        },
+        {
+          "id": "C",
+          "text": "4"
+        },
+        {
+          "id": "D",
+          "text": "-1"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "115",
+      "question": "A rectangular garden's length is 3m more than breadth 'b'. Perimeter is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "4b + 6"
+        },
+        {
+          "id": "B",
+          "text": "2b + 3"
+        },
+        {
+          "id": "C",
+          "text": "4b + 3"
+        },
+        {
+          "id": "D",
+          "text": "b² + 3b"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "116",
+      "question": "Simplify: 2a - [3b - (a - 2b)]",
+      "options": [
+        {
+          "id": "A",
+          "text": "3a - 5b"
+        },
+        {
+          "id": "B",
+          "text": "a - b"
+        },
+        {
+          "id": "C",
+          "text": "3a + 5b"
+        },
+        {
+          "id": "D",
+          "text": "a + 5b"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "117",
+      "question": "Expression for \"subtract the product of x and y from 50\" is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "xy - 50"
+        },
+        {
+          "id": "B",
+          "text": "50 - xy"
+        },
+        {
+          "id": "C",
+          "text": "50(xy)"
+        },
+        {
+          "id": "D",
+          "text": "50/xy"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "118",
+      "question": "What should be added to x² + xy to get 2x² + 3xy?",
+      "options": [
+        {
+          "id": "A",
+          "text": "x² + 2xy"
+        },
+        {
+          "id": "B",
+          "text": "x² - 2xy"
+        },
+        {
+          "id": "C",
+          "text": "3x² + 4xy"
+        },
+        {
+          "id": "D",
+          "text": "2xy"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "119",
+      "question": "A taxi has a ₹50 base rate + ₹10/km. Cost for 'd' km is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "50d + 10"
+        },
+        {
+          "id": "B",
+          "text": "10d + 50"
+        },
+        {
+          "id": "C",
+          "text": "60d"
+        },
+        {
+          "id": "D",
+          "text": "10(d + 50)"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "120",
+      "question": "Find the area of a rectangle with length 2x and breadth 3y.",
+      "options": [
+        {
+          "id": "A",
+          "text": "2x+3y"
+        },
+        {
+          "id": "B",
+          "text": "6xy"
+        },
+        {
+          "id": "C",
+          "text": "5xy"
+        },
+        {
+          "id": "D",
+          "text": "6+xy"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    }
+  ]
+}

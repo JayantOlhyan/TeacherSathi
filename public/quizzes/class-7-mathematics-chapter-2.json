@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "31",
+      "question": "Which rule determines the order of mathematical operations?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ABCD"
+        },
+        {
+          "id": "B",
+          "text": "BODMAS"
+        },
+        {
+          "id": "C",
+          "text": "LCM"
+        },
+        {
+          "id": "D",
+          "text": "HCF"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "32",
+      "question": "In BODMAS, what does the 'B' stand for?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Basic"
+        },
+        {
+          "id": "B",
+          "text": "Beyond"
+        },
+        {
+          "id": "C",
+          "text": "Brackets"
+        },
+        {
+          "id": "D",
+          "text": "Bottom"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "33",
+      "question": "Evaluate: 12 + 8",
+      "options": [
+        {
+          "id": "A",
+          "text": "4"
+        },
+        {
+          "id": "B",
+          "text": "20"
+        },
+        {
+          "id": "C",
+          "text": "96"
+        },
+        {
+          "id": "D",
+          "text": "1.5"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "34",
+      "question": "Which operation is performed first in the expression 5 × 11 + 3?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Addition"
+        },
+        {
+          "id": "B",
+          "text": "Subtraction"
+        },
+        {
+          "id": "C",
+          "text": "Multiplication"
+        },
+        {
+          "id": "D",
+          "text": "Division"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "35",
+      "question": "In the Token Model of integers, one positive (+) and one negative (-) token make:",
+      "options": [
+        {
+          "id": "A",
+          "text": "+2"
+        },
+        {
+          "id": "B",
+          "text": "-2"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        },
+        {
+          "id": "D",
+          "text": "0"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "D",
+      "explanation": "The correct answer is D."
+    },
+    {
+      "id": "36",
+      "question": "Solve: 120 ÷ 3",
+      "options": [
+        {
+          "id": "A",
+          "text": "30"
+        },
+        {
+          "id": "B",
+          "text": "40"
+        },
+        {
+          "id": "C",
+          "text": "60"
+        },
+        {
+          "id": "D",
+          "text": "360"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "37",
+      "question": "Identify the expression that equals 20.",
+      "options": [
+        {
+          "id": "A",
+          "text": "10 + 5"
+        },
+        {
+          "id": "B",
+          "text": "4 × 5"
+        },
+        {
+          "id": "C",
+          "text": "30 - 15"
+        },
+        {
+          "id": "D",
+          "text": "40 ÷ 4"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "38",
+      "question": "Which value is greater: 67 - 20 or 67 - 19?",
+      "options": [
+        {
+          "id": "A",
+          "text": "67 - 20"
+        },
+        {
+          "id": "B",
+          "text": "67 - 19"
+        },
+        {
+          "id": "C",
+          "text": "Both are equal"
+        },
+        {
+          "id": "D",
+          "text": "Cannot compare"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "39",
+      "question": "Solve: 35 + 25",
+      "options": [
+        {
+          "id": "A",
+          "text": "10"
+        },
+        {
+          "id": "B",
+          "text": "50"
+        },
+        {
+          "id": "C",
+          "text": "60"
+        },
+        {
+          "id": "D",
+          "text": "70"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "40",
+      "question": "What is the result of 40 ÷ 2?",
+      "options": [
+        {
+          "id": "A",
+          "text": "20"
+        },
+        {
+          "id": "B",
+          "text": "80"
+        },
+        {
+          "id": "C",
+          "text": "38"
+        },
+        {
+          "id": "D",
+          "text": "42"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "41",
+      "question": "7 dosas cost ₹23 each, plus a ₹5 tip. The correct expression is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "7 × (23 + 5)"
+        },
+        {
+          "id": "B",
+          "text": "7 × 23 + 5"
+        },
+        {
+          "id": "C",
+          "text": "7 + 23 × 5"
+        },
+        {
+          "id": "D",
+          "text": "7 × 5 + 23"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "42",
+      "question": "Evaluate the total cost: 7 × 23 + 5",
+      "options": [
+        {
+          "id": "A",
+          "text": "161"
+        },
+        {
+          "id": "B",
+          "text": "166"
+        },
+        {
+          "id": "C",
+          "text": "196"
+        },
+        {
+          "id": "D",
+          "text": "186"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "43",
+      "question": "Which is larger: 245 + 289 or 246 + 285?",
+      "options": [
+        {
+          "id": "A",
+          "text": "245 + 289"
+        },
+        {
+          "id": "B",
+          "text": "246 + 285"
+        },
+        {
+          "id": "C",
+          "text": "Equal"
+        },
+        {
+          "id": "D",
+          "text": "None"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "44",
+      "question": "Simplify using integer logic: (-3) + (-2)",
+      "options": [
+        {
+          "id": "A",
+          "text": "5"
+        },
+        {
+          "id": "B",
+          "text": "-1"
+        },
+        {
+          "id": "C",
+          "text": "-5"
+        },
+        {
+          "id": "D",
+          "text": "1"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "45",
+      "question": "Simplify: 28 - 7 + 8",
+      "options": [
+        {
+          "id": "A",
+          "text": "29"
+        },
+        {
+          "id": "B",
+          "text": "13"
+        },
+        {
+          "id": "C",
+          "text": "19"
+        },
+        {
+          "id": "D",
+          "text": "28"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "46",
+      "question": "Riya found 89 stones, Siya 21. They gave 10 away. The expression is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "89 + 21 + 10"
+        },
+        {
+          "id": "B",
+          "text": "89 - 21 - 10"
+        },
+        {
+          "id": "C",
+          "text": "89 + 21 - 10"
+        },
+        {
+          "id": "D",
+          "text": "89 - 21 + 10"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "47",
+      "question": "Radha buys 5 pens at ₹12 each and receives a ₹6 discount. Final cost is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "66"
+        },
+        {
+          "id": "B",
+          "text": "54"
+        },
+        {
+          "id": "C",
+          "text": "60"
+        },
+        {
+          "id": "D",
+          "text": "72"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "48",
+      "question": "Write the terms of the expression: 6 × 3 - 4 × 8 × 5",
+      "options": [
+        {
+          "id": "A",
+          "text": "6, 3, 4, 8, 5"
+        },
+        {
+          "id": "B",
+          "text": "6×3 and 4×8×5"
+        },
+        {
+          "id": "C",
+          "text": "18 and 160"
+        },
+        {
+          "id": "D",
+          "text": "None"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "49",
+      "question": "Simplify: 40 - 10 + 10 + 10",
+      "options": [
+        {
+          "id": "A",
+          "text": "20"
+        },
+        {
+          "id": "B",
+          "text": "30"
+        },
+        {
+          "id": "C",
+          "text": "50"
+        },
+        {
+          "id": "D",
+          "text": "40"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "50",
+      "question": "Using tokens, what is 5 - 3?",
+      "options": [
+        {
+          "id": "A",
+          "text": "2 positive tokens"
+        },
+        {
+          "id": "B",
+          "text": "2 negative tokens"
+        },
+        {
+          "id": "C",
+          "text": "8 positive"
+        },
+        {
+          "id": "D",
+          "text": "0"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "51",
+      "question": "Evaluate fully: 39 - 2 × 6 + 11",
+      "options": [
+        {
+          "id": "A",
+          "text": "233"
+        },
+        {
+          "id": "B",
+          "text": "38"
+        },
+        {
+          "id": "C",
+          "text": "50"
+        },
+        {
+          "id": "D",
+          "text": "26"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "52",
+      "question": "Compare: 273 - 145 and 272 - 144. Which is greater?",
+      "options": [
+        {
+          "id": "A",
+          "text": "First is greater"
+        },
+        {
+          "id": "B",
+          "text": "Second is greater"
+        },
+        {
+          "id": "C",
+          "text": "They are equal"
+        },
+        {
+          "id": "D",
+          "text": "Cannot tell"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "53",
+      "question": "Evaluate: 48 - 10 × 2 + 16 + 2",
+      "options": [
+        {
+          "id": "A",
+          "text": "94"
+        },
+        {
+          "id": "B",
+          "text": "74"
+        },
+        {
+          "id": "C",
+          "text": "36"
+        },
+        {
+          "id": "D",
+          "text": "46"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "54",
+      "question": "Using tokens, simplify 5 - 3 + (-2)",
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "4"
+        },
+        {
+          "id": "C",
+          "text": "-4"
+        },
+        {
+          "id": "D",
+          "text": "10"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "55",
+      "question": "Arrange ascending: (a) 67-19 (b) 67-20 (c) 35+25 (d) 5×11 (e) 120÷3",
+      "options": [
+        {
+          "id": "A",
+          "text": "e, b, a, d, c"
+        },
+        {
+          "id": "B",
+          "text": "a, b, c, d, e"
+        },
+        {
+          "id": "C",
+          "text": "c, d, a, b, e"
+        },
+        {
+          "id": "D",
+          "text": "e, a, b, c, d"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "56",
+      "question": "Create an expression equal to 20 using three 4s.",
+      "options": [
+        {
+          "id": "A",
+          "text": "4 + 4 + 4"
+        },
+        {
+          "id": "B",
+          "text": "4 × 4 + 4"
+        },
+        {
+          "id": "C",
+          "text": "(4 + 4) × 4"
+        },
+        {
+          "id": "D",
+          "text": "44 - 4"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "57",
+      "question": "Without fully solving, why is 363 + 589 larger than 364 + 587?",
+      "options": [
+        {
+          "id": "A",
+          "text": "589 is +2, 363 is -1; net +1"
+        },
+        {
+          "id": "B",
+          "text": "Equal"
+        },
+        {
+          "id": "C",
+          "text": "First is larger"
+        },
+        {
+          "id": "D",
+          "text": "None"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "58",
+      "question": "Evaluate: (6 × 3) + (-4 × 8 × 5)",
+      "options": [
+        {
+          "id": "A",
+          "text": "142"
+        },
+        {
+          "id": "B",
+          "text": "-142"
+        },
+        {
+          "id": "C",
+          "text": "178"
+        },
+        {
+          "id": "D",
+          "text": "-178"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "59",
+      "question": "Insert brackets to make true: 5 × 4 - 2 = 10",
+      "options": [
+        {
+          "id": "A",
+          "text": "5 × (4 - 2)"
+        },
+        {
+          "id": "B",
+          "text": "(5 × 4) - 2"
+        },
+        {
+          "id": "C",
+          "text": "(5) × 4 - 2"
+        },
+        {
+          "id": "D",
+          "text": "Not possible"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "60",
+      "question": "A set of 2 negative tokens is added to 5 positive tokens. Result is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "7 positive"
+        },
+        {
+          "id": "B",
+          "text": "3 positive"
+        },
+        {
+          "id": "C",
+          "text": "3 negative"
+        },
+        {
+          "id": "D",
+          "text": "7 negative"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    }
+  ]
+}

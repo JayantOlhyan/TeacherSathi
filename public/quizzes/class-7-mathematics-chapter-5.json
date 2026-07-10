@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "121",
+      "question": "Lines that never meet, no matter how far extended, are:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Intersecting"
+        },
+        {
+          "id": "B",
+          "text": "Parallel"
+        },
+        {
+          "id": "C",
+          "text": "Transversal"
+        },
+        {
+          "id": "D",
+          "text": "Perpendicular"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "122",
+      "question": "A line that cuts across two or more lines is a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Parallel line"
+        },
+        {
+          "id": "B",
+          "text": "Transversal"
+        },
+        {
+          "id": "C",
+          "text": "Bisector"
+        },
+        {
+          "id": "D",
+          "text": "Base"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "123",
+      "question": "The angle formed when perpendicular lines intersect is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "45°"
+        },
+        {
+          "id": "B",
+          "text": "90°"
+        },
+        {
+          "id": "C",
+          "text": "180°"
+        },
+        {
+          "id": "D",
+          "text": "360°"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "124",
+      "question": "Railway tracks are a real-life example of:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Intersecting lines"
+        },
+        {
+          "id": "B",
+          "text": "Parallel lines"
+        },
+        {
+          "id": "C",
+          "text": "Transversals"
+        },
+        {
+          "id": "D",
+          "text": "Curves"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "125",
+      "question": "Vertically opposite angles are always:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Equal"
+        },
+        {
+          "id": "B",
+          "text": "Unequal"
+        },
+        {
+          "id": "C",
+          "text": "Supplementary"
+        },
+        {
+          "id": "D",
+          "text": "Complementary"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "126",
+      "question": "An angle less than 90° is called:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Obtuse"
+        },
+        {
+          "id": "B",
+          "text": "Right"
+        },
+        {
+          "id": "C",
+          "text": "Acute"
+        },
+        {
+          "id": "D",
+          "text": "Straight"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "127",
+      "question": "If two lines intersect, how many angles form at the intersection?",
+      "options": [
+        {
+          "id": "A",
+          "text": "2"
+        },
+        {
+          "id": "B",
+          "text": "3"
+        },
+        {
+          "id": "C",
+          "text": "4"
+        },
+        {
+          "id": "D",
+          "text": "8"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "128",
+      "question": "Co-interior angles are on the ______ side of the transversal.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Opposite"
+        },
+        {
+          "id": "B",
+          "text": "Same"
+        },
+        {
+          "id": "C",
+          "text": "Alternate"
+        },
+        {
+          "id": "D",
+          "text": "Outside"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "129",
+      "question": "In a paper folding activity, a crease represents a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Point"
+        },
+        {
+          "id": "B",
+          "text": "Line segment"
+        },
+        {
+          "id": "C",
+          "text": "Plane"
+        },
+        {
+          "id": "D",
+          "text": "Angle"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "130",
+      "question": "Alternate interior angles form which shape?",
+      "options": [
+        {
+          "id": "A",
+          "text": "F shape"
+        },
+        {
+          "id": "B",
+          "text": "Z shape"
+        },
+        {
+          "id": "C",
+          "text": "X shape"
+        },
+        {
+          "id": "D",
+          "text": "O shape"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "131",
+      "question": "Alternate interior angles between parallel lines cut by a transversal are:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Equal"
+        },
+        {
+          "id": "B",
+          "text": "Supplementary"
+        },
+        {
+          "id": "C",
+          "text": "Complementary"
+        },
+        {
+          "id": "D",
+          "text": "Adjacent"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "132",
+      "question": "The sum of co-interior angles between parallel lines is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "90°"
+        },
+        {
+          "id": "B",
+          "text": "180°"
+        },
+        {
+          "id": "C",
+          "text": "360°"
+        },
+        {
+          "id": "D",
+          "text": "45°"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "133",
+      "question": "If one angle of a linear pair is 120°, the other is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "120°"
+        },
+        {
+          "id": "B",
+          "text": "90°"
+        },
+        {
+          "id": "C",
+          "text": "60°"
+        },
+        {
+          "id": "D",
+          "text": "80°"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "134",
+      "question": "Corresponding angles are located in the ______ position at each intersection.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Same"
+        },
+        {
+          "id": "B",
+          "text": "Opposite"
+        },
+        {
+          "id": "C",
+          "text": "Alternate"
+        },
+        {
+          "id": "D",
+          "text": "Interior"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "135",
+      "question": "If intersecting lines form one angle of 50°, its vertically opposite angle is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "130°"
+        },
+        {
+          "id": "B",
+          "text": "40°"
+        },
+        {
+          "id": "C",
+          "text": "50°"
+        },
+        {
+          "id": "D",
+          "text": "100°"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "136",
+      "question": "When a transversal cuts two parallel lines, how many pairs of corresponding angles form?",
+      "options": [
+        {
+          "id": "A",
+          "text": "2"
+        },
+        {
+          "id": "B",
+          "text": "4"
+        },
+        {
+          "id": "C",
+          "text": "6"
+        },
+        {
+          "id": "D",
+          "text": "8"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "137",
+      "question": "Which real-life example shows a transversal intersecting parallel lines?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ladder on a wall"
+        },
+        {
+          "id": "B",
+          "text": "Grill gate"
+        },
+        {
+          "id": "C",
+          "text": "Round wheel"
+        },
+        {
+          "id": "D",
+          "text": "Single road"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "138",
+      "question": "If co-interior angles are equal, each angle measures:",
+      "options": [
+        {
+          "id": "A",
+          "text": "45°"
+        },
+        {
+          "id": "B",
+          "text": "90°"
+        },
+        {
+          "id": "C",
+          "text": "180°"
+        },
+        {
+          "id": "D",
+          "text": "60°"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "139",
+      "question": "Adjacent angles on a straight line add up to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "90°"
+        },
+        {
+          "id": "B",
+          "text": "180°"
+        },
+        {
+          "id": "C",
+          "text": "270°"
+        },
+        {
+          "id": "D",
+          "text": "360°"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "140",
+      "question": "If corresponding angles are equal on a transversal, the lines are:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Intersecting"
+        },
+        {
+          "id": "B",
+          "text": "Parallel"
+        },
+        {
+          "id": "C",
+          "text": "Perpendicular"
+        },
+        {
+          "id": "D",
+          "text": "Skew"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "141",
+      "question": "If alternate interior angles are (2x + 10)° and 70°, find x.",
+      "options": [
+        {
+          "id": "A",
+          "text": "30"
+        },
+        {
+          "id": "B",
+          "text": "20"
+        },
+        {
+          "id": "C",
+          "text": "40"
+        },
+        {
+          "id": "D",
+          "text": "60"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "142",
+      "question": "If co-interior angles are in a 2:3 ratio, the angles are:",
+      "options": [
+        {
+          "id": "A",
+          "text": "72°, 108°"
+        },
+        {
+          "id": "B",
+          "text": "40°, 60°"
+        },
+        {
+          "id": "C",
+          "text": "90°, 90°"
+        },
+        {
+          "id": "D",
+          "text": "80°, 100°"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "143",
+      "question": "The bisectors of a pair of alternate interior angles between parallel lines are:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perpendicular"
+        },
+        {
+          "id": "B",
+          "text": "Parallel"
+        },
+        {
+          "id": "C",
+          "text": "Intersecting"
+        },
+        {
+          "id": "D",
+          "text": "Equal"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "144",
+      "question": "If l || m, and angle 1 = 65°, its alternate exterior angle is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "115°"
+        },
+        {
+          "id": "B",
+          "text": "65°"
+        },
+        {
+          "id": "C",
+          "text": "90°"
+        },
+        {
+          "id": "D",
+          "text": "25°"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "145",
+      "question": "An angle is equal to 5 times its supplement. The angle is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "30°"
+        },
+        {
+          "id": "B",
+          "text": "150°"
+        },
+        {
+          "id": "C",
+          "text": "120°"
+        },
+        {
+          "id": "D",
+          "text": "144°"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "146",
+      "question": "A transversal intersects three parallel lines. How many intersection points?",
+      "options": [
+        {
+          "id": "A",
+          "text": "2"
+        },
+        {
+          "id": "B",
+          "text": "3"
+        },
+        {
+          "id": "C",
+          "text": "4"
+        },
+        {
+          "id": "D",
+          "text": "6"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "147",
+      "question": "If vertically opposite angles are (3x - 10)° and (2x + 20)°, find x.",
+      "options": [
+        {
+          "id": "A",
+          "text": "10"
+        },
+        {
+          "id": "B",
+          "text": "20"
+        },
+        {
+          "id": "C",
+          "text": "30"
+        },
+        {
+          "id": "D",
+          "text": "40"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "148",
+      "question": "Co-interior angles are x and 2x - 30. Find x.",
+      "options": [
+        {
+          "id": "A",
+          "text": "70°"
+        },
+        {
+          "id": "B",
+          "text": "80°"
+        },
+        {
+          "id": "C",
+          "text": "110°"
+        },
+        {
+          "id": "D",
+          "text": "60°"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "149",
+      "question": "Can two acute angles be supplementary?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes"
+        },
+        {
+          "id": "B",
+          "text": "No"
+        },
+        {
+          "id": "C",
+          "text": "Only if equal"
+        },
+        {
+          "id": "D",
+          "text": "Depends"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "150",
+      "question": "The sum of all angles around a point is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "180°"
+        },
+        {
+          "id": "B",
+          "text": "270°"
+        },
+        {
+          "id": "C",
+          "text": "360°"
+        },
+        {
+          "id": "D",
+          "text": "540°"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    }
+  ]
+}
