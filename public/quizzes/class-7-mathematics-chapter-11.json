@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "301",
+      "question": "The largest number that divides two or more given numbers without remainder is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "LCM"
+        },
+        {
+          "id": "B",
+          "text": "HCF"
+        },
+        {
+          "id": "C",
+          "text": "Prime Factor"
+        },
+        {
+          "id": "D",
+          "text": "Multiple"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "302",
+      "question": "The smallest number that is a multiple of two or more numbers is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "HCF"
+        },
+        {
+          "id": "B",
+          "text": "LCM"
+        },
+        {
+          "id": "C",
+          "text": "Common divisor"
+        },
+        {
+          "id": "D",
+          "text": "Prime"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "303",
+      "question": "Prime factorization of 12 is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "2 × 6"
+        },
+        {
+          "id": "B",
+          "text": "3 × 4"
+        },
+        {
+          "id": "C",
+          "text": "2 × 2 × 3"
+        },
+        {
+          "id": "D",
+          "text": "1 × 12"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "304",
+      "question": "What is the HCF of two co-prime numbers (like 4 and 9)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "Their product"
+        },
+        {
+          "id": "D",
+          "text": "2"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "305",
+      "question": "The LCM of two co-prime numbers is equal to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Their sum"
+        },
+        {
+          "id": "B",
+          "text": "Their HCF"
+        },
+        {
+          "id": "C",
+          "text": "Their product"
+        },
+        {
+          "id": "D",
+          "text": "1"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "306",
+      "question": "Which of the following is a prime number?",
+      "options": [
+        {
+          "id": "A",
+          "text": "15"
+        },
+        {
+          "id": "B",
+          "text": "21"
+        },
+        {
+          "id": "C",
+          "text": "29"
+        },
+        {
+          "id": "D",
+          "text": "33"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "307",
+      "question": "If one number is a multiple of another, their HCF is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "The larger number"
+        },
+        {
+          "id": "B",
+          "text": "The smaller number"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        },
+        {
+          "id": "D",
+          "text": "Their product"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "308",
+      "question": "Find the HCF of 8 and 12.",
+      "options": [
+        {
+          "id": "A",
+          "text": "2"
+        },
+        {
+          "id": "B",
+          "text": "4"
+        },
+        {
+          "id": "C",
+          "text": "24"
+        },
+        {
+          "id": "D",
+          "text": "6"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "309",
+      "question": "Find the LCM of 3 and 5.",
+      "options": [
+        {
+          "id": "A",
+          "text": "8"
+        },
+        {
+          "id": "B",
+          "text": "15"
+        },
+        {
+          "id": "C",
+          "text": "30"
+        },
+        {
+          "id": "D",
+          "text": "1"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "310",
+      "question": "A common method using a diagram to find prime factors is the:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Factor tree"
+        },
+        {
+          "id": "B",
+          "text": "Venn diagram"
+        },
+        {
+          "id": "C",
+          "text": "Pie chart"
+        },
+        {
+          "id": "D",
+          "text": "Bar graph"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "311",
+      "question": "Find the HCF of 24 and 36.",
+      "options": [
+        {
+          "id": "A",
+          "text": "6"
+        },
+        {
+          "id": "B",
+          "text": "12"
+        },
+        {
+          "id": "C",
+          "text": "72"
+        },
+        {
+          "id": "D",
+          "text": "4"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "312",
+      "question": "Find the LCM of 12 and 18.",
+      "options": [
+        {
+          "id": "A",
+          "text": "36"
+        },
+        {
+          "id": "B",
+          "text": "72"
+        },
+        {
+          "id": "C",
+          "text": "6"
+        },
+        {
+          "id": "D",
+          "text": "216"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "313",
+      "question": "Prime factorization of 180:",
+      "options": [
+        {
+          "id": "A",
+          "text": "2 × 90"
+        },
+        {
+          "id": "B",
+          "text": "2² × 3² × 5"
+        },
+        {
+          "id": "C",
+          "text": "4 × 45"
+        },
+        {
+          "id": "D",
+          "text": "2 × 3 × 5"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "314",
+      "question": "If HCF(a, b) = 6 and LCM(a, b) = 36, product a × b is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "216"
+        },
+        {
+          "id": "B",
+          "text": "42"
+        },
+        {
+          "id": "C",
+          "text": "6"
+        },
+        {
+          "id": "D",
+          "text": "1296"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "315",
+      "question": "Two bells ring every 6 mins and 8 mins. If they ring together now, next together in:",
+      "options": [
+        {
+          "id": "A",
+          "text": "14 mins"
+        },
+        {
+          "id": "B",
+          "text": "24 mins"
+        },
+        {
+          "id": "C",
+          "text": "48 mins"
+        },
+        {
+          "id": "D",
+          "text": "2 mins"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "316",
+      "question": "Greatest length to measure 12m and 16m ropes exactly:",
+      "options": [
+        {
+          "id": "A",
+          "text": "2m"
+        },
+        {
+          "id": "B",
+          "text": "4m"
+        },
+        {
+          "id": "C",
+          "text": "48m"
+        },
+        {
+          "id": "D",
+          "text": "6m"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "317",
+      "question": "HCF of 15, 25, 35:",
+      "options": [
+        {
+          "id": "A",
+          "text": "5"
+        },
+        {
+          "id": "B",
+          "text": "15"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        },
+        {
+          "id": "D",
+          "text": "10"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "318",
+      "question": "LCM of 4, 6, 8:",
+      "options": [
+        {
+          "id": "A",
+          "text": "16"
+        },
+        {
+          "id": "B",
+          "text": "24"
+        },
+        {
+          "id": "C",
+          "text": "48"
+        },
+        {
+          "id": "D",
+          "text": "12"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "319",
+      "question": "If HCF = 4, LCM = 24, one number = 8, other number is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "12"
+        },
+        {
+          "id": "B",
+          "text": "6"
+        },
+        {
+          "id": "C",
+          "text": "16"
+        },
+        {
+          "id": "D",
+          "text": "3"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "320",
+      "question": "Why is 1 not considered prime?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Even number"
+        },
+        {
+          "id": "B",
+          "text": "Exactly two distinct factors required"
+        },
+        {
+          "id": "C",
+          "text": "Negative number"
+        },
+        {
+          "id": "D",
+          "text": "Fraction"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "321",
+      "question": "Smallest number which when divided by 12, 16, 24 leaves remainder 5:",
+      "options": [
+        {
+          "id": "A",
+          "text": "48"
+        },
+        {
+          "id": "B",
+          "text": "53"
+        },
+        {
+          "id": "C",
+          "text": "43"
+        },
+        {
+          "id": "D",
+          "text": "5"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "322",
+      "question": "Greatest 3-digit number exactly divisible by 8, 10, 12:",
+      "options": [
+        {
+          "id": "A",
+          "text": "960"
+        },
+        {
+          "id": "B",
+          "text": "999"
+        },
+        {
+          "id": "C",
+          "text": "840"
+        },
+        {
+          "id": "D",
+          "text": "980"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "323",
+      "question": "Ropes 64cm, 80cm, 96cm cut into equal pieces. Max length?",
+      "options": [
+        {
+          "id": "A",
+          "text": "16cm"
+        },
+        {
+          "id": "B",
+          "text": "8cm"
+        },
+        {
+          "id": "C",
+          "text": "32cm"
+        },
+        {
+          "id": "D",
+          "text": "12cm"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "324",
+      "question": "LCM of two numbers is 180, HCF is 6. If one is 30, other is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "36"
+        },
+        {
+          "id": "B",
+          "text": "40"
+        },
+        {
+          "id": "C",
+          "text": "45"
+        },
+        {
+          "id": "D",
+          "text": "60"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "325",
+      "question": "Three runners take 12s, 15s, 18s per lap. When do they meet at start?",
+      "options": [
+        {
+          "id": "A",
+          "text": "180s"
+        },
+        {
+          "id": "B",
+          "text": "90s"
+        },
+        {
+          "id": "C",
+          "text": "360s"
+        },
+        {
+          "id": "D",
+          "text": "45s"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "326",
+      "question": "HCF of two numbers is 14, their sum is 140. Possible pairs?",
+      "options": [
+        {
+          "id": "A",
+          "text": "(14, 126), (42, 98)"
+        },
+        {
+          "id": "B",
+          "text": "(14, 70)"
+        },
+        {
+          "id": "C",
+          "text": "(28, 112)"
+        },
+        {
+          "id": "D",
+          "text": "None"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "327",
+      "question": "Smallest number divisible by all numbers from 1 to 10:",
+      "options": [
+        {
+          "id": "A",
+          "text": "2520"
+        },
+        {
+          "id": "B",
+          "text": "5040"
+        },
+        {
+          "id": "C",
+          "text": "100"
+        },
+        {
+          "id": "D",
+          "text": "3628800"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "328",
+      "question": "Minimum square tiles to pave a floor 15m 17cm by 9m 2cm:",
+      "options": [
+        {
+          "id": "A",
+          "text": "814"
+        },
+        {
+          "id": "B",
+          "text": "820"
+        },
+        {
+          "id": "C",
+          "text": "714"
+        },
+        {
+          "id": "D",
+          "text": "900"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "329",
+      "question": "Can two numbers have 16 as HCF and 380 as LCM?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes"
+        },
+        {
+          "id": "B",
+          "text": "No (380 not divisible by 16)"
+        },
+        {
+          "id": "C",
+          "text": "Only if primes"
+        },
+        {
+          "id": "D",
+          "text": "Cannot say"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "330",
+      "question": "Product of two numbers is 3072, LCM is 192. HCF is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "16"
+        },
+        {
+          "id": "B",
+          "text": "12"
+        },
+        {
+          "id": "C",
+          "text": "24"
+        },
+        {
+          "id": "D",
+          "text": "8"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    }
+  ]
+}

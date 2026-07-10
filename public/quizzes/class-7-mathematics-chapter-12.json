@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "331",
+      "question": "Multiplying a decimal by 10 shifts the decimal point:",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 right"
+        },
+        {
+          "id": "B",
+          "text": "1 left"
+        },
+        {
+          "id": "C",
+          "text": "2 right"
+        },
+        {
+          "id": "D",
+          "text": "2 left"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "332",
+      "question": "2.5 × 10 equals:",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.25"
+        },
+        {
+          "id": "B",
+          "text": "25"
+        },
+        {
+          "id": "C",
+          "text": "250"
+        },
+        {
+          "id": "D",
+          "text": "2.05"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "333",
+      "question": "Dividing a decimal by 100 shifts the decimal point:",
+      "options": [
+        {
+          "id": "A",
+          "text": "2 right"
+        },
+        {
+          "id": "B",
+          "text": "2 left"
+        },
+        {
+          "id": "C",
+          "text": "1 left"
+        },
+        {
+          "id": "D",
+          "text": "3 left"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "334",
+      "question": "14.5 ÷ 10 equals:",
+      "options": [
+        {
+          "id": "A",
+          "text": "145"
+        },
+        {
+          "id": "B",
+          "text": "1.45"
+        },
+        {
+          "id": "C",
+          "text": "0.145"
+        },
+        {
+          "id": "D",
+          "text": "14.05"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "335",
+      "question": "What is 0.3 × 3?",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.9"
+        },
+        {
+          "id": "B",
+          "text": "9"
+        },
+        {
+          "id": "C",
+          "text": "0.09"
+        },
+        {
+          "id": "D",
+          "text": "90"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "336",
+      "question": "To convert grams to kilograms, divide by:",
+      "options": [
+        {
+          "id": "A",
+          "text": "10"
+        },
+        {
+          "id": "B",
+          "text": "100"
+        },
+        {
+          "id": "C",
+          "text": "1000"
+        },
+        {
+          "id": "D",
+          "text": "1"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "337",
+      "question": "1 cm is equal to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.1 m"
+        },
+        {
+          "id": "B",
+          "text": "0.01 m"
+        },
+        {
+          "id": "C",
+          "text": "10 mm"
+        },
+        {
+          "id": "D",
+          "text": "Both B and C"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "D",
+      "explanation": "The correct answer is D."
+    },
+    {
+      "id": "338",
+      "question": "0.5 × 0.2 equals:",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.1"
+        },
+        {
+          "id": "B",
+          "text": "1.0"
+        },
+        {
+          "id": "C",
+          "text": "0.01"
+        },
+        {
+          "id": "D",
+          "text": "10"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "339",
+      "question": "4.2 ÷ 2 equals:",
+      "options": [
+        {
+          "id": "A",
+          "text": "2.1"
+        },
+        {
+          "id": "B",
+          "text": "8.4"
+        },
+        {
+          "id": "C",
+          "text": "0.21"
+        },
+        {
+          "id": "D",
+          "text": "21"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "340",
+      "question": "0.07 × 1000 equals:",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.7"
+        },
+        {
+          "id": "B",
+          "text": "7"
+        },
+        {
+          "id": "C",
+          "text": "70"
+        },
+        {
+          "id": "D",
+          "text": "700"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "341",
+      "question": "Multiply: 1.2 × 1.2",
+      "options": [
+        {
+          "id": "A",
+          "text": "1.44"
+        },
+        {
+          "id": "B",
+          "text": "14.4"
+        },
+        {
+          "id": "C",
+          "text": "0.144"
+        },
+        {
+          "id": "D",
+          "text": "2.4"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "342",
+      "question": "Divide: 0.25 ÷ 0.5",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.5"
+        },
+        {
+          "id": "B",
+          "text": "5"
+        },
+        {
+          "id": "C",
+          "text": "0.05"
+        },
+        {
+          "id": "D",
+          "text": "2"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "343",
+      "question": "Convert 450 grams to kg:",
+      "options": [
+        {
+          "id": "A",
+          "text": "4.5 kg"
+        },
+        {
+          "id": "B",
+          "text": "0.45 kg"
+        },
+        {
+          "id": "C",
+          "text": "45 kg"
+        },
+        {
+          "id": "D",
+          "text": "0.045 kg"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "344",
+      "question": "1 USD = ₹83.50. Cost of $15?",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹1252.50"
+        },
+        {
+          "id": "B",
+          "text": "₹1250"
+        },
+        {
+          "id": "C",
+          "text": "₹1300.50"
+        },
+        {
+          "id": "D",
+          "text": "₹835"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "345",
+      "question": "Area of rectangle (length 5.5 cm, breadth 2.1 cm):",
+      "options": [
+        {
+          "id": "A",
+          "text": "11.55 cm²"
+        },
+        {
+          "id": "B",
+          "text": "11.5 cm²"
+        },
+        {
+          "id": "C",
+          "text": "12.55 cm²"
+        },
+        {
+          "id": "D",
+          "text": "7.6 cm²"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "346",
+      "question": "Car travels 43.2 km in 2.4 hrs. Speed (km/h)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "18 km/h"
+        },
+        {
+          "id": "B",
+          "text": "20 km/h"
+        },
+        {
+          "id": "C",
+          "text": "16 km/h"
+        },
+        {
+          "id": "D",
+          "text": "19 km/h"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "347",
+      "question": "Solve: 36.8 ÷ 1000",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.368"
+        },
+        {
+          "id": "B",
+          "text": "0.0368"
+        },
+        {
+          "id": "C",
+          "text": "36800"
+        },
+        {
+          "id": "D",
+          "text": "3.68"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "348",
+      "question": "Cost of 1 kg apples is ₹120.50. Cost of 2.5 kg?",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹301.25"
+        },
+        {
+          "id": "B",
+          "text": "₹300"
+        },
+        {
+          "id": "C",
+          "text": "₹241"
+        },
+        {
+          "id": "D",
+          "text": "₹310.50"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "349",
+      "question": "Convert 5 cm 6 mm into cm:",
+      "options": [
+        {
+          "id": "A",
+          "text": "5.6 cm"
+        },
+        {
+          "id": "B",
+          "text": "56 cm"
+        },
+        {
+          "id": "C",
+          "text": "0.56 cm"
+        },
+        {
+          "id": "D",
+          "text": "5.06 cm"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "350",
+      "question": "Solve: (1.5 + 2.5) × 0.5",
+      "options": [
+        {
+          "id": "A",
+          "text": "2.0"
+        },
+        {
+          "id": "B",
+          "text": "2.5"
+        },
+        {
+          "id": "C",
+          "text": "1.5"
+        },
+        {
+          "id": "D",
+          "text": "4.0"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "351",
+      "question": "Divide 0.0072 by 0.12:",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.06"
+        },
+        {
+          "id": "B",
+          "text": "0.6"
+        },
+        {
+          "id": "C",
+          "text": "6"
+        },
+        {
+          "id": "D",
+          "text": "0.006"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "352",
+      "question": "Wire 12.5m cut into 0.25m pieces. How many?",
+      "options": [
+        {
+          "id": "A",
+          "text": "50"
+        },
+        {
+          "id": "B",
+          "text": "5"
+        },
+        {
+          "id": "C",
+          "text": "500"
+        },
+        {
+          "id": "D",
+          "text": "25"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "353",
+      "question": "Petrol is ₹98.60/L. Fuel for ₹1479?",
+      "options": [
+        {
+          "id": "A",
+          "text": "15 L"
+        },
+        {
+          "id": "B",
+          "text": "14 L"
+        },
+        {
+          "id": "C",
+          "text": "16 L"
+        },
+        {
+          "id": "D",
+          "text": "14.5 L"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "354",
+      "question": "Solve: [ (2.4 × 1.5) - 1.2 ] ÷ 0.6",
+      "options": [
+        {
+          "id": "A",
+          "text": "4"
+        },
+        {
+          "id": "B",
+          "text": "3"
+        },
+        {
+          "id": "C",
+          "text": "2"
+        },
+        {
+          "id": "D",
+          "text": "5"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "355",
+      "question": "Thickness of 50 sheets is 7.5mm. One sheet?",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.15 mm"
+        },
+        {
+          "id": "B",
+          "text": "1.5 mm"
+        },
+        {
+          "id": "C",
+          "text": "0.015 mm"
+        },
+        {
+          "id": "D",
+          "text": "15 mm"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "356",
+      "question": "Convert 2 m 5 cm 8 mm to meters:",
+      "options": [
+        {
+          "id": "A",
+          "text": "2.058 m"
+        },
+        {
+          "id": "B",
+          "text": "2.58 m"
+        },
+        {
+          "id": "C",
+          "text": "2.0058 m"
+        },
+        {
+          "id": "D",
+          "text": "25.8 m"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "357",
+      "question": "0.1 × 0.1 × 0.1 equals:",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.001"
+        },
+        {
+          "id": "B",
+          "text": "0.01"
+        },
+        {
+          "id": "C",
+          "text": "0.1"
+        },
+        {
+          "id": "D",
+          "text": "1"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "358",
+      "question": "Product of two decimals is 1.8576. If one is 0.54, other is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "3.44"
+        },
+        {
+          "id": "B",
+          "text": "3.4"
+        },
+        {
+          "id": "C",
+          "text": "3.54"
+        },
+        {
+          "id": "D",
+          "text": "2.44"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "359",
+      "question": "Train covers 240.5 km in 3.5 hrs. Distance in 5 hrs?",
+      "options": [
+        {
+          "id": "A",
+          "text": "343.5 km"
+        },
+        {
+          "id": "B",
+          "text": "340 km"
+        },
+        {
+          "id": "C",
+          "text": "350.5 km"
+        },
+        {
+          "id": "D",
+          "text": "330 km"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "360",
+      "question": "Evaluate: 100 × 0.003 + 10 × 0.04 + 0.5",
+      "options": [
+        {
+          "id": "A",
+          "text": "1.2"
+        },
+        {
+          "id": "B",
+          "text": "0.12"
+        },
+        {
+          "id": "C",
+          "text": "12"
+        },
+        {
+          "id": "D",
+          "text": "0.8"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    }
+  ]
+}

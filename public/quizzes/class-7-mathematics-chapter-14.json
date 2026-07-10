@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "391",
+      "question": "Tool used to draw circles:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ruler"
+        },
+        {
+          "id": "B",
+          "text": "Compass"
+        },
+        {
+          "id": "C",
+          "text": "Protractor"
+        },
+        {
+          "id": "D",
+          "text": "Set square"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "392",
+      "question": "Tool used to measure angles:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Compass"
+        },
+        {
+          "id": "B",
+          "text": "Protractor"
+        },
+        {
+          "id": "C",
+          "text": "Divider"
+        },
+        {
+          "id": "D",
+          "text": "Ruler"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "393",
+      "question": "A pattern of shapes that completely covers a flat plane with no gaps or overlaps:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tessellation (Tiling)"
+        },
+        {
+          "id": "B",
+          "text": "Origami"
+        },
+        {
+          "id": "C",
+          "text": "Symmetry"
+        },
+        {
+          "id": "D",
+          "text": "Projection"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "394",
+      "question": "Which regular polygon can form a pure tiling (tessellation) on its own?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pentagon"
+        },
+        {
+          "id": "B",
+          "text": "Hexagon"
+        },
+        {
+          "id": "C",
+          "text": "Octagon"
+        },
+        {
+          "id": "D",
+          "text": "Heptagon"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "395",
+      "question": "Line that divides an angle into two equal halves:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perpendicular"
+        },
+        {
+          "id": "B",
+          "text": "Angle bisector"
+        },
+        {
+          "id": "C",
+          "text": "Transversal"
+        },
+        {
+          "id": "D",
+          "text": "Chord"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "396",
+      "question": "Line perpendicular to segment at its exact midpoint:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perpendicular bisector"
+        },
+        {
+          "id": "B",
+          "text": "Angle bisector"
+        },
+        {
+          "id": "C",
+          "text": "Tangent"
+        },
+        {
+          "id": "D",
+          "text": "Secant"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "397",
+      "question": "Sum of angles meeting at a vertex in a tiling without gaps:",
+      "options": [
+        {
+          "id": "A",
+          "text": "180°"
+        },
+        {
+          "id": "B",
+          "text": "360°"
+        },
+        {
+          "id": "C",
+          "text": "90°"
+        },
+        {
+          "id": "D",
+          "text": "270°"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "398",
+      "question": "Can equilateral triangles tile a plane with no gaps?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes (60° × 6 = 360°)"
+        },
+        {
+          "id": "B",
+          "text": "No"
+        },
+        {
+          "id": "C",
+          "text": "Only with squares"
+        },
+        {
+          "id": "D",
+          "text": "Never"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "399",
+      "question": "To construct triangle by SSS, what tool is essential along with ruler?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Protractor"
+        },
+        {
+          "id": "B",
+          "text": "Compass"
+        },
+        {
+          "id": "C",
+          "text": "Set square"
+        },
+        {
+          "id": "D",
+          "text": "Divider"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "400",
+      "question": "Any 4-sided polygon that tiles a plane without gaps:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Any quadrilateral"
+        },
+        {
+          "id": "B",
+          "text": "Only square"
+        },
+        {
+          "id": "C",
+          "text": "Only rectangle"
+        },
+        {
+          "id": "D",
+          "text": "None"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "401",
+      "question": "Angle constructed by bisecting a 60° angle:",
+      "options": [
+        {
+          "id": "A",
+          "text": "30°"
+        },
+        {
+          "id": "B",
+          "text": "45°"
+        },
+        {
+          "id": "C",
+          "text": "15°"
+        },
+        {
+          "id": "D",
+          "text": "20°"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "402",
+      "question": "Angle constructed by bisecting a 90° angle:",
+      "options": [
+        {
+          "id": "A",
+          "text": "45°"
+        },
+        {
+          "id": "B",
+          "text": "30°"
+        },
+        {
+          "id": "C",
+          "text": "60°"
+        },
+        {
+          "id": "D",
+          "text": "75°"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "403",
+      "question": "Why can't regular pentagons tile a plane without gaps?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Interior angle is 108°, not a divisor of 360°"
+        },
+        {
+          "id": "B",
+          "text": "5 sides"
+        },
+        {
+          "id": "C",
+          "text": "Too large"
+        },
+        {
+          "id": "D",
+          "text": "Curved edges"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "404",
+      "question": "How many equilateral triangles meet at a vertex in pure tiling?",
+      "options": [
+        {
+          "id": "A",
+          "text": "4"
+        },
+        {
+          "id": "B",
+          "text": "6"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        },
+        {
+          "id": "D",
+          "text": "8"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "405",
+      "question": "How many regular hexagons meet at a vertex in pure tiling?",
+      "options": [
+        {
+          "id": "A",
+          "text": "3 (120° × 3 = 360°)"
+        },
+        {
+          "id": "B",
+          "text": "4"
+        },
+        {
+          "id": "C",
+          "text": "6"
+        },
+        {
+          "id": "D",
+          "text": "2"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "406",
+      "question": "Constructing 120° with compass requires stepping off radius along arc:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Once"
+        },
+        {
+          "id": "B",
+          "text": "Twice"
+        },
+        {
+          "id": "C",
+          "text": "Thrice"
+        },
+        {
+          "id": "D",
+          "text": "Four times"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "407",
+      "question": "What angle is constructed by bisecting angle between 60° and 120° marks?",
+      "options": [
+        {
+          "id": "A",
+          "text": "90°"
+        },
+        {
+          "id": "B",
+          "text": "75°"
+        },
+        {
+          "id": "C",
+          "text": "105°"
+        },
+        {
+          "id": "D",
+          "text": "100°"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "408",
+      "question": "Construct unique triangle if given:",
+      "options": [
+        {
+          "id": "A",
+          "text": "3 angles (AAA)"
+        },
+        {
+          "id": "B",
+          "text": "2 sides & included angle (SAS)"
+        },
+        {
+          "id": "C",
+          "text": "2 sides only"
+        },
+        {
+          "id": "D",
+          "text": "1 side only"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "409",
+      "question": "In tiling with regular octagons and squares, how many octagons and squares meet at a vertex?",
+      "options": [
+        {
+          "id": "A",
+          "text": "2 octagons (135° each) + 1 square (90°)"
+        },
+        {
+          "id": "B",
+          "text": "1 octagon + 2 squares"
+        },
+        {
+          "id": "C",
+          "text": "3 octagons"
+        },
+        {
+          "id": "D",
+          "text": "4 squares"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "410",
+      "question": "Constructing 75° angle using compass involves bisecting gap between:",
+      "options": [
+        {
+          "id": "A",
+          "text": "60° and 90°"
+        },
+        {
+          "id": "B",
+          "text": "0° and 90°"
+        },
+        {
+          "id": "C",
+          "text": "90° and 120°"
+        },
+        {
+          "id": "D",
+          "text": "60° and 120°"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "411",
+      "question": "Constructing right triangle with hypotenuse 10cm and one leg 6cm. Other leg is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "8 cm"
+        },
+        {
+          "id": "B",
+          "text": "7 cm"
+        },
+        {
+          "id": "C",
+          "text": "5 cm"
+        },
+        {
+          "id": "D",
+          "text": "9 cm"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "412",
+      "question": "If perpendicular bisectors of all three sides of triangle intersect, point is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Circumcentre"
+        },
+        {
+          "id": "B",
+          "text": "Incentre"
+        },
+        {
+          "id": "C",
+          "text": "Centroid"
+        },
+        {
+          "id": "D",
+          "text": "Orthocentre"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "413",
+      "question": "Point where angle bisectors of all three angles intersect:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Incentre"
+        },
+        {
+          "id": "B",
+          "text": "Circumcentre"
+        },
+        {
+          "id": "C",
+          "text": "Centroid"
+        },
+        {
+          "id": "D",
+          "text": "Vertex"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "414",
+      "question": "Constructing 22.5° angle using compass requires bisecting:",
+      "options": [
+        {
+          "id": "A",
+          "text": "45° angle"
+        },
+        {
+          "id": "B",
+          "text": "30° angle"
+        },
+        {
+          "id": "C",
+          "text": "60° angle"
+        },
+        {
+          "id": "D",
+          "text": "90° directly"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "415",
+      "question": "Penrose tilings are famous because they:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cover plane without repeating periodically"
+        },
+        {
+          "id": "B",
+          "text": "Use only squares"
+        },
+        {
+          "id": "C",
+          "text": "Have gaps"
+        },
+        {
+          "id": "D",
+          "text": "Are 3D"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "416",
+      "question": "Can any arbitrary triangle (scalene, acute/obtuse) tile a plane?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes, always (two make a parallelogram)"
+        },
+        {
+          "id": "B",
+          "text": "No"
+        },
+        {
+          "id": "C",
+          "text": "Only equilateral"
+        },
+        {
+          "id": "D",
+          "text": "Only right triangles"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "417",
+      "question": "To construct line parallel to l through point P not on l, use property of equal:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Alternate interior angles"
+        },
+        {
+          "id": "B",
+          "text": "Adjacent angles"
+        },
+        {
+          "id": "C",
+          "text": "Linear pairs"
+        },
+        {
+          "id": "D",
+          "text": "Obtuse angles"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "418",
+      "question": "Minimal regular polygons that can tile a plane purely on their own:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Triangle, Square, Hexagon (3 types)"
+        },
+        {
+          "id": "B",
+          "text": "All polygons"
+        },
+        {
+          "id": "C",
+          "text": "Only square"
+        },
+        {
+          "id": "D",
+          "text": "Square & Hexagon only"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "419",
+      "question": "Constructing 135° angle using compass requires:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bisecting angle between 90° and 180°"
+        },
+        {
+          "id": "B",
+          "text": "Bisecting 60°"
+        },
+        {
+          "id": "C",
+          "text": "Adding 45° + 45°"
+        },
+        {
+          "id": "D",
+          "text": "Bisecting 120°"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "420",
+      "question": "In semi-regular tiling with regular hexagons and equilateral triangles, angle sum at vertex is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Two 120° + two 60° = 360°"
+        },
+        {
+          "id": "B",
+          "text": "One 120° + three 60°"
+        },
+        {
+          "id": "C",
+          "text": "Three 120°"
+        },
+        {
+          "id": "D",
+          "text": "Six 60°"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    }
+  ]
+}

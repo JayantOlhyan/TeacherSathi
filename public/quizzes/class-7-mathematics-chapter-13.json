@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "361",
+      "question": "The vertical axis on a graph is called the:",
+      "options": [
+        {
+          "id": "A",
+          "text": "X-axis"
+        },
+        {
+          "id": "B",
+          "text": "Y-axis"
+        },
+        {
+          "id": "C",
+          "text": "Origin"
+        },
+        {
+          "id": "D",
+          "text": "Quadrant"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "362",
+      "question": "The intersection point of the X and Y axes is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Vertex"
+        },
+        {
+          "id": "B",
+          "text": "Origin (0,0)"
+        },
+        {
+          "id": "C",
+          "text": "Coordinate"
+        },
+        {
+          "id": "D",
+          "text": "Intercept"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "363",
+      "question": "In coordinate pair (4, 7), 4 represents:",
+      "options": [
+        {
+          "id": "A",
+          "text": "X-coordinate"
+        },
+        {
+          "id": "B",
+          "text": "Y-coordinate"
+        },
+        {
+          "id": "C",
+          "text": "Origin"
+        },
+        {
+          "id": "D",
+          "text": "Slope"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "364",
+      "question": "The Y-coordinate is also traditionally known as the:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Abscissa"
+        },
+        {
+          "id": "B",
+          "text": "Ordinate"
+        },
+        {
+          "id": "C",
+          "text": "Origin"
+        },
+        {
+          "id": "D",
+          "text": "Axis"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "365",
+      "question": "Point (0, 5) lies on the:",
+      "options": [
+        {
+          "id": "A",
+          "text": "X-axis"
+        },
+        {
+          "id": "B",
+          "text": "Y-axis"
+        },
+        {
+          "id": "C",
+          "text": "Origin"
+        },
+        {
+          "id": "D",
+          "text": "1st Quadrant"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "366",
+      "question": "Graph showing data changes continuously over time:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bar graph"
+        },
+        {
+          "id": "B",
+          "text": "Line graph"
+        },
+        {
+          "id": "C",
+          "text": "Pie chart"
+        },
+        {
+          "id": "D",
+          "text": "Histogram"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "367",
+      "question": "Point (6, 0) lies on the:",
+      "options": [
+        {
+          "id": "A",
+          "text": "X-axis"
+        },
+        {
+          "id": "B",
+          "text": "Y-axis"
+        },
+        {
+          "id": "C",
+          "text": "Origin"
+        },
+        {
+          "id": "D",
+          "text": "2nd Quadrant"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "368",
+      "question": "The X-coordinate is also called the:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Abscissa"
+        },
+        {
+          "id": "B",
+          "text": "Ordinate"
+        },
+        {
+          "id": "C",
+          "text": "Origin"
+        },
+        {
+          "id": "D",
+          "text": "Vertex"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "369",
+      "question": "How many quadrants are formed by X and Y axes?",
+      "options": [
+        {
+          "id": "A",
+          "text": "2"
+        },
+        {
+          "id": "B",
+          "text": "4"
+        },
+        {
+          "id": "C",
+          "text": "6"
+        },
+        {
+          "id": "D",
+          "text": "8"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "370",
+      "question": "If both coordinates are positive (+, +), point lies in:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Quadrant I"
+        },
+        {
+          "id": "B",
+          "text": "Quadrant II"
+        },
+        {
+          "id": "C",
+          "text": "Quadrant III"
+        },
+        {
+          "id": "D",
+          "text": "Quadrant IV"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "371",
+      "question": "Plotting (2,3), (4,3), (6,3) connects to form a line that is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Parallel to X-axis"
+        },
+        {
+          "id": "B",
+          "text": "Parallel to Y-axis"
+        },
+        {
+          "id": "C",
+          "text": "Diagonal"
+        },
+        {
+          "id": "D",
+          "text": "Curved"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "372",
+      "question": "If car speed is constant, distance vs time graph is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Curved line"
+        },
+        {
+          "id": "B",
+          "text": "Straight line"
+        },
+        {
+          "id": "C",
+          "text": "Zig-zag"
+        },
+        {
+          "id": "D",
+          "text": "Circle"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "373",
+      "question": "Coordinate of origin is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "(1,1)"
+        },
+        {
+          "id": "B",
+          "text": "(0,0)"
+        },
+        {
+          "id": "C",
+          "text": "(0,1)"
+        },
+        {
+          "id": "D",
+          "text": "(1,0)"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "374",
+      "question": "If X-coordinate equals Y-coordinate, point lies on diagonal passing through:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Origin"
+        },
+        {
+          "id": "B",
+          "text": "Only X-axis"
+        },
+        {
+          "id": "C",
+          "text": "Only Y-axis"
+        },
+        {
+          "id": "D",
+          "text": "Neither"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "375",
+      "question": "Which point is 5 units right of Y-axis and 2 units above X-axis?",
+      "options": [
+        {
+          "id": "A",
+          "text": "(2, 5)"
+        },
+        {
+          "id": "B",
+          "text": "(5, 2)"
+        },
+        {
+          "id": "C",
+          "text": "(0, 5)"
+        },
+        {
+          "id": "D",
+          "text": "(5, 0)"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "376",
+      "question": "In graph of plant growth vs days, what is the independent variable on X-axis?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Height"
+        },
+        {
+          "id": "B",
+          "text": "Days"
+        },
+        {
+          "id": "C",
+          "text": "Sunlight"
+        },
+        {
+          "id": "D",
+          "text": "Water"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "377",
+      "question": "Find midpoint between (0,0) and (4,6):",
+      "options": [
+        {
+          "id": "A",
+          "text": "(2, 3)"
+        },
+        {
+          "id": "B",
+          "text": "(4, 3)"
+        },
+        {
+          "id": "C",
+          "text": "(2, 6)"
+        },
+        {
+          "id": "D",
+          "text": "(1, 2)"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "378",
+      "question": "If vertices of square are (0,0), (0,4), (4,4), what is the 4th vertex?",
+      "options": [
+        {
+          "id": "A",
+          "text": "(4, 0)"
+        },
+        {
+          "id": "B",
+          "text": "(0, 4)"
+        },
+        {
+          "id": "C",
+          "text": "(2, 2)"
+        },
+        {
+          "id": "D",
+          "text": "(4, 2)"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "379",
+      "question": "Point (3, 4) is how far from X-axis?",
+      "options": [
+        {
+          "id": "A",
+          "text": "3 units"
+        },
+        {
+          "id": "B",
+          "text": "4 units"
+        },
+        {
+          "id": "C",
+          "text": "5 units"
+        },
+        {
+          "id": "D",
+          "text": "7 units"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "380",
+      "question": "Distance between (2, 0) and (7, 0) is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "5 units"
+        },
+        {
+          "id": "B",
+          "text": "9 units"
+        },
+        {
+          "id": "C",
+          "text": "2 units"
+        },
+        {
+          "id": "D",
+          "text": "7 units"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "381",
+      "question": "Perimeter of rectangle with vertices (1,1), (6,1), (6,4), (1,4):",
+      "options": [
+        {
+          "id": "A",
+          "text": "16 units"
+        },
+        {
+          "id": "B",
+          "text": "15 units"
+        },
+        {
+          "id": "C",
+          "text": "20 units"
+        },
+        {
+          "id": "D",
+          "text": "12 units"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "382",
+      "question": "Area of triangle with vertices (0,0), (6,0), (0,8):",
+      "options": [
+        {
+          "id": "A",
+          "text": "24 sq units"
+        },
+        {
+          "id": "B",
+          "text": "48 sq units"
+        },
+        {
+          "id": "C",
+          "text": "14 sq units"
+        },
+        {
+          "id": "D",
+          "text": "30 sq units"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "383",
+      "question": "Which point does NOT lie on line y = 2x + 1?",
+      "options": [
+        {
+          "id": "A",
+          "text": "(1, 3)"
+        },
+        {
+          "id": "B",
+          "text": "(2, 5)"
+        },
+        {
+          "id": "C",
+          "text": "(3, 6)"
+        },
+        {
+          "id": "D",
+          "text": "(0, 1)"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "384",
+      "question": "A line passes through (1,2) and (2,4). Next integer point is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "(3, 6)"
+        },
+        {
+          "id": "B",
+          "text": "(3, 5)"
+        },
+        {
+          "id": "C",
+          "text": "(4, 6)"
+        },
+        {
+          "id": "D",
+          "text": "(3, 4)"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "385",
+      "question": "Temperature drops 2°C/hr from 10°C at 12 PM. At what time does graph hit 0°C on Y-axis?",
+      "options": [
+        {
+          "id": "A",
+          "text": "5 PM"
+        },
+        {
+          "id": "B",
+          "text": "4 PM"
+        },
+        {
+          "id": "C",
+          "text": "6 PM"
+        },
+        {
+          "id": "D",
+          "text": "3 PM"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "386",
+      "question": "Reflection of point (3, 5) across the X-axis:",
+      "options": [
+        {
+          "id": "A",
+          "text": "(3, -5)"
+        },
+        {
+          "id": "B",
+          "text": "(-3, 5)"
+        },
+        {
+          "id": "C",
+          "text": "(-3, -5)"
+        },
+        {
+          "id": "D",
+          "text": "(5, 3)"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "387",
+      "question": "Reflection of point (3, 5) across the Y-axis:",
+      "options": [
+        {
+          "id": "A",
+          "text": "(-3, 5)"
+        },
+        {
+          "id": "B",
+          "text": "(3, -5)"
+        },
+        {
+          "id": "C",
+          "text": "(-3, -5)"
+        },
+        {
+          "id": "D",
+          "text": "(5, 3)"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "388",
+      "question": "Three vertices of parallelogram: (0,0), (5,0), (2,3). 4th vertex?",
+      "options": [
+        {
+          "id": "A",
+          "text": "(7, 3)"
+        },
+        {
+          "id": "B",
+          "text": "(3, 7)"
+        },
+        {
+          "id": "C",
+          "text": "(5, 3)"
+        },
+        {
+          "id": "D",
+          "text": "(6, 3)"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "389",
+      "question": "If point (k, 2k) lies on line x + y = 12, find k:",
+      "options": [
+        {
+          "id": "A",
+          "text": "4"
+        },
+        {
+          "id": "B",
+          "text": "3"
+        },
+        {
+          "id": "C",
+          "text": "6"
+        },
+        {
+          "id": "D",
+          "text": "2"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "390",
+      "question": "Graph of cost C = 50 + 10n intercepts Y-axis at:",
+      "options": [
+        {
+          "id": "A",
+          "text": "(0, 50)"
+        },
+        {
+          "id": "B",
+          "text": "(50, 0)"
+        },
+        {
+          "id": "C",
+          "text": "(0, 10)"
+        },
+        {
+          "id": "D",
+          "text": "(10, 0)"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    }
+  ]
+}
