@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "What twin processes give animals the energy they need from the food they eat?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Excretion and sleep"
+        },
+        {
+          "id": "B",
+          "text": "Nutrition and Respiration"
+        },
+        {
+          "id": "C",
+          "text": "Breathing and moving"
+        },
+        {
+          "id": "D",
+          "text": "Sleeping and eating"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Nutrition provides the chemical fuel (glucose), and respiration releases energy from it using oxygen."
+    },
+    {
+      "id": "2",
+      "question": "Where does the mechanical and chemical digestion of food begin in humans?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Stomach"
+        },
+        {
+          "id": "B",
+          "text": "Small intestine"
+        },
+        {
+          "id": "C",
+          "text": "Mouth"
+        },
+        {
+          "id": "D",
+          "text": "Liver"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Digestion initiates in the mouth with chewing and salivary enzymes."
+    },
+    {
+      "id": "3",
+      "question": "What is the long muscular tube that carries food from the mouth directly to the stomach?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Windpipe"
+        },
+        {
+          "id": "B",
+          "text": "Oesophagus (Food pipe)"
+        },
+        {
+          "id": "C",
+          "text": "Small intestine"
+        },
+        {
+          "id": "D",
+          "text": "Blood vessel"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The oesophagus acts as a transport conduit, bypassing the lungs."
+    },
+    {
+      "id": "4",
+      "question": "The physical, muscular process of taking in oxygen and giving out carbon dioxide is called:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Respiration"
+        },
+        {
+          "id": "B",
+          "text": "Breathing"
+        },
+        {
+          "id": "C",
+          "text": "Digestion"
+        },
+        {
+          "id": "D",
+          "text": "Excretion"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Breathing is the mechanical ventilation of the lungs, distinct from cellular respiration."
+    },
+    {
+      "id": "5",
+      "question": "Which specific gas do animals need to take from the air for survival?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Carbon dioxide"
+        },
+        {
+          "id": "B",
+          "text": "Nitrogen"
+        },
+        {
+          "id": "C",
+          "text": "Oxygen"
+        },
+        {
+          "id": "D",
+          "text": "Hydrogen"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Oxygen is the terminal electron acceptor required for cellular respiration."
+    },
+    {
+      "id": "6",
+      "question": "What specialized organ do fish use to breathe dissolved oxygen underwater?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lungs"
+        },
+        {
+          "id": "B",
+          "text": "Skin"
+        },
+        {
+          "id": "C",
+          "text": "Gills"
+        },
+        {
+          "id": "D",
+          "text": "Nose"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Gills are highly vascularized structures adapted for aquatic gas exchange."
+    },
+    {
+      "id": "7",
+      "question": "Which part of the human digestive system absorbs most of the nutrients from food into the blood?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Stomach"
+        },
+        {
+          "id": "B",
+          "text": "Small intestine"
+        },
+        {
+          "id": "C",
+          "text": "Large intestine"
+        },
+        {
+          "id": "D",
+          "text": "Mouth"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The extremely long small intestine is lined with villi to maximize nutrient absorption."
+    },
+    {
+      "id": "8",
+      "question": "What is the primary function of the large intestine?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To digest proteins"
+        },
+        {
+          "id": "B",
+          "text": "To absorb remaining water and form solid stool"
+        },
+        {
+          "id": "C",
+          "text": "To chew food"
+        },
+        {
+          "id": "D",
+          "text": "To breathe"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "It recovers vital water and electrolytes from indigestible matter prior to egestion."
+    },
+    {
+      "id": "9",
+      "question": "How do earthworms manage to breathe without lungs?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Through tiny gills"
+        },
+        {
+          "id": "B",
+          "text": "Through a nose"
+        },
+        {
+          "id": "C",
+          "text": "Through their moist, highly permeable skin"
+        },
+        {
+          "id": "D",
+          "text": "Through their mouth"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Earthworms utilize cutaneous respiration, requiring a moist environment to diffuse gases."
+    },
+    {
+      "id": "10",
+      "question": "What bony structure protects the delicate lungs in the human body?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Skull"
+        },
+        {
+          "id": "B",
+          "text": "Ribcage"
+        },
+        {
+          "id": "C",
+          "text": "Diaphragm"
+        },
+        {
+          "id": "D",
+          "text": "Heart"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The ribcage forms a protective, flexible enclosure that expands during breathing."
+    },
+    {
+      "id": "11",
+      "question": "Why does a plain piece of chapati begin to taste sweet after chewing it for a while?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It contains sugar naturally"
+        },
+        {
+          "id": "B",
+          "text": "Saliva contains enzymes (amylase) that break down complex starch into simple sugars"
+        },
+        {
+          "id": "C",
+          "text": "The teeth add flavor"
+        },
+        {
+          "id": "D",
+          "text": "Chapati is dessert"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Chemical digestion in the mouth actively converts tasteless starch into sweet maltose."
+    },
+    {
+      "id": "12",
+      "question": "What crucial mechanical role does the diaphragm play in breathing?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It digests food"
+        },
+        {
+          "id": "B",
+          "text": "It filters dust"
+        },
+        {
+          "id": "C",
+          "text": "It moves down to expand the chest (inhalation) and up to push air out (exhalation)"
+        },
+        {
+          "id": "D",
+          "text": "It pumps blood"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "It acts as a vacuum pump, altering the pressure in the thoracic cavity."
+    },
+    {
+      "id": "13",
+      "question": "How is respiration fundamentally different from breathing?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They are exactly the same word"
+        },
+        {
+          "id": "B",
+          "text": "Breathing is a chemical process; respiration is physical"
+        },
+        {
+          "id": "C",
+          "text": "Breathing is physical ventilation; respiration is the cellular chemical release of energy"
+        },
+        {
+          "id": "D",
+          "text": "Respiration only happens at night"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Breathing moves air; respiration breaks down glucose inside cells."
+    },
+    {
+      "id": "14",
+      "question": "Which organ secretes bile juice to specifically help digest dietary fats?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pancreas"
+        },
+        {
+          "id": "B",
+          "text": "Stomach"
+        },
+        {
+          "id": "C",
+          "text": "Liver"
+        },
+        {
+          "id": "D",
+          "text": "Small intestine"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The liver produces bile, which emulsifies large fat globules into smaller ones for enzymes."
+    },
+    {
+      "id": "15",
+      "question": "What are the millions of tiny air sacs in the lungs where actual gas exchange occurs called?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bronchi"
+        },
+        {
+          "id": "B",
+          "text": "Villi"
+        },
+        {
+          "id": "C",
+          "text": "Alveoli"
+        },
+        {
+          "id": "D",
+          "text": "Nostrils"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Alveoli provide a massive surface area for oxygen to diffuse into the blood."
+    },
+    {
+      "id": "16",
+      "question": "Why do cows keep chewing continuously, even when they aren't eating fresh grass?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They are hungry"
+        },
+        {
+          "id": "B",
+          "text": "They are \"ruminating\"—bringing partly digested food back from the stomach to chew again"
+        },
+        {
+          "id": "C",
+          "text": "To clean their teeth"
+        },
+        {
+          "id": "D",
+          "text": "Because of a reflex"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Ruminants have complex stomachs to digest tough plant cellulose through repeated chewing."
+    },
+    {
+      "id": "17",
+      "question": "What is the wave-like muscle contraction that forcefully pushes food down the oesophagus called?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Peristalsis"
+        },
+        {
+          "id": "B",
+          "text": "Digestion"
+        },
+        {
+          "id": "C",
+          "text": "Respiration"
+        },
+        {
+          "id": "D",
+          "text": "Excretion"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "Peristalsis ensures food moves toward the stomach, even against gravity."
+    },
+    {
+      "id": "18",
+      "question": "Why do we violently sneeze when we inhale dust-laden air?",
+      "options": [
+        {
+          "id": "A",
+          "text": "We are allergic to oxygen"
+        },
+        {
+          "id": "B",
+          "text": "Hairs and mucus trap dust, irritating the nose, and a sneeze reflex forcefully clears the airway"
+        },
+        {
+          "id": "C",
+          "text": "It cools the nose down"
+        },
+        {
+          "id": "D",
+          "text": "It is a sign of sleep"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Sneezing is a rapid neurological defense mechanism to expel harmful foreign particles."
+    },
+    {
+      "id": "19",
+      "question": "If you chew chapati and then test it with iodine, why might it NOT turn a dark blue-black color?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Chapati has no starch"
+        },
+        {
+          "id": "B",
+          "text": "Iodine is broken"
+        },
+        {
+          "id": "C",
+          "text": "Saliva has already digested the starch into sugar, which doesn't react with iodine"
+        },
+        {
+          "id": "D",
+          "text": "The chapati was cold"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "This experiment visually proves that enzymatic digestion of starch has occurred in the mouth."
+    },
+    {
+      "id": "20",
+      "question": "Birds lack teeth entirely. What specialized muscular organ do they use to grind their food?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rumen"
+        },
+        {
+          "id": "B",
+          "text": "Gizzard"
+        },
+        {
+          "id": "C",
+          "text": "Crop"
+        },
+        {
+          "id": "D",
+          "text": "Beak"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Birds often swallow small stones that sit in the gizzard to help physically grind up seeds."
+    },
+    {
+      "id": "21",
+      "question": "What is the complete, correct word equation for aerobic cellular respiration?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Oxygen + Water → Glucose + CO2"
+        },
+        {
+          "id": "B",
+          "text": "Glucose + Oxygen → Carbon dioxide + Water + Energy"
+        },
+        {
+          "id": "C",
+          "text": "Glucose + CO2 → Oxygen + Water + Energy"
+        },
+        {
+          "id": "D",
+          "text": "Starch + Saliva → Sugar"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "This equation defines the fundamental metabolic process that sustains most animal life."
+    },
+    {
+      "id": "22",
+      "question": "Anusha breathes much faster than Paridhi after running. What is the most scientifically sound physiological explanation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Anusha has naturally larger lungs"
+        },
+        {
+          "id": "B",
+          "text": "Anusha's body may be less efficient at oxygenating blood, or she has a condition like asthma, requiring a faster breathing rate to meet energy demands"
+        },
+        {
+          "id": "C",
+          "text": "Paridhi did not run"
+        },
+        {
+          "id": "D",
+          "text": "Anusha is holding her breath"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Increased respiratory rate compensates for a less efficient cardiovascular or pulmonary system."
+    },
+    {
+      "id": "23",
+      "question": "In a lab experiment, exhaled air is blown through a straw into lime water, which then turns milky. What does this definitively prove?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Exhaled air contains oxygen"
+        },
+        {
+          "id": "B",
+          "text": "Exhaled air is rich in carbon dioxide, which reacts to precipitate calcium carbonate"
+        },
+        {
+          "id": "C",
+          "text": "Lime water is milk"
+        },
+        {
+          "id": "D",
+          "text": "Exhaled air is highly acidic"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "This is the standard chemical test confirming CO2 as a byproduct of respiration."
+    },
+    {
+      "id": "24",
+      "question": "Which of the following statements about inhaled air is most scientifically accurate and nuanced?",
+      "options": [
+        {
+          "id": "A",
+          "text": "We inhale only pure 100% oxygen"
+        },
+        {
+          "id": "B",
+          "text": "We inhale a mixture of gases, but it is \"rich in oxygen\" compared to the air we exhale"
+        },
+        {
+          "id": "C",
+          "text": "We inhale only carbon dioxide"
+        },
+        {
+          "id": "D",
+          "text": "We inhale liquid water vapor"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Ambient air is roughly 78% nitrogen and 21% oxygen; we extract a fraction of that oxygen."
+    },
+    {
+      "id": "25",
+      "question": "How does an amphibian like a frog manage to survive effectively both in water and on land?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It uses gills for both environments"
+        },
+        {
+          "id": "B",
+          "text": "It develops lungs for land, and utilizes its highly vascularized moist skin to absorb oxygen in water"
+        },
+        {
+          "id": "C",
+          "text": "It holds its breath"
+        },
+        {
+          "id": "D",
+          "text": "It has a diving suit"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Frogs exhibit remarkable physiological adaptation, shifting between pulmonary and cutaneous respiration."
+    },
+    {
+      "id": "26",
+      "question": "What vital role does the thick layer of mucus play in the human stomach?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It digests complex fats"
+        },
+        {
+          "id": "B",
+          "text": "It absorbs water into the blood"
+        },
+        {
+          "id": "C",
+          "text": "It protects the stomach lining from being digested by its own strong hydrochloric acid"
+        },
+        {
+          "id": "D",
+          "text": "It makes the food sweet"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Without mucus, the stomach's acid would cause severe internal ulceration."
+    },
+    {
+      "id": "27",
+      "question": "Why is dietary fiber (roughage) so important in our diet if our bodies completely lack the enzymes to digest it?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It provides massive amounts of energy"
+        },
+        {
+          "id": "B",
+          "text": "It turns directly into muscle tissue"
+        },
+        {
+          "id": "C",
+          "text": "It adds necessary bulk, aiding in peristalsis and the smooth egestion of waste, preventing constipation"
+        },
+        {
+          "id": "D",
+          "text": "It cools the stomach"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Roughage acts as an internal scrubber, maintaining the mechanical health of the colon."
+    },
+    {
+      "id": "28",
+      "question": "Which of the following components is anatomically NOT part of the human respiratory system?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Trachea (windpipe)"
+        },
+        {
+          "id": "B",
+          "text": "Alveoli"
+        },
+        {
+          "id": "C",
+          "text": "Oesophagus"
+        },
+        {
+          "id": "D",
+          "text": "Nasal passages"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "The oesophagus is strictly a digestive conduit, situated dorsally to the trachea."
+    },
+    {
+      "id": "29",
+      "question": "You construct a lung model using a plastic bottle and a rubber sheet at the bottom. Pulling the rubber sheet down inflates balloons inside. What anatomical structure does the rubber sheet represent?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The lungs themselves"
+        },
+        {
+          "id": "B",
+          "text": "The trachea"
+        },
+        {
+          "id": "C",
+          "text": "The diaphragm contracting downward"
+        },
+        {
+          "id": "D",
+          "text": "The ribs expanding"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Pulling the sheet creates negative pressure inside the bottle, drawing air in to inflate the \"lungs\"."
+    },
+    {
+      "id": "30",
+      "question": "If a person's small intestine was surgically shortened, what would be the primary, severe health consequence?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They couldn't breathe"
+        },
+        {
+          "id": "B",
+          "text": "They would suffer from severe malnutrition because the surface area for nutrient absorption into the blood would drop drastically"
+        },
+        {
+          "id": "C",
+          "text": "They would stop sweating"
+        },
+        {
+          "id": "D",
+          "text": "They couldn't chew food"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The massive length and villi of the small intestine are critical for caloric and nutrient uptake."
+    }
+  ]
+}

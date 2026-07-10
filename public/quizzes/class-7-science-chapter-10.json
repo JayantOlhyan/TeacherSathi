@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "What is the specific process by which green plants manufacture their own food?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Respiration"
+        },
+        {
+          "id": "B",
+          "text": "Digestion"
+        },
+        {
+          "id": "C",
+          "text": "Photosynthesis"
+        },
+        {
+          "id": "D",
+          "text": "Excretion"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Photosynthesis (photo = light, synthesis = putting together) is the creation of glucose."
+    },
+    {
+      "id": "2",
+      "question": "Which green pigment in leaves is absolutely essential for absorbing light energy?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Melanin"
+        },
+        {
+          "id": "B",
+          "text": "Carotene"
+        },
+        {
+          "id": "C",
+          "text": "Chlorophyll"
+        },
+        {
+          "id": "D",
+          "text": "Hemoglobin"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Chlorophyll traps the solar energy required to drive the photosynthetic reaction."
+    },
+    {
+      "id": "3",
+      "question": "What are the three basic raw materials needed for photosynthesis?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Oxygen, Sugar, and Heat"
+        },
+        {
+          "id": "B",
+          "text": "Carbon dioxide, Water, and Sunlight"
+        },
+        {
+          "id": "C",
+          "text": "Soil, Rocks, and Air"
+        },
+        {
+          "id": "D",
+          "text": "Nitrogen, Oxygen, and Rain"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Plants combine atmospheric CO2 and soil water, powered by sunlight, to create biomass."
+    },
+    {
+      "id": "4",
+      "question": "Which gas is released into the atmosphere as a life-sustaining by-product of photosynthesis?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Carbon dioxide"
+        },
+        {
+          "id": "B",
+          "text": "Nitrogen"
+        },
+        {
+          "id": "C",
+          "text": "Oxygen"
+        },
+        {
+          "id": "D",
+          "text": "Hydrogen"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The splitting of water molecules releases oxygen, which sustains almost all animal life."
+    },
+    {
+      "id": "5",
+      "question": "What are the tiny, microscopic pores on the surface of leaves called?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Villi"
+        },
+        {
+          "id": "B",
+          "text": "Alveoli"
+        },
+        {
+          "id": "C",
+          "text": "Stomata"
+        },
+        {
+          "id": "D",
+          "text": "Chloroplasts"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Stomata act as regulated doorways for gas exchange (CO2 in, O2 out)."
+    },
+    {
+      "id": "6",
+      "question": "Which tube-like vascular tissue transports water upward from the roots?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Phloem"
+        },
+        {
+          "id": "B",
+          "text": "Xylem"
+        },
+        {
+          "id": "C",
+          "text": "Vein"
+        },
+        {
+          "id": "D",
+          "text": "Artery"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Xylem vessels form a continuous capillary network conducting water and dissolved minerals."
+    },
+    {
+      "id": "7",
+      "question": "Which vascular structure transports the manufactured food (glucose) from leaves to the rest of the plant?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Xylem"
+        },
+        {
+          "id": "B",
+          "text": "Phloem"
+        },
+        {
+          "id": "C",
+          "text": "Roots"
+        },
+        {
+          "id": "D",
+          "text": "Stomata"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Phloem distributes the energetic products of photosynthesis for growth and storage."
+    },
+    {
+      "id": "8",
+      "question": "What visibly happens to a healthy plant if it is locked in a completely dark room for two weeks?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It grows much faster"
+        },
+        {
+          "id": "B",
+          "text": "It becomes pale, weak, and yellow"
+        },
+        {
+          "id": "C",
+          "text": "It turns dark red"
+        },
+        {
+          "id": "D",
+          "text": "It produces more fruit"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Without light, chlorophyll degrades and the plant starves, losing its green color (etiolation)."
+    },
+    {
+      "id": "9",
+      "question": "How do plants physically \"breathe\" or exchange gases with the air?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Through roots only"
+        },
+        {
+          "id": "B",
+          "text": "Through stomata on their leaves"
+        },
+        {
+          "id": "C",
+          "text": "Through flowers"
+        },
+        {
+          "id": "D",
+          "text": "They don't exchange gases"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Stomata open and close to manage the diffusion of vital gases."
+    },
+    {
+      "id": "10",
+      "question": "In what chemical form do plants primarily store the excess food they make?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Protein"
+        },
+        {
+          "id": "B",
+          "text": "Fat"
+        },
+        {
+          "id": "C",
+          "text": "Starch"
+        },
+        {
+          "id": "D",
+          "text": "Salt"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Soluble glucose is converted into insoluble starch for long-term storage in leaves and tubers."
+    },
+    {
+      "id": "11",
+      "question": "Which chemical indicator is used in the laboratory to test a leaf for the presence of starch?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Alcohol"
+        },
+        {
+          "id": "B",
+          "text": "Iodine solution"
+        },
+        {
+          "id": "C",
+          "text": "Vinegar"
+        },
+        {
+          "id": "D",
+          "text": "Lime water"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Iodine forms a highly visible blue-black complex when it reacts with starch molecules."
+    },
+    {
+      "id": "12",
+      "question": "Why must a leaf be boiled in alcohol before applying the iodine test?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To cook the leaf"
+        },
+        {
+          "id": "B",
+          "text": "To extract the green chlorophyll so the color change can be clearly seen"
+        },
+        {
+          "id": "C",
+          "text": "To make it taste good"
+        },
+        {
+          "id": "D",
+          "text": "To add water"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The dark green pigment obscures the blue-black reaction; alcohol acts as a solvent to remove it."
+    },
+    {
+      "id": "13",
+      "question": "If you cover a part of a leaf with black paper and leave the plant in sunlight, what will happen to the covered part during an iodine test?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It turns dark blue-black"
+        },
+        {
+          "id": "B",
+          "text": "It explodes"
+        },
+        {
+          "id": "C",
+          "text": "It shows no color change because no starch was formed"
+        },
+        {
+          "id": "D",
+          "text": "It turns bright green"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "By blocking sunlight, you halt photosynthesis, proving light is an absolute requirement."
+    },
+    {
+      "id": "14",
+      "question": "How are photosynthesis and respiration fundamentally related in plants?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They are the exact same thing"
+        },
+        {
+          "id": "B",
+          "text": "Photosynthesis creates food and oxygen; respiration breaks down that food using oxygen to release energy"
+        },
+        {
+          "id": "C",
+          "text": "Plants only do photosynthesis"
+        },
+        {
+          "id": "D",
+          "text": "Respiration makes sunlight"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "They are complementary processes; one stores solar energy in chemical bonds, the other releases it."
+    },
+    {
+      "id": "15",
+      "question": "If a plant with variegated (green and white) leaves is tested for starch, which specific parts will turn blue-black?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The white parts"
+        },
+        {
+          "id": "B",
+          "text": "Only the green parts"
+        },
+        {
+          "id": "C",
+          "text": "All parts equally"
+        },
+        {
+          "id": "D",
+          "text": "None of the parts"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Only the green parts contain chlorophyll, proving the pigment is necessary for starch production."
+    },
+    {
+      "id": "16",
+      "question": "How does the broad and flat structure of a typical leaf benefit the plant?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It makes the plant heavier to resist wind"
+        },
+        {
+          "id": "B",
+          "text": "It provides a massive surface area to absorb maximum sunlight and facilitates rapid gas exchange"
+        },
+        {
+          "id": "C",
+          "text": "It keeps insect pests away"
+        },
+        {
+          "id": "D",
+          "text": "It stores vast amounts of water"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Form follows function; flat leaves act like highly efficient solar panels."
+    },
+    {
+      "id": "17",
+      "question": "What happens if you enclose a leaf in a sealed bottle containing a chemical that completely absorbs Carbon Dioxide?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The leaf grows significantly faster"
+        },
+        {
+          "id": "B",
+          "text": "The leaf forms extra starch"
+        },
+        {
+          "id": "C",
+          "text": "The leaf will fail to form starch because CO2 is missing"
+        },
+        {
+          "id": "D",
+          "text": "The leaf turns blue immediately"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "This experiment isolates CO2, proving it is a mandatory reactant for synthesizing glucose."
+    },
+    {
+      "id": "18",
+      "question": "Do non-green parts of a plant, like young green stems, perform photosynthesis?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Never"
+        },
+        {
+          "id": "B",
+          "text": "Yes, if they contain chlorophyll they can photosynthesize"
+        },
+        {
+          "id": "C",
+          "text": "Only at night"
+        },
+        {
+          "id": "D",
+          "text": "Only during winter"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Photosynthesis is not strictly limited to leaves; any chlorophyll-bearing tissue can contribute."
+    },
+    {
+      "id": "19",
+      "question": "How does ambient temperature affect the transport of water upward in plants?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cold speeds it up immensely"
+        },
+        {
+          "id": "B",
+          "text": "Warm conditions speed up water transport due to increased evaporation (transpiration pull)"
+        },
+        {
+          "id": "C",
+          "text": "Temperature has no measurable effect"
+        },
+        {
+          "id": "D",
+          "text": "Warm conditions stop it completely"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Higher temperatures drive transpiration, creating a negative pressure that pulls water up the xylem faster."
+    },
+    {
+      "id": "20",
+      "question": "Why do visible bubbles form when a submerged water plant (like Hydrilla) is kept in direct sunlight?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The water is literally boiling"
+        },
+        {
+          "id": "B",
+          "text": "The plant is actively releasing oxygen gas as a by-product of photosynthesis"
+        },
+        {
+          "id": "C",
+          "text": "The plant is drowning"
+        },
+        {
+          "id": "D",
+          "text": "Fish are breathing nearby"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Gathering these bubbles allows scientists to prove that oxygen is generated during the process."
+    },
+    {
+      "id": "21",
+      "question": "What is the perfectly balanced chemical word equation for photosynthesis?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Glucose + Oxygen → CO2 + Water"
+        },
+        {
+          "id": "B",
+          "text": "Carbon dioxide + Water + (Sunlight/Chlorophyll) → Glucose + Oxygen"
+        },
+        {
+          "id": "C",
+          "text": "Water + CO2 → Acid + Base"
+        },
+        {
+          "id": "D",
+          "text": "Oxygen + Water → Starch"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "This equation encapsulates the conversion of inorganic matter into organic fuel using solar energy."
+    },
+    {
+      "id": "22",
+      "question": "What would happen to life on Earth if a catastrophe caused all photosynthetic organisms to disappear?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nothing, animals would just eat each other"
+        },
+        {
+          "id": "B",
+          "text": "Oxygen levels would plummet and the entire global food web would collapse, leading to mass extinction"
+        },
+        {
+          "id": "C",
+          "text": "It would get much colder"
+        },
+        {
+          "id": "D",
+          "text": "The oceans would dry up"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Plants are the foundational primary producers; without them, aerobic life and food chains cannot exist."
+    },
+    {
+      "id": "23",
+      "question": "In an enclosed experiment, Test Tube A has a plant, B has a snail, and C has both. Why does the snail in C survive significantly longer than the snail in B?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The plant provides shade"
+        },
+        {
+          "id": "B",
+          "text": "They form a micro-ecosystem: the plant provides oxygen for the snail, while the snail provides CO2 for the plant"
+        },
+        {
+          "id": "C",
+          "text": "The snail eats the glass"
+        },
+        {
+          "id": "D",
+          "text": "The plant generates extra water"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "This demonstrates the interdependence of plants and animals regarding respiratory gases."
+    },
+    {
+      "id": "24",
+      "question": "A student wants to definitively prove that the gas bubbles released by a water plant are oxygen. How can they test it?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Smell it for a fresh scent"
+        },
+        {
+          "id": "B",
+          "text": "Drink the water"
+        },
+        {
+          "id": "C",
+          "text": "Bring a glowing matchstick near the trapped gas; it will reignite or burn brightly"
+        },
+        {
+          "id": "D",
+          "text": "Put lime water in it to see if it turns milky"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Oxygen is an oxidizer that vigorously supports combustion, a classic chemical test."
+    },
+    {
+      "id": "25",
+      "question": "Plants respire continuously, day and night. However, during a sunny day, they seem to release only oxygen. Why is this?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Respiration completely stops in the presence of sunlight"
+        },
+        {
+          "id": "B",
+          "text": "The rate of photosynthesis vastly exceeds respiration, so they produce far more oxygen than they consume"
+        },
+        {
+          "id": "C",
+          "text": "They store carbon dioxide in their roots"
+        },
+        {
+          "id": "D",
+          "text": "Chlorophyll chemically blocks respiration"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The net gaseous exchange during the day is O2 out and CO2 in, masking the ongoing respiration."
+    },
+    {
+      "id": "26",
+      "question": "Which specialized vascular tissue is responsible for moving the glucose manufactured in the leaves down to the roots for storage?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Xylem"
+        },
+        {
+          "id": "B",
+          "text": "Epidermis"
+        },
+        {
+          "id": "C",
+          "text": "Phloem"
+        },
+        {
+          "id": "D",
+          "text": "Cambium"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Phloem utilizes active transport to move sugary sap to sinks like roots and fruits."
+    },
+    {
+      "id": "27",
+      "question": "Potatoes grow deep underground in the dark, yet they are packed full of starch. How does the starch get there?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The soil directly injects starch into the potato"
+        },
+        {
+          "id": "B",
+          "text": "Glucose made in the sunlit leaves is transported via phloem to the underground stem, where it is converted and stored as starch"
+        },
+        {
+          "id": "C",
+          "text": "Potatoes perform photosynthesis in the dark"
+        },
+        {
+          "id": "D",
+          "text": "Roots absorb starch from surrounding rocks"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Tubers are storage organs that rely entirely on the photosynthetic output of the aerial leaves."
+    },
+    {
+      "id": "28",
+      "question": "Why must a potted plant be kept in a dark room for 36-48 hours before conducting a photosynthesis experiment (destarching)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To make the plant sleep"
+        },
+        {
+          "id": "B",
+          "text": "To force the plant to use up all stored starch, ensuring any new starch detected was made strictly during the experiment"
+        },
+        {
+          "id": "C",
+          "text": "To kill the chlorophyll"
+        },
+        {
+          "id": "D",
+          "text": "To make the plant thirsty"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Destarching establishes a zero-baseline, which is critical for experimental validity."
+    },
+    {
+      "id": "29",
+      "question": "Consider the statement: \"X is broken down using Y to release carbon dioxide, water, and energy.\" What are X and Y in this cellular respiration process?",
+      "options": [
+        {
+          "id": "A",
+          "text": "X = Water, Y = Sunlight"
+        },
+        {
+          "id": "B",
+          "text": "X = Glucose, Y = Oxygen"
+        },
+        {
+          "id": "C",
+          "text": "X = CO2, Y = Chlorophyll"
+        },
+        {
+          "id": "D",
+          "text": "X = Starch, Y = Acid"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "In aerobic respiration, glucose (fuel) is oxidized by oxygen to yield cellular energy (ATP)."
+    },
+    {
+      "id": "30",
+      "question": "When heating alcohol to remove chlorophyll from a leaf, why must a water bath be used instead of placing the test tube directly over a flame?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Alcohol gets too cold"
+        },
+        {
+          "id": "B",
+          "text": "Alcohol evaporates too slowly"
+        },
+        {
+          "id": "C",
+          "text": "Alcohol is highly flammable and its vapors could easily catch fire on a direct flame"
+        },
+        {
+          "id": "D",
+          "text": "Water cleans the leaf better"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "A water bath provides indirect, controlled heating, a mandatory laboratory safety protocol."
+    }
+  ]
+}

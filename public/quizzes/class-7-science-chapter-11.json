@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "Objects that naturally produce their own light, like the Sun or a fire, are called:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Non-luminous"
+        },
+        {
+          "id": "B",
+          "text": "Transparent"
+        },
+        {
+          "id": "C",
+          "text": "Luminous"
+        },
+        {
+          "id": "D",
+          "text": "Reflective"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Luminous objects are the primary sources of visible electromagnetic radiation."
+    },
+    {
+      "id": "2",
+      "question": "Is the Moon considered a luminous object?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes, it makes its own light"
+        },
+        {
+          "id": "B",
+          "text": "No, it merely reflects sunlight"
+        },
+        {
+          "id": "C",
+          "text": "Yes, but only at night"
+        },
+        {
+          "id": "D",
+          "text": "No, it absorbs all light"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The Moon is a rocky, non-luminous body that shines by reflecting solar light."
+    },
+    {
+      "id": "3",
+      "question": "Materials that allow light to pass through them completely unhindered, like clear glass, are:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Opaque"
+        },
+        {
+          "id": "B",
+          "text": "Translucent"
+        },
+        {
+          "id": "C",
+          "text": "Transparent"
+        },
+        {
+          "id": "D",
+          "text": "Luminous"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Transparent media transmit light without scattering, allowing for clear image formation."
+    },
+    {
+      "id": "4",
+      "question": "What happens when a beam of light hits an opaque object like a solid brick wall?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It passes straight through"
+        },
+        {
+          "id": "B",
+          "text": "It forms a rainbow"
+        },
+        {
+          "id": "C",
+          "text": "It is blocked, forming a dark shadow on the other side"
+        },
+        {
+          "id": "D",
+          "text": "It bends around the wall"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Opaque objects absorb or reflect light, creating a zone of darkness behind them."
+    },
+    {
+      "id": "5",
+      "question": "How does light travel through a uniform medium?",
+      "options": [
+        {
+          "id": "A",
+          "text": "In circles"
+        },
+        {
+          "id": "B",
+          "text": "In a zig-zag pattern"
+        },
+        {
+          "id": "C",
+          "text": "In a perfectly straight line"
+        },
+        {
+          "id": "D",
+          "text": "It doesn't travel"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Rectilinear propagation means light travels in straight, unbending rays."
+    },
+    {
+      "id": "6",
+      "question": "What three things are absolutely needed to form a shadow?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A mirror, water, and glass"
+        },
+        {
+          "id": "B",
+          "text": "A light source, an opaque object, and a screen (surface)"
+        },
+        {
+          "id": "C",
+          "text": "A dark room and water"
+        },
+        {
+          "id": "D",
+          "text": "A camera and film"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Without a source, an obstruction, and a projection surface, a shadow cannot be observed."
+    },
+    {
+      "id": "7",
+      "question": "What color is the shadow cast by a bright, vibrant red ball?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Red"
+        },
+        {
+          "id": "B",
+          "text": "Blue"
+        },
+        {
+          "id": "C",
+          "text": "Black or dark grey"
+        },
+        {
+          "id": "D",
+          "text": "White"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "A shadow is simply an area devoid of light, so it holds no color from the object."
+    },
+    {
+      "id": "8",
+      "question": "Tracing paper allows some light through, but you cannot see clearly through it. It is classified as:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Transparent"
+        },
+        {
+          "id": "B",
+          "text": "Opaque"
+        },
+        {
+          "id": "C",
+          "text": "Translucent"
+        },
+        {
+          "id": "D",
+          "text": "Luminous"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Translucent materials scatter transmitted light, causing images to appear blurred or frosted."
+    },
+    {
+      "id": "9",
+      "question": "When light hits a shiny mirror and bounces back into the room, this process is called:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Absorption"
+        },
+        {
+          "id": "B",
+          "text": "Shadowing"
+        },
+        {
+          "id": "C",
+          "text": "Reflection"
+        },
+        {
+          "id": "D",
+          "text": "Refraction"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Reflection is the sudden change in direction of a wavefront at an interface."
+    },
+    {
+      "id": "10",
+      "question": "If you look through a straight PVC pipe at a candle flame, you see it. If you bend the pipe, you can't. Why?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The pipe melts"
+        },
+        {
+          "id": "B",
+          "text": "Light travels only in straight lines and cannot curve through the bend"
+        },
+        {
+          "id": "C",
+          "text": "The flame goes out"
+        },
+        {
+          "id": "D",
+          "text": "The pipe becomes opaque"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "This is a fundamental, easily replicable proof of the rectilinear propagation of light."
+    },
+    {
+      "id": "11",
+      "question": "What kind of shadow does a perfectly transparent glass sheet cast?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Very dark and sharp"
+        },
+        {
+          "id": "B",
+          "text": "Faint or practically no shadow"
+        },
+        {
+          "id": "C",
+          "text": "A rainbow shadow"
+        },
+        {
+          "id": "D",
+          "text": "It blocks all light"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Because it transmits almost all light, it does not block enough to cast a distinct dark shadow."
+    },
+    {
+      "id": "12",
+      "question": "How can you make the shadow of a puppet appear larger on a wall?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Move the puppet farther from the light source"
+        },
+        {
+          "id": "B",
+          "text": "Move the puppet closer to the light source"
+        },
+        {
+          "id": "C",
+          "text": "Paint the puppet black"
+        },
+        {
+          "id": "D",
+          "text": "Make the room colder"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Moving closer intercepts a wider angle of the diverging light rays, casting a larger silhouette."
+    },
+    {
+      "id": "13",
+      "question": "What kind of image is formed on the screen of a basic pinhole camera?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Erect and large"
+        },
+        {
+          "id": "B",
+          "text": "Inverted (upside down) and usually smaller"
+        },
+        {
+          "id": "C",
+          "text": "A dark shadow"
+        },
+        {
+          "id": "D",
+          "text": "A 3D hologram"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Light rays from the top and bottom of the object cross at the pinhole, flipping the projected image."
+    },
+    {
+      "id": "14",
+      "question": "If you stand exactly 2 meters in front of a plane mirror, how far does your image appear to be behind the mirror?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 meter"
+        },
+        {
+          "id": "B",
+          "text": "2 meters"
+        },
+        {
+          "id": "C",
+          "text": "4 meters"
+        },
+        {
+          "id": "D",
+          "text": "0 meters"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "In a plane mirror, the object distance equals the apparent image distance."
+    },
+    {
+      "id": "15",
+      "question": "What does the term \"lateral inversion\" mean when looking in a plane mirror?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The image is upside down"
+        },
+        {
+          "id": "B",
+          "text": "The image's left side appears as the right side, and vice versa"
+        },
+        {
+          "id": "C",
+          "text": "The image is much smaller"
+        },
+        {
+          "id": "D",
+          "text": "The image has no color"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Mirrors reverse images along the horizontal axis, making text appear backward."
+    },
+    {
+      "id": "16",
+      "question": "Why are planets like Venus and Mars visible in the night sky?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They don't reflect light"
+        },
+        {
+          "id": "B",
+          "text": "Though non-luminous, they act as massive mirrors, reflecting sunlight to Earth"
+        },
+        {
+          "id": "C",
+          "text": "Only Earth is a planet"
+        },
+        {
+          "id": "D",
+          "text": "Planets are luminous"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Planets are highly reflective bodies that shine with borrowed stellar light."
+    },
+    {
+      "id": "17",
+      "question": "If you have two distinct torches shining on one ball from different angles in a dark room, what will you see on the screen?",
+      "options": [
+        {
+          "id": "A",
+          "text": "No shadow at all"
+        },
+        {
+          "id": "B",
+          "text": "One very dark shadow"
+        },
+        {
+          "id": "C",
+          "text": "Two distinct shadows"
+        },
+        {
+          "id": "D",
+          "text": "A bright spot"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Each independent light source is blocked from a different angle, creating multiple shadows."
+    },
+    {
+      "id": "18",
+      "question": "Why do shadows change drastically in size and shape throughout the day outdoors?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The objects grow and shrink"
+        },
+        {
+          "id": "B",
+          "text": "The Earth's rotation changes the Sun's apparent position, altering the angle of light hitting objects"
+        },
+        {
+          "id": "C",
+          "text": "The ground physically tilts"
+        },
+        {
+          "id": "D",
+          "text": "The air gets hotter"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Low sun angles cast long shadows, while a noon sun casts short, concentrated shadows."
+    },
+    {
+      "id": "19",
+      "question": "Can a shadow be formed in a completely pitch-dark room?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes, shadows are always there"
+        },
+        {
+          "id": "B",
+          "text": "No, an active source of light is mandatory to be blocked"
+        },
+        {
+          "id": "C",
+          "text": "Only if the object is white"
+        },
+        {
+          "id": "D",
+          "text": "Only with a mirror"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "A shadow is a relative phenomenon; without light, everything is essentially in shadow."
+    },
+    {
+      "id": "20",
+      "question": "What simple optical device uses angled mirrors to let you see over tall obstacles, like from inside a submerged submarine?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Telescope"
+        },
+        {
+          "id": "B",
+          "text": "Microscope"
+        },
+        {
+          "id": "C",
+          "text": "Periscope"
+        },
+        {
+          "id": "D",
+          "text": "Stethoscope"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "A periscope bounces light twice at 45-degree angles to displace the line of sight."
+    },
+    {
+      "id": "21",
+      "question": "Why does an object form an inverted, full-color image in a pinhole camera, but cast a dark, upright shadow?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A shadow is the blocking of light, while an image is formed by light rays successfully crossing through a hole"
+        },
+        {
+          "id": "B",
+          "text": "Shadows are magical illusions"
+        },
+        {
+          "id": "C",
+          "text": "Pinhole cameras have glass lenses"
+        },
+        {
+          "id": "D",
+          "text": "The screen is upside down"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "Shadows represent the absence of light rays, whereas the pinhole focuses intersecting light rays into a picture."
+    },
+    {
+      "id": "22",
+      "question": "You align three matchboxes with holes. Light passes through all three. You shift the middle box 2 centimeters. What happens and why?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The light bends perfectly around the hole"
+        },
+        {
+          "id": "B",
+          "text": "The light passes through easily"
+        },
+        {
+          "id": "C",
+          "text": "The light is blocked because light cannot curve around the newly formed obstacle"
+        },
+        {
+          "id": "D",
+          "text": "The light turns red"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "This is a classic experimental validation of the rectilinear propagation of light."
+    },
+    {
+      "id": "23",
+      "question": "If an ambulance has the word \"AMBULANCE\" painted on the front, why is it often painted backward?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It is a mistake"
+        },
+        {
+          "id": "B",
+          "text": "So that drivers looking in their rear-view mirrors see the word correctly due to lateral inversion"
+        },
+        {
+          "id": "C",
+          "text": "To look stylish"
+        },
+        {
+          "id": "D",
+          "text": "Because paint reflects light"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The mirror reverses the already-reversed text, making it legible to drivers ahead."
+    },
+    {
+      "id": "24",
+      "question": "Which of the following accurately describes a \"virtual\" image formed by a plane mirror?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It can be captured and printed on a movie screen"
+        },
+        {
+          "id": "B",
+          "text": "It appears to exist behind the mirror, but light rays do not actually meet there, so it cannot be projected onto a physical screen"
+        },
+        {
+          "id": "C",
+          "text": "It is always upside down"
+        },
+        {
+          "id": "D",
+          "text": "It is actually a shadow"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Virtual images are optical illusions created by the brain tracing diverging rays backward."
+    },
+    {
+      "id": "25",
+      "question": "An architect wants to passively redirect sunlight from a bright roof into a completely dark basement. Which property of light should they exploit?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Shadow formation"
+        },
+        {
+          "id": "B",
+          "text": "Refraction"
+        },
+        {
+          "id": "C",
+          "text": "Reflection using a series of angled mirrors or shiny surfaces"
+        },
+        {
+          "id": "D",
+          "text": "Lateral inversion"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Specular reflection can bounce light beams over long distances to illuminate dark areas."
+    },
+    {
+      "id": "26",
+      "question": "When a ball is close to a wall, the shadow is small. When moved closer to the torch, it gets very large. What geometrical fact about light causes this?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Light waves shrink as they travel"
+        },
+        {
+          "id": "B",
+          "text": "Light rays from a point source spread out (diverge) in straight lines, so blocking them closer to the source intercepts a wider cone of light"
+        },
+        {
+          "id": "C",
+          "text": "The torch gets tired"
+        },
+        {
+          "id": "D",
+          "text": "The wall moves"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The divergent geometry of light rays magnifies the shadow when the object approaches the source."
+    },
+    {
+      "id": "27",
+      "question": "Why do modern LED lamps represent a significant technological evolution in artificial light sources?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They are highly efficient luminous objects that convert less energy to heat, provide bright light, and last longer, making them eco-friendly"
+        },
+        {
+          "id": "B",
+          "text": "They are non-luminous"
+        },
+        {
+          "id": "C",
+          "text": "They run on steam"
+        },
+        {
+          "id": "D",
+          "text": "They do not create shadows"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "LEDs represent a leap in solid-state lighting, vastly reducing global power consumption."
+    },
+    {
+      "id": "28",
+      "question": "The ancient art of shadow puppetry relies entirely on what characteristics of shadows?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The color of the puppet"
+        },
+        {
+          "id": "B",
+          "text": "Shadows take the 2D shape of the opaque object, and their size/sharpness can be manipulated by altering the puppet's distance from the light"
+        },
+        {
+          "id": "C",
+          "text": "Shadows are 3D"
+        },
+        {
+          "id": "D",
+          "text": "Shadows are transparent"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Puppeteers exploit rectilinear propagation and divergence to create dynamic, moving silhouettes."
+    },
+    {
+      "id": "29",
+      "question": "You shine a blue light on a white cube, a green light on a red cube, and a white light on a black cube. What is the fundamental color of all three shadows cast on a white screen?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Blue, Green, White"
+        },
+        {
+          "id": "B",
+          "text": "Black/Dark grey"
+        },
+        {
+          "id": "C",
+          "text": "White, Red, Black"
+        },
+        {
+          "id": "D",
+          "text": "Rainbow"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "A shadow is defined solely by the absence of light; neither the object's pigment nor the light's wavelength tints the shadow."
+    },
+    {
+      "id": "30",
+      "question": "How do non-luminous celestial bodies like Venus often outshine distant stars in the night sky?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They burn much hotter"
+        },
+        {
+          "id": "B",
+          "text": "They are significantly closer to Earth and their atmospheres are highly reflective, efficiently bouncing sunlight to our eyes"
+        },
+        {
+          "id": "C",
+          "text": "They are made of fire"
+        },
+        {
+          "id": "D",
+          "text": "They have batteries"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Proximity and high albedo (reflectivity) allow planets to appear incredibly bright despite generating no light."
+    }
+  ]
+}

@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "What is temperature a fundamental measure of?",
+      "options": [
+        {
+          "id": "A",
+          "text": "How heavy something is"
+        },
+        {
+          "id": "B",
+          "text": "How warm or cold something is"
+        },
+        {
+          "id": "C",
+          "text": "How fast something moves"
+        },
+        {
+          "id": "D",
+          "text": "How bright it is"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Temperature quantifies the thermal state (hotness or coldness) of an object."
+    },
+    {
+      "id": "2",
+      "question": "Which specific instrument is required to accurately measure human body temperature?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Barometer"
+        },
+        {
+          "id": "B",
+          "text": "Speedometer"
+        },
+        {
+          "id": "C",
+          "text": "Clinical thermometer"
+        },
+        {
+          "id": "D",
+          "text": "Laboratory thermometer"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Clinical thermometers are calibrated specifically for the narrow range of human body heat."
+    },
+    {
+      "id": "3",
+      "question": "By which process does heat travel directly through a solid metal spoon?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Convection"
+        },
+        {
+          "id": "B",
+          "text": "Radiation"
+        },
+        {
+          "id": "C",
+          "text": "Conduction"
+        },
+        {
+          "id": "D",
+          "text": "Evaporation"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Conduction is the transfer of kinetic energy between adjacent atoms in a solid."
+    },
+    {
+      "id": "4",
+      "question": "Which of the following materials is classified as a good conductor of heat?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wood"
+        },
+        {
+          "id": "B",
+          "text": "Plastic"
+        },
+        {
+          "id": "C",
+          "text": "Steel"
+        },
+        {
+          "id": "D",
+          "text": "Rubber"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Metals like steel allow thermal energy to propagate rapidly."
+    },
+    {
+      "id": "5",
+      "question": "Why are the handles of cooking pans usually made of plastic or wood?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To make them lighter"
+        },
+        {
+          "id": "B",
+          "text": "Because they are poor conductors (insulators) and prevent the user from getting burned"
+        },
+        {
+          "id": "C",
+          "text": "To make them colorful"
+        },
+        {
+          "id": "D",
+          "text": "To cook food faster"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Insulators block the conduction of heat from the hot pan to the hand."
+    },
+    {
+      "id": "6",
+      "question": "In which direction does heated air naturally move?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Downwards"
+        },
+        {
+          "id": "B",
+          "text": "Sideways"
+        },
+        {
+          "id": "C",
+          "text": "Upwards"
+        },
+        {
+          "id": "D",
+          "text": "It does not move"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Thermal expansion makes hot air less dense, causing it to rise."
+    },
+    {
+      "id": "7",
+      "question": "By which method does massive heat energy from the Sun reach the Earth?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Conduction"
+        },
+        {
+          "id": "B",
+          "text": "Convection"
+        },
+        {
+          "id": "C",
+          "text": "Radiation"
+        },
+        {
+          "id": "D",
+          "text": "Insulation"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Radiation propagates via electromagnetic waves, requiring no physical medium."
+    },
+    {
+      "id": "8",
+      "question": "What type of clothes should you wear in summer to stay as cool as possible?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dark, thick wool"
+        },
+        {
+          "id": "B",
+          "text": "Light-colored cotton"
+        },
+        {
+          "id": "C",
+          "text": "Black leather"
+        },
+        {
+          "id": "D",
+          "text": "Plastic coats"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Light colors reflect radiant heat, while cotton allows for cooling evaporation."
+    },
+    {
+      "id": "9",
+      "question": "Why do we wear thick woolen clothes in winter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wool creates its own heat"
+        },
+        {
+          "id": "B",
+          "text": "Wool acts as an insulator, trapping body heat and preventing it from escaping"
+        },
+        {
+          "id": "C",
+          "text": "Wool is a metal"
+        },
+        {
+          "id": "D",
+          "text": "Wool absorbs sunlight"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Wool fibers trap pockets of air, and stagnant air is a superb thermal insulator."
+    },
+    {
+      "id": "10",
+      "question": "What is the scientific term for thermal energy moving from a hotter object to a colder one?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Freezing"
+        },
+        {
+          "id": "B",
+          "text": "Heat transfer"
+        },
+        {
+          "id": "C",
+          "text": "Melting"
+        },
+        {
+          "id": "D",
+          "text": "Condensation"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Heat transfer is the foundational concept of thermodynamics explored here."
+    },
+    {
+      "id": "11",
+      "question": "How does heat transfer primarily occur in fluids (liquids and gases)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Conduction"
+        },
+        {
+          "id": "B",
+          "text": "Radiation"
+        },
+        {
+          "id": "C",
+          "text": "Convection"
+        },
+        {
+          "id": "D",
+          "text": "Freezing"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Convection involves the actual bulk movement of heated particles transferring energy."
+    },
+    {
+      "id": "12",
+      "question": "Why does the smoke from a burning incense stick always rise, even if pointed downwards?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It is pushed by the wind"
+        },
+        {
+          "id": "B",
+          "text": "The hot air around the flame is less dense and rises forcefully due to convection"
+        },
+        {
+          "id": "C",
+          "text": "Smoke defies gravity"
+        },
+        {
+          "id": "D",
+          "text": "The stick is magnetic"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Convection currents physically carry the lighter, warmer smoke upward."
+    },
+    {
+      "id": "13",
+      "question": "During the day in coastal areas, the land heats up faster than the sea. What meteorological event does this cause?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Land breeze"
+        },
+        {
+          "id": "B",
+          "text": "Sea breeze"
+        },
+        {
+          "id": "C",
+          "text": "Tsunami"
+        },
+        {
+          "id": "D",
+          "text": "Sandstorm"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Cooler, denser air from the sea rushes inland to replace the rising hot air over the land."
+    },
+    {
+      "id": "14",
+      "question": "When does a land breeze typically occur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "At noon"
+        },
+        {
+          "id": "B",
+          "text": "During the night"
+        },
+        {
+          "id": "C",
+          "text": "In the morning"
+        },
+        {
+          "id": "D",
+          "text": "During rain"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "At night, the land cools faster than the sea, reversing the thermal gradient."
+    },
+    {
+      "id": "15",
+      "question": "If you place a candle under a test tube of water, heating only the bottom, why does a thermometer at the top show a rapid temperature increase?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Water is a good conductor"
+        },
+        {
+          "id": "B",
+          "text": "Hot water rises due to convection, rapidly carrying heat to the top"
+        },
+        {
+          "id": "C",
+          "text": "Radiation heats the glass"
+        },
+        {
+          "id": "D",
+          "text": "The thermometer is broken"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Convection currents physically move the heated water molecules to the upper regions."
+    },
+    {
+      "id": "16",
+      "question": "How does a thermos flask successfully keep drinks hot for hours?",
+      "options": [
+        {
+          "id": "A",
+          "text": "By creating heat internally"
+        },
+        {
+          "id": "B",
+          "text": "By using a battery"
+        },
+        {
+          "id": "C",
+          "text": "By using vacuums and reflective surfaces to prevent heat transfer through conduction, convection, and radiation"
+        },
+        {
+          "id": "D",
+          "text": "By letting air in"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Its engineered design systematically defeats all three modes of heat transfer."
+    },
+    {
+      "id": "17",
+      "question": "Why do solid ice cubes melt when left on a room-temperature table?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They release coldness"
+        },
+        {
+          "id": "B",
+          "text": "Heat flows from the warmer room air and table into the colder ice"
+        },
+        {
+          "id": "C",
+          "text": "The table pushes them"
+        },
+        {
+          "id": "D",
+          "text": "Air blows on them"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The Second Law of Thermodynamics dictates heat flows from hot to cold."
+    },
+    {
+      "id": "18",
+      "question": "Why are hollow bricks frequently used in building houses in regions with extreme climates?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They are cheaper to make"
+        },
+        {
+          "id": "B",
+          "text": "They trap air, which is a poor conductor of heat, providing excellent building insulation"
+        },
+        {
+          "id": "C",
+          "text": "They let wind pass through"
+        },
+        {
+          "id": "D",
+          "text": "They look better"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The trapped air severely restricts conductive heat transfer through the walls."
+    },
+    {
+      "id": "19",
+      "question": "In the process of conduction, do the actual particles of the solid move from one end to the other?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes, they flow like water"
+        },
+        {
+          "id": "B",
+          "text": "No, they remain fixed in a lattice and only vibrate, passing kinetic energy to neighbors"
+        },
+        {
+          "id": "C",
+          "text": "They jump"
+        },
+        {
+          "id": "D",
+          "text": "They shrink"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Conduction does not involve bulk movement; it relies on localized atomic vibrations."
+    },
+    {
+      "id": "20",
+      "question": "Why does the bottom of a cooking pot get black if kept on an open wood fire, and how does this help?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It absorbs cold"
+        },
+        {
+          "id": "B",
+          "text": "It absorbs soot, and black surfaces are much better at absorbing radiant heat for cooking"
+        },
+        {
+          "id": "C",
+          "text": "It melts"
+        },
+        {
+          "id": "D",
+          "text": "It reflects light"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Dark, matte surfaces are the most efficient absorbers of thermal radiation."
+    },
+    {
+      "id": "21",
+      "question": "Which of the following statements about convection is scientifically FALSE?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It occurs in fluids (liquids and gases)"
+        },
+        {
+          "id": "B",
+          "text": "It involves the actual movement of particles"
+        },
+        {
+          "id": "C",
+          "text": "It is the primary way heat travels from the Sun to Earth"
+        },
+        {
+          "id": "D",
+          "text": "Warm fluids rise"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "The vacuum of space lacks particles, making convection impossible; solar heat relies entirely on radiation."
+    },
+    {
+      "id": "22",
+      "question": "Large water bodies prevent extreme temperatures in nearby coastal areas. What is the fundamental physical reason?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They reflect sunlight perfectly"
+        },
+        {
+          "id": "B",
+          "text": "Water has a high heat capacity, heating up and cooling down much slower than land, creating moderating convection breezes"
+        },
+        {
+          "id": "C",
+          "text": "They block the wind"
+        },
+        {
+          "id": "D",
+          "text": "They absorb all the oxygen"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Water's thermal inertia dampens extreme temperature swings, driving coastal breezes."
+    },
+    {
+      "id": "23",
+      "question": "What happens mathematically to the rate of heat transfer through conduction if the thickness of the insulator is increased?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It increases"
+        },
+        {
+          "id": "B",
+          "text": "It decreases"
+        },
+        {
+          "id": "C",
+          "text": "It stays the same"
+        },
+        {
+          "id": "D",
+          "text": "It turns into convection"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "A thicker barrier provides greater thermal resistance, directly reducing the conduction rate."
+    },
+    {
+      "id": "24",
+      "question": "You drop pins fixed with wax along a metal strip, and heat one end. Why do the pins fall one by one in a specific sequence?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Convection currents push them"
+        },
+        {
+          "id": "B",
+          "text": "Heat travels progressively along the metal strip via conduction, melting the wax from closest to farthest"
+        },
+        {
+          "id": "C",
+          "text": "The wax evaporates"
+        },
+        {
+          "id": "D",
+          "text": "The metal shrinks"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "This visually demonstrates the gradual propagation of kinetic energy through a solid."
+    },
+    {
+      "id": "25",
+      "question": "Rainwater seeps into the ground to recharge vital groundwater aquifers. What is this geological process called?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Evaporation"
+        },
+        {
+          "id": "B",
+          "text": "Infiltration (or seepage)"
+        },
+        {
+          "id": "C",
+          "text": "Radiation"
+        },
+        {
+          "id": "D",
+          "text": "Condensation"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Infiltration is the physical movement of surface water into the porous soil matrix."
+    },
+    {
+      "id": "26",
+      "question": "What specific thermodynamic role does the Sun play in the global water cycle?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It provides gravity"
+        },
+        {
+          "id": "B",
+          "text": "It freezes water at the poles"
+        },
+        {
+          "id": "C",
+          "text": "Its radiant heat provides the vast energy required for evaporation, driving the entire cycle"
+        },
+        {
+          "id": "D",
+          "text": "It creates clouds directly"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Solar radiation is the primary thermal engine powering the hydrological cycle."
+    },
+    {
+      "id": "27",
+      "question": "Why would a house strategically designed with windows facing the sea be cooler during a hot summer day?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The sea water splashes in"
+        },
+        {
+          "id": "B",
+          "text": "The sea breeze brings cooler, denser air from over the ocean into the house via convection"
+        },
+        {
+          "id": "C",
+          "text": "The glass reflects the sea"
+        },
+        {
+          "id": "D",
+          "text": "Sand absorbs the heat"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Exploiting natural convection currents (sea breezes) provides passive cooling."
+    },
+    {
+      "id": "28",
+      "question": "If a hot object is placed in a perfect vacuum chamber, which is the ONLY method by which it can lose its thermal energy?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Conduction"
+        },
+        {
+          "id": "B",
+          "text": "Convection"
+        },
+        {
+          "id": "C",
+          "text": "Radiation"
+        },
+        {
+          "id": "D",
+          "text": "Insulation"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Without atoms to conduct or convect, energy can only escape as electromagnetic radiation."
+    },
+    {
+      "id": "29",
+      "question": "A saucepan is manufactured with a copper base and a Bakelite handle. What are their respective thermal properties?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both are good conductors"
+        },
+        {
+          "id": "B",
+          "text": "Both are poor conductors"
+        },
+        {
+          "id": "C",
+          "text": "Copper is an excellent conductor; Bakelite is a superior insulator"
+        },
+        {
+          "id": "D",
+          "text": "Copper is poor; Bakelite is good"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "This combination optimizes heat transfer to the food while ensuring user safety."
+    },
+    {
+      "id": "30",
+      "question": "Where must a smoke detector be placed in a room for maximum life-saving effectiveness, and why?",
+      "options": [
+        {
+          "id": "A",
+          "text": "On the floor, because smoke is heavy"
+        },
+        {
+          "id": "B",
+          "text": "On the ceiling, because hot smoke is less dense and rises rapidly due to convection"
+        },
+        {
+          "id": "C",
+          "text": "Near a window"
+        },
+        {
+          "id": "D",
+          "text": "Under a table"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Understanding convection dictates that smoke will invariably pool at the highest point first."
+    }
+  ]
+}

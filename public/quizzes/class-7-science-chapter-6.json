@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "What is the transitional stage of life between childhood and adulthood called?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Infancy"
+        },
+        {
+          "id": "B",
+          "text": "Old Age"
+        },
+        {
+          "id": "C",
+          "text": "Adolescence"
+        },
+        {
+          "id": "D",
+          "text": "Toddlerhood"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Adolescence bridges childhood and adulthood, typically occurring between ages 10 and 19."
+    },
+    {
+      "id": "2",
+      "question": "What is the sudden, rapid increase in height and weight during adolescence called?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Puberty"
+        },
+        {
+          "id": "B",
+          "text": "Growth spurt"
+        },
+        {
+          "id": "C",
+          "text": "Aging"
+        },
+        {
+          "id": "D",
+          "text": "Stretching"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "A growth spurt is a hallmark of early adolescence, driven by hormonal surges."
+    },
+    {
+      "id": "3",
+      "question": "Which of the following is a very common skin issue teenagers face due to oily skin?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wrinkles"
+        },
+        {
+          "id": "B",
+          "text": "Sunburn"
+        },
+        {
+          "id": "C",
+          "text": "Acne or pimples"
+        },
+        {
+          "id": "D",
+          "text": "Scales"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Increased sebum (oil) production can clog pores and cause bacterial acne."
+    },
+    {
+      "id": "4",
+      "question": "What is the enlarged voice box in boys often colloquially called?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Thyroid"
+        },
+        {
+          "id": "B",
+          "text": "Adam's apple"
+        },
+        {
+          "id": "C",
+          "text": "Tonsil"
+        },
+        {
+          "id": "D",
+          "text": "Larynx apple"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The rapidly growing larynx causes a prominent bump in the throat known as the Adam's apple."
+    },
+    {
+      "id": "5",
+      "question": "Which of these is considered a secondary sexual characteristic in boys?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Digestion"
+        },
+        {
+          "id": "B",
+          "text": "Breathing"
+        },
+        {
+          "id": "C",
+          "text": "Growth of facial hair (moustache/beard)"
+        },
+        {
+          "id": "D",
+          "text": "Sleeping"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Facial hair distinguishes mature males from females but is not directly involved in reproduction."
+    },
+    {
+      "id": "6",
+      "question": "How often does the menstrual cycle generally occur in healthy girls?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Every 7 days"
+        },
+        {
+          "id": "B",
+          "text": "Every 28-30 days"
+        },
+        {
+          "id": "C",
+          "text": "Every year"
+        },
+        {
+          "id": "D",
+          "text": "Every 10 days"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The cycle of ovulation and menstruation typically operates on a 28 to 30-day rhythm."
+    },
+    {
+      "id": "7",
+      "question": "Which specific nutrient is especially important for preventing anemia in growing adolescents?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sugar"
+        },
+        {
+          "id": "B",
+          "text": "Fat"
+        },
+        {
+          "id": "C",
+          "text": "Iron"
+        },
+        {
+          "id": "D",
+          "text": "Salt"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Iron is critical for synthesizing hemoglobin and supporting the rapid expansion of blood volume."
+    },
+    {
+      "id": "8",
+      "question": "Why is maintaining rigorous personal hygiene very important during adolescence?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To look fashionable"
+        },
+        {
+          "id": "B",
+          "text": "To prevent bacterial infections and manage increased body odor"
+        },
+        {
+          "id": "C",
+          "text": "Because parents say so"
+        },
+        {
+          "id": "D",
+          "text": "To grow taller"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "More active sweat and sebaceous glands increase the risk of odor and skin infections."
+    },
+    {
+      "id": "9",
+      "question": "Should adolescents believe the myth that girls must be isolated during menstruation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes"
+        },
+        {
+          "id": "B",
+          "text": "No, menstruation is a normal and healthy biological process"
+        },
+        {
+          "id": "C",
+          "text": "Only in summer"
+        },
+        {
+          "id": "D",
+          "text": "Only if they are tired"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Scientific education dispels the unhygienic and psychologically harmful taboos surrounding menstruation."
+    },
+    {
+      "id": "10",
+      "question": "What exactly is puberty?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The end of adulthood"
+        },
+        {
+          "id": "B",
+          "text": "The specific stage when the body becomes capable of sexual reproduction"
+        },
+        {
+          "id": "C",
+          "text": "The stage of losing milk teeth"
+        },
+        {
+          "id": "D",
+          "text": "Growing old"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Puberty marks the physiological onset of reproductive capability."
+    },
+    {
+      "id": "11",
+      "question": "Which chemical substances directly control the myriad changes that occur during adolescence?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Enzymes"
+        },
+        {
+          "id": "B",
+          "text": "Hormones"
+        },
+        {
+          "id": "C",
+          "text": "Acids"
+        },
+        {
+          "id": "D",
+          "text": "Sugars"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Hormones act as chemical messengers to trigger physical and emotional maturation."
+    },
+    {
+      "id": "12",
+      "question": "Which hormone is primarily responsible for triggering secondary sexual changes in boys?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Estrogen"
+        },
+        {
+          "id": "B",
+          "text": "Insulin"
+        },
+        {
+          "id": "C",
+          "text": "Testosterone"
+        },
+        {
+          "id": "D",
+          "text": "Adrenaline"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Testosterone, produced in the testes, drives male physical development."
+    },
+    {
+      "id": "13",
+      "question": "What is a very common emotional change experienced during adolescence?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Forgetting how to read"
+        },
+        {
+          "id": "B",
+          "text": "Severe mood swings and intense emotions"
+        },
+        {
+          "id": "C",
+          "text": "Sleeping 24 hours a day"
+        },
+        {
+          "id": "D",
+          "text": "Losing the ability to talk"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Hormonal fluctuations heavily influence the brain's emotional centers, causing volatility."
+    },
+    {
+      "id": "14",
+      "question": "If an adolescent feels highly stressed or misunderstood, what is a positive, constructive way to handle it?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Arguing with everyone"
+        },
+        {
+          "id": "B",
+          "text": "Keeping it a secret"
+        },
+        {
+          "id": "C",
+          "text": "Expressing feelings through art, sports, or talking to a trusted adult"
+        },
+        {
+          "id": "D",
+          "text": "Using tobacco"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Healthy coping mechanisms are vital for positive psychological growth."
+    },
+    {
+      "id": "15",
+      "question": "Why might an adolescent boy's voice temporarily sound hoarse or cracking?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He has a cold"
+        },
+        {
+          "id": "B",
+          "text": "The voice box is growing rapidly and changing shape, making vocal cords harder to control"
+        },
+        {
+          "id": "C",
+          "text": "He ate too much"
+        },
+        {
+          "id": "D",
+          "text": "He is singing too loudly"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The larynx enlarges significantly, temporarily disrupting vocal stability."
+    },
+    {
+      "id": "16",
+      "question": "What precisely does the term \"secondary sexual characteristics\" mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Primary reproductive organs present at birth"
+        },
+        {
+          "id": "B",
+          "text": "Features that develop during puberty to distinguish males from females, but aren't reproductive organs"
+        },
+        {
+          "id": "C",
+          "text": "Social behaviors"
+        },
+        {
+          "id": "D",
+          "text": "Clothing choices"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Examples include breast development in females and broader shoulders in males."
+    },
+    {
+      "id": "17",
+      "question": "Why is a highly balanced diet critical during the adolescent years?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because teenagers eat a lot"
+        },
+        {
+          "id": "B",
+          "text": "To provide the raw materials for rapid physical growth and tissue repair"
+        },
+        {
+          "id": "C",
+          "text": "To save money"
+        },
+        {
+          "id": "D",
+          "text": "To avoid cooking"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Unprecedented skeletal and muscular growth requires abundant proteins, vitamins, and minerals."
+    },
+    {
+      "id": "18",
+      "question": "Mary noticed a visible bulge in her friend's neck, diagnosed as an enlarged thyroid gland (goiter). What dietary deficiency causes this?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Calcium"
+        },
+        {
+          "id": "B",
+          "text": "Iron"
+        },
+        {
+          "id": "C",
+          "text": "Iodine"
+        },
+        {
+          "id": "D",
+          "text": "Vitamin C"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Iodine is essential for synthesizing thyroid hormones; deficiency leads to gland swelling."
+    },
+    {
+      "id": "19",
+      "question": "What is \"peer pressure\" in the context of adolescence?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Checking blood pressure"
+        },
+        {
+          "id": "B",
+          "text": "The psychological urge to do things to fit in with friends, even if it contradicts personal values"
+        },
+        {
+          "id": "C",
+          "text": "Studying hard"
+        },
+        {
+          "id": "D",
+          "text": "Playing sports"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The drive for social acceptance makes adolescents highly susceptible to peer influence."
+    },
+    {
+      "id": "20",
+      "question": "How should used sanitary pads be disposed of to maintain public hygiene?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Flushed down the toilet"
+        },
+        {
+          "id": "B",
+          "text": "Thrown in the open street"
+        },
+        {
+          "id": "C",
+          "text": "Wrapped properly in paper and disposed of in a designated dustbin"
+        },
+        {
+          "id": "D",
+          "text": "Buried in the house"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Proper disposal prevents plumbing blockages and the spread of biohazardous waste."
+    },
+    {
+      "id": "21",
+      "question": "Shalu believes adolescence is only about growing taller and getting body hair. How would a scientist correct her?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She is exactly right"
+        },
+        {
+          "id": "B",
+          "text": "Adolescence also involves profound cognitive, emotional, and social development, not just physical"
+        },
+        {
+          "id": "C",
+          "text": "Adolescence is only about hormones"
+        },
+        {
+          "id": "D",
+          "text": "It is only about brain growth"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "It is a holistic developmental phase involving identity formation and emotional maturation."
+    },
+    {
+      "id": "22",
+      "question": "Which complex system in the human body is responsible for releasing hormones directly into the bloodstream?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Digestive system"
+        },
+        {
+          "id": "B",
+          "text": "Nervous system"
+        },
+        {
+          "id": "C",
+          "text": "Endocrine system"
+        },
+        {
+          "id": "D",
+          "text": "Respiratory system"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "The endocrine system comprises ductless glands like the pituitary and thyroid."
+    },
+    {
+      "id": "23",
+      "question": "The onset of the menstrual cycle (menarche) is a definitive biological sign of what?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The end of adolescence"
+        },
+        {
+          "id": "B",
+          "text": "The attainment of female reproductive maturity"
+        },
+        {
+          "id": "C",
+          "text": "A need for surgery"
+        },
+        {
+          "id": "D",
+          "text": "A critical loss of iron"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Menstruation indicates the body is now cyclically preparing for potential reproduction."
+    },
+    {
+      "id": "24",
+      "question": "Which of these physical changes is observed universally in BOTH boys and girls during adolescence?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Development of a prominent Adam's apple"
+        },
+        {
+          "id": "B",
+          "text": "Growth of facial hair"
+        },
+        {
+          "id": "C",
+          "text": "Growth of hair in the armpits and pubic region"
+        },
+        {
+          "id": "D",
+          "text": "Development of breasts"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Apocrine sweat gland activation and regional hair growth are shared pubertal traits."
+    },
+    {
+      "id": "25",
+      "question": "How do hormones physiologically influence the notoriously erratic behavioral changes in adolescents?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They make muscles physically weaker"
+        },
+        {
+          "id": "B",
+          "text": "They alter neurotransmitter levels in the brain, directly influencing emotional regulation and risk-taking behavior"
+        },
+        {
+          "id": "C",
+          "text": "They stop brain growth"
+        },
+        {
+          "id": "D",
+          "text": "They cause sleepwalking"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Hormones bridge biology and psychology, profoundly affecting brain chemistry."
+    },
+    {
+      "id": "26",
+      "question": "What does the government's Rashtriya Kishor Swasthya Karyakram (RKSK) specifically focus on?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Building new schools"
+        },
+        {
+          "id": "B",
+          "text": "Comprehensive adolescent health, nutrition, and hygiene initiatives"
+        },
+        {
+          "id": "C",
+          "text": "Distributing laptops"
+        },
+        {
+          "id": "D",
+          "text": "Agricultural training"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "It is a targeted public health program addressing the unique vulnerabilities of teenagers."
+    },
+    {
+      "id": "27",
+      "question": "Why do adolescents often suddenly demand more privacy and independence from their parents?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They inherently dislike their families"
+        },
+        {
+          "id": "B",
+          "text": "It is a biologically driven psychological phase of exploring self-identity and establishing autonomy"
+        },
+        {
+          "id": "C",
+          "text": "They are hiding bad habits"
+        },
+        {
+          "id": "D",
+          "text": "They are tired"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Individuation is a necessary psychological step toward becoming a functioning adult."
+    },
+    {
+      "id": "28",
+      "question": "At what approximate age does menstruation naturally cease in women (menopause), marking the end of reproductive capability?",
+      "options": [
+        {
+          "id": "A",
+          "text": "25-30"
+        },
+        {
+          "id": "B",
+          "text": "35-40"
+        },
+        {
+          "id": "C",
+          "text": "45-55"
+        },
+        {
+          "id": "D",
+          "text": "65-70"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Menopause typically occurs between 45 and 55, ceasing the release of ova."
+    },
+    {
+      "id": "29",
+      "question": "Why should adolescents strictly avoid harmful substances like tobacco, alcohol, or drugs?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because they are expensive"
+        },
+        {
+          "id": "B",
+          "text": "Because their brains and organs are actively developing, making them highly vulnerable to permanent neurological and physiological damage"
+        },
+        {
+          "id": "C",
+          "text": "They make skin dry"
+        },
+        {
+          "id": "D",
+          "text": "They stop hair growth"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Substance abuse during the critical window of brain development causes disproportionate harm."
+    },
+    {
+      "id": "30",
+      "question": "If an adolescent feels overwhelmed by their changing body, what is the best scientific perspective to adopt?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Absolute panic"
+        },
+        {
+          "id": "B",
+          "text": "Realize that these changes are natural, temporary, governed by biology, and vary individually in timing"
+        },
+        {
+          "id": "C",
+          "text": "Isolate themselves entirely"
+        },
+        {
+          "id": "D",
+          "text": "Stop eating"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Scientific literacy regarding puberty demystifies the process, reducing anxiety and stigma."
+    }
+  ]
+}

@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "What is the standard SI (International System) unit of time?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Minute"
+        },
+        {
+          "id": "B",
+          "text": "Hour"
+        },
+        {
+          "id": "C",
+          "text": "Second"
+        },
+        {
+          "id": "D",
+          "text": "Day"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The second (s) is the globally accepted standard unit for measuring time."
+    },
+    {
+      "id": "2",
+      "question": "Which of the following is an ancient device used to measure time relying on the sun's shadow?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hourglass"
+        },
+        {
+          "id": "B",
+          "text": "Pendulum"
+        },
+        {
+          "id": "C",
+          "text": "Sundial"
+        },
+        {
+          "id": "D",
+          "text": "Stopwatch"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "A sundial tracks the Earth's rotation by mapping the shifting shadow of a fixed object."
+    },
+    {
+      "id": "3",
+      "question": "If object A covers a certain distance in less time than object B, object A is moving:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Slower"
+        },
+        {
+          "id": "B",
+          "text": "Faster"
+        },
+        {
+          "id": "C",
+          "text": "At the same speed"
+        },
+        {
+          "id": "D",
+          "text": "Backwards"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Taking less time for the same distance indicates a higher velocity or speed."
+    },
+    {
+      "id": "4",
+      "question": "What is the mathematical formula used to calculate speed?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Speed = Distance × Time"
+        },
+        {
+          "id": "B",
+          "text": "Speed = Distance / Time"
+        },
+        {
+          "id": "C",
+          "text": "Speed = Time / Distance"
+        },
+        {
+          "id": "D",
+          "text": "Speed = Distance + Time"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Speed is defined as the rate of change of distance with respect to time."
+    },
+    {
+      "id": "5",
+      "question": "What information does the speedometer on a car's dashboard display?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The engine temperature"
+        },
+        {
+          "id": "B",
+          "text": "The total distance travelled"
+        },
+        {
+          "id": "C",
+          "text": "The instantaneous speed of the vehicle in km/h"
+        },
+        {
+          "id": "D",
+          "text": "The time of day"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "A speedometer provides real-time feedback on how fast the vehicle is moving."
+    },
+    {
+      "id": "6",
+      "question": "What specific device is used in sports to measure very short time intervals with high accuracy?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sundial"
+        },
+        {
+          "id": "B",
+          "text": "Sand clock"
+        },
+        {
+          "id": "C",
+          "text": "Stopwatch"
+        },
+        {
+          "id": "D",
+          "text": "Calendar"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Stopwatches are engineered to start and stop on command to measure precise intervals."
+    },
+    {
+      "id": "7",
+      "question": "The simple, repeating back-and-forth movement of a pendulum is called:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Linear motion"
+        },
+        {
+          "id": "B",
+          "text": "Rotation"
+        },
+        {
+          "id": "C",
+          "text": "Oscillation"
+        },
+        {
+          "id": "D",
+          "text": "Revolution"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "One complete swing from one extreme to the other and back is an oscillation."
+    },
+    {
+      "id": "8",
+      "question": "Exactly how many seconds are contained in one hour?",
+      "options": [
+        {
+          "id": "A",
+          "text": "60"
+        },
+        {
+          "id": "B",
+          "text": "360"
+        },
+        {
+          "id": "C",
+          "text": "3600"
+        },
+        {
+          "id": "D",
+          "text": "100"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "1 hour = 60 minutes = 60 × 60 = 3600 seconds."
+    },
+    {
+      "id": "9",
+      "question": "A train moving along a straight track covers exactly equal distances in equal intervals of time. This is called:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Circular motion"
+        },
+        {
+          "id": "B",
+          "text": "Non-uniform motion"
+        },
+        {
+          "id": "C",
+          "text": "Uniform motion"
+        },
+        {
+          "id": "D",
+          "text": "Random motion"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Uniform linear motion occurs when speed remains perfectly constant."
+    },
+    {
+      "id": "10",
+      "question": "What instrument measures the total cumulative distance travelled by a vehicle?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Speedometer"
+        },
+        {
+          "id": "B",
+          "text": "Odometer"
+        },
+        {
+          "id": "C",
+          "text": "Thermometer"
+        },
+        {
+          "id": "D",
+          "text": "Barometer"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "An odometer tracks the total mileage (usually in kilometres) covered by the wheels."
+    },
+    {
+      "id": "11",
+      "question": "A car travels 150 metres in exactly 10 seconds. What is its speed in m/s?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1500 m/s"
+        },
+        {
+          "id": "B",
+          "text": "15 m/s"
+        },
+        {
+          "id": "C",
+          "text": "10 m/s"
+        },
+        {
+          "id": "D",
+          "text": "160 m/s"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Using the formula: Speed = 150 m / 10 s = 15 m/s."
+    },
+    {
+      "id": "12",
+      "question": "If a freight train is travelling at a constant 60 km/h, how far will it travel in 3 hours?",
+      "options": [
+        {
+          "id": "A",
+          "text": "20 km"
+        },
+        {
+          "id": "B",
+          "text": "60 km"
+        },
+        {
+          "id": "C",
+          "text": "120 km"
+        },
+        {
+          "id": "D",
+          "text": "180 km"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "D",
+      "explanation": "Distance = Speed × Time = 60 km/h × 3 h = 180 km."
+    },
+    {
+      "id": "13",
+      "question": "What exactly defines the \"time period\" of a simple pendulum?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The weight of the bob"
+        },
+        {
+          "id": "B",
+          "text": "The length of the string"
+        },
+        {
+          "id": "C",
+          "text": "The time taken to complete exactly one full oscillation"
+        },
+        {
+          "id": "D",
+          "text": "The time it swings before friction stops it"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "This constant duration allows pendulums to be used as reliable timekeepers."
+    },
+    {
+      "id": "14",
+      "question": "A car driving through heavy, stop-and-go city traffic is a classic example of what kind of motion?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Uniform motion"
+        },
+        {
+          "id": "B",
+          "text": "Non-uniform motion"
+        },
+        {
+          "id": "C",
+          "text": "Circular motion"
+        },
+        {
+          "id": "D",
+          "text": "Periodic motion"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Because the speed constantly fluctuates, the motion is non-uniform."
+    },
+    {
+      "id": "15",
+      "question": "Convert a speed of 36 km/h into meters per second (m/s).",
+      "options": [
+        {
+          "id": "A",
+          "text": "10 m/s"
+        },
+        {
+          "id": "B",
+          "text": "20 m/s"
+        },
+        {
+          "id": "C",
+          "text": "5 m/s"
+        },
+        {
+          "id": "D",
+          "text": "360 m/s"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "To convert km/h to m/s, multiply by the factor 5/18. 36 × (5/18) = 10 m/s."
+    },
+    {
+      "id": "16",
+      "question": "Runner A completes 400m in 50s. Runner B completes 400m in 45s. Who is faster?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Runner A"
+        },
+        {
+          "id": "B",
+          "text": "Runner B"
+        },
+        {
+          "id": "C",
+          "text": "Both are the same"
+        },
+        {
+          "id": "D",
+          "text": "Cannot be calculated"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Runner B took less time to cover the same distance, resulting in a higher calculated speed."
+    },
+    {
+      "id": "17",
+      "question": "Why is an hourglass (sand clock) practically unsuitable for measuring varying, random short time intervals?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It is too heavy"
+        },
+        {
+          "id": "B",
+          "text": "It only measures one specific, fixed duration of time based on its physical design"
+        },
+        {
+          "id": "C",
+          "text": "It breaks easily"
+        },
+        {
+          "id": "D",
+          "text": "Sand gets wet"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "It cannot be started and stopped arbitrarily like a stopwatch."
+    },
+    {
+      "id": "18",
+      "question": "On what physical factor does the time period of a simple pendulum primarily depend?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The mass of the metallic bob"
+        },
+        {
+          "id": "B",
+          "text": "The length of the suspending string"
+        },
+        {
+          "id": "C",
+          "text": "The color of the bob"
+        },
+        {
+          "id": "D",
+          "text": "The initial push given"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Galileo discovered that the period depends squarely on the length, independent of mass."
+    },
+    {
+      "id": "19",
+      "question": "If a vehicle's speed constantly changes during a trip, what formula do you use to find the overall speed?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Initial speed + Final speed"
+        },
+        {
+          "id": "B",
+          "text": "Total Distance divided by Total Time (Average Speed)"
+        },
+        {
+          "id": "C",
+          "text": "Total Time / Total Distance"
+        },
+        {
+          "id": "D",
+          "text": "Speed × Time"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Average speed accounts for all variations over the entire journey."
+    },
+    {
+      "id": "20",
+      "question": "A person jogs 1200 m in 8 minutes. What is their speed in standard m/s?",
+      "options": [
+        {
+          "id": "A",
+          "text": "150 m/s"
+        },
+        {
+          "id": "B",
+          "text": "2.5 m/s"
+        },
+        {
+          "id": "C",
+          "text": "15 m/s"
+        },
+        {
+          "id": "D",
+          "text": "1.2 m/s"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "First, convert time to seconds: 8 × 60 = 480 s. Speed = 1200 / 480 = 2.5 m/s."
+    },
+    {
+      "id": "21",
+      "question": "A train travels 360 km at a constant speed of 25 m/s. How many hours does the journey take?",
+      "options": [
+        {
+          "id": "A",
+          "text": "2 hours"
+        },
+        {
+          "id": "B",
+          "text": "3 hours"
+        },
+        {
+          "id": "C",
+          "text": "4 hours"
+        },
+        {
+          "id": "D",
+          "text": "5 hours"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "360 km = 360,000 m. Time = 360,000 / 25 = 14,400 s. 14,400 / 3600 = 4 hours."
+    },
+    {
+      "id": "22",
+      "question": "A galloping horse runs at 18 m/s. A train moves at 72 km/h. Which is travelling faster?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The horse"
+        },
+        {
+          "id": "B",
+          "text": "The train"
+        },
+        {
+          "id": "C",
+          "text": "They are exactly the same speed"
+        },
+        {
+          "id": "D",
+          "text": "The train is twice as fast"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "72 km/h = 20 m/s. Therefore, the train (20 m/s) outpaces the horse (18 m/s)."
+    },
+    {
+      "id": "23",
+      "question": "During an experiment, why shouldn't you push a pendulum bob when releasing it?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It makes the bob fly off"
+        },
+        {
+          "id": "B",
+          "text": "It alters the natural periodic motion, yielding an inaccurate time period"
+        },
+        {
+          "id": "C",
+          "text": "It breaks the string"
+        },
+        {
+          "id": "D",
+          "text": "It makes the clock run backward"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Adding an external force disrupts the gravity-driven simple harmonic motion."
+    },
+    {
+      "id": "24",
+      "question": "A vehicle covers 2 km total. For the first 500 m, speed is 10 m/s. For the next 500 m, speed is 5 m/s. The total journey must take 200 s. At what speed must it travel the remaining 1000 m?",
+      "options": [
+        {
+          "id": "A",
+          "text": "5 m/s"
+        },
+        {
+          "id": "B",
+          "text": "10 m/s"
+        },
+        {
+          "id": "C",
+          "text": "20 m/s"
+        },
+        {
+          "id": "D",
+          "text": "15 m/s"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "T1=50s, T2=100s. Time used = 150s. Time left = 200 - 150 = 50s. Speed = 1000m / 50s = 20 m/s."
+    },
+    {
+      "id": "25",
+      "question": "Using the data from the previous question, what is the average speed of the vehicle for the ENTIRE 2 km journey?",
+      "options": [
+        {
+          "id": "A",
+          "text": "10 m/s"
+        },
+        {
+          "id": "B",
+          "text": "15 m/s"
+        },
+        {
+          "id": "C",
+          "text": "11.6 m/s"
+        },
+        {
+          "id": "D",
+          "text": "20 m/s"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "Average speed = Total Distance / Total Time = 2000 m / 200 s = 10 m/s."
+    },
+    {
+      "id": "26",
+      "question": "How did the scientist Christiaan Huygens revolutionize timekeeping in 1656?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He invented the digital watch"
+        },
+        {
+          "id": "B",
+          "text": "He invented the pendulum clock, utilizing predictable periodic motion for high accuracy"
+        },
+        {
+          "id": "C",
+          "text": "He created the first water clock"
+        },
+        {
+          "id": "D",
+          "text": "He discovered the sun"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "He applied Galileo's observations of isochronism to create the first highly accurate mechanical clock."
+    },
+    {
+      "id": "27",
+      "question": "A student records the distance covered by a car: 0s-0m, 10s-8m, 20s-16m, 30s-24m. What specific type of motion is this?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Non-uniform"
+        },
+        {
+          "id": "B",
+          "text": "Random"
+        },
+        {
+          "id": "C",
+          "text": "Uniform"
+        },
+        {
+          "id": "D",
+          "text": "Accelerated"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "The car covers exactly 8m every 10s, maintaining equal distances in equal time intervals."
+    },
+    {
+      "id": "28",
+      "question": "Modern quartz wristwatches do not use a swinging pendulum. How do they keep accurate time?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Using water drops"
+        },
+        {
+          "id": "B",
+          "text": "Using oscillating quartz crystals that vibrate at precise frequencies"
+        },
+        {
+          "id": "C",
+          "text": "Using falling sand"
+        },
+        {
+          "id": "D",
+          "text": "Using gears only"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "When subjected to an electric current, quartz vibrates at highly consistent, measurable frequencies."
+    },
+    {
+      "id": "29",
+      "question": "Why are atomic clocks considered the most accurate timekeepers in human history?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They are very large"
+        },
+        {
+          "id": "B",
+          "text": "They measure time based on the ultra-consistent microwave vibrations of specific atoms"
+        },
+        {
+          "id": "C",
+          "text": "They use lasers"
+        },
+        {
+          "id": "D",
+          "text": "They are in space"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Atomic resonance is so stable that these clocks lose only about one second over millions of years."
+    },
+    {
+      "id": "30",
+      "question": "If a cyclist takes exactly 50 minutes to cover a distance of 15 km, what is their average speed in m/s?",
+      "options": [
+        {
+          "id": "A",
+          "text": "5 m/s"
+        },
+        {
+          "id": "B",
+          "text": "10 m/s"
+        },
+        {
+          "id": "C",
+          "text": "3.33 m/s"
+        },
+        {
+          "id": "D",
+          "text": "300 m/s"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "Distance = 15,000 m. Time = 50 × 60 = 3000 s. Speed = 15,000 / 3000 = 5 m/s."
+    }
+  ]
+}
