@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "What planetary movement directly causes the cycle of day and night on Earth?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Moon blocking the Sun"
+        },
+        {
+          "id": "B",
+          "text": "The Earth's rotation on its own axis"
+        },
+        {
+          "id": "C",
+          "text": "The Sun turning off"
+        },
+        {
+          "id": "D",
+          "text": "Clouds moving"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "As Earth spins, half the planet faces the Sun (day) while the other half faces away (night)."
+    },
+    {
+      "id": "2",
+      "question": "Due to Earth's motion, in which direction does the Sun appear to rise?",
+      "options": [
+        {
+          "id": "A",
+          "text": "West"
+        },
+        {
+          "id": "B",
+          "text": "North"
+        },
+        {
+          "id": "C",
+          "text": "East"
+        },
+        {
+          "id": "D",
+          "text": "South"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Because Earth rotates West to East, celestial bodies appear to rise in the East."
+    },
+    {
+      "id": "3",
+      "question": "Approximately how long does the Earth take to complete one full rotation on its axis?",
+      "options": [
+        {
+          "id": "A",
+          "text": "12 hours"
+        },
+        {
+          "id": "B",
+          "text": "24 hours"
+        },
+        {
+          "id": "C",
+          "text": "365 days"
+        },
+        {
+          "id": "D",
+          "text": "1 month"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "One rotation defines our 24-hour day."
+    },
+    {
+      "id": "4",
+      "question": "What is the movement of the Earth around the Sun called?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rotation"
+        },
+        {
+          "id": "B",
+          "text": "Revolution"
+        },
+        {
+          "id": "C",
+          "text": "Oscillation"
+        },
+        {
+          "id": "D",
+          "text": "Vibration"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Travelling along its orbital path around a central star is termed revolution."
+    },
+    {
+      "id": "5",
+      "question": "How long does one complete revolution of the Earth around the Sun take?",
+      "options": [
+        {
+          "id": "A",
+          "text": "24 hours"
+        },
+        {
+          "id": "B",
+          "text": "27 days"
+        },
+        {
+          "id": "C",
+          "text": "About 365 days and 6 hours (one year)"
+        },
+        {
+          "id": "D",
+          "text": "10 years"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "This orbital period defines the length of a calendar year, with leap years accounting for the extra 6 hours."
+    },
+    {
+      "id": "6",
+      "question": "Does the Moon produce its own light?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes"
+        },
+        {
+          "id": "B",
+          "text": "No, it reflects sunlight"
+        },
+        {
+          "id": "C",
+          "text": "Yes, but only in winter"
+        },
+        {
+          "id": "D",
+          "text": "Half of it does"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The Moon is a dark, rocky satellite that is visible only because it reflects solar radiation."
+    },
+    {
+      "id": "7",
+      "question": "What do we call the changing, illuminated shapes of the Moon as seen from Earth over a month?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Eclipses"
+        },
+        {
+          "id": "B",
+          "text": "Moon shapes"
+        },
+        {
+          "id": "C",
+          "text": "Phases of the Moon"
+        },
+        {
+          "id": "D",
+          "text": "Lunar tides"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "As the Moon orbits Earth, our viewing angle of its sunlit half changes, creating phases."
+    },
+    {
+      "id": "8",
+      "question": "What astronomical event occurs during a solar eclipse?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Earth blocks the Moon"
+        },
+        {
+          "id": "B",
+          "text": "The Moon passes directly between the Sun and Earth, blocking sunlight"
+        },
+        {
+          "id": "C",
+          "text": "The Sun turns black"
+        },
+        {
+          "id": "D",
+          "text": "The stars disappear"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The Moon casts its shadow onto the Earth, temporarily turning day into twilight."
+    },
+    {
+      "id": "9",
+      "question": "Why is it dangerous to look directly at a solar eclipse with naked eyes?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It is bad luck"
+        },
+        {
+          "id": "B",
+          "text": "The intense solar radiation can severely and permanently damage the retina"
+        },
+        {
+          "id": "C",
+          "text": "It is too dark to see"
+        },
+        {
+          "id": "D",
+          "text": "It causes a headache"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The lack of visible light dilates pupils, allowing harmful UV rays to burn the eye."
+    },
+    {
+      "id": "10",
+      "question": "What force from the Moon heavily affects Earth's oceans?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Magnetism"
+        },
+        {
+          "id": "B",
+          "text": "Gravity (causing tides)"
+        },
+        {
+          "id": "C",
+          "text": "Wind"
+        },
+        {
+          "id": "D",
+          "text": "Light"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The Moon's gravitational pull creates bulges in the oceans, resulting in high and low tides."
+    },
+    {
+      "id": "11",
+      "question": "If the Earth rotates from west to east, why do the Sun and stars appear to move from east to west?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They are flying past us"
+        },
+        {
+          "id": "B",
+          "text": "It is an optical illusion caused by our perspective on a rotating object, similar to looking out of a moving train"
+        },
+        {
+          "id": "C",
+          "text": "The wind blows them"
+        },
+        {
+          "id": "D",
+          "text": "They rotate opposite to us"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Relative motion makes stationary background objects appear to move in the opposite direction."
+    },
+    {
+      "id": "12",
+      "question": "What is the primary cause of different seasons (Summer, Winter) on Earth?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Earth gets physically closer to and farther from the Sun"
+        },
+        {
+          "id": "B",
+          "text": "The ~23.5° tilt of Earth's axis causes varying angles and durations of sunlight as it revolves"
+        },
+        {
+          "id": "C",
+          "text": "The Sun changes its heat output"
+        },
+        {
+          "id": "D",
+          "text": "The Moon blocks the Sun"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The axial tilt dictates how direct the sunlight is, driving massive climate shifts."
+    },
+    {
+      "id": "13",
+      "question": "If it is bright daytime in India, what is it likely to be in the USA?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Daytime also"
+        },
+        {
+          "id": "B",
+          "text": "Nighttime"
+        },
+        {
+          "id": "C",
+          "text": "Summer"
+        },
+        {
+          "id": "D",
+          "text": "Winter"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Because they are on opposite sides of the globe, one hemisphere faces the sun while the other is in the planet's shadow."
+    },
+    {
+      "id": "14",
+      "question": "What exactly is a lunar eclipse?",
+      "options": [
+        {
+          "id": "A",
+          "text": "When the Moon explodes"
+        },
+        {
+          "id": "B",
+          "text": "When the Earth comes exactly between the Sun and the Moon, casting its massive shadow onto the Moon"
+        },
+        {
+          "id": "C",
+          "text": "When the Sun completely blocks the Moon"
+        },
+        {
+          "id": "D",
+          "text": "When a cloud covers the Moon"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "This occurs only during a full moon when the orbital alignment is perfect."
+    },
+    {
+      "id": "15",
+      "question": "Why don't we experience a solar and lunar eclipse every single month?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Eclipses are random"
+        },
+        {
+          "id": "B",
+          "text": "The Moon's orbit is tilted relative to Earth's, so the three bodies don't perfectly align every month"
+        },
+        {
+          "id": "C",
+          "text": "The Sun is too bright"
+        },
+        {
+          "id": "D",
+          "text": "The Moon moves too fast"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The 5-degree tilt means the Moon usually passes slightly above or below Earth's shadow."
+    },
+    {
+      "id": "16",
+      "question": "If you look at the stars tonight at 8:00 PM, at what time will they be in the exact same position tomorrow night?",
+      "options": [
+        {
+          "id": "A",
+          "text": "8:00 PM"
+        },
+        {
+          "id": "B",
+          "text": "8:04 PM"
+        },
+        {
+          "id": "C",
+          "text": "7:56 PM (about 4 minutes earlier)"
+        },
+        {
+          "id": "D",
+          "text": "9:00 PM"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Because Earth moves roughly 1 degree in its orbit daily, stars appear to rise 4 minutes earlier."
+    },
+    {
+      "id": "17",
+      "question": "Why do different constellations (groups of stars) appear in the night sky over the course of a year?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The stars are moving around the Earth"
+        },
+        {
+          "id": "B",
+          "text": "As Earth revolves around the Sun, our night-side faces completely different parts of deep space"
+        },
+        {
+          "id": "C",
+          "text": "The clouds hide some stars"
+        },
+        {
+          "id": "D",
+          "text": "Stars die out"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Our orbital journey changes our vantage point of the galaxy month by month."
+    },
+    {
+      "id": "18",
+      "question": "During winter in the Northern Hemisphere, how many hours of sunlight does the North Pole receive during one full rotation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "24 hours"
+        },
+        {
+          "id": "B",
+          "text": "12 hours"
+        },
+        {
+          "id": "C",
+          "text": "0 hours (it remains in complete darkness)"
+        },
+        {
+          "id": "D",
+          "text": "6 hours"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Because the pole is tilted severely away from the Sun, it remains in the planet's shadow constantly."
+    },
+    {
+      "id": "19",
+      "question": "How long does it take for the Moon to orbit the Earth once?",
+      "options": [
+        {
+          "id": "A",
+          "text": "24 hours"
+        },
+        {
+          "id": "B",
+          "text": "About 27.3 days"
+        },
+        {
+          "id": "C",
+          "text": "365 days"
+        },
+        {
+          "id": "D",
+          "text": "1 year"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "This roughly month-long orbital period dictates the cycle of the lunar phases."
+    },
+    {
+      "id": "20",
+      "question": "What is an equinox?",
+      "options": [
+        {
+          "id": "A",
+          "text": "When the Moon is full"
+        },
+        {
+          "id": "B",
+          "text": "When the Earth's axis is tilted neither toward nor away from the Sun, making day and night nearly equal everywhere (around March 21, Sep 23)"
+        },
+        {
+          "id": "C",
+          "text": "A type of horse"
+        },
+        {
+          "id": "D",
+          "text": "The longest day of the year"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The word literally means \"equal night,\" marking the onset of spring and autumn."
+    },
+    {
+      "id": "21",
+      "question": "Why can the much smaller Moon completely block the massive Sun during a total solar eclipse?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Moon physically grows larger"
+        },
+        {
+          "id": "B",
+          "text": "The Moon is about 400 times smaller, but also 400 times closer to Earth than the Sun, making their apparent angular sizes in the sky almost identical"
+        },
+        {
+          "id": "C",
+          "text": "The Sun shrinks"
+        },
+        {
+          "id": "D",
+          "text": "The Earth's atmosphere magnifies the Moon"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "This perfect cosmic coincidence allows the Moon's disc to exactly cover the solar photosphere."
+    },
+    {
+      "id": "22",
+      "question": "Why are total solar eclipses only visible from a very narrow path on Earth, while lunar eclipses are visible from the entire night side?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Moon is faster"
+        },
+        {
+          "id": "B",
+          "text": "The Moon's dark shadow (umbra) is very small and traces a narrow path, whereas the Earth's shadow is massive and envelops the whole Moon"
+        },
+        {
+          "id": "C",
+          "text": "Solar eclipses happen quickly"
+        },
+        {
+          "id": "D",
+          "text": "The Sun is too bright"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The geometry of the shadows dictates the viewing area; Earth's shadow dwarfs the Moon."
+    },
+    {
+      "id": "23",
+      "question": "Why do we always see the exact same side of the Moon from Earth, never its \"dark side\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The other side is transparent"
+        },
+        {
+          "id": "B",
+          "text": "The Moon does not rotate at all"
+        },
+        {
+          "id": "C",
+          "text": "The Moon is \"tidally locked\"; its rotation period on its axis perfectly matches its orbital period around Earth (27.3 days)"
+        },
+        {
+          "id": "D",
+          "text": "The Earth rotates too fast"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Because it spins at the exact same rate it revolves, one hemisphere always faces us."
+    },
+    {
+      "id": "24",
+      "question": "A student claims that summer happens because Earth gets physically closer to the Sun in July. How does a scientist correct this?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes, that is absolutely correct"
+        },
+        {
+          "id": "B",
+          "text": "No, Earth is actually closest to the Sun in January (perihelion); seasons are strictly caused by the 23.5° axial tilt"
+        },
+        {
+          "id": "C",
+          "text": "Yes, but only in India"
+        },
+        {
+          "id": "D",
+          "text": "No, the Sun gets hotter in July"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Proximity to the sun has negligible effect compared to the directness of sunlight caused by the tilt."
+    },
+    {
+      "id": "25",
+      "question": "If Nandhini sees a specific constellation rising exactly at midnight on June 21, when will she see it rising at exactly midnight again?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tomorrow"
+        },
+        {
+          "id": "B",
+          "text": "In a month"
+        },
+        {
+          "id": "C",
+          "text": "Next year on June 21"
+        },
+        {
+          "id": "D",
+          "text": "Never"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "It takes exactly one year (365 days) for the Earth to return to the precise orbital position relative to distant stars."
+    },
+    {
+      "id": "26",
+      "question": "If the Earth's axis were completely straight (0° tilt) instead of tilted, what would happen to the global climate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The seasons would be more extreme"
+        },
+        {
+          "id": "B",
+          "text": "There would be no seasons; weather and daylight hours would remain almost constant year-round at any given latitude"
+        },
+        {
+          "id": "C",
+          "text": "Winter would last forever"
+        },
+        {
+          "id": "D",
+          "text": "Days would be 48 hours long"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Without axial tilt, the angle of solar incidence would never change, eliminating seasonal variation."
+    },
+    {
+      "id": "27",
+      "question": "When is the longest day of the year in the Northern Hemisphere, and what is this astronomical event called?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Winter solstice"
+        },
+        {
+          "id": "B",
+          "text": "Equinox"
+        },
+        {
+          "id": "C",
+          "text": "Summer solstice (around June 21)"
+        },
+        {
+          "id": "D",
+          "text": "Lunar phase"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "The solstice occurs when the North Pole achieves its maximum tilt directly toward the Sun."
+    },
+    {
+      "id": "28",
+      "question": "The 4-minute daily shift in star rising times adds up to exactly how much time over one full year?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 hour"
+        },
+        {
+          "id": "B",
+          "text": "12 hours"
+        },
+        {
+          "id": "C",
+          "text": "24 hours (one full day)"
+        },
+        {
+          "id": "D",
+          "text": "1 week"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "4 minutes × 365 days ≈ 1440 minutes, which equals 24 hours. Earth effectively completes one extra rotation relative to the stars during its orbit."
+    },
+    {
+      "id": "29",
+      "question": "Four friends watched a solar eclipse. Jyothi used a pinhole mirror projection, Ravikiran used certified solar goggles, Aruna went to a planetarium, and Adithya looked directly at it. Who was careless?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Jyothi"
+        },
+        {
+          "id": "B",
+          "text": "Ravikiran"
+        },
+        {
+          "id": "C",
+          "text": "Aruna"
+        },
+        {
+          "id": "D",
+          "text": "Adithya"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "D",
+      "explanation": "Looking directly at the Sun during a partial eclipse bypasses the blink reflex, allowing intense UV rays to permanently burn the macula."
+    },
+    {
+      "id": "30",
+      "question": "How do spring tides (the absolute highest and lowest tides) relate to the phases of the moon?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They occur randomly"
+        },
+        {
+          "id": "B",
+          "text": "They occur during quarter moons"
+        },
+        {
+          "id": "C",
+          "text": "They occur during full and new moons when the Sun, Earth, and Moon align in a straight line, combining their gravitational pulls"
+        },
+        {
+          "id": "D",
+          "text": "They only happen in the spring season"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "The vector addition of the Sun and Moon's gravity creates maximum tidal bulges during syzygy."
+    }
+  ]
+}
