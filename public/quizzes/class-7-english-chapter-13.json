@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "c7-eng-ch13-e-1",
+      "question": "Who are the two young friends actively exchanging letters?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mary and Jane"
+        },
+        {
+          "id": "B",
+          "text": "Soumya and Ananda"
+        },
+        {
+          "id": "C",
+          "text": "Anand and Anita"
+        },
+        {
+          "id": "D",
+          "text": "Shaana and Gopi"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Soumya and Ananda are two observant school friends corresponding through letters about their visits and historical discoveries."
+    },
+    {
+      "id": "c7-eng-ch13-e-2",
+      "question": "What deeply significant place did Soumya recently visit in New Delhi?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The historic Red Fort"
+        },
+        {
+          "id": "B",
+          "text": "The National War Memorial"
+        },
+        {
+          "id": "C",
+          "text": "The Lotus Temple"
+        },
+        {
+          "id": "D",
+          "text": "The Qutub Minar"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Soumya visited the solemn National War Memorial located near India Gate in New Delhi, which deeply moved her."
+    },
+    {
+      "id": "c7-eng-ch13-e-3",
+      "question": "Who officially inaugurated this grand memorial?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The President of India"
+        },
+        {
+          "id": "B",
+          "text": "Prime Minister Narendra Modi"
+        },
+        {
+          "id": "C",
+          "text": "A 5-Star General"
+        },
+        {
+          "id": "D",
+          "text": "A retired soldier"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Prime Minister Narendra Modi formally dedicated the National War Memorial to the nation on February 25, 2019."
+    },
+    {
+      "id": "c7-eng-ch13-e-4",
+      "question": "Who does this massive memorial specifically honor?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wealthy politicians"
+        },
+        {
+          "id": "B",
+          "text": "Soldiers who sacrificed their lives in wars post-1947"
+        },
+        {
+          "id": "C",
+          "text": "Freedom fighters from pre-1947"
+        },
+        {
+          "id": "D",
+          "text": "Famous Olympic athletes"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The monument honors Indian armed forces personnel who made the supreme sacrifice defending the country in conflicts post-1947."
+    },
+    {
+      "id": "c7-eng-ch13-e-5",
+      "question": "What is the absolute highest military gallantry award in the nation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Padma Shri"
+        },
+        {
+          "id": "B",
+          "text": "The Param Vir Chakra"
+        },
+        {
+          "id": "C",
+          "text": "The Bharat Ratna"
+        },
+        {
+          "id": "D",
+          "text": "The Maha Vir Chakra"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The Param Vir Chakra (PVC) is India's highest military decoration, awarded for most conspicuous bravery in the presence of the enemy."
+    },
+    {
+      "id": "c7-eng-ch13-e-6",
+      "question": "Who was the hero, Lance Naik Albert Ekka?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A local politician"
+        },
+        {
+          "id": "B",
+          "text": "A brave, selfless soldier who died fighting in the 1971 war"
+        },
+        {
+          "id": "C",
+          "text": "A famous doctor"
+        },
+        {
+          "id": "D",
+          "text": "A fighter pilot"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Lance Naik Albert Ekka was a fearless infantry soldier posthumously awarded the Param Vir Chakra for heroism during the 1971 war."
+    },
+    {
+      "id": "c7-eng-ch13-e-7",
+      "question": "What is the architectural definition of an 'obelisk'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A tall, pointed, four-sided stone pillar"
+        },
+        {
+          "id": "B",
+          "text": "A perfect circle"
+        },
+        {
+          "id": "C",
+          "text": "A large national flag"
+        },
+        {
+          "id": "D",
+          "text": "A heavy machine gun"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "An obelisk is a tall, tapering, four-sided monolithic stone pillar that terminates in a pyramid-like point at the top."
+    },
+    {
+      "id": "c7-eng-ch13-e-8",
+      "question": "What does the word 'homage' mean in this context?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A large, expensive house"
+        },
+        {
+          "id": "B",
+          "text": "A sincere, public expression of deep respect and honor"
+        },
+        {
+          "id": "C",
+          "text": "A type of war"
+        },
+        {
+          "id": "D",
+          "text": "A deadly weapon"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "'Homage' denotes a formal, deeply heartfelt tribute shown publicly to honor the valor and memory of esteemed individuals."
+    },
+    {
+      "id": "c7-eng-ch13-e-9",
+      "question": "Does Ananda feel deeply inspired after reading the letter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes, highly inspired"
+        },
+        {
+          "id": "B",
+          "text": "No, he is bored"
+        },
+        {
+          "id": "C",
+          "text": "He is very angry"
+        },
+        {
+          "id": "D",
+          "text": "He ignores the letter entirely"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "Ananda is profoundly inspired by Soumya's vivid account, vowing to research national heroes and visit the memorial himself."
+    },
+    {
+      "id": "c7-eng-ch13-e-10",
+      "question": "What unique shape are the walls designed in the Tyag Chakra?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A perfect square"
+        },
+        {
+          "id": "B",
+          "text": "An ancient Chakravyuh (maze) formation"
+        },
+        {
+          "id": "C",
+          "text": "A sharp triangle"
+        },
+        {
+          "id": "D",
+          "text": "A single straight line"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The granite tablets of the Tyag Chakra are laid out in concentric rings modeling the ancient Chakravyuh military formation."
+    },
+    {
+      "id": "c7-eng-ch13-m-1",
+      "question": "Approximately how many soldiers' names are permanently etched on the tablets?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Exactly 1,000"
+        },
+        {
+          "id": "B",
+          "text": "Over 26,000"
+        },
+        {
+          "id": "C",
+          "text": "Only 500"
+        },
+        {
+          "id": "D",
+          "text": "Exactly 100,000"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Over 26,000 names of martyrs are inscribed in golden letters across the granite bricks of the Tyag Chakra."
+    },
+    {
+      "id": "c7-eng-ch13-m-2",
+      "question": "What highly symbolic element does the Amar Chakra (Circle of Immortality) hold?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tall oak trees"
+        },
+        {
+          "id": "B",
+          "text": "The eternal, never-ending flame"
+        },
+        {
+          "id": "C",
+          "text": "Bronze murals"
+        },
+        {
+          "id": "D",
+          "text": "Holy water"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "At the heart of the Amar Chakra burns the Amar Jawan Jyoti (Eternal Flame), representing the undying spirit of fallen soldiers."
+    },
+    {
+      "id": "c7-eng-ch13-m-3",
+      "question": "What does the Raksha Chakra (Circle of Protection) physically consist of?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High brick walls"
+        },
+        {
+          "id": "B",
+          "text": "Dense rows of trees representing protective soldiers"
+        },
+        {
+          "id": "C",
+          "text": "A ring of fire"
+        },
+        {
+          "id": "D",
+          "text": "Marble statues"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The Raksha Chakra features dense rows of standing trees standing like vigilant soldiers guarding the nation round the clock."
+    },
+    {
+      "id": "c7-eng-ch13-m-4",
+      "question": "What exactly do the six bronze murals in the Veerta Chakra depict?",
+      "options": [
+        {
+          "id": "A",
+          "text": "World peace"
+        },
+        {
+          "id": "B",
+          "text": "Famous, heroic battles fought by the armed forces"
+        },
+        {
+          "id": "C",
+          "text": "Beautiful flowers"
+        },
+        {
+          "id": "D",
+          "text": "Wild animals"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Six dramatic bronze relief murals in the Veerta Chakra depict landmark battles and heroic operations of the army, navy, and air force."
+    },
+    {
+      "id": "c7-eng-ch13-m-5",
+      "question": "What does the word 'posthumously' mean regarding military awards?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Awarded before birth"
+        },
+        {
+          "id": "B",
+          "text": "Awarded after the person has died"
+        },
+        {
+          "id": "C",
+          "text": "Awarded in secret"
+        },
+        {
+          "id": "D",
+          "text": "Awarded very loudly"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "'Posthumously' indicates that an honor or decoration is formally bestowed after the recipient has passed away in battle."
+    },
+    {
+      "id": "c7-eng-ch13-m-6",
+      "question": "Who was historically the very first recipient of the Param Vir Chakra in 1947?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Albert Ekka"
+        },
+        {
+          "id": "B",
+          "text": "Major Somnath Sharma"
+        },
+        {
+          "id": "C",
+          "text": "Ananda"
+        },
+        {
+          "id": "D",
+          "text": "Soumya"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Major Somnath Sharma made the supreme sacrifice defending Srinagar airport in 1947 and became India's first PVC recipient."
+    },
+    {
+      "id": "c7-eng-ch13-m-7",
+      "question": "Why were the visiting students described as being awestruck and humbled?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The monument was very tall"
+        },
+        {
+          "id": "B",
+          "text": "They were deeply moved upon learning about the incredible bravery and selflessness of the fallen soldiers"
+        },
+        {
+          "id": "C",
+          "text": "The bus ride was scary"
+        },
+        {
+          "id": "D",
+          "text": "The weather was very hot"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Witnessing the sheer scale of sacrifice inscribed across thousands of bricks left the students deeply humbled and grateful."
+    },
+    {
+      "id": "c7-eng-ch13-m-8",
+      "question": "What specific heroic action did Albert Ekka take during his battle?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He ran away to get help"
+        },
+        {
+          "id": "B",
+          "text": "He stormed an enemy bunker alone to save his team, despite suffering fatal injuries"
+        },
+        {
+          "id": "C",
+          "text": "He hid in a trench"
+        },
+        {
+          "id": "D",
+          "text": "He surrendered immediately"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Despite grievous wounds, Lance Naik Albert Ekka charged and silenced an enemy machine gun bunker, saving his entire company."
+    },
+    {
+      "id": "c7-eng-ch13-m-9",
+      "question": "What are 'wreaths' as seen at the memorial?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Deadly weapons"
+        },
+        {
+          "id": "B",
+          "text": "Beautiful circular arrangements of flowers used to show deep respect for the dead"
+        },
+        {
+          "id": "C",
+          "text": "Heavy gold medals"
+        },
+        {
+          "id": "D",
+          "text": "Military uniforms"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Wreaths are ceremonial rings of woven flowers laid at memorials as a solemn mark of remembrance and mourning for martyrs."
+    },
+    {
+      "id": "c7-eng-ch13-m-10",
+      "question": "What is the primary social purpose of building grand war memorials?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To spend excess government money"
+        },
+        {
+          "id": "B",
+          "text": "To formally honor massive sacrifices and vividly educate future generations about the cost of peace"
+        },
+        {
+          "id": "C",
+          "text": "To cause traffic jams"
+        },
+        {
+          "id": "D",
+          "text": "For tourists to go shopping"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "War memorials preserve collective historical memory, honor fallen defenders, and instill civic duty and patriotism in youth."
+    },
+    {
+      "id": "c7-eng-ch13-h-1",
+      "question": "What is the specific literary format utilized to structure this chapter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A rhyming poem"
+        },
+        {
+          "id": "B",
+          "text": "An epistolary format (an intimate exchange of written letters)"
+        },
+        {
+          "id": "C",
+          "text": "A tense drama"
+        },
+        {
+          "id": "D",
+          "text": "A third-person biography"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The chapter uses an epistolary format—communicating historical facts and emotional reflections through letters between friends."
+    },
+    {
+      "id": "c7-eng-ch13-h-2",
+      "question": "What does the Chakravyuh formation of walls in the memorial powerfully symbolize?",
+      "options": [
+        {
+          "id": "A",
+          "text": "General confusion"
+        },
+        {
+          "id": "B",
+          "text": "An ancient battle tactic representing the protective, sacrificial journey of a soldier"
+        },
+        {
+          "id": "C",
+          "text": "A fun maze for children"
+        },
+        {
+          "id": "D",
+          "text": "Certain defeat"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Inspired by Mahabharata warfare, the Chakravyuh concentric rings symbolize the protective, multi-layered defense maintained by soldiers."
+    },
+    {
+      "id": "c7-eng-ch13-h-3",
+      "question": "What abstract concept does the eternal flame most strongly symbolize?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Intense physical heat"
+        },
+        {
+          "id": "B",
+          "text": "The immortal, undying spirit of the fallen soldiers"
+        },
+        {
+          "id": "C",
+          "text": "Cooking fires"
+        },
+        {
+          "id": "D",
+          "text": "Constant danger"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The perpetual flame signifies that while a soldier's physical body may perish, their patriotic spirit lives eternally in the nation's heart."
+    },
+    {
+      "id": "c7-eng-ch13-h-4",
+      "question": "How does the specific lighting design enhance the memorial's psychological impact?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It makes it too hard to see"
+        },
+        {
+          "id": "B",
+          "text": "It beautifully transforms the landscape as sunlight changes, creating a deeply emotive experience"
+        },
+        {
+          "id": "C",
+          "text": "It saves electricity"
+        },
+        {
+          "id": "D",
+          "text": "It blinds the visitors"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Dynamic lighting shifts with sunbursts and dusk illumination, creating a solemn, contemplative atmosphere that deepens reverence."
+    },
+    {
+      "id": "c7-eng-ch13-h-5",
+      "question": "In a geopolitical sense, what does defending 'sovereignty and integrity' refer to?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A king's absolute rule"
+        },
+        {
+          "id": "B",
+          "text": "Protecting the supreme power, independence, and territorial unity of a free nation"
+        },
+        {
+          "id": "C",
+          "text": "Protecting money"
+        },
+        {
+          "id": "D",
+          "text": "Defending rivers"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Sovereignty guarantees a nation's absolute right to self-governance without foreign interference, while integrity protects border unity."
+    },
+    {
+      "id": "c7-eng-ch13-h-6",
+      "question": "What is the precise definition of the word 'valour'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Intense fear"
+        },
+        {
+          "id": "B",
+          "text": "Great, exceptional bravery in the face of extreme danger"
+        },
+        {
+          "id": "C",
+          "text": "Deep sadness"
+        },
+        {
+          "id": "D",
+          "text": "Monetary value"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "'Valour' signifies supreme courage, nobility of spirit, and unflinching bravery when confronting lethal danger in combat."
+    },
+    {
+      "id": "c7-eng-ch13-h-7",
+      "question": "What are the exact, stringent criteria for being awarded the Param Vir Chakra?",
+      "options": [
+        {
+          "id": "A",
+          "text": "For perfect attendance"
+        },
+        {
+          "id": "B",
+          "text": "For the most conspicuous bravery, daring, or pre-eminent self-sacrifice in the immediate presence of the enemy"
+        },
+        {
+          "id": "C",
+          "text": "For winning sports"
+        },
+        {
+          "id": "D",
+          "text": "For old age"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The PVC is reserved strictly for pre-eminent acts of valor, self-sacrifice, and daring performed under direct enemy fire."
+    },
+    {
+      "id": "c7-eng-ch13-h-8",
+      "question": "What complex, dual emotion is intentionally evoked by visiting the memorial?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Intense anger and deep fear"
+        },
+        {
+          "id": "B",
+          "text": "Immense pride for the nation paired simultaneously with profound sadness for the massive devastation and loss of life"
+        },
+        {
+          "id": "C",
+          "text": "Joy and uncontrollable laughter"
+        },
+        {
+          "id": "D",
+          "text": "Deep boredom and hunger"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Visitors experience a poignant synthesis of immense pride for such heroism paired with solemn grief over the tragic human toll of war."
+    },
+    {
+      "id": "c7-eng-ch13-h-9",
+      "question": "How does highlighting Albert Ekka's individual story humanize the massive memorial?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It doesn't help at all"
+        },
+        {
+          "id": "B",
+          "text": "It effectively translates abstract numbers (26,000 dead) into a highly tangible, heart-wrenching narrative of personal sacrifice"
+        },
+        {
+          "id": "C",
+          "text": "It makes the history confusing"
+        },
+        {
+          "id": "D",
+          "text": "It hides the true facts"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Focusing on one soldier's personal courage transforms vast, overwhelming numerical statistics into relatable, human heroism."
+    },
+    {
+      "id": "c7-eng-ch13-h-10",
+      "question": "What does the vocabulary word 'commemorate' mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To quickly forget"
+        },
+        {
+          "id": "B",
+          "text": "To formally honor, recall, and remember officially as a group"
+        },
+        {
+          "id": "C",
+          "text": "To violently destroy"
+        },
+        {
+          "id": "D",
+          "text": "To buy and sell"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "'Commemorate' means to officially celebrate, preserve in public memory, and pay solemn respect to historical events or persons."
+    }
+  ]
+}

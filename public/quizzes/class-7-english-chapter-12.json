@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "c7-eng-ch12-e-1",
+      "question": "Who is the inspiring main subject of this biographical chapter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bachendri Pal"
+        },
+        {
+          "id": "B",
+          "text": "Arunima Sinha"
+        },
+        {
+          "id": "C",
+          "text": "Mary Kom"
+        },
+        {
+          "id": "D",
+          "text": "P.T. Usha"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Arunima Sinha is the remarkable Indian mountaineer whose story of resilience and triumph over severe disability is detailed in this chapter."
+    },
+    {
+      "id": "c7-eng-ch12-e-2",
+      "question": "What tragic event happened to her on April 11, 2011?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She won a gold medal"
+        },
+        {
+          "id": "B",
+          "text": "She was involved in a terrible, life-changing train accident"
+        },
+        {
+          "id": "C",
+          "text": "She successfully climbed a mountain"
+        },
+        {
+          "id": "D",
+          "text": "She got married"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "On April 11, 2011, Arunima was thrown from a moving train by robbers resisting a theft, resulting in a life-altering accident."
+    },
+    {
+      "id": "c7-eng-ch12-e-3",
+      "question": "What specific physical loss did she suffer in the accident?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She lost an arm"
+        },
+        {
+          "id": "B",
+          "text": "She lost one of her legs"
+        },
+        {
+          "id": "C",
+          "text": "She lost her vision"
+        },
+        {
+          "id": "D",
+          "text": "She lost her hearing"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "As a consequence of the tragic train accident and subsequent medical surgery, her left leg had to be amputated below the knee."
+    },
+    {
+      "id": "c7-eng-ch12-e-4",
+      "question": "What was her ambitious dream before the accident occurred?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To join the paramilitary forces and pursue sports"
+        },
+        {
+          "id": "B",
+          "text": "To be a famous doctor"
+        },
+        {
+          "id": "C",
+          "text": "To be a pop singer"
+        },
+        {
+          "id": "D",
+          "text": "To be a school teacher"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "As a national-level volleyball player, her ambition was to join the paramilitary forces (CISF) and continue her sports career."
+    },
+    {
+      "id": "c7-eng-ch12-e-5",
+      "question": "While recovering, what massive goal did she set for herself?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To climb K2"
+        },
+        {
+          "id": "B",
+          "text": "To climb Mount Everest"
+        },
+        {
+          "id": "C",
+          "text": "To climb Mount Kilimanjaro"
+        },
+        {
+          "id": "D",
+          "text": "To climb the Swiss Alps"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Refusing to be pitied while lying on a hospital bed, she made the bold resolution to climb Mount Everest, the world's highest peak."
+    },
+    {
+      "id": "c7-eng-ch12-e-6",
+      "question": "Who famously mentored and guided her mountaineering training?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Her father"
+        },
+        {
+          "id": "B",
+          "text": "Bachendri Pal"
+        },
+        {
+          "id": "C",
+          "text": "Her head doctor"
+        },
+        {
+          "id": "D",
+          "text": "Her older brother"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Bachendri Pal, the first Indian woman to climb Everest, recognized Arunima's incredible determination and became her mentor."
+    },
+    {
+      "id": "c7-eng-ch12-e-7",
+      "question": "Did she use a special device to help her walk and climb?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes, a prosthetic (artificial) leg"
+        },
+        {
+          "id": "B",
+          "text": "No, she hopped"
+        },
+        {
+          "id": "C",
+          "text": "She strictly used crutches"
+        },
+        {
+          "id": "D",
+          "text": "She used a wheelchair"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "She underwent intensive rehabilitation using a specialized prosthetic (artificial) limb designed to bear heavy physical strain."
+    },
+    {
+      "id": "c7-eng-ch12-e-8",
+      "question": "On what exact date did she finally reach the summit of Everest?",
+      "options": [
+        {
+          "id": "A",
+          "text": "May 21, 2013"
+        },
+        {
+          "id": "B",
+          "text": "April 11, 2011"
+        },
+        {
+          "id": "C",
+          "text": "January 1, 2019"
+        },
+        {
+          "id": "D",
+          "text": "July 2016"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "At 10:55 AM on May 21, 2013, Arunima created history by becoming the world's first female amputee to summit Mount Everest."
+    },
+    {
+      "id": "c7-eng-ch12-e-9",
+      "question": "What highly competitive sport did she excel in before her injury?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cricket"
+        },
+        {
+          "id": "B",
+          "text": "Volleyball"
+        },
+        {
+          "id": "C",
+          "text": "Tennis"
+        },
+        {
+          "id": "D",
+          "text": "Chess"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "She was a formidable national-level volleyball player, athletic training that later gave her mental and physical stamina."
+    },
+    {
+      "id": "c7-eng-ch12-e-10",
+      "question": "What significant item did she proudly plant at the summit?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A small tree"
+        },
+        {
+          "id": "B",
+          "text": "The Indian national flag"
+        },
+        {
+          "id": "C",
+          "text": "A large tent"
+        },
+        {
+          "id": "D",
+          "text": "A metal sword"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Upon standing atop the highest point on Earth, she proudly hoisted the Indian national tricolor flag amidst the icy winds."
+    },
+    {
+      "id": "c7-eng-ch12-m-1",
+      "question": "How long did the grueling, final climb take her to complete?",
+      "options": [
+        {
+          "id": "A",
+          "text": "10 days"
+        },
+        {
+          "id": "B",
+          "text": "52 exhausting days"
+        },
+        {
+          "id": "C",
+          "text": "1 full year"
+        },
+        {
+          "id": "D",
+          "text": "5 short days"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The entire expedition from base camp through the treacherous icefalls up to the Everest summit took 52 grueling, arduous days."
+    },
+    {
+      "id": "c7-eng-ch12-m-2",
+      "question": "Whose photograph did she respectfully place at the very top of the mountain?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mahatma Gandhi"
+        },
+        {
+          "id": "B",
+          "text": "Swami Vivekananda"
+        },
+        {
+          "id": "C",
+          "text": "Her mother"
+        },
+        {
+          "id": "D",
+          "text": "Bachendri Pal"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "She placed a photograph of Swami Vivekananda at the summit, inspired by his teachings on courage and mental strength."
+    },
+    {
+      "id": "c7-eng-ch12-m-3",
+      "question": "Where did she undergo her intense, 18-month mountaineering training?",
+      "options": [
+        {
+          "id": "A",
+          "text": "In New Delhi"
+        },
+        {
+          "id": "B",
+          "text": "The Nehru Institute of Mountaineering in Uttarkashi"
+        },
+        {
+          "id": "C",
+          "text": "In Mumbai"
+        },
+        {
+          "id": "D",
+          "text": "In Pune"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Under Bachendri Pal's guidance, she completed a rigorous 18-month basic and advanced course at the Nehru Institute of Mountaineering."
+    },
+    {
+      "id": "c7-eng-ch12-m-4",
+      "question": "What does the term 'Seven Summits' refer to in mountaineering?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Seven small, local hills"
+        },
+        {
+          "id": "B",
+          "text": "The highest peaks on each of the seven continents"
+        },
+        {
+          "id": "C",
+          "text": "Seven famous rivers"
+        },
+        {
+          "id": "D",
+          "text": "Seven tall buildings"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "'Seven Summits' designates the highest mountain peak on each of the world's seven continents—an elite global climbing challenge."
+    },
+    {
+      "id": "c7-eng-ch12-m-5",
+      "question": "By January 2019, which famous peak did she climb in freezing Antarctica?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mount Everest"
+        },
+        {
+          "id": "B",
+          "text": "Mount Vinson"
+        },
+        {
+          "id": "C",
+          "text": "Mount Denali"
+        },
+        {
+          "id": "D",
+          "text": "Mount Elbrus"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "In January 2019, she successfully summited Mount Vinson, the highest peak in Antarctica, completing her Seven Summits goal."
+    },
+    {
+      "id": "c7-eng-ch12-m-6",
+      "question": "What is the precise definition of a 'beacon' in this context?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A bright, flashing light"
+        },
+        {
+          "id": "B",
+          "text": "A powerful source of inspiration, hope, or guidance"
+        },
+        {
+          "id": "C",
+          "text": "A very tall mountain"
+        },
+        {
+          "id": "D",
+          "text": "A type of climbing shoe"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Metaphorically, a beacon is a shining light that guides, inspires hope, and serves as an exemplary role model for humanity."
+    },
+    {
+      "id": "c7-eng-ch12-m-7",
+      "question": "What is the deeply symbolic title of her published autobiography?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Long Climb"
+        },
+        {
+          "id": "B",
+          "text": "Born Again on the Mountain"
+        },
+        {
+          "id": "C",
+          "text": "My Painful Journey"
+        },
+        {
+          "id": "D",
+          "text": "Everest and Me"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Her autobiography is aptly titled 'Born Again on the Mountain', capturing her rebirth of purpose through mountaineering."
+    },
+    {
+      "id": "c7-eng-ch12-m-8",
+      "question": "How did Bachendri Pal deeply encourage her early on?",
+      "options": [
+        {
+          "id": "A",
+          "text": "By saying she had already conquered the 'Everest within' her mind"
+        },
+        {
+          "id": "B",
+          "text": "By telling her to quit while she was ahead"
+        },
+        {
+          "id": "C",
+          "text": "By giving her lots of money"
+        },
+        {
+          "id": "D",
+          "text": "By offering to carry her up"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "Bachendri Pal famously told her: 'My child, you decided to climb Everest with a prosthetic leg. You have already conquered the Everest within!'"
+    },
+    {
+      "id": "c7-eng-ch12-m-9",
+      "question": "What is the definition of 'resilience'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Giving up easily"
+        },
+        {
+          "id": "B",
+          "text": "The incredible mental ability to bounce back from tough, traumatic situations"
+        },
+        {
+          "id": "C",
+          "text": "Crying loudly"
+        },
+        {
+          "id": "D",
+          "text": "Uncontrollable anger"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Resilience is the psychological capacity to withstand extreme trauma, recover from severe setbacks, and emerge stronger than before."
+    },
+    {
+      "id": "c7-eng-ch12-m-10",
+      "question": "What exactly is a 'prosthetic'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A special type of high-energy food"
+        },
+        {
+          "id": "B",
+          "text": "An artificial body part designed to replace a missing one"
+        },
+        {
+          "id": "C",
+          "text": "A very steep mountain"
+        },
+        {
+          "id": "D",
+          "text": "A colorful flag"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "A prosthetic is a customized artificial medical device engineered to replace a missing biological limb or body part."
+    },
+    {
+      "id": "c7-eng-ch12-h-1",
+      "question": "What deep philosophy is expressed when Arunima says, 'Failure is when we don\\'t have goals worthy enough'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Failure is always bad"
+        },
+        {
+          "id": "B",
+          "text": "If a goal isn't massive and meaningful, falling short isn't a true test of your human potential"
+        },
+        {
+          "id": "C",
+          "text": "You should never make goals"
+        },
+        {
+          "id": "D",
+          "text": "Goals are entirely useless"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "She argues that true failure is not falling short during a bold pursuit, but rather lacking the courage to aim for monumental, transformative goals."
+    },
+    {
+      "id": "c7-eng-ch12-h-2",
+      "question": "What does successfully climbing Everest primarily symbolize for her personally?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A very long, cold vacation"
+        },
+        {
+          "id": "B",
+          "text": "An ultimate victory over profound hardship and a fierce refusal to be defined by physical loss"
+        },
+        {
+          "id": "C",
+          "text": "Vast financial wealth"
+        },
+        {
+          "id": "D",
+          "text": "Instant worldwide fame"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Everest symbolized the ultimate conquest over bodily limitations, societal doubts, and personal trauma following her accident."
+    },
+    {
+      "id": "c7-eng-ch12-h-3",
+      "question": "The phrase 'mental fortitude' refers to which specific human trait?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Having large physical muscles"
+        },
+        {
+          "id": "B",
+          "text": "Having an unbreakable strength of mind and deep endurance"
+        },
+        {
+          "id": "C",
+          "text": "Physical weakness"
+        },
+        {
+          "id": "D",
+          "text": "Academic intelligence"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Mental fortitude denotes superior psychological toughness, emotional resilience, and unwavering focus amidst physical agony."
+    },
+    {
+      "id": "c7-eng-ch12-h-4",
+      "question": "How did her early childhood life directly shape her later response to tragedy?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It made her incredibly lazy"
+        },
+        {
+          "id": "B",
+          "text": "Her background in competitive sports and a disciplined military family instilled an unbreakable endurance"
+        },
+        {
+          "id": "C",
+          "text": "Because she was very rich"
+        },
+        {
+          "id": "D",
+          "text": "Because she was easily scared"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Growing up in a disciplined environment and competing in athletics ingrained deep perseverance, teamwork, and pain tolerance in her character."
+    },
+    {
+      "id": "c7-eng-ch12-h-5",
+      "question": "What is the exact meaning of the word 'feat'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The plural of foot"
+        },
+        {
+          "id": "B",
+          "text": "A great, extraordinary achievement requiring immense courage or skill"
+        },
+        {
+          "id": "C",
+          "text": "A terrible failure"
+        },
+        {
+          "id": "D",
+          "text": "A large, celebratory party"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "A 'feat' is an extraordinary act or deed that demonstrates remarkable skill, physical endurance, or supreme valor."
+    },
+    {
+      "id": "c7-eng-ch12-h-6",
+      "question": "What does the title of her autobiography, Born Again on the Mountain, profoundly imply?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Literal, physical reincarnation"
+        },
+        {
+          "id": "B",
+          "text": "Discovering an entirely new purpose and path through mountaineering after suffering a devastating loss"
+        },
+        {
+          "id": "C",
+          "text": "That she died on the mountain"
+        },
+        {
+          "id": "D",
+          "text": "That she simply likes high places"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "It signifies that climbing Everest healed her soul, giving her a renewed, empowered identity after the trauma of losing her leg."
+    },
+    {
+      "id": "c7-eng-ch12-h-7",
+      "question": "How did general society initially view her highly ambitious goal?",
+      "options": [
+        {
+          "id": "A",
+          "text": "With overwhelming financial support"
+        },
+        {
+          "id": "B",
+          "text": "With deep skepticism, thinking it was completely impossible for an amputee"
+        },
+        {
+          "id": "C",
+          "text": "With extreme jealousy"
+        },
+        {
+          "id": "D",
+          "text": "They completely ignored it"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Many critics initially dismissed her dream as impossible or suicidal for an amputee, making her eventual triumph an inspiring rebuke to skepticism."
+    },
+    {
+      "id": "c7-eng-ch12-h-8",
+      "question": "What does the powerful adjective 'harrowing' mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Intensely happy"
+        },
+        {
+          "id": "B",
+          "text": "Extremely upsetting, distressing, or frightening"
+        },
+        {
+          "id": "C",
+          "text": "Deeply boring"
+        },
+        {
+          "id": "D",
+          "text": "Incredibly fast"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "'Harrowing' describes an experience that is deeply traumatic, frightening, or mentally agonizing, such as her near-fatal train ordeal."
+    },
+    {
+      "id": "c7-eng-ch12-h-9",
+      "question": "What is the broadest, most universal lesson of her incredible story?",
+      "options": [
+        {
+          "id": "A",
+          "text": "That riding trains is inherently dangerous"
+        },
+        {
+          "id": "B",
+          "text": "That sheer determination and a positive mindset can overcome even the absolute toughest physical and mental limits"
+        },
+        {
+          "id": "C",
+          "text": "That playing volleyball is easy"
+        },
+        {
+          "id": "D",
+          "text": "That mountains are always cold"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Arunima's journey stands as universal proof that willpower and mental fortitude can conquer any external or physical obstacle."
+    },
+    {
+      "id": "c7-eng-ch12-h-10",
+      "question": "The phrase the 'Everest within' operates as a metaphor for what?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Deep, internal fears, psychological barriers, and self-doubt"
+        },
+        {
+          "id": "B",
+          "text": "A very bad stomach ache"
+        },
+        {
+          "id": "C",
+          "text": "A secret mountain hidden in India"
+        },
+        {
+          "id": "D",
+          "text": "The mechanical workings of her prosthetic leg"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The 'Everest within' represents the daunting psychological mountains of fear, insecurity, and self-doubt that every human must conquer inwardly."
+    }
+  ]
+}

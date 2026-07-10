@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "c7-eng-ch15-e-1",
+      "question": "Who was the historical figure Rani Abbakka?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A school teacher"
+        },
+        {
+          "id": "B",
+          "text": "The fierce Queen of Ullal"
+        },
+        {
+          "id": "C",
+          "text": "A Portuguese general"
+        },
+        {
+          "id": "D",
+          "text": "A famous poet"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Rani Abbakka Chowta was the valiant 16th-century warrior queen who ruled over the coastal kingdom of Ullal in Karnataka."
+    },
+    {
+      "id": "c7-eng-ch15-e-2",
+      "question": "Which aggressive foreign power was trying to control her kingdom of Ullal?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The British"
+        },
+        {
+          "id": "B",
+          "text": "The Portuguese"
+        },
+        {
+          "id": "C",
+          "text": "The French"
+        },
+        {
+          "id": "D",
+          "text": "The Dutch"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The Portuguese colonial empire sought to capture Ullal's lucrative spice ports and establish naval supremacy along the Arabian coast."
+    },
+    {
+      "id": "c7-eng-ch15-e-3",
+      "question": "What exactly did the Portuguese demand from Ullal?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Free spices"
+        },
+        {
+          "id": "B",
+          "text": "A heavy tribute (money and goods) to show submission"
+        },
+        {
+          "id": "C",
+          "text": "Free soldiers"
+        },
+        {
+          "id": "D",
+          "text": "Large ships"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The Portuguese demanded exorbitant financial tribute as an extortionate token of political subjugation from local coastal rulers."
+    },
+    {
+      "id": "c7-eng-ch15-e-4",
+      "question": "Did Rani Abbakka agree to pay this demanded tribute?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes, immediately"
+        },
+        {
+          "id": "B",
+          "text": "No, she boldly and firmly refused"
+        },
+        {
+          "id": "C",
+          "text": "She asked for more time"
+        },
+        {
+          "id": "D",
+          "text": "She paid them double"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Rejecting foreign intimidation, Rani Abbakka categorically refused to pay even a single copper coin in tribute to the Portuguese."
+    },
+    {
+      "id": "c7-eng-ch15-e-5",
+      "question": "Who was her royal husband?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Zamorin"
+        },
+        {
+          "id": "B",
+          "text": "Veera Narasimha"
+        },
+        {
+          "id": "C",
+          "text": "A Portuguese envoy"
+        },
+        {
+          "id": "D",
+          "text": "King Ashoka"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "She was married through a political alliance to Lakshmappa Bangaraja Veera Narasimha, the ruler of neighboring Bangadi."
+    },
+    {
+      "id": "c7-eng-ch15-e-6",
+      "question": "Did her husband support her bold defiance?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes, completely"
+        },
+        {
+          "id": "B",
+          "text": "No, he thought her decision was incredibly rash"
+        },
+        {
+          "id": "C",
+          "text": "He didn't care at all"
+        },
+        {
+          "id": "D",
+          "text": "He physically fought with her"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Fearing Portuguese naval wrath, Veera Narasimha viewed Abbakka's resistance as dangerously rash and refused to support her."
+    },
+    {
+      "id": "c7-eng-ch15-e-7",
+      "question": "Who did she form a powerful, strategic alliance with?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The British Navy"
+        },
+        {
+          "id": "B",
+          "text": "The Zamorin of Kozhikode"
+        },
+        {
+          "id": "C",
+          "text": "The French King"
+        },
+        {
+          "id": "D",
+          "text": "Her husband"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "She forged a brilliant diplomatic and military alliance with the powerful Zamorin of Kozhikode (Calicut) to counter Portuguese fleets."
+    },
+    {
+      "id": "c7-eng-ch15-e-8",
+      "question": "With whom did Ullal open trade to massively boost its economy?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Portugal"
+        },
+        {
+          "id": "B",
+          "text": "Arabia"
+        },
+        {
+          "id": "C",
+          "text": "China"
+        },
+        {
+          "id": "D",
+          "text": "America"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Bypassing Portuguese blockades, she established thriving, independent maritime trade with Arab merchants across the Arabian Sea."
+    },
+    {
+      "id": "c7-eng-ch15-e-9",
+      "question": "Did the ordinary people of Ullal support their queen?",
+      "options": [
+        {
+          "id": "A",
+          "text": "No, they rebelled"
+        },
+        {
+          "id": "B",
+          "text": "Yes, they stood by her with absolute, full loyalty"
+        },
+        {
+          "id": "C",
+          "text": "They ran away in fear"
+        },
+        {
+          "id": "D",
+          "text": "They joined the Portuguese"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Her citizens of all backgrounds loved her fiercely, displaying unwavering loyalty and fighting shoulder-to-shoulder under her banner."
+    },
+    {
+      "id": "c7-eng-ch15-e-10",
+      "question": "Who ultimately won the great battle for Ullal?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Portuguese"
+        },
+        {
+          "id": "B",
+          "text": "Rani Abbakka and her loyal people"
+        },
+        {
+          "id": "C",
+          "text": "Veera Narasimha"
+        },
+        {
+          "id": "D",
+          "text": "No one, it was a tie"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Through brilliant tactical warfare and fearless leadership, Rani Abbakka completely routed the invading Portuguese forces at Ullal."
+    },
+    {
+      "id": "c7-eng-ch15-m-1",
+      "question": "What does it mean when a country is described as 'sovereign'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It is a poor colony"
+        },
+        {
+          "id": "B",
+          "text": "It is completely free, independent, and rules itself"
+        },
+        {
+          "id": "C",
+          "text": "It has no money"
+        },
+        {
+          "id": "D",
+          "text": "It is ruled by a foreign king"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Sovereignty denotes absolute supreme power and independent authority of a state to govern its people without external domination."
+    },
+    {
+      "id": "c7-eng-ch15-m-2",
+      "question": "Why did Veera Narasimha ultimately turn against his own wife?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He wanted all her money"
+        },
+        {
+          "id": "B",
+          "text": "He deeply feared that angering the powerful Portuguese would bring danger to his own kingdom"
+        },
+        {
+          "id": "C",
+          "text": "He hated the city of Ullal"
+        },
+        {
+          "id": "D",
+          "text": "He was actually Portuguese"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Intimidated by Portuguese military might, Veera Narasimha prioritized appeasement and his own throne over standing with his valiant wife."
+    },
+    {
+      "id": "c7-eng-ch15-m-3",
+      "question": "How did her own soldiers react to Veera Narasimha's direct order to stop her?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They attacked her immediately"
+        },
+        {
+          "id": "B",
+          "text": "Deeply inspired by her bravery, they flatly refused to obey him"
+        },
+        {
+          "id": "C",
+          "text": "They quit the army"
+        },
+        {
+          "id": "D",
+          "text": "They started crying"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Inspired by Abbakka's patriotism, even the soldiers sent by her husband refused to fight against her, joining her cause instead."
+    },
+    {
+      "id": "c7-eng-ch15-m-4",
+      "question": "What was the initial reaction of the local rajas when she asked for their military help?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They agreed immediately"
+        },
+        {
+          "id": "B",
+          "text": "They were hesitant, feeling their small forces were no match for the massive Portuguese army"
+        },
+        {
+          "id": "C",
+          "text": "They laughed out loud"
+        },
+        {
+          "id": "D",
+          "text": "They attacked her instead"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Many neighboring chieftains initially hesitated out of fear, assuming Portuguese cannons made resistance futile."
+    },
+    {
+      "id": "c7-eng-ch15-m-5",
+      "question": "What specific infrastructure did Abbakka order to be built to protect her coast?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Large palaces"
+        },
+        {
+          "id": "B",
+          "text": "A fleet of merchant and heavy defense ships"
+        },
+        {
+          "id": "C",
+          "text": "Paved roads"
+        },
+        {
+          "id": "D",
+          "text": "Stone bridges"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "She constructed a robust domestic shipyard to build fast defense vessels and merchant ships capable of challenging European armadas."
+    },
+    {
+      "id": "c7-eng-ch15-m-6",
+      "question": "How did she verbally respond to the Portuguese envoy's threat?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She cried and begged"
+        },
+        {
+          "id": "B",
+          "text": "She fiercely said, 'We don\\'t take orders from the Portuguese!'"
+        },
+        {
+          "id": "C",
+          "text": "She paid him immediately"
+        },
+        {
+          "id": "D",
+          "text": "She ran away to hide"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "With sovereign dignity, she rebuffed the Portuguese envoy to his face, declaring Ullal would never accept foreign orders."
+    },
+    {
+      "id": "c7-eng-ch15-m-7",
+      "question": "What does the term 'tribute' mean in this historical context?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A beautiful song"
+        },
+        {
+          "id": "B",
+          "text": "Money or goods extorted by a colonial power as a forced sign of submission"
+        },
+        {
+          "id": "C",
+          "text": "A free gift"
+        },
+        {
+          "id": "D",
+          "text": "A long letter"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Tribute refers to periodic payments extorted by a dominant colonial power from weaker rulers under threat of military destruction."
+    },
+    {
+      "id": "c7-eng-ch15-m-8",
+      "question": "Exactly how long did the fierce final battle last?",
+      "options": [
+        {
+          "id": "A",
+          "text": "One day"
+        },
+        {
+          "id": "B",
+          "text": "Four bloody days"
+        },
+        {
+          "id": "C",
+          "text": "A full month"
+        },
+        {
+          "id": "D",
+          "text": "An entire year"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The climax of the defensive campaign raged across four bloody, continuous days of naval and hand-to-hand combat."
+    },
+    {
+      "id": "c7-eng-ch15-m-9",
+      "question": "What incredibly bold counterattack did she launch?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She personally attacked the heavily guarded Portuguese fort"
+        },
+        {
+          "id": "B",
+          "text": "She burned her own city down"
+        },
+        {
+          "id": "C",
+          "text": "She sailed a ship all the way to Portugal"
+        },
+        {
+          "id": "D",
+          "text": "She hid in a dark cave"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "In a daring midnight strike, Abbakka personally led a guerrilla raiding party that infiltrated and torched the Portuguese fort at Mangalore."
+    },
+    {
+      "id": "c7-eng-ch15-m-10",
+      "question": "What is the definition of a 'vassal' state?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A fully independent state"
+        },
+        {
+          "id": "B",
+          "text": "A subordinate state that is controlled by and pays tribute to a stronger power"
+        },
+        {
+          "id": "C",
+          "text": "A very rich state"
+        },
+        {
+          "id": "D",
+          "text": "A modern democracy"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "A vassal state is a subordinate territory that owes military allegiance, taxation, and political submission to a dominant overlord."
+    },
+    {
+      "id": "c7-eng-ch15-h-1",
+      "question": "Historically speaking, what made Rani Abbakka's resistance so incredibly remarkable?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She used modern machine guns"
+        },
+        {
+          "id": "B",
+          "text": "As a 16th-century female ruler, she successfully and militarily defied a major, global colonial superpower"
+        },
+        {
+          "id": "C",
+          "text": "She was immortal"
+        },
+        {
+          "id": "D",
+          "text": "She was actually Portuguese herself"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Long before later freedom fighters, Abbakka stood as an unprecedented 16th-century female sovereign defeating a European superpower."
+    },
+    {
+      "id": "c7-eng-ch15-h-2",
+      "question": "How did her specific alliance with the Zamorin showcase brilliant strategic diplomacy?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It didn't help at all"
+        },
+        {
+          "id": "B",
+          "text": "It significantly strengthened regional naval power and successfully bypassed the Portuguese trade monopolies"
+        },
+        {
+          "id": "C",
+          "text": "It instantly caused a massive civil war"
+        },
+        {
+          "id": "D",
+          "text": "It made her instantly rich"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Aligning with the Zamorin created a united coastal naval front that effectively broke Portuguese trade monopolies across coastal India."
+    },
+    {
+      "id": "c7-eng-ch15-h-3",
+      "question": "What is the exact meaning of the adjective 'dauntless'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Highly fearful and anxious"
+        },
+        {
+          "id": "B",
+          "text": "Completely fearless, brave, and intrepid"
+        },
+        {
+          "id": "C",
+          "text": "Very tired and weak"
+        },
+        {
+          "id": "D",
+          "text": "Extremely angry and bitter"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "'Dauntless' describes a spirit that cannot be intimidated, subdued, or disheartened even when facing seemingly insurmountable odds."
+    },
+    {
+      "id": "c7-eng-ch15-h-4",
+      "question": "Veera Narasimha calling her decision 'rash' highlights what core political conflict?",
+      "options": [
+        {
+          "id": "A",
+          "text": "His great wisdom"
+        },
+        {
+          "id": "B",
+          "text": "The intense conflict between cowardice/appeasement and the demand for absolute sovereignty"
+        },
+        {
+          "id": "C",
+          "text": "His deep love for her"
+        },
+        {
+          "id": "D",
+          "text": "Portuguese kindness"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "It dramatizes the eternal historical clash between rulers choosing cowardly appeasement versus those fighting for sovereign liberty."
+    },
+    {
+      "id": "c7-eng-ch15-h-5",
+      "question": "What was the massive psychological impact of her victory on other Indian rulers?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It made them instantly surrender"
+        },
+        {
+          "id": "B",
+          "text": "It proved definitively that a united, strategically brilliant small kingdom could defeat foreign superpowers"
+        },
+        {
+          "id": "C",
+          "text": "It made them very angry at her"
+        },
+        {
+          "id": "D",
+          "text": "It caused a civil war"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Her stunning victory shattered the myth of European invincibility, inspiring neighboring kingdoms to stand up against colonial tyranny."
+    },
+    {
+      "id": "c7-eng-ch15-h-6",
+      "question": "What does the vocabulary word 'apprehended' mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To let someone go free"
+        },
+        {
+          "id": "B",
+          "text": "To be physically captured or formally arrested"
+        },
+        {
+          "id": "C",
+          "text": "To be killed in battle"
+        },
+        {
+          "id": "D",
+          "text": "To be scared away"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "In legal and military context, 'apprehended' means to physically seize, capture, or arrest a person under formal authority."
+    },
+    {
+      "id": "c7-eng-ch15-h-7",
+      "question": "The unwavering loyalty of the Ullal people emphasizes which crucial leadership trait in Abbakka?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Her extreme tyranny"
+        },
+        {
+          "id": "B",
+          "text": "Her unparalleled ability to inspire collective courage, faith, and national unity"
+        },
+        {
+          "id": "C",
+          "text": "Her immense personal wealth"
+        },
+        {
+          "id": "D",
+          "text": "Her calculated cruelty"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Her leadership transcended caste and creed, fostering deep communal unity and devotion that made Ullal an impregnable fortress."
+    },
+    {
+      "id": "c7-eng-ch15-h-8",
+      "question": "What does the verb 'defied' mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To blindly obey"
+        },
+        {
+          "id": "B",
+          "text": "To openly, boldly resist or refuse to obey a powerful entity"
+        },
+        {
+          "id": "C",
+          "text": "To agree completely"
+        },
+        {
+          "id": "D",
+          "text": "To cry in fear"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "'Defied' means to boldly challenge, openly resist, and refuse to submit to superior authority or intimidation."
+    },
+    {
+      "id": "c7-eng-ch15-h-9",
+      "question": "Rani Abbakka's legacy primarily stands in history as an early, potent symbol of what?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Total European dominance"
+        },
+        {
+          "id": "B",
+          "text": "Fierce Indian resistance to colonialism and supreme female empowerment"
+        },
+        {
+          "id": "C",
+          "text": "Marital bliss and harmony"
+        },
+        {
+          "id": "D",
+          "text": "Complete trade failure"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "She is celebrated today across India as 'Abbakka Mahadevi', symbolizing uncompromising anti-colonial resistance and Nari Shakti."
+    },
+    {
+      "id": "c7-eng-ch15-h-10",
+      "question": "According to the textbook's grammar exercise on indirect speech, what is the correct conversion of: The teacher said, 'Women of valour have made contributions'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The teacher says women make contributions"
+        },
+        {
+          "id": "B",
+          "text": "The teacher remarked that women of valour had made significant contributions"
+        },
+        {
+          "id": "C",
+          "text": "The teacher asks if women made contributions"
+        },
+        {
+          "id": "D",
+          "text": "The teacher is saying women made contributions"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "In reported indirect speech, the simple past or present perfect inside quotation marks shifts correctly to the past perfect ('had made')."
+    }
+  ]
+}

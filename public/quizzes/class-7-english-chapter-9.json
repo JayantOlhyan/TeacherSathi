@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "c7-eng-ch9-e-1",
+      "question": "Who is the young protagonist traveling across India?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mary"
+        },
+        {
+          "id": "B",
+          "text": "Shaana"
+        },
+        {
+          "id": "C",
+          "text": "Anita"
+        },
+        {
+          "id": "D",
+          "text": "Jahnavi"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Shaana is the young protagonist experiencing India's vast geographical and cultural diversity through a series of postcards."
+    },
+    {
+      "id": "c7-eng-ch9-e-2",
+      "question": "In which state does Shaana see beautiful white and blue glaciers?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Goa"
+        },
+        {
+          "id": "B",
+          "text": "Kashmir"
+        },
+        {
+          "id": "C",
+          "text": "Gujarat"
+        },
+        {
+          "id": "D",
+          "text": "Chennai"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Shaana observes the magnificent white and blue Thajiwas Glacier while vacationing with her parents in Kashmir."
+    },
+    {
+      "id": "c7-eng-ch9-e-3",
+      "question": "What fun activity does she do with her parents in Kashmir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Surfing"
+        },
+        {
+          "id": "B",
+          "text": "Throwing snowballs"
+        },
+        {
+          "id": "C",
+          "text": "Rafting"
+        },
+        {
+          "id": "D",
+          "text": "Driving"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "She enjoys the cold winter environment of Kashmir by playfully throwing snowballs with her parents."
+    },
+    {
+      "id": "c7-eng-ch9-e-4",
+      "question": "How does she physically describe the Rann of Kutch?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Deeply snowy"
+        },
+        {
+          "id": "B",
+          "text": "Very hot, dry, and sandy"
+        },
+        {
+          "id": "C",
+          "text": "Extremely wet"
+        },
+        {
+          "id": "D",
+          "text": "Densely forested"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The Rann of Kutch in Gujarat is described as an arid, hot, and dry white salt desert, creating a vivid geographic contrast."
+    },
+    {
+      "id": "c7-eng-ch9-e-5",
+      "question": "In which state does she get to stay in a wooden treehouse?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Arunachal Pradesh"
+        },
+        {
+          "id": "B",
+          "text": "Goa"
+        },
+        {
+          "id": "C",
+          "text": "Gujarat"
+        },
+        {
+          "id": "D",
+          "text": "Himachal Pradesh"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "While exploring the northeastern state of Arunachal Pradesh, she gets to experience staying in a high wooden treehouse."
+    },
+    {
+      "id": "c7-eng-ch9-e-6",
+      "question": "What rare animal does she desperately hope to see in Arunachal Pradesh?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A Bengal Tiger"
+        },
+        {
+          "id": "B",
+          "text": "A red panda"
+        },
+        {
+          "id": "C",
+          "text": "An elephant"
+        },
+        {
+          "id": "D",
+          "text": "A lion"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Arunachal Pradesh is home to unique Himalayan wildlife, and Shaana eagerly hopes to catch a glimpse of the adorable red panda."
+    },
+    {
+      "id": "c7-eng-ch9-e-7",
+      "question": "On which famous river does she try river rafting?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Narmada River"
+        },
+        {
+          "id": "B",
+          "text": "The Ganga"
+        },
+        {
+          "id": "C",
+          "text": "The Yamuna"
+        },
+        {
+          "id": "D",
+          "text": "The Brahmaputra"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "She embarks on an adventurous river rafting experience on the rushing waters of the Narmada River."
+    },
+    {
+      "id": "c7-eng-ch9-e-8",
+      "question": "What new water sport does she learn to do in Chennai and Puducherry?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Snow skiing"
+        },
+        {
+          "id": "B",
+          "text": "Wave surfing"
+        },
+        {
+          "id": "C",
+          "text": "Paragliding"
+        },
+        {
+          "id": "D",
+          "text": "Deep-sea diving"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Along the scenic southern coastline of Chennai and Puducherry, Shaana takes up wave surfing on the ocean waves."
+    },
+    {
+      "id": "c7-eng-ch9-e-9",
+      "question": "How did she previously feel about dark train tunnels before this trip?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She loved them"
+        },
+        {
+          "id": "B",
+          "text": "She was very afraid of them"
+        },
+        {
+          "id": "C",
+          "text": "She was bored by them"
+        },
+        {
+          "id": "D",
+          "text": "She was completely indifferent"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Before her cross-country journey, Shaana harbored a childhood fear of passing through dark, echoing train tunnels."
+    },
+    {
+      "id": "c7-eng-ch9-e-10",
+      "question": "What unique type of trees grow directly in seawater in the Sundarbans?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pine trees"
+        },
+        {
+          "id": "B",
+          "text": "Mangroves"
+        },
+        {
+          "id": "C",
+          "text": "Apple trees"
+        },
+        {
+          "id": "D",
+          "text": "Rose bushes"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Mangroves are specialized halophytic (salt-tolerant) trees adapted to grow directly in saline coastal tides and mudflats."
+    },
+    {
+      "id": "c7-eng-ch9-m-1",
+      "question": "What strange, growling sound does she hear at night in Himachal Pradesh?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Loud music"
+        },
+        {
+          "id": "B",
+          "text": "Imagined bears (which is actually her father snoring)"
+        },
+        {
+          "id": "C",
+          "text": "Police sirens"
+        },
+        {
+          "id": "D",
+          "text": "Church bells"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Her active childhood imagination transforms her father's loud nocturnal snoring into the thrilling growl of wild mountain bears."
+    },
+    {
+      "id": "c7-eng-ch9-m-2",
+      "question": "Why is Amma feeling sad while visiting the Sundarbans?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They lost their luggage"
+        },
+        {
+          "id": "B",
+          "text": "Because the beautiful area floods far too much today"
+        },
+        {
+          "id": "C",
+          "text": "It is raining heavily"
+        },
+        {
+          "id": "D",
+          "text": "There is no food"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Amma feels melancholic noticing that rising sea levels and environmental shifts cause excessive flooding in the delicate delta ecosystem."
+    },
+    {
+      "id": "c7-eng-ch9-m-3",
+      "question": "What concerning detail does Shaana notice about the Thajiwas Glacier?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It has grown bigger"
+        },
+        {
+          "id": "B",
+          "text": "There is noticeably less snow than the previous year"
+        },
+        {
+          "id": "C",
+          "text": "The ice is glowing green"
+        },
+        {
+          "id": "D",
+          "text": "It has melted completely"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Shaana observes that the glacier has noticeably less snow cover compared to previous years, subtly introducing climate awareness."
+    },
+    {
+      "id": "c7-eng-ch9-m-4",
+      "question": "What percentage does she proudly score on her surprise holiday test?",
+      "options": [
+        {
+          "id": "A",
+          "text": "50%"
+        },
+        {
+          "id": "B",
+          "text": "88%"
+        },
+        {
+          "id": "C",
+          "text": "100%"
+        },
+        {
+          "id": "D",
+          "text": "30%"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "She proudly scores 88% on her surprise holiday test, demonstrating how experiential travel reinforces practical academic learning."
+    },
+    {
+      "id": "c7-eng-ch9-m-5",
+      "question": "What specific animals did they spot while boating in the Sundarbans?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tigers only"
+        },
+        {
+          "id": "B",
+          "text": "Crocodiles and a lonely snake"
+        },
+        {
+          "id": "C",
+          "text": "Dolphins"
+        },
+        {
+          "id": "D",
+          "text": "Large sharks"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "While navigating the mangrove waterways of the Sundarbans, they spot basking crocodiles and a solitary water snake."
+    },
+    {
+      "id": "c7-eng-ch9-m-6",
+      "question": "How does Appa react to the wild experience of river rafting?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He desperately wants to do it again"
+        },
+        {
+          "id": "B",
+          "text": "He is terrified and swears never to do it again"
+        },
+        {
+          "id": "C",
+          "text": "He falls asleep"
+        },
+        {
+          "id": "D",
+          "text": "He laughs the whole time"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Appa is overwhelmed by the turbulent rapids and humorously declares that he will never go river rafting again."
+    },
+    {
+      "id": "c7-eng-ch9-m-7",
+      "question": "Which state does she humorously describe as a 'beach without the sea'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Goa"
+        },
+        {
+          "id": "B",
+          "text": "Gujarat"
+        },
+        {
+          "id": "C",
+          "text": "Kashmir"
+        },
+        {
+          "id": "D",
+          "text": "Arunachal Pradesh"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "She describes the vast, flat, sandy expanses of Gujarat's salt deserts as appearing like a beach missing the sea."
+    },
+    {
+      "id": "c7-eng-ch9-m-8",
+      "question": "What geographical feature does she deeply admire while traveling through Goa?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Heavy snow"
+        },
+        {
+          "id": "B",
+          "text": "The beautiful plateaus and hills"
+        },
+        {
+          "id": "C",
+          "text": "Vast deserts"
+        },
+        {
+          "id": "D",
+          "text": "Ice glaciers"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Beyond the beaches, Shaana admires Goa's scenic green plateaus, Western Ghat hills, and lush coastal topography."
+    },
+    {
+      "id": "c7-eng-ch9-m-9",
+      "question": "How many layers of warm clothes did the family have to wear in Kashmir?",
+      "options": [
+        {
+          "id": "A",
+          "text": "One"
+        },
+        {
+          "id": "B",
+          "text": "Four"
+        },
+        {
+          "id": "C",
+          "text": "None"
+        },
+        {
+          "id": "D",
+          "text": "Ten"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "To withstand the sub-zero temperatures of Kashmir's high altitude, the family bundled up in four heavy layers of woolen clothing."
+    },
+    {
+      "id": "c7-eng-ch9-m-10",
+      "question": "To whom does she send her love in her very first postcard?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Her pet dog"
+        },
+        {
+          "id": "B",
+          "text": "Her PT teacher and Library Ma'am"
+        },
+        {
+          "id": "C",
+          "text": "The local Mayor"
+        },
+        {
+          "id": "D",
+          "text": "Her next-door neighbor"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "She affectionately addresses her initial postcards to her school mentors, her PT teacher and Library Ma'am."
+    },
+    {
+      "id": "c7-eng-ch9-h-1",
+      "question": "What does the critical observation of 'less snow' in Kashmir implicitly indicate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It is currently Summer"
+        },
+        {
+          "id": "B",
+          "text": "Severe environmental and climate change issues"
+        },
+        {
+          "id": "C",
+          "text": "Shaana has a bad memory"
+        },
+        {
+          "id": "D",
+          "text": "It is a magical illusion"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The receding snow line and shrinking glaciers directly highlight global warming and severe climate change impacts on Himalayan ecosystems."
+    },
+    {
+      "id": "c7-eng-ch9-h-2",
+      "question": "How does the segment about the Goa train tunnels reflect the protagonist's personal growth?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She grew taller"
+        },
+        {
+          "id": "B",
+          "text": "It shows her increased self-confidence and the successful overcoming of her childhood fears"
+        },
+        {
+          "id": "C",
+          "text": "It shows she is wealthy"
+        },
+        {
+          "id": "D",
+          "text": "It shows she is angry"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Instead of cowering in fear when entering dark train tunnels, Shaana faces them calmly, symbolizing her psychological maturation."
+    },
+    {
+      "id": "c7-eng-ch9-h-3",
+      "question": "What specific role does a child's imagination play during the stay in Himachal Pradesh?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It deeply frightens her"
+        },
+        {
+          "id": "B",
+          "text": "It turns ordinary, mundane sounds (like snoring) into thrilling, vivid adventures"
+        },
+        {
+          "id": "C",
+          "text": "It causes severe nightmares"
+        },
+        {
+          "id": "D",
+          "text": "It plays no role"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "A child's imaginative lens transforms mundane reality into thrilling adventures, turning a parent's snoring into mountain wildlife."
+    },
+    {
+      "id": "c7-eng-ch9-h-4",
+      "question": "What is the precise geographical definition of 'wetlands' as discussed in the text?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Completely dry deserts"
+        },
+        {
+          "id": "B",
+          "text": "Areas where water covers the soil, supporting unique flora like mangroves"
+        },
+        {
+          "id": "C",
+          "text": "High mountain peaks"
+        },
+        {
+          "id": "D",
+          "text": "Highly populated cities"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Wetlands are distinct ecosystems where water permanently or seasonally saturates the soil, fostering specialized aquatic flora and fauna."
+    },
+    {
+      "id": "c7-eng-ch9-h-5",
+      "question": "How does Shaana creatively use language to convey her moments of fear?",
+      "options": [
+        {
+          "id": "A",
+          "text": "By writing long, flowing paragraphs"
+        },
+        {
+          "id": "B",
+          "text": "By using very short, tense, and abrupt sentences"
+        },
+        {
+          "id": "C",
+          "text": "By using complex rhymes"
+        },
+        {
+          "id": "D",
+          "text": "By telling funny jokes"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Short, fragmented sentence structures mirror rapid heartbeats and acute tension, effectively communicating fear to the reader."
+    },
+    {
+      "id": "c7-eng-ch9-h-6",
+      "question": "The sharp contrast between the freezing temperatures of Kashmir and the arid heat of Gujarat primarily highlights:",
+      "options": [
+        {
+          "id": "A",
+          "text": "India's extreme and magnificent geographical diversity"
+        },
+        {
+          "id": "B",
+          "text": "Extreme national poverty"
+        },
+        {
+          "id": "C",
+          "text": "Poor infrastructure"
+        },
+        {
+          "id": "D",
+          "text": "Overpopulation"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "India encompasses incredible climatic and topographic extremes within one nation, ranging from alpine glaciers to arid salt deserts."
+    },
+    {
+      "id": "c7-eng-ch9-h-7",
+      "question": "Why is the protagonist so utterly amazed by the existence of mangroves?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because they are bright blue"
+        },
+        {
+          "id": "B",
+          "text": "Because it defies her logic that trees can grow directly in salty seawater"
+        },
+        {
+          "id": "C",
+          "text": "Because they can uproot and walk"
+        },
+        {
+          "id": "D",
+          "text": "Because they are invisible at night"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Conventional intuition dictates that saltwater kills terrestrial plants, making mangrove adaptation a botanical marvel to Shaana."
+    },
+    {
+      "id": "c7-eng-ch9-h-8",
+      "question": "In grammar, what is the exact meaning of the word 'existed'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Passed away"
+        },
+        {
+          "id": "B",
+          "text": "Was completely real or present in the world"
+        },
+        {
+          "id": "C",
+          "text": "Left the area"
+        },
+        {
+          "id": "D",
+          "text": "Hid from view"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "'Existed' is the past tense of exist, meaning to have objective reality or actual presence in the physical world."
+    },
+    {
+      "id": "c7-eng-ch9-h-9",
+      "question": "How does her attitude toward her parents subtly shift by the end of the journey?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She grows to hate them"
+        },
+        {
+          "id": "B",
+          "text": "She adopts a mature, humorous tone, joking that she has to 'control' them as they play like children"
+        },
+        {
+          "id": "C",
+          "text": "She completely ignores them"
+        },
+        {
+          "id": "D",
+          "text": "She leaves them behind"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "As Shaana gains independence and confidence, she develops a humorous, endearing perspective, watching her parents play with childlike joy."
+    },
+    {
+      "id": "c7-eng-ch9-h-10",
+      "question": "What is the specific literary structure of this entire narrative?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A traditional sonnet"
+        },
+        {
+          "id": "B",
+          "text": "An epistolary format (a story told through a series of postcards/letters)"
+        },
+        {
+          "id": "C",
+          "text": "A formal interview"
+        },
+        {
+          "id": "D",
+          "text": "A three-act play"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "An epistolary narrative unfolds through letters, postcards, or journal entries, providing an intimate first-person travelogue."
+    }
+  ]
+}

@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "c7-eng-ch11-e-1",
+      "question": "Who is the famous poet who wrote 'Travel'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kamala Nair"
+        },
+        {
+          "id": "B",
+          "text": "Edna St. Vincent Millay"
+        },
+        {
+          "id": "C",
+          "text": "Ruskin Bond"
+        },
+        {
+          "id": "D",
+          "text": "Rabindranath Tagore"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Edna St. Vincent Millay authored 'Travel', a celebrated lyrical poem exploring themes of wanderlust and longing for adventure."
+    },
+    {
+      "id": "c7-eng-ch11-e-2",
+      "question": "What specific mode of transport is the poet deeply fascinated with?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Large ships"
+        },
+        {
+          "id": "B",
+          "text": "Steam trains"
+        },
+        {
+          "id": "C",
+          "text": "Fast planes"
+        },
+        {
+          "id": "D",
+          "text": "Automobiles"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The speaker is captivated by the sounds and symbolism of steam trains rolling across distant railroad tracks."
+    },
+    {
+      "id": "c7-eng-ch11-e-3",
+      "question": "How far away is the actual railroad track from the speaker?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Right next door"
+        },
+        {
+          "id": "B",
+          "text": "Miles away"
+        },
+        {
+          "id": "C",
+          "text": "In her own yard"
+        },
+        {
+          "id": "D",
+          "text": "In another country"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The physical railroad track is miles away from her home, making her vivid awareness of every passing train even more extraordinary."
+    },
+    {
+      "id": "c7-eng-ch11-e-4",
+      "question": "Does the poet actually see the physical train during the day?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes, all the time"
+        },
+        {
+          "id": "B",
+          "text": "No, she only imagines it"
+        },
+        {
+          "id": "C",
+          "text": "Sometimes"
+        },
+        {
+          "id": "D",
+          "text": "Only in the winter"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Because the tracks are miles distant, she does not physically see the train during the day; she imagines its journey through sound."
+    },
+    {
+      "id": "c7-eng-ch11-e-5",
+      "question": "What specific sound does she constantly hear in her mind?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ringing bells"
+        },
+        {
+          "id": "B",
+          "text": "The train's whistle shrieking"
+        },
+        {
+          "id": "C",
+          "text": "Car horns"
+        },
+        {
+          "id": "D",
+          "text": "Police sirens"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Even amidst the noisy chatter of daily life, she sharply hears the distant whistle of the locomotive shrieking across the miles."
+    },
+    {
+      "id": "c7-eng-ch11-e-6",
+      "question": "What color are the glowing cinders she imagines in the night sky?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bright blue"
+        },
+        {
+          "id": "B",
+          "text": "Glowing red"
+        },
+        {
+          "id": "C",
+          "text": "Bright yellow"
+        },
+        {
+          "id": "D",
+          "text": "Neon green"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "At night, she vividly envisions hot red cinders erupting from the steam engine's smokestack against the dark sky."
+    },
+    {
+      "id": "c7-eng-ch11-e-7",
+      "question": "Does the speaker have good friends in her current life?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes, her heart is very warm with them"
+        },
+        {
+          "id": "B",
+          "text": "No, she is completely lonely"
+        },
+        {
+          "id": "C",
+          "text": "She hates all people"
+        },
+        {
+          "id": "D",
+          "text": "She only has one friend"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "She explicitly acknowledges that she has wonderful, loving friends and a warm, fulfilling social life where she lives."
+    },
+    {
+      "id": "c7-eng-ch11-e-8",
+      "question": "Where exactly does the poet want to travel to?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To Paris"
+        },
+        {
+          "id": "B",
+          "text": "Anywhere at all (no matter where it's going)"
+        },
+        {
+          "id": "C",
+          "text": "To London"
+        },
+        {
+          "id": "D",
+          "text": "To New York"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Her longing is not for a specific destination; she declares she would board any passing train no matter where it is going."
+    },
+    {
+      "id": "c7-eng-ch11-e-9",
+      "question": "What does the train broadly symbolize in this poem?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Deep sadness"
+        },
+        {
+          "id": "B",
+          "text": "Unrestricted freedom and thrilling adventure"
+        },
+        {
+          "id": "C",
+          "text": "Extreme poverty"
+        },
+        {
+          "id": "D",
+          "text": "Hard, manual work"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The train serves as a universal poetic symbol for freedom, escape, exploration, and the romantic allure of the unknown horizon."
+    },
+    {
+      "id": "c7-eng-ch11-e-10",
+      "question": "When do thoughts of the train occupy the speaker's mind?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only during the day"
+        },
+        {
+          "id": "B",
+          "text": "Both day and night"
+        },
+        {
+          "id": "C",
+          "text": "Only late at night"
+        },
+        {
+          "id": "D",
+          "text": "Never"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Whether amidst the loud voices of the day or the quiet stillness of the night, the thought of the train is constantly present."
+    },
+    {
+      "id": "c7-eng-ch11-m-1",
+      "question": "What does the repetition of the phrase 'there isn\\'t a train goes by' demonstrate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Actual train schedules"
+        },
+        {
+          "id": "B",
+          "text": "The speaker's deep psychological fascination and constant, unending yearning"
+        },
+        {
+          "id": "C",
+          "text": "Deep anger"
+        },
+        {
+          "id": "D",
+          "text": "Pure confusion"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "This rhythmic repetition emphasizes that her wanderlust is an incessant, all-consuming passion that never leaves her consciousness."
+    },
+    {
+      "id": "c7-eng-ch11-m-2",
+      "question": "What is the exact meaning of 'cinders red on the sky'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The sun is setting beautifully"
+        },
+        {
+          "id": "B",
+          "text": "Glowing, hot sparks from the coal engine lighting up the dark night sky"
+        },
+        {
+          "id": "C",
+          "text": "A dangerous forest fire"
+        },
+        {
+          "id": "D",
+          "text": "Colorful fireworks"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "In steam engines, burning coal embers and sparks (cinders) shoot out of the smokestack, glowing bright red against the dark sky."
+    },
+    {
+      "id": "c7-eng-ch11-m-3",
+      "question": "What does the phrase 'My heart is warm' refer to regarding her friends?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She has a high fever"
+        },
+        {
+          "id": "B",
+          "text": "She is deeply grateful and content with her current friendships"
+        },
+        {
+          "id": "C",
+          "text": "She is angry at them"
+        },
+        {
+          "id": "D",
+          "text": "It is a hot summer day"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "'Warmth of heart' indicates deep affection, gratitude, and emotional security shared with genuine, supportive friends."
+    },
+    {
+      "id": "c7-eng-ch11-m-4",
+      "question": "What is the consistent rhyme scheme of this poem?",
+      "options": [
+        {
+          "id": "A",
+          "text": "AABB"
+        },
+        {
+          "id": "B",
+          "text": "ABAB"
+        },
+        {
+          "id": "C",
+          "text": "ABBA"
+        },
+        {
+          "id": "D",
+          "text": "ABCB"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "D",
+      "explanation": "The poem follows a classic ballad quatrain structure where the second and fourth lines rhyme (ABCB), giving it a musical cadence."
+    },
+    {
+      "id": "c7-eng-ch11-m-5",
+      "question": "Why is it highly significant that she hears the whistle despite the 'loud' day?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She has superhuman hearing"
+        },
+        {
+          "id": "B",
+          "text": "Her intense inner desire for travel completely overrides all external, daily noise"
+        },
+        {
+          "id": "C",
+          "text": "The train is extremely loud"
+        },
+        {
+          "id": "D",
+          "text": "She is completely deaf"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Because her internal yearning for adventure is so intense, her mind selectively tunes into the distant whistle above immediate conversations."
+    },
+    {
+      "id": "c7-eng-ch11-m-6",
+      "question": "Does the speaker desperately want to leave because her life is miserable?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes, she hates her life"
+        },
+        {
+          "id": "B",
+          "text": "No, she is happy but simply has an irresistible, innate urge to explore"
+        },
+        {
+          "id": "C",
+          "text": "She is being forced to leave"
+        },
+        {
+          "id": "D",
+          "text": "She has no money"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The central beauty of the poem is that she loves her life and friends, yet her innate wanderlust is even stronger than personal comfort."
+    },
+    {
+      "id": "c7-eng-ch11-m-7",
+      "question": "What does the intense word 'shrieking' vividly describe?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A dying bird"
+        },
+        {
+          "id": "B",
+          "text": "The sharp, high-pitched, excited sound of the train's whistle"
+        },
+        {
+          "id": "C",
+          "text": "A crying child"
+        },
+        {
+          "id": "D",
+          "text": "The howling wind"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "'Shrieking' conveys the piercing, high-frequency call of the locomotive whistle cutting sharply across miles of countryside."
+    },
+    {
+      "id": "c7-eng-ch11-m-8",
+      "question": "What is the central, driving idea of the entire poem?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It is best to stay home safely"
+        },
+        {
+          "id": "B",
+          "text": "The profound joy, longing, and wanderlust associated with traveling"
+        },
+        {
+          "id": "C",
+          "text": "That trains are far too noisy"
+        },
+        {
+          "id": "D",
+          "text": "That friends are unreliable"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The overarching theme celebrates wanderlust—the profound human aspiration to explore new horizons regardless of where they lead."
+    },
+    {
+      "id": "c7-eng-ch11-m-9",
+      "question": "What do the 'cinders' and 'steaming engine' represent poetically?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Terrible pollution"
+        },
+        {
+          "id": "B",
+          "text": "Powerful visual and auditory imagery of relentless movement"
+        },
+        {
+          "id": "C",
+          "text": "Dark magic"
+        },
+        {
+          "id": "D",
+          "text": "Cooking food"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "These sensory details create striking sensory imagery that captures the kinetic energy, power, and unstoppable momentum of travel."
+    },
+    {
+      "id": "c7-eng-ch11-m-10",
+      "question": "Which words best describe the speaker's overarching tone?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bitter and angry"
+        },
+        {
+          "id": "B",
+          "text": "Restless, deeply longing, and adventurous"
+        },
+        {
+          "id": "C",
+          "text": "Highly sad and depressed"
+        },
+        {
+          "id": "D",
+          "text": "Terrified and scared"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The tone is infused with romantic longing, restless anticipation, and an adventurous spirit yearning for the open track."
+    },
+    {
+      "id": "c7-eng-ch11-h-1",
+      "question": "In a critical analysis, the train acts primarily as a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Standard physical vehicle"
+        },
+        {
+          "id": "B",
+          "text": "A powerful metaphor for escape, freedom, and the romantic pull of the unknown"
+        },
+        {
+          "id": "C",
+          "text": "A heavy financial burden"
+        },
+        {
+          "id": "D",
+          "text": "A dangerous weapon"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Literary analysis recognizes the train not merely as mechanical transport, but as a dynamic metaphor for life's infinite possibilities and freedom."
+    },
+    {
+      "id": "c7-eng-ch11-h-2",
+      "question": "How does the poet masterfully utilize the concept of imagination?",
+      "options": [
+        {
+          "id": "A",
+          "text": "By physically painting a picture"
+        },
+        {
+          "id": "B",
+          "text": "By hearing and seeing the train with vivid intensity even in its complete physical absence"
+        },
+        {
+          "id": "C",
+          "text": "By telling lies"
+        },
+        {
+          "id": "D",
+          "text": "By dreaming while asleep"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Though miles away from the tracks, her sensory imagination conjures the sights and sounds of the locomotive with crystalline clarity."
+    },
+    {
+      "id": "c7-eng-ch11-h-3",
+      "question": "What is the central, poignant paradox found in the final stanza?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She hates trains but rides them anyway"
+        },
+        {
+          "id": "B",
+          "text": "She deeply loves her current life and friends, yet she would still abandon them to board any passing train"
+        },
+        {
+          "id": "C",
+          "text": "She is blind but claims to see"
+        },
+        {
+          "id": "D",
+          "text": "She is deaf but claims to hear"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The emotional core rests on this paradox: acknowledging that her current friendships are irreplaceable, yet feeling compelled to leave them for the unknown."
+    },
+    {
+      "id": "c7-eng-ch11-h-4",
+      "question": "The line 'Day is loud with voices speaking' is designed to directly contrast with what?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The quiet night"
+        },
+        {
+          "id": "B",
+          "text": "The inner, distant, yet overpowering call of the train whistle"
+        },
+        {
+          "id": "C",
+          "text": "Loud music"
+        },
+        {
+          "id": "D",
+          "text": "Complete silence"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The immediate, loud social chatter of daily life contrasts sharply with the solitary, distant, yet irresistible call of the locomotive whistle."
+    },
+    {
+      "id": "c7-eng-ch11-h-5",
+      "question": "What is the precise definition of the term 'wanderlust'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A severe fear of walking"
+        },
+        {
+          "id": "B",
+          "text": "A strong, innate, and irresistible desire to travel and explore the world"
+        },
+        {
+          "id": "C",
+          "text": "A specific type of dust"
+        },
+        {
+          "id": "D",
+          "text": "The desire to stay home"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "'Wanderlust' originates from German, defining a deep-seated, undeniable psychological impulse to wander and discover the wider world."
+    },
+    {
+      "id": "c7-eng-ch11-h-6",
+      "question": "Which of the following phrases is the strongest example of auditory imagery?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cinders red"
+        },
+        {
+          "id": "B",
+          "text": "Whistle shrieking"
+        },
+        {
+          "id": "C",
+          "text": "Heart is warm"
+        },
+        {
+          "id": "D",
+          "text": "Sky is blue"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "'Whistle shrieking' explicitly engages the sense of hearing, creating a sharp auditory impression in the reader's mind."
+    },
+    {
+      "id": "c7-eng-ch11-h-7",
+      "question": "Why does she explicitly state 'better friends I\\'ll not be knowing'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She aggressively doesn't want new friends"
+        },
+        {
+          "id": "B",
+          "text": "She acknowledges her current friends are the absolute best, emphasizing that her desire to leave has nothing to do with dissatisfaction"
+        },
+        {
+          "id": "C",
+          "text": "She hates strangers"
+        },
+        {
+          "id": "D",
+          "text": "She is highly arrogant"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "By praising her current friends as the finest possible, she confirms that her urge to depart springs entirely from pure wanderlust, not discontent."
+    },
+    {
+      "id": "c7-eng-ch11-h-8",
+      "question": "What deep philosophical truth does the poem teach about human desires?",
+      "options": [
+        {
+          "id": "A",
+          "text": "We are easily satisfied by comfort"
+        },
+        {
+          "id": "B",
+          "text": "Deep-seated curiosity and our dreams often powerfully transcend our immediate physical comfort"
+        },
+        {
+          "id": "C",
+          "text": "Money is everything in life"
+        },
+        {
+          "id": "D",
+          "text": "Sleep is the best escape"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The poem illustrates that human spirits often harbor aspirations and dreams that reach far beyond the boundaries of immediate comfort and security."
+    },
+    {
+      "id": "c7-eng-ch11-h-9",
+      "question": "The evocative phrase 'engine steaming' powerfully appeals to which human senses?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Taste only"
+        },
+        {
+          "id": "B",
+          "text": "Both sight (the steam) and sound (the hiss of the engine)"
+        },
+        {
+          "id": "C",
+          "text": "Smell only"
+        },
+        {
+          "id": "D",
+          "text": "Touch only"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "'Engine steaming' evokes both visual clouds of vapor and the rhythmic hissing acoustics of boiling pressurized water."
+    },
+    {
+      "id": "c7-eng-ch11-h-10",
+      "question": "The poem's underlying structure and meter rely heavily on what to achieve their effect?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Strict Haiku meter"
+        },
+        {
+          "id": "B",
+          "text": "Rhythmic repetition designed to subliminally mimic the chugging of a train and emphasize her longing"
+        },
+        {
+          "id": "C",
+          "text": "Unstructured free verse"
+        },
+        {
+          "id": "D",
+          "text": "Unrhymed blank verse"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The steady iambic rhythm and repetitive structural refrains mirror the mechanical chugging of train wheels rolling along tracks."
+    }
+  ]
+}

@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "c7-eng-ch14-e-1",
+      "question": "Who is the highly esteemed author of this poem?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rabindranath Tagore"
+        },
+        {
+          "id": "B",
+          "text": "Dr. A.P.J. Abdul Kalam"
+        },
+        {
+          "id": "C",
+          "text": "Ruskin Bond"
+        },
+        {
+          "id": "D",
+          "text": "Kamala Nair"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Former President and visionary scientist Dr. A.P.J. Abdul Kalam penned this heartfelt poetic tribute to India's soldiers."
+    },
+    {
+      "id": "c7-eng-ch14-e-2",
+      "question": "Who is the poem directly addressing?",
+      "options": [
+        {
+          "id": "A",
+          "text": "School teachers"
+        },
+        {
+          "id": "B",
+          "text": "The nation's brave soldiers"
+        },
+        {
+          "id": "C",
+          "text": "Medical doctors"
+        },
+        {
+          "id": "D",
+          "text": "Local farmers"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Dr. Kalam directly addresses the brave soldiers, airmen, and sailors defending the nation's borders across all frontiers."
+    },
+    {
+      "id": "c7-eng-ch14-e-3",
+      "question": "What honorable title are the soldiers given in the very first stanza?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Defenders of borders"
+        },
+        {
+          "id": "B",
+          "text": "Fierce attackers"
+        },
+        {
+          "id": "C",
+          "text": "Wealthy kings"
+        },
+        {
+          "id": "D",
+          "text": "Royal princes"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "They are proudly honored right from the opening lines as the steadfast 'defenders of borders' guarding national freedom."
+    },
+    {
+      "id": "c7-eng-ch14-e-4",
+      "question": "When all the regular citizens are fast asleep, what do the soldiers do?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They sleep too"
+        },
+        {
+          "id": "B",
+          "text": "They stay awake and guard the country"
+        },
+        {
+          "id": "C",
+          "text": "They play games"
+        },
+        {
+          "id": "D",
+          "text": "They eat dinner"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "While civilians sleep peacefully in the comfort of their homes, soldiers remain vigilantly awake guarding chilly frontier outposts."
+    },
+    {
+      "id": "c7-eng-ch14-e-5",
+      "question": "What specific harsh weather conditions are mentioned that they must face?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Snowy days and the scorching sun"
+        },
+        {
+          "id": "B",
+          "text": "Mild spring breezes"
+        },
+        {
+          "id": "C",
+          "text": "Only heavy rain"
+        },
+        {
+          "id": "D",
+          "text": "Indoor air conditioning"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "Soldiers endure extreme weather, ranging from sub-zero Himalayan snowstorms to scorching desert heat waves."
+    },
+    {
+      "id": "c7-eng-ch14-e-6",
+      "question": "In what diverse geographic locations do these soldiers serve?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only in big cities"
+        },
+        {
+          "id": "B",
+          "text": "Mountains, valleys, deserts, and deep marshes"
+        },
+        {
+          "id": "C",
+          "text": "Only in the oceans"
+        },
+        {
+          "id": "D",
+          "text": "Only up in the sky"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "They patrol across formidable terrain including lofty mountain peaks, deep river valleys, arid salt deserts, and coastal marshes."
+    },
+    {
+      "id": "c7-eng-ch14-e-7",
+      "question": "What is the most precious thing they give up for the nation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "All their money"
+        },
+        {
+          "id": "B",
+          "text": "The absolute prime of their youth"
+        },
+        {
+          "id": "C",
+          "text": "Their favorite books"
+        },
+        {
+          "id": "D",
+          "text": "Their fast cars"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Soldiers selflessly spend the golden, energetic prime years of their youth stationed far away from family to secure the country."
+    },
+    {
+      "id": "c7-eng-ch14-e-8",
+      "question": "Who is actively praying for the soldiers' safety?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Their bitter enemies"
+        },
+        {
+          "id": "B",
+          "text": "The poet and the grateful citizens"
+        },
+        {
+          "id": "C",
+          "text": "No one at all"
+        },
+        {
+          "id": "D",
+          "text": "Only the rich generals"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Dr. Kalam notes that grateful citizens across the country continually offer warm prayers and well-wishes for their protection."
+    },
+    {
+      "id": "c7-eng-ch14-e-9",
+      "question": "Is the overall tone of the poem deeply respectful?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes, highly respectful"
+        },
+        {
+          "id": "B",
+          "text": "No, it is not"
+        },
+        {
+          "id": "C",
+          "text": "It is highly sarcastic"
+        },
+        {
+          "id": "D",
+          "text": "It is very angry"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The tone is imbued with profound admiration, reverence, gratitude, and national pride for the armed forces."
+    },
+    {
+      "id": "c7-eng-ch14-e-10",
+      "question": "What specific, delicate object is mentioned in the final stanza?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A loud bell"
+        },
+        {
+          "id": "B",
+          "text": "Musical wind chimes"
+        },
+        {
+          "id": "C",
+          "text": "A heavy drum"
+        },
+        {
+          "id": "D",
+          "text": "A wooden flute"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Dr. Kalam concludes by comparing the peaceful harmony of a secure nation to delicate, ringing wind chimes vibrating with gratitude."
+    },
+    {
+      "id": "c7-eng-ch14-m-1",
+      "question": "Why are the soldiers poetically compared to 'yogis'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because they do yoga exercises daily"
+        },
+        {
+          "id": "B",
+          "text": "Because they endure profound solitude, practice intense self-discipline, and possess great inner strength"
+        },
+        {
+          "id": "C",
+          "text": "Because they are physically flexible"
+        },
+        {
+          "id": "D",
+          "text": "Because they chant loudly"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Like ascetics (yogis) meditating in solitude, soldiers renounce personal comfort, exercising austere self-discipline and mental fortitude."
+    },
+    {
+      "id": "c7-eng-ch14-m-2",
+      "question": "What does the phrase 'hold on to your deed' signify?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To physically hold a piece of paper"
+        },
+        {
+          "id": "B",
+          "text": "To stay completely, unwaveringly committed to their difficult duty"
+        },
+        {
+          "id": "C",
+          "text": "To give up easily"
+        },
+        {
+          "id": "D",
+          "text": "To sell a piece of land"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "To 'hold on to one's deed' means remaining steadfast, loyal, and fully dedicated to executing sacred sworn duties without faltering."
+    },
+    {
+      "id": "c7-eng-ch14-m-3",
+      "question": "What is the exact meaning of the word 'treading'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Flying high"
+        },
+        {
+          "id": "B",
+          "text": "Walking or stepping heavily on"
+        },
+        {
+          "id": "C",
+          "text": "Swimming fast"
+        },
+        {
+          "id": "D",
+          "text": "Hiding quietly"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "'Treading' refers to walking along, stepping across, or patrolling over difficult paths or perilous frontier terrain."
+    },
+    {
+      "id": "c7-eng-ch14-m-4",
+      "question": "What does the poem emphasize regarding the soldiers' youth?",
+      "options": [
+        {
+          "id": "A",
+          "text": "That they completely waste it"
+        },
+        {
+          "id": "B",
+          "text": "That they selflessly sacrifice their best, most productive years for the safety of the country"
+        },
+        {
+          "id": "C",
+          "text": "That they stay young forever"
+        },
+        {
+          "id": "D",
+          "text": "That they act like small children"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Rather than enjoying leisurely civilian youth, they dedicate their most vibrant years to austere service on frontier borders."
+    },
+    {
+      "id": "c7-eng-ch14-m-5",
+      "question": "What does the phrase 'surveillance in seas' mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Swimming for fun"
+        },
+        {
+          "id": "B",
+          "text": "Keeping a highly close, constant watch and monitoring for threats"
+        },
+        {
+          "id": "C",
+          "text": "Commercial fishing"
+        },
+        {
+          "id": "D",
+          "text": "Sailing on a cruise"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Surveillance in seas refers to the Navy and Coast Guard maintaining 24/7 radar and maritime patrols to guard territorial waters."
+    },
+    {
+      "id": "c7-eng-ch14-m-6",
+      "question": "What does the adjective 'scorching' mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Freezing cold"
+        },
+        {
+          "id": "B",
+          "text": "Intensely, painfully hot"
+        },
+        {
+          "id": "C",
+          "text": "Very wet"
+        },
+        {
+          "id": "D",
+          "text": "Pitch dark"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "'Scorching' describes blistering, oppressive heat such as the extreme midday temperatures faced by border troops in desert sectors."
+    },
+    {
+      "id": "c7-eng-ch14-m-7",
+      "question": "What does the sharp contrast between asleep citizens and awake soldiers highlight?",
+      "options": [
+        {
+          "id": "A",
+          "text": "That citizens are lazy"
+        },
+        {
+          "id": "B",
+          "text": "The soldiers' extreme vigilance and their ultimate sacrifice of personal comfort"
+        },
+        {
+          "id": "C",
+          "text": "That soldiers suffer from insomnia"
+        },
+        {
+          "id": "D",
+          "text": "Different time zones"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The juxtaposition contrasts the security enjoyed by civilians with the sleepless vigilance required of troops guarding remote borders."
+    },
+    {
+      "id": "c7-eng-ch14-m-8",
+      "question": "What does the word 'feat' mean in the poem's context?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Human feet"
+        },
+        {
+          "id": "B",
+          "text": "A highly brave, difficult, or impressive act"
+        },
+        {
+          "id": "C",
+          "text": "A large meal"
+        },
+        {
+          "id": "D",
+          "text": "A loud party"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "A 'feat' denotes an extraordinary military achievement, act of valor, or feat of physical endurance accomplished under hardship."
+    },
+    {
+      "id": "c7-eng-ch14-m-9",
+      "question": "Which specific military domains do they secure according to the poem?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only the land"
+        },
+        {
+          "id": "B",
+          "text": "Land, the deep sea, and the open air"
+        },
+        {
+          "id": "C",
+          "text": "Only outer space"
+        },
+        {
+          "id": "D",
+          "text": "Only underground bunkers"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The tribute covers all three armed services: Army guarding land borders, Navy patrolling seas, and Air Force securing airspace."
+    },
+    {
+      "id": "c7-eng-ch14-m-10",
+      "question": "What is the definition of an 'acrostic' poem as seen in the textbook activity?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A poem that always rhymes perfectly"
+        },
+        {
+          "id": "B",
+          "text": "A poem where the first letters of each line spell a word reading vertically"
+        },
+        {
+          "id": "C",
+          "text": "A poem with absolutely no words"
+        },
+        {
+          "id": "D",
+          "text": "A poem set to music"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "In an acrostic poem, the initial letter of every line combines vertically to spell out a theme word or name (like S-O-L-D-I-E-R)."
+    },
+    {
+      "id": "c7-eng-ch14-h-1",
+      "question": "What do the 'wind chimes' metaphorically symbolize at the end of the poem?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Random music"
+        },
+        {
+          "id": "B",
+          "text": "The entire nation's collective gratitude and the positive vibration of the soldiers' achievements"
+        },
+        {
+          "id": "C",
+          "text": "The strong wind"
+        },
+        {
+          "id": "D",
+          "text": "Deep-seated fear"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The harmonious ringing of wind chimes represents the peaceful vibrations, collective blessings, and heartfelt gratitude of a secure nation."
+    },
+    {
+      "id": "c7-eng-ch14-h-2",
+      "question": "The phrases 'season or snowy' and 'scorching sun' are prime examples of which literary device?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Extended metaphor"
+        },
+        {
+          "id": "B",
+          "text": "Alliteration (used to create a rhythmic, harsh effect)"
+        },
+        {
+          "id": "C",
+          "text": "Deep irony"
+        },
+        {
+          "id": "D",
+          "text": "Personification"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Repeating initial 's' sounds ('season', 'snowy', 'scorching', 'sun') creates melodic alliteration that emphasizes environmental extremes."
+    },
+    {
+      "id": "c7-eng-ch14-h-3",
+      "question": "What does the evocative phrase 'lonely expanses' emphasize about the soldiers' reality?",
+      "options": [
+        {
+          "id": "A",
+          "text": "That they love crowded cities"
+        },
+        {
+          "id": "B",
+          "text": "The severe psychological isolation and the massive physical vastness of their patrol areas"
+        },
+        {
+          "id": "C",
+          "text": "That they live in small rooms"
+        },
+        {
+          "id": "D",
+          "text": "That they hate loud noises"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "'Lonely expanses' captures the vast, uninhabited stretches of frontier terrain where soldiers endure profound psychological isolation."
+    },
+    {
+      "id": "c7-eng-ch14-h-4",
+      "question": "What complex, dual emotion does the poem successfully evoke in the reader?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Intense anger and deep hate"
+        },
+        {
+          "id": "B",
+          "text": "Immense pride and respect paired alongside a somber acknowledgment of their pain and sacrifice"
+        },
+        {
+          "id": "C",
+          "text": "Pure joy and comedy"
+        },
+        {
+          "id": "D",
+          "text": "Total boredom"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The reader feels immense patriotic pride for military valor intertwined with solemn empathy for the hardships troops endure."
+    },
+    {
+      "id": "c7-eng-ch14-h-5",
+      "question": "Comparing the heavily armed soldiers to peaceful yogis is an example of which specific poetic device?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A simile"
+        },
+        {
+          "id": "B",
+          "text": "A metaphor"
+        },
+        {
+          "id": "C",
+          "text": "Extreme hyperbole"
+        },
+        {
+          "id": "D",
+          "text": "Onomatopoeia"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "By directly stating that soldiers are like austere yogis in self-discipline without using 'like' or 'as', Dr. Kalam employs profound metaphor."
+    },
+    {
+      "id": "c7-eng-ch14-h-6",
+      "question": "What is the thematic effect of repeating the pronouns 'you' (the soldiers) and 'we' (the citizens)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It teaches basic grammar rules"
+        },
+        {
+          "id": "B",
+          "text": "It starkly emphasizes the vast contrast between the soldiers' harsh sacrifices and the civilians' peaceful, protected lives"
+        },
+        {
+          "id": "C",
+          "text": "It creates confusion"
+        },
+        {
+          "id": "D",
+          "text": "It implies total equality"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Posing 'you' against 'we' highlights the symbiotic bond where civilian peace depends directly upon military sacrifice."
+    },
+    {
+      "id": "c7-eng-ch14-h-7",
+      "question": "Which set of adjectives best describes the overarching tone of the poem?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bitter, angry, and resentful"
+        },
+        {
+          "id": "B",
+          "text": "Deeply admiring, highly respectful, and profoundly grateful"
+        },
+        {
+          "id": "C",
+          "text": "Melancholic and depressing"
+        },
+        {
+          "id": "D",
+          "text": "Humorous and light"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The diction overflows with deep reverence, sincere appreciation, patriotism, and unreserved respect for military personnel."
+    },
+    {
+      "id": "c7-eng-ch14-h-8",
+      "question": "What does the vocabulary word 'sweltering' mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Freezing solid"
+        },
+        {
+          "id": "B",
+          "text": "Oppressively, uncomfortably hot and humid"
+        },
+        {
+          "id": "C",
+          "text": "Very windy"
+        },
+        {
+          "id": "D",
+          "text": "Extremely dark"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "'Sweltering' defines suffocating, high-humidity heat that saps physical strength during long border security watches."
+    },
+    {
+      "id": "c7-eng-ch14-h-9",
+      "question": "What does the opening phrase 'defenders of borders' immediately establish for the reader?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Their primary, non-negotiable role of physical protection and ensuring national sovereignty"
+        },
+        {
+          "id": "B",
+          "text": "Their exact GPS location"
+        },
+        {
+          "id": "C",
+          "text": "The color of their uniforms"
+        },
+        {
+          "id": "D",
+          "text": "The type of weapons they carry"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "It immediately sets the thematic premise: soldiers are the ultimate shields preserving national integrity and territorial borders."
+    },
+    {
+      "id": "c7-eng-ch14-h-10",
+      "question": "What is the core thematic, moral value taught by Dr. Kalam in this poem?",
+      "options": [
+        {
+          "id": "A",
+          "text": "That making money is highly important"
+        },
+        {
+          "id": "B",
+          "text": "The highest virtues of patriotism, extreme selflessness, and putting national duty far above personal comfort"
+        },
+        {
+          "id": "C",
+          "text": "That traveling is physically hard"
+        },
+        {
+          "id": "D",
+          "text": "That weather changes rapidly"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Dr. Kalam elevates selfless duty above personal ambition, presenting soldiers as the highest moral exemplars of patriotism."
+    }
+  ]
+}

@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "c7-eng-ch10-e-1",
+      "question": "Who is the curious, adventurous young boy in the story?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Anand"
+        },
+        {
+          "id": "B",
+          "text": "Suraj"
+        },
+        {
+          "id": "C",
+          "text": "Sunder Singh"
+        },
+        {
+          "id": "D",
+          "text": "Boppa"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Suraj is the curious young boy who feels irresistibly drawn to watch the steam trains emerging from the dark jungle tunnel."
+    },
+    {
+      "id": "c7-eng-ch10-e-2",
+      "question": "What specific event does Suraj come to the jungle to watch?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cars driving by"
+        },
+        {
+          "id": "B",
+          "text": "The steam trains emerging from the dark tunnel"
+        },
+        {
+          "id": "C",
+          "text": "Boats sailing"
+        },
+        {
+          "id": "D",
+          "text": "People riding bicycles"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Suraj regularly visits the isolated cutting in the forest to watch the dramatic appearance of steam trains shooting out of the tunnel."
+    },
+    {
+      "id": "c7-eng-ch10-e-3",
+      "question": "Who is Sunder Singh?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A train driver"
+        },
+        {
+          "id": "B",
+          "text": "The lonely watchman of the railway tunnel"
+        },
+        {
+          "id": "C",
+          "text": "A school teacher"
+        },
+        {
+          "id": "D",
+          "text": "A big-game hunter"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Sunder Singh is the dedicated, solitary night watchman responsible for inspecting the railway tracks inside the dark tunnel."
+    },
+    {
+      "id": "c7-eng-ch10-e-4",
+      "question": "What dangerous wild animal do they discover hiding in the tunnel?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A Bengal Tiger"
+        },
+        {
+          "id": "B",
+          "text": "A leopard"
+        },
+        {
+          "id": "C",
+          "text": "A brown bear"
+        },
+        {
+          "id": "D",
+          "text": "A grey wolf"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "They discover a wild leopard seeking refuge inside the dark, sheltered interior of the railway tunnel."
+    },
+    {
+      "id": "c7-eng-ch10-e-5",
+      "question": "In Suraj's imagination, what mythical creature does the train look like?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A giant snake"
+        },
+        {
+          "id": "B",
+          "text": "A snorting, puffing dragon"
+        },
+        {
+          "id": "C",
+          "text": "A giant bird"
+        },
+        {
+          "id": "D",
+          "text": "A scary ghost"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "With its billowing steam, bright headlights, and loud chugging, the train resembles a fierce, snorting dragon to Suraj."
+    },
+    {
+      "id": "c7-eng-ch10-e-6",
+      "question": "Does the wild animal attack the boy and the watchman?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes, fiercely"
+        },
+        {
+          "id": "B",
+          "text": "No, it quietly slips away into the darkness"
+        },
+        {
+          "id": "C",
+          "text": "It bites Suraj"
+        },
+        {
+          "id": "D",
+          "text": "It roars loudly"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The leopard shows no desire to attack human beings; once alerted, it gracefully and quietly slips out of the tunnel into the forest."
+    },
+    {
+      "id": "c7-eng-ch10-e-7",
+      "question": "What traditional tool does Sunder Singh carry with him?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A heavy rifle"
+        },
+        {
+          "id": "B",
+          "text": "A sharp axe"
+        },
+        {
+          "id": "C",
+          "text": "A long sword"
+        },
+        {
+          "id": "D",
+          "text": "A thick rope"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Sunder Singh always carries a sharp, dependable axe to clear obstacles and protect himself during his lonely forest patrols."
+    },
+    {
+      "id": "c7-eng-ch10-e-8",
+      "question": "How do the two characters successfully scare the animal away?",
+      "options": [
+        {
+          "id": "A",
+          "text": "By shooting at it"
+        },
+        {
+          "id": "B",
+          "text": "By shouting loudly together to create echoes"
+        },
+        {
+          "id": "C",
+          "text": "By throwing large stones"
+        },
+        {
+          "id": "D",
+          "text": "By running toward it"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "By shouting loudly inside the enclosed tunnel, their combined voices echo powerfully, driving the animal out before the train arrives."
+    },
+    {
+      "id": "c7-eng-ch10-e-9",
+      "question": "Does Suraj generally like watching the trains?",
+      "options": [
+        {
+          "id": "A",
+          "text": "No, he hates them"
+        },
+        {
+          "id": "B",
+          "text": "Yes, he finds them highly exciting"
+        },
+        {
+          "id": "C",
+          "text": "He is absolutely terrified of them"
+        },
+        {
+          "id": "D",
+          "text": "He completely ignores them"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Suraj finds the roaring power, speed, and mystery of passing locomotives deeply fascinating and thrilling."
+    },
+    {
+      "id": "c7-eng-ch10-e-10",
+      "question": "Where exactly does Sunder Singh live?",
+      "options": [
+        {
+          "id": "A",
+          "text": "In a busy city"
+        },
+        {
+          "id": "B",
+          "text": "In a small watchman's hut right near the tunnel"
+        },
+        {
+          "id": "C",
+          "text": "Inside the moving train"
+        },
+        {
+          "id": "D",
+          "text": "In a dark cave"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Sunder Singh lives a peaceful, solitary existence in a modest watchman's hut located just outside the tunnel entrance."
+    },
+    {
+      "id": "c7-eng-ch10-m-1",
+      "question": "Why did Sunder Singh say he had 'lent' the tunnel to the Government?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because he actually owns it"
+        },
+        {
+          "id": "B",
+          "text": "Because he is the only one who cares for it, treating it as if it were his own property"
+        },
+        {
+          "id": "C",
+          "text": "Because he sold it to them"
+        },
+        {
+          "id": "D",
+          "text": "Because he built it himself"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Sunder Singh feels such deep personal attachment and stewardship toward the tunnel that he jokingly claims it belongs to him."
+    },
+    {
+      "id": "c7-eng-ch10-m-2",
+      "question": "Why did Sunder firmly take his axe into the tunnel?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To chop firewood"
+        },
+        {
+          "id": "B",
+          "text": "As a necessary precaution to protect himself and Suraj if the animal attacked"
+        },
+        {
+          "id": "C",
+          "text": "To hit the train tracks"
+        },
+        {
+          "id": "D",
+          "text": "To build a signal fire"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "While Sunder respects wildlife, carrying his axe provides vital self-defense should a cornered predator turn aggressive."
+    },
+    {
+      "id": "c7-eng-ch10-m-3",
+      "question": "How did Suraj know for sure that Sunder Singh was at the tunnel weeks later?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sunder called him on the phone"
+        },
+        {
+          "id": "B",
+          "text": "He saw the watchman's glowing lamp from the train window"
+        },
+        {
+          "id": "C",
+          "text": "He read a letter from him"
+        },
+        {
+          "id": "D",
+          "text": "He simply guessed"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Weeks later while riding the night train, Suraj looks out the window and recognizes Sunder Singh's familiar glowing lantern in the dark."
+    },
+    {
+      "id": "c7-eng-ch10-m-4",
+      "question": "What scientifically caused the animal to disappear so quickly?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It was killed by the train"
+        },
+        {
+          "id": "B",
+          "text": "The loud echoes of their combined shouts frightened it into thinking many people were there"
+        },
+        {
+          "id": "C",
+          "text": "It fell down a hole"
+        },
+        {
+          "id": "D",
+          "text": "It fell deeply asleep"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Acoustic reverberation inside the narrow stone tunnel magnified their shouts into a thunderous roar, causing the cautious leopard to flee."
+    },
+    {
+      "id": "c7-eng-ch10-m-5",
+      "question": "Why was Suraj completely unable to shout at first?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He was physically mute"
+        },
+        {
+          "id": "B",
+          "text": "He was intensely trying to listen for the animal's padded footsteps"
+        },
+        {
+          "id": "C",
+          "text": "He was too angry"
+        },
+        {
+          "id": "D",
+          "text": "He was laughing too hard"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Suraj held his breath in acute suspense, straining his ears to detect the faint, padded footfalls of the unseen predator."
+    },
+    {
+      "id": "c7-eng-ch10-m-6",
+      "question": "How did Sunder know the animal was currently inside the tunnel?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He saw it walk in from the outside"
+        },
+        {
+          "id": "B",
+          "text": "He heard its soft, padded footfalls and the rustling of dry leaves"
+        },
+        {
+          "id": "C",
+          "text": "He smelled it strongly"
+        },
+        {
+          "id": "D",
+          "text": "The train driver told him"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Sunder's sharp jungle senses picked up the soft crunching of dry leaves and stealthy footfalls echoing inside the tunnel."
+    },
+    {
+      "id": "c7-eng-ch10-m-7",
+      "question": "What vibrant colors did Suraj see when he caught a glimpse of the animal?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Deep blue"
+        },
+        {
+          "id": "B",
+          "text": "A flash of orange and gold"
+        },
+        {
+          "id": "C",
+          "text": "Pure, solid black"
+        },
+        {
+          "id": "D",
+          "text": "Bright white"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "As the lantern light flickered, Suraj caught a breathtaking glimpse of the leopard's supple golden-orange coat dappled with rosettes."
+    },
+    {
+      "id": "c7-eng-ch10-m-8",
+      "question": "Where does Sunder Singh feel much safer living?",
+      "options": [
+        {
+          "id": "A",
+          "text": "In the busy town"
+        },
+        {
+          "id": "B",
+          "text": "In the quiet, isolated forest"
+        },
+        {
+          "id": "C",
+          "text": "On the moving train"
+        },
+        {
+          "id": "D",
+          "text": "In a major city"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Sunder prefers the predictable, honest rhythms of nature in the jungle over the noisy, chaotic, and stressful life of modern towns."
+    },
+    {
+      "id": "c7-eng-ch10-m-9",
+      "question": "What does the descriptive word 'dazzled' mean when Suraj exits the tunnel?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Temporarily blinded by bright, sudden light"
+        },
+        {
+          "id": "B",
+          "text": "Extremely bored"
+        },
+        {
+          "id": "C",
+          "text": "Very cold"
+        },
+        {
+          "id": "D",
+          "text": "Completely wet"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "Emerging from pitch darkness into bright daylight temporarily overwhelms the eyes' photoreceptors, dazzling the vision."
+    },
+    {
+      "id": "c7-eng-ch10-m-10",
+      "question": "Why is it absolutely urgent that they drive the animal out immediately?",
+      "options": [
+        {
+          "id": "A",
+          "text": "So they can catch it in a cage"
+        },
+        {
+          "id": "B",
+          "text": "So the fast-approaching train doesn't run it over and kill it"
+        },
+        {
+          "id": "C",
+          "text": "So they can feed it"
+        },
+        {
+          "id": "D",
+          "text": "So they can pet it"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "A speeding locomotive inside a narrow tunnel leaves no room for escape; they must scare the leopard out immediately to save its life."
+    },
+    {
+      "id": "c7-eng-ch10-h-1",
+      "question": "What does the watchman's lamp deeply symbolize (the 'firefly' metaphor)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Intense heat"
+        },
+        {
+          "id": "B",
+          "text": "A comforting, guiding presence and safety amidst the dark, lonely unknown"
+        },
+        {
+          "id": "C",
+          "text": "Imminent danger"
+        },
+        {
+          "id": "D",
+          "text": "Dark magic"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "In the vast, intimidating darkness of the jungle and tunnel, Sunder's small lantern acts as a steady beacon of human duty, warmth, and safety."
+    },
+    {
+      "id": "c7-eng-ch10-h-2",
+      "question": "The long railway lines disappearing into the tunnel are vividly compared to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Thick ropes"
+        },
+        {
+          "id": "B",
+          "text": "Two straight, black serpents"
+        },
+        {
+          "id": "C",
+          "text": "Tall trees"
+        },
+        {
+          "id": "D",
+          "text": "Flowing water"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Ruskin Bond uses visual metaphor to compare the parallel iron tracks slithering into the dark tunnel entrance to black serpents."
+    },
+    {
+      "id": "c7-eng-ch10-h-3",
+      "question": "What underlying ethical theme is powerfully illustrated by their urgent desire to save the animal rather than kill it?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Human cruelty"
+        },
+        {
+          "id": "B",
+          "text": "The necessity of human-wildlife coexistence and profound mutual respect"
+        },
+        {
+          "id": "C",
+          "text": "Uncontrollable fear"
+        },
+        {
+          "id": "D",
+          "text": "The thrill of hunting"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Rather than viewing the wild predator as an enemy to be exterminated, Sunder and Suraj demonstrate compassionate conservation and coexistence."
+    },
+    {
+      "id": "c7-eng-ch10-h-4",
+      "question": "What does the specific term 'cutting' mean in the context of this railway story?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To slice a piece of paper"
+        },
+        {
+          "id": "B",
+          "text": "A narrow, excavated valley cut through a hill specifically for a railway line"
+        },
+        {
+          "id": "C",
+          "text": "A severe physical wound"
+        },
+        {
+          "id": "D",
+          "text": "Running away quickly"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "In civil engineering and railway terminology, a cutting is an open trench excavated through higher ground to maintain a level track grade."
+    },
+    {
+      "id": "c7-eng-ch10-h-5",
+      "question": "Sunder Singh's stated preference for the jungle over the town highlights what philosophical view?",
+      "options": [
+        {
+          "id": "A",
+          "text": "An irrational fear of buses"
+        },
+        {
+          "id": "B",
+          "text": "The high valuation of peace, simplicity, and nature over chaotic urban life"
+        },
+        {
+          "id": "C",
+          "text": "A deep hatred of all people"
+        },
+        {
+          "id": "D",
+          "text": "Extreme poverty"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Sunder embodies the pastoral ideal—finding spiritual contentment, tranquility, and harmony within the natural wilderness."
+    },
+    {
+      "id": "c7-eng-ch10-h-6",
+      "question": "Which grammatical concept is demonstrated by the phrase 'he would walk the length of the tunnel'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Simple future tense"
+        },
+        {
+          "id": "B",
+          "text": "The use of 'would' to express repeated past habits or routines"
+        },
+        {
+          "id": "C",
+          "text": "A proper noun"
+        },
+        {
+          "id": "D",
+          "text": "A comparative adjective"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "In English grammar, the modal verb 'would' is frequently used to describe habitual actions or customary routines in the past."
+    },
+    {
+      "id": "c7-eng-ch10-h-7",
+      "question": "The highly descriptive words 'hissing', 'puffing', and 'clanging' are excellent examples of:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Metaphors"
+        },
+        {
+          "id": "B",
+          "text": "Onomatopoeia (words that imitate natural sounds)"
+        },
+        {
+          "id": "C",
+          "text": "Similes"
+        },
+        {
+          "id": "D",
+          "text": "Situational irony"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Onomatopoeic words phonetically mimic the exact acoustic sounds of the objects or actions they describe, bringing auditory realism."
+    },
+    {
+      "id": "c7-eng-ch10-h-8",
+      "question": "What specific character trait does Suraj exhibit by choosing to enter the dark, smoky tunnel?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Extreme cowardice"
+        },
+        {
+          "id": "B",
+          "text": "Boldness, a thirst for adventure, and intense curiosity"
+        },
+        {
+          "id": "C",
+          "text": "Deep laziness"
+        },
+        {
+          "id": "D",
+          "text": "Complete apathy"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Suraj's willingness to step into the dark, mysterious tunnel demonstrates courageous curiosity and a spirited thirst for exploration."
+    },
+    {
+      "id": "c7-eng-ch10-h-9",
+      "question": "How does the concept of teamwork directly resolve the narrative's central conflict?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They fight each other for survival"
+        },
+        {
+          "id": "B",
+          "text": "Their combined voices create a frightening acoustic echo that saves the animal's life"
+        },
+        {
+          "id": "C",
+          "text": "They build a solid wall together"
+        },
+        {
+          "id": "D",
+          "text": "They physically stop the speeding train"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Neither could save the leopard alone, but by joining their voices together, their teamwork produces enough acoustic volume to safely drive it out."
+    },
+    {
+      "id": "c7-eng-ch10-h-10",
+      "question": "What does the precise adjective 'lithe' mean when describing the animal?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Extremely fat and heavy"
+        },
+        {
+          "id": "B",
+          "text": "Thin, supple, and graceful in movement"
+        },
+        {
+          "id": "C",
+          "text": "Highly clumsy"
+        },
+        {
+          "id": "D",
+          "text": "Very slow"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "'Lithe' describes a body that is flexible, agile, and moves with effortless, athletic grace, perfectly characterizing a wild feline."
+    }
+  ]
+}
