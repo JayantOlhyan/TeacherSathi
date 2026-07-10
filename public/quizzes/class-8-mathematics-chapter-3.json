@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "Which ancient civilization developed a numerical system in the geographical region of modern-day Iraq?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Egyptian"
+        },
+        {
+          "id": "B",
+          "text": "Chinese"
+        },
+        {
+          "id": "C",
+          "text": "Mesopotamian"
+        },
+        {
+          "id": "D",
+          "text": "Mayan"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The ancient Mesopotamians (such as the Sumerians and Babylonians) in the fertile crescent of modern-day Iraq developed the cuneiform base-60 numerical system."
+    },
+    {
+      "id": "2",
+      "question": "Early humans utilizing sticks and pebbles to track livestock employed a method known as:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Magic counting"
+        },
+        {
+          "id": "B",
+          "text": "One-to-one mapping"
+        },
+        {
+          "id": "C",
+          "text": "Abstract algebra"
+        },
+        {
+          "id": "D",
+          "text": "Fractional division"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Before formal numerals existed, early humans tracked quantities by matching one physical item (like a pebble or notch on a bone) to each animal, known as one-to-one correspondence/mapping."
+    },
+    {
+      "id": "3",
+      "question": "The modern numerical system (utilizing digits 0-9) historically originated in:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Greece"
+        },
+        {
+          "id": "B",
+          "text": "Egypt"
+        },
+        {
+          "id": "C",
+          "text": "India"
+        },
+        {
+          "id": "D",
+          "text": "China"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The base-10 positional numeral system featuring the digits 0 through 9 originated in ancient India before being adopted by Arabic scholars and later introduced to Europe."
+    },
+    {
+      "id": "4",
+      "question": "Exactly how many distinct symbols are employed in the modern Hindu number system?",
+      "options": [
+        {
+          "id": "A",
+          "text": "9"
+        },
+        {
+          "id": "B",
+          "text": "10"
+        },
+        {
+          "id": "C",
+          "text": "20"
+        },
+        {
+          "id": "D",
+          "text": "60"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The modern decimal (Hindu-Arabic) number system uses exactly 10 distinct digits: 0, 1, 2, 3, 4, 5, 6, 7, 8, and 9."
+    },
+    {
+      "id": "5",
+      "question": "The indigenous Gumulgal people of Australia naturally counted utilizing a base of:",
+      "options": [
+        {
+          "id": "A",
+          "text": "2"
+        },
+        {
+          "id": "B",
+          "text": "5"
+        },
+        {
+          "id": "C",
+          "text": "10"
+        },
+        {
+          "id": "D",
+          "text": "20"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The Gumulgal language of Australia traditionally utilized a binary (base-2) counting system where numbers were constructed from words for 1 ('urapon') and 2 ('ukasar')."
+    },
+    {
+      "id": "6",
+      "question": "Within a standard base-10 framework, what is the subsequent landmark number after 100?",
+      "options": [
+        {
+          "id": "A",
+          "text": "110"
+        },
+        {
+          "id": "B",
+          "text": "200"
+        },
+        {
+          "id": "C",
+          "text": "500"
+        },
+        {
+          "id": "D",
+          "text": "1000"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "D",
+      "explanation": "In a base-10 positional system, the landmark powers of ten progress by multiplying by 10: 10⁰ = 1, 10¹ = 10, 10² = 100, and the next is 10³ = 1,000."
+    },
+    {
+      "id": "7",
+      "question": "Which symbol represents a revolutionary conceptual invention unique to the Hindu number system?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "5"
+        },
+        {
+          "id": "C",
+          "text": "0"
+        },
+        {
+          "id": "D",
+          "text": "9"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The invention of zero ('0') both as a positional placeholder and as an independent numerical entity with its own arithmetic rules was India's revolutionary gift to mathematics."
+    },
+    {
+      "id": "8",
+      "question": "Roman numerals are notoriously inefficient because they lack a symbol for:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ten"
+        },
+        {
+          "id": "B",
+          "text": "Fifty"
+        },
+        {
+          "id": "C",
+          "text": "Zero"
+        },
+        {
+          "id": "D",
+          "text": "One Hundred"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The Roman numeral system completely lacks a symbol or concept for zero, making positional arithmetic and complex calculations extremely cumbersome."
+    },
+    {
+      "id": "9",
+      "question": "In the Roman numeral system, the symbol 'X' strictly denotes:",
+      "options": [
+        {
+          "id": "A",
+          "text": "5"
+        },
+        {
+          "id": "B",
+          "text": "10"
+        },
+        {
+          "id": "C",
+          "text": "50"
+        },
+        {
+          "id": "D",
+          "text": "100"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "In Roman numerals, I = 1, V = 5, X = 10, L = 50, C = 100, D = 500, and M = 1000."
+    },
+    {
+      "id": "10",
+      "question": "A numerical framework where the spatial position of a digit dictates its overall value is classified as a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Place value system"
+        },
+        {
+          "id": "B",
+          "text": "Tally system"
+        },
+        {
+          "id": "C",
+          "text": "Object-based system"
+        },
+        {
+          "id": "D",
+          "text": "Fixed additive system"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "In a positional or place-value system, the absolute value contributed by a digit depends strictly on its spatial position relative to the decimal point or ones place."
+    },
+    {
+      "id": "11",
+      "question": "Hypothetically, if human anatomy featured only 8 fingers, our default counting system would likely be:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Base-2"
+        },
+        {
+          "id": "B",
+          "text": "Base-8"
+        },
+        {
+          "id": "C",
+          "text": "Base-10"
+        },
+        {
+          "id": "D",
+          "text": "Base-12"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Base-10 evolved because humans possess 10 fingers on two hands. If humans naturally had only 8 digits, our foundational arithmetic would logically center around base-8 (octal)."
+    },
+    {
+      "id": "12",
+      "question": "In the Gumulgal linguistic system, 1 is 'urapon' and 2 is 'ukasar'. How is the quantity 3 logically represented?",
+      "options": [
+        {
+          "id": "A",
+          "text": "ukasar-ukasar"
+        },
+        {
+          "id": "B",
+          "text": "urapon-urapon"
+        },
+        {
+          "id": "C",
+          "text": "ukasar-urapon"
+        },
+        {
+          "id": "D",
+          "text": "urapon-ukasar"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "In the binary additive Gumulgal system, 3 is formed by adding 2 + 1, expressed precisely as 'ukasar-urapon'."
+    },
+    {
+      "id": "13",
+      "question": "The ancient Chinese rod numeral system alternated between Zong (vertical) and Heng (horizontal) symbols primarily to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Enhance aesthetic appeal"
+        },
+        {
+          "id": "B",
+          "text": "Separate digits of different place values without a zero"
+        },
+        {
+          "id": "C",
+          "text": "Represent negative integers"
+        },
+        {
+          "id": "D",
+          "text": "Notate complex fractions"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Alternating between vertical (Zong) rods for units/hundreds and horizontal (Heng) rods for tens/thousands visually distinguished adjacent place values clearly before zero symbols existed."
+    },
+    {
+      "id": "14",
+      "question": "Which historical system utilized an advanced base-60 format, influencing modern timekeeping?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Egyptian"
+        },
+        {
+          "id": "B",
+          "text": "Mesopotamian"
+        },
+        {
+          "id": "C",
+          "text": "Mayan"
+        },
+        {
+          "id": "D",
+          "text": "Chinese"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The sexagesimal (base-60) system devised by the Sumerians and Babylonians in Mesopotamia directly inspired why our hour has 60 minutes and circle has 360 degrees."
+    },
+    {
+      "id": "15",
+      "question": "Using Roman numeral subtractive rules, how is the number 40 correctly written?",
+      "options": [
+        {
+          "id": "A",
+          "text": "XXXX"
+        },
+        {
+          "id": "B",
+          "text": "LX"
+        },
+        {
+          "id": "C",
+          "text": "XL"
+        },
+        {
+          "id": "D",
+          "text": "LC"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "In Roman numerals, placing X (10) directly before L (50) signifies subtraction: 50 - 10 = 40, written as XL."
+    },
+    {
+      "id": "16",
+      "question": "The Mayan numerical system utilized a third landmark number of 360 rather than 400. This anomaly is directly tied to their:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Polytheistic religion"
+        },
+        {
+          "id": "B",
+          "text": "Solar calendar system"
+        },
+        {
+          "id": "C",
+          "text": "Anatomical counting methods"
+        },
+        {
+          "id": "D",
+          "text": "Maritime trade routes"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "While base-20 logically progresses from 1 to 20 to 400 (20²), the Mayans modified the third tier to 18 × 20 = 360 to align precisely with their solar calendar year."
+    },
+    {
+      "id": "17",
+      "question": "Arithmetic multiplication is exceedingly difficult in Roman numerals compared to the Hindu system primarily because Roman numerals:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Contain too many phonetic symbols"
+        },
+        {
+          "id": "B",
+          "text": "Lack a positional place value architecture and zero"
+        },
+        {
+          "id": "C",
+          "text": "Are restricted to small quantities"
+        },
+        {
+          "id": "D",
+          "text": "Can only be subtracted"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Without positional place-value columns and zero placeholders, algorithms like column multiplication or division cannot be executed; Roman numerals required physical abacuses to compute."
+    },
+    {
+      "id": "18",
+      "question": "In a theoretical base-5 system, what are the only permissible digits?",
+      "options": [
+        {
+          "id": "A",
+          "text": "0, 1, 2, 3, 4, 5"
+        },
+        {
+          "id": "B",
+          "text": "1, 2, 3, 4, 5"
+        },
+        {
+          "id": "C",
+          "text": "0, 1, 2, 3, 4"
+        },
+        {
+          "id": "D",
+          "text": "1, 5, 10, 15"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Any base-n numeral system strictly utilizes n distinct symbols ranging from 0 up to n-1. For base-5, the only permissible digits are 0, 1, 2, 3, and 4."
+    },
+    {
+      "id": "19",
+      "question": "How is the integer 25 mathematically expanded within the base-10 positional system?",
+      "options": [
+        {
+          "id": "A",
+          "text": "2 × 10 + 5 × 1"
+        },
+        {
+          "id": "B",
+          "text": "2 × 100 + 5 × 10"
+        },
+        {
+          "id": "C",
+          "text": "2 + 5"
+        },
+        {
+          "id": "D",
+          "text": "20 × 5"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "In base-10, the digit 2 occupies the tens place and 5 occupies the ones place: (2 × 10¹) + (5 × 10⁰) = 20 + 5 = 25."
+    },
+    {
+      "id": "20",
+      "question": "The Egyptian base-10 system utilized pictorial symbols. If a lotus flower represented 1,000, how many lotuses are strictly required to notate 3,000?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "3"
+        },
+        {
+          "id": "C",
+          "text": "30"
+        },
+        {
+          "id": "D",
+          "text": "1000"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Since Egyptian hieroglyphic numerals were purely additive without place value, writing 3,000 required drawing the 1,000-symbol (lotus flower) exactly 3 times."
+    },
+    {
+      "id": "21",
+      "question": "To accurately transcribe the decimal number 25 into a base-5 system, which representation is mathematically sound?",
+      "options": [
+        {
+          "id": "A",
+          "text": "50"
+        },
+        {
+          "id": "B",
+          "text": "100"
+        },
+        {
+          "id": "C",
+          "text": "25"
+        },
+        {
+          "id": "D",
+          "text": "41"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "In base-5, the place values from right to left are 5⁰=1, 5¹=5, and 5²=25. Thus decimal 25 = (1 × 25) + (0 × 5) + (0 × 1), written as 100 in base-5."
+    },
+    {
+      "id": "22",
+      "question": "The Bakhshali manuscript (circa 3rd century CE) holds immense historical significance because it documents:",
+      "options": [
+        {
+          "id": "A",
+          "text": "The first use of Roman numerals in Asia"
+        },
+        {
+          "id": "B",
+          "text": "The first known use of 0 depicted as a dot in a decimal place value system"
+        },
+        {
+          "id": "C",
+          "text": "The translation of Mesopotamian base-60 fractions"
+        },
+        {
+          "id": "D",
+          "text": "The mechanical invention of the abacus"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Discovered in 1881 near Peshawar, the ancient birch-bark Bakhshali manuscript contains the earliest known written physical evidence of zero depicted as a solid circular dot (shunya-bindu) inside a decimal place-value system."
+    },
+    {
+      "id": "23",
+      "question": "Within a base-2 (binary) framework, how is the decimal integer 4 logically represented?",
+      "options": [
+        {
+          "id": "A",
+          "text": "10"
+        },
+        {
+          "id": "B",
+          "text": "11"
+        },
+        {
+          "id": "C",
+          "text": "100"
+        },
+        {
+          "id": "D",
+          "text": "101"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "In binary (base-2), the place values from right to left are 2⁰=1, 2¹=2, and 2²=4. Thus decimal 4 = (1 × 4) + (0 × 2) + (0 × 1), inscribed as 100."
+    },
+    {
+      "id": "24",
+      "question": "If the Hindu-Arabic numeral 41 was hastily scribed utilizing only Chinese 'Zong' symbols without spatial separation, what is the critical risk?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It could be erroneously read as 5 or 14"
+        },
+        {
+          "id": "B",
+          "text": "It would inherently mean 410"
+        },
+        {
+          "id": "C",
+          "text": "It would denote a negative integer"
+        },
+        {
+          "id": "D",
+          "text": "It would represent an irrational fraction"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "If 4 vertical rods (Zong) are placed adjacent to 1 vertical rod without spatial or orientation separation, all 5 rods blur together, making it impossible to tell whether it represents 5, 41, or 14."
+    },
+    {
+      "id": "25",
+      "question": "Evaluate the Roman expression XC - XL and select the precise Hindu-Arabic equivalent.",
+      "options": [
+        {
+          "id": "A",
+          "text": "130"
+        },
+        {
+          "id": "B",
+          "text": "50"
+        },
+        {
+          "id": "C",
+          "text": "10"
+        },
+        {
+          "id": "D",
+          "text": "40"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "In Roman numerals, XC = 100 - 10 = 90, and XL = 50 - 10 = 40. Subtracting: 90 - 40 = 50, which corresponds to Roman symbol L."
+    },
+    {
+      "id": "26",
+      "question": "Which functional feature is inherent to the Hindu number system but critically absent in the Egyptian hieroglyphic system?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A base-10 fundamental structure"
+        },
+        {
+          "id": "B",
+          "text": "Positional place value mechanics"
+        },
+        {
+          "id": "C",
+          "text": "A distinct symbol for the unit 1"
+        },
+        {
+          "id": "D",
+          "text": "The reliance on addition to deduce total value"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "While both systems group by tens (base-10), the Hindu system uses positional place value (where digit position determines multiplier), whereas Egyptian hieroglyphs repeat symbols additively regardless of order."
+    },
+    {
+      "id": "27",
+      "question": "In a hypothetical base-8 numeral system, what is the exact decimal (base-10) value of a number inscribed as \"31\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "25"
+        },
+        {
+          "id": "B",
+          "text": "31"
+        },
+        {
+          "id": "C",
+          "text": "24"
+        },
+        {
+          "id": "D",
+          "text": "11"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "In base-8, the place values are 8¹=8 and 8⁰=1. Evaluating \"31\" gives: (3 × 8) + (1 × 1) = 24 + 1 = 25 in base-10."
+    },
+    {
+      "id": "28",
+      "question": "The Mesopotamian system was remarkably sophisticated for antiquity because it:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Required only one symbol for all conceivable numbers"
+        },
+        {
+          "id": "B",
+          "text": "Employed a positional base-60 structure permitting compact notation"
+        },
+        {
+          "id": "C",
+          "text": "Was structurally identical to the later Hindu system"
+        },
+        {
+          "id": "D",
+          "text": "Actively rejected the concept of fractions"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The Babylonians achieved unprecedented mathematical breakthroughs by establishing the world's first positional place-value system based on 60, allowing concise notation of vast astronomical calculations and complex fractions."
+    },
+    {
+      "id": "29",
+      "question": "A number system establishes its landmark numbers as 1, n, n², n³. This algebraic progression unequivocally indicates the system is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Base-2"
+        },
+        {
+          "id": "B",
+          "text": "Base-n"
+        },
+        {
+          "id": "C",
+          "text": "A rudimentary tally system"
+        },
+        {
+          "id": "D",
+          "text": "Base-10"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "In any positional number system with base n, the sequential place values progressing from right to left are always ascending integer powers of the base: n⁰=1, n¹=n, n², n³, and so forth."
+    },
+    {
+      "id": "30",
+      "question": "The Sanskrit term \"khanda-gunanam,\" utilized by the mathematician Brahmagupta, translates to which operational technique?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Creation of magic squares"
+        },
+        {
+          "id": "B",
+          "text": "Multiplication by separated parts (distributivity)"
+        },
+        {
+          "id": "C",
+          "text": "Subtracting complex fractions"
+        },
+        {
+          "id": "D",
+          "text": "Factoring quadratic equations"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Brahmagupta defined 'khanda-gunanam' (breaking up the multiplier into parts) as the core geometric and algebraic justification for the distributive property: a(b+c) = ab + ac."
+    }
+  ]
+}

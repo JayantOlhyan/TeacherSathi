@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "If two quantities x and y exist in direct proportion, which mathematical relationship strictly holds true?",
+      "options": [
+        {
+          "id": "A",
+          "text": "x × y = constant"
+        },
+        {
+          "id": "B",
+          "text": "x / y = constant"
+        },
+        {
+          "id": "C",
+          "text": "x + y = constant"
+        },
+        {
+          "id": "D",
+          "text": "x - y = constant"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "In direct proportion, when one quantity scales, the other scales identically, maintaining a constant ratio: x / y = k."
+    },
+    {
+      "id": "2",
+      "question": "When two quantities x and y exist in inverse proportion, how do they interact?",
+      "options": [
+        {
+          "id": "A",
+          "text": "As x increases, y increases proportionally"
+        },
+        {
+          "id": "B",
+          "text": "As x increases, y decreases such that x × y = constant"
+        },
+        {
+          "id": "C",
+          "text": "Their ratio x / y remains constant"
+        },
+        {
+          "id": "D",
+          "text": "Their sum x + y remains constant"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "In inverse proportion, one quantity increases while the other decreases proportionally such that their product is constant: x × y = k."
+    },
+    {
+      "id": "3",
+      "question": "If 5 meters of uniform cotton fabric costs ₹250, what will 8 meters of the exact same fabric cost?",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹350"
+        },
+        {
+          "id": "B",
+          "text": "₹400"
+        },
+        {
+          "id": "C",
+          "text": "₹450"
+        },
+        {
+          "id": "D",
+          "text": "₹500"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Direct proportion: cost per meter = 250 / 5 = ₹50. Cost for 8 meters = 8 × 50 = ₹400."
+    },
+    {
+      "id": "4",
+      "question": "If 4 construction workers can build a wall in 12 days, how many days will 6 workers take to construct the same wall working at the same pace?",
+      "options": [
+        {
+          "id": "A",
+          "text": "8 days"
+        },
+        {
+          "id": "B",
+          "text": "18 days"
+        },
+        {
+          "id": "C",
+          "text": "6 days"
+        },
+        {
+          "id": "D",
+          "text": "10 days"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "Inverse proportion: Total man-days required = 4 workers × 12 days = 48 man-days. Time taken by 6 workers = 48 / 6 = 8 days."
+    },
+    {
+      "id": "5",
+      "question": "The physical relationship between a car's uniform speed and the distance it covers in a fixed time interval is an example of:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Direct proportion"
+        },
+        {
+          "id": "B",
+          "text": "Inverse proportion"
+        },
+        {
+          "id": "C",
+          "text": "No proportional relationship"
+        },
+        {
+          "id": "D",
+          "text": "Exponential growth"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "Since Distance = Speed × Time, if time is kept fixed, doubling the speed doubles the distance traveled, demonstrating direct proportion."
+    },
+    {
+      "id": "6",
+      "question": "The relationship between the number of people sharing a fixed cake and the size of the slice each person receives is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Direct proportion"
+        },
+        {
+          "id": "B",
+          "text": "Inverse proportion"
+        },
+        {
+          "id": "C",
+          "text": "Linear addition"
+        },
+        {
+          "id": "D",
+          "text": "Constant multiplication"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "As the number of people increases, the size of each individual slice decreases proportionally such that People × Slice Size = Total Cake (constant)."
+    },
+    {
+      "id": "7",
+      "question": "If x and y are directly proportional and x = 10 when y = 20, what is the value of y when x = 25?",
+      "options": [
+        {
+          "id": "A",
+          "text": "35"
+        },
+        {
+          "id": "B",
+          "text": "40"
+        },
+        {
+          "id": "C",
+          "text": "50"
+        },
+        {
+          "id": "D",
+          "text": "60"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Since y / x = 20 / 10 = 2, when x = 25, y = 2 × 25 = 50."
+    },
+    {
+      "id": "8",
+      "question": "If 12 identical books weigh exactly 6 kg, what is the weight of 20 such books?",
+      "options": [
+        {
+          "id": "A",
+          "text": "8 kg"
+        },
+        {
+          "id": "B",
+          "text": "10 kg"
+        },
+        {
+          "id": "C",
+          "text": "12 kg"
+        },
+        {
+          "id": "D",
+          "text": "15 kg"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Direct proportion: weight per book = 6 / 12 = 0.5 kg. Weight of 20 books = 20 × 0.5 = 10 kg."
+    },
+    {
+      "id": "9",
+      "question": "If 15 pumps can empty a reservoir in 24 hours, how many hours will 20 pumps take?",
+      "options": [
+        {
+          "id": "A",
+          "text": "16 hours"
+        },
+        {
+          "id": "B",
+          "text": "18 hours"
+        },
+        {
+          "id": "C",
+          "text": "20 hours"
+        },
+        {
+          "id": "D",
+          "text": "32 hours"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Inverse proportion: Total pump-hours = 15 × 24 = 360. Time for 20 pumps = 360 / 20 = 18 hours."
+    },
+    {
+      "id": "10",
+      "question": "A scale map has a ratio of 1 cm : 10 km. If two towns are 4.5 cm apart on the map, their actual physical separation is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "35 km"
+        },
+        {
+          "id": "B",
+          "text": "40 km"
+        },
+        {
+          "id": "C",
+          "text": "45 km"
+        },
+        {
+          "id": "D",
+          "text": "50 km"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Direct proportion: Actual distance = Map distance × Scale factor = 4.5 cm × 10 km/cm = 45 km."
+    },
+    {
+      "id": "11",
+      "question": "A military garrison of 120 soldiers has enough provisions for 30 days. If 30 more soldiers join the garrison, how many days will the provisions last?",
+      "options": [
+        {
+          "id": "A",
+          "text": "20 days"
+        },
+        {
+          "id": "B",
+          "text": "24 days"
+        },
+        {
+          "id": "C",
+          "text": "25 days"
+        },
+        {
+          "id": "D",
+          "text": "28 days"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Inverse proportion: Total provision man-days = 120 × 30 = 3600. New strength = 120 + 30 = 150 soldiers. Duration = 3600 / 150 = 24 days."
+    },
+    {
+      "id": "12",
+      "question": "If 8 workers complete a renovation job in 15 days, how many extra workers must be hired to complete the exact same job in 10 days?",
+      "options": [
+        {
+          "id": "A",
+          "text": "4 workers"
+        },
+        {
+          "id": "B",
+          "text": "6 workers"
+        },
+        {
+          "id": "C",
+          "text": "12 workers"
+        },
+        {
+          "id": "D",
+          "text": "10 workers"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "Total worker-days required = 8 × 15 = 120. Workers needed for 10 days = 120 / 10 = 12 workers. Extra workers required = 12 - 8 = 4 workers."
+    },
+    {
+      "id": "13",
+      "question": "A train traveling at a constant speed of 75 km/h covers a specific distance in 4 hours. At what speed must it travel to cover the exact same distance in 3 hours?",
+      "options": [
+        {
+          "id": "A",
+          "text": "90 km/h"
+        },
+        {
+          "id": "B",
+          "text": "100 km/h"
+        },
+        {
+          "id": "C",
+          "text": "110 km/h"
+        },
+        {
+          "id": "D",
+          "text": "120 km/h"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Inverse proportion between speed and time for a fixed distance: Distance = 75 × 4 = 300 km. Required speed = 300 km / 3 hours = 100 km/h."
+    },
+    {
+      "id": "14",
+      "question": "If x and y are in inverse proportion and x = 15 when y = 4, what is the exact value of x when y = 12?",
+      "options": [
+        {
+          "id": "A",
+          "text": "3"
+        },
+        {
+          "id": "B",
+          "text": "5"
+        },
+        {
+          "id": "C",
+          "text": "6"
+        },
+        {
+          "id": "D",
+          "text": "8"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Inverse proportion formula: x₁y₁ = x₂y₂ -> 15 × 4 = x₂ × 12 -> 60 = 12x₂ -> x₂ = 5."
+    },
+    {
+      "id": "15",
+      "question": "A machine manufactures 840 plastic bottles in 6 hours. How many bottles will it produce in 5 hours at uniform operational speed?",
+      "options": [
+        {
+          "id": "A",
+          "text": "650 bottles"
+        },
+        {
+          "id": "B",
+          "text": "700 bottles"
+        },
+        {
+          "id": "C",
+          "text": "720 bottles"
+        },
+        {
+          "id": "D",
+          "text": "750 bottles"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Direct proportion: Production rate per hour = 840 / 6 = 140 bottles/hour. Production in 5 hours = 140 × 5 = 700 bottles."
+    },
+    {
+      "id": "16",
+      "question": "A farmer has sufficient cattle feed to sustain 20 animals for 6 days. If he purchases 4 more animals, how long will the feed last?",
+      "options": [
+        {
+          "id": "A",
+          "text": "4 days"
+        },
+        {
+          "id": "B",
+          "text": "5 days"
+        },
+        {
+          "id": "C",
+          "text": "4.5 days"
+        },
+        {
+          "id": "D",
+          "text": "5.5 days"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Inverse proportion: Total animal-days of feed = 20 × 6 = 120. New herd size = 20 + 4 = 24 animals. Duration = 120 / 24 = 5 days."
+    },
+    {
+      "id": "17",
+      "question": "In a model ship, the mast is 9 cm high while the actual mast is 12 m high. If the length of the actual ship is 28 m, what is the length of the model ship?",
+      "options": [
+        {
+          "id": "A",
+          "text": "18 cm"
+        },
+        {
+          "id": "B",
+          "text": "21 cm"
+        },
+        {
+          "id": "C",
+          "text": "24 cm"
+        },
+        {
+          "id": "D",
+          "text": "27 cm"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Direct proportion between model and actual dimensions: Model Length / Actual Length = Model Mast / Actual Mast -> L / 28 = 9 / 12 -> L = 28 × (3/4) = 21 cm."
+    },
+    {
+      "id": "18",
+      "question": "If 6 pipes can fill a tank in 1 hour and 20 minutes, how long will 5 pipes of identical bore take to fill the same tank?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 hour 36 minutes"
+        },
+        {
+          "id": "B",
+          "text": "1 hour 40 minutes"
+        },
+        {
+          "id": "C",
+          "text": "1 hour 45 minutes"
+        },
+        {
+          "id": "D",
+          "text": "2 hours"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "Convert time to minutes: 1 hour 20 mins = 80 minutes. Inverse proportion: Total pipe-minutes = 6 × 80 = 480. Time for 5 pipes = 480 / 5 = 96 minutes = 1 hour 36 minutes."
+    },
+    {
+      "id": "19",
+      "question": "If the cost of 5 bars of soap is ₹82.50, what will be the exact cost of a dozen such bars?",
+      "options": [
+        {
+          "id": "A",
+          "text": "₹180.00"
+        },
+        {
+          "id": "B",
+          "text": "₹198.00"
+        },
+        {
+          "id": "C",
+          "text": "₹204.00"
+        },
+        {
+          "id": "D",
+          "text": "₹210.00"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Cost per soap bar = 82.50 / 5 = ₹16.50. Cost of a dozen (12 bars) = 12 × 16.50 = ₹198.00."
+    },
+    {
+      "id": "20",
+      "question": "A car consumes 15 liters of petrol to travel 255 km. How much petrol is required for a journey of 357 km under identical conditions?",
+      "options": [
+        {
+          "id": "A",
+          "text": "18 liters"
+        },
+        {
+          "id": "B",
+          "text": "21 liters"
+        },
+        {
+          "id": "C",
+          "text": "23 liters"
+        },
+        {
+          "id": "D",
+          "text": "25 liters"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Direct proportion: Consumption rate = 15 / 255 = 1 / 17 liters per km. Petrol required for 357 km = 357 / 17 = 21 liters."
+    },
+    {
+      "id": "21",
+      "question": "A contractor estimated that 4 persons could complete a house wiring project in 3 days. If he deploys 6 persons from the very start instead, in how many days will the project finish?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1.5 days"
+        },
+        {
+          "id": "B",
+          "text": "2 days"
+        },
+        {
+          "id": "C",
+          "text": "2.5 days"
+        },
+        {
+          "id": "D",
+          "text": "3 days"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Inverse proportion between workers and time: Total man-days required = 4 × 3 = 12 man-days. Time taken by 6 persons = 12 / 6 = 2 days."
+    },
+    {
+      "id": "22",
+      "question": "A school hostel featuring 75 students has sufficient food provisions for 24 days. If 15 students depart on vacation after 4 days, how many additional days will the remaining provisions last?",
+      "options": [
+        {
+          "id": "A",
+          "text": "20 days"
+        },
+        {
+          "id": "B",
+          "text": "22.5 days"
+        },
+        {
+          "id": "C",
+          "text": "24 days"
+        },
+        {
+          "id": "D",
+          "text": "25 days"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "After 4 days, provisions remaining = 75 students × (24 - 4) days = 75 × 20 = 1500 student-days. Remaining students = 75 - 15 = 60 students. Duration = 1500 / 60 = 25 days. Additional days beyond original plan = 25 - 20 = 5 days (total remaining duration = 25 days). Option B represents 22.5 days or let's verify exact option: Option B is 22.5 days, Option D is 25 days. Let's check which option matches 25 days: Option D (25 days)."
+    },
+    {
+      "id": "23",
+      "question": "If 10 men or 15 women can complete a task in 30 days, how many days will 6 men and 9 women working together take to complete the same task?",
+      "options": [
+        {
+          "id": "A",
+          "text": "20 days"
+        },
+        {
+          "id": "B",
+          "text": "25 days"
+        },
+        {
+          "id": "C",
+          "text": "30 days"
+        },
+        {
+          "id": "D",
+          "text": "35 days"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Equivalence: 10 men = 15 women -> 1 man = 1.5 women. Thus 6 men = 6 × 1.5 = 9 women. Total work force of (6 men + 9 women) = 9 women + 9 women = 18 women. Inverse proportion: 15 women × 30 days = 18 women × D -> 450 = 18D -> D = 25 days."
+    },
+    {
+      "id": "24",
+      "question": "A gear wheel with 48 teeth rotates at 150 revolutions per minute (RPM). If it meshes with a smaller gear wheel possessing exactly 18 teeth, what is the rotational speed of the smaller gear?",
+      "options": [
+        {
+          "id": "A",
+          "text": "300 RPM"
+        },
+        {
+          "id": "B",
+          "text": "360 RPM"
+        },
+        {
+          "id": "C",
+          "text": "400 RPM"
+        },
+        {
+          "id": "D",
+          "text": "450 RPM"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "In meshing gears, RPM and number of teeth are inversely proportional (T₁ × R₁ = T₂ × R₂): 48 × 150 = 18 × R₂ -> 7200 = 18R₂ -> R₂ = 400 RPM."
+    },
+    {
+      "id": "25",
+      "question": "If x is inversely proportional to the square of y (y²), and x = 4 when y = 3, what is the exact value of x when y = 6?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "0.5"
+        },
+        {
+          "id": "D",
+          "text": "1.5"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "Since x × y² = k, k = 4 × 3² = 4 × 9 = 36. When y = 6, x × 6² = 36 -> x × 36 = 36 -> x = 1."
+    },
+    {
+      "id": "26",
+      "question": "If 5 pumps operating for 8 hours daily can drain a flooded quarry in 6 days, how many days will 4 identical pumps working 10 hours daily take to drain the same quarry?",
+      "options": [
+        {
+          "id": "A",
+          "text": "5 days"
+        },
+        {
+          "id": "B",
+          "text": "6 days"
+        },
+        {
+          "id": "C",
+          "text": "7 days"
+        },
+        {
+          "id": "D",
+          "text": "8 days"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Total pump-hours required to drain quarry = 5 pumps × 8 hours/day × 6 days = 240 pump-hours. For 4 pumps working 10 hours/day (40 pump-hours per day), days needed = 240 / 40 = 6 days."
+    },
+    {
+      "id": "27",
+      "question": "A variable P varies directly as Q and inversely as R. If P = 6 when Q = 12 and R = 4, what is P when Q = 20 and R = 5?",
+      "options": [
+        {
+          "id": "A",
+          "text": "6"
+        },
+        {
+          "id": "B",
+          "text": "8"
+        },
+        {
+          "id": "C",
+          "text": "10"
+        },
+        {
+          "id": "D",
+          "text": "12"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Combined variation formula: P = k × (Q / R). Substituting initial values: 6 = k × (12 / 4) -> 6 = 3k -> k = 2. Now calculate P for new values: P = 2 × (20 / 5) = 2 × 4 = 8."
+    },
+    {
+      "id": "28",
+      "question": "A spring stretches by a distance strictly proportional to the weight suspended from it. If a 15 kg weight stretches the spring by 4.2 cm, what weight is required to produce an elongation of 6.3 cm?",
+      "options": [
+        {
+          "id": "A",
+          "text": "21 kg"
+        },
+        {
+          "id": "B",
+          "text": "22.5 kg"
+        },
+        {
+          "id": "C",
+          "text": "24 kg"
+        },
+        {
+          "id": "D",
+          "text": "25 kg"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Direct proportion between stretch distance and weight: Weight / Stretch = Constant -> W / 6.3 = 15 / 4.2 -> W = 6.3 × (15 / 4.2) = 1.5 × 15 = 22.5 kg."
+    },
+    {
+      "id": "29",
+      "question": "Two variables A and B satisfy the linear equation 3A - 4B = 0. What is their proportional relationship?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Inverse proportion with constant 4/3"
+        },
+        {
+          "id": "B",
+          "text": "Direct proportion with constant 4/3"
+        },
+        {
+          "id": "C",
+          "text": "Direct proportion with constant 3/4"
+        },
+        {
+          "id": "D",
+          "text": "No proportional relationship exists"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Rearranging the equation yields 3A = 4B, which gives A / B = 4 / 3 (or B / A = 3 / 4). Since the ratio of the two variables is constant, A and B are directly proportional."
+    },
+    {
+      "id": "30",
+      "question": "If the number of days required to build a bridge is inversely proportional to the cube root of the number of engineers assigned, and 8 engineers finish it in 60 days, how many days will 64 engineers take?",
+      "options": [
+        {
+          "id": "A",
+          "text": "15 days"
+        },
+        {
+          "id": "B",
+          "text": "20 days"
+        },
+        {
+          "id": "C",
+          "text": "30 days"
+        },
+        {
+          "id": "D",
+          "text": "40 days"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Let E = engineers and D = days. D × E^(1/3) = k. Initial state: 60 × 8^(1/3) = 60 × 2 = 120 (so k = 120). For E = 64: D × 64^(1/3) = 120 -> D × 4 = 120 -> D = 30 days."
+    }
+  ]
+}

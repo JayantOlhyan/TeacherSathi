@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "How is the expression 3 × 3 × 3 × 3 written in exponential form?",
+      "options": [
+        {
+          "id": "A",
+          "text": "3 × 4"
+        },
+        {
+          "id": "B",
+          "text": "4³"
+        },
+        {
+          "id": "C",
+          "text": "3⁴"
+        },
+        {
+          "id": "D",
+          "text": "12¹"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Multiplying the base number 3 by itself 4 times is written as 3 raised to the power 4, or 3⁴."
+    },
+    {
+      "id": "2",
+      "question": "In the expression 7⁵, the number 7 is called the:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Exponent"
+        },
+        {
+          "id": "B",
+          "text": "Power"
+        },
+        {
+          "id": "C",
+          "text": "Base"
+        },
+        {
+          "id": "D",
+          "text": "Index"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "In any exponential expression aⁿ, 'a' is the base and 'n' is the exponent or index."
+    },
+    {
+      "id": "3",
+      "question": "What is the standard value of 10³?",
+      "options": [
+        {
+          "id": "A",
+          "text": "30"
+        },
+        {
+          "id": "B",
+          "text": "100"
+        },
+        {
+          "id": "C",
+          "text": "1000"
+        },
+        {
+          "id": "D",
+          "text": "10000"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "10³ = 10 × 10 × 10 = 1000."
+    },
+    {
+      "id": "4",
+      "question": "If a sheet of paper is 0.001 cm thick, its thickness after exactly one fold is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.001 cm"
+        },
+        {
+          "id": "B",
+          "text": "0.002 cm"
+        },
+        {
+          "id": "C",
+          "text": "0.010 cm"
+        },
+        {
+          "id": "D",
+          "text": "0.004 cm"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Each fold doubles the thickness of the paper: 0.001 cm × 2 = 0.002 cm."
+    },
+    {
+      "id": "5",
+      "question": "The mathematical expression y³ is commonly read as:",
+      "options": [
+        {
+          "id": "A",
+          "text": "y squared"
+        },
+        {
+          "id": "B",
+          "text": "y cubed"
+        },
+        {
+          "id": "C",
+          "text": "y to the third"
+        },
+        {
+          "id": "D",
+          "text": "Both B and C"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "D",
+      "explanation": "Raising a variable or number to the power 3 is commonly spoken as either 'y cubed' or 'y to the third power'."
+    },
+    {
+      "id": "6",
+      "question": "Any non-zero number raised to the power of 0 evaluates to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "Itself"
+        },
+        {
+          "id": "D",
+          "text": "Negative 1"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "By the zero-exponent rule of algebra, any non-zero number x⁰ = 1."
+    },
+    {
+      "id": "7",
+      "question": "Multiplying 2³ × 2⁴ results in:",
+      "options": [
+        {
+          "id": "A",
+          "text": "2⁷"
+        },
+        {
+          "id": "B",
+          "text": "2¹²"
+        },
+        {
+          "id": "C",
+          "text": "4⁷"
+        },
+        {
+          "id": "D",
+          "text": "4¹²"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "By the product rule of exponents (aᵐ × aⁿ = aᵐ⁺ⁿ), 2³ × 2⁴ = 2³⁺⁴ = 2⁷."
+    },
+    {
+      "id": "8",
+      "question": "Dividing 6⁵ ÷ 6² results in:",
+      "options": [
+        {
+          "id": "A",
+          "text": "6³"
+        },
+        {
+          "id": "B",
+          "text": "1³"
+        },
+        {
+          "id": "C",
+          "text": "6⁷"
+        },
+        {
+          "id": "D",
+          "text": "36³"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "By the quotient rule of exponents (aᵐ ÷ aⁿ = aᵐ⁻ⁿ), 6⁵ ÷ 6² = 6⁵⁻² = 6³."
+    },
+    {
+      "id": "9",
+      "question": "How is 100,000 written as a power of 10?",
+      "options": [
+        {
+          "id": "A",
+          "text": "10³"
+        },
+        {
+          "id": "B",
+          "text": "10⁴"
+        },
+        {
+          "id": "C",
+          "text": "10⁵"
+        },
+        {
+          "id": "D",
+          "text": "10⁶"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "100,000 has 5 trailing zeros after the digit 1, which equals 10 × 10 × 10 × 10 × 10 = 10⁵."
+    },
+    {
+      "id": "10",
+      "question": "The value of 4² is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "8"
+        },
+        {
+          "id": "B",
+          "text": "16"
+        },
+        {
+          "id": "C",
+          "text": "24"
+        },
+        {
+          "id": "D",
+          "text": "64"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "4² = 4 × 4 = 16."
+    },
+    {
+      "id": "11",
+      "question": "If paper thickness doubles with each fold, how many times thicker is it after 4 folds compared to its original state?",
+      "options": [
+        {
+          "id": "A",
+          "text": "4"
+        },
+        {
+          "id": "B",
+          "text": "8"
+        },
+        {
+          "id": "C",
+          "text": "16"
+        },
+        {
+          "id": "D",
+          "text": "32"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Each fold multiplies thickness by 2. After 4 folds, the scaling factor is 2⁴ = 16 times original thickness."
+    },
+    {
+      "id": "12",
+      "question": "Express the algebraic law xᵃ × xᵇ as a single power:",
+      "options": [
+        {
+          "id": "A",
+          "text": "xᵃ × ᵇ"
+        },
+        {
+          "id": "B",
+          "text": "xᵃ⁺ᵇ"
+        },
+        {
+          "id": "C",
+          "text": "xᵃ⁻ᵇ"
+        },
+        {
+          "id": "D",
+          "text": "xᵃ/ᵇ"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "When multiplying powers with the same base, add their exponents: xᵃ × xᵇ = xᵃ⁺ᵇ."
+    },
+    {
+      "id": "13",
+      "question": "Calculate the exact value of 3⁴ ÷ 3².",
+      "options": [
+        {
+          "id": "A",
+          "text": "3"
+        },
+        {
+          "id": "B",
+          "text": "6"
+        },
+        {
+          "id": "C",
+          "text": "9"
+        },
+        {
+          "id": "D",
+          "text": "27"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "3⁴ ÷ 3² = 3⁴⁻² = 3² = 9."
+    },
+    {
+      "id": "14",
+      "question": "Which numerical value is strictly greater: 2⁴ or 4²?",
+      "options": [
+        {
+          "id": "A",
+          "text": "2⁴"
+        },
+        {
+          "id": "B",
+          "text": "4²"
+        },
+        {
+          "id": "C",
+          "text": "They are exactly equal"
+        },
+        {
+          "id": "D",
+          "text": "Cannot be compared"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Evaluating both: 2⁴ = 2 × 2 × 2 × 2 = 16, and 4² = 4 × 4 = 16. Thus, they are exactly equal."
+    },
+    {
+      "id": "15",
+      "question": "Write the number 64 as a power of 2.",
+      "options": [
+        {
+          "id": "A",
+          "text": "2⁴"
+        },
+        {
+          "id": "B",
+          "text": "2⁵"
+        },
+        {
+          "id": "C",
+          "text": "2⁶"
+        },
+        {
+          "id": "D",
+          "text": "2⁷"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Repeated multiplication by 2 yields: 2¹=2, 2²=4, 2³=8, 2⁴=16, 2⁵=32, 2⁶=64."
+    },
+    {
+      "id": "16",
+      "question": "The simplification of (3²)³ results in:",
+      "options": [
+        {
+          "id": "A",
+          "text": "3⁵"
+        },
+        {
+          "id": "B",
+          "text": "3⁶"
+        },
+        {
+          "id": "C",
+          "text": "9³"
+        },
+        {
+          "id": "D",
+          "text": "Both B and C are mathematically equivalent"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "D",
+      "explanation": "By the power of a power rule (aᵐ)ⁿ = aᵐⁿ, (3²)³ = 3⁶. Since 3² = 9, it also equals 9³. Thus both B (3⁶ = 729) and C (9³ = 729) are mathematically equivalent."
+    },
+    {
+      "id": "17",
+      "question": "A negative exponent, such as y⁻², is mathematically equivalent to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "-y²"
+        },
+        {
+          "id": "B",
+          "text": "1 / y²"
+        },
+        {
+          "id": "C",
+          "text": "y / 2"
+        },
+        {
+          "id": "D",
+          "text": "2 / y"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "By definition of negative exponents, any term with a negative exponent equals its reciprocal with a positive exponent: a⁻ⁿ = 1 / aⁿ."
+    },
+    {
+      "id": "18",
+      "question": "Simplify the division: 10⁶ ÷ 10³.",
+      "options": [
+        {
+          "id": "A",
+          "text": "100"
+        },
+        {
+          "id": "B",
+          "text": "1000"
+        },
+        {
+          "id": "C",
+          "text": "10000"
+        },
+        {
+          "id": "D",
+          "text": "100000"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "10⁶ ÷ 10³ = 10⁶⁻³ = 10³ = 1000."
+    },
+    {
+      "id": "19",
+      "question": "A paper folded 10 times increases its initial thickness by a specific multiplier. What is it?",
+      "options": [
+        {
+          "id": "A",
+          "text": "100"
+        },
+        {
+          "id": "B",
+          "text": "512"
+        },
+        {
+          "id": "C",
+          "text": "1024"
+        },
+        {
+          "id": "D",
+          "text": "2048"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The multiplier after 10 geometric doubling steps is 2¹⁰ = 1,024."
+    },
+    {
+      "id": "20",
+      "question": "In scientific notation, how is the number 45000 accurately written?",
+      "options": [
+        {
+          "id": "A",
+          "text": "45 × 10³"
+        },
+        {
+          "id": "B",
+          "text": "4.5 × 10⁴"
+        },
+        {
+          "id": "C",
+          "text": "0.45 × 10⁵"
+        },
+        {
+          "id": "D",
+          "text": "4.5 × 10³"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Scientific notation requires a number between 1 and 10 multiplied by a power of 10. Moving the decimal point 4 places left gives 4.5 × 10⁴."
+    },
+    {
+      "id": "21",
+      "question": "Evaluate the expression 3⁷ efficiently, given that 3⁴ = 81 and 3³ = 27.",
+      "options": [
+        {
+          "id": "A",
+          "text": "108"
+        },
+        {
+          "id": "B",
+          "text": "2187"
+        },
+        {
+          "id": "C",
+          "text": "6561"
+        },
+        {
+          "id": "D",
+          "text": "19683"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "By the product rule, 3⁷ = 3⁴ × 3³ = 81 × 27 = 2187."
+    },
+    {
+      "id": "22",
+      "question": "Simplify the compound expression: (2⁶ × 5³) / (2³ × 5²).",
+      "options": [
+        {
+          "id": "A",
+          "text": "2³ × 5¹"
+        },
+        {
+          "id": "B",
+          "text": "2² × 5²"
+        },
+        {
+          "id": "C",
+          "text": "10²"
+        },
+        {
+          "id": "D",
+          "text": "2⁹ × 5⁵"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "Subtracting exponents of common bases: for base 2, 6 - 3 = 3 (so 2³); for base 5, 3 - 2 = 1 (so 5¹). Thus, 2³ × 5¹ = 8 × 5 = 40."
+    },
+    {
+      "id": "23",
+      "question": "Determine the integer value of x if 2ˣ = 256.",
+      "options": [
+        {
+          "id": "A",
+          "text": "6"
+        },
+        {
+          "id": "B",
+          "text": "7"
+        },
+        {
+          "id": "C",
+          "text": "8"
+        },
+        {
+          "id": "D",
+          "text": "9"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Since 2⁷ = 128 and 2⁸ = 256, equating bases gives x = 8."
+    },
+    {
+      "id": "24",
+      "question": "If paper thickness post 15 folds measures 32.768 cm, what was its precise thickness after 14 folds?",
+      "options": [
+        {
+          "id": "A",
+          "text": "16.384 cm"
+        },
+        {
+          "id": "B",
+          "text": "65.536 cm"
+        },
+        {
+          "id": "C",
+          "text": "8.192 cm"
+        },
+        {
+          "id": "D",
+          "text": "24.576 cm"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "Since each fold doubles the thickness, the thickness after 14 folds is exactly half of the thickness after 15 folds: 32.768 / 2 = 16.384 cm."
+    },
+    {
+      "id": "25",
+      "question": "Express the microscopic measurement 0.0000078 in standard scientific notation.",
+      "options": [
+        {
+          "id": "A",
+          "text": "78 × 10⁻⁷"
+        },
+        {
+          "id": "B",
+          "text": "7.8 × 10⁻⁶"
+        },
+        {
+          "id": "C",
+          "text": "7.8 × 10⁻⁵"
+        },
+        {
+          "id": "D",
+          "text": "0.78 × 10⁻⁵"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "To convert a decimal smaller than 1 into scientific notation, shift the decimal point right until only one non-zero digit precedes it: moving 6 places right gives 7.8 × 10⁻⁶."
+    },
+    {
+      "id": "26",
+      "question": "Solve the algebraic equation for k: 7³ × 7ᵏ = 7¹⁰.",
+      "options": [
+        {
+          "id": "A",
+          "text": "3"
+        },
+        {
+          "id": "B",
+          "text": "7"
+        },
+        {
+          "id": "C",
+          "text": "13"
+        },
+        {
+          "id": "D",
+          "text": "30"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "By the product rule, 7³⁺ᵏ = 7¹⁰. Equating exponents gives 3 + k = 10, so k = 7."
+    },
+    {
+      "id": "27",
+      "question": "Identify the equivalent expression for (x³ × y⁴)².",
+      "options": [
+        {
+          "id": "A",
+          "text": "x⁵ × y⁶"
+        },
+        {
+          "id": "B",
+          "text": "x⁶ × y⁸"
+        },
+        {
+          "id": "C",
+          "text": "x⁹ × y¹⁶"
+        },
+        {
+          "id": "D",
+          "text": "x³ × y⁸"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Applying the power of a product rule (ab)ⁿ = aⁿbⁿ and power of a power rule: (x³)² × (y⁴)² = x³ × ² × y⁴ × ² = x⁶ × y⁸."
+    },
+    {
+      "id": "28",
+      "question": "Erasing half of a 16-unit line three successive times is algebraically modeled as:",
+      "options": [
+        {
+          "id": "A",
+          "text": "16 ÷ 3"
+        },
+        {
+          "id": "B",
+          "text": "2⁴ ÷ 2³"
+        },
+        {
+          "id": "C",
+          "text": "16 × 0.5"
+        },
+        {
+          "id": "D",
+          "text": "4² ÷ 3"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Since 16 = 2⁴, halving three times means dividing by 2³ (or multiplying by 0.5³). Thus algebraically it is 2⁴ ÷ 2³ = 2¹ = 2 units."
+    },
+    {
+      "id": "29",
+      "question": "Simplify the expression (5⁻³ × 5⁶) ÷ 5².",
+      "options": [
+        {
+          "id": "A",
+          "text": "5¹"
+        },
+        {
+          "id": "B",
+          "text": "5²"
+        },
+        {
+          "id": "C",
+          "text": "5⁵"
+        },
+        {
+          "id": "D",
+          "text": "5¹¹"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "First inside parentheses: 5⁻³ × 5⁶ = 5⁻³⁺⁶ = 5³. Then dividing by 5² gives 5³ ÷ 5² = 5³⁻² = 5¹."
+    },
+    {
+      "id": "30",
+      "question": "If the immense calculation 2¹⁰⁰ ÷ 2²⁵ is consolidated as 2ˣ, what is x?",
+      "options": [
+        {
+          "id": "A",
+          "text": "4"
+        },
+        {
+          "id": "B",
+          "text": "25"
+        },
+        {
+          "id": "C",
+          "text": "75"
+        },
+        {
+          "id": "D",
+          "text": "125"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "By the quotient rule, 2¹⁰⁰ ÷ 2²⁵ = 2¹⁰⁰⁻²⁵ = 2⁷⁵. Equating exponents gives x = 75."
+    }
+  ]
+}

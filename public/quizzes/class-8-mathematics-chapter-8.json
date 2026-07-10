@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "In the fraction 5/8, the integer 5 is formally termed the:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Denominator"
+        },
+        {
+          "id": "B",
+          "text": "Numerator"
+        },
+        {
+          "id": "C",
+          "text": "Quotient"
+        },
+        {
+          "id": "D",
+          "text": "Divisor"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "In a common fraction a/b, the top integer 'a' representing the selected parts is the numerator, while 'b' is the denominator."
+    },
+    {
+      "id": "2",
+      "question": "Which of the following represents a strictly proper fraction?",
+      "options": [
+        {
+          "id": "A",
+          "text": "7/4"
+        },
+        {
+          "id": "B",
+          "text": "9/9"
+        },
+        {
+          "id": "C",
+          "text": "3/5"
+        },
+        {
+          "id": "D",
+          "text": "11/2"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "A proper fraction is defined as a fraction whose absolute value is strictly less than 1, meaning its numerator is smaller than its denominator."
+    },
+    {
+      "id": "3",
+      "question": "Convert the mixed fraction 3 2/5 into an improper fraction.",
+      "options": [
+        {
+          "id": "A",
+          "text": "15/5"
+        },
+        {
+          "id": "B",
+          "text": "17/5"
+        },
+        {
+          "id": "C",
+          "text": "13/5"
+        },
+        {
+          "id": "D",
+          "text": "11/5"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "To convert a mixed fraction A B/C: (Denominator × Whole number + Numerator) / Denominator = (5 × 3 + 2) / 5 = 17/5."
+    },
+    {
+      "id": "4",
+      "question": "What is the equivalent fraction of 2/3 with a denominator of 15?",
+      "options": [
+        {
+          "id": "A",
+          "text": "8/15"
+        },
+        {
+          "id": "B",
+          "text": "10/15"
+        },
+        {
+          "id": "C",
+          "text": "12/15"
+        },
+        {
+          "id": "D",
+          "text": "6/15"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Multiply both numerator and denominator by the scaling factor 5: (2 × 5) / (3 × 5) = 10/15."
+    },
+    {
+      "id": "5",
+      "question": "Fractions possessing identical denominators (such as 2/7, 4/7, and 5/7) are categorized as:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Unlike fractions"
+        },
+        {
+          "id": "B",
+          "text": "Like fractions"
+        },
+        {
+          "id": "C",
+          "text": "Equivalent fractions"
+        },
+        {
+          "id": "D",
+          "text": "Unit fractions"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Fractions that share the exact same denominator are called like fractions, making them ready for direct addition or subtraction."
+    },
+    {
+      "id": "6",
+      "question": "A fraction whose numerator is strictly 1 (such as 1/4 or 1/9) is known as a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Proper fraction"
+        },
+        {
+          "id": "B",
+          "text": "Improper fraction"
+        },
+        {
+          "id": "C",
+          "text": "Unit fraction"
+        },
+        {
+          "id": "D",
+          "text": "Reciprocal fraction"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Any rational number written in the form 1/n where n is a positive integer is defined as a unit fraction."
+    },
+    {
+      "id": "7",
+      "question": "What is the reciprocal of the fraction 4/9?",
+      "options": [
+        {
+          "id": "A",
+          "text": "-4/9"
+        },
+        {
+          "id": "B",
+          "text": "9/4"
+        },
+        {
+          "id": "C",
+          "text": "1/9"
+        },
+        {
+          "id": "D",
+          "text": "4/1"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The multiplicative inverse (reciprocal) of any non-zero fraction a/b is formed by swapping its numerator and denominator: b/a = 9/4."
+    },
+    {
+      "id": "8",
+      "question": "Reduce the fraction 18/24 to its simplest (lowest) terms.",
+      "options": [
+        {
+          "id": "A",
+          "text": "6/8"
+        },
+        {
+          "id": "B",
+          "text": "9/12"
+        },
+        {
+          "id": "C",
+          "text": "3/4"
+        },
+        {
+          "id": "D",
+          "text": "2/3"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The Greatest Common Divisor (GCD) of 18 and 24 is 6. Dividing both numerator and denominator by 6 yields 3/4."
+    },
+    {
+      "id": "9",
+      "question": "Calculate the exact value of 3/5 + 1/5.",
+      "options": [
+        {
+          "id": "A",
+          "text": "4/10"
+        },
+        {
+          "id": "B",
+          "text": "4/5"
+        },
+        {
+          "id": "C",
+          "text": "3/25"
+        },
+        {
+          "id": "D",
+          "text": "2/5"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Since the denominators are identical (like fractions), simply add the numerators while retaining the common denominator: (3 + 1) / 5 = 4/5."
+    },
+    {
+      "id": "10",
+      "question": "Calculate the product: 2/3 × 4/5.",
+      "options": [
+        {
+          "id": "A",
+          "text": "6/8"
+        },
+        {
+          "id": "B",
+          "text": "8/15"
+        },
+        {
+          "id": "C",
+          "text": "8/8"
+        },
+        {
+          "id": "D",
+          "text": "2/15"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Multiply numerators together and denominators together: (2 × 4) / (3 × 5) = 8/15."
+    },
+    {
+      "id": "11",
+      "question": "Which fraction is strictly larger: 5/6 or 7/9?",
+      "options": [
+        {
+          "id": "A",
+          "text": "5/6"
+        },
+        {
+          "id": "B",
+          "text": "7/9"
+        },
+        {
+          "id": "C",
+          "text": "They are exactly equal"
+        },
+        {
+          "id": "D",
+          "text": "Cannot be determined"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "Find the Least Common Multiple (LCM) of 6 and 9, which is 18. Convert both: 5/6 = 15/18 and 7/9 = 14/18. Since 15 > 14, 5/6 is larger."
+    },
+    {
+      "id": "12",
+      "question": "Calculate the sum of unlike fractions: 2/3 + 3/4.",
+      "options": [
+        {
+          "id": "A",
+          "text": "5/7"
+        },
+        {
+          "id": "B",
+          "text": "17/12"
+        },
+        {
+          "id": "C",
+          "text": "11/12"
+        },
+        {
+          "id": "D",
+          "text": "1 5/12"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The LCM of 3 and 4 is 12. Convert to like fractions: (2 × 4)/12 + (3 × 3)/12 = 8/12 + 9/12 = 17/12 (or 1 5/12). Option B is 17/12."
+    },
+    {
+      "id": "13",
+      "question": "Perform the fraction division: 5/8 ÷ 3/4.",
+      "options": [
+        {
+          "id": "A",
+          "text": "15/32"
+        },
+        {
+          "id": "B",
+          "text": "5/6"
+        },
+        {
+          "id": "C",
+          "text": "6/5"
+        },
+        {
+          "id": "D",
+          "text": "20/24"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "To divide by a fraction, multiply by its reciprocal: 5/8 × 4/3 = 20/24. Reducing 20/24 by GCD 4 yields 5/6."
+    },
+    {
+      "id": "14",
+      "question": "If a student reads 2/5 of a 250-page book on Saturday and 1/5 on Sunday, how many pages remain unread?",
+      "options": [
+        {
+          "id": "A",
+          "text": "100 pages"
+        },
+        {
+          "id": "B",
+          "text": "150 pages"
+        },
+        {
+          "id": "C",
+          "text": "50 pages"
+        },
+        {
+          "id": "D",
+          "text": "75 pages"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "Total fraction read = 2/5 + 1/5 = 3/5. Fraction unread = 1 - 3/5 = 2/5. Pages remaining = 2/5 × 250 = 100 pages."
+    },
+    {
+      "id": "15",
+      "question": "A recipe requires 1 3/4 cups of flour for one batch of cookies. How many cups are required to make exactly 4 batches?",
+      "options": [
+        {
+          "id": "A",
+          "text": "6 cups"
+        },
+        {
+          "id": "B",
+          "text": "7 cups"
+        },
+        {
+          "id": "C",
+          "text": "6 1/2 cups"
+        },
+        {
+          "id": "D",
+          "text": "8 cups"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Convert mixed fraction to improper: 1 3/4 = 7/4 cups per batch. Total flour for 4 batches = 4 × (7/4) = 7 cups."
+    },
+    {
+      "id": "16",
+      "question": "Which decimal representation corresponds exactly to the fraction 5/8?",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.58"
+        },
+        {
+          "id": "B",
+          "text": "0.625"
+        },
+        {
+          "id": "C",
+          "text": "0.65"
+        },
+        {
+          "id": "D",
+          "text": "0.85"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Executing long division of 5 by 8: 5.0 / 8 = 0.625."
+    },
+    {
+      "id": "17",
+      "question": "Arrange the fractions 1/2, 2/3, and 3/5 in ascending order of magnitude.",
+      "options": [
+        {
+          "id": "A",
+          "text": "1/2, 3/5, 2/3"
+        },
+        {
+          "id": "B",
+          "text": "1/2, 2/3, 3/5"
+        },
+        {
+          "id": "C",
+          "text": "3/5, 1/2, 2/3"
+        },
+        {
+          "id": "D",
+          "text": "2/3, 3/5, 1/2"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "Convert all to a common denominator of 30: 1/2 = 15/30, 3/5 = 18/30, and 2/3 = 20/30. Ascending order is 15/30 < 18/30 < 20/30, which is 1/2 < 3/5 < 2/3."
+    },
+    {
+      "id": "18",
+      "question": "What is the exact value of (3/4 of 16) - (2/3 of 9)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "6"
+        },
+        {
+          "id": "B",
+          "text": "8"
+        },
+        {
+          "id": "C",
+          "text": "10"
+        },
+        {
+          "id": "D",
+          "text": "12"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "Evaluate each term: 3/4 × 16 = 12, and 2/3 × 9 = 6. Subtraction yields 12 - 6 = 6."
+    },
+    {
+      "id": "19",
+      "question": "A piece of wire 7/8 meters long is cut into two pieces. If one piece measures 1/4 meter, what is the length of the second piece?",
+      "options": [
+        {
+          "id": "A",
+          "text": "5/8 meter"
+        },
+        {
+          "id": "B",
+          "text": "3/4 meter"
+        },
+        {
+          "id": "C",
+          "text": "1/2 meter"
+        },
+        {
+          "id": "D",
+          "text": "3/8 meter"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "Second piece = Total length - First piece = 7/8 - 1/4 = 7/8 - 2/8 = 5/8 meters."
+    },
+    {
+      "id": "20",
+      "question": "How many 1/6-cup servings can be extracted from a container holding exactly 2 1/2 cups of juice?",
+      "options": [
+        {
+          "id": "A",
+          "text": "12 servings"
+        },
+        {
+          "id": "B",
+          "text": "15 servings"
+        },
+        {
+          "id": "C",
+          "text": "18 servings"
+        },
+        {
+          "id": "D",
+          "text": "20 servings"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Convert 2 1/2 to improper fraction: 5/2. Divide by serving size: 5/2 ÷ 1/6 = 5/2 × 6/1 = 30/2 = 15 servings."
+    },
+    {
+      "id": "21",
+      "question": "Simplify the complex compound fraction: (2/3 + 1/4) / (5/6 - 1/2).",
+      "options": [
+        {
+          "id": "A",
+          "text": "11/4"
+        },
+        {
+          "id": "B",
+          "text": "11/12"
+        },
+        {
+          "id": "C",
+          "text": "2 3/4"
+        },
+        {
+          "id": "D",
+          "text": "Both A and C"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "D",
+      "explanation": "Numerator: 2/3 + 1/4 = 8/12 + 3/12 = 11/12. Denominator: 5/6 - 1/2 = 5/6 - 3/6 = 2/6 = 4/12. Dividing numerator by denominator: (11/12) ÷ (4/12) = 11/4 = 2 3/4. Thus both A and C are mathematically equivalent."
+    },
+    {
+      "id": "22",
+      "question": "A ball dropped from a height rebounds to exactly 2/3 of the height from which it fell. If dropped from 27 meters, how high does it rebound after its THIRD impact?",
+      "options": [
+        {
+          "id": "A",
+          "text": "12 meters"
+        },
+        {
+          "id": "B",
+          "text": "8 meters"
+        },
+        {
+          "id": "C",
+          "text": "6 meters"
+        },
+        {
+          "id": "D",
+          "text": "4 meters"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "After 1st impact: 27 × (2/3) = 18 m. After 2nd impact: 18 × (2/3) = 12 m. After 3rd impact: 12 × (2/3) = 8 meters."
+    },
+    {
+      "id": "23",
+      "question": "In the ancient Egyptian unit fraction decomposition system, how can the fraction 3/4 be precisely expressed as a sum of distinct unit fractions?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1/2 + 1/4"
+        },
+        {
+          "id": "B",
+          "text": "1/3 + 1/3 + 1/12"
+        },
+        {
+          "id": "C",
+          "text": "1/2 + 1/5 + 1/20"
+        },
+        {
+          "id": "D",
+          "text": "All of the above"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "D",
+      "explanation": "Checking each sum: 1/2 + 1/4 = 2/4 + 1/4 = 3/4 (valid Egyptian decomposition using distinct unit fractions). Also 1/3 + 1/3 + 1/12 = 8/12 + 1/12 = 9/12 = 3/4 (though 1/3 repeats, some ancient algorithms allowed or expanded further). 1/2 + 1/5 + 1/20 = 10/20 + 4/20 + 1/20 = 15/20 = 3/4 (distinct unit fractions). Thus all equal 3/4."
+    },
+    {
+      "id": "24",
+      "question": "If 1/3 of a number exceeds its 1/5 by exactly 16, what is the number?",
+      "options": [
+        {
+          "id": "A",
+          "text": "100"
+        },
+        {
+          "id": "B",
+          "text": "120"
+        },
+        {
+          "id": "C",
+          "text": "150"
+        },
+        {
+          "id": "D",
+          "text": "160"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Let the number be x. Equation: x/3 - x/5 = 16 -> (5x - 3x)/15 = 16 -> 2x/15 = 16 -> x = 16 × 15 / 2 = 120."
+    },
+    {
+      "id": "25",
+      "question": "A water tank is 3/8 full. When 25 liters of water are drawn out, the tank becomes 1/6 full. What is the total volumetric capacity of the tank?",
+      "options": [
+        {
+          "id": "A",
+          "text": "100 liters"
+        },
+        {
+          "id": "B",
+          "text": "120 liters"
+        },
+        {
+          "id": "C",
+          "text": "144 liters"
+        },
+        {
+          "id": "D",
+          "text": "150 liters"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Let capacity = C. Fraction withdrawn = 3/8 - 1/6 = 9/24 - 4/24 = 5/24. Therefore, (5/24) × C = 25 liters -> C = 25 × 24 / 5 = 120 liters."
+    },
+    {
+      "id": "26",
+      "question": "Evaluate the continued fraction: 1 + 1 / (1 + 1 / (1 + 1/2)).",
+      "options": [
+        {
+          "id": "A",
+          "text": "5/3"
+        },
+        {
+          "id": "B",
+          "text": "8/5"
+        },
+        {
+          "id": "C",
+          "text": "13/8"
+        },
+        {
+          "id": "D",
+          "text": "3/2"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Work from bottom up: innermost denominator = 1 + 1/2 = 3/2. Next layer: 1 / (3/2) = 2/3. Next sum: 1 + 2/3 = 5/3. Top division: 1 / (5/3) = 3/5. Final addition: 1 + 3/5 = 8/5."
+    },
+    {
+      "id": "27",
+      "question": "If x = 0.272727... (recurring), what is the exact fractional representation of x in simplest form?",
+      "options": [
+        {
+          "id": "A",
+          "text": "27/100"
+        },
+        {
+          "id": "B",
+          "text": "3/11"
+        },
+        {
+          "id": "C",
+          "text": "9/33"
+        },
+        {
+          "id": "D",
+          "text": "27/99"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Let x = 0.2727... Then 100x = 27.2727... Subtracting x from 100x gives 99x = 27, so x = 27/99. Dividing both numerator and denominator by 9 yields 3/11."
+    },
+    {
+      "id": "28",
+      "question": "A traveler completes 2/5 of his total journey by train, 1/3 by bus, and covers the remaining 24 km on foot. What is the total distance of his journey?",
+      "options": [
+        {
+          "id": "A",
+          "text": "80 km"
+        },
+        {
+          "id": "B",
+          "text": "90 km"
+        },
+        {
+          "id": "C",
+          "text": "100 km"
+        },
+        {
+          "id": "D",
+          "text": "120 km"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Fraction covered by train and bus = 2/5 + 1/3 = 6/15 + 5/15 = 11/15. Fraction on foot = 1 - 11/15 = 4/15. Therefore, (4/15) × Total = 24 km -> Total = 24 × 15 / 4 = 90 km."
+    },
+    {
+      "id": "29",
+      "question": "Which of the following rational numbers lies strictly between 4/7 and 5/8?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1/2"
+        },
+        {
+          "id": "B",
+          "text": "17/28"
+        },
+        {
+          "id": "C",
+          "text": "33/56"
+        },
+        {
+          "id": "D",
+          "text": "41/64"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Convert boundaries to denominator 56: 4/7 = 32/56, and 5/8 = 35/56. The fraction 33/56 lies strictly between 32/56 and 35/56."
+    },
+    {
+      "id": "30",
+      "question": "Simplify: (1 - 1/2)(1 - 1/3)(1 - 1/4)...(1 - 1/n).",
+      "options": [
+        {
+          "id": "A",
+          "text": "1/n"
+        },
+        {
+          "id": "B",
+          "text": "(n-1)/n"
+        },
+        {
+          "id": "C",
+          "text": "2/n"
+        },
+        {
+          "id": "D",
+          "text": "1/(n!)"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "Evaluate the first few terms: (1/2) × (2/3) × (3/4) × ... × ((n-1)/n). This creates a telescoping product where the numerator of each term cancels exactly with the denominator of the preceding term, leaving only the first numerator (1) over the final denominator (n), which equals 1/n."
+    }
+  ]
+}

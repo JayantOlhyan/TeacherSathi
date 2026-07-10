@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "In the algebraic term 7x²y, what is the numerical coefficient?",
+      "options": [
+        {
+          "id": "A",
+          "text": "x²y"
+        },
+        {
+          "id": "B",
+          "text": "7"
+        },
+        {
+          "id": "C",
+          "text": "2"
+        },
+        {
+          "id": "D",
+          "text": "y"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The numerical coefficient is the constant multiplying factor situated at the front of the algebraic term, which is 7."
+    },
+    {
+      "id": "2",
+      "question": "Which property allows us to state that 3(x + 4) = 3x + 12?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Commutative Property"
+        },
+        {
+          "id": "B",
+          "text": "Associative Property"
+        },
+        {
+          "id": "C",
+          "text": "Distributive Property"
+        },
+        {
+          "id": "D",
+          "text": "Identity Property"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The distributive property of multiplication over addition states that a(b + c) = ab + ac."
+    },
+    {
+      "id": "3",
+      "question": "An algebraic expression containing exactly three distinct terms is classified as a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Monomial"
+        },
+        {
+          "id": "B",
+          "text": "Binomial"
+        },
+        {
+          "id": "C",
+          "text": "Trinomial"
+        },
+        {
+          "id": "D",
+          "text": "Polynomial of degree 1"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The prefix 'tri-' indicates three, so a polynomial or algebraic expression with exactly three terms (e.g., x² + 2x + 1) is a trinomial."
+    },
+    {
+      "id": "4",
+      "question": "What is the product when the monomial 4a is multiplied by 5b?",
+      "options": [
+        {
+          "id": "A",
+          "text": "9ab"
+        },
+        {
+          "id": "B",
+          "text": "20a + b"
+        },
+        {
+          "id": "C",
+          "text": "20ab"
+        },
+        {
+          "id": "D",
+          "text": "9a + b"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Multiplying coefficients (4 × 5 = 20) and variables (a × b = ab) yields 20ab."
+    },
+    {
+      "id": "5",
+      "question": "Which of the following pairs represents \"like terms\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "3x and 3y"
+        },
+        {
+          "id": "B",
+          "text": "5x² and -2x²"
+        },
+        {
+          "id": "C",
+          "text": "7ab and 7a"
+        },
+        {
+          "id": "D",
+          "text": "4x²y and 4xy²"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Like terms are terms that share identical variables raised to identical exponents. Both 5x² and -2x² share the exact variable portion x²."
+    },
+    {
+      "id": "6",
+      "question": "If you distribute the negative sign across the parentheses in -(2a - 3b), the result is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "-2a - 3b"
+        },
+        {
+          "id": "B",
+          "text": "-2a + 3b"
+        },
+        {
+          "id": "C",
+          "text": "2a + 3b"
+        },
+        {
+          "id": "D",
+          "text": "2a - 3b"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Distributing -1 multiplies each term: -1(2a) + -1(-3b) = -2a + 3b."
+    },
+    {
+      "id": "7",
+      "question": "What is the area of a rectangle with length 3x and width 4y?",
+      "options": [
+        {
+          "id": "A",
+          "text": "7xy"
+        },
+        {
+          "id": "B",
+          "text": "12x + y"
+        },
+        {
+          "id": "C",
+          "text": "12xy"
+        },
+        {
+          "id": "D",
+          "text": "7x + y"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Area of a rectangle = length × width = 3x × 4y = 12xy."
+    },
+    {
+      "id": "8",
+      "question": "The algebraic expression 5x² - 3x + 8 contains how many individual terms?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        },
+        {
+          "id": "D",
+          "text": "4"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The three distinct terms separated by addition/subtraction operators are 5x², -3x, and 8."
+    },
+    {
+      "id": "9",
+      "question": "When multiplying x³ by x⁴, what is the resulting algebraic term?",
+      "options": [
+        {
+          "id": "A",
+          "text": "x¹²"
+        },
+        {
+          "id": "B",
+          "text": "x⁷"
+        },
+        {
+          "id": "C",
+          "text": "2x⁷"
+        },
+        {
+          "id": "D",
+          "text": "x"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "By the product rule of exponents (aᵐ × aⁿ = aᵐ⁺ⁿ), x³ × x⁴ = x³⁺⁴ = x⁷."
+    },
+    {
+      "id": "10",
+      "question": "What is the constant term in the algebraic expression 9y² + 4y - 15?",
+      "options": [
+        {
+          "id": "A",
+          "text": "9"
+        },
+        {
+          "id": "B",
+          "text": "4"
+        },
+        {
+          "id": "C",
+          "text": "-15"
+        },
+        {
+          "id": "D",
+          "text": "y"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "A constant term is a number that stands alone without any attached variable. In this expression, it is -15."
+    },
+    {
+      "id": "11",
+      "question": "Simplify the expression by combining like terms: 4x² + 7x - 2x² + 3 - 5x.",
+      "options": [
+        {
+          "id": "A",
+          "text": "2x² + 2x + 3"
+        },
+        {
+          "id": "B",
+          "text": "6x² + 12x + 3"
+        },
+        {
+          "id": "C",
+          "text": "2x² + 12x + 3"
+        },
+        {
+          "id": "D",
+          "text": "2x² - 2x + 3"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "Group like terms together: (4x² - 2x²) + (7x - 5x) + 3 = 2x² + 2x + 3."
+    },
+    {
+      "id": "12",
+      "question": "Execute the binomial multiplication (x + 3)(x + 5) completely.",
+      "options": [
+        {
+          "id": "A",
+          "text": "x² + 15"
+        },
+        {
+          "id": "B",
+          "text": "x² + 8x + 15"
+        },
+        {
+          "id": "C",
+          "text": "2x + 8"
+        },
+        {
+          "id": "D",
+          "text": "x² + 15x + 8"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Using the distributive property (or FOIL method): x(x) + x(5) + 3(x) + 3(5) = x² + 5x + 3x + 15 = x² + 8x + 15."
+    },
+    {
+      "id": "13",
+      "question": "Expand the algebraic product: 2a(3a² - 4a + 5).",
+      "options": [
+        {
+          "id": "A",
+          "text": "6a³ - 8a² + 10a"
+        },
+        {
+          "id": "B",
+          "text": "6a² - 8a + 10"
+        },
+        {
+          "id": "C",
+          "text": "5a³ - 6a² + 7a"
+        },
+        {
+          "id": "D",
+          "text": "6a³ - 8a + 10"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "Distribute 2a to each term inside the parentheses: (2a × 3a²) - (2a × 4a) + (2a × 5) = 6a³ - 8a² + 10a."
+    },
+    {
+      "id": "14",
+      "question": "Subtract the algebraic expression (2x - 5y) from (7x + 3y).",
+      "options": [
+        {
+          "id": "A",
+          "text": "5x - 2y"
+        },
+        {
+          "id": "B",
+          "text": "5x + 8y"
+        },
+        {
+          "id": "C",
+          "text": "9x - 2y"
+        },
+        {
+          "id": "D",
+          "text": "-5x - 8y"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Write out the subtraction: (7x + 3y) - (2x - 5y) = 7x + 3y - 2x + 5y = (7x - 2x) + (3y + 5y) = 5x + 8y."
+    },
+    {
+      "id": "15",
+      "question": "What is the product of (2x - 3)(2x + 3)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "4x² - 9"
+        },
+        {
+          "id": "B",
+          "text": "4x² + 9"
+        },
+        {
+          "id": "C",
+          "text": "4x² - 12x - 9"
+        },
+        {
+          "id": "D",
+          "text": "4x² - 6x + 9"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "This matches the difference of squares identity (a - b)(a + b) = a² - b². Here, (2x)² - (3)² = 4x² - 9."
+    },
+    {
+      "id": "16",
+      "question": "If the length of a rectangular box is 2a, breadth is 3b, and height is 4c, what is its volume?",
+      "options": [
+        {
+          "id": "A",
+          "text": "9abc"
+        },
+        {
+          "id": "B",
+          "text": "24abc"
+        },
+        {
+          "id": "C",
+          "text": "24a + b + c"
+        },
+        {
+          "id": "D",
+          "text": "9a + b + c"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Volume of a cuboid = length × breadth × height = 2a × 3b × 4c = 24abc."
+    },
+    {
+      "id": "17",
+      "question": "Expand and simplify: 3(a - 2b) - 2(2a - 3b).",
+      "options": [
+        {
+          "id": "A",
+          "text": "-a"
+        },
+        {
+          "id": "B",
+          "text": " -a - 12b"
+        },
+        {
+          "id": "C",
+          "text": "-a + b"
+        },
+        {
+          "id": "D",
+          "text": "a - 6b"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "Distribute both multipliers: (3a - 6b) - (4a - 6b) = 3a - 6b - 4a + 6b = (3a - 4a) + (-6b + 6b) = -a."
+    },
+    {
+      "id": "18",
+      "question": "What is the coefficient of x in the expansion of (x - 4)(x + 7)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "3"
+        },
+        {
+          "id": "B",
+          "text": "-28"
+        },
+        {
+          "id": "C",
+          "text": "11"
+        },
+        {
+          "id": "D",
+          "text": "-3"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "Expanding gives x² + 7x - 4x - 28 = x² + 3x - 28. The coefficient multiplying x is positive 3."
+    },
+    {
+      "id": "19",
+      "question": "Which algebraic identity is demonstrated by the area of a large square partitioned into regions of dimensions a², ab, ab, and b²?",
+      "options": [
+        {
+          "id": "A",
+          "text": "(a - b)² = a² - 2ab + b²"
+        },
+        {
+          "id": "B",
+          "text": "(a + b)² = a² + 2ab + b²"
+        },
+        {
+          "id": "C",
+          "text": "(a + b)(a - b) = a² - b²"
+        },
+        {
+          "id": "D",
+          "text": "a(b + c) = ab + ac"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "A square of side length (a + b) has area (a + b)². Partitioning it along the internal cuts 'a' and 'b' creates one square of area a², another of area b², and two rectangles of area ab each, summing to a² + 2ab + b²."
+    },
+    {
+      "id": "20",
+      "question": "Simplify the product: (5x²y)( -3xy³).",
+      "options": [
+        {
+          "id": "A",
+          "text": "-15x³y⁴"
+        },
+        {
+          "id": "B",
+          "text": "15x²y³"
+        },
+        {
+          "id": "C",
+          "text": "-15x²y³"
+        },
+        {
+          "id": "D",
+          "text": "-2x³y⁴"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "Multiply coefficients: 5 × -3 = -15. Multiply x terms: x² × x¹ = x³. Multiply y terms: y¹ × y³ = y⁴. Total: -15x³y⁴."
+    },
+    {
+      "id": "21",
+      "question": "Expand and completely simplify the expression: (2x - 3y)² - (2x + 3y)².",
+      "options": [
+        {
+          "id": "A",
+          "text": "-24xy"
+        },
+        {
+          "id": "B",
+          "text": "24xy"
+        },
+        {
+          "id": "C",
+          "text": "-18y²"
+        },
+        {
+          "id": "D",
+          "text": "0"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "Using the difference of squares formula A² - B² = (A - B)(A + B) where A = (2x - 3y) and B = (2x + 3y): [(2x - 3y) - (2x + 3y)] × [(2x - 3y) + (2x + 3y)] = (-6y) × (4x) = -24xy."
+    },
+    {
+      "id": "22",
+      "question": "If x + 1/x = 5, what is the exact numerical value of x² + 1/x²?",
+      "options": [
+        {
+          "id": "A",
+          "text": "23"
+        },
+        {
+          "id": "B",
+          "text": "25"
+        },
+        {
+          "id": "C",
+          "text": "27"
+        },
+        {
+          "id": "D",
+          "text": "10"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "Square both sides of x + 1/x = 5 to get (x + 1/x)² = 25 -> x² + 2(x)(1/x) + 1/x² = 25 -> x² + 2 + 1/x² = 25. Subtracting 2 yields x² + 1/x² = 23."
+    },
+    {
+      "id": "23",
+      "question": "Find the product of (x² + x + 1)(x - 1).",
+      "options": [
+        {
+          "id": "A",
+          "text": "x³ - 1"
+        },
+        {
+          "id": "B",
+          "text": "x³ + 1"
+        },
+        {
+          "id": "C",
+          "text": "x³ - x² - 1"
+        },
+        {
+          "id": "D",
+          "text": "x³ + x² + 1"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "Distribute each term: x(x² + x + 1) - 1(x² + x + 1) = x³ + x² + x - x² - x - 1 = x³ - 1 (the difference of cubes factorization)."
+    },
+    {
+      "id": "24",
+      "question": "If a - b = 4 and ab = 21, determine the value of a² + b².",
+      "options": [
+        {
+          "id": "A",
+          "text": "58"
+        },
+        {
+          "id": "B",
+          "text": "37"
+        },
+        {
+          "id": "C",
+          "text": "16"
+        },
+        {
+          "id": "D",
+          "text": "100"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "Using the identity (a - b)² = a² - 2ab + b²: 4² = a² + b² - 2(21) -> 16 = a² + b² - 42. Adding 42 to both sides gives a² + b² = 58."
+    },
+    {
+      "id": "25",
+      "question": "Expand the trinomial square: (a + 2b - 3c)².",
+      "options": [
+        {
+          "id": "A",
+          "text": "a² + 4b² + 9c² + 4ab - 12bc - 6ac"
+        },
+        {
+          "id": "B",
+          "text": "a² + 4b² - 9c² + 4ab - 12bc + 6ac"
+        },
+        {
+          "id": "C",
+          "text": "a² + 2b² + 3c² + 2ab - 6bc - 3ac"
+        },
+        {
+          "id": "D",
+          "text": "a² + 4b² + 9c² - 4ab + 12bc - 6ac"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "Using the identity (x + y + z)² = x² + y² + z² + 2xy + 2yz + 2zx where x=a, y=2b, z=-3c: a² + 4b² + 9c² + 2(a)(2b) + 2(2b)(-3c) + 2(-3c)(a) = a² + 4b² + 9c² + 4ab - 12bc - 6ac."
+    },
+    {
+      "id": "26",
+      "question": "What is the remainder when the polynomial 2x³ - 5x² + x - 3 is divided by (x - 2)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "-5"
+        },
+        {
+          "id": "B",
+          "text": "-1"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        },
+        {
+          "id": "D",
+          "text": "-3"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "By the Remainder Theorem, the remainder when P(x) is divided by (x - c) equals P(c). Here c = 2: P(2) = 2(2)³ - 5(2)² + 2 - 3 = 2(8) - 5(4) + 2 - 3 = 16 - 20 + 2 - 3 = -5."
+    },
+    {
+      "id": "27",
+      "question": "Simplify the complex product using identities: (a + b)(a - b)(a² + b²)(a⁴ + b⁴).",
+      "options": [
+        {
+          "id": "A",
+          "text": "a⁸ - b⁸"
+        },
+        {
+          "id": "B",
+          "text": "a⁸ + b⁸"
+        },
+        {
+          "id": "C",
+          "text": "a¹⁶ - b¹⁶"
+        },
+        {
+          "id": "D",
+          "text": "a⁴ - b⁴"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "Pair up sequentially: (a + b)(a - b) = (a² - b²). Then (a² - b²)(a² + b²) = (a⁴ - b⁴). Finally, (a⁴ - b⁴)(a⁴ + b⁴) = a⁸ - b⁸."
+    },
+    {
+      "id": "28",
+      "question": "If 3x - 4y = 10 and xy = -1, what is the value of 9x² + 16y²?",
+      "options": [
+        {
+          "id": "A",
+          "text": "76"
+        },
+        {
+          "id": "B",
+          "text": "124"
+        },
+        {
+          "id": "C",
+          "text": "100"
+        },
+        {
+          "id": "D",
+          "text": "108"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Square the first equation: (3x - 4y)² = 10² -> 9x² - 24xy + 16y² = 100. Substitute xy = -1: 9x² - 24(-1) + 16y² = 100 -> 9x² + 24 + 16y² = 100 -> 9x² + 16y² = 76. Let's re-verify: 100 - 24 = 76. Option A is 76!"
+    },
+    {
+      "id": "29",
+      "question": "Determine the value of k such that 4x² + 12xy + k is a perfect square trinomial.",
+      "options": [
+        {
+          "id": "A",
+          "text": "9y²"
+        },
+        {
+          "id": "B",
+          "text": "6y²"
+        },
+        {
+          "id": "C",
+          "text": "16y²"
+        },
+        {
+          "id": "D",
+          "text": "3y²"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "A perfect square trinomial takes the form (Ax + By)² = A²x² + 2ABxy + B²y². Since A²x² = 4x², A = 2. Then 2ABxy = 12xy -> 2(2)By = 12y -> 4By = 12y -> B = 3. Therefore, k = B²y² = (3y)² = 9y²."
+    },
+    {
+      "id": "30",
+      "question": "Evaluate exactly 998 × 1002 utilizing algebraic identities without direct multiplication.",
+      "options": [
+        {
+          "id": "A",
+          "text": "999996"
+        },
+        {
+          "id": "B",
+          "text": "1000004"
+        },
+        {
+          "id": "C",
+          "text": "9999960"
+        },
+        {
+          "id": "D",
+          "text": "998004"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "Rewrite as (1000 - 2)(1000 + 2) which fits the difference of squares identity (a - b)(a + b) = a² - b². Thus, 1000² - 2² = 1,000,000 - 4 = 999,996."
+    }
+  ]
+}

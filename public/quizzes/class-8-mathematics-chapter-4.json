@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "By geometric definition, a quadrilateral possesses exactly how many sides?",
+      "options": [
+        {
+          "id": "A",
+          "text": "3"
+        },
+        {
+          "id": "B",
+          "text": "4"
+        },
+        {
+          "id": "C",
+          "text": "5"
+        },
+        {
+          "id": "D",
+          "text": "6"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The prefix 'quadri-' means four and '-lateral' means side. A quadrilateral is a closed 2D polygon with exactly 4 straight sides and 4 vertices."
+    },
+    {
+      "id": "2",
+      "question": "In a standard rectangle, all four interior angles strictly measure:",
+      "options": [
+        {
+          "id": "A",
+          "text": "45°"
+        },
+        {
+          "id": "B",
+          "text": "60°"
+        },
+        {
+          "id": "C",
+          "text": "90°"
+        },
+        {
+          "id": "D",
+          "text": "120°"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "By definition, a rectangle is a parallelogram containing four right angles, each exactly measuring 90 degrees."
+    },
+    {
+      "id": "3",
+      "question": "A distinct four-sided figure where all sides are equal length and all internal angles are 90° is a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rhombus"
+        },
+        {
+          "id": "B",
+          "text": "Rectangle"
+        },
+        {
+          "id": "C",
+          "text": "Square"
+        },
+        {
+          "id": "D",
+          "text": "Kite"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "A square is the ultimate regular quadrilateral: it combines the equal-side property of a rhombus with the 90-degree right angle property of a rectangle."
+    },
+    {
+      "id": "4",
+      "question": "The internal line segment connecting two opposite, non-adjacent corners of a quadrilateral is termed a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Side"
+        },
+        {
+          "id": "B",
+          "text": "Altitude"
+        },
+        {
+          "id": "C",
+          "text": "Diagonal"
+        },
+        {
+          "id": "D",
+          "text": "Vertex"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "A diagonal is a straight line segment joining any two non-adjacent vertices across the interior of a polygon."
+    },
+    {
+      "id": "5",
+      "question": "The sum total of the interior angles of any valid quadrilateral is invariably:",
+      "options": [
+        {
+          "id": "A",
+          "text": "180°"
+        },
+        {
+          "id": "B",
+          "text": "270°"
+        },
+        {
+          "id": "C",
+          "text": "360°"
+        },
+        {
+          "id": "D",
+          "text": "540°"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Any quadrilateral can be partitioned by one diagonal into exactly two triangles. Since each triangle's interior angles sum to 180°, the quadrilateral's angles sum to 2 × 180° = 360°."
+    },
+    {
+      "id": "6",
+      "question": "If a single angle of a rectangle is confirmed as 90°, what is the sum of the remaining three angles?",
+      "options": [
+        {
+          "id": "A",
+          "text": "90°"
+        },
+        {
+          "id": "B",
+          "text": "180°"
+        },
+        {
+          "id": "C",
+          "text": "270°"
+        },
+        {
+          "id": "D",
+          "text": "360°"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Total sum of interior angles = 360°. If one angle is 90°, the remaining three sum to 360° - 90° = 270°."
+    },
+    {
+      "id": "7",
+      "question": "A geometric figure exhibiting exactly two pairs of equal adjacent sides is classified as a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Square"
+        },
+        {
+          "id": "B",
+          "text": "Kite"
+        },
+        {
+          "id": "C",
+          "text": "Trapezium"
+        },
+        {
+          "id": "D",
+          "text": "Rectangle"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "A kite is a quadrilateral with exactly two distinct pairs of adjacent sides that are equal in length."
+    },
+    {
+      "id": "8",
+      "question": "In a parallelogram, opposite sides are inherently:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Parallel and equal in length"
+        },
+        {
+          "id": "B",
+          "text": "Intersecting at 90°"
+        },
+        {
+          "id": "C",
+          "text": "Unequal in length"
+        },
+        {
+          "id": "D",
+          "text": "Perpendicular"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "A parallelogram is defined as a quadrilateral where both pairs of opposite sides are strictly parallel and equal in length."
+    },
+    {
+      "id": "9",
+      "question": "Which geometric shape is technically categorized as a highly specialized type of rectangle?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kite"
+        },
+        {
+          "id": "B",
+          "text": "Trapezium"
+        },
+        {
+          "id": "C",
+          "text": "Square"
+        },
+        {
+          "id": "D",
+          "text": "Rhombus"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "A square fulfills all the defining properties of a rectangle (four 90° angles and equal opposite sides) while adding the specialized condition that all four sides are equal."
+    },
+    {
+      "id": "10",
+      "question": "The etymological root 'quadri' in Latin translates directly to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Four"
+        },
+        {
+          "id": "B",
+          "text": "Side"
+        },
+        {
+          "id": "C",
+          "text": "Angle"
+        },
+        {
+          "id": "D",
+          "text": "Shape"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "In Latin, 'quadri-' means four, as seen in quadrilateral, quadruped, and quadrant."
+    },
+    {
+      "id": "11",
+      "question": "If the diagonals of a quadrilateral bisect each other perfectly and are equal in absolute length, the shape must be a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rhombus"
+        },
+        {
+          "id": "B",
+          "text": "Trapezium"
+        },
+        {
+          "id": "C",
+          "text": "Rectangle"
+        },
+        {
+          "id": "D",
+          "text": "Kite"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "If diagonals bisect each other, the shape is a parallelogram. If those diagonals are also equal in length, the parallelogram must specifically be a rectangle (or square)."
+    },
+    {
+      "id": "12",
+      "question": "In a true rhombus, the two diagonals intersect each other at precisely what angle?",
+      "options": [
+        {
+          "id": "A",
+          "text": "45°"
+        },
+        {
+          "id": "B",
+          "text": "60°"
+        },
+        {
+          "id": "C",
+          "text": "90°"
+        },
+        {
+          "id": "D",
+          "text": "180°"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "A fundamental geometric property of any rhombus is that its diagonals bisect each other at mutually perpendicular right angles (90°)."
+    },
+    {
+      "id": "13",
+      "question": "If three interior angles of an irregular quadrilateral measure 80°, 100°, and 70°, what is the exact measure of the fourth angle?",
+      "options": [
+        {
+          "id": "A",
+          "text": "90°"
+        },
+        {
+          "id": "B",
+          "text": "100°"
+        },
+        {
+          "id": "C",
+          "text": "110°"
+        },
+        {
+          "id": "D",
+          "text": "120°"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Sum of all four interior angles = 360°. Fourth angle = 360° - (80° + 100° + 70°) = 360° - 250° = 110°."
+    },
+    {
+      "id": "14",
+      "question": "A quadrilateral characterized by possessing only a single pair of parallel sides is a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rhombus"
+        },
+        {
+          "id": "B",
+          "text": "Parallelogram"
+        },
+        {
+          "id": "C",
+          "text": "Trapezium"
+        },
+        {
+          "id": "D",
+          "text": "Square"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "A trapezium (also called trapezoid in North American English) is specifically defined as a quadrilateral containing exactly one pair of parallel sides."
+    },
+    {
+      "id": "15",
+      "question": "If the total perimeter of a square is 40 cm, what is its calculated internal area?",
+      "options": [
+        {
+          "id": "A",
+          "text": "40 cm²"
+        },
+        {
+          "id": "B",
+          "text": "80 cm²"
+        },
+        {
+          "id": "C",
+          "text": "100 cm²"
+        },
+        {
+          "id": "D",
+          "text": "160 cm²"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Perimeter = 4s = 40 cm, so side s = 10 cm. Area of square = s² = 10 × 10 = 100 cm²."
+    },
+    {
+      "id": "16",
+      "question": "In ΔAOB situated inside a rectangle where diagonals intersect at O, if ∠OAB = 60° and OA = OB, what is the measure of ∠AOB?",
+      "options": [
+        {
+          "id": "A",
+          "text": "60°"
+        },
+        {
+          "id": "B",
+          "text": "90°"
+        },
+        {
+          "id": "C",
+          "text": "120°"
+        },
+        {
+          "id": "D",
+          "text": "180°"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "Since OA = OB, ΔAOB is isosceles with base angles ∠OAB = ∠OBA = 60°. Thus, ∠AOB = 180° - (60° + 60°) = 60° (making ΔAOB equilateral)."
+    },
+    {
+      "id": "17",
+      "question": "Are all legitimate rhombuses automatically classified as parallelograms?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes, always"
+        },
+        {
+          "id": "B",
+          "text": "No, never"
+        },
+        {
+          "id": "C",
+          "text": "Only if they are also squares"
+        },
+        {
+          "id": "D",
+          "text": "Cannot be logically determined"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "Since a rhombus has opposite sides equal and parallel, it satisfies all criteria of a parallelogram. Every rhombus is a parallelogram, though not every parallelogram is a rhombus."
+    },
+    {
+      "id": "18",
+      "question": "Which structural property is invariably TRUE for a mathematical kite?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both diagonals bisect each other"
+        },
+        {
+          "id": "B",
+          "text": "Opposite sides are equal"
+        },
+        {
+          "id": "C",
+          "text": "Diagonals intersect at exact right angles"
+        },
+        {
+          "id": "D",
+          "text": "All four angles are equal"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "In any kite, the main diagonal joining the equal-angle vertices bisects the transverse diagonal at a perfect 90° right angle."
+    },
+    {
+      "id": "19",
+      "question": "A quadrilateral featuring equal opposite angles and supplementary consecutive angles is definitively a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kite"
+        },
+        {
+          "id": "B",
+          "text": "Trapezium"
+        },
+        {
+          "id": "C",
+          "text": "Parallelogram"
+        },
+        {
+          "id": "D",
+          "text": "Isosceles triangle"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Having opposite angles equal and consecutive interior angles summing to 180° (supplementary) are defining criteria of a parallelogram."
+    },
+    {
+      "id": "20",
+      "question": "In a perfect rectangle ABCD, if diagonal AC = 10 cm, what is the exact length of the corresponding diagonal BD?",
+      "options": [
+        {
+          "id": "A",
+          "text": "5 cm"
+        },
+        {
+          "id": "B",
+          "text": "10 cm"
+        },
+        {
+          "id": "C",
+          "text": "20 cm"
+        },
+        {
+          "id": "D",
+          "text": "Cannot be determined without side lengths"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "A signature theorem of rectangles is that both diagonals AC and BD are identical in absolute length. Thus BD = AC = 10 cm."
+    },
+    {
+      "id": "21",
+      "question": "If the diagonals of a quadrilateral bisect each other at perfect right angles, but are categorically NOT equal in length, the shape is strictly a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Square"
+        },
+        {
+          "id": "B",
+          "text": "Rectangle"
+        },
+        {
+          "id": "C",
+          "text": "Rhombus"
+        },
+        {
+          "id": "D",
+          "text": "Trapezium"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Diagonals bisecting at 90° define a rhombus. If the diagonals were equal in length, it would be a square. Since they are NOT equal, it is strictly a non-square rhombus."
+    },
+    {
+      "id": "22",
+      "question": "In an arbitrary quadrilateral ABCD, if ∠A = 2x, ∠B = 3x, ∠C = 4x, and ∠D = 3x, what is the precise numerical value of ∠C?",
+      "options": [
+        {
+          "id": "A",
+          "text": "30°"
+        },
+        {
+          "id": "B",
+          "text": "60°"
+        },
+        {
+          "id": "C",
+          "text": "90°"
+        },
+        {
+          "id": "D",
+          "text": "120°"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "D",
+      "explanation": "Sum of angles = 2x + 3x + 4x + 3x = 12x = 360°, which gives x = 30°. Therefore, ∠C = 4x = 4(30°) = 120°."
+    },
+    {
+      "id": "23",
+      "question": "Two adjacent angles of a defined parallelogram exist in the specific ratio 4:5. What is the exact measure of the smaller angle?",
+      "options": [
+        {
+          "id": "A",
+          "text": "40°"
+        },
+        {
+          "id": "B",
+          "text": "60°"
+        },
+        {
+          "id": "C",
+          "text": "80°"
+        },
+        {
+          "id": "D",
+          "text": "100°"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Adjacent angles in a parallelogram are supplementary (sum = 180°). Let angles be 4k and 5k. 4k + 5k = 9k = 180°, so k = 20°. Smaller angle = 4 × 20° = 80°."
+    },
+    {
+      "id": "24",
+      "question": "To logically prove a shape is a rectangle by demonstrating its diagonals cross at their midpoints, one must understand that \"bisecting a quantity\" mathematically means:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Multiplying it by a factor of 2"
+        },
+        {
+          "id": "B",
+          "text": "Dividing it into two perfectly equal constituent parts"
+        },
+        {
+          "id": "C",
+          "text": "Subtracting exactly half its value"
+        },
+        {
+          "id": "D",
+          "text": "Extracting the square root"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "To bisect a geometric figure or segment means to cut or divide it cleanly at its exact midpoint into two segments of identical measurement."
+    },
+    {
+      "id": "25",
+      "question": "In ΔBCD of a standard rectangle, if algebraic logic dictates ∠3 + ∠2 + 90 = 180, then the sum of ∠3 + ∠2 necessarily equals:",
+      "options": [
+        {
+          "id": "A",
+          "text": "45°"
+        },
+        {
+          "id": "B",
+          "text": "90°"
+        },
+        {
+          "id": "C",
+          "text": "180°"
+        },
+        {
+          "id": "D",
+          "text": "270°"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Subtracting 90° from both sides of the equation ∠3 + ∠2 + 90° = 180° immediately yields ∠3 + ∠2 = 90°."
+    },
+    {
+      "id": "26",
+      "question": "If a perfect square and a non-square rhombus share identical side lengths, which figure encloses the larger geometric area?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The square"
+        },
+        {
+          "id": "B",
+          "text": "The rhombus"
+        },
+        {
+          "id": "C",
+          "text": "They are exactly equal"
+        },
+        {
+          "id": "D",
+          "text": "It depends on the length of the diagonals"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "Area of a rhombus is base × height = s × s sin(θ). Since sin(90°) = 1 is the maximum value for any angle θ, a square (θ=90°) always encloses strictly greater area than any tilted rhombus (θ < 90°)."
+    },
+    {
+      "id": "27",
+      "question": "A carpenter is verifying if a wooden frame is a flawless rectangle. He measures opposite sides and confirms they are equal. What secondary measurement MUST he execute to guarantee it is a rectangle?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Calculate internal area"
+        },
+        {
+          "id": "B",
+          "text": "Measure both diagonals to confirm they are identical in length"
+        },
+        {
+          "id": "C",
+          "text": "Calculate total perimeter"
+        },
+        {
+          "id": "D",
+          "text": "Measure one interior angle to see if it is 60°"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Equal opposite sides only guarantee a parallelogram (which could be tilted). Confirming both diagonal measurements across opposite corners are equal proves all four corners are true 90° right angles."
+    },
+    {
+      "id": "28",
+      "question": "Utilizing formal geometric reasoning, if ΔAOB ≅ ΔCOD inside a quadrilateral, which specific side corresponds directly to side AB?",
+      "options": [
+        {
+          "id": "A",
+          "text": "BC"
+        },
+        {
+          "id": "B",
+          "text": "AD"
+        },
+        {
+          "id": "C",
+          "text": "CD"
+        },
+        {
+          "id": "D",
+          "text": "OB"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "In congruent triangle notation ΔAOB ≅ ΔCOD, the order of vertices dictates corresponding parts: AB (first two vertices of triangle 1) corresponds directly to CD (first two vertices of triangle 2)."
+    },
+    {
+      "id": "29",
+      "question": "The four interior angles of a quadrilateral are algebraically defined as (90 - x)/2, (90 - x)/2, (90 + x)/2, and (90 + x)/2. What is the sum of these angles, and what does this imply?",
+      "options": [
+        {
+          "id": "A",
+          "text": "180, implying it is a triangle"
+        },
+        {
+          "id": "B",
+          "text": "180, implying an impossible quadrilateral geometry"
+        },
+        {
+          "id": "C",
+          "text": "360, implying a valid quadrilateral"
+        },
+        {
+          "id": "D",
+          "text": "90, implying a straight line"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Summing the four algebraic expressions gives 2((90-x)/2) + 2((90+x)/2) = 90 - x + 90 + x = 180°. Since any Euclidean quadrilateral requires an angle sum of exactly 360°, such a shape cannot physically exist as a quadrilateral."
+    },
+    {
+      "id": "30",
+      "question": "If the specific midpoints of the outer sides of a rhombus are connected sequentially in order, the resulting internal figure is definitively a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rhombus"
+        },
+        {
+          "id": "B",
+          "text": "Rectangle"
+        },
+        {
+          "id": "C",
+          "text": "Square"
+        },
+        {
+          "id": "D",
+          "text": "Parallelogram"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "By Varignon's Theorem, connecting the midpoints of any quadrilateral forms a parallelogram whose sides are parallel to the original diagonals. Because the diagonals of a rhombus intersect at 90°, this internal parallelogram has 90° angles, making it a rectangle."
+    }
+  ]
+}
