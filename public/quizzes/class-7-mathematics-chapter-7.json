@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "181",
+      "question": "A closed figure bounded by three intersecting lines is a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Circle"
+        },
+        {
+          "id": "B",
+          "text": "Triangle"
+        },
+        {
+          "id": "C",
+          "text": "Square"
+        },
+        {
+          "id": "D",
+          "text": "Polygon"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "182",
+      "question": "The sum of all interior angles of a triangle is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "90°"
+        },
+        {
+          "id": "B",
+          "text": "180°"
+        },
+        {
+          "id": "C",
+          "text": "360°"
+        },
+        {
+          "id": "D",
+          "text": "270°"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "183",
+      "question": "A triangle with all three sides equal is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Scalene"
+        },
+        {
+          "id": "B",
+          "text": "Isosceles"
+        },
+        {
+          "id": "C",
+          "text": "Equilateral"
+        },
+        {
+          "id": "D",
+          "text": "Right-angled"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "184",
+      "question": "In an equilateral triangle, each interior angle measures:",
+      "options": [
+        {
+          "id": "A",
+          "text": "45°"
+        },
+        {
+          "id": "B",
+          "text": "60°"
+        },
+        {
+          "id": "C",
+          "text": "90°"
+        },
+        {
+          "id": "D",
+          "text": "120°"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "185",
+      "question": "A triangle with exactly two equal sides is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Scalene"
+        },
+        {
+          "id": "B",
+          "text": "Isosceles"
+        },
+        {
+          "id": "C",
+          "text": "Equilateral"
+        },
+        {
+          "id": "D",
+          "text": "Obtuse"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "186",
+      "question": "If two angles are 50° and 60°, the third angle is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "70°"
+        },
+        {
+          "id": "B",
+          "text": "80°"
+        },
+        {
+          "id": "C",
+          "text": "90°"
+        },
+        {
+          "id": "D",
+          "text": "100°"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "187",
+      "question": "Exterior angle equals the sum of the two opposite _____ angles.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Exterior"
+        },
+        {
+          "id": "B",
+          "text": "Interior"
+        },
+        {
+          "id": "C",
+          "text": "Adjacent"
+        },
+        {
+          "id": "D",
+          "text": "Supplementary"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "188",
+      "question": "An angle of a right-angled triangle must be:",
+      "options": [
+        {
+          "id": "A",
+          "text": "45°"
+        },
+        {
+          "id": "B",
+          "text": "60°"
+        },
+        {
+          "id": "C",
+          "text": "90°"
+        },
+        {
+          "id": "D",
+          "text": "180°"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "189",
+      "question": "A triangle can have at most how many obtuse angles?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        },
+        {
+          "id": "D",
+          "text": "0"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "190",
+      "question": "A triangle with no equal sides is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Scalene"
+        },
+        {
+          "id": "B",
+          "text": "Equilateral"
+        },
+        {
+          "id": "C",
+          "text": "Isosceles"
+        },
+        {
+          "id": "D",
+          "text": "Right"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "191",
+      "question": "If exterior angle is 110° and one interior opposite is 40°, the other is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "50°"
+        },
+        {
+          "id": "B",
+          "text": "60°"
+        },
+        {
+          "id": "C",
+          "text": "70°"
+        },
+        {
+          "id": "D",
+          "text": "80°"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "192",
+      "question": "Can a triangle have sides 3 cm, 4 cm, and 8 cm?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes"
+        },
+        {
+          "id": "B",
+          "text": "No (Sum of two < third)"
+        },
+        {
+          "id": "C",
+          "text": "Only right angled"
+        },
+        {
+          "id": "D",
+          "text": "Cannot say"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "193",
+      "question": "In a right-angled isosceles triangle, the acute angles are:",
+      "options": [
+        {
+          "id": "A",
+          "text": "30°, 60°"
+        },
+        {
+          "id": "B",
+          "text": "45°, 45°"
+        },
+        {
+          "id": "C",
+          "text": "40°, 50°"
+        },
+        {
+          "id": "D",
+          "text": "20°, 70°"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "194",
+      "question": "Angles in a 1:2:3 ratio measure:",
+      "options": [
+        {
+          "id": "A",
+          "text": "20°, 40°, 60°"
+        },
+        {
+          "id": "B",
+          "text": "30°, 60°, 90°"
+        },
+        {
+          "id": "C",
+          "text": "40°, 80°, 120°"
+        },
+        {
+          "id": "D",
+          "text": "10°, 20°, 30°"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "195",
+      "question": "An exterior angle of an equilateral triangle measures:",
+      "options": [
+        {
+          "id": "A",
+          "text": "60°"
+        },
+        {
+          "id": "B",
+          "text": "90°"
+        },
+        {
+          "id": "C",
+          "text": "120°"
+        },
+        {
+          "id": "D",
+          "text": "180°"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "196",
+      "question": "The sum of two sides of a triangle must be ______ the third side.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Less than"
+        },
+        {
+          "id": "B",
+          "text": "Equal to"
+        },
+        {
+          "id": "C",
+          "text": "Greater than"
+        },
+        {
+          "id": "D",
+          "text": "Half of"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "197",
+      "question": "If two angles are equal and the third is 100°, the equal angles are:",
+      "options": [
+        {
+          "id": "A",
+          "text": "40°"
+        },
+        {
+          "id": "B",
+          "text": "50°"
+        },
+        {
+          "id": "C",
+          "text": "80°"
+        },
+        {
+          "id": "D",
+          "text": "100°"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "198",
+      "question": "An isosceles triangle has base angles of 65°. Vertex angle is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "50°"
+        },
+        {
+          "id": "B",
+          "text": "65°"
+        },
+        {
+          "id": "C",
+          "text": "130°"
+        },
+        {
+          "id": "D",
+          "text": "45°"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "199",
+      "question": "What triangle has angles 90°, 45°, and 45°?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Acute isosceles"
+        },
+        {
+          "id": "B",
+          "text": "Right isosceles"
+        },
+        {
+          "id": "C",
+          "text": "Right scalene"
+        },
+        {
+          "id": "D",
+          "text": "Equilateral"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "200",
+      "question": "Can a triangle have angles 60°, 70°, 60°?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes"
+        },
+        {
+          "id": "B",
+          "text": "No (Sum is 190°)"
+        },
+        {
+          "id": "C",
+          "text": "Yes if large"
+        },
+        {
+          "id": "D",
+          "text": "Yes (equilateral)"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "201",
+      "question": "The exterior angles of a triangle add up to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "180°"
+        },
+        {
+          "id": "B",
+          "text": "270°"
+        },
+        {
+          "id": "C",
+          "text": "360°"
+        },
+        {
+          "id": "D",
+          "text": "540°"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "202",
+      "question": "A broken pole touches ground 5m from base. Broken part is 13m. Unbroken height?",
+      "options": [
+        {
+          "id": "A",
+          "text": "12m"
+        },
+        {
+          "id": "B",
+          "text": "10m"
+        },
+        {
+          "id": "C",
+          "text": "8m"
+        },
+        {
+          "id": "D",
+          "text": "18m"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "203",
+      "question": "In ∆ABC, if ∠A = ∠B + ∠C, then ∆ABC is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Right-angled"
+        },
+        {
+          "id": "B",
+          "text": "Isosceles"
+        },
+        {
+          "id": "C",
+          "text": "Equilateral"
+        },
+        {
+          "id": "D",
+          "text": "Obtuse"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "204",
+      "question": "Which can be sides of a right triangle?",
+      "options": [
+        {
+          "id": "A",
+          "text": "2, 3, 4"
+        },
+        {
+          "id": "B",
+          "text": "5, 12, 13"
+        },
+        {
+          "id": "C",
+          "text": "4, 5, 6"
+        },
+        {
+          "id": "D",
+          "text": "7, 8, 9"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "205",
+      "question": "One angle is greater than the sum of the other two. Triangle is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Acute"
+        },
+        {
+          "id": "B",
+          "text": "Right"
+        },
+        {
+          "id": "C",
+          "text": "Obtuse"
+        },
+        {
+          "id": "D",
+          "text": "Equilateral"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "206",
+      "question": "Sides are x, x+1, x+2. Minimum integer value for x is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        },
+        {
+          "id": "D",
+          "text": "4"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "207",
+      "question": "Exterior angle is 105°, interior opposite angles are equal. They are:",
+      "options": [
+        {
+          "id": "A",
+          "text": "52.5°"
+        },
+        {
+          "id": "B",
+          "text": "50°"
+        },
+        {
+          "id": "C",
+          "text": "105°"
+        },
+        {
+          "id": "D",
+          "text": "75°"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "208",
+      "question": "The longest side of a right-angled triangle is the:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Base"
+        },
+        {
+          "id": "B",
+          "text": "Altitude"
+        },
+        {
+          "id": "C",
+          "text": "Hypotenuse"
+        },
+        {
+          "id": "D",
+          "text": "Transversal"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "209",
+      "question": "In ∆PQR, PQ = PR and ∠P = 40°. Find ∠Q.",
+      "options": [
+        {
+          "id": "A",
+          "text": "40°"
+        },
+        {
+          "id": "B",
+          "text": "70°"
+        },
+        {
+          "id": "C",
+          "text": "140°"
+        },
+        {
+          "id": "D",
+          "text": "100°"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "210",
+      "question": "Sum of lengths of altitudes compared to perimeter is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Greater"
+        },
+        {
+          "id": "B",
+          "text": "Equal"
+        },
+        {
+          "id": "C",
+          "text": "Less"
+        },
+        {
+          "id": "D",
+          "text": "Cannot determine"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    }
+  ]
+}

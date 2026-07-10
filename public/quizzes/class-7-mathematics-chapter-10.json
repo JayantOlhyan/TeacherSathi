@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "271",
+      "question": "Multiplying a positive by a negative gives a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Positive"
+        },
+        {
+          "id": "B",
+          "text": "Negative"
+        },
+        {
+          "id": "C",
+          "text": "Zero"
+        },
+        {
+          "id": "D",
+          "text": "Fraction"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "272",
+      "question": "(-5) × 4 equals:",
+      "options": [
+        {
+          "id": "A",
+          "text": "20"
+        },
+        {
+          "id": "B",
+          "text": "-20"
+        },
+        {
+          "id": "C",
+          "text": "9"
+        },
+        {
+          "id": "D",
+          "text": "-9"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "273",
+      "question": "The product of two negative integers is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Negative"
+        },
+        {
+          "id": "B",
+          "text": "Positive"
+        },
+        {
+          "id": "C",
+          "text": "Zero"
+        },
+        {
+          "id": "D",
+          "text": "Odd"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "274",
+      "question": "(-10) ÷ (-2) equals:",
+      "options": [
+        {
+          "id": "A",
+          "text": "-5"
+        },
+        {
+          "id": "B",
+          "text": "5"
+        },
+        {
+          "id": "C",
+          "text": "20"
+        },
+        {
+          "id": "D",
+          "text": "-20"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "275",
+      "question": "Any integer multiplied by 0 gives:",
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "The integer itself"
+        },
+        {
+          "id": "C",
+          "text": "0"
+        },
+        {
+          "id": "D",
+          "text": "-1"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "276",
+      "question": "What is the additive inverse of -7?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1/7"
+        },
+        {
+          "id": "B",
+          "text": "-1/7"
+        },
+        {
+          "id": "C",
+          "text": "7"
+        },
+        {
+          "id": "D",
+          "text": "0"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "277",
+      "question": "Divide 15 by -3:",
+      "options": [
+        {
+          "id": "A",
+          "text": "5"
+        },
+        {
+          "id": "B",
+          "text": "-5"
+        },
+        {
+          "id": "C",
+          "text": "12"
+        },
+        {
+          "id": "D",
+          "text": "-18"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "278",
+      "question": "1 × (-8) equals:",
+      "options": [
+        {
+          "id": "A",
+          "text": "8"
+        },
+        {
+          "id": "B",
+          "text": "-8"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        },
+        {
+          "id": "D",
+          "text": "-1"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "279",
+      "question": "Multiplying three negative integers yields a _____ result.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Positive"
+        },
+        {
+          "id": "B",
+          "text": "Negative"
+        },
+        {
+          "id": "C",
+          "text": "Zero"
+        },
+        {
+          "id": "D",
+          "text": "Even"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "280",
+      "question": "(-1) × (-1) × (-1) × (-1) = ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "-1"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "-4"
+        },
+        {
+          "id": "D",
+          "text": "4"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "281",
+      "question": "Solve: (-3) × (-4) × (-2)",
+      "options": [
+        {
+          "id": "A",
+          "text": "24"
+        },
+        {
+          "id": "B",
+          "text": "-24"
+        },
+        {
+          "id": "C",
+          "text": "9"
+        },
+        {
+          "id": "D",
+          "text": "-9"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "282",
+      "question": "Determine sign: (-12) ÷ 3",
+      "options": [
+        {
+          "id": "A",
+          "text": "Positive"
+        },
+        {
+          "id": "B",
+          "text": "Negative"
+        },
+        {
+          "id": "C",
+          "text": "Zero"
+        },
+        {
+          "id": "D",
+          "text": "None"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "283",
+      "question": "Distributive property: -5 × (10 + 2)",
+      "options": [
+        {
+          "id": "A",
+          "text": "-50"
+        },
+        {
+          "id": "B",
+          "text": "-60"
+        },
+        {
+          "id": "C",
+          "text": "-40"
+        },
+        {
+          "id": "D",
+          "text": "60"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "284",
+      "question": "Evaluate: [(-36) ÷ 12] ÷ 3",
+      "options": [
+        {
+          "id": "A",
+          "text": "-1"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "-9"
+        },
+        {
+          "id": "D",
+          "text": "9"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "285",
+      "question": "Submarine dives 5m/min. Position after 10 mins?",
+      "options": [
+        {
+          "id": "A",
+          "text": "+50m"
+        },
+        {
+          "id": "B",
+          "text": "-50m"
+        },
+        {
+          "id": "C",
+          "text": "-5m"
+        },
+        {
+          "id": "D",
+          "text": "0m"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "286",
+      "question": "Solve: (-15) × 0 × (-18)",
+      "options": [
+        {
+          "id": "A",
+          "text": "-33"
+        },
+        {
+          "id": "B",
+          "text": "33"
+        },
+        {
+          "id": "C",
+          "text": "0"
+        },
+        {
+          "id": "D",
+          "text": "270"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "287",
+      "question": "Which is greater: (-5) × (-4) or (-5) + (-4)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Product (20)"
+        },
+        {
+          "id": "B",
+          "text": "Sum (-9)"
+        },
+        {
+          "id": "C",
+          "text": "Equal"
+        },
+        {
+          "id": "D",
+          "text": "Cannot compare"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "288",
+      "question": "Is integer division commutative (a÷b = b÷a)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes"
+        },
+        {
+          "id": "B",
+          "text": "No"
+        },
+        {
+          "id": "C",
+          "text": "Only for 0"
+        },
+        {
+          "id": "D",
+          "text": "Only negatives"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "289",
+      "question": "Solve: 40 ÷ (-10) + 5",
+      "options": [
+        {
+          "id": "A",
+          "text": "9"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "-9"
+        },
+        {
+          "id": "D",
+          "text": "-1"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "290",
+      "question": "Test: +3 correct, -1 wrong. 10 correct, 5 wrong. Score:",
+      "options": [
+        {
+          "id": "A",
+          "text": "35"
+        },
+        {
+          "id": "B",
+          "text": "25"
+        },
+        {
+          "id": "C",
+          "text": "30"
+        },
+        {
+          "id": "D",
+          "text": "20"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "291",
+      "question": "Evaluate: (-20) × (-2) + (-10) × 3",
+      "options": [
+        {
+          "id": "A",
+          "text": "10"
+        },
+        {
+          "id": "B",
+          "text": "-10"
+        },
+        {
+          "id": "C",
+          "text": "70"
+        },
+        {
+          "id": "D",
+          "text": "-70"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "292",
+      "question": "Product of an integer and -1 is -45. Integer is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "-45"
+        },
+        {
+          "id": "B",
+          "text": "45"
+        },
+        {
+          "id": "C",
+          "text": "0"
+        },
+        {
+          "id": "D",
+          "text": "1"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "293",
+      "question": "Elevator descends 6m/min from 10m above ground. Position at 20 mins?",
+      "options": [
+        {
+          "id": "A",
+          "text": "-120m"
+        },
+        {
+          "id": "B",
+          "text": "-110m"
+        },
+        {
+          "id": "C",
+          "text": "130m"
+        },
+        {
+          "id": "D",
+          "text": "-10m"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "294",
+      "question": "Solve via properties: 26 × (-48) + (-48) × (-36)",
+      "options": [
+        {
+          "id": "A",
+          "text": "-480"
+        },
+        {
+          "id": "B",
+          "text": "480"
+        },
+        {
+          "id": "C",
+          "text": "4800"
+        },
+        {
+          "id": "D",
+          "text": "-4800"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "295",
+      "question": "If a ÷ b = -3 and a=12, find b.",
+      "options": [
+        {
+          "id": "A",
+          "text": "4"
+        },
+        {
+          "id": "B",
+          "text": "-4"
+        },
+        {
+          "id": "C",
+          "text": "-36"
+        },
+        {
+          "id": "D",
+          "text": "36"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "296",
+      "question": "Temp drops from 40°C at 5°C/hr. Temp after 10 hrs?",
+      "options": [
+        {
+          "id": "A",
+          "text": "10°C"
+        },
+        {
+          "id": "B",
+          "text": "-10°C"
+        },
+        {
+          "id": "C",
+          "text": "-50°C"
+        },
+        {
+          "id": "D",
+          "text": "50°C"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "297",
+      "question": "Evaluate: [(-16) ÷ 4] ÷ [(-2) ÷ (-2)]",
+      "options": [
+        {
+          "id": "A",
+          "text": "-4"
+        },
+        {
+          "id": "B",
+          "text": "4"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        },
+        {
+          "id": "D",
+          "text": "-1"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "298",
+      "question": "Integer x where x × (-3) = 27",
+      "options": [
+        {
+          "id": "A",
+          "text": "9"
+        },
+        {
+          "id": "B",
+          "text": "-9"
+        },
+        {
+          "id": "C",
+          "text": "30"
+        },
+        {
+          "id": "D",
+          "text": "-30"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "299",
+      "question": "Month net: deposits +2000, +1500; withdraw -500, -1200. Net change?",
+      "options": [
+        {
+          "id": "A",
+          "text": "+₹1800"
+        },
+        {
+          "id": "B",
+          "text": "-₹1800"
+        },
+        {
+          "id": "C",
+          "text": "+₹5200"
+        },
+        {
+          "id": "D",
+          "text": "0"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "300",
+      "question": "True/false: a×(b-c) = a×b - a×c for all integers",
+      "options": [
+        {
+          "id": "A",
+          "text": "True"
+        },
+        {
+          "id": "B",
+          "text": "False"
+        },
+        {
+          "id": "C",
+          "text": "Positives only"
+        },
+        {
+          "id": "D",
+          "text": "Negatives only"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    }
+  ]
+}

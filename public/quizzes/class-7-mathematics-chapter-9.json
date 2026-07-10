@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "241",
+      "question": "Two figures with exactly the same shape and size are:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Similar"
+        },
+        {
+          "id": "B",
+          "text": "Congruent"
+        },
+        {
+          "id": "C",
+          "text": "Parallel"
+        },
+        {
+          "id": "D",
+          "text": "Equal"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "242",
+      "question": "The mathematical symbol for congruence is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "="
+        },
+        {
+          "id": "B",
+          "text": "≈"
+        },
+        {
+          "id": "C",
+          "text": "≅"
+        },
+        {
+          "id": "D",
+          "text": "≠"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "243",
+      "question": "Two line segments are congruent if they share the same:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Position"
+        },
+        {
+          "id": "B",
+          "text": "Name"
+        },
+        {
+          "id": "C",
+          "text": "Length"
+        },
+        {
+          "id": "D",
+          "text": "Thickness"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "244",
+      "question": "Two circles are congruent if they have the same:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Centre"
+        },
+        {
+          "id": "B",
+          "text": "Radius"
+        },
+        {
+          "id": "C",
+          "text": "Chord"
+        },
+        {
+          "id": "D",
+          "text": "Secant"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "245",
+      "question": "If ∆ABC ≅ ∆XYZ, side AB corresponds to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "YZ"
+        },
+        {
+          "id": "B",
+          "text": "XZ"
+        },
+        {
+          "id": "C",
+          "text": "XY"
+        },
+        {
+          "id": "D",
+          "text": "ZX"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "246",
+      "question": "In SSS congruence, SSS means:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Side-Side-Side"
+        },
+        {
+          "id": "B",
+          "text": "Shape-Size-Shape"
+        },
+        {
+          "id": "C",
+          "text": "Same-Side-Same"
+        },
+        {
+          "id": "D",
+          "text": "Solid-Shape-Size"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "247",
+      "question": "In SAS congruence, the 'A' must be the ______ angle.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Adjacent"
+        },
+        {
+          "id": "B",
+          "text": "Alternate"
+        },
+        {
+          "id": "C",
+          "text": "Included"
+        },
+        {
+          "id": "D",
+          "text": "Acute"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "248",
+      "question": "RHS congruence is exclusively for _____ triangles.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Equilateral"
+        },
+        {
+          "id": "B",
+          "text": "Isosceles"
+        },
+        {
+          "id": "C",
+          "text": "Right-angled"
+        },
+        {
+          "id": "D",
+          "text": "Scalene"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "249",
+      "question": "If two squares share the same side length, they are:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Congruent"
+        },
+        {
+          "id": "B",
+          "text": "Just similar"
+        },
+        {
+          "id": "C",
+          "text": "Unequal"
+        },
+        {
+          "id": "D",
+          "text": "Rectangles"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "250",
+      "question": "CPCT stands for:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Corresponding Parts of Congruent Triangles"
+        },
+        {
+          "id": "B",
+          "text": "CCPT"
+        },
+        {
+          "id": "C",
+          "text": "CTPC"
+        },
+        {
+          "id": "D",
+          "text": "PCCT"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "251",
+      "question": "Congruence rule for two sides and included angle equal:",
+      "options": [
+        {
+          "id": "A",
+          "text": "SSS"
+        },
+        {
+          "id": "B",
+          "text": "SAS"
+        },
+        {
+          "id": "C",
+          "text": "ASA"
+        },
+        {
+          "id": "D",
+          "text": "RHS"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "252",
+      "question": "If ∆PQR ≅ ∆LMN, angle R corresponds to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "L"
+        },
+        {
+          "id": "B",
+          "text": "M"
+        },
+        {
+          "id": "C",
+          "text": "N"
+        },
+        {
+          "id": "D",
+          "text": "Cannot say"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "253",
+      "question": "In ∆DEF, the included angle between DE and EF is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "∠D"
+        },
+        {
+          "id": "B",
+          "text": "∠E"
+        },
+        {
+          "id": "C",
+          "text": "∠F"
+        },
+        {
+          "id": "D",
+          "text": "∠DEF"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "254",
+      "question": "Which is NOT a valid congruence rule?",
+      "options": [
+        {
+          "id": "A",
+          "text": "SSS"
+        },
+        {
+          "id": "B",
+          "text": "SAS"
+        },
+        {
+          "id": "C",
+          "text": "ASA"
+        },
+        {
+          "id": "D",
+          "text": "AAA"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "D",
+      "explanation": "The correct answer is D."
+    },
+    {
+      "id": "255",
+      "question": "In the RHS rule, 'H' stands for:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Height"
+        },
+        {
+          "id": "B",
+          "text": "Hypotenuse"
+        },
+        {
+          "id": "C",
+          "text": "Half"
+        },
+        {
+          "id": "D",
+          "text": "Hexagon"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "256",
+      "question": "To prove ∆ABC ≅ ∆DEF by ASA (∠B=∠E, ∠C=∠F), which side must be equal?",
+      "options": [
+        {
+          "id": "A",
+          "text": "AB=DE"
+        },
+        {
+          "id": "B",
+          "text": "AC=DF"
+        },
+        {
+          "id": "C",
+          "text": "BC=EF"
+        },
+        {
+          "id": "D",
+          "text": "Any side"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The correct answer is C."
+    },
+    {
+      "id": "257",
+      "question": "Are two equilateral triangles with the same perimeter congruent?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes"
+        },
+        {
+          "id": "B",
+          "text": "No"
+        },
+        {
+          "id": "C",
+          "text": "Only if 90°"
+        },
+        {
+          "id": "D",
+          "text": "Never"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "258",
+      "question": "Can two rectangles with the same area be non-congruent?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes"
+        },
+        {
+          "id": "B",
+          "text": "No"
+        },
+        {
+          "id": "C",
+          "text": "Only squares"
+        },
+        {
+          "id": "D",
+          "text": "Never"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "259",
+      "question": "Is SSA a valid congruence rule?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes"
+        },
+        {
+          "id": "B",
+          "text": "No"
+        },
+        {
+          "id": "C",
+          "text": "Only in isosceles"
+        },
+        {
+          "id": "D",
+          "text": "Yes, always"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "260",
+      "question": "If ∆ABC ≅ ∆PQR and AB = 5cm, PQ is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "10cm"
+        },
+        {
+          "id": "B",
+          "text": "5cm"
+        },
+        {
+          "id": "C",
+          "text": "2.5cm"
+        },
+        {
+          "id": "D",
+          "text": "Unknown"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "261",
+      "question": "In ∆ABC and ∆DEF, AB=FD and ∠A=∠D. Needed for SAS?",
+      "options": [
+        {
+          "id": "A",
+          "text": "AC=DE"
+        },
+        {
+          "id": "B",
+          "text": "BC=EF"
+        },
+        {
+          "id": "C",
+          "text": "∠B=∠E"
+        },
+        {
+          "id": "D",
+          "text": "AC=DF"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "262",
+      "question": "In a circle, two equal chords joined to the centre form triangles congruent by:",
+      "options": [
+        {
+          "id": "A",
+          "text": "SSS"
+        },
+        {
+          "id": "B",
+          "text": "SAS"
+        },
+        {
+          "id": "C",
+          "text": "ASA"
+        },
+        {
+          "id": "D",
+          "text": "RHS"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "263",
+      "question": "Why is AAA invalid for congruence?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Angles don't matter"
+        },
+        {
+          "id": "B",
+          "text": "Triangles can scale to different sizes"
+        },
+        {
+          "id": "C",
+          "text": "For squares only"
+        },
+        {
+          "id": "D",
+          "text": "Angles change"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "264",
+      "question": "Two right triangles have one equal leg and equal hypotenuses. Congruent?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes, by RHS"
+        },
+        {
+          "id": "B",
+          "text": "No"
+        },
+        {
+          "id": "C",
+          "text": "Yes, by SSS"
+        },
+        {
+          "id": "D",
+          "text": "Yes, by ASA"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "265",
+      "question": "Isosceles ∆ABC (AB=AC). Altitude AD. ∆ABD ≅ ∆ACD by:",
+      "options": [
+        {
+          "id": "A",
+          "text": "RHS"
+        },
+        {
+          "id": "B",
+          "text": "SSS"
+        },
+        {
+          "id": "C",
+          "text": "SAS"
+        },
+        {
+          "id": "D",
+          "text": "All of the above"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "D",
+      "explanation": "The correct answer is D."
+    },
+    {
+      "id": "266",
+      "question": "Can overlapping triangles in a star be congruent?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes"
+        },
+        {
+          "id": "B",
+          "text": "No"
+        },
+        {
+          "id": "C",
+          "text": "Triangles can't overlap"
+        },
+        {
+          "id": "D",
+          "text": "Always"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The correct answer is A."
+    },
+    {
+      "id": "267",
+      "question": "If ∆ABC ≅ ∆BCA, the triangle is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Scalene"
+        },
+        {
+          "id": "B",
+          "text": "Right"
+        },
+        {
+          "id": "C",
+          "text": "Isosceles"
+        },
+        {
+          "id": "D",
+          "text": "Equilateral"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "D",
+      "explanation": "The correct answer is D."
+    },
+    {
+      "id": "268",
+      "question": "Rectangle ABCD with diagonal AC. ∆ABC ≅ ∆CDA by:",
+      "options": [
+        {
+          "id": "A",
+          "text": "SSS"
+        },
+        {
+          "id": "B",
+          "text": "SAS"
+        },
+        {
+          "id": "C",
+          "text": "RHS"
+        },
+        {
+          "id": "D",
+          "text": "Any of these"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "D",
+      "explanation": "The correct answer is D."
+    },
+    {
+      "id": "269",
+      "question": "If AB=QR, BC=PR, CA=PQ, then ∆ABC ≅ :",
+      "options": [
+        {
+          "id": "A",
+          "text": "∆PQR"
+        },
+        {
+          "id": "B",
+          "text": "∆QRP"
+        },
+        {
+          "id": "C",
+          "text": "∆PRQ"
+        },
+        {
+          "id": "D",
+          "text": "∆RQP"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    },
+    {
+      "id": "270",
+      "question": "Longer diagonal splits a kite into two triangles. Congruence rule if only sides known:",
+      "options": [
+        {
+          "id": "A",
+          "text": "SAS"
+        },
+        {
+          "id": "B",
+          "text": "SSS"
+        },
+        {
+          "id": "C",
+          "text": "ASA"
+        },
+        {
+          "id": "D",
+          "text": "RHS"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The correct answer is B."
+    }
+  ]
+}
