@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "ch4-q1",
+      "question": "What is Dr. Dolittle's primary profession eventually?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A dentist"
+        },
+        {
+          "id": "b",
+          "text": "An animal doctor"
+        },
+        {
+          "id": "c",
+          "text": "A school teacher"
+        },
+        {
+          "id": "d",
+          "text": "A farmer"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "After learning animal languages, John Dolittle transitions from a human physician into a dedicated animal doctor (veterinarian)."
+    },
+    {
+      "id": "ch4-q2",
+      "question": "In what town does Dr. Dolittle live?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Puddleby-on-the-Marsh"
+        },
+        {
+          "id": "b",
+          "text": "London"
+        },
+        {
+          "id": "c",
+          "text": "New York"
+        },
+        {
+          "id": "d",
+          "text": "Mumbai"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "a",
+      "explanation": "Dr. Dolittle lives in the charming little English town named Puddleby-on-the-Marsh."
+    },
+    {
+      "id": "ch4-q3",
+      "question": "What unique, magical ability does the doctor possess?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The power of flight"
+        },
+        {
+          "id": "b",
+          "text": "The ability to talk to animals"
+        },
+        {
+          "id": "c",
+          "text": "Invisibility"
+        },
+        {
+          "id": "d",
+          "text": "Super speed"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "He possesses the extraordinary ability to understand and speak the varied secret languages of animals and birds."
+    },
+    {
+      "id": "ch4-q4",
+      "question": "Who is Polynesia?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A friendly dog"
+        },
+        {
+          "id": "b",
+          "text": "A clever parrot"
+        },
+        {
+          "id": "c",
+          "text": "A stray cat"
+        },
+        {
+          "id": "d",
+          "text": "A fast horse"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "Polynesia is Dr. Dolittle's highly intelligent, wise, and articulate pet parrot."
+    },
+    {
+      "id": "ch4-q5",
+      "question": "Who teaches the doctor the secret language of animals?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The Cat's-meat-Man"
+        },
+        {
+          "id": "b",
+          "text": "His sister Sarah"
+        },
+        {
+          "id": "c",
+          "text": "Polynesia the parrot"
+        },
+        {
+          "id": "d",
+          "text": "The town Mayor"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "c",
+      "explanation": "Polynesia the parrot acts as his tutor, patiently teaching him bird vocabulary and the subtle communication methods of animals."
+    },
+    {
+      "id": "ch4-q6",
+      "question": "How does the doctor feel about animals?",
+      "options": [
+        {
+          "id": "a",
+          "text": "He hates them"
+        },
+        {
+          "id": "b",
+          "text": "He loves them deeply"
+        },
+        {
+          "id": "c",
+          "text": "He only likes birds"
+        },
+        {
+          "id": "d",
+          "text": "He only tolerates dogs"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "Dr. Dolittle has a profound, unconditional love and compassion for all creatures great and small."
+    },
+    {
+      "id": "ch4-q7",
+      "question": "Who is Sarah Dolittle?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The doctor's wife"
+        },
+        {
+          "id": "b",
+          "text": "The doctor's sister"
+        },
+        {
+          "id": "c",
+          "text": "The doctor's mother"
+        },
+        {
+          "id": "d",
+          "text": "The doctor's daughter"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "Sarah Dolittle is the doctor's sister who lives with him and manages the household chores."
+    },
+    {
+      "id": "ch4-q8",
+      "question": "Why did human patients eventually stop coming to his clinic?",
+      "options": [
+        {
+          "id": "a",
+          "text": "He was mean to them"
+        },
+        {
+          "id": "b",
+          "text": "There was a heavy smell of animals in the waiting room"
+        },
+        {
+          "id": "c",
+          "text": "He moved far away"
+        },
+        {
+          "id": "d",
+          "text": "He charged too much money"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "Human patients stopped visiting because the house and waiting room became overrun with animals, creating mess and animal odors."
+    },
+    {
+      "id": "ch4-q9",
+      "question": "Does the doctor ever turn away any creature in need of help?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Yes, frequently"
+        },
+        {
+          "id": "b",
+          "text": "No, never"
+        },
+        {
+          "id": "c",
+          "text": "Sometimes"
+        },
+        {
+          "id": "d",
+          "text": "Only wild animals"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "True to his benevolent nature, Dr. Dolittle never turns away any sick or injured animal seeking refuge or treatment."
+    },
+    {
+      "id": "ch4-q10",
+      "question": "According to the story, how do animals communicate with each other?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Using only sounds"
+        },
+        {
+          "id": "b",
+          "text": "Using both sounds and physical movements"
+        },
+        {
+          "id": "c",
+          "text": "By writing notes"
+        },
+        {
+          "id": "d",
+          "text": "Through telepathy"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "Animals communicate using a rich combination of vocal sounds as well as subtle physical movements like ear twitches and tail wiggles."
+    },
+    {
+      "id": "ch4-q11",
+      "question": "Why hadn't Polynesia spoken bird language to the doctor earlier?",
+      "options": [
+        {
+          "id": "a",
+          "text": "She forgot how to speak it"
+        },
+        {
+          "id": "b",
+          "text": "She knew he wouldn't understand it yet"
+        },
+        {
+          "id": "c",
+          "text": "She was angry with him"
+        },
+        {
+          "id": "d",
+          "text": "She was completely mute"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "Polynesia explains that she spoke human words because he was a human doctor; she waited until he showed readiness to understand bird language."
+    },
+    {
+      "id": "ch4-q12",
+      "question": "How did the doctor feel when Polynesia first spoke bird language to him?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Deeply angry"
+        },
+        {
+          "id": "b",
+          "text": "Highly surprised"
+        },
+        {
+          "id": "c",
+          "text": "Completely relaxed"
+        },
+        {
+          "id": "d",
+          "text": "Very sad"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "Dr. Dolittle was astonished and thrilled when Polynesia revealed that birds have a structured language of their own."
+    },
+    {
+      "id": "ch4-q13",
+      "question": "Why did the Cat's-meat-Man suggest the doctor switch to treating animals?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Because the doctor disliked humans"
+        },
+        {
+          "id": "b",
+          "text": "Because he knew more about animals than the local veterinarians"
+        },
+        {
+          "id": "c",
+          "text": "Because he earned less money"
+        },
+        {
+          "id": "d",
+          "text": "Because animals speak less"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "The Cat's-meat-Man noticed that Dr. Dolittle understood animal behavior better than any human veterinarian and advised him to specialize in veterinary care."
+    },
+    {
+      "id": "ch4-q14",
+      "question": "What was Sarah Dolittle's main complaint?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The house was too big"
+        },
+        {
+          "id": "b",
+          "text": "She grumbled constantly about the mess caused by the animals"
+        },
+        {
+          "id": "c",
+          "text": "The food was bad"
+        },
+        {
+          "id": "d",
+          "text": "She wanted a parrot of her own"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "Sarah complained bitterly about mice in the piano, hedgehogs in the cellar, and the loss of income from human patients due to animal clutter."
+    },
+    {
+      "id": "ch4-q15",
+      "question": "What unusual color did the horse want its glasses to be?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Red"
+        },
+        {
+          "id": "b",
+          "text": "Green"
+        },
+        {
+          "id": "c",
+          "text": "Blue"
+        },
+        {
+          "id": "d",
+          "text": "Yellow"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "The plow-horse, whose eyes were failing from age and bright sunlight, asked Dr. Dolittle for a pair of green spectacles to protect its vision."
+    },
+    {
+      "id": "ch4-q16",
+      "question": "In the listening exercise, where is the new clinic located?",
+      "options": [
+        {
+          "id": "a",
+          "text": "12 Rose Lane"
+        },
+        {
+          "id": "b",
+          "text": "10 Baker Street"
+        },
+        {
+          "id": "c",
+          "text": "5 Main Road"
+        },
+        {
+          "id": "d",
+          "text": "8 Park Avenue"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "a",
+      "explanation": "According to the listening section details, Dr. Dolittle's specialized animal clinic is located at 12 Rose Lane."
+    },
+    {
+      "id": "ch4-q17",
+      "question": "Which animals have special clinic timings strictly on Saturdays?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dogs"
+        },
+        {
+          "id": "b",
+          "text": "Birds"
+        },
+        {
+          "id": "c",
+          "text": "Cats"
+        },
+        {
+          "id": "d",
+          "text": "Horses"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "The clinic schedule designates Saturdays specifically for treating birds and winged creatures."
+    },
+    {
+      "id": "ch4-q18",
+      "question": "According to the text, what would be the result if all people could talk to animals?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Animals would rule the world"
+        },
+        {
+          "id": "b",
+          "text": "There would be less mistreatment and more proper medical treatment"
+        },
+        {
+          "id": "c",
+          "text": "Humans would stop talking to each other"
+        },
+        {
+          "id": "d",
+          "text": "Nothing would change"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "If humans understood animal languages, misunderstandings would cease, leading to empathetic care and the end of animal cruelty."
+    },
+    {
+      "id": "ch4-q19",
+      "question": "Was Polynesia munching on a food item while talking to the doctor?",
+      "options": [
+        {
+          "id": "a",
+          "text": "True"
+        },
+        {
+          "id": "b",
+          "text": "False"
+        },
+        {
+          "id": "c",
+          "text": "The text does not say"
+        },
+        {
+          "id": "d",
+          "text": "She was drinking water"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "a",
+      "explanation": "True; during their famous conversation on the kitchen table, Polynesia was munching on a cracker while teaching him."
+    },
+    {
+      "id": "ch4-q20",
+      "question": "What is a core theme explored in this chapter?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The accumulation of wealth"
+        },
+        {
+          "id": "b",
+          "text": "Kindness toward animals and understanding different perspectives"
+        },
+        {
+          "id": "c",
+          "text": "The history of warfare"
+        },
+        {
+          "id": "d",
+          "text": "Learning magic tricks"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "The narrative centers on kindness, interspecies empathy, and the importance of active listening to understand different perspectives."
+    },
+    {
+      "id": "ch4-q21",
+      "question": "What does Dr. Dolittle's career transition fundamentally signify in the narrative?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Complete career failure"
+        },
+        {
+          "id": "b",
+          "text": "Discovering one's true calling and purpose through deep empathy"
+        },
+        {
+          "id": "c",
+          "text": "Extreme financial greed"
+        },
+        {
+          "id": "d",
+          "text": "Social isolation and madness"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "His shift from treating humans to animals represents finding authentic vocational fulfillment and alignment with one's innate empathy and gifts."
+    },
+    {
+      "id": "ch4-q22",
+      "question": "What literary role does Polynesia the parrot primarily represent?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A simple pet"
+        },
+        {
+          "id": "b",
+          "text": "A vital mentor and the essential bridge to the animal world"
+        },
+        {
+          "id": "c",
+          "text": "A loud nuisance"
+        },
+        {
+          "id": "d",
+          "text": "Mere comic relief"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "Polynesia functions as a wise mentor archetype, unlocking specialized knowledge and serving as the bridge between human and animal consciousness."
+    },
+    {
+      "id": "ch4-q23",
+      "question": "Why is the fantasy genre particularly effective for this specific story?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It makes the story terrifying"
+        },
+        {
+          "id": "b",
+          "text": "It allows a creative exploration of animal sentience and human empathy"
+        },
+        {
+          "id": "c",
+          "text": "It hides scientific facts"
+        },
+        {
+          "id": "d",
+          "text": "It deliberately confuses the readers"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "Fantasy provides a whimsical framework that suspends disbelief, enabling readers to engage deeply with ethical questions regarding animal sentience."
+    },
+    {
+      "id": "ch4-q24",
+      "question": "How does the story highlight the inadequacy of traditional veterinarians of that era?",
+      "options": [
+        {
+          "id": "a",
+          "text": "They use dark magic"
+        },
+        {
+          "id": "b",
+          "text": "They rely entirely on guesswork rather than direct communication"
+        },
+        {
+          "id": "c",
+          "text": "They openly hate all animals"
+        },
+        {
+          "id": "d",
+          "text": "They charge exorbitant fees"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "Traditional vets are depicted as ineffective because they treat animals mechanically through guesswork without seeking to understand their symptoms or feelings directly."
+    },
+    {
+      "id": "ch4-q25",
+      "question": "What is the thematic significance of animal language involving physical movements?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It makes the animals dance"
+        },
+        {
+          "id": "b",
+          "text": "It reflects the genuine complexity and reality of non-verbal communication"
+        },
+        {
+          "id": "c",
+          "text": "It is purely for entertainment"
+        },
+        {
+          "id": "d",
+          "text": "It is used to scare predators away"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "Recognizing body language (tail twitches, ear positions) honors the real-world complexity and validity of non-verbal biological communication."
+    },
+    {
+      "id": "ch4-q26",
+      "question": "As described in the writing section, what defines a \"notice\"?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A long, detailed essay"
+        },
+        {
+          "id": "b",
+          "text": "A short, clear message giving important information to a specific group"
+        },
+        {
+          "id": "c",
+          "text": "A rhyming poem"
+        },
+        {
+          "id": "d",
+          "text": "A fictional story"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "A formal notice is a concise, well-structured communication designed to announce specific dates, timings, or events clearly to a targeted audience."
+    },
+    {
+      "id": "ch4-q27",
+      "question": "How does the local human community initially react to the doctor's increasing animal focus?",
+      "options": [
+        {
+          "id": "a",
+          "text": "They celebrate his new skills"
+        },
+        {
+          "id": "b",
+          "text": "They alienate him as human patients refuse to share the waiting room"
+        },
+        {
+          "id": "c",
+          "text": "They give him more money"
+        },
+        {
+          "id": "d",
+          "text": "They attempt to arrest him"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "The human community displays prejudice and discomfort, alienating the doctor and withdrawing their patronage because they prioritize conventional cleanliness over compassion."
+    },
+    {
+      "id": "ch4-q28",
+      "question": "What does Sarah's constant grumbling emphasize within the story's themes?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Her deep hatred of her brother"
+        },
+        {
+          "id": "b",
+          "text": "The conflict between ordinary societal norms and extraordinary, messy devotion"
+        },
+        {
+          "id": "c",
+          "text": "Her severe allergies"
+        },
+        {
+          "id": "d",
+          "text": "Her secret desire to be a vet herself"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "Sarah represents rigid societal norms and materialistic concerns, clashing directly with her brother's selfless, non-conformist devotion to animal welfare."
+    },
+    {
+      "id": "ch4-q29",
+      "question": "What is the text's underlying message regarding the mistreatment of animals?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It is a natural and inevitable process"
+        },
+        {
+          "id": "b",
+          "text": "It frequently stems from a profound lack of understanding and communication"
+        },
+        {
+          "id": "c",
+          "text": "It is socially acceptable"
+        },
+        {
+          "id": "d",
+          "text": "Animals do not truly feel pain"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "The narrative asserts that cruelty often arises from ignorance and communication barriers; understanding an animal's voice naturally compels empathy and protection."
+    },
+    {
+      "id": "ch4-q30",
+      "question": "Which phrase best describes the doctor's attitude toward his non-human companions?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Steadfast and unwavering devotion"
+        },
+        {
+          "id": "b",
+          "text": "Casual and passing interest"
+        },
+        {
+          "id": "c",
+          "text": "Deep-seated annoyance"
+        },
+        {
+          "id": "d",
+          "text": "Irrational fear"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "a",
+      "explanation": "Dr. Dolittle exhibits steadfast, unwavering devotion, sacrificing financial wealth and social standing to honor and heal his animal friends."
+    }
+  ]
+}

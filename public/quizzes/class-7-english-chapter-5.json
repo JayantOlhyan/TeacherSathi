@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "ch5-q1",
+      "question": "Where does the funny man come from?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The moon"
+        },
+        {
+          "id": "b",
+          "text": "A small town"
+        },
+        {
+          "id": "c",
+          "text": "The sea"
+        },
+        {
+          "id": "d",
+          "text": "A big city"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "c",
+      "explanation": "The funny man comes from out of the sea."
+    },
+    {
+      "id": "ch5-q2",
+      "question": "What are the funny man's feet compared to?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Spoons"
+        },
+        {
+          "id": "b",
+          "text": "Boxes"
+        },
+        {
+          "id": "c",
+          "text": "Fins"
+        },
+        {
+          "id": "d",
+          "text": "Wheels"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "c",
+      "explanation": "His feet are compared to the fins of a fish."
+    },
+    {
+      "id": "ch5-q3",
+      "question": "What kind of eyes does the funny man have?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Small and dark"
+        },
+        {
+          "id": "b",
+          "text": "Round like a saucer"
+        },
+        {
+          "id": "c",
+          "text": "Long and narrow"
+        },
+        {
+          "id": "d",
+          "text": "Bright red"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "The poem describes his eyes as round like a saucer."
+    },
+    {
+      "id": "ch5-q4",
+      "question": "What is strange about how the man speaks?",
+      "options": [
+        {
+          "id": "a",
+          "text": "He sings loudly"
+        },
+        {
+          "id": "b",
+          "text": "He does not use words, only sounds like a bubble"
+        },
+        {
+          "id": "c",
+          "text": "He speaks very fast"
+        },
+        {
+          "id": "d",
+          "text": "He whispers"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "He makes bubbling sounds instead of speaking human words."
+    },
+    {
+      "id": "ch5-q5",
+      "question": "Where does the funny man walk around?",
+      "options": [
+        {
+          "id": "a",
+          "text": "In a forest"
+        },
+        {
+          "id": "b",
+          "text": "On the roof"
+        },
+        {
+          "id": "c",
+          "text": "In the garden and house"
+        },
+        {
+          "id": "d",
+          "text": "Only in the water"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "c",
+      "explanation": "He walks curiously around the garden and through the house."
+    },
+    {
+      "id": "ch5-q6",
+      "question": "What is the tone of this poem?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sad and lonely"
+        },
+        {
+          "id": "b",
+          "text": "Humorous and playful"
+        },
+        {
+          "id": "c",
+          "text": "Angry and loud"
+        },
+        {
+          "id": "d",
+          "text": "Serious and scary"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "The poem uses whimsical descriptions to create a joyful, humorous, and playful tone."
+    },
+    {
+      "id": "ch5-q7",
+      "question": "What is the funny man dressed in?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A suit"
+        },
+        {
+          "id": "b",
+          "text": "A coat made of seaweed"
+        },
+        {
+          "id": "c",
+          "text": "A red jacket"
+        },
+        {
+          "id": "d",
+          "text": "Yellow trousers"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "He wears a peculiar green coat made entirely out of slippery seaweed."
+    },
+    {
+      "id": "ch5-q8",
+      "question": "Does the funny man harm anyone in the house?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Yes, he breaks furniture"
+        },
+        {
+          "id": "b",
+          "text": "No, he is harmless and curious"
+        },
+        {
+          "id": "c",
+          "text": "Yes, he bites"
+        },
+        {
+          "id": "d",
+          "text": "Yes, he screams"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "He is completely harmless, purely exploring his new surroundings with childlike curiosity."
+    },
+    {
+      "id": "ch5-q9",
+      "question": "Why do the children laugh when they see him?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Because he falls down"
+        },
+        {
+          "id": "b",
+          "text": "Because of his unusual appearance and bubbly voice"
+        },
+        {
+          "id": "c",
+          "text": "Because he tells jokes"
+        },
+        {
+          "id": "d",
+          "text": "Because he is dancing"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "His saucer-like eyes, fin-feet, and bubbling sounds make the children giggle with amusement."
+    },
+    {
+      "id": "ch5-q10",
+      "question": "Can the funny man breathe comfortably out of the water?",
+      "options": [
+        {
+          "id": "a",
+          "text": "No, he faints right away"
+        },
+        {
+          "id": "b",
+          "text": "Yes, he happily wanders around on land"
+        },
+        {
+          "id": "c",
+          "text": "Only for one minute"
+        },
+        {
+          "id": "d",
+          "text": "Only when it rains"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "In this magical poem, the sea-creature happily breathes and explores on dry land without difficulty."
+    },
+    {
+      "id": "ch5-q11",
+      "question": "Why is the funny man's coat made of seaweed?",
+      "options": [
+        {
+          "id": "a",
+          "text": "He likes green clothes"
+        },
+        {
+          "id": "b",
+          "text": "He came directly out of the ocean where seaweed grows"
+        },
+        {
+          "id": "c",
+          "text": "He bought it at a store"
+        },
+        {
+          "id": "d",
+          "text": "It keeps him dry"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "Because he is a creature emerging directly from the ocean depths, his natural garment consists of green marine seaweed."
+    },
+    {
+      "id": "ch5-q12",
+      "question": "What figure of speech is 'round like a saucer'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Metaphor"
+        },
+        {
+          "id": "b",
+          "text": "Simile"
+        },
+        {
+          "id": "c",
+          "text": "Personification"
+        },
+        {
+          "id": "d",
+          "text": "Alliteration"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "Using 'like' to explicitly compare two distinct things (his eyes and a saucer) makes it a classic simile."
+    },
+    {
+      "id": "ch5-q13",
+      "question": "Why does the poet describe his voice as 'like a bubble'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It is very heavy"
+        },
+        {
+          "id": "b",
+          "text": "It mimics the popping, gurgling sound of underwater breathing"
+        },
+        {
+          "id": "c",
+          "text": "He blows soap bubbles while talking"
+        },
+        {
+          "id": "d",
+          "text": "It is completely silent"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "The simile 'like a bubble' captures the gurgling, aquatic sounds associated with underwater breathing and marine life."
+    },
+    {
+      "id": "ch5-q14",
+      "question": "How do the residents of the house react to this strange visitor?",
+      "options": [
+        {
+          "id": "a",
+          "text": "They call the police"
+        },
+        {
+          "id": "b",
+          "text": "They observe him with playful amusement and fascination"
+        },
+        {
+          "id": "c",
+          "text": "They hide in the basement"
+        },
+        {
+          "id": "d",
+          "text": "They throw stones at him"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "Rather than reacting with fear or hostility, the residents welcome his eccentric presence with lighthearted amusement."
+    },
+    {
+      "id": "ch5-q15",
+      "question": "What does the phrase 'finny feet' tell us about how he walks?",
+      "options": [
+        {
+          "id": "a",
+          "text": "He waddles or flops awkwardly like a fish on land"
+        },
+        {
+          "id": "b",
+          "text": "He runs like a cheetah"
+        },
+        {
+          "id": "c",
+          "text": "He marches like a soldier"
+        },
+        {
+          "id": "d",
+          "text": "He floats in the air"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "a",
+      "explanation": "'Finny feet' implies he has webbed or flipper-like feet, making his walking gait on dry land awkwardly waddling and funny."
+    },
+    {
+      "id": "ch5-q16",
+      "question": "In the structure of the poem, why are short, bouncy lines used?",
+      "options": [
+        {
+          "id": "a",
+          "text": "To make it hard to read"
+        },
+        {
+          "id": "b",
+          "text": "To mirror the lighthearted, rhythmic, and whimsical nature of the subject"
+        },
+        {
+          "id": "c",
+          "text": "Because the poet ran out of paper"
+        },
+        {
+          "id": "d",
+          "text": "To sound like a solemn prayer"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "Short, rhythmic lines create a cheerful, bouncing tempo that perfectly aligns with the poem's whimsical and playful atmosphere."
+    },
+    {
+      "id": "ch5-q17",
+      "question": "What kind of imagination does this poem encourage in young readers?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Scientific observation of marine biology"
+        },
+        {
+          "id": "b",
+          "text": "Creative, fantastical thinking that finds joy in unusual surprises"
+        },
+        {
+          "id": "c",
+          "text": "Strict realism"
+        },
+        {
+          "id": "d",
+          "text": "Fear of strangers from the sea"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "The poem nurtures creative fantasy, encouraging children to imagine friendly encounters with fantastical beings without prejudice."
+    },
+    {
+      "id": "ch5-q18",
+      "question": "Which word best describes the funny man's behavior inside the house?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Aggressive"
+        },
+        {
+          "id": "b",
+          "text": "Inquisitive and wandering"
+        },
+        {
+          "id": "c",
+          "text": "Lazy and sleepy"
+        },
+        {
+          "id": "d",
+          "text": "Destructive"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "He exhibits an inquisitive, wandering curiosity as he peacefully inspects the novel human objects around him."
+    },
+    {
+      "id": "ch5-q19",
+      "question": "Why are saucer-shaped eyes useful for a creature from the deep sea?",
+      "options": [
+        {
+          "id": "a",
+          "text": "They look fashionable"
+        },
+        {
+          "id": "b",
+          "text": "Large eyes help capture faint light in dark underwater environments"
+        },
+        {
+          "id": "c",
+          "text": "They keep salt out"
+        },
+        {
+          "id": "d",
+          "text": "They help him swim faster"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "Biologically, deep-sea organisms often evolve exceptionally large, saucer-like eyes to maximize light absorption in pitch-black depths."
+    },
+    {
+      "id": "ch5-q20",
+      "question": "What happens when the funny man tries to sit on a chair?",
+      "options": [
+        {
+          "id": "a",
+          "text": "He breaks it"
+        },
+        {
+          "id": "b",
+          "text": "He slides off because his seaweed coat is slippery"
+        },
+        {
+          "id": "c",
+          "text": "He falls asleep immediately"
+        },
+        {
+          "id": "d",
+          "text": "He refuses to sit"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "His damp, slippery seaweed coat makes normal human furniture tricky to navigate, adding to the physical comedy."
+    },
+    {
+      "id": "ch5-q21",
+      "question": "What literary archetype does the 'funny man from the sea' represent in children's poetry?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The villainous monster"
+        },
+        {
+          "id": "b",
+          "text": "The benign, fantastical intruder who disrupts ordinary reality with joy"
+        },
+        {
+          "id": "c",
+          "text": "The strict moral mentor"
+        },
+        {
+          "id": "d",
+          "text": "The tragic hero"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "He represents the benign, fantastical intruder—a magical visitor who safely disrupts everyday mundane routines to spark wonder."
+    },
+    {
+      "id": "ch5-q22",
+      "question": "How does the poem use sensory details to contrast the ocean and the domestic house?",
+      "options": [
+        {
+          "id": "a",
+          "text": "By ignoring the setting"
+        },
+        {
+          "id": "b",
+          "text": "By bringing wet, slippery, bubbling oceanic textures directly into a dry, structured human home"
+        },
+        {
+          "id": "c",
+          "text": "By making the house underwater"
+        },
+        {
+          "id": "d",
+          "text": "By painting everything blue"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "The poem juxtaposes the wet, gurgling textures of the sea against the dry, ordered environment of a human house, highlighting visual comedy."
+    },
+    {
+      "id": "ch5-q23",
+      "question": "What underlying attitude toward the 'unknown' does the poem promote?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Caution and hostility"
+        },
+        {
+          "id": "b",
+          "text": "Open-minded curiosity, delight, and acceptance of differences"
+        },
+        {
+          "id": "c",
+          "text": "Immediate scientific dissection"
+        },
+        {
+          "id": "d",
+          "text": "Indifference"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "By framing a bizarre sea-creature as lovable and funny, the poem implicitly teaches children to approach the unfamiliar with open-minded joy."
+    },
+    {
+      "id": "ch5-q24",
+      "question": "The repetition of consonant sounds in 'funny fishy feet' is an example of:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Assonance"
+        },
+        {
+          "id": "b",
+          "text": "Alliteration"
+        },
+        {
+          "id": "c",
+          "text": "Onomatopoeia"
+        },
+        {
+          "id": "d",
+          "text": "Enjambment"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "The repetition of the initial 'f' consonant sound across adjacent words ('funny fishy feet') is a classic example of alliteration."
+    },
+    {
+      "id": "ch5-q25",
+      "question": "Why is nonsense verse or light verse important in language acquisition for Class 7 students?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It teaches strict grammatical rules"
+        },
+        {
+          "id": "b",
+          "text": "It develops phonological awareness, imaginative flexibility, and joy in linguistic play"
+        },
+        {
+          "id": "c",
+          "text": "It prepares them for technical writing"
+        },
+        {
+          "id": "d",
+          "text": "It replaces historical facts"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "Light verse expands phonological awareness and encourages imaginative flexibility by showing how language can be used playfully beyond strict realism."
+    },
+    {
+      "id": "ch5-q26",
+      "question": "What is the metrical effect of using polysyllabic words mixed with monosyllabic rhymes here?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It creates a monotonous drone"
+        },
+        {
+          "id": "b",
+          "text": "It produces a syncopated, musical cadence that mimics the creature's waddling steps"
+        },
+        {
+          "id": "c",
+          "text": "It destroys the rhyme scheme"
+        },
+        {
+          "id": "d",
+          "text": "It makes the poem unreadable aloud"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "The interplay of syllables creates a bouncy, musical rhythm that audibly mimics the playful, waddling steps of the sea creature."
+    },
+    {
+      "id": "ch5-q27",
+      "question": "How does the poet avoid making the sea creature seem monstrous or frightening?",
+      "options": [
+        {
+          "id": "a",
+          "text": "By giving him human weapons"
+        },
+        {
+          "id": "b",
+          "text": "By emphasizing his smallness, bubbling sounds, and harmless curiosity rather than claws or teeth"
+        },
+        {
+          "id": "c",
+          "text": "By making him invisible"
+        },
+        {
+          "id": "d",
+          "text": "By keeping him locked in a cage"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "The poet deliberately omits predatory traits (claws, sharp teeth), focusing instead on whimsical, non-threatening features like bubbles and saucer-eyes."
+    },
+    {
+      "id": "ch5-q28",
+      "question": "What is the semantic overlap between 'saucer' and 'bubble' in visual imagery?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Both are heavy and solid"
+        },
+        {
+          "id": "b",
+          "text": "Both evoke round, delicate, and reflective geometric shapes"
+        },
+        {
+          "id": "c",
+          "text": "Both are sharp and angular"
+        },
+        {
+          "id": "d",
+          "text": "Both are dark and opaque"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "Both keywords evoke spheres and circles ('saucer' being round, 'bubble' being spherical), creating a cohesive geometric motif of roundness."
+    },
+    {
+      "id": "ch5-q29",
+      "question": "If the funny man represents the natural world entering human spaces, what is the ecological takeaway?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nature is messy and must be destroyed"
+        },
+        {
+          "id": "b",
+          "text": "Human spaces and natural wonders can intersect harmoniously when met with kindness"
+        },
+        {
+          "id": "c",
+          "text": "Animals should never leave the ocean"
+        },
+        {
+          "id": "d",
+          "text": "Houses must be built inside the sea"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "The harmonious, joyful interaction symbolizes that human society and natural biodiversity can coexist beautifully when met with kindness."
+    },
+    {
+      "id": "ch5-q30",
+      "question": "Why does the poem lack a complex plot or moral climax?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The author forgot to write an ending"
+        },
+        {
+          "id": "b",
+          "text": "Its primary artistic goal is atmospheric delight and character sketch, not dramatic conflict"
+        },
+        {
+          "id": "c",
+          "text": "It is an incomplete draft"
+        },
+        {
+          "id": "d",
+          "text": "Children cannot understand plots"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "As character-focused light verse, its artistic triumph lies in painting a vivid, delightful character portrait rather than resolving a dramatic conflict."
+    }
+  ]
+}

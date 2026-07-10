@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "ch7-q1",
+      "question": "Who are the two main sibling characters in this humorous story?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ram and Shyam"
+        },
+        {
+          "id": "b",
+          "text": "The narrator and her inventive brother"
+        },
+        {
+          "id": "c",
+          "text": "Alice and Peter"
+        },
+        {
+          "id": "d",
+          "text": "Tom and Jerry"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "The story revolves around the observant narrator and her imaginative, tinkering elder brother."
+    },
+    {
+      "id": "ch7-q2",
+      "question": "What does the brother constantly love doing in his spare time?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sleeping all day long"
+        },
+        {
+          "id": "b",
+          "text": "Tinkering with old parts to build bizarre mechanical inventions"
+        },
+        {
+          "id": "c",
+          "text": "Playing football in the rain"
+        },
+        {
+          "id": "d",
+          "text": "Painting watercolors on canvas"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "The brother is a passionate home inventor who spends hours constructing unusual mechanical contraptions out of household scraps."
+    },
+    {
+      "id": "ch7-q3",
+      "question": "Where does the brother set up his makeshift workshop?",
+      "options": [
+        {
+          "id": "a",
+          "text": "In the school laboratory"
+        },
+        {
+          "id": "b",
+          "text": "In the dusty family garage or shed"
+        },
+        {
+          "id": "c",
+          "text": "On the kitchen table"
+        },
+        {
+          "id": "d",
+          "text": "Up on the roof of the house"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "He takes over the dusty family garage/shed, filling it with gears, wires, and tools for his experiments."
+    },
+    {
+      "id": "ch7-q4",
+      "question": "What is the brother's latest 'great' invention intended to do?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fly to the moon automatically"
+        },
+        {
+          "id": "b",
+          "text": "Perform a simple household task like feeding the dog or brushing hair in a complicated way"
+        },
+        {
+          "id": "c",
+          "text": "Print paper money out of thin air"
+        },
+        {
+          "id": "d",
+          "text": "Make people invisible instantly"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "In true Rube Goldberg fashion, his complex machine is designed to perform a trivial everyday task through a hilarious chain reaction."
+    },
+    {
+      "id": "ch7-q5",
+      "question": "How does the narrator feel about her brother's experiments?",
+      "options": [
+        {
+          "id": "a",
+          "text": "She is completely terrified and runs away"
+        },
+        {
+          "id": "b",
+          "text": "She is skeptical, highly amused, and acts as his reluctant assistant"
+        },
+        {
+          "id": "c",
+          "text": "She reports him to the police every day"
+        },
+        {
+          "id": "d",
+          "text": "She ignores him completely without looking"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "The narrator watches with a mix of loving skepticism, humor, and curiosity, often getting roped into testing his wild creations."
+    },
+    {
+      "id": "ch7-q6",
+      "question": "What happens when the brother finally turns the switch ON for his grand demonstration?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It works smoothly right away without a sound"
+        },
+        {
+          "id": "b",
+          "text": "It makes clattering noises, spins wildly, and creates a messy disaster"
+        },
+        {
+          "id": "c",
+          "text": "It turns into solid gold"
+        },
+        {
+          "id": "d",
+          "text": "It plays gentle classical music"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "Instead of working smoothly, the machine rattles, clatters, sparks, and triggers a chaotic, comical mishap across the room."
+    },
+    {
+      "id": "ch7-q7",
+      "question": "Does the brother give up and cry when his invention fails?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Yes, he smashes his tools and vows never to invent again"
+        },
+        {
+          "id": "b",
+          "text": "No, he remains enthusiastically optimistic and immediately plans his next modification"
+        },
+        {
+          "id": "c",
+          "text": "He goes to sleep for three days straight"
+        },
+        {
+          "id": "d",
+          "text": "He blames his sister and kicks her out"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "Displaying the true spirit of an inventor, he brushes off the chaotic failure with unshakeable optimism and eagerly plans his next tweak."
+    },
+    {
+      "id": "ch7-q8",
+      "question": "Who usually has to clean up the mess left behind by the experiments?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The neighbors from across the street"
+        },
+        {
+          "id": "b",
+          "text": "The siblings together, before their parents notice"
+        },
+        {
+          "id": "c",
+          "text": "The family cat"
+        },
+        {
+          "id": "d",
+          "text": "Nobody ever cleans it up"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "The brother and sister frantically scramble to clean up spilled grease, parts, and chaos before their parents discover the laboratory mishap."
+    },
+    {
+      "id": "ch7-q9",
+      "question": "What material does the brother frequently recycle for his contraptions?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Solid diamonds and rubies"
+        },
+        {
+          "id": "b",
+          "text": "Old bicycle chains, tin cans, springs, and string"
+        },
+        {
+          "id": "c",
+          "text": "Fresh bread and cheese"
+        },
+        {
+          "id": "d",
+          "text": "Glass window panes"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "His mechanical masterpieces are patched together ingeniously from discarded bicycle chains, tin cans, rusty springs, and lengths of string."
+    },
+    {
+      "id": "ch7-q10",
+      "question": "What is the primary genre of this chapter?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dark, scary horror"
+        },
+        {
+          "id": "b",
+          "text": "Humorous family fiction celebrating creativity and sibling bonding"
+        },
+        {
+          "id": "c",
+          "text": "Strict historical biography"
+        },
+        {
+          "id": "d",
+          "text": "Tragic drama"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "The story is a warm, humorous slice of family fiction that celebrates childhood ingenuity, resilience, and affectionate sibling relationships."
+    },
+    {
+      "id": "ch7-q11",
+      "question": "What is a 'Rube Goldberg machine', and how does the brother's creation resemble one?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A supercomputer; it computes math instantly"
+        },
+        {
+          "id": "b",
+          "text": "An overly complex, multi-step mechanical contraption designed to perform a very simple task; his machine uses chains and pulleys for basic chores"
+        },
+        {
+          "id": "c",
+          "text": "A type of racing car; his invention moves at high speeds"
+        },
+        {
+          "id": "d",
+          "text": "A musical instrument; it plays orchestral symphonies"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "Named after cartoonist Rube Goldberg, these machines use absurdly convoluted chain reactions of levers and pulleys to accomplish trivial chores, mirroring the brother's style."
+    },
+    {
+      "id": "ch7-q12",
+      "question": "Why is the narrator's perspective essential for the comedic effect of the story?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Because she speaks in poetry"
+        },
+        {
+          "id": "b",
+          "text": "Her grounded, witty, and realistic commentary contrasts sharply with her brother's wild, eccentric enthusiasm"
+        },
+        {
+          "id": "c",
+          "text": "She knows more about advanced physics than the professors"
+        },
+        {
+          "id": "d",
+          "text": "She is blindfolded the entire time"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "The humor relies on juxtaposition: the brother's grand, serious scientific delusions are observed through the practical, witty lens of his skeptical sister."
+    },
+    {
+      "id": "ch7-q13",
+      "question": "How do the parents generally react to the brother's inventive hobbies when they find out?",
+      "options": [
+        {
+          "id": "a",
+          "text": "They ban him from ever entering the garage again"
+        },
+        {
+          "id": "b",
+          "text": "They show patient indulgence and mild worry about safety, while admiring his curiosity"
+        },
+        {
+          "id": "c",
+          "text": "They immediately sell all his tools to a junkyard"
+        },
+        {
+          "id": "d",
+          "text": "They force him to become a professional engineer at age ten"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "The parents exhibit healthy parenting—balancing necessary safety concerns with gentle encouragement of their son's scientific curiosity and mechanical aptitude."
+    },
+    {
+      "id": "ch7-q14",
+      "question": "What role does resilience play in the character development of the young inventor?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It makes him stubborn and rude to his family"
+        },
+        {
+          "id": "b",
+          "text": "It teaches him to view every mechanical failure not as defeat, but as invaluable data for future refinement"
+        },
+        {
+          "id": "c",
+          "text": "It makes him forget about doing his homework entirely"
+        },
+        {
+          "id": "d",
+          "text": "It has no measurable role in his life"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "His unshakeable resilience embodies the core mindset of innovation: viewing setbacks purely as iterative learning opportunities and stepping stones toward eventual mastery."
+    },
+    {
+      "id": "ch7-q15",
+      "question": "Analyze the significance of the title 'My Brother's Great Invention'. Why might 'Great' be somewhat ironic?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The invention is actually invisible to the human eye"
+        },
+        {
+          "id": "b",
+          "text": "While his enthusiasm is grand, the actual physical output is usually a minor, chaotic household disaster rather than a world-changing discovery"
+        },
+        {
+          "id": "c",
+          "text": "The machine costs a million dollars to construct"
+        },
+        {
+          "id": "d",
+          "text": "He stole the invention idea from his sister"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "The adjective 'Great' carries affectionate irony; his ambition and imagination are monumental, but the functional result is comically flawed and chaotic."
+    },
+    {
+      "id": "ch7-q16",
+      "question": "What does the brother's use of recycled household items demonstrate about genuine creativity?",
+      "options": [
+        {
+          "id": "a",
+          "text": "That true creativity requires millions of dollars in laboratory funding"
+        },
+        {
+          "id": "b",
+          "text": "That ingenuity thrives on constraints, transforming everyday refuse into imaginative engineering marvels"
+        },
+        {
+          "id": "c",
+          "text": "That he is simply too lazy to go to the store"
+        },
+        {
+          "id": "d",
+          "text": "That plastic is better than metal for complex electronics"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "His resourcefulness illustrates that creativity is not dependent on expensive materials, but on the ability to see novel possibilities in everyday objects."
+    },
+    {
+      "id": "ch7-q17",
+      "question": "How does the sibling dynamic evolve throughout the course of the experiment and its aftermath?",
+      "options": [
+        {
+          "id": "a",
+          "text": "They end up hating each other and not speaking for months"
+        },
+        {
+          "id": "b",
+          "text": "From teasing skepticism to shared adrenaline during the disaster, culminating in collaborative solidarity while cleaning up"
+        },
+        {
+          "id": "c",
+          "text": "The brother locks the sister out and works completely alone"
+        },
+        {
+          "id": "d",
+          "text": "The sister takes all the credit for the invention when the parents arrive"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "The shared experience of anticipation, comical disaster, and frantic cleanup deepens their bond, transforming teasing skepticism into affectionate camaraderie."
+    },
+    {
+      "id": "ch7-q18",
+      "question": "Identify the specific sensory details used to describe the moment the machine malfunctioned.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Soft whispers and the smell of fresh roses"
+        },
+        {
+          "id": "b",
+          "text": "Deafening rattles, screeching gears, flying springs, and the acrid scent of burning rubber or oil"
+        },
+        {
+          "id": "c",
+          "text": "Complete absolute silence and pitch black darkness"
+        },
+        {
+          "id": "d",
+          "text": "The taste of sweet chocolate cake and bright rainbows"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "Vivid sensory imagery—such as screeching metal, popping springs, and puffs of smoke—immerses the reader in the chaotic physical comedy of the malfunction."
+    },
+    {
+      "id": "ch7-q19",
+      "question": "What lesson does the brother's hobby teach about the balance between theoretical planning and practical testing?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Testing is unnecessary if your drawings on paper look pretty enough"
+        },
+        {
+          "id": "b",
+          "text": "Real-world friction, gravity, and material limitations often challenge theoretical designs, making hands-on experimentation indispensable"
+        },
+        {
+          "id": "c",
+          "text": "Theoretical planning is completely useless; one should only hammer things randomly"
+        },
+        {
+          "id": "d",
+          "text": "Only adults can understand how gravity works in a garage"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "His mishaps humorously demonstrate that theoretical sketches must withstand real-world physical constraints like friction and torque, highlighting the value of empirical testing."
+    },
+    {
+      "id": "ch7-q20",
+      "question": "Why do readers naturally root for the brother despite his continuous, comical failures?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Because he pays the readers money"
+        },
+        {
+          "id": "b",
+          "text": "His infectious passion, earnest dedication, and harmless optimism make him a deeply endearing, relatable underdog"
+        },
+        {
+          "id": "c",
+          "text": "Because the sister is portrayed as an evil villain"
+        },
+        {
+          "id": "d",
+          "text": "Because everyone loves seeing garages get completely destroyed"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "Readers empathize with his genuine enthusiasm and courageous willingness to try without fear of embarrassment, traits universally admired in creative dreamers."
+    },
+    {
+      "id": "ch7-q21",
+      "question": "How does the story utilize the archetype of the 'mad scientist' in a benign, domestic context?",
+      "options": [
+        {
+          "id": "a",
+          "text": "By depicting the brother creating dangerous biological weapons in a dungeon"
+        },
+        {
+          "id": "b",
+          "text": "By domesticating eccentric scientific tropes (goggles, obsessive focus, elaborate blueprints) into charming, safe childhood play"
+        },
+        {
+          "id": "c",
+          "text": "By making him speak with a foreign accent and conquer the neighborhood"
+        },
+        {
+          "id": "d",
+          "text": "By having him fight monsters from outer space"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "The story playfully adapts adult tropes of obsessive invention into the safe, wholesome arena of childhood experimentation, celebrating curiosity over perfection."
+    },
+    {
+      "id": "ch7-q22",
+      "question": "Examine the narrative pacing during the climax when the machine is activated. How does syntax enhance the comedy?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Long, slow, compound sentences that describe historical events in detail"
+        },
+        {
+          "id": "b",
+          "text": "Rapid-fire, fragmented clauses and active, onomatopoeic verbs that mirror the fast-paced mechanical breakdown"
+        },
+        {
+          "id": "c",
+          "text": "Complete omission of verbs to create a static, frozen picture"
+        },
+        {
+          "id": "d",
+          "text": "Writing the entire climax in Latin legal terminology"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "Quick, staccato clauses combined with vivid onomatopoeia ('snap!' 'whir!' 'boing!') accelerate the reading pace, matching the rapid chain reaction of the disaster."
+    },
+    {
+      "id": "ch7-q23",
+      "question": "In what ways does this narrative subvert traditional Victorian expectations of childhood obedience and passive play?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It shows children sitting quietly with hands folded reciting hymns"
+        },
+        {
+          "id": "b",
+          "text": "It celebrates active, messy, self-directed experimentation and intellectual autonomy over passive, clean conformity"
+        },
+        {
+          "id": "c",
+          "text": "It encourages children to run away from school and join the circus"
+        },
+        {
+          "id": "d",
+          "text": "It argues that children should only play with wooden blocks"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "Rather than depicting children as passive recipients of adult instruction, the text champions autonomous inquiry, hands-on construction, and experiential learning."
+    },
+    {
+      "id": "ch7-q24",
+      "question": "What philosophical alignment exists between the brother's iterative failures and Thomas Edison's famous quote about lightbulbs?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Both believe that failure is a sign of personal intellectual inferiority"
+        },
+        {
+          "id": "b",
+          "text": "Both view unsuccessful attempts not as failures, but as successfully discovering methods that do not work on the path to truth"
+        },
+        {
+          "id": "c",
+          "text": "Edison never failed, whereas the brother fails constantly"
+        },
+        {
+          "id": "d",
+          "text": "There is no philosophical connection between invention and experimentation"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "His mindset embodies Edison's empirical resilience: each mechanical breakdown eliminates a flawed hypothesis, bringing the inventor closer to functional truth."
+    },
+    {
+      "id": "ch7-q25",
+      "question": "Analyze the structural balance between dialogue and descriptive narration in conveying character traits.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The story uses only dialogue without any description of setting or action"
+        },
+        {
+          "id": "b",
+          "text": "Dialogue reveals the brother's grandiose confidence and sister's wit, while descriptive narration tracks the chaotic physical reality of the machine"
+        },
+        {
+          "id": "c",
+          "text": "The narrator speaks in monologues while the brother remains entirely mute"
+        },
+        {
+          "id": "d",
+          "text": "Descriptive narration is only used to list technical specifications of tools"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "The interplay is masterful: dialogue showcases psychological attitudes and humor, while kinetic descriptive passages deliver the visual slapstick of the machinery."
+    },
+    {
+      "id": "ch7-q26",
+      "question": "How does the concept of 'productive failure' manifest in modern STEM education, mirroring the brother's garage laboratory?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Modern schools punish any student whose experiment does not work on the first try"
+        },
+        {
+          "id": "b",
+          "text": "STEM pedagogy values productive failure as the critical mechanism for deep conceptual understanding and problem-solving resilience"
+        },
+        {
+          "id": "c",
+          "text": "Students are only allowed to watch videos of experiments without touching materials"
+        },
+        {
+          "id": "d",
+          "text": "Productive failure means breaking laboratory equipment on purpose to end class early"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "Contemporary educational theory recognizes that grappling with real-world design flaws and debugging errors builds deeper cognitive mastery than rote imitation."
+    },
+    {
+      "id": "ch7-q27",
+      "question": "What does the sister's willingness to assist her brother, despite knowing the likely chaotic outcome, reveal about interpersonal loyalty?",
+      "options": [
+        {
+          "id": "a",
+          "text": "She is forced by her parents under threat of severe punishment"
+        },
+        {
+          "id": "b",
+          "text": "It demonstrates that shared emotional intimacy and sibling loyalty often override pragmatic cynicism or fear of mess"
+        },
+        {
+          "id": "c",
+          "text": "She only helps him because she wants to steal his pocket money later"
+        },
+        {
+          "id": "d",
+          "text": "She believes the machine will turn her into a princess"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "Her voluntary participation proves that familial affection and shared joy in shared adventures supersede practical skepticism and the inconvenience of cleaning up."
+    },
+    {
+      "id": "ch7-q28",
+      "question": "Contrast the socio-technical symbolism of the brother's handcrafted mechanical contraption with modern digital screens.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Both require sitting still in complete silence for hours"
+        },
+        {
+          "id": "b",
+          "text": "His tactile, kinetic creation represents tangible engagement with physical laws, contrasting with abstract, passive digital consumption"
+        },
+        {
+          "id": "c",
+          "text": "Digital screens are made of rusty bicycle chains, while his machine is a supercomputer"
+        },
+        {
+          "id": "d",
+          "text": "There is no difference; gears and software code work exactly the same way physically"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "The physical construction of levers and gears grounds the child in the tangible mechanics of cause-and-effect, fostering spatial and engineering literacy lost in pure digital interfaces."
+    },
+    {
+      "id": "ch7-q29",
+      "question": "Explore how the author uses situational irony when the machine finally completes (or fails to complete) its designated task.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The machine works perfectly, which makes everyone cry with sorrow"
+        },
+        {
+          "id": "b",
+          "text": "The massive, thunderous effort expended by the complex contraption results in either complete inaction or the exact opposite of the intended simple chore"
+        },
+        {
+          "id": "c",
+          "text": "The machine turns into a live elephant and walks out the door"
+        },
+        {
+          "id": "d",
+          "text": "The brother forgets what the machine was supposed to do before turning it on"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "The situational irony lies in the stark disproportion between the monumental mechanical buildup and the utterly futile, comical result of the action."
+    },
+    {
+      "id": "ch7-q30",
+      "question": "What is the ultimate pedagogical rationale for including humorous, light-hearted fiction alongside serious essays in Class 7 English?",
+      "options": [
+        {
+          "id": "a",
+          "text": "To fill up empty pages in the textbook quickly"
+        },
+        {
+          "id": "b",
+          "text": "To cultivate emotional intelligence, aesthetic appreciation of humor, and sustained reading enjoyment across diverse literary genres"
+        },
+        {
+          "id": "c",
+          "text": "To make students laugh so they stop thinking critically about grammar"
+        },
+        {
+          "id": "d",
+          "text": "Because serious essays are illegal for children under twelve years old"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "A balanced curriculum integrates humor to nurture reading stamina, emotional resonance, and critical appreciation of how language creates joy across varied genres."
+    }
+  ]
+}

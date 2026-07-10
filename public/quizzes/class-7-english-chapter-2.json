@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "ch2-q1",
+      "question": "Who is the human subject of the poem?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A farmer"
+        },
+        {
+          "id": "b",
+          "text": "King Bruce"
+        },
+        {
+          "id": "c",
+          "text": "A soldier"
+        },
+        {
+          "id": "d",
+          "text": "A teacher"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "The poem narrates the historical legend of King Bruce of Scotland."
+    },
+    {
+      "id": "ch2-q2",
+      "question": "What tiny creature inspires the King?",
+      "options": [
+        {
+          "id": "a",
+          "text": "An ant"
+        },
+        {
+          "id": "b",
+          "text": "A bird"
+        },
+        {
+          "id": "c",
+          "text": "A spider"
+        },
+        {
+          "id": "d",
+          "text": "A bee"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "c",
+      "explanation": "A persistent little spider attempting to climb up to its web inspires the discouraged King."
+    },
+    {
+      "id": "ch2-q3",
+      "question": "How does the King feel at the very beginning?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Joyful"
+        },
+        {
+          "id": "b",
+          "text": "Hopeless and sad"
+        },
+        {
+          "id": "c",
+          "text": "Angry"
+        },
+        {
+          "id": "d",
+          "text": "Excited"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "At the start, King Bruce feels hopeless, dejected, and sad after suffering repeated defeats."
+    },
+    {
+      "id": "ch2-q4",
+      "question": "What is the central message of the poem?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sleep well"
+        },
+        {
+          "id": "b",
+          "text": "Keep trying until you succeed"
+        },
+        {
+          "id": "c",
+          "text": "Fight hard"
+        },
+        {
+          "id": "d",
+          "text": "Animals are smart"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "The enduring message is perseverance—'Try, try again' until you overcome all obstacles and succeed."
+    },
+    {
+      "id": "ch2-q5",
+      "question": "Who is the poet of this inspirational piece?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Eliza Cook"
+        },
+        {
+          "id": "b",
+          "text": "Kamala Nair"
+        },
+        {
+          "id": "c",
+          "text": "Ruskin Bond"
+        },
+        {
+          "id": "d",
+          "text": "Rabindranath Tagore"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "a",
+      "explanation": "The inspirational narrative poem 'Try Again' (also known as King Bruce and the Spider) was written by English poet Eliza Cook."
+    },
+    {
+      "id": "ch2-q6",
+      "question": "What is the tiny creature trying to do?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Catch a fly"
+        },
+        {
+          "id": "b",
+          "text": "Build a nest"
+        },
+        {
+          "id": "c",
+          "text": "Climb up to its web"
+        },
+        {
+          "id": "d",
+          "text": "Hide from the rain"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "c",
+      "explanation": "The spider is attempting to climb up a delicate thread to reach its web in the ceiling."
+    },
+    {
+      "id": "ch2-q7",
+      "question": "What does the creature do every time it falls?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It gives up"
+        },
+        {
+          "id": "b",
+          "text": "It cries"
+        },
+        {
+          "id": "c",
+          "text": "It tries again"
+        },
+        {
+          "id": "d",
+          "text": "It goes to sleep"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "c",
+      "explanation": "Despite falling down repeatedly, the spider never gives up and immediately tries climbing up again."
+    },
+    {
+      "id": "ch2-q8",
+      "question": "Does the King eventually succeed in his own goals?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Yes"
+        },
+        {
+          "id": "b",
+          "text": "No"
+        },
+        {
+          "id": "c",
+          "text": "The poem doesn't say"
+        },
+        {
+          "id": "d",
+          "text": "He surrenders"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "a",
+      "explanation": "Inspired by the spider's triumph, King Bruce rallies his determination and eventually succeeds in achieving victory for his people."
+    },
+    {
+      "id": "ch2-q9",
+      "question": "Which country does King Bruce rule?",
+      "options": [
+        {
+          "id": "a",
+          "text": "England"
+        },
+        {
+          "id": "b",
+          "text": "Scotland"
+        },
+        {
+          "id": "c",
+          "text": "Ireland"
+        },
+        {
+          "id": "d",
+          "text": "Wales"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "Historical legend attributes this story to Robert the Bruce, King of Scotland."
+    },
+    {
+      "id": "ch2-q10",
+      "question": "How does watching the creature affect the King?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It scares him"
+        },
+        {
+          "id": "b",
+          "text": "It annoys him"
+        },
+        {
+          "id": "c",
+          "text": "It inspires him to try again"
+        },
+        {
+          "id": "d",
+          "text": "It puzzles him"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "c",
+      "explanation": "Witnessing the tiny spider succeed after multiple attempts deeply inspires King Bruce to renew his own efforts."
+    },
+    {
+      "id": "ch2-q11",
+      "question": "How many times does the creature fail before finally succeeding?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Three"
+        },
+        {
+          "id": "b",
+          "text": "Seven"
+        },
+        {
+          "id": "c",
+          "text": "Nine"
+        },
+        {
+          "id": "d",
+          "text": "Twelve"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "c",
+      "explanation": "According to the poem, the spider attempts and fails nine times before finally reaching its web on the tenth attempt."
+    },
+    {
+      "id": "ch2-q12",
+      "question": "What was the creature trying to climb on?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A delicate thread"
+        },
+        {
+          "id": "b",
+          "text": "A thick rope"
+        },
+        {
+          "id": "c",
+          "text": "A wooden branch"
+        },
+        {
+          "id": "d",
+          "text": "A stone wall"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "a",
+      "explanation": "The spider climbs upward along its own fine, delicate silken thread."
+    },
+    {
+      "id": "ch2-q13",
+      "question": "Why was the King trying to do a \"great deed\"?",
+      "options": [
+        {
+          "id": "a",
+          "text": "For personal wealth"
+        },
+        {
+          "id": "b",
+          "text": "For the good of his people"
+        },
+        {
+          "id": "c",
+          "text": "To gain fame"
+        },
+        {
+          "id": "d",
+          "text": "To get revenge"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "As a noble ruler, King Bruce strove to perform a great deed for the welfare, freedom, and good of his people."
+    },
+    {
+      "id": "ch2-q14",
+      "question": "What does the phrase \"steadily, inch by inch\" indicate?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Extreme speed"
+        },
+        {
+          "id": "b",
+          "text": "Patient persistence"
+        },
+        {
+          "id": "c",
+          "text": "Deep fear"
+        },
+        {
+          "id": "d",
+          "text": "Sudden anger"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "'Steadily, inch by inch' highlights patient, methodical, and unyielding persistence toward a goal."
+    },
+    {
+      "id": "ch2-q15",
+      "question": "Which word from the poem means \"to try very hard to achieve something\"?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Toil"
+        },
+        {
+          "id": "b",
+          "text": "Strive"
+        },
+        {
+          "id": "c",
+          "text": "Braced"
+        },
+        {
+          "id": "d",
+          "text": "Rest"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "To 'strive' means to make great efforts and struggle earnestly to achieve a goal."
+    },
+    {
+      "id": "ch2-q16",
+      "question": "What specific rule does the poet say we should keep in view?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Always run away"
+        },
+        {
+          "id": "b",
+          "text": "Try, try again"
+        },
+        {
+          "id": "c",
+          "text": "Always ask for help"
+        },
+        {
+          "id": "d",
+          "text": "Accept defeat quietly"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "The poet urges readers to keep the golden rule 'Try, try again' constantly in view whenever faced with adversity."
+    },
+    {
+      "id": "ch2-q17",
+      "question": "How does the creature's physical state change as it falls repeatedly?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It grows much larger"
+        },
+        {
+          "id": "b",
+          "text": "It becomes dizzy and faint"
+        },
+        {
+          "id": "c",
+          "text": "It moves much faster"
+        },
+        {
+          "id": "d",
+          "text": "It changes color"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "After tumbling down repeatedly, the spider becomes exhausted, dizzy, and faint, making its continued effort even more heroic."
+    },
+    {
+      "id": "ch2-q18",
+      "question": "According to the poem's lesson, what do failures act as?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Unbreakable barriers"
+        },
+        {
+          "id": "b",
+          "text": "Stepping stones to eventual success"
+        },
+        {
+          "id": "c",
+          "text": "Terrible enemies"
+        },
+        {
+          "id": "d",
+          "text": "Permanent punishments"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "Failures and setbacks are framed not as final defeats, but as vital learning experiences and stepping stones to eventual triumph."
+    },
+    {
+      "id": "ch2-q19",
+      "question": "What does the King declare after the creature succeeds?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"It is just lucky\""
+        },
+        {
+          "id": "b",
+          "text": "\"It has conquered and so will I\""
+        },
+        {
+          "id": "c",
+          "text": "\"I cannot do it\""
+        },
+        {
+          "id": "d",
+          "text": "\"The web is too weak\""
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "Witnessing the spider conquer its challenge, King Bruce exclaims, 'It has conquered and so will I!'"
+    },
+    {
+      "id": "ch2-q20",
+      "question": "What style of writing is this poem?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A song"
+        },
+        {
+          "id": "b",
+          "text": "A storytelling or narrative style"
+        },
+        {
+          "id": "c",
+          "text": "A short play"
+        },
+        {
+          "id": "d",
+          "text": "A news report"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "The poem is written in a narrative style, telling a structured story with characters, conflict, climax, and a moral conclusion."
+    },
+    {
+      "id": "ch2-q21",
+      "question": "What is the consistent rhyme scheme of \"Try Again\"?",
+      "options": [
+        {
+          "id": "a",
+          "text": "ABAB"
+        },
+        {
+          "id": "b",
+          "text": "AABB"
+        },
+        {
+          "id": "c",
+          "text": "ABBA"
+        },
+        {
+          "id": "d",
+          "text": "ABCB"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "The poem primarily uses rhyming couplets following an AABB rhyme scheme throughout its stanzas."
+    },
+    {
+      "id": "ch2-q22",
+      "question": "Comparing the creature's repeated climbing to the King's own life struggle is an example of which literary device?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Simile"
+        },
+        {
+          "id": "b",
+          "text": "Metaphor"
+        },
+        {
+          "id": "c",
+          "text": "Alliteration"
+        },
+        {
+          "id": "d",
+          "text": "Hyperbole"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "The spider's struggle serves as an extended metaphor for human resilience and the King's battle for his nation's freedom."
+    },
+    {
+      "id": "ch2-q23",
+      "question": "What is the precise meaning of the word \"endeavour\"?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A difficult or new attempt to achieve something"
+        },
+        {
+          "id": "b",
+          "text": "To give up entirely"
+        },
+        {
+          "id": "c",
+          "text": "A lazy, slow walk"
+        },
+        {
+          "id": "d",
+          "text": "A sudden, painful fall"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "a",
+      "explanation": "An 'endeavour' refers to a serious, determined effort or attempt to achieve a challenging objective."
+    },
+    {
+      "id": "ch2-q24",
+      "question": "Why does the poet intentionally repeat phrases like \"tried and tried\" and \"steadily, steadily\"?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Due to a lack of vocabulary"
+        },
+        {
+          "id": "b",
+          "text": "To emphasize continuous effort and determination"
+        },
+        {
+          "id": "c",
+          "text": "To confuse the reader"
+        },
+        {
+          "id": "d",
+          "text": "To make the poem longer"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "Repetition of verbs and adverbs reinforces the central theme of unrelenting persistence and continuous, arduous effort."
+    },
+    {
+      "id": "ch2-q25",
+      "question": "What is the primary effect of using contractions like 'twas and 'tis?",
+      "options": [
+        {
+          "id": "a",
+          "text": "To modernize the language"
+        },
+        {
+          "id": "b",
+          "text": "To maintain the poem's rhythm and meter"
+        },
+        {
+          "id": "c",
+          "text": "To show informal speech"
+        },
+        {
+          "id": "d",
+          "text": "To hide the true meaning"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "Poetic contractions like ''twas' (it was) and ''tis' (it is) preserve the exact syllable count, meter, and rhythmic cadence of the verse."
+    },
+    {
+      "id": "ch2-q26",
+      "question": "The expression \"Ah me!\" used by the King indicates a sense of:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sudden joy"
+        },
+        {
+          "id": "b",
+          "text": "Stress, worry, and despair"
+        },
+        {
+          "id": "c",
+          "text": "Violent anger"
+        },
+        {
+          "id": "d",
+          "text": "Immediate relief"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "'Ah me!' is a traditional sigh expressing emotional distress, worry, fatigue, and heavy-hearted despair."
+    },
+    {
+      "id": "ch2-q27",
+      "question": "How does the first stanza function in the context of the whole poem?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It sets a joyful tone"
+        },
+        {
+          "id": "b",
+          "text": "It sets a mood of despair and hopelessness to contrast with the ending"
+        },
+        {
+          "id": "c",
+          "text": "It creates deep suspense"
+        },
+        {
+          "id": "d",
+          "text": "It establishes a romantic setting"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "The opening stanza establishes a bleak atmosphere of failure and despair, creating a dramatic contrast with the triumphant conclusion."
+    },
+    {
+      "id": "ch2-q28",
+      "question": "Which of the following is the best example of a metaphor?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Brave as a lion"
+        },
+        {
+          "id": "b",
+          "text": "His courage was a guiding beacon"
+        },
+        {
+          "id": "c",
+          "text": "Fast like the wind"
+        },
+        {
+          "id": "d",
+          "text": "He slept like a log"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "'His courage was a guiding beacon' directly equates two distinct things without using 'like' or 'as', making it a classic metaphor."
+    },
+    {
+      "id": "ch2-q29",
+      "question": "What abstract concept does the spider primarily symbolize?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Irrational fear"
+        },
+        {
+          "id": "b",
+          "text": "Unyielding resilience and optimism"
+        },
+        {
+          "id": "c",
+          "text": "Hidden danger"
+        },
+        {
+          "id": "d",
+          "text": "Royal power"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "The tiny spider stands as a timeless symbol of unyielding resilience, patience, optimism, and fortitude against overwhelming odds."
+    },
+    {
+      "id": "ch2-q30",
+      "question": "What overarching philosophical lesson is presented through the narrative?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kings are always successful"
+        },
+        {
+          "id": "b",
+          "text": "Every mistake offers a valuable learning experience leading to success"
+        },
+        {
+          "id": "c",
+          "text": "Nature is cruel and unforgiving"
+        },
+        {
+          "id": "d",
+          "text": "Spiders are the smartest insects"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "The underlying philosophy is that setbacks are temporary and instructive; persistence transforms every mistake into a pathway toward success."
+    }
+  ]
+}

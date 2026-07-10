@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "ch6-q1",
+      "question": "What is the main topic of this chapter?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cooking a meal"
+        },
+        {
+          "id": "b",
+          "text": "How to speak politely and use tact in daily conversation"
+        },
+        {
+          "id": "c",
+          "text": "Driving a car safely"
+        },
+        {
+          "id": "d",
+          "text": "Building a wooden house"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "The chapter focuses on the importance of polite communication, social grace, and speaking with tact in various everyday situations."
+    },
+    {
+      "id": "ch6-q2",
+      "question": "What does the word 'tact' mean?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Speaking very loudly"
+        },
+        {
+          "id": "b",
+          "text": "The ability to say or do the right thing without offending others"
+        },
+        {
+          "id": "c",
+          "text": "Keeping completely silent forever"
+        },
+        {
+          "id": "d",
+          "text": "Telling lies to get money"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "'Tact' is the sensitivity and skill of choosing the right words to avoid giving offense while maintaining honesty and kindness."
+    },
+    {
+      "id": "ch6-q3",
+      "question": "How should you speak to someone who has made an honest mistake?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Shout at them publicly"
+        },
+        {
+          "id": "b",
+          "text": "Gently point it out without making them feel embarrassed"
+        },
+        {
+          "id": "c",
+          "text": "Ignore them and never speak again"
+        },
+        {
+          "id": "d",
+          "text": "Laugh loudly at their face"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "Tactful communication involves addressing mistakes gently and privately, preserving the other person's self-esteem and dignity."
+    },
+    {
+      "id": "ch6-q4",
+      "question": "What is the golden rule of polite conversation?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Always interrupt others to show you are smart"
+        },
+        {
+          "id": "b",
+          "text": "Think carefully before you speak"
+        },
+        {
+          "id": "c",
+          "text": "Speak as fast as possible"
+        },
+        {
+          "id": "d",
+          "text": "Only talk about your own achievements"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "Thinking before speaking ensures that our words are considerate, necessary, and helpful rather than hurtful or impulsive."
+    },
+    {
+      "id": "ch6-q5",
+      "question": "If a friend asks your opinion on a new outfit that you don't really like, what is the most tactful response?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"That looks absolutely terrible on you!\""
+        },
+        {
+          "id": "b",
+          "text": "\"It has a very unique color, but I think the blue one suits you even better.\""
+        },
+        {
+          "id": "c",
+          "text": "\"Are you blind? Take it off immediately.\""
+        },
+        {
+          "id": "d",
+          "text": "\"I refuse to look at you.\""
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "This response balances honesty with kindness by highlighting something positive and gently offering a constructive preference without being crude."
+    },
+    {
+      "id": "ch6-q6",
+      "question": "Why is tone of voice just as important as the words chosen?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Because loud voices hurt ears"
+        },
+        {
+          "id": "b",
+          "text": "A harsh tone can make polite words sound rude and sarcastic"
+        },
+        {
+          "id": "c",
+          "text": "Tone of voice does not matter at all"
+        },
+        {
+          "id": "d",
+          "text": "Only actors need a good tone"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "Non-verbal vocal cues and tone carry emotional weight; even polite words can convey hostility if spoken with a harsh or sarcastic tone."
+    },
+    {
+      "id": "ch6-q7",
+      "question": "What should you do when someone else is speaking?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Look at your phone continuously"
+        },
+        {
+          "id": "b",
+          "text": "Listen actively without interrupting"
+        },
+        {
+          "id": "c",
+          "text": "Start talking over them loudly"
+        },
+        {
+          "id": "d",
+          "text": "Walk away without saying anything"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "Active listening—giving someone full attention without interrupting—is a cornerstone of respectful and tactful communication."
+    },
+    {
+      "id": "ch6-q8",
+      "question": "What is the difference between flattery and genuine praise?",
+      "options": [
+        {
+          "id": "a",
+          "text": "There is no difference"
+        },
+        {
+          "id": "b",
+          "text": "Flattery is insincere and exaggerated, while genuine praise comes honestly from the heart"
+        },
+        {
+          "id": "c",
+          "text": "Flattery is always true"
+        },
+        {
+          "id": "d",
+          "text": "Genuine praise is illegal"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "Flattery is superficial and manipulative, whereas genuine praise is sincere, specific, and heartfelt appreciation."
+    },
+    {
+      "id": "ch6-q9",
+      "question": "When you receive a compliment, what is the best way to respond?",
+      "options": [
+        {
+          "id": "a",
+          "text": "\"I know I am the best!\""
+        },
+        {
+          "id": "b",
+          "text": "\"Thank you very much, that is kind of you to say.\""
+        },
+        {
+          "id": "c",
+          "text": "\"No, you are lying, I am terrible.\""
+        },
+        {
+          "id": "d",
+          "text": "Turn around and ignore them"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "Accepting compliments gracefully with a simple, sincere 'thank you' acknowledges the giver's kindness without false humility or arrogance."
+    },
+    {
+      "id": "ch6-q10",
+      "question": "Why should gossiping about others be avoided?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It takes too much time"
+        },
+        {
+          "id": "b",
+          "text": "It breaks trust and damages people's reputations unfairly"
+        },
+        {
+          "id": "c",
+          "text": "It makes your throat sore"
+        },
+        {
+          "id": "d",
+          "text": "It is only allowed on weekends"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "Gossip spreads unverified rumors, breaches interpersonal trust, and inflicts lasting harm on individuals' social reputations."
+    },
+    {
+      "id": "ch6-q11",
+      "question": "What is 'active listening' in the context of effective communication?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hearing words while thinking about what to eat later"
+        },
+        {
+          "id": "b",
+          "text": "Paying full attention, nodding, asking relevant questions, and showing empathy"
+        },
+        {
+          "id": "c",
+          "text": "Recording the conversation on a tape recorder"
+        },
+        {
+          "id": "d",
+          "text": "Waiting impatiently until it is your turn to speak"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "Active listening requires cognitive and emotional engagement—observing body language, validating feelings, and asking thoughtful questions."
+    },
+    {
+      "id": "ch6-q12",
+      "question": "How does empathy contribute to saying the right thing?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It makes you cry all the time"
+        },
+        {
+          "id": "b",
+          "text": "By putting yourself in another's shoes, you can gauge how your words will be received"
+        },
+        {
+          "id": "c",
+          "text": "It helps you win every argument by manipulating feelings"
+        },
+        {
+          "id": "d",
+          "text": "It has no connection to communication"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "Empathy allows a speaker to anticipate the listener's emotional reactions, enabling the selection of compassionate and supportive language."
+    },
+    {
+      "id": "ch6-q13",
+      "question": "In a disagreement, why is it better to use 'I' statements (e.g., 'I feel upset when...') instead of 'You' statements ('You always ruin...')?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It makes you sound selfish"
+        },
+        {
+          "id": "b",
+          "text": "'I' statements express personal feelings without attacking or putting the other person on the defensive"
+        },
+        {
+          "id": "c",
+          "text": "'You' statements are grammatically incorrect"
+        },
+        {
+          "id": "d",
+          "text": "'I' statements are shorter to pronounce"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "'I' statements focus on personal emotional impacts, reducing defensiveness and opening productive dialogue rather than casting accusatory blame."
+    },
+    {
+      "id": "ch6-q14",
+      "question": "What should you do if you accidentally say something insensitive and hurt a friend's feelings?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Pretend nothing happened and change the subject immediately"
+        },
+        {
+          "id": "b",
+          "text": "Offer a sincere, immediate apology without making excuses"
+        },
+        {
+          "id": "c",
+          "text": "Blame the friend for being too sensitive"
+        },
+        {
+          "id": "d",
+          "text": "Run away and never see them again"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "A sincere apology acknowledges the hurt caused, takes accountability without defensive shifting, and demonstrates maturity and respect for the relationship."
+    },
+    {
+      "id": "ch6-q15",
+      "question": "Why is humor sometimes risky in formal or sensitive conversations?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nobody likes jokes"
+        },
+        {
+          "id": "b",
+          "text": "Humor can easily be misunderstood as mockery or lack of seriousness if timed poorly"
+        },
+        {
+          "id": "c",
+          "text": "Jokes are forbidden in schools"
+        },
+        {
+          "id": "d",
+          "text": "It makes people laugh too loud"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "In delicate contexts, ill-timed humor can be perceived as trivializing pain, mocking the interlocutor, or lacking appropriate professionalism."
+    },
+    {
+      "id": "ch6-q16",
+      "question": "What does the idiom 'bite your tongue' mean in social interactions?",
+      "options": [
+        {
+          "id": "a",
+          "text": "To physically chew your tongue while eating"
+        },
+        {
+          "id": "b",
+          "text": "To make a deliberate effort to stop yourself from saying something rude or unnecessary"
+        },
+        {
+          "id": "c",
+          "text": "To speak with a lisp"
+        },
+        {
+          "id": "d",
+          "text": "To stick your tongue out at someone"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "'Biting your tongue' is an idiom meaning exercising self-restraint and withholding impulsive, potentially damaging words for the sake of harmony."
+    },
+    {
+      "id": "ch6-q17",
+      "question": "How does body language affect spoken communication?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It is completely invisible during speech"
+        },
+        {
+          "id": "b",
+          "text": "Crossed arms, eye contact, and facial expressions strongly reinforce or contradict our spoken words"
+        },
+        {
+          "id": "c",
+          "text": "Only dancers use body language"
+        },
+        {
+          "id": "d",
+          "text": "It replaces vocal cords entirely"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "Non-verbal signals account for a massive percentage of human communication; open postures and eye contact validate spoken words of kindness."
+    },
+    {
+      "id": "ch6-q18",
+      "question": "What is constructive criticism?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Insulting someone's work to make them feel small"
+        },
+        {
+          "id": "b",
+          "text": "Feedback offered kindly with specific suggestions on how to improve and grow"
+        },
+        {
+          "id": "c",
+          "text": "Never saying anything negative ever"
+        },
+        {
+          "id": "d",
+          "text": "Praising bad work as perfect"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "Constructive criticism aims to uplift and guide improvement by pairing honest identification of weaknesses with actionable, encouraging solutions."
+    },
+    {
+      "id": "ch6-q19",
+      "question": "Why should one avoid monopolizing a conversation?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It saves oxygen"
+        },
+        {
+          "id": "b",
+          "text": "A healthy conversation is a two-way street where every participant feels heard and valued"
+        },
+        {
+          "id": "c",
+          "text": "Speaking too long causes memory loss"
+        },
+        {
+          "id": "d",
+          "text": "Only teachers are allowed to talk for a long time"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "Monopolizing dialogue signals self-absorption and disrespect; balanced turn-taking fosters equality, mutual respect, and shared engagement."
+    },
+    {
+      "id": "ch6-q20",
+      "question": "How can tact help in resolving conflicts between peers?",
+      "options": [
+        {
+          "id": "a",
+          "text": "By allowing one person to dominate completely"
+        },
+        {
+          "id": "b",
+          "text": "By de-escalating anger through calm, neutral language that addresses the issue without personal insults"
+        },
+        {
+          "id": "c",
+          "text": "By forcing everyone to agree instantly"
+        },
+        {
+          "id": "d",
+          "text": "By calling the police every time"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "Tact strips inflammatory emotional attacks from dialogue, allowing disputing parties to focus calmly on mutually beneficial problem-solving."
+    },
+    {
+      "id": "ch6-q21",
+      "question": "What psychological mechanism makes people defensive when receiving abrupt criticism without tact?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cognitive dissonance and perceived threat to self-worth trigger fight-or-flight emotional barriers"
+        },
+        {
+          "id": "b",
+          "text": "They immediately fall asleep due to boredom"
+        },
+        {
+          "id": "c",
+          "text": "Their hearing physically temporarily stops working"
+        },
+        {
+          "id": "d",
+          "text": "They forget what language is being spoken"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "a",
+      "explanation": "Blunt criticism threatens an individual's self-esteem and social standing, activating neurological defense mechanisms that block rational listening."
+    },
+    {
+      "id": "ch6-q22",
+      "question": "Analyze the ethical distinction between 'white lies' told out of tact and malicious deception.",
+      "options": [
+        {
+          "id": "a",
+          "text": "There is zero distinction; all untruths are equally evil under all circumstances"
+        },
+        {
+          "id": "b",
+          "text": "Tactful benevolence prioritizes emotional well-being and social harmony without exploitation, whereas deception aims for self-serving harm"
+        },
+        {
+          "id": "c",
+          "text": "White lies are only told by children, deception by adults"
+        },
+        {
+          "id": "d",
+          "text": "Malicious deception is legal, while white lies are illegal"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "Ethical tact weighs intent and consequences: benevolent softening of harsh truths protects vulnerability without exploiting or harming the recipient."
+    },
+    {
+      "id": "ch6-q23",
+      "question": "How does cultural relativity influence what is considered 'tactful' across different global societies?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tact is identical in every country without variation"
+        },
+        {
+          "id": "b",
+          "text": "Some cultures value direct, unambiguous bluntness as honesty, while others prioritize indirect politeness to preserve 'face'"
+        },
+        {
+          "id": "c",
+          "text": "Only Western nations use tact in daily life"
+        },
+        {
+          "id": "d",
+          "text": "Cultural relativity only applies to food preferences, never to language"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "High-context cultures (e.g., East Asia) rely heavily on nuance and saving face, whereas low-context cultures (e.g., Northern Europe) value direct verbal precision."
+    },
+    {
+      "id": "ch6-q24",
+      "question": "What is the role of emotional intelligence (EQ) in mastering the art of diplomacy and tact?",
+      "options": [
+        {
+          "id": "a",
+          "text": "EQ is irrelevant; only IQ matters for vocabulary size"
+        },
+        {
+          "id": "b",
+          "text": "EQ provides the foundational self-awareness and social attunement necessary to read interpersonal dynamics accurately"
+        },
+        {
+          "id": "c",
+          "text": "High EQ makes people completely silent"
+        },
+        {
+          "id": "d",
+          "text": "EQ is only needed for doctors and nurses"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "Emotional intelligence empowers individuals to monitor their own triggers while accurately interpreting others' emotional states, guiding diplomatic speech."
+    },
+    {
+      "id": "ch6-q25",
+      "question": "Explain how the Socratic method of questioning can be used tactfully to help someone realize their own error.",
+      "options": [
+        {
+          "id": "a",
+          "text": "By aggressively interrogation under bright lights"
+        },
+        {
+          "id": "b",
+          "text": "By asking gentle, guiding questions that lead the person to discover the logical flaw independently without feeling attacked"
+        },
+        {
+          "id": "c",
+          "text": "By lecturing for three hours straight"
+        },
+        {
+          "id": "d",
+          "text": "By writing their mistakes on a public blackboard"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "Socratic inquiry respects the learner's autonomy by prompting self-reflection and analytical discovery, preserving dignity while correcting misconceptions."
+    },
+    {
+      "id": "ch6-q26",
+      "question": "What is 'gaslighting', and how does it represent the complete antithesis of honest, tactful communication?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It is lighting a gas stove safely in the kitchen"
+        },
+        {
+          "id": "b",
+          "text": "It is a manipulative psychological abuse where a person makes the victim doubt their own reality and sanity through persistent deception"
+        },
+        {
+          "id": "c",
+          "text": "It is speaking very warmly and brightly to a crowd"
+        },
+        {
+          "id": "d",
+          "text": "It is a form of rapid speech used in debates"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "Gaslighting maliciously distorts truth and erodes mental autonomy, whereas true tact relies on honest benevolence and fostering clarity and trust."
+    },
+    {
+      "id": "ch6-q27",
+      "question": "How does the concept of 'assertiveness' differ from both passivity and aggression in communication?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Assertiveness is just a polite word for aggression"
+        },
+        {
+          "id": "b",
+          "text": "Assertiveness calmly states personal boundaries and rights with firm respect for oneself and others, avoiding both submission and hostility"
+        },
+        {
+          "id": "c",
+          "text": "Assertiveness means agreeing with everyone all the time"
+        },
+        {
+          "id": "d",
+          "text": "Assertiveness requires speaking in a very high-pitched tone"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "Assertiveness strikes the healthy middle ground—advocating clearly for one's own needs while extending equal respect to the interlocutor's dignity."
+    },
+    {
+      "id": "ch6-q28",
+      "question": "Why is written communication (such as emails or text messages) particularly prone to tactless misinterpretations?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Because computers change the spelling of words randomly"
+        },
+        {
+          "id": "b",
+          "text": "The absence of vocal tone, pitch, and facial gestures removes critical contextual cues, causing neutral words to appear harsh"
+        },
+        {
+          "id": "c",
+          "text": "People cannot read text messages clearly on screens"
+        },
+        {
+          "id": "d",
+          "text": "Written communication is never misunderstood"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "Text lacks prosody and body language; without these non-verbal buffers, readers often project negative tone onto concise or neutral wording."
+    },
+    {
+      "id": "ch6-q29",
+      "question": "Assess the impact of 'microaggressions' on interpersonal relationships and how tact helps eliminate them.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Microaggressions are positive compliments that make people happy"
+        },
+        {
+          "id": "b",
+          "text": "They are subtle, often unintentional verbal slights that accumulate to cause deep alienating harm; conscious tact and empathy prevent them"
+        },
+        {
+          "id": "c",
+          "text": "They only happen between strangers on public buses"
+        },
+        {
+          "id": "d",
+          "text": "They are physical exercises for facial muscles"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "Microaggressions inflict cumulative psychological wear; heightened cultural sensitivity and intentional tact ensure our language remains inclusive and affirming."
+    },
+    {
+      "id": "ch6-q30",
+      "question": "What is the ultimate philosophical goal of integrating tact and eloquence into everyday human discourse?",
+      "options": [
+        {
+          "id": "a",
+          "text": "To win every argument and dominate social circles"
+        },
+        {
+          "id": "b",
+          "text": "To cultivate a harmonious, compassionate, and mutually enriching civil society where truth and kindness coexist"
+        },
+        {
+          "id": "c",
+          "text": "To eliminate the need for written laws entirely"
+        },
+        {
+          "id": "d",
+          "text": "To ensure everyone speaks with the exact same accent"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "At its zenith, tact serves as the social lubricant of civilization—enabling honest dialogue across differences while protecting human dignity and communal harmony."
+    }
+  ]
+}

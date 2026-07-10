@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "ch8-q1",
+      "question": "Who is the world-renowned poet who wrote 'Paper Boats'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "William Wordsworth"
+        },
+        {
+          "id": "b",
+          "text": "Rabindranath Tagore"
+        },
+        {
+          "id": "c",
+          "text": "Sarojini Naidu"
+        },
+        {
+          "id": "d",
+          "text": "Robert Frost"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "The lyrical, nostalgic poem 'Paper Boats' was authored by Nobel laureate Rabindranath Tagore."
+    },
+    {
+      "id": "ch8-q2",
+      "question": "What does the innocent child do day by day in the poem?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Flies colorful paper kites high in the sky"
+        },
+        {
+          "id": "b",
+          "text": "Floats paper boats down the running stream one by one"
+        },
+        {
+          "id": "c",
+          "text": "Plants small flower seeds in the garden dirt"
+        },
+        {
+          "id": "d",
+          "text": "Paints portraits of village animals on wooden boards"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "The young child lovingly creates paper boats and floats them down the flowing stream day after day."
+    },
+    {
+      "id": "ch8-q3",
+      "question": "What specific information does the child write in big black letters on each boat?",
+      "options": [
+        {
+          "id": "a",
+          "text": "His favorite mathematical equations and numbers"
+        },
+        {
+          "id": "b",
+          "text": "His own name and the name of his village"
+        },
+        {
+          "id": "c",
+          "text": "The daily weather forecast of the town"
+        },
+        {
+          "id": "d",
+          "text": "A secret map showing where buried treasure lies"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "The child writes his own name and the name of the village where he lives clearly in big black letters on the paper sails."
+    },
+    {
+      "id": "ch8-q4",
+      "question": "Why does the child write his name and village address on the boats?",
+      "options": [
+        {
+          "id": "a",
+          "text": "In the hope that someone in some strange land will find them and know who he is"
+        },
+        {
+          "id": "b",
+          "text": "So the local postman will deliver them back to his house tomorrow morning"
+        },
+        {
+          "id": "c",
+          "text": "Because his school teacher ordered him to practice handwriting on paper"
+        },
+        {
+          "id": "d",
+          "text": "To make the boats heavier so they don't sink in the water"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "a",
+      "explanation": "He harbors the tender, imaginative hope that someone in a distant, unknown land will find his boats and learn who he is."
+    },
+    {
+      "id": "ch8-q5",
+      "question": "What specific flowers does the child load into his little paper boats?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Red roses plucked from his neighbor's thorny bush"
+        },
+        {
+          "id": "b",
+          "text": "Shiuli (parijat) flowers gathered from our garden at dawn"
+        },
+        {
+          "id": "c",
+          "text": "Bright yellow sunflowers grown in the open fields"
+        },
+        {
+          "id": "d",
+          "text": "White water lilies floating on the village pond"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "He fills his little vessels with fragrant white and orange Shiuli (night-flowering jasmine) blossoms gathered from his garden."
+    },
+    {
+      "id": "ch8-q6",
+      "question": "When does the child hope the blooms of dawn will safely arrive at the distant land?",
+      "options": [
+        {
+          "id": "a",
+          "text": "By noon before the sun gets too hot"
+        },
+        {
+          "id": "b",
+          "text": "Safely landed in the night"
+        },
+        {
+          "id": "c",
+          "text": "In the middle of the next winter season"
+        },
+        {
+          "id": "d",
+          "text": "After seven long years of sailing across oceans"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "He hopes that the delicate dawn flowers loaded into his boats will be carried safely down the stream to land safely in the night."
+    },
+    {
+      "id": "ch8-q7",
+      "question": "What does the child look up and see floating in the sky above him?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Large flocks of migratory birds flying south"
+        },
+        {
+          "id": "b",
+          "text": "Little white clouds with bulging white sails setting off in the air"
+        },
+        {
+          "id": "c",
+          "text": "A brilliant multicolored rainbow stretching across the horizon"
+        },
+        {
+          "id": "d",
+          "text": "A bright silver airplane zooming through the clouds"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "Looking up into the sky, he sees little white clouds racing along with bulging white sails that mirror his floating boats."
+    },
+    {
+      "id": "ch8-q8",
+      "question": "Who does the child imagine is racing his paper boats through the sky?",
+      "options": [
+        {
+          "id": "a",
+          "text": "His elder brother playing on the rooftop terrace"
+        },
+        {
+          "id": "b",
+          "text": "Some little playmate in the sky sending clouds down the air to compete with his boats"
+        },
+        {
+          "id": "c",
+          "text": "The village wind-god blowing hard from the north"
+        },
+        {
+          "id": "d",
+          "text": "A magical eagle soaring above the tall trees"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "He imagines an unseen, celestial playmate in the sky sending cloud-vessels racing through the air to compete with his boats on the water."
+    },
+    {
+      "id": "ch8-q9",
+      "question": "When night falls, what does the child do in his warm bed?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bury his face in his pillow and cry bitterly for his lost boats"
+        },
+        {
+          "id": "b",
+          "text": "Bury his face in his arms and dream about his paper boats floating on under the midnight stars"
+        },
+        {
+          "id": "c",
+          "text": "Get up secretly and walk to the river with a lantern"
+        },
+        {
+          "id": "d",
+          "text": "Read heavy textbooks until he falls asleep at his desk"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "At night, he buries his face in his arms and slips into enchanting dreams where his paper boats continue floating peacefully under midnight stars."
+    },
+    {
+      "id": "ch8-q10",
+      "question": "Who or what does the child dream is sailing inside his paper boats at night?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tiny wooden soldier dolls armed with swords"
+        },
+        {
+          "id": "b",
+          "text": "The fairies of sleep sailing along, with baskets full of dreams as lading"
+        },
+        {
+          "id": "c",
+          "text": "Little green frogs hopping from one boat to another"
+        },
+        {
+          "id": "d",
+          "text": "Small golden coins gleaming in the moonlight"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "He dreams that the benevolent fairies of sleep are steering his little boats, their baskets loaded with sweet dreams."
+    },
+    {
+      "id": "ch8-q11",
+      "question": "What is the psychological significance of writing one's name and village on a floating paper boat?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It is a legal requirement for owning paper boats on rivers"
+        },
+        {
+          "id": "b",
+          "text": "It reflects the universal human longing for connection, communication, and leaving a trace in the wider unknown world"
+        },
+        {
+          "id": "c",
+          "text": "It proves that the child knows how to spell his village name correctly for exams"
+        },
+        {
+          "id": "d",
+          "text": "It prevents other children in the village from stealing his paper boats"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "This act symbolizes childhood innocence and the deep human yearning to reach out across boundaries and connect with unseen strangers in distant lands."
+    },
+    {
+      "id": "ch8-q12",
+      "question": "Why are 'Shiuli' flowers chosen specifically by Tagore for this imagery?",
+      "options": [
+        {
+          "id": "a",
+          "text": "They are the only flowers that grow anywhere in India during summer"
+        },
+        {
+          "id": "b",
+          "text": "They bloom at night and drop at dawn in autumn, evoking delicate beauty, cultural nostalgia, and seasonal purity in Bengal"
+        },
+        {
+          "id": "c",
+          "text": "They are poisonous flowers that keep water insects away from the boats"
+        },
+        {
+          "id": "d",
+          "text": "They are heavy enough to act as anchors for the paper boats in fast currents"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "Shiuli (Parijat) blossoms are deeply evocative of Bengali autumn mornings, symbolizing fragile, fleeting beauty and the innocent sweetness of childhood offerings."
+    },
+    {
+      "id": "ch8-q13",
+      "question": "What does the word 'lading' mean in the final lines of the poem?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A heavy iron anchor used to stop ships from drifting"
+        },
+        {
+          "id": "b",
+          "text": "The cargo or freight loaded onto a vessel or boat for transport"
+        },
+        {
+          "id": "c",
+          "text": "The loud splashing sound made by oars hitting river water"
+        },
+        {
+          "id": "d",
+          "text": "A wooden paddle used to steer small canoes through rapids"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "'Lading' refers to cargo or freight; here, poetically describing the baskets full of dreams carried as precious cargo by the fairies inside the boats."
+    },
+    {
+      "id": "ch8-q14",
+      "question": "How does the poem transition in setting from the beginning to the end?",
+      "options": [
+        {
+          "id": "a",
+          "text": "From a crowded city market at noon to a deserted forest at sunset"
+        },
+        {
+          "id": "b",
+          "text": "From daytime play at the sunlit stream to nighttime dreams in the quiet, cozy bedroom"
+        },
+        {
+          "id": "c",
+          "text": "From a school classroom in spring to a snowy mountain peak in winter"
+        },
+        {
+          "id": "d",
+          "text": "From a stormy ocean voyage to a dry desert oasis at dawn"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "The structure traces a natural diurnal progression: beginning with active daytime physical play by the stream and transitioning seamlessly into nocturnal imagination in bed."
+    },
+    {
+      "id": "ch8-q15",
+      "question": "Analyze the parallel between the floating paper boats on the stream and the sailing clouds in the sky.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Both are made of waterproof paper folded by village children"
+        },
+        {
+          "id": "b",
+          "text": "The child projects his earthly aquatic play onto the cosmic canvas above, uniting earth and sky through imaginative companionship"
+        },
+        {
+          "id": "c",
+          "text": "The clouds drop heavy rain that destroys his paper boats instantly"
+        },
+        {
+          "id": "d",
+          "text": "The child is angry because the clouds move much faster than his boats"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "The parallel showcases the child's imaginative capacity to see cosmic unity; the sky becomes a heavenly river where a celestial playmate races cloud-boats alongside his water-boats."
+    },
+    {
+      "id": "ch8-q16",
+      "question": "What emotional atmosphere dominates 'Paper Boats'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Violent anger and bitter resentment toward rural poverty"
+        },
+        {
+          "id": "b",
+          "text": "Serene innocence, tender nostalgia, imaginative wonder, and gentle hope"
+        },
+        {
+          "id": "c",
+          "text": "Frantic suspense and terror about drowning in deep river water"
+        },
+        {
+          "id": "d",
+          "text": "Deep sadness and grief over lost childhood toys"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "The poem breathes an atmosphere of tranquil wonder, capturing the pure, unburdened optimism and magical thinking of early childhood."
+    },
+    {
+      "id": "ch8-q17",
+      "question": "Why does the poet describe the clouds as having 'bulging white sails'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Because the wind fills and rounds out the clouds, giving them the exact visual appearance of inflated ship sails"
+        },
+        {
+          "id": "b",
+          "text": "Because the clouds are made of white cotton fabric sewn by angels"
+        },
+        {
+          "id": "c",
+          "text": "To indicate that a violent thunderstorm and hurricane are about to strike the village"
+        },
+        {
+          "id": "d",
+          "text": "Because the child is wearing glasses that distort squares into circles"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "a",
+      "explanation": "The visual metaphor 'bulging white sails' perfectly captures how breezes inflate cumulus clouds, bridging the child's nautical boats with the drifting sky."
+    },
+    {
+      "id": "ch8-q18",
+      "question": "What do the 'fairies of sleep' represent in the child's inner world?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Nightmares that terrify him when the lights turn off"
+        },
+        {
+          "id": "b",
+          "text": "The comforting, magical transition from waking consciousness into peaceful, dream-filled slumber"
+        },
+        {
+          "id": "c",
+          "text": "Real physical beings that live under his bed during daytime hours"
+        },
+        {
+          "id": "d",
+          "text": "The strict village elders who force him to sleep early at night"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "The 'fairies of sleep' embody the gentle, comforting magic of a child's subconscious, turning sleep from darkness into a wondrous continued journey."
+    },
+    {
+      "id": "ch8-q19",
+      "question": "How does Tagore capture the universal essence of childhood play without relying on expensive toys?",
+      "options": [
+        {
+          "id": "a",
+          "text": "By showing that the child stole paper from a royal palace"
+        },
+        {
+          "id": "b",
+          "text": "By illustrating how simple paper, running water, wild flowers, and boundless imagination create infinite joy"
+        },
+        {
+          "id": "c",
+          "text": "By complaining that poor children cannot afford wooden boats or dolls"
+        },
+        {
+          "id": "d",
+          "text": "By arguing that children should never play outside near streams"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "Tagore masterfully shows that true childhood joy stems from inner imagination, transmuting humble scraps of paper and garden flowers into grand, cosmic adventures."
+    },
+    {
+      "id": "ch8-q20",
+      "question": "What is the metrical flow of Tagore's English translation of his original Bengali poem?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Strict iambic pentameter with rigid end-rhymes every single line"
+        },
+        {
+          "id": "b",
+          "text": "Rhythmic prose-poetry (free verse) that retains the lyrical, melodic cadence and emotional resonance of the original song"
+        },
+        {
+          "id": "c",
+          "text": "Short, choppy sentences with no poetic rhythm or imagery whatsoever"
+        },
+        {
+          "id": "d",
+          "text": "A structured sonnet with fourteen lines and exact mathematical syllables"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "Tagore translated his own Bengali works into flowing English prose-poetry, preserving the melodic cadence, emotional intimacy, and spiritual resonance of the original verse."
+    },
+    {
+      "id": "ch8-q21",
+      "question": "Evaluate how 'Paper Boats' reflects Tagore's overarching philosophical belief in cosmic kinship and human interconnectedness.",
+      "options": [
+        {
+          "id": "a",
+          "text": "It proves that Tagore believed children should live completely isolated from adult society forever"
+        },
+        {
+          "id": "b",
+          "text": "The child's desire to send labeled boats down unknown streams embodies Tagore's vision of an open, borderless world united by empathy and spiritual friendship across cultures"
+        },
+        {
+          "id": "c",
+          "text": "It argues that physical travel by boat is the only valid method of spiritual enlightenment"
+        },
+        {
+          "id": "d",
+          "text": "It shows that nature is indifferent and cruel to human hopes and dreams"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "The paper boat is a profound metaphor for Tagore's universal humanism: sending one's identity down the river of life in faith that distant strangers will receive it with love."
+    },
+    {
+      "id": "ch8-q22",
+      "question": "How does the concept of 'animism' or childhood anthropomorphism operate in the poem's sky imagery?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The child scientific measures the atmospheric barometric pressure of the clouds accurately"
+        },
+        {
+          "id": "b",
+          "text": "The child animates the inanimate sky, projecting a conscious, kindred 'playmate' who actively participates in his games across the celestial divide"
+        },
+        {
+          "id": "c",
+          "text": "The child believes the clouds are solid rock mountains floating in space"
+        },
+        {
+          "id": "d",
+          "text": "The child is frightened because he thinks the clouds are giant monsters watching him"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "Childhood anthropomorphism animates the natural universe; the child intuitively senses consciousness everywhere, turning inanimate clouds into friendly competitors steered by a sky-brother."
+    },
+    {
+      "id": "ch8-q23",
+      "question": "Examine the symbol of the 'running stream'. How does its continuous flow deepen the thematic layers of the poem?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It symbolizes stagnant, unmoving time in a rural village setting"
+        },
+        {
+          "id": "b",
+          "text": "It represents the eternal, dynamic flow of time, life's ongoing journey, and the conduit through which individual offerings enter the infinite ocean of humanity"
+        },
+        {
+          "id": "c",
+          "text": "It serves merely as a physical hazard where children might ruin their shoes"
+        },
+        {
+          "id": "d",
+          "text": "It indicates that the village suffers from severe annual flooding and erosion"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "The running stream symbolizes the eternal flux of time and the universal current of existence that carries our small, fragile endeavors into the vast ocean of eternity."
+    },
+    {
+      "id": "ch8-q24",
+      "question": "What distinguishes the romanticism of Tagore in 'Paper Boats' from British Romantic poets like Wordsworth?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tagore completely ignores nature, focusing only on industrial city machines"
+        },
+        {
+          "id": "b",
+          "text": "While both revere nature and childhood innocence, Tagore infuses his verse with distinct Eastern mysticism, spiritual intimacy (`devotion`), and rural Bengali cultural motifs (`Shiuli blooms`)"
+        },
+        {
+          "id": "c",
+          "text": "Wordsworth wrote only in prose, while Tagore wrote only in Latin"
+        },
+        {
+          "id": "d",
+          "text": "Tagore believed children are born evil, whereas Wordsworth believed they are pure"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "Tagore merges Romantic reverence for childhood and nature with Vedantic spiritual mysticism, creating an intimate, devotional warmth anchored in Bengali agrarian aesthetics."
+    },
+    {
+      "id": "ch8-q25",
+      "question": "Analyze the transition from the physical fragility of the paper boat to the spiritual endurance of the dream-laden boat at night.",
+      "options": [
+        {
+          "id": "a",
+          "text": "The paper boat dissolves in water and is lost forever, making the poem end in total despair and heartbreak"
+        },
+        {
+          "id": "b",
+          "text": "While the physical paper boat may sink, the child's creative offering achieves immortality inside the sanctuary of dreams, guided safely by nocturnal fairies"
+        },
+        {
+          "id": "c",
+          "text": "The child builds an iron boat at night to replace the paper one that broke"
+        },
+        {
+          "id": "d",
+          "text": "The dream boat is captured by pirates and destroyed in the middle of the night"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "This transition illustrates the triumph of the imaginative spirit over physical fragility: material creations may perish in the stream, but the soul's aspirations endure securely in dreams."
+    },
+    {
+      "id": "ch8-q26",
+      "question": "What is the subtle semantic contrast between 'floating' (daytime activity) and 'sailing' (nighttime dream state) in the poem?",
+      "options": [
+        {
+          "id": "a",
+          "text": "'Floating' implies passive drifting with the water current, while 'sailing' suggests active navigation, magical purpose, and directed journey under fairy guidance"
+        },
+        {
+          "id": "b",
+          "text": "There is no semantic difference; both words are used randomly by the translator to avoid repeating letters"
+        },
+        {
+          "id": "c",
+          "text": "'Floating' only happens in saltwater oceans, while 'sailing' happens in freshwater village ponds"
+        },
+        {
+          "id": "d",
+          "text": "'Floating' means sinking slowly to the bottom, while 'sailing' means flying high above the stars"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "a",
+      "explanation": "'Floating' describes the physical reality of boats drifting on water currents, whereas 'sailing' elevates the boats in his dream state to vessels actively navigated by fairies with divine purpose."
+    },
+    {
+      "id": "ch8-q27",
+      "question": "How does the poem illustrate the psychological defense mechanism of 'wish fulfillment' in early childhood development?",
+      "options": [
+        {
+          "id": "a",
+          "text": "By showing the child stealing toys from richer children when his parents refuse to buy them"
+        },
+        {
+          "id": "b",
+          "text": "When physical limitations prevent the child from traveling to strange lands himself, his psyche fulfills this deep wish by sending symbolic surrogates (his boats and name) in his place"
+        },
+        {
+          "id": "c",
+          "text": "By depicting the child crying until his mother buys him a real wooden sailing ship"
+        },
+        {
+          "id": "d",
+          "text": "Wish fulfillment is not present; the child is merely doing a mandatory school homework assignment"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "The paper boat acts as an psychological surrogate; unable to traverse the world physically, the child fulfills his expansive wanderlust by projecting his identity onto floating emissaries."
+    },
+    {
+      "id": "ch8-q28",
+      "question": "In the context of Tagore's collection *The Crescent Moon*, what unifying perspective do poems like 'Paper Boats' champion regarding adult perception?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Adults should force children to stop dreaming and learn economics as early as possible"
+        },
+        {
+          "id": "b",
+          "text": "Adults must shed their cynical utilitarianism and re-learn the profound spiritual wisdom, unconditioned love, and imaginative purity inherent in a child's gaze"
+        },
+        {
+          "id": "c",
+          "text": "Children should be separated from adults in boarding schools until they reach age eighteen"
+        },
+        {
+          "id": "d",
+          "text": "Adults are morally superior to children because they earn money and build concrete bridges"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "*The Crescent Moon* presents childhood not as an immature state to be outgrown, but as a spiritually elevated state of pure communion with divine wonder that adults must humbly reclaim."
+    },
+    {
+      "id": "ch8-q29",
+      "question": "Why is the phrase 'baskets full of dreams' an exceptionally powerful metaphor for the conclusion of the piece?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Because baskets are made of bamboo woven by local village craftsmen"
+        },
+        {
+          "id": "b",
+          "text": "It materializes the abstract beauty of dreams into tangible, precious harvests carried with care, leaving the reader with a sense of profound spiritual peace and fulfillment"
+        },
+        {
+          "id": "c",
+          "text": "It suggests that dreams can be bought and sold in the village vegetable market for coins"
+        },
+        {
+          "id": "d",
+          "text": "It warns that sleeping too much will make the child's head heavy like a loaded basket"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "Materializing ephemeral 'dreams' into precious cargo inside 'baskets' gives tangible weight to spiritual joy, closing the poem with a deeply comforting, benedictory resonance."
+    },
+    {
+      "id": "ch8-q30",
+      "question": "What pedagogical strategy should a Class 7 English teacher employ when analyzing 'Paper Boats' in a multi-lingual Indian classroom?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Force students to memorize the English dictionary definitions of every word without discussion"
+        },
+        {
+          "id": "b",
+          "text": "Encourage students to connect Tagore's imagery with their own regional childhood water-play traditions, native flower names, and personal dreams of reaching out to the world"
+        },
+        {
+          "id": "c",
+          "text": "Tell students that writing names on paper boats is polluting rivers and strictly forbid reading the poem"
+        },
+        {
+          "id": "d",
+          "text": "Only focus on identifying nouns and verbs while completely ignoring the poetic meaning"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "An empathetic, culturally responsive pedagogy bridges the poetic text with students' own lived childhood traditions, fostering emotional resonance, pride in Indian literature, and creative expression."
+    }
+  ]
+}

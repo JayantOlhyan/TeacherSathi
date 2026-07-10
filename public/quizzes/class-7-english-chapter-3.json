@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "ch3-q1",
+      "question": "Who is the author of this essay?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kamala Nair"
+        },
+        {
+          "id": "b",
+          "text": "Helen Keller"
+        },
+        {
+          "id": "c",
+          "text": "Ruskin Bond"
+        },
+        {
+          "id": "d",
+          "text": "Rabindranath Tagore"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "The famous autobiographical essay 'Three Days to See' was written by Helen Keller, who became deaf and blind in early infancy."
+    },
+    {
+      "id": "ch3-q2",
+      "question": "Which senses does the author lack?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Taste and Smell"
+        },
+        {
+          "id": "b",
+          "text": "Sight and Hearing"
+        },
+        {
+          "id": "c",
+          "text": "Touch and Sight"
+        },
+        {
+          "id": "d",
+          "text": "Hearing and Taste"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "Helen Keller lost both her sight (blindness) and her hearing (deafness) when she was nineteen months old due to illness."
+    },
+    {
+      "id": "ch3-q3",
+      "question": "How many days of sight does the author imagine having?",
+      "options": [
+        {
+          "id": "a",
+          "text": "One"
+        },
+        {
+          "id": "b",
+          "text": "Two"
+        },
+        {
+          "id": "c",
+          "text": "Three"
+        },
+        {
+          "id": "d",
+          "text": "Seven"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "c",
+      "explanation": "In her reflective essay, she imagines being granted the miraculous gift of physical sight for three brief days."
+    },
+    {
+      "id": "ch3-q4",
+      "question": "How does the author currently experience the shape of a leaf?",
+      "options": [
+        {
+          "id": "a",
+          "text": "By hearing it fall"
+        },
+        {
+          "id": "b",
+          "text": "By feeling its delicate symmetry"
+        },
+        {
+          "id": "c",
+          "text": "By tasting it"
+        },
+        {
+          "id": "d",
+          "text": "By smelling it"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "Without sight, she uses her highly developed sense of touch to feel the delicate symmetry and smooth texture of leaves."
+    },
+    {
+      "id": "ch3-q5",
+      "question": "Who does the author want to see on her very first day of sight?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Famous politicians"
+        },
+        {
+          "id": "b",
+          "text": "The people she loves and who have been kind to her"
+        },
+        {
+          "id": "c",
+          "text": "Movie actors"
+        },
+        {
+          "id": "d",
+          "text": "Total strangers"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "On her very first day, she wishes to gaze upon the faces of her dear friends and loved ones whose kindness and companionship enriched her life."
+    },
+    {
+      "id": "ch3-q6",
+      "question": "What specific body part does she refer to as the \"windows of the soul\"?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hands"
+        },
+        {
+          "id": "b",
+          "text": "Eyes"
+        },
+        {
+          "id": "c",
+          "text": "Mouth"
+        },
+        {
+          "id": "d",
+          "text": "Ears"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "She refers to human eyes as the 'windows of the soul', through which inner emotions and character are revealed."
+    },
+    {
+      "id": "ch3-q7",
+      "question": "What natural event does she plan to watch on the morning of the second day?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The sunrise"
+        },
+        {
+          "id": "b",
+          "text": "Birds flying"
+        },
+        {
+          "id": "c",
+          "text": "City traffic"
+        },
+        {
+          "id": "d",
+          "text": "Heavy rain"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "a",
+      "explanation": "She plans to wake at dawn on the second day to witness the breathtaking miracle of sunrise awakening the sleeping earth."
+    },
+    {
+      "id": "ch3-q8",
+      "question": "Where does she plan to spend her third day?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A quiet forest"
+        },
+        {
+          "id": "b",
+          "text": "A busy town or city"
+        },
+        {
+          "id": "c",
+          "text": "A sandy beach"
+        },
+        {
+          "id": "d",
+          "text": "A snowy mountain"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "On her third day, she wishes to explore the bustling streets, workplaces, and daily life of ordinary people in the city."
+    },
+    {
+      "id": "ch3-q9",
+      "question": "What is the central message of the essay?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Cities are too busy"
+        },
+        {
+          "id": "b",
+          "text": "We should appreciate and use our senses fully"
+        },
+        {
+          "id": "c",
+          "text": "Museums are boring"
+        },
+        {
+          "id": "d",
+          "text": "Sunrises are bright"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "The central message is a passionate reminder that those who can see often take their senses for granted; we must cherish every sensory gift every day."
+    },
+    {
+      "id": "ch3-q10",
+      "question": "On the third day, does she only want to see happy people?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Yes"
+        },
+        {
+          "id": "b",
+          "text": "No, she wants to observe their struggles and seriousness too"
+        },
+        {
+          "id": "c",
+          "text": "She ignores all people"
+        },
+        {
+          "id": "d",
+          "text": "She only looks at children"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "She wishes to see both joy and sorrow, smiles and suffering, in order to understand the complete reality of the human condition."
+    },
+    {
+      "id": "ch3-q11",
+      "question": "Why does she plan to visit museums on the second day?",
+      "options": [
+        {
+          "id": "a",
+          "text": "To buy expensive art"
+        },
+        {
+          "id": "b",
+          "text": "To learn about the earth's past and human progress"
+        },
+        {
+          "id": "c",
+          "text": "To meet old friends"
+        },
+        {
+          "id": "d",
+          "text": "To sit and rest"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "She visits natural history and art museums to visually trace the grand pageant of the earth's past and human evolutionary progress through history."
+    },
+    {
+      "id": "ch3-q12",
+      "question": "Without sight, how does she currently know if her friends are happy or sad?",
+      "options": [
+        {
+          "id": "a",
+          "text": "By gently touching the contours of their faces"
+        },
+        {
+          "id": "b",
+          "text": "By smelling them"
+        },
+        {
+          "id": "c",
+          "text": "By guessing randomly"
+        },
+        {
+          "id": "d",
+          "text": "By reading braille books"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "a",
+      "explanation": "Through sensitive tactile exploration, she feels the subtle contours, smiles, or tense muscles on her friends' faces to perceive their emotions."
+    },
+    {
+      "id": "ch3-q13",
+      "question": "In spring, what is the first sign of awakening Nature that she searches for?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A fully grown green leaf"
+        },
+        {
+          "id": "b",
+          "text": "A tiny bud"
+        },
+        {
+          "id": "c",
+          "text": "A fallen dry branch"
+        },
+        {
+          "id": "d",
+          "text": "A dead flower"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "She gently touches the branches of trees in spring searching for the first tiny, velvety bud bursting through the winter sleep."
+    },
+    {
+      "id": "ch3-q14",
+      "question": "What happy event occasionally happens when she touches a small tree?",
+      "options": [
+        {
+          "id": "a",
+          "text": "She feels the happy quiver of a bird in full song"
+        },
+        {
+          "id": "b",
+          "text": "The tree falls over"
+        },
+        {
+          "id": "c",
+          "text": "An apple drops on her head"
+        },
+        {
+          "id": "d",
+          "text": "She gets scratched by a thorn"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "a",
+      "explanation": "Occasionally, while placing her hand on a small tree, she feels the delightful, vibrating quiver of a songbird singing with full lung power."
+    },
+    {
+      "id": "ch3-q15",
+      "question": "According to the author, what mistake do people with sight often make?",
+      "options": [
+        {
+          "id": "a",
+          "text": "They look too closely at things"
+        },
+        {
+          "id": "b",
+          "text": "They take their senses for granted and overlook beauty"
+        },
+        {
+          "id": "c",
+          "text": "They wear the wrong glasses"
+        },
+        {
+          "id": "d",
+          "text": "They close their eyes too much"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "Keller observes that sighted people often see with little attentiveness or appreciation, taking the kaleidoscope of visual beauty completely for granted."
+    },
+    {
+      "id": "ch3-q16",
+      "question": "What does the author know will happen at the end of the three days?",
+      "options": [
+        {
+          "id": "a",
+          "text": "She will keep her sight forever"
+        },
+        {
+          "id": "b",
+          "text": "She will become blind again"
+        },
+        {
+          "id": "c",
+          "text": "She will travel the world"
+        },
+        {
+          "id": "d",
+          "text": "She will become deaf"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "She knows acutely that when darkness descends at the end of the third day, permanent physical blindness will envelop her once again."
+    },
+    {
+      "id": "ch3-q17",
+      "question": "Which word from the text means \"even or balanced shape\"?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Quiver"
+        },
+        {
+          "id": "b",
+          "text": "Symmetry"
+        },
+        {
+          "id": "c",
+          "text": "Lading"
+        },
+        {
+          "id": "d",
+          "text": "Longing"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "'Symmetry' refers to exact correspondence of form, proportion, and balanced beauty on opposite sides of a dividing line."
+    },
+    {
+      "id": "ch3-q18",
+      "question": "What does the phrase \"sleeping earth\" refer to?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The ground during winter"
+        },
+        {
+          "id": "b",
+          "text": "The quiet, inactive state of nature before dawn brings it to life"
+        },
+        {
+          "id": "c",
+          "text": "A very tired person"
+        },
+        {
+          "id": "d",
+          "text": "A dead tree"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "'Sleeping earth' describes the dark, silent, and tranquil state of nature just before the vibrant rays of dawn awaken life."
+    },
+    {
+      "id": "ch3-q19",
+      "question": "How does she describe the bark of a pine tree compared to a silver birch?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Smooth"
+        },
+        {
+          "id": "b",
+          "text": "Rough and shaggy"
+        },
+        {
+          "id": "c",
+          "text": "Soft and warm"
+        },
+        {
+          "id": "d",
+          "text": "Wet and slippery"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "Her fingers distinguish between the smooth, satiny skin of a silver birch and the rough, shaggy, furrowed bark of a pine tree."
+    },
+    {
+      "id": "ch3-q20",
+      "question": "What final advice does she give to those who can see?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Use your eyes as if you might lose your sight tomorrow"
+        },
+        {
+          "id": "b",
+          "text": "Read more books"
+        },
+        {
+          "id": "c",
+          "text": "Travel as often as possible"
+        },
+        {
+          "id": "d",
+          "text": "Sleep in complete darkness"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "a",
+      "explanation": "Her concluding maxim is profound: 'Use your eyes as if tomorrow you would be stricken blind.'"
+    },
+    {
+      "id": "ch3-q21",
+      "question": "What does the 'delicate symmetry of a leaf' primarily symbolize in the text?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Complete chaos"
+        },
+        {
+          "id": "b",
+          "text": "The harmony, balance, and intricate beauty found in nature"
+        },
+        {
+          "id": "c",
+          "text": "The rapid passing of time"
+        },
+        {
+          "id": "d",
+          "text": "Extreme fragility"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "The symmetry of a leaf symbolizes the underlying order, harmony, and exquisite perfection inherent in the natural world."
+    },
+    {
+      "id": "ch3-q22",
+      "question": "What does her intense desire to witness a sunrise reveal about her values?",
+      "options": [
+        {
+          "id": "a",
+          "text": "She strongly dislikes the dark"
+        },
+        {
+          "id": "b",
+          "text": "She values the dramatic, life-giving transformation of nature's light"
+        },
+        {
+          "id": "c",
+          "text": "She simply likes mornings"
+        },
+        {
+          "id": "d",
+          "text": "She suffers from insomnia"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "Her yearning for sunrise highlights her reverence for light as the supreme, life-giving force that reveals the splendor of creation."
+    },
+    {
+      "id": "ch3-q23",
+      "question": "According to the author, what is the psychological significance of imagining the loss of a sense?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It causes unnecessary fear"
+        },
+        {
+          "id": "b",
+          "text": "It urges people to savor their sensory experiences to the absolute fullest"
+        },
+        {
+          "id": "c",
+          "text": "It makes people permanently sad"
+        },
+        {
+          "id": "d",
+          "text": "It creates confusion in the mind"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "Imagining imminent loss acts as a powerful psychological catalyst, instantly awakening profound gratitude and intense mindfulness toward our faculties."
+    },
+    {
+      "id": "ch3-q24",
+      "question": "How does her unique perspective foster empathy in the reader?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It demands pity and charity"
+        },
+        {
+          "id": "b",
+          "text": "It motivates people to value their own senses and promotes a kinder attitude toward those with special abilities"
+        },
+        {
+          "id": "c",
+          "text": "It harshly criticizes the blind"
+        },
+        {
+          "id": "d",
+          "text": "It ignores the sighted"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "By sharing her rich inner world, Keller dispels stereotypes, inspiring readers to value their own gifts and view differently-abled individuals with dignity and respect."
+    },
+    {
+      "id": "ch3-q25",
+      "question": "In her plans for Day 1, what does the concept of \"companionship\" signify?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Being completely alone"
+        },
+        {
+          "id": "b",
+          "text": "The deep feeling of being close to people who care about you and share your life"
+        },
+        {
+          "id": "c",
+          "text": "A business relationship"
+        },
+        {
+          "id": "d",
+          "text": "A bitter rivalry"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "Companionship signifies genuine emotional intimacy, mutual affection, and the human connections that illuminate inner darkness."
+    },
+    {
+      "id": "ch3-q26",
+      "question": "The author's descriptions of feeling the bark and the bird's song are heavily reliant on which literary device?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Tactile imagery"
+        },
+        {
+          "id": "b",
+          "text": "Heavy personification"
+        },
+        {
+          "id": "c",
+          "text": "Extreme hyperbole"
+        },
+        {
+          "id": "d",
+          "text": "Situational irony"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "a",
+      "explanation": "Keller employs exquisite tactile imagery—describing textures, vibrations, and temperatures—to convey how touch compensates for lack of sight."
+    },
+    {
+      "id": "ch3-q27",
+      "question": "Why does she insist on observing smiles, determination, and suffering alike on the third day?",
+      "options": [
+        {
+          "id": "a",
+          "text": "To judge people harshly"
+        },
+        {
+          "id": "b",
+          "text": "To gain a comprehensive understanding of the complete human experience"
+        },
+        {
+          "id": "c",
+          "text": "Because she is easily bored"
+        },
+        {
+          "id": "d",
+          "text": "Because she needs to write a book about pain"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "She rejects superficial escapism, desiring to witness the entire spectrum of human perseverance, struggle, and triumph in real life."
+    },
+    {
+      "id": "ch3-q28",
+      "question": "Which combination of words best captures the dominant tone of the essay?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Bitter and resentful"
+        },
+        {
+          "id": "b",
+          "text": "Reflective, deeply grateful, and poignant"
+        },
+        {
+          "id": "c",
+          "text": "Highly humorous and sarcastic"
+        },
+        {
+          "id": "d",
+          "text": "Angry and demanding"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "The tone is profoundly reflective, brimming with gratitude for sensory wonder while maintaining a poignant awareness of human fragility."
+    },
+    {
+      "id": "ch3-q29",
+      "question": "What is the precise meaning of the word 'quiver' as used in the text?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A container for arrows"
+        },
+        {
+          "id": "b",
+          "text": "A small, quick shake or tremble indicating life or emotion"
+        },
+        {
+          "id": "c",
+          "text": "To run away fast"
+        },
+        {
+          "id": "d",
+          "text": "To sing loudly"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "In this context, 'quiver' means a rapid, delicate trembling or vibration felt through her fingertips when a bird sings."
+    },
+    {
+      "id": "ch3-q30",
+      "question": "Despite her profound joy in touch, why does the author ultimately believe sight is the most wonderful sense?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Because hearing is too loud"
+        },
+        {
+          "id": "b",
+          "text": "Because touch is often painful"
+        },
+        {
+          "id": "c",
+          "text": "Because sight reveals the unparalleled beauty, diversity, and vibrant colors of life inaccessible otherwise"
+        },
+        {
+          "id": "d",
+          "text": "Because smell is unreliable"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "c",
+      "explanation": "While touch offers intimacy, Keller acknowledges that visual sight uniquely reveals the infinite diversity, panorama of color, and grandeur of the world at a glance."
+    }
+  ]
+}

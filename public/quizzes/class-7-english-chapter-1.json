@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "ch1-q1",
+      "question": "Who is the main character in the story?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Meena"
+        },
+        {
+          "id": "b",
+          "text": "Jahnavi"
+        },
+        {
+          "id": "c",
+          "text": "Kamala"
+        },
+        {
+          "id": "d",
+          "text": "Sita"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "The protagonist of the story is a young girl named Jahnavi who lives in a coastal village."
+    },
+    {
+      "id": "ch1-q2",
+      "question": "Where does the young girl live?",
+      "options": [
+        {
+          "id": "a",
+          "text": "In a big city"
+        },
+        {
+          "id": "b",
+          "text": "In a coastal village"
+        },
+        {
+          "id": "c",
+          "text": "In a desert"
+        },
+        {
+          "id": "d",
+          "text": "In the mountains"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "Jahnavi lives in a small coastal village by the sea and the river."
+    },
+    {
+      "id": "ch1-q3",
+      "question": "What is the young girl's biggest dream?",
+      "options": [
+        {
+          "id": "a",
+          "text": "To catch fish"
+        },
+        {
+          "id": "b",
+          "text": "To go to school"
+        },
+        {
+          "id": "c",
+          "text": "To sail ships"
+        },
+        {
+          "id": "d",
+          "text": "To fly"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "Her deepest aspiration and biggest dream is to go to school and gain an education like her brothers."
+    },
+    {
+      "id": "ch1-q4",
+      "question": "Who does the girl talk to when she is sad?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A tree"
+        },
+        {
+          "id": "b",
+          "text": "The River"
+        },
+        {
+          "id": "c",
+          "text": "A bird"
+        },
+        {
+          "id": "d",
+          "text": "Her brother"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "Whenever Jahnavi feels sad or frustrated by her limitations at home, she confides in the River."
+    },
+    {
+      "id": "ch1-q5",
+      "question": "What magical event happens at the water's edge?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A fairy appears"
+        },
+        {
+          "id": "b",
+          "text": "The River speaks"
+        },
+        {
+          "id": "c",
+          "text": "A fish sings"
+        },
+        {
+          "id": "d",
+          "text": "The wind howls"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "In a magical, personified moment at the water's edge, the River speaks directly to Jahnavi, offering guidance."
+    },
+    {
+      "id": "ch1-q6",
+      "question": "How old is the main character?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Five"
+        },
+        {
+          "id": "b",
+          "text": "Seven"
+        },
+        {
+          "id": "c",
+          "text": "Almost ten"
+        },
+        {
+          "id": "d",
+          "text": "Twelve"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "c",
+      "explanation": "The narrative describes Jahnavi as almost ten years old."
+    },
+    {
+      "id": "ch1-q7",
+      "question": "What is the name of her youngest baby brother?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gopi"
+        },
+        {
+          "id": "b",
+          "text": "Ramu"
+        },
+        {
+          "id": "c",
+          "text": "Appu"
+        },
+        {
+          "id": "d",
+          "text": "Chandu"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "c",
+      "explanation": "Her infant brother, whom she often has to look after at home, is named Appu."
+    },
+    {
+      "id": "ch1-q8",
+      "question": "What does the voice tell the girl about her abilities?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Girls cannot learn"
+        },
+        {
+          "id": "b",
+          "text": "Girls are just as capable as boys"
+        },
+        {
+          "id": "c",
+          "text": "Girls must stay home"
+        },
+        {
+          "id": "d",
+          "text": "Girls should only play"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "b",
+      "explanation": "The personified River encourages her self-belief, affirming that girls are equally capable of learning and achieving great things."
+    },
+    {
+      "id": "ch1-q9",
+      "question": "What simple plan is suggested to the girl?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Slip into the school quietly"
+        },
+        {
+          "id": "b",
+          "text": "Run away from home"
+        },
+        {
+          "id": "c",
+          "text": "Fight with her parents"
+        },
+        {
+          "id": "d",
+          "text": "Build a raft"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "a",
+      "explanation": "The River advises Jahnavi to take the first brave step by slipping into the school room quietly to listen and learn."
+    },
+    {
+      "id": "ch1-q10",
+      "question": "Who notices the girl sitting in the classroom?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Her father"
+        },
+        {
+          "id": "b",
+          "text": "The village head"
+        },
+        {
+          "id": "c",
+          "text": "The teacher"
+        },
+        {
+          "id": "d",
+          "text": "Her brother"
+        }
+      ],
+      "difficulty": "easy",
+      "correctAnswerId": "c",
+      "explanation": "The village teacher notices Jahnavi sitting quietly by the doorway listening to the history lesson."
+    },
+    {
+      "id": "ch1-q11",
+      "question": "Why does the mother initially refuse to send her daughter to school?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lack of money"
+        },
+        {
+          "id": "b",
+          "text": "Needs her to care for her younger siblings"
+        },
+        {
+          "id": "c",
+          "text": "School is too far"
+        },
+        {
+          "id": "d",
+          "text": "Dislikes the teacher"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "Her mother relies on Jahnavi to stay home and look after her younger brother Appu and help with household chores."
+    },
+    {
+      "id": "ch1-q12",
+      "question": "What specific natural mystery is the girl curious about?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Why fish swim"
+        },
+        {
+          "id": "b",
+          "text": "Why spiders are yellow"
+        },
+        {
+          "id": "c",
+          "text": "Why birds fly"
+        },
+        {
+          "id": "d",
+          "text": "Why it rains"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "Jahnavi is naturally curious and observant, wondering about scientific mysteries like why certain garden spiders are yellow."
+    },
+    {
+      "id": "ch1-q13",
+      "question": "According to the magical voice, who might take the girl to see ships?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gopi"
+        },
+        {
+          "id": "b",
+          "text": "Chandu the fisherman"
+        },
+        {
+          "id": "c",
+          "text": "Her father"
+        },
+        {
+          "id": "d",
+          "text": "The teacher"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "The voice suggests that Chandu the fisherman might take her out on his boat to see big ships across the waters."
+    },
+    {
+      "id": "ch1-q14",
+      "question": "What history lesson is being taught when she first listens at the door?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The River Ganga"
+        },
+        {
+          "id": "b",
+          "text": "King Ashoka"
+        },
+        {
+          "id": "c",
+          "text": "The Freedom Struggle"
+        },
+        {
+          "id": "d",
+          "text": "The Solar System"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "When Jahnavi peeks inside the classroom, the teacher is conducting a fascinating history lesson about King Ashoka."
+    },
+    {
+      "id": "ch1-q15",
+      "question": "How does the village teacher react to the girl's presence?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Scolds her"
+        },
+        {
+          "id": "b",
+          "text": "Ignores her completely"
+        },
+        {
+          "id": "c",
+          "text": "Welcomes her and visits her family"
+        },
+        {
+          "id": "d",
+          "text": "Sends her out immediately"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "c",
+      "explanation": "Instead of scolding her, the teacher welcomes her curiosity and visits her home to convince her parents to let her study officially."
+    },
+    {
+      "id": "ch1-q16",
+      "question": "What causes the mother to finally change her mind?",
+      "options": [
+        {
+          "id": "a",
+          "text": "She remembers her own unfulfilled dream of studying"
+        },
+        {
+          "id": "b",
+          "text": "The teacher offers money"
+        },
+        {
+          "id": "c",
+          "text": "The father forces her to agree"
+        },
+        {
+          "id": "d",
+          "text": "The river tells her to"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "a",
+      "explanation": "The teacher's visit awakens the mother's memories of her own childhood unfulfilled dreams of reading and learning, changing her perspective."
+    },
+    {
+      "id": "ch1-q17",
+      "question": "What is the girl's elder brother Gopi affectionately called?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Anna"
+        },
+        {
+          "id": "b",
+          "text": "Ettan"
+        },
+        {
+          "id": "c",
+          "text": "Bhai"
+        },
+        {
+          "id": "d",
+          "text": "Dada"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "In their regional cultural context, her elder brother Gopi is affectionately addressed as 'Ettan'."
+    },
+    {
+      "id": "ch1-q18",
+      "question": "What does the girl promise to become when she grows up?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A doctor"
+        },
+        {
+          "id": "b",
+          "text": "A fisherman"
+        },
+        {
+          "id": "c",
+          "text": "A teacher to help other village girls"
+        },
+        {
+          "id": "d",
+          "text": "A scientist"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "c",
+      "explanation": "Inspired by her teacher's kindness, Jahnavi resolves to become a teacher when she grows up so she can educate other village girls."
+    },
+    {
+      "id": "ch1-q19",
+      "question": "What object does the girl carry to the school doorway?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A slate"
+        },
+        {
+          "id": "b",
+          "text": "Her infant brother Appu"
+        },
+        {
+          "id": "c",
+          "text": "A heavy book"
+        },
+        {
+          "id": "d",
+          "text": "A flower"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "b",
+      "explanation": "Even while fulfilling her domestic duty of carrying baby Appu on her hip, she walks up to the school doorway to learn."
+    },
+    {
+      "id": "ch1-q20",
+      "question": "Why does the magical voice laugh at the girl's fears?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Because she is brave with spiders but afraid of school"
+        },
+        {
+          "id": "b",
+          "text": "Because she cannot swim"
+        },
+        {
+          "id": "c",
+          "text": "Because the school is empty"
+        },
+        {
+          "id": "d",
+          "text": "Because she is wearing funny clothes"
+        }
+      ],
+      "difficulty": "medium",
+      "correctAnswerId": "a",
+      "explanation": "The River gently points out the irony that Jahnavi courageously handles yellow spiders and crabs without fear, yet is afraid of stepping into a classroom."
+    },
+    {
+      "id": "ch1-q21",
+      "question": "What literary device is predominantly used to give a voice to the water?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Simile"
+        },
+        {
+          "id": "b",
+          "text": "Personification"
+        },
+        {
+          "id": "c",
+          "text": "Metaphor"
+        },
+        {
+          "id": "d",
+          "text": "Alliteration"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "Personification is the central literary device used, attributing human speech, wisdom, and emotion to the River."
+    },
+    {
+      "id": "ch1-q22",
+      "question": "What does the natural body of water symbolize in the narrative?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Physical danger"
+        },
+        {
+          "id": "b",
+          "text": "Wisdom, emotional support, and nature as a mentor"
+        },
+        {
+          "id": "c",
+          "text": "The passing of time"
+        },
+        {
+          "id": "d",
+          "text": "Societal restrictions"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "The River symbolizes nature as a guiding mentor, offering timeless wisdom, encouragement, and emotional sustenance to the young girl."
+    },
+    {
+      "id": "ch1-q23",
+      "question": "Which theme is most centrally advocated throughout the text?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Survival in the wild"
+        },
+        {
+          "id": "b",
+          "text": "Gender equality and the right to education"
+        },
+        {
+          "id": "c",
+          "text": "Sea exploration"
+        },
+        {
+          "id": "d",
+          "text": "Agricultural poverty"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "The primary theme advocated is gender equality and every child's fundamental right to formal education regardless of gender."
+    },
+    {
+      "id": "ch1-q24",
+      "question": "How is the disparity between the girl and her brothers most clearly highlighted?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Food distribution"
+        },
+        {
+          "id": "b",
+          "text": "Access to formal schooling"
+        },
+        {
+          "id": "c",
+          "text": "Clothing choices"
+        },
+        {
+          "id": "d",
+          "text": "Playtime hours"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "The gender disparity is starkly illustrated by her brothers leaving freely for school with slates and books while she is kept at home for childcare."
+    },
+    {
+      "id": "ch1-q25",
+      "question": "What is the contextual meaning of the word 'conspiratorially'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Speaking loudly"
+        },
+        {
+          "id": "b",
+          "text": "Speaking secretly as if sharing a special plan"
+        },
+        {
+          "id": "c",
+          "text": "Speaking angrily"
+        },
+        {
+          "id": "d",
+          "text": "Speaking with deep sadness"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "'Conspiratorially' means speaking in a secret, confidential manner, as if sharing a private, empowering plan between friends."
+    },
+    {
+      "id": "ch1-q26",
+      "question": "What does the girl's final decision reflect about societal change?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Change requires an individual's brave first step"
+        },
+        {
+          "id": "b",
+          "text": "Villages are always quiet"
+        },
+        {
+          "id": "c",
+          "text": "Teachers are always strict"
+        },
+        {
+          "id": "d",
+          "text": "Nature provides food"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "a",
+      "explanation": "Her courage demonstrates that dismantling entrenched socio-cultural barriers often begins with an individual taking a brave first step."
+    },
+    {
+      "id": "ch1-q27",
+      "question": "Why does the author use a capital \"R\" for the River?",
+      "options": [
+        {
+          "id": "a",
+          "text": "It is a typographical error"
+        },
+        {
+          "id": "b",
+          "text": "It is treated as a living character with a voice and feelings"
+        },
+        {
+          "id": "c",
+          "text": "It denotes a specific famous river"
+        },
+        {
+          "id": "d",
+          "text": "It is the start of a sentence"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "Capitalizing 'River' elevates it from an inanimate geographical feature to a distinct, living character and mentor within the story."
+    },
+    {
+      "id": "ch1-q28",
+      "question": "What does the mother's initial reluctance reveal about the story's setting?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Advanced urban life"
+        },
+        {
+          "id": "b",
+          "text": "Pressures of traditional domestic expectations"
+        },
+        {
+          "id": "c",
+          "text": "Extreme economic wealth"
+        },
+        {
+          "id": "d",
+          "text": "Advanced schooling systems"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "The mother's reluctance highlights the heavy pressures of traditional patriarchal domestic norms in rural coastal communities."
+    },
+    {
+      "id": "ch1-q29",
+      "question": "What does the word 'slithered' imply in the text?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Jumped very high"
+        },
+        {
+          "id": "b",
+          "text": "Moved smoothly by sliding from side to side"
+        },
+        {
+          "id": "c",
+          "text": "Ran extremely fast"
+        },
+        {
+          "id": "d",
+          "text": "Cried very loudly"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "b",
+      "explanation": "'Slithered' describes a smooth, gliding, or sinuous movement, often used to depict how creatures or water glide effortlessly."
+    },
+    {
+      "id": "ch1-q30",
+      "question": "Which character trait best defines the protagonist's mindset?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Apathy and laziness"
+        },
+        {
+          "id": "b",
+          "text": "Complacency"
+        },
+        {
+          "id": "c",
+          "text": "Keen observation and progressive curiosity"
+        },
+        {
+          "id": "d",
+          "text": "Uncontrollable fearfulness"
+        }
+      ],
+      "difficulty": "hard",
+      "correctAnswerId": "c",
+      "explanation": "Jahnavi is defined by her keen observation of nature and her progressive, relentless curiosity for learning and self-improvement."
+    }
+  ]
+}
