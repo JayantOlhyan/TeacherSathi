@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "Which device provides the electrical energy to make a torch work?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The bulb"
+        },
+        {
+          "id": "B",
+          "text": "The switch"
+        },
+        {
+          "id": "C",
+          "text": "The electric cell"
+        },
+        {
+          "id": "D",
+          "text": "The glass"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The electric cell (or battery) acts as the primary source of electrical energy."
+    },
+    {
+      "id": "2",
+      "question": "What do we call the complete path through which electric current flows?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A circle"
+        },
+        {
+          "id": "B",
+          "text": "An electric circuit"
+        },
+        {
+          "id": "C",
+          "text": "A wire path"
+        },
+        {
+          "id": "D",
+          "text": "A road"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "An electric circuit provides the necessary continuous loop for current flow."
+    },
+    {
+      "id": "3",
+      "question": "What is the main function of a switch in a circuit?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To make the bulb brighter"
+        },
+        {
+          "id": "B",
+          "text": "To open or close the circuit"
+        },
+        {
+          "id": "C",
+          "text": "To provide power"
+        },
+        {
+          "id": "D",
+          "text": "To hold the battery"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "A switch is a control mechanism to complete (close) or break (open) the electrical path."
+    },
+    {
+      "id": "4",
+      "question": "Which specific part of the electric bulb glows to give light?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The glass"
+        },
+        {
+          "id": "B",
+          "text": "The metal base"
+        },
+        {
+          "id": "C",
+          "text": "The filament"
+        },
+        {
+          "id": "D",
+          "text": "The switch"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The thin tungsten filament heats up due to resistance and emits light."
+    },
+    {
+      "id": "5",
+      "question": "In a circuit diagram, what does the longer straight line of a battery symbol represent?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Negative terminal"
+        },
+        {
+          "id": "B",
+          "text": "Positive terminal"
+        },
+        {
+          "id": "C",
+          "text": "Switch"
+        },
+        {
+          "id": "D",
+          "text": "Wire"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Standard schematic symbols use a longer line for the positive terminal and a shorter, thicker line for the negative."
+    },
+    {
+      "id": "6",
+      "question": "Materials that easily allow electric current to pass through them are called:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Insulators"
+        },
+        {
+          "id": "B",
+          "text": "Conductors"
+        },
+        {
+          "id": "C",
+          "text": "Plastics"
+        },
+        {
+          "id": "D",
+          "text": "Rubbers"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Conductors, generally metals, permit the easy flow of electrons."
+    },
+    {
+      "id": "7",
+      "question": "Which of the following objects is an insulator?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Copper wire"
+        },
+        {
+          "id": "B",
+          "text": "Iron nail"
+        },
+        {
+          "id": "C",
+          "text": "Rubber eraser"
+        },
+        {
+          "id": "D",
+          "text": "Silver coin"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Rubber heavily resists electrical flow, making it an excellent insulator."
+    },
+    {
+      "id": "8",
+      "question": "When a switch is placed in the 'OFF' position, the circuit is said to be:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Closed"
+        },
+        {
+          "id": "B",
+          "text": "Open"
+        },
+        {
+          "id": "C",
+          "text": "Shorted"
+        },
+        {
+          "id": "D",
+          "text": "Broken forever"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Turning the switch OFF creates an air gap, rendering the circuit open."
+    },
+    {
+      "id": "9",
+      "question": "How many terminals does a standard single electric cell have?",
+      "options": [
+        {
+          "id": "A",
+          "text": "One"
+        },
+        {
+          "id": "B",
+          "text": "Two"
+        },
+        {
+          "id": "C",
+          "text": "Three"
+        },
+        {
+          "id": "D",
+          "text": "Four"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "It possesses a positive terminal (metal cap) and a negative terminal (metal disc)."
+    },
+    {
+      "id": "10",
+      "question": "What exactly is a battery?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A single cell"
+        },
+        {
+          "id": "B",
+          "text": "A broken bulb"
+        },
+        {
+          "id": "C",
+          "text": "A combination of two or more cells"
+        },
+        {
+          "id": "D",
+          "text": "A piece of wire"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Multiple cells connected properly in series constitute a battery."
+    },
+    {
+      "id": "11",
+      "question": "Why are household electrical wires usually covered with plastic or rubber?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To make them look beautiful"
+        },
+        {
+          "id": "B",
+          "text": "To keep them warm"
+        },
+        {
+          "id": "C",
+          "text": "To prevent electric shocks"
+        },
+        {
+          "id": "D",
+          "text": "To conduct more electricity"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Insulators cover the live conductors to ensure human safety during handling."
+    },
+    {
+      "id": "12",
+      "question": "In standard circuit diagrams, which direction is conventional electric current shown to flow?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Negative to Positive"
+        },
+        {
+          "id": "B",
+          "text": "Positive to Negative"
+        },
+        {
+          "id": "C",
+          "text": "It does not move"
+        },
+        {
+          "id": "D",
+          "text": "Up and down"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Convention dictates current flows from the positive to the negative terminal."
+    },
+    {
+      "id": "13",
+      "question": "If a bulb's filament is broken, it is said to be:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fused"
+        },
+        {
+          "id": "B",
+          "text": "Closed"
+        },
+        {
+          "id": "C",
+          "text": "Charged"
+        },
+        {
+          "id": "D",
+          "text": "Bright"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "A broken filament creates a permanent gap, meaning the lamp is fused."
+    },
+    {
+      "id": "14",
+      "question": "Which of the following connection setups will form a properly working battery?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Positive connected to Positive"
+        },
+        {
+          "id": "B",
+          "text": "Positive connected to Negative"
+        },
+        {
+          "id": "C",
+          "text": "Negative connected to Negative"
+        },
+        {
+          "id": "D",
+          "text": "They don't need to touch"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Cells must be placed in series (positive to negative) to correctly compound their voltage."
+    },
+    {
+      "id": "15",
+      "question": "If a wooden stick is placed in a circuit instead of a connecting wire, will the bulb glow?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes"
+        },
+        {
+          "id": "B",
+          "text": "No"
+        },
+        {
+          "id": "C",
+          "text": "Only for a second"
+        },
+        {
+          "id": "D",
+          "text": "It will blast"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Wood is a poor conductor (insulator) and will arrest the flow of current."
+    },
+    {
+      "id": "16",
+      "question": "How does an LED differ from a standard incandescent bulb when connected in a circuit?",
+      "options": [
+        {
+          "id": "A",
+          "text": "LED does not need power"
+        },
+        {
+          "id": "B",
+          "text": "LED only conducts current in one specific direction (polarity)"
+        },
+        {
+          "id": "C",
+          "text": "LED gets much hotter"
+        },
+        {
+          "id": "D",
+          "text": "LED has a filament"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "LEDs are diodes and require correct polarity (positive to positive, negative to negative) to function."
+    },
+    {
+      "id": "17",
+      "question": "What is the original source of energy stored inside an electric cell?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Light"
+        },
+        {
+          "id": "B",
+          "text": "Heat"
+        },
+        {
+          "id": "C",
+          "text": "Stored chemical energy"
+        },
+        {
+          "id": "D",
+          "text": "Solar power"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Internal chemical reactions are converted into electrical energy."
+    },
+    {
+      "id": "18",
+      "question": "You connect a circuit, but the bulb doesn't glow. Which is NOT a logical reason for this failure?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The switch is closed"
+        },
+        {
+          "id": "B",
+          "text": "The filament is fused"
+        },
+        {
+          "id": "C",
+          "text": "The wire is broken"
+        },
+        {
+          "id": "D",
+          "text": "The cells are placed wrong"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "A closed switch completes the circuit; if the bulb fails, the reason lies elsewhere."
+    },
+    {
+      "id": "19",
+      "question": "Which metal is most commonly utilized for manufacturing electrical wires?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gold"
+        },
+        {
+          "id": "B",
+          "text": "Copper"
+        },
+        {
+          "id": "C",
+          "text": "Iron"
+        },
+        {
+          "id": "D",
+          "text": "Zinc"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Copper offers an excellent balance of high conductivity, flexibility, and cost."
+    },
+    {
+      "id": "20",
+      "question": "Why can the human body receive dangerous electric shocks?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because the body is an insulator"
+        },
+        {
+          "id": "B",
+          "text": "Because the human body conducts electricity"
+        },
+        {
+          "id": "C",
+          "text": "Because the body generates its own electricity"
+        },
+        {
+          "id": "D",
+          "text": "Because of gravity"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The human body contains water and dissolved salts, making it a viable conductor."
+    },
+    {
+      "id": "21",
+      "question": "Two bulbs are connected one after another in a single line (series). What happens if the filament of the first bulb breaks?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The second bulb glows brighter"
+        },
+        {
+          "id": "B",
+          "text": "The second bulb stops glowing entirely"
+        },
+        {
+          "id": "C",
+          "text": "The second bulb glows the same"
+        },
+        {
+          "id": "D",
+          "text": "The circuit becomes faster"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "In a series circuit, any break halts the current for the entire path, shutting down all components."
+    },
+    {
+      "id": "22",
+      "question": "Which statement regarding an electrical switch is scientifically false?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It completes or breaks a circuit"
+        },
+        {
+          "id": "B",
+          "text": "It controls the flow of current"
+        },
+        {
+          "id": "C",
+          "text": "It is the source of electric current"
+        },
+        {
+          "id": "D",
+          "text": "When OFF, there is an air gap"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "A switch regulates current but generates none; the cell is the source."
+    },
+    {
+      "id": "23",
+      "question": "Why is the filament of an incandescent bulb hermetically encased in glass?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To look nice"
+        },
+        {
+          "id": "B",
+          "text": "To magnify the light"
+        },
+        {
+          "id": "C",
+          "text": "To protect the superheated filament from reacting with oxygen and burning out"
+        },
+        {
+          "id": "D",
+          "text": "To keep the battery cool"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "If exposed to air, the extreme heat would cause the tungsten filament to instantly combust."
+    },
+    {
+      "id": "24",
+      "question": "A student connects the longer lead of an LED to the negative terminal and the shorter lead to the positive terminal. What occurs?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It glows very bright"
+        },
+        {
+          "id": "B",
+          "text": "It does not glow"
+        },
+        {
+          "id": "C",
+          "text": "It changes color"
+        },
+        {
+          "id": "D",
+          "text": "The battery explodes"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Reversed polarity blocks the current in an LED, preventing it from glowing."
+    },
+    {
+      "id": "25",
+      "question": "What is the most reliable experimental method to test if a material is a conductor or an insulator?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Smell it"
+        },
+        {
+          "id": "B",
+          "text": "Connect it between two free ends of an open circuit with a working bulb"
+        },
+        {
+          "id": "C",
+          "text": "Put it in water"
+        },
+        {
+          "id": "D",
+          "text": "Measure its length"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Using the material to bridge a gap will verify its conductivity based on whether the bulb lights up."
+    },
+    {
+      "id": "26",
+      "question": "What happens if a rubber band is connected between the ends of an electric circuit?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Current flows easily"
+        },
+        {
+          "id": "B",
+          "text": "The bulb glows"
+        },
+        {
+          "id": "C",
+          "text": "Current stops because rubber acts as an insulator"
+        },
+        {
+          "id": "D",
+          "text": "The rubber band melts"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "The rubber introduces a gap of high resistance, halting the electron flow."
+    },
+    {
+      "id": "27",
+      "question": "Why do electricians specifically use screwdrivers with plastic or rubber handles?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Plastic makes them lighter"
+        },
+        {
+          "id": "B",
+          "text": "Plastic is cheap"
+        },
+        {
+          "id": "C",
+          "text": "The material acts as an insulator, preventing current from entering the body"
+        },
+        {
+          "id": "D",
+          "text": "Plastic is a good conductor"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "The handle breaks the conductive path between the live wire and the electrician's hand."
+    },
+    {
+      "id": "28",
+      "question": "Which of the following sources provides Direct Current (DC)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wall socket"
+        },
+        {
+          "id": "B",
+          "text": "Electric cell"
+        },
+        {
+          "id": "C",
+          "text": "Lightning"
+        },
+        {
+          "id": "D",
+          "text": "Plastic rod"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Cells and batteries produce DC, where electrons flow steadily in a single direction."
+    },
+    {
+      "id": "29",
+      "question": "You have six cells (A through F) and want to find which one is dead. How do you accurately test them?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Look at them"
+        },
+        {
+          "id": "B",
+          "text": "Connect each one individually to a working bulb in a simple circuit"
+        },
+        {
+          "id": "C",
+          "text": "Shake them"
+        },
+        {
+          "id": "D",
+          "text": "Put them all in water"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Isolating each cell in a known working circuit provides empirical proof of its voltage capacity."
+    },
+    {
+      "id": "30",
+      "question": "What physically creates the high resistance 'air gap' in an open circuit?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The wire melting"
+        },
+        {
+          "id": "B",
+          "text": "Moving the switch to the 'OFF' position, separating the metal contacts"
+        },
+        {
+          "id": "C",
+          "text": "The battery running out"
+        },
+        {
+          "id": "D",
+          "text": "The bulb getting too hot"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The mechanical action of the switch separates the conductive paths, filling the space with insulating air."
+    }
+  ]
+}

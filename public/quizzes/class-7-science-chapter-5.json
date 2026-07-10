@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "What type of change is occurring when ice melts into liquid water?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Chemical"
+        },
+        {
+          "id": "B",
+          "text": "Physical"
+        },
+        {
+          "id": "C",
+          "text": "Biological"
+        },
+        {
+          "id": "D",
+          "text": "Irreversible"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Melting alters only the physical state of H2O; the chemical substance remains identical."
+    },
+    {
+      "id": "2",
+      "question": "When a flower bud blooms into a full flower, can it turn back into a bud?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes"
+        },
+        {
+          "id": "B",
+          "text": "No, it is irreversible"
+        },
+        {
+          "id": "C",
+          "text": "Only at night"
+        },
+        {
+          "id": "D",
+          "text": "Only in winter"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Biological growth involves internal chemical changes that cannot run in reverse."
+    },
+    {
+      "id": "3",
+      "question": "Folding a flat piece of paper into a toy airplane is an example of a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Chemical change"
+        },
+        {
+          "id": "B",
+          "text": "Reversible physical change"
+        },
+        {
+          "id": "C",
+          "text": "Irreversible physical change"
+        },
+        {
+          "id": "D",
+          "text": "Burning change"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The paper's form is changed, but it can be easily unfolded back to its original state."
+    },
+    {
+      "id": "4",
+      "question": "What must happen for a change to be classified as a chemical change?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only the shape changes"
+        },
+        {
+          "id": "B",
+          "text": "A completely new substance is formed"
+        },
+        {
+          "id": "C",
+          "text": "The object changes size"
+        },
+        {
+          "id": "D",
+          "text": "Nothing changes"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The hallmark of a chemical reaction is the creation of a product with new properties."
+    },
+    {
+      "id": "5",
+      "question": "Which of the following is considered a physical change?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Burning wood"
+        },
+        {
+          "id": "B",
+          "text": "Rusting of iron"
+        },
+        {
+          "id": "C",
+          "text": "Dissolving sugar in water"
+        },
+        {
+          "id": "D",
+          "text": "Cooking food"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The sugar molecules are not altered and can be recovered simply by evaporating the water."
+    },
+    {
+      "id": "6",
+      "question": "Making popcorn by heating raw corn kernels is an example of:",
+      "options": [
+        {
+          "id": "A",
+          "text": "A reversible change"
+        },
+        {
+          "id": "B",
+          "text": "An irreversible change"
+        },
+        {
+          "id": "C",
+          "text": "A physical change"
+        },
+        {
+          "id": "D",
+          "text": "A freezing change"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The heat causes a permanent structural and chemical change that cannot be undone."
+    },
+    {
+      "id": "7",
+      "question": "Rolling a ball of dough into a flat chapati (without cooking it) is what kind of change?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Chemical"
+        },
+        {
+          "id": "B",
+          "text": "Physical and reversible"
+        },
+        {
+          "id": "C",
+          "text": "Biological"
+        },
+        {
+          "id": "D",
+          "text": "Irreversible"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "You are merely changing the shape, and the dough can be easily rolled back into a ball."
+    },
+    {
+      "id": "8",
+      "question": "What kind of change is tearing a piece of paper into tiny shreds?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Reversible physical"
+        },
+        {
+          "id": "B",
+          "text": "Irreversible physical"
+        },
+        {
+          "id": "C",
+          "text": "Chemical"
+        },
+        {
+          "id": "D",
+          "text": "Desirable"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "It is physical (still paper), but it cannot be easily reassembled to its exact original state."
+    },
+    {
+      "id": "9",
+      "question": "The curdling of milk to form curd overnight is a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Reversible change"
+        },
+        {
+          "id": "B",
+          "text": "Physical change"
+        },
+        {
+          "id": "C",
+          "text": "Chemical change"
+        },
+        {
+          "id": "D",
+          "text": "Quick change"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Bacterial action creates lactic acid, forming a new substance that cannot revert to milk."
+    },
+    {
+      "id": "10",
+      "question": "Which of these naturally occurring changes is considered desirable?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Food spoiling"
+        },
+        {
+          "id": "B",
+          "text": "Iron rusting"
+        },
+        {
+          "id": "C",
+          "text": "Fruits ripening"
+        },
+        {
+          "id": "D",
+          "text": "Glass breaking"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Ripening produces sweet, edible fruit, which is highly beneficial and desirable."
+    },
+    {
+      "id": "11",
+      "question": "Why is the rotting of a banana scientifically classified as a chemical change?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It changes color slightly"
+        },
+        {
+          "id": "B",
+          "text": "Its composition is permanently altered by microbes, forming new substances"
+        },
+        {
+          "id": "C",
+          "text": "It becomes soft"
+        },
+        {
+          "id": "D",
+          "text": "It smells bad"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Decomposition permanently breaks down the original organic molecules."
+    },
+    {
+      "id": "12",
+      "question": "Boiling water in an open pan turns liquid water into steam. What specific type of change is this?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Chemical"
+        },
+        {
+          "id": "B",
+          "text": "Reversible physical"
+        },
+        {
+          "id": "C",
+          "text": "Irreversible physical"
+        },
+        {
+          "id": "D",
+          "text": "Combustion"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Condensing the steam will easily return it to liquid water, proving reversibility."
+    },
+    {
+      "id": "13",
+      "question": "Which two environmental factors are absolutely required for iron to rust?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Heat and light"
+        },
+        {
+          "id": "B",
+          "text": "Oxygen and moisture (water)"
+        },
+        {
+          "id": "C",
+          "text": "Salt and sugar"
+        },
+        {
+          "id": "D",
+          "text": "Nitrogen and soil"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Rusting is an oxidation process that requires water to facilitate the electron transfer."
+    },
+    {
+      "id": "14",
+      "question": "Chopping vegetables for a salad is best described as:",
+      "options": [
+        {
+          "id": "A",
+          "text": "An irreversible physical change"
+        },
+        {
+          "id": "B",
+          "text": "A chemical change"
+        },
+        {
+          "id": "C",
+          "text": "A reversible physical change"
+        },
+        {
+          "id": "D",
+          "text": "A biological change"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "No new substance is created, but the pieces cannot be magically fused back into a whole vegetable."
+    },
+    {
+      "id": "15",
+      "question": "What specific gas is released when household vinegar is mixed with baking soda?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Oxygen"
+        },
+        {
+          "id": "B",
+          "text": "Hydrogen"
+        },
+        {
+          "id": "C",
+          "text": "Carbon dioxide"
+        },
+        {
+          "id": "D",
+          "text": "Nitrogen"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The acid-base reaction vigorously releases carbon dioxide gas as bubbles."
+    },
+    {
+      "id": "16",
+      "question": "How can a scientist definitively test for the presence of carbon dioxide gas?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It catches fire easily"
+        },
+        {
+          "id": "B",
+          "text": "It turns clear lime water milky white"
+        },
+        {
+          "id": "C",
+          "text": "It smells like rotten eggs"
+        },
+        {
+          "id": "D",
+          "text": "It turns red litmus blue"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "CO2 reacts with calcium hydroxide to precipitate calcium carbonate, causing milkiness."
+    },
+    {
+      "id": "17",
+      "question": "What kinds of changes are involved in the natural formation of soil from solid rocks (weathering)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only physical"
+        },
+        {
+          "id": "B",
+          "text": "Only chemical"
+        },
+        {
+          "id": "C",
+          "text": "Both physical and chemical"
+        },
+        {
+          "id": "D",
+          "text": "Neither"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Mechanical fracturing (physical) and mineral oxidation/dissolution (chemical) work together."
+    },
+    {
+      "id": "18",
+      "question": "Drying wet clothes in the bright sun is what type of change?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Chemical"
+        },
+        {
+          "id": "B",
+          "text": "Reversible physical"
+        },
+        {
+          "id": "C",
+          "text": "Combustion"
+        },
+        {
+          "id": "D",
+          "text": "Neutralization"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The process is simple evaporation; the water merely changes state from liquid to gas."
+    },
+    {
+      "id": "19",
+      "question": "Why is the burning of a wax candle considered a complex process involving both physical and chemical changes?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wax melts (physical) and then wax vapour burns to form CO2 and water (chemical)"
+        },
+        {
+          "id": "B",
+          "text": "Wax is hard and soft"
+        },
+        {
+          "id": "C",
+          "text": "It provides heat and light"
+        },
+        {
+          "id": "D",
+          "text": "It is only chemical"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "The melting is a state change, while the combustion of the vapor creates new molecules."
+    },
+    {
+      "id": "20",
+      "question": "What is the minimum temperature required for a combustible substance to catch fire called?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Boiling point"
+        },
+        {
+          "id": "B",
+          "text": "Melting point"
+        },
+        {
+          "id": "C",
+          "text": "Ignition temperature"
+        },
+        {
+          "id": "D",
+          "text": "Freezing point"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Without reaching this thermal threshold, a fuel will not ignite, even in pure oxygen."
+    },
+    {
+      "id": "21",
+      "question": "What occurs chemically when carbon dioxide gas is passed through lime water?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Insoluble calcium carbonate is formed"
+        },
+        {
+          "id": "B",
+          "text": "Sodium chloride is formed"
+        },
+        {
+          "id": "C",
+          "text": "Acetic acid is formed"
+        },
+        {
+          "id": "D",
+          "text": "Hydrogen gas is released"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The formation of the white, insoluble calcium carbonate precipitate creates the \"milky\" appearance."
+    },
+    {
+      "id": "22",
+      "question": "Composting vegetable peels in a garden pit is a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Physical change"
+        },
+        {
+          "id": "B",
+          "text": "Chemical change caused by the action of bacteria and fungi"
+        },
+        {
+          "id": "C",
+          "text": "Reversible change"
+        },
+        {
+          "id": "D",
+          "text": "Undesirable change"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Microbial decomposition breaks complex organic matter into new, simpler nutrient substances."
+    },
+    {
+      "id": "23",
+      "question": "Which famous scientist gave historical lectures explaining complex physical and chemical processes using a simple burning candle?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Albert Einstein"
+        },
+        {
+          "id": "B",
+          "text": "Michael Faraday"
+        },
+        {
+          "id": "C",
+          "text": "Isaac Newton"
+        },
+        {
+          "id": "D",
+          "text": "Galileo Galilei"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Faraday's \"Chemical History of a Candle\" masterfully illustrated combustion and state changes."
+    },
+    {
+      "id": "24",
+      "question": "A student mixes beetroot extract with plain water, and the water turns pink. What type of change is this fundamentally?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Chemical"
+        },
+        {
+          "id": "B",
+          "text": "Physical"
+        },
+        {
+          "id": "C",
+          "text": "Irreversible"
+        },
+        {
+          "id": "D",
+          "text": "Combustion"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "It is merely a physical dilution; the pigment molecules spread out without forming new compounds."
+    },
+    {
+      "id": "25",
+      "question": "Why is combustion strictly classified as a chemical change?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It only changes the state of the fuel"
+        },
+        {
+          "id": "B",
+          "text": "It requires fuel and oxygen to produce entirely new substances like ash, CO2, and water vapor"
+        },
+        {
+          "id": "C",
+          "text": "It is reversible"
+        },
+        {
+          "id": "D",
+          "text": "It makes things hot"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The original molecular structure of the fuel is destroyed and reassembled into new products."
+    },
+    {
+      "id": "26",
+      "question": "Which of the following represents an undesirable chemical change in engineering or daily life?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Milk turning to curd"
+        },
+        {
+          "id": "B",
+          "text": "Ripening of fruits"
+        },
+        {
+          "id": "C",
+          "text": "Rusting of an iron gate"
+        },
+        {
+          "id": "D",
+          "text": "Digestion of food"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Rust degrades the structural integrity of iron, making it a highly costly and unwanted reaction."
+    },
+    {
+      "id": "27",
+      "question": "Fireflies glow at night. What mechanism causes this fascinating glow?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They have tiny internal batteries"
+        },
+        {
+          "id": "B",
+          "text": "Bioluminescence, a natural chemical reaction producing light with almost zero heat"
+        },
+        {
+          "id": "C",
+          "text": "They reflect moonlight"
+        },
+        {
+          "id": "D",
+          "text": "They are extremely hot"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Enzymatic reactions inside the insect produce cold light, a unique biological chemical change."
+    },
+    {
+      "id": "28",
+      "question": "When stitching a piece of cloth into a shirt, why is it considered an irreversible physical change?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Undoing the stitches damages the fabric, preventing it from reverting exactly to its original uncut state"
+        },
+        {
+          "id": "B",
+          "text": "The cloth turns into a new chemical"
+        },
+        {
+          "id": "C",
+          "text": "Needles are made of metal"
+        },
+        {
+          "id": "D",
+          "text": "The color changes"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "While chemically identical, the physical integrity of the raw material is permanently altered by cutting and sewing."
+    },
+    {
+      "id": "29",
+      "question": "You inflate a rubber balloon, and it accidentally bursts. What sequence of changes occurred?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Chemical only"
+        },
+        {
+          "id": "B",
+          "text": "Reversible physical, then chemical"
+        },
+        {
+          "id": "C",
+          "text": "Reversible physical (inflation), then irreversible physical (bursting)"
+        },
+        {
+          "id": "D",
+          "text": "Irreversible physical only"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Stretching the latex is reversible, but tearing it destroys the shape permanently without creating a new chemical."
+    },
+    {
+      "id": "30",
+      "question": "How does physical weathering primarily differ from the chemical weathering of rocks?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Physical breaks rocks into smaller pieces; chemical alters the rock's fundamental minerals"
+        },
+        {
+          "id": "B",
+          "text": "Physical uses acid; chemical uses ice"
+        },
+        {
+          "id": "C",
+          "text": "Physical is fast; chemical is fast"
+        },
+        {
+          "id": "D",
+          "text": "There is no difference"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "Physical weathering (like freeze-thaw cycles) changes size, while chemical weathering (like acid rain) changes composition."
+    }
+  ]
+}

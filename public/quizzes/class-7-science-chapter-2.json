@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "How does lemon juice taste?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sweet"
+        },
+        {
+          "id": "B",
+          "text": "Salty"
+        },
+        {
+          "id": "C",
+          "text": "Sour"
+        },
+        {
+          "id": "D",
+          "text": "Bitter"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Lemon juice contains citric acid, which imparts a distinct sour taste."
+    },
+    {
+      "id": "2",
+      "question": "How do basic substances like soap feel when touched?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rough"
+        },
+        {
+          "id": "B",
+          "text": "Soapy or slippery"
+        },
+        {
+          "id": "C",
+          "text": "Hot"
+        },
+        {
+          "id": "D",
+          "text": "Sharp"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "A defining physical characteristic of bases is their slippery texture."
+    },
+    {
+      "id": "3",
+      "question": "What is a substance called if it is neither acidic nor basic?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sour"
+        },
+        {
+          "id": "B",
+          "text": "Bitter"
+        },
+        {
+          "id": "C",
+          "text": "Neutral"
+        },
+        {
+          "id": "D",
+          "text": "Salty"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Substances that do not exhibit acidic or basic properties are classified as neutral."
+    },
+    {
+      "id": "4",
+      "question": "What color does blue litmus paper turn when dipped in an acid?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Blue"
+        },
+        {
+          "id": "B",
+          "text": "Green"
+        },
+        {
+          "id": "C",
+          "text": "Red"
+        },
+        {
+          "id": "D",
+          "text": "Yellow"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Acids chemically alter the structure of the litmus dye, turning blue litmus red."
+    },
+    {
+      "id": "5",
+      "question": "Which natural indicator is commonly found in our kitchens?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rose"
+        },
+        {
+          "id": "B",
+          "text": "Turmeric"
+        },
+        {
+          "id": "C",
+          "text": "Litmus"
+        },
+        {
+          "id": "D",
+          "text": "Onion"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Turmeric is an everyday spice that functions effectively as an acid-base indicator."
+    },
+    {
+      "id": "6",
+      "question": "What organism is litmus extracted from?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Trees"
+        },
+        {
+          "id": "B",
+          "text": "Lichens"
+        },
+        {
+          "id": "C",
+          "text": "Flowers"
+        },
+        {
+          "id": "D",
+          "text": "Soil"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Litmus is a natural dye obtained symmetrically from lichens."
+    },
+    {
+      "id": "7",
+      "question": "Does a sugar solution change the color of litmus paper?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes, to red"
+        },
+        {
+          "id": "B",
+          "text": "Yes, to blue"
+        },
+        {
+          "id": "C",
+          "text": "No, it remains unchanged"
+        },
+        {
+          "id": "D",
+          "text": "Yes, to green"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Sugar water is a neutral solution and thus has no effect on indicators."
+    },
+    {
+      "id": "8",
+      "question": "What kind of substance is baking soda?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Acidic"
+        },
+        {
+          "id": "B",
+          "text": "Basic"
+        },
+        {
+          "id": "C",
+          "text": "Neutral"
+        },
+        {
+          "id": "D",
+          "text": "Sweet"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Baking soda is a common household base used in cooking and cleaning."
+    },
+    {
+      "id": "9",
+      "question": "What specific acid is present in curd?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Citric acid"
+        },
+        {
+          "id": "B",
+          "text": "Lactic acid"
+        },
+        {
+          "id": "C",
+          "text": "Acetic acid"
+        },
+        {
+          "id": "D",
+          "text": "Tartaric acid"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The fermentation of milk produces lactic acid, found in curd."
+    },
+    {
+      "id": "10",
+      "question": "What happens when you mix an acid and a base together?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They explode"
+        },
+        {
+          "id": "B",
+          "text": "They neutralize each other"
+        },
+        {
+          "id": "C",
+          "text": "They turn into gold"
+        },
+        {
+          "id": "D",
+          "text": "Nothing happens"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "They react in a neutralization process, balancing each other's properties."
+    },
+    {
+      "id": "11",
+      "question": "What color does red litmus paper turn in a soap solution?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Red"
+        },
+        {
+          "id": "B",
+          "text": "Blue"
+        },
+        {
+          "id": "C",
+          "text": "Green"
+        },
+        {
+          "id": "D",
+          "text": "Yellow"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Soap is basic in nature, meaning it will turn red litmus paper blue."
+    },
+    {
+      "id": "12",
+      "question": "If a substance turns red rose extract green, what is its nature?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Acidic"
+        },
+        {
+          "id": "B",
+          "text": "Basic"
+        },
+        {
+          "id": "C",
+          "text": "Neutral"
+        },
+        {
+          "id": "D",
+          "text": "Salty"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Red rose extract serves as an indicator that turns green in the presence of basic substances."
+    },
+    {
+      "id": "13",
+      "question": "Which acid is commonly found in household vinegar?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lactic acid"
+        },
+        {
+          "id": "B",
+          "text": "Citric acid"
+        },
+        {
+          "id": "C",
+          "text": "Acetic acid"
+        },
+        {
+          "id": "D",
+          "text": "Tartaric acid"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Vinegar is a dilute solution of acetic acid."
+    },
+    {
+      "id": "14",
+      "question": "What happens to yellow turmeric paper when drops of lime water are added?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It stays yellow"
+        },
+        {
+          "id": "B",
+          "text": "It turns red"
+        },
+        {
+          "id": "C",
+          "text": "It turns blue"
+        },
+        {
+          "id": "D",
+          "text": "It turns green"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Lime water is a base, which triggers turmeric to change its color to red."
+    },
+    {
+      "id": "15",
+      "question": "Which of these is an example of an olfactory indicator?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Litmus"
+        },
+        {
+          "id": "B",
+          "text": "Turmeric"
+        },
+        {
+          "id": "C",
+          "text": "Onion or Vanilla extract"
+        },
+        {
+          "id": "D",
+          "text": "Rose petals"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Olfactory indicators change their smell depending on whether they are in an acid or a base."
+    },
+    {
+      "id": "16",
+      "question": "What products are formed during a neutralization reaction?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Acid and base"
+        },
+        {
+          "id": "B",
+          "text": "Salt, water, and heat"
+        },
+        {
+          "id": "C",
+          "text": "Sugar and water"
+        },
+        {
+          "id": "D",
+          "text": "Gas and ash"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "A complete neutralization yields a salt, water, and releases thermal energy (heat)."
+    },
+    {
+      "id": "17",
+      "question": "Why is turmeric paper insufficient for distinguishing between an acid and a neutral substance?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It dissolves"
+        },
+        {
+          "id": "B",
+          "text": "It stays yellow in both acidic and neutral solutions"
+        },
+        {
+          "id": "C",
+          "text": "It turns blue"
+        },
+        {
+          "id": "D",
+          "text": "It catches fire"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Turmeric only changes color (to red) in bases, rendering it ineffective for testing acids versus neutrals."
+    },
+    {
+      "id": "18",
+      "question": "What kind of acid is found naturally in tamarind?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Citric acid"
+        },
+        {
+          "id": "B",
+          "text": "Acetic acid"
+        },
+        {
+          "id": "C",
+          "text": "Lactic acid"
+        },
+        {
+          "id": "D",
+          "text": "Tartaric acid"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "D",
+      "explanation": "Tamarind derives its sour profile from tartaric acid."
+    },
+    {
+      "id": "19",
+      "question": "A solution turns red litmus paper blue. To reverse this change back to red, what should you add?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lime water"
+        },
+        {
+          "id": "B",
+          "text": "Baking soda"
+        },
+        {
+          "id": "C",
+          "text": "Vinegar"
+        },
+        {
+          "id": "D",
+          "text": "Salt water"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "The blue color indicates a base. Adding vinegar (an acid) will neutralize the base and eventually restore acidity."
+    },
+    {
+      "id": "20",
+      "question": "Why do we apply baking soda to an ant bite?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To cool it down"
+        },
+        {
+          "id": "B",
+          "text": "To neutralize the injected formic acid"
+        },
+        {
+          "id": "C",
+          "text": "To clean the dirt"
+        },
+        {
+          "id": "D",
+          "text": "To make it smell good"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Ants inject formic acid; applying a base like baking soda neutralizes it, relieving pain."
+    },
+    {
+      "id": "21",
+      "question": "You have a liquid that turns blue litmus red but has no effect on turmeric paper. What is the nature of the liquid?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Basic"
+        },
+        {
+          "id": "B",
+          "text": "Acidic"
+        },
+        {
+          "id": "C",
+          "text": "Neutral"
+        },
+        {
+          "id": "D",
+          "text": "Cannot be determined"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Turning blue litmus red confirms acidity, which aligns with turmeric remaining unchanged (yellow)."
+    },
+    {
+      "id": "22",
+      "question": "How is acidic factory waste ecologically managed before being discharged into rivers?",
+      "options": [
+        {
+          "id": "A",
+          "text": "By heating it"
+        },
+        {
+          "id": "B",
+          "text": "By adding basic substances to neutralize it"
+        },
+        {
+          "id": "C",
+          "text": "By freezing it"
+        },
+        {
+          "id": "D",
+          "text": "By adding more acid"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Acidic effluents must be neutralized with bases to prevent severe damage to aquatic ecosystems."
+    },
+    {
+      "id": "23",
+      "question": "If the soil in a farm is too basic, what should a farmer add to improve plant growth?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lime"
+        },
+        {
+          "id": "B",
+          "text": "Baking soda"
+        },
+        {
+          "id": "C",
+          "text": "Organic matter (manure)"
+        },
+        {
+          "id": "D",
+          "text": "Salt"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Decomposing organic matter naturally releases acids, which balance and neutralize the highly basic soil."
+    },
+    {
+      "id": "24",
+      "question": "A student writes a secret message using lemon juice. How can the message be revealed chemically?",
+      "options": [
+        {
+          "id": "A",
+          "text": "By rubbing salt on it"
+        },
+        {
+          "id": "B",
+          "text": "By applying red rose extract to turn the acidic juice red"
+        },
+        {
+          "id": "C",
+          "text": "By washing it with water"
+        },
+        {
+          "id": "D",
+          "text": "By keeping it in the dark"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Lemon juice is acidic; indicators like rose extract or beetroot juice will react to reveal the message."
+    },
+    {
+      "id": "25",
+      "question": "Liquid X turns red rose extract green. When an excess amount of amla juice is added to Liquid X, what occurs?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The mixture explodes"
+        },
+        {
+          "id": "B",
+          "text": "The green color intensifies"
+        },
+        {
+          "id": "C",
+          "text": "The acidic amla juice neutralizes the basic Liquid X"
+        },
+        {
+          "id": "D",
+          "text": "The mixture turns yellow"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Liquid X is a base (turns rose green). Amla juice (acidic) neutralizes it."
+    },
+    {
+      "id": "26",
+      "question": "Which of the following accurately represents the neutralization equation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Acid + Salt → Base + Water"
+        },
+        {
+          "id": "B",
+          "text": "Acid + Base → Salt + Water + Heat"
+        },
+        {
+          "id": "C",
+          "text": "Base + Water → Acid + Salt"
+        },
+        {
+          "id": "D",
+          "text": "Acid + Water → Base + Heat"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "This equation defines the chemical interaction between an acid and a base."
+    },
+    {
+      "id": "27",
+      "question": "Why are antacid tablets medically prescribed for indigestion?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They contain acid"
+        },
+        {
+          "id": "B",
+          "text": "They contain bases that neutralize excess stomach acid"
+        },
+        {
+          "id": "C",
+          "text": "They are sweet"
+        },
+        {
+          "id": "D",
+          "text": "They create gas"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Indigestion is often caused by excessive gastric acid, which antacids neutralize safely."
+    },
+    {
+      "id": "28",
+      "question": "Turmeric paper is dipped in three solutions: A, B, and C. It stays yellow in A and B, but turns red in C. What can we conclude?",
+      "options": [
+        {
+          "id": "A",
+          "text": "C is acidic"
+        },
+        {
+          "id": "B",
+          "text": "C is a base, while A and B could be acidic or neutral"
+        },
+        {
+          "id": "C",
+          "text": "A and B are basic"
+        },
+        {
+          "id": "D",
+          "text": "All are neutral"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Turmeric only reacts to bases, meaning solutions A and B remain unclassified between acid or neutral."
+    },
+    {
+      "id": "29",
+      "question": "You have three solutions: Acidic, Basic, and Neutral. Which one will absolutely not alter the color of either red or blue litmus paper?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Acidic"
+        },
+        {
+          "id": "B",
+          "text": "Basic"
+        },
+        {
+          "id": "C",
+          "text": "Neutral"
+        },
+        {
+          "id": "D",
+          "text": "All of them"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Neutral solutions lack the H+ or OH- ions required to trigger a color change in litmus dyes."
+    },
+    {
+      "id": "30",
+      "question": "What happens to the thermal energy during a neutralization reaction?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Heat is absorbed, making the container cold"
+        },
+        {
+          "id": "B",
+          "text": "Heat is released into the surroundings"
+        },
+        {
+          "id": "C",
+          "text": "There is no change in heat"
+        },
+        {
+          "id": "D",
+          "text": "The liquid freezes"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Neutralization is an exothermic reaction, meaning it actively releases heat."
+    }
+  ]
+}

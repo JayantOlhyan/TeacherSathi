@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "Which of the following is a key physical property of metals?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dull appearance"
+        },
+        {
+          "id": "B",
+          "text": "Shiny (lustrous) appearance"
+        },
+        {
+          "id": "C",
+          "text": "Break easily"
+        },
+        {
+          "id": "D",
+          "text": "Softness"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Metals inherently possess a lustrous, reflective surface when freshly polished."
+    },
+    {
+      "id": "2",
+      "question": "What is the property that allows metals to be beaten into thin sheets called?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ductility"
+        },
+        {
+          "id": "B",
+          "text": "Malleability"
+        },
+        {
+          "id": "C",
+          "text": "Sonority"
+        },
+        {
+          "id": "D",
+          "text": "Conductivity"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Malleability allows materials like aluminium to be flattened without fracturing."
+    },
+    {
+      "id": "3",
+      "question": "Which non-metal is absolutely essential for all living organisms to breathe?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nitrogen"
+        },
+        {
+          "id": "B",
+          "text": "Carbon"
+        },
+        {
+          "id": "C",
+          "text": "Oxygen"
+        },
+        {
+          "id": "D",
+          "text": "Chlorine"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Oxygen is a gaseous non-metal critical for cellular respiration."
+    },
+    {
+      "id": "4",
+      "question": "Which of these materials will break into pieces if you hit it hard with a hammer?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Iron nail"
+        },
+        {
+          "id": "B",
+          "text": "Copper wire"
+        },
+        {
+          "id": "C",
+          "text": "Piece of coal"
+        },
+        {
+          "id": "D",
+          "text": "Aluminium foil"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Coal is composed mostly of carbon (a non-metal) and is highly brittle."
+    },
+    {
+      "id": "5",
+      "question": "Why are school bells traditionally made of metal?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Metals are cheap"
+        },
+        {
+          "id": "B",
+          "text": "Metals produce a ringing sound (they are sonorous)"
+        },
+        {
+          "id": "C",
+          "text": "Metals are soft"
+        },
+        {
+          "id": "D",
+          "text": "Metals are dull"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Metals are sonorous, transmitting vibrations as clear acoustic ringing sounds."
+    },
+    {
+      "id": "6",
+      "question": "Which material is generally best for making electrical wires?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wood"
+        },
+        {
+          "id": "B",
+          "text": "Copper"
+        },
+        {
+          "id": "C",
+          "text": "Rubber"
+        },
+        {
+          "id": "D",
+          "text": "Sulphur"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Copper combines excellent ductility with superior electrical conductivity."
+    },
+    {
+      "id": "7",
+      "question": "Which metal is uniquely liquid at normal room temperature?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gold"
+        },
+        {
+          "id": "B",
+          "text": "Iron"
+        },
+        {
+          "id": "C",
+          "text": "Mercury"
+        },
+        {
+          "id": "D",
+          "text": "Aluminium"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Mercury is an exception to the rule that metals are solid at room temperature."
+    },
+    {
+      "id": "8",
+      "question": "What is the brownish coating that slowly forms on iron objects left outside?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gold"
+        },
+        {
+          "id": "B",
+          "text": "Rust"
+        },
+        {
+          "id": "C",
+          "text": "Paint"
+        },
+        {
+          "id": "D",
+          "text": "Polish"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Rust is an iron oxide formed through a slow chemical reaction."
+    },
+    {
+      "id": "9",
+      "question": "Non-metals are generally classified as:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Good conductors of heat"
+        },
+        {
+          "id": "B",
+          "text": "Poor conductors of heat and electricity"
+        },
+        {
+          "id": "C",
+          "text": "Very hard"
+        },
+        {
+          "id": "D",
+          "text": "Shiny"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Lacking free electrons, most non-metals act as thermal and electrical insulators."
+    },
+    {
+      "id": "10",
+      "question": "Which metal is commonly used as a thin foil for wrapping food?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Iron"
+        },
+        {
+          "id": "B",
+          "text": "Copper"
+        },
+        {
+          "id": "C",
+          "text": "Aluminium"
+        },
+        {
+          "id": "D",
+          "text": "Lead"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Aluminium's extreme malleability makes it ideal for thin, flexible foils."
+    },
+    {
+      "id": "11",
+      "question": "What is the property that allows metals to be drawn into long, thin wires?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Malleability"
+        },
+        {
+          "id": "B",
+          "text": "Ductility"
+        },
+        {
+          "id": "C",
+          "text": "Sonority"
+        },
+        {
+          "id": "D",
+          "text": "Brittleness"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Ductility is the physical capacity of a metal to stretch under tensile stress."
+    },
+    {
+      "id": "12",
+      "question": "Why do metal cooking utensils have wooden or plastic handles?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To make them look beautiful"
+        },
+        {
+          "id": "B",
+          "text": "Because wood and plastic are poor conductors, protecting the hands from heat"
+        },
+        {
+          "id": "C",
+          "text": "Because they are heavy"
+        },
+        {
+          "id": "D",
+          "text": "To conduct heat better"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Insulators block the efficient thermal conduction occurring in the metal pan."
+    },
+    {
+      "id": "13",
+      "question": "Which of the following is a rare, very soft metal that can actually be cut with a knife?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Iron"
+        },
+        {
+          "id": "B",
+          "text": "Copper"
+        },
+        {
+          "id": "C",
+          "text": "Sodium"
+        },
+        {
+          "id": "D",
+          "text": "Gold"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Alkali metals like sodium and potassium are highly reactive and unusually soft."
+    },
+    {
+      "id": "14",
+      "question": "How do the oxides of metals differ chemically from non-metal oxides?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Metal oxides are acidic, non-metal oxides are basic"
+        },
+        {
+          "id": "B",
+          "text": "Metal oxides are basic, non-metal oxides are acidic"
+        },
+        {
+          "id": "C",
+          "text": "Both are neutral"
+        },
+        {
+          "id": "D",
+          "text": "Both are acidic"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "When dissolved in water, metal oxides form bases, while non-metal oxides form acids."
+    },
+    {
+      "id": "15",
+      "question": "Which non-metal is used in pencil leads and is surprisingly a good conductor of electricity?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sulphur"
+        },
+        {
+          "id": "B",
+          "text": "Phosphorus"
+        },
+        {
+          "id": "C",
+          "text": "Graphite (Carbon)"
+        },
+        {
+          "id": "D",
+          "text": "Oxygen"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Graphite's unique molecular structure allows it to conduct electricity, an exception for non-metals."
+    },
+    {
+      "id": "16",
+      "question": "Why are gold and silver historically used for making intricate jewellery?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They are cheap"
+        },
+        {
+          "id": "B",
+          "text": "They are highly malleable, ductile, lustrous, and resist corrosion"
+        },
+        {
+          "id": "C",
+          "text": "They are brittle"
+        },
+        {
+          "id": "D",
+          "text": "They rust quickly"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Their physical flexibility and chemical inertness make them perfect for durable ornamentation."
+    },
+    {
+      "id": "17",
+      "question": "What happens physically when an ironsmith heats a piece of iron before hammering it?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It shatters"
+        },
+        {
+          "id": "B",
+          "text": "It becomes a liquid instantly"
+        },
+        {
+          "id": "C",
+          "text": "It becomes softer, highly malleable, and much easier to shape"
+        },
+        {
+          "id": "D",
+          "text": "It turns into coal"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Thermal energy increases the kinetic energy of atoms, making the metallic lattice more pliable."
+    },
+    {
+      "id": "18",
+      "question": "Which non-metal is widely used in municipal plants to purify drinking water?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nitrogen"
+        },
+        {
+          "id": "B",
+          "text": "Chlorine"
+        },
+        {
+          "id": "C",
+          "text": "Carbon"
+        },
+        {
+          "id": "D",
+          "text": "Sulphur"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Chlorine is a highly effective non-metal used as a disinfectant to kill waterborne pathogens."
+    },
+    {
+      "id": "19",
+      "question": "If you strike a piece of wood and a metal spoon, why does the spoon make a sharp ringing sound but the wood a dull thud?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wood is sonorous"
+        },
+        {
+          "id": "B",
+          "text": "Metals possess sonority, allowing vibrations to propagate clearly as sound"
+        },
+        {
+          "id": "C",
+          "text": "The spoon is smaller"
+        },
+        {
+          "id": "D",
+          "text": "The wood is too heavy"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The rigid lattice structure of metals transmits acoustic waves efficiently."
+    },
+    {
+      "id": "20",
+      "question": "Which metal reacts so vigorously with water and oxygen that it must be stored immersed in kerosene?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Iron"
+        },
+        {
+          "id": "B",
+          "text": "Copper"
+        },
+        {
+          "id": "C",
+          "text": "Sodium"
+        },
+        {
+          "id": "D",
+          "text": "Gold"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Sodium's extreme reactivity causes it to combust upon contact with ambient moisture."
+    },
+    {
+      "id": "21",
+      "question": "What happens when magnesium ribbon reacts with oxygen, and what is the chemical nature of the product?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Forms magnesium dioxide (acidic)"
+        },
+        {
+          "id": "B",
+          "text": "Forms magnesium oxide (basic)"
+        },
+        {
+          "id": "C",
+          "text": "Forms magnesium chloride (neutral)"
+        },
+        {
+          "id": "D",
+          "text": "No reaction occurs"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The combustion yields magnesium oxide ash, which forms a basic solution in water."
+    },
+    {
+      "id": "22",
+      "question": "You place three iron nails in separate test tubes: one in oil, one in plain water, and one in vinegar. Which nail will completely resist rusting and why?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The one in water"
+        },
+        {
+          "id": "B",
+          "text": "The one in vinegar"
+        },
+        {
+          "id": "C",
+          "text": "The one in oil, because it forms a barrier blocking moisture and atmospheric oxygen"
+        },
+        {
+          "id": "D",
+          "text": "All will rust"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Rusting strictly requires both oxygen and water; oil deprives the iron of both."
+    },
+    {
+      "id": "23",
+      "question": "Why can't sulphur be used instead of zinc to coat iron and prevent rusting?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sulphur is too expensive"
+        },
+        {
+          "id": "B",
+          "text": "Sulphur is a brittle non-metal and cannot form a continuous, cohesive protective layer"
+        },
+        {
+          "id": "C",
+          "text": "Sulphur directly causes rusting"
+        },
+        {
+          "id": "D",
+          "text": "Sulphur dissolves in water"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Unlike zinc (galvanization), non-metals lack the malleability to adhere as a protective film."
+    },
+    {
+      "id": "24",
+      "question": "A student tests an unknown solid element. It is dull, fractures easily when hammered, and fails to conduct an electric current. What is it likely to be classified as?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A metal"
+        },
+        {
+          "id": "B",
+          "text": "An alloy"
+        },
+        {
+          "id": "C",
+          "text": "A non-metal"
+        },
+        {
+          "id": "D",
+          "text": "A liquid"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "These properties (dullness, brittleness, insulation) perfectly describe a standard non-metal."
+    },
+    {
+      "id": "25",
+      "question": "Which non-metal is extracted from the atmosphere and heavily used in agricultural fertilizers to promote healthy plant growth?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Oxygen"
+        },
+        {
+          "id": "B",
+          "text": "Chlorine"
+        },
+        {
+          "id": "C",
+          "text": "Nitrogen"
+        },
+        {
+          "id": "D",
+          "text": "Helium"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Nitrogen is a vital component for plant amino acids and is a primary ingredient in commercial fertilizers."
+    },
+    {
+      "id": "26",
+      "question": "Which of the following environmental combinations accurately describes the prerequisites for iron rusting?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Iron + Light"
+        },
+        {
+          "id": "B",
+          "text": "Iron + Oxygen + Moisture (Water)"
+        },
+        {
+          "id": "C",
+          "text": "Iron + Oil + Heat"
+        },
+        {
+          "id": "D",
+          "text": "Copper + Oxygen"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Rust is hydrated iron oxide, meaning both air (oxygen) and water are obligatory reactants."
+    },
+    {
+      "id": "27",
+      "question": "Why is copper often preferred over iron for the construction of high-end boiling pans?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Copper rusts faster"
+        },
+        {
+          "id": "B",
+          "text": "Copper is cheaper"
+        },
+        {
+          "id": "C",
+          "text": "Copper conducts heat vastly better and is highly resistant to corrosive rusting compared to iron"
+        },
+        {
+          "id": "D",
+          "text": "Copper is lighter"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Copper's superior thermal conductivity and chemical stability make it ideal for culinary applications."
+    },
+    {
+      "id": "28",
+      "question": "Which of the following pairs of non-metals are highly reactive and commonly utilized in the manufacturing of matchsticks?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sulphur and Phosphorus"
+        },
+        {
+          "id": "B",
+          "text": "Gold and Silver"
+        },
+        {
+          "id": "C",
+          "text": "Nitrogen and Carbon"
+        },
+        {
+          "id": "D",
+          "text": "Chlorine and Iodine"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "Their low ignition temperatures and rapid reactivity make them perfect for combustion-based applications."
+    },
+    {
+      "id": "29",
+      "question": "Galvanization is a crucial industrial process that protects iron from rust. Which metal is used for this coating?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Copper"
+        },
+        {
+          "id": "B",
+          "text": "Zinc"
+        },
+        {
+          "id": "C",
+          "text": "Silver"
+        },
+        {
+          "id": "D",
+          "text": "Lead"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Zinc acts as a sacrificial anode, oxidizing before the iron to provide a protective barrier."
+    },
+    {
+      "id": "30",
+      "question": "If you dissolve sulphur dioxide gas in water, the resulting solution will turn blue litmus paper red. What underlying chemical principle does this indicate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sulphur dioxide is a basic oxide"
+        },
+        {
+          "id": "B",
+          "text": "Sulphur dioxide is an acidic oxide, forming sulphurous acid"
+        },
+        {
+          "id": "C",
+          "text": "It is a metal oxide"
+        },
+        {
+          "id": "D",
+          "text": "It is neutral"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Non-metal oxides react with water to yield acids, lowering the pH and altering the indicator."
+    }
+  ]
+}

@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "What is the very first step in thinking like a scientist?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sleeping"
+        },
+        {
+          "id": "B",
+          "text": "Asking questions"
+        },
+        {
+          "id": "C",
+          "text": "Memorizing books"
+        },
+        {
+          "id": "D",
+          "text": "Ignoring nature"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Curiosity and asking \"why\" or \"how\" form the absolute foundation of scientific thinking."
+    },
+    {
+      "id": "2",
+      "question": "Where can we see science happening?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only in labs"
+        },
+        {
+          "id": "B",
+          "text": "Only in space"
+        },
+        {
+          "id": "C",
+          "text": "Everywhere around us"
+        },
+        {
+          "id": "D",
+          "text": "Only in hospitals"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Science helps us understand everything from tiny cells to the movement of stars in our daily lives."
+    },
+    {
+      "id": "3",
+      "question": "What happens to ice when it is left outside on a hot day?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It burns"
+        },
+        {
+          "id": "B",
+          "text": "It turns into water"
+        },
+        {
+          "id": "C",
+          "text": "It turns into rock"
+        },
+        {
+          "id": "D",
+          "text": "It stays the same"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Melting ice is an observable physical change."
+    },
+    {
+      "id": "4",
+      "question": "Can a melted ice cube be turned back into solid ice?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes"
+        },
+        {
+          "id": "B",
+          "text": "No"
+        },
+        {
+          "id": "C",
+          "text": "Only in the rain"
+        },
+        {
+          "id": "D",
+          "text": "Only by adding sugar"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "Freezing water back into ice is a classic example of a reversible change."
+    },
+    {
+      "id": "5",
+      "question": "Why is it important to do experiments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To waste time"
+        },
+        {
+          "id": "B",
+          "text": "To see how things work practically"
+        },
+        {
+          "id": "C",
+          "text": "To make a mess"
+        },
+        {
+          "id": "D",
+          "text": "To avoid reading"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Experiments connect theoretical knowledge with practical, real-life experiences."
+    },
+    {
+      "id": "6",
+      "question": "What does the flight of a butterfly or a paper plane symbolize in the textbook?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Freedom of learning and curiosity"
+        },
+        {
+          "id": "B",
+          "text": "Wind speed"
+        },
+        {
+          "id": "C",
+          "text": "Toys"
+        },
+        {
+          "id": "D",
+          "text": "Insects"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "They symbolize that learning takes flight when guided by genuine curiosity."
+    },
+    {
+      "id": "7",
+      "question": "Which of these is a fast change?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A tree growing"
+        },
+        {
+          "id": "B",
+          "text": "A baby growing"
+        },
+        {
+          "id": "C",
+          "text": "Melting of ice"
+        },
+        {
+          "id": "D",
+          "text": "Rusting of an iron gate"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Melting occurs rapidly compared to biological growth or chemical rusting."
+    },
+    {
+      "id": "8",
+      "question": "What kind of change is the ripening of a mango?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Reversible"
+        },
+        {
+          "id": "B",
+          "text": "Physical"
+        },
+        {
+          "id": "C",
+          "text": "Irreversible"
+        },
+        {
+          "id": "D",
+          "text": "Quick"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Once a fruit ripens, it cannot return to its unripe state."
+    },
+    {
+      "id": "9",
+      "question": "How does science help protect our environment?",
+      "options": [
+        {
+          "id": "A",
+          "text": "By causing pollution"
+        },
+        {
+          "id": "B",
+          "text": "By cutting trees"
+        },
+        {
+          "id": "C",
+          "text": "By finding sustainable solutions"
+        },
+        {
+          "id": "D",
+          "text": "By making plastics"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Science illuminates how human actions affect nature and aids in developing sustainable solutions."
+    },
+    {
+      "id": "10",
+      "question": "Which tool helps us observe distant stars?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Microscope"
+        },
+        {
+          "id": "B",
+          "text": "Telescope"
+        },
+        {
+          "id": "C",
+          "text": "Stethoscope"
+        },
+        {
+          "id": "D",
+          "text": "Thermometer"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Telescopes are scientific instruments used for observing distant celestial bodies."
+    },
+    {
+      "id": "11",
+      "question": "Why did early inventors observe birds?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To learn to sing"
+        },
+        {
+          "id": "B",
+          "text": "To design aircraft and understand flight"
+        },
+        {
+          "id": "C",
+          "text": "To catch them"
+        },
+        {
+          "id": "D",
+          "text": "To paint them"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Simple observations of bird wings directly inspired the engineering of human flight."
+    },
+    {
+      "id": "12",
+      "question": "What does it mean when we say science is \"ever-evolving\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It is always the same"
+        },
+        {
+          "id": "B",
+          "text": "It is constantly growing with new discoveries"
+        },
+        {
+          "id": "C",
+          "text": "It is finishing soon"
+        },
+        {
+          "id": "D",
+          "text": "It is only about plants"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Scientific knowledge continually expands, and today's facts may be refined tomorrow."
+    },
+    {
+      "id": "13",
+      "question": "Which of the following shows a true scientific mindset?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Accepting everything blindly"
+        },
+        {
+          "id": "B",
+          "text": "Asking questions and exploring patterns"
+        },
+        {
+          "id": "C",
+          "text": "Ignoring the environment"
+        },
+        {
+          "id": "D",
+          "text": "Memorizing facts"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "A scientific mindset involves observation, curiosity, and remaining open to the unknown."
+    },
+    {
+      "id": "14",
+      "question": "What happens when we wash a turmeric (haldi) stain on clothes with soap?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It turns green"
+        },
+        {
+          "id": "B",
+          "text": "It turns red"
+        },
+        {
+          "id": "C",
+          "text": "It disappears completely"
+        },
+        {
+          "id": "D",
+          "text": "It turns blue"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The stain changes color because soap acts on the turmeric, serving as a gateway to studying chemical properties."
+    },
+    {
+      "id": "15",
+      "question": "Which of these is an example of an irreversible change?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Folding paper"
+        },
+        {
+          "id": "B",
+          "text": "Burning a piece of paper"
+        },
+        {
+          "id": "C",
+          "text": "Melting wax"
+        },
+        {
+          "id": "D",
+          "text": "Stretching a rubber band"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Combustion alters the chemical makeup, meaning the ash cannot revert to paper."
+    },
+    {
+      "id": "16",
+      "question": "What should a student do when they notice a pattern in nature, like leaves falling?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ignore it"
+        },
+        {
+          "id": "B",
+          "text": "Ask why it happens and observe"
+        },
+        {
+          "id": "C",
+          "text": "Stop playing"
+        },
+        {
+          "id": "D",
+          "text": "Pick them up"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Observing natural patterns and asking questions drives scientific exploration."
+    },
+    {
+      "id": "17",
+      "question": "Why do devices like torch batteries eventually stop working?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The glass breaks"
+        },
+        {
+          "id": "B",
+          "text": "The material inside undergoes an irreversible change"
+        },
+        {
+          "id": "C",
+          "text": "They get too cold"
+        },
+        {
+          "id": "D",
+          "text": "The switch gets tired"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Batteries deplete their energy through irreversible chemical changes."
+    },
+    {
+      "id": "18",
+      "question": "Which of these materials allows electric current to pass through it?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wood"
+        },
+        {
+          "id": "B",
+          "text": "Rubber"
+        },
+        {
+          "id": "C",
+          "text": "Copper wire"
+        },
+        {
+          "id": "D",
+          "text": "Plastic"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Experimentation reveals that metals like copper possess conductive properties."
+    },
+    {
+      "id": "19",
+      "question": "What is the main difference between melting ice and cooking food?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both are reversible"
+        },
+        {
+          "id": "B",
+          "text": "Melting is reversible, cooking is irreversible"
+        },
+        {
+          "id": "C",
+          "text": "Cooking is fast, melting is slow"
+        },
+        {
+          "id": "D",
+          "text": "Both are irreversible"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Thermal changes can be physical and reversible (melting) or chemical and irreversible (cooking)."
+    },
+    {
+      "id": "20",
+      "question": "How are simple questions like \"Why are some fruits sour?\" useful?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They are a waste of time"
+        },
+        {
+          "id": "B",
+          "text": "They act as gateways into deeper scientific ideas"
+        },
+        {
+          "id": "C",
+          "text": "They make us hungry"
+        },
+        {
+          "id": "D",
+          "text": "They are for English class"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Everyday interactions encourage observation and lead to the study of material properties."
+    },
+    {
+      "id": "21",
+      "question": "A student observes a rusted iron gate. What scientific concept does this demonstrate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fast physical change"
+        },
+        {
+          "id": "B",
+          "text": "Slow physical change"
+        },
+        {
+          "id": "C",
+          "text": "Slow irreversible chemical change"
+        },
+        {
+          "id": "D",
+          "text": "Fast reversible chemical change"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Rusting is a gradual chemical alteration that cannot be easily undone."
+    },
+    {
+      "id": "22",
+      "question": "To truly \"think like a scientist\" during a test, what is just as important as finding answers?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Writing neatly"
+        },
+        {
+          "id": "B",
+          "text": "Asking creative and interesting questions"
+        },
+        {
+          "id": "C",
+          "text": "Reading textbooks"
+        },
+        {
+          "id": "D",
+          "text": "Avoiding mistakes"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Great scientists distinguish themselves by asking profound, imaginative questions."
+    },
+    {
+      "id": "23",
+      "question": "How does understanding the concept of heat help us in everyday life?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It helps us fly"
+        },
+        {
+          "id": "B",
+          "text": "It explains evaporation, cooking, and climate change"
+        },
+        {
+          "id": "C",
+          "text": "It tells us the time"
+        },
+        {
+          "id": "D",
+          "text": "It helps us sleep"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Thermal science explains energy flow and how substances react to temperature changes."
+    },
+    {
+      "id": "24",
+      "question": "Which of the following highlights human responsibility toward the environment?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Stars moving in the sky"
+        },
+        {
+          "id": "B",
+          "text": "Understanding that human pollution harms nature"
+        },
+        {
+          "id": "C",
+          "text": "Ice melting in a glass"
+        },
+        {
+          "id": "D",
+          "text": "A butterfly flying"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Science explicitly connects human actions to environmental degradation and sustainability."
+    },
+    {
+      "id": "25",
+      "question": "Why are properties of materials (like conductivity or malleability) important to study?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To know their color"
+        },
+        {
+          "id": "B",
+          "text": "To understand why they behave the way they do in daily life"
+        },
+        {
+          "id": "C",
+          "text": "To sell them"
+        },
+        {
+          "id": "D",
+          "text": "To break them"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Analyzing properties allows us to comprehend and utilize common occurrences and tools."
+    },
+    {
+      "id": "26",
+      "question": "Which of the following represents an ongoing scientific adventure?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Reading a fictional story"
+        },
+        {
+          "id": "B",
+          "text": "Making a single discovery and stopping"
+        },
+        {
+          "id": "C",
+          "text": "A discovery leading to new questions"
+        },
+        {
+          "id": "D",
+          "text": "Memorizing a formula"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Science is perpetual because every answered question generates new inquiries."
+    },
+    {
+      "id": "27",
+      "question": "A student playfully asks, \"Why did the cat need braces?\" What does this specific exercise encourage?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Veterinary science"
+        },
+        {
+          "id": "B",
+          "text": "Creative thinking, imagination, and questioning skills"
+        },
+        {
+          "id": "C",
+          "text": "Dental hygiene"
+        },
+        {
+          "id": "D",
+          "text": "Pet care"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The curriculum actively promotes unconstrained imagination to build a questioning mindset."
+    },
+    {
+      "id": "28",
+      "question": "What is the ultimate educational goal of the \"Curiosity\" textbook?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To make students memorize facts"
+        },
+        {
+          "id": "B",
+          "text": "To develop a scientific mindset and spirit of inquiry"
+        },
+        {
+          "id": "C",
+          "text": "To prepare for medical exams"
+        },
+        {
+          "id": "D",
+          "text": "To teach mathematics"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "It serves as a gateway to cultivating analytical inquiry beyond rote learning."
+    },
+    {
+      "id": "29",
+      "question": "How does the study of \"Changes Around Us\" link to groundwater?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Water moving underground is an invisible physical change"
+        },
+        {
+          "id": "B",
+          "text": "Groundwater is a chemical"
+        },
+        {
+          "id": "C",
+          "text": "It causes rust"
+        },
+        {
+          "id": "D",
+          "text": "It makes the soil green"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "The text notes that some changes are imperceptible, like subterranean water movement."
+    },
+    {
+      "id": "30",
+      "question": "What differentiates a scientific process from simply observing nature?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Science requires a lab coat"
+        },
+        {
+          "id": "B",
+          "text": "Science is a structured way of thinking that tests patterns and stays open to the unknown"
+        },
+        {
+          "id": "C",
+          "text": "Observation is faster"
+        },
+        {
+          "id": "D",
+          "text": "Science is only about animals"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Science is fundamentally a methodical process and a specific way of thinking."
+    }
+  ]
+}
