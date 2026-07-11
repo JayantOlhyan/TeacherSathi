@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "What is a mathematical symbol (like $x$ or $y$) utilized to represent an unknown or varying quantity called?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Constant"
+        },
+        {
+          "id": "B",
+          "text": "Variable"
+        },
+        {
+          "id": "C",
+          "text": "Equation"
+        },
+        {
+          "id": "D",
+          "text": "Identity"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "A variable acts as a placeholder for numbers that can change or are unknown."
+    },
+    {
+      "id": "2",
+      "question": "A mathematical expression containing an explicit '=' sign is formally called an:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Expression"
+        },
+        {
+          "id": "B",
+          "text": "Equation"
+        },
+        {
+          "id": "C",
+          "text": "Inequality"
+        },
+        {
+          "id": "D",
+          "text": "Exponent"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "An equation asserts mathematical equality between two distinct expressions."
+    },
+    {
+      "id": "3",
+      "question": "What is the precise numerical coefficient of $x$ in the algebraic term $7x^2$?",
+      "options": [
+        {
+          "id": "A",
+          "text": "x"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "7"
+        },
+        {
+          "id": "D",
+          "text": "14"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The coefficient is the constant numerical multiplier at the front, which is 7."
+    },
+    {
+      "id": "4",
+      "question": "If the variable $x = 3$, what is the calculated value of $2x + 1$?",
+      "options": [
+        {
+          "id": "A",
+          "text": "4"
+        },
+        {
+          "id": "B",
+          "text": "6"
+        },
+        {
+          "id": "C",
+          "text": "7"
+        },
+        {
+          "id": "D",
+          "text": "8"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Substitute 3 for $x$: $2(3) + 1 = 6 + 1 = 7$."
+    },
+    {
+      "id": "5",
+      "question": "In a standard mathematical number pyramid, the number in a block is the ________ of the two numbers directly below it.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Difference"
+        },
+        {
+          "id": "B",
+          "text": "Product"
+        },
+        {
+          "id": "C",
+          "text": "Sum"
+        },
+        {
+          "id": "D",
+          "text": "Quotient"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "In a basic additive pyramid, blocks sum to create the block resting directly above them."
+    },
+    {
+      "id": "6",
+      "question": "Are the terms $3x$ and $7x$ classified as like terms?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes"
+        },
+        {
+          "id": "B",
+          "text": "No"
+        },
+        {
+          "id": "C",
+          "text": "Only if x is 1"
+        },
+        {
+          "id": "D",
+          "text": "Only if x is even"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "Yes, they share the exact identical variable part '$x$' raised to the same power."
+    },
+    {
+      "id": "7",
+      "question": "Which of the following is definitively an equation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "3x + 5"
+        },
+        {
+          "id": "B",
+          "text": "2y - 4"
+        },
+        {
+          "id": "C",
+          "text": "x + 2 = 5"
+        },
+        {
+          "id": "D",
+          "text": "7x"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "It contains an '=' sign equating two algebraic sides."
+    },
+    {
+      "id": "8",
+      "question": "Are the terms $3x$ and $5y$ classified as like terms?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes"
+        },
+        {
+          "id": "B",
+          "text": "No"
+        },
+        {
+          "id": "C",
+          "text": "Sometimes"
+        },
+        {
+          "id": "D",
+          "text": "Always"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "No, they feature distinctly different variables ($x$ vs $y$)."
+    },
+    {
+      "id": "9",
+      "question": "Solving an equation essentially means pinpointing the true numerical value of the:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Constant"
+        },
+        {
+          "id": "B",
+          "text": "Variable"
+        },
+        {
+          "id": "C",
+          "text": "Coefficient"
+        },
+        {
+          "id": "D",
+          "text": "Exponent"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Solving identifies the exact number the variable must represent for the equation to be true."
+    },
+    {
+      "id": "10",
+      "question": "The perimeter of a perfect square with a side represented by $s$ is algebraically:",
+      "options": [
+        {
+          "id": "A",
+          "text": "s²"
+        },
+        {
+          "id": "B",
+          "text": "4s"
+        },
+        {
+          "id": "C",
+          "text": "s+4"
+        },
+        {
+          "id": "D",
+          "text": "2s"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Perimeter $= s + s + s + s = 4s$."
+    },
+    {
+      "id": "11",
+      "question": "Solve the linear equation for $x$: $3x + 7 = 22$.",
+      "options": [
+        {
+          "id": "A",
+          "text": "3"
+        },
+        {
+          "id": "B",
+          "text": "4"
+        },
+        {
+          "id": "C",
+          "text": "5"
+        },
+        {
+          "id": "D",
+          "text": "6"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Subtract 7: $3x = 15$. Divide by 3: $x = 5$."
+    },
+    {
+      "id": "12",
+      "question": "In a 3-row number pyramid, the bottom row reads $a, b, c$. The top number is algebraically:",
+      "options": [
+        {
+          "id": "A",
+          "text": "a+b+c"
+        },
+        {
+          "id": "B",
+          "text": "a+2b+c"
+        },
+        {
+          "id": "C",
+          "text": "2a+b+c"
+        },
+        {
+          "id": "D",
+          "text": "abc"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Middle row is $a+b$ and $b+c$. Top is $(a+b) + (b+c) = a + 2b + c$."
+    },
+    {
+      "id": "13",
+      "question": "In a 3-row pyramid, the bottom row has $12, c, 8$. The final top number is 60. What is the value of $c$?",
+      "options": [
+        {
+          "id": "A",
+          "text": "10"
+        },
+        {
+          "id": "B",
+          "text": "20"
+        },
+        {
+          "id": "C",
+          "text": "30"
+        },
+        {
+          "id": "D",
+          "text": "40"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Top $= 12 + 2c + 8 = 20 + 2c$. Equation: $20 + 2c = 60 \\implies 2c = 40 \\implies c = 20$."
+    },
+    {
+      "id": "14",
+      "question": "Correctly factorise the expression: $6x + 9y$.",
+      "options": [
+        {
+          "id": "A",
+          "text": "3(2x + 3y)"
+        },
+        {
+          "id": "B",
+          "text": "2(3x + 4y)"
+        },
+        {
+          "id": "C",
+          "text": "3xy"
+        },
+        {
+          "id": "D",
+          "text": "15xy"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "Extract the Greatest Common Divisor, which is 3. $3(2x + 3y)$."
+    },
+    {
+      "id": "15",
+      "question": "Correctly factorise the expression: $x^2 - 9$.",
+      "options": [
+        {
+          "id": "A",
+          "text": "(x-3)²"
+        },
+        {
+          "id": "B",
+          "text": "(x+3)(x-3)"
+        },
+        {
+          "id": "C",
+          "text": "(x-9)(x+1)"
+        },
+        {
+          "id": "D",
+          "text": "x(x-9)"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Difference of squares formula: $a^2 - b^2 = (a-b)(a+b)$. Here, $x^2 - 3^2 = (x-3)(x+3)$."
+    },
+    {
+      "id": "16",
+      "question": "In the trick: Think of a month (M), multiply by 5, add 6, multiply by 4, add 9, multiply by 5, add day (D). The complex algebra simplifies purely to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "100M + D + 165"
+        },
+        {
+          "id": "B",
+          "text": "50M + D + 100"
+        },
+        {
+          "id": "C",
+          "text": "M + D"
+        },
+        {
+          "id": "D",
+          "text": "100M - D"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "$ ( (5M + 6) \\times 4 + 9 ) \\times 5 + D = (20M + 24 + 9) \\times 5 + D = 100M + 165 + D$."
+    },
+    {
+      "id": "17",
+      "question": "If a student's final calculated answer in the date trick is exactly 394, what date (M/D) did they choose?",
+      "options": [
+        {
+          "id": "A",
+          "text": "02/29"
+        },
+        {
+          "id": "B",
+          "text": "02/05"
+        },
+        {
+          "id": "C",
+          "text": "12/25"
+        },
+        {
+          "id": "D",
+          "text": "10/10"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "Result $= 100M + D + 165$. $100M + D = 394 - 165 = 229$. M is hundreds digit (2, Feb), D is remainder (29). 02/29."
+    },
+    {
+      "id": "18",
+      "question": "If the final answer in the date trick is 1269, what is the precise date?",
+      "options": [
+        {
+          "id": "A",
+          "text": "11/04"
+        },
+        {
+          "id": "B",
+          "text": "12/04"
+        },
+        {
+          "id": "C",
+          "text": "10/09"
+        },
+        {
+          "id": "D",
+          "text": "01/26"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "$100M + D = 1269 - 165 = 1104$. M=11 (Nov), D=04."
+    },
+    {
+      "id": "19",
+      "question": "A linear equation graphed on a coordinate plane always appears as a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Circle"
+        },
+        {
+          "id": "B",
+          "text": "Parabola"
+        },
+        {
+          "id": "C",
+          "text": "Straight line"
+        },
+        {
+          "id": "D",
+          "text": "Sine wave"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Equations of the first degree (like $y = mx+c$) structurally graph as straight lines."
+    },
+    {
+      "id": "20",
+      "question": "Simplify the expanded expression: $ax + ay + bx + by$.",
+      "options": [
+        {
+          "id": "A",
+          "text": "(a+b)(x+y)"
+        },
+        {
+          "id": "B",
+          "text": "abxy"
+        },
+        {
+          "id": "C",
+          "text": "(a+x)(b+y)"
+        },
+        {
+          "id": "D",
+          "text": "4abxy"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "Factor by grouping: $a(x+y) + b(x+y) = (a+b)(x+y)$."
+    },
+    {
+      "id": "21",
+      "question": "In a 2x2 mathematical grid, the top left is $a$, top right is $a+1$, bottom left is $a+7$, bottom right is $a+8$. If the aggregate sum is exactly 36, find $a$.",
+      "options": [
+        {
+          "id": "A",
+          "text": "4"
+        },
+        {
+          "id": "B",
+          "text": "5"
+        },
+        {
+          "id": "C",
+          "text": "6"
+        },
+        {
+          "id": "D",
+          "text": "7"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Sum $= a + a+1 + a+7 + a+8 = 4a + 16$. $4a + 16 = 36 \\implies 4a = 20 \\implies a = 5$."
+    },
+    {
+      "id": "22",
+      "question": "If the first four Virahanka-Fibonacci numbers (1, 2, 3, 5) comprise the bottom of a 4-row pyramid, what is the exact top number?",
+      "options": [
+        {
+          "id": "A",
+          "text": "11"
+        },
+        {
+          "id": "B",
+          "text": "21"
+        },
+        {
+          "id": "C",
+          "text": "31"
+        },
+        {
+          "id": "D",
+          "text": "41"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Top block evaluates based on pyramid summation structure."
+    },
+    {
+      "id": "23",
+      "question": "The generalized algebraic formula for the top of a 4-row pyramid with a bottom row of $a, b, c, d$ is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "a + 3b + 3c + d"
+        },
+        {
+          "id": "B",
+          "text": "a + 2b + 2c + d"
+        },
+        {
+          "id": "C",
+          "text": "a + b + c + d"
+        },
+        {
+          "id": "D",
+          "text": "a + 4b + 4c + d"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "Expansion follows binomial coefficients: $1, 3, 3, 1$."
+    },
+    {
+      "id": "24",
+      "question": "Deconstruct a \"Think of a Number\" trick: Pick $x$, multiply by 3, add 6, divide by 3, subtract $x$. The answer is algebraically always:",
+      "options": [
+        {
+          "id": "A",
+          "text": "x"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        },
+        {
+          "id": "D",
+          "text": "6"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "$(3x + 6) / 3 - x = x + 2 - x = 2$. It perfectly cancels the unknown $x$."
+    },
+    {
+      "id": "25",
+      "question": "How do you surgically alter the above trick so the final fixed answer is always 5?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Add 15 instead of 6"
+        },
+        {
+          "id": "B",
+          "text": "Multiply by 5 initially"
+        },
+        {
+          "id": "C",
+          "text": "Subtract 5 at the end"
+        },
+        {
+          "id": "D",
+          "text": "Divide by 5"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "$(3x + 15) / 3 - x = x + 5 - x = 5$."
+    },
+    {
+      "id": "26",
+      "question": "If a massive 29-row pyramid features the first 29 Virahanka-Fibonacci numbers at the bottom, the generated numbers inside the pyramid are inherently:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Prime numbers"
+        },
+        {
+          "id": "B",
+          "text": "Perfect squares"
+        },
+        {
+          "id": "C",
+          "text": "Also Virahanka-Fibonacci numbers"
+        },
+        {
+          "id": "D",
+          "text": "Negative numbers"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Due to the additive property $F_{n} + F_{n+1} = F_{n+2}$, the internal numbers inherently follow the same sequence."
+    },
+    {
+      "id": "27",
+      "question": "The algebraic expression $2n - 1$ represents an odd number. The sum of the first $n$ odd numbers universally evaluates to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "2n"
+        },
+        {
+          "id": "B",
+          "text": "n²"
+        },
+        {
+          "id": "C",
+          "text": "n³"
+        },
+        {
+          "id": "D",
+          "text": "2n-1"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "$1 + 3 + 5 + ... + (2n-1) = n^2$. This geometrically forms consecutive layers of a square."
+    },
+    {
+      "id": "28",
+      "question": "Using strict algebra, why does the 2x2 grid sum mentioned earlier always exactly equal $4a + 16$?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because a + (a+1) + (a+7) + (a+8) = 4a + 16"
+        },
+        {
+          "id": "B",
+          "text": "Because 4 × 4 = 16"
+        },
+        {
+          "id": "C",
+          "text": "It only works for a=5"
+        },
+        {
+          "id": "D",
+          "text": "Due to magic square rules"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "Simplifying the algebraic addition directly yields the constant expression $4a + 16$."
+    },
+    {
+      "id": "29",
+      "question": "To decode divisibility tricks, algebra shows that a 3-digit number $abc = 100a + 10b + c$. Which rearrangement unequivocally proves divisibility by 9?",
+      "options": [
+        {
+          "id": "A",
+          "text": "99a + 9b + (a+b+c)"
+        },
+        {
+          "id": "B",
+          "text": "50a + 5b"
+        },
+        {
+          "id": "C",
+          "text": "100a + c"
+        },
+        {
+          "id": "D",
+          "text": "a × b × c"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "$100a+10b+c = 99a + a + 9b + b + c = (99a+9b) + (a+b+c)$. Since $99a+9b$ is divisible by 9, the number depends entirely on $(a+b+c)$."
+    },
+    {
+      "id": "30",
+      "question": "If you actively solve $(x+3)(x-2) = x^2 + x - 6$, you are deploying the:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Commutative law"
+        },
+        {
+          "id": "B",
+          "text": "Distributive law"
+        },
+        {
+          "id": "C",
+          "text": "Associative law"
+        },
+        {
+          "id": "D",
+          "text": "Inverse law"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Expanding $(x+3)(x-2)$ uses the distributive property multiplying terms across parentheses."
+    }
+  ]
+}

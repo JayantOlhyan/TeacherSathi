@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "The 2D area of a standard rectangle is calculated directly as:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Length + Width"
+        },
+        {
+          "id": "B",
+          "text": "2 × (Length + Width)"
+        },
+        {
+          "id": "C",
+          "text": "Length × Width"
+        },
+        {
+          "id": "D",
+          "text": "1/2 × Length × Width"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Area of rectangle is product of its length and width."
+    },
+    {
+      "id": "2",
+      "question": "What is the calculated area of a square featuring a side of 4 cm?",
+      "options": [
+        {
+          "id": "A",
+          "text": "8 cm²"
+        },
+        {
+          "id": "B",
+          "text": "12 cm²"
+        },
+        {
+          "id": "C",
+          "text": "16 cm²"
+        },
+        {
+          "id": "D",
+          "text": "20 cm²"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Area $= s^2 = 4 \\times 4 = 16\\text{ cm}^2$."
+    },
+    {
+      "id": "3",
+      "question": "The flat, 2D space enclosed by a geometric shape is technically its:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perimeter"
+        },
+        {
+          "id": "B",
+          "text": "Volume"
+        },
+        {
+          "id": "C",
+          "text": "Area"
+        },
+        {
+          "id": "D",
+          "text": "Surface Area"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Area represents the interior 2D geometric space."
+    },
+    {
+      "id": "4",
+      "question": "The standard formula for the area of a parallelogram is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Base × Height"
+        },
+        {
+          "id": "B",
+          "text": "1/2 × Base × Height"
+        },
+        {
+          "id": "C",
+          "text": "Length × Width"
+        },
+        {
+          "id": "D",
+          "text": "4 × Side"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "Area $= \\text{Base} \\times \\text{Perpendicular Height}$."
+    },
+    {
+      "id": "5",
+      "question": "The standard formula for the area of a triangle is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Base × Height"
+        },
+        {
+          "id": "B",
+          "text": "1/2 × Base × Height"
+        },
+        {
+          "id": "C",
+          "text": "Base + Height"
+        },
+        {
+          "id": "D",
+          "text": "Base² × Height²"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "A triangle is exactly half the area of a parallelogram enclosing it."
+    },
+    {
+      "id": "6",
+      "question": "If a rectangle possesses sides of 7 cm and 4 cm, its area is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "11 cm²"
+        },
+        {
+          "id": "B",
+          "text": "22 cm²"
+        },
+        {
+          "id": "C",
+          "text": "28 cm²"
+        },
+        {
+          "id": "D",
+          "text": "49 cm²"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "$7 \\times 4 = 28$ cm²."
+    },
+    {
+      "id": "7",
+      "question": "The linear distance entirely around the outside of a shape is its:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Area"
+        },
+        {
+          "id": "B",
+          "text": "Volume"
+        },
+        {
+          "id": "C",
+          "text": "Perimeter"
+        },
+        {
+          "id": "D",
+          "text": "Capacity"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Perimeter measures the 1D outer boundary length."
+    },
+    {
+      "id": "8",
+      "question": "Is it mathematically possible for two shapes to possess the exact same perimeter but distinctly different areas?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes"
+        },
+        {
+          "id": "B",
+          "text": "No"
+        },
+        {
+          "id": "C",
+          "text": "Only if they are circles"
+        },
+        {
+          "id": "D",
+          "text": "Only if they are squares"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "Yes. A $1 \\times 9$ rectangle and a $5 \\times 5$ square both have perimeter 20, but areas 9 and 25."
+    },
+    {
+      "id": "9",
+      "question": "The measurement unit for area is always inherently:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cubed"
+        },
+        {
+          "id": "B",
+          "text": "Squared"
+        },
+        {
+          "id": "C",
+          "text": "Linear"
+        },
+        {
+          "id": "D",
+          "text": "Metric"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Area is 2D, thus its units are always squared (e.g., cm²)."
+    },
+    {
+      "id": "10",
+      "question": "A single diagonal line divides a rectangle into exactly how many equal, congruent triangles?",
+      "options": [
+        {
+          "id": "A",
+          "text": "2"
+        },
+        {
+          "id": "B",
+          "text": "3"
+        },
+        {
+          "id": "C",
+          "text": "4"
+        },
+        {
+          "id": "D",
+          "text": "8"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "Cutting diagonally creates 2 identical right triangles."
+    },
+    {
+      "id": "11",
+      "question": "If a parallelogram has a base measuring 5 cm and a height measuring 3 cm, its area is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "7.5 cm²"
+        },
+        {
+          "id": "B",
+          "text": "8 cm²"
+        },
+        {
+          "id": "C",
+          "text": "15 cm²"
+        },
+        {
+          "id": "D",
+          "text": "30 cm²"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Area $= b \\times h = 5 \\times 3 = 15$ cm²."
+    },
+    {
+      "id": "12",
+      "question": "Two distinct rectangles have a perimeter of 22 cm. One is $8 \\times 3$, the other is $7 \\times 4$. What are their respective areas?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both 24"
+        },
+        {
+          "id": "B",
+          "text": "Both 28"
+        },
+        {
+          "id": "C",
+          "text": "24 and 28"
+        },
+        {
+          "id": "D",
+          "text": "11 and 22"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Area 1 $= 8 \\times 3 = 24$. Area 2 $= 7 \\times 4 = 28$."
+    },
+    {
+      "id": "13",
+      "question": "If a rectangle's sides are 8 cm and 3 cm, and a diagonal divides it into two distinct triangles, what is the area of exactly ONE of those triangles?",
+      "options": [
+        {
+          "id": "A",
+          "text": "12 cm²"
+        },
+        {
+          "id": "B",
+          "text": "24 cm²"
+        },
+        {
+          "id": "C",
+          "text": "36 cm²"
+        },
+        {
+          "id": "D",
+          "text": "48 cm²"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "Area of rectangle $= 24$. One triangle $= 24 / 2 = 12$ cm²."
+    },
+    {
+      "id": "14",
+      "question": "The area of a rhombus can be efficiently calculated utilizing its diagonals ($d_1, d_2$) as:",
+      "options": [
+        {
+          "id": "A",
+          "text": "d1 × d2"
+        },
+        {
+          "id": "B",
+          "text": "1/2 × (d1 + d2)"
+        },
+        {
+          "id": "C",
+          "text": "1/2 × d1 × d2"
+        },
+        {
+          "id": "D",
+          "text": "2 × d1 × d2"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Area of a rhombus based on diagonals is $\\frac{1}{2}d_1 d_2$."
+    },
+    {
+      "id": "15",
+      "question": "Calculate the area of a rhombus featuring diagonals of 20 cm and 15 cm.",
+      "options": [
+        {
+          "id": "A",
+          "text": "75 cm²"
+        },
+        {
+          "id": "B",
+          "text": "150 cm²"
+        },
+        {
+          "id": "C",
+          "text": "200 cm²"
+        },
+        {
+          "id": "D",
+          "text": "300 cm²"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "$1/2 \\times 20 \\times 15 = 10 \\times 15 = 150$ cm²."
+    },
+    {
+      "id": "16",
+      "question": "A square agricultural field has a total area of 3136 m². What is its exact side length?",
+      "options": [
+        {
+          "id": "A",
+          "text": "46 m"
+        },
+        {
+          "id": "B",
+          "text": "56 m"
+        },
+        {
+          "id": "C",
+          "text": "66 m"
+        },
+        {
+          "id": "D",
+          "text": "76 m"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "$\\sqrt{3136} = 56$ m."
+    },
+    {
+      "id": "17",
+      "question": "To calculate the area of a walking path running uniformly inside a rectangular park, you must logically:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Add the areas"
+        },
+        {
+          "id": "B",
+          "text": "Subtract the inner rectangle area from the outer rectangle area"
+        },
+        {
+          "id": "C",
+          "text": "Multiply the perimeters"
+        },
+        {
+          "id": "D",
+          "text": "Divide the areas"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Subtracting the inner void area from the full outer area isolates the path's area."
+    },
+    {
+      "id": "18",
+      "question": "A specific triangle has an area of 50 cm² and a base measuring 10 cm. What is its altitude (height)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "5 cm"
+        },
+        {
+          "id": "B",
+          "text": "10 cm"
+        },
+        {
+          "id": "C",
+          "text": "15 cm"
+        },
+        {
+          "id": "D",
+          "text": "20 cm"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "$50 = 1/2 \\times 10 \\times h \\implies 50 = 5h \\implies h = 10$ cm."
+    },
+    {
+      "id": "19",
+      "question": "A parallelogram and a rectangle share the exact same base and the exact same height. How do their overall areas compare?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rectangle is larger"
+        },
+        {
+          "id": "B",
+          "text": "Parallelogram is larger"
+        },
+        {
+          "id": "C",
+          "text": "They are perfectly equal"
+        },
+        {
+          "id": "D",
+          "text": "Cannot determine without angles"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Both formulas resolve to $Base \\times Height$. They enclose equal area regardless of the slant."
+    },
+    {
+      "id": "20",
+      "question": "A geometric trapezium features parallel sides $a$ and $b$ and a perpendicular height $h$. Its area is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "a+b × h"
+        },
+        {
+          "id": "B",
+          "text": "1/2 × (a+b) × h"
+        },
+        {
+          "id": "C",
+          "text": "a × b × h"
+        },
+        {
+          "id": "D",
+          "text": "(a-b) × h"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Trapezium area is average of parallel bases multiplied by height: $1/2(a+b)h$."
+    },
+    {
+      "id": "21",
+      "question": "If the length of a rectangle is exactly doubled and the width is simultaneously halved, what happens to the overall area?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It doubles"
+        },
+        {
+          "id": "B",
+          "text": "It halves"
+        },
+        {
+          "id": "C",
+          "text": "It stays exactly the same"
+        },
+        {
+          "id": "D",
+          "text": "It quadruples"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "New area $= (2L) \\times (W/2) = L \\times W = $ original area."
+    },
+    {
+      "id": "22",
+      "question": "The precise area of a perfect equilateral triangle featuring a side length $a$ is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "1/2 a²"
+        },
+        {
+          "id": "B",
+          "text": "(√3/4)a²"
+        },
+        {
+          "id": "C",
+          "text": "(√3/2)a"
+        },
+        {
+          "id": "D",
+          "text": "a²"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "By Pythagoras, altitude is $(a\\sqrt{3})/2$. Area $= 1/2 \\times a \\times (a\\sqrt{3})/2 = (a^2\\sqrt{3})/4$."
+    },
+    {
+      "id": "23",
+      "question": "If the diagonals of a rhombus are exactly 24 cm and 70 cm, its area is 840 cm². What is the length of one side of the rhombus (utilizing Baudhayana's Theorem)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "37 cm"
+        },
+        {
+          "id": "B",
+          "text": "47 cm"
+        },
+        {
+          "id": "C",
+          "text": "74 cm"
+        },
+        {
+          "id": "D",
+          "text": "94 cm"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "Diagonals bisect at right angles. Legs are 12 and 35. $12^2 + 35^2 = 144 + 1225 = 1369$. $\\sqrt{1369} = 37$."
+    },
+    {
+      "id": "24",
+      "question": "A complex polygon is split into two simpler triangles to deduce its total area. This physical deconstruction demonstrates the geometric application of which algebraic concept?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Distributive property"
+        },
+        {
+          "id": "B",
+          "text": "Associative property"
+        },
+        {
+          "id": "C",
+          "text": "Commutative property"
+        },
+        {
+          "id": "D",
+          "text": "Inverse proportion"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "Just as $A(B+C) = AB + AC$, spatial area is distributed sum of component shapes."
+    },
+    {
+      "id": "25",
+      "question": "If a perfect square and a perfect circle possess the exact same perimeter, which shape intrinsically encloses the larger area?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The square"
+        },
+        {
+          "id": "B",
+          "text": "The circle"
+        },
+        {
+          "id": "C",
+          "text": "They are perfectly equal"
+        },
+        {
+          "id": "D",
+          "text": "Depends on the absolute size"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "A circle is the most efficient shape, enclosing the maximum possible 2D area for any given fixed perimeter."
+    },
+    {
+      "id": "26",
+      "question": "Determine the exact area of a regular hexagon with a side length of 6 cm by dividing it into six equilateral triangles.",
+      "options": [
+        {
+          "id": "A",
+          "text": "36√3"
+        },
+        {
+          "id": "B",
+          "text": "54√3"
+        },
+        {
+          "id": "C",
+          "text": "72√3"
+        },
+        {
+          "id": "D",
+          "text": "108√3"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "$6 \\times [(\\sqrt{3}/4) \\times 6^2] = 6 \\times 9\\sqrt{3} = 54\\sqrt{3}$."
+    },
+    {
+      "id": "27",
+      "question": "A rectangular park measures 45 m × 30 m. A path exactly 2.5 m wide is constructed immediately outside the park. Calculate the area of the path alone.",
+      "options": [
+        {
+          "id": "A",
+          "text": "200 m²"
+        },
+        {
+          "id": "B",
+          "text": "300 m²"
+        },
+        {
+          "id": "C",
+          "text": "400 m²"
+        },
+        {
+          "id": "D",
+          "text": "500 m²"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Outer dimensions: $45+5 = 50$, $30+5 = 35$. Outer area $= 1750$. Inner area $= 1350$. Difference $= 400$ m²."
+    },
+    {
+      "id": "28",
+      "question": "If the base of a triangle is increased by exactly 20% and its height is simultaneously decreased by 20%, the new resulting area will:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Increase by 4%"
+        },
+        {
+          "id": "B",
+          "text": "Decrease by 4%"
+        },
+        {
+          "id": "C",
+          "text": "Stay exactly the same"
+        },
+        {
+          "id": "D",
+          "text": "Decrease by 20%"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "New Area $= 1/2 \\times (1.2b) \\times (0.8h) = 0.96 \\times (1/2 bh) = 96\\%$ of original area (4% decrease)."
+    },
+    {
+      "id": "29",
+      "question": "Two adjacent sides of a parallelogram are 12 cm and 8 cm. The altitude corresponding to the 12 cm side is 6 cm. What is the precise altitude corresponding to the 8 cm side?",
+      "options": [
+        {
+          "id": "A",
+          "text": "6 cm"
+        },
+        {
+          "id": "B",
+          "text": "8 cm"
+        },
+        {
+          "id": "C",
+          "text": "9 cm"
+        },
+        {
+          "id": "D",
+          "text": "12 cm"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Area $= 12 \\times 6 = 72$. Equating the other base/altitude: $8 \\times h = 72 \\implies h = 9$ cm."
+    },
+    {
+      "id": "30",
+      "question": "The central diagonal of a quadrilateral-shaped field is 24 m, and the perpendiculars dropped onto it from the remaining opposite vertices are 8 m and 13 m respectively. The total area of the field is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "252 m²"
+        },
+        {
+          "id": "B",
+          "text": "504 m²"
+        },
+        {
+          "id": "C",
+          "text": "126 m²"
+        },
+        {
+          "id": "D",
+          "text": "300 m²"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "Area of two triangles: $(1/2 \\times 24 \\times 8) + (1/2 \\times 24 \\times 13) = 96 + 156 = 252$ m²."
+    }
+  ]
+}

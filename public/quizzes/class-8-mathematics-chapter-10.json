@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "In a strict inverse proportion relationship, if one specific quantity increases, the corresponding connected quantity must:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Increase"
+        },
+        {
+          "id": "B",
+          "text": "Decrease"
+        },
+        {
+          "id": "C",
+          "text": "Stay exactly the same"
+        },
+        {
+          "id": "D",
+          "text": "Become zero"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Inverse proportion means as one goes up, the other goes down proportionately."
+    },
+    {
+      "id": "2",
+      "question": "Which visual statistical graph utilizes slices of a circle to denote proportional data?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bar graph"
+        },
+        {
+          "id": "B",
+          "text": "Line graph"
+        },
+        {
+          "id": "C",
+          "text": "Pie chart"
+        },
+        {
+          "id": "D",
+          "text": "Dot plot"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Pie charts use circle slices to represent portions of a whole."
+    },
+    {
+      "id": "3",
+      "question": "The total geometric angle situated at the center of any pie chart is always:",
+      "options": [
+        {
+          "id": "A",
+          "text": "90°"
+        },
+        {
+          "id": "B",
+          "text": "180°"
+        },
+        {
+          "id": "C",
+          "text": "270°"
+        },
+        {
+          "id": "D",
+          "text": "360°"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "D",
+      "explanation": "A full circle is exactly 360°."
+    },
+    {
+      "id": "4",
+      "question": "The foundational algebraic equation for inverse proportion is commonly expressed as:",
+      "options": [
+        {
+          "id": "A",
+          "text": "y = kx"
+        },
+        {
+          "id": "B",
+          "text": "xy = k"
+        },
+        {
+          "id": "C",
+          "text": "y = x+k"
+        },
+        {
+          "id": "D",
+          "text": "y = x/k"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "For inverse proportions, the product of the two variables remains constant: $x \\times y = k$."
+    },
+    {
+      "id": "5",
+      "question": "If exactly 20 workers require 4 days to finalize a job, 10 workers working at the same pace will require:",
+      "options": [
+        {
+          "id": "A",
+          "text": "2 days"
+        },
+        {
+          "id": "B",
+          "text": "4 days"
+        },
+        {
+          "id": "C",
+          "text": "8 days"
+        },
+        {
+          "id": "D",
+          "text": "16 days"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Inverse proportion: $(20)(4) = 80$ worker-days. For 10 workers, $80 / 10 = 8$ days."
+    },
+    {
+      "id": "6",
+      "question": "Standard map scales are frequently written as an RF. What does the acronym RF stand for?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ratio Factor"
+        },
+        {
+          "id": "B",
+          "text": "Representative Fraction"
+        },
+        {
+          "id": "C",
+          "text": "Real Figure"
+        },
+        {
+          "id": "D",
+          "text": "Relative Form"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "RF stands for Representative Fraction (e.g., 1:1000)."
+    },
+    {
+      "id": "7",
+      "question": "A specific ratio composed of 1:3:5 contains exactly how many total parts?",
+      "options": [
+        {
+          "id": "A",
+          "text": "3"
+        },
+        {
+          "id": "B",
+          "text": "8"
+        },
+        {
+          "id": "C",
+          "text": "9"
+        },
+        {
+          "id": "D",
+          "text": "15"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Total parts $= 1 + 3 + 5 = 9$."
+    },
+    {
+      "id": "8",
+      "question": "Within a pie chart, a 90° slice geometrically represents what specific fraction of the entire whole?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1/2"
+        },
+        {
+          "id": "B",
+          "text": "1/3"
+        },
+        {
+          "id": "C",
+          "text": "1/4"
+        },
+        {
+          "id": "D",
+          "text": "1/8"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "$90 / 360 = 1/4$."
+    },
+    {
+      "id": "9",
+      "question": "Which of the following real-world relationships is definitively inversely proportional?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Number of apples bought and total cost"
+        },
+        {
+          "id": "B",
+          "text": "Speed of a vehicle and time taken for a fixed trip"
+        },
+        {
+          "id": "C",
+          "text": "Distance traveled and time elapsed at a constant speed"
+        },
+        {
+          "id": "D",
+          "text": "A person's height and weight"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Higher speed means less time taken for the same fixed distance."
+    },
+    {
+      "id": "10",
+      "question": "In a multi-term mathematical ratio such as a:b:c, is it permissible for the terms to be scaled simultaneously by the exact same numerical factor?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes"
+        },
+        {
+          "id": "B",
+          "text": "No"
+        },
+        {
+          "id": "C",
+          "text": "Only by a factor of 2"
+        },
+        {
+          "id": "D",
+          "text": "Only utilizing fractions"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "Multiplying all parts of a ratio by a constant non-zero factor does not change the proportion."
+    },
+    {
+      "id": "11",
+      "question": "If a standard map utilizes a scale of 1:6,000,000, what actual physical ground distance does 2.5 cm on the map represent?",
+      "options": [
+        {
+          "id": "A",
+          "text": "15 km"
+        },
+        {
+          "id": "B",
+          "text": "150 km"
+        },
+        {
+          "id": "C",
+          "text": "1500 km"
+        },
+        {
+          "id": "D",
+          "text": "25 km"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "$2.5 \\text{ cm} \\times 6,000,000 = 15,000,000 \\text{ cm} = 150,000 \\text{ m} = 150 \\text{ km}$."
+    },
+    {
+      "id": "12",
+      "question": "Exactly 110 units of construction concrete are mixed in the precise ratio of 1:1.5:3. How much gravel (representing the 3 parts) is required?",
+      "options": [
+        {
+          "id": "A",
+          "text": "20"
+        },
+        {
+          "id": "B",
+          "text": "30"
+        },
+        {
+          "id": "C",
+          "text": "60"
+        },
+        {
+          "id": "D",
+          "text": "90"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Total parts $= 1 + 1.5 + 3 = 5.5$. Value of 1 part $= 110 / 5.5 = 20$. Gravel $= 3 \\times 20 = 60$ units."
+    },
+    {
+      "id": "13",
+      "question": "I possess 100 coins structured in the ratio ₹10 : ₹5 : ₹2 : ₹1 = 4:3:2:1. How many specific ₹10 coins do I hold?",
+      "options": [
+        {
+          "id": "A",
+          "text": "10"
+        },
+        {
+          "id": "B",
+          "text": "20"
+        },
+        {
+          "id": "C",
+          "text": "30"
+        },
+        {
+          "id": "D",
+          "text": "40"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "D",
+      "explanation": "Total ratio parts $= 4 + 3 + 2 + 1 = 10$. Value of 1 part $= 100 / 10 = 10$. ₹10 coins (4 parts) $= 4 \\times 10 = 40$."
+    },
+    {
+      "id": "14",
+      "question": "Construct a pie chart representing 360 surveyed individuals: 90 prefer summer, 120 rainy, 150 winter. What is the central angle for the summer sector?",
+      "options": [
+        {
+          "id": "A",
+          "text": "90°"
+        },
+        {
+          "id": "B",
+          "text": "120°"
+        },
+        {
+          "id": "C",
+          "text": "150°"
+        },
+        {
+          "id": "D",
+          "text": "180°"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "Total $= 360$. Summer angle $= (90 / 360) \\times 360 = 90°$."
+    },
+    {
+      "id": "15",
+      "question": "A group of 80 students possesses enough food for 15 days. If 20 additional students join the group, how many days will the identical food supply last?",
+      "options": [
+        {
+          "id": "A",
+          "text": "10 days"
+        },
+        {
+          "id": "B",
+          "text": "12 days"
+        },
+        {
+          "id": "C",
+          "text": "18 days"
+        },
+        {
+          "id": "D",
+          "text": "20 days"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Total food $= 80 \\times 15 = 1200$ portions. For 100 students, $1200 / 100 = 12$ days."
+    },
+    {
+      "id": "16",
+      "question": "Exactly 2 identical water pumps fill a storage tank in 18 hours. 4 identical pumps will fill the same tank in:",
+      "options": [
+        {
+          "id": "A",
+          "text": "9 hours"
+        },
+        {
+          "id": "B",
+          "text": "12 hours"
+        },
+        {
+          "id": "C",
+          "text": "36 hours"
+        },
+        {
+          "id": "D",
+          "text": "72 hours"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "Inverse proportion: $2 \\times 18 = 36$ pump-hours. $36 / 4 = 9$ hours."
+    },
+    {
+      "id": "17",
+      "question": "A triangle's three internal angles exist in the ratio 1:3:5. What is the precise measure of the largest angle?",
+      "options": [
+        {
+          "id": "A",
+          "text": "20°"
+        },
+        {
+          "id": "B",
+          "text": "60°"
+        },
+        {
+          "id": "C",
+          "text": "100°"
+        },
+        {
+          "id": "D",
+          "text": "120°"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Total parts $= 1 + 3 + 5 = 9$. Sum of angles $= 180°$. One part $= 180 / 9 = 20°$. Largest $= 5 \\times 20 = 100°$."
+    },
+    {
+      "id": "18",
+      "question": "Mathematically verify if the coordinate pairs x and y are in inverse proportion: (40, 20) and (80, 10).",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes, because 40 × 20 = 80 × 10"
+        },
+        {
+          "id": "B",
+          "text": "No, because the direct ratios differ"
+        },
+        {
+          "id": "C",
+          "text": "They are in direct proportion"
+        },
+        {
+          "id": "D",
+          "text": "Cannot be determined definitively"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "$40 \\times 20 = 800$, and $80 \\times 10 = 800$. Since product is constant, they are inversely proportional."
+    },
+    {
+      "id": "19",
+      "question": "Within a demographic pie chart, the 'Entertainment' sector accounts for 50%. What is its precise central angle?",
+      "options": [
+        {
+          "id": "A",
+          "text": "50°"
+        },
+        {
+          "id": "B",
+          "text": "90°"
+        },
+        {
+          "id": "C",
+          "text": "180°"
+        },
+        {
+          "id": "D",
+          "text": "360°"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "$50\\% \\text{ of } 360° = 0.5 \\times 360 = 180°$."
+    },
+    {
+      "id": "20",
+      "question": "If worker Ram completes 1 unit/hr and worker Shyam completes 2/3 unit/hr, their combined collaborative work rate is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "1/3 units/hr"
+        },
+        {
+          "id": "B",
+          "text": "5/3 units/hr"
+        },
+        {
+          "id": "C",
+          "text": "3/5 units/hr"
+        },
+        {
+          "id": "D",
+          "text": "2 units/hr"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Combined rate $= 1 + 2/3 = 3/3 + 2/3 = 5/3$ units/hr."
+    },
+    {
+      "id": "21",
+      "question": "Is it geometrically possible to construct a valid physical triangle featuring side lengths in the precise ratio of 1:3:5?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes, because angles can add to 180"
+        },
+        {
+          "id": "B",
+          "text": "No, because 1+3 < 5 explicitly violates the triangle inequality theorem"
+        },
+        {
+          "id": "C",
+          "text": "Yes, provided it is a right triangle"
+        },
+        {
+          "id": "D",
+          "text": "Yes, provided it is scalene"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Triangle inequality theorem states sum of two shorter sides must be strictly greater than third side. $1+3$ is not greater than $5$."
+    },
+    {
+      "id": "22",
+      "question": "If x: 16, 12 and y: 9, blank are inversely proportional (where product xy is constant), what is the missing value?",
+      "options": [
+        {
+          "id": "A",
+          "text": "12"
+        },
+        {
+          "id": "B",
+          "text": "6.75"
+        },
+        {
+          "id": "C",
+          "text": "27"
+        },
+        {
+          "id": "D",
+          "text": "36"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "$16 \\times 9 = 144$. So $12 \\times y = 144 \\implies y = 12$."
+    },
+    {
+      "id": "23",
+      "question": "Three distinct unknown numbers exist in the ratio 1:2:3. Their calculated product is exactly 1296. What is the numerical sum of these three numbers?",
+      "options": [
+        {
+          "id": "A",
+          "text": "18"
+        },
+        {
+          "id": "B",
+          "text": "36"
+        },
+        {
+          "id": "C",
+          "text": "54"
+        },
+        {
+          "id": "D",
+          "text": "72"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Let numbers be $x, 2x, 3x$. Product $= 6x^3 = 1296 \\implies x^3 = 216 \\implies x = 6$. Sum $= 6 + 12 + 18 = 36$."
+    },
+    {
+      "id": "24",
+      "question": "An isolated camp of 200 soldiers holds food provisions for 200 days. After exactly 20 days have passed, 100 additional soldiers join. For how many subsequent days will the remaining food last?",
+      "options": [
+        {
+          "id": "A",
+          "text": "80 days"
+        },
+        {
+          "id": "B",
+          "text": "100 days"
+        },
+        {
+          "id": "C",
+          "text": "120 days"
+        },
+        {
+          "id": "D",
+          "text": "150 days"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Food remaining $= 200 \\times 180 = 36,000$ soldier-days. New troop size $= 300$. Duration $= 36,000 / 300 = 120$ days."
+    },
+    {
+      "id": "25",
+      "question": "Industrial pipes P and Q fill a tank in 12 and 36 hours individually. If activated together simultaneously, they take:",
+      "options": [
+        {
+          "id": "A",
+          "text": "6 hours"
+        },
+        {
+          "id": "B",
+          "text": "9 hours"
+        },
+        {
+          "id": "C",
+          "text": "12 hours"
+        },
+        {
+          "id": "D",
+          "text": "24 hours"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Rate $P = 1/12$. Rate $Q = 1/36$. Combined $= 1/12 + 1/36 = 3/36 + 1/36 = 4/36 = 1/9$. Time $= 9$ hours."
+    },
+    {
+      "id": "26",
+      "question": "In the pie chart problem concerning 100 coins of total value ₹600 (ratio 4:3:2:1 for ₹10, ₹5, ₹2, ₹1 respectively), what is the central geometric angle for the ₹5 coin sector?",
+      "options": [
+        {
+          "id": "A",
+          "text": "30°"
+        },
+        {
+          "id": "B",
+          "text": "72°"
+        },
+        {
+          "id": "C",
+          "text": "108°"
+        },
+        {
+          "id": "D",
+          "text": "144°"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Total coins = 100. Ratio 4:3:2:1 (10 parts) means 30 coins are ₹5. In pie chart based on number of coins: $30/100 \\times 360 = 108°$."
+    },
+    {
+      "id": "27",
+      "question": "When asserting that 2 pumps require 18 hours via inverse proportion, the mathematical model strictly assumes:",
+      "options": [
+        {
+          "id": "A",
+          "text": "The tanks leak at a constant rate"
+        },
+        {
+          "id": "B",
+          "text": "The pump rates are perfectly identical and constant"
+        },
+        {
+          "id": "C",
+          "text": "Water evaporates during filling"
+        },
+        {
+          "id": "D",
+          "text": "Time operates in direct proportion to volume"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "For the basic $xy=k$ model to work reliably, all workers/pumps are assumed identical and constant."
+    },
+    {
+      "id": "28",
+      "question": "If an algebraic ratio a:b:c = 2:3:5 dictates a total liquid volume of exactly 50 ml, find the specific volume for part b.",
+      "options": [
+        {
+          "id": "A",
+          "text": "10 ml"
+        },
+        {
+          "id": "B",
+          "text": "15 ml"
+        },
+        {
+          "id": "C",
+          "text": "20 ml"
+        },
+        {
+          "id": "D",
+          "text": "25 ml"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Total parts $= 10$. 1 part $= 5$ ml. Part $b = 3 \\times 5 = 15$ ml."
+    },
+    {
+      "id": "29",
+      "question": "To accurately calculate the collective work rate of 10 workers, the mathematical model inherently assumes:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Each individual works at wildly different speeds"
+        },
+        {
+          "id": "B",
+          "text": "Total work inherently increases with more workers"
+        },
+        {
+          "id": "C",
+          "text": "Work is divided equally and individual efficiency remains perfectly constant"
+        },
+        {
+          "id": "D",
+          "text": "Days required are directly proportional to workers"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "The model relies on constant identical efficiency per worker."
+    },
+    {
+      "id": "30",
+      "question": "If the distance between two cities on a 1:5,000,000 scale map is exactly 4 cm, the actual physical ground distance is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "20 km"
+        },
+        {
+          "id": "B",
+          "text": "200 km"
+        },
+        {
+          "id": "C",
+          "text": "2000 km"
+        },
+        {
+          "id": "D",
+          "text": "500 km"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "$4 \\times 5,000,000 = 20,000,000 \\text{ cm} = 200 \\text{ km}$."
+    }
+  ]
+}

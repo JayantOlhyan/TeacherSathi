@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "The mathematical 'center' of a set of statistical data is frequently represented by the:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Range"
+        },
+        {
+          "id": "B",
+          "text": "Mean"
+        },
+        {
+          "id": "C",
+          "text": "Maximum"
+        },
+        {
+          "id": "D",
+          "text": "Minimum"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The mean is the arithmetic average, acting as the mathematical center or balance point of data."
+    },
+    {
+      "id": "2",
+      "question": "Within a standard dot plot, what does each individual dot represent?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A missing value"
+        },
+        {
+          "id": "B",
+          "text": "A single data point observation"
+        },
+        {
+          "id": "C",
+          "text": "The calculated mean"
+        },
+        {
+          "id": "D",
+          "text": "The calculated median"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Each physical dot on the axis corresponds to exactly one observed data value."
+    },
+    {
+      "id": "3",
+      "question": "How does one precisely find the arithmetic mean of exactly two numbers?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Add them"
+        },
+        {
+          "id": "B",
+          "text": "Subtract them"
+        },
+        {
+          "id": "C",
+          "text": "Add them and divide the sum by 2"
+        },
+        {
+          "id": "D",
+          "text": "Multiply them"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Sum the values and divide by the count: $(a + b) / 2$."
+    },
+    {
+      "id": "4",
+      "question": "What is the calculated mean of the numbers 3 and 7?",
+      "options": [
+        {
+          "id": "A",
+          "text": "4"
+        },
+        {
+          "id": "B",
+          "text": "5"
+        },
+        {
+          "id": "C",
+          "text": "10"
+        },
+        {
+          "id": "D",
+          "text": "21"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "$(3 + 7) / 2 = 10 / 2 = 5$."
+    },
+    {
+      "id": "5",
+      "question": "The designated origin on a standard 2D coordinate plane is the point:",
+      "options": [
+        {
+          "id": "A",
+          "text": "(1,1)"
+        },
+        {
+          "id": "B",
+          "text": "(0,1)"
+        },
+        {
+          "id": "C",
+          "text": "(1,0)"
+        },
+        {
+          "id": "D",
+          "text": "(0,0)"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "D",
+      "explanation": "The origin is where the x and y axes intersect, representing coordinates $(0,0)$."
+    },
+    {
+      "id": "6",
+      "question": "In a standard graph, the horizontal line is conventionally labeled the:",
+      "options": [
+        {
+          "id": "A",
+          "text": "x-axis"
+        },
+        {
+          "id": "B",
+          "text": "y-axis"
+        },
+        {
+          "id": "C",
+          "text": "z-axis"
+        },
+        {
+          "id": "D",
+          "text": "origin"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "The horizontal axis is universally standard as the x-axis."
+    },
+    {
+      "id": "7",
+      "question": "Which specific statistical graph utilizes a continuous line to denote changes over a period of time?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bar graph"
+        },
+        {
+          "id": "B",
+          "text": "Pie chart"
+        },
+        {
+          "id": "C",
+          "text": "Line graph"
+        },
+        {
+          "id": "D",
+          "text": "Histogram"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Line graphs are perfectly suited to show trends and continuous changes over time intervals."
+    },
+    {
+      "id": "8",
+      "question": "The exact middle value of an ordered statistical data set is formally called the:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mean"
+        },
+        {
+          "id": "B",
+          "text": "Mode"
+        },
+        {
+          "id": "C",
+          "text": "Median"
+        },
+        {
+          "id": "D",
+          "text": "Range"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "When data is sorted by size, the central value separating higher and lower halves is the median."
+    },
+    {
+      "id": "9",
+      "question": "Nodes and edges are distinct terms utilized heavily in:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Algebra"
+        },
+        {
+          "id": "B",
+          "text": "Graph Theory"
+        },
+        {
+          "id": "C",
+          "text": "Arithmetic"
+        },
+        {
+          "id": "D",
+          "text": "Calculus"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "In mathematical graph theory, points are nodes (or vertices) connected by lines called edges."
+    },
+    {
+      "id": "10",
+      "question": "To accurately plot the coordinate (3, -2), you move from the origin:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Right 3, Up 2"
+        },
+        {
+          "id": "B",
+          "text": "Right 3, Down 2"
+        },
+        {
+          "id": "C",
+          "text": "Left 3, Down 2"
+        },
+        {
+          "id": "D",
+          "text": "Up 3, Right 2"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Positive x moves right (3), negative y moves down (2)."
+    },
+    {
+      "id": "11",
+      "question": "If you intentionally add a new number greater than the current mean to a data set, the new mean will definitively:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Decrease"
+        },
+        {
+          "id": "B",
+          "text": "Increase"
+        },
+        {
+          "id": "C",
+          "text": "Stay the same"
+        },
+        {
+          "id": "D",
+          "text": "Become zero"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Adding a value higher than the average logically pulls the new balance point (mean) higher."
+    },
+    {
+      "id": "12",
+      "question": "A dot plot displays values: 4, 7, 8, 8, 9, 9, 9, 9, 9, 11, and x. If the required mean is exactly 9, what is the value of x?",
+      "options": [
+        {
+          "id": "A",
+          "text": "9"
+        },
+        {
+          "id": "B",
+          "text": "11"
+        },
+        {
+          "id": "C",
+          "text": "16"
+        },
+        {
+          "id": "D",
+          "text": "20"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Sum without x $= 83$. Total data points $= 11$. For mean $= 9$, Total sum must be $9 \\times 11 = 99$. Thus $x = 99 - 83 = 16$."
+    },
+    {
+      "id": "13",
+      "question": "The calculated mean of exactly 15 values is 134. What is the total sum of all 15 values?",
+      "options": [
+        {
+          "id": "A",
+          "text": "149"
+        },
+        {
+          "id": "B",
+          "text": "1000"
+        },
+        {
+          "id": "C",
+          "text": "2010"
+        },
+        {
+          "id": "D",
+          "text": "2500"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Total sum $=$ Mean $\\times$ Count $= 134 \\times 15 = 2010$."
+    },
+    {
+      "id": "14",
+      "question": "If every single value in a dataset is uniformly increased by 10, the new mean will:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Increase by exactly 10"
+        },
+        {
+          "id": "B",
+          "text": "Decrease by exactly 10"
+        },
+        {
+          "id": "C",
+          "text": "Multiply by 10"
+        },
+        {
+          "id": "D",
+          "text": "Stay exactly the same"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "A uniform translation shifts the entire dataset, shifting the mean identically by $+10$."
+    },
+    {
+      "id": "15",
+      "question": "If every single value in a dataset is uniformly multiplied by 5, the new mean will:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Increase by 5"
+        },
+        {
+          "id": "B",
+          "text": "Be 5 times the old mean"
+        },
+        {
+          "id": "C",
+          "text": "Stay the same"
+        },
+        {
+          "id": "D",
+          "text": "Divide by 5"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Scaling the data directly scales the mean by the exact same factor."
+    },
+    {
+      "id": "16",
+      "question": "What is the exact mathematical mean of the first 50 natural numbers?",
+      "options": [
+        {
+          "id": "A",
+          "text": "25"
+        },
+        {
+          "id": "B",
+          "text": "25.5"
+        },
+        {
+          "id": "C",
+          "text": "26"
+        },
+        {
+          "id": "D",
+          "text": "50"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Sum $= (n(n+1))/2$. Mean for contiguous set $= (1+50)/2 = 25.5$."
+    },
+    {
+      "id": "17",
+      "question": "A linear graph representing the equation $y = mx$ always explicitly passes through:",
+      "options": [
+        {
+          "id": "A",
+          "text": "(0,1)"
+        },
+        {
+          "id": "B",
+          "text": "(1,0)"
+        },
+        {
+          "id": "C",
+          "text": "(0,0)"
+        },
+        {
+          "id": "D",
+          "text": "(1,1)"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "If $x=0$, $y=m(0)=0$. It passes perfectly through the origin."
+    },
+    {
+      "id": "18",
+      "question": "If you add a new value exactly equal to the existing median to a data set, the new median:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Increases"
+        },
+        {
+          "id": "B",
+          "text": "Decreases"
+        },
+        {
+          "id": "C",
+          "text": "Stays the same"
+        },
+        {
+          "id": "D",
+          "text": "Doubles"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Adding a value equal to the median adds weight exactly at the center, leaving it unchanged."
+    },
+    {
+      "id": "19",
+      "question": "The mean of the numbers 8, 13, 10, 4, 5, 20, y, and 10 is 10.375. Mathematically find y.",
+      "options": [
+        {
+          "id": "A",
+          "text": "10"
+        },
+        {
+          "id": "B",
+          "text": "13"
+        },
+        {
+          "id": "C",
+          "text": "15"
+        },
+        {
+          "id": "D",
+          "text": "17"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Sum $= 70 + y$. Total count $= 8$. $70 + y = 10.375 \\times 8 = 83$. Thus $y = 13$."
+    },
+    {
+      "id": "20",
+      "question": "To calculate the median efficiently from a frequency table, you must first:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Find the mean"
+        },
+        {
+          "id": "B",
+          "text": "Find cumulative frequencies"
+        },
+        {
+          "id": "C",
+          "text": "Multiply values by frequencies"
+        },
+        {
+          "id": "D",
+          "text": "Draw a pie chart"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Cumulative frequencies map exactly where the middle data point lies within the sorted groups."
+    },
+    {
+      "id": "21",
+      "question": "If you have 11 distinct numbers featuring a median of 41, adding which two specific numbers will leave the median entirely unchanged?",
+      "options": [
+        {
+          "id": "A",
+          "text": "40 and 42"
+        },
+        {
+          "id": "B",
+          "text": "30 and 35"
+        },
+        {
+          "id": "C",
+          "text": "50 and 60"
+        },
+        {
+          "id": "D",
+          "text": "40 and 39"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "Adding one number below (40) and one number above (42) preserves the exact central balance point index of 41."
+    },
+    {
+      "id": "22",
+      "question": "\"Removing a value less than the median will decrease the median.\" This statement is statistically:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Always true"
+        },
+        {
+          "id": "B",
+          "text": "Never true"
+        },
+        {
+          "id": "C",
+          "text": "Sometimes true"
+        },
+        {
+          "id": "D",
+          "text": "Mathematically impossible"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Removing a value lower than the median actually shifts the center upward, forcing the median to stay the same or increase."
+    },
+    {
+      "id": "23",
+      "question": "In a dot plot, the mean represents the physical balance point. This dictates that:",
+      "options": [
+        {
+          "id": "A",
+          "text": "The sum of values on LHS equals RHS"
+        },
+        {
+          "id": "B",
+          "text": "The sum of distances from the mean on LHS equals RHS"
+        },
+        {
+          "id": "C",
+          "text": "The number of dots on LHS equals RHS"
+        },
+        {
+          "id": "D",
+          "text": "The median is always equal to the mean"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The mean is the fulcrum; total physical deviation (distance) on left strictly balances total deviation on right."
+    },
+    {
+      "id": "24",
+      "question": "If an album's song lengths are 0.5, 0.75, 1.5, 1.5, 2, 3.75, 4.25, and 5 minutes, what is the calculated mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "2.41"
+        },
+        {
+          "id": "B",
+          "text": "3.5"
+        },
+        {
+          "id": "C",
+          "text": "4.1"
+        },
+        {
+          "id": "D",
+          "text": "5.57"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "Sum $= 19.25$. Count $= 8$. $19.25 / 8 \\approx 2.40625$, which rounds to 2.41."
+    },
+    {
+      "id": "25",
+      "question": "Algebraically, if a baseline mean $a = (x_1+x_2+...+x_n)/n$, then multiplying each $x$ by a factor of 5 yields a new mean of:",
+      "options": [
+        {
+          "id": "A",
+          "text": "a+5"
+        },
+        {
+          "id": "B",
+          "text": "5a"
+        },
+        {
+          "id": "C",
+          "text": "a/5"
+        },
+        {
+          "id": "D",
+          "text": "a^5"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "$ (5x_1 + 5x_2 + ...) / n = 5(x_1 + x_2 + ...) / n = 5a $."
+    },
+    {
+      "id": "26",
+      "question": "In the genesis of graph theory, the famous Königsberg Bridge problem was elegantly solved utilizing abstract nodes and edges by:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pythagoras"
+        },
+        {
+          "id": "B",
+          "text": "Euler"
+        },
+        {
+          "id": "C",
+          "text": "Brahmagupta"
+        },
+        {
+          "id": "D",
+          "text": "Aryabhata"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Leonhard Euler essentially invented Graph Theory resolving this bridge problem in 1736."
+    },
+    {
+      "id": "27",
+      "question": "Adding four specific values completely below the median to an existing dataset will:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Increase the median"
+        },
+        {
+          "id": "B",
+          "text": "Decrease or maintain the median"
+        },
+        {
+          "id": "C",
+          "text": "Make the median exactly zero"
+        },
+        {
+          "id": "D",
+          "text": "Double the median"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Adding multiple lower values drags the central midpoint index downwards, resulting in a lower (or identical) median."
+    },
+    {
+      "id": "28",
+      "question": "The coordinate point (-3, 4) lies distinctly in which geometric quadrant?",
+      "options": [
+        {
+          "id": "A",
+          "text": "I"
+        },
+        {
+          "id": "B",
+          "text": "II"
+        },
+        {
+          "id": "C",
+          "text": "III"
+        },
+        {
+          "id": "D",
+          "text": "IV"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Negative $x$ and Positive $y$ places the coordinate perfectly in the upper-left Quadrant II."
+    },
+    {
+      "id": "29",
+      "question": "To find the mean of data provided with frequencies (e.g., 3 students have a family size of 4), you must structurally:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Add the frequencies"
+        },
+        {
+          "id": "B",
+          "text": "Add the family sizes"
+        },
+        {
+          "id": "C",
+          "text": "Multiply each size by its frequency, sum them, and divide by total students"
+        },
+        {
+          "id": "D",
+          "text": "Find the median instead"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Weighted average formula: $\\sum (f_i \\times x_i) / \\sum f_i$."
+    },
+    {
+      "id": "30",
+      "question": "If a linear graph represents distance vs. time at a constant speed, the physical slope of the plotted line directly represents:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Time"
+        },
+        {
+          "id": "B",
+          "text": "Distance"
+        },
+        {
+          "id": "C",
+          "text": "Speed"
+        },
+        {
+          "id": "D",
+          "text": "Acceleration"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Slope $= \\Delta y / \\Delta x = \\text{Distance} / \\text{Time} = \\text{Speed} $."
+    }
+  ]
+}

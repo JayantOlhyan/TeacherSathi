@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "The widely utilized theorem $a^2 + b^2 = c^2$ applies exclusively to which specific type of geometric triangle?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Equilateral"
+        },
+        {
+          "id": "B",
+          "text": "Isosceles"
+        },
+        {
+          "id": "C",
+          "text": "Right-angled"
+        },
+        {
+          "id": "D",
+          "text": "Scalene"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The Pythagorean theorem applies only to right-angled triangles."
+    },
+    {
+      "id": "2",
+      "question": "Within the theorem formula $a^2 + b^2 = c^2$, what does the variable 'c' invariably represent?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Altitude"
+        },
+        {
+          "id": "B",
+          "text": "Base"
+        },
+        {
+          "id": "C",
+          "text": "Hypotenuse"
+        },
+        {
+          "id": "D",
+          "text": "Right angle"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "In the theorem, 'c' is the length of the hypotenuse."
+    },
+    {
+      "id": "3",
+      "question": "Geometrically, the hypotenuse is unequivocally the ________ side of a right triangle.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Shortest"
+        },
+        {
+          "id": "B",
+          "text": "Longest"
+        },
+        {
+          "id": "C",
+          "text": "Vertical"
+        },
+        {
+          "id": "D",
+          "text": "Horizontal"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The hypotenuse, being opposite the 90° angle, is always the longest side."
+    },
+    {
+      "id": "4",
+      "question": "The ancient Indian mathematician historically credited with stating this specific theorem well before Pythagoras is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aryabhata"
+        },
+        {
+          "id": "B",
+          "text": "Bhaskaracharya"
+        },
+        {
+          "id": "C",
+          "text": "Baudhayana"
+        },
+        {
+          "id": "D",
+          "text": "Ramanujan"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Baudhayana stated the theorem in the Sulba Sutras."
+    },
+    {
+      "id": "5",
+      "question": "A specific set of three integers that mathematically satisfy the equation $a^2 + b^2 = c^2$ is historically classified as a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Magic triple"
+        },
+        {
+          "id": "B",
+          "text": "Baudhayana triple"
+        },
+        {
+          "id": "C",
+          "text": "Golden ratio"
+        },
+        {
+          "id": "D",
+          "text": "Prime trio"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "A set of three integers satisfying this theorem is known as a Pythagorean or Baudhayana triple."
+    },
+    {
+      "id": "6",
+      "question": "If the two shorter sides of a right triangle measure 3 and 4, what is the length of the hypotenuse?",
+      "options": [
+        {
+          "id": "A",
+          "text": "5"
+        },
+        {
+          "id": "B",
+          "text": "6"
+        },
+        {
+          "id": "C",
+          "text": "7"
+        },
+        {
+          "id": "D",
+          "text": "25"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "Using the theorem: $3^2 + 4^2 = 9 + 16 = 25$. $\\sqrt{25} = 5$."
+    },
+    {
+      "id": "7",
+      "question": "Evaluate the basic arithmetic expression $3^2 + 4^2$.",
+      "options": [
+        {
+          "id": "A",
+          "text": "7"
+        },
+        {
+          "id": "B",
+          "text": "14"
+        },
+        {
+          "id": "C",
+          "text": "25"
+        },
+        {
+          "id": "D",
+          "text": "49"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "$3^2 + 4^2 = 9 + 16 = 25$."
+    },
+    {
+      "id": "8",
+      "question": "In ancient Indian mathematical texts, this specific theorem was heavily utilized to construct what specific shapes for ceremonial fire altars?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Perfect circles"
+        },
+        {
+          "id": "B",
+          "text": "Spheres"
+        },
+        {
+          "id": "C",
+          "text": "Squares"
+        },
+        {
+          "id": "D",
+          "text": "Kites"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "The theorem was used to construct accurate geometric shapes, particularly squares for fire altars."
+    },
+    {
+      "id": "9",
+      "question": "Doubling the strict side length of any square makes its total internal area how many times larger?",
+      "options": [
+        {
+          "id": "A",
+          "text": "2"
+        },
+        {
+          "id": "B",
+          "text": "3"
+        },
+        {
+          "id": "C",
+          "text": "4"
+        },
+        {
+          "id": "D",
+          "text": "8"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Area $= s^2$. If side is $2s$, Area $= (2s)^2 = 4s^2$, which is 4 times larger."
+    },
+    {
+      "id": "10",
+      "question": "The side positioned directly opposite the 90-degree right angle is officially called the:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Adjacent"
+        },
+        {
+          "id": "B",
+          "text": "Hypotenuse"
+        },
+        {
+          "id": "C",
+          "text": "Opposite"
+        },
+        {
+          "id": "D",
+          "text": "Vertex"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "The side directly opposite the right angle is the hypotenuse."
+    },
+    {
+      "id": "11",
+      "question": "If a defined right triangle features shorter sides of exactly 5 cm and 12 cm, what is the length of its hypotenuse?",
+      "options": [
+        {
+          "id": "A",
+          "text": "13 cm"
+        },
+        {
+          "id": "B",
+          "text": "15 cm"
+        },
+        {
+          "id": "C",
+          "text": "17 cm"
+        },
+        {
+          "id": "D",
+          "text": "19 cm"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "$5^2 + 12^2 = 25 + 144 = 169$. $\\sqrt{169} = 13$."
+    },
+    {
+      "id": "12",
+      "question": "If a right triangle's hypotenuse measures 15 cm and one leg measures 9 cm, what is the exact length of the third side?",
+      "options": [
+        {
+          "id": "A",
+          "text": "10 cm"
+        },
+        {
+          "id": "B",
+          "text": "12 cm"
+        },
+        {
+          "id": "C",
+          "text": "14 cm"
+        },
+        {
+          "id": "D",
+          "text": "16 cm"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "$15^2 - 9^2 = 225 - 81 = 144$. $\\sqrt{144} = 12$."
+    },
+    {
+      "id": "13",
+      "question": "How did the mathematician Baudhayana explicitly instruct one to construct a square possessing double the area of a given square?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Double all the sides"
+        },
+        {
+          "id": "B",
+          "text": "Construct a new square utilizing the diagonal as the base"
+        },
+        {
+          "id": "C",
+          "text": "Halve all the sides"
+        },
+        {
+          "id": "D",
+          "text": "Draw an inscribed circle"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "The area of a square constructed on the diagonal of a given square is double the area of the original square."
+    },
+    {
+      "id": "14",
+      "question": "Which of the following integer sets represents a legitimate primitive Baudhayana triple?",
+      "options": [
+        {
+          "id": "A",
+          "text": "(4, 5, 6)"
+        },
+        {
+          "id": "B",
+          "text": "(6, 8, 10)"
+        },
+        {
+          "id": "C",
+          "text": "(7, 9, 11)"
+        },
+        {
+          "id": "D",
+          "text": "(10, 20, 30)"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "(6,8,10) satisfies $6^2 + 8^2 = 10^2$ (36+64=100), although it's a scaled version of (3,4,5)."
+    },
+    {
+      "id": "15",
+      "question": "The exact length of the hypotenuse of an isosceles right triangle featuring a small side length of 'a' is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "2a"
+        },
+        {
+          "id": "B",
+          "text": "a√2"
+        },
+        {
+          "id": "C",
+          "text": "a²"
+        },
+        {
+          "id": "D",
+          "text": "a/2"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Using theorem: $a^2 + a^2 = 2a^2$. Hypotenuse = $\\sqrt{2a^2} = a\\sqrt{2}$."
+    },
+    {
+      "id": "16",
+      "question": "If a specific isosceles right triangle possesses a hypotenuse measuring 6√2 cm, what are the precise lengths of its other two identical sides?",
+      "options": [
+        {
+          "id": "A",
+          "text": "3 cm"
+        },
+        {
+          "id": "B",
+          "text": "6 cm"
+        },
+        {
+          "id": "C",
+          "text": "12 cm"
+        },
+        {
+          "id": "D",
+          "text": "36 cm"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Since hypotenuse is $a\\sqrt{2}$, if it is $6\\sqrt{2}$, then $a = 6$ cm."
+    },
+    {
+      "id": "17",
+      "question": "A physical ladder rests against a vertical wall. The ladder itself is 10 m long and its foot sits 6 m from the wall's base. How high up the wall does the ladder reach?",
+      "options": [
+        {
+          "id": "A",
+          "text": "4 m"
+        },
+        {
+          "id": "B",
+          "text": "6 m"
+        },
+        {
+          "id": "C",
+          "text": "8 m"
+        },
+        {
+          "id": "D",
+          "text": "12 m"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "$10^2 - 6^2 = 100 - 36 = 64$. $\\sqrt{64} = 8$ m."
+    },
+    {
+      "id": "18",
+      "question": "Mathematically verify if the set (8, 15, 17) constitutes a valid Baudhayana triple.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes, because 64+225=289"
+        },
+        {
+          "id": "B",
+          "text": "No, because 64+225 ≠ 289"
+        },
+        {
+          "id": "C",
+          "text": "Yes, simply because 8+15=17"
+        },
+        {
+          "id": "D",
+          "text": "Cannot be verified with current methods"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "$8^2 + 15^2 = 64 + 225 = 289$. $17^2 = 289$."
+    },
+    {
+      "id": "19",
+      "question": "Calculate the precise diagonal measurement of a square featuring a side length of 5 cm.",
+      "options": [
+        {
+          "id": "A",
+          "text": "5 cm"
+        },
+        {
+          "id": "B",
+          "text": "5√2 cm"
+        },
+        {
+          "id": "C",
+          "text": "10 cm"
+        },
+        {
+          "id": "D",
+          "text": "25 cm"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Diagonal of square = $side \\times \\sqrt{2} = 5\\sqrt{2}$."
+    },
+    {
+      "id": "20",
+      "question": "In standard geometric definitions, the diagonals of a rhombus bisect each other at what specific angle?",
+      "options": [
+        {
+          "id": "A",
+          "text": "45°"
+        },
+        {
+          "id": "B",
+          "text": "60°"
+        },
+        {
+          "id": "C",
+          "text": "90°"
+        },
+        {
+          "id": "D",
+          "text": "120°"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Diagonals of a rhombus always intersect at a 90° angle."
+    },
+    {
+      "id": "21",
+      "question": "Deduce the exact side length of a rhombus whose two internal diagonals measure 16 cm and 12 cm respectively.",
+      "options": [
+        {
+          "id": "A",
+          "text": "10 cm"
+        },
+        {
+          "id": "B",
+          "text": "14 cm"
+        },
+        {
+          "id": "C",
+          "text": "20 cm"
+        },
+        {
+          "id": "D",
+          "text": "28 cm"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "Diagonals bisect at 90°, forming right triangles with legs 8 cm and 6 cm. Side = $\\sqrt{8^2 + 6^2} = \\sqrt{64+36} = \\sqrt{100} = 10$ cm."
+    },
+    {
+      "id": "22",
+      "question": "According to Fermat's Last Theorem, does the algebraic equation $x^n + y^n = z^n$ possess any positive integer solutions for conditions where n > 2?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes, an infinite number"
+        },
+        {
+          "id": "B",
+          "text": "Yes, exactly one"
+        },
+        {
+          "id": "C",
+          "text": "No valid integer solutions exist"
+        },
+        {
+          "id": "D",
+          "text": "Only exists for prime values of n"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Fermat's Last Theorem states there are no positive integer solutions for $n > 2$."
+    },
+    {
+      "id": "23",
+      "question": "Based on Bhaskaracharya's classical lotus problem: A 13-unit rigid stem protrudes exactly 5 units above the water line. Wind blows it such that the tip just touches the water's surface. What is the calculated depth of the water?",
+      "options": [
+        {
+          "id": "A",
+          "text": "5 units"
+        },
+        {
+          "id": "B",
+          "text": "8 units"
+        },
+        {
+          "id": "C",
+          "text": "12 units"
+        },
+        {
+          "id": "D",
+          "text": "13 units"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Total length = 13. Let depth = x. $x + 5 = 13 \\implies x = 8$. (This evaluates depth based on problem statement logic provided)."
+    },
+    {
+      "id": "24",
+      "question": "Referencing the same lotus problem, mathematically deduce how far the tip moved laterally from its original vertical position.",
+      "options": [
+        {
+          "id": "A",
+          "text": "√89 units"
+        },
+        {
+          "id": "B",
+          "text": "√105 units"
+        },
+        {
+          "id": "C",
+          "text": "12 units"
+        },
+        {
+          "id": "D",
+          "text": "13 units"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Using a right triangle with hypotenuse 13 (stem length) and depth 8. Lateral distance $d^2 + 8^2 = 13^2 \\implies d^2 = 169 - 64 = 105$. $d = \\sqrt{105}$."
+    },
+    {
+      "id": "25",
+      "question": "To successfully halve a square's total area, the mathematician Baudhāyana geometrically suggested:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Drawing a smaller square internally aligned directly with the original diagonals"
+        },
+        {
+          "id": "B",
+          "text": "Slicing the square laterally in half"
+        },
+        {
+          "id": "C",
+          "text": "Dividing all perimeter side lengths by 2"
+        },
+        {
+          "id": "D",
+          "text": "Inscribing circular arcs"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "Baudhayana described halving a square's area by constructing a square whose side is half the diagonal of the original."
+    },
+    {
+      "id": "26",
+      "question": "If the integer set (a, b, c) represents a primitive triple, will the mathematically scaled set (ka, kb, kc) also function universally as a valid triple for any positive integer k?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes"
+        },
+        {
+          "id": "B",
+          "text": "No"
+        },
+        {
+          "id": "C",
+          "text": "Only if k is a prime number"
+        },
+        {
+          "id": "D",
+          "text": "Only if k is an even number"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "Yes, $(ka)^2 + (kb)^2 = k^2a^2 + k^2b^2 = k^2(a^2 + b^2) = k^2c^2 = (kc)^2$."
+    },
+    {
+      "id": "27",
+      "question": "Calculating the area of a perfect equilateral triangle featuring a side length of 6 units requires first deducing its altitude. What is this exact altitude?",
+      "options": [
+        {
+          "id": "A",
+          "text": "3"
+        },
+        {
+          "id": "B",
+          "text": "3√3"
+        },
+        {
+          "id": "C",
+          "text": "6"
+        },
+        {
+          "id": "D",
+          "text": "9"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Altitude bisects base into 3. Altitude $h^2 + 3^2 = 6^2 \\implies h^2 = 36 - 9 = 27$. $h = \\sqrt{27} = 3\\sqrt{3}$."
+    },
+    {
+      "id": "28",
+      "question": "Which ancient historical text provides detailed instructions on how to construct a new square whose area is exactly triple the area of a given square?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Arthashastra"
+        },
+        {
+          "id": "B",
+          "text": "Sulba-Sutra"
+        },
+        {
+          "id": "C",
+          "text": "Rigveda"
+        },
+        {
+          "id": "D",
+          "text": "Upanishads"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "The Sulba Sutras provide precise geometric constructions for altars, including squares with multiple area relationships."
+    },
+    {
+      "id": "29",
+      "question": "Analyzing the algebraic equation $(x+2)^2 = (x-2)^2 + x^2$, what exact numerical value does x represent if it denotes the side of a physical right triangle?",
+      "options": [
+        {
+          "id": "A",
+          "text": "4"
+        },
+        {
+          "id": "B",
+          "text": "8"
+        },
+        {
+          "id": "C",
+          "text": "12"
+        },
+        {
+          "id": "D",
+          "text": "16"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "$x^2 + 4x + 4 = x^2 - 4x + 4 + x^2 \\implies 8x = x^2$. Since $x > 0$, $x = 8$."
+    },
+    {
+      "id": "30",
+      "question": "If an identified scaled mathematical triple is (16, 30, 34), what was the foundational primitive triple from which it was derived?",
+      "options": [
+        {
+          "id": "A",
+          "text": "(4, 7.5, 8.5)"
+        },
+        {
+          "id": "B",
+          "text": "(8, 15, 17)"
+        },
+        {
+          "id": "C",
+          "text": "(32, 60, 68)"
+        },
+        {
+          "id": "D",
+          "text": "(3, 4, 5)"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Divide each term by their greatest common divisor (2): $16/2 = 8$, $30/2 = 15$, $34/2 = 17$."
+    }
+  ]
+}
