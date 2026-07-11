@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "Which is the only known planet in our entire solar system that actively supports complex life?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mars"
+        },
+        {
+          "id": "B",
+          "text": "Venus"
+        },
+        {
+          "id": "C",
+          "text": "Earth"
+        },
+        {
+          "id": "D",
+          "text": "Jupiter"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "2",
+      "question": "All living things exist in a very thin, delicate outermost layer of the solid Earth called the:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Core"
+        },
+        {
+          "id": "B",
+          "text": "Mantle"
+        },
+        {
+          "id": "C",
+          "text": "Crust"
+        },
+        {
+          "id": "D",
+          "text": "Magma"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "3",
+      "question": "Approximately what percentage of the Earth's surface is covered with liquid water?",
+      "options": [
+        {
+          "id": "A",
+          "text": "30%"
+        },
+        {
+          "id": "B",
+          "text": "50%"
+        },
+        {
+          "id": "C",
+          "text": "70%"
+        },
+        {
+          "id": "D",
+          "text": "90%"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "4",
+      "question": "The protective envelope of various gases completely surrounding the Earth is known as the:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hydrosphere"
+        },
+        {
+          "id": "B",
+          "text": "Atmosphere"
+        },
+        {
+          "id": "C",
+          "text": "Geosphere"
+        },
+        {
+          "id": "D",
+          "text": "Biosphere"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "5",
+      "question": "The specific atmospheric layer that actively protects us from the Sun's harmful, cancer-causing ultraviolet (UV) rays is the:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ozone layer"
+        },
+        {
+          "id": "B",
+          "text": "Cloud layer"
+        },
+        {
+          "id": "C",
+          "text": "Oxygen layer"
+        },
+        {
+          "id": "D",
+          "text": "Water layer"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "6",
+      "question": "Earth's perfect orbital position, where it is not too hot and not too cold for liquid water, is scientifically called the:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Danger zone"
+        },
+        {
+          "id": "B",
+          "text": "Goldilocks zone (Habitable zone)"
+        },
+        {
+          "id": "C",
+          "text": "Freezing zone"
+        },
+        {
+          "id": "D",
+          "text": "Boiling zone"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "7",
+      "question": "Which specific gas in the atmosphere is absolutely essential for humans and animals to breathe and survive?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Carbon dioxide"
+        },
+        {
+          "id": "B",
+          "text": "Nitrogen"
+        },
+        {
+          "id": "C",
+          "text": "Oxygen"
+        },
+        {
+          "id": "D",
+          "text": "Helium"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "8",
+      "question": "Which specific atmospheric gas do green plants absolutely require to perform photosynthesis?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Oxygen"
+        },
+        {
+          "id": "B",
+          "text": "Carbon dioxide"
+        },
+        {
+          "id": "C",
+          "text": "Argon"
+        },
+        {
+          "id": "D",
+          "text": "Hydrogen"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "9",
+      "question": "The highly destructive human practice of cutting down vast forests on a massive scale is called:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Reforestation"
+        },
+        {
+          "id": "B",
+          "text": "Deforestation"
+        },
+        {
+          "id": "C",
+          "text": "Agriculture"
+        },
+        {
+          "id": "D",
+          "text": "Gardening"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "10",
+      "question": "The fundamental biological process that allows a species to continue living generation after generation is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Digestion"
+        },
+        {
+          "id": "B",
+          "text": "Respiration"
+        },
+        {
+          "id": "C",
+          "text": "Reproduction"
+        },
+        {
+          "id": "D",
+          "text": "Blood Circulation"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "11",
+      "question": "Why is Venus significantly hotter than Mercury, even though Mercury is much closer to the Sun?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Venus has more active volcanoes"
+        },
+        {
+          "id": "B",
+          "text": "Venus has an incredibly thick carbon dioxide atmosphere causing a runaway, extreme greenhouse effect that traps massive heat"
+        },
+        {
+          "id": "C",
+          "text": "Venus is literally on fire"
+        },
+        {
+          "id": "D",
+          "text": "Mercury is made entirely of ice"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "12",
+      "question": "Why can't the planet Mars support complex life like Earth currently does?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It is far too hot"
+        },
+        {
+          "id": "B",
+          "text": "It lacks a thick, protective atmosphere and possesses absolutely no stable liquid water on its surface"
+        },
+        {
+          "id": "C",
+          "text": "It has far too much oxygen"
+        },
+        {
+          "id": "D",
+          "text": "Its gravity is far too strong"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "13",
+      "question": "How does Earth's specific amount of gravity perfectly help sustain life?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It single-handedly creates the ozone layer"
+        },
+        {
+          "id": "B",
+          "text": "It is strong enough to hold the atmosphere from escaping into the vacuum of space, but not so crushingly strong that it prevents movement"
+        },
+        {
+          "id": "C",
+          "text": "It makes the water turn blue"
+        },
+        {
+          "id": "D",
+          "text": "It stops the Earth from rotating too fast"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "14",
+      "question": "What internal geological process actively generates the Earth's massive magnetic field?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The fast-moving ocean currents"
+        },
+        {
+          "id": "B",
+          "text": "The churning movement of super-heated molten iron deep in its outer core"
+        },
+        {
+          "id": "C",
+          "text": "The roots of trees in the forest"
+        },
+        {
+          "id": "D",
+          "text": "The high-altitude wind"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "15",
+      "question": "How does the Earth's invisible magnetic field actively protect life on the surface?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It completely stops the rain"
+        },
+        {
+          "id": "B",
+          "text": "It acts as a shield, deflecting highly dangerous, charged particles (solar wind and cosmic rays) shot from space"
+        },
+        {
+          "id": "C",
+          "text": "It violently attracts the Moon"
+        },
+        {
+          "id": "D",
+          "text": "It keeps the Earth spinning"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "16",
+      "question": "How does the natural, mild greenhouse effect on Earth actually benefit us?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It makes the oceans boil away"
+        },
+        {
+          "id": "B",
+          "text": "It traps just enough solar heat to keep the planet warm, ensuring water remains in a liquid, life-sustaining form"
+        },
+        {
+          "id": "C",
+          "text": "It turns deadly carbon dioxide into pure oxygen"
+        },
+        {
+          "id": "D",
+          "text": "It completely blocks all sunlight"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "17",
+      "question": "The incredible diversity of physical landforms, rocks, and soils, which allows wildly different plants and animals to thrive globally, is called:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Biodiversity"
+        },
+        {
+          "id": "B",
+          "text": "Geodiversity"
+        },
+        {
+          "id": "C",
+          "text": "Atmosphere"
+        },
+        {
+          "id": "D",
+          "text": "Hydrosphere"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "18",
+      "question": "What critical evolutionary benefit happens during sexual reproduction that helps a species survive in rapidly changing, dangerous environments?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It produces exact, identical clones"
+        },
+        {
+          "id": "B",
+          "text": "It results in massive genetic variety (variation), giving offspring different traits that aid in adaptation and survival"
+        },
+        {
+          "id": "C",
+          "text": "It completely stops evolution"
+        },
+        {
+          "id": "D",
+          "text": "It decreases the population size"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "19",
+      "question": "How does the global water cycle actively support and sustain life on Earth?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It slowly drains the oceans"
+        },
+        {
+          "id": "B",
+          "text": "It ensures the continuous, global movement and distribution of vital freshwater via evaporation and precipitation"
+        },
+        {
+          "id": "C",
+          "text": "It makes all the water highly salty"
+        },
+        {
+          "id": "D",
+          "text": "It artificially creates gravity"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "20",
+      "question": "In what specific way do plants, animals, and microorganisms entirely depend on each other within the biosphere?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They don't interact at all"
+        },
+        {
+          "id": "B",
+          "text": "Plants make food, animals eat the plants/animals, and decomposers recycle their dead matter back into soil nutrients for the plants to reuse"
+        },
+        {
+          "id": "C",
+          "text": "They all eat rocks"
+        },
+        {
+          "id": "D",
+          "text": "They all produce oxygen"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "21",
+      "question": "What would be the most catastrophic result if Earth's orbit was highly elliptical (oval) instead of being nearly circular?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Time would literally stop"
+        },
+        {
+          "id": "B",
+          "text": "Earth would swing too close and too far from the Sun, experiencing extreme, unstable temperature and seasonal fluctuations, making life nearly impossible"
+        },
+        {
+          "id": "C",
+          "text": "Gravity would completely disappear"
+        },
+        {
+          "id": "D",
+          "text": "The magnetic field would permanently reverse"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "22",
+      "question": "How do advanced \"false-color\" satellite images heavily assist scientists in global environmental management?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They make boring pictures look pretty"
+        },
+        {
+          "id": "B",
+          "text": "They deliberately assign bright colors to invisible features (like infrared), making it vastly easier to distinguish vegetation health, hidden water pollution, and land use"
+        },
+        {
+          "id": "C",
+          "text": "They accurately predict earthquakes"
+        },
+        {
+          "id": "D",
+          "text": "They physically change the weather"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "23",
+      "question": "Why is the complex combination of the atmosphere and hydrosphere absolutely critical for Earth's climate regulation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They merge to create volcanoes"
+        },
+        {
+          "id": "B",
+          "text": "The atmosphere traps necessary heat while the massive hydrosphere absorbs excess heat and distributes it globally via currents, preventing extreme temperature swings"
+        },
+        {
+          "id": "C",
+          "text": "They aggressively block the magnetic field"
+        },
+        {
+          "id": "D",
+          "text": "They produce pure carbon dioxide"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "24",
+      "question": "If a massive catastrophe abruptly wiped out a local ecosystem, how does the genetic variation provided by sexual reproduction ensure the species doesn't go entirely extinct?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It allows the organism to suddenly become immortal"
+        },
+        {
+          "id": "B",
+          "text": "Because of genetic mixing, some individuals may randomly possess unique traits that allow them to survive the harsh new conditions, ensuring the species continues"
+        },
+        {
+          "id": "C",
+          "text": "It creates rapid clones that die together"
+        },
+        {
+          "id": "D",
+          "text": "It causes them to migrate to Mars"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "25",
+      "question": "How do unchecked human activities, like massive deforestation and the burning of fossil fuels, directly disrupt the delicate \"Goldilocks conditions\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They massively increase Earth's gravity"
+        },
+        {
+          "id": "B",
+          "text": "They artificially enhance the natural greenhouse effect beyond mild levels, leading to severe global warming and catastrophic climate change"
+        },
+        {
+          "id": "C",
+          "text": "They physically shrink the Earth's crust"
+        },
+        {
+          "id": "D",
+          "text": "They push the Earth closer to the Sun"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "26",
+      "question": "Which of the following statements best explains why Jupiter, despite its massive, impressive size, cannot possibly support life as we know it?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It has absolutely no moons"
+        },
+        {
+          "id": "B",
+          "text": "It is a turbulent gas giant completely lacking a solid crust for organisms to live on, and it is far too freezing cold"
+        },
+        {
+          "id": "C",
+          "text": "It has far too much pure oxygen"
+        },
+        {
+          "id": "D",
+          "text": "Its gravity is far too weak to hold air"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "27",
+      "question": "Why would rich, fertile soil completely cease to exist without the presence of the biosphere (living things)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Soil is just physically crushed rocks"
+        },
+        {
+          "id": "B",
+          "text": "True soil absolutely requires the biological decomposition of plant and animal matter (creating humus) over millions of years to become fertile"
+        },
+        {
+          "id": "C",
+          "text": "The sun would burn the soil away"
+        },
+        {
+          "id": "D",
+          "text": "Water washes it all away"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "28",
+      "question": "What is the fundamental, evolutionary difference between vegetative propagation (asexual) and sexual reproduction in plants?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Vegetative requires pollen; sexual uses roots"
+        },
+        {
+          "id": "B",
+          "text": "Vegetative produces exact genetic clones quickly; sexual involves pollen and ovules to create massive genetic diversity"
+        },
+        {
+          "id": "C",
+          "text": "They are exactly the same"
+        },
+        {
+          "id": "D",
+          "text": "Sexual reproduction only happens in animals"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "29",
+      "question": "How does the Earth's deep geosphere (the mantle and core) actively support the fragile biosphere on the surface?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It doesn't interact at all"
+        },
+        {
+          "id": "B",
+          "text": "The outer core generates the crucial magnetic field that protects the atmosphere, while the churning mantle drives tectonic activity that shapes diverse surface habitats"
+        },
+        {
+          "id": "C",
+          "text": "It releases toxic gases to feed plants"
+        },
+        {
+          "id": "D",
+          "text": "It artificially cools the planet down"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "30",
+      "question": "If Earth were the size of Mars (much smaller), what is the most scientifically likely consequence for its long-term habitability?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It would spin faster and create a stronger magnetic field"
+        },
+        {
+          "id": "B",
+          "text": "Its much weaker gravity would fail to hold a dense atmosphere, allowing essential life-giving gases to escape into the vacuum of space and surface water to boil off"
+        },
+        {
+          "id": "C",
+          "text": "It would instantly become a gas giant"
+        },
+        {
+          "id": "D",
+          "text": "Absolutely nothing would change"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    }
+  ]
+}

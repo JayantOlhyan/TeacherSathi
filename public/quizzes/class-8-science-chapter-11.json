@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "The changing, visible phases of the Moon are scientifically caused by:",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Earth's shadow blocking the sun"
+        },
+        {
+          "id": "B",
+          "text": "The Moon's shifting position relative to the Earth and the Sun"
+        },
+        {
+          "id": "C",
+          "text": "Thick space clouds"
+        },
+        {
+          "id": "D",
+          "text": "Alien spaceships"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "2",
+      "question": "The two-week period when the bright, illuminated part of the Moon is steadily increasing is called:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Waning"
+        },
+        {
+          "id": "B",
+          "text": "Waxing (Shukla Paksha)"
+        },
+        {
+          "id": "C",
+          "text": "Eclipse"
+        },
+        {
+          "id": "D",
+          "text": "Orbit"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "3",
+      "question": "The subsequent period when the bright, illuminated part of the Moon is steadily decreasing is called:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Waning (Krishna Paksha)"
+        },
+        {
+          "id": "B",
+          "text": "Waxing"
+        },
+        {
+          "id": "C",
+          "text": "Growing"
+        },
+        {
+          "id": "D",
+          "text": "Blooming"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "4",
+      "question": "A standard day is astronomically measured based entirely on:",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Earth's revolution around the sun"
+        },
+        {
+          "id": "B",
+          "text": "The Earth's rotation on its own axis"
+        },
+        {
+          "id": "C",
+          "text": "The Moon's orbit around Earth"
+        },
+        {
+          "id": "D",
+          "text": "The Sun's birth"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "5",
+      "question": "A standard year is astronomically measured based entirely on:",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Moon's revolution"
+        },
+        {
+          "id": "B",
+          "text": "The Earth's rotation"
+        },
+        {
+          "id": "C",
+          "text": "The Earth's complete revolution around the Sun"
+        },
+        {
+          "id": "D",
+          "text": "A mechanical clock"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "6",
+      "question": "Is it ever possible for the Moon to be seen in the sky during the daytime?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Never, it only comes out at night"
+        },
+        {
+          "id": "B",
+          "text": "Yes, quite frequently depending on its current phase and position"
+        },
+        {
+          "id": "C",
+          "text": "Only during a total solar eclipse"
+        },
+        {
+          "id": "D",
+          "text": "Only in the deep winter"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "7",
+      "question": "A distinct group of stars forming a recognizable shape or pattern in the night sky is called a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Galaxy"
+        },
+        {
+          "id": "B",
+          "text": "Planet"
+        },
+        {
+          "id": "C",
+          "text": "Constellation"
+        },
+        {
+          "id": "D",
+          "text": "Meteor"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "8",
+      "question": "Man-made technological objects launched into Earth's orbit for communication and weather tracking are called:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Meteors"
+        },
+        {
+          "id": "B",
+          "text": "Comets"
+        },
+        {
+          "id": "C",
+          "text": "Artificial Satellites"
+        },
+        {
+          "id": "D",
+          "text": "Stars"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "9",
+      "question": "An ancient, primitive instrument used to tell the time of day by tracking the Sun's shadow is a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Telescope"
+        },
+        {
+          "id": "B",
+          "text": "Sundial"
+        },
+        {
+          "id": "C",
+          "text": "Barometer"
+        },
+        {
+          "id": "D",
+          "text": "Compass"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "10",
+      "question": "The specific lunar phase when we can see the fully illuminated, round side of the Moon facing Earth is the:",
+      "options": [
+        {
+          "id": "A",
+          "text": "New Moon"
+        },
+        {
+          "id": "B",
+          "text": "Full Moon"
+        },
+        {
+          "id": "C",
+          "text": "Crescent Moon"
+        },
+        {
+          "id": "D",
+          "text": "Half Moon"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "11",
+      "question": "Why do we absolutely not see the Moon in the sky on a \"New Moon\" day?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It physically hides behind the Sun"
+        },
+        {
+          "id": "B",
+          "text": "The completely non-illuminated, dark side of the Moon is facing the Earth"
+        },
+        {
+          "id": "C",
+          "text": "The Earth's shadow completely blocks it"
+        },
+        {
+          "id": "D",
+          "text": "It shrinks down to nothing"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "12",
+      "question": "Why doesn't a child born on a full Moon day celebrate their birthday on a full Moon day every single year?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because the calendar year (365 days) is out of sync with the shorter lunar cycle (29.5 days)"
+        },
+        {
+          "id": "B",
+          "text": "Because they were born at night"
+        },
+        {
+          "id": "C",
+          "text": "Because the Moon randomly stops moving"
+        },
+        {
+          "id": "D",
+          "text": "Because leap years cancel the Moon out"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "13",
+      "question": "If you were an astronaut living on the Moon, exactly how long would one lunar \"day\" (from one sunrise to the next sunrise) last in Earth days?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Exactly 1 Earth day"
+        },
+        {
+          "id": "B",
+          "text": "365 Earth days"
+        },
+        {
+          "id": "C",
+          "text": "Approximately 29.5 Earth days"
+        },
+        {
+          "id": "D",
+          "text": "7 Earth days"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "14",
+      "question": "Why is the dividing line between the bright and dark portions of the Moon always visibly curved?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because the Sun itself is round"
+        },
+        {
+          "id": "B",
+          "text": "Because the Moon is a 3D spherical globe, casting a curved terminator line"
+        },
+        {
+          "id": "C",
+          "text": "Because the Earth's shadow is curved"
+        },
+        {
+          "id": "D",
+          "text": "Because of heavy gravity"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "15",
+      "question": "What would be the most likely catastrophic consequence if the Earth suddenly captured a second moon?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The night sky would be brighter, ocean tides would alter wildly, and eclipses would be highly frequent"
+        },
+        {
+          "id": "B",
+          "text": "We would suddenly have two Suns"
+        },
+        {
+          "id": "C",
+          "text": "There would be no night time ever again"
+        },
+        {
+          "id": "D",
+          "text": "Earth's gravity would disappear entirely"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "16",
+      "question": "The Indian Space Research Organisation (ISRO) frequently launches advanced satellites like Cartosat. What are they primarily used for?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Traveling deep into space to Mars"
+        },
+        {
+          "id": "B",
+          "text": "High-quality Earth imaging for accurate mapping and crucial disaster management"
+        },
+        {
+          "id": "C",
+          "text": "Bringing aliens safely to Earth"
+        },
+        {
+          "id": "D",
+          "text": "Cleaning the ocean surface"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "17",
+      "question": "An exact lunar month (from one New Moon to the next) is approximately how many days long?",
+      "options": [
+        {
+          "id": "A",
+          "text": "30.5 days"
+        },
+        {
+          "id": "B",
+          "text": "29.5 days"
+        },
+        {
+          "id": "C",
+          "text": "365 days"
+        },
+        {
+          "id": "D",
+          "text": "24 hours"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "18",
+      "question": "Why does the Islamic festival of Eid drastically change its date every single year on the standard Gregorian calendar?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because it is a purely solar festival"
+        },
+        {
+          "id": "B",
+          "text": "Because it strictly follows a lunar calendar, making the year about 10-12 days shorter than the standard solar year"
+        },
+        {
+          "id": "C",
+          "text": "Because of leap years messing up the dates"
+        },
+        {
+          "id": "D",
+          "text": "Because the Moon moves slower in summer"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "19",
+      "question": "What is the growing threat known as \"space debris\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Asteroid rocks from Mars entering orbit"
+        },
+        {
+          "id": "B",
+          "text": "Dangerous, non-functional dead satellites or rocket parts left floating in orbit that can destroy working equipment"
+        },
+        {
+          "id": "C",
+          "text": "Alien spaceships"
+        },
+        {
+          "id": "D",
+          "text": "Thick clouds in the high stratosphere"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "20",
+      "question": "Why does the Moon's specific rise and set time change noticeably every single day?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Sun moves erratically"
+        },
+        {
+          "id": "B",
+          "text": "The Moon's position shifts slightly eastward each day as it physically revolves around the Earth"
+        },
+        {
+          "id": "C",
+          "text": "The Earth frequently rotates backwards"
+        },
+        {
+          "id": "D",
+          "text": "Modern clocks are highly inaccurate"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "21",
+      "question": "What is the critical astronomical difference between a sidereal year and a tropical year, and what is the resulting consequence for solar festivals like Makar Sankranti over centuries?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They are identical; festivals never change"
+        },
+        {
+          "id": "B",
+          "text": "A sidereal year is slightly longer, causing the date of solar festivals to slowly drift forward by one day roughly every 71 years"
+        },
+        {
+          "id": "C",
+          "text": "A tropical year is much shorter, causing festivals to happen twice a year"
+        },
+        {
+          "id": "D",
+          "text": "A sidereal year relies heavily on the Moon"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "22",
+      "question": "Why do we not witness a spectacular lunar eclipse every single full Moon?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Moon is generally far too bright to be eclipsed"
+        },
+        {
+          "id": "B",
+          "text": "The Moon's orbit is tilted about 5 degrees relative to Earth's orbit, meaning the Sun, Earth, and Moon rarely align perfectly on the same plane"
+        },
+        {
+          "id": "C",
+          "text": "Earth's shadow is far too small"
+        },
+        {
+          "id": "D",
+          "text": "The Sun is too far away to cast a shadow"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "23",
+      "question": "How do complex luni-solar calendars (like many Hindu calendars) cleverly reconcile the shorter lunar month with the longer solar year?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They ignore the Moon entirely"
+        },
+        {
+          "id": "B",
+          "text": "They add an extra (intercalary) month every 2-3 years to ensure lunar months stay in sync with the solar agricultural seasons"
+        },
+        {
+          "id": "C",
+          "text": "They make every single day longer"
+        },
+        {
+          "id": "D",
+          "text": "They randomly subtract days from December"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "24",
+      "question": "If you look up and spot a waxing crescent Moon, where and when is it most likely to appear?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Very high in the sky at midnight"
+        },
+        {
+          "id": "B",
+          "text": "In the eastern sky just before sunrise"
+        },
+        {
+          "id": "C",
+          "text": "In the western sky shortly after sunset"
+        },
+        {
+          "id": "D",
+          "text": "It cannot be seen from Earth"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "25",
+      "question": "How does a leap year function astronomically to keep our calendars accurate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It adds 1 extra day every 4 years to meticulously account for the roughly 365.25 days it takes Earth to orbit the Sun, preventing long-term calendar drift"
+        },
+        {
+          "id": "B",
+          "text": "It completely skips a month"
+        },
+        {
+          "id": "C",
+          "text": "It strictly tracks the Moon's orbital decay"
+        },
+        {
+          "id": "D",
+          "text": "It aligns our calendar with Mars"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "26",
+      "question": "If the exact mathematical average of 24:00 and 23:59 is calculated, what is the precise resulting time in hours, minutes, and seconds?",
+      "options": [
+        {
+          "id": "A",
+          "text": "23:59:30"
+        },
+        {
+          "id": "B",
+          "text": "23:30:00"
+        },
+        {
+          "id": "C",
+          "text": "12:00:00"
+        },
+        {
+          "id": "D",
+          "text": "00:00:00"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "27",
+      "question": "Why is the incredibly common public belief that \"Earth's shadow causes the Moon's phases\" completely scientifically incorrect?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because the Earth casts absolutely no shadow in space"
+        },
+        {
+          "id": "B",
+          "text": "Earth's shadow only causes rare lunar eclipses; regular phases are simply caused by our changing viewing angle of the Moon's sunlit half as it revolves around us"
+        },
+        {
+          "id": "C",
+          "text": "Because the Moon heavily emits its own internal light"
+        },
+        {
+          "id": "D",
+          "text": "Because the Sun completely blocks the shadow"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "28",
+      "question": "When the bright part of the Moon decreases to a perfect half-circle shape during its waning phase, where is it typically located in the sky exactly at sunrise?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Setting low in the West"
+        },
+        {
+          "id": "B",
+          "text": "Directly overhead at the zenith"
+        },
+        {
+          "id": "C",
+          "text": "Rising low in the East"
+        },
+        {
+          "id": "D",
+          "text": "Deep below the horizon"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "29",
+      "question": "In the simple classroom ball-and-lamp experiment representing the lunar cycle, holding the ball directly between your face and the lamp perfectly represents which specific lunar phase?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Full Moon"
+        },
+        {
+          "id": "B",
+          "text": "First Quarter"
+        },
+        {
+          "id": "C",
+          "text": "New Moon"
+        },
+        {
+          "id": "D",
+          "text": "Waning Gibbous"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "30",
+      "question": "Long before mechanical clocks, how did natural biological cues assist ancient humans in long-term timekeeping?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They provided absolutely no help"
+        },
+        {
+          "id": "B",
+          "text": "The seasonal blooming of specific plants, animal migration behaviors, and the shifting positions of constellations reliably marked long intervals and changing seasons"
+        },
+        {
+          "id": "C",
+          "text": "Animals naturally carried internal clocks"
+        },
+        {
+          "id": "D",
+          "text": "Trees aggressively grew new rings every single day"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    }
+  ]
+}

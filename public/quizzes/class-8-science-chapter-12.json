@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "A specific natural place where an organism lives and gets absolutely everything it needs to survive is called a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "City"
+        },
+        {
+          "id": "B",
+          "text": "Habitat"
+        },
+        {
+          "id": "C",
+          "text": "Factory"
+        },
+        {
+          "id": "D",
+          "text": "Empty Space"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "2",
+      "question": "All the living things in a forest, like trees, birds, animals, and microbes, are collectively known as ________ components.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Abiotic"
+        },
+        {
+          "id": "B",
+          "text": "Biotic"
+        },
+        {
+          "id": "C",
+          "text": "Synthetic"
+        },
+        {
+          "id": "D",
+          "text": "Dead"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "3",
+      "question": "All the non-living environmental factors, like sunlight, water, soil, and air, are known as ________ components.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Biotic"
+        },
+        {
+          "id": "B",
+          "text": "Abiotic"
+        },
+        {
+          "id": "C",
+          "text": "Plastic"
+        },
+        {
+          "id": "D",
+          "text": "Natural"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "4",
+      "question": "Organisms that can synthesize their own food using sunlight (like green plants) are scientifically called:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Consumers"
+        },
+        {
+          "id": "B",
+          "text": "Decomposers"
+        },
+        {
+          "id": "C",
+          "text": "Producers"
+        },
+        {
+          "id": "D",
+          "text": "Predators"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "5",
+      "question": "Animals that cannot make their own food and must eat other organisms to survive are called:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Producers"
+        },
+        {
+          "id": "B",
+          "text": "Consumers"
+        },
+        {
+          "id": "C",
+          "text": "Autotrophs"
+        },
+        {
+          "id": "D",
+          "text": "Trees"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "6",
+      "question": "A specific group of the exact same type of organisms (e.g., all the frogs) living together in a pond is a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Community"
+        },
+        {
+          "id": "B",
+          "text": "Population"
+        },
+        {
+          "id": "C",
+          "text": "Ecosystem"
+        },
+        {
+          "id": "D",
+          "text": "Family"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "7",
+      "question": "A simple, straight-line sequence showing 'who eats whom' in nature is a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Food web"
+        },
+        {
+          "id": "B",
+          "text": "Food chain"
+        },
+        {
+          "id": "C",
+          "text": "Diet chart"
+        },
+        {
+          "id": "D",
+          "text": "Menu"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "8",
+      "question": "The crucial biological process by which insects move pollen from one flower to another is called:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Photosynthesis"
+        },
+        {
+          "id": "B",
+          "text": "Digestion"
+        },
+        {
+          "id": "C",
+          "text": "Pollination"
+        },
+        {
+          "id": "D",
+          "text": "Respiration"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "9",
+      "question": "Fungi and soil bacteria that break down dead matter and return nutrients to the earth are known as:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Herbivores"
+        },
+        {
+          "id": "B",
+          "text": "Carnivores"
+        },
+        {
+          "id": "C",
+          "text": "Decomposers"
+        },
+        {
+          "id": "D",
+          "text": "Producers"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "10",
+      "question": "The destructive human process of cutting down vast areas of forests for other land uses is called:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Reforestation"
+        },
+        {
+          "id": "B",
+          "text": "Deforestation"
+        },
+        {
+          "id": "C",
+          "text": "Agriculture"
+        },
+        {
+          "id": "D",
+          "text": "Urban Gardening"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "11",
+      "question": "A complex network consisting of many interconnected food chains within an ecosystem is a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Spider web"
+        },
+        {
+          "id": "B",
+          "text": "Food web"
+        },
+        {
+          "id": "C",
+          "text": "Ecosystem map"
+        },
+        {
+          "id": "D",
+          "text": "Energy pyramid"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "12",
+      "question": "When different populations (like fish, frogs, and aquatic plants) all share the same pond habitat, they form a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Population"
+        },
+        {
+          "id": "B",
+          "text": "Community"
+        },
+        {
+          "id": "C",
+          "text": "Kingdom"
+        },
+        {
+          "id": "D",
+          "text": "Biosphere"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "13",
+      "question": "A symbiotic interaction where both organisms greatly benefit (like bees gathering nectar while pollinating flowers) is called:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Competition"
+        },
+        {
+          "id": "B",
+          "text": "Mutualism"
+        },
+        {
+          "id": "C",
+          "text": "Commensalism"
+        },
+        {
+          "id": "D",
+          "text": "Predation"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "14",
+      "question": "How do a diurnal (day-active) rodent and a nocturnal (night-active) snake share the exact same forest habitat peacefully?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They fight constantly"
+        },
+        {
+          "id": "B",
+          "text": "They successfully avoid direct conflict by utilizing the same space and resources at completely different times of the day"
+        },
+        {
+          "id": "C",
+          "text": "They eat each other"
+        },
+        {
+          "id": "D",
+          "text": "They move to different forests"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "15",
+      "question": "Ecologically, why might wild elephants suddenly begin entering human farms and destroying villages?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They naturally prefer humans"
+        },
+        {
+          "id": "B",
+          "text": "Severe loss of forest cover (deforestation) and drying waterholes force them out of their habitat to seek desperately needed food and water"
+        },
+        {
+          "id": "C",
+          "text": "They want to eat crops exclusively"
+        },
+        {
+          "id": "D",
+          "text": "They are playing"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "16",
+      "question": "What is a \"wildlife corridor\" and why is it built?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A paved road for cars in the jungle"
+        },
+        {
+          "id": "B",
+          "text": "A marked, protected path of land that allows the safe movement of animals between fragmented, separated forest habitats"
+        },
+        {
+          "id": "C",
+          "text": "A large zoo cage"
+        },
+        {
+          "id": "D",
+          "text": "A human hiking trail"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "17",
+      "question": "In a pond ecosystem, if fish eat dragonfly larvae, what happens to the local bee population if all the fish are removed?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bees start living in the water"
+        },
+        {
+          "id": "B",
+          "text": "Without fish, dragonflies multiply rapidly and eat all the bees, causing the bee population to drop and hurting pollination"
+        },
+        {
+          "id": "C",
+          "text": "The fish attract more bees"
+        },
+        {
+          "id": "D",
+          "text": "The fish start making honey"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "18",
+      "question": "When ecologists say the balance of an ecosystem is \"dynamic,\" it means:",
+      "options": [
+        {
+          "id": "A",
+          "text": "It absolutely never changes"
+        },
+        {
+          "id": "B",
+          "text": "It constantly shifts and adjusts to small changes, but manages to stay fairly stable and functional over long periods"
+        },
+        {
+          "id": "C",
+          "text": "It is always violently collapsing"
+        },
+        {
+          "id": "D",
+          "text": "It relies entirely on human machines"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "19",
+      "question": "A symbiotic interaction where one organism benefits and the other is completely unaffected (like an orchid safely growing on a tall tree branch) is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mutualism"
+        },
+        {
+          "id": "B",
+          "text": "Commensalism"
+        },
+        {
+          "id": "C",
+          "text": "Predation"
+        },
+        {
+          "id": "D",
+          "text": "Competition"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "20",
+      "question": "Why do biotic plants desperately need abiotic factors like sunlight and atmospheric carbon dioxide?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To sleep at night"
+        },
+        {
+          "id": "B",
+          "text": "To perform photosynthesis, allowing them to produce the food that sustains the entire ecosystem"
+        },
+        {
+          "id": "C",
+          "text": "To attract bees"
+        },
+        {
+          "id": "D",
+          "text": "To make the soil wet"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "21",
+      "question": "What does the 10% Law of energy transfer (proposed by Raymond Lindeman) state regarding food chains?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Animals only ever eat 10% of their food"
+        },
+        {
+          "id": "B",
+          "text": "Only about 10% of the energy is successfully transferred from one trophic level to the next, while 90% is lost primarily as metabolic heat"
+        },
+        {
+          "id": "C",
+          "text": "10% of all animals die daily"
+        },
+        {
+          "id": "D",
+          "text": "Only 10% of plants are producers"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "22",
+      "question": "Which of the following scenarios best explains why an ecological \"pyramid of numbers\" can sometimes appear inverted (upside down)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gravity pulls the pyramid upside down"
+        },
+        {
+          "id": "B",
+          "text": "One single, massive producer (like a giant oak tree) can provide enough food to support thousands of tiny primary consumers (like insects)"
+        },
+        {
+          "id": "C",
+          "text": "There are always more apex eagles than blades of grass"
+        },
+        {
+          "id": "D",
+          "text": "It is scientifically impossible to invert"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "23",
+      "question": "How did the excessive use of harsh chemical fertilizers during the Green Revolution heavily disrupt the natural nitrogen cycle?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It made the crop plants grow far too slowly"
+        },
+        {
+          "id": "B",
+          "text": "It damaged soil health and reduced the populations of natural nitrogen-fixing bacteria, throwing the delicate nutrient cycle entirely out of balance"
+        },
+        {
+          "id": "C",
+          "text": "It created toxic levels of oxygen"
+        },
+        {
+          "id": "D",
+          "text": "It completely stopped photosynthesis"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "24",
+      "question": "In the complex nitrogen cycle, which specific biological process converts soil nitrates back into inert atmospheric nitrogen gas?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nitrogen fixation"
+        },
+        {
+          "id": "B",
+          "text": "Nitrification"
+        },
+        {
+          "id": "C",
+          "text": "Denitrification"
+        },
+        {
+          "id": "D",
+          "text": "Ammonification"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "25",
+      "question": "How do microscopic decomposers act as the crucial, final bridge between the biotic and abiotic worlds?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They literally eat rocks"
+        },
+        {
+          "id": "B",
+          "text": "They break down dead biotic organic matter into simple abiotic nutrients and minerals, returning them to the soil for plants to reuse"
+        },
+        {
+          "id": "C",
+          "text": "They turn sunlight into food"
+        },
+        {
+          "id": "D",
+          "text": "They evaporate to form clouds"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "26",
+      "question": "If a seemingly small abiotic change (like significantly reduced rainfall) occurs, how does it cause a massive ripple effect in the entire ecosystem?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It doesn't affect anything"
+        },
+        {
+          "id": "B",
+          "text": "Less rain leads to fewer plants, causing herbivores to starve, which starves carnivores, forcing desperate wild animals to enter human farms"
+        },
+        {
+          "id": "C",
+          "text": "Less rain magically creates more animals"
+        },
+        {
+          "id": "D",
+          "text": "Less rain causes more plants to grow"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "27",
+      "question": "Why are highly specialized ecosystems in regions like the Sundarbans (mangrove forests) considered globally significant?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They are completely empty, safe deserts"
+        },
+        {
+          "id": "B",
+          "text": "They balance the carbon-nitrogen ratio, fiercely protect coastal areas from erosion and storm surges, and host incredibly unique, endangered biodiversity"
+        },
+        {
+          "id": "C",
+          "text": "They naturally produce plastic"
+        },
+        {
+          "id": "D",
+          "text": "They possess absolutely no biotic components"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "28",
+      "question": "What inevitably happens when multiple organisms of the exact same kind have exactly the same needs in an isolated ecosystem?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Extreme Mutualism"
+        },
+        {
+          "id": "B",
+          "text": "Peaceful Commensalism"
+        },
+        {
+          "id": "C",
+          "text": "Fierce Competition, which naturally controls population size but can lead to severe scarcity and death if resources are highly limited"
+        },
+        {
+          "id": "D",
+          "text": "They merge into a single super-organism"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "29",
+      "question": "A student observes that a local pond contains fish, water, rocks, algae, and sunlight. This complete, interacting system of life and environment is an example of a(n):",
+      "options": [
+        {
+          "id": "A",
+          "text": "Isolated Population"
+        },
+        {
+          "id": "B",
+          "text": "Functioning Ecosystem"
+        },
+        {
+          "id": "C",
+          "text": "Individual Organism"
+        },
+        {
+          "id": "D",
+          "text": "Global Biosphere"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "30",
+      "question": "How does rich biodiversity fundamentally contribute to long-term ecological harmony?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It makes the forest very noisy and chaotic"
+        },
+        {
+          "id": "B",
+          "text": "A highly diverse range of species significantly enhances ecosystem resilience, ensuring it can withstand severe environmental changes and recover from disasters"
+        },
+        {
+          "id": "C",
+          "text": "It causes animals to fight constantly"
+        },
+        {
+          "id": "D",
+          "text": "It actively destroys the food web"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    }
+  ]
+}

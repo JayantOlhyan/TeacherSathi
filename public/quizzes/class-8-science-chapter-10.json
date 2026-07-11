@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "The physical bouncing back of light rays from a smooth, highly polished surface is called:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Refraction"
+        },
+        {
+          "id": "B",
+          "text": "Reflection"
+        },
+        {
+          "id": "C",
+          "text": "Dispersion"
+        },
+        {
+          "id": "D",
+          "text": "Absorption"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "2",
+      "question": "Which specific type of spherical mirror curves inwards, closely resembling the inside bowl of a spoon?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Plane mirror"
+        },
+        {
+          "id": "B",
+          "text": "Convex mirror"
+        },
+        {
+          "id": "C",
+          "text": "Concave mirror"
+        },
+        {
+          "id": "D",
+          "text": "Magic mirror"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "3",
+      "question": "Which type of spherical mirror curves outwards, resembling the bulging back of a spoon?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Plane mirror"
+        },
+        {
+          "id": "B",
+          "text": "Convex mirror"
+        },
+        {
+          "id": "C",
+          "text": "Concave mirror"
+        },
+        {
+          "id": "D",
+          "text": "Flat mirror"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "4",
+      "question": "According to the laws of physics, the angle of incidence is always ________ the angle of reflection.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Greater than"
+        },
+        {
+          "id": "B",
+          "text": "Less than"
+        },
+        {
+          "id": "C",
+          "text": "Exactly equal to"
+        },
+        {
+          "id": "D",
+          "text": "Double"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "5",
+      "question": "When you raise your left hand, your image in a standard plane mirror appears to raise its right hand. This optical effect is called:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Vertical inversion"
+        },
+        {
+          "id": "B",
+          "text": "Lateral inversion"
+        },
+        {
+          "id": "C",
+          "text": "Refraction"
+        },
+        {
+          "id": "D",
+          "text": "Optical illusion"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "6",
+      "question": "A transparent piece of glass or plastic that is distinctly thicker in the middle than at its edges is a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Concave lens"
+        },
+        {
+          "id": "B",
+          "text": "Convex lens"
+        },
+        {
+          "id": "C",
+          "text": "Plane mirror"
+        },
+        {
+          "id": "D",
+          "text": "Glass prism"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "7",
+      "question": "A transparent piece of glass that is much thinner in the middle and thicker at its outer edges is a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Concave lens"
+        },
+        {
+          "id": "B",
+          "text": "Convex lens"
+        },
+        {
+          "id": "C",
+          "text": "Convex mirror"
+        },
+        {
+          "id": "D",
+          "text": "Glass slab"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "8",
+      "question": "A convex lens is frequently referred to as a ________ lens because it actively brings parallel light rays together to a single point.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Diverging"
+        },
+        {
+          "id": "B",
+          "text": "Converging"
+        },
+        {
+          "id": "C",
+          "text": "Reflecting"
+        },
+        {
+          "id": "D",
+          "text": "Flat"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "9",
+      "question": "What specific kind of mirror do dentists utilize to see a highly enlarged, detailed image of your teeth?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Plane mirror"
+        },
+        {
+          "id": "B",
+          "text": "Convex mirror"
+        },
+        {
+          "id": "C",
+          "text": "Concave mirror"
+        },
+        {
+          "id": "D",
+          "text": "Rearview mirror"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "10",
+      "question": "The initial ray of light that directly strikes a mirror's surface is scientifically called the:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Reflected ray"
+        },
+        {
+          "id": "B",
+          "text": "Incident ray"
+        },
+        {
+          "id": "C",
+          "text": "Normal ray"
+        },
+        {
+          "id": "D",
+          "text": "Escaping ray"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "11",
+      "question": "Why is a convex mirror universally used as a rearview side-mirror in modern cars?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It makes trailing vehicles look terrifyingly large"
+        },
+        {
+          "id": "B",
+          "text": "It always forms an erect, diminished image, which provides the driver with a much wider field of view"
+        },
+        {
+          "id": "C",
+          "text": "It focuses all light to a burning point"
+        },
+        {
+          "id": "D",
+          "text": "It completely inverts the image"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "12",
+      "question": "If a light ray hits a mirror straight on (traveling exactly along the normal at 90° to the surface, making the angle of incidence = 0°), what is the angle of reflection?",
+      "options": [
+        {
+          "id": "A",
+          "text": "90°"
+        },
+        {
+          "id": "B",
+          "text": "45°"
+        },
+        {
+          "id": "C",
+          "text": "0° (it perfectly retraces its original path)"
+        },
+        {
+          "id": "D",
+          "text": "180°"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "13",
+      "question": "If the angle of incidence of a light ray is exactly 40°, the corresponding angle made by the reflected ray with the normal is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "20°"
+        },
+        {
+          "id": "B",
+          "text": "40°"
+        },
+        {
+          "id": "C",
+          "text": "50°"
+        },
+        {
+          "id": "D",
+          "text": "80°"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "14",
+      "question": "Which specific type of lens can effectively act as a magnifying glass when a small object is placed very close to it?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Concave lens"
+        },
+        {
+          "id": "B",
+          "text": "Convex lens"
+        },
+        {
+          "id": "C",
+          "text": "Plane window glass"
+        },
+        {
+          "id": "D",
+          "text": "Dark sunglasses"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "15",
+      "question": "What distinct type of image does a concave lens always, without exception, form?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Enlarged and upside-down"
+        },
+        {
+          "id": "B",
+          "text": "Diminished, virtual, and upright (erect)"
+        },
+        {
+          "id": "C",
+          "text": "Real and massively enlarged"
+        },
+        {
+          "id": "D",
+          "text": "Real and inverted"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "16",
+      "question": "How does a concave mirror function so effectively inside a car headlight or a flashlight?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It absorbs all the weak light"
+        },
+        {
+          "id": "B",
+          "text": "It scatters the light in every direction"
+        },
+        {
+          "id": "C",
+          "text": "It catches the bulb's light and converges the rays into a strong, powerful parallel beam"
+        },
+        {
+          "id": "D",
+          "text": "It turns the light into pure heat"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "17",
+      "question": "The imaginary, perfectly perpendicular line drawn at 90 degrees to the mirror's surface at the exact point of incidence is the:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Equator"
+        },
+        {
+          "id": "B",
+          "text": "Incident line"
+        },
+        {
+          "id": "C",
+          "text": "Normal"
+        },
+        {
+          "id": "D",
+          "text": "Tangent"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "18",
+      "question": "What crucial safety warning is universally printed on vehicle convex side-view mirrors?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Objects are larger than they appear"
+        },
+        {
+          "id": "B",
+          "text": "Objects in mirror are closer than they actually appear"
+        },
+        {
+          "id": "C",
+          "text": "Do not look directly into the glass"
+        },
+        {
+          "id": "D",
+          "text": "Mirror is highly fragile"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "19",
+      "question": "A perfectly round, clear drop of water sitting on a leaf acts optically like a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Concave lens"
+        },
+        {
+          "id": "B",
+          "text": "Convex lens"
+        },
+        {
+          "id": "C",
+          "text": "Plane mirror"
+        },
+        {
+          "id": "D",
+          "text": "Convex mirror"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "20",
+      "question": "The second fundamental law of reflection states that the incident ray, the reflected ray, and the normal all must lie in the exact same:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Circle"
+        },
+        {
+          "id": "B",
+          "text": "Geometric plane"
+        },
+        {
+          "id": "C",
+          "text": "Mirror surface"
+        },
+        {
+          "id": "D",
+          "text": "Angle"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "21",
+      "question": "A woman walks directly towards a massive convex mirror in a science museum. As she approaches, she will see her image as:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Erect and becoming steadily larger (but always remaining smaller than her actual size) as she gets closer"
+        },
+        {
+          "id": "B",
+          "text": "Inverted and terrifyingly larger"
+        },
+        {
+          "id": "C",
+          "text": "Erect and exactly her same size"
+        },
+        {
+          "id": "D",
+          "text": "Completely upside down"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "22",
+      "question": "How do transparent lenses fundamentally differ from shiny mirrors regarding the physics of image formation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lenses only reflect light; mirrors refract it"
+        },
+        {
+          "id": "B",
+          "text": "Mirrors form images via reflection (bouncing light off a surface); lenses form images via refraction (bending light as it travels through a different medium)"
+        },
+        {
+          "id": "C",
+          "text": "There is absolutely no physical difference"
+        },
+        {
+          "id": "D",
+          "text": "Lenses are constructed purely of metal"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "23",
+      "question": "Why can a convex lens easily burn a piece of dry paper in bright sunlight, but a concave lens cannot?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Convex lenses are naturally hot to the touch"
+        },
+        {
+          "id": "B",
+          "text": "Convex lenses successfully converge parallel sun rays to a highly concentrated focal point of heat; concave lenses harmlessly diverge them"
+        },
+        {
+          "id": "C",
+          "text": "Concave lenses are made of cold ice"
+        },
+        {
+          "id": "D",
+          "text": "The sun's rays avoid concave lenses"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "24",
+      "question": "A student desperately wants to project an inverted image of a burning candle onto a wall. Which optical device should they use, and where should the candle be placed?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Convex mirror, placed very close up"
+        },
+        {
+          "id": "B",
+          "text": "Concave mirror, placed at a fair distance away"
+        },
+        {
+          "id": "C",
+          "text": "Plane mirror, placed very far away"
+        },
+        {
+          "id": "D",
+          "text": "Concave lens, placed very close up"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "25",
+      "question": "The common human eye defect known as Myopia (short-sightedness) is medically corrected using which specific type of optical lens?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Convex lens"
+        },
+        {
+          "id": "B",
+          "text": "Concave lens"
+        },
+        {
+          "id": "C",
+          "text": "Plane glass"
+        },
+        {
+          "id": "D",
+          "text": "Magnifying glass"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "26",
+      "question": "If an optical image can be successfully captured and projected onto a physical screen, physicists classify it as a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Virtual image"
+        },
+        {
+          "id": "B",
+          "text": "Real image"
+        },
+        {
+          "id": "C",
+          "text": "Fake optical illusion"
+        },
+        {
+          "id": "D",
+          "text": "Mirrored image"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "27",
+      "question": "Do the strict laws of reflection actually apply to highly curved, spherical mirrors?",
+      "options": [
+        {
+          "id": "A",
+          "text": "No, they strictly apply only to perfectly flat plane mirrors"
+        },
+        {
+          "id": "B",
+          "text": "Yes, they apply perfectly to all reflecting surfaces, including both concave and convex spherical mirrors"
+        },
+        {
+          "id": "C",
+          "text": "Yes, but only to convex mirrors"
+        },
+        {
+          "id": "D",
+          "text": "No, spherical mirrors refract light instead"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "28",
+      "question": "Why does the human brain constantly misinterpret trailing vehicles in a convex side-mirror as being further away than they truly are?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The mirror glass is usually blurry"
+        },
+        {
+          "id": "B",
+          "text": "The mirror forms a heavily diminished (smaller) image, which creates an evolutionary optical illusion tricking the brain into perceiving greater distance"
+        },
+        {
+          "id": "C",
+          "text": "The mirror physically slows down the light"
+        },
+        {
+          "id": "D",
+          "text": "The mirror is curved deeply inward"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "29",
+      "question": "Which of the following exact laboratory setups will successfully produce a real, highly magnified image?",
+      "options": [
+        {
+          "id": "A",
+          "text": "An object placed very close to a concave mirror"
+        },
+        {
+          "id": "B",
+          "text": "An object placed very far away from a convex lens"
+        },
+        {
+          "id": "C",
+          "text": "An object placed precisely between the focal length and twice the focal length of a convex lens"
+        },
+        {
+          "id": "D",
+          "text": "An object placed in front of a convex mirror"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "30",
+      "question": "When your biological eye looks from a nearby book to a very distant mountain, how does the soft biological eye lens physically adjust (a process called accommodation)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It becomes much more sharply curved"
+        },
+        {
+          "id": "B",
+          "text": "It relaxes and flattens out to focus on the distance"
+        },
+        {
+          "id": "C",
+          "text": "It turns inside out into a concave lens"
+        },
+        {
+          "id": "D",
+          "text": "It temporarily disappears"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    }
+  ]
+}
