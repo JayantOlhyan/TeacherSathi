@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "By scientific definition, absolutely anything that has mass and occupies physical space is called:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Energy"
+        },
+        {
+          "id": "B",
+          "text": "Light"
+        },
+        {
+          "id": "C",
+          "text": "Matter"
+        },
+        {
+          "id": "D",
+          "text": "Sound"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "2",
+      "question": "All matter in the universe is constructed from extremely small, distinct units called:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Drops"
+        },
+        {
+          "id": "B",
+          "text": "Particles (atoms/molecules)"
+        },
+        {
+          "id": "C",
+          "text": "Grains"
+        },
+        {
+          "id": "D",
+          "text": "Blocks"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "3",
+      "question": "Which of the following phenomena is NOT classified as matter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Air"
+        },
+        {
+          "id": "B",
+          "text": "Water"
+        },
+        {
+          "id": "C",
+          "text": "Heat"
+        },
+        {
+          "id": "D",
+          "text": "Wood"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "4",
+      "question": "The three most common, fundamental states of matter found on Earth are:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hot, cold, warm"
+        },
+        {
+          "id": "B",
+          "text": "Solid, liquid, gas"
+        },
+        {
+          "id": "C",
+          "text": "Hard, soft, liquid"
+        },
+        {
+          "id": "D",
+          "text": "Ice, water, steam"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "5",
+      "question": "In which specific state of matter are the constituent particles packed most tightly together?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gas"
+        },
+        {
+          "id": "B",
+          "text": "Liquid"
+        },
+        {
+          "id": "C",
+          "text": "Solid"
+        },
+        {
+          "id": "D",
+          "text": "Plasma"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "6",
+      "question": "The microscopic, invisible gaps existing between the particles of matter are called:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Empty holes"
+        },
+        {
+          "id": "B",
+          "text": "Interparticle spaces"
+        },
+        {
+          "id": "C",
+          "text": "Vacuum gaps"
+        },
+        {
+          "id": "D",
+          "text": "Pores"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "7",
+      "question": "Which state of matter possesses no fixed shape but retains a strictly fixed volume?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Solid"
+        },
+        {
+          "id": "B",
+          "text": "Liquid"
+        },
+        {
+          "id": "C",
+          "text": "Gas"
+        },
+        {
+          "id": "D",
+          "text": "Crystal"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "8",
+      "question": "The thermodynamic process of a solid completely changing into a liquid upon heating is called:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Boiling"
+        },
+        {
+          "id": "B",
+          "text": "Freezing"
+        },
+        {
+          "id": "C",
+          "text": "Melting"
+        },
+        {
+          "id": "D",
+          "text": "Evaporation"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "9",
+      "question": "At a particulate level, what happens to the particles within a solid when it is heated?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They stop moving entirely"
+        },
+        {
+          "id": "B",
+          "text": "They gain kinetic energy and vibrate more vigorously in place"
+        },
+        {
+          "id": "C",
+          "text": "They instantly turn into ice"
+        },
+        {
+          "id": "D",
+          "text": "They physically shrink in size"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "10",
+      "question": "Who was the ancient Indian philosopher who famously proposed the early concept of Parmanu (the indivisible atom)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aryabhata"
+        },
+        {
+          "id": "B",
+          "text": "Acharya Kanad"
+        },
+        {
+          "id": "C",
+          "text": "Chanakya"
+        },
+        {
+          "id": "D",
+          "text": "Sushruta"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "11",
+      "question": "When you stir sugar into a glass of water, why does the solid sugar seem to completely disappear?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It rapidly evaporates into the air"
+        },
+        {
+          "id": "B",
+          "text": "The sugar particles break apart and occupy the microscopic interparticle spaces between the water molecules"
+        },
+        {
+          "id": "C",
+          "text": "It turns entirely into a gas"
+        },
+        {
+          "id": "D",
+          "text": "The water chemically destroys the sugar"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "12",
+      "question": "Why do different gases mix so easily and rapidly with one another (a process called diffusion)?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because they are always hot"
+        },
+        {
+          "id": "B",
+          "text": "Because their particles have massive spaces between them and move rapidly and randomly in all directions"
+        },
+        {
+          "id": "C",
+          "text": "Because they are very light"
+        },
+        {
+          "id": "D",
+          "text": "Because they have strong magnetic attraction"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "13",
+      "question": "Why is it easy to heavily compress the air inside a sealed plastic syringe, but nearly impossible to compress water in the same syringe?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Water is simply too heavy to push"
+        },
+        {
+          "id": "B",
+          "text": "Gas particles have immense empty spaces between them, allowing compression, while liquid particles are already closely packed"
+        },
+        {
+          "id": "C",
+          "text": "Syringes are not designed to hold water"
+        },
+        {
+          "id": "D",
+          "text": "Air has absolutely no mass"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "14",
+      "question": "Even though a large pile of dry rice grains can \"flow\" and take the shape of a glass jar, why are they still classified as solids?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because they are edible food"
+        },
+        {
+          "id": "B",
+          "text": "Because each individual microscopic and macroscopic grain maintains a rigidly fixed shape and volume"
+        },
+        {
+          "id": "C",
+          "text": "Because they don't easily evaporate"
+        },
+        {
+          "id": "D",
+          "text": "They are actually considered thick liquids"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "15",
+      "question": "What is the critical scientific distinction between the processes of boiling and evaporation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Boiling is a slow process; evaporation is instantaneous"
+        },
+        {
+          "id": "B",
+          "text": "Boiling occurs violently throughout the bulk liquid at a fixed temperature; evaporation happens slowly only at the surface at all temperatures"
+        },
+        {
+          "id": "C",
+          "text": "Evaporation strictly requires a hot stove"
+        },
+        {
+          "id": "D",
+          "text": "Boiling forms solid ice"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "16",
+      "question": "The specific, fixed minimum temperature at which a solid substance turns into a liquid is called its:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Boiling point"
+        },
+        {
+          "id": "B",
+          "text": "Melting point"
+        },
+        {
+          "id": "C",
+          "text": "Freezing point"
+        },
+        {
+          "id": "D",
+          "text": "Dew point"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "17",
+      "question": "Why does the strong scent of sprayed perfume spread so rapidly across a large, still room?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The air particles are in constant, rapid motion, colliding with the perfume particles and carrying them everywhere"
+        },
+        {
+          "id": "B",
+          "text": "The perfume is boiling hot"
+        },
+        {
+          "id": "C",
+          "text": "The room is a perfect vacuum"
+        },
+        {
+          "id": "D",
+          "text": "Perfume particles are highly magnetic"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "18",
+      "question": "Among the three common states of matter, in which state are the interparticle forces of attraction the absolute weakest?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Solid"
+        },
+        {
+          "id": "B",
+          "text": "Liquid"
+        },
+        {
+          "id": "C",
+          "text": "Gas"
+        },
+        {
+          "id": "D",
+          "text": "They are completely equal in all three states"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "19",
+      "question": "From a particulate perspective, how does adding thermal energy (heat) affect a solid substance?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It massively increases interparticle attraction"
+        },
+        {
+          "id": "B",
+          "text": "It decreases the particles' kinetic energy"
+        },
+        {
+          "id": "C",
+          "text": "It helps overcome the attractive forces holding the particles, allowing them to move further apart"
+        },
+        {
+          "id": "D",
+          "text": "It turns gaseous air into solid blocks"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "20",
+      "question": "Why does a solid block of ice unexpectedly float on top of liquid water?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ice is universally much heavier than water"
+        },
+        {
+          "id": "B",
+          "text": "In solid ice, the particles arrange in a crystal lattice with larger gaps, making it physically less dense than the liquid water"
+        },
+        {
+          "id": "C",
+          "text": "Ice has zero mass"
+        },
+        {
+          "id": "D",
+          "text": "Water magnetically pushes the ice upward"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "21",
+      "question": "If highly advanced technology could systematically remove every single constituent particle (atom/molecule) from a wooden chair, what would remain?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It would become an invisible, ghost-like object that still holds weight"
+        },
+        {
+          "id": "B",
+          "text": "Absolutely nothing of the chair would remain"
+        },
+        {
+          "id": "C",
+          "text": "It would transform into a dense gas"
+        },
+        {
+          "id": "D",
+          "text": "It would become a puddle of liquid wood"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "22",
+      "question": "Ocean water tastes heavily salty even though the salt crystals are entirely invisible to the naked eye because:",
+      "options": [
+        {
+          "id": "A",
+          "text": "The salt chemically turns into pure water"
+        },
+        {
+          "id": "B",
+          "text": "The salt crystal breaks into tiny individual ions that occupy interparticle spaces and mix evenly, remaining far too small to reflect light visibly"
+        },
+        {
+          "id": "C",
+          "text": "The deep ocean reflects blue light that hides salt"
+        },
+        {
+          "id": "D",
+          "text": "Dissolved sand creates the salty taste"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "23",
+      "question": "When you heat a block of camphor, it sublimates directly into vapor. What does the fragrance reaching the room demonstrate about the particulate nature of matter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Camphor is actually a liquid"
+        },
+        {
+          "id": "B",
+          "text": "The addition of thermal energy entirely overcomes the strong solid attractions, instantly forming a gas whose free particles diffuse rapidly"
+        },
+        {
+          "id": "C",
+          "text": "Camphor actively destroys air particles"
+        },
+        {
+          "id": "D",
+          "text": "Solid, intact blocks of camphor fly through the air"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "24",
+      "question": "In a lab experiment, combining 50mL of water and 50mL of sugar results in a solution with a total volume slightly less than 100mL. Why?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A large portion of the sugar evaporates"
+        },
+        {
+          "id": "B",
+          "text": "The tiny sugar particles fit perfectly into the existing empty interparticle spaces between the water molecules, rather than adding their full volume"
+        },
+        {
+          "id": "C",
+          "text": "Water heavily shrinks when it gets cold"
+        },
+        {
+          "id": "D",
+          "text": "The glass beaker absorbs the water"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "25",
+      "question": "Solids that exhibit notoriously weak interparticle attractions at an atomic level generally possess:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Extraordinarily high melting points"
+        },
+        {
+          "id": "B",
+          "text": "Very low melting points"
+        },
+        {
+          "id": "C",
+          "text": "No measurable melting points whatsoever"
+        },
+        {
+          "id": "D",
+          "text": "Gaseous states even at absolute zero"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "26",
+      "question": "Which of the following descriptions best captures the chaotic movement of particles within a standard liquid?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rigidly fixed in place, only capable of vibrating"
+        },
+        {
+          "id": "B",
+          "text": "Moving incredibly rapidly and completely independent of each other with zero attraction"
+        },
+        {
+          "id": "C",
+          "text": "Loosely packed, possessing enough energy to slide past one another within a somewhat limited, cohesive space"
+        },
+        {
+          "id": "D",
+          "text": "Expanding infinitely into a vacuum"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "27",
+      "question": "Why can a human finger easily slice through a pool of water but break if pushed hard against a solid wooden block?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wood is just wet fibers"
+        },
+        {
+          "id": "B",
+          "text": "Strong interparticle forces in solids rigidly prevent displacement without breaking chemical bonds, while much weaker forces in liquids allow particles to be easily pushed aside"
+        },
+        {
+          "id": "C",
+          "text": "Fingers are largely made of water"
+        },
+        {
+          "id": "D",
+          "text": "Water is a pure vacuum"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "28",
+      "question": "When invisible water vapor touches a cold mirror and condenses into liquid water droplets, what is occurring at the strict particulate level?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gas particles lose thermal kinetic energy, move much closer together, and their interparticle attractions successfully pull them into a liquid phase"
+        },
+        {
+          "id": "B",
+          "text": "The particles gain massive energy and break apart"
+        },
+        {
+          "id": "C",
+          "text": "Water atoms are completely destroyed"
+        },
+        {
+          "id": "D",
+          "text": "Hydrogen molecules turn into oxygen elements"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "29",
+      "question": "A student claims that observing floating dust motes in a sunbeam perfectly proves that matter is made of single particles. Is this a scientifically correct particulate model?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes, a dust mote is a single, giant atom"
+        },
+        {
+          "id": "B",
+          "text": "No, observable dust specks are actually massive, macroscopic clusters of millions of constituent particles, not single molecules or atoms"
+        },
+        {
+          "id": "C",
+          "text": "Yes, a dust mote is a single molecule"
+        },
+        {
+          "id": "D",
+          "text": "No, dust is a pure gas"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "30",
+      "question": "If you observe a substance where the interparticle space is highly variable and easily changes based on applied external pressure, the substance must be a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Solid crystal"
+        },
+        {
+          "id": "B",
+          "text": "Viscous liquid"
+        },
+        {
+          "id": "C",
+          "text": "Gas"
+        },
+        {
+          "id": "D",
+          "text": "Solid metal"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    }
+  ]
+}

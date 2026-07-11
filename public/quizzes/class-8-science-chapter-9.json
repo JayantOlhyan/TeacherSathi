@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "When you stir salt into a glass of water, the salt that dissolves is scientifically called the:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Solvent"
+        },
+        {
+          "id": "B",
+          "text": "Solute"
+        },
+        {
+          "id": "C",
+          "text": "Solution"
+        },
+        {
+          "id": "D",
+          "text": "Mixture"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "2",
+      "question": "The liquid base (like water) in which a solid solute actively dissolves is called the:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Solute"
+        },
+        {
+          "id": "B",
+          "text": "Solvent"
+        },
+        {
+          "id": "C",
+          "text": "Solid"
+        },
+        {
+          "id": "D",
+          "text": "Gas"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "3",
+      "question": "When sugar is evenly and perfectly mixed into water, the resulting transparent, uniform mixture is called a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Suspension"
+        },
+        {
+          "id": "B",
+          "text": "Solid Alloy"
+        },
+        {
+          "id": "C",
+          "text": "Solution"
+        },
+        {
+          "id": "D",
+          "text": "Non-uniform mixture"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "4",
+      "question": "The total amount of physical space occupied by any object or liquid is its:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mass"
+        },
+        {
+          "id": "B",
+          "text": "Density"
+        },
+        {
+          "id": "C",
+          "text": "Volume"
+        },
+        {
+          "id": "D",
+          "text": "Weight"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "5",
+      "question": "If you pour olive oil into water and the oil floats on top, what does this definitively tell us?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The oil is much denser than the water"
+        },
+        {
+          "id": "B",
+          "text": "The water is denser than the oil"
+        },
+        {
+          "id": "C",
+          "text": "The oil is actively dissolving in the water"
+        },
+        {
+          "id": "D",
+          "text": "They possess the exact same density"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "6",
+      "question": "A chemical solution that is still capable of dissolving more solute at a given room temperature is classified as:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Saturated"
+        },
+        {
+          "id": "B",
+          "text": "Unsaturated"
+        },
+        {
+          "id": "C",
+          "text": "Supersaturated"
+        },
+        {
+          "id": "D",
+          "text": "Highly Concentrated"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "7",
+      "question": "A murky mixture of muddy sand and water is a classic example of a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "True Solution"
+        },
+        {
+          "id": "B",
+          "text": "Uniform mixture"
+        },
+        {
+          "id": "C",
+          "text": "Non-uniform mixture (a suspension)"
+        },
+        {
+          "id": "D",
+          "text": "Gas"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "8",
+      "question": "Which common household substance is frequently referred to by chemists as the \"universal solvent\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cow's Milk"
+        },
+        {
+          "id": "B",
+          "text": "Cooking Oil"
+        },
+        {
+          "id": "C",
+          "text": "Pure Water"
+        },
+        {
+          "id": "D",
+          "text": "Rubbing Alcohol"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "9",
+      "question": "Generally speaking, what happens to the solubility of most solid solutes (like sugar) in a liquid when the liquid's temperature increases?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It significantly decreases"
+        },
+        {
+          "id": "B",
+          "text": "It significantly increases"
+        },
+        {
+          "id": "C",
+          "text": "It remains exactly the same"
+        },
+        {
+          "id": "D",
+          "text": "It immediately becomes zero"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "10",
+      "question": "The absolute maximum amount of a solute that can successfully dissolve in a given solvent at a specific temperature defines its:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Density"
+        },
+        {
+          "id": "B",
+          "text": "Solubility"
+        },
+        {
+          "id": "C",
+          "text": "Mass"
+        },
+        {
+          "id": "D",
+          "text": "Volume"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "11",
+      "question": "Why does an unpeeled orange float in a bucket of water, but a peeled orange immediately sinks?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The act of peeling makes the fruit much heavier"
+        },
+        {
+          "id": "B",
+          "text": "The peel contains tiny trapped air pockets that drastically lower its overall density; without it, the dense, watery fruit sinks"
+        },
+        {
+          "id": "C",
+          "text": "The orange peel is magically buoyant"
+        },
+        {
+          "id": "D",
+          "text": "Water naturally repels peeled fruit"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "12",
+      "question": "In a vast gaseous solution like the Earth's atmosphere, which abundant gas acts as the primary solvent?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Oxygen"
+        },
+        {
+          "id": "B",
+          "text": "Carbon dioxide"
+        },
+        {
+          "id": "C",
+          "text": "Nitrogen"
+        },
+        {
+          "id": "D",
+          "text": "Hydrogen"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "13",
+      "question": "How does increasing the temperature of water specifically affect the solubility of gases (like oxygen) trapped within it?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gas solubility greatly increases with high temperatures"
+        },
+        {
+          "id": "B",
+          "text": "Gas solubility actively decreases as temperature increases (cold water naturally holds more dissolved gas)"
+        },
+        {
+          "id": "C",
+          "text": "Temperature has absolutely no effect on gases"
+        },
+        {
+          "id": "D",
+          "text": "Gases can never dissolve in water"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "14",
+      "question": "How would a scientist define a \"saturated\" solution?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A solution containing absolutely no solute"
+        },
+        {
+          "id": "B",
+          "text": "A solution where no more solute can possibly dissolve at that specific temperature without settling at the bottom"
+        },
+        {
+          "id": "C",
+          "text": "A solution that is violently boiling"
+        },
+        {
+          "id": "D",
+          "text": "A solution that is completely frozen solid"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "15",
+      "question": "As a general rule in physics, what happens to the density of a standard liquid when its temperature increases?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It increases"
+        },
+        {
+          "id": "B",
+          "text": "It decreases as the liquid expands"
+        },
+        {
+          "id": "C",
+          "text": "It remains perfectly constant"
+        },
+        {
+          "id": "D",
+          "text": "It forces the liquid to turn solid"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "16",
+      "question": "The volume of a strangely, irregularly shaped solid rock can be accurately measured using:",
+      "options": [
+        {
+          "id": "A",
+          "text": "A standard flat ruler"
+        },
+        {
+          "id": "B",
+          "text": "The liquid displacement method in a graduated cylinder"
+        },
+        {
+          "id": "C",
+          "text": "A digital weighing scale"
+        },
+        {
+          "id": "D",
+          "text": "A glass thermometer"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "17",
+      "question": "Solutions that contain very little dissolved solute compared to the massive amount of solvent are described as:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Highly Concentrated"
+        },
+        {
+          "id": "B",
+          "text": "Dilute"
+        },
+        {
+          "id": "C",
+          "text": "Saturated"
+        },
+        {
+          "id": "D",
+          "text": "Excessively Heavy"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "18",
+      "question": "Why is pure water completely unable to dissolve cooking oil?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because water is a polar solvent and oil is a non-polar substance, and \"like dissolves like\""
+        },
+        {
+          "id": "B",
+          "text": "Because the oil is far too dense"
+        },
+        {
+          "id": "C",
+          "text": "Because the water is too cold"
+        },
+        {
+          "id": "D",
+          "text": "Because the oil evaporates instantly"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "19",
+      "question": "Historically, how is solid sea salt traditionally extracted from seawater on a large scale?",
+      "options": [
+        {
+          "id": "A",
+          "text": "By passing it through a fine paper filter"
+        },
+        {
+          "id": "B",
+          "text": "By allowing the sun to evaporate the water, leaving the solid salt behind as the concentration heavily exceeds its solubility"
+        },
+        {
+          "id": "C",
+          "text": "By using a giant industrial magnet"
+        },
+        {
+          "id": "D",
+          "text": "By adding more fresh water to it"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "20",
+      "question": "Why are commercial plastic water bottles generally designed with a tall, cylindrical shape instead of a spherical one?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because spherical bottles look very ugly"
+        },
+        {
+          "id": "B",
+          "text": "The cylinder offers highly efficient storage, stacking stability, better grip, and requires far less plastic material (making it cost-effective)"
+        },
+        {
+          "id": "C",
+          "text": "Water only remains liquid inside cylinders"
+        },
+        {
+          "id": "D",
+          "text": "The shape artificially increases the water's density"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "21",
+      "question": "If you intensely heat a rigid, fully closed container filled with gas, what happens to the internal pressure and why?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The pressure drops rapidly because the gas physically shrinks"
+        },
+        {
+          "id": "B",
+          "text": "The pressure increases dangerously because the heated molecules move faster and impact the container walls much harder (thermal expansion)"
+        },
+        {
+          "id": "C",
+          "text": "The pressure stays exactly the same"
+        },
+        {
+          "id": "D",
+          "text": "The gas instantly turns into a dense liquid"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "22",
+      "question": "Why is a hyper-saline body of water like the Dead Sea entirely incapable of supporting traditional aquatic fish life?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It has no liquid water left"
+        },
+        {
+          "id": "B",
+          "text": "Its extreme hyper-salinity causes aggressive, osmosis-driven dehydration in living organisms, quickly killing them"
+        },
+        {
+          "id": "C",
+          "text": "The water is far too freezing cold"
+        },
+        {
+          "id": "D",
+          "text": "It lacks any dissolved oxygen completely"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "23",
+      "question": "A student carefully immerses a rough stone in a measuring cylinder. The water level immediately rises from 50 mL to 65 mL. What is the exact volume of the stone?",
+      "options": [
+        {
+          "id": "A",
+          "text": "115 mL"
+        },
+        {
+          "id": "B",
+          "text": "65 mL"
+        },
+        {
+          "id": "C",
+          "text": "15 mL"
+        },
+        {
+          "id": "D",
+          "text": "50 mL"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "24",
+      "question": "How does applying immense physical pressure (like inside a sealed soda bottle) affect the solubility of carbon dioxide gas in the liquid?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It severely decreases the gas's solubility"
+        },
+        {
+          "id": "B",
+          "text": "It actively forces more gas molecules to dissolve into the solvent, vastly increasing solubility"
+        },
+        {
+          "id": "C",
+          "text": "It has absolutely no effect on the gas"
+        },
+        {
+          "id": "D",
+          "text": "It compresses the gas into a hard solid"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "25",
+      "question": "If a boiling hot, perfectly saturated solution of sugar water is allowed to cool down very slowly, what will inevitably happen?",
+      "options": [
+        {
+          "id": "A",
+          "text": "All the dissolved sugar will evaporate into the air"
+        },
+        {
+          "id": "B",
+          "text": "The excess sugar will crystallize and precipitate out of the solution because solubility drops as temperature drops"
+        },
+        {
+          "id": "C",
+          "text": "The water will chemically turn into solid sugar"
+        },
+        {
+          "id": "D",
+          "text": "Absolutely nothing changes in the glass"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "26",
+      "question": "Which of the following experimental scenarios conclusively proves that solubility is highly dependent on the specific solvent being used?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Table salt dissolving in both hot and cold water"
+        },
+        {
+          "id": "B",
+          "text": "Table salt easily dissolving in water, but completely failing to dissolve in olive oil"
+        },
+        {
+          "id": "C",
+          "text": "Stirring a spoonful of sugar much faster"
+        },
+        {
+          "id": "D",
+          "text": "Physically crushing a sugar cube into fine powder"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "27",
+      "question": "When mixing two distinct liquids together to form a uniform solution, how do chemists officially define which one is the solvent?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The liquid that is physically heavier"
+        },
+        {
+          "id": "B",
+          "text": "The substance that is present in the significantly larger amount"
+        },
+        {
+          "id": "C",
+          "text": "The liquid that is closest to water"
+        },
+        {
+          "id": "D",
+          "text": "The liquid that has a darker color"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "28",
+      "question": "Assertion",
+      "options": [
+        {
+          "id": "A",
+          "text": ": Oxygen gas is highly soluble in violently boiling hot water. Reason (R): The solubility of all known substances always increases with added heat.(A) Both A and R are completely true"
+        },
+        {
+          "id": "B",
+          "text": "A is true, but R is false"
+        },
+        {
+          "id": "C",
+          "text": "Both A and R are completely false"
+        },
+        {
+          "id": "D",
+          "text": "A is false, but R is true"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "29",
+      "question": "The fundamental scientific difference between a uniform true solution and a non-uniform suspension lies primarily in:",
+      "options": [
+        {
+          "id": "A",
+          "text": "The final color of the resulting mixture"
+        },
+        {
+          "id": "B",
+          "text": "The even, microscopic distribution of particles that never settle versus an uneven distribution where large particles eventually sink"
+        },
+        {
+          "id": "C",
+          "text": "The exact temperature of the water used"
+        },
+        {
+          "id": "D",
+          "text": "The type of glass container used to mix them"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "30",
+      "question": "If a solid object's overall density is exactly, perfectly equal to the density of the liquid it is placed within, how will the object behave?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It will violently sink straight to the bottom"
+        },
+        {
+          "id": "B",
+          "text": "It will bob and float heavily on the very top"
+        },
+        {
+          "id": "C",
+          "text": "It will remain neutrally suspended right in the middle of the liquid column"
+        },
+        {
+          "id": "D",
+          "text": "It will dissolve instantly into the liquid"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    }
+  ]
+}

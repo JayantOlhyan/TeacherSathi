@@ -5,7 +5,7 @@ import re
 os.makedirs("public/quizzes", exist_ok=True)
 
 def generate_quizzes():
-    with open("c8_science_1to5.txt", "r", encoding="utf-8") as f:
+    with open("c8_science_6to9.txt", "r", encoding="utf-8") as f:
         content = f.read()
     
     # Split by Chapter

@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "A chemical substance containing only one specific kind of particle throughout is called a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mixture"
+        },
+        {
+          "id": "B",
+          "text": "Pure substance"
+        },
+        {
+          "id": "C",
+          "text": "Alloy"
+        },
+        {
+          "id": "D",
+          "text": "Salad"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "2",
+      "question": "Based on strict chemical definitions, which of the following is considered a pure substance?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cow's Milk"
+        },
+        {
+          "id": "B",
+          "text": "Garden Soil"
+        },
+        {
+          "id": "C",
+          "text": "The Air"
+        },
+        {
+          "id": "D",
+          "text": "Pure Water"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "D",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "3",
+      "question": "When two or more substances are physically combined together without undergoing a chemical reaction, it forms a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Compound"
+        },
+        {
+          "id": "B",
+          "text": "Element"
+        },
+        {
+          "id": "C",
+          "text": "Mixture"
+        },
+        {
+          "id": "D",
+          "text": "Single Atom"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "4",
+      "question": "The absolute simplest form of a pure substance that cannot be broken down any further by chemical means is an:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Element"
+        },
+        {
+          "id": "B",
+          "text": "Mixture"
+        },
+        {
+          "id": "C",
+          "text": "Solution"
+        },
+        {
+          "id": "D",
+          "text": "Alloy"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "5",
+      "question": "A mixture where the components are blended so evenly that they cannot be seen separately is called:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Heterogeneous"
+        },
+        {
+          "id": "B",
+          "text": "Homogeneous (uniform)"
+        },
+        {
+          "id": "C",
+          "text": "Non-uniform"
+        },
+        {
+          "id": "D",
+          "text": "Solid"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "6",
+      "question": "Which of the following common substances is an element?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pure Water"
+        },
+        {
+          "id": "B",
+          "text": "Carbon dioxide gas"
+        },
+        {
+          "id": "C",
+          "text": "Solid Iron"
+        },
+        {
+          "id": "D",
+          "text": "Table Salt"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "7",
+      "question": "Which of the following substances is classified as a chemical compound?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Air"
+        },
+        {
+          "id": "B",
+          "text": "Pure Oxygen"
+        },
+        {
+          "id": "C",
+          "text": "Water (H2O)"
+        },
+        {
+          "id": "D",
+          "text": "Beach Sand"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "8",
+      "question": "Is the air we breathe considered a chemical compound or a physical mixture?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A pure Compound"
+        },
+        {
+          "id": "B",
+          "text": "A Mixture of various gases"
+        },
+        {
+          "id": "C",
+          "text": "A single Element"
+        },
+        {
+          "id": "D",
+          "text": "A gaseous Alloy"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "9",
+      "question": "The various components of a mixture can generally be separated by:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Complex chemical reactions only"
+        },
+        {
+          "id": "B",
+          "text": "Simple physical methods (like filtering or boiling)"
+        },
+        {
+          "id": "C",
+          "text": "Nuclear fission reactions"
+        },
+        {
+          "id": "D",
+          "text": "They cannot be separated at all"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "10",
+      "question": "The individual elements that make up a chemical compound are always combined in a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Completely random ratio"
+        },
+        {
+          "id": "B",
+          "text": "Fixed, unchanging ratio"
+        },
+        {
+          "id": "C",
+          "text": "Loose physical way"
+        },
+        {
+          "id": "D",
+          "text": "Constantly changing ratio"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "11",
+      "question": "Why is a shiny metal like stainless steel technically considered an alloy (a uniform mixture) and not a pure chemical compound?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It is found naturally in deep mines"
+        },
+        {
+          "id": "B",
+          "text": "Its components (iron, nickel, chromium) do not react chemically, they retain their individual properties, and are just mixed uniformly"
+        },
+        {
+          "id": "C",
+          "text": "It is made of exactly one element"
+        },
+        {
+          "id": "D",
+          "text": "It rusts incredibly easily"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "12",
+      "question": "If you take iron filings and yellow sulfur powder and heat them strongly together, what occurs?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They form a loose physical mixture"
+        },
+        {
+          "id": "B",
+          "text": "They undergo a violent chemical reaction to form an entirely new compound, iron sulfide"
+        },
+        {
+          "id": "C",
+          "text": "The sulfur simply evaporates away"
+        },
+        {
+          "id": "D",
+          "text": "They magically turn into solid gold"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "13",
+      "question": "Which of the following is a classic example of a heterogeneous (non-uniform) mixture?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Salt completely dissolved in water"
+        },
+        {
+          "id": "B",
+          "text": "The Air in a room"
+        },
+        {
+          "id": "C",
+          "text": "A bowl of sprout salad"
+        },
+        {
+          "id": "D",
+          "text": "Solid Brass"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "14",
+      "question": "Which specific gas present in our air mixture is absolutely essential for both fire combustion and human respiration?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nitrogen"
+        },
+        {
+          "id": "B",
+          "text": "Oxygen"
+        },
+        {
+          "id": "C",
+          "text": "Carbon dioxide"
+        },
+        {
+          "id": "D",
+          "text": "Argon"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "15",
+      "question": "Why does liquid water (H2O) possess completely different physical properties from the hydrogen and oxygen gases that form it?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because water is a messy mixture"
+        },
+        {
+          "id": "B",
+          "text": "In a chemical compound, the original elements completely lose their individual properties to form an entirely new substance"
+        },
+        {
+          "id": "C",
+          "text": "Because water actually contains no hydrogen"
+        },
+        {
+          "id": "D",
+          "text": "Because oxygen is naturally a liquid"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "16",
+      "question": "The common alloy known as brass is created by uniformly mixing:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Iron and carbon"
+        },
+        {
+          "id": "B",
+          "text": "Copper and zinc"
+        },
+        {
+          "id": "C",
+          "text": "Copper and tin"
+        },
+        {
+          "id": "D",
+          "text": "Gold and silver"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "17",
+      "question": "How can a student accurately test for the presence of invisible carbon dioxide gas?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It makes a loud pop sound near a flame"
+        },
+        {
+          "id": "B",
+          "text": "It turns clear lime water milky/cloudy"
+        },
+        {
+          "id": "C",
+          "text": "It burns with a blindingly bright light"
+        },
+        {
+          "id": "D",
+          "text": "It smells strongly like rotten eggs"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "18",
+      "question": "Is it scientifically possible for a specific substance to be classified as both an element and a compound simultaneously?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes, in rare cases"
+        },
+        {
+          "id": "B",
+          "text": "No, elements consist of one type of atom, while compounds have multiple types chemically bonded together"
+        },
+        {
+          "id": "C",
+          "text": "Yes, if the substance is a gas"
+        },
+        {
+          "id": "D",
+          "text": "Yes, if it is heated to plasma"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "19",
+      "question": "Which conductive element is most widely used in household electrical wiring due to its excellent properties and cost?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sulfur"
+        },
+        {
+          "id": "B",
+          "text": "Oxygen"
+        },
+        {
+          "id": "C",
+          "text": "Copper"
+        },
+        {
+          "id": "D",
+          "text": "Carbon"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "20",
+      "question": "In a laboratory, a new substance 'C' is formed when elements 'A' and 'B' react chemically. What is 'C' classified as?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A Mixture"
+        },
+        {
+          "id": "B",
+          "text": "An Alloy"
+        },
+        {
+          "id": "C",
+          "text": "A Compound"
+        },
+        {
+          "id": "D",
+          "text": "A radioactive Isotope"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "21",
+      "question": "If the water in our oceans were merely a physical mixture of hydrogen and oxygen gases instead of a chemical compound, how would it drastically affect life on Earth?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It would make drinking water much healthier"
+        },
+        {
+          "id": "B",
+          "text": "It would exist as a highly flammable and explosive mix of gases, making liquid oceans and life completely impossible"
+        },
+        {
+          "id": "C",
+          "text": "It would taste incredibly sweet"
+        },
+        {
+          "id": "D",
+          "text": "The oceans would be much heavier"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "22",
+      "question": "Why is it impossible to separate the hydrogen and oxygen in a glass of water using physical methods like filtering or boiling?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The water compounds are simply too small to catch"
+        },
+        {
+          "id": "B",
+          "text": "The elements in a compound are locked together by strong chemical bonds that strictly require chemical reactions (like electrolysis) to break"
+        },
+        {
+          "id": "C",
+          "text": "Filtering physically destroys the filter paper"
+        },
+        {
+          "id": "D",
+          "text": "Compounds evaporate instantly upon touch"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "23",
+      "question": "In a blind experiment, an unknown substance is found to have a variable melting point, and its chemical composition changes slightly depending on which part of the sample is tested. What is this substance?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A pure elemental metal"
+        },
+        {
+          "id": "B",
+          "text": "A pure chemical compound"
+        },
+        {
+          "id": "C",
+          "text": "A heterogeneous mixture"
+        },
+        {
+          "id": "D",
+          "text": "An alloy with a strictly fixed composition"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "24",
+      "question": "Why is the strict scientific definition of 'pure' vastly different from the word 'pure' printed on a commercial milk packet?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Commercial milk is slightly poisonous"
+        },
+        {
+          "id": "B",
+          "text": "In science, 'pure' means consisting of only one distinct type of particle (an element or compound), whereas \"pure milk\" is scientifically a complex mixture of water, fats, and proteins"
+        },
+        {
+          "id": "C",
+          "text": "Milk is actually a singular compound"
+        },
+        {
+          "id": "D",
+          "text": "There is no difference at all"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "25",
+      "question": "\"Mishraloha\" is the culturally significant, ancient Indian metallurgical term for:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pure, unrefined iron ore"
+        },
+        {
+          "id": "B",
+          "text": "Alloys (uniform mixtures of metals)"
+        },
+        {
+          "id": "C",
+          "text": "Non-metallic minerals"
+        },
+        {
+          "id": "D",
+          "text": "Synthetic plastics"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "26",
+      "question": "Substance X cannot be broken down by any chemical means. Substance Y can be easily broken down into Substance X and Substance Z by passing electricity through it. What are X and Y?",
+      "options": [
+        {
+          "id": "A",
+          "text": "X is a mixture, Y is an element"
+        },
+        {
+          "id": "B",
+          "text": "X is an element, Y is a compound"
+        },
+        {
+          "id": "C",
+          "text": "Both are complex mixtures"
+        },
+        {
+          "id": "D",
+          "text": "Both are pure elements"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "27",
+      "question": "A student accidentally mixes fine sand and table salt. What is the correct sequence of physical methods to perfectly separate this mixture?",
+      "options": [
+        {
+          "id": "A",
+          "text": "By simply burning the mixture in a crucible"
+        },
+        {
+          "id": "B",
+          "text": "Dissolving the mix in water (salt dissolves), filtering it (removes the sand), and evaporating the filtered liquid (recovers the solid salt)"
+        },
+        {
+          "id": "C",
+          "text": "By running a strong magnet over the pile"
+        },
+        {
+          "id": "D",
+          "text": "It is scientifically impossible to separate"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "28",
+      "question": "Nitrogen gas makes up 78% of our air mixture but does not support combustion. Why doesn't the highly reactive 21% oxygen burn up everything on Earth instantly?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Atmospheric oxygen is too weak to burn things"
+        },
+        {
+          "id": "B",
+          "text": "The massive amount of nitrogen acts as a crucial diluent, safely controlling and preventing uncontrollable burning"
+        },
+        {
+          "id": "C",
+          "text": "Oxygen exists only in a liquid state in the air"
+        },
+        {
+          "id": "D",
+          "text": "The air contains too much fire-suppressing carbon dioxide"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "29",
+      "question": "Which of the following elements possesses properties of both metals and non-metals, classifying it as a metalloid?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pure Gold"
+        },
+        {
+          "id": "B",
+          "text": "Solid Iron"
+        },
+        {
+          "id": "C",
+          "text": "Silicon"
+        },
+        {
+          "id": "D",
+          "text": "Yellow Sulfur"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "30",
+      "question": "The universal chemical formula for water is always H2O (a strict ratio of 2:1). What fundamental rule of compounds does this demonstrate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Compounds possess a highly variable, shifting composition"
+        },
+        {
+          "id": "B",
+          "text": "The elements in a compound always combine in a fixed, definite proportion by mass/atoms"
+        },
+        {
+          "id": "C",
+          "text": "Compounds are always heterogeneous in nature"
+        },
+        {
+          "id": "D",
+          "text": "Compounds are merely physical mixtures of atoms"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    }
+  ]
+}

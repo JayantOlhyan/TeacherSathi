@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "In physics, pressure is rigorously defined as the amount of force applied per unit of:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Total Volume"
+        },
+        {
+          "id": "B",
+          "text": "Surface Area"
+        },
+        {
+          "id": "C",
+          "text": "Total Mass"
+        },
+        {
+          "id": "D",
+          "text": "Total Length"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "2",
+      "question": "The standard SI unit for measuring pressure is the:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Newton"
+        },
+        {
+          "id": "B",
+          "text": "Joule"
+        },
+        {
+          "id": "C",
+          "text": "Pascal (Pa)"
+        },
+        {
+          "id": "D",
+          "text": "Meter"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "3",
+      "question": "The massive, multi-layered envelope of air completely surrounding the Earth is called the:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hydrosphere"
+        },
+        {
+          "id": "B",
+          "text": "Lithosphere"
+        },
+        {
+          "id": "C",
+          "text": "Atmosphere"
+        },
+        {
+          "id": "D",
+          "text": "Biosphere"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "4",
+      "question": "Do liquids inside a container exert pressure?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes, but only on the bottom floor"
+        },
+        {
+          "id": "B",
+          "text": "Yes, but only upwards against gravity"
+        },
+        {
+          "id": "C",
+          "text": "Yes, they exert pressure in all directions against the walls and bottom"
+        },
+        {
+          "id": "D",
+          "text": "No, liquids do not exert any pressure"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "5",
+      "question": "In meteorology, air naturally moves from a region of ________ pressure to a region of ________ pressure.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Low to High"
+        },
+        {
+          "id": "B",
+          "text": "High to Low"
+        },
+        {
+          "id": "C",
+          "text": "Hot to Cold"
+        },
+        {
+          "id": "D",
+          "text": "East to West"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "6",
+      "question": "Why does carrying a heavy school bag with broad shoulder straps hurt significantly less than one with thin, narrow straps?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The broad straps magically make the bag lighter"
+        },
+        {
+          "id": "B",
+          "text": "Broad straps spread the downward force over a larger area, reducing the localized pressure"
+        },
+        {
+          "id": "C",
+          "text": "Broad straps actually increase the pressure"
+        },
+        {
+          "id": "D",
+          "text": "Broad straps negate Earth's gravity"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "7",
+      "question": "The strangely calm, cloudless center of a violent cyclone is meteorologically known as the:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Storm Core"
+        },
+        {
+          "id": "B",
+          "text": "Storm Heart"
+        },
+        {
+          "id": "C",
+          "text": "Eye of the cyclone"
+        },
+        {
+          "id": "D",
+          "text": "Central Vortex"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "8",
+      "question": "A violent weather event accompanied by strong winds, heavy rain, lightning strikes, and loud thunder is called a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cyclone"
+        },
+        {
+          "id": "B",
+          "text": "Thunderstorm"
+        },
+        {
+          "id": "C",
+          "text": "Tornado"
+        },
+        {
+          "id": "D",
+          "text": "Tsunami"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "9",
+      "question": "When air is heated, it becomes ________ than cool air, which causes it to rise upward.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Heavier"
+        },
+        {
+          "id": "B",
+          "text": "Lighter (less dense)"
+        },
+        {
+          "id": "C",
+          "text": "Denser"
+        },
+        {
+          "id": "D",
+          "text": "Slower"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "10",
+      "question": "What specific architectural device protects tall buildings from devastating lightning strikes?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Thick layers of paint"
+        },
+        {
+          "id": "B",
+          "text": "A metal lightning conductor/arrester"
+        },
+        {
+          "id": "C",
+          "text": "Thick rubber mats on the roof"
+        },
+        {
+          "id": "D",
+          "text": "Specialized glass windows"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "11",
+      "question": "Why are municipal and domestic water tanks almost always placed at a significant height on the roof?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Purely for aesthetic decoration"
+        },
+        {
+          "id": "B",
+          "text": "Because water pressure increases with depth, providing a stronger flow to the lower floors"
+        },
+        {
+          "id": "C",
+          "text": "To catch more rainwater"
+        },
+        {
+          "id": "D",
+          "text": "To allow the sun to heat the water"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "12",
+      "question": "Why is the concrete base of a massive hydroelectric dam engineered to be much thicker than its top?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To save on expensive concrete"
+        },
+        {
+          "id": "B",
+          "text": "Because liquid pressure increases tremendously with depth, requiring a heavily reinforced base to prevent collapse"
+        },
+        {
+          "id": "C",
+          "text": "To allow fish to swim through it"
+        },
+        {
+          "id": "D",
+          "text": "To make the structure look visually appealing"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "13",
+      "question": "If you tightly seal your lips around an empty plastic bottle and suck the air out, the bottle crushes inward. Why?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Internal gravity pulls the plastic inward"
+        },
+        {
+          "id": "B",
+          "text": "The atmospheric pressure outside becomes far greater than the reduced pressure inside, physically crushing it"
+        },
+        {
+          "id": "C",
+          "text": "The plastic melts from your breath"
+        },
+        {
+          "id": "D",
+          "text": "Internal moisture causes the plastic to shrink"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "14",
+      "question": "High-speed winds rushing over a surface are typically accompanied by:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Greatly increased localized air pressure"
+        },
+        {
+          "id": "B",
+          "text": "Significantly decreased localized air pressure"
+        },
+        {
+          "id": "C",
+          "text": "Absolutely no change in air pressure"
+        },
+        {
+          "id": "D",
+          "text": "Rapidly increasing surface temperatures"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "15",
+      "question": "How do large, deliberate holes cut into advertising banners help prevent them from collapsing during strong winds?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They make the banner look modern and stylish"
+        },
+        {
+          "id": "B",
+          "text": "They allow air to pass through, reducing the immense wind pressure acting on the broad surface, preventing tearing"
+        },
+        {
+          "id": "C",
+          "text": "They actually increase the wind speed"
+        },
+        {
+          "id": "D",
+          "text": "They catch flying dust"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "16",
+      "question": "A boy standing upright on a soft sand bed sinks deeper than when he lies completely flat. What explains this?",
+      "options": [
+        {
+          "id": "A",
+          "text": "His total body weight suddenly increases when standing"
+        },
+        {
+          "id": "B",
+          "text": "Standing severely decreases the area of contact, drastically increasing the downward pressure"
+        },
+        {
+          "id": "C",
+          "text": "Lying down increases the overall pressure"
+        },
+        {
+          "id": "D",
+          "text": "The sand becomes softer when you stand"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "17",
+      "question": "What critical environmental element provides the massive thermal energy required for the formation of a cyclone over the ocean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Deep, freezing cold water currents"
+        },
+        {
+          "id": "B",
+          "text": "Warm ocean surface waters providing massive heat and evaporating moisture"
+        },
+        {
+          "id": "C",
+          "text": "Underwater earthquakes"
+        },
+        {
+          "id": "D",
+          "text": "High-pressure atmospheric domes"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "18",
+      "question": "During a severe thunderstorm, why is it exceptionally dangerous to stand under a tall, isolated tree?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The tree is guaranteed to fall over from the wind"
+        },
+        {
+          "id": "B",
+          "text": "Tall, isolated objects act as natural lightning conductors and attract strikes"
+        },
+        {
+          "id": "C",
+          "text": "The tree leaves provide absolutely no rain cover"
+        },
+        {
+          "id": "D",
+          "text": "The tree actively absorbs all the surrounding oxygen"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "19",
+      "question": "What physical phenomenon actually causes the incredibly loud, booming sound of thunder?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Giant storm clouds physically crashing into each other"
+        },
+        {
+          "id": "B",
+          "text": "The explosive, rapid heating and violent expansion of the air immediately surrounding the lightning channel"
+        },
+        {
+          "id": "C",
+          "text": "Heavy rain hitting the hard ground"
+        },
+        {
+          "id": "D",
+          "text": "Wind howling loudly through trees"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "20",
+      "question": "A pleasant sea breeze blows toward the shore during a summer day because:",
+      "options": [
+        {
+          "id": "A",
+          "text": "The sea is much hotter than the land"
+        },
+        {
+          "id": "B",
+          "text": "The land heats up faster, creating rising low-pressure air, and cooler high-pressure air from the sea rushes in to replace it"
+        },
+        {
+          "id": "C",
+          "text": "The sea physically pushes the water out"
+        },
+        {
+          "id": "D",
+          "text": "The moon's gravity causes it"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "21",
+      "question": "An elephant weighing exactly 20,000 N stands firmly on all four feet. If each foot covers an area of 0.25 m², what is the total pressure exerted on the ground?",
+      "options": [
+        {
+          "id": "A",
+          "text": "20,000 Pa"
+        },
+        {
+          "id": "B",
+          "text": "80,000 Pa"
+        },
+        {
+          "id": "C",
+          "text": "5,000 Pa"
+        },
+        {
+          "id": "D",
+          "text": "10,000 Pa"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "22",
+      "question": "If Earth's atmospheric air and clouds were somehow excellent conductors of electricity, what would happen during storms?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lightning would strike the ground continuously without stopping"
+        },
+        {
+          "id": "B",
+          "text": "Static charges could not build up in the clouds, so massive lightning bolts would simply never occur"
+        },
+        {
+          "id": "C",
+          "text": "The rain would instantly turn into superheated plasma"
+        },
+        {
+          "id": "D",
+          "text": "Thunder would become deafeningly louder"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "23",
+      "question": "Why do devastating tropical cyclones rapidly lose their intensity and weaken almost immediately after making landfall?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Friction from human buildings acts as a physical wall stopping them"
+        },
+        {
+          "id": "B",
+          "text": "They are cut off from their primary thermodynamic energy source: warm, evaporating moisture from the ocean surface"
+        },
+        {
+          "id": "C",
+          "text": "The land is usually too hot to sustain them"
+        },
+        {
+          "id": "D",
+          "text": "Heavy rain physically washes the storm away"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "24",
+      "question": "A rubber sucker sticks aggressively to a smooth bathroom tile but falls off a rough brick wall. What governs this behavior?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rough walls naturally repel rubber compounds"
+        },
+        {
+          "id": "B",
+          "text": "An airtight seal forms on the smooth tile, creating a vacuum held tight by external atmospheric pressure; rough walls leak air and equalize pressure"
+        },
+        {
+          "id": "C",
+          "text": "The smooth tile is highly magnetic"
+        },
+        {
+          "id": "D",
+          "text": "Rubber is inherently sticky only to ceramics"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "25",
+      "question": "Why do the corrugated tin roofs of poorly built houses sometimes blow cleanly off during a severe hurricane?",
+      "options": [
+        {
+          "id": "A",
+          "text": "High-speed winds above the roof create an extreme low-pressure zone, and the normal higher pressure inside the house violently pushes the roof upward"
+        },
+        {
+          "id": "B",
+          "text": "The wind is simply very heavy and pushes it"
+        },
+        {
+          "id": "C",
+          "text": "Lightning strikes the roof, blowing it up"
+        },
+        {
+          "id": "D",
+          "text": "The driving rain dissolves the iron nails"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "26",
+      "question": "If Vessel A has a much wider base than Vessel B, but both contain water filled to the exact same vertical height, how does the pressure at the absolute bottom compare?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pressure in A > B"
+        },
+        {
+          "id": "B",
+          "text": "Pressure in B > A"
+        },
+        {
+          "id": "C",
+          "text": "Pressure is exactly equal (PA = PB)"
+        },
+        {
+          "id": "D",
+          "text": "Cannot be determined without knowing the volume"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "27",
+      "question": "The Earth's rotation dictates that inflowing air rushing into a low-pressure cyclone begins to spin rapidly. In meteorology, this rotational phenomenon is related to the:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pascal effect"
+        },
+        {
+          "id": "B",
+          "text": "Coriolis effect"
+        },
+        {
+          "id": "C",
+          "text": "Oersted effect"
+        },
+        {
+          "id": "D",
+          "text": "Joule heating effect"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "28",
+      "question": "Two identical deflated rubber balloons are connected to the sides of a tall water bottle at the exact same vertical height. As water is poured into the top, what happens?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only one balloon bulges randomly"
+        },
+        {
+          "id": "B",
+          "text": "Both balloons bulge equally outward due to equal lateral liquid pressure at the same depth"
+        },
+        {
+          "id": "C",
+          "text": "Neither balloon bulges at all"
+        },
+        {
+          "id": "D",
+          "text": "Both balloons burst instantly"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "29",
+      "question": "In the turbulent interior of a thunderstorm cloud, why do positive electrical charges accumulate at the top while negative charges gather at the bottom?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gravity pulls only the negative charges downward"
+        },
+        {
+          "id": "B",
+          "text": "Violent updrafts cause ice particles to collide; lighter, positively charged ice moves upward, while heavier, negatively charged water droplets fall to the lower cloud"
+        },
+        {
+          "id": "C",
+          "text": "The sun heats the top, causing a positive reaction"
+        },
+        {
+          "id": "D",
+          "text": "Lightning actively pushes them apart"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "30",
+      "question": "If an intense storm system forms entirely over a dry landmass, can it scientifically be classified as a tropical cyclone?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes, as long as it has a spinning vortex"
+        },
+        {
+          "id": "B",
+          "text": "No, because true tropical cyclones absolutely require vast stretches of warm ocean water for their formation and sustained energy"
+        },
+        {
+          "id": "C",
+          "text": "Yes, if it drops enough rain"
+        },
+        {
+          "id": "D",
+          "text": "No, because land has no atmospheric pressure"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    }
+  ]
+}
