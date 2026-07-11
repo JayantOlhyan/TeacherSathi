@@ -623,12 +623,11 @@ export const NCERT_SYLLABUS: ClassSyllabus = {
       {"id": 7, "en": "Proportional Reasoning", "hi": "आनुपातिक तर्क", "descEn": "Direct and inverse proportions.", "descHi": "प्रत्यक्ष और व्युत्क्रमानुपाती।"},
       {"id": 8, "en": "Fractions in Disguise", "hi": "भेष में भिन्न", "descEn": "Advanced concepts in fractions and decimals.", "descHi": "भिन्न और दशमलव में उन्नत अवधारणाएँ।"},
       {"id": 9, "en": "The Baudhayana–Pythagoras Theorem", "hi": "बौधायन-पाइथागोरस प्रमेय", "descEn": "Understanding right-angled triangles and the theorem.", "descHi": "समकोण त्रिभुज और प्रमेय को समझना।"},
-      {"id": 10, "en": "Playing with Data", "hi": "आँकड़ों के साथ खेलना", "descEn": "Data representation and interpretation.", "descHi": "आँकड़ों का प्रतिनिधित्व और व्याख्या।"},
-      {"id": 11, "en": "Building with Bricks", "hi": "ईंटों से निर्माण", "descEn": "Visualising solid shapes and their properties.", "descHi": "ठोस आकृतियों और उनके गुणों की कल्पना करना।"},
-      {"id": 12, "en": "Exploring 3D Shapes", "hi": "3D आकारों की खोज", "descEn": "Understanding faces, edges, and vertices of 3D shapes.", "descHi": "3D आकारों के फलक, किनारे और शीर्ष को समझना।"},
-      {"id": 13, "en": "Visualising Solids", "hi": "ठोसों का दृश्य चित्रण", "descEn": "Representing 3D objects in 2D.", "descHi": "2D में 3D वस्तुओं का प्रतिनिधित्व करना।"},
-      {"id": 14, "en": "Introducing Algebraic Identities", "hi": "बीजीय सर्वसमिकाओं का परिचय", "descEn": "Standard algebraic identities and their applications.", "descHi": "मानक बीजीय सर्वसमिकाएँ और उनके अनुप्रयोग।"},
-      {"id": 15, "en": "Chances and Probability", "hi": "संभावना और प्रायिकता", "descEn": "Understanding probability and chance events.", "descHi": "प्रायिकता और संभावित घटनाओं को समझना।"}
+      {"id": 10, "en": "Proportional Reasoning - 2", "hi": "आनुपातिक तर्क - 2", "descEn": "Advanced concepts in direct and inverse proportions.", "descHi": "प्रत्यक्ष और व्युत्क्रमानुपाती में उन्नत अवधारणाएँ।"},
+      {"id": 11, "en": "Exploring Some Geometric Themes", "hi": "कुछ ज्यामितीय विषयों की खोज", "descEn": "Exploring geometric concepts like tessellations and fractals.", "descHi": "टैसिलेशन और फ्रैक्टल जैसी ज्यामितीय अवधारणाओं की खोज।"},
+      {"id": 12, "en": "Tales by Dots and Lines", "hi": "बिंदुओं और रेखाओं की कहानियाँ", "descEn": "Data handling, representation, and interpretation using graphs.", "descHi": "ग्राफ का उपयोग करके आँकड़ों का प्रबंधन, प्रतिनिधित्व और व्याख्या।"},
+      {"id": 13, "en": "Algebra Play", "hi": "बीजगणित का खेल", "descEn": "Introduction to algebraic expressions and equations.", "descHi": "बीजीय व्यंजकों और समीकरणों का परिचय।"},
+      {"id": 14, "en": "Area", "hi": "क्षेत्रफल", "descEn": "Calculating areas of different geometric figures.", "descHi": "विभिन्न ज्यामितीय आकृतियों के क्षेत्रफल की गणना।"}
     ],
     "Science": [
       {"id": 1, "en": "Exploring the Investigative World of Science", "hi": "विज्ञान की खोजी दुनिया की खोज", "descEn": "Introduction to scientific investigation and methodology.", "descHi": "वैज्ञानिक जाँच और कार्यप्रणाली का परिचय।"},
