@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "Organisms that are too small to be seen with the naked eye are classified as:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Macro-organisms"
+        },
+        {
+          "id": "B",
+          "text": "Microorganisms"
+        },
+        {
+          "id": "C",
+          "text": "Mammals"
+        },
+        {
+          "id": "D",
+          "text": "Insects"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "2",
+      "question": "Which optical instrument is specifically used to observe microbes?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Telescope"
+        },
+        {
+          "id": "B",
+          "text": "Microscope"
+        },
+        {
+          "id": "C",
+          "text": "Stethoscope"
+        },
+        {
+          "id": "D",
+          "text": "Periscope"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "3",
+      "question": "Which of the following is an example of a microorganism?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bacteria"
+        },
+        {
+          "id": "B",
+          "text": "Ant"
+        },
+        {
+          "id": "C",
+          "text": "Spider"
+        },
+        {
+          "id": "D",
+          "text": "Dust particle"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "4",
+      "question": "Who is credited with being the first person to discover and name \"cells\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Antonie van Leeuwenhoek"
+        },
+        {
+          "id": "B",
+          "text": "Robert Hooke"
+        },
+        {
+          "id": "C",
+          "text": "Isaac Newton"
+        },
+        {
+          "id": "D",
+          "text": "Albert Einstein"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "5",
+      "question": "Microorganisms that cause diseases in humans, plants, and animals are known as:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Antibodies"
+        },
+        {
+          "id": "B",
+          "text": "Pathogens"
+        },
+        {
+          "id": "C",
+          "text": "Probiotics"
+        },
+        {
+          "id": "D",
+          "text": "Nutrients"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "6",
+      "question": "Which specific microbe is utilized in baking to make bread soft and fluffy?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Algae"
+        },
+        {
+          "id": "B",
+          "text": "Protozoa"
+        },
+        {
+          "id": "C",
+          "text": "Yeast"
+        },
+        {
+          "id": "D",
+          "text": "Virus"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "7",
+      "question": "The formation of curd from milk is facilitated by which bacteria?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rhizobium"
+        },
+        {
+          "id": "B",
+          "text": "Lactobacillus"
+        },
+        {
+          "id": "C",
+          "text": "Salmonella"
+        },
+        {
+          "id": "D",
+          "text": "E. coli"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "8",
+      "question": "Viruses are fundamentally different from other microbes because they:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Are extraordinarily large"
+        },
+        {
+          "id": "B",
+          "text": "Only reproduce inside the living cells of a host organism"
+        },
+        {
+          "id": "C",
+          "text": "Are highly beneficial for human digestion"
+        },
+        {
+          "id": "D",
+          "text": "Can be seen without lenses"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "9",
+      "question": "The jelly-like material that fills a cell and holds the organelles is called:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nucleus"
+        },
+        {
+          "id": "B",
+          "text": "Cytoplasm"
+        },
+        {
+          "id": "C",
+          "text": "Chloroplast"
+        },
+        {
+          "id": "D",
+          "text": "Cell wall"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "10",
+      "question": "Which of the following is a classic example of a communicable disease?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Diabetes"
+        },
+        {
+          "id": "B",
+          "text": "Heart disease"
+        },
+        {
+          "id": "C",
+          "text": "Cholera"
+        },
+        {
+          "id": "D",
+          "text": "Bone fracture"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "11",
+      "question": "How do certain bacteria in the roots of leguminous plants assist agricultural practices?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They provide excess water"
+        },
+        {
+          "id": "B",
+          "text": "They fix atmospheric nitrogen into a form the soil can absorb"
+        },
+        {
+          "id": "C",
+          "text": "They actively kill crop pests"
+        },
+        {
+          "id": "D",
+          "text": "They make the plant leaves greener"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "12",
+      "question": "The biological process of yeast converting sugar into alcohol and carbon dioxide is termed:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Photosynthesis"
+        },
+        {
+          "id": "B",
+          "text": "Fermentation"
+        },
+        {
+          "id": "C",
+          "text": "Digestion"
+        },
+        {
+          "id": "D",
+          "text": "Pasteurisation"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "13",
+      "question": "If a slice of bread is left in a warm, moist environment, what is most likely to grow on its surface?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Algae"
+        },
+        {
+          "id": "B",
+          "text": "Fungi (mould)"
+        },
+        {
+          "id": "C",
+          "text": "Protozoa"
+        },
+        {
+          "id": "D",
+          "text": "Viruses"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "14",
+      "question": "Which cellular organelle is present in plant cells to facilitate photosynthesis, but absent in animal cells?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Nucleus"
+        },
+        {
+          "id": "B",
+          "text": "Cytoplasm"
+        },
+        {
+          "id": "C",
+          "text": "Chloroplast"
+        },
+        {
+          "id": "D",
+          "text": "Cell membrane"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "15",
+      "question": "The disease Malaria is transmitted by mosquitoes but is caused by a microscopic:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Virus"
+        },
+        {
+          "id": "B",
+          "text": "Bacteria"
+        },
+        {
+          "id": "C",
+          "text": "Protozoan"
+        },
+        {
+          "id": "D",
+          "text": "Fungus"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "16",
+      "question": "How do specific microorganisms naturally assist in cleaning the environment?",
+      "options": [
+        {
+          "id": "A",
+          "text": "By consuming plastic waste"
+        },
+        {
+          "id": "B",
+          "text": "By decomposing organic waste into nutrient-rich manure"
+        },
+        {
+          "id": "C",
+          "text": "By absorbing excess carbon dioxide"
+        },
+        {
+          "id": "D",
+          "text": "By producing clean smoke"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "17",
+      "question": "Adding dried leaves to a compost pit accelerates decomposition primarily by:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Balancing the carbon-nitrogen ratio for microbes"
+        },
+        {
+          "id": "B",
+          "text": "Making the pit smell pleasant"
+        },
+        {
+          "id": "C",
+          "text": "Stopping all airflow"
+        },
+        {
+          "id": "D",
+          "text": "Killing competing bacteria"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "18",
+      "question": "What causes a balloon to inflate when attached to a test tube containing a warm sugar solution and yeast?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Oxygen gas release"
+        },
+        {
+          "id": "B",
+          "text": "Nitrogen gas expansion"
+        },
+        {
+          "id": "C",
+          "text": "Carbon dioxide gas production"
+        },
+        {
+          "id": "D",
+          "text": "Hydrogen gas release"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "19",
+      "question": "Which of the following represents an effective method of food preservation against microbes?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Adding extra moisture"
+        },
+        {
+          "id": "B",
+          "text": "Salting and oiling"
+        },
+        {
+          "id": "C",
+          "text": "Keeping food in a warm, dark place"
+        },
+        {
+          "id": "D",
+          "text": "Exposing food to dust"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "20",
+      "question": "What is the primary scientific reason for keeping perishable food in a refrigerator?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cold temperatures instantly kill all microbes"
+        },
+        {
+          "id": "B",
+          "text": "Cold temperatures drastically slow down microbial reproduction and growth"
+        },
+        {
+          "id": "C",
+          "text": "It makes the food taste sweeter"
+        },
+        {
+          "id": "D",
+          "text": "It promotes the growth of helpful bacteria"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "21",
+      "question": "If lime water turns milky when gas from a fermenting yeast solution is passed through it, what specific chemical conclusion can be drawn?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Oxygen is being produced"
+        },
+        {
+          "id": "B",
+          "text": "Carbon dioxide is being produced"
+        },
+        {
+          "id": "C",
+          "text": "Alcohol is evaporating rapidly"
+        },
+        {
+          "id": "D",
+          "text": "The yeast has died"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "22",
+      "question": "Which sequence accurately represents the hierarchical structural organization in complex living organisms?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tissues → Cells → Organs → Organisms"
+        },
+        {
+          "id": "B",
+          "text": "Cells → Tissues → Organs → Organ Systems → Organism"
+        },
+        {
+          "id": "C",
+          "text": "Organism → Cells → Organs"
+        },
+        {
+          "id": "D",
+          "text": "Organs → Tissues → Cells"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "23",
+      "question": "Why are viruses often placed on the biological borderline between living and non-living entities?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They cannot move independently"
+        },
+        {
+          "id": "B",
+          "text": "They lack a cellular structure and only exhibit characteristics of life when hijacking a host cell"
+        },
+        {
+          "id": "C",
+          "text": "They do not contain any genetic material"
+        },
+        {
+          "id": "D",
+          "text": "They are too small to have mass"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "24",
+      "question": "In a controlled experiment, bread in a sealed, dry container showed no mould, while moist bread left open grew mould rapidly. What is the definitive conclusion?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mould requires light to photosynthesize"
+        },
+        {
+          "id": "B",
+          "text": "Microbes require both moisture and atmospheric air for optimal growth"
+        },
+        {
+          "id": "C",
+          "text": "Bread naturally repels mould"
+        },
+        {
+          "id": "D",
+          "text": "Plastic containers actively kill mould"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "25",
+      "question": "How does the nitrogen cycle, driven by soil bacteria like Rhizobium, maintain broad ecological balance?",
+      "options": [
+        {
+          "id": "A",
+          "text": "By creating new oxygen molecules"
+        },
+        {
+          "id": "B",
+          "text": "By converting inert atmospheric nitrogen into absorbable nitrates, sustaining the plant food web"
+        },
+        {
+          "id": "C",
+          "text": "By killing harmful fungi in the topsoil"
+        },
+        {
+          "id": "D",
+          "text": "By lowering the overall soil temperature"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "26",
+      "question": "Which of the following scenarios best describes a mutually beneficial symbiotic relationship involving microbes?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A virus causing influenza in a human host"
+        },
+        {
+          "id": "B",
+          "text": "Bacteria aiding digestion in a human gut while receiving a stable supply of nutrients"
+        },
+        {
+          "id": "C",
+          "text": "Mould consuming and destroying a piece of bread"
+        },
+        {
+          "id": "D",
+          "text": "Algae competing with fish for dissolved oxygen"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "27",
+      "question": "Why are standard antibiotics entirely ineffective against the common cold?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The common cold is caused by a virus, and antibiotics are biologically designed to only target bacterial structures"
+        },
+        {
+          "id": "B",
+          "text": "Antibiotics are too chemically weak"
+        },
+        {
+          "id": "C",
+          "text": "The human body rejects antibiotics during a cold"
+        },
+        {
+          "id": "D",
+          "text": "The common cold is a fungal infection"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "28",
+      "question": "What is a fundamental structural difference in the nucleus of a bacterial cell compared to a plant cell?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Plant cells have absolutely no nucleus"
+        },
+        {
+          "id": "B",
+          "text": "Bacteria have a complex, well-defined nucleus, plants do not"
+        },
+        {
+          "id": "C",
+          "text": "Bacteria lack a true, membrane-bound nucleus"
+        },
+        {
+          "id": "D",
+          "text": "Both nuclei are structurally identical"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "29",
+      "question": "How did Antonie van Leeuwenhoek's early development of lenses fundamentally revolutionize biology?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It allowed humans to observe distant planetary bodies"
+        },
+        {
+          "id": "B",
+          "text": "It provided the first empirical visual evidence of bacteria and protozoa, opening the microscopic world"
+        },
+        {
+          "id": "C",
+          "text": "It immediately cured infectious diseases"
+        },
+        {
+          "id": "D",
+          "text": "It led to the invention of the photographic camera"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "30",
+      "question": "If a farmer relies exclusively on synthetic chemical nitrogen fertilizers year after year, which natural soil microbe is being biologically underutilized?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yeast"
+        },
+        {
+          "id": "B",
+          "text": "Lactobacillus"
+        },
+        {
+          "id": "C",
+          "text": "Rhizobium"
+        },
+        {
+          "id": "D",
+          "text": "Amoeba"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    }
+  ]
+}

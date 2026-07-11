@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "Health is comprehensively defined as a state of complete physical, mental, and ________ well-being.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Financial"
+        },
+        {
+          "id": "B",
+          "text": "Social"
+        },
+        {
+          "id": "C",
+          "text": "Political"
+        },
+        {
+          "id": "D",
+          "text": "Educational"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "2",
+      "question": "Diseases that are capable of spreading from one infected person to another are called:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Non-communicable diseases"
+        },
+        {
+          "id": "B",
+          "text": "Communicable diseases"
+        },
+        {
+          "id": "C",
+          "text": "Genetic disorders"
+        },
+        {
+          "id": "D",
+          "text": "Nutritional deficiencies"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "3",
+      "question": "Which of the following daily activities is considered a healthy habit?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Eating processed junk food"
+        },
+        {
+          "id": "B",
+          "text": "Sleeping very late"
+        },
+        {
+          "id": "C",
+          "text": "Engaging in daily physical exercise"
+        },
+        {
+          "id": "D",
+          "text": "Chewing tobacco"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "4",
+      "question": "The body's inherent natural ability to defend itself against and fight off diseases is called:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Digestion"
+        },
+        {
+          "id": "B",
+          "text": "Immunity"
+        },
+        {
+          "id": "C",
+          "text": "Respiration"
+        },
+        {
+          "id": "D",
+          "text": "Blood circulation"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "5",
+      "question": "Which of the following communicable diseases is primarily spread by mosquitoes?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dengue"
+        },
+        {
+          "id": "B",
+          "text": "Typhoid"
+        },
+        {
+          "id": "C",
+          "text": "Chickenpox"
+        },
+        {
+          "id": "D",
+          "text": "Cholera"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "6",
+      "question": "The Air Quality Index (AQI) is a tool that helps citizens measure and understand:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Water purity levels"
+        },
+        {
+          "id": "B",
+          "text": "Soil fertility levels"
+        },
+        {
+          "id": "C",
+          "text": "How clean or polluted the ambient air is"
+        },
+        {
+          "id": "D",
+          "text": "Urban noise levels"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "7",
+      "question": "Who is credited with discovering the world's first antibiotic, penicillin?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Louis Pasteur"
+        },
+        {
+          "id": "B",
+          "text": "Alexander Fleming"
+        },
+        {
+          "id": "C",
+          "text": "Robert Hooke"
+        },
+        {
+          "id": "D",
+          "text": "Edward Jenner"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "8",
+      "question": "Physical sensations such as pain, extreme tiredness, and dizziness are examples of disease:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cures"
+        },
+        {
+          "id": "B",
+          "text": "Symptoms"
+        },
+        {
+          "id": "C",
+          "text": "Treatments"
+        },
+        {
+          "id": "D",
+          "text": "Pathogens"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "9",
+      "question": "A biologically balanced diet must include plenty of:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Highly processed foods"
+        },
+        {
+          "id": "B",
+          "text": "Sugary carbonated drinks"
+        },
+        {
+          "id": "C",
+          "text": "Fresh fruits, vegetables, and whole grains"
+        },
+        {
+          "id": "D",
+          "text": "Deep-fried snacks"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "10",
+      "question": "Which of the following is a classic example of a non-communicable disease?",
+      "options": [
+        {
+          "id": "A",
+          "text": "COVID-19"
+        },
+        {
+          "id": "B",
+          "text": "Diabetes"
+        },
+        {
+          "id": "C",
+          "text": "Influenza (Flu)"
+        },
+        {
+          "id": "D",
+          "text": "Typhoid fever"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "11",
+      "question": "How do vaccines function to protect the human body from future infections?",
+      "options": [
+        {
+          "id": "A",
+          "text": "By killing the patient's cells"
+        },
+        {
+          "id": "B",
+          "text": "By training the immune system to recognize and attack specific harmful germs safely"
+        },
+        {
+          "id": "C",
+          "text": "By providing an instant burst of physical energy"
+        },
+        {
+          "id": "D",
+          "text": "By stopping the digestion process"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "12",
+      "question": "Why is excessive and unregulated screen time on social media considered harmful to overall health?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It dramatically improves eyesight"
+        },
+        {
+          "id": "B",
+          "text": "It can lead to severe loneliness, poor sleep patterns, and negatively impact mental well-being"
+        },
+        {
+          "id": "C",
+          "text": "It acts as a digital vaccine against viruses"
+        },
+        {
+          "id": "D",
+          "text": "It builds physical muscle mass"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "13",
+      "question": "Consuming drinking water that has been contaminated with infected human excreta is the primary transmission route for which disease?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Asthma"
+        },
+        {
+          "id": "B",
+          "text": "Diabetes"
+        },
+        {
+          "id": "C",
+          "text": "Cholera"
+        },
+        {
+          "id": "D",
+          "text": "Lung Cancer"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "14",
+      "question": "Which statement accurately describes the capability of antibiotics?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They can cure absolutely any viral infection"
+        },
+        {
+          "id": "B",
+          "text": "They are specifically effective against bacterial infections"
+        },
+        {
+          "id": "C",
+          "text": "They should be taken as a preventative for every minor cough"
+        },
+        {
+          "id": "D",
+          "text": "They intentionally increase human blood pressure"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "15",
+      "question": "If a peer offers a student a cigarette, what is the most scientifically sound health choice?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Smoke it to ensure social acceptance"
+        },
+        {
+          "id": "B",
+          "text": "Say NO, because tobacco severely damages lung health and increases mortality risks"
+        },
+        {
+          "id": "C",
+          "text": "Save it to smoke later in private"
+        },
+        {
+          "id": "D",
+          "text": "Share it to minimize individual damage"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "16",
+      "question": "How do strict personal hygiene practices effectively prevent the onset of diseases?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They merely improve physical appearance"
+        },
+        {
+          "id": "B",
+          "text": "They physically eliminate pathogens from the hands and body before an infection can take root"
+        },
+        {
+          "id": "C",
+          "text": "They significantly increase body weight"
+        },
+        {
+          "id": "D",
+          "text": "They slow down the respiratory rate"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "17",
+      "question": "Why do dirty and unkempt surroundings actively increase the rate of sickness in a community?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They attract vectors like flies and mosquitoes that carry and transmit pathogens"
+        },
+        {
+          "id": "B",
+          "text": "They make the ambient air temperature too hot for survival"
+        },
+        {
+          "id": "C",
+          "text": "They are the primary cause of earthquakes"
+        },
+        {
+          "id": "D",
+          "text": "They produce excess toxic oxygen"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "18",
+      "question": "Respiratory conditions like asthma are most frequently triggered and worsened by:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Drinking boiled, purified water"
+        },
+        {
+          "id": "B",
+          "text": "Severe air pollution originating from vehicles and industrial factories"
+        },
+        {
+          "id": "C",
+          "text": "Eating a diet high in fresh fruits"
+        },
+        {
+          "id": "D",
+          "text": "Frequent handwashing"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "19",
+      "question": "The ancient practices of yoga and pranayama (breathing exercises) primarily benefit health by helping to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Manage psychological stress and maintain mental and physical well-being"
+        },
+        {
+          "id": "B",
+          "text": "Instantly cure broken bones"
+        },
+        {
+          "id": "C",
+          "text": "Permanently increase an adult's height"
+        },
+        {
+          "id": "D",
+          "text": "Prevent all genetic hair loss"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "20",
+      "question": "Why are non-communicable diseases (NCDs) seeing a sharp rise among young people today?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Due to an increase in mosquito bites globally"
+        },
+        {
+          "id": "B",
+          "text": "Due to rapid shifts toward unhealthy eating (junk food) and highly sedentary lifestyles with insufficient physical activity"
+        },
+        {
+          "id": "C",
+          "text": "Due to drinking heavily chlorinated water"
+        },
+        {
+          "id": "D",
+          "text": "Due to getting too much sleep"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "21",
+      "question": "What is the severe long-term global danger of using antibiotics unnecessarily or incorrectly?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It makes the medicines taste unpleasant"
+        },
+        {
+          "id": "B",
+          "text": "It drives antibiotic resistance, allowing bacteria to mutate and rendering the drugs ineffective in the future"
+        },
+        {
+          "id": "C",
+          "text": "It causes instant, fatal allergic reactions in all patients"
+        },
+        {
+          "id": "D",
+          "text": "It magically turns bacteria into aggressive viruses"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "22",
+      "question": "A teenager feels isolated, stops interacting with peers, and relies entirely on a smartphone, leading to severe weight loss and chronic headaches. This complex scenario highlights a breakdown in which specific aspect of health?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Strictly physical health"
+        },
+        {
+          "id": "B",
+          "text": "Strictly genetic health"
+        },
+        {
+          "id": "C",
+          "text": "Mental and social well-being, which subsequently degrades physical health"
+        },
+        {
+          "id": "D",
+          "text": "Innate immunity to bacterial infections"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "23",
+      "question": "Modern vaccines are typically manufactured using:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Extremely strong, highly active, and dangerous pathogens"
+        },
+        {
+          "id": "B",
+          "text": "Weakened, dead, or inactive fragments of pathogens that cannot cause the disease but trigger an immune response"
+        },
+        {
+          "id": "C",
+          "text": "Pure, synthetic toxic chemicals"
+        },
+        {
+          "id": "D",
+          "text": "Untreated plant leaves and roots"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "24",
+      "question": "How do communicable and non-communicable diseases differ fundamentally in their epidemiological transmission?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Communicable diseases are always genetic; non-communicable are always airborne"
+        },
+        {
+          "id": "B",
+          "text": "Communicable diseases spread via pathogens through vectors, air, or water; non-communicable diseases result from lifestyle or genetics and cannot be passed person-to-person"
+        },
+        {
+          "id": "C",
+          "text": "There is no scientific difference between the two"
+        },
+        {
+          "id": "D",
+          "text": "NCDs spread exclusively through physical touch"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "25",
+      "question": "In the event of a severe flu outbreak in a school, which immediate administrative action is scientifically the most effective at halting the spread?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Permanently close all windows to trap the air"
+        },
+        {
+          "id": "B",
+          "text": "Encourage students to share water bottles to build herd immunity"
+        },
+        {
+          "id": "C",
+          "text": "Mandate frequent handwashing and require symptomatic students to isolate at home"
+        },
+        {
+          "id": "D",
+          "text": "Administer strong antibiotics to the entire student body"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "26",
+      "question": "According to traditional Ayurvedic concepts integrated into holistic health models, physical well-being relies heavily on consuming food suited to an individual's:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Socioeconomic wealth"
+        },
+        {
+          "id": "B",
+          "text": "Prakriti (natural biological constitution)"
+        },
+        {
+          "id": "C",
+          "text": "Exact height in centimeters"
+        },
+        {
+          "id": "D",
+          "text": "Genetic eye color"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "27",
+      "question": "Why are diseases like diabetes and cardiovascular conditions now considered a rapidly growing, major public health threat in India?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because of newly mutated strains of infected water"
+        },
+        {
+          "id": "B",
+          "text": "Because they have suddenly become highly contagious airborne diseases"
+        },
+        {
+          "id": "C",
+          "text": "Because rapid urbanization has caused drastic shifts to sedentary lifestyles and processed diets, increasing their prevalence"
+        },
+        {
+          "id": "D",
+          "text": "Because a new species of mosquito carries them"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "28",
+      "question": "In medical diagnostics, which of the following accurately differentiates a \"sign\" from a \"symptom\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A sign is subjectively felt by the patient (e.g., pain); a symptom is objectively measured by a doctor (e.g., fever)"
+        },
+        {
+          "id": "B",
+          "text": "A symptom is subjective and felt by the patient (e.g., nausea); a sign is objective and can be visibly seen or measured by others (e.g., a rash or high temperature)"
+        },
+        {
+          "id": "C",
+          "text": "They are exactly the same medical concept"
+        },
+        {
+          "id": "D",
+          "text": "Signs only occur in plant diseases, symptoms in humans"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "29",
+      "question": "In epidemiology, identifying the peak months for a vector-borne disease outbreak (like dengue) allows civic authorities to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Close all educational institutions for the entire calendar year"
+        },
+        {
+          "id": "B",
+          "text": "Execute targeted preventive steps, such as aggressively clearing stagnant water pools, immediately before those high-risk months begin"
+        },
+        {
+          "id": "C",
+          "text": "Commercially breed and sell more mosquitoes"
+        },
+        {
+          "id": "D",
+          "text": "Plant more ornamental trees in urban centers"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "30",
+      "question": "If a person's immune system is chronically weakened by severe psychological stress, what is the most likely physical outcome according to psychosomatic medicine?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They become naturally immune to all known viruses"
+        },
+        {
+          "id": "B",
+          "text": "They experience increased disease susceptibility, slower healing, and severely disrupted sleep patterns"
+        },
+        {
+          "id": "C",
+          "text": "Their skeletal bones become significantly denser and stronger"
+        },
+        {
+          "id": "D",
+          "text": "They no longer require a balanced nutritional diet to survive"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    }
+  ]
+}

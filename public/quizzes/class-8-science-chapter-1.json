@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "What is the fundamental first step in conducting a scientific investigation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Writing a final conclusion"
+        },
+        {
+          "id": "B",
+          "text": "Asking a clear, focused question"
+        },
+        {
+          "id": "C",
+          "text": "Buying expensive lab equipment"
+        },
+        {
+          "id": "D",
+          "text": "Mixing random chemicals"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "2",
+      "question": "Which of the following statements represents a core truth about science?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It is only performed in laboratories"
+        },
+        {
+          "id": "B",
+          "text": "It is everywhere around us"
+        },
+        {
+          "id": "C",
+          "text": "It requires costly machines"
+        },
+        {
+          "id": "D",
+          "text": "It is only for adult scientists"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "3",
+      "question": "What is the scientific term for the factors that can be changed during an experiment?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Variables"
+        },
+        {
+          "id": "B",
+          "text": "Constants"
+        },
+        {
+          "id": "C",
+          "text": "Hypotheses"
+        },
+        {
+          "id": "D",
+          "text": "Observations"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "4",
+      "question": "Which human sense is most commonly relied upon for basic scientific observation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sight"
+        },
+        {
+          "id": "B",
+          "text": "Taste"
+        },
+        {
+          "id": "C",
+          "text": "Intuition"
+        },
+        {
+          "id": "D",
+          "text": "Hearing"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "5",
+      "question": "In an experiment observing how a puri puffs, which of the following is a variable that can be changed?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The shape of the cooking pan"
+        },
+        {
+          "id": "B",
+          "text": "The thickness of the dough"
+        },
+        {
+          "id": "C",
+          "text": "The color of the kitchen walls"
+        },
+        {
+          "id": "D",
+          "text": "The time of day"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "6",
+      "question": "What is the process of physically testing an idea in science called?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Guessing"
+        },
+        {
+          "id": "B",
+          "text": "Experimentation"
+        },
+        {
+          "id": "C",
+          "text": "Reading"
+        },
+        {
+          "id": "D",
+          "text": "Assuming"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "7",
+      "question": "A proper scientific question should always be:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Vague and broad"
+        },
+        {
+          "id": "B",
+          "text": "Clear, focused, and testable"
+        },
+        {
+          "id": "C",
+          "text": "Impossible to answer"
+        },
+        {
+          "id": "D",
+          "text": "Extremely long"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "8",
+      "question": "When a person observes their surroundings carefully and asks questions, they are acting like a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Scientist"
+        },
+        {
+          "id": "B",
+          "text": "Magician"
+        },
+        {
+          "id": "C",
+          "text": "Historian"
+        },
+        {
+          "id": "D",
+          "text": "Musician"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "9",
+      "question": "What is the logical next step after completing a simple experiment?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Asking the initial question"
+        },
+        {
+          "id": "B",
+          "text": "Thinking about and analyzing the results"
+        },
+        {
+          "id": "C",
+          "text": "Forgetting the data"
+        },
+        {
+          "id": "D",
+          "text": "Buying new instruments"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "10",
+      "question": "Is asking too many questions considered bad in the field of science?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes, it shows ignorance"
+        },
+        {
+          "id": "B",
+          "text": "No, asking questions is the starting point of all science"
+        },
+        {
+          "id": "C",
+          "text": "Yes, it wastes time"
+        },
+        {
+          "id": "D",
+          "text": "Only in classrooms"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "11",
+      "question": "Why is it critical to change only one variable at a time during an experiment?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To save time and money"
+        },
+        {
+          "id": "B",
+          "text": "To make the test clear, fair, and reliable"
+        },
+        {
+          "id": "C",
+          "text": "Because changing two variables is impossible"
+        },
+        {
+          "id": "D",
+          "text": "To confuse the observer"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "12",
+      "question": "If a student tests whether hot water dissolves sugar faster than cold water, what is the specific variable being changed?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The amount of sugar"
+        },
+        {
+          "id": "B",
+          "text": "The type of cup"
+        },
+        {
+          "id": "C",
+          "text": "The temperature of the water"
+        },
+        {
+          "id": "D",
+          "text": "The volume of water"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "13",
+      "question": "Which of the following statements is a common myth about science?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Science is found everywhere"
+        },
+        {
+          "id": "B",
+          "text": "One answer often leads to more questions"
+        },
+        {
+          "id": "C",
+          "text": "Looking true is not enough, it must be tested"
+        },
+        {
+          "id": "D",
+          "text": "Only highly trained scientists can do experiments"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "D",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "14",
+      "question": "What does a scientist typically do when an experiment yields a definitive answer?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Stops learning"
+        },
+        {
+          "id": "B",
+          "text": "Throws away the materials"
+        },
+        {
+          "id": "C",
+          "text": "Asks new questions based on the new information"
+        },
+        {
+          "id": "D",
+          "text": "Alters the results"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "15",
+      "question": "In the puri experiment, recording the \"Time Taken in Seconds\" is an example of recording an:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Independent variable"
+        },
+        {
+          "id": "B",
+          "text": "Empirical observation"
+        },
+        {
+          "id": "C",
+          "text": "Unscientific myth"
+        },
+        {
+          "id": "D",
+          "text": "Unrelated question"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "16",
+      "question": "The act of gathering evidence through human senses or specialized tools is known as:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Observation"
+        },
+        {
+          "id": "B",
+          "text": "Guesswork"
+        },
+        {
+          "id": "C",
+          "text": "Drawing a conclusion"
+        },
+        {
+          "id": "D",
+          "text": "Reading fiction"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "17",
+      "question": "Why is it necessary to write down observations immediately during an experiment?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To practice handwriting"
+        },
+        {
+          "id": "B",
+          "text": "To explain results clearly and accurately later"
+        },
+        {
+          "id": "C",
+          "text": "To hide the data from others"
+        },
+        {
+          "id": "D",
+          "text": "To make the experiment appear longer"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "18",
+      "question": "Which of these is a precise scientific observation about a boiling pot of water?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It looks very angry"
+        },
+        {
+          "id": "B",
+          "text": "Bubbles are forming at the bottom and steam is rising"
+        },
+        {
+          "id": "C",
+          "text": "It is performing magic"
+        },
+        {
+          "id": "D",
+          "text": "It wants to spill over"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "19",
+      "question": "Which scientific step involves using logical reasoning based entirely on gathered evidence?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Asking questions"
+        },
+        {
+          "id": "B",
+          "text": "Drawing conclusions"
+        },
+        {
+          "id": "C",
+          "text": "Purchasing materials"
+        },
+        {
+          "id": "D",
+          "text": "Changing variables randomly"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "20",
+      "question": "The integration of local contexts and indigenous knowledge in the curriculum helps to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Make science less accurate"
+        },
+        {
+          "id": "B",
+          "text": "Make science relatable and grounded in real-world heritage"
+        },
+        {
+          "id": "C",
+          "text": "Replace the scientific method completely"
+        },
+        {
+          "id": "D",
+          "text": "Prevent students from questioning facts"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "21",
+      "question": "A student tests plant growth by placing one plant in sunlight and one in the dark, but waters only the plant in the sunlight. Why is this a flawed experiment?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Plants do not need water"
+        },
+        {
+          "id": "B",
+          "text": "Two variables were changed at once, making the results invalid"
+        },
+        {
+          "id": "C",
+          "text": "The dark environment is always bad for plants"
+        },
+        {
+          "id": "D",
+          "text": "The student did not formulate a hypothesis"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "22",
+      "question": "If a hypothesis seems logically true but the experimental evidence proves it false, what is the correct scientific action?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Alter the experimental data to match the hypothesis"
+        },
+        {
+          "id": "B",
+          "text": "Accept the empirical evidence and revise or discard the hypothesis"
+        },
+        {
+          "id": "C",
+          "text": "Ignore the experiment completely"
+        },
+        {
+          "id": "D",
+          "text": "Stop conducting scientific research"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "23",
+      "question": "In an experiment testing how the thickness of dough affects a puri's puffing speed, which factor must remain strictly constant?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The thickness of the dough"
+        },
+        {
+          "id": "B",
+          "text": "The puffing speed observed"
+        },
+        {
+          "id": "C",
+          "text": "The temperature of the frying oil"
+        },
+        {
+          "id": "D",
+          "text": "The overall size of the puri after puffing"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "24",
+      "question": "How does observing lunar cycles link to the foundational investigative world of science?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It proves the moon is made of unknown materials"
+        },
+        {
+          "id": "B",
+          "text": "It demonstrates how early, systematic observations led to the creation of reliable calendars"
+        },
+        {
+          "id": "C",
+          "text": "It requires expensive laboratory tools to understand"
+        },
+        {
+          "id": "D",
+          "text": "It is an untestable myth"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "25",
+      "question": "Which scenario best demonstrates a \"systematic investigation\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Guessing why a flashlight will not turn on"
+        },
+        {
+          "id": "B",
+          "text": "Testing different batteries one by one to isolate the cause of the flashlight failing"
+        },
+        {
+          "id": "C",
+          "text": "Shaking the flashlight until it works"
+        },
+        {
+          "id": "D",
+          "text": "Asking a friend for the answer"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "26",
+      "question": "What is the primary reason why merely looking at something and assuming it is true is insufficient in scientific methodology?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Human eyesight is generally poor"
+        },
+        {
+          "id": "B",
+          "text": "Evidence must be physically tested and rigorously observed to confirm objective validity"
+        },
+        {
+          "id": "C",
+          "text": "Textbooks already contain all the answers"
+        },
+        {
+          "id": "D",
+          "text": "Science only trusts digital tools"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "27",
+      "question": "A student notices that bread gets moldy faster in a warm kitchen than in a refrigerator. What is the most rigorous scientific question to ask next?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Who left the bread on the counter?"
+        },
+        {
+          "id": "B",
+          "text": "How exactly does ambient temperature affect the growth rate of mold on bread?"
+        },
+        {
+          "id": "C",
+          "text": "Is bread mold always green?"
+        },
+        {
+          "id": "D",
+          "text": "Why is fresh bread soft?"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "28",
+      "question": "Which of the following accurately defines the relationship between a hypothesis and a conclusion?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A conclusion is an educated guess; a hypothesis is an absolute fact"
+        },
+        {
+          "id": "B",
+          "text": "A hypothesis is a testable proposition; a conclusion is the final explanation derived from evidence"
+        },
+        {
+          "id": "C",
+          "text": "They are identical concepts"
+        },
+        {
+          "id": "D",
+          "text": "A hypothesis ignores physical evidence"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "29",
+      "question": "Systematic investigations often require breaking down complex phenomena into simpler parts. This is because:",
+      "options": [
+        {
+          "id": "A",
+          "text": "It makes the math easier"
+        },
+        {
+          "id": "B",
+          "text": "Isolating variables allows for clear identification of cause-and-effect relationships"
+        },
+        {
+          "id": "C",
+          "text": "Complex phenomena are illusions"
+        },
+        {
+          "id": "D",
+          "text": "Nature operates randomly"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "30",
+      "question": "If a scientific experiment uses simple household materials instead of laboratory glassware, the experiment is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Not considered real science"
+        },
+        {
+          "id": "B",
+          "text": "Automatically invalid"
+        },
+        {
+          "id": "C",
+          "text": "A valid scientific investigation provided the systematic steps of inquiry are followed"
+        },
+        {
+          "id": "D",
+          "text": "Only suitable for primary school"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    }
+  ]
+}

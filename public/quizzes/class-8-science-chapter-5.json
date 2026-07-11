@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "In scientific terms, a push or a pull applied on an object is defined as a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Weight"
+        },
+        {
+          "id": "B",
+          "text": "Force"
+        },
+        {
+          "id": "C",
+          "text": "Mass"
+        },
+        {
+          "id": "D",
+          "text": "Speed"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "2",
+      "question": "The standard SI unit used globally to measure force is the:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Joule"
+        },
+        {
+          "id": "B",
+          "text": "Pascal"
+        },
+        {
+          "id": "C",
+          "text": "Newton (N)"
+        },
+        {
+          "id": "D",
+          "text": "Meter"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "3",
+      "question": "Which of the following is considered a contact force?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Magnetic force"
+        },
+        {
+          "id": "B",
+          "text": "Gravitational force"
+        },
+        {
+          "id": "C",
+          "text": "Muscular force"
+        },
+        {
+          "id": "D",
+          "text": "Electrostatic force"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "4",
+      "question": "The invisible force exerted by the Earth that pulls all objects downwards toward its center is called:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Friction"
+        },
+        {
+          "id": "B",
+          "text": "Magnetic force"
+        },
+        {
+          "id": "C",
+          "text": "Gravitational force"
+        },
+        {
+          "id": "D",
+          "text": "Upthrust"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "5",
+      "question": "The specific force that always acts to oppose the motion between two physical surfaces in contact is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Buoyant force"
+        },
+        {
+          "id": "B",
+          "text": "Friction"
+        },
+        {
+          "id": "C",
+          "text": "Gravity"
+        },
+        {
+          "id": "D",
+          "text": "Tension"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "6",
+      "question": "A magnet attracting iron paper clips from a distance without touching them is a classic example of a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Contact force"
+        },
+        {
+          "id": "B",
+          "text": "Non-contact force"
+        },
+        {
+          "id": "C",
+          "text": "Muscular force"
+        },
+        {
+          "id": "D",
+          "text": "Frictional force"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "7",
+      "question": "What mechanical instrument is commonly used in laboratories to measure the exact weight of an object?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mercury Thermometer"
+        },
+        {
+          "id": "B",
+          "text": "Spring balance"
+        },
+        {
+          "id": "C",
+          "text": "Magnetic Compass"
+        },
+        {
+          "id": "D",
+          "text": "Barometer"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "8",
+      "question": "Does the intrinsic mass of an object change if an astronaut transports it to the Moon?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes, it becomes absolute zero"
+        },
+        {
+          "id": "B",
+          "text": "Yes, it becomes significantly less"
+        },
+        {
+          "id": "C",
+          "text": "No, an object's mass remains the same everywhere in the universe"
+        },
+        {
+          "id": "D",
+          "text": "Yes, it increases"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "9",
+      "question": "When you firmly squeeze an inflated rubber balloon, the applied force visibly changes the balloon's:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mass"
+        },
+        {
+          "id": "B",
+          "text": "Weight"
+        },
+        {
+          "id": "C",
+          "text": "Shape"
+        },
+        {
+          "id": "D",
+          "text": "Temperature"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "10",
+      "question": "The upward push exerted by any liquid on an object placed inside it is scientifically called:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Friction"
+        },
+        {
+          "id": "B",
+          "text": "Gravity"
+        },
+        {
+          "id": "C",
+          "text": "Buoyant force (Upthrust)"
+        },
+        {
+          "id": "D",
+          "text": "Magnetic force"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "11",
+      "question": "If a rubber ball is rolling on flat ground and eventually slows down to a stop, which force is primarily responsible?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Downward Gravity"
+        },
+        {
+          "id": "B",
+          "text": "Frictional force"
+        },
+        {
+          "id": "C",
+          "text": "Magnetic force"
+        },
+        {
+          "id": "D",
+          "text": "Muscular force"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "12",
+      "question": "Why is it significantly easier to slip and fall on a wet or highly polished smooth floor?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because gravity suddenly increases"
+        },
+        {
+          "id": "B",
+          "text": "Because the friction between your feet and the floor drastically decreases"
+        },
+        {
+          "id": "C",
+          "text": "Because the floor becomes highly magnetic"
+        },
+        {
+          "id": "D",
+          "text": "Because your body mass decreases"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "13",
+      "question": "If you aggressively rub a plastic scale on dry hair, it can attract small pieces of paper. This is due to the buildup of:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Magnetic force"
+        },
+        {
+          "id": "B",
+          "text": "Electrostatic force"
+        },
+        {
+          "id": "C",
+          "text": "Gravitational force"
+        },
+        {
+          "id": "D",
+          "text": "Frictional force"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "14",
+      "question": "An object will successfully float in water only if:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Its total weight is much greater than the buoyant force"
+        },
+        {
+          "id": "B",
+          "text": "The upward buoyant force is equal to or greater than its downward weight"
+        },
+        {
+          "id": "C",
+          "text": "It has absolutely no mass"
+        },
+        {
+          "id": "D",
+          "text": "The water exerts no pressure"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "15",
+      "question": "How do the poles of two different magnets interact with each other?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Like poles attract, unlike poles repel"
+        },
+        {
+          "id": "B",
+          "text": "Like poles repel, unlike poles attract"
+        },
+        {
+          "id": "C",
+          "text": "All poles always repel"
+        },
+        {
+          "id": "D",
+          "text": "They do not interact at all"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "16",
+      "question": "The weight of an object on Earth is exactly 60 N. What will be its approximate weight on the surface of the Moon?",
+      "options": [
+        {
+          "id": "A",
+          "text": "60 N"
+        },
+        {
+          "id": "B",
+          "text": "10 N"
+        },
+        {
+          "id": "C",
+          "text": "0 N"
+        },
+        {
+          "id": "D",
+          "text": "360 N"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "17",
+      "question": "For a force to be applied, there must be a physical or non-physical interaction between at least how many objects?",
+      "options": [
+        {
+          "id": "A",
+          "text": "One"
+        },
+        {
+          "id": "B",
+          "text": "Two"
+        },
+        {
+          "id": "C",
+          "text": "Three"
+        },
+        {
+          "id": "D",
+          "text": "Zero"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "18",
+      "question": "Can a force successfully act on an object from a distance without touching it?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes, non-contact forces like gravity and magnetism act across empty space"
+        },
+        {
+          "id": "B",
+          "text": "No, direct physical contact is always required"
+        },
+        {
+          "id": "C",
+          "text": "Only when submerged in liquids"
+        },
+        {
+          "id": "D",
+          "text": "Only in the vacuum of outer space"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "19",
+      "question": "Pushing a heavy wooden table is physically harder than pushing a light plastic one across the same floor because:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gravity pulls the heavy table sideways"
+        },
+        {
+          "id": "B",
+          "text": "The heavy table presses down harder, experiencing greater friction against the floor"
+        },
+        {
+          "id": "C",
+          "text": "The heavy table generates a magnetic field"
+        },
+        {
+          "id": "D",
+          "text": "The light table has zero mass"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "20",
+      "question": "When a ripe apple detaches and falls from a tree branch, what forces are actively acting on it as it plummets?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only friction"
+        },
+        {
+          "id": "B",
+          "text": "Gravitational force (pulling it down) and air resistance/friction (pushing it up)"
+        },
+        {
+          "id": "C",
+          "text": "Purely magnetic force"
+        },
+        {
+          "id": "D",
+          "text": "Buoyant force from the air"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "21",
+      "question": "If a large wooden block floats but a tiny iron nail sinks in a bucket of water, this observation definitively proves that:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wood is immune to gravity"
+        },
+        {
+          "id": "B",
+          "text": "The nail experiences a gravitational force greater than the displaced water's buoyant force, while the block does not"
+        },
+        {
+          "id": "C",
+          "text": "Iron is naturally magnetic"
+        },
+        {
+          "id": "D",
+          "text": "Water only exerts upward pressure on wood"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "22",
+      "question": "Which of the following statements most accurately describes an object in non-uniform motion?",
+      "options": [
+        {
+          "id": "A",
+          "text": "An object moving at a perfectly constant speed in a straight line"
+        },
+        {
+          "id": "B",
+          "text": "An object sitting completely at rest"
+        },
+        {
+          "id": "C",
+          "text": "An object whose speed or direction is constantly changing, indicating that a net force is acting upon it"
+        },
+        {
+          "id": "D",
+          "text": "An object possessing zero mass"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "23",
+      "question": "Assertion",
+      "options": [
+        {
+          "id": "A",
+          "text": ": The measured weight of an object changes depending on its specific location in the universe. Reason (R): Weight is the gravitational force exerted on an object, and the strength of gravity varies by planet.(A) Both A and R are true, and R is the correct explanation"
+        },
+        {
+          "id": "B",
+          "text": "Both A and R are true, but R is not the explanation"
+        },
+        {
+          "id": "C",
+          "text": "A is true, R is false"
+        },
+        {
+          "id": "D",
+          "text": "A is false, R is true"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "24",
+      "question": "If two perfectly balanced, equal forces act on a stationary box from exact opposite directions, what will the physical outcome be?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The box will move rapidly to the left"
+        },
+        {
+          "id": "B",
+          "text": "The box will move rapidly to the right"
+        },
+        {
+          "id": "C",
+          "text": "The box will remain completely stationary because the net force is zero"
+        },
+        {
+          "id": "D",
+          "text": "The box will begin to float"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "25",
+      "question": "A ball thrown violently upwards slows down, stops momentarily at its peak, and falls back. At its exact topmost position, what force is acting on it?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Absolutely no force"
+        },
+        {
+          "id": "B",
+          "text": "Only a continuous downward gravitational force"
+        },
+        {
+          "id": "C",
+          "text": "Only residual upward muscular force"
+        },
+        {
+          "id": "D",
+          "text": "Only an upward buoyant force"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "26",
+      "question": "Why do objects moving rapidly through the air (like airplanes or fast cars) experience air resistance?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because air has physical mass and causes fluid friction against moving objects"
+        },
+        {
+          "id": "B",
+          "text": "Because the atmosphere is a pure vacuum"
+        },
+        {
+          "id": "C",
+          "text": "Because air molecules are highly magnetic"
+        },
+        {
+          "id": "D",
+          "text": "Because air possesses strong localized gravity"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "27",
+      "question": "When a heavily compressed metal spring is suddenly released, the initial force it exerts is primarily classified as a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Non-contact force"
+        },
+        {
+          "id": "B",
+          "text": "Contact (elastic/mechanical) force"
+        },
+        {
+          "id": "C",
+          "text": "Electrostatic force"
+        },
+        {
+          "id": "D",
+          "text": "Gravitational force"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "28",
+      "question": "To force a rolling marble to stop before it reaches a certain marked point on the floor, you should strategically:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Decrease friction by oiling the surface"
+        },
+        {
+          "id": "B",
+          "text": "Increase the initial muscular push"
+        },
+        {
+          "id": "C",
+          "text": "Increase friction by placing a rough surface like a thick carpet in its path"
+        },
+        {
+          "id": "D",
+          "text": "Attach tiny wheels to the marble"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "29",
+      "question": "Newton's First Law (inertia) dictates that an object will stubbornly remain at rest or continue in straight-line motion unless it is acted upon by:",
+      "options": [
+        {
+          "id": "A",
+          "text": "A perfectly balanced force"
+        },
+        {
+          "id": "B",
+          "text": "An unbalanced external force"
+        },
+        {
+          "id": "C",
+          "text": "Intrinsic mass"
+        },
+        {
+          "id": "D",
+          "text": "Intrinsic weight"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "30",
+      "question": "An electrostatic force can be both attractive and repulsive. This is entirely dependent on whether:",
+      "options": [
+        {
+          "id": "A",
+          "text": "The object has distinct north and south poles"
+        },
+        {
+          "id": "B",
+          "text": "The interacting electrical charges are like (which repel) or unlike (which attract)"
+        },
+        {
+          "id": "C",
+          "text": "The physical mass of the object is large or small"
+        },
+        {
+          "id": "D",
+          "text": "The interaction occurs within a gravitational field"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    }
+  ]
+}

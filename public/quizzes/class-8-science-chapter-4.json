@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "When electric current flows through a conductor and the wire gets hot, this phenomenon is called the:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Magnetic effect"
+        },
+        {
+          "id": "B",
+          "text": "Heating effect"
+        },
+        {
+          "id": "C",
+          "text": "Chemical effect"
+        },
+        {
+          "id": "D",
+          "text": "Cooling effect"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "2",
+      "question": "Which of the following common household devices operates primarily on the heating effect of electric current?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Electric iron"
+        },
+        {
+          "id": "B",
+          "text": "Magnetic compass"
+        },
+        {
+          "id": "C",
+          "text": "Electric doorbell"
+        },
+        {
+          "id": "D",
+          "text": "Industrial crane"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "3",
+      "question": "A tightly wound coil of wire carrying an electric current behaves identically to a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Battery cell"
+        },
+        {
+          "id": "B",
+          "text": "Magnet"
+        },
+        {
+          "id": "C",
+          "text": "Light bulb"
+        },
+        {
+          "id": "D",
+          "text": "Mechanical switch"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "4",
+      "question": "The inherent property of a material that naturally opposes the flow of electric current is known as:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Magnetic attraction"
+        },
+        {
+          "id": "B",
+          "text": "Electrical resistance"
+        },
+        {
+          "id": "C",
+          "text": "Electromagnetism"
+        },
+        {
+          "id": "D",
+          "text": "Voltage"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "5",
+      "question": "What is the chemical liquid or moist paste inside an electric cell that helps generate electricity called?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Purified water"
+        },
+        {
+          "id": "B",
+          "text": "Electrolyte"
+        },
+        {
+          "id": "C",
+          "text": "Lubricating oil"
+        },
+        {
+          "id": "D",
+          "text": "Sulfuric acid"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "6",
+      "question": "Which famous scientist is credited with discovering the magnetic effect of electric current?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Isaac Newton"
+        },
+        {
+          "id": "B",
+          "text": "Hans Christian Oersted"
+        },
+        {
+          "id": "C",
+          "text": "Thomas Edison"
+        },
+        {
+          "id": "D",
+          "text": "Albert Einstein"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "7",
+      "question": "A temporary magnet created by passing an electric current through a coil of wire wrapped around an iron nail is called an:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Electromagnet"
+        },
+        {
+          "id": "B",
+          "text": "Permanent magnet"
+        },
+        {
+          "id": "C",
+          "text": "Natural lodestone"
+        },
+        {
+          "id": "D",
+          "text": "Bar magnet"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "8",
+      "question": "A critical safety device designed to break the electrical circuit if the current becomes dangerously high is a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wall switch"
+        },
+        {
+          "id": "B",
+          "text": "Dry battery"
+        },
+        {
+          "id": "C",
+          "text": "Fuse"
+        },
+        {
+          "id": "D",
+          "text": "LED bulb"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "9",
+      "question": "What specific metal alloy is commonly used as a heating element in electric room heaters?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Plastic polymer"
+        },
+        {
+          "id": "B",
+          "text": "Pure copper"
+        },
+        {
+          "id": "C",
+          "text": "Nichrome"
+        },
+        {
+          "id": "D",
+          "text": "Treated wood"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "10",
+      "question": "A standard dry cell is referred to as \"dry\" primarily because it utilizes:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dry powdered zinc"
+        },
+        {
+          "id": "B",
+          "text": "A moist chemical paste instead of a free-flowing liquid"
+        },
+        {
+          "id": "C",
+          "text": "Absolutely no chemicals"
+        },
+        {
+          "id": "D",
+          "text": "Dry organic leaves"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "11",
+      "question": "If you bring a sensitive magnetic compass near a wire carrying a strong electric current, the compass needle will:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Melt instantly"
+        },
+        {
+          "id": "B",
+          "text": "Deflect from its original North-South position"
+        },
+        {
+          "id": "C",
+          "text": "Stop moving entirely"
+        },
+        {
+          "id": "D",
+          "text": "Always point due South"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "12",
+      "question": "What is the primary functional difference between an electromagnet and a permanent magnet?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Electromagnets are always weaker"
+        },
+        {
+          "id": "B",
+          "text": "Electromagnets only possess a magnetic field when electric current flows through them"
+        },
+        {
+          "id": "C",
+          "text": "Permanent magnets require continuous battery power"
+        },
+        {
+          "id": "D",
+          "text": "Electromagnets cannot pick up iron objects"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "13",
+      "question": "Which of the following factors will increase the amount of heat produced in a current-carrying wire?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Making the wire significantly thicker"
+        },
+        {
+          "id": "B",
+          "text": "Using a much shorter piece of wire"
+        },
+        {
+          "id": "C",
+          "text": "Increasing the overall strength of the electric current"
+        },
+        {
+          "id": "D",
+          "text": "Cooling the surrounding room temperature"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "14",
+      "question": "Why is nichrome preferred over copper for constructing heating elements in appliances?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It is a very poor conductor of heat"
+        },
+        {
+          "id": "B",
+          "text": "It melts easily at low temperatures"
+        },
+        {
+          "id": "C",
+          "text": "It offers high resistance to current flow, thereby producing more thermal energy"
+        },
+        {
+          "id": "D",
+          "text": "It naturally acts as a strong magnet"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "15",
+      "question": "What happens to the magnetic field of a working electromagnet the exact moment the switch is turned 'OFF'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It grows much stronger"
+        },
+        {
+          "id": "B",
+          "text": "It remains the same indefinitely"
+        },
+        {
+          "id": "C",
+          "text": "It disappears almost immediately"
+        },
+        {
+          "id": "D",
+          "text": "It permanently magnetizes the core"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "16",
+      "question": "How can an engineer effectively increase the lifting strength of an electromagnet?",
+      "options": [
+        {
+          "id": "A",
+          "text": "By using fewer turns of wire in the coil"
+        },
+        {
+          "id": "B",
+          "text": "By increasing the number of cells (current) in the connected battery"
+        },
+        {
+          "id": "C",
+          "text": "By using a hollow plastic core instead of solid iron"
+        },
+        {
+          "id": "D",
+          "text": "By significantly decreasing the electrical current"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "17",
+      "question": "In a simple school experiment creating a lemon battery, what specific scientific role does the lemon juice play?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It acts as the conductive wire"
+        },
+        {
+          "id": "B",
+          "text": "It functions as a mechanical switch"
+        },
+        {
+          "id": "C",
+          "text": "It acts as an electrolyte to facilitate chemical reactions"
+        },
+        {
+          "id": "D",
+          "text": "It produces light directly without a bulb"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "18",
+      "question": "Why do the thick copper wires used in standard household wall wiring not get dangerously hot like the wires inside a toaster?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Copper has very low electrical resistance, generating minimal heat"
+        },
+        {
+          "id": "B",
+          "text": "Copper has extremely high resistance"
+        },
+        {
+          "id": "C",
+          "text": "Wall wires do not actually carry electric current"
+        },
+        {
+          "id": "D",
+          "text": "Copper is a highly magnetic metal"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "19",
+      "question": "Does a current-carrying cylindrical coil possess two distinct magnetic poles (North and South) similar to a traditional bar magnet?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes, it develops distinct North and South poles"
+        },
+        {
+          "id": "B",
+          "text": "No, it possesses only a single pole"
+        },
+        {
+          "id": "C",
+          "text": "No, it has absolutely no poles"
+        },
+        {
+          "id": "D",
+          "text": "Its poles change randomly every second"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "20",
+      "question": "Why are modern rechargeable batteries considered significantly better for environmental sustainability?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They are physically much smaller"
+        },
+        {
+          "id": "B",
+          "text": "They can be recharged and reused multiple times, drastically reducing chemical waste in landfills"
+        },
+        {
+          "id": "C",
+          "text": "They never, ever run out of electrical charge"
+        },
+        {
+          "id": "D",
+          "text": "They are constructed entirely from biodegradable paper"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "21",
+      "question": "Assertion",
+      "options": [
+        {
+          "id": "A",
+          "text": ": A nichrome wire gets extremely hot when electric current flows through it. Reason (R): Nichrome offers high resistance to the flow of current, converting electrical energy to thermal energy.(A) Both A and R are true, and R is the correct explanation of A"
+        },
+        {
+          "id": "B",
+          "text": "Both A and R are true, but R is not the correct explanation"
+        },
+        {
+          "id": "C",
+          "text": "A is true, R is false"
+        },
+        {
+          "id": "D",
+          "text": "A is false, R is true"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "22",
+      "question": "According to Joule's law of heating, the exact amount of heat produced in a wire is directly dependent on which three specific factors?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Current intensity, wire resistance, and the time duration of flow"
+        },
+        {
+          "id": "B",
+          "text": "Voltage and physical mass of the wire"
+        },
+        {
+          "id": "C",
+          "text": "Wire length and color only"
+        },
+        {
+          "id": "D",
+          "text": "Magnetic field strength and gravity only"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "23",
+      "question": "If you tightly wind a wire around a hollow plastic tube instead of a solid iron nail and pass a current through it, what is the resulting magnetic outcome?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It becomes an incredibly strong electromagnet"
+        },
+        {
+          "id": "B",
+          "text": "It produces a magnetic field, but one that is significantly weaker than if it had an iron core"
+        },
+        {
+          "id": "C",
+          "text": "Absolutely no magnetic field is produced"
+        },
+        {
+          "id": "D",
+          "text": "The plastic chemically transforms into iron"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "24",
+      "question": "A student properly connects a circuit, but a compass needle placed near the wire fails to deflect. What is the most scientifically probable reason?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The wire is made of copper, which isn't magnetic"
+        },
+        {
+          "id": "B",
+          "text": "The circuit is open, or the battery is completely dead, meaning no current is flowing"
+        },
+        {
+          "id": "C",
+          "text": "The compass is naturally pointing North"
+        },
+        {
+          "id": "D",
+          "text": "The wire used is too thick"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "25",
+      "question": "In industrial junkyards, how do massive lifting electromagnets release heavy scrap iron once it has been moved?",
+      "options": [
+        {
+          "id": "A",
+          "text": "By rapidly reversing the magnetic poles"
+        },
+        {
+          "id": "B",
+          "text": "By pouring cooling water over the magnet"
+        },
+        {
+          "id": "C",
+          "text": "By opening the electric circuit to stop the current, instantly terminating the magnetic field"
+        },
+        {
+          "id": "D",
+          "text": "By using a secondary machine to pull the scrap off"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "26",
+      "question": "Which of the following statements best explains the critical scientific difference between electrical resistance and resistivity?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They are exactly the same concept in physics"
+        },
+        {
+          "id": "B",
+          "text": "Resistance depends on an object's specific shape and size, while resistivity is an intrinsic property of the material itself regardless of shape"
+        },
+        {
+          "id": "C",
+          "text": "Resistivity applies to magnets, resistance applies to heat"
+        },
+        {
+          "id": "D",
+          "text": "Resistance is measured in volts, resistivity in amps"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "27",
+      "question": "At an atomic level, when an electric current is passed through a wire, why do the moving electrons create sensible heat?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The electrons literally catch on fire"
+        },
+        {
+          "id": "B",
+          "text": "The moving electrons constantly collide with the atoms in the conductor, converting their kinetic energy into thermal energy"
+        },
+        {
+          "id": "C",
+          "text": "The electrons absorb ambient heat from the surrounding air"
+        },
+        {
+          "id": "D",
+          "text": "The electrons react chemically with atmospheric oxygen"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "28",
+      "question": "If a technician reverses the direction of the direct current (DC) flowing through a coil, what happens to the coil's magnetic poles?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The poles completely disappear"
+        },
+        {
+          "id": "B",
+          "text": "The poles remain exactly the same"
+        },
+        {
+          "id": "C",
+          "text": "The poles are reversed (the North pole becomes the South pole)"
+        },
+        {
+          "id": "D",
+          "text": "The coil immediately catches fire"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "29",
+      "question": "Why are household electric heating devices rigorously rated for a specific maximum voltage?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To control the color of the glowing wire"
+        },
+        {
+          "id": "B",
+          "text": "Because applying a higher voltage causes excessive current flow, leading to dangerous overheating and potential damage due to the heating effect"
+        },
+        {
+          "id": "C",
+          "text": "To make the devices heavier and more stable"
+        },
+        {
+          "id": "D",
+          "text": "The rating is just a random manufacturer number"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    },
+    {
+      "id": "30",
+      "question": "When comparing a traditional voltaic cell to a modern dry cell, why is the dry cell vastly more portable for everyday devices?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It contains absolutely no chemicals"
+        },
+        {
+          "id": "B",
+          "text": "It utilizes a moist paste as an electrolyte instead of a spillable, corrosive liquid"
+        },
+        {
+          "id": "C",
+          "text": "It is constructed entirely out of lightweight plastic"
+        },
+        {
+          "id": "D",
+          "text": "It doesn't actually generate real electricity"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Science Class 8 curriculum."
+    }
+  ]
+}
