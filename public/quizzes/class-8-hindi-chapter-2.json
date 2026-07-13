@@ -2,753 +2,753 @@
   "questions": [
     {
       "id": "1",
-      "question": "'रेशम की डोरी' किस विधा की रचना है?",
+      "question": "'दो गौरैया' कहानी के लेखक कौन हैं?",
       "options": [
         {
           "id": "A",
-          "text": "कविता"
+          "text": "प्रेमचंद"
         },
         {
           "id": "B",
-          "text": "कहानी"
+          "text": "भीष्म साहनी"
         },
         {
           "id": "C",
-          "text": "निबंध"
+          "text": "माधवराव सप्रे"
         },
         {
           "id": "D",
-          "text": "संस्मरण"
+          "text": "भारतेंदु हरिश्चंद्र"
         }
       ],
       "difficulty": "Easy",
       "correctAnswerId": "B",
-      "explanation": "सही उत्तर B है।"
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "2",
-      "question": "कहानी का मुख्य विषय क्या है?",
+      "question": "लेखक के घर की बैठक में किन पक्षियों ने घोंसला बनाया था?",
       "options": [
         {
           "id": "A",
-          "text": "प्रेम और पारिवारिक संबंध"
+          "text": "कौवों ने"
         },
         {
           "id": "B",
-          "text": "युद्ध"
+          "text": "तोतों ने"
         },
         {
           "id": "C",
-          "text": "खेल"
+          "text": "दो गौरैयों ने"
         },
         {
           "id": "D",
-          "text": "विज्ञान"
+          "text": "कबूतरों ने"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "3",
-      "question": "रेशम की डोरी किसका प्रतीक है?",
+      "question": "गौरैयों ने अपना घोंसला कहाँ बनाया था?",
       "options": [
         {
           "id": "A",
-          "text": "प्रेम और अपनापन"
+          "text": "छत के पंखे के गोले में"
         },
         {
           "id": "B",
-          "text": "क्रोध"
+          "text": "अलमारी पर"
         },
         {
           "id": "C",
-          "text": "घमंड"
+          "text": "रोशनदान में"
         },
         {
           "id": "D",
-          "text": "भय"
+          "text": "पेड़ पर"
         }
       ],
       "difficulty": "Easy",
       "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "4",
-      "question": "कहानी हमें किसका महत्व बताती है?",
+      "question": "पिताजी घर को व्यंग्य में क्या कहकर बुलाते थे?",
       "options": [
         {
           "id": "A",
-          "text": "रिश्तों का"
+          "text": "महल"
         },
         {
           "id": "B",
-          "text": "धन का"
+          "text": "सराय (Inn)"
         },
         {
           "id": "C",
-          "text": "प्रसिद्धि का"
+          "text": "चिड़ियाघर"
         },
         {
           "id": "D",
-          "text": "शक्ति का"
+          "text": "जंगल"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "5",
-      "question": "परिवार में प्रेम बनाए रखने के लिए क्या आवश्यक है?",
+      "question": "घर के आँगन में कौन-सा पेड़ स्थित था?",
       "options": [
         {
           "id": "A",
-          "text": "विश्वास"
+          "text": "नीम का"
         },
         {
           "id": "B",
-          "text": "झगड़ा"
+          "text": "पीपल का"
         },
         {
           "id": "C",
-          "text": "स्वार्थ"
+          "text": "बरगद का"
         },
         {
           "id": "D",
-          "text": "ईर्ष्या"
+          "text": "आम का"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "D",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "6",
-      "question": "कहानी पढ़कर कौन-सी भावना विकसित होती है?",
+      "question": "गौरैयों को भगाने का सबसे ज्यादा प्रयास किसने किया?",
       "options": [
         {
           "id": "A",
-          "text": "आत्मीयता"
+          "text": "लेखक ने"
         },
         {
           "id": "B",
-          "text": "क्रोध"
+          "text": "माँ ने"
         },
         {
           "id": "C",
-          "text": "घमंड"
+          "text": "पड़ोसियों ने"
         },
         {
           "id": "D",
-          "text": "लापरवाही"
+          "text": "पिताजी ने"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "D",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "7",
-      "question": "रेशम की डोरी किस गुण का प्रतीक मानी गई है?",
+      "question": "पिताजी गौरैयों को डराने और भगाने के लिए किसका इस्तेमाल करते थे?",
       "options": [
         {
           "id": "A",
-          "text": "मजबूत संबंधों का"
+          "text": "पानी का"
         },
         {
           "id": "B",
-          "text": "प्रतियोगिता का"
+          "text": "बंदूक का"
         },
         {
           "id": "C",
-          "text": "व्यापार का"
+          "text": "लाठी का"
         },
         {
           "id": "D",
-          "text": "राजनीति का"
+          "text": "जाल का"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "8",
-      "question": "कहानी का मुख्य संदेश क्या है?",
+      "question": "पिताजी के इस कृत्य का मज़ाक कौन उड़ाता था?",
       "options": [
         {
           "id": "A",
-          "text": "प्रेम और विश्वास रिश्तों को मजबूत बनाते हैं।"
+          "text": "लेखक"
         },
         {
           "id": "B",
-          "text": "धन ही सबसे महत्वपूर्ण है।"
+          "text": "माँ"
         },
         {
           "id": "C",
-          "text": "शक्ति से रिश्ते बनते हैं।"
+          "text": "नौकर"
         },
         {
           "id": "D",
-          "text": "प्रसिद्धि सबसे बड़ी है।"
+          "text": "पड़ोसी"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "9",
-      "question": "कहानी का वातावरण कैसा है?",
+      "question": "घर में किस जीव की फौज ने मानो छावनी डाल रखी थी?",
       "options": [
         {
           "id": "A",
-          "text": "भावनात्मक और पारिवारिक"
+          "text": "बंदरों ने"
         },
         {
           "id": "B",
-          "text": "भयावह"
+          "text": "चींटियों ने"
         },
         {
           "id": "C",
-          "text": "युद्धपूर्ण"
+          "text": "मधुमक्खियों ने"
         },
         {
           "id": "D",
-          "text": "तनावपूर्ण"
+          "text": "दीमकों ने"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "10",
-      "question": "कहानी का केंद्रीय भाव क्या है?",
+      "question": "बूढ़ा चूहा ठंड से बचने के लिए कहाँ बैठना पसंद करता था?",
       "options": [
         {
           "id": "A",
-          "text": "प्रेम, विश्वास और संबंधों की मिठास"
+          "text": "बिस्तर पर"
         },
         {
           "id": "B",
-          "text": "प्रतियोगिता"
+          "text": "अंगीठी/चूल्हे के पीछे"
         },
         {
           "id": "C",
-          "text": "व्यापार"
+          "text": "छत पर"
         },
         {
           "id": "D",
-          "text": "राजनीति"
+          "text": "अलमारी में"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "11",
-      "question": "'रेशम की डोरी' कहानी का मुख्य संदेश क्या है?",
+      "question": "माँ ने पिताजी पर व्यंग्य करते हुए चूहों के संदर्भ में क्या कहा था?",
       "options": [
         {
           "id": "A",
-          "text": "रिश्तों की मजबूती प्रेम और विश्वास से बनी रहती है।"
+          "text": "चूहों को मार दो"
         },
         {
           "id": "B",
-          "text": "रिश्ते केवल धन से बनते हैं।"
+          "text": "चूहों को तो निकाल नहीं पाए, अब चिड़ियों को निकालेंगे"
         },
         {
           "id": "C",
-          "text": "रिश्तों में स्वार्थ आवश्यक है।"
+          "text": "चूहे बहुत अच्छे हैं"
         },
         {
           "id": "D",
-          "text": "रिश्तों का कोई महत्व नहीं है।"
+          "text": "चूहे घर छोड़ गए"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "12",
-      "question": "कहानी में 'रेशम की डोरी' का प्रतीकात्मक अर्थ क्या है?",
+      "question": "जब पिताजी लाठी घुमाकर 'शू-शू' कर रहे थे, तो माँ ने क्या टिप्पणी की?",
       "options": [
         {
           "id": "A",
-          "text": "स्नेह और विश्वास का अटूट बंधन"
+          "text": "चिड़िया पूछ रही हैं कि यह आदमी कौन है और नाच क्यों रहा है"
         },
         {
           "id": "B",
-          "text": "धन और वैभव"
+          "text": "संभल कर मारना, पंखा टूट जाएगा"
         },
         {
           "id": "C",
-          "text": "प्रतियोगिता"
+          "text": "मुझे भी लाठी दो"
         },
         {
           "id": "D",
-          "text": "अधिकार"
+          "text": "बाहर चले जाओ"
         }
       ],
       "difficulty": "Medium",
       "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "13",
-      "question": "कहानी विद्यार्थियों में कौन-सा जीवन-मूल्य विकसित करती है?",
+      "question": "पिताजी गौरैयों से मुख्य रूप से क्यों परेशान थे?",
       "options": [
         {
           "id": "A",
-          "text": "पारिवारिक प्रेम और संवेदनशीलता"
+          "text": "वे गाना गाती थीं"
         },
         {
           "id": "B",
-          "text": "ईर्ष्या"
+          "text": "वे तिनके बिखेरकर घर गंदा करती थीं"
         },
         {
           "id": "C",
-          "text": "घमंड"
+          "text": "वे काटती थीं"
         },
         {
           "id": "D",
-          "text": "स्वार्थ"
+          "text": "वे सोती नहीं थीं"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "14",
-      "question": "यदि परिवार में विश्वास न हो, तो क्या परिणाम हो सकता है?",
+      "question": "दरवाजे और रोशनदान बंद करने के बावजूद गौरैयाँ वापस कैसे आ जाती थीं?",
       "options": [
         {
           "id": "A",
-          "text": "संबंध कमजोर हो सकते हैं।"
+          "text": "दीवार तोड़कर"
         },
         {
           "id": "B",
-          "text": "प्रेम बढ़ जाएगा।"
+          "text": "किसी न किसी छोटे रास्ते (दरवाजे के नीचे से) वापस आ जाती थीं"
         },
         {
           "id": "C",
-          "text": "खुशी बढ़ जाएगी।"
+          "text": "खिड़की के शीशे से"
         },
         {
           "id": "D",
-          "text": "कोई प्रभाव नहीं पड़ेगा।"
+          "text": "चिमनी से"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "15",
-      "question": "कहानी का शीर्षक 'रेशम की डोरी' क्यों उपयुक्त है?",
+      "question": "अंत में पिताजी का हृदय परिवर्तन किस दृश्य को देखकर हुआ?",
       "options": [
         {
           "id": "A",
-          "text": "क्योंकि यह प्रेम और रिश्तों की कोमल लेकिन मजबूत डोर का प्रतीक है।"
+          "text": "वे लाठी घुमाकर थक गए थे"
         },
         {
           "id": "B",
-          "text": "क्योंकि इसमें केवल रेशम बनाने की प्रक्रिया है।"
+          "text": "उन्होंने घोंसले में गौरैया के छोटे-छोटे बच्चों को देखा"
         },
         {
           "id": "C",
-          "text": "क्योंकि इसमें केवल व्यापार का वर्णन है।"
+          "text": "माँ ने उन्हें डांटा"
         },
         {
           "id": "D",
-          "text": "क्योंकि इसमें केवल कपड़ों की चर्चा है।"
+          "text": "लेखक ने समझाया"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "16",
-      "question": "कहानी के अनुसार सच्चे रिश्तों की पहचान क्या है?",
+      "question": "माँ गौरैयों के परिवार को देखकर उनके प्रति कैसा भाव रखने लगी थीं?",
       "options": [
         {
           "id": "A",
-          "text": "विश्वास और अपनापन"
+          "text": "दुश्मनी का"
         },
         {
           "id": "B",
-          "text": "धन और उपहार"
+          "text": "डर का"
         },
         {
           "id": "C",
-          "text": "प्रसिद्धि"
+          "text": "एक परिवार के सदस्य की तरह अपनापन"
         },
         {
           "id": "D",
-          "text": "शक्ति"
+          "text": "क्रोध का"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "17",
-      "question": "इस कहानी को पढ़कर विद्यार्थियों को क्या प्रेरणा मिलती है?",
+      "question": "पिताजी के अनुसार, उड़ता हुआ जो भी पक्षी दिल्ली पहुँचता है, वह सीधे कहाँ आता है?",
       "options": [
         {
           "id": "A",
-          "text": "रिश्तों को सम्मान और विश्वास से निभाने की।"
+          "text": "लाल किले पर"
         },
         {
           "id": "B",
-          "text": "छोटी-छोटी बातों पर नाराज़ होने की।"
+          "text": "उनके घर के आम के पेड़ पर"
         },
         {
           "id": "C",
-          "text": "केवल अपने बारे में सोचने की।"
+          "text": "कुतुब मीनार पर"
         },
         {
           "id": "D",
-          "text": "दूसरों से दूरी बनाने की।"
+          "text": "संसद भवन पर"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "18",
-      "question": "इस कहानी का उद्देश्य क्या है?",
+      "question": "कहानी के अंत में पिताजी मुस्कुरा क्यों रहे थे?",
       "options": [
         {
           "id": "A",
-          "text": "प्रेम और विश्वास का महत्व समझाना।"
+          "text": "वे अपना गुस्सा भूलकर बच्चों को देखकर वात्सल्य और खुशी से भर गए थे"
         },
         {
           "id": "B",
-          "text": "इतिहास पढ़ाना।"
+          "text": "उन्हें लॉटरी लग गई थी"
         },
         {
           "id": "C",
-          "text": "विज्ञान समझाना।"
+          "text": "गौरैया मर गई थी"
         },
         {
           "id": "D",
-          "text": "खेल सिखाना।"
+          "text": "पंखा टूट गया था"
         }
       ],
       "difficulty": "Medium",
       "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "19",
-      "question": "कहानी में सबसे महत्वपूर्ण मानवीय गुण कौन-सा है?",
+      "question": "एक बार पिताजी की झूलती लाठी किससे टकराते-टकराते बची?",
       "options": [
         {
           "id": "A",
-          "text": "विश्वास"
+          "text": "पंखे से"
         },
         {
           "id": "B",
-          "text": "घमंड"
+          "text": "दीवार से"
         },
         {
           "id": "C",
-          "text": "ईर्ष्या"
+          "text": "माँ के सिर से"
         },
         {
           "id": "D",
-          "text": "क्रोध"
+          "text": "लेखक से"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "20",
-      "question": "कहानी का केंद्रीय संदेश किससे जुड़ा है?",
+      "question": "इस कहानी का मुख्य उपदेश या संदेश क्या है?",
       "options": [
         {
           "id": "A",
-          "text": "परिवार और रिश्तों की मजबूती से"
+          "text": "घर साफ रखना चाहिए"
         },
         {
           "id": "B",
-          "text": "व्यापार से"
+          "text": "प्रकृति और जीवों के प्रति दया, करुणा और सह-अस्तित्व की भावना होनी चाहिए"
         },
         {
           "id": "C",
-          "text": "राजनीति से"
+          "text": "चिड़ियों को पिंजरे में रखना चाहिए"
         },
         {
           "id": "D",
-          "text": "प्रतियोगिता से"
+          "text": "पेड़ काटना चाहिए"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "21",
-      "question": "'रेशम की डोरी' कहानी का सबसे महत्वपूर्ण संदेश क्या है?",
+      "question": "पिताजी द्वारा घर को 'सराय' कहना शहरी जीवन की किस मानसिकता का प्रतीक है?",
       "options": [
         {
           "id": "A",
-          "text": "प्रेम, विश्वास और संवेदनशीलता ही रिश्तों को स्थायी बनाते हैं।"
+          "text": "वे घर बेचना चाहते थे"
         },
         {
           "id": "B",
-          "text": "रिश्ते केवल धन से चलते हैं।"
+          "text": "वे घर में अनगिनत जीवों के प्राकृतिक और स्वतंत्र प्रवेश को अपनी निजता (Privacy) में खलल मानते थे"
         },
         {
           "id": "C",
-          "text": "शक्ति से ही सम्मान मिलता है।"
+          "text": "उनका घर सचमुच एक होटल था"
         },
         {
           "id": "D",
-          "text": "प्रसिद्धि सबसे बड़ा संबंध है।"
+          "text": "उन्हें मेहमान पसंद थे"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "22",
-      "question": "यदि परिवार के सदस्य एक-दूसरे पर विश्वास न करें, तो सबसे अधिक किस पर प्रभाव पड़ेगा?",
+      "question": "कहानी में हास्य और व्यंग्य का सृजन मनोवैज्ञानिक रूप से कैसे कार्य करता है?",
       "options": [
         {
           "id": "A",
-          "text": "पारिवारिक एकता और संबंधों पर"
+          "text": "यह कहानी को उबाऊ बनाता है"
         },
         {
           "id": "B",
-          "text": "केवल आर्थिक स्थिति पर"
+          "text": "यह पिताजी के व्यर्थ के अहंकार और क्रोध को माँ की सहजता के सामने बौना साबित करता है"
         },
         {
           "id": "C",
-          "text": "केवल शिक्षा पर"
+          "text": "यह बच्चों को हंसाने के लिए है"
         },
         {
           "id": "D",
-          "text": "केवल स्वास्थ्य पर"
+          "text": "यह रुलाता है"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "23",
-      "question": "कहानी में 'रेशम की डोरी' किस आदर्श का प्रतीक है?",
+      "question": "गौरैयों का बार-बार घोंसले में लौटना प्रकृति के किस शाश्वत नियम को दर्शाता है?",
       "options": [
         {
           "id": "A",
-          "text": "कोमल लेकिन अटूट संबंधों का"
+          "text": "वे मूर्ख होती हैं"
         },
         {
           "id": "B",
-          "text": "शक्ति का"
+          "text": "जीवन सृजन और अपने परिवार के प्रति उनका अदम्य समर्पण और संघर्ष"
         },
         {
           "id": "C",
-          "text": "प्रतियोगिता का"
+          "text": "उन्हें घर पसंद आ गया था"
         },
         {
           "id": "D",
-          "text": "धन का"
+          "text": "बाहर बहुत ठंड थी"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "24",
-      "question": "यदि आपको इस कहानी का संदेश एक वाक्य में लिखना हो, तो सबसे उपयुक्त विकल्प कौन-सा होगा?",
+      "question": "माँ का दृष्टिकोण पिताजी से किस प्रकार भिन्न था?",
       "options": [
         {
           "id": "A",
-          "text": "प्रेम और विश्वास की डोर सबसे मजबूत होती है।"
+          "text": "माँ अधिक क्रोधी थीं"
         },
         {
           "id": "B",
-          "text": "केवल धन से रिश्ते बनते हैं।"
+          "text": "माँ यथार्थवादी, हास्य-प्रिय और मातृत्व के कारण जीवों के प्रति अधिक संवेदनशील थीं"
         },
         {
           "id": "C",
-          "text": "रिश्तों का जीवन में कोई महत्व नहीं है।"
+          "text": "माँ चिड़ियों से डरती थीं"
         },
         {
           "id": "D",
-          "text": "शक्ति से ही परिवार जुड़ा रहता है।"
+          "text": "माँ घर से बाहर रहती थीं"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "25",
-      "question": "यह कहानी विद्यार्थियों के व्यक्तित्व विकास में कैसे सहायक है?",
+      "question": "यह कहानी किस गहरे मनोवैज्ञानिक तथ्य को उजागर करती है?",
       "options": [
         {
           "id": "A",
-          "text": "यह संवेदनशीलता, सहानुभूति और संबंधों का सम्मान करना सिखाती है।"
+          "text": "इंसान कभी नहीं बदलता"
         },
         {
           "id": "B",
-          "text": "यह केवल परिवार का परिचय देती है।"
+          "text": "छोटे जीवों की मासूमियत और नवजीवन का दृश्य कठोर से कठोर मनुष्य के हृदय को भी वात्सल्य से भर सकता है"
         },
         {
           "id": "C",
-          "text": "यह केवल मनोरंजन करती है।"
+          "text": "डर सब में होता है"
         },
         {
           "id": "D",
-          "text": "यह केवल भाषा सिखाती है।"
+          "text": "पक्षी बहुत चालाक होते हैं"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "26",
-      "question": "कहानी का कौन-सा पक्ष सामाजिक जीवन को बेहतर बनाने की प्रेरणा देता है?",
+      "question": "'कान फोड़ने वाला शोर' पक्षियों के कलरव के लिए प्रयुक्त होना क्या सिद्ध करता है?",
       "options": [
         {
           "id": "A",
-          "text": "आपसी विश्वास और सहयोग"
+          "text": "पक्षी बहुत तेज गाते हैं"
         },
         {
           "id": "B",
-          "text": "प्रतियोगिता"
+          "text": "आधुनिक मनुष्य प्रकृति की सहज ध्वनियों से दूर होकर असहिष्णु हो गया है"
         },
         {
           "id": "C",
-          "text": "स्वार्थ"
+          "text": "पक्षियों को भगा देना चाहिए"
         },
         {
           "id": "D",
-          "text": "अलगाव"
+          "text": "ध्वनि प्रदूषण बढ़ गया है"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "27",
-      "question": "यदि समाज में लोग एक-दूसरे पर विश्वास करें, तो क्या परिणाम होगा?",
+      "question": "पिताजी का 'समस्या को जड़ से खत्म करने' (घोंसला उजाड़ने) का प्रयास किस मानवीय दुर्बलता का परिणाम था?",
       "options": [
         {
           "id": "A",
-          "text": "समाज अधिक सहयोगी और सौहार्दपूर्ण बनेगा।"
+          "text": "शांति की खोज"
         },
         {
           "id": "B",
-          "text": "विवाद बढ़ेंगे।"
+          "text": "अत्यधिक हताशा, असहिष्णुता और शक्ति-प्रदर्शन का अहंकार"
         },
         {
           "id": "C",
-          "text": "अविश्वास बढ़ेगा।"
+          "text": "प्रेम का"
         },
         {
           "id": "D",
-          "text": "कोई परिवर्तन नहीं होगा।"
+          "text": "जिज्ञासा का"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "28",
-      "question": "कहानी में रिश्तों की तुलना रेशम की डोरी से क्यों की गई है?",
+      "question": "लेखक ने इस कहानी में संवाद और वर्णनात्मक शैली के मिश्रण से क्या प्रभाव उत्पन्न किया है?",
       "options": [
         {
           "id": "A",
-          "text": "क्योंकि वे कोमल होते हुए भी मजबूत होते हैं।"
+          "text": "कहानी बहुत लंबी हो गई है"
         },
         {
           "id": "B",
-          "text": "क्योंकि वे जल्दी टूट जाते हैं।"
+          "text": "घटनाक्रम सजीव हो गया है और पात्रों का मानसिक द्वंद्व स्पष्ट रूप से उभर कर सामने आया है"
         },
         {
           "id": "C",
-          "text": "क्योंकि वे केवल सुंदर दिखते हैं।"
+          "text": "कविता जैसी लगने लगी है"
         },
         {
           "id": "D",
-          "text": "क्योंकि वे महँगे होते हैं।"
+          "text": "कोई प्रभाव नहीं पड़ा"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "29",
-      "question": "इस कहानी का मुख्य उद्देश्य क्या है?",
+      "question": "सह-अस्तित्व (Co-existence) का सिद्धांत इस कहानी में व्यवहारिक रूप से कैसे सिद्ध होता है?",
       "options": [
         {
           "id": "A",
-          "text": "रिश्तों में प्रेम, विश्वास और मानवीय मूल्यों का महत्व समझाना।"
+          "text": "इंसानों का घर छोड़कर जाना"
         },
         {
           "id": "B",
-          "text": "रेशम उद्योग की जानकारी देना।"
+          "text": "अंत में बिना किसी को नुकसान पहुँचाए मनुष्य और पक्षियों का एक ही छत के नीचे शांतिपूर्वक रहना"
         },
         {
           "id": "C",
-          "text": "व्यापार सिखाना।"
+          "text": "चिड़ियों को पिंजरे में रखना"
         },
         {
           "id": "D",
-          "text": "इतिहास बताना।"
+          "text": "सभी जानवरों को मार देना"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "30",
-      "question": "इस कहानी को पढ़ने के बाद विद्यार्थी के व्यवहार में सबसे उपयुक्त परिवर्तन क्या होगा?",
+      "question": "बाल मनोविज्ञान के नजरिए से (लेखक के बचपन की याद के रूप में), यह घटना क्या सिखाती है?",
       "options": [
         {
           "id": "A",
-          "text": "वह अपने परिवार, मित्रों और रिश्तों के प्रति अधिक संवेदनशील, सहयोगी और विश्वासपूर्ण व्यवहार करेगा।"
+          "text": "कि बड़ों की नकल करनी चाहिए"
         },
         {
           "id": "B",
-          "text": "वह केवल अपने बारे में सोचेगा।"
+          "text": "कि क्रोध अंततः करुणा के सामने हार जाता है, यह बच्चों में अहिंसा और पशु-प्रेम के संस्कार डालती है"
         },
         {
           "id": "C",
-          "text": "वह छोटी-छोटी बातों पर संबंध तोड़ देगा।"
+          "text": "कि लाठी चलाना सीखना चाहिए"
         },
         {
           "id": "D",
-          "text": "वह दूसरों की भावनाओं की उपेक्षा करेगा।"
+          "text": "कि घर में पंखे नहीं लगाने चाहिए"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     }
   ]
 }

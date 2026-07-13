@@ -2,753 +2,753 @@
   "questions": [
     {
       "id": "1",
-      "question": "'लाख की चूड़ियाँ' किस विधा की रचना है?",
+      "question": "'स्वदेश' कविता के रचयिता कौन हैं?",
       "options": [
         {
           "id": "A",
-          "text": "कविता"
+          "text": "कबीर"
         },
         {
           "id": "B",
-          "text": "कहानी"
+          "text": "दुष्यंत कुमार"
         },
         {
           "id": "C",
-          "text": "निबंध"
+          "text": "गयाप्रसाद शुक्ल 'सनेही'"
         },
         {
           "id": "D",
-          "text": "संस्मरण"
+          "text": "महादेवी वर्मा"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
+    },
+    {
+      "id": "2",
+      "question": "कवि के अनुसार जिसमें देश का प्यार नहीं है, उसका हृदय कैसा है?",
+      "options": [
+        {
+          "id": "A",
+          "text": "कोमल"
+        },
+        {
+          "id": "B",
+          "text": "पत्थर"
+        },
+        {
+          "id": "C",
+          "text": "फूल"
+        },
+        {
+          "id": "D",
+          "text": "विशाल"
         }
       ],
       "difficulty": "Easy",
       "correctAnswerId": "B",
-      "explanation": "सही उत्तर B है।"
-    },
-    {
-      "id": "2",
-      "question": "कहानी का मुख्य विषय क्या है?",
-      "options": [
-        {
-          "id": "A",
-          "text": "लाख की चूड़ियों का महत्व"
-        },
-        {
-          "id": "B",
-          "text": "खेलकूद"
-        },
-        {
-          "id": "C",
-          "text": "विज्ञान"
-        },
-        {
-          "id": "D",
-          "text": "यात्रा"
-        }
-      ],
-      "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "3",
-      "question": "लाख की चूड़ियाँ किससे बनाई जाती हैं?",
+      "question": "'स्वदेश' शब्द का क्या अर्थ है?",
       "options": [
         {
           "id": "A",
-          "text": "लाख से"
+          "text": "अपना देश"
         },
         {
           "id": "B",
-          "text": "सोने से"
+          "text": "पराया देश"
         },
         {
           "id": "C",
-          "text": "चाँदी से"
+          "text": "गाँव"
         },
         {
           "id": "D",
-          "text": "लोहे से"
+          "text": "शहर"
         }
       ],
       "difficulty": "Easy",
       "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "4",
-      "question": "लाख की चूड़ियाँ किसके हाथों की शोभा बढ़ाती हैं?",
+      "question": "यह कविता मुख्य रूप से किस भावना पर आधारित है?",
       "options": [
         {
           "id": "A",
-          "text": "महिलाओं के"
+          "text": "हास्य"
         },
         {
           "id": "B",
-          "text": "पुरुषों के"
+          "text": "देशभक्ति"
         },
         {
           "id": "C",
-          "text": "बच्चों के"
+          "text": "वैराग्य"
         },
         {
           "id": "D",
-          "text": "सैनिकों के"
+          "text": "वात्सल्य"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "5",
-      "question": "कहानी में किस वर्ग के लोगों के जीवन का उल्लेख मिलता है?",
+      "question": "'मल्हार' राग का संबंध मुख्य रूप से किस ऋतु से माना जाता है?",
       "options": [
         {
           "id": "A",
-          "text": "कारीगरों का"
+          "text": "वसंत"
         },
         {
           "id": "B",
-          "text": "खिलाड़ियों का"
+          "text": "ग्रीष्म"
         },
         {
           "id": "C",
-          "text": "वैज्ञानिकों का"
+          "text": "वर्षा"
         },
         {
           "id": "D",
-          "text": "सैनिकों का"
+          "text": "शीत"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "6",
-      "question": "लाख की चूड़ियाँ बनाने के लिए क्या आवश्यक है?",
+      "question": "जो जीवित होकर भी जोश न जगा सके, उसका जीवन कैसा है?",
       "options": [
         {
           "id": "A",
-          "text": "कौशल और मेहनत"
+          "text": "सार्थक"
         },
         {
           "id": "B",
-          "text": "केवल मशीन"
+          "text": "व्यर्थ (सार नहीं)"
         },
         {
           "id": "C",
-          "text": "केवल धन"
+          "text": "महान"
         },
         {
           "id": "D",
-          "text": "केवल भाग्य"
+          "text": "सफल"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "7",
-      "question": "कहानी पढ़कर कौन-सी भावना विकसित होती है?",
+      "question": "जो साहस छोड़ देता है, वह कहाँ नहीं पहुँच पाता?",
       "options": [
         {
           "id": "A",
-          "text": "श्रम के प्रति सम्मान"
+          "text": "पार (लक्ष्य तक)"
         },
         {
           "id": "B",
-          "text": "घमंड"
+          "text": "घर"
         },
         {
           "id": "C",
-          "text": "ईर्ष्या"
+          "text": "विदेश"
         },
         {
           "id": "D",
-          "text": "आलस्य"
+          "text": "विद्यालय"
         }
       ],
       "difficulty": "Easy",
       "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "8",
-      "question": "कहानी का मुख्य संदेश क्या है?",
+      "question": "कविता में 'भू' शब्द का प्रयोग किसके लिए हुआ है?",
       "options": [
         {
           "id": "A",
-          "text": "मेहनत और हस्तकला का सम्मान करना चाहिए।"
+          "text": "आकाश"
         },
         {
           "id": "B",
-          "text": "केवल धन महत्वपूर्ण है।"
+          "text": "पानी"
         },
         {
           "id": "C",
-          "text": "मशीनें ही सब कुछ हैं।"
+          "text": "धरती"
         },
         {
           "id": "D",
-          "text": "हस्तकला का कोई महत्व नहीं है।"
+          "text": "हवा"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "9",
-      "question": "लाख की चूड़ियाँ किसका उदाहरण हैं?",
+      "question": "काल-दीप किसके लिए जलता रहता है?",
       "options": [
         {
           "id": "A",
-          "text": "भारतीय हस्तकला का"
+          "text": "परवानों (बलिदानियों) के लिए"
         },
         {
           "id": "B",
-          "text": "आधुनिक तकनीक का"
+          "text": "कायरों के लिए"
         },
         {
           "id": "C",
-          "text": "वैज्ञानिक खोज का"
+          "text": "पक्षियों के लिए"
         },
         {
           "id": "D",
-          "text": "औद्योगिक उत्पादन का"
+          "text": "राजाओं के लिए"
         }
       ],
       "difficulty": "Easy",
       "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "10",
-      "question": "कहानी का केंद्रीय भाव क्या है?",
+      "question": "'सार' शब्द का कविता में क्या आशय है?",
       "options": [
         {
           "id": "A",
-          "text": "श्रम, कला और मानवीय संवेदना"
+          "text": "महत्व या मूल्य"
         },
         {
           "id": "B",
-          "text": "प्रतियोगिता"
+          "text": "समय"
         },
         {
           "id": "C",
-          "text": "राजनीति"
+          "text": "गति"
         },
         {
           "id": "D",
-          "text": "व्यापार"
+          "text": "संगीत"
         }
       ],
       "difficulty": "Easy",
       "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "11",
-      "question": "'लाख की चूड़ियाँ' कहानी का मुख्य संदेश क्या है?",
+      "question": "'जो चल न सका संसार-संग' का वैचारिक अर्थ क्या है?",
       "options": [
         {
           "id": "A",
-          "text": "कारीगरों के श्रम और कला का सम्मान करना चाहिए।"
+          "text": "जो यात्रा न कर सके"
         },
         {
           "id": "B",
-          "text": "केवल मशीनों पर निर्भर रहना चाहिए।"
+          "text": "जो समाज और समय के बदलावों को न अपना सके"
         },
         {
           "id": "C",
-          "text": "हस्तकला का महत्व समाप्त हो गया है।"
+          "text": "जो विदेश न जा सके"
         },
         {
           "id": "D",
-          "text": "धन ही सफलता का आधार है।"
+          "text": "जो पैदल न चल सके"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "12",
-      "question": "कहानी में लाख की चूड़ियाँ किसका प्रतीक हैं?",
+      "question": "'जाति-उद्धार' से कवि का क्या तात्पर्य है?",
       "options": [
         {
           "id": "A",
-          "text": "परंपरा और मेहनत"
+          "text": "अपनी जाति बदलना"
         },
         {
           "id": "B",
-          "text": "आधुनिकता"
+          "text": "समाज और समुदाय की भलाई एवं उन्नति करना"
         },
         {
           "id": "C",
-          "text": "प्रतियोगिता"
+          "text": "धन कमाना"
         },
         {
           "id": "D",
-          "text": "राजनीति"
+          "text": "चुनाव लड़ना"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "13",
-      "question": "कहानी विद्यार्थियों में कौन-सा जीवन-मूल्य विकसित करती है?",
+      "question": "'हम हैं जिसके राजा-रानी' पंक्ति देशवासियों के किस भाव को दर्शाती है?",
       "options": [
         {
           "id": "A",
-          "text": "श्रम का सम्मान"
+          "text": "राजशाही का समर्थन"
         },
         {
           "id": "B",
-          "text": "आलस्य"
+          "text": "आम नागरिकों का देश पर अधिकार और गरिमा"
         },
         {
           "id": "C",
-          "text": "स्वार्थ"
+          "text": "घमंड"
         },
         {
           "id": "D",
-          "text": "घमंड"
+          "text": "विदेशी शासन"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "14",
-      "question": "हस्तकला का सबसे बड़ा महत्व क्या है?",
+      "question": "'जिस पर है दुनिया दीवानी' यहाँ किसकी बात हो रही है?",
       "options": [
         {
           "id": "A",
-          "text": "यह हमारी सांस्कृतिक विरासत को जीवित रखती है।"
+          "text": "विदेशी कपड़ों की"
         },
         {
           "id": "B",
-          "text": "यह केवल व्यापार के लिए है।"
+          "text": "भारत की प्राकृतिक संपदा और गौरवशाली वरासत की"
         },
         {
           "id": "C",
-          "text": "इसका समाज से कोई संबंध नहीं है।"
+          "text": "धन-दौलत की"
         },
         {
           "id": "D",
-          "text": "यह केवल गाँवों तक सीमित है।"
+          "text": "फिल्मों की"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "15",
-      "question": "कहानी का शीर्षक 'लाख की चूड़ियाँ' क्यों उपयुक्त है?",
+      "question": "यदि हृदय में देशप्रेम नहीं है, तो कवि मनुष्य को 'भू का भार' क्यों कहता है?",
       "options": [
         {
           "id": "A",
-          "text": "क्योंकि पूरी कहानी लाख की चूड़ियों और उनसे जुड़े कारीगरों के जीवन पर आधारित है।"
+          "text": "क्योंकि वह बहुत भारी है"
         },
         {
           "id": "B",
-          "text": "क्योंकि इसमें केवल बाज़ार का वर्णन है।"
+          "text": "क्योंकि बिना कर्त्तव्य-बोध के मनुष्य धरती पर केवल एक बोझ के समान है"
         },
         {
           "id": "C",
-          "text": "क्योंकि इसमें केवल त्योहारों का वर्णन है।"
+          "text": "क्योंकि वह काम नहीं करता"
         },
         {
           "id": "D",
-          "text": "क्योंकि इसमें केवल महिलाओं का वर्णन है।"
+          "text": "क्योंकि वह बहुत खाता है"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "16",
-      "question": "कहानी के अनुसार सच्ची कला किससे निखरती है?",
+      "question": "'उगे-बढ़े' शब्द का प्रयोग नागरिकों के लिए क्यों किया गया है?",
       "options": [
         {
           "id": "A",
-          "text": "निरंतर अभ्यास और मेहनत से"
+          "text": "क्योंकि वे लंबे हैं"
         },
         {
           "id": "B",
-          "text": "केवल धन से"
+          "text": "क्योंकि उनका जन्म, पालन-पोषण और विकास इसी देश की धरती पर हुआ है"
         },
         {
           "id": "C",
-          "text": "केवल प्रसिद्धि से"
+          "text": "क्योंकि वे पेड़ लगाते हैं"
         },
         {
           "id": "D",
-          "text": "केवल भाग्य से"
+          "text": "क्योंकि वे किसान हैं"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "17",
-      "question": "कहानी पढ़ने के बाद विद्यार्थियों को क्या प्रेरणा मिलती है?",
+      "question": "मल्हार के आने से प्रकृति में क्या बदलाव आता है?",
       "options": [
         {
           "id": "A",
-          "text": "प्रत्येक कार्य और श्रमिक का सम्मान करने की।"
+          "text": "नदियाँ सूख जाती हैं"
         },
         {
           "id": "B",
-          "text": "केवल बड़े व्यवसायों का सम्मान करने की।"
+          "text": "हरियाली, नूतनता और जीवन का संचार होता है"
         },
         {
           "id": "C",
-          "text": "हस्तकला को महत्व न देने की।"
+          "text": "पत्ते गिर जाते हैं"
         },
         {
           "id": "D",
-          "text": "केवल मशीनों पर निर्भर रहने की।"
+          "text": "बर्फ गिरती है"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "18",
-      "question": "इस कहानी का उद्देश्य क्या है?",
+      "question": "'रस-धार' का प्रतीकात्मक अर्थ क्या है?",
       "options": [
         {
           "id": "A",
-          "text": "हस्तकला और श्रम के महत्व को समझाना।"
+          "text": "गन्ने का रस"
         },
         {
           "id": "B",
-          "text": "इतिहास पढ़ाना।"
+          "text": "प्रेम, करुणा और मानवीय संवेदनाओं की धारा"
         },
         {
           "id": "C",
-          "text": "विज्ञान समझाना।"
+          "text": "वर्षा की बूँदें"
         },
         {
           "id": "D",
-          "text": "खेल सिखाना।"
+          "text": "नदी का पानी"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "19",
-      "question": "कहानी में कारीगर का व्यक्तित्व किस रूप में उभरता है?",
+      "question": "इस रचना को किस प्रकार का गीत कहा जा सकता है?",
       "options": [
         {
           "id": "A",
-          "text": "मेहनती और कुशल"
+          "text": "विदाई गीत"
         },
         {
           "id": "B",
-          "text": "आलसी"
+          "text": "शोक गीत"
         },
         {
           "id": "C",
-          "text": "घमंडी"
+          "text": "आह्वान गीत (प्रेरित करने वाला)"
         },
         {
           "id": "D",
-          "text": "लापरवाह"
+          "text": "लोरी"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "20",
-      "question": "कहानी का केंद्रीय संदेश किससे जुड़ा है?",
+      "question": "कवि ने देश-प्रेम को केवल भावुकता तक सीमित न रखकर किससे जोड़ा है?",
       "options": [
         {
           "id": "A",
-          "text": "मेहनत, आत्मसम्मान और परंपरा से"
+          "text": "नारों से"
         },
         {
           "id": "B",
-          "text": "राजनीति से"
+          "text": "आंसुओं से"
         },
         {
           "id": "C",
-          "text": "मनोरंजन से"
+          "text": "सक्रिय कर्त्तव्य और कर्म से"
         },
         {
           "id": "D",
-          "text": "प्रतियोगिता से"
+          "text": "गीतों से"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "21",
-      "question": "'लाख की चूड़ियाँ' कहानी का सबसे महत्वपूर्ण संदेश क्या है?",
+      "question": "'निश्चित है निस्संशय निश्चित, है जान एक दिन जाने को' पंक्ति का गूढ़ दार्शनिक संदेश क्या है?",
       "options": [
         {
           "id": "A",
-          "text": "श्रम और पारंपरिक कला का सम्मान समाज की जिम्मेदारी है।"
+          "text": "मृत्यु से डरकर छिप जाना चाहिए"
         },
         {
           "id": "B",
-          "text": "केवल आधुनिक तकनीक ही उपयोगी है।"
+          "text": "जीवन नश्वर है, अतः मृत्यु के भय से मुक्त होकर देश के लिए बलिदान देने को तत्पर रहना चाहिए"
         },
         {
           "id": "C",
-          "text": "हस्तकला का भविष्य नहीं है।"
+          "text": "जीवन हमेशा रहेगा"
         },
         {
           "id": "D",
-          "text": "धन ही सबसे बड़ा मूल्य है।"
+          "text": "जान बचाना ही धर्म है"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "22",
-      "question": "यदि पारंपरिक हस्तकलाओं को संरक्षण न मिले, तो सबसे अधिक किसकी हानि होगी?",
+      "question": "'क्या तोप नहीं तलवार नहीं' पंक्ति आत्मबल के संदर्भ में क्या सिद्ध करती है?",
       "options": [
         {
           "id": "A",
-          "text": "सांस्कृतिक विरासत और कारीगरों की आजीविका की"
+          "text": "हमारे पास हथियारों की कमी है"
         },
         {
           "id": "B",
-          "text": "केवल उद्योगों की"
+          "text": "युद्ध करना बुरी बात है"
         },
         {
           "id": "C",
-          "text": "केवल बाजारों की"
+          "text": "मातृभूमि की रक्षा के लिए मनुष्य का दृढ़ संकल्प और हाथ ही सबसे बड़े हथियार हैं"
         },
         {
           "id": "D",
-          "text": "केवल शहरों की"
+          "text": "हमें तोप खरीदनी चाहिए"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "23",
-      "question": "कहानी में लाख की चूड़ियाँ किस जीवन-मूल्य का प्रतीक हैं?",
+      "question": "मल्हार के माध्यम से प्रकृति और राष्ट्रीय चेतना को जोड़ने का क्या प्रभाव उत्पन्न हुआ है?",
       "options": [
         {
           "id": "A",
-          "text": "परिश्रम, धैर्य और सृजनशीलता"
+          "text": "यह प्रकृति की सुंदरता और देशप्रेम का एक रागात्मक समन्वय स्थापित करता है"
         },
         {
           "id": "B",
-          "text": "शक्ति और शासन"
+          "text": "यह केवल मौसम की जानकारी देता है"
         },
         {
           "id": "C",
-          "text": "धन और वैभव"
+          "text": "यह निराशा फैलाता है"
         },
         {
           "id": "D",
-          "text": "प्रतियोगिता"
+          "text": "यह संगीत सिखाता है"
         }
       ],
       "difficulty": "Hard",
       "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "24",
-      "question": "यदि आपको इस कहानी का संदेश एक वाक्य में लिखना हो, तो सबसे उपयुक्त विकल्प कौन-सा होगा?",
+      "question": "कवि सनेही जी का उपनाम 'त्रिशूल' उनके व्यक्तित्व के किस पक्ष को उजागर करता है?",
       "options": [
         {
           "id": "A",
-          "text": "प्रत्येक श्रमिक और उसकी कला का सम्मान करना एक सभ्य समाज की पहचान है।"
+          "text": "वे शिव के बड़े भक्त थे"
         },
         {
           "id": "B",
-          "text": "मशीनें ही सबसे महत्वपूर्ण हैं।"
+          "text": "सरकारी नौकरी के बंधनों के बावजूद विद्रोही राष्ट्रीय कविताएँ लिखने के उनके साहस को"
         },
         {
           "id": "C",
-          "text": "केवल धनवान व्यक्ति सम्मान के योग्य हैं।"
+          "text": "वे युद्ध कला में निपुण थे"
         },
         {
           "id": "D",
-          "text": "हस्तकला का कोई महत्व नहीं है।"
+          "text": "उन्हें त्रिशूल पसंद था"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "25",
-      "question": "यह कहानी विद्यार्थियों के व्यक्तित्व विकास में कैसे सहायक है?",
+      "question": "यह कविता आधुनिक लोकतंत्र में किस प्रकार प्रासंगिक है?",
       "options": [
         {
           "id": "A",
-          "text": "यह श्रम के सम्मान, संवेदनशीलता और सामाजिक जिम्मेदारी की भावना विकसित करती है।"
+          "text": "यह अप्रासंगिक है"
         },
         {
           "id": "B",
-          "text": "यह केवल चूड़ियों की जानकारी देती है।"
+          "text": "यह नागरिकों को उनके सामाजिक, नैतिक और राष्ट्रीय कर्तव्यों के प्रति सचेत करती है"
         },
         {
           "id": "C",
-          "text": "यह केवल व्यापार सिखाती है।"
+          "text": "यह राजाओं का समर्थन करती है"
         },
         {
           "id": "D",
-          "text": "यह केवल मनोरंजन करती है।"
+          "text": "यह युद्ध को बढ़ावा देती है"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "26",
-      "question": "कहानी का कौन-सा पक्ष सामाजिक समानता की भावना को मजबूत करता है?",
+      "question": "'वह हृदय नहीं है पत्थर है' में पत्थर किसका प्रतीक है?",
       "options": [
         {
           "id": "A",
-          "text": "प्रत्येक कारीगर और उसके श्रम का सम्मान"
+          "text": "इमारत की मजबूती का"
         },
         {
           "id": "B",
-          "text": "केवल अमीर लोगों का महत्व"
+          "text": "पूर्ण संवेदनहीनता और राष्ट्र के प्रति वैचारिक शून्यता का"
         },
         {
           "id": "C",
-          "text": "केवल मशीनों का महत्व"
+          "text": "कीमती आभूषण का"
         },
         {
           "id": "D",
-          "text": "केवल व्यापार का महत्व"
+          "text": "निर्माण सामग्री का"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "27",
-      "question": "यदि समाज हस्तशिल्प को अपनाए, तो सबसे बड़ा लाभ क्या होगा?",
+      "question": "'जिससे न जाति-उद्धार हुआ, होगा उसका उद्धार नहीं' पंक्ति किस सामाजिक सिद्धांत की पुष्टि करती है?",
       "options": [
         {
           "id": "A",
-          "text": "कारीगरों का जीवन बेहतर होगा और संस्कृति सुरक्षित रहेगी।"
+          "text": "समाज कल्याण के बिना व्यक्ति का व्यक्तिगत कल्याण असंभव है"
         },
         {
           "id": "B",
-          "text": "केवल बाज़ार बढ़ेंगे।"
+          "text": "व्यक्ति को केवल अपना सोचना चाहिए"
         },
         {
           "id": "C",
-          "text": "केवल मशीनों का उपयोग कम होगा।"
+          "text": "जाति व्यवस्था अच्छी है"
         },
         {
           "id": "D",
-          "text": "कोई विशेष लाभ नहीं होगा।"
+          "text": "दान देना व्यर्थ है"
         }
       ],
       "difficulty": "Hard",
       "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "28",
-      "question": "कहानी में कारीगर की मेहनत किसका उदाहरण है?",
+      "question": "कविता की भाषा शैली की सबसे प्रमुख विशेषता क्या है?",
       "options": [
         {
           "id": "A",
-          "text": "समर्पण और आत्मनिर्भरता का"
+          "text": "कठिन संस्कृत शब्दों का प्रयोग"
         },
         {
           "id": "B",
-          "text": "आलस्य का"
+          "text": "अत्यंत सरल, प्रवाहमयी, चित्रात्मक और ओजपूर्ण खड़ी बोली"
         },
         {
           "id": "C",
-          "text": "स्वार्थ का"
+          "text": "केवल विदेशी शब्दों का प्रयोग"
         },
         {
           "id": "D",
-          "text": "दिखावे का"
+          "text": "गद्य शैली"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "29",
-      "question": "इस कहानी का मुख्य उद्देश्य क्या है?",
+      "question": "'भावनाओं का अभाव' मनुष्य के मनोवैज्ञानिक विकास को कैसे बाधित करता है?",
       "options": [
         {
           "id": "A",
-          "text": "पारंपरिक कला, श्रम और मानवीय संवेदनाओं का महत्व समझाना।"
+          "text": "वह बहुत बुद्धिमान बन जाता है"
         },
         {
           "id": "B",
-          "text": "केवल चूड़ियों का इतिहास बताना।"
+          "text": "वह करुणा और सहानुभूति से कटकर एक मशीन या पत्थर के समान बन जाता है"
         },
         {
           "id": "C",
-          "text": "केवल व्यापार की जानकारी देना।"
+          "text": "उसे गुस्सा नहीं आता"
         },
         {
           "id": "D",
-          "text": "केवल बाज़ार का वर्णन करना।"
+          "text": "वह बहुत खुश रहता है"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "30",
-      "question": "इस कहानी को पढ़ने के बाद विद्यार्थी के व्यवहार में सबसे उपयुक्त परिवर्तन क्या होगा?",
+      "question": "एक विद्यार्थी के रूप में इस कविता का सबसे बड़ा व्यावहारिक मूल्य (Practical Value) क्या है?",
       "options": [
         {
           "id": "A",
-          "text": "वह श्रमिकों, कारीगरों और उनके कार्य का सम्मान करेगा तथा भारतीय हस्तकला के महत्व को समझेगा।"
+          "text": "कविता रटकर परीक्षा पास करना"
         },
         {
           "id": "B",
-          "text": "वह केवल आधुनिक वस्तुओं को महत्व देगा।"
+          "text": "केवल नारों में देशभक्ति दिखाना"
         },
         {
           "id": "C",
-          "text": "वह हस्तकला की उपेक्षा करेगा।"
+          "text": "अपने आस-पास के समाज की भलाई के लिए कार्य करना और देश की संपत्ति की रक्षा करना"
         },
         {
           "id": "D",
-          "text": "वह केवल मशीनों पर निर्भर रहेगा।"
+          "text": "सेना में भर्ती होना अनिवार्य समझना"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     }
   ]
 }

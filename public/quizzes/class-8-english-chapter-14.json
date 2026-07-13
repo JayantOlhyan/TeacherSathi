@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "What instrument is the poem about?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A telescope"
+        },
+        {
+          "id": "B",
+          "text": "A magnifying glass (round glass)"
+        },
+        {
+          "id": "C",
+          "text": "A microscope"
+        },
+        {
+          "id": "D",
+          "text": "Glasses"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "2",
+      "question": "What does the magnifying glass do to ordinary objects?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Makes them invisible"
+        },
+        {
+          "id": "B",
+          "text": "Makes them look larger and reveals hidden details"
+        },
+        {
+          "id": "C",
+          "text": "Changes their color"
+        },
+        {
+          "id": "D",
+          "text": "Sets them on fire"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "3",
+      "question": "What did the poet look at first?",
+      "options": [
+        {
+          "id": "A",
+          "text": "An apple"
+        },
+        {
+          "id": "B",
+          "text": "A scrap of chalk"
+        },
+        {
+          "id": "C",
+          "text": "A book"
+        },
+        {
+          "id": "D",
+          "text": "A coin"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "4",
+      "question": "What did the poet see in the scrap of chalk?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Letters"
+        },
+        {
+          "id": "B",
+          "text": "Myriad shells"
+        },
+        {
+          "id": "C",
+          "text": "Dust"
+        },
+        {
+          "id": "D",
+          "text": "Gold"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "5",
+      "question": "What did an inch of moss look like under the glass?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A green blanket"
+        },
+        {
+          "id": "B",
+          "text": "A whole forest with flowers and trees"
+        },
+        {
+          "id": "C",
+          "text": "A sponge"
+        },
+        {
+          "id": "D",
+          "text": "A monster"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "6",
+      "question": "What did a drop of water look like?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A diamond"
+        },
+        {
+          "id": "B",
+          "text": "A hive of bees"
+        },
+        {
+          "id": "C",
+          "text": "A tear"
+        },
+        {
+          "id": "D",
+          "text": "A mirror"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "7",
+      "question": "What creature does the poet observe closely in the second stanza?",
+      "options": [
+        {
+          "id": "A",
+          "text": "An ant"
+        },
+        {
+          "id": "B",
+          "text": "A spider"
+        },
+        {
+          "id": "C",
+          "text": "A butterfly"
+        },
+        {
+          "id": "D",
+          "text": "A bee"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "8",
+      "question": "What part of the spider is described as \"tigerish\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Its eyes"
+        },
+        {
+          "id": "B",
+          "text": "Its claws"
+        },
+        {
+          "id": "C",
+          "text": "Its web"
+        },
+        {
+          "id": "D",
+          "text": "Its legs"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "9",
+      "question": "What gets trapped in the spider's web?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Birds"
+        },
+        {
+          "id": "B",
+          "text": "Silly flies"
+        },
+        {
+          "id": "C",
+          "text": "Dust"
+        },
+        {
+          "id": "D",
+          "text": "Leaves"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "10",
+      "question": "What celestial body does the poet imagine looking at with powerful lenses at the end?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Sun"
+        },
+        {
+          "id": "B",
+          "text": "The Moon"
+        },
+        {
+          "id": "C",
+          "text": "Mars"
+        },
+        {
+          "id": "D",
+          "text": "A star"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "11",
+      "question": "Why does the poet say the glass makes \"Magic talk\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The glass can speak words"
+        },
+        {
+          "id": "B",
+          "text": "It reveals extraordinary, hidden worlds that seem magical"
+        },
+        {
+          "id": "C",
+          "text": "It casts spells"
+        },
+        {
+          "id": "D",
+          "text": "It is a trick"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "12",
+      "question": "Why does the poet compare a drop of water to a \"hive of bees\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because it is yellow"
+        },
+        {
+          "id": "B",
+          "text": "To show it is teeming with tiny, moving life (microorganisms)"
+        },
+        {
+          "id": "C",
+          "text": "Because it stings"
+        },
+        {
+          "id": "D",
+          "text": "Because it is sweet"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "13",
+      "question": "What are \"spinnerets\" mentioned in the poem?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The spider's eyes"
+        },
+        {
+          "id": "B",
+          "text": "The organs a spider uses to spin its silk web"
+        },
+        {
+          "id": "C",
+          "text": "The fly's wings"
+        },
+        {
+          "id": "D",
+          "text": "The moss flowers"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "14",
+      "question": "Why is the spider's claw called \"tigerish\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It is striped"
+        },
+        {
+          "id": "B",
+          "text": "It emphasizes its sharpness, strength, and predatory nature despite its small size"
+        },
+        {
+          "id": "C",
+          "text": "It roars"
+        },
+        {
+          "id": "D",
+          "text": "It is orange"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "15",
+      "question": "Why does the poet call the flies \"silly\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They tell jokes"
+        },
+        {
+          "id": "B",
+          "text": "Even though they have many eyes, they still clumsily stumble into the deadly web"
+        },
+        {
+          "id": "C",
+          "text": "They fly upside down"
+        },
+        {
+          "id": "D",
+          "text": "They are friendly"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "16",
+      "question": "What is the poet's attitude towards nature?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Boredom"
+        },
+        {
+          "id": "B",
+          "text": "Deep curiosity, awe, and fascination"
+        },
+        {
+          "id": "C",
+          "text": "Fear"
+        },
+        {
+          "id": "D",
+          "text": "Disgust"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "17",
+      "question": "How does the speaker's view of the world change with the glass?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The world seems smaller"
+        },
+        {
+          "id": "B",
+          "text": "The ordinary natural world becomes vast, complex, and extraordinary"
+        },
+        {
+          "id": "C",
+          "text": "He hates it"
+        },
+        {
+          "id": "D",
+          "text": "He gets a headache"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "18",
+      "question": "What does \"myriad\" mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A type of mirror"
+        },
+        {
+          "id": "B",
+          "text": "Countless or a very great number"
+        },
+        {
+          "id": "C",
+          "text": "Beautiful"
+        },
+        {
+          "id": "D",
+          "text": "Broken"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "19",
+      "question": "What is the overarching message of the poem?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Spiders are dangerous"
+        },
+        {
+          "id": "B",
+          "text": "There is hidden beauty and complexity in the smallest things if we look closely"
+        },
+        {
+          "id": "C",
+          "text": "Glass is fragile"
+        },
+        {
+          "id": "D",
+          "text": "Water is dirty"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "20",
+      "question": "Why does the poem end with eyeing the moon?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To show it is night"
+        },
+        {
+          "id": "B",
+          "text": "To suggest that human curiosity and scientific tools can expand our reach from the microscopic to the cosmic"
+        },
+        {
+          "id": "C",
+          "text": "The moon is made of cheese"
+        },
+        {
+          "id": "D",
+          "text": "The magnifying glass broke"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "21",
+      "question": "\"A drop of water like hive of bees\" uses which poetic device?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Metaphor"
+        },
+        {
+          "id": "B",
+          "text": "Simile"
+        },
+        {
+          "id": "C",
+          "text": "Personification"
+        },
+        {
+          "id": "D",
+          "text": "Hyperbole"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "22",
+      "question": "The word \"deft\" used to describe the spider means:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Clumsy"
+        },
+        {
+          "id": "B",
+          "text": "Quick, skillful, and precise in movement"
+        },
+        {
+          "id": "C",
+          "text": "Deaf"
+        },
+        {
+          "id": "D",
+          "text": "Slow"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "23",
+      "question": "The poem explores the intersection of:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Math and History"
+        },
+        {
+          "id": "B",
+          "text": "Science (observation/tools) and Poetic Imagination"
+        },
+        {
+          "id": "C",
+          "text": "Geography and Art"
+        },
+        {
+          "id": "D",
+          "text": "Magic and Illusion"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "24",
+      "question": "What does the imagery of the \"forest in an inch of moss\" achieve?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It shows moss is dangerous"
+        },
+        {
+          "id": "B",
+          "text": "It dramatically alters the scale of perception, emphasizing micro-ecosystems"
+        },
+        {
+          "id": "C",
+          "text": "It proves moss is a tree"
+        },
+        {
+          "id": "D",
+          "text": "It makes the reader sleepy"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "25",
+      "question": "The poem consists of stanzas with four lines. These are called:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Couplets"
+        },
+        {
+          "id": "B",
+          "text": "Quatrains"
+        },
+        {
+          "id": "C",
+          "text": "Sonnets"
+        },
+        {
+          "id": "D",
+          "text": "Limericks"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "26",
+      "question": "What does the phrase \"stumble into the trap\" highlight about nature?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The clumsiness of the spider"
+        },
+        {
+          "id": "B",
+          "text": "The harsh, predatory reality of nature alongside its beauty"
+        },
+        {
+          "id": "C",
+          "text": "The flies are blind"
+        },
+        {
+          "id": "D",
+          "text": "The web is invisible"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "27",
+      "question": "The progression from observing chalk -> moss -> water -> spider -> moon represents a shift from:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Liquid to solid"
+        },
+        {
+          "id": "B",
+          "text": "Inanimate matter to biology, and finally to astronomy/cosmos"
+        },
+        {
+          "id": "C",
+          "text": "Day to night"
+        },
+        {
+          "id": "D",
+          "text": "Good to evil"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "28",
+      "question": "The word \"spinnerets\" is an example of the poet using:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Slang"
+        },
+        {
+          "id": "B",
+          "text": "Specific scientific terminology blended with poetry"
+        },
+        {
+          "id": "C",
+          "text": "A made-up word"
+        },
+        {
+          "id": "D",
+          "text": "An archaic term"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "29",
+      "question": "The concept that lenses make the moon seem like you could \"walk there in an afternoon\" relies on:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Literal truth"
+        },
+        {
+          "id": "B",
+          "text": "Imaginative hyperbole inspired by optical magnification"
+        },
+        {
+          "id": "C",
+          "text": "A spaceship"
+        },
+        {
+          "id": "D",
+          "text": "Magic"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "30",
+      "question": "Walter de la Mare's writing here is designed to foster:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Scientific skepticism"
+        },
+        {
+          "id": "B",
+          "text": "A sense of childlike wonder and meticulous observation"
+        },
+        {
+          "id": "C",
+          "text": "Fear of insects"
+        },
+        {
+          "id": "D",
+          "text": "Disinterest in science"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    }
+  ]
+}

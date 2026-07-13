@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "What is a \"hymn\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A type of dance"
+        },
+        {
+          "id": "B",
+          "text": "A song of deep praise, gratitude, or devotion"
+        },
+        {
+          "id": "C",
+          "text": "A farming tool"
+        },
+        {
+          "id": "D",
+          "text": "A type of crop"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "2",
+      "question": "Who are the people singing the hymn in the poem?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Soldiers"
+        },
+        {
+          "id": "B",
+          "text": "Farmers/Villagers"
+        },
+        {
+          "id": "C",
+          "text": "Kings"
+        },
+        {
+          "id": "D",
+          "text": "Children only"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "3",
+      "question": "Which three natural/divine forces are explicitly praised in the poem?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wind, Fire, Ice"
+        },
+        {
+          "id": "B",
+          "text": "Surya (Sun), Varuna (Rain), Prithvi (Earth)"
+        },
+        {
+          "id": "C",
+          "text": "Moon, Stars, Sky"
+        },
+        {
+          "id": "D",
+          "text": "Ocean, River, Lake"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "4",
+      "question": "Surya is heavily praised for providing:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rain"
+        },
+        {
+          "id": "B",
+          "text": "Mellowing radiance and light"
+        },
+        {
+          "id": "C",
+          "text": "Soil"
+        },
+        {
+          "id": "D",
+          "text": "Wind"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "5",
+      "question": "Varuna is referred to as the lord of the:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sun"
+        },
+        {
+          "id": "B",
+          "text": "Rainbow and rain"
+        },
+        {
+          "id": "C",
+          "text": "Earth"
+        },
+        {
+          "id": "D",
+          "text": "Fire"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "6",
+      "question": "Prithvi is addressed as the:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Queen of the stars"
+        },
+        {
+          "id": "B",
+          "text": "Sweet and omnipotent mother"
+        },
+        {
+          "id": "C",
+          "text": "Lord of the sea"
+        },
+        {
+          "id": "D",
+          "text": "King of the sky"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "7",
+      "question": "What do the farmers bring as a tribute?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Weapons"
+        },
+        {
+          "id": "B",
+          "text": "Songs, garlands, and the harvest (crops)"
+        },
+        {
+          "id": "C",
+          "text": "Gold coins"
+        },
+        {
+          "id": "D",
+          "text": "Animals"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "8",
+      "question": "Which musical instruments are mentioned in the poem?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Guitars and pianos"
+        },
+        {
+          "id": "B",
+          "text": "Cymbals, flutes, and drums"
+        },
+        {
+          "id": "C",
+          "text": "Violins"
+        },
+        {
+          "id": "D",
+          "text": "Trumpets"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "9",
+      "question": "Who sings the specific verses in the poem?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only men"
+        },
+        {
+          "id": "B",
+          "text": "Only women"
+        },
+        {
+          "id": "C",
+          "text": "Voices of men, women, and all voices together"
+        },
+        {
+          "id": "D",
+          "text": "Only the priest"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "10",
+      "question": "The poetic phrase \"gold of our fields\" refers to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Actual gold bars"
+        },
+        {
+          "id": "B",
+          "text": "The ripened, golden crops ready for harvest"
+        },
+        {
+          "id": "C",
+          "text": "Yellow flowers"
+        },
+        {
+          "id": "D",
+          "text": "Sunlight"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "11",
+      "question": "Why do the farmers offer their harvest as a tribute?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because they have too much food"
+        },
+        {
+          "id": "B",
+          "text": "To show deep gratitude to the divine forces that made the harvest possible"
+        },
+        {
+          "id": "C",
+          "text": "To pay taxes"
+        },
+        {
+          "id": "D",
+          "text": "Because the gods asked for it"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "12",
+      "question": "How does the sun (Surya) practically help the farmers?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It provides water"
+        },
+        {
+          "id": "B",
+          "text": "Its warmth and light nurture the seeds and ripen the crops"
+        },
+        {
+          "id": "C",
+          "text": "It scares away birds"
+        },
+        {
+          "id": "D",
+          "text": "It cools the earth"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "13",
+      "question": "Why is Varuna praised for his \"mercy that cherished our furrows\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rain is essential for seeds to grow in the ploughed land"
+        },
+        {
+          "id": "B",
+          "text": "He stopped the floods"
+        },
+        {
+          "id": "C",
+          "text": "He brought snow"
+        },
+        {
+          "id": "D",
+          "text": "He provided shade"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "14",
+      "question": "Why do the women call Earth a \"source of manifold gladness\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The earth is flat"
+        },
+        {
+          "id": "B",
+          "text": "Mother Earth provides food, shelter, and sustains all life, bringing immense joy"
+        },
+        {
+          "id": "C",
+          "text": "They like to dig in the dirt"
+        },
+        {
+          "id": "D",
+          "text": "The earth is colorful"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "15",
+      "question": "What does the use of \"All Voices\" at the end signify?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Everyone was shouting"
+        },
+        {
+          "id": "B",
+          "text": "The profound unity and shared gratitude of the entire community"
+        },
+        {
+          "id": "C",
+          "text": "A choir competition"
+        },
+        {
+          "id": "D",
+          "text": "Confusion"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "16",
+      "question": "The highly joyous atmosphere of the harvest is created through:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sad words"
+        },
+        {
+          "id": "B",
+          "text": "References to musical instruments, singing, and abundance"
+        },
+        {
+          "id": "C",
+          "text": "Descriptions of drought"
+        },
+        {
+          "id": "D",
+          "text": "Silence"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "17",
+      "question": "What does \"wealth of our valleys\" mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hidden treasure"
+        },
+        {
+          "id": "B",
+          "text": "The freshly harvested, rich crops that provide sustenance"
+        },
+        {
+          "id": "C",
+          "text": "River water"
+        },
+        {
+          "id": "D",
+          "text": "Beautiful stones"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "18",
+      "question": "Why is the Earth described as \"omnipotent\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because it is weak"
+        },
+        {
+          "id": "B",
+          "text": "Because its power to universally create and sustain life is seen as all-powerful"
+        },
+        {
+          "id": "C",
+          "text": "Because it spins"
+        },
+        {
+          "id": "D",
+          "text": "Because it is rocky"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "19",
+      "question": "What is the fundamental relationship between the villagers and nature?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hostile"
+        },
+        {
+          "id": "B",
+          "text": "Symbiotic, built on deep reverence, care, and gratitude"
+        },
+        {
+          "id": "C",
+          "text": "Indifferent"
+        },
+        {
+          "id": "D",
+          "text": "Fearful"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "20",
+      "question": "Why is the hymn strictly divided into different voices?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To show conflict"
+        },
+        {
+          "id": "B",
+          "text": "To reflect traditional communal participation in agrarian festivals"
+        },
+        {
+          "id": "C",
+          "text": "To make it longer"
+        },
+        {
+          "id": "D",
+          "text": "Because they couldn't sing together"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "21",
+      "question": "\"Thou art the Seed and the Scythe of our harvests\" is an example of:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Simile"
+        },
+        {
+          "id": "B",
+          "text": "Metaphor showing the divine as both the creator (seed) and the culmination/reaper (scythe) of life"
+        },
+        {
+          "id": "C",
+          "text": "Personification"
+        },
+        {
+          "id": "D",
+          "text": "Irony"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "22",
+      "question": "What does 'munificent' mean in the context of praising Surya?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cruel"
+        },
+        {
+          "id": "B",
+          "text": "Extremely generous and bountiful"
+        },
+        {
+          "id": "C",
+          "text": "Small"
+        },
+        {
+          "id": "D",
+          "text": "Dark"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "23",
+      "question": "The phrase \"Prithvi, sweet and omnipotent mother\" uses which poetic device?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Alliteration"
+        },
+        {
+          "id": "B",
+          "text": "Personification (giving Earth maternal human qualities)"
+        },
+        {
+          "id": "C",
+          "text": "Onomatopoeia"
+        },
+        {
+          "id": "D",
+          "text": "Hyperbole"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "24",
+      "question": "What is the symbolic meaning of \"new-garnered and ripe\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Old and rotten"
+        },
+        {
+          "id": "B",
+          "text": "Freshly gathered at the peak of maturity, representing absolute success and fulfillment"
+        },
+        {
+          "id": "C",
+          "text": "Stolen goods"
+        },
+        {
+          "id": "D",
+          "text": "Planted seeds"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "25",
+      "question": "The rhyme scheme and rhythmic language of the poem are explicitly designed to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Confuse the reader"
+        },
+        {
+          "id": "B",
+          "text": "Mirror the musical, chanting quality of a traditional religious hymn"
+        },
+        {
+          "id": "C",
+          "text": "Hide the true meaning"
+        },
+        {
+          "id": "D",
+          "text": "Sound like a modern rap"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "26",
+      "question": "The constant repetition of \"We praise thee\" serves to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Annoy the listener"
+        },
+        {
+          "id": "B",
+          "text": "Emphasize the core theme of unwavering devotion and deep reverence"
+        },
+        {
+          "id": "C",
+          "text": "Fill syllable counts"
+        },
+        {
+          "id": "D",
+          "text": "Show they forgot the words"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "27",
+      "question": "The poem profoundly reflects which cultural aspect of India?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Urban industrialization"
+        },
+        {
+          "id": "B",
+          "text": "Deeply rooted agrarian traditions and intense nature worship"
+        },
+        {
+          "id": "C",
+          "text": "Space exploration"
+        },
+        {
+          "id": "D",
+          "text": "Modern technology"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "28",
+      "question": "What does \"manifold\" mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A car part"
+        },
+        {
+          "id": "B",
+          "text": "Many and various"
+        },
+        {
+          "id": "C",
+          "text": "Folded twice"
+        },
+        {
+          "id": "D",
+          "text": "Empty"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "29",
+      "question": "The complete offering of \"our Hands and our Heart and our Home\" signifies:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Giving away property"
+        },
+        {
+          "id": "B",
+          "text": "Complete spiritual surrender and dedication of one's entire life to the divine"
+        },
+        {
+          "id": "C",
+          "text": "Building a house"
+        },
+        {
+          "id": "D",
+          "text": "Working for free"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "30",
+      "question": "The overarching theme of Harvest Hymn is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "The severe struggle of farming"
+        },
+        {
+          "id": "B",
+          "text": "The sacred interconnectedness of human labor, natural elements, and divine blessing"
+        },
+        {
+          "id": "C",
+          "text": "The extreme danger of weather"
+        },
+        {
+          "id": "D",
+          "text": "The superiority of humans over nature"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    }
+  ]
+}

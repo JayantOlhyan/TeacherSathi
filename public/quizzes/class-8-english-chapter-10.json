@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "Who is the main character in the story?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ruskin Bond"
+        },
+        {
+          "id": "B",
+          "text": "Rakesh"
+        },
+        {
+          "id": "C",
+          "text": "Velu"
+        },
+        {
+          "id": "D",
+          "text": "Gopi"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "2",
+      "question": "Where did Rakesh live with his grandfather?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Delhi"
+        },
+        {
+          "id": "B",
+          "text": "Mussoorie"
+        },
+        {
+          "id": "C",
+          "text": "Mumbai"
+        },
+        {
+          "id": "D",
+          "text": "Chennai"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "3",
+      "question": "Why did Rakesh live with his grandfather instead of his parents?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He ran away"
+        },
+        {
+          "id": "B",
+          "text": "There were no schools in his parents' remote village"
+        },
+        {
+          "id": "C",
+          "text": "He liked the cold"
+        },
+        {
+          "id": "D",
+          "text": "His parents were traveling"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "4",
+      "question": "What specific fruit did Rakesh buy on his way home from school?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Apples"
+        },
+        {
+          "id": "B",
+          "text": "Mangoes"
+        },
+        {
+          "id": "C",
+          "text": "Cherries"
+        },
+        {
+          "id": "D",
+          "text": "Bananas"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "5",
+      "question": "What did Rakesh decide to do with the last cherry seed?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Threw it away"
+        },
+        {
+          "id": "B",
+          "text": "Ate it"
+        },
+        {
+          "id": "C",
+          "text": "Planted it in the garden"
+        },
+        {
+          "id": "D",
+          "text": "Gave it to his grandfather"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "6",
+      "question": "Where did Grandfather suggest planting the seed?",
+      "options": [
+        {
+          "id": "A",
+          "text": "In the bright sun"
+        },
+        {
+          "id": "B",
+          "text": "In a shady corner where it wouldn't be disturbed"
+        },
+        {
+          "id": "C",
+          "text": "In a pot inside"
+        },
+        {
+          "id": "D",
+          "text": "Near the busy road"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "7",
+      "question": "What animal unfortunately ate the leaves of the young cherry tree?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A cow"
+        },
+        {
+          "id": "B",
+          "text": "A goat"
+        },
+        {
+          "id": "C",
+          "text": "A deer"
+        },
+        {
+          "id": "D",
+          "text": "A rabbit"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "8",
+      "question": "Who accidentally cut the cherry tree into two pieces?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rakesh"
+        },
+        {
+          "id": "B",
+          "text": "A woman cutting grass with a sharp scythe"
+        },
+        {
+          "id": "C",
+          "text": "Grandfather"
+        },
+        {
+          "id": "D",
+          "text": "A woodcutter"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "9",
+      "question": "What was the very first visitor to the cherry tree?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A butterfly"
+        },
+        {
+          "id": "B",
+          "text": "A praying-mantis"
+        },
+        {
+          "id": "C",
+          "text": "A bird"
+        },
+        {
+          "id": "D",
+          "text": "A spider"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "10",
+      "question": "Did the cherry tree survive the harsh winter and the terrible accidents?",
+      "options": [
+        {
+          "id": "A",
+          "text": "No, it died"
+        },
+        {
+          "id": "B",
+          "text": "Yes, it miraculously grew tall and blossomed"
+        },
+        {
+          "id": "C",
+          "text": "It remained a seed"
+        },
+        {
+          "id": "D",
+          "text": "It turned into an oak tree"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "11",
+      "question": "Why did Rakesh carefully surround the small tree with pebbles?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To make it look pretty"
+        },
+        {
+          "id": "B",
+          "text": "For privacy and to protect it from being stepped on"
+        },
+        {
+          "id": "C",
+          "text": "To stop it from growing"
+        },
+        {
+          "id": "D",
+          "text": "Because he had nothing else to do"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "12",
+      "question": "Why did Grandfather tell Rakesh to put the seed to some use if he wanted it to be lucky?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He wanted Rakesh to eat it"
+        },
+        {
+          "id": "B",
+          "text": "He believed that luck only works when paired with active action and effort"
+        },
+        {
+          "id": "C",
+          "text": "He didn't believe in luck"
+        },
+        {
+          "id": "D",
+          "text": "He wanted a forest"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "13",
+      "question": "How did Rakesh emotionally react when the goat ate the leaves?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He was very upset and thought it would die"
+        },
+        {
+          "id": "B",
+          "text": "He laughed"
+        },
+        {
+          "id": "C",
+          "text": "He bought a new plant"
+        },
+        {
+          "id": "D",
+          "text": "He hit the goat"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "14",
+      "question": "What does the cherry tree's survival despite being eaten and chopped vividly show?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Trees are made of metal"
+        },
+        {
+          "id": "B",
+          "text": "The remarkable resilience and strong will of nature to survive"
+        },
+        {
+          "id": "C",
+          "text": "Rakesh was a bad gardener"
+        },
+        {
+          "id": "D",
+          "text": "Mussoorie has magical soil"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "15",
+      "question": "Why did Rakesh allow the praying-mantis to stay on the branch?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He was scared of it"
+        },
+        {
+          "id": "B",
+          "text": "He realized the insect was a harmless, natural part of the tree's ecosystem"
+        },
+        {
+          "id": "C",
+          "text": "He couldn't reach it"
+        },
+        {
+          "id": "D",
+          "text": "Grandfather forced him"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "16",
+      "question": "How did Rakesh and the tree's physical growth parallel each other?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They both grew thinner"
+        },
+        {
+          "id": "B",
+          "text": "As Rakesh matured into a sturdy boy, the tree grew strong and tall alongside him"
+        },
+        {
+          "id": "C",
+          "text": "They both stopped growing"
+        },
+        {
+          "id": "D",
+          "text": "They both liked cherries"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "17",
+      "question": "What did the appearance of the pale pink blossom signify?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The tree was dying"
+        },
+        {
+          "id": "B",
+          "text": "The arrival of spring and the tree's successful maturity"
+        },
+        {
+          "id": "C",
+          "text": "The tree was diseased"
+        },
+        {
+          "id": "D",
+          "text": "Winter was coming"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "18",
+      "question": "Why does Rakesh whisper, \"Is this what it feels to be God?\"",
+      "options": [
+        {
+          "id": "A",
+          "text": "He feels taller than everyone"
+        },
+        {
+          "id": "B",
+          "text": "He feels the profound joy, power, and awe of having nurtured and created a life"
+        },
+        {
+          "id": "C",
+          "text": "He is angry"
+        },
+        {
+          "id": "D",
+          "text": "He can fly"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "19",
+      "question": "How is the relationship between Rakesh and Grandfather described in the story?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Strict and scary"
+        },
+        {
+          "id": "B",
+          "text": "Warm, guiding, and deeply affectionate"
+        },
+        {
+          "id": "C",
+          "text": "Distant"
+        },
+        {
+          "id": "D",
+          "text": "Competitive"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "20",
+      "question": "What is the central theme of \"The Cherry Tree\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Farming is easy"
+        },
+        {
+          "id": "B",
+          "text": "The rewards of patience, nurturing, and the extreme resilience of life"
+        },
+        {
+          "id": "C",
+          "text": "Don't eat cherries"
+        },
+        {
+          "id": "D",
+          "text": "Goats are dangerous"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "21",
+      "question": "A \"scythe\" is a specialized agricultural tool used for:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Digging deep holes"
+        },
+        {
+          "id": "B",
+          "text": "Cutting long grass or crops"
+        },
+        {
+          "id": "C",
+          "text": "Watering plants"
+        },
+        {
+          "id": "D",
+          "text": "Measuring height"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "22",
+      "question": "The phrase \"field-mice sought shelter in the roof\" is used by the author to establish:",
+      "options": [
+        {
+          "id": "A",
+          "text": "That mice are terrible pests"
+        },
+        {
+          "id": "B",
+          "text": "The extreme cold and brutal harshness of the Himalayan winter"
+        },
+        {
+          "id": "C",
+          "text": "That the house was dirty"
+        },
+        {
+          "id": "D",
+          "text": "That the tree was dead"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "23",
+      "question": "The cherry tree serves as a potent literary metaphor for:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Financial Wealth"
+        },
+        {
+          "id": "B",
+          "text": "Personal growth, perseverance, and overcoming severe adversity"
+        },
+        {
+          "id": "C",
+          "text": "Formal Education"
+        },
+        {
+          "id": "D",
+          "text": "Old age"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "24",
+      "question": "What does the word 'miracle' imply when they look at the grown tree?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It was a scientific experiment"
+        },
+        {
+          "id": "B",
+          "text": "A profound sense of wonder at nature's ability to thrive against impossible odds"
+        },
+        {
+          "id": "C",
+          "text": "Magic tricks"
+        },
+        {
+          "id": "D",
+          "text": "An illusion"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "25",
+      "question": "Ruskin Bond's writing style in this story is best described as:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aggressive and fast"
+        },
+        {
+          "id": "B",
+          "text": "Simple, evocative, and deeply connected to nature"
+        },
+        {
+          "id": "C",
+          "text": "Highly technical"
+        },
+        {
+          "id": "D",
+          "text": "Sarcastic"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "26",
+      "question": "Rakesh tasting a sour cherry but saving the seed implies:",
+      "options": [
+        {
+          "id": "A",
+          "text": "He hates cherries"
+        },
+        {
+          "id": "B",
+          "text": "A mature understanding that perfection takes time and further cycles of growth"
+        },
+        {
+          "id": "C",
+          "text": "He was poisoned"
+        },
+        {
+          "id": "D",
+          "text": "He is greedy"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "27",
+      "question": "The concept of \"luck\" shifts dramatically in the story from:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Passive chance to hard work and active stewardship"
+        },
+        {
+          "id": "B",
+          "text": "Money to poverty"
+        },
+        {
+          "id": "C",
+          "text": "Magic to science"
+        },
+        {
+          "id": "D",
+          "text": "Good to evil"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "28",
+      "question": "Which of the following sentences shows personification?",
+      "options": [
+        {
+          "id": "A",
+          "text": "\"Rakesh pressed the seed\""
+        },
+        {
+          "id": "B",
+          "text": "\"The leaves are always ready to dance\""
+        },
+        {
+          "id": "C",
+          "text": "\"The goat ate the leaves\""
+        },
+        {
+          "id": "D",
+          "text": "\"It was cold\""
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "29",
+      "question": "The stark contrast between the harsh stony soil/winds and the delicate cherry blossom highlights:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bad geography"
+        },
+        {
+          "id": "B",
+          "text": "The ultimate triumph of delicate beauty over incredibly harsh environmental conditions"
+        },
+        {
+          "id": "C",
+          "text": "Bad weather"
+        },
+        {
+          "id": "D",
+          "text": "Global warming"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "30",
+      "question": "The story deeply implies that human connection to nature provides:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Physical exhaustion"
+        },
+        {
+          "id": "B",
+          "text": "Deep emotional fulfillment and a profound sense of purpose"
+        },
+        {
+          "id": "C",
+          "text": "Financial wealth"
+        },
+        {
+          "id": "D",
+          "text": "Boredom"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    }
+  ]
+}

@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "Who is the primary historical hero profiled in this chapter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mahatma Gandhi"
+        },
+        {
+          "id": "B",
+          "text": "Major Somnath Sharma"
+        },
+        {
+          "id": "C",
+          "text": "Subhas Chandra Bose"
+        },
+        {
+          "id": "D",
+          "text": "Bhagat Singh"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "2",
+      "question": "In what historical year did the famous Battle of Badgam occur?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1947"
+        },
+        {
+          "id": "B",
+          "text": "1950"
+        },
+        {
+          "id": "C",
+          "text": "1962"
+        },
+        {
+          "id": "D",
+          "text": "1971"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "3",
+      "question": "Which highly strategic location was Major Somnath Sharma tasked with defending?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Red Fort"
+        },
+        {
+          "id": "B",
+          "text": "Srinagar Airport"
+        },
+        {
+          "id": "C",
+          "text": "The India Gate"
+        },
+        {
+          "id": "D",
+          "text": "A major seaport"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "4",
+      "question": "To which specific military regiment did Major Somnath Sharma belong?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Punjab Regiment"
+        },
+        {
+          "id": "B",
+          "text": "The Kumaon Regiment"
+        },
+        {
+          "id": "C",
+          "text": "The Rajputana Rifles"
+        },
+        {
+          "id": "D",
+          "text": "The Gorkha Rifles"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "5",
+      "question": "What was the official code name of the hostile operation launched by Pakistan?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Operation Blue Star"
+        },
+        {
+          "id": "B",
+          "text": "Operation Gulmarg"
+        },
+        {
+          "id": "C",
+          "text": "Operation Vijay"
+        },
+        {
+          "id": "D",
+          "text": "Operation Polo"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "6",
+      "question": "What is the highest military gallantry award given for bravery in India?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ashok Chakra"
+        },
+        {
+          "id": "B",
+          "text": "Param Vir Chakra"
+        },
+        {
+          "id": "C",
+          "text": "Maha Vir Chakra"
+        },
+        {
+          "id": "D",
+          "text": "Shaurya Chakra"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "7",
+      "question": "Was Major Somnath Sharma the first individual to receive the Param Vir Chakra?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes, he was the first"
+        },
+        {
+          "id": "B",
+          "text": "No, he was the second"
+        },
+        {
+          "id": "C",
+          "text": "He received it third"
+        },
+        {
+          "id": "D",
+          "text": "He never received it"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "8",
+      "question": "Which part of Major Somnath Sharma's body was immobilized in a plaster cast during the battle?",
+      "options": [
+        {
+          "id": "A",
+          "text": "His right leg"
+        },
+        {
+          "id": "B",
+          "text": "His left hand"
+        },
+        {
+          "id": "C",
+          "text": "His right arm"
+        },
+        {
+          "id": "D",
+          "text": "His left foot"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "9",
+      "question": "Where was Major Somnath Sharma originally born?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Delhi"
+        },
+        {
+          "id": "B",
+          "text": "Kangra, Himachal Pradesh"
+        },
+        {
+          "id": "C",
+          "text": "Srinagar"
+        },
+        {
+          "id": "D",
+          "text": "Mumbai"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "10",
+      "question": "Who vastly outnumbered the Indian troops during the intense Battle of Badgam?",
+      "options": [
+        {
+          "id": "A",
+          "text": "British colonial soldiers"
+        },
+        {
+          "id": "B",
+          "text": "About 500 heavily armed, trained infiltrators"
+        },
+        {
+          "id": "C",
+          "text": "Chinese troops"
+        },
+        {
+          "id": "D",
+          "text": "Unarmed local villagers"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "11",
+      "question": "Why was successfully defending the Srinagar airport considered absolutely critical?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To protect airplanes from rusting"
+        },
+        {
+          "id": "B",
+          "text": "If it fell, the enemy could easily capture the entire Kashmir Valley"
+        },
+        {
+          "id": "C",
+          "text": "It was a popular tourist destination"
+        },
+        {
+          "id": "D",
+          "text": "The regional king lived there"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "12",
+      "question": "What extraordinary actions did Major Somnath Sharma take despite having a broken left hand?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He went home to rest"
+        },
+        {
+          "id": "B",
+          "text": "He actively laid out ground panels to guide air strikes and personally distributed ammunition"
+        },
+        {
+          "id": "C",
+          "text": "He hid safely in a deep trench"
+        },
+        {
+          "id": "D",
+          "text": "He immediately surrendered"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "13",
+      "question": "How did Major Somnath Sharma's grandfather deeply influence his character?",
+      "options": [
+        {
+          "id": "A",
+          "text": "By teaching him how to fly planes"
+        },
+        {
+          "id": "B",
+          "text": "By vividly narrating ancient tales of valour from the Mahabharata"
+        },
+        {
+          "id": "C",
+          "text": "By teaching him how to swim"
+        },
+        {
+          "id": "D",
+          "text": "By advising him to avoid the army"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "14",
+      "question": "When explicitly asked to withdraw by his senior commanders, what was the Major's response?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He agreed immediately"
+        },
+        {
+          "id": "B",
+          "text": "He adamantly chose to hold his ground and fight till the last man and last round"
+        },
+        {
+          "id": "C",
+          "text": "He asked for a rescue helicopter"
+        },
+        {
+          "id": "D",
+          "text": "He surrendered to save his men"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "15",
+      "question": "Why did Major Somnath Sharma bravely walk openly across the battlefield under heavy fire?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He was completely lost"
+        },
+        {
+          "id": "B",
+          "text": "To physically inspire his outnumbered soldiers with courage and show he wasn't afraid"
+        },
+        {
+          "id": "C",
+          "text": "He wanted to surrender to the enemy"
+        },
+        {
+          "id": "D",
+          "text": "He couldn't find a trench"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "16",
+      "question": "How did his specific leadership decisions fundamentally change the outcome of the war?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He defeated the whole army alone"
+        },
+        {
+          "id": "B",
+          "text": "His stubborn stand delayed the enemy just enough for reinforcements to arrive, saving Srinagar"
+        },
+        {
+          "id": "C",
+          "text": "He forced a peace treaty"
+        },
+        {
+          "id": "D",
+          "text": "He failed and the airport was lost"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "17",
+      "question": "What profound internal values do Major Somnath's famous last words reflect?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Intense fear"
+        },
+        {
+          "id": "B",
+          "text": "Unwavering duty, supreme patriotism, and self-sacrifice"
+        },
+        {
+          "id": "C",
+          "text": "Deep anger at his seniors"
+        },
+        {
+          "id": "D",
+          "text": "Absolute confusion"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "18",
+      "question": "Why was the Param Vir Chakra awarded to him \"posthumously\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because he was very young"
+        },
+        {
+          "id": "B",
+          "text": "Because he died in the battle making the ultimate sacrifice before the award was given"
+        },
+        {
+          "id": "C",
+          "text": "Because he retired"
+        },
+        {
+          "id": "D",
+          "text": "Because he personally requested it"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "19",
+      "question": "What catastrophic event would have likely happened if D Company had retreated?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The war would end peacefully"
+        },
+        {
+          "id": "B",
+          "text": "Srinagar airport would have fallen, drastically changing the modern history of India"
+        },
+        {
+          "id": "C",
+          "text": "They would get medals anyway"
+        },
+        {
+          "id": "D",
+          "text": "The enemy would leave peacefully"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "20",
+      "question": "Which of the following complex virtues is BEST demonstrated by Major Somnath Sharma?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Intense Greed"
+        },
+        {
+          "id": "B",
+          "text": "Selfless service, moral courage, and extreme physical bravery"
+        },
+        {
+          "id": "C",
+          "text": "Blind Arrogance"
+        },
+        {
+          "id": "D",
+          "text": "Political Cunningness"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "21",
+      "question": "The poetic phrase \"forever alive\" used in the text regarding his legacy signifies that:",
+      "options": [
+        {
+          "id": "A",
+          "text": "He is physically immortal"
+        },
+        {
+          "id": "B",
+          "text": "His ultimate sacrifice remains a timeless, enduring inspiration for the nation"
+        },
+        {
+          "id": "C",
+          "text": "A medical miracle occurred"
+        },
+        {
+          "id": "D",
+          "text": "It is a local ghost story"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "22",
+      "question": "What is the precise definition of 'valour' in a strict military context?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Simple physical strength"
+        },
+        {
+          "id": "B",
+          "text": "Exceptional, unwavering courage in the face of immense danger or certain death"
+        },
+        {
+          "id": "C",
+          "text": "Bureaucratic strategy and planning"
+        },
+        {
+          "id": "D",
+          "text": "Surrendering smartly"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "23",
+      "question": "The specific term 'infiltrators' in the historical text refers directly to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Welcomed guests"
+        },
+        {
+          "id": "B",
+          "text": "Hostile individuals who secretly and illegally enter a territory with aggressive intent"
+        },
+        {
+          "id": "C",
+          "text": "Innocent tourists"
+        },
+        {
+          "id": "D",
+          "text": "Allied reinforcements"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "24",
+      "question": "How did the Battle of Badgam functionally serve as a monumental 'turning point' in 1947?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It started the Second World War"
+        },
+        {
+          "id": "B",
+          "text": "It halted the enemy advance just long enough to secure the region and deploy further troops"
+        },
+        {
+          "id": "C",
+          "text": "It was the last battle ever fought in the region"
+        },
+        {
+          "id": "D",
+          "text": "It resulted in a massive, permanent retreat"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "25",
+      "question": "\"I shall not withdraw an inch but will fight to the last man and the last round.\" This quote highlights the thematic concept of:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Suicidal recklessness"
+        },
+        {
+          "id": "B",
+          "text": "The ultimate, uncompromising commitment to national duty"
+        },
+        {
+          "id": "C",
+          "text": "Intentional disobedience of direct orders"
+        },
+        {
+          "id": "D",
+          "text": "Paralyzing fear of the enemy"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "26",
+      "question": "Which vocabulary word serves as the most accurate synonym for 'devastating' as used in the phrase \"devastating fire\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Gentle and mild"
+        },
+        {
+          "id": "B",
+          "text": "Highly destructive and completely overwhelming"
+        },
+        {
+          "id": "C",
+          "text": "Visually beautiful"
+        },
+        {
+          "id": "D",
+          "text": "Incredibly slow"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "27",
+      "question": "The narrative explicitly describes him 'guiding airstrikes'. This proves that apart from raw bravery, he possessed:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Supernatural magical powers"
+        },
+        {
+          "id": "B",
+          "text": "High tactical intelligence, composure, and acute situational awareness"
+        },
+        {
+          "id": "C",
+          "text": "Blind fear"
+        },
+        {
+          "id": "D",
+          "text": "A loud radio voice"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "28",
+      "question": "What does the military phrase \"commissioned into the regiment\" strictly mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Given an official, formal rank and active role as a military officer"
+        },
+        {
+          "id": "B",
+          "text": "Arrested by the regiment's police"
+        },
+        {
+          "id": "C",
+          "text": "Forced to leave the military completely"
+        },
+        {
+          "id": "D",
+          "text": "Paid money to join as a mercenary"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "29",
+      "question": "A 'posthumous' award or recognition is one that is specifically given:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Before a person's birth"
+        },
+        {
+          "id": "B",
+          "text": "After a person has passed away"
+        },
+        {
+          "id": "C",
+          "text": "During their retirement ceremony"
+        },
+        {
+          "id": "D",
+          "text": "On their actual birthday"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "30",
+      "question": "The author's inclusion of the Mahabharata tales in the description of his early life serves to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Show he simply liked reading books"
+        },
+        {
+          "id": "B",
+          "text": "Thematically foreshadow his own epic, highly principled stand in battle"
+        },
+        {
+          "id": "C",
+          "text": "Prove he was deeply religious"
+        },
+        {
+          "id": "D",
+          "text": "Explain how he got his physical injury"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    }
+  ]
+}

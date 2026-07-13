@@ -2,753 +2,753 @@
   "questions": [
     {
       "id": "1",
-      "question": "'समय का महत्व' किस विधा की रचना है?",
+      "question": "'नए मेहमान' पाठ साहित्य की किस विधा में है?",
       "options": [
         {
           "id": "A",
-          "text": "कविता"
-        },
-        {
-          "id": "B",
-          "text": "निबंध"
-        },
-        {
-          "id": "C",
           "text": "कहानी"
         },
         {
+          "id": "B",
+          "text": "कविता"
+        },
+        {
+          "id": "C",
+          "text": "एकांकी (नाटक)"
+        },
+        {
           "id": "D",
-          "text": "संस्मरण"
+          "text": "निबंध"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
+    },
+    {
+      "id": "2",
+      "question": "इस एकांकी के रचनाकार कौन हैं?",
+      "options": [
+        {
+          "id": "A",
+          "text": "प्रेमचंद"
+        },
+        {
+          "id": "B",
+          "text": "उदयशंकर भट्ट"
+        },
+        {
+          "id": "C",
+          "text": "भीष्म साहनी"
+        },
+        {
+          "id": "D",
+          "text": "महादेवी वर्मा"
         }
       ],
       "difficulty": "Easy",
       "correctAnswerId": "B",
-      "explanation": "सही उत्तर B है।"
-    },
-    {
-      "id": "2",
-      "question": "इस पाठ का मुख्य विषय क्या है?",
-      "options": [
-        {
-          "id": "A",
-          "text": "समय का सदुपयोग"
-        },
-        {
-          "id": "B",
-          "text": "खेलकूद"
-        },
-        {
-          "id": "C",
-          "text": "यात्रा"
-        },
-        {
-          "id": "D",
-          "text": "व्यापार"
-        }
-      ],
-      "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "3",
-      "question": "समय कैसा संसाधन है?",
+      "question": "एकांकी में मुख्य परिवार के गृहपति (पति) का क्या नाम है?",
       "options": [
         {
           "id": "A",
-          "text": "अमूल्य"
+          "text": "नन्हेमल"
         },
         {
           "id": "B",
-          "text": "साधारण"
+          "text": "बाबूलाल"
         },
         {
           "id": "C",
-          "text": "व्यर्थ"
+          "text": "विश्वनाथ"
         },
         {
           "id": "D",
-          "text": "अनावश्यक"
+          "text": "प्रमोद"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "4",
-      "question": "समय का सदुपयोग करने वाला व्यक्ति क्या प्राप्त करता है?",
+      "question": "विश्वनाथ की बीमार पत्नी का क्या नाम है?",
       "options": [
         {
           "id": "A",
-          "text": "सफलता"
+          "text": "रेवती"
         },
         {
           "id": "B",
-          "text": "असफलता"
+          "text": "किरण"
         },
         {
           "id": "C",
-          "text": "आलस्य"
+          "text": "सीता"
         },
         {
           "id": "D",
-          "text": "निराशा"
+          "text": "राधा"
         }
       ],
       "difficulty": "Easy",
       "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "5",
-      "question": "समय का दुरुपयोग करने का परिणाम क्या होता है?",
+      "question": "कहानी में किस ऋतु और समय का भयावह वर्णन है?",
       "options": [
         {
           "id": "A",
-          "text": "पछतावा"
+          "text": "सर्दी की सुबह"
         },
         {
           "id": "B",
-          "text": "सफलता"
+          "text": "भीषण गर्मी की रात (आठ बजे)"
         },
         {
           "id": "C",
-          "text": "सम्मान"
+          "text": "बरसात की दोपहर"
         },
         {
           "id": "D",
-          "text": "प्रगति"
+          "text": "वसंत की शाम"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "6",
-      "question": "समय का सही उपयोग करने के लिए क्या आवश्यक है?",
+      "question": "रेवती पिछले कितने दिनों से किस बीमारी से परेशान थी?",
       "options": [
         {
           "id": "A",
-          "text": "अनुशासन"
+          "text": "5 दिन से बुखार"
         },
         {
           "id": "B",
-          "text": "आलस्य"
+          "text": "15 दिन से भयानक सिरदर्द"
         },
         {
           "id": "C",
-          "text": "लापरवाही"
+          "text": "2 दिन से पेटदर्द"
         },
         {
           "id": "D",
-          "text": "टालमटोल"
+          "text": "10 दिन से खाँसी"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "7",
-      "question": "इस पाठ को पढ़कर कौन-सा गुण विकसित होता है?",
+      "question": "रात में अचानक घर में कौन आ धमकते हैं?",
       "options": [
         {
           "id": "A",
-          "text": "समय की पाबंदी"
+          "text": "पुलिस"
         },
         {
           "id": "B",
-          "text": "ईर्ष्या"
+          "text": "दो अपरिचित मेहमान (नन्हेमल और बाबूलाल)"
         },
         {
           "id": "C",
-          "text": "घमंड"
+          "text": "रेवती का भाई"
         },
         {
           "id": "D",
-          "text": "स्वार्थ"
+          "text": "मकान मालिक"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "8",
-      "question": "समय किसके लिए समान होता है?",
+      "question": "अनजान मेहमान विश्वनाथ के घर में कैसे पहुँच जाते हैं?",
       "options": [
         {
           "id": "A",
-          "text": "सभी लोगों के लिए"
+          "text": "वे रिश्तेदार थे"
         },
         {
           "id": "B",
-          "text": "केवल विद्यार्थियों के लिए"
+          "text": "वे भूल से गलत पते पर आ गए थे"
         },
         {
           "id": "C",
-          "text": "केवल अमीरों के लिए"
+          "text": "वे किराएदार थे"
         },
         {
           "id": "D",
-          "text": "केवल बड़ों के लिए"
+          "text": "वे चोर थे"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "9",
-      "question": "इस पाठ का मुख्य संदेश क्या है?",
+      "question": "एकांकी के अंत में वास्तव में कौन पहुँचता है, जिसका इंतज़ार था?",
       "options": [
         {
           "id": "A",
-          "text": "समय का सम्मान करना चाहिए।"
+          "text": "पुलिस"
         },
         {
           "id": "B",
-          "text": "समय व्यर्थ गँवाना चाहिए।"
+          "text": "डाकिया"
         },
         {
           "id": "C",
-          "text": "कार्यों को टालना चाहिए।"
+          "text": "रेवती का असली भाई"
         },
         {
           "id": "D",
-          "text": "केवल आराम करना चाहिए।"
+          "text": "डॉक्टर"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "10",
-      "question": "इस पाठ का केंद्रीय भाव क्या है?",
+      "question": "घर की छत की क्या समस्या थी?",
       "options": [
         {
           "id": "A",
-          "text": "समय का महत्व और सदुपयोग"
+          "text": "बहुत बड़ी थी"
         },
         {
           "id": "B",
-          "text": "प्रतियोगिता"
+          "text": "बहुत छोटी थी, जहाँ परिवार के सबकी खाटें नहीं आ सकती थीं"
         },
         {
           "id": "C",
-          "text": "राजनीति"
+          "text": "बिना छत का घर"
         },
         {
           "id": "D",
-          "text": "विज्ञान"
+          "text": "बहुत ठंडी"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "11",
-      "question": "'समय का महत्व' पाठ का मुख्य संदेश क्या है?",
+      "question": "रेवती मेहमानों के आने से अत्यधिक चिड़चिड़ी क्यों हो जाती है?",
       "options": [
         {
           "id": "A",
-          "text": "समय का सदुपयोग जीवन में सफलता का आधार है।"
+          "text": "उसे मेहमान बिल्कुल पसंद नहीं थे"
         },
         {
           "id": "B",
-          "text": "सफलता केवल भाग्य से मिलती है।"
+          "text": "वह बीमार थी, गर्मी बहुत थी, घर छोटा था और वह उनकी सेवा करने की शारीरिक स्थिति में नहीं थी"
         },
         {
           "id": "C",
-          "text": "समय का कोई विशेष महत्व नहीं है।"
+          "text": "मेहमानों ने उसे डांटा था"
         },
         {
           "id": "D",
-          "text": "कार्यों को टालना अच्छी आदत है।"
+          "text": "मेहमान चोर थे"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "12",
-      "question": "समय प्रबंधन का सबसे बड़ा लाभ क्या है?",
+      "question": "पड़ोसी विश्वनाथ के परिवार की मदद (छत देने से) क्यों नहीं करते?",
       "options": [
         {
           "id": "A",
-          "text": "कार्य समय पर पूरे होते हैं।"
+          "text": "वे घर पर नहीं थे"
         },
         {
           "id": "B",
-          "text": "काम अधूरे रह जाते हैं।"
+          "text": "वे अपनी खाली छत का इस्तेमाल नहीं करने देते थे, जो शहरी संवेदनहीनता को दर्शाता है"
         },
         {
           "id": "C",
-          "text": "तनाव बढ़ता है।"
+          "text": "विश्वनाथ ने मना किया था"
         },
         {
           "id": "D",
-          "text": "समय की बर्बादी होती है।"
+          "text": "पड़ोसियों के पास छत नहीं थी"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "13",
-      "question": "यह पाठ विद्यार्थियों में कौन-सा जीवन-मूल्य विकसित करता है?",
+      "question": "यह एकांकी मुख्य रूप से समाज के किस वर्ग के संघर्ष को दिखाती है?",
       "options": [
         {
           "id": "A",
-          "text": "अनुशासन और जिम्मेदारी"
+          "text": "अत्यंत गरीब वर्ग"
         },
         {
           "id": "B",
-          "text": "आलस्य"
+          "text": "दिल्ली जैसे बड़े शहर के मध्यमवर्गीय परिवार का स्थानिक और आर्थिक संघर्ष"
         },
         {
           "id": "C",
-          "text": "लापरवाही"
+          "text": "उच्च वर्ग"
         },
         {
           "id": "D",
-          "text": "स्वार्थ"
+          "text": "ग्रामीण जीवन"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "14",
-      "question": "समय को 'अमूल्य' क्यों कहा गया है?",
+      "question": "विश्वनाथ अनजान मेहमानों को घर में क्यों रहने देते हैं?",
       "options": [
         {
           "id": "A",
-          "text": "क्योंकि बीता हुआ समय वापस नहीं आता।"
+          "text": "क्योंकि वे उनसे डरते थे"
         },
         {
           "id": "B",
-          "text": "क्योंकि समय खरीदा जा सकता है।"
+          "text": "भारतीय 'अतिथि देवो भव' की परंपरा, मर्यादा और सामाजिक दबाव के कारण"
         },
         {
           "id": "C",
-          "text": "क्योंकि समय केवल अमीरों के पास होता है।"
+          "text": "क्योंकि वे पैसे दे रहे थे"
         },
         {
           "id": "D",
-          "text": "क्योंकि समय की कोई सीमा नहीं होती।"
+          "text": "क्योंकि विश्वनाथ को दोस्त चाहिए थे"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "15",
-      "question": "इस पाठ का शीर्षक 'समय का महत्व' क्यों उपयुक्त है?",
+      "question": "'मकान भट्टी की तरह तप रहा है' - इसका क्या अर्थ है?",
       "options": [
         {
           "id": "A",
-          "text": "क्योंकि पूरा पाठ समय के मूल्य और उसके सदुपयोग पर आधारित है।"
+          "text": "घर में भट्टी जल रही है"
         },
         {
           "id": "B",
-          "text": "क्योंकि इसमें केवल घड़ी का वर्णन है।"
+          "text": "मकान बहुत छोटा, हवादार न होने के कारण अत्यधिक गर्म और घुटन भरा है"
         },
         {
           "id": "C",
-          "text": "क्योंकि इसमें केवल दिनचर्या का वर्णन है।"
+          "text": "खाना बन रहा है"
         },
         {
           "id": "D",
-          "text": "क्योंकि इसमें केवल इतिहास बताया गया है।"
+          "text": "घर में आग लगी है"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "16",
-      "question": "समय का सम्मान करने वाला व्यक्ति कैसा होता है?",
+      "question": "नन्हेमल और बाबूलाल का व्यवहार कैसा था?",
       "options": [
         {
           "id": "A",
-          "text": "सफल और अनुशासित"
+          "text": "बहुत विनम्र"
         },
         {
           "id": "B",
-          "text": "आलसी"
+          "text": "अनजान होते हुए भी अधिकार जताने वाला, बेसरोकार और घरवालों को असहज करने वाला"
         },
         {
           "id": "C",
-          "text": "असावधान"
+          "text": "डरा हुआ"
         },
         {
           "id": "D",
-          "text": "लापरवाह"
+          "text": "चुपचाप बैठे रहने वाला"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "17",
-      "question": "समय का सदुपयोग करने के लिए क्या करना चाहिए?",
+      "question": "एकांकी में 'तार' (Telegraph/Telegram) का जिक्र क्या बताता है?",
       "options": [
         {
           "id": "A",
-          "text": "कार्यों की योजना बनाकर समय पर पूरा करना चाहिए।"
+          "text": "बिजली का तार"
         },
         {
           "id": "B",
-          "text": "काम को टालते रहना चाहिए।"
+          "text": "यह एकांकी के रचना-काल (जब संचार का मुख्य साधन तार था) का ऐतिहासिक संकेत देता है"
         },
         {
           "id": "C",
-          "text": "बिना योजना के काम करना चाहिए।"
+          "text": "कपड़े सुखाने का तार"
         },
         {
           "id": "D",
-          "text": "समय व्यर्थ बिताना चाहिए।"
+          "text": "गिटार का तार"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "18",
-      "question": "इस पाठ का उद्देश्य क्या है?",
+      "question": "जब रेवती का असली भाई आता है, तो रेवती का व्यवहार कैसे बदल जाता है?",
       "options": [
         {
           "id": "A",
-          "text": "समय के महत्व और उसके उचित उपयोग के प्रति जागरूक करना।"
+          "text": "वह उसे भगा देती है"
         },
         {
           "id": "B",
-          "text": "केवल घड़ी की जानकारी देना।"
+          "text": "उसकी चिड़चिड़ाहट तुरंत वात्सल्य और सेवाभाव में बदल जाती है"
         },
         {
           "id": "C",
-          "text": "केवल दिनचर्या लिखना।"
+          "text": "वह रोने लगती है"
         },
         {
           "id": "D",
-          "text": "केवल परीक्षा की तैयारी कराना।"
+          "text": "वह सो जाती है"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "19",
-      "question": "समय का सही उपयोग किसका निर्माण करता है?",
+      "question": "पानी की किल्लत के कारण घर में कौन नहीं टिकता था?",
       "options": [
         {
           "id": "A",
-          "text": "उज्ज्वल भविष्य का"
+          "text": "मेहमान"
         },
         {
           "id": "B",
-          "text": "असफलता का"
+          "text": "तीसरी मंजिल तक बाल्टी से पानी चढ़ाने की मेहनत के डर से नौकर"
         },
         {
           "id": "C",
-          "text": "निराशा का"
+          "text": "बच्चे"
         },
         {
           "id": "D",
-          "text": "तनाव का"
+          "text": "रिश्तेदार"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "20",
-      "question": "इस पाठ से विद्यार्थियों को क्या प्रेरणा मिलती है?",
+      "question": "इस नाटक का माहौल (Setting) लेखक ने मनोवैज्ञानिक रूप से कैसा बनाया है?",
       "options": [
         {
           "id": "A",
-          "text": "समय का सदुपयोग कर लक्ष्य प्राप्त करने की।"
+          "text": "बहुत शांत"
         },
         {
           "id": "B",
-          "text": "समय नष्ट करने की।"
+          "text": "'प्रेशर कुकर' जैसा, जहाँ गर्मी, बीमारी और तनाव से सब फटने (विस्फोट) की स्थिति में हैं"
         },
         {
           "id": "C",
-          "text": "कार्य टालने की।"
+          "text": "डरावना"
         },
         {
           "id": "D",
-          "text": "केवल आराम करने की।"
+          "text": "उत्सव जैसा"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "21",
-      "question": "'समय का महत्व' का सबसे महत्वपूर्ण संदेश क्या है?",
+      "question": "यह एकांकी शहरी जीवन की किस विडंबना पर सबसे करारी चोट है?",
       "options": [
         {
           "id": "A",
-          "text": "समय का सम्मान और सदुपयोग ही सफलता तथा व्यक्तित्व विकास की कुंजी है।"
+          "text": "ट्रैफिक जाम पर"
         },
         {
           "id": "B",
-          "text": "केवल भाग्य से सफलता मिलती है।"
+          "text": "भौतिक सुविधाओं की कमी, संकुचित आवास और पड़ोसियों के बीच आत्मीयता एवं सहानुभूति के पूर्ण अभाव (Alienation) पर"
         },
         {
           "id": "C",
-          "text": "समय का कोई महत्व नहीं है।"
+          "text": "महँगाई पर"
         },
         {
           "id": "D",
-          "text": "कार्यों को टालना उचित है।"
+          "text": "शिक्षा व्यवस्था पर"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "22",
-      "question": "यदि कोई विद्यार्थी नियमित रूप से समय का सदुपयोग करे, तो सबसे अधिक लाभ किस क्षेत्र में होगा?",
+      "question": "रेवती का अंत में बदला हुआ व्यवहार क्या प्रमाणित करता है?",
       "options": [
         {
           "id": "A",
-          "text": "अध्ययन, व्यक्तित्व और जीवन-प्रबंधन में"
+          "text": "कि वह स्वभाव से ही बहुत बुरी है"
         },
         {
           "id": "B",
-          "text": "केवल खेल में"
+          "text": "कि मनुष्य का कटु व्यवहार अक्सर उसकी विषम परिस्थितियों (बीमारी, गर्मी, लाचारी) की उपज होता है, वह दिल की बुरी नहीं थी"
         },
         {
           "id": "C",
-          "text": "केवल मनोरंजन में"
+          "text": "कि वह स्वार्थी है"
         },
         {
           "id": "D",
-          "text": "केवल छुट्टियों में"
+          "text": "कि वह मेहमान-नवाजी नहीं जानती"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "23",
-      "question": "समय का सदुपयोग किस जीवन-कौशल (Life Skill) से सबसे अधिक जुड़ा है?",
+      "question": "'अतिथि देवो भव' की प्राचीन परंपरा और आधुनिक शहरी यथार्थ के बीच एकांकी कैसा संबंध दिखाती है?",
       "options": [
         {
           "id": "A",
-          "text": "आत्म-अनुशासन और समय-प्रबंधन"
+          "text": "दोनों पूरी तरह मेल खाते हैं"
         },
         {
           "id": "B",
-          "text": "प्रतियोगिता"
+          "text": "दोनों के बीच तीखा टकराव; पुरानी परंपराएँ नए आर्थिक और स्थानिक संघर्षों के सामने बोझिल और हास्यास्पद हो गई हैं"
         },
         {
           "id": "C",
-          "text": "प्रसिद्धि"
+          "text": "परंपराएँ खत्म हो गई हैं"
         },
         {
           "id": "D",
-          "text": "भाग्य"
+          "text": "शहरों में लोग ज़्यादा मेहमान-नवाज़ हैं"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "24",
-      "question": "यदि आपको इस पाठ का संदेश एक वाक्य में लिखना हो, तो सबसे उपयुक्त विकल्प कौन-सा होगा?",
+      "question": "रंगमंच-निर्देश (Stage directions - कोष्ठक में दिए गए संकेत) एकांकी में क्या भूमिका निभाते हैं?",
       "options": [
         {
           "id": "A",
-          "text": "समय का सदुपयोग करने वाला व्यक्ति ही अपने जीवन के लक्ष्य प्राप्त करता है।"
+          "text": "वे केवल पढ़ने के लिए हैं"
         },
         {
           "id": "B",
-          "text": "समय स्वयं सफलता दिला देता है।"
+          "text": "वे पात्रों के हाव-भाव, समय, स्थान और मानसिक तनाव (जैसे पसीना पोंछना, झुँझलाना) को सजीव कर अभिनय में सहायक होते हैं"
         },
         {
           "id": "C",
-          "text": "समय की योजना बनाना आवश्यक नहीं है।"
+          "text": "वे कहानी को लंबा करते हैं"
         },
         {
           "id": "D",
-          "text": "केवल भाग्य ही सब कुछ है।"
+          "text": "उनका कोई महत्व नहीं है"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "25",
-      "question": "यह पाठ विद्यार्थियों के व्यक्तित्व विकास में कैसे सहायक है?",
+      "question": "नन्हेमल और बाबूलाल का चरित्र एकांकी में किस नाटकीय उद्देश्य से डाला गया है?",
       "options": [
         {
           "id": "A",
-          "text": "यह अनुशासन, समय-प्रबंधन और जिम्मेदारी की भावना विकसित करता है।"
+          "text": "नायक के रूप में"
         },
         {
           "id": "B",
-          "text": "यह केवल घड़ी का महत्व बताता है।"
+          "text": "हास्य-व्यंग्य (Comic relief) पैदा करने और विश्वनाथ के परिवार के छिपे हुए तनाव को चरम (Climax) पर ले जाने वाले उत्प्रेरक (Catalyst) के रूप में"
         },
         {
           "id": "C",
-          "text": "यह केवल दिनचर्या याद कराता है।"
+          "text": "खलनायक के रूप में"
         },
         {
           "id": "D",
-          "text": "यह केवल मनोरंजन करता है।"
+          "text": "उपदेश देने के लिए"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "26",
-      "question": "समय का दुरुपयोग करने का सबसे बड़ा नुकसान क्या है?",
+      "question": "एकांकी के अंत में भाई का आना और भूल से आए मेहमानों का रहस्य खुलना कौन-सा नाटकीय तत्व है?",
       "options": [
         {
           "id": "A",
-          "text": "अवसर हाथ से निकल जाते हैं।"
+          "text": "त्रासद अंत (Tragedy)"
         },
         {
           "id": "B",
-          "text": "समय बढ़ जाता है।"
+          "text": "क्लाइमेक्स और सिचुएशनल आयरनी (Situational Irony) का बेहतरीन सम्मिश्रण"
         },
         {
           "id": "C",
-          "text": "सफलता जल्दी मिलती है।"
+          "text": "फ्लैशबैक"
         },
         {
           "id": "D",
-          "text": "अनुभव बढ़ जाता है।"
+          "text": "प्रस्तावना"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "27",
-      "question": "यदि समाज का प्रत्येक व्यक्ति समय का सम्मान करे, तो क्या परिणाम होगा?",
+      "question": "यह पाठ आधुनिक पाठकों को क्या मनोवैज्ञानिक और व्यावहारिक संदेश देता है?",
       "options": [
         {
           "id": "A",
-          "text": "कार्यकुशलता और प्रगति बढ़ेगी।"
+          "text": "किसी के घर नहीं जाना चाहिए"
         },
         {
           "id": "B",
-          "text": "अव्यवस्था बढ़ेगी।"
+          "text": "कठिन और अवांछित परिस्थितियों (अतिथियों के आने) में भी धैर्य, समझदारी और विनम्रता बनाए रखनी चाहिए"
         },
         {
           "id": "C",
-          "text": "समय की बर्बादी बढ़ेगी।"
+          "text": "अजनबियों को पीटना चाहिए"
         },
         {
           "id": "D",
-          "text": "कोई परिवर्तन नहीं होगा।"
+          "text": "झूठ बोलना चाहिए"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "28",
-      "question": "समय का महत्व समझने वाला व्यक्ति किस प्रकार के निर्णय लेता है?",
+      "question": "लेखक ने 'गर्मी' का प्रयोग केवल मौसम के लिए नहीं बल्कि किस अन्य रूप में किया है?",
       "options": [
         {
           "id": "A",
-          "text": "सोच-समझकर और समय पर"
+          "text": "ग्लोबल वार्मिंग दिखाने के लिए"
         },
         {
           "id": "B",
-          "text": "जल्दबाज़ी में"
+          "text": "परिवार के अंदर उबल रहे मनोवैज्ञानिक तनाव, बेचैनी और गृहकलह के रूपक (Metaphor) के रूप में"
         },
         {
           "id": "C",
-          "text": "बिना योजना के"
+          "text": "विज्ञान के लिए"
         },
         {
           "id": "D",
-          "text": "दूसरों पर निर्भर होकर"
+          "text": "कोई अन्य अर्थ नहीं है"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "29",
-      "question": "इस पाठ का मुख्य उद्देश्य क्या है?",
+      "question": "'नए मेहमान' शीर्षक की सार्थकता किसमें है?",
       "options": [
         {
           "id": "A",
-          "text": "विद्यार्थियों में समय-प्रबंधन, अनुशासन और जिम्मेदारी की भावना विकसित करना।"
+          "text": "क्योंकि मेहमान नए कपड़े पहने थे"
         },
         {
           "id": "B",
-          "text": "केवल समय की परिभाषा बताना।"
+          "text": "व्यंग्य में, क्योंकि ये 'नए' (अनजान/आधुनिक) मेहमान आतिथ्य की 'पुरानी' परंपरा की कड़ी परीक्षा लेते हैं"
         },
         {
           "id": "C",
-          "text": "केवल घड़ी का इतिहास बताना।"
+          "text": "क्योंकि वे नए शहर से थे"
         },
         {
           "id": "D",
-          "text": "केवल दिनचर्या लिखना सिखाना।"
+          "text": "क्योंकि मकान नया था"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "30",
-      "question": "इस पाठ को पढ़ने के बाद विद्यार्थी के व्यवहार में सबसे उपयुक्त परिवर्तन क्या होगा?",
+      "question": "उदयशंकर भट्ट जी का हिंदी साहित्य में विशेष योगदान किस क्षेत्र में रहा है?",
       "options": [
         {
           "id": "A",
-          "text": "वह समय का सम्मान करेगा, कार्यों की योजना बनाएगा और उन्हें समय पर पूरा करने का प्रयास करेगा।"
+          "text": "महाकाव्य"
         },
         {
           "id": "B",
-          "text": "वह कार्यों को टालता रहेगा।"
+          "text": "रेडियो नाटक और एकांकी क्षेत्र में मध्यवर्गीय यथार्थवादी चित्र प्रस्तुत करने में"
         },
         {
           "id": "C",
-          "text": "वह समय की उपेक्षा करेगा।"
+          "text": "विदेशी अनुवाद में"
         },
         {
           "id": "D",
-          "text": "वह बिना योजना के कार्य करेगा।"
+          "text": "जासूसी उपन्यासों में"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     }
   ]
 }

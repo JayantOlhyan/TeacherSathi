@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "'मत बाँधो' कविता की कवयित्री कौन हैं?",
+      "options": [
+        {
+          "id": "A",
+          "text": "सुभद्रा कुमारी चौहान"
+        },
+        {
+          "id": "B",
+          "text": "महादेवी वर्मा"
+        },
+        {
+          "id": "C",
+          "text": "मीराबाई"
+        },
+        {
+          "id": "D",
+          "text": "सरोजिनी नायडू"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
+    },
+    {
+      "id": "2",
+      "question": "कवयित्री किन्हें न काटने और जिनकी गति न बाँधने की बात कर रही हैं?",
+      "options": [
+        {
+          "id": "A",
+          "text": "पक्षियों को"
+        },
+        {
+          "id": "B",
+          "text": "पेड़ों को"
+        },
+        {
+          "id": "C",
+          "text": "सपनों के पंखों और उनकी गति को"
+        },
+        {
+          "id": "D",
+          "text": "हवा को"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
+    },
+    {
+      "id": "3",
+      "question": "कविता में 'सौरभ' (सुगंध) कहाँ उड़ जाता है?",
+      "options": [
+        {
+          "id": "A",
+          "text": "पानी में"
+        },
+        {
+          "id": "B",
+          "text": "नभ (आकाश) में"
+        },
+        {
+          "id": "C",
+          "text": "पाताल में"
+        },
+        {
+          "id": "D",
+          "text": "जंगल में"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
+    },
+    {
+      "id": "4",
+      "question": "धूल (धूली) में क्या गिरता है जो बाद में नभ की ओर उगता/उठता है?",
+      "options": [
+        {
+          "id": "A",
+          "text": "पत्थर"
+        },
+        {
+          "id": "B",
+          "text": "पानी"
+        },
+        {
+          "id": "C",
+          "text": "बीज"
+        },
+        {
+          "id": "D",
+          "text": "फूल"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
+    },
+    {
+      "id": "5",
+      "question": "धरती पर जलने वाली आग का धुआँ कहाँ मँडराता है?",
+      "options": [
+        {
+          "id": "A",
+          "text": "पाताल में"
+        },
+        {
+          "id": "B",
+          "text": "आकाश में"
+        },
+        {
+          "id": "C",
+          "text": "समुद्र में"
+        },
+        {
+          "id": "D",
+          "text": "पहाड़ों पर"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
+    },
+    {
+      "id": "6",
+      "question": "सपनों में किन दो गतियों (आवाजाही) का स्पष्ट उल्लेख है?",
+      "options": [
+        {
+          "id": "A",
+          "text": "दाएँ-बाएँ"
+        },
+        {
+          "id": "B",
+          "text": "आगे-पीछे"
+        },
+        {
+          "id": "C",
+          "text": "आरोहण (ऊपर उठना) और अवरोहण (नीचे आना)"
+        },
+        {
+          "id": "D",
+          "text": "सोने-जागने"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
+    },
+    {
+      "id": "7",
+      "question": "मुक्त होकर विचरण करने वाले सपने किससे जाकर मिलते हैं?",
+      "options": [
+        {
+          "id": "A",
+          "text": "पक्षियों से"
+        },
+        {
+          "id": "B",
+          "text": "तारों से"
+        },
+        {
+          "id": "C",
+          "text": "हवा से"
+        },
+        {
+          "id": "D",
+          "text": "पेड़ों से"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
+    },
+    {
+      "id": "8",
+      "question": "सपने बादलों (मेघों) से क्या लेकर लौटते हैं?",
+      "options": [
+        {
+          "id": "A",
+          "text": "पानी"
+        },
+        {
+          "id": "B",
+          "text": "रंग"
+        },
+        {
+          "id": "C",
+          "text": "बिजली"
+        },
+        {
+          "id": "D",
+          "text": "आवाज़"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
+    },
+    {
+      "id": "9",
+      "question": "सपने धरती (भूमि) को क्या बनाना सिखाते हैं?",
+      "options": [
+        {
+          "id": "A",
+          "text": "नर्क"
+        },
+        {
+          "id": "B",
+          "text": "स्वर्ग बनाने का शिल्प (कला)"
+        },
+        {
+          "id": "C",
+          "text": "रेगिस्तान"
+        },
+        {
+          "id": "D",
+          "text": "महासागर"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
+    },
+    {
+      "id": "10",
+      "question": "कवयित्री सपनों को कहाँ तक जाने से न रोकने का आग्रह करती हैं?",
+      "options": [
+        {
+          "id": "A",
+          "text": "छत तक"
+        },
+        {
+          "id": "B",
+          "text": "नभ (आसमान) तक"
+        },
+        {
+          "id": "C",
+          "text": "विदेश तक"
+        },
+        {
+          "id": "D",
+          "text": "जंगल तक"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
+    },
+    {
+      "id": "11",
+      "question": "'इन सपनों की गति मत बाँधो' का मुख्य संदेश क्या है?",
+      "options": [
+        {
+          "id": "A",
+          "text": "सोते रहना चाहिए"
+        },
+        {
+          "id": "B",
+          "text": "मनुष्य की असीम कल्पनाशीलता, रचनात्मकता और प्रगति के विचारों को सीमित या प्रतिबंधित नहीं करना चाहिए"
+        },
+        {
+          "id": "C",
+          "text": "सपने देखना बुरी बात है"
+        },
+        {
+          "id": "D",
+          "text": "सपने सच नहीं होते"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
+    },
+    {
+      "id": "12",
+      "question": "कवयित्री ने प्रकृति (सुगंध, बीज, आग) का उदाहरण ही क्यों चुना है?",
+      "options": [
+        {
+          "id": "A",
+          "text": "विज्ञान पढ़ाने के लिए"
+        },
+        {
+          "id": "B",
+          "text": "यह सिद्ध करने के लिए कि जैसे प्रकृति के तत्वों की ऊर्ध्वगामी गति स्वतंत्र है, वैसे ही सपनों की गति भी स्वाभाविक और स्वतंत्र है"
+        },
+        {
+          "id": "C",
+          "text": "प्रकृति का वर्णन करने के लिए"
+        },
+        {
+          "id": "D",
+          "text": "कविता लंबी करने के लिए"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
+    },
+    {
+      "id": "13",
+      "question": "'सपनों में आरोहण-अवरोहण की गति है' का क्या तात्पर्य है?",
+      "options": [
+        {
+          "id": "A",
+          "text": "सपने केवल ऊपर जाते हैं"
+        },
+        {
+          "id": "B",
+          "text": "सपनों में ऊपर उठने (उच्च कल्पना) और यथार्थ से जुड़ने (धरती पर नीचे आने) दोनों की क्षमता और स्वतंत्रता होती है"
+        },
+        {
+          "id": "C",
+          "text": "सपने लिफ्ट की तरह हैं"
+        },
+        {
+          "id": "D",
+          "text": "सपने टूट जाते हैं"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
+    },
+    {
+      "id": "14",
+      "question": "'मेघों से रंग और किरणों से चमक लेकर लौटना' क्या दर्शाता है?",
+      "options": [
+        {
+          "id": "A",
+          "text": "मौसम का बदलना"
+        },
+        {
+          "id": "B",
+          "text": "स्वतंत्र सपने नई उम्मीद, प्रेरणा, सौंदर्य और सकारात्मक ऊर्जा लेकर व्यक्ति के वास्तविक जीवन में लौटते हैं"
+        },
+        {
+          "id": "C",
+          "text": "बारिश होना"
+        },
+        {
+          "id": "D",
+          "text": "सूर्योदय होना"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
+    },
+    {
+      "id": "15",
+      "question": "'धरती को स्वर्ग बनाने का शिल्प' से कवयित्री का क्या अभिप्राय है?",
+      "options": [
+        {
+          "id": "A",
+          "text": "धरती पर स्वर्ग जैसी इमारतें बनाना"
+        },
+        {
+          "id": "B",
+          "text": "ऊँचे और मुक्त विचारों (सपनों) के माध्यम से संसार को और अधिक सुंदर, मानवीय और प्रगतिशील (स्वर्ग समान) बनाना"
+        },
+        {
+          "id": "C",
+          "text": "जादू सीखना"
+        },
+        {
+          "id": "D",
+          "text": "देवताओं को बुलाना"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
+    },
+    {
+      "id": "16",
+      "question": "यदि समाज सपनों (नवाचार) पर पाबंदी लगा दे, तो क्या परिणाम होगा?",
+      "options": [
+        {
+          "id": "A",
+          "text": "व्यक्ति की प्रगति, रचनात्मक उड़ान और समाज का विकास रुक जाएगा"
+        },
+        {
+          "id": "B",
+          "text": "व्यक्ति खुश रहेगा"
+        },
+        {
+          "id": "C",
+          "text": "व्यक्ति अमीर बन जाएगा"
+        },
+        {
+          "id": "D",
+          "text": "व्यक्ति सोता रहेगा"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
+    },
+    {
+      "id": "17",
+      "question": "कविता में 'धरती से इसको मत बाँधो' का अर्थ क्या है?",
+      "options": [
+        {
+          "id": "A",
+          "text": "जमीन पर मत बैठो"
+        },
+        {
+          "id": "B",
+          "text": "सपनों को केवल जमीनी मजबूरियों, हताशा या संकीर्ण सोच तक ही सीमित मत रखो"
+        },
+        {
+          "id": "C",
+          "text": "धागे से मत बाँधो"
+        },
+        {
+          "id": "D",
+          "text": "धरती को छोड़ दो"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
+    },
+    {
+      "id": "18",
+      "question": "हर महान आविष्कार और सुंदर रचना के पीछे शुरुआत में क्या होता है?",
+      "options": [
+        {
+          "id": "A",
+          "text": "पैसा"
+        },
+        {
+          "id": "B",
+          "text": "किसी का मुक्त होकर देखा गया सपना या कल्पना"
+        },
+        {
+          "id": "C",
+          "text": "मशीन"
+        },
+        {
+          "id": "D",
+          "text": "युद्ध"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
+    },
+    {
+      "id": "19",
+      "question": "महादेवी वर्मा के साहित्य (छायावाद) की मुख्य विशेषता क्या मानी जाती है?",
+      "options": [
+        {
+          "id": "A",
+          "text": "हास्य"
+        },
+        {
+          "id": "B",
+          "text": "गहरी संवेदना, रहस्यवाद, प्रकृति का मानवीकरण और कल्पनाशीलता"
+        },
+        {
+          "id": "C",
+          "text": "केवल युद्ध का वर्णन"
+        },
+        {
+          "id": "D",
+          "text": "जासूसी कथा"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
+    },
+    {
+      "id": "20",
+      "question": "इस कविता का स्वर (Tone) कैसा है?",
+      "options": [
+        {
+          "id": "A",
+          "text": "निराशाजनक"
+        },
+        {
+          "id": "B",
+          "text": "अत्यंत प्रेरक, आशावादी और मनुष्य को बंधनों से मुक्ति दिलाने वाला"
+        },
+        {
+          "id": "C",
+          "text": "क्रोधित"
+        },
+        {
+          "id": "D",
+          "text": "व्यंग्यात्मक"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
+    },
+    {
+      "id": "21",
+      "question": "महादेवी वर्मा ने सपनों को व्यक्तिगत स्वार्थ से ऊपर उठाकर किस व्यापक अर्थ में प्रस्तुत किया है?",
+      "options": [
+        {
+          "id": "A",
+          "text": "केवल स्वार्थ पूर्ति"
+        },
+        {
+          "id": "B",
+          "text": "संपूर्ण मानवता के विकास, नव-सृजन और समाज को उत्कृष्ट बनाने वाले एक शक्तिशाली वैचारिक उपकरण के रूप में"
+        },
+        {
+          "id": "C",
+          "text": "केवल रात की नींद के रूप में"
+        },
+        {
+          "id": "D",
+          "text": "धन कमाने के साधन के रूप में"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
+    },
+    {
+      "id": "22",
+      "question": "'सौरभ का उड़ जाना' और 'बीज का नभ में उगना' - ये दोनों बिंब (Images) भौतिकता पर किसकी विजय दर्शाते हैं?",
+      "options": [
+        {
+          "id": "A",
+          "text": "भौतिक सीमाओं और गुरुत्वाकर्षण पर मनुष्य की सूक्ष्म और असीम चेतना (कल्पना) की विजय"
+        },
+        {
+          "id": "B",
+          "text": "विज्ञान की विजय"
+        },
+        {
+          "id": "C",
+          "text": "हवा की विजय"
+        },
+        {
+          "id": "D",
+          "text": "पानी की विजय"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
+    },
+    {
+      "id": "23",
+      "question": "'व्यक्ति को भौतिक रूप से बाँधा जा सकता है, उसकी कल्पना-स्वतंत्रता को नहीं' - यह विचार कविता की किन पंक्तियों से पुष्ट होता है?",
+      "options": [
+        {
+          "id": "A",
+          "text": "सौरभ उड़ जाता है..."
+        },
+        {
+          "id": "B",
+          "text": "इन सपनों के पंख न काटो..."
+        },
+        {
+          "id": "C",
+          "text": "स्वर्ग बनाने का शिल्प..."
+        },
+        {
+          "id": "D",
+          "text": "उपरोक्त सभी"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "D",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
+    },
+    {
+      "id": "24",
+      "question": "यह कविता 'छायावाद' की किस प्रमुख प्रवृत्ति का प्रतिनिधित्व करती है?",
+      "options": [
+        {
+          "id": "A",
+          "text": "रूढ़िवादिता"
+        },
+        {
+          "id": "B",
+          "text": "वैयक्तिकता, प्रकृति के माध्यम से सूक्ष्म भावों की अभिव्यक्ति और असीम (अनंत) के प्रति आकर्षण"
+        },
+        {
+          "id": "C",
+          "text": "उपदेशात्मकता"
+        },
+        {
+          "id": "D",
+          "text": "ऐतिहासिकता"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
+    },
+    {
+      "id": "25",
+      "question": "'नभ तक जाना' और 'धरती पर लौटकर स्वर्ग बनाना' के बीच का दार्शनिक संबंध क्या है?",
+      "options": [
+        {
+          "id": "A",
+          "text": "दोनों अलग हैं"
+        },
+        {
+          "id": "B",
+          "text": "आदर्शवाद (कल्पना/नभ) और यथार्थवाद (धरती) का समन्वय; अर्थात् कल्पना को केवल हवाई न रखकर उससे समाज का वास्तविक सुधार करना"
+        },
+        {
+          "id": "C",
+          "text": "केवल आसमान में उड़ना"
+        },
+        {
+          "id": "D",
+          "text": "धरती से घृणा"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
+    },
+    {
+      "id": "26",
+      "question": "बच्चों और युवाओं के लिए यह कविता एक 'मनोवैज्ञानिक थेरेपी' कैसे हो सकती है?",
+      "options": [
+        {
+          "id": "A",
+          "text": "यह उन्हें सुलाती है"
+        },
+        {
+          "id": "B",
+          "text": "यह उन्हें असफलता के भय, सामाजिक बंधनों और हीन भावना से मुक्त होकर आत्म-अभिव्यक्ति का असीम साहस देती है"
+        },
+        {
+          "id": "C",
+          "text": "यह उन्हें विद्रोही बनाती है"
+        },
+        {
+          "id": "D",
+          "text": "यह उन्हें विज्ञान सिखाती है"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
+    },
+    {
+      "id": "27",
+      "question": "'शिल्प' (Craft/Art) शब्द का प्रयोग यहाँ क्यों अत्यंत सटीक और अर्थपूर्ण है?",
+      "options": [
+        {
+          "id": "A",
+          "text": "क्योंकि शिल्पकार मूर्तियाँ बनाते हैं"
+        },
+        {
+          "id": "B",
+          "text": "क्योंकि स्वर्ग (आदर्श समाज) स्वयं नहीं बनता, उसे गढ़ने और सँवारने के लिए सपनों रूपी सृजनात्मक कौशल (शिल्प) और मेहनत की आवश्यकता होती है"
+        },
+        {
+          "id": "C",
+          "text": "क्योंकि यह कविता शिल्पकारों के लिए है"
+        },
+        {
+          "id": "D",
+          "text": "तुकबंदी के लिए"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
+    },
+    {
+      "id": "28",
+      "question": "अगर सपने 'अवरोहण' (नीचे) न करें, तो मनोवैज्ञानिक रूप से क्या समस्या होगी?",
+      "options": [
+        {
+          "id": "A",
+          "text": "वे टूट जाएंगे"
+        },
+        {
+          "id": "B",
+          "text": "वे पलायनवाद (Escapism) या कोरी कल्पना बनकर रह जाएंगे और यथार्थ जगत (समाज) को उनका कोई लाभ नहीं मिलेगा"
+        },
+        {
+          "id": "C",
+          "text": "वे भगवान बन जाएंगे"
+        },
+        {
+          "id": "D",
+          "text": "कुछ नहीं होगा"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
+    },
+    {
+      "id": "29",
+      "question": "कवयित्री ने 'मत बाँधो' शब्द का प्रयोग समाज के किस वर्ग से आग्रह (Appeal) करने के लिए किया है?",
+      "options": [
+        {
+          "id": "A",
+          "text": "बच्चों से"
+        },
+        {
+          "id": "B",
+          "text": "उस संकीर्ण समाज, रूढ़ियों और व्यवस्था से जो नई सोच और रचनात्मकता को हतोत्साहित (Discourage) करती है"
+        },
+        {
+          "id": "C",
+          "text": "पक्षियों से"
+        },
+        {
+          "id": "D",
+          "text": "किसानों से"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
+    },
+    {
+      "id": "30",
+      "question": "यह कविता किस प्रकार मनुष्य के असीमित सामर्थ्य का घोषणा पत्र है?",
+      "options": [
+        {
+          "id": "A",
+          "text": "यह युद्ध की घोषणा करती है"
+        },
+        {
+          "id": "B",
+          "text": "यह मानती है कि मनुष्य की वैचारिक उड़ान (सपने) प्रकृति के सबसे शक्तिशाली तत्वों (अग्नि, सुगंध) की तरह अजेय और असीम है"
+        },
+        {
+          "id": "C",
+          "text": "यह धन कमाने की बात करती है"
+        },
+        {
+          "id": "D",
+          "text": "राजनीति की बात करती है"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
+    }
+  ]
+}

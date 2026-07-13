@@ -1,0 +1,729 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "How many young men are traveling together in this dramatic narrative?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Two"
+        },
+        {
+          "id": "B",
+          "text": "Three"
+        },
+        {
+          "id": "C",
+          "text": "Four"
+        },
+        {
+          "id": "D",
+          "text": "Five"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "2",
+      "question": "Which bustling city are the young men traveling towards to seek their fortune?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Delhi"
+        },
+        {
+          "id": "B",
+          "text": "Ujjain"
+        },
+        {
+          "id": "C",
+          "text": "Agra"
+        },
+        {
+          "id": "D",
+          "text": "Jaipur"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "3",
+      "question": "What is the primary purpose of the young men's journey to this city?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To purchase fine clothes"
+        },
+        {
+          "id": "B",
+          "text": "To secure employment at the King's royal court"
+        },
+        {
+          "id": "C",
+          "text": "To sell agricultural goods"
+        },
+        {
+          "id": "D",
+          "text": "To visit distant relatives"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "4",
+      "question": "Whom do the young travelers encounter running on the dusty road?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A wealthy king"
+        },
+        {
+          "id": "B",
+          "text": "A poor farmer"
+        },
+        {
+          "id": "C",
+          "text": "A highly distressed merchant"
+        },
+        {
+          "id": "D",
+          "text": "A royal soldier"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "5",
+      "question": "What specific animal has the distressed man lost on his journey?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A swift horse"
+        },
+        {
+          "id": "B",
+          "text": "A loyal dog"
+        },
+        {
+          "id": "C",
+          "text": "A camel"
+        },
+        {
+          "id": "D",
+          "text": "A large elephant"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "6",
+      "question": "Did the four young men actually lay eyes on the lost animal?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes, they saw it in the forest"
+        },
+        {
+          "id": "B",
+          "text": "No, they never physically saw it"
+        },
+        {
+          "id": "C",
+          "text": "They hid it behind a tree"
+        },
+        {
+          "id": "D",
+          "text": "They were riding it"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "7",
+      "question": "What serious accusation does the angry man make against the young men?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Stealing his gold coins"
+        },
+        {
+          "id": "B",
+          "text": "Stealing and subsequently selling his lost animal"
+        },
+        {
+          "id": "C",
+          "text": "Breaking his wooden cart"
+        },
+        {
+          "id": "D",
+          "text": "Lying about their identities"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "8",
+      "question": "To whom does the accuser take the young men for ultimate judgment?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To the local prison warden"
+        },
+        {
+          "id": "B",
+          "text": "To the King's royal court"
+        },
+        {
+          "id": "C",
+          "text": "To the village market"
+        },
+        {
+          "id": "D",
+          "text": "To a high temple priest"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "9",
+      "question": "How does the King initially perceive the young men when they arrive?",
+      "options": [
+        {
+          "id": "A",
+          "text": "By their incredibly rich clothing"
+        },
+        {
+          "id": "B",
+          "text": "By their travel-worn, dusty, and tired appearance"
+        },
+        {
+          "id": "C",
+          "text": "By their beautiful singing voices"
+        },
+        {
+          "id": "D",
+          "text": "By the weapons they carry"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "10",
+      "question": "What prestigious role does the King assign to the young men at the conclusion?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Royal cooks"
+        },
+        {
+          "id": "B",
+          "text": "Elite soldiers"
+        },
+        {
+          "id": "C",
+          "text": "Trusted court advisers"
+        },
+        {
+          "id": "D",
+          "text": "Head farmers"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "11",
+      "question": "How did Ram Datt accurately deduce that the animal had an injured leg?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He saw the animal limping"
+        },
+        {
+          "id": "B",
+          "text": "He carefully observed uneven hoof marks and specific drag patterns in the sand"
+        },
+        {
+          "id": "C",
+          "text": "The owner explicitly told him"
+        },
+        {
+          "id": "D",
+          "text": "He simply guessed"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "12",
+      "question": "How did Shiv Datt logically conclude that the animal was blind in one eye?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It only ate leaves from the trees on one specific side of the road"
+        },
+        {
+          "id": "B",
+          "text": "It was walking in tight circles"
+        },
+        {
+          "id": "C",
+          "text": "It bumped heavily into a large tree"
+        },
+        {
+          "id": "D",
+          "text": "He found a dropped eyepatch"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "13",
+      "question": "What environmental clues did Har Datt observe to know the animal carried grain and honey?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He smelled the sweet scent in the air"
+        },
+        {
+          "id": "B",
+          "text": "He saw ants clustered on one side (grain) and flies buzzing on the other (honey)"
+        },
+        {
+          "id": "C",
+          "text": "He found empty burlap sacks"
+        },
+        {
+          "id": "D",
+          "text": "The King informed him"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "14",
+      "question": "Why did the owner become deeply suspicious of the four young men?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They looked highly dangerous"
+        },
+        {
+          "id": "B",
+          "text": "They described his animal so perfectly that he assumed they must be the thieves"
+        },
+        {
+          "id": "C",
+          "text": "They immediately ran away from him"
+        },
+        {
+          "id": "D",
+          "text": "They aggressively asked him for money"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "15",
+      "question": "Why does the King ultimately believe the young men instead of the accuser?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They were his long-lost friends"
+        },
+        {
+          "id": "B",
+          "text": "Their step-by-step logic and deductive reasoning were incredibly clear and truthful"
+        },
+        {
+          "id": "C",
+          "text": "The accuser was a known liar"
+        },
+        {
+          "id": "D",
+          "text": "They bribed the King"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "16",
+      "question": "What character trait does Dev Datt's suggestion to wait patiently under the banyan tree reveal?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Extreme laziness"
+        },
+        {
+          "id": "B",
+          "text": "Calm confidence and steady self-assurance"
+        },
+        {
+          "id": "C",
+          "text": "Intense fear"
+        },
+        {
+          "id": "D",
+          "text": "Deep hunger"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "17",
+      "question": "The King’s decision to test their worth instead of issuing an immediate punishment demonstrates that he is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Highly cruel"
+        },
+        {
+          "id": "B",
+          "text": "Fair, just, and willing to listen to reason"
+        },
+        {
+          "id": "C",
+          "text": "Chronically indecisive"
+        },
+        {
+          "id": "D",
+          "text": "Easily fooled"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "18",
+      "question": "How did the harsh realities of the dusty road actually aid the young men?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It made them physically stronger"
+        },
+        {
+          "id": "B",
+          "text": "It perfectly preserved the physical evidence (tracks) they required to prove their profound wisdom"
+        },
+        {
+          "id": "C",
+          "text": "It made them wealthy"
+        },
+        {
+          "id": "D",
+          "text": "It hid them from dangerous robbers"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "19",
+      "question": "What harsh moral lesson does the accuser learn by the end of the play?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Camels are incredibly fast"
+        },
+        {
+          "id": "B",
+          "text": "Making severe false assumptions without concrete physical proof is harmful and embarrassing"
+        },
+        {
+          "id": "C",
+          "text": "Young men are always thieves"
+        },
+        {
+          "id": "D",
+          "text": "Kings are easily manipulated"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "20",
+      "question": "The narrative draws a sharp distinction between knowledge and wisdom. How did the men demonstrate wisdom?",
+      "options": [
+        {
+          "id": "A",
+          "text": "By reciting memorized books"
+        },
+        {
+          "id": "B",
+          "text": "By actively applying their keen observation skills to logically solve a real-world dilemma"
+        },
+        {
+          "id": "C",
+          "text": "By physically fighting the accuser"
+        },
+        {
+          "id": "D",
+          "text": "By fleeing the city"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "21",
+      "question": "Which descriptive word best captures the King's final reaction to the men's brilliant explanation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Outraged"
+        },
+        {
+          "id": "B",
+          "text": "Deeply impressed and appreciative"
+        },
+        {
+          "id": "C",
+          "text": "Completely bored"
+        },
+        {
+          "id": "D",
+          "text": "Highly confused"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "22",
+      "question": "When Har Datt states, \"We need to devise a strategy,\" the word 'devise' means to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Build a physical wall"
+        },
+        {
+          "id": "B",
+          "text": "Carefully invent or create a complex plan"
+        },
+        {
+          "id": "C",
+          "text": "Run away in fear"
+        },
+        {
+          "id": "D",
+          "text": "Fight a violent war"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "23",
+      "question": "Within the context of the story, what does the process of \"deductive reasoning\" primarily rely upon?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Supernatural magic"
+        },
+        {
+          "id": "B",
+          "text": "The careful, systematic observation and analysis of minute physical clues"
+        },
+        {
+          "id": "C",
+          "text": "Random guesswork"
+        },
+        {
+          "id": "D",
+          "text": "Reading people's minds"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "24",
+      "question": "What does the English idiom \"more than meets the eye\" mean in relation to the roadside clues?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Someone possesses poor physical vision"
+        },
+        {
+          "id": "B",
+          "text": "There are hidden facts or much deeper meanings behind seemingly simple, visible clues"
+        },
+        {
+          "id": "C",
+          "text": "The travelers' eyes are tired"
+        },
+        {
+          "id": "D",
+          "text": "Looking closely at the sun causes pain"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "25",
+      "question": "The stage direction stating the merchant exited the court \"chastened and ashamed\" means he felt:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Immensely proud"
+        },
+        {
+          "id": "B",
+          "text": "Deeply humiliated and corrected for his reckless false accusation"
+        },
+        {
+          "id": "C",
+          "text": "Angry and vengeful"
+        },
+        {
+          "id": "D",
+          "text": "Happy and relieved"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "26",
+      "question": "Which of the following statements from the text is a prime example of a \"hypothetical possibility\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "\"You must have stolen it.\""
+        },
+        {
+          "id": "B",
+          "text": "\"A camel with a long tail would have fended off these pests with ease.\""
+        },
+        {
+          "id": "C",
+          "text": "\"We need a strategy.\""
+        },
+        {
+          "id": "D",
+          "text": "\"I will gladly pay your fee.\""
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "27",
+      "question": "The play deeply explores the thematic conflict of \"Prejudice vs. Truth.\" Which character embodies prejudice?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The King"
+        },
+        {
+          "id": "B",
+          "text": "The Merchant"
+        },
+        {
+          "id": "C",
+          "text": "Ram Datt"
+        },
+        {
+          "id": "D",
+          "text": "Har Datt"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "28",
+      "question": "What does the vocabulary phrase \"taken aback\" mean when used to describe someone's reaction?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pushed forcefully backward"
+        },
+        {
+          "id": "B",
+          "text": "Startled, surprised, or temporarily shocked"
+        },
+        {
+          "id": "C",
+          "text": "Given a monetary reward"
+        },
+        {
+          "id": "D",
+          "text": "Placed under arrest"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "29",
+      "question": "The merchant's claim, \"You speak of my camel as if it stood before you,\" highlights which literary concept?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bitter sarcasm"
+        },
+        {
+          "id": "B",
+          "text": "Irony, as their profound observation essentially makes the unseen physically visible"
+        },
+        {
+          "id": "C",
+          "text": "Metaphor"
+        },
+        {
+          "id": "D",
+          "text": "Personification"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    }
+  ]
+}

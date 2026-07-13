@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "Who is the primary subject of the speaker's observations in the poem?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mrs. Smith"
+        },
+        {
+          "id": "B",
+          "text": "Mrs. Jones"
+        },
+        {
+          "id": "C",
+          "text": "Mrs. Brown"
+        },
+        {
+          "id": "D",
+          "text": "Mrs. Green"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "2",
+      "question": "What material predominantly fills the neighbor's garden?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Red roses"
+        },
+        {
+          "id": "B",
+          "text": "Tall trees"
+        },
+        {
+          "id": "C",
+          "text": "Grey stones"
+        },
+        {
+          "id": "D",
+          "text": "Green vegetables"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "3",
+      "question": "What tiny object does the speaker humorously suggest is used to plant the seeds?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A large shovel"
+        },
+        {
+          "id": "B",
+          "text": "A heavy tractor"
+        },
+        {
+          "id": "C",
+          "text": "A small pin"
+        },
+        {
+          "id": "D",
+          "text": "A wooden spoon"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "4",
+      "question": "What type of pathway is specifically described in the garden?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A straight path"
+        },
+        {
+          "id": "B",
+          "text": "A crazy path"
+        },
+        {
+          "id": "C",
+          "text": "A muddy path"
+        },
+        {
+          "id": "D",
+          "text": "A wooden path"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "5",
+      "question": "What unique instrument or device is located just beyond the rockery?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A sundial"
+        },
+        {
+          "id": "B",
+          "text": "A digital clock"
+        },
+        {
+          "id": "C",
+          "text": "A water fountain"
+        },
+        {
+          "id": "D",
+          "text": "A telescope"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "6",
+      "question": "What did the speaker accidentally do while searching for the beautiful flower?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Watered it"
+        },
+        {
+          "id": "B",
+          "text": "Stepped on it"
+        },
+        {
+          "id": "C",
+          "text": "Picked it"
+        },
+        {
+          "id": "D",
+          "text": "Smelled it"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "7",
+      "question": "Does the garden feature large, lush, leafy greenery?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes, everywhere"
+        },
+        {
+          "id": "B",
+          "text": "No, it is mostly hard surfaces"
+        },
+        {
+          "id": "C",
+          "text": "Only apple trees"
+        },
+        {
+          "id": "D",
+          "text": "Only thick grass"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "8",
+      "question": "What is Mrs. Jones's personal opinion of her strange sundial?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She hates it"
+        },
+        {
+          "id": "B",
+          "text": "She thinks it is rather nice"
+        },
+        {
+          "id": "C",
+          "text": "She wants to throw it away"
+        },
+        {
+          "id": "D",
+          "text": "She hides it"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "9",
+      "question": "What type of specific aquatic feature is located in the garden?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A fish pond"
+        },
+        {
+          "id": "B",
+          "text": "A lily pond"
+        },
+        {
+          "id": "C",
+          "text": "A swimming pool"
+        },
+        {
+          "id": "D",
+          "text": "A dry riverbed"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "10",
+      "question": "How does Mrs. Jones generally feel about her overall garden design?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She is deeply proud of it"
+        },
+        {
+          "id": "B",
+          "text": "She is embarrassed"
+        },
+        {
+          "id": "C",
+          "text": "She is angry about it"
+        },
+        {
+          "id": "D",
+          "text": "She ignores it completely"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "11",
+      "question": "Why does the poet claim the plants are small enough to be planted with a pin?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To show a lack of farming tools"
+        },
+        {
+          "id": "B",
+          "text": "As a humorous exaggeration to mock the tiny scale of the greenery"
+        },
+        {
+          "id": "C",
+          "text": "Because the ground is completely frozen"
+        },
+        {
+          "id": "D",
+          "text": "Because pins enrich the soil"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "12",
+      "question": "What is the literal meaning of the title \"A Concrete Example\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A complex mathematics problem"
+        },
+        {
+          "id": "B",
+          "text": "A physical garden constructed from hard stones and cement"
+        },
+        {
+          "id": "C",
+          "text": "A tall office building"
+        },
+        {
+          "id": "D",
+          "text": "A strong human friendship"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "13",
+      "question": "How does Mrs. Jones's gardening aesthetic differ from traditional expectations?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She prefers wild, untamed jungles"
+        },
+        {
+          "id": "B",
+          "text": "She prioritizes rigid structure, stones, and tiny artificial details over lush, natural greenery"
+        },
+        {
+          "id": "C",
+          "text": "She exclusively grows fruit"
+        },
+        {
+          "id": "D",
+          "text": "She strongly dislikes all flowers"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "14",
+      "question": "What is the ironic twist when the speaker finally asks to see the treasured flower?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It was stolen by a thief"
+        },
+        {
+          "id": "B",
+          "text": "It has not sprouted yet"
+        },
+        {
+          "id": "C",
+          "text": "The speaker has been standing on it the entire time"
+        },
+        {
+          "id": "D",
+          "text": "It is hidden inside the house"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "15",
+      "question": "What underlying message does the poem suggest about the concept of beauty?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It is universally identical for everyone"
+        },
+        {
+          "id": "B",
+          "text": "It is highly subjective, and individuals find charm in unconventional aesthetics"
+        },
+        {
+          "id": "C",
+          "text": "Only perfectly green gardens are truly beautiful"
+        },
+        {
+          "id": "D",
+          "text": "Stones are objectively ugly"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "16",
+      "question": "The overall tone of the poem can best be categorized as:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Furious and sorrowful"
+        },
+        {
+          "id": "B",
+          "text": "Light-hearted, amusing, and gently mocking"
+        },
+        {
+          "id": "C",
+          "text": "Frightening and dark"
+        },
+        {
+          "id": "D",
+          "text": "Boring and academic"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "17",
+      "question": "What does the phrase \"crazy path\" culturally imply in garden design?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A path that makes people insane"
+        },
+        {
+          "id": "B",
+          "text": "An odd, irregularly arranged stone walkway (crazy paving)"
+        },
+        {
+          "id": "C",
+          "text": "A highly dangerous cliff road"
+        },
+        {
+          "id": "D",
+          "text": "A path leading to nowhere"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "18",
+      "question": "Why does the poet deliberately repeat the word \"stones\" throughout the verses?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To brag about the cost of the garden"
+        },
+        {
+          "id": "B",
+          "text": "To emphasize her heavy obsession with a rigid, structured, and unnatural environment"
+        },
+        {
+          "id": "C",
+          "text": "Because there were no other rhyming words"
+        },
+        {
+          "id": "D",
+          "text": "To frighten the reader"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "19",
+      "question": "How does Mrs. Jones react to the speaker's quiet amusement regarding her garden?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She becomes highly defensive"
+        },
+        {
+          "id": "B",
+          "text": "She remains confidently pleased and content with her own unique taste"
+        },
+        {
+          "id": "C",
+          "text": "She begins to cry"
+        },
+        {
+          "id": "D",
+          "text": "She asks for immediate help to change it"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "20",
+      "question": "What does the meticulous placement of tiny plants reveal about Mrs. Jones's personality?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She is highly disorganized"
+        },
+        {
+          "id": "B",
+          "text": "She is detail-oriented, values strict decorative control, and is somewhat eccentric"
+        },
+        {
+          "id": "C",
+          "text": "She is extremely lazy"
+        },
+        {
+          "id": "D",
+          "text": "She dislikes the natural world entirely"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "21",
+      "question": "The dual interpretation of the word \"concrete\" in the title is an example of which literary device?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Simile"
+        },
+        {
+          "id": "B",
+          "text": "Pun (wordplay)"
+        },
+        {
+          "id": "C",
+          "text": "Oxymoron"
+        },
+        {
+          "id": "D",
+          "text": "Hyperbole"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "22",
+      "question": "Metaphorically, what does \"A Concrete Example\" signify in the broader context of the poem's theme?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A clear, tangible illustration of human obsession with artificial order and peculiar habits"
+        },
+        {
+          "id": "B",
+          "text": "A literal block of cement used for building"
+        },
+        {
+          "id": "C",
+          "text": "A foundational building block of society"
+        },
+        {
+          "id": "D",
+          "text": "An unbreakable legal rule"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "23",
+      "question": "The poem structurally contrasts the hard, fixed, and permanent nature of the stones with:",
+      "options": [
+        {
+          "id": "A",
+          "text": "The rapid fluidity of rushing water"
+        },
+        {
+          "id": "B",
+          "text": "The extreme fragility and insignificance of the tiny, delicate plants"
+        },
+        {
+          "id": "C",
+          "text": "The intense heat of the summer sun"
+        },
+        {
+          "id": "D",
+          "text": "The massive size of the neighbor's house"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "24",
+      "question": "Which vocabulary word serves as the best synonym for 'peculiar' when describing the sundial?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Commonplace"
+        },
+        {
+          "id": "B",
+          "text": "Unusual and distinctive"
+        },
+        {
+          "id": "C",
+          "text": "Monotonous"
+        },
+        {
+          "id": "D",
+          "text": "Ultra-modern"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "25",
+      "question": "The poem serves as a gentle, satirical critique of which human behavioral tendency?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Over-structuring our environments and prioritizing artificial appearance over natural, wild beauty"
+        },
+        {
+          "id": "B",
+          "text": "Being too lazy to engage in traditional farming"
+        },
+        {
+          "id": "C",
+          "text": "Wasting natural water resources"
+        },
+        {
+          "id": "D",
+          "text": "Constructing overly tall houses"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "26",
+      "question": "Which phrase from the text is a direct example of alliteration?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Crazy path"
+        },
+        {
+          "id": "B",
+          "text": "Lily pond"
+        },
+        {
+          "id": "C",
+          "text": "\"sundial with a strange\" (repetition of 's' sound)"
+        },
+        {
+          "id": "D",
+          "text": "Garden of stones"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "27",
+      "question": "In the context of the poem, what does the vocabulary word 'delicate' mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Physically robust"
+        },
+        {
+          "id": "B",
+          "text": "Highly fragile, dainty, and easily damaged"
+        },
+        {
+          "id": "C",
+          "text": "Delicious to eat"
+        },
+        {
+          "id": "D",
+          "text": "Unbearably heavy"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "28",
+      "question": "The overriding thematic tension of the poem exists between:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Extreme wealth and deep poverty"
+        },
+        {
+          "id": "B",
+          "text": "Artificial human control/order and natural, spontaneous beauty"
+        },
+        {
+          "id": "C",
+          "text": "The vitality of youth and the weakness of old age"
+        },
+        {
+          "id": "D",
+          "text": "The transition from day to night"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "29",
+      "question": "Why is the speaker's act of stepping on the flower considered highly ironic?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because he intentionally wanted to destroy it"
+        },
+        {
+          "id": "B",
+          "text": "Because his enthusiastic search for the \"lovely thing\" blinded him to its microscopic reality, causing him to crush it"
+        },
+        {
+          "id": "C",
+          "text": "Because he was physically blind"
+        },
+        {
+          "id": "D",
+          "text": "Because it was merely a dangerous weed"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "30",
+      "question": "Symbolically, Mrs. Jones represents individuals in society who:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Strictly adhere to traditional societal norms"
+        },
+        {
+          "id": "B",
+          "text": "Take immense pride in their unique, highly controlled aesthetic, regardless of external validation"
+        },
+        {
+          "id": "C",
+          "text": "Actively seek to destroy the environment"
+        },
+        {
+          "id": "D",
+          "text": "Are solely motivated by financial wealth"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    }
+  ]
+}

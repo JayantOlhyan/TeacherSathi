@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "What were the specific weather conditions described at the beginning of the poem?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hot and sunny"
+        },
+        {
+          "id": "B",
+          "text": "Wet and freezing with recent snow"
+        },
+        {
+          "id": "C",
+          "text": "Raining heavily"
+        },
+        {
+          "id": "D",
+          "text": "Windy and dusty"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "2",
+      "question": "Who is the primary, vulnerable character waiting anxiously at the street crossing?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A young, lost girl"
+        },
+        {
+          "id": "B",
+          "text": "An old, ragged, and grey woman"
+        },
+        {
+          "id": "C",
+          "text": "A busy police officer"
+        },
+        {
+          "id": "D",
+          "text": "A strict school teacher"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "3",
+      "question": "Why was the old woman so terrified to cross the busy street?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She was completely lost"
+        },
+        {
+          "id": "B",
+          "text": "It was highly slippery and crowded with fast carriages and horses"
+        },
+        {
+          "id": "C",
+          "text": "She forgot where she needed to go"
+        },
+        {
+          "id": "D",
+          "text": "She was completely blind"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "4",
+      "question": "Who initially passed by the old woman without offering any help?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A group of loud, laughing schoolboys"
+        },
+        {
+          "id": "B",
+          "text": "A large herd of sheep"
+        },
+        {
+          "id": "C",
+          "text": "The town mayor"
+        },
+        {
+          "id": "D",
+          "text": "Her own children"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "5",
+      "question": "Who eventually stopped, broke away from the group, and offered to help the old woman?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A kind policeman"
+        },
+        {
+          "id": "B",
+          "text": "The gayest, most cheerful laddie (boy) of the school group"
+        },
+        {
+          "id": "C",
+          "text": "A rich merchant"
+        },
+        {
+          "id": "D",
+          "text": "A carriage driver"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "6",
+      "question": "What physical support did the boy offer the old woman to help her cross?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A handful of money"
+        },
+        {
+          "id": "B",
+          "text": "His strong, young arm to guide her"
+        },
+        {
+          "id": "C",
+          "text": "A warm winter coat"
+        },
+        {
+          "id": "D",
+          "text": "Some hot food"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "7",
+      "question": "How did the boy emotionally feel immediately after helping the woman?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Very angry"
+        },
+        {
+          "id": "B",
+          "text": "Extremely happy, proud, and well content"
+        },
+        {
+          "id": "C",
+          "text": "Deeply sad"
+        },
+        {
+          "id": "D",
+          "text": "Incredibly tired"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "8",
+      "question": "What profound explanation did the boy give his friends for helping the stranger?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She paid me"
+        },
+        {
+          "id": "B",
+          "text": "\"She's somebody's mother, boys, you know\""
+        },
+        {
+          "id": "C",
+          "text": "She is my actual grandmother"
+        },
+        {
+          "id": "D",
+          "text": "I was bored"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "9",
+      "question": "What specific action did the old woman take that night in her home?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She cried herself to sleep"
+        },
+        {
+          "id": "B",
+          "text": "She bowed her head and prayed to God for the \"noble boy\""
+        },
+        {
+          "id": "C",
+          "text": "She wrote a long letter"
+        },
+        {
+          "id": "D",
+          "text": "She cooked a large meal"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "10",
+      "question": "Was the boy genuinely proud of his firm and strong feet?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes, because he could utilize them to help others"
+        },
+        {
+          "id": "B",
+          "text": "No, he hated them"
+        },
+        {
+          "id": "C",
+          "text": "Yes, because he could run the fastest"
+        },
+        {
+          "id": "D",
+          "text": "No, they constantly hurt him"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "A",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "11",
+      "question": "The descriptive phrase \"bent with the chill\" implies that the woman was:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Doing physical exercises"
+        },
+        {
+          "id": "B",
+          "text": "Severely weakened by her advanced old age and the freezing winter weather"
+        },
+        {
+          "id": "C",
+          "text": "Looking for a dropped coin on the ground"
+        },
+        {
+          "id": "D",
+          "text": "Trying to hide"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "12",
+      "question": "Why does the poet intentionally describe the children as coming \"like a flock of sheep\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They were all covered in thick wool"
+        },
+        {
+          "id": "B",
+          "text": "They were moving together in a noisy, careless, and unthinking group"
+        },
+        {
+          "id": "C",
+          "text": "They were actively eating grass"
+        },
+        {
+          "id": "D",
+          "text": "They were moving very slowly"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "13",
+      "question": "How does the poet starkly emphasize the woman's sheer helplessness?",
+      "options": [
+        {
+          "id": "A",
+          "text": "By describing her loud, demanding voice"
+        },
+        {
+          "id": "B",
+          "text": "By vividly depicting her standing completely alone, uncared for amid the busy throng"
+        },
+        {
+          "id": "C",
+          "text": "By making her run fast"
+        },
+        {
+          "id": "D",
+          "text": "By giving her a weapon"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "14",
+      "question": "What does the boy's spontaneous action reveal about his internal character?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He is a massive show-off"
+        },
+        {
+          "id": "B",
+          "text": "He is highly empathetic, deeply compassionate, and very observant"
+        },
+        {
+          "id": "C",
+          "text": "He is afraid of old people"
+        },
+        {
+          "id": "D",
+          "text": "He strictly wants a financial reward"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "15",
+      "question": "Why does the boy desperately hope \"some fellow will lend a hand\" to his own mother someday?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Because he plans to abandon her"
+        },
+        {
+          "id": "B",
+          "text": "He recognizes the universal truth that if he is far away, his aging mother might desperately need a stranger's kindness"
+        },
+        {
+          "id": "C",
+          "text": "Because his mother cannot walk at all"
+        },
+        {
+          "id": "D",
+          "text": "He wants someone else to do his daily chores"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "16",
+      "question": "The deliberate contrast between the boy's \"strong young arm\" and her \"trembling feet\" highlights:",
+      "options": [
+        {
+          "id": "A",
+          "text": "The boy's physical cruelty"
+        },
+        {
+          "id": "B",
+          "text": "The extreme physical vulnerability of old age versus the vibrant vitality of youth"
+        },
+        {
+          "id": "C",
+          "text": "The slippery nature of the road"
+        },
+        {
+          "id": "D",
+          "text": "A physical race between them"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "17",
+      "question": "Why is the title \"Somebody's Mother\" thematically appropriate for this poem?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It is a murder mystery"
+        },
+        {
+          "id": "B",
+          "text": "It profoundly humanizes the anonymous stranger, reminding readers that every elderly person is deeply loved by someone"
+        },
+        {
+          "id": "C",
+          "text": "She had lost her actual name"
+        },
+        {
+          "id": "D",
+          "text": "She was actively looking for her lost son"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "18",
+      "question": "What does the old woman's heartfelt night-time prayer signify?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Deep, emotional gratitude and the spiritual bond created by a small act of kindness"
+        },
+        {
+          "id": "B",
+          "text": "She wanted money"
+        },
+        {
+          "id": "C",
+          "text": "She was angry at the world"
+        },
+        {
+          "id": "D",
+          "text": "She was deeply afraid of him"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "A",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "19",
+      "question": "How did the other boys in the group initially react to the woman's presence?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They actively mocked her"
+        },
+        {
+          "id": "B",
+          "text": "They ignored her completely in their selfish rush to play in the snow"
+        },
+        {
+          "id": "C",
+          "text": "They physically pushed her"
+        },
+        {
+          "id": "D",
+          "text": "They loudly called for adult help"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "20",
+      "question": "The overarching message of the poem suggests that true human nobility lies in:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Being incredibly rich"
+        },
+        {
+          "id": "B",
+          "text": "Extreme empathy and possessing a kind, selfless heart"
+        },
+        {
+          "id": "C",
+          "text": "Wearing highly expensive clothes"
+        },
+        {
+          "id": "D",
+          "text": "Running incredibly fast"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "21",
+      "question": "Which specific literary device is employed in the line \"came the boys like a flock of sheep\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Metaphor"
+        },
+        {
+          "id": "B",
+          "text": "Simile"
+        },
+        {
+          "id": "C",
+          "text": "Personification"
+        },
+        {
+          "id": "D",
+          "text": "Alliteration"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "22",
+      "question": "The vocabulary word \"throng\" utilized in the poem means:",
+      "options": [
+        {
+          "id": "A",
+          "text": "A beautiful song"
+        },
+        {
+          "id": "B",
+          "text": "A densely packed, chaotic crowd of people"
+        },
+        {
+          "id": "C",
+          "text": "A specific type of winter carriage"
+        },
+        {
+          "id": "D",
+          "text": "A piece of string"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "23",
+      "question": "The boy is described as the \"gayest laddie\". In the historical context of this older poem, 'gayest' means:",
+      "options": [
+        {
+          "id": "A",
+          "text": "The most colorful"
+        },
+        {
+          "id": "B",
+          "text": "The most incredibly cheerful, happy, and lively"
+        },
+        {
+          "id": "C",
+          "text": "The absolute youngest"
+        },
+        {
+          "id": "D",
+          "text": "The very tallest"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "24",
+      "question": "What does the specific word \"meek\" mean as applied to the old woman's demeanor?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Highly aggressive"
+        },
+        {
+          "id": "B",
+          "text": "Very quiet, gentle, and submissive or timid"
+        },
+        {
+          "id": "C",
+          "text": "Extremely angry"
+        },
+        {
+          "id": "D",
+          "text": "Incredibly wealthy"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "25",
+      "question": "The core thematic essence of the poem revolves fundamentally around:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Modern traffic safety rules"
+        },
+        {
+          "id": "B",
+          "text": "The concept of universal motherhood and our shared social responsibility towards the vulnerable"
+        },
+        {
+          "id": "C",
+          "text": "The extreme physical dangers of winter"
+        },
+        {
+          "id": "D",
+          "text": "The joys of school holidays"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "26",
+      "question": "How does the poet effectively use rhyming couplets (AABB) in the structure?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To confuse the reader's understanding"
+        },
+        {
+          "id": "B",
+          "text": "To give the poem a steady, rhythmic, narrative flow that beautifully reflects the story's pace"
+        },
+        {
+          "id": "C",
+          "text": "To make it sound exactly like a pop song"
+        },
+        {
+          "id": "D",
+          "text": "To hide the true meaning"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "27",
+      "question": "The poignant line \"Nor heeded the glance of her anxious eyes\" starkly highlights society's:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Deep care and attention"
+        },
+        {
+          "id": "B",
+          "text": "Callous indifference and profound apathy towards the marginalized and elderly"
+        },
+        {
+          "id": "C",
+          "text": "Excellent physical vision"
+        },
+        {
+          "id": "D",
+          "text": "Phobia of old people"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "28",
+      "question": "What does the old woman imply when she calls the boy \"somebody's son, and pride and joy\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She personally knows his parents"
+        },
+        {
+          "id": "B",
+          "text": "She spiritually recognizes his immense worth to his own family, mirroring exactly how he recognized her inherent value"
+        },
+        {
+          "id": "C",
+          "text": "She thinks he is a famous person"
+        },
+        {
+          "id": "D",
+          "text": "She wants to legally adopt him"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "29",
+      "question": "The primary juxtaposition (contrast) running throughout the entire poem is between:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Heat and cold"
+        },
+        {
+          "id": "B",
+          "text": "Youthful strength/indifference and aged frailty/desperate need"
+        },
+        {
+          "id": "C",
+          "text": "The extremely rich and the extremely poor"
+        },
+        {
+          "id": "D",
+          "text": "The bustling city and the quiet village"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "30",
+      "question": "The boy's profound empathy is ultimately driven by what psychological mechanism?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A strict teacher's order"
+        },
+        {
+          "id": "B",
+          "text": "A radical perspective shift, wherein he emotionally imagines his own mother in the stranger's place"
+        },
+        {
+          "id": "C",
+          "text": "A deep desire for public praise"
+        },
+        {
+          "id": "D",
+          "text": "An intense fear of punishment"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    }
+  ]
+}

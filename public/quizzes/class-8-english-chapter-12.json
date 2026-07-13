@@ -1,0 +1,729 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "What is the name of the hardworking farmer in the story?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rakesh"
+        },
+        {
+          "id": "B",
+          "text": "Velu"
+        },
+        {
+          "id": "C",
+          "text": "Ram"
+        },
+        {
+          "id": "D",
+          "text": "Somnath"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "2",
+      "question": "What crucial natural event is Velu desperately waiting for?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A solar eclipse"
+        },
+        {
+          "id": "B",
+          "text": "The monsoon rain"
+        },
+        {
+          "id": "C",
+          "text": "A snowstorm"
+        },
+        {
+          "id": "D",
+          "text": "An earthquake"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "3",
+      "question": "What happens to the fields when there is absolutely no rain?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They turn green"
+        },
+        {
+          "id": "B",
+          "text": "They rapidly dry up, crack, and become lifeless"
+        },
+        {
+          "id": "C",
+          "text": "They flood"
+        },
+        {
+          "id": "D",
+          "text": "They freeze"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "4",
+      "question": "Did Velu believe in going to astrologers to bring rain?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes"
+        },
+        {
+          "id": "B",
+          "text": "No, he trusted science and nature"
+        },
+        {
+          "id": "C",
+          "text": "He was an astrologer himself"
+        },
+        {
+          "id": "D",
+          "text": "He asked them for money"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "5",
+      "question": "Where did Velu go to formally ask about the rain?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The temple"
+        },
+        {
+          "id": "B",
+          "text": "The weather office in the city"
+        },
+        {
+          "id": "C",
+          "text": "The king's palace"
+        },
+        {
+          "id": "D",
+          "text": "The neighboring village"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "6",
+      "question": "Did the weather office know exactly when it would rain?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes, they gave him a date"
+        },
+        {
+          "id": "B",
+          "text": "No, they were highly confused too"
+        },
+        {
+          "id": "C",
+          "text": "They told him it would never rain"
+        },
+        {
+          "id": "D",
+          "text": "They said it rained yesterday"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "7",
+      "question": "Who did Velu meet while resting under a tree?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A young boy"
+        },
+        {
+          "id": "B",
+          "text": "An old, wise woman"
+        },
+        {
+          "id": "C",
+          "text": "A rich merchant"
+        },
+        {
+          "id": "D",
+          "text": "A police officer"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "8",
+      "question": "How did Velu feel about not being able to work his land?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Happy to have a holiday"
+        },
+        {
+          "id": "B",
+          "text": "Restless, deeply worried, and helpless"
+        },
+        {
+          "id": "C",
+          "text": "Angry at his family"
+        },
+        {
+          "id": "D",
+          "text": "Bored"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "9",
+      "question": "What did the old woman say the land essentially needed?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fertilizer"
+        },
+        {
+          "id": "B",
+          "text": "Rest"
+        },
+        {
+          "id": "C",
+          "text": "More seeds"
+        },
+        {
+          "id": "D",
+          "text": "Tractors"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "10",
+      "question": "What glorious event happened at the very end of the story?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The sun got hotter"
+        },
+        {
+          "id": "B",
+          "text": "Dark clouds gathered and a drop of rain finally fell"
+        },
+        {
+          "id": "C",
+          "text": "Velu sold his farm"
+        },
+        {
+          "id": "D",
+          "text": "The old woman disappeared"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "11",
+      "question": "Why is rain so incredibly important to Velu?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He likes to swim"
+        },
+        {
+          "id": "B",
+          "text": "Without rain, he cannot plough his field or grow crops to survive"
+        },
+        {
+          "id": "C",
+          "text": "He wants to wash his house"
+        },
+        {
+          "id": "D",
+          "text": "His animals are thirsty"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "12",
+      "question": "Why did Velu feel disheartened after visiting the weather office?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They were rude to him"
+        },
+        {
+          "id": "B",
+          "text": "Even the scientific experts couldn't provide a solution or a definite answer"
+        },
+        {
+          "id": "C",
+          "text": "He lost his money"
+        },
+        {
+          "id": "D",
+          "text": "The office was closed"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "13",
+      "question": "How did the old woman beautifully explain the drought?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It was a terrible curse"
+        },
+        {
+          "id": "B",
+          "text": "Nature was taking a necessary pause to let the overworked earth rest and recover"
+        },
+        {
+          "id": "C",
+          "text": "The gods were angry"
+        },
+        {
+          "id": "D",
+          "text": "Velu was a bad farmer"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "14",
+      "question": "What profound analogy did the old woman use to explain the land's condition?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Like a broken machine"
+        },
+        {
+          "id": "B",
+          "text": "Just like people get tired and need rest, the earth gets exhausted too"
+        },
+        {
+          "id": "C",
+          "text": "Like a dry sponge"
+        },
+        {
+          "id": "D",
+          "text": "Like a sleeping dog"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "15",
+      "question": "How did Velu's perspective significantly change after talking to the old woman?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He became angrier"
+        },
+        {
+          "id": "B",
+          "text": "He realized the delay had a natural purpose, which gave him peace and hope"
+        },
+        {
+          "id": "C",
+          "text": "He decided to quit farming"
+        },
+        {
+          "id": "D",
+          "text": "He stopped believing in science"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "16",
+      "question": "What do the cracked, hardened fields symbolize initially?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Wealth"
+        },
+        {
+          "id": "B",
+          "text": "Severe despair and the harshness of drought"
+        },
+        {
+          "id": "C",
+          "text": "Good luck"
+        },
+        {
+          "id": "D",
+          "text": "A new beginning"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "17",
+      "question": "Why did Velu run home laughing at the end?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Someone told a joke"
+        },
+        {
+          "id": "B",
+          "text": "He felt the rain coming and his hope was fully restored"
+        },
+        {
+          "id": "C",
+          "text": "He found money"
+        },
+        {
+          "id": "D",
+          "text": "He was going crazy"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "18",
+      "question": "What does the story suggest about the intricate relationship between farmers and nature?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Farmers control nature"
+        },
+        {
+          "id": "B",
+          "text": "Farmers are deeply tied to nature's rhythms and must respect its cycles"
+        },
+        {
+          "id": "C",
+          "text": "Nature is the enemy"
+        },
+        {
+          "id": "D",
+          "text": "Technology has replaced nature"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "19",
+      "question": "Leaving the land 'fallow' ecologically means:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Selling it"
+        },
+        {
+          "id": "B",
+          "text": "Leaving it unplanted for a period to restore its fertility"
+        },
+        {
+          "id": "C",
+          "text": "Flooding it"
+        },
+        {
+          "id": "D",
+          "text": "Building a house on it"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "20",
+      "question": "The old woman in the story represents:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Modern science"
+        },
+        {
+          "id": "B",
+          "text": "Traditional ecological wisdom and the voice of nature"
+        },
+        {
+          "id": "C",
+          "text": "Ignorance"
+        },
+        {
+          "id": "D",
+          "text": "Wealth"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "21",
+      "question": "What is the central theme of \"Waiting for the Rain\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The failure of meteorology"
+        },
+        {
+          "id": "B",
+          "text": "Patience, hope, and the desperate need for ecological balance (sustainable farming)"
+        },
+        {
+          "id": "C",
+          "text": "The importance of astrology"
+        },
+        {
+          "id": "D",
+          "text": "City life vs Village life"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "22",
+      "question": "The word \"forlorn\" used to describe the fields means:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Beautiful"
+        },
+        {
+          "id": "B",
+          "text": "Pitifully sad, abandoned, or lonely"
+        },
+        {
+          "id": "C",
+          "text": "Very wet"
+        },
+        {
+          "id": "D",
+          "text": "Crowded"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "23",
+      "question": "The phrase \"the land is resting\" is an example of:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Simile"
+        },
+        {
+          "id": "B",
+          "text": "Personification"
+        },
+        {
+          "id": "C",
+          "text": "Irony"
+        },
+        {
+          "id": "D",
+          "text": "Onomatopoeia"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "24",
+      "question": "How does the story reconcile traditional wisdom with the farmer's anxiety?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It proves traditional wisdom is wrong"
+        },
+        {
+          "id": "B",
+          "text": "It shows that traditional wisdom provides emotional resilience and ecological understanding when science has no immediate answers"
+        },
+        {
+          "id": "C",
+          "text": "It mocks the farmer"
+        },
+        {
+          "id": "D",
+          "text": "It ignores the drought"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "25",
+      "question": "Velu’s initial rejection of astrologers highlights his:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Stupidity"
+        },
+        {
+          "id": "B",
+          "text": "Rational, pragmatic approach to problem-solving"
+        },
+        {
+          "id": "C",
+          "text": "Hatred for his village"
+        },
+        {
+          "id": "D",
+          "text": "Wealth"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "26",
+      "question": "The arrival of the rain immediately after Velu accepts the old woman's wisdom serves as a literary:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tragedy"
+        },
+        {
+          "id": "B",
+          "text": "Climax and symbolic validation of her message about nature's timing"
+        },
+        {
+          "id": "C",
+          "text": "Cliffhanger"
+        },
+        {
+          "id": "D",
+          "text": "Prologue"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "27",
+      "question": "The concept of the earth being worked \"for thousands of years\" points to the issue of:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Soil degradation due to over-cultivation"
+        },
+        {
+          "id": "B",
+          "text": "Real estate prices"
+        },
+        {
+          "id": "C",
+          "text": "History of India"
+        },
+        {
+          "id": "D",
+          "text": "Climate change only"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "28",
+      "question": "What does \"untended\" mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Carefully watched"
+        },
+        {
+          "id": "B",
+          "text": "Not cared for or looked after"
+        },
+        {
+          "id": "C",
+          "text": "Watered daily"
+        },
+        {
+          "id": "D",
+          "text": "Painted"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "29",
+      "question": "The story critiques which human attitude toward nature?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The desire to protect it"
+        },
+        {
+          "id": "B",
+          "text": "The expectation of continuous, uninterrupted extraction/productivity without giving back"
+        },
+        {
+          "id": "C",
+          "text": "Planting too many trees"
+        },
+        {
+          "id": "D",
+          "text": "Loving animals"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    }
+  ]
+}

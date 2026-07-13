@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "Who is the main, kind-hearted character in the poem?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A king"
+        },
+        {
+          "id": "B",
+          "text": "A young girl named Gopi"
+        },
+        {
+          "id": "C",
+          "text": "An old man"
+        },
+        {
+          "id": "D",
+          "text": "A soldier"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "2",
+      "question": "What did Gopi initially use to draw pictures in the sand before she got the brush?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A pen"
+        },
+        {
+          "id": "B",
+          "text": "A pencil"
+        },
+        {
+          "id": "C",
+          "text": "A twig"
+        },
+        {
+          "id": "D",
+          "text": "A piece of chalk"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "3",
+      "question": "Who mysteriously gave Gopi the magic brush?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Her mother"
+        },
+        {
+          "id": "B",
+          "text": "A mysterious old man sitting on a stone"
+        },
+        {
+          "id": "C",
+          "text": "The Zamindar"
+        },
+        {
+          "id": "D",
+          "text": "A teacher"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "4",
+      "question": "What was the strict, unbreakable rule for using the magic brush?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only paint at night"
+        },
+        {
+          "id": "B",
+          "text": "Paint only for the poor and needy, never for the wealthy"
+        },
+        {
+          "id": "C",
+          "text": "Paint only animals"
+        },
+        {
+          "id": "D",
+          "text": "Never use red paint"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "5",
+      "question": "What was the very first thing Gopi painted that miraculously became real?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A horse"
+        },
+        {
+          "id": "B",
+          "text": "A hot bowl of khichdi"
+        },
+        {
+          "id": "C",
+          "text": "A house"
+        },
+        {
+          "id": "D",
+          "text": "A sword"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "6",
+      "question": "Who heard about Gopi's magic brush and selfishly wanted it for himself?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The King"
+        },
+        {
+          "id": "B",
+          "text": "The wealthy Zamindar"
+        },
+        {
+          "id": "C",
+          "text": "The Mayor"
+        },
+        {
+          "id": "D",
+          "text": "Her brother"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "7",
+      "question": "What did the greedy Zamindar demand Gopi to paint?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Food for the village"
+        },
+        {
+          "id": "B",
+          "text": "Treasures, gold, and a grand fortress"
+        },
+        {
+          "id": "C",
+          "text": "A portrait of himself"
+        },
+        {
+          "id": "D",
+          "text": "A new garden"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "8",
+      "question": "Did Gopi agree to paint the treasures for the Zamindar?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes"
+        },
+        {
+          "id": "B",
+          "text": "No, she bravely refused"
+        },
+        {
+          "id": "C",
+          "text": "She painted half of it"
+        },
+        {
+          "id": "D",
+          "text": "She asked for money"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "9",
+      "question": "What harsh action did the Zamindar take when Gopi refused his demands?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He cried"
+        },
+        {
+          "id": "B",
+          "text": "He threw her in a dark prison"
+        },
+        {
+          "id": "C",
+          "text": "He let her go"
+        },
+        {
+          "id": "D",
+          "text": "He broke the brush"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "10",
+      "question": "What did Gopi brilliantly paint to escape from the prison?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A bird"
+        },
+        {
+          "id": "B",
+          "text": "A winding road and a strong, fast horse"
+        },
+        {
+          "id": "C",
+          "text": "A key"
+        },
+        {
+          "id": "D",
+          "text": "A giant bird"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "11",
+      "question": "Why did the old man whisper \"Hush!\" when giving her the magic brush?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He was losing his voice"
+        },
+        {
+          "id": "B",
+          "text": "He wanted to keep the magic a secret from greedy, powerful people"
+        },
+        {
+          "id": "C",
+          "text": "He was playing a game"
+        },
+        {
+          "id": "D",
+          "text": "He was scared of Gopi"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "12",
+      "question": "How did the brush directly help the impoverished villagers?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It entertained them"
+        },
+        {
+          "id": "B",
+          "text": "It provided essential, practical items they desperately needed, like food, shawls, and ploughs"
+        },
+        {
+          "id": "C",
+          "text": "It painted their houses"
+        },
+        {
+          "id": "D",
+          "text": "It made them rich"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "13",
+      "question": "Why did Gopi firmly refuse the Zamindar's order despite the danger?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She didn't know how to paint a fortress"
+        },
+        {
+          "id": "B",
+          "text": "She was fiercely keeping her moral promise to the old man to only help the poor"
+        },
+        {
+          "id": "C",
+          "text": "She ran out of paint"
+        },
+        {
+          "id": "D",
+          "text": "She was tired"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "14",
+      "question": "What does the Zamindar's excessive demand reveal about his true character?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He is generous"
+        },
+        {
+          "id": "B",
+          "text": "He is incredibly greedy, power-hungry, and selfish"
+        },
+        {
+          "id": "C",
+          "text": "He loves art"
+        },
+        {
+          "id": "D",
+          "text": "He is poor"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "15",
+      "question": "How did Gopi ultimately stop the Zamindar from chasing her?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She fought him with a sword"
+        },
+        {
+          "id": "B",
+          "text": "She painted a mighty, fast river and a terrifying beast"
+        },
+        {
+          "id": "C",
+          "text": "She hid in a cave"
+        },
+        {
+          "id": "D",
+          "text": "She apologized"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "16",
+      "question": "What does the magic brush fundamentally symbolize in the poem?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A toy"
+        },
+        {
+          "id": "B",
+          "text": "The immense power of art, imagination, and using one's unique talents for the greater good"
+        },
+        {
+          "id": "C",
+          "text": "Wealth"
+        },
+        {
+          "id": "D",
+          "text": "Evil magic"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "17",
+      "question": "The stark contrast between Gopi and the Zamindar highlights the overarching theme of:",
+      "options": [
+        {
+          "id": "A",
+          "text": "City vs Village"
+        },
+        {
+          "id": "B",
+          "text": "Selflessness and kindness vs Greed and selfish oppression"
+        },
+        {
+          "id": "C",
+          "text": "Man vs Nature"
+        },
+        {
+          "id": "D",
+          "text": "Magic vs Science"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "18",
+      "question": "Why was the village joyously celebrating at the end?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Zamindar became kind"
+        },
+        {
+          "id": "B",
+          "text": "Gopi defeated the oppressive Zamindar and brought joy and food back to the village"
+        },
+        {
+          "id": "C",
+          "text": "It was a festival"
+        },
+        {
+          "id": "D",
+          "text": "They found gold"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "19",
+      "question": "Gopi's bold threat to draw a beast shows that she is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Cruel"
+        },
+        {
+          "id": "B",
+          "text": "Highly clever, courageous, and resourceful under pressure"
+        },
+        {
+          "id": "C",
+          "text": "Scared"
+        },
+        {
+          "id": "D",
+          "text": "A bad artist"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "20",
+      "question": "Why is the title \"The Magic Brush of Dreams\" deeply appropriate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It paints people sleeping"
+        },
+        {
+          "id": "B",
+          "text": "It literally turns the hopes and practical needs (dreams) of the poor into reality"
+        },
+        {
+          "id": "C",
+          "text": "It only works in dreams"
+        },
+        {
+          "id": "D",
+          "text": "Gopi dreamed the whole thing"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "21",
+      "question": "The phrase \"The winds blow by and sweep away / The pictures in the sand\" metaphorically suggests:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sand is dirty"
+        },
+        {
+          "id": "B",
+          "text": "The sad, temporary nature of her art before she was empowered with the magic brush"
+        },
+        {
+          "id": "C",
+          "text": "A storm is coming"
+        },
+        {
+          "id": "D",
+          "text": "She was a bad artist"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "22",
+      "question": "Which specific poetic device is heavily used in \"mighty river wide\" to help the reader visualize the scene?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Simile"
+        },
+        {
+          "id": "B",
+          "text": "Imagery (creating a vivid visual picture in the mind)"
+        },
+        {
+          "id": "C",
+          "text": "Onomatopoeia"
+        },
+        {
+          "id": "D",
+          "text": "Irony"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "23",
+      "question": "A \"Zamindar\" historically refers to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "A poor peasant"
+        },
+        {
+          "id": "B",
+          "text": "A wealthy, powerful landowner who collected taxes and often oppressed the poor"
+        },
+        {
+          "id": "C",
+          "text": "A religious priest"
+        },
+        {
+          "id": "D",
+          "text": "A stage magician"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "24",
+      "question": "The poem consists of consecutive rhyming pairs (AABB). What is this scheme generally called?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Blank verse"
+        },
+        {
+          "id": "B",
+          "text": "Rhyming Couplets"
+        },
+        {
+          "id": "C",
+          "text": "Haiku"
+        },
+        {
+          "id": "D",
+          "text": "Sonnet"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "25",
+      "question": "What profound moral justice is served at the very end of the poem?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Zamindar gets richer"
+        },
+        {
+          "id": "B",
+          "text": "The oppressor's immense greed causes his own defeat, while Gopi's kindness triumphs"
+        },
+        {
+          "id": "C",
+          "text": "Gopi becomes Queen"
+        },
+        {
+          "id": "D",
+          "text": "The brush is destroyed"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "26",
+      "question": "The specific word \"khichdi\" grounds the magical, fantastical story in a specific cultural context, which is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "European"
+        },
+        {
+          "id": "B",
+          "text": "An Indian rural, agrarian setting"
+        },
+        {
+          "id": "C",
+          "text": "American"
+        },
+        {
+          "id": "D",
+          "text": "African"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "27",
+      "question": "Gopi’s journey from using a weak twig to wielding a magic brush strongly mirrors:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Moving to the city"
+        },
+        {
+          "id": "B",
+          "text": "The profound empowerment of marginalized individuals through unique gifts"
+        },
+        {
+          "id": "C",
+          "text": "Becoming a Zamindar"
+        },
+        {
+          "id": "D",
+          "text": "Losing her memory"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "28",
+      "question": "The vocabulary word \"fortress\" means:",
+      "options": [
+        {
+          "id": "A",
+          "text": "A small hut"
+        },
+        {
+          "id": "B",
+          "text": "A heavily protected and militarily fortified building or castle"
+        },
+        {
+          "id": "C",
+          "text": "A farm"
+        },
+        {
+          "id": "D",
+          "text": "A ship"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "29",
+      "question": "The Zamindar's complete inability to capture Gopi proves that:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Horses are fast"
+        },
+        {
+          "id": "B",
+          "text": "Creativity, intelligence, and moral right can outsmart brute force and authority"
+        },
+        {
+          "id": "C",
+          "text": "Rivers are dangerous"
+        },
+        {
+          "id": "D",
+          "text": "Magic is illegal"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "30",
+      "question": "The deliberate repetition of the old man's rule (\"Paint not for the wealthy ones...\") serves to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Annoy the reader"
+        },
+        {
+          "id": "B",
+          "text": "Strongly emphasize the central moral duty tied to the gift"
+        },
+        {
+          "id": "C",
+          "text": "Fill up space"
+        },
+        {
+          "id": "D",
+          "text": "Confuse Gopi"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    }
+  ]
+}

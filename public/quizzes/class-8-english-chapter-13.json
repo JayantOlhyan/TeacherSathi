@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "Who is the author of the science fiction story \"Feathered Friend\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Ruskin Bond"
+        },
+        {
+          "id": "B",
+          "text": "Arthur C. Clarke"
+        },
+        {
+          "id": "C",
+          "text": "Mary Dow Brine"
+        },
+        {
+          "id": "D",
+          "text": "Verghese Kurien"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "2",
+      "question": "Where exactly does the story take place?",
+      "options": [
+        {
+          "id": "A",
+          "text": "In a submarine"
+        },
+        {
+          "id": "B",
+          "text": "On a space station"
+        },
+        {
+          "id": "C",
+          "text": "In a deep mine"
+        },
+        {
+          "id": "D",
+          "text": "On a desert island"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "3",
+      "question": "Who is Sven Olsen?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A pilot"
+        },
+        {
+          "id": "B",
+          "text": "A wiry, strong construction worker on the space station"
+        },
+        {
+          "id": "C",
+          "text": "A doctor"
+        },
+        {
+          "id": "D",
+          "text": "The captain"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "4",
+      "question": "What kind of animal did Sven smuggle aboard?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A dog"
+        },
+        {
+          "id": "B",
+          "text": "A canary bird"
+        },
+        {
+          "id": "C",
+          "text": "A cat"
+        },
+        {
+          "id": "D",
+          "text": "A mouse"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "5",
+      "question": "What was the specific name of the bird?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tweety"
+        },
+        {
+          "id": "B",
+          "text": "Claribel"
+        },
+        {
+          "id": "C",
+          "text": "Polly"
+        },
+        {
+          "id": "D",
+          "text": "Goldie"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "6",
+      "question": "How did the narrator first realize the bird was there?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He saw a feather"
+        },
+        {
+          "id": "B",
+          "text": "He heard a musical whistle near his ear"
+        },
+        {
+          "id": "C",
+          "text": "The bird bit him"
+        },
+        {
+          "id": "D",
+          "text": "Sven told him"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "7",
+      "question": "Did Claribel have trouble flying in zero gravity?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes, she kept crashing"
+        },
+        {
+          "id": "B",
+          "text": "No, she adapted quickly and could float effortlessly"
+        },
+        {
+          "id": "C",
+          "text": "She couldn't fly at all"
+        },
+        {
+          "id": "D",
+          "text": "She was too heavy"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "8",
+      "question": "What horrifying thing happened to Claribel that worried Sven?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She flew away"
+        },
+        {
+          "id": "B",
+          "text": "She fainted and became unconscious"
+        },
+        {
+          "id": "C",
+          "text": "She stopped singing"
+        },
+        {
+          "id": "D",
+          "text": "She lost her feathers"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "9",
+      "question": "What did Claribel's fainting accurately indicate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She was hungry"
+        },
+        {
+          "id": "B",
+          "text": "The air was becoming poisonous due to a lack of oxygen"
+        },
+        {
+          "id": "C",
+          "text": "She was sleepy"
+        },
+        {
+          "id": "D",
+          "text": "She was sick"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "10",
+      "question": "Did the bird survive at the end?",
+      "options": [
+        {
+          "id": "A",
+          "text": "No"
+        },
+        {
+          "id": "B",
+          "text": "Yes, after getting a burst of oxygen"
+        },
+        {
+          "id": "C",
+          "text": "She escaped into space"
+        },
+        {
+          "id": "D",
+          "text": "She was sent back to Earth immediately"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "11",
+      "question": "What was Sven's \"scientific\" excuse for bringing the bird?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To eat it"
+        },
+        {
+          "id": "B",
+          "text": "To observe how a bird would adapt to a weightless environment (zero gravity)"
+        },
+        {
+          "id": "C",
+          "text": "To sell it"
+        },
+        {
+          "id": "D",
+          "text": "To scare the aliens"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "12",
+      "question": "How did Claribel adjust to zero gravity?",
+      "options": [
+        {
+          "id": "A",
+          "text": "By flapping harder"
+        },
+        {
+          "id": "B",
+          "text": "By learning to hang motionless in the air with folded wings"
+        },
+        {
+          "id": "C",
+          "text": "By walking on the ceiling"
+        },
+        {
+          "id": "D",
+          "text": "She tied herself to a wire"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "13",
+      "question": "Why did the narrator mistake Claribel's chirp for the intercom?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The intercom was a bird"
+        },
+        {
+          "id": "B",
+          "text": "He heard a whistle and expected an announcement to follow"
+        },
+        {
+          "id": "C",
+          "text": "He was dreaming"
+        },
+        {
+          "id": "D",
+          "text": "The intercom was broken"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "14",
+      "question": "Why did the alarm system fail to warn the crew about the bad air?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It was turned off"
+        },
+        {
+          "id": "B",
+          "text": "An eclipse caused part of the air purifier to freeze, disabling the system"
+        },
+        {
+          "id": "C",
+          "text": "The bird broke it"
+        },
+        {
+          "id": "D",
+          "text": "It ran out of batteries"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "15",
+      "question": "Historically, why did miners use canaries?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To sing songs"
+        },
+        {
+          "id": "B",
+          "text": "As an early warning system because canaries are highly sensitive to poisonous gases"
+        },
+        {
+          "id": "C",
+          "text": "To find gold"
+        },
+        {
+          "id": "D",
+          "text": "To carry messages"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "16",
+      "question": "How did the crew's attitude toward Claribel change?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They hated her then liked her"
+        },
+        {
+          "id": "B",
+          "text": "From casual amusement to deep affection and gratitude for saving their lives"
+        },
+        {
+          "id": "C",
+          "text": "They wanted to throw her out"
+        },
+        {
+          "id": "D",
+          "text": "They ignored her"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "17",
+      "question": "Why was Claribel hidden during official visits?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She was ugly"
+        },
+        {
+          "id": "B",
+          "text": "Pets were likely against space station regulations"
+        },
+        {
+          "id": "C",
+          "text": "She was too loud"
+        },
+        {
+          "id": "D",
+          "text": "She was a secret weapon"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "18",
+      "question": "What physical symptoms did the narrator experience before realizing the air was bad?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Stomach ache"
+        },
+        {
+          "id": "B",
+          "text": "A headache and difficulty waking up (sluggishness)"
+        },
+        {
+          "id": "C",
+          "text": "Blindness"
+        },
+        {
+          "id": "D",
+          "text": "Fever"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "19",
+      "question": "How did Claribel actually save the crew?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She fixed the machine"
+        },
+        {
+          "id": "B",
+          "text": "Her fainting alerted the narrator to the oxygen problem before it was too late for the humans"
+        },
+        {
+          "id": "C",
+          "text": "She opened a window"
+        },
+        {
+          "id": "D",
+          "text": "She flew to Earth for help"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "20",
+      "question": "The title \"Feathered Friend\" is appropriate because:",
+      "options": [
+        {
+          "id": "A",
+          "text": "It's about a pillow"
+        },
+        {
+          "id": "B",
+          "text": "It highlights the bond between the crew and the bird, who ultimately acts as a life-saving companion"
+        },
+        {
+          "id": "C",
+          "text": "It's about a chicken"
+        },
+        {
+          "id": "D",
+          "text": "The bird talks"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "21",
+      "question": "The overarching theme of the story is the contrast and interaction between:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aliens and humans"
+        },
+        {
+          "id": "B",
+          "text": "Highly advanced technology and innate biological/natural instincts"
+        },
+        {
+          "id": "C",
+          "text": "Cold and heat"
+        },
+        {
+          "id": "D",
+          "text": "Earth and Mars"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "22",
+      "question": "The word 'inexplicable' means:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Easy to understand"
+        },
+        {
+          "id": "B",
+          "text": "Unable to be explained or understood"
+        },
+        {
+          "id": "C",
+          "text": "Very loud"
+        },
+        {
+          "id": "D",
+          "text": "Dangerous"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "23",
+      "question": "The phrase \"we should soon have been slightly dead\" uses which literary device to inject humor into a serious situation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hyperbole"
+        },
+        {
+          "id": "B",
+          "text": "Understatement/Irony"
+        },
+        {
+          "id": "C",
+          "text": "Simile"
+        },
+        {
+          "id": "D",
+          "text": "Metaphor"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "24",
+      "question": "What does the failure of the expensive air purifier symbolize?",
+      "options": [
+        {
+          "id": "A",
+          "text": "That machines are cheap"
+        },
+        {
+          "id": "B",
+          "text": "The fallibility of human technology and the danger of over-reliance on it"
+        },
+        {
+          "id": "C",
+          "text": "That space is safe"
+        },
+        {
+          "id": "D",
+          "text": "That the crew was lazy"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "25",
+      "question": "What does the word 'wiry' imply about Sven's physical build?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fat and slow"
+        },
+        {
+          "id": "B",
+          "text": "Lean, sinewy, and strong"
+        },
+        {
+          "id": "C",
+          "text": "Tall and clumsy"
+        },
+        {
+          "id": "D",
+          "text": "Very hairy"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "26",
+      "question": "Claribel performing a \"backward loop\" demonstrates:",
+      "options": [
+        {
+          "id": "A",
+          "text": "She is confused"
+        },
+        {
+          "id": "B",
+          "text": "Her rapid evolutionary adaptation to the physics of a microgravity environment"
+        },
+        {
+          "id": "C",
+          "text": "She is dying"
+        },
+        {
+          "id": "D",
+          "text": "She is a special breed of canary"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "27",
+      "question": "The phrase \"dovetailed neatly\" means:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Covered in feathers"
+        },
+        {
+          "id": "B",
+          "text": "Fitted together perfectly and seamlessly"
+        },
+        {
+          "id": "C",
+          "text": "A type of bird"
+        },
+        {
+          "id": "D",
+          "text": "A broken piece"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "28",
+      "question": "Sven bringing the bird \"partly out of curiosity and partly for companionship\" highlights what aspect of life in space?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The abundance of food"
+        },
+        {
+          "id": "B",
+          "text": "The psychological isolation and the deep human need for connection with Earth/nature"
+        },
+        {
+          "id": "C",
+          "text": "The lack of gravity"
+        },
+        {
+          "id": "D",
+          "text": "The strict rules"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "29",
+      "question": "The story serves as a critique of the notion that:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Birds are useless"
+        },
+        {
+          "id": "B",
+          "text": "Advanced technology is the ultimate, foolproof solution in space exploration"
+        },
+        {
+          "id": "C",
+          "text": "Space travel is impossible"
+        },
+        {
+          "id": "D",
+          "text": "Oxygen is necessary"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "30",
+      "question": "The word 'revived' in the context of giving Claribel oxygen means:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Killed"
+        },
+        {
+          "id": "B",
+          "text": "Brought back to consciousness or restored to health"
+        },
+        {
+          "id": "C",
+          "text": "Made angry"
+        },
+        {
+          "id": "D",
+          "text": "Taught a trick"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    }
+  ]
+}

@@ -664,15 +664,14 @@ export const NCERT_SYLLABUS: ClassSyllabus = {
       {"id": 5, "en": "Somebody's Mother", "hi": "किसी की माँ", "descEn": "Unit 2: Values and Dispositions - A poem about empathy.", "descHi": "इकाई 2: सहानुभूति के बारे में एक कविता।"},
       {"id": 6, "en": "Verghese Kurien – I Too Had a Dream", "hi": "वर्गीज कुरियन - मेरा भी एक सपना था", "descEn": "Unit 2: Values and Dispositions - Biography of the Milkman of India.", "descHi": "इकाई 2: भारत के मिल्कमैन की जीवनी।"},
       {"id": 7, "en": "The Case of the Fifth Word", "hi": "पांचवें शब्द का मामला", "descEn": "Unit 3: Mystery and Magic - A mysterious detective story.", "descHi": "इकाई 3: एक रहस्यमय जासूसी कहानी।"},
-      {"id": 8, "en": "The Last Bargain", "hi": "अंतिम सौदा", "descEn": "Unit 3: Mystery and Magic - A poem by Rabindranath Tagore.", "descHi": "इकाई 3: रवींद्रनाथ टैगोर की एक कविता।"},
-      {"id": 9, "en": "The Magic Paintbrush", "hi": "जादुई पेंटब्रश", "descEn": "Unit 3: Mystery and Magic - A magical folktale.", "descHi": "इकाई 3: एक जादुई लोककथा।"},
+      {"id": 8, "en": "The Magic Brush of Dreams", "hi": "सपनों का जादुई ब्रश", "descEn": "Unit 3: Mystery and Magic - A folklore about art and truth.", "descHi": "इकाई 3: कला और सत्य के बारे में एक लोककथा।"},
+      {"id": 9, "en": "Spectacular Wonders", "hi": "शानदार अजूबे", "descEn": "Unit 3: Mystery and Magic - Exploring the wonders of the world.", "descHi": "इकाई 3: दुनिया के अजूबों की खोज।"},
       {"id": 10, "en": "The Cherry Tree", "hi": "चेरी का पेड़", "descEn": "Unit 4: Environment - A story by Ruskin Bond.", "descHi": "इकाई 4: रस्किन बॉन्ड की एक कहानी।"},
-      {"id": 11, "en": "Nature's Gift", "hi": "प्रकृति का उपहार", "descEn": "Unit 4: Environment - Appreciating the environment.", "descHi": "इकाई 4: पर्यावरण की सराहना।"},
-      {"id": 12, "en": "The Blue Umbrella", "hi": "नीली छतरी", "descEn": "Unit 4: Environment - A heartwarming story about a little girl.", "descHi": "इकाई 4: एक छोटी लड़की के बारे में एक दिल छू लेने वाली कहानी।"},
+      {"id": 11, "en": "Harvest Hymn", "hi": "फसल भजन", "descEn": "Unit 4: Environment - A song of deep praise and gratitude for harvest.", "descHi": "इकाई 4: फसल के लिए गहरी प्रशंसा और कृतज्ञता का गीत।"},
+      {"id": 12, "en": "Waiting For The Rain", "hi": "बारिश का इंतजार", "descEn": "Unit 4: Environment - A story about patience and nature's rhythms.", "descHi": "इकाई 4: धैर्य और प्रकृति की लय के बारे में एक कहानी।"},
       {"id": 13, "en": "Feathered Friend", "hi": "पंखों वाला दोस्त", "descEn": "Unit 5: Science and Curiosity - A science fiction story.", "descHi": "इकाई 5: एक विज्ञान कथा।"},
-      {"id": 14, "en": "A Journey into Space", "hi": "अंतरिक्ष की यात्रा", "descEn": "Unit 5: Science and Curiosity - Exploring space.", "descHi": "इकाई 5: अंतरिक्ष की खोज।"},
-      {"id": 15, "en": "Innovation for Tomorrow", "hi": "कल के लिए नवाचार", "descEn": "Unit 5: Science and Curiosity - The power of invention.", "descHi": "इकाई 5: आविष्कार की शक्ति।"},
-      {"id": 16, "en": "The Wonder of Discovery", "hi": "खोज का आश्चर्य", "descEn": "Unit 5: Science and Curiosity - Excitement of scientific discovery.", "descHi": "इकाई 5: वैज्ञानिक खोज का उत्साह।"}
+      {"id": 14, "en": "Magnifying Glass", "hi": "आवर्धक कांच", "descEn": "Unit 5: Science and Curiosity - A poem about observation and wonder.", "descHi": "इकाई 5: अवलोकन और आश्चर्य के बारे में एक कविता।"},
+      {"id": 15, "en": "Bibha Chowdhuri: The Beam of Light", "hi": "बिभा चौधरी: प्रकाश की किरण", "descEn": "Unit 5: Science and Curiosity - Biography of India's first woman physicist.", "descHi": "इकाई 5: भारत की पहली महिला भौतिक विज्ञानी की जीवनी।"}
     ],
     "Social Science": [
       {"id": 1, "en": "Natural Resources and Their Use", "hi": "प्राकृतिक संसाधन और उनका उपयोग", "descEn": "Understanding types and conservation of natural resources.", "descHi": "प्राकृतिक संसाधनों के प्रकार और संरक्षण को समझना।"},

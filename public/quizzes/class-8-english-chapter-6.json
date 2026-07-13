@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "In what specific literary format is this chapter written?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A rhyming poem"
+        },
+        {
+          "id": "B",
+          "text": "A personal letter to his grandson"
+        },
+        {
+          "id": "C",
+          "text": "A newspaper report"
+        },
+        {
+          "id": "D",
+          "text": "A private diary entry"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "2",
+      "question": "Who exactly is the author writing the letter to?",
+      "options": [
+        {
+          "id": "A",
+          "text": "His son"
+        },
+        {
+          "id": "B",
+          "text": "His grandfather"
+        },
+        {
+          "id": "C",
+          "text": "His grandson, Siddharth"
+        },
+        {
+          "id": "D",
+          "text": "The President of India"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "3",
+      "question": "What historical movement is Dr. Verghese Kurien famously associated with?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Green Revolution"
+        },
+        {
+          "id": "B",
+          "text": "The White Revolution (Dairy)"
+        },
+        {
+          "id": "C",
+          "text": "The IT Revolution"
+        },
+        {
+          "id": "D",
+          "text": "The Space Program"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "4",
+      "question": "In which specific town did Dr. Kurien perform most of his revolutionary work with dairy farmers?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mumbai"
+        },
+        {
+          "id": "B",
+          "text": "Anand, Gujarat"
+        },
+        {
+          "id": "C",
+          "text": "Delhi"
+        },
+        {
+          "id": "D",
+          "text": "Chennai"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "5",
+      "question": "What major, highly prestigious civilian award did Dr. Kurien receive in 1999?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Bharat Ratna"
+        },
+        {
+          "id": "B",
+          "text": "Padma Vibhushan"
+        },
+        {
+          "id": "C",
+          "text": "Padma Shri"
+        },
+        {
+          "id": "D",
+          "text": "Arjuna Award"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "6",
+      "question": "Did Dr. Kurien originally, as a young man, plan to work with poor dairy farmers?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes, it was his childhood dream"
+        },
+        {
+          "id": "B",
+          "text": "No, it was absolutely not the career he envisioned"
+        },
+        {
+          "id": "C",
+          "text": "Yes, his father forced him"
+        },
+        {
+          "id": "D",
+          "text": "No, he wanted to be a medical doctor"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "7",
+      "question": "Who constantly supported Dr. Kurien through the extreme hardships of rural village life?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The King"
+        },
+        {
+          "id": "B",
+          "text": "His devoted wife"
+        },
+        {
+          "id": "C",
+          "text": "A rich local merchant"
+        },
+        {
+          "id": "D",
+          "text": "A foreign company"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "8",
+      "question": "Which extremely famous Indian dairy brand is directly associated with his cooperative work in Anand?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Mother Dairy"
+        },
+        {
+          "id": "B",
+          "text": "Amul"
+        },
+        {
+          "id": "C",
+          "text": "Britannia"
+        },
+        {
+          "id": "D",
+          "text": "Nestle"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "9",
+      "question": "According to Dr. Kurien's philosophy, why is a written letter fundamentally better than a phone call?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It is much faster"
+        },
+        {
+          "id": "B",
+          "text": "It provides lasting joy and can be re-read over generations"
+        },
+        {
+          "id": "C",
+          "text": "It is louder"
+        },
+        {
+          "id": "D",
+          "text": "It costs a lot more"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "10",
+      "question": "Did Dr. Kurien ultimately choose a comfortable, high-paying life abroad?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes"
+        },
+        {
+          "id": "B",
+          "text": "No, he deliberately chose to stay and serve India's rural farmers"
+        },
+        {
+          "id": "C",
+          "text": "He tried but failed"
+        },
+        {
+          "id": "D",
+          "text": "He was legally banned from going abroad"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "11",
+      "question": "Why did Dr. Kurien actively give up highly attractive, lucrative career options?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He failed the qualifying exams"
+        },
+        {
+          "id": "B",
+          "text": "He profoundly felt he could make a much more meaningful contribution by serving rural farmers"
+        },
+        {
+          "id": "C",
+          "text": "He deeply hated the city"
+        },
+        {
+          "id": "D",
+          "text": "He wanted to be poor"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "12",
+      "question": "What does Dr. Kurien imply when he says \"service to our nation's farmers was not the career I had envisioned\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "He hated farmers"
+        },
+        {
+          "id": "B",
+          "text": "His life path changed unexpectedly, yet it evolved into his greatest, most fulfilling life's mission"
+        },
+        {
+          "id": "C",
+          "text": "He was violently forced into it"
+        },
+        {
+          "id": "D",
+          "text": "He wanted to be a farmer himself"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "13",
+      "question": "How did the revolutionary cooperative model practically help the impoverished farmers?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It took their cows away"
+        },
+        {
+          "id": "B",
+          "text": "It allowed them to collectively own and manage production, bypassing middlemen and ensuring fair profits"
+        },
+        {
+          "id": "C",
+          "text": "It forced them to move to cities"
+        },
+        {
+          "id": "D",
+          "text": "It gave them free government money"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "14",
+      "question": "What does Dr. Kurien fundamentally believe about the concept of \"failure\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It means you are physically weak"
+        },
+        {
+          "id": "B",
+          "text": "True failure is not simply lacking success, but rather not trying your best or failing to help others"
+        },
+        {
+          "id": "C",
+          "text": "It means you lose all your money"
+        },
+        {
+          "id": "D",
+          "text": "It should be severely punished"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "15",
+      "question": "Why does Dr. Kurien highly praise his wife within the letter to his grandson?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She cooked extremely well"
+        },
+        {
+          "id": "B",
+          "text": "Her steadfast emotional support and willing acceptance of severe hardships made his revolutionary work possible"
+        },
+        {
+          "id": "C",
+          "text": "She was a brilliant scientist"
+        },
+        {
+          "id": "D",
+          "text": "She bought him a car"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "16",
+      "question": "The empowering phrase \"hold their heads high\" implies:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Looking directly at the sky"
+        },
+        {
+          "id": "B",
+          "text": "Having immense dignity, confidence, and profound self-respect"
+        },
+        {
+          "id": "C",
+          "text": "Being highly arrogant"
+        },
+        {
+          "id": "D",
+          "text": "Stretching the neck physically"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "17",
+      "question": "What core, unshakeable values did Dr. Kurien uphold throughout his entire life and career?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Extreme wealth and fame"
+        },
+        {
+          "id": "B",
+          "text": "Deep integrity, unyielding honesty, and selfless service"
+        },
+        {
+          "id": "C",
+          "text": "Political power and control"
+        },
+        {
+          "id": "D",
+          "text": "Secrecy and cunning behavior"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "18",
+      "question": "Why was receiving the Padma Vibhushan specifically meaningful to him?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It was made of solid gold"
+        },
+        {
+          "id": "B",
+          "text": "It deeply represented the entire nation's appreciation for his lifelong, selfless service to rural growth"
+        },
+        {
+          "id": "C",
+          "text": "He could sell it for cash"
+        },
+        {
+          "id": "D",
+          "text": "It made him the President"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "19",
+      "question": "How did Dr. Kurien's grassroots work ultimately impact India on a massive global scale?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It had no impact"
+        },
+        {
+          "id": "B",
+          "text": "It successfully transformed India into one of the absolute largest milk producers in the world"
+        },
+        {
+          "id": "C",
+          "text": "It caused a severe milk shortage"
+        },
+        {
+          "id": "D",
+          "text": "India started importing all its milk"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "20",
+      "question": "What is his ultimate, overarching message to the younger generation reading the letter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Make as much money as humanly possible"
+        },
+        {
+          "id": "B",
+          "text": "Life is a rare privilege; use your inherent talents for the common good and societal upliftment"
+        },
+        {
+          "id": "C",
+          "text": "Move to another country"
+        },
+        {
+          "id": "D",
+          "text": "Never write letters"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "21",
+      "question": "The vocabulary word \"fleeting\" in the context of describing a phone call means:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Long-lasting and permanent"
+        },
+        {
+          "id": "B",
+          "text": "Passing very quickly; highly brief and temporary"
+        },
+        {
+          "id": "C",
+          "text": "Extremely loud"
+        },
+        {
+          "id": "D",
+          "text": "Highly expensive"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "22",
+      "question": "What does the profound concept of \"integrity\" mean in Dr. Kurien's personal philosophy?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Being excellent at mathematics"
+        },
+        {
+          "id": "B",
+          "text": "Being deeply truthful to oneself and adhering strictly to moral principles regardless of the cost"
+        },
+        {
+          "id": "C",
+          "text": "Having a lot of physical power"
+        },
+        {
+          "id": "D",
+          "text": "Always winning debates"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "23",
+      "question": "The White Revolution (Operation Flood) stands as a prime historical example of:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Grassroots empowerment and highly successful cooperative economics"
+        },
+        {
+          "id": "B",
+          "text": "A violent political uprising"
+        },
+        {
+          "id": "C",
+          "text": "A technological computer shift"
+        },
+        {
+          "id": "D",
+          "text": "A climate-related disaster"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "24",
+      "question": "The phrase \"In all humility\" implies that Dr. Kurien was:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Highly arrogant about his success"
+        },
+        {
+          "id": "B",
+          "text": "Deeply modest and lacked self-importance despite his massive, world-changing achievements"
+        },
+        {
+          "id": "C",
+          "text": "Humiliated by the farmers"
+        },
+        {
+          "id": "D",
+          "text": "Unsure of his own work"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "25",
+      "question": "Dr. Kurien's guiding mentor was Tribhuvandas Patel. What is the strict definition of a 'mentor'?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A fierce competitor"
+        },
+        {
+          "id": "B",
+          "text": "An experienced, trusted adviser and philosophical guide"
+        },
+        {
+          "id": "C",
+          "text": "An enemy"
+        },
+        {
+          "id": "D",
+          "text": "A young student"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "26",
+      "question": "Which phrase best captures the overarching theme of this biographical chapter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "The relentless pursuit of personal wealth"
+        },
+        {
+          "id": "B",
+          "text": "Leading a purpose-driven life centered on massive social responsibility"
+        },
+        {
+          "id": "C",
+          "text": "The severe dangers of agriculture"
+        },
+        {
+          "id": "D",
+          "text": "How to write a formal letter"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "27",
+      "question": "The letter functions not merely as family correspondence, but on a deeper level as a:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Binding legal will"
+        },
+        {
+          "id": "B",
+          "text": "Passing down of a profound moral legacy and vital life lessons to the next generation"
+        },
+        {
+          "id": "C",
+          "text": "Grocery list"
+        },
+        {
+          "id": "D",
+          "text": "Resignation letter"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "28",
+      "question": "When Dr. Kurien writes, \"life is a privilege and to waste it would be wrong,\" it indicates a worldview firmly based on:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dark Nihilism"
+        },
+        {
+          "id": "B",
+          "text": "Profound duty and purposeful, selfless contribution to humanity"
+        },
+        {
+          "id": "C",
+          "text": "Extreme Hedonism"
+        },
+        {
+          "id": "D",
+          "text": "Laziness"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "29",
+      "question": "To \"shoulder responsibilities with poise\" means to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Endlessly complain about work"
+        },
+        {
+          "id": "B",
+          "text": "Handle heavy duties and severe stress with grace, calmness, and extreme dignity"
+        },
+        {
+          "id": "C",
+          "text": "Carry heavy physical bags"
+        },
+        {
+          "id": "D",
+          "text": "Avoid difficult tasks"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "30",
+      "question": "The stark choice between a highly lucrative career and difficult rural service highlights the deep moral conflict between:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Urban and rural life"
+        },
+        {
+          "id": "B",
+          "text": "Selfish personal ambition and the broader welfare of society"
+        },
+        {
+          "id": "C",
+          "text": "Science and the arts"
+        },
+        {
+          "id": "D",
+          "text": "Youth and old age"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    }
+  ]
+}

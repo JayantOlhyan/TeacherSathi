@@ -2,753 +2,753 @@
   "questions": [
     {
       "id": "1",
-      "question": "'सच्चा मित्र' किस विधा की रचना है?",
+      "question": "'एक आशीर्वाद' कविता के कवि कौन हैं?",
       "options": [
         {
           "id": "A",
-          "text": "कविता"
+          "text": "कबीर"
         },
         {
           "id": "B",
-          "text": "कहानी"
+          "text": "दुष्यंत कुमार"
         },
         {
           "id": "C",
-          "text": "निबंध"
+          "text": "महादेवी वर्मा"
         },
         {
           "id": "D",
-          "text": "संस्मरण"
+          "text": "भीष्म साहनी"
         }
       ],
       "difficulty": "Easy",
       "correctAnswerId": "B",
-      "explanation": "सही उत्तर B है।"
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "2",
-      "question": "कहानी का मुख्य विषय क्या है?",
+      "question": "कवि युवाओं को क्या आशीर्वाद दे रहे हैं?",
       "options": [
         {
           "id": "A",
-          "text": "सच्ची मित्रता"
+          "text": "बहुत धन मिले"
         },
         {
           "id": "B",
-          "text": "यात्रा"
+          "text": "तेरे स्वप्न बड़े हों"
         },
         {
           "id": "C",
-          "text": "व्यापार"
+          "text": "हमेशा सोते रहो"
         },
         {
           "id": "D",
-          "text": "विज्ञान"
+          "text": "परीक्षा में पास हो जाओ"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "3",
-      "question": "सच्चा मित्र कब साथ देता है?",
+      "question": "कवि सपनों को किसकी गोद से उतरने को कहते हैं?",
       "options": [
         {
           "id": "A",
-          "text": "सुख-दुःख दोनों में"
+          "text": "माता की"
         },
         {
           "id": "B",
-          "text": "केवल सुख में"
+          "text": "भावना (कल्पना) की"
         },
         {
           "id": "C",
-          "text": "केवल दुःख में"
+          "text": "पिता की"
         },
         {
           "id": "D",
-          "text": "कभी नहीं"
+          "text": "प्रकृति की"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "4",
-      "question": "मित्रता का सबसे मजबूत आधार क्या है?",
+      "question": "भावना की गोद से उतरकर सपनों को कहाँ चलना सीखना चाहिए?",
       "options": [
         {
           "id": "A",
-          "text": "विश्वास"
+          "text": "आकाश में"
         },
         {
           "id": "B",
-          "text": "धन"
+          "text": "पृथ्वी पर (यथार्थ में)"
         },
         {
           "id": "C",
-          "text": "प्रसिद्धि"
+          "text": "अंतरिक्ष में"
         },
         {
           "id": "D",
-          "text": "प्रतियोगिता"
+          "text": "जल में"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "5",
-      "question": "सच्चे मित्र की पहचान क्या है?",
+      "question": "कवि किन सच्चाइयों के लिए रूठने-मचलने की बात कहते हैं?",
       "options": [
         {
           "id": "A",
-          "text": "वह कठिन समय में साथ देता है।"
+          "text": "आसान सच्चाइयों के लिए"
         },
         {
           "id": "B",
-          "text": "वह केवल लाभ के समय साथ रहता है।"
+          "text": "चाँद-तारों-सी अप्राप्य सच्चाइयों के लिए"
         },
         {
           "id": "C",
-          "text": "वह झूठ बोलता है।"
+          "text": "धन-दौलत के लिए"
         },
         {
           "id": "D",
-          "text": "वह दूसरों का मज़ाक उड़ाता है।"
+          "text": "किताबों के लिए"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "6",
-      "question": "मित्रता में कौन-सा गुण सबसे आवश्यक है?",
+      "question": "'अपने पाँवों पर खड़े हों' का सीधा अर्थ क्या है?",
       "options": [
         {
           "id": "A",
-          "text": "ईमानदारी"
+          "text": "खड़े रहना"
         },
         {
           "id": "B",
-          "text": "अहंकार"
+          "text": "आत्मनिर्भर (Self-reliant) बनना"
         },
         {
           "id": "C",
-          "text": "ईर्ष्या"
+          "text": "दौड़ना"
         },
         {
           "id": "D",
-          "text": "स्वार्थ"
+          "text": "नृत्य करना"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "7",
-      "question": "कहानी पढ़कर कौन-सी भावना विकसित होती है?",
+      "question": "कवि जीवन में क्या करते रहने का संदेश देते हैं?",
       "options": [
         {
           "id": "A",
-          "text": "सहयोग और अपनापन"
+          "text": "रोना"
         },
         {
           "id": "B",
-          "text": "घृणा"
+          "text": "हँसना, मुसकराना और गाना"
         },
         {
           "id": "C",
-          "text": "क्रोध"
+          "text": "सोना"
         },
         {
           "id": "D",
-          "text": "आलस्य"
+          "text": "शिकायत करना"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "8",
-      "question": "सच्चा मित्र कैसा व्यवहार करता है?",
+      "question": "'दीये की रोशनी' देखकर कवि क्या करने को कहता है?",
       "options": [
         {
           "id": "A",
-          "text": "सहायता और प्रोत्साहन देता है।"
+          "text": "आँखें बंद करने को"
         },
         {
           "id": "B",
-          "text": "धोखा देता है।"
+          "text": "दूर भागने को"
         },
         {
           "id": "C",
-          "text": "परेशानी बढ़ाता है।"
+          "text": "ललचाने को"
         },
         {
           "id": "D",
-          "text": "अपमान करता है।"
+          "text": "पानी डालने को"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "C",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "9",
-      "question": "कहानी का मुख्य संदेश क्या है?",
+      "question": "यह कविता मुख्य रूप से किसके लिए एक उद्बोधन है?",
       "options": [
         {
           "id": "A",
-          "text": "सच्ची मित्रता जीवन की अमूल्य संपत्ति है।"
+          "text": "वृद्धों के लिए"
         },
         {
           "id": "B",
-          "text": "धन सबसे बड़ा मित्र है।"
+          "text": "युवाओं और बच्चों के लिए"
         },
         {
           "id": "C",
-          "text": "प्रसिद्धि ही सबसे महत्वपूर्ण है।"
+          "text": "पक्षियों के लिए"
         },
         {
           "id": "D",
-          "text": "शक्ति से मित्रता होती है।"
+          "text": "शिक्षकों के लिए"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "10",
-      "question": "कहानी का केंद्रीय भाव क्या है?",
+      "question": "इस कविता का मुख्य विषय क्या है?",
       "options": [
         {
           "id": "A",
-          "text": "विश्वास, सहयोग और सच्ची मित्रता"
+          "text": "प्रकृति सौंदर्य"
         },
         {
           "id": "B",
-          "text": "प्रतियोगिता"
+          "text": "सपनों, संघर्ष और स्वावलंबन का महत्व"
         },
         {
           "id": "C",
-          "text": "व्यापार"
+          "text": "राजनीतिक भ्रष्टाचार"
         },
         {
           "id": "D",
-          "text": "राजनीति"
+          "text": "पशु-प्रेम"
         }
       ],
       "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "11",
-      "question": "'सच्चा मित्र' कहानी का मुख्य संदेश क्या है?",
+      "question": "'चाँद-तारों-सी अप्राप्य सच्चाइयों' से कवि का वैचारिक तात्पर्य क्या है?",
       "options": [
         {
           "id": "A",
-          "text": "सच्चा मित्र हर परिस्थिति में साथ निभाता है।"
+          "text": "अंतरिक्ष यात्री बनना"
         },
         {
           "id": "B",
-          "text": "मित्रता केवल लाभ के लिए होती है।"
+          "text": "ऐसे महान और कठिन लक्ष्य जिन्हें पाना असंभव सा लगता हो"
         },
         {
           "id": "C",
-          "text": "मित्रता का आधार धन है।"
+          "text": "रात में तारे गिनना"
         },
         {
           "id": "D",
-          "text": "मित्रता केवल मनोरंजन के लिए होती है।"
+          "text": "चाँद पर जमीन खरीदना"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "12",
-      "question": "कहानी में सच्ची मित्रता की सबसे बड़ी पहचान क्या है?",
+      "question": "'रूठना-मचलना सीखें' का जीवन में क्या प्रतीकात्मक अर्थ है?",
       "options": [
         {
           "id": "A",
-          "text": "विश्वास और निस्वार्थ सहयोग"
+          "text": "बिना बात के गुस्सा होना"
         },
         {
           "id": "B",
-          "text": "प्रतियोगिता"
+          "text": "अपने लक्ष्य को पाने के लिए ज़िद, जुनून और निरंतर संघर्ष करना"
         },
         {
           "id": "C",
-          "text": "प्रसिद्धि"
+          "text": "माता-पिता से लड़ना"
         },
         {
           "id": "D",
-          "text": "धन"
+          "text": "खाना न खाना"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "13",
-      "question": "कहानी विद्यार्थियों में कौन-सा जीवन-मूल्य विकसित करती है?",
+      "question": "'दीये की रोशनी' यहाँ किस बात का प्रतीक है?",
       "options": [
         {
           "id": "A",
-          "text": "निष्ठा और सहयोग"
+          "text": "केवल प्रकाश का"
         },
         {
           "id": "B",
-          "text": "ईर्ष्या"
+          "text": "ज्ञान, नई बातें, नए अनुभवों और अवसरों का"
         },
         {
           "id": "C",
-          "text": "घमंड"
+          "text": "आग का"
         },
         {
           "id": "D",
-          "text": "स्वार्थ"
+          "text": "खतरे का"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "14",
-      "question": "यदि मित्र कठिन समय में साथ छोड़ दे, तो वह कैसा मित्र कहलाएगा?",
+      "question": "'उँगली जलाएँ' पंक्ति के माध्यम से कवि युवाओं को क्या सिखाना चाहते हैं?",
       "options": [
         {
           "id": "A",
-          "text": "सच्चा मित्र नहीं"
+          "text": "आग से खेलना"
         },
         {
           "id": "B",
-          "text": "आदर्श मित्र"
+          "text": "अनुभवों की आग में तपना और जीवन में जोखिम (Risk) उठाने से न डरना"
         },
         {
           "id": "C",
-          "text": "श्रेष्ठ मित्र"
+          "text": "खुद को चोट पहुँचाना"
         },
         {
           "id": "D",
-          "text": "प्रिय मित्र"
+          "text": "खाना पकाना"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "15",
-      "question": "कहानी का शीर्षक 'सच्चा मित्र' क्यों उपयुक्त है?",
+      "question": "'भावना की गोद से उतरकर पृथ्वी पर चलना' क्या दर्शाता है?",
       "options": [
         {
           "id": "A",
-          "text": "क्योंकि पूरी कहानी सच्ची मित्रता के गुणों पर आधारित है।"
+          "text": "हवाई जहाज से उतरना"
         },
         {
           "id": "B",
-          "text": "क्योंकि इसमें केवल विद्यालय का वर्णन है।"
+          "text": "कोरी कल्पना की दुनिया छोड़कर हकीकत (यथार्थ) की जमीन पर संघर्ष करना"
         },
         {
           "id": "C",
-          "text": "क्योंकि इसमें केवल खेल का वर्णन है।"
+          "text": "पेड़ से नीचे आना"
         },
         {
           "id": "D",
-          "text": "क्योंकि इसमें केवल यात्रा का वर्णन है।"
+          "text": "भावुक होकर रोना"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "16",
-      "question": "मित्रता को मजबूत बनाने के लिए क्या आवश्यक है?",
+      "question": "कवि का यह आशीर्वाद अन्य पारंपरिक आशीर्वादों से किस प्रकार भिन्न है?",
       "options": [
         {
           "id": "A",
-          "text": "विश्वास, सम्मान और सहयोग"
+          "text": "यह भाग्य पर निर्भर है"
         },
         {
           "id": "B",
-          "text": "प्रतियोगिता"
+          "text": "यह बैठे-बिठाए सुख माँगने के बजाय संघर्ष करने और आत्मनिर्भर बनने की शक्ति देता है"
         },
         {
           "id": "C",
-          "text": "स्वार्थ"
+          "text": "यह निराशाजनक है"
         },
         {
           "id": "D",
-          "text": "क्रोध"
+          "text": "यह डराने वाला है"
         }
       ],
       "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "17",
-      "question": "कहानी के अनुसार मित्र का सबसे बड़ा कर्तव्य क्या है?",
+      "question": "यदि राह में गलतियाँ हों या कष्ट झेलने पड़ें, तो कवि के अनुसार दृष्टिकोण कैसा होना चाहिए?",
       "options": [
         {
           "id": "A",
-          "text": "सही मार्गदर्शन और सहायता करना"
+          "text": "हार मान लेनी चाहिए"
         },
         {
           "id": "B",
-          "text": "गलत कार्यों में साथ देना"
+          "text": "घबराना नहीं चाहिए, सकारात्मक रहकर उनसे सीखना चाहिए"
         },
         {
           "id": "C",
-          "text": "दूसरों की बुराई करना"
+          "text": "दूसरों को दोष देना चाहिए"
+        },
+        {
+          "id": "D",
+          "text": "काम छोड़ देना चाहिए"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
+    },
+    {
+      "id": "18",
+      "question": "इस कविता में मानवीकरण (Personification) का प्रयोग किस रूप में देखा जा सकता है?",
+      "options": [
+        {
+          "id": "A",
+          "text": "तारों के मुस्कुराने में"
+        },
+        {
+          "id": "B",
+          "text": "सपनों को एक स्वतंत्र, चलने और मचलने वाले जीव के रूप में चित्रित करने में"
+        },
+        {
+          "id": "C",
+          "text": "पेड़ों के रोने में"
+        },
+        {
+          "id": "D",
+          "text": "हवा के चलने में"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
+    },
+    {
+      "id": "19",
+      "question": "आत्मनिर्भरता के बिना बड़े सपनों का क्या परिणाम होता है?",
+      "options": [
+        {
+          "id": "A",
+          "text": "वे जल्दी पूरे होते हैं"
+        },
+        {
+          "id": "B",
+          "text": "वे कभी साकार नहीं हो पाते, केवल ख्याली पुलाव बनकर रह जाते हैं"
+        },
+        {
+          "id": "C",
+          "text": "वे और बड़े हो जाते हैं"
+        },
+        {
+          "id": "D",
+          "text": "वे दूसरों को मिल जाते हैं"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
+    },
+    {
+      "id": "20",
+      "question": "कविता की भाषा-शैली की प्रमुख विशेषता क्या है?",
+      "options": [
+        {
+          "id": "A",
+          "text": "बहुत जटिल"
+        },
+        {
+          "id": "B",
+          "text": "सहज, प्रवाहमयी, आत्मीय और प्रतीकात्मक"
+        },
+        {
+          "id": "C",
+          "text": "नीरस"
+        },
+        {
+          "id": "D",
+          "text": "लोकभाषा"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
+    },
+    {
+      "id": "21",
+      "question": "'अप्राप्य' शब्द का अर्थ बताते हुए कविता के संदर्भ में इसका मनोवैज्ञानिक महत्व स्पष्ट करें।",
+      "options": [
+        {
+          "id": "A",
+          "text": "जो मिल गया हो; यह संतोष सिखाता है"
+        },
+        {
+          "id": "B",
+          "text": "जिसे पाना अत्यंत कठिन हो; यह मनुष्य को उसकी क्षमताओं की चरम सीमाओं तक धकेलने (Push) की प्रेरणा देता है"
+        },
+        {
+          "id": "C",
+          "text": "जो कभी न मिले; यह निराशा देता है"
+        },
+        {
+          "id": "D",
+          "text": "जो आसानी से मिले; यह आलस्य देता है"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
+    },
+    {
+      "id": "22",
+      "question": "कवि ने जीवन में सुख (हँसें, मुसकराएँ) और संघर्ष (उँगली जलाएँ) दोनों को एक साथ क्यों रखा है?",
+      "options": [
+        {
+          "id": "A",
+          "text": "क्योंकि वे तय नहीं कर पाए"
+        },
+        {
+          "id": "B",
+          "text": "क्योंकि एक संतुलित, परिपक्व और वास्तविक जीवन के लिए सुख-दुख और कटु अनुभव दोनों अनिवार्य हैं"
+        },
+        {
+          "id": "C",
+          "text": "ताकि कविता लंबी हो जाए"
+        },
+        {
+          "id": "D",
+          "text": "क्योंकि यही नियम है"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
+    },
+    {
+      "id": "23",
+      "question": "यह कविता डॉ. ए.पी.जे. अब्दुल कलाम के किस प्रसिद्ध विचार का काव्यात्मक रूप प्रतीत होती है?",
+      "options": [
+        {
+          "id": "A",
+          "text": "विज्ञान ही सब कुछ है"
+        },
+        {
+          "id": "B",
+          "text": "सपने वे नहीं जो आप सोते समय देखते हैं, सपने वे हैं जो आपको सोने नहीं देते"
+        },
+        {
+          "id": "C",
+          "text": "मिसाइल बनाना जरूरी है"
+        },
+        {
+          "id": "D",
+          "text": "शिक्षक सबसे बड़ा होता है"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
+    },
+    {
+      "id": "24",
+      "question": "'दीये की रोशनी' (आकर्षण) और 'उँगली जलाना' (परिणाम) में क्या विरोधाभास और जीवन-सत्य छिपा है?",
+      "options": [
+        {
+          "id": "A",
+          "text": "दोनों का कोई संबंध नहीं"
+        },
+        {
+          "id": "B",
+          "text": "ज्ञान या सफलता (रोशनी) के मार्ग में आकर्षण होता है, लेकिन उसे पाने के लिए कठिनाइयाँ और कष्ट (उँगली जलना) अवश्य सहने पड़ते हैं"
+        },
+        {
+          "id": "C",
+          "text": "रोशनी अच्छी होती है पर आग बुरी"
+        },
+        {
+          "id": "D",
+          "text": "दीया हमेशा उँगली जलाता है"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
+    },
+    {
+      "id": "25",
+      "question": "यह रचना केवल एक कविता नहीं, बल्कि एक 'उद्बोधन' (Awakening call) है। कैसे?",
+      "options": [
+        {
+          "id": "A",
+          "text": "यह एक कहानी है"
+        },
+        {
+          "id": "B",
+          "text": "यह पाठक को केवल आनंदित नहीं करती, बल्कि उसे मानसिक रूप से जगाकर कर्म और संघर्ष में प्रवृत्त करती है"
+        },
+        {
+          "id": "C",
+          "text": "यह एक प्रार्थना है"
+        },
+        {
+          "id": "D",
+          "text": "यह एक चुटकुला है"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
+    },
+    {
+      "id": "26",
+      "question": "कवि दूसरों (पैरवी या भाग्य) के सहारे जीने का अप्रत्यक्ष विरोध क्यों करता है?",
+      "options": [
+        {
+          "id": "A",
+          "text": "क्योंकि दूसरों के पास समय नहीं है"
+        },
+        {
+          "id": "B",
+          "text": "क्योंकि स्वावलंबन के बिना अर्जित की गई सफलता में आत्म-सम्मान और स्थायित्व नहीं होता"
+        },
+        {
+          "id": "C",
+          "text": "क्योंकि दूसरे धोखा देते हैं"
+        },
+        {
+          "id": "D",
+          "text": "क्योंकि यह कानून के खिलाफ है"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
+    },
+    {
+      "id": "27",
+      "question": "सपनों को यथार्थ की 'पृथ्वी' पर उतारने का समाजशास्त्रीय अर्थ क्या है?",
+      "options": [
+        {
+          "id": "A",
+          "text": "सोते रहना"
+        },
+        {
+          "id": "B",
+          "text": "व्यक्ति के नवाचार (Innovation) और विचारों का उपयोग समाज की वास्तविक समस्याओं को सुलझाने में होना चाहिए"
+        },
+        {
+          "id": "C",
+          "text": "केवल हँसते रहना"
         },
         {
           "id": "D",
           "text": "झूठ बोलना"
         }
       ],
-      "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
-    },
-    {
-      "id": "18",
-      "question": "इस कहानी को पढ़कर विद्यार्थियों को क्या प्रेरणा मिलती है?",
-      "options": [
-        {
-          "id": "A",
-          "text": "अच्छे मित्र चुनने और मित्रता निभाने की।"
-        },
-        {
-          "id": "B",
-          "text": "मित्रों से दूरी बनाने की।"
-        },
-        {
-          "id": "C",
-          "text": "केवल स्वयं के बारे में सोचने की।"
-        },
-        {
-          "id": "D",
-          "text": "मित्रों से प्रतियोगिता करने की।"
-        }
-      ],
-      "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
-    },
-    {
-      "id": "19",
-      "question": "कहानी का उद्देश्य क्या है?",
-      "options": [
-        {
-          "id": "A",
-          "text": "सच्ची मित्रता के महत्व को समझाना।"
-        },
-        {
-          "id": "B",
-          "text": "इतिहास पढ़ाना।"
-        },
-        {
-          "id": "C",
-          "text": "विज्ञान समझाना।"
-        },
-        {
-          "id": "D",
-          "text": "व्यापार सिखाना।"
-        }
-      ],
-      "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
-    },
-    {
-      "id": "20",
-      "question": "कहानी का केंद्रीय संदेश किससे जुड़ा है?",
-      "options": [
-        {
-          "id": "A",
-          "text": "विश्वास, सहयोग और मानवीय संबंधों से"
-        },
-        {
-          "id": "B",
-          "text": "राजनीति से"
-        },
-        {
-          "id": "C",
-          "text": "प्रतियोगिता से"
-        },
-        {
-          "id": "D",
-          "text": "प्रसिद्धि से"
-        }
-      ],
-      "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
-    },
-    {
-      "id": "21",
-      "question": "'सच्चा मित्र' कहानी का सबसे महत्वपूर्ण संदेश क्या है?",
-      "options": [
-        {
-          "id": "A",
-          "text": "सच्ची मित्रता निस्वार्थ सहयोग, विश्वास और त्याग पर आधारित होती है।"
-        },
-        {
-          "id": "B",
-          "text": "मित्रता केवल लाभ के लिए होती है।"
-        },
-        {
-          "id": "C",
-          "text": "धन से अच्छे मित्र बनते हैं।"
-        },
-        {
-          "id": "D",
-          "text": "प्रसिद्धि मित्रता का आधार है।"
-        }
-      ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
-    },
-    {
-      "id": "22",
-      "question": "यदि मित्र आपकी गलती पर आपको सही सलाह दे, तो यह किस गुण का परिचायक है?",
-      "options": [
-        {
-          "id": "A",
-          "text": "सच्ची मित्रता और ईमानदारी"
-        },
-        {
-          "id": "B",
-          "text": "ईर्ष्या"
-        },
-        {
-          "id": "C",
-          "text": "स्वार्थ"
-        },
-        {
-          "id": "D",
-          "text": "अहंकार"
-        }
-      ],
-      "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
-    },
-    {
-      "id": "23",
-      "question": "कहानी में सच्चे मित्र का सबसे बड़ा गुण क्या है?",
-      "options": [
-        {
-          "id": "A",
-          "text": "कठिन समय में साथ निभाना"
-        },
-        {
-          "id": "B",
-          "text": "केवल सुख में साथ रहना"
-        },
-        {
-          "id": "C",
-          "text": "दूसरों से तुलना करना"
-        },
-        {
-          "id": "D",
-          "text": "प्रसिद्धि प्राप्त करना"
-        }
-      ],
-      "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
-    },
-    {
-      "id": "24",
-      "question": "यदि आपको इस कहानी का संदेश एक वाक्य में लिखना हो, तो सबसे उपयुक्त विकल्प कौन-सा होगा?",
-      "options": [
-        {
-          "id": "A",
-          "text": "सच्चा मित्र वही है जो हर परिस्थिति में आपका साथ दे और सही मार्ग दिखाए।"
-        },
-        {
-          "id": "B",
-          "text": "मित्रता केवल मनोरंजन के लिए होती है।"
-        },
-        {
-          "id": "C",
-          "text": "धनवान व्यक्ति ही अच्छा मित्र होता है।"
-        },
-        {
-          "id": "D",
-          "text": "मित्रता का जीवन में कोई महत्व नहीं है।"
-        }
-      ],
-      "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
-    },
-    {
-      "id": "25",
-      "question": "यह कहानी विद्यार्थियों के व्यक्तित्व विकास में कैसे सहायक है?",
-      "options": [
-        {
-          "id": "A",
-          "text": "यह विश्वास, सहयोग, सहानुभूति और जिम्मेदारी की भावना विकसित करती है।"
-        },
-        {
-          "id": "B",
-          "text": "यह केवल मित्रों की संख्या बढ़ाने की प्रेरणा देती है।"
-        },
-        {
-          "id": "C",
-          "text": "यह केवल मनोरंजन करती है।"
-        },
-        {
-          "id": "D",
-          "text": "यह केवल भाषा सिखाती है।"
-        }
-      ],
-      "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
-    },
-    {
-      "id": "26",
-      "question": "कहानी का कौन-सा पक्ष सामाजिक जीवन को मजबूत बनाता है?",
-      "options": [
-        {
-          "id": "A",
-          "text": "आपसी विश्वास और सहयोग"
-        },
-        {
-          "id": "B",
-          "text": "प्रतियोगिता"
-        },
-        {
-          "id": "C",
-          "text": "स्वार्थ"
-        },
-        {
-          "id": "D",
-          "text": "अलगाव"
-        }
-      ],
-      "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
-    },
-    {
-      "id": "27",
-      "question": "यदि समाज में सच्ची मित्रता की भावना बढ़े, तो क्या परिणाम होगा?",
-      "options": [
-        {
-          "id": "A",
-          "text": "सहयोग, विश्वास और सद्भाव बढ़ेगा।"
-        },
-        {
-          "id": "B",
-          "text": "विवाद बढ़ेंगे।"
-        },
-        {
-          "id": "C",
-          "text": "ईर्ष्या बढ़ेगी।"
-        },
-        {
-          "id": "D",
-          "text": "अविश्वास बढ़ेगा।"
-        }
-      ],
-      "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "28",
-      "question": "कहानी के अनुसार मित्र का सबसे महत्वपूर्ण दायित्व क्या है?",
+      "question": "प्रतीकात्मक रूप में 'पृथ्वी' किसका प्रतिनिधित्व करती है?",
       "options": [
         {
           "id": "A",
-          "text": "मित्र को सही रास्ता दिखाना और उसका मनोबल बढ़ाना"
+          "text": "मिट्टी का"
         },
         {
           "id": "B",
-          "text": "हर बात में उसकी हाँ में हाँ मिलाना"
+          "text": "यथार्थ, कठोर धरातल, और वास्तविक जीवन की व्यावहारिक चुनौतियों का"
         },
         {
           "id": "C",
-          "text": "उसकी गलतियों को बढ़ावा देना"
+          "text": "गोल आकार का"
         },
         {
           "id": "D",
-          "text": "केवल मनोरंजन करना"
+          "text": "पूरे ब्रह्मांड का"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "29",
-      "question": "इस कहानी का मुख्य उद्देश्य क्या है?",
+      "question": "शिक्षा के क्षेत्र में इस कविता को पढ़ाने का सबसे बड़ा उद्देश्य क्या है?",
       "options": [
         {
           "id": "A",
-          "text": "सच्ची मित्रता के आदर्शों और मानवीय मूल्यों का महत्व समझाना।"
+          "text": "बच्चों को डराना"
         },
         {
           "id": "B",
-          "text": "केवल मित्रता की परिभाषा बताना।"
+          "text": "बच्चों को रटने की विद्या से निकालकर उन्हें अपने लक्ष्य तय करने और उनके लिए बेखौफ प्रयास करने का हौसला देना"
         },
         {
           "id": "C",
-          "text": "केवल विद्यालय जीवन का वर्णन करना।"
+          "text": "बच्चों को पीटना"
         },
         {
           "id": "D",
-          "text": "केवल कहानी सुनाना।"
+          "text": "बच्चों से बात नहीं करना"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     },
     {
       "id": "30",
-      "question": "इस कहानी को पढ़ने के बाद विद्यार्थी के व्यवहार में सबसे उपयुक्त परिवर्तन क्या होगा?",
+      "question": "\"जा, तेरे स्वप्न बड़े हों\" - इस पंक्ति में 'जा' शब्द किस भावना का सूचक है?",
       "options": [
         {
           "id": "A",
-          "text": "वह अपने मित्रों के प्रति अधिक ईमानदार, सहयोगी और जिम्मेदार बनेगा।"
+          "text": "क्रोध और तिरस्कार का"
         },
         {
           "id": "B",
-          "text": "वह केवल लाभ देखकर मित्र बनाएगा।"
+          "text": "एक अभिभावक या गुरु की उस आत्मीय अनुमति और विश्वास का, जो बच्चे को दुनिया फतह करने के लिए स्वतंत्र करता है"
         },
         {
           "id": "C",
-          "text": "वह मित्रों से दूरी बनाएगा।"
+          "text": "भगाने का"
         },
         {
           "id": "D",
-          "text": "वह छोटी-छोटी बातों पर मित्रता तोड़ देगा।"
+          "text": "अनदेखा करने का"
         }
       ],
       "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "सही उत्तर A है।"
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT Hindi Class 8 curriculum."
     }
   ]
 }

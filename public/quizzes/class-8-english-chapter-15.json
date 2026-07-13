@@ -1,0 +1,754 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "question": "Who is the central figure of this chapter?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Kalpana Chawla"
+        },
+        {
+          "id": "B",
+          "text": "Bibha Chowdhuri"
+        },
+        {
+          "id": "C",
+          "text": "Sunita Williams"
+        },
+        {
+          "id": "D",
+          "text": "Marie Curie"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "2",
+      "question": "What was Bibha Chowdhuri's profession?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A doctor"
+        },
+        {
+          "id": "B",
+          "text": "India's first woman physicist"
+        },
+        {
+          "id": "C",
+          "text": "A mathematician"
+        },
+        {
+          "id": "D",
+          "text": "An astronaut"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "3",
+      "question": "Where was Bibha Chowdhuri born?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Delhi"
+        },
+        {
+          "id": "B",
+          "text": "Kolkata"
+        },
+        {
+          "id": "C",
+          "text": "Mumbai"
+        },
+        {
+          "id": "D",
+          "text": "Chennai"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "4",
+      "question": "Which famous Nobel Laureate did she work under at the University of Manchester?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Albert Einstein"
+        },
+        {
+          "id": "B",
+          "text": "Patrick M.S. Blackett"
+        },
+        {
+          "id": "C",
+          "text": "C.V. Raman"
+        },
+        {
+          "id": "D",
+          "text": "Isaac Newton"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "5",
+      "question": "What subatomic particle did Bibha Chowdhuri help discover?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Electron"
+        },
+        {
+          "id": "B",
+          "text": "Pi-meson"
+        },
+        {
+          "id": "C",
+          "text": "Proton"
+        },
+        {
+          "id": "D",
+          "text": "Neutron"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "6",
+      "question": "Who nominated her for the Nobel Prize in 1950?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Homi Bhabha"
+        },
+        {
+          "id": "B",
+          "text": "Erwin Schrödinger"
+        },
+        {
+          "id": "C",
+          "text": "Vikram Sarabhai"
+        },
+        {
+          "id": "D",
+          "text": "Jawaharlal Nehru"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "7",
+      "question": "Which institute did she join as the first woman faculty member upon returning to India?",
+      "options": [
+        {
+          "id": "A",
+          "text": "IIT"
+        },
+        {
+          "id": "B",
+          "text": "TIFR (Tata Institute of Fundamental Research)"
+        },
+        {
+          "id": "C",
+          "text": "ISRO"
+        },
+        {
+          "id": "D",
+          "text": "Bose Institute"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "8",
+      "question": "Did she win the Nobel Prize she was nominated for?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes"
+        },
+        {
+          "id": "B",
+          "text": "No"
+        },
+        {
+          "id": "C",
+          "text": "She refused it"
+        },
+        {
+          "id": "D",
+          "text": "She won it twice"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "9",
+      "question": "What did the International Astronomical Union name after her in 2019?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A comet"
+        },
+        {
+          "id": "B",
+          "text": "A star (HD 86081)"
+        },
+        {
+          "id": "C",
+          "text": "A planet"
+        },
+        {
+          "id": "D",
+          "text": "A galaxy"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "10",
+      "question": "What does the name \"Bibha\" mean?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Brave woman"
+        },
+        {
+          "id": "B",
+          "text": "Beam of light"
+        },
+        {
+          "id": "C",
+          "text": "Morning star"
+        },
+        {
+          "id": "D",
+          "text": "Dark night"
+        }
+      ],
+      "difficulty": "Easy",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "11",
+      "question": "Why is Bibha Chowdhuri considered a pioneer?",
+      "options": [
+        {
+          "id": "A",
+          "text": "She traveled to space"
+        },
+        {
+          "id": "B",
+          "text": "She broke gender barriers to become the first Indian woman in high-energy particle physics"
+        },
+        {
+          "id": "C",
+          "text": "She invented the telescope"
+        },
+        {
+          "id": "D",
+          "text": "She started a hospital"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "12",
+      "question": "Why was her research on cosmic rays significant?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It helped discover new planets"
+        },
+        {
+          "id": "B",
+          "text": "It made crucial contributions to the understanding of subatomic particles (pi-mesons)"
+        },
+        {
+          "id": "C",
+          "text": "It proved the earth was round"
+        },
+        {
+          "id": "D",
+          "text": "It cured diseases"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "13",
+      "question": "What does Erwin Schrödinger's nomination tell us about her work?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It was average"
+        },
+        {
+          "id": "B",
+          "text": "It was of exceptional quality and internationally respected at the highest levels"
+        },
+        {
+          "id": "C",
+          "text": "He was her relative"
+        },
+        {
+          "id": "D",
+          "text": "It was a mistake"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "14",
+      "question": "Why did she conduct experiments in the Kolar Gold Mines?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To find gold"
+        },
+        {
+          "id": "B",
+          "text": "To study cosmic rays deep underground"
+        },
+        {
+          "id": "C",
+          "text": "To hide from the press"
+        },
+        {
+          "id": "D",
+          "text": "To dig a well"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "15",
+      "question": "Did Bibha Chowdhuri work for fame and awards?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Yes, constantly"
+        },
+        {
+          "id": "B",
+          "text": "No, she worked out of a pure love for science and remained in the background"
+        },
+        {
+          "id": "C",
+          "text": "Only for money"
+        },
+        {
+          "id": "D",
+          "text": "Only for international awards"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "16",
+      "question": "What was the public perception of women scientists in the 1940s, based on the press calling her a \"New Woman Scientist\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They were common"
+        },
+        {
+          "id": "B",
+          "text": "They were a novelty and rare, showing society doubted women's scientific capabilities"
+        },
+        {
+          "id": "C",
+          "text": "They were hated"
+        },
+        {
+          "id": "D",
+          "text": "They were all famous"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "17",
+      "question": "Why did she remain largely unrecognized during her lifetime?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Her work was bad"
+        },
+        {
+          "id": "B",
+          "text": "She faced double barriers: being a woman in a male-dominated era and working quietly without seeking visibility"
+        },
+        {
+          "id": "C",
+          "text": "She hid her research"
+        },
+        {
+          "id": "D",
+          "text": "She didn't publish anything"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "18",
+      "question": "How does naming a star after her act as a symbolic recognition?",
+      "options": [
+        {
+          "id": "A",
+          "text": "It shows she liked astronomy"
+        },
+        {
+          "id": "B",
+          "text": "It immortalizes her and reflects her name's meaning (\"beam of light\") guiding future scientists"
+        },
+        {
+          "id": "C",
+          "text": "It means she owned a star"
+        },
+        {
+          "id": "D",
+          "text": "It was a random choice"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "19",
+      "question": "How do the roles of women in ISRO today connect to Bibha's legacy?",
+      "options": [
+        {
+          "id": "A",
+          "text": "They don't"
+        },
+        {
+          "id": "B",
+          "text": "Women leading ISRO missions today stand on the foundation of pioneers like Bibha who broke initial barriers in STEM"
+        },
+        {
+          "id": "C",
+          "text": "ISRO women study pi-mesons"
+        },
+        {
+          "id": "D",
+          "text": "Bibha founded ISRO"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "20",
+      "question": "What is the writer's purpose in this text?",
+      "options": [
+        {
+          "id": "A",
+          "text": "To teach physics equations"
+        },
+        {
+          "id": "B",
+          "text": "To highlight an unsung hero and inspire young girls to pursue STEM despite challenges"
+        },
+        {
+          "id": "C",
+          "text": "To criticize the Nobel committee"
+        },
+        {
+          "id": "D",
+          "text": "To talk about stars"
+        }
+      ],
+      "difficulty": "Medium",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "21",
+      "question": "What does the acronym STEM stand for?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Space, Technology, Earth, Math"
+        },
+        {
+          "id": "B",
+          "text": "Science, Technology, Engineering, and Mathematics"
+        },
+        {
+          "id": "C",
+          "text": "Stars, Telescopes, Energy, Mechanics"
+        },
+        {
+          "id": "D",
+          "text": "Social, Teaching, English, Math"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "22",
+      "question": "The term \"pioneer\" in this context refers to someone who:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Travels in a covered wagon"
+        },
+        {
+          "id": "B",
+          "text": "Is among the first to explore or settle a new area of research/enterprise"
+        },
+        {
+          "id": "C",
+          "text": "Builds machines"
+        },
+        {
+          "id": "D",
+          "text": "Wins awards"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "23",
+      "question": "What does it mean that she faced \"double barriers\"?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Two physical walls"
+        },
+        {
+          "id": "B",
+          "text": "Navigating both gender discrimination and the general lack of recognition for scientists in a developing nation"
+        },
+        {
+          "id": "C",
+          "text": "Two difficult exams"
+        },
+        {
+          "id": "D",
+          "text": "Language and age barriers"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "24",
+      "question": "Bibha being referred to as a \"beacon\" uses which literary device?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Metaphor (representing hope and guidance)"
+        },
+        {
+          "id": "B",
+          "text": "Simile"
+        },
+        {
+          "id": "C",
+          "text": "Irony"
+        },
+        {
+          "id": "D",
+          "text": "Personification"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "A",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "25",
+      "question": "The establishment of a \"chair professorship\" in her name is a form of:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Punishment"
+        },
+        {
+          "id": "B",
+          "text": "Posthumous academic honor and institutional recognition"
+        },
+        {
+          "id": "C",
+          "text": "Furniture design"
+        },
+        {
+          "id": "D",
+          "text": "Political campaign"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "26",
+      "question": "Which phrase best describes Bibha's attitude towards her work?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fame-hungry"
+        },
+        {
+          "id": "B",
+          "text": "Persistent, dedicated, and characterized by quiet strength"
+        },
+        {
+          "id": "C",
+          "text": "Lazy and unmotivated"
+        },
+        {
+          "id": "D",
+          "text": "Highly competitive and aggressive"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "27",
+      "question": "The contrast between her groundbreaking work (Nobel nomination) and her obscurity highlights:",
+      "options": [
+        {
+          "id": "A",
+          "text": "The flawlessness of history"
+        },
+        {
+          "id": "B",
+          "text": "Systemic gender biases in the historical recording of science"
+        },
+        {
+          "id": "C",
+          "text": "That physics is boring"
+        },
+        {
+          "id": "D",
+          "text": "That she was a bad scientist"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "28",
+      "question": "\"Cosmic rays\" are defined as:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Light from a flashlight"
+        },
+        {
+          "id": "B",
+          "text": "High-energy subatomic particles that travel through space at nearly the speed of light"
+        },
+        {
+          "id": "C",
+          "text": "Rays of the sun"
+        },
+        {
+          "id": "D",
+          "text": "X-rays"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "29",
+      "question": "The renaming of HD 86081 to \"Bibha\" was done by which organization?",
+      "options": [
+        {
+          "id": "A",
+          "text": "NASA"
+        },
+        {
+          "id": "B",
+          "text": "International Astronomical Union (IAU)"
+        },
+        {
+          "id": "C",
+          "text": "ISRO"
+        },
+        {
+          "id": "D",
+          "text": "United Nations"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    },
+    {
+      "id": "30",
+      "question": "The overarching theme of this biographical piece is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "The ease of scientific discovery"
+        },
+        {
+          "id": "B",
+          "text": "Empowerment, the struggle for recognition, and the enduring legacy of women in science"
+        },
+        {
+          "id": "C",
+          "text": "The history of Kolkata"
+        },
+        {
+          "id": "D",
+          "text": "How to build a laboratory"
+        }
+      ],
+      "difficulty": "Hard",
+      "correctAnswerId": "B",
+      "explanation": "Please refer to NCERT English Class 8 curriculum."
+    }
+  ]
+}

@@ -1,754 +1,392 @@
-{
-  "questions": [
-    {
-      "id": "1",
-      "question": "What does 'reshaping India's political map' mainly refer to?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Reorganisation of states and Union Territories"
-        },
-        {
-          "id": "B",
-          "text": "Changes in mountains"
-        },
-        {
-          "id": "C",
-          "text": "Changes in rivers"
-        },
-        {
-          "id": "D",
-          "text": "Changes in climate"
-        }
-      ],
-      "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
-    },
-    {
-      "id": "2",
-      "question": "After independence, many Indian states were reorganised mainly on the basis of _____.",
-      "options": [
-        {
-          "id": "A",
-          "text": "Language"
-        },
-        {
-          "id": "B",
-          "text": "Religion"
-        },
-        {
-          "id": "C",
-          "text": "Climate"
-        },
-        {
-          "id": "D",
-          "text": "Population density only"
-        }
-      ],
-      "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
-    },
-    {
-      "id": "3",
-      "question": "Which year is associated with the States Reorganisation Act?",
-      "options": [
-        {
-          "id": "A",
-          "text": "1956"
-        },
-        {
-          "id": "B",
-          "text": "1947"
-        },
-        {
-          "id": "C",
-          "text": "1950"
-        },
-        {
-          "id": "D",
-          "text": "1962"
-        }
-      ],
-      "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
-    },
-    {
-      "id": "4",
-      "question": "What is the capital of India?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Delhi"
-        },
-        {
-          "id": "B",
-          "text": "Mumbai"
-        },
-        {
-          "id": "C",
-          "text": "Chennai"
-        },
-        {
-          "id": "D",
-          "text": "Kolkata"
-        }
-      ],
-      "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
-    },
-    {
-      "id": "5",
-      "question": "Which part of India is directly governed by the Central Government?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Union Territory"
-        },
-        {
-          "id": "B",
-          "text": "State"
-        },
-        {
-          "id": "C",
-          "text": "District"
-        },
-        {
-          "id": "D",
-          "text": "Village"
-        }
-      ],
-      "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
-    },
-    {
-      "id": "6",
-      "question": "Which document provides the process for creating new states in India?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Constitution of India"
-        },
-        {
-          "id": "B",
-          "text": "School rule book"
-        },
-        {
-          "id": "C",
-          "text": "State textbook"
-        },
-        {
-          "id": "D",
-          "text": "Election manifesto"
-        }
-      ],
-      "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
-    },
-    {
-      "id": "7",
-      "question": "India is known as a _____.",
-      "options": [
-        {
-          "id": "A",
-          "text": "Union of States"
-        },
-        {
-          "id": "B",
-          "text": "Monarchy"
-        },
-        {
-          "id": "C",
-          "text": "Dictatorship"
-        },
-        {
-          "id": "D",
-          "text": "Confederation"
-        }
-      ],
-      "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
-    },
-    {
-      "id": "8",
-      "question": "Why were states reorganised after independence?",
-      "options": [
-        {
-          "id": "A",
-          "text": "To improve administration and respect linguistic identities"
-        },
-        {
-          "id": "B",
-          "text": "To reduce the number of citizens"
-        },
-        {
-          "id": "C",
-          "text": "To stop elections"
-        },
-        {
-          "id": "D",
-          "text": "To change the climate"
-        }
-      ],
-      "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
-    },
-    {
-      "id": "9",
-      "question": "Which institution has the power to create a new state?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Parliament"
-        },
-        {
-          "id": "B",
-          "text": "Gram Panchayat"
-        },
-        {
-          "id": "C",
-          "text": "Municipal Corporation"
-        },
-        {
-          "id": "D",
-          "text": "District Court"
-        }
-      ],
-      "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
-    },
-    {
-      "id": "10",
-      "question": "The chapter mainly explains _____.",
-      "options": [
-        {
-          "id": "A",
-          "text": "How India's political boundaries changed after independence"
-        },
-        {
-          "id": "B",
-          "text": "Ancient Indian kingdoms"
-        },
-        {
-          "id": "C",
-          "text": "Weather and climate"
-        },
-        {
-          "id": "D",
-          "text": "Trade and markets"
-        }
-      ],
-      "difficulty": "Easy",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
-    },
-    {
-      "id": "11",
-      "question": "Why was the States Reorganisation Act, 1956 important?",
-      "options": [
-        {
-          "id": "A",
-          "text": "It reorganised states mainly on linguistic grounds."
-        },
-        {
-          "id": "B",
-          "text": "It abolished all state governments."
-        },
-        {
-          "id": "C",
-          "text": "It ended democracy in India."
-        },
-        {
-          "id": "D",
-          "text": "It removed the Constitution."
-        }
-      ],
-      "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
-    },
-    {
-      "id": "12",
-      "question": "Why is linguistic reorganisation considered important?",
-      "options": [
-        {
-          "id": "A",
-          "text": "It helped people administer states in their own language while maintaining national unity."
-        },
-        {
-          "id": "B",
-          "text": "It divided the country permanently."
-        },
-        {
-          "id": "C",
-          "text": "It reduced education."
-        },
-        {
-          "id": "D",
-          "text": "It discouraged communication."
-        }
-      ],
-      "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
-    },
-    {
-      "id": "13",
-      "question": "What is the difference between a State and a Union Territory?",
-      "options": [
-        {
-          "id": "A",
-          "text": "States have greater constitutional powers, while Union Territories are administered differently under the Union Government."
-        },
-        {
-          "id": "B",
-          "text": "Both have exactly the same administrative structure."
-        },
-        {
-          "id": "C",
-          "text": "Union Territories have no administration."
-        },
-        {
-          "id": "D",
-          "text": "States are governed directly by villages."
-        }
-      ],
-      "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
-    },
-    {
-      "id": "14",
-      "question": "Why can new states be created in India?",
-      "options": [
-        {
-          "id": "A",
-          "text": "To improve governance and meet administrative or regional needs."
-        },
-        {
-          "id": "B",
-          "text": "To reduce democracy."
-        },
-        {
-          "id": "C",
-          "text": "To change international borders."
-        },
-        {
-          "id": "D",
-          "text": "To remove local governments."
-        }
-      ],
-      "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
-    },
-    {
-      "id": "15",
-      "question": "Which constitutional principle allows the reorganisation of states?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Flexibility within the federal structure"
-        },
-        {
-          "id": "B",
-          "text": "Rule by monarchy"
-        },
-        {
-          "id": "C",
-          "text": "Military governance"
-        },
-        {
-          "id": "D",
-          "text": "Colonial administration"
-        }
-      ],
-      "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
-    },
-    {
-      "id": "16",
-      "question": "Which statement about India's political map is correct?",
-      "options": [
-        {
-          "id": "A",
-          "text": "It has changed over time to improve administration and representation."
-        },
-        {
-          "id": "B",
-          "text": "It has never changed since independence."
-        },
-        {
-          "id": "C",
-          "text": "States cannot be reorganised."
-        },
-        {
-          "id": "D",
-          "text": "Parliament has no role in reorganisation."
-        }
-      ],
-      "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
-    },
-    {
-      "id": "17",
-      "question": "Why is cooperative federalism important?",
-      "options": [
-        {
-          "id": "A",
-          "text": "It encourages cooperation between the Union and State Governments."
-        },
-        {
-          "id": "B",
-          "text": "It removes state governments."
-        },
-        {
-          "id": "C",
-          "text": "It abolishes Parliament."
-        },
-        {
-          "id": "D",
-          "text": "It prevents development."
-        }
-      ],
-      "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
-    },
-    {
-      "id": "18",
-      "question": "Which value is reflected by the reorganisation of states?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Unity in diversity"
-        },
-        {
-          "id": "B",
-          "text": "Regional conflict"
-        },
-        {
-          "id": "C",
-          "text": "Political isolation"
-        },
-        {
-          "id": "D",
-          "text": "Discrimination"
-        }
-      ],
-      "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
-    },
-    {
-      "id": "19",
-      "question": "Why should administrative boundaries sometimes change?",
-      "options": [
-        {
-          "id": "A",
-          "text": "To improve governance and meet changing social and economic needs."
-        },
-        {
-          "id": "B",
-          "text": "To reduce public services."
-        },
-        {
-          "id": "C",
-          "text": "To eliminate local administration."
-        },
-        {
-          "id": "D",
-          "text": "To discourage development."
-        }
-      ],
-      "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
-    },
-    {
-      "id": "20",
-      "question": "What is the central idea of this chapter?",
-      "options": [
-        {
-          "id": "A",
-          "text": "India's political map has evolved through constitutional processes to improve governance while preserving national unity."
-        },
-        {
-          "id": "B",
-          "text": "India's boundaries never changed after independence."
-        },
-        {
-          "id": "C",
-          "text": "States are created without constitutional procedures."
-        },
-        {
-          "id": "D",
-          "text": "Language has no role in state reorganisation."
-        }
-      ],
-      "difficulty": "Medium",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
-    },
-    {
-      "id": "21",
-      "question": "Why is the reorganisation of states considered an example of a flexible Constitution?",
-      "options": [
-        {
-          "id": "A",
-          "text": "It allows peaceful constitutional changes to improve governance while maintaining national unity."
-        },
-        {
-          "id": "B",
-          "text": "It prevents all changes to state boundaries."
-        },
-        {
-          "id": "C",
-          "text": "It removes the role of Parliament."
-        },
-        {
-          "id": "D",
-          "text": "It weakens democracy."
-        }
-      ],
-      "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
-    },
-    {
-      "id": "22",
-      "question": "If India had never reorganised its states after independence, what would most likely have happened?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Some administrative and linguistic demands would have remained unresolved."
-        },
-        {
-          "id": "B",
-          "text": "Democracy would have ended immediately."
-        },
-        {
-          "id": "C",
-          "text": "The Constitution would have become invalid."
-        },
-        {
-          "id": "D",
-          "text": "Elections would have stopped permanently."
-        }
-      ],
-      "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
-    },
-    {
-      "id": "23",
-      "question": "A region with a distinct language and administrative needs is given statehood through constitutional procedures. Which democratic principle is demonstrated?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Responsive and constitutional governance"
-        },
-        {
-          "id": "B",
-          "text": "Military rule"
-        },
-        {
-          "id": "C",
-          "text": "Colonial administration"
-        },
-        {
-          "id": "D",
-          "text": "Dictatorship"
-        }
-      ],
-      "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
-    },
-    {
-      "id": "24",
-      "question": "Why does Parliament have the authority to create or reorganise states?",
-      "options": [
-        {
-          "id": "A",
-          "text": "To ensure that changes are made through constitutional and democratic procedures."
-        },
-        {
-          "id": "B",
-          "text": "To change international borders freely."
-        },
-        {
-          "id": "C",
-          "text": "To abolish federalism."
-        },
-        {
-          "id": "D",
-          "text": "To eliminate state governments."
-        }
-      ],
-      "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
-    },
-    {
-      "id": "25",
-      "question": "Which statement best explains India's federal system?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Powers are shared between the Union Government and the State Governments under the Constitution."
-        },
-        {
-          "id": "B",
-          "text": "Only the Union Government has all powers."
-        },
-        {
-          "id": "C",
-          "text": "States function without the Constitution."
-        },
-        {
-          "id": "D",
-          "text": "Local governments control Parliament."
-        }
-      ],
-      "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
-    },
-    {
-      "id": "26",
-      "question": "A new state is created to improve administration in a large region. Which objective is being achieved?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Better governance and efficient public administration"
-        },
-        {
-          "id": "B",
-          "text": "Reduction of democracy"
-        },
-        {
-          "id": "C",
-          "text": "Elimination of local representation"
-        },
-        {
-          "id": "D",
-          "text": "Political instability"
-        }
-      ],
-      "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
-    },
-    {
-      "id": "27",
-      "question": "Which lesson from this chapter is most relevant today?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Democratic societies can adapt peacefully through constitutional methods while respecting diversity."
-        },
-        {
-          "id": "B",
-          "text": "Administrative changes should never be made."
-        },
-        {
-          "id": "C",
-          "text": "Diversity weakens national unity."
-        },
-        {
-          "id": "D",
-          "text": "Federalism discourages development."
-        }
-      ],
-      "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
-    },
-    {
-      "id": "28",
-      "question": "Why is unity in diversity important in the context of state reorganisation?",
-      "options": [
-        {
-          "id": "A",
-          "text": "India accommodates regional identities while remaining one united nation."
-        },
-        {
-          "id": "B",
-          "text": "Every state functions as a separate country."
-        },
-        {
-          "id": "C",
-          "text": "Diversity prevents national integration."
-        },
-        {
-          "id": "D",
-          "text": "Language determines citizenship."
-        }
-      ],
-      "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
-    },
-    {
-      "id": "29",
-      "question": "Which action best strengthens India's federal democracy?",
-      "options": [
-        {
-          "id": "A",
-          "text": "Respecting constitutional procedures while addressing regional aspirations."
-        },
-        {
-          "id": "B",
-          "text": "Ignoring constitutional provisions."
-        },
-        {
-          "id": "C",
-          "text": "Preventing cooperation between governments."
-        },
-        {
-          "id": "D",
-          "text": "Eliminating state governments."
-        }
-      ],
-      "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
-    },
-    {
-      "id": "30",
-      "question": "Which statement best summarizes the main idea of this chapter?",
-      "options": [
-        {
-          "id": "A",
-          "text": "India's political map has evolved through constitutional and democratic processes, balancing regional aspirations with national unity and effective governance."
-        },
-        {
-          "id": "B",
-          "text": "India's political boundaries have remained unchanged since 1947."
-        },
-        {
-          "id": "C",
-          "text": "Federalism weakens democracy."
-        },
-        {
-          "id": "D",
-          "text": "State reorganisation has no constitutional basis."
-        }
-      ],
-      "difficulty": "Hard",
-      "correctAnswerId": "A",
-      "explanation": "The correct answer is A."
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "question": "The Delhi Sultanate was established shortly after the defeat of which ruler in 1192 CE?",
+    "options": [
+      "Maharana Pratap",
+      "Prithviraj Chauhan",
+      "Krishnadevaraya",
+      "Rana Kumbha"
+    ],
+    "answer": 1,
+    "difficulty": "easy",
+    "rationale": "Tests foundational chronological knowledge marking the beginning of the Sultanate era in North India."
+  },
+  {
+    "id": 2,
+    "question": "Which of the following dynasties was NOT a part of the Delhi Sultanate?",
+    "options": [
+      "Mamluk",
+      "Khilji",
+      "Lodi",
+      "Mughal"
+    ],
+    "answer": 3,
+    "difficulty": "easy",
+    "rationale": "Differentiates the five Turkic-Afghan Sultanate dynasties from the later Central Asian Mughal Empire."
+  },
+  {
+    "id": 3,
+    "question": "Who founded the Vijayanagara Empire in the 14th century?",
+    "options": [
+      "Akbar and Babur",
+      "Harihara and Bukka",
+      "Rana Kumbha and Shivaji",
+      "Qutub-ud-din Aibak"
+    ],
+    "answer": 1,
+    "difficulty": "easy",
+    "rationale": "Identifies the founders of the powerful southern empire that rivaled the Deccan Sultanates."
+  },
+  {
+    "id": 4,
+    "question": "Which Mughal Emperor is renowned for promoting the doctrine of sulh-i-kul (peace with all)?",
+    "options": [
+      "Babur",
+      "Humayun",
+      "Akbar",
+      "Aurangzeb"
+    ],
+    "answer": 2,
+    "difficulty": "easy",
+    "rationale": "Highlights Akbar's inclusive religious and political policies that stabilized his vast empire."
+  },
+  {
+    "id": 5,
+    "question": "In 1526, Babur established the Mughal Empire by winning which major conflict?",
+    "options": [
+      "Battle of Talikota",
+      "Battle of Saraighat",
+      "First Battle of Panipat",
+      "Battle of Haldighati"
+    ],
+    "answer": 2,
+    "difficulty": "easy",
+    "rationale": "Identifies the pivotal battle that ended the Lodi dynasty and initiated Mughal rule."
+  },
+  {
+    "id": 6,
+    "question": "Which southern kingdom remained fiercely independent for a long period, resisting early Delhi Sultanate advances?",
+    "options": [
+      "The Mamluks",
+      "The Hoysalas",
+      "The Lodis",
+      "The Ahoms"
+    ],
+    "answer": 1,
+    "difficulty": "easy",
+    "rationale": "Recognizes regional resistance, specifically the Hoysalas in present-day Karnataka."
+  },
+  {
+    "id": 7,
+    "question": "Which ruler disastrously shifted his capital from Delhi to Daulatabad, causing great hardship?",
+    "options": [
+      "Ala-ud-din Khilji",
+      "Muhammad bin Tughlaq",
+      "Babur",
+      "Ibrahim Lodi"
+    ],
+    "answer": 1,
+    "difficulty": "easy",
+    "rationale": "Tests knowledge of Muhammad bin Tughlaq's poorly executed administrative experiments."
+  },
+  {
+    "id": 8,
+    "question": "The Battle of Saraighat (1671) was a significant victory for which kingdom against the invading Mughals?",
+    "options": [
+      "The Rajputs",
+      "The Ahom Kingdom",
+      "The Vijayanagara Empire",
+      "The Bahmani Sultanate"
+    ],
+    "answer": 1,
+    "difficulty": "easy",
+    "rationale": "Highlights the successful defense of Assam led by the Ahom commander Lachit Borphukan."
+  },
+  {
+    "id": 9,
+    "question": "Under which famous ruler did the Vijayanagara Empire reach its peak in the 16th century?",
+    "options": [
+      "Krishnadevaraya",
+      "Rana Kumbha",
+      "Sher Shah Suri",
+      "Narasimhadeva I"
+    ],
+    "answer": 0,
+    "difficulty": "easy",
+    "rationale": "Identifies Krishnadevaraya as the zenith of Vijayanagara's military and cultural power."
+  },
+  {
+    "id": 10,
+    "question": "The famous Surya temple at Konark was built by which Eastern Ganga ruler to commemorate his victories?",
+    "options": [
+      "Akbar",
+      "Narasimhadeva I",
+      "Krishnadevaraya",
+      "Ala-ud-din Khilji"
+    ],
+    "answer": 1,
+    "difficulty": "easy",
+    "rationale": "Connects political military victories with the creation of monumental cultural heritage in Odisha."
+  },
+  {
+    "id": 11,
+    "question": "How did the Mansabdari system, introduced by Akbar, function administratively?",
+    "options": [
+      "Peasants gave crops directly to the king",
+      "Officers maintained a fixed number of troops and horses based on their assigned numerical rank",
+      "It was exclusively a naval strategy",
+      "It was a religious tax"
+    ],
+    "answer": 1,
+    "difficulty": "medium",
+    "rationale": "Evaluates understanding of the structured military and bureaucratic hierarchy that sustained the Mughal army."
+  },
+  {
+    "id": 12,
+    "question": "The \"Paik system\" utilized in the Ahom kingdom can best be described as:",
+    "options": [
+      "A trading guild for spices",
+      "A system where men were required to serve the state army or build infrastructure in exchange for land",
+      "A tax collected from temples",
+      "A method of stone masonry"
+    ],
+    "answer": 1,
+    "difficulty": "medium",
+    "rationale": "Explains how the Ahoms maintained a ready militia without permanent financial cost to the state."
+  },
+  {
+    "id": 13,
+    "question": "The Battle of Talikota in 1565 was historically significant because it resulted directly in:",
+    "options": [
+      "The establishment of the Delhi Sultanate",
+      "The destruction of the capital city and the subsequent fall of the Vijayanagara Empire",
+      "British rule in India",
+      "The defeat of the Ahoms"
+    ],
+    "answer": 1,
+    "difficulty": "medium",
+    "rationale": "Marks the turning point where the combined Deccan Sultanates shattered the power of Vijayanagara."
+  },
+  {
+    "id": 14,
+    "question": "What was the devastating outcome of Muhammad bin Tughlaq's introduction of \"token currency\"?",
+    "options": [
+      "It made the empire extremely wealthy",
+      "It created immense confusion in trade and encouraged widespread counterfeiting of copper coins",
+      "It successfully replaced gold",
+      "It was adopted globally"
+    ],
+    "answer": 1,
+    "difficulty": "medium",
+    "rationale": "Assesses understanding of early economic policies and the consequences of poorly implemented fiscal reforms."
+  },
+  {
+    "id": 15,
+    "question": "What crucial role did the Diwan play in the structure of Mughal administration?",
+    "options": [
+      "Chief of the military",
+      "Finance minister responsible for managing accounts, taxation, and revenue",
+      "Head of the royal household",
+      "Supreme religious leader"
+    ],
+    "answer": 1,
+    "difficulty": "medium",
+    "rationale": "Identifies specific administrative roles, highlighting the separation of financial and military powers."
+  },
+  {
+    "id": 16,
+    "question": "The powerful Bahmani Sultanate eventually fragmented into five independent states known collectively as the:",
+    "options": [
+      "Mamluk Dynasties",
+      "Deccan Sultanates",
+      "Rajput States",
+      "Eastern Gangas"
+    ],
+    "answer": 1,
+    "difficulty": "medium",
+    "rationale": "Traces the geopolitical evolution of the Deccan region leading up to the rise of the Marathas."
+  },
+  {
+    "id": 17,
+    "question": "Which statement best compares the political strategies of the early Delhi Sultanate and the Mughals under Akbar?",
+    "options": [
+      "Both relied entirely on religious persecution",
+      "The Sultanate used marriage alliances, while Mughals used brute force",
+      "Akbar actively used marriage alliances and inclusive administration, whereas the Sultanate treated local leaders mostly as conquered enemies",
+      "Both strictly avoided taxing peasants"
+    ],
+    "answer": 2,
+    "difficulty": "medium",
+    "rationale": "Requires students to contrast administrative philosophies and the evolution of empire-building strategies."
+  },
+  {
+    "id": 18,
+    "question": "What strategic geographic advantage helped the Ahoms resist Mughal conquest for an extended period?",
+    "options": [
+      "The largest cavalry in India",
+      "Utilization of dense forests, rivers, and guerrilla warfare, which neutralized large conventional armies",
+      "European mercenaries",
+      "Massive desert fortresses"
+    ],
+    "answer": 1,
+    "difficulty": "medium",
+    "rationale": "Connects geography with military strategy, showing how terrain dictates the success of defense."
+  },
+  {
+    "id": 19,
+    "question": "Why were the invasions from Central Asia between the 11th and 17th centuries considered \"unprecedented\" in Indian history?",
+    "options": [
+      "They were the first naval invasions",
+      "They radically reshaped political boundaries, toppled ancient kingdoms, and often imposed new religious ideologies by force",
+      "They brought democratic governance",
+      "They only targeted the coastline"
+    ],
+    "answer": 1,
+    "difficulty": "medium",
+    "rationale": "Analyzes the profound transformative and disruptive nature of these specific historical incursions."
+  },
+  {
+    "id": 20,
+    "question": "During the medieval period, despite frequent wars and political instability, how did Indian society maintain its economic resilience?",
+    "options": [
+      "By abandoning agriculture",
+      "Through strong localized temple economies, resilient trade guilds, and financial systems like the hundi",
+      "By migrating entirely to the mountains",
+      "By relying on foreign aid"
+    ],
+    "answer": 1,
+    "difficulty": "medium",
+    "rationale": "Demonstrates that societal and economic structures often survive and adapt despite high-level political turmoil."
+  },
+  {
+    "id": 21,
+    "question": "Which administrative reform under Akbar significantly boosted revenue collection and stabilized the agrarian economy?",
+    "options": [
+      "Abolishing the Diwan post",
+      "Todar Mal's system of detailed crop surveys, scientific land measurement, and fair tax calculation",
+      "The token currency system",
+      "Removing all agricultural taxes"
+    ],
+    "answer": 1,
+    "difficulty": "hard",
+    "rationale": "Evaluates knowledge of sophisticated economic reforms that provided a stable financial base for the Mughal Empire."
+  },
+  {
+    "id": 22,
+    "question": "How did the Jagirdari system function in direct relation to the Mansabdari system in the Mughal Empire?",
+    "options": [
+      "Jagirdars were religious scholars",
+      "Land grants (jagirs) were given to officers (mansabdars) as payment, allowing them to collect revenue to maintain their troops",
+      "Jagirs were independent rival kingdoms",
+      "It was the naval wing of the army"
+    ],
+    "answer": 1,
+    "difficulty": "hard",
+    "rationale": "Synthesizes the complex relationship between land ownership, military obligation, and state administration."
+  },
+  {
+    "id": 23,
+    "question": "Which term refers to the deliberate destruction of religious images or statues, a practice sometimes observed during the military campaigns of the Sultanate?",
+    "options": [
+      "Iconoclasm",
+      "Secularism",
+      "Syncretism",
+      "Feudalism"
+    ],
+    "answer": 0,
+    "difficulty": "hard",
+    "rationale": "Introduces advanced historical terminology related to religious and cultural conflict during conquests."
+  },
+  {
+    "id": 24,
+    "question": "What was a major socio-economic consequence of the Sultanate's reliance on plunder and heavy taxation to maintain their luxurious courts?",
+    "options": [
+      "A rapid increase in maritime trade",
+      "Severe disruption of local trade networks, agricultural production, and immense burden on the common peasantry",
+      "The eradication of rural poverty",
+      "Voluntary submission of all states"
+    ],
+    "answer": 1,
+    "difficulty": "hard",
+    "rationale": "Analyzes the negative trickle-down effects of imperial extravagance on grassroots economic stability."
+  },
+  {
+    "id": 25,
+    "question": "Mewar, under resilient rulers like Rana Kumbha, maintained its autonomy against the Delhi Sultanate primarily through:",
+    "options": [
+      "Signing treaties with the Portuguese",
+      "Adopting the Islamic faith",
+      "Exceptional leadership combined with a strategic network of strong, easily defensible hill forts",
+      "Paying massive annual tributes"
+    ],
+    "answer": 2,
+    "difficulty": "hard",
+    "rationale": "Highlights how regional powers leveraged topography and architectural engineering to defy larger empires."
+  },
+  {
+    "id": 26,
+    "question": "Why do modern historians prefer the neutral term \"image\" over \"idol\" when discussing Indian classical texts in the context of medieval invasions?",
+    "options": [
+      "\"Idol\" is a modern technological term",
+      "\"Idol\" carries a pejorative meaning in orthodox Abrahamic religions, whereas \"image\" accurately translates terms like murti without negative bias",
+      "Classical texts exclusively use English",
+      "Invaders explicitly demanded the word \"image\""
+    ],
+    "answer": 1,
+    "difficulty": "hard",
+    "rationale": "Explores historiography and the importance of objective, culturally sensitive language in historical documentation."
+  },
+  {
+    "id": 27,
+    "question": "Who was the powerful Mughal officer specifically responsible for managing military affairs, intelligence, and the assignment of troops?",
+    "options": [
+      "Mir Bakhshi",
+      "Khan-i-Saman",
+      "Sadr",
+      "Diwan"
+    ],
+    "answer": 0,
+    "difficulty": "hard",
+    "rationale": "Tests precise knowledge of the specialized bureaucratic roles that enabled the Mughals to control a vast subcontinent."
+  },
+  {
+    "id": 28,
+    "question": "The formation of the Khalsa by Guru Gobind Singh in 1699 was primarily a formalized response to:",
+    "options": [
+      "The invasion of the British East India Company",
+      "Severe religious persecution and political threats posed by the Mughal Empire, specifically the execution of Guru Tegh Bahadur by Aurangzeb",
+      "Succession disputes in the Maratha Empire",
+      "Vijayanagara economic policies"
+    ],
+    "answer": 1,
+    "difficulty": "hard",
+    "rationale": "Contextualizes the militarization of the Sikh community as a direct reaction to imperial oppression."
+  },
+  {
+    "id": 29,
+    "question": "The concept of sulh-i-kul promoted in Akbar’s court was operationalized through actions such as:",
+    "options": [
+      "Forced conversion of all subjects",
+      "Establishing a House of Translation for texts like the Mahabharata and encouraging open debates among scholars of all faiths",
+      "Isolating the court from Hindu traditions",
+      "Destroying regional identities"
+    ],
+    "answer": 1,
+    "difficulty": "hard",
+    "rationale": "Provides concrete examples of how philosophical tolerance was enacted through state-sponsored cultural synthesis."
+  },
+  {
+    "id": 30,
+    "question": "Which underlying geopolitical factor contributed most heavily to the eventual fragmentation of the Bahmani Sultanate?",
+    "options": [
+      "The arrival of the British in Bengal",
+      "Regional governors (tarafdars) accumulating too much local power and declaring autonomy from the central authority",
+      "Natural disasters destroying the capital",
+      "A peaceful merger with Vijayanagara"
+    ],
+    "answer": 1,
+    "difficulty": "hard",
+    "rationale": "Analyzes the inherent instability of highly decentralized feudal systems where provincial governors outgrow the center."
+  }
+]
