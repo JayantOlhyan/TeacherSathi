@@ -58,23 +58,23 @@ export default function Home() {
     <div className="min-h-screen flex flex-col font-sans bg-cream text-ink overflow-hidden transition-colors duration-200 relative">
 
       {/* Modern Premium Background Glow Orb */}
-      <div className="absolute top-[20%] left-1/2 -translate-x-1/2 -translate-y-1/2 w-[550px] h-[550px] bg-gradient-to-tr from-emerald-400/10 to-teal-400/5 rounded-full blur-3xl pointer-events-none z-0" />
+      <div className="absolute top-[20%] left-1/2 -translate-x-1/2 -translate-y-1/2 w-[min(100%,550px)] aspect-square bg-gradient-to-tr from-emerald-400/10 to-teal-400/5 rounded-full blur-3xl pointer-events-none z-0" />
 
       <main className="flex-1 flex flex-col items-center w-full relative z-10">
         {/* Hero Section */}
-        <section className="w-full py-20 px-4 sm:px-12 max-w-[1200px] mx-auto text-center">
-          <div className="max-w-4xl mx-auto space-y-8 flex flex-col items-center">
+        <section className="w-full py-[clamp(3rem,8vw,5rem)] px-[clamp(1rem,4vw,3rem)] max-w-[1200px] mx-auto text-center">
+          <div className="w-full max-w-4xl mx-auto space-y-8 flex flex-col items-center">
             <FadeIn delay={0}>
-              <h1 className="text-5xl sm:text-6xl lg:text-7xl font-black tracking-tight text-balance leading-tight text-slate-900 font-serif">
+              <h1 className="text-[clamp(2.5rem,6vw,4.5rem)] font-black tracking-tight text-balance leading-tight text-slate-900 font-serif">
                 Teachers ka Superpower.
                 <span className="block mt-2 bg-clip-text text-transparent bg-gradient-to-r from-emerald-600 to-teal-500 font-sans font-extrabold pb-2">
                   NCERT-Aligned AI Content
                 </span>
-                <span className="text-3xl sm:text-4xl lg:text-5xl font-black text-slate-500/80 block mt-2 font-sans">— Instantly.</span>
+                <span className="text-[clamp(1.75rem,4vw,3rem)] font-black text-slate-500/80 block mt-2 font-sans">— Instantly.</span>
               </h1>
             </FadeIn>
             <FadeIn delay={0.15}>
-              <p className="text-base sm:text-lg text-slate-600 max-w-2xl leading-relaxed font-medium">
+              <p className="text-[clamp(1rem,2vw,1.125rem)] text-slate-600 max-w-2xl leading-relaxed font-medium">
                 {t('subtitle')}
               </p>
             </FadeIn>
@@ -118,10 +118,10 @@ export default function Home() {
  
             {/* Trust Badges */}
             <FadeIn delay={0.45}>
-              <div className="flex flex-wrap items-center justify-center gap-4 pt-2 text-sm text-ink-3/70">
-                <span className="flex items-center gap-1.5"><Monitor className="w-4 h-4 text-brand" /> 75-inch Smart Screen Ready</span>
-                <span className="flex items-center gap-1.5"><Wifi className="w-4 h-4 text-emerald-600" /> No Hardware Required</span>
-                <span className="flex items-center gap-1.5"><BookOpen className="w-4 h-4 text-cyan-600" /> NCERT Class 6-10</span>
+              <div className="flex flex-wrap items-center justify-center gap-[clamp(0.5rem,2vw,1rem)] pt-2 text-sm text-ink-3/70">
+                <span className="flex items-center gap-1.5"><Monitor className="w-4 h-4 text-brand shrink-0" /> 75-inch Smart Screen Ready</span>
+                <span className="flex items-center gap-1.5"><Wifi className="w-4 h-4 text-emerald-600 shrink-0" /> No Hardware Required</span>
+                <span className="flex items-center gap-1.5"><BookOpen className="w-4 h-4 text-cyan-600 shrink-0" /> NCERT Class 6-10</span>
               </div>
             </FadeIn>
           </div>
@@ -144,8 +144,8 @@ export default function Home() {
         </div>
 
         {/* Feature Grid Section */}
-        <section id="features" className="w-full py-16 px-4 sm:px-8 max-w-[1200px] mx-auto">
-          <StaggerChildren className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6" staggerDelay={0.08}>
+        <section id="features" className="w-full py-[clamp(3rem,6vw,4rem)] px-[clamp(1rem,4vw,2rem)] max-w-[1200px] mx-auto">
+          <StaggerChildren className="grid grid-cols-[repeat(auto-fit,minmax(260px,1fr))] gap-[clamp(1rem,3vw,1.5rem)]" staggerDelay={0.08}>
             {features.map((feature, idx) => (
               <StaggerItem key={idx}>
                 <div className="bg-white border border-line rounded-2xl p-6 flex items-start gap-4 hover:shadow-card hover:-translate-y-1 transition-all duration-200 h-full">
@@ -163,14 +163,14 @@ export default function Home() {
         </section>
 
         {/* How It Works Section */}
-        <section id="how-it-works" className="w-full py-20 px-4 sm:px-8 max-w-[1200px] mx-auto">
+        <section id="how-it-works" className="w-full py-[clamp(3rem,8vw,5rem)] px-[clamp(1rem,4vw,2rem)] max-w-[1200px] mx-auto">
           <FadeIn className="text-center mb-14">
-            <h2 className="text-3xl sm:text-4xl font-extrabold mb-3 text-ink">
+            <h2 className="text-[clamp(1.875rem,4vw,2.25rem)] font-extrabold mb-3 text-ink">
               {tHiw('title')}
             </h2>
-            <p className="text-ink-3 max-w-xl mx-auto">{tHiw('subtitle')}</p>
+            <p className="text-[clamp(0.875rem,2vw,1rem)] text-ink-3 max-w-xl mx-auto">{tHiw('subtitle')}</p>
           </FadeIn>
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+          <div className="grid grid-cols-[repeat(auto-fit,minmax(250px,1fr))] gap-[clamp(1.5rem,4vw,2rem)]">
             {[
               {
                 step: "01",
@@ -211,9 +211,9 @@ export default function Home() {
         </section>
 
         {/* Mission Section */}
-        <section id="mission" className="w-full py-20 px-4 sm:px-8">
+        <section id="mission" className="w-full py-[clamp(3rem,8vw,5rem)] px-[clamp(1rem,4vw,2rem)]">
           <FadeIn className="max-w-[1000px] mx-auto">
-            <div className="relative bg-gradient-to-br from-[#E1A140] to-[#D97706] rounded-3xl p-10 sm:p-14 overflow-hidden shadow-lg">
+            <div className="relative bg-gradient-to-br from-[#E1A140] to-[#D97706] rounded-3xl p-[clamp(1.5rem,5vw,3.5rem)] overflow-hidden shadow-lg">
               <div className="absolute top-0 right-0 w-72 h-72 bg-white/10 rounded-full -translate-y-1/2 translate-x-1/2 animate-pulse-slow" />
               <div className="absolute bottom-0 left-0 w-48 h-48 bg-white/10 rounded-full translate-y-1/2 -translate-x-1/2" />
               <div className="relative z-10 text-white">
@@ -240,9 +240,9 @@ export default function Home() {
         </section>
 
         {/* Join Now CTA */}
-        <section className="w-full max-w-[1200px] mx-auto px-4 mb-16">
-          <div className="bg-brand rounded-3xl p-8 sm:p-12 flex flex-col md:flex-row items-center justify-between gap-6 shadow-brand">
-            <h2 className="text-2xl sm:text-3xl font-extrabold max-w-xl text-center md:text-left text-white leading-snug">
+        <section className="w-full max-w-[1200px] mx-auto px-[clamp(1rem,4vw,2rem)] mb-16">
+          <div className="bg-brand rounded-3xl p-[clamp(2rem,6vw,3rem)] flex flex-col md:flex-row items-center justify-between gap-6 shadow-brand">
+            <h2 className="text-[clamp(1.5rem,3vw,1.875rem)] font-extrabold max-w-xl text-center md:text-left text-white leading-snug">
               {tCta('heading')}
             </h2>
             {isAuthenticated ? (

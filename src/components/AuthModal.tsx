@@ -56,8 +56,8 @@ export default function AuthModal({ isOpen, onClose, onSuccess }: AuthModalProps
   };
 
   return (
-    <div className="fixed inset-0 z-[100] flex items-center justify-center bg-black/60 backdrop-blur-sm p-4 animate-fadeIn">
-      <div className="w-full max-w-4xl bg-cream border border-line rounded-3xl shadow-lg overflow-hidden flex flex-col md:flex-row relative min-h-[500px]">
+    <div className="fixed inset-0 z-[100] flex items-center justify-center bg-black/60 backdrop-blur-sm p-[clamp(0.5rem,2vw,1rem)] animate-fadeIn">
+      <div className="w-full max-w-4xl max-h-[95vh] overflow-y-auto bg-cream border border-line rounded-3xl shadow-lg flex flex-col md:flex-row relative min-h-[min(500px,90vh)]">
         
         {/* Close Button */}
         <button 
@@ -102,7 +102,7 @@ export default function AuthModal({ isOpen, onClose, onSuccess }: AuthModalProps
         </div>
 
         {/* Right Side: Form (Login/Signup switchable) */}
-        <div className="flex-1 flex flex-col justify-center p-8 sm:p-12 bg-white relative">
+        <div className="flex-1 flex flex-col justify-center p-[clamp(1.5rem,5vw,3rem)] bg-white relative">
           
           {success && (
             <div className="absolute inset-0 bg-white/95 z-20 flex flex-col items-center justify-center space-y-3 animate-fadeIn">

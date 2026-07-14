@@ -251,23 +251,23 @@ export default function Navbar() {
       }`}>
         <nav className={`w-full transition-all duration-300 ${
           isScrolled 
-            ? "max-w-7xl mx-auto bg-white/90 backdrop-blur-md border border-slate-200/60 rounded-2xl shadow-lg shadow-slate-900/5 px-4 sm:px-6 py-1.5" 
+            ? "max-w-7xl mx-auto bg-white/90 backdrop-blur-md border border-slate-200/60 rounded-2xl shadow-lg shadow-slate-900/5 px-[clamp(1rem,3vw,1.5rem)] py-1.5" 
             : "bg-[#F7F9F4]/90 backdrop-blur-md border-b border-slate-200/50 shadow-sm px-0 py-0"
         }`}>
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="max-w-7xl mx-auto px-[clamp(1rem,3vw,2rem)]">
             <div className={`w-full flex items-center justify-between transition-all duration-300 ${
               isScrolled ? "h-14" : "h-16"
             }`}>
               
               {/* Logo & Brand */}
               <div className="flex items-center gap-3">
-                <Link href={isAuthenticated ? "/dashboard" : "/"} className="flex items-center gap-2 hover:scale-[1.02] transition-all duration-200">
-                  <Image src="/logo-horizontal.png" alt="TeacherSathi AI Official Brand Header Logo for Indian Government School Teachers" width={140} height={32} className="h-8 w-auto object-contain" priority />
+                <Link href={isAuthenticated ? "/dashboard" : "/"} className="flex items-center gap-2 hover:scale-[1.02] transition-all duration-200 shrink-0">
+                  <Image src="/logo-horizontal.png" alt="TeacherSathi AI Official Brand Header Logo for Indian Government School Teachers" width={140} height={32} className="h-[clamp(1.5rem,4vw,2rem)] w-auto object-contain" priority />
                 </Link>
               </div>
 
             {/* Desktop Navigation */}
-            <div className="hidden md:flex items-center space-x-8 text-xs font-bold uppercase tracking-wider">
+            <div className="hidden md:flex items-center gap-[clamp(1rem,2vw,2rem)] text-[clamp(0.7rem,1vw,0.75rem)] font-bold uppercase tracking-wider">
               {isAuthenticated ? (
                 // Authenticated Links
                 <>
@@ -287,7 +287,7 @@ export default function Navbar() {
             </div>
 
             {/* Right Actions (Desktop) */}
-            <div className="hidden md:flex items-center gap-4">
+            <div className="hidden md:flex items-center gap-[clamp(0.5rem,1vw,1rem)] shrink-0">
               {isAuthenticated ? (
                 <div className="flex items-center gap-4">
                   {/* Sync Button */}
@@ -323,7 +323,7 @@ export default function Navbar() {
 
                     {/* Notifications Dropdown */}
                     {showNotifications && (
-                      <div className="absolute right-0 mt-3 w-80 bg-white border border-gray-150 rounded-2xl shadow-xl p-4 z-50 animate-fadeIn text-sm text-gray-700">
+                      <div className="absolute right-0 mt-3 w-[clamp(280px,90vw,320px)] bg-white border border-gray-150 rounded-2xl shadow-xl p-4 z-50 animate-fadeIn text-sm text-gray-700">
                         <div className="flex items-center justify-between border-b border-gray-100 pb-2 mb-3">
                           <h4 className="font-bold text-gray-800 text-base">Notifications</h4>
                           {hasUnread && (
@@ -380,7 +380,7 @@ export default function Navbar() {
 
                     {/* Profile Dropdown Menu */}
                     {isProfileOpen && (
-                      <div className="absolute right-0 mt-3 w-52 bg-white border border-gray-150 rounded-2xl shadow-xl py-2 z-50 animate-fadeIn text-sm text-gray-750">
+                      <div className="absolute right-0 mt-3 w-[clamp(200px,60vw,250px)] bg-white border border-gray-150 rounded-2xl shadow-xl py-2 z-50 animate-fadeIn text-sm text-gray-750">
                         <div className="px-4 py-2 border-b border-gray-100 mb-1.5 bg-gray-50/50">
                           <p className="font-extrabold text-gray-800 truncate">{displayName || "Teacher"}</p>
                           <p className="text-[10px] text-gray-400 font-bold tracking-wider uppercase mt-0.5">Teacher Session</p>
@@ -532,8 +532,8 @@ export default function Navbar() {
 
       {/* Account Settings Modal */}
       {mounted && isAccountOpen && createPortal(
-        <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/60 backdrop-blur-sm p-4 text-ink">
-          <div className="w-full max-w-md bg-white border border-gray-200 rounded-2xl shadow-xl p-6 relative animate-fadeIn text-sm text-ink-2">
+        <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/60 backdrop-blur-sm p-[clamp(0.5rem,2vw,1rem)] text-ink">
+          <div className="w-[min(100%-1rem,28rem)] max-w-none max-h-[90vh] overflow-y-auto bg-white border border-gray-200 rounded-2xl shadow-xl p-[clamp(1rem,4vw,1.5rem)] relative animate-fadeIn text-sm text-ink-2">
             <button 
               onClick={() => setIsAccountOpen(false)}
               className="absolute top-4 right-4 text-gray-400 hover:text-gray-600 transition-colors cursor-pointer"
@@ -640,8 +640,8 @@ export default function Navbar() {
 
       {/* Help & Support Modal */}
       {mounted && isHelpOpen && createPortal(
-        <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/60 backdrop-blur-sm p-4 text-ink">
-          <div className="w-full max-w-lg bg-white border border-gray-200 rounded-2xl shadow-xl p-6 relative animate-fadeIn text-sm text-ink-2">
+        <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/60 backdrop-blur-sm p-[clamp(0.5rem,2vw,1rem)] text-ink">
+          <div className="w-[min(100%-1rem,32rem)] max-w-none max-h-[90vh] overflow-y-auto bg-white border border-gray-200 rounded-2xl shadow-xl p-[clamp(1rem,4vw,1.5rem)] relative animate-fadeIn text-sm text-ink-2">
             <button 
               onClick={() => setIsHelpOpen(false)}
               className="absolute top-4 right-4 text-gray-400 hover:text-gray-600 transition-colors cursor-pointer"

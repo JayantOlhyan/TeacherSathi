@@ -85,8 +85,8 @@ export default function Footer() {
 
   return (
     <footer className="bg-[#0A2A17] text-white border-t border-white/10 relative">
-      <div className="max-w-[1200px] mx-auto px-4 sm:px-8 py-12">
-        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-10">
+      <div className="w-full max-w-[1200px] mx-auto px-[clamp(1rem,4vw,3rem)] py-[clamp(2rem,6vw,4rem)]">
+        <div className="grid grid-cols-[repeat(auto-fit,minmax(200px,1fr))] gap-[clamp(2rem,4vw,3rem)]">
 
           {/* Brand */}
           <div className="space-y-4">
@@ -185,9 +185,9 @@ export default function Footer() {
 
       {/* Modern, Beautiful Accessibility Overlay Modal */}
       {isAccessOpen && (
-        <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/60 backdrop-blur-sm p-4 animate-fadeIn">
+        <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/60 backdrop-blur-sm p-[clamp(0.5rem,2vw,1rem)] animate-fadeIn">
           <div 
-            className="w-full max-w-lg bg-[#14532D] border border-white/10 rounded-2xl shadow-2xl p-6 relative text-white"
+            className="w-[min(100%-1rem,32rem)] max-w-none bg-[#14532D] border border-white/10 rounded-2xl shadow-2xl p-[clamp(1rem,4vw,1.5rem)] relative text-white"
             role="dialog"
             aria-modal="true"
           >

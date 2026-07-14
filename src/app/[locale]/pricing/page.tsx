@@ -54,12 +54,12 @@ export default function PricingPage() {
 
   return (
     <div className="min-h-screen bg-cream bg-[radial-gradient(#C3CFBC_1px,transparent_1px)] [background-size:16px_16px] font-sans pb-20">
-      <main className="max-w-4xl mx-auto pt-16 px-4">
+      <main className="w-full max-w-4xl mx-auto pt-[clamp(2rem,6vw,4rem)] px-[clamp(1rem,4vw,2rem)]">
         <div className="text-center space-y-6 mb-12">
-          <h1 className="text-4xl sm:text-5xl font-bold text-[#111827]">
+          <h1 className="text-[clamp(2rem,5vw,3rem)] font-bold text-[#111827]">
             Choose Your Plan / <span className="font-sans">अपनी योजना चुनें</span>
           </h1>
-          <p className="text-sm sm:text-base text-gray-600 max-w-xl mx-auto leading-relaxed">
+          <p className="text-[clamp(0.875rem,2vw,1rem)] text-gray-600 max-w-xl mx-auto leading-relaxed">
             Explore affordable TeacherSathi pricing plans for Indian educators and students. Get unlimited AI lesson plans, NCERT mind maps, and practice test generators designed for CBSE schools.
           </p>
           
@@ -83,14 +83,14 @@ export default function PricingPage() {
           </div>
         </div>
 
-        <div className="grid md:grid-cols-2 gap-8 max-w-3xl mx-auto mb-16 relative">
+        <div className="grid grid-cols-[repeat(auto-fit,minmax(280px,1fr))] gap-[clamp(1.5rem,4vw,2rem)] max-w-3xl mx-auto mb-16 relative px-[clamp(0.5rem,2vw,1rem)]">
           {/* Free Plan */}
-          <div className="bg-[#FAF9F6] border-2 border-dashed border-line-strong rounded-2xl p-8 relative shadow-sm hover:border-brand/30 transition-colors">
+          <div className="bg-[#FAF9F6] border-2 border-dashed border-line-strong rounded-2xl p-[clamp(1.5rem,5vw,2rem)] relative shadow-sm hover:border-brand/30 transition-colors">
             <div className="absolute top-4 right-4 border-2 border-[#16A34A] text-[#16A34A] font-extrabold px-3 py-1 rounded text-sm transform rotate-12 opacity-80">
               FREE
             </div>
             <h2 className="text-2xl font-bold text-gray-900 mb-2">{plans.free.title}</h2>
-            <div className="text-5xl font-extrabold text-gray-900 mb-8">₹0 <span className="text-2xl font-bold">forever</span></div>
+            <div className="text-[clamp(2.5rem,6vw,3rem)] font-extrabold text-gray-900 mb-8">₹0 <span className="text-xl sm:text-2xl font-bold">forever</span></div>
             
             <ul className="space-y-4 mb-8">
               {plans.free.features.map((item, i) => (
@@ -114,14 +114,14 @@ export default function PricingPage() {
           </div>
 
           {/* Pro Plan */}
-          <div className="bg-brand rounded-2xl p-8 relative shadow-2xl text-white transform scale-105 z-10">
+          <div className="bg-brand rounded-2xl p-[clamp(1.5rem,5vw,2rem)] relative shadow-2xl text-white transform md:scale-105 z-10">
             <div className="absolute -top-4 -right-4 bg-gradient-to-r from-yellow-400 to-yellow-600 text-white font-bold px-8 py-2 text-sm transform rotate-45 shadow-md">
               BEST VALUE
             </div>
             <h2 className="text-2xl font-bold mb-2">{plans.pro.title}</h2>
             <div className="text-white/80 text-sm mb-1">Monthly ₹{plans.pro.monthlyPrice} → <span className="line-through opacity-60">₹{parseInt(plans.pro.monthlyPrice.replace(',','')) * 12}/yr</span></div>
-            <div className="text-5xl font-extrabold mb-8 flex items-baseline">
-              ₹{plans.pro.price}<span className="text-2xl font-bold ml-1">/yr</span>
+            <div className="text-[clamp(2.5rem,6vw,3rem)] font-extrabold mb-8 flex items-baseline">
+              ₹{plans.pro.price}<span className="text-xl sm:text-2xl font-bold ml-1">/yr</span>
             </div>
             
             <ul className="space-y-4 mb-8">
