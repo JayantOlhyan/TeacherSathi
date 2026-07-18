@@ -73,6 +73,13 @@ export function Header() {
       setProfileLang(storedLang);
     }
 
+    // Sidebar event triggers
+    const handleOpenHelp = () => setIsHelpOpen(true);
+    const handleOpenSettings = () => setIsAccountOpen(true);
+
+    window.addEventListener("open-help", handleOpenHelp);
+    window.addEventListener("open-settings", handleOpenSettings);
+
     if (!supabase) return;
     supabase.auth.getUser().then(({ data: { user } }) => {
       if (user?.user_metadata?.full_name && !storedName) {
@@ -91,6 +98,11 @@ export function Header() {
                         )) ||
                         (typeof window !== "undefined" && window.location.hostname === "localhost");
     setIsAdmin(!!isMockAdmin);
+
+    return () => {
+      window.removeEventListener("open-help", handleOpenHelp);
+      window.removeEventListener("open-settings", handleOpenSettings);
+    };
   }, []);
 
   // Close menus when clicking outside

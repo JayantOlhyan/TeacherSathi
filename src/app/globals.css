@@ -3,23 +3,41 @@
 @tailwind utilities;
 
 :root {
-  --background: #F7F9F4;
-  --foreground: #1C2B1C;
+  --background: #F8FAF6;
+  --foreground: #1E291E;
 }
 
 body {
   color: var(--foreground);
   background: var(--background);
   font-family: var(--font-plus-jakarta-sans), var(--font-mukta), system-ui, sans-serif;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
 }
 
-@layer utilities {
-  .text-balance {
-    text-wrap: balance;
-  }
+/* Premium Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
 }
 
-/* --- Premium Accessibility Styles --- */
+/* Glassmorphism subtle helper */
+.glass-panel {
+  background: rgba(255, 255, 255, 0.75);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(228, 235, 228, 0.6);
+}
+
 
 /* Light Theme Overrides */
 html.light-theme, html.light-theme body, html.light-theme main {

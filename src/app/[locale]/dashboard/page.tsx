@@ -2,13 +2,28 @@
 
 import { useState, useEffect, useRef } from "react";
 import { Link } from "@/i18n/routing";
-import { Bell, UserCheck, BookOpen, Presentation, Play, PlusCircle, Search, MessageSquare, Users, X, Send, Loader2 } from "lucide-react";
+import { 
+  Bell, 
+  BookOpen, 
+  PlusCircle, 
+  MessageSquare, 
+  Users, 
+  X, 
+  Send, 
+  Loader2, 
+  ArrowRight, 
+  Sparkles,
+  FileText,
+  Calendar,
+  Lightbulb
+} from "lucide-react";
 
 export default function DashboardPage() {
   // Overlays & Stateful Dialogs
   const [isGenieChatOpen, setIsGenieChatOpen] = useState(false);
   const [isAttentionBellActive, setIsAttentionBellActive] = useState(false);
   const [isUserGuideOpen, setIsUserGuideOpen] = useState(false);
+  const [teacherName, setTeacherName] = useState("Teacher");
   
   // Genie Chat Logic State
   const [chatMessage, setChatMessage] = useState("");
@@ -18,6 +33,13 @@ export default function DashboardPage() {
   ]);
 
   const messagesEndRef = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    const storedName = localStorage.getItem("last_sathi_teacher_name");
+    if (storedName && storedName.trim() !== "" && storedName !== "null" && storedName !== "undefined") {
+      setTeacherName(storedName.trim().split(" ")[0]);
+    }
+  }, []);
 
   // Scroll chat to bottom on updates
   useEffect(() => {
@@ -36,7 +58,6 @@ export default function DashboardPage() {
     }
   }, [isAttentionBellActive]);
 
-  // Audio synthesis: Chime bell sound (Web Audio API)
   const playAttentionBellSound = () => {
     if (typeof window === "undefined") return;
     try {
@@ -61,29 +82,25 @@ export default function DashboardPage() {
         osc.stop(audioCtx.currentTime + delay + 1.5);
       };
       
-      // Standard dual bell sequence (C5 -> E5)
       playChime(0, 523.25);
       playChime(0.22, 659.25);
       
       setIsAttentionBellActive(true);
     } catch {
-      // Fallback
       setIsAttentionBellActive(true);
     }
   };
 
-  const handleGenieSubmit = (_e?: React.FormEvent, textOverride?: string) => {
-    _e?.preventDefault();
+  const handleGenieSubmit = (e?: React.FormEvent, textOverride?: string) => {
+    e?.preventDefault();
     const query = textOverride || chatMessage;
     if (!query.trim()) return;
 
-    // Add user query
     const userMsg = { id: messages.length + 1, text: query, sender: "user" };
     setMessages(prev => [...prev, userMsg]);
     setChatMessage("");
     setIsGenieThinking(true);
 
-    // Mock AI Bilingual Teacher Assist Response
     setTimeout(() => {
       setIsGenieThinking(false);
       let responseText = "Here is a quick activity recap idea: Ask students to form pairs and sketch a real-world reflection path on their notebooks!";
@@ -94,8 +111,6 @@ export default function DashboardPage() {
         responseText = "Here is an easy Physics MCQ question:\n\n*Question*: The focal length of a flat mirror is:\n*A)* Zero\n*B)* Infinity (Correct)\n*C)* 10 cm\n*D)* -10 cm";
       } else if (query.includes("clicker")) {
         responseText = "To pair clickers, click **Register Clickers** in the Action Bar on your Class page. Once the modal opens, ask your students to press any button on their clicker device. They will pair instantly!";
-      } else {
-        responseText = `नमस्ते! That is a great question. You can use our Smart Screen Video to introduce that topic, then assign the medium chapter test under the classroom tab to track results.`;
       }
 
       const genieMsg = { id: messages.length + 2, text: responseText, sender: "genie" };
@@ -104,153 +119,265 @@ export default function DashboardPage() {
   };
 
   return (
-    <div className="max-w-6xl mx-auto space-y-8 pb-12 relative">
+    <div className="max-w-7xl mx-auto space-y-8 pb-16 relative">
       
-      {/* Page Title & SEO Introductory Paragraph */}
-      <div className="bg-white p-6 rounded-2xl shadow-sm border border-gray-100">
-        <h1 className="text-2xl sm:text-3xl font-extrabold text-gray-900 mb-2">Educator Dashboard & Classroom Management</h1>
-        <p className="text-gray-600 text-sm sm:text-base leading-relaxed">
-          Welcome to your central TeacherSathi dashboard. Easily manage Indian government school classrooms, generate NCERT aligned AI lesson plans, launch interactive classroom clickers, and track daily student progress in real-time.
-        </p>
+      {/* Top Banner: Greeting, Guidance, and Primary Action */}
+      <div className="bg-gradient-to-br from-[#14532D] to-[#15803D] text-white p-8 rounded-2xl shadow-lg relative overflow-hidden flex flex-col md:flex-row justify-between items-start md:items-center gap-6">
+        <div className="relative z-10 space-y-2">
+          <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-white/10 text-xs font-semibold backdrop-blur-md">
+            <Sparkles className="w-3.5 h-3.5 text-amber-300" />
+            Classroom Assistant Active
+          </div>
+          <h1 className="text-3xl font-extrabold tracking-tight">Good day, {teacherName}! 👋</h1>
+          <p className="text-white/80 max-w-xl text-sm font-medium">
+            Continue preparing for your next session. Use your smart classroom features, launch student clickers, or create resources with AI.
+          </p>
+        </div>
+        <div className="relative z-10 flex gap-3 flex-wrap">
+          <Link 
+            href="/dashboard/create" 
+            className="inline-flex items-center gap-2 bg-white text-[#14532D] hover:bg-green-50 font-bold px-5 py-3 rounded-xl transition-all shadow-sm active:scale-95 text-sm cursor-pointer"
+          >
+            <PlusCircle className="w-4 h-4" />
+            Create with AI
+          </Link>
+          <button 
+            onClick={playAttentionBellSound}
+            className="inline-flex items-center gap-2 bg-red-600 hover:bg-red-700 text-white font-bold px-4 py-3 rounded-xl transition-all shadow-sm active:scale-95 text-sm cursor-pointer"
+          >
+            <Bell className="w-4 h-4" />
+            Silence Bell
+          </button>
+        </div>
+        <div className="absolute right-0 bottom-0 top-0 w-1/3 bg-[radial-gradient(circle_at_right,rgba(255,255,255,0.08),transparent_70%)] pointer-events-none" />
       </div>
 
-      {/* Attention Bell Flashing Overlay */}
+      {/* Got a Doubt Banner */}
+      <div className="glass-panel rounded-2xl p-6 flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4">
+        <div className="space-y-1">
+          <h2 className="text-lg font-bold text-gray-800 flex items-center gap-2">
+            <Lightbulb className="w-5 h-5 text-amber-500" />
+            Got a Quick Doubt or Need a Lesson Spark?
+          </h2>
+          <p className="text-gray-500 text-xs font-medium">
+            Saathi Genie is ready to help you construct immediate 5-minute activities, recap questions, or explain clicker operations.
+          </p>
+        </div>
+        <button 
+          onClick={() => setIsGenieChatOpen(true)}
+          className="bg-[#14532D] hover:bg-green-800 text-white font-bold px-5 py-2.5 rounded-xl transition-all active:scale-95 text-xs shadow-sm cursor-pointer flex items-center gap-2"
+        >
+          <MessageSquare className="w-4 h-4" />
+          Ask Saathi Genie
+        </button>
+      </div>
+
+      {/* Quick Actions Toolbar */}
+      <section className="space-y-3">
+        <h3 className="text-sm font-bold text-gray-400 uppercase tracking-wider">Quick Creation Shortcuts</h3>
+        <div className="grid grid-cols-2 md:grid-cols-5 gap-4">
+          {[
+            { label: "Create Quiz", type: "quiz", bg: "from-blue-500 to-blue-600", shadow: "shadow-blue-500/10" },
+            { label: "Create PPT", type: "smart-classroom", bg: "from-emerald-500 to-teal-500", shadow: "shadow-emerald-500/10" },
+            { label: "Create Test", type: "test-paper", bg: "from-purple-500 to-purple-600", shadow: "shadow-purple-500/10" },
+            { label: "Create Lesson Plan", type: "lesson-plan", bg: "from-amber-500 to-orange-500", shadow: "shadow-amber-500/10" },
+            { label: "Create Mind Map", type: "mind-map", bg: "from-rose-500 to-pink-500", shadow: "shadow-rose-500/10" },
+          ].map((action, idx) => (
+            <Link 
+              key={idx}
+              href={`/dashboard/create?type=${action.type}`} 
+              className={`bg-gradient-to-br ${action.bg} p-4 rounded-xl text-white shadow-lg ${action.shadow} hover:-translate-y-0.5 transition-all flex flex-col justify-between min-h-[100px] cursor-pointer`}
+            >
+              <span className="font-extrabold text-sm leading-snug">{action.label}</span>
+              <div className="self-end bg-white/20 p-1.5 rounded-lg">
+                <PlusCircle className="w-3.5 h-3.5" />
+              </div>
+            </Link>
+          ))}
+        </div>
+      </section>
+
+      {/* Main Grid: Left (Continue, Classes, Work), Right (Performance, Resources) */}
+      <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
+        
+        {/* Left Column (Span 2) */}
+        <div className="lg:col-span-2 space-y-8">
+          
+          {/* Continue Teaching */}
+          <section className="space-y-3">
+            <h3 className="text-sm font-bold text-gray-400 uppercase tracking-wider">Continue Teaching</h3>
+            <div className="bg-white border border-gray-100 p-5 rounded-2xl flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4 hover:shadow-sm transition-all">
+              <div className="flex gap-4 items-center">
+                <div className="w-12 h-12 bg-emerald-50 text-emerald-700 rounded-xl flex items-center justify-center font-bold text-sm shrink-0">
+                  Ch 10
+                </div>
+                <div>
+                  <h4 className="font-extrabold text-gray-800 text-sm">Light - Reflection & Refraction</h4>
+                  <p className="text-gray-400 text-xs font-semibold mt-0.5">Class 10-A • Science • 3/5 slides completed</p>
+                </div>
+              </div>
+              <Link 
+                href="/content/class-10/science/chapter-10" 
+                className="inline-flex items-center gap-1.5 text-xs font-bold text-[#14532D] hover:underline whitespace-nowrap"
+              >
+                Resume Presentation
+                <ArrowRight className="w-3.5 h-3.5" />
+              </Link>
+            </div>
+          </section>
+
+          {/* My Classes */}
+          <section className="space-y-3">
+            <div className="flex justify-between items-center">
+              <h3 className="text-sm font-bold text-gray-400 uppercase tracking-wider">My Classes</h3>
+              <Link href="/dashboard/classes" className="text-xs font-bold text-[#14532D] hover:underline">
+                Manage Classes
+              </Link>
+            </div>
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+              {[
+                { grade: "Class 10-A", subject: "Science", count: 42, active: "Reflection Quiz active", bg: "bg-blue-50/50 text-blue-700 border-blue-100" },
+                { grade: "Class 9-B", subject: "Science", count: 38, active: "No active assessment", bg: "bg-purple-50/50 text-purple-700 border-purple-100" },
+              ].map((c, idx) => (
+                <div key={idx} className="bg-white border border-gray-100 p-5 rounded-2xl space-y-4 hover:shadow-sm transition-all">
+                  <div className="flex justify-between items-start">
+                    <div>
+                      <h4 className="font-extrabold text-gray-800 text-sm">{c.grade}</h4>
+                      <p className="text-gray-400 text-xs font-semibold">{c.subject}</p>
+                    </div>
+                    <span className="text-xs font-bold px-2.5 py-1 rounded-full bg-gray-50 border border-gray-100 text-gray-600 flex items-center gap-1">
+                      <Users className="w-3.5 h-3.5" /> {c.count}
+                    </span>
+                  </div>
+                  <div className="pt-3 border-t border-gray-50 flex items-center justify-between text-xs">
+                    <span className="text-gray-400 font-medium truncate">{c.active}</span>
+                    <Link href={`/dashboard/classes?class=${idx === 0 ? "10A" : "9B"}`} className="text-[#14532D] font-bold hover:underline shrink-0">
+                      Open Workspace
+                    </Link>
+                  </div>
+                </div>
+              ))}
+            </div>
+          </section>
+
+          {/* Upcoming Work */}
+          <section className="space-y-3">
+            <h3 className="text-sm font-bold text-gray-400 uppercase tracking-wider">Upcoming Work & Schedules</h3>
+            <div className="bg-white border border-gray-100 rounded-2xl divide-y divide-gray-50 overflow-hidden">
+              {[
+                { title: "Weekly Homework: Ray Diagrams", date: "Due Tomorrow, 4 PM", type: "Homework", tagColor: "bg-amber-50 text-amber-700 border-amber-100" },
+                { title: "Chapter Test: Light Concept Check", date: "Monday, 10 AM", type: "Quiz", tagColor: "bg-emerald-50 text-emerald-700 border-emerald-100" },
+              ].map((w, idx) => (
+                <div key={idx} className="p-4 flex items-center justify-between gap-4">
+                  <div className="flex items-center gap-3">
+                    <div className="w-9 h-9 bg-gray-50 border border-gray-100 rounded-xl flex items-center justify-center shrink-0">
+                      <Calendar className="w-4 h-4 text-gray-400" />
+                    </div>
+                    <div>
+                      <h4 className="font-bold text-gray-800 text-xs leading-snug">{w.title}</h4>
+                      <p className="text-gray-400 text-[10px] font-semibold mt-0.5">{w.date}</p>
+                    </div>
+                  </div>
+                  <span className={`text-[10px] font-bold px-2 py-0.5 rounded-md border ${w.tagColor} shrink-0`}>
+                    {w.type}
+                  </span>
+                </div>
+              ))}
+            </div>
+          </section>
+
+        </div>
+
+        {/* Right Column (Span 1) */}
+        <div className="space-y-8">
+          
+          {/* Class Performance (Analytics) */}
+          <section className="space-y-3">
+            <h3 className="text-sm font-bold text-gray-400 uppercase tracking-wider">Class Performance</h3>
+            <div className="bg-white border border-gray-100 p-5 rounded-2xl space-y-4">
+              <div className="flex justify-between items-center">
+                <span className="text-xs font-bold text-gray-500 uppercase">Average accuracy</span>
+                <span className="text-lg font-black text-emerald-700">76%</span>
+              </div>
+              
+              <div className="space-y-2">
+                <div className="flex justify-between text-xs font-semibold">
+                  <span className="text-gray-500">Mastery (Strong)</span>
+                  <span className="text-gray-800">18 Students</span>
+                </div>
+                <div className="w-full bg-gray-100 h-1.5 rounded-full overflow-hidden">
+                  <div className="bg-emerald-600 h-full rounded-full" style={{ width: "60%" }} />
+                </div>
+              </div>
+
+              <div className="space-y-2">
+                <div className="flex justify-between text-xs font-semibold">
+                  <span className="text-gray-500">Needs Attention</span>
+                  <span className="text-amber-700">6 Students</span>
+                </div>
+                <div className="w-full bg-gray-100 h-1.5 rounded-full overflow-hidden">
+                  <div className="bg-amber-500 h-full rounded-full" style={{ width: "25%" }} />
+                </div>
+              </div>
+
+              <div className="pt-3 border-t border-gray-50 text-center">
+                <Link href="/dashboard/reports" className="inline-flex items-center gap-1 text-xs font-bold text-[#14532D] hover:underline">
+                  View Analytics Report
+                  <ArrowRight className="w-3.5 h-3.5" />
+                </Link>
+              </div>
+            </div>
+          </section>
+
+          {/* Recent Resources */}
+          <section className="space-y-3">
+            <h3 className="text-sm font-bold text-gray-400 uppercase tracking-wider">Recently Created Resources</h3>
+            <div className="bg-white border border-gray-100 rounded-2xl divide-y divide-gray-50 overflow-hidden">
+              {[
+                { name: "Reflection_Quiz_v2.json", type: "Quiz", size: "12 KB" },
+                { name: "Ch10_Refraction_LessonPlan.pdf", type: "Lesson Plan", size: "142 KB" },
+                { name: "Light_Summary_MindMap.jpg", type: "Mind Map", size: "2.1 MB" },
+              ].map((res, idx) => (
+                <div key={idx} className="p-4 flex items-center justify-between gap-3 hover:bg-gray-50/50 transition-colors">
+                  <div className="flex items-center gap-3 overflow-hidden">
+                    <FileText className="w-4 h-4 text-[#14532D] shrink-0" />
+                    <div className="overflow-hidden">
+                      <h4 className="font-bold text-gray-800 text-xs truncate">{res.name}</h4>
+                      <p className="text-gray-400 text-[10px] font-semibold mt-0.5">{res.type} • {res.size}</p>
+                    </div>
+                  </div>
+                  <Link href="/resources" className="text-[10px] font-bold text-[#14532D] hover:underline shrink-0">
+                    Open
+                  </Link>
+                </div>
+              ))}
+            </div>
+          </section>
+
+        </div>
+
+      </div>
+
+      {/* Flashing overlay for Attention Bell */}
       {isAttentionBellActive && (
         <div className="fixed inset-0 z-[100] bg-red-600/95 flex flex-col items-center justify-center text-white p-6 animate-pulse select-none">
           <div className="text-8xl animate-bounce mb-6">🔔</div>
           <h2 className="text-5xl sm:text-6xl font-black tracking-wider text-center leading-tight drop-shadow-md">
             SILENCE, PLEASE!<br />
-            
           </h2>
           <p className="text-white/80 mt-8 text-sm font-semibold tracking-wider uppercase">Attention Alarm Active • Closing in 2s</p>
         </div>
       )}
 
-      {/* "Got a Doubt?" Section */}
-      <section className="bg-white/60 backdrop-blur-md rounded-2xl p-6 shadow-sm border border-white flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
-        <div>
-          <h2 className="text-2xl font-bold text-gray-800 mb-1">Got a Doubt? 🤔</h2>
-          <p className="text-gray-600 text-sm">Ask Saathi Genie anything about your lessons or syllabus.</p>
-        </div>
-        <button 
-          onClick={() => setIsGenieChatOpen(true)}
-          className="bg-[#16A34A] hover:bg-cta-hover text-white font-semibold py-3 px-6 rounded-xl shadow-brand flex items-center gap-2 transition-all transform active:scale-98 cursor-pointer text-sm"
-        >
-          <MessageSquare className="w-5 h-5" />
-          Ask Saathi Genie
-        </button>
-      </section>
-
-      {/* Quick-Access Toolbar */}
-      <section className="grid grid-cols-2 md:grid-cols-4 gap-4">
-        
-        {/* Attention Bell Card */}
-        <button 
-          onClick={playAttentionBellSound}
-          className="bg-white p-5 rounded-xl shadow-sm border border-gray-100 flex flex-col items-center justify-center gap-3 hover:shadow-md transition-all active:scale-98 group cursor-pointer"
-        >
-          <div className="w-12 h-12 rounded-full flex items-center justify-center bg-amber-100 text-amber-700 transition-transform group-hover:scale-110">
-            <Bell className="w-6 h-6" />
-          </div>
-          <span className="font-bold text-gray-700 text-sm">Attention Bell</span>
-        </button>
-
-        {/* Roll Call Card */}
-        <Link 
-          href="/dashboard/classes"
-          className="bg-white p-5 rounded-xl shadow-sm border border-gray-100 flex flex-col items-center justify-center gap-3 hover:shadow-md transition-all active:scale-98 group cursor-pointer"
-        >
-          <div className="w-12 h-12 rounded-full flex items-center justify-center bg-blue-100 text-blue-700 transition-transform group-hover:scale-110">
-            <UserCheck className="w-6 h-6" />
-          </div>
-          <span className="font-bold text-gray-700 text-sm">Roll Call</span>
-        </Link>
-
-        {/* User Guide Card */}
-        <button 
-          onClick={() => setIsUserGuideOpen(true)}
-          className="bg-white p-5 rounded-xl shadow-sm border border-gray-100 flex flex-col items-center justify-center gap-3 hover:shadow-md transition-all active:scale-98 group cursor-pointer"
-        >
-          <div className="w-12 h-12 rounded-full flex items-center justify-center bg-purple-100 text-purple-700 transition-transform group-hover:scale-110">
-            <BookOpen className="w-6 h-6" />
-          </div>
-          <span className="font-bold text-gray-700 text-sm">User Guide</span>
-        </button>
-
-        {/* White Board Card */}
-        <Link 
-          href="/dashboard/whiteboard"
-          className="bg-white p-5 rounded-xl shadow-sm border border-gray-100 flex flex-col items-center justify-center gap-3 hover:shadow-md transition-all active:scale-98 group cursor-pointer"
-        >
-          <div className="w-12 h-12 rounded-full flex items-center justify-center bg-emerald-100 text-emerald-700 transition-transform group-hover:scale-110">
-            <Presentation className="w-6 h-6" />
-          </div>
-          <span className="font-bold text-gray-700 text-sm">White Board</span>
-        </Link>
-
-      </section>
-
-      {/* Action Cards */}
-      <section>
-        <h2 className="text-xl font-bold text-gray-800 mb-4">Quick Actions</h2>
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-          
-          <Link href="/content/class-10/science/chapter-10" className="bg-gradient-to-br from-blue-500 to-blue-600 p-6 rounded-2xl text-white shadow-lg shadow-blue-500/20 hover:-translate-y-1 transition-all flex flex-col justify-between min-h-[160px]">
-            <div className="bg-white/20 w-11 h-11 rounded-xl flex items-center justify-center mb-4 backdrop-blur-sm shadow-xs">
-              <Play className="w-5 h-5" />
-            </div>
-            <div>
-              <h3 className="text-lg font-extrabold mb-1">Play</h3>
-              <p className="text-blue-100 text-xs leading-relaxed">Start an interactive session or quiz.</p>
-            </div>
-          </Link>
-
-          <Link href="/dashboard/create" className="bg-gradient-to-br from-purple-500 to-purple-600 p-6 rounded-2xl text-white shadow-lg shadow-purple-500/20 hover:-translate-y-1 transition-all flex flex-col justify-between min-h-[160px]">
-            <div className="bg-white/20 w-11 h-11 rounded-xl flex items-center justify-center mb-4 backdrop-blur-sm shadow-xs">
-              <PlusCircle className="w-5 h-5" />
-            </div>
-            <div>
-              <h3 className="text-lg font-extrabold mb-1">Create</h3>
-              <p className="text-purple-100 text-xs leading-relaxed">Build new assessments and content.</p>
-            </div>
-          </Link>
-
-          <Link href="/content/class-10" className="bg-gradient-to-br from-amber-500 to-orange-500 p-6 rounded-2xl text-white shadow-lg shadow-amber-500/20 hover:-translate-y-1 transition-all flex flex-col justify-between min-h-[160px]">
-            <div className="bg-white/20 w-11 h-11 rounded-xl flex items-center justify-center mb-4 backdrop-blur-sm shadow-xs">
-              <Search className="w-5 h-5" />
-            </div>
-            <div>
-              <h3 className="text-lg font-extrabold mb-1">Discover</h3>
-              <p className="text-amber-100 text-xs leading-relaxed">Explore NCERT-aligned resources.</p>
-            </div>
-          </Link>
-
-          <Link href="/dashboard/classes" className="bg-gradient-to-br from-emerald-500 to-teal-500 p-6 rounded-2xl text-white shadow-lg shadow-emerald-500/20 hover:-translate-y-1 transition-all flex flex-col justify-between min-h-[160px]">
-            <div className="bg-white/20 w-11 h-11 rounded-xl flex items-center justify-center mb-4 backdrop-blur-sm shadow-xs">
-              <Users className="w-5 h-5" />
-            </div>
-            <div>
-              <h3 className="text-lg font-extrabold mb-1">Engage</h3>
-              <p className="text-emerald-100 text-xs leading-relaxed">Monitor student participation.</p>
-            </div>
-          </Link>
-
-        </div>
-      </section>
-
       {/* Ask Saathi Genie Slide-in Drawer */}
       {isGenieChatOpen && (
         <>
-          {/* Overlay mask */}
           <div 
             onClick={() => setIsGenieChatOpen(false)} 
             className="fixed inset-0 bg-black/40 backdrop-blur-xs z-40 transition-opacity"
           />
-          
-          {/* Drawer container */}
           <div className="fixed right-0 top-0 h-screen w-96 bg-white shadow-2xl z-50 border-l border-gray-150 p-6 flex flex-col justify-between animate-slideLeft text-sm text-gray-700">
             <div>
-              {/* Header */}
               <div className="flex items-center justify-between border-b border-gray-100 pb-4 mb-4">
                 <div className="flex items-center gap-2">
                   <div className="w-9 h-9 bg-green-50 border border-green-100 rounded-lg flex items-center justify-center text-xl">🧞‍♂️</div>
@@ -267,7 +394,6 @@ export default function DashboardPage() {
                 </button>
               </div>
 
-              {/* Scrollable messages log */}
               <div className="space-y-4 max-h-[calc(100vh-280px)] overflow-y-auto pr-1 mb-4 flex flex-col">
                 {messages.map(msg => (
                   <div 
@@ -294,10 +420,7 @@ export default function DashboardPage() {
               </div>
             </div>
 
-            {/* Bottom Suggestions & Input */}
             <div className="space-y-3 pt-4 border-t border-gray-100">
-              
-              {/* Suggestion Chips */}
               <div className="flex flex-wrap gap-1.5">
                 {[
                   { label: "Recap activity Ch 10", q: "Give me a 5-min recap activity for Ch 10" },
@@ -307,15 +430,14 @@ export default function DashboardPage() {
                   <button
                     key={idx}
                     onClick={() => handleGenieSubmit(undefined, chip.q)}
-                    className="text-[10px] font-bold bg-gray-50 border border-gray-200 text-gray-600 hover:bg-green-50 hover:text-green-800 hover:border-green-200 px-2 py-1 rounded-lg transition-all cursor-pointer"
+                    className="text-[10px] font-bold bg-gray-50 border border-gray-200 text-gray-600 hover:bg-green-50 hover:text-green-800 hover:border-green-200 px-2.5 py-1 rounded-lg transition-all cursor-pointer"
                   >
                     {chip.label}
                   </button>
                 ))}
               </div>
 
-              {/* Input Form */}
-              <form onSubmit={handleGenieSubmit} className="flex gap-2">
+              <form onSubmit={(e) => handleGenieSubmit(e)} className="flex gap-2">
                 <input 
                   type="text" 
                   value={chatMessage}
@@ -325,7 +447,7 @@ export default function DashboardPage() {
                 />
                 <button 
                   type="submit"
-                  className="bg-[#14532D] hover:bg-green-850 text-white p-2.5 rounded-xl flex items-center justify-center shadow-md cursor-pointer transition-colors active:scale-95"
+                  className="bg-[#14532D] hover:bg-green-800 text-white p-2.5 rounded-xl flex items-center justify-center shadow-md cursor-pointer transition-colors active:scale-95"
                 >
                   <Send className="w-4 h-4" />
                 </button>
@@ -374,7 +496,7 @@ export default function DashboardPage() {
 
             <button 
               onClick={() => setIsUserGuideOpen(false)}
-              className="w-full bg-[#14532D] hover:bg-green-850 text-white py-3 rounded-xl font-bold transition-all shadow-md active:scale-98 cursor-pointer mt-6"
+              className="w-full bg-[#14532D] hover:bg-green-800 text-white py-3 rounded-xl font-bold transition-all shadow-md active:scale-98 cursor-pointer mt-6"
             >
               Get Started
             </button>
