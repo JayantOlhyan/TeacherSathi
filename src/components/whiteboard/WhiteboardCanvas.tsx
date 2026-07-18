@@ -2,6 +2,7 @@
 
 import React from "react";
 import dynamic from "next/dynamic";
+import "@excalidraw/excalidraw/index.css";
 
 // Excalidraw uses browser canvas & DOM APIs, must be rendered on the client side only.
 const Excalidraw = dynamic(
