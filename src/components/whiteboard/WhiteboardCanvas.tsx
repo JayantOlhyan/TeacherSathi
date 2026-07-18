@@ -1050,11 +1050,15 @@ export default function WhiteboardCanvas() {
       const startC = startCoordsRef.current;
 
       if (el.type === "pen") {
-        currentPointsRef.current.push({ x, y });
-        activeElementRef.current = {
-          ...el,
-          points: [...currentPointsRef.current]
-        };
+        const lastPoint = currentPointsRef.current[currentPointsRef.current.length - 1];
+        const dist = lastPoint ? Math.sqrt((lastPoint.x - x) ** 2 + (lastPoint.y - y) ** 2) : Infinity;
+        if (dist > 1.5) {
+          currentPointsRef.current.push({ x, y });
+          activeElementRef.current = {
+            ...el,
+            points: currentPointsRef.current
+          };
+        }
       } else if (el.type === "rectangle") {
         activeElementRef.current = {
           ...el,
