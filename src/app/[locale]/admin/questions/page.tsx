@@ -2,9 +2,7 @@
 
 import { useState, useEffect } from "react";
 import { Link } from "@/i18n/routing";
-import { 
-  HelpCircle, Plus, Edit3, Trash2, Copy, Search, Eye, Filter, 
-  CheckCircle2, XCircle, ArrowRightLeft, FileCode, Check
+import { Plus, Edit3, Trash2, Copy, Search, Filter, FileCode, Check
 } from "lucide-react";
 import { adminStore, Question, Chapter, Book, Class, Subject } from "@/lib/adminStore";
 
@@ -20,7 +18,7 @@ export default function AdminQuestionsPage() {
   const [selectedClass, setSelectedClass] = useState("ALL");
   const [selectedSubject, setSelectedSubject] = useState("ALL");
   const [selectedDifficulty, setSelectedDifficulty] = useState("ALL");
-  const [selectedType, setSelectedType] = useState("ALL");
+  const [selectedType] = useState("ALL");
 
   // Edit / Add modal
   const [isModalOpen, setIsModalOpen] = useState(false);
@@ -291,7 +289,7 @@ export default function AdminQuestionsPage() {
               <div className="flex md:flex-col gap-2 shrink-0 w-full md:w-auto items-center justify-end border-t md:border-t-0 border-slate-800/60 pt-3 md:pt-0">
                 <select 
                   value={q.status}
-                  onChange={(e) => handleUpdateStatus(q, e.target.value as any)}
+                  onChange={(e) => handleUpdateStatus(q, e.target.value as any /* eslint-disable-line @typescript-eslint/no-explicit-any */)}
                   className={`bg-slate-950 border text-[9px] font-bold uppercase tracking-wider px-2 py-1 rounded focus:outline-none cursor-pointer w-full md:w-28 text-center ${
                     q.status === 'PUBLISHED' ? 'text-emerald-400 border-emerald-950 bg-emerald-950/10' : 'text-slate-400 border-slate-800'
                   }`}
@@ -382,7 +380,7 @@ export default function AdminQuestionsPage() {
                   <label className="block text-[10px] font-bold text-slate-400 uppercase mb-1">Difficulty Level</label>
                   <select 
                     value={qDifficulty}
-                    onChange={(e) => setQDifficulty(e.target.value as any)}
+                    onChange={(e) => setQDifficulty(e.target.value as any /* eslint-disable-line @typescript-eslint/no-explicit-any */)}
                     className="w-full bg-slate-950/60 border border-slate-800 rounded-lg p-2.5 text-xs text-slate-200 focus:outline-none"
                   >
                     <option value="EASY">EASY</option>

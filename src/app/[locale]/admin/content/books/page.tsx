@@ -1,8 +1,7 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import { 
-  BookOpen, Plus, Edit3, Trash2, CheckCircle2, XCircle, Search, 
+import { Plus, Search, 
   AlertTriangle, BookMarked, Globe 
 } from "lucide-react";
 import { adminStore, Book, Class, Subject } from "@/lib/adminStore";

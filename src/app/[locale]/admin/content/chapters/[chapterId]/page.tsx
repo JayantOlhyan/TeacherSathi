@@ -1,11 +1,9 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import { Link, useRouter } from "@/i18n/routing";
-import { 
-  FileText, ArrowLeft, Layers, Bookmark, FileSpreadsheet, Eye, HelpCircle, 
-  Video, FolderOpen, History, Settings2, ShieldCheck, Plus, CheckCircle2, 
-  ChevronRight, Trash2, Edit3, Save, RotateCw, Globe, Check, AlertTriangle, Key,
+import { Link } from "@/i18n/routing";
+import { ArrowLeft, Eye, HelpCircle, 
+  Video, FolderOpen, History, Settings2, Plus, CheckCircle2, Trash2, Edit3, Save, RotateCw, Globe, Check,
   ExternalLink
 } from "lucide-react";
 import { adminStore, Chapter, Book, Question, Video as VideoItem, Resource, ContentVersion } from "@/lib/adminStore";
@@ -13,7 +11,7 @@ import { adminStore, Chapter, Book, Question, Video as VideoItem, Resource, Cont
 type Tab = "overview" | "questions" | "pdfs" | "videos" | "resources" | "seo" | "history";
 
 export default function ChapterWorkspacePage({ params }: { params: { chapterId: string } }) {
-  const router = useRouter();
+  // const router = useRouter();
   const chapterId = params.chapterId;
 
   // Active state objects
@@ -385,7 +383,7 @@ export default function ChapterWorkspacePage({ params }: { params: { chapterId: 
                 <label className="block text-[10px] font-bold text-slate-400 uppercase mb-1">Publication Status Pipeline</label>
                 <select 
                   value={chStatus}
-                  onChange={(e) => setChStatus(e.target.value as any)}
+                  onChange={(e) => setChStatus(e.target.value as any /* eslint-disable-line @typescript-eslint/no-explicit-any */)}
                   className="w-full bg-slate-950/60 border border-slate-800 rounded-lg p-2.5 text-xs text-slate-200 focus:outline-none focus:border-slate-700"
                 >
                   <option value="DRAFT">DRAFT</option>
@@ -724,7 +722,7 @@ export default function ChapterWorkspacePage({ params }: { params: { chapterId: 
                   <label className="block text-[10px] font-bold text-slate-400 uppercase mb-1">Difficulty Level</label>
                   <select 
                     value={qDifficulty}
-                    onChange={(e) => setQDifficulty(e.target.value as any)}
+                    onChange={(e) => setQDifficulty(e.target.value as any /* eslint-disable-line @typescript-eslint/no-explicit-any */)}
                     className="w-full bg-slate-950/60 border border-slate-800 rounded-lg p-2.5 text-xs text-slate-200 focus:outline-none focus:border-slate-700"
                   >
                     <option value="EASY">EASY</option>

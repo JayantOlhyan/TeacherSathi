@@ -2,9 +2,7 @@
 
 import { useState, useEffect } from "react";
 import { Link } from "@/i18n/routing";
-import { 
-  FileCode, ArrowLeft, Upload, FileSpreadsheet, CheckCircle2, 
-  AlertTriangle, Play, RefreshCw, Layers, Check, X, ShieldAlert 
+import { ArrowLeft, FileSpreadsheet, CheckCircle2, Play, Check, X 
 } from "lucide-react";
 import { adminStore, Question, Chapter } from "@/lib/adminStore";
 
@@ -123,7 +121,7 @@ export default function BulkQuestionImportPage() {
           textHi: item.textHi || "",
           type: item.type || "MCQ",
           marks: Number(item.marks || 1),
-          difficulty: (item.difficulty?.toUpperCase() || "EASY") as any,
+          difficulty: (item.difficulty?.toUpperCase() || "EASY") as any /* eslint-disable-line @typescript-eslint/no-explicit-any */,
           explanation: item.explanation || "",
           options: item.options || [],
           correctIndex: item.correctIndex !== undefined ? Number(item.correctIndex) : -1,
@@ -135,7 +133,7 @@ export default function BulkQuestionImportPage() {
       setParsedRows(rows);
       setHasValidated(true);
       setIsImported(false);
-    } catch (err: any) {
+    } catch (err: any /* eslint-disable-line @typescript-eslint/no-explicit-any */) {
       alert(`Invalid JSON format: ${err.message}`);
     }
   };

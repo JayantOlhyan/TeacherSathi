@@ -5,9 +5,9 @@ import { Link, usePathname, useRouter } from "@/i18n/routing";
 import { 
   LayoutDashboard, Layers, BookOpen, Compass, FileText, 
   HelpCircle, Users, Bell, Database, Terminal, ShieldAlert,
-  ChevronRight, Menu, X, LogOut, FileCode, CheckCircle, RefreshCw, Key
+  ChevronRight, Menu, X, LogOut, FileCode, Key
 } from "lucide-react";
-import { motion, AnimatePresence } from "framer-motion";
+import { AnimatePresence } from "framer-motion";
 
 const SIDEBAR_ITEMS = [
   {
@@ -77,7 +77,7 @@ export default function AdminSidebarLayout({ children }: { children: React.React
 
     // Enforce basic admin authentication check
     const isAuth = localStorage.getItem("mock_authenticated") === "true";
-    const userRole = localStorage.getItem("last_sathi_post_type") || "admin";
+    // const userRole = localStorage.getItem("last_sathi_post_type") || "admin";
     
     // In our admin workspace, if not logged in as admin/founder, flag or simulate session
     if (!isAuth) {

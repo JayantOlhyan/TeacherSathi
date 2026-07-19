@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from "react";
 import { 
-  Terminal, Search, Database, Clock, ShieldAlert, ArrowDownWideNarrow, Trash
+  Search, Clock, ShieldAlert
 } from "lucide-react";
 import { adminStore, AuditLog } from "@/lib/adminStore";
 

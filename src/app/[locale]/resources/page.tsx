@@ -1,10 +1,9 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import { Link } from "@/i18n/routing";
+import { } from "@/i18n/routing";
 import { 
-  FileText, FolderOpen, Download, Search, Sparkles, BookOpen, 
-  HelpCircle, Eye, FileSpreadsheet, LayoutGrid, ClipboardList
+  FileText, FolderOpen, Download, Search, Sparkles, Eye, FileSpreadsheet, LayoutGrid, ClipboardList
 } from "lucide-react";
 import { adminStore, Resource } from "@/lib/adminStore";
 

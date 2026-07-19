@@ -1,9 +1,8 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import { 
-  Database, Plus, Trash2, Search, Link as LinkIcon, Eye, Tag, FileText, 
-  Image as ImageIcon, Film, FileArchive, CheckCircle2, ShieldCheck, ExternalLink
+import { Plus, Trash2, Search, Link as LinkIcon, FileText, 
+  Image as ImageIcon, Film, FileArchive, CheckCircle2
 } from "lucide-react";
 import { adminStore, MediaAsset, Class, Subject } from "@/lib/adminStore";
 
@@ -321,7 +320,7 @@ export default function AdminMediaPage() {
                   <label className="block text-[10px] font-bold text-slate-400 uppercase mb-1">File Visibility</label>
                   <select 
                     value={visibility}
-                    onChange={(e) => setVisibility(e.target.value as any)}
+                    onChange={(e) => setVisibility(e.target.value as any /* eslint-disable-line @typescript-eslint/no-explicit-any */)}
                     className="w-full bg-slate-950/60 border border-slate-800 rounded-lg p-2 text-xs text-slate-200 focus:outline-none"
                   >
                     <option value="PUBLIC">PUBLIC</option>

@@ -1,9 +1,8 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import { 
-  Compass, Plus, Edit3, Trash2, CheckCircle2, XCircle, 
-  ArrowUp, ArrowDown, Search, AlertCircle, AlertTriangle 
+import { Plus, Edit3, Trash2, CheckCircle2, XCircle, 
+  ArrowUp, ArrowDown, Search, AlertTriangle 
 } from "lucide-react";
 import { adminStore, Subject, Class } from "@/lib/adminStore";
 

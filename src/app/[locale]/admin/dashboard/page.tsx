@@ -3,10 +3,10 @@
 import { useState, useEffect } from "react";
 import { Link } from "@/i18n/routing";
 import { 
-  Users, BookOpen, Layers, HelpCircle, FileText, Bell, 
-  Terminal, ShieldCheck, Activity, Plus, ArrowRight, Play, Database
+  Users, BookOpen, Layers, HelpCircle, FileText, 
+  Terminal, ShieldCheck, Activity, Plus, ArrowRight, Database
 } from "lucide-react";
-import { adminStore, Class, Subject, Chapter, Question, AuditLog } from "@/lib/adminStore";
+import { adminStore, AuditLog } from "@/lib/adminStore";
 
 export default function AdminDashboard() {
   const [stats, setStats] = useState({

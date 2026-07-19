@@ -104,3 +104,31 @@ html.highlight-links-theme button[onClick] {
   outline: 2px dashed #f59e0b !important;
 }
 
+/* Skeleton Shimmer Animation */
+@keyframes shimmerSweep {
+  0% { transform: translateX(-100%); }
+  100% { transform: translateX(100%); }
+}
+
+.skeleton-block {
+  position: relative;
+  overflow: hidden;
+  background-color: #E2E8DE;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .skeleton-block::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    transform: translateX(-100%);
+    background: linear-gradient(
+      90deg,
+      transparent 0%,
+      rgba(22, 101, 52, 0.06) 50%,
+      transparent 100%
+    );
+    animation: shimmerSweep 1.5s ease-in-out infinite;
+  }
+}
+

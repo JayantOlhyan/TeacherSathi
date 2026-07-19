@@ -3,16 +3,15 @@
 import { useState, useEffect } from "react";
 import { Link } from "@/i18n/routing";
 import { 
-  Plus, Edit3, Lock, Unlock, Search, ExternalLink, Eye, 
-  CheckCircle2, RefreshCw, XCircle, FileSpreadsheet
+  Plus, Edit3, Lock, Unlock, Search, ExternalLink, FileSpreadsheet
 } from "lucide-react";
-import { adminStore, Chapter, Book, Class, Subject } from "@/lib/adminStore";
+import { adminStore, Chapter, Book } from "@/lib/adminStore";
 
 export default function AdminChaptersPage() {
   const [chapters, setChapters] = useState<Chapter[]>([]);
   const [books, setBooks] = useState<Book[]>([]);
-  const [classes, setClasses] = useState<Class[]>([]);
-  const [subjects, setSubjects] = useState<Subject[]>([]);
+  // const [classes, setClasses] = useState<Class[]>([]);
+  // const [subjects, setSubjects] = useState<Subject[]>([]);
   
   const [searchQuery, setSearchQuery] = useState("");
   const [selectedBookFilter, setSelectedBookFilter] = useState("ALL");
@@ -206,7 +205,7 @@ export default function AdminChaptersPage() {
                     <td className="p-4">
                       <select 
                         value={ch.publication_status}
-                        onChange={(e) => handleUpdateStatus(ch, e.target.value as any)}
+                        onChange={(e) => handleUpdateStatus(ch, e.target.value as any /* eslint-disable-line @typescript-eslint/no-explicit-any */)}
                         className={`bg-white border text-[10px] font-bold uppercase tracking-wider px-2 py-1 rounded-md focus:outline-none cursor-pointer ${
                           ch.publication_status === 'PUBLISHED' ? 'text-emerald-700 border-emerald-200 bg-emerald-50' :
                           ch.publication_status === 'IN_REVIEW' ? 'text-amber-700 border-amber-250 bg-amber-50' :
@@ -404,7 +403,7 @@ export default function AdminChaptersPage() {
                   <label className="block text-[10px] font-bold text-slate-500 uppercase mb-1">Publication Status</label>
                   <select 
                     value={status}
-                    onChange={(e) => setStatus(e.target.value as any)}
+                    onChange={(e) => setStatus(e.target.value as any /* eslint-disable-line @typescript-eslint/no-explicit-any */)}
                     className="w-full bg-slate-55 border border-slate-200 rounded-lg p-2.5 text-xs text-slate-800 focus:outline-none"
                   >
                     <option value="DRAFT">DRAFT</option>

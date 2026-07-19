@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from "react";
 import { 
-  Bell, Plus, Edit3, Trash2, CheckCircle2, Search, Calendar, AlertCircle
+  Plus, Edit3, Trash2, CheckCircle2, Search, Calendar
 } from "lucide-react";
 import { adminStore, Announcement } from "@/lib/adminStore";
 
@@ -252,7 +252,7 @@ export default function AdminAnnouncementsPage() {
                   <label className="block text-[10px] font-bold text-slate-400 uppercase mb-1">Target Audience</label>
                   <select 
                     value={target}
-                    onChange={(e) => setTarget(e.target.value as any)}
+                    onChange={(e) => setTarget(e.target.value as any /* eslint-disable-line @typescript-eslint/no-explicit-any */)}
                     className="w-full bg-slate-950/60 border border-slate-800 rounded-lg p-2.5 text-xs text-slate-200 focus:outline-none"
                   >
                     <option value="EVERYONE">EVERYONE</option>
@@ -266,7 +266,7 @@ export default function AdminAnnouncementsPage() {
                   <label className="block text-[10px] font-bold text-slate-400 uppercase mb-1">Priority</label>
                   <select 
                     value={priority}
-                    onChange={(e) => setPriority(e.target.value as any)}
+                    onChange={(e) => setPriority(e.target.value as any /* eslint-disable-line @typescript-eslint/no-explicit-any */)}
                     className="w-full bg-slate-950/60 border border-slate-800 rounded-lg p-2.5 text-xs text-slate-200 focus:outline-none"
                   >
                     <option value="LOW">LOW</option>
@@ -302,7 +302,7 @@ export default function AdminAnnouncementsPage() {
                 <label className="block text-[10px] font-bold text-slate-400 uppercase mb-1">Publication Status</label>
                 <select 
                   value={status}
-                  onChange={(e) => setStatus(e.target.value as any)}
+                  onChange={(e) => setStatus(e.target.value as any /* eslint-disable-line @typescript-eslint/no-explicit-any */)}
                   className="w-full bg-slate-950/60 border border-slate-800 rounded-lg p-2.5 text-xs text-slate-200 focus:outline-none"
                 >
                   <option value="DRAFT">DRAFT</option>
