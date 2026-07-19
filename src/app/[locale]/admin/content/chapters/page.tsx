@@ -40,8 +40,6 @@ export default function AdminChaptersPage() {
   const loadData = () => {
     setChapters(adminStore.getChapters().sort((a, b) => a.chapter_number - b.chapter_number));
     setBooks(adminStore.getBooks().filter(b => !b.is_archived));
-    setClasses(adminStore.getClasses().filter(c => !c.is_archived));
-    setSubjects(adminStore.getSubjects().filter(s => !s.is_archived));
   };
 
   const handleOpenAdd = () => {
