@@ -190,7 +190,7 @@ export default function Home() {
         </section>
 
         {/* 3. Trust Strip */}
-        <section className="mb-32 mt-4 relative z-20">
+        <section className="mb-16 mt-4 relative z-20">
           <TrustStrip />
         </section>
 
