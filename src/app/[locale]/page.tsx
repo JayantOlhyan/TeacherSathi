@@ -1,268 +1,323 @@
 "use client";
 
-import { useEffect, useState } from "react";
-import { Link } from "@/i18n/routing";
-import { useTranslations } from "next-intl";
-import { Button } from "@/components/ui/Button";
-import { CheckSquare, FileText, Download, BarChart, BookOpen, GraduationCap, Sparkles, Wand2, Rocket, Heart, Monitor, Wifi, Clock } from "lucide-react";
-import { FadeIn, StaggerChildren, StaggerItem } from "@/components/animations/FadeIn";
-import { supabase } from "@/lib/supabase";
+import React, { useState } from "react";
+import { 
+  ArrowRight, 
+  PlayCircle,
+  CheckCircle2,
+  Heart,
+  Monitor,
+  Video,
+  Network,
+  HelpCircle,
+  FileCheck2,
+  FileText,
+  Settings,
+  BookOpen,
+  LayoutTemplate
+} from "lucide-react";
+import JungleBackground from "@/components/landing/JungleBackground";
+import SmartboardFrame from "@/components/landing/SmartboardFrame";
+import TrustStrip from "@/components/landing/TrustStrip";
+import HowItWorksSteps from "@/components/landing/HowItWorksSteps";
+import TestimonialGrid from "@/components/landing/TestimonialGrid";
+import SampleResourcesExplorer from "@/components/landing/SampleResourcesExplorer";
+import CurriculumCoverage from "@/components/landing/CurriculumCoverage";
+import FooterMission from "@/components/landing/FooterMission";
+import Image from "next/image";
 
 export default function Home() {
-  const t = useTranslations("Hero");
-  const tNav = useTranslations("Nav");
-  const tHiw = useTranslations("HowItWorks");
-  const tMission = useTranslations("Mission");
-  const tCta = useTranslations("CTA");
-
-  const [isAuthenticated, setIsAuthenticated] = useState<boolean | null>(null);
-  const [lastView, setLastView] = useState<{ url: string; title: string } | null>(null);
-
-  useEffect(() => {
-    const isMockAuth = localStorage.getItem("mock_authenticated") === "true";
-
-    if (supabase) {
-      supabase.auth.getSession().then(({ data: { session } }) => {
-        if (session) {
-          setIsAuthenticated(true);
-        } else {
-          setIsAuthenticated(isMockAuth);
-        }
-      });
-    } else {
-      setIsAuthenticated(isMockAuth);
-    }
-
-    const viewUrl = localStorage.getItem("last_sathi_view");
-    const viewTitle = localStorage.getItem("last_sathi_view_title");
-    if (viewUrl) {
-      setLastView({
-        url: viewUrl,
-        title: viewTitle || "Last Activity"
-      });
-    }
-  }, []);
-
-  const features = [
-    { title: "Lesson Planning", icon: FileText, desc: "Prepare comprehensive lessons in minutes." },
-    { title: "Student Analytics", icon: BarChart, desc: "Detailed growth and performance tracking." },
-    { title: "Interactive Quizzes", icon: CheckSquare, desc: "Engage students with AI-generated quizzes." },
-    { title: "Smart Assessment", icon: BookOpen, desc: "Automated grading and personalized feedback." },
-    { title: "Homework Management", icon: GraduationCap, desc: "Assign and track homework seamlessly." },
-    { title: "Phonemic Awareness", icon: Sparkles, desc: "Specialized tools for early literacy." },
-    { title: "NCERT Solutions", icon: BookOpen, desc: "Verified solutions for all chapters." },
-    { title: "Resource Library", icon: Download, desc: "Access curated teaching materials." },
-  ];
-
   return (
-    <div className="min-h-screen flex flex-col font-sans bg-cream text-ink overflow-hidden transition-colors duration-200 relative">
+    <div className="relative min-h-screen flex flex-col font-sans text-ink overflow-x-hidden selection:bg-brand-DEFAULT selection:text-white">
+      
+      {/* 1. Global Background */}
+      <JungleBackground />
 
-      {/* Modern Premium Background Glow Orb */}
-      <div className="absolute top-[20%] left-1/2 -translate-x-1/2 -translate-y-1/2 w-[min(100%,550px)] aspect-square bg-gradient-to-tr from-emerald-400/10 to-teal-400/5 rounded-full blur-3xl pointer-events-none z-0" />
+      <main className="relative flex-1 w-full z-10 pt-20 pb-24 px-4 sm:px-6 lg:px-8 max-w-[1400px] mx-auto">
 
-      <main className="flex-1 flex flex-col items-center w-full relative z-10">
-        {/* Hero Section */}
-        <section className="w-full py-[clamp(3rem,8vw,5rem)] px-[clamp(1rem,4vw,3rem)] max-w-[1200px] mx-auto text-center">
-          <div className="w-full max-w-4xl mx-auto space-y-8 flex flex-col items-center">
-            <FadeIn delay={0}>
-              <h1 className="text-[clamp(2.5rem,6vw,4.5rem)] font-black tracking-tight text-balance leading-tight text-slate-900 font-serif">
-                Teachers ka Superpower.
-                <span className="block mt-2 bg-clip-text text-transparent bg-gradient-to-r from-emerald-600 to-teal-500 font-sans font-extrabold pb-2">
-                  NCERT-Aligned AI Content
-                </span>
-                <span className="text-[clamp(1.75rem,4vw,3rem)] font-black text-slate-500/80 block mt-2 font-sans">— Instantly.</span>
+        {/* 2. Hero Section */}
+        <section className="grid grid-cols-1 lg:grid-cols-12 gap-12 lg:gap-8 items-center min-h-[85vh]">
+          
+          {/* Hero Left Content */}
+          <div className="lg:col-span-5 space-y-8 z-20 relative">
+            <div className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-[#FAFAFA]/90 backdrop-blur-md border border-brand-200/50 text-brand-800 font-bold text-[11px] uppercase tracking-widest shadow-sm">
+              <Heart className="w-3.5 h-3.5 fill-brand-DEFAULT text-brand-DEFAULT" /> Made for Government School Teachers
+            </div>
+
+            <div className="space-y-6">
+              <h1 className="text-5xl sm:text-6xl md:text-7xl font-black text-[#1A2E20] tracking-tight leading-[1.05]">
+                Turn any NCERT chapter into a classroom-ready lesson.
               </h1>
-            </FadeIn>
-            <FadeIn delay={0.15}>
-              <p className="text-[clamp(1rem,2vw,1.125rem)] text-slate-600 max-w-2xl leading-relaxed font-medium">
-                {t('subtitle')}
+              
+              <p className="text-lg text-[#2C4A35] font-semibold leading-relaxed max-w-md">
+                Presentations, videos, quizzes, mind maps, question banks and worksheets — built around the chapter you're actually teaching.
               </p>
-            </FadeIn>
-            <FadeIn delay={0.3}>
-              <div className="flex flex-wrap gap-4 pt-2 justify-center min-h-[60px]">
-                {isAuthenticated === null ? (
-                  // Simple loading skeleton to avoid content jumps
-                  <div className="h-12 w-48 bg-brand/10 animate-pulse rounded-xl" />
-                ) : isAuthenticated ? (
-                  <>
-                    <Button asChild className="bg-gradient-to-r from-emerald-600 to-teal-500 hover:from-emerald-700 hover:to-teal-600 text-white px-8 py-6 rounded-2xl text-lg font-extrabold shadow-lg shadow-emerald-500/20 active:scale-95 transition-all duration-150 flex items-center gap-2 group border-0 cursor-pointer">
-                      <Link href="/dashboard" className="flex items-center gap-2">
-                        {t('cta_dashboard')} <Rocket className="w-5 h-5 group-hover:translate-x-0.5 transition-transform" />
-                      </Link>
-                    </Button>
-                    <Button asChild variant="outline" className="bg-white/90 border-2 border-emerald-500/10 hover:border-emerald-500/30 text-emerald-800 px-8 py-6 rounded-2xl text-lg font-bold shadow-sm active:scale-95 transition-all duration-150 max-w-xs truncate flex items-center gap-2 cursor-pointer">
-                      <Link href={lastView ? lastView.url : "/content/class-10"} className="flex items-center gap-2">
-                        <Clock className="w-5 h-5 text-emerald-700 shrink-0" />
-                        <span className="truncate">{lastView ? `${t('cta_resume_activity')}: ${lastView.title}` : tNav('content_library')}</span>
-                      </Link>
-                    </Button>
-                  </>
-                ) : (
-                  <>
-                    <Button 
-                      onClick={() => window.dispatchEvent(new Event("open-auth-modal"))}
-                      className="bg-gradient-to-r from-emerald-600 to-teal-500 hover:from-emerald-700 hover:to-teal-600 text-white px-8 py-6 rounded-2xl text-lg font-extrabold shadow-lg shadow-emerald-500/20 active:scale-95 transition-all duration-150 flex items-center gap-2 group cursor-pointer border-0"
-                    >
-                      {t('cta_primary')} <Sparkles className="w-5 h-5 text-amber-300 group-hover:scale-110 transition-transform" />
-                    </Button>
-                    <Button asChild variant="outline" className="bg-white/90 border-2 border-emerald-500/10 hover:border-emerald-500/30 text-emerald-800 px-8 py-6 rounded-2xl text-lg font-bold shadow-sm active:scale-95 transition-all duration-150 flex items-center gap-2 cursor-pointer">
-                      <Link href="/#how-it-works" className="flex items-center gap-2">
-                        <Wand2 className="w-5 h-5 text-emerald-700 animate-pulse" />
-                        {t('cta_secondary')}
-                      </Link>
-                    </Button>
-                  </>
-                )}
-              </div>
-            </FadeIn>
- 
-            {/* Trust Badges */}
-            <FadeIn delay={0.45}>
-              <div className="flex flex-wrap items-center justify-center gap-[clamp(0.5rem,2vw,1rem)] pt-2 text-sm text-ink-3/70">
-                <span className="flex items-center gap-1.5"><Monitor className="w-4 h-4 text-brand shrink-0" /> 75-inch Smart Screen Ready</span>
-                <span className="flex items-center gap-1.5"><Wifi className="w-4 h-4 text-emerald-600 shrink-0" /> No Hardware Required</span>
-                <span className="flex items-center gap-1.5"><BookOpen className="w-4 h-4 text-cyan-600 shrink-0" /> NCERT Class 6-10</span>
-              </div>
-            </FadeIn>
-          </div>
-        </section>
+            </div>
 
-        {/* Yellow Banner Strip */}
-        <div className="w-full bg-[#FBBF24] py-3 overflow-hidden flex whitespace-nowrap border-y border-brand/5 shadow-sm">
-          <div className="animate-marquee flex gap-8 items-center text-black font-extrabold text-2xl tracking-wide">
-            <span>✦ Class 6 Science</span>
-            <span>✦ Class 7 Maths</span>
-            <span>✦ Class 8 Social Science</span>
-            <span>✦ Class 9 English</span>
-            <span>✦ Class 10 Hindi</span>
-            <span>✦ Class 6 Science</span>
-            <span>✦ Class 7 Maths</span>
-            <span>✦ Class 8 Social Science</span>
-            <span>✦ Class 9 English</span>
-            <span>✦ Class 10 Hindi</span>
-          </div>
-        </div>
+            <div className="flex flex-col sm:flex-row items-center gap-4 pt-4">
+              <button 
+                onClick={() => window.dispatchEvent(new Event("open-auth-modal"))}
+                className="w-full sm:w-auto px-6 py-3.5 rounded-full bg-brand-DEFAULT text-white font-extrabold text-sm shadow-[0_8px_20px_-4px_rgba(15,91,56,0.4)] hover:bg-brand-600 transition-colors flex items-center justify-center gap-2"
+              >
+                Create Your First Lesson <ArrowRight className="w-4 h-4" />
+              </button>
 
-        {/* Feature Grid Section */}
-        <section id="features" className="w-full py-[clamp(3rem,6vw,4rem)] px-[clamp(1rem,4vw,2rem)] max-w-[1200px] mx-auto">
-          <StaggerChildren className="grid grid-cols-[repeat(auto-fit,minmax(260px,1fr))] gap-[clamp(1rem,3vw,1.5rem)]" staggerDelay={0.08}>
-            {features.map((feature, idx) => (
-              <StaggerItem key={idx}>
-                <div className="bg-white border border-line rounded-2xl p-6 flex items-start gap-4 hover:shadow-card hover:-translate-y-1 transition-all duration-200 h-full">
-                  <div className="w-10 h-10 bg-brand/5 rounded-xl flex items-center justify-center shrink-0">
-                    <feature.icon className="w-5 h-5 text-brand" />
+              <button 
+                className="w-full sm:w-auto px-6 py-3.5 rounded-full bg-white/80 backdrop-blur-md border border-brand-950/10 text-brand-950 font-extrabold text-sm hover:bg-white transition-colors flex items-center justify-center gap-2 shadow-sm"
+              >
+                See How It Works <PlayCircle className="w-4 h-4 text-brand-DEFAULT" />
+              </button>
+            </div>
+
+            <div className="flex flex-wrap items-center gap-x-6 gap-y-3 pt-6 border-t border-brand-900/10">
+              <span className="flex items-center gap-2 text-xs font-bold text-[#1A2E20]"><CheckCircle2 className="w-4 h-4 text-brand-DEFAULT" /> NCERT Aligned</span>
+              <span className="flex items-center gap-2 text-xs font-bold text-[#1A2E20]"><BookOpen className="w-4 h-4 text-brand-DEFAULT" /> Hindi & English</span>
+              <span className="flex items-center gap-2 text-xs font-bold text-[#1A2E20]"><Monitor className="w-4 h-4 text-brand-DEFAULT" /> No Special Hardware Required</span>
+            </div>
+          </div>
+
+          {/* Hero Right Smartboard Dashboard */}
+          <div className="lg:col-span-7 z-10 relative">
+            <SmartboardFrame>
+              <div className="flex h-full w-full bg-[#F3F4F6] font-sans text-ink">
+                {/* Sidebar */}
+                <div className="w-[180px] bg-[#123524] text-white flex flex-col py-6">
+                  <div className="px-6 mb-8 flex items-center gap-2">
+                    <div className="w-8 h-8 rounded bg-white flex items-center justify-center">
+                      <BookOpen className="w-5 h-5 text-[#123524]" />
+                    </div>
+                    <div>
+                      <h1 className="font-black text-sm tracking-tight leading-none">TeacherSathi</h1>
+                      <span className="text-[10px] text-white/70 font-medium">साथी</span>
+                    </div>
                   </div>
-                  <div>
-                    <h2 className="font-bold text-base mb-1 text-ink">{feature.title}</h2>
-                    <p className="text-xs text-ink-3 leading-relaxed">{feature.desc}</p>
-                  </div>
+
+                  <nav className="flex-1 space-y-1 px-3">
+                    <a href="#" className="flex items-center gap-3 px-3 py-2.5 bg-white/10 rounded-lg text-white font-bold text-xs">
+                      <LayoutTemplate className="w-4 h-4" /> Dashboard
+                    </a>
+                    <a href="#" className="flex items-center gap-3 px-3 py-2.5 text-white/70 hover:text-white font-bold text-xs">
+                      <BookOpen className="w-4 h-4" /> My Lessons
+                    </a>
+                    <a href="#" className="flex items-center gap-3 px-3 py-2.5 text-white/70 hover:text-white font-bold text-xs">
+                      <FileText className="w-4 h-4" /> Resources
+                    </a>
+                    <a href="#" className="flex items-center gap-3 px-3 py-2.5 text-white/70 hover:text-white font-bold text-xs">
+                      <HelpCircle className="w-4 h-4" /> Quizzes
+                    </a>
+                    <a href="#" className="flex items-center gap-3 px-3 py-2.5 text-white/70 hover:text-white font-bold text-xs">
+                      <FileCheck2 className="w-4 h-4" /> Worksheets
+                    </a>
+                    <a href="#" className="flex items-center gap-3 px-3 py-2.5 text-white/70 hover:text-white font-bold text-xs mt-auto">
+                      <Settings className="w-4 h-4" /> Settings
+                    </a>
+                  </nav>
                 </div>
-              </StaggerItem>
-            ))}
-          </StaggerChildren>
+
+                {/* Main Content Area */}
+                <div className="flex-1 bg-white rounded-l-3xl p-10 flex flex-col">
+                  
+                  <div className="mb-10">
+                    <h2 className="text-2xl font-black text-[#1A2E20] mb-1">Let's create your teaching kit</h2>
+                    <p className="text-[#4A5D52] text-xs font-semibold">Choose your chapter and generate all resources in seconds.</p>
+                  </div>
+
+                  {/* Form */}
+                  <div className="space-y-6 mb-12">
+                    <div className="flex gap-4">
+                      <div className="flex-1 space-y-1.5">
+                        <label className="text-[10px] font-extrabold text-[#1A2E20] uppercase tracking-widest pl-1">Class</label>
+                        <div className="h-10 border border-slate-200 rounded-lg bg-slate-50 flex items-center px-3 justify-between">
+                          <span className="text-sm font-bold text-[#1A2E20]">8</span>
+                          <span className="text-slate-400 text-xs">▼</span>
+                        </div>
+                      </div>
+                      <div className="flex-[1.5] space-y-1.5">
+                        <label className="text-[10px] font-extrabold text-[#1A2E20] uppercase tracking-widest pl-1">Subject</label>
+                        <div className="h-10 border border-slate-200 rounded-lg bg-slate-50 flex items-center px-3 justify-between">
+                          <span className="text-sm font-bold text-[#1A2E20]">Science</span>
+                          <span className="text-slate-400 text-xs">▼</span>
+                        </div>
+                      </div>
+                      <div className="flex-[3] space-y-1.5">
+                        <label className="text-[10px] font-extrabold text-[#1A2E20] uppercase tracking-widest pl-1">Chapter</label>
+                        <div className="h-10 border border-slate-200 rounded-lg bg-slate-50 flex items-center px-3 justify-between">
+                          <span className="text-sm font-bold text-[#1A2E20]">Conservation of Plants and Animals</span>
+                          <span className="text-slate-400 text-xs">▼</span>
+                        </div>
+                      </div>
+                    </div>
+                    
+                    <button className="w-full py-3.5 rounded-lg bg-[#156B3A] text-white font-black text-sm flex items-center justify-center gap-2 shadow-md">
+                      Generate Teaching Kit <span className="text-xl leading-none -mt-1">✨</span>
+                    </button>
+                  </div>
+
+                  {/* What you will get */}
+                  <div className="mt-auto">
+                    <h3 className="text-[11px] font-extrabold text-[#1A2E20] uppercase tracking-widest mb-4">What you will get</h3>
+                    
+                    <div className="flex justify-between">
+                      {/* Icons Row */}
+                      {[
+                        { label: "Lesson Presentation", icon: Monitor, color: "text-rose-500", bg: "bg-rose-50" },
+                        { label: "Explainer Video", icon: Video, color: "text-purple-500", bg: "bg-purple-50" },
+                        { label: "Mind Map", icon: Network, color: "text-emerald-500", bg: "bg-emerald-50" },
+                        { label: "Interactive Quiz", icon: HelpCircle, color: "text-amber-500", bg: "bg-amber-50" },
+                        { label: "Question Bank", icon: FileCheck2, color: "text-blue-500", bg: "bg-blue-50" },
+                        { label: "Worksheet", icon: FileText, color: "text-orange-500", bg: "bg-orange-50" }
+                      ].map((item, i) => (
+                        <div key={i} className="flex flex-col items-center text-center gap-3 w-16">
+                          <div className={`w-14 h-14 rounded-2xl ${item.bg} flex items-center justify-center shadow-sm border border-slate-100`}>
+                            <item.icon className={`w-6 h-6 ${item.color}`} />
+                          </div>
+                          <span className="text-[9px] font-bold text-[#4A5D52] leading-tight px-1">{item.label}</span>
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+
+                  {/* Footer tags */}
+                  <div className="flex justify-between items-center mt-12 pt-4 border-t border-slate-100 text-[10px] font-bold text-[#1A2E20]">
+                    <span className="flex items-center gap-1.5"><CheckCircle2 className="w-3.5 h-3.5 text-brand-DEFAULT" /> NCERT Aligned</span>
+                    <span className="text-[#4A5D52]">75-inch Smart Screen Ready</span>
+                  </div>
+
+                </div>
+              </div>
+            </SmartboardFrame>
+          </div>
         </section>
 
-        {/* How It Works Section */}
-        <section id="how-it-works" className="w-full py-[clamp(3rem,8vw,5rem)] px-[clamp(1rem,4vw,2rem)] max-w-[1200px] mx-auto">
-          <FadeIn className="text-center mb-14">
-            <h2 className="text-[clamp(1.875rem,4vw,2.25rem)] font-extrabold mb-3 text-ink">
-              {tHiw('title')}
+        {/* 3. Trust Strip */}
+        <section className="mb-32 mt-4 relative z-20">
+          <TrustStrip />
+        </section>
+
+        {/* 4. Features Section */}
+        <section className="grid grid-cols-1 lg:grid-cols-12 gap-12 lg:gap-8 items-center mb-32">
+          {/* Left Column */}
+          <div className="lg:col-span-4 space-y-6 z-20">
+            <h2 className="text-4xl sm:text-5xl font-black text-[#1A2E20] leading-tight tracking-tight">
+              One chapter.<br />Everything you need.
             </h2>
-            <p className="text-[clamp(0.875rem,2vw,1rem)] text-ink-3 max-w-xl mx-auto">{tHiw('subtitle')}</p>
-          </FadeIn>
-          <div className="grid grid-cols-[repeat(auto-fit,minmax(250px,1fr))] gap-[clamp(1.5rem,4vw,2rem)]">
-            {[
-              {
-                step: "01",
-                icon: BookOpen,
-                color: "bg-[#258088]",
-                titleKey: "step1_title" as const,
-                descKey: "step1_desc" as const,
-              },
-              {
-                step: "02",
-                icon: Wand2,
-                color: "bg-[#D95B2A]",
-                titleKey: "step2_title" as const,
-                descKey: "step2_desc" as const,
-              },
-              {
-                step: "03",
-                icon: Rocket,
-                color: "bg-[#16A34A]",
-                titleKey: "step3_title" as const,
-                descKey: "step3_desc" as const,
-              },
-            ].map((item) => (
-              <div key={item.step} className="relative bg-white border border-line rounded-2xl p-8 text-center group hover:shadow-card hover:-translate-y-1 transition-all duration-200">
-                <div className="absolute -top-3.5 left-1/2 -translate-x-1/2">
-                  <div className="bg-brand-tint border border-brand-tint-2 text-brand text-xs font-bold px-4 py-1.5 rounded-full shadow-sm">
-                    STEP {item.step}
+            <p className="text-[#4A5D52] font-semibold leading-relaxed">
+              TeacherSathi turns any NCERT chapter into a complete teaching kit that you can use in your classroom immediately.
+            </p>
+            
+            <div className="space-y-4 pt-4">
+              {[
+                "Lesson Presentation",
+                "Explainer Video",
+                "Mind Map",
+                "Interactive Quiz",
+                "Question Bank",
+                "Worksheet"
+              ].map((feature, i) => (
+                <div key={i} className="flex items-center gap-3">
+                  <div className="w-5 h-5 rounded-full bg-brand-DEFAULT flex items-center justify-center shrink-0">
+                    <CheckCircle2 className="w-3.5 h-3.5 text-white" strokeWidth={3} />
                   </div>
+                  <span className="text-[#1A2E20] font-bold text-sm">{feature}</span>
                 </div>
-                <div className={`w-16 h-16 ${item.color} text-white rounded-2xl flex items-center justify-center mx-auto mt-4 mb-5 shadow-sm`}>
-                  <item.icon className="w-8 h-8 text-white" />
-                </div>
-                <h3 className="text-xl font-bold mb-3 text-ink">{tHiw(item.titleKey)}</h3>
-                <p className="text-ink-3 text-sm leading-relaxed">{tHiw(item.descKey)}</p>
-              </div>
-            ))}
-          </div>
-        </section>
+              ))}
+            </div>
 
-        {/* Mission Section */}
-        <section id="mission" className="w-full py-[clamp(3rem,8vw,5rem)] px-[clamp(1rem,4vw,2rem)]">
-          <FadeIn className="max-w-[1000px] mx-auto">
-            <div className="relative bg-gradient-to-br from-[#E1A140] to-[#D97706] rounded-3xl p-[clamp(1.5rem,5vw,3.5rem)] overflow-hidden shadow-lg">
-              <div className="absolute top-0 right-0 w-72 h-72 bg-white/10 rounded-full -translate-y-1/2 translate-x-1/2 animate-pulse-slow" />
-              <div className="absolute bottom-0 left-0 w-48 h-48 bg-white/10 rounded-full translate-y-1/2 -translate-x-1/2" />
-              <div className="relative z-10 text-white">
-                <div className="flex items-center gap-2 mb-6">
-                  <Heart className="w-6 h-6 text-white fill-white" />
-                  <span className="text-white/90 font-semibold uppercase tracking-wider text-sm">{tMission('label')}</span>
-                </div>
-                <blockquote className="text-white text-2xl sm:text-3xl font-bold leading-relaxed mb-6 italic">
-                  &ldquo;{tMission('quote')}&rdquo;
-                </blockquote>
-                <div className="flex items-center gap-4">
-                  <div className="w-12 h-12 bg-white/20 rounded-full flex items-center justify-center text-white font-extrabold text-lg">J</div>
-                  <div>
-                    <p className="text-white font-bold">{tMission('founder_name')}</p>
-                    <p className="text-white/70 text-sm">{tMission('founder_role')}</p>
+            <div className="pt-4">
+              <span className="text-brand-DEFAULT text-xl font-bold italic font-serif">All resources. One click.</span>
+            </div>
+          </div>
+
+          {/* Right Column (Smartboard) */}
+          <div className="lg:col-span-8 relative z-10">
+            <div className="flex items-center">
+              <div className="flex-1">
+                <SmartboardFrame>
+                  <div className="w-full h-full bg-[#F3F4F6] p-1.5 flex gap-1.5">
+                    {/* Fake Sidebar for Presentation */}
+                    <div className="w-[120px] bg-white rounded-l-2xl border border-slate-200 flex flex-col gap-2 p-2 hidden sm:flex">
+                      {[1, 2, 3, 4, 5].map((item, idx) => (
+                        <div key={idx} className={`w-full aspect-video rounded-md border-2 flex items-center justify-center text-[8px] font-bold ${idx === 0 ? 'border-brand-DEFAULT bg-brand-50 text-brand-DEFAULT' : 'border-slate-100 bg-slate-50 text-slate-300'}`}>
+                          Slide {item}
+                        </div>
+                      ))}
+                    </div>
+                    {/* Main Slide Area */}
+                    <div className="flex-1 bg-white rounded-2xl sm:rounded-r-2xl border border-slate-200 overflow-hidden relative flex">
+                      <div className="flex-1 p-8 sm:p-12 flex flex-col justify-center">
+                        <div className="text-[10px] font-extrabold text-[#4A5D52] tracking-widest uppercase mb-4">
+                          CLASS 8 - SCIENCE
+                        </div>
+                        <h2 className="text-4xl sm:text-5xl font-black text-[#1A2E20] leading-tight mb-4 tracking-tight">
+                          Conservation of<br />Plants and Animals
+                        </h2>
+                        <p className="text-[#4A5D52] font-medium max-w-sm text-sm">
+                          Understanding the importance of conserving our natural world.
+                        </p>
+                        
+                        <div className="mt-8 flex items-center gap-2">
+                          <CheckCircle2 className="w-4 h-4 text-brand-DEFAULT" />
+                          <span className="text-xs font-bold text-[#1A2E20]">NCERT Aligned</span>
+                        </div>
+                      </div>
+                      
+                      {/* Giraffe Image */}
+                      <div className="w-2/5 relative h-full">
+                         <div className="absolute top-4 left-4 w-6 h-6 rounded-full bg-slate-100 flex items-center justify-center text-slate-400 font-bold text-xs">+</div>
+                         <Image src="/giraffe.jpg" alt="Giraffe" fill className="object-cover object-right" />
+                      </div>
+                    </div>
                   </div>
-                </div>
-                <p className="text-white/80 mt-6 leading-relaxed max-w-2xl text-sm sm:text-base">
-                  {tMission('description')}
-                </p>
+                </SmartboardFrame>
+              </div>
+
+              {/* Vertical Steps Outside */}
+              <div className="hidden xl:flex flex-col gap-6 ml-10">
+                {[
+                  { num: "01", label: "Presentation", active: true },
+                  { num: "02", label: "Video", active: false },
+                  { num: "03", label: "Mind Map", active: false },
+                  { num: "04", label: "Quiz", active: false },
+                  { num: "05", label: "Question Bank", active: false },
+                  { num: "06", label: "Worksheet", active: false }
+                ].map((step, i) => (
+                  <div key={i} className="flex items-center gap-4">
+                    <div className={`w-8 h-8 rounded-full flex items-center justify-center text-[10px] font-black tracking-tighter transition-colors ${step.active ? 'bg-brand-DEFAULT text-white shadow-[0_4px_15px_-3px_rgba(15,91,56,0.4)]' : 'bg-white/80 backdrop-blur-sm border border-slate-200 text-slate-400'}`}>
+                      {step.num}
+                    </div>
+                    <span className={`text-sm font-bold tracking-tight ${step.active ? 'text-brand-900' : 'text-slate-500'}`}>
+                      {step.label}
+                    </span>
+                  </div>
+                ))}
               </div>
             </div>
-          </FadeIn>
+          </div>
         </section>
 
-        {/* Join Now CTA */}
-        <section className="w-full max-w-[1200px] mx-auto px-[clamp(1rem,4vw,2rem)] mb-16">
-          <div className="bg-brand rounded-3xl p-[clamp(2rem,6vw,3rem)] flex flex-col md:flex-row items-center justify-between gap-6 shadow-brand">
-            <h2 className="text-[clamp(1.5rem,3vw,1.875rem)] font-extrabold max-w-xl text-center md:text-left text-white leading-snug">
-              {tCta('heading')}
-            </h2>
-            {isAuthenticated ? (
-              <Button asChild className="bg-[#FBBF24] text-black hover:bg-[#F59E0B] rounded-xl px-10 py-6 text-xl font-bold shadow-md hover:scale-[1.02] active:scale-[0.98] transition-all">
-                <Link href="/dashboard">
-                  {t('cta_dashboard')}
-                </Link>
-              </Button>
-            ) : (
-              <Button 
-                onClick={() => window.dispatchEvent(new Event("open-auth-modal"))}
-                className="bg-[#FBBF24] text-black hover:bg-[#F59E0B] rounded-xl px-10 py-6 text-xl font-bold shadow-md hover:scale-[1.02] active:scale-[0.98] transition-all cursor-pointer"
-              >
-                {tCta('button')}
-              </Button>
-            )}
-          </div>
+        {/* 5. How It Works Section */}
+        <section className="mb-32 relative z-20">
+          <HowItWorksSteps />
+        </section>
+
+        {/* 6. Testimonials Section */}
+        <section className="mb-32 relative z-20">
+          <TestimonialGrid />
+        </section>
+
+        {/* 7. Sample Resources Interactive Section */}
+        <section className="mb-32 relative z-20">
+          <SampleResourcesExplorer />
+        </section>
+
+        {/* 8. Curriculum Coverage Section */}
+        <section className="mb-32 relative z-20">
+          <CurriculumCoverage />
         </section>
 
       </main>
+
+      <FooterMission />
     </div>
   );
 }
