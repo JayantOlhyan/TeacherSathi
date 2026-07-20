@@ -99,7 +99,7 @@ export default function SampleResourcesExplorer() {
 
       </div>
 
-      <button className="text-[#1A2E20] font-bold text-sm flex items-center gap-1.5 hover:text-brand-DEFAULT transition-colors">
+      <button className="text-[#1A2E20] font-bold text-sm flex items-center gap-1.5 hover:text-brand transition-colors">
         View all resources <ArrowRight className="w-4 h-4" />
       </button>
     </div>

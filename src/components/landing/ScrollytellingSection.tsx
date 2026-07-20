@@ -72,7 +72,7 @@ export default function ScrollytellingSection() {
           <div className="w-full text-center max-w-3xl mx-auto mb-10 mt-10 lg:mt-0">
             <h2 className="text-3xl sm:text-5xl font-black text-ink tracking-tight leading-[1.1] mb-4">
               The entire chapter,<br />
-              <span className="text-brand-DEFAULT">ready in seconds.</span>
+              <span className="text-brand">ready in seconds.</span>
             </h2>
             <p className="text-sm sm:text-base text-ink-3 font-medium">
               Watch how one NCERT chapter transforms into a complete, interactive classroom experience. Keep scrolling.
@@ -87,7 +87,7 @@ export default function ScrollytellingSection() {
                 
                 {/* Animated Progress Line */}
                 <div 
-                  className="absolute top-0 left-[-2px] w-[2px] bg-brand-DEFAULT origin-top transition-all duration-300 ease-out"
+                  className="absolute top-0 left-[-2px] w-[2px] bg-brand origin-top transition-all duration-300 ease-out"
                   style={{ height: `${Math.max(0, scrollProgress * 100)}%` }}
                 />
 
@@ -106,14 +106,14 @@ export default function ScrollytellingSection() {
                       }`}
                     >
                       <div className={`w-8 h-8 rounded-full flex items-center justify-center shrink-0 transition-colors ${
-                        isActive ? "bg-brand-DEFAULT text-white shadow-lg shadow-brand-DEFAULT/30" : 
-                        isPast ? "bg-brand-50 border border-brand-200 text-brand-DEFAULT" :
+                        isActive ? "bg-brand text-white shadow-lg shadow-brand/30" : 
+                        isPast ? "bg-brand-50 border border-brand-200 text-brand" :
                         "bg-transparent border border-ink-4/30 text-ink-4"
                       }`}>
                         {isPast ? <CheckCircle2 className="w-4 h-4" /> : <step.icon className="w-4 h-4" />}
                       </div>
                       <div>
-                        <div className={`text-[9px] font-black uppercase tracking-widest ${isActive ? "text-brand-DEFAULT" : "text-ink-4"}`}>
+                        <div className={`text-[9px] font-black uppercase tracking-widest ${isActive ? "text-brand" : "text-ink-4"}`}>
                           Step {step.num}
                         </div>
                         <div className={`text-sm font-bold ${isActive ? "text-ink" : "text-ink-3"}`}>
@@ -145,7 +145,7 @@ export default function ScrollytellingSection() {
                     </div>
                     <div className="flex items-center gap-3">
                       <Settings className="w-4 h-4 text-slate-400" />
-                      <div className="w-7 h-7 rounded-full bg-brand-100 text-brand-DEFAULT flex items-center justify-center font-bold text-xs">
+                      <div className="w-7 h-7 rounded-full bg-brand-100 text-brand flex items-center justify-center font-bold text-xs">
                         T
                       </div>
                     </div>
@@ -178,15 +178,15 @@ export default function ScrollytellingSection() {
                             </div>
                           </div>
                           <div className="space-y-2">
-                            <label className="text-[10px] font-extrabold text-brand-DEFAULT uppercase tracking-widest pl-1">NCERT Chapter</label>
-                            <div className="w-full h-12 rounded-xl border border-brand-DEFAULT/30 bg-brand-50/80 flex items-center px-4 justify-between cursor-pointer ring-4 ring-brand-DEFAULT/5">
+                            <label className="text-[10px] font-extrabold text-brand uppercase tracking-widest pl-1">NCERT Chapter</label>
+                            <div className="w-full h-12 rounded-xl border border-brand/30 bg-brand-50/80 flex items-center px-4 justify-between cursor-pointer ring-4 ring-brand/5">
                               <span className="text-sm font-black text-brand-950">7. Conservation of Plants and Animals</span>
-                              <ChevronRight className="w-4 h-4 text-brand-DEFAULT rotate-90" />
+                              <ChevronRight className="w-4 h-4 text-brand rotate-90" />
                             </div>
                           </div>
                         </div>
 
-                        <button className="w-full py-3.5 rounded-xl bg-brand-DEFAULT hover:bg-brand-600 transition-colors text-white font-extrabold text-sm shadow-[0_8px_20px_-4px_rgba(15,91,56,0.3)] flex items-center justify-center gap-2">
+                        <button className="w-full py-3.5 rounded-xl bg-brand hover:bg-brand-600 transition-colors text-white font-extrabold text-sm shadow-[0_8px_20px_-4px_rgba(15,91,56,0.3)] flex items-center justify-center gap-2">
                           <Sparkles className="w-4 h-4" /> Generate Teaching Kit
                         </button>
                       </div>
@@ -197,16 +197,16 @@ export default function ScrollytellingSection() {
                       <div className="text-center space-y-6">
                         <div className="relative w-24 h-24 mx-auto">
                           <div className="absolute inset-0 rounded-full border-4 border-slate-100" />
-                          <div className="absolute inset-0 rounded-full border-4 border-brand-DEFAULT border-t-transparent animate-spin" />
+                          <div className="absolute inset-0 rounded-full border-4 border-brand border-t-transparent animate-spin" />
                           <div className="absolute inset-0 flex items-center justify-center">
-                            <Sparkles className="w-8 h-8 text-brand-DEFAULT animate-pulse" />
+                            <Sparkles className="w-8 h-8 text-brand animate-pulse" />
                           </div>
                         </div>
                         <div className="space-y-2">
                           <h3 className="text-xl font-black text-ink">Analyzing NCERT Chapter 7...</h3>
                           <div className="flex flex-col gap-2 items-center text-xs font-bold text-ink-3">
-                            <span className="flex items-center gap-2 text-brand-DEFAULT"><CheckCircle2 className="w-3.5 h-3.5" /> Extracting core concepts</span>
-                            <span className="flex items-center gap-2 text-brand-DEFAULT"><CheckCircle2 className="w-3.5 h-3.5" /> Drafting presentation slides</span>
+                            <span className="flex items-center gap-2 text-brand"><CheckCircle2 className="w-3.5 h-3.5" /> Extracting core concepts</span>
+                            <span className="flex items-center gap-2 text-brand"><CheckCircle2 className="w-3.5 h-3.5" /> Drafting presentation slides</span>
                             <span className="flex items-center gap-2 opacity-50"><Sparkles className="w-3.5 h-3.5" /> Generating bilingual quiz</span>
                           </div>
                         </div>
@@ -218,7 +218,7 @@ export default function ScrollytellingSection() {
                       <div className="flex-1 flex p-4 gap-4">
                         {/* Sidebar Thumbnails */}
                         <div className="w-48 hidden sm:flex flex-col gap-3 overflow-hidden">
-                          <div className="w-full aspect-video rounded-lg bg-brand-600 border-2 border-brand-400 p-2 shadow-lg shadow-brand-DEFAULT/20">
+                          <div className="w-full aspect-video rounded-lg bg-brand-600 border-2 border-brand-400 p-2 shadow-lg shadow-brand/20">
                             <div className="w-full h-full border border-white/20 rounded flex items-center justify-center text-white/50 text-xs">Slide 1</div>
                           </div>
                           <div className="w-full aspect-video rounded-lg bg-slate-800 border border-slate-700 p-2 opacity-60">
@@ -235,7 +235,7 @@ export default function ScrollytellingSection() {
                         
                         {/* Main Slide */}
                         <div className="flex-1 bg-gradient-to-br from-[#062E1E] to-[#041F14] rounded-xl relative overflow-hidden flex flex-col items-center justify-center p-12 text-center border border-white/10 shadow-2xl">
-                          <div className="absolute top-0 right-0 w-64 h-64 bg-brand-DEFAULT/20 blur-[100px] rounded-full" />
+                          <div className="absolute top-0 right-0 w-64 h-64 bg-brand/20 blur-[100px] rounded-full" />
                           <div className="absolute bottom-0 left-0 w-64 h-64 bg-emerald-500/10 blur-[100px] rounded-full" />
                           
                           <span className="px-3 py-1 rounded-full bg-white/10 border border-white/20 text-emerald-200 text-xs font-bold tracking-widest uppercase mb-6 backdrop-blur-sm">
@@ -253,7 +253,7 @@ export default function ScrollytellingSection() {
                         <div className="text-slate-400 text-xs font-bold">1 / 14</div>
                         <div className="flex gap-2">
                           <div className="w-8 h-8 rounded-full bg-slate-800 flex items-center justify-center"><ChevronRight className="w-4 h-4 text-white rotate-180" /></div>
-                          <div className="w-8 h-8 rounded-full bg-brand-DEFAULT flex items-center justify-center"><ChevronRight className="w-4 h-4 text-white" /></div>
+                          <div className="w-8 h-8 rounded-full bg-brand flex items-center justify-center"><ChevronRight className="w-4 h-4 text-white" /></div>
                         </div>
                       </div>
                     </div>
@@ -264,7 +264,7 @@ export default function ScrollytellingSection() {
                         {/* Fake Video Content */}
                         <div className="absolute inset-0 bg-gradient-to-br from-slate-800 to-slate-900 flex flex-col items-center justify-center">
                           <div className="w-32 h-32 rounded-full bg-white/5 flex items-center justify-center mb-4">
-                            <div className="w-20 h-20 rounded-full bg-brand-DEFAULT flex items-center justify-center shadow-lg shadow-brand-DEFAULT/50 pl-1">
+                            <div className="w-20 h-20 rounded-full bg-brand flex items-center justify-center shadow-lg shadow-brand/50 pl-1">
                               <Play className="w-8 h-8 text-white fill-white" />
                             </div>
                           </div>
@@ -273,7 +273,7 @@ export default function ScrollytellingSection() {
                         {/* Premium Video Player Controls */}
                         <div className="absolute bottom-0 inset-x-0 h-24 bg-gradient-to-t from-black/90 to-transparent p-4 flex flex-col justify-end">
                           <div className="w-full h-1.5 bg-white/20 rounded-full mb-3 overflow-hidden cursor-pointer">
-                            <div className="w-1/3 h-full bg-brand-DEFAULT relative">
+                            <div className="w-1/3 h-full bg-brand relative">
                               <div className="absolute right-0 top-1/2 -translate-y-1/2 w-3 h-3 bg-white rounded-full shadow" />
                             </div>
                           </div>
@@ -307,7 +307,7 @@ export default function ScrollytellingSection() {
                         </svg>
 
                         {/* Root Node */}
-                        <div className="absolute top-[10%] left-1/2 -translate-x-1/2 px-6 py-3 bg-brand-DEFAULT text-white rounded-xl font-black text-sm shadow-xl shadow-brand-DEFAULT/20 border border-brand-600">
+                        <div className="absolute top-[10%] left-1/2 -translate-x-1/2 px-6 py-3 bg-brand text-white rounded-xl font-black text-sm shadow-xl shadow-brand/20 border border-brand-600">
                           Deforestation
                         </div>
 
@@ -333,7 +333,7 @@ export default function ScrollytellingSection() {
                     <div className={`absolute inset-0 bg-slate-50 p-6 sm:p-10 transition-opacity duration-500 flex flex-col ${activeStep === 6 ? 'opacity-100 z-10' : 'opacity-0 z-0'}`}>
                       <div className="w-full max-w-2xl mx-auto flex-1 flex flex-col">
                         <div className="flex justify-between items-center mb-8">
-                          <span className="px-3 py-1 rounded-full bg-brand-100 text-brand-DEFAULT text-xs font-bold border border-brand-200">Question 3 of 10</span>
+                          <span className="px-3 py-1 rounded-full bg-brand-100 text-brand text-xs font-bold border border-brand-200">Question 3 of 10</span>
                           <span className="text-xs font-bold text-slate-400 flex items-center gap-1"><Users className="w-3.5 h-3.5" /> 32 Students Active</span>
                         </div>
 
@@ -371,7 +371,7 @@ export default function ScrollytellingSection() {
                           <h3 className="font-bold text-ink text-sm">NCERT Question Bank & Solutions</h3>
                           <div className="flex gap-2">
                             <button className="px-3 py-1.5 rounded-md border border-slate-200 text-xs font-bold text-ink-3 hover:bg-slate-100">Filter</button>
-                            <button className="px-3 py-1.5 rounded-md bg-brand-surface text-brand-DEFAULT border border-brand-200 text-xs font-bold flex items-center gap-1"><Printer className="w-3.5 h-3.5" /> Print</button>
+                            <button className="px-3 py-1.5 rounded-md bg-brand-surface text-brand border border-brand-200 text-xs font-bold flex items-center gap-1"><Printer className="w-3.5 h-3.5" /> Print</button>
                           </div>
                         </div>
                         <div className="flex-1 p-6 overflow-hidden space-y-6">
@@ -431,7 +431,7 @@ export default function ScrollytellingSection() {
 
                         {/* Floating Action Button */}
                         <div className="absolute -bottom-6 left-1/2 -translate-x-1/2 flex gap-3">
-                          <button className="px-6 py-3 rounded-full bg-brand-DEFAULT text-white font-extrabold text-sm shadow-xl shadow-brand-DEFAULT/30 flex items-center gap-2 hover:bg-brand-600 transition-colors">
+                          <button className="px-6 py-3 rounded-full bg-brand text-white font-extrabold text-sm shadow-xl shadow-brand/30 flex items-center gap-2 hover:bg-brand-600 transition-colors">
                             <Download className="w-4 h-4" /> Download PDF
                           </button>
                         </div>

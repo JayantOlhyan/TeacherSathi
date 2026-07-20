@@ -73,7 +73,7 @@ export default function InteractiveFeaturesSection() {
             <div className="space-y-4 pt-4">
               {featuresList.map((feature, i) => (
                 <div key={i} className="flex items-center gap-3 transition-opacity duration-300" style={{ opacity: activeStep === i + 1 ? 1 : 0.4 }}>
-                  <div className={`w-5 h-5 rounded-full flex items-center justify-center shrink-0 transition-colors duration-300 ${activeStep === i + 1 ? 'bg-brand-DEFAULT' : 'bg-slate-200'}`}>
+                  <div className={`w-5 h-5 rounded-full flex items-center justify-center shrink-0 transition-colors duration-300 ${activeStep === i + 1 ? 'bg-brand' : 'bg-slate-200'}`}>
                     <CheckCircle2 className={`w-3.5 h-3.5 ${activeStep === i + 1 ? 'text-white' : 'text-slate-400'}`} strokeWidth={3} />
                   </div>
                   <span className={`font-bold text-sm transition-colors duration-300 ${activeStep === i + 1 ? 'text-[#1A2E20]' : 'text-slate-500'}`}>{feature}</span>
@@ -82,7 +82,7 @@ export default function InteractiveFeaturesSection() {
             </div>
 
             <div className="pt-4">
-              <span className="text-brand-DEFAULT text-xl font-bold italic font-serif">All resources. One click.</span>
+              <span className="text-brand text-xl font-bold italic font-serif">All resources. One click.</span>
             </div>
           </div>
 
@@ -95,7 +95,7 @@ export default function InteractiveFeaturesSection() {
                   {/* Fake Sidebar */}
                   <div className="w-[120px] bg-white rounded-l-2xl border border-slate-200 flex flex-col gap-2 p-2 hidden sm:flex shrink-0 z-20">
                     {[1, 2, 3, 4, 5].map((item, idx) => (
-                      <div key={idx} className={`w-full aspect-video rounded-md border-2 flex items-center justify-center text-[8px] font-bold ${idx === 0 ? 'border-brand-DEFAULT bg-brand-50 text-brand-DEFAULT' : 'border-slate-100 bg-slate-50 text-slate-300'}`}>
+                      <div key={idx} className={`w-full aspect-video rounded-md border-2 flex items-center justify-center text-[8px] font-bold ${idx === 0 ? 'border-brand bg-brand-50 text-brand' : 'border-slate-100 bg-slate-50 text-slate-300'}`}>
                         Slide {item}
                       </div>
                     ))}
@@ -117,7 +117,7 @@ export default function InteractiveFeaturesSection() {
                           Understanding the importance of conserving our natural world.
                         </p>
                         <div className="mt-8 flex items-center gap-2">
-                          <CheckCircle2 className="w-4 h-4 text-brand-DEFAULT" />
+                          <CheckCircle2 className="w-4 h-4 text-brand" />
                           <span className="text-xs font-bold text-[#1A2E20]">NCERT Aligned</span>
                         </div>
                       </div>
@@ -131,7 +131,7 @@ export default function InteractiveFeaturesSection() {
                       <div className="flex-1 relative">
                         <Image src="/giraffe.jpg" alt="Video Thumbnail" fill className="object-cover opacity-50" />
                         <div className="absolute inset-0 flex items-center justify-center">
-                          <div className="w-20 h-20 rounded-full bg-brand-DEFAULT/90 backdrop-blur-sm flex items-center justify-center cursor-pointer shadow-2xl hover:scale-105 transition-transform">
+                          <div className="w-20 h-20 rounded-full bg-brand/90 backdrop-blur-sm flex items-center justify-center cursor-pointer shadow-2xl hover:scale-105 transition-transform">
                             <Play className="w-8 h-8 text-white fill-white ml-1" />
                           </div>
                         </div>
@@ -158,7 +158,7 @@ export default function InteractiveFeaturesSection() {
                           <path d="M 50% 20% L 50% 70%" stroke="#96C7A0" strokeWidth="2" fill="none" />
                           <path d="M 50% 20% L 80% 70%" stroke="#96C7A0" strokeWidth="2" fill="none" />
                         </svg>
-                        <div className="absolute top-[10%] px-6 py-3 bg-brand-DEFAULT text-white rounded-xl font-black text-sm shadow-xl shadow-brand-DEFAULT/20">
+                        <div className="absolute top-[10%] px-6 py-3 bg-brand text-white rounded-xl font-black text-sm shadow-xl shadow-brand/20">
                           Conservation
                         </div>
                         <div className="absolute top-[65%] left-[20%] -translate-x-1/2 px-4 py-2 bg-white text-[#1A2E20] rounded-lg font-bold text-[10px] shadow-md border border-slate-200 text-center">
@@ -206,7 +206,7 @@ export default function InteractiveFeaturesSection() {
                       <div className="w-full h-full bg-white rounded-xl shadow-sm border border-slate-200 overflow-hidden flex flex-col">
                         <div className="h-12 border-b border-slate-100 flex items-center justify-between px-6 bg-slate-50 shrink-0">
                           <h3 className="font-bold text-[#1A2E20] text-xs">NCERT Question Bank</h3>
-                          <button className="px-2 py-1 rounded-md bg-brand-50 text-brand-DEFAULT border border-brand-200 text-[10px] font-bold flex items-center gap-1">
+                          <button className="px-2 py-1 rounded-md bg-brand-50 text-brand border border-brand-200 text-[10px] font-bold flex items-center gap-1">
                             <Printer className="w-3 h-3" /> Print
                           </button>
                         </div>
@@ -245,7 +245,7 @@ export default function InteractiveFeaturesSection() {
                            </div>
                          </div>
                          <div className="mt-auto flex justify-center">
-                           <button className="px-4 py-2 rounded-full bg-brand-DEFAULT text-white font-bold text-[10px] flex items-center gap-2 hover:bg-brand-600 transition-colors">
+                           <button className="px-4 py-2 rounded-full bg-brand text-white font-bold text-[10px] flex items-center gap-2 hover:bg-brand-600 transition-colors">
                              <Download className="w-3 h-3" /> Download PDF
                            </button>
                          </div>
@@ -261,7 +261,7 @@ export default function InteractiveFeaturesSection() {
             <div className="hidden xl:flex flex-col justify-center gap-6 ml-10 shrink-0">
               {steps.map((step, i) => (
                 <div key={i} className="flex items-center gap-4 transition-all duration-300" style={{ transform: activeStep === i + 1 ? 'translateX(-8px)' : 'translateX(0)' }}>
-                  <div className={`w-8 h-8 rounded-full flex items-center justify-center text-[10px] font-black tracking-tighter transition-colors duration-300 ${activeStep === i + 1 ? 'bg-brand-DEFAULT text-white shadow-[0_4px_15px_-3px_rgba(15,91,56,0.4)]' : 'bg-white/80 backdrop-blur-sm border border-slate-200 text-slate-400'}`}>
+                  <div className={`w-8 h-8 rounded-full flex items-center justify-center text-[10px] font-black tracking-tighter transition-colors duration-300 ${activeStep === i + 1 ? 'bg-brand text-white shadow-[0_4px_15px_-3px_rgba(15,91,56,0.4)]' : 'bg-white/80 backdrop-blur-sm border border-slate-200 text-slate-400'}`}>
                     {step.num}
                   </div>
                   <span className={`text-sm font-bold tracking-tight transition-colors duration-300 ${activeStep === i + 1 ? 'text-[#1A2E20]' : 'text-slate-400'}`}>

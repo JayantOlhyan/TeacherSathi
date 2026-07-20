@@ -53,7 +53,7 @@ export default function TestimonialGrid() {
         ))}
       </div>
 
-      <button className="text-brand-DEFAULT font-bold text-sm flex items-center gap-1.5 hover:text-brand-700 transition-colors">
+      <button className="text-brand font-bold text-sm flex items-center gap-1.5 hover:text-brand-700 transition-colors">
         See more teacher stories <ArrowRight className="w-4 h-4" />
       </button>
     </div>

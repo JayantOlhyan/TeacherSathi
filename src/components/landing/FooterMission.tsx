@@ -11,9 +11,9 @@ export default function FooterMission() {
         
         {/* Mission Quote */}
         <div className="max-w-4xl mx-auto text-center mb-32 relative">
-          <Quote className="absolute -top-12 -left-12 w-32 h-32 text-brand-DEFAULT/10 -rotate-12 -z-10" />
-          <Quote className="absolute -bottom-12 -right-12 w-32 h-32 text-brand-DEFAULT/10 rotate-180 -z-10" />
-          <Leaf className="w-8 h-8 text-brand-DEFAULT mx-auto mb-8 opacity-80" />
+          <Quote className="absolute -top-12 -left-12 w-32 h-32 text-brand/10 -rotate-12 -z-10" />
+          <Quote className="absolute -bottom-12 -right-12 w-32 h-32 text-brand/10 rotate-180 -z-10" />
+          <Leaf className="w-8 h-8 text-brand mx-auto mb-8 opacity-80" />
           <h2 className="text-3xl md:text-5xl font-black leading-tight tracking-tighter mb-8 text-slate-100 relative z-10">
             &quot;Our mission is to empower every government school teacher with world-class teaching resources, so they can focus on what matters most—<span className="text-brand-400 bg-clip-text text-transparent bg-gradient-to-r from-brand-400 to-emerald-300">inspiring the next generation.</span>&quot;
           </h2>
@@ -35,7 +35,7 @@ export default function FooterMission() {
             </p>
           </div>
           <button className="relative z-10 px-8 py-5 rounded-2xl bg-white text-brand-950 font-black text-sm flex items-center gap-3 hover:bg-slate-50 transition-all hover:scale-105 active:scale-95 shrink-0 shadow-[0_0_40px_-10px_rgba(255,255,255,0.4)]">
-            Create Free Account <ArrowRight className="w-5 h-5 text-brand-DEFAULT" />
+            Create Free Account <ArrowRight className="w-5 h-5 text-brand" />
           </button>
         </div>
 
@@ -43,7 +43,7 @@ export default function FooterMission() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-12 pt-16 border-t border-[#1A2E20]/50 relative z-10">
           <div className="col-span-1">
             <div className="flex items-center gap-2 mb-6">
-              <div className="w-8 h-8 rounded bg-brand-DEFAULT flex items-center justify-center">
+              <div className="w-8 h-8 rounded bg-brand flex items-center justify-center">
                 <Leaf className="w-5 h-5 text-white" />
               </div>
               <span className="font-black text-xl tracking-tight text-white">TeacherSathi</span>

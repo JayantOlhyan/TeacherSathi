@@ -53,7 +53,7 @@ export default function Home() {
   }, []);
 
   return (
-    <div className="relative min-h-screen flex flex-col font-sans text-ink overflow-x-hidden selection:bg-brand-DEFAULT selection:text-white">
+    <div className="relative min-h-screen flex flex-col font-sans text-ink overflow-x-hidden selection:bg-brand selection:text-white">
       
       {/* 1. Global Background */}
       <JungleBackground />
@@ -66,7 +66,7 @@ export default function Home() {
           {/* Hero Left Content */}
           <div className="lg:col-span-5 space-y-8 z-20 relative">
             <div className="hero-element inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-[#FAFAFA]/90 backdrop-blur-md border border-brand-200/50 text-brand-800 font-bold text-[11px] uppercase tracking-widest shadow-sm">
-              <Heart className="w-3.5 h-3.5 fill-brand-DEFAULT text-brand-DEFAULT" /> Made for Government School Teachers
+              <Heart className="w-3.5 h-3.5 fill-brand text-brand" /> Made for Government School Teachers
             </div>
 
             <div className="space-y-6">
@@ -82,7 +82,7 @@ export default function Home() {
             <div className="hero-element flex flex-col sm:flex-row items-center gap-4 pt-4">
               <button 
                 onClick={() => window.dispatchEvent(new Event("open-auth-modal"))}
-                className="group relative w-full sm:w-auto px-6 py-4 rounded-full bg-brand-DEFAULT text-white font-extrabold text-sm shadow-[0_8px_25px_-5px_rgba(15,91,56,0.5)] hover:shadow-[0_12px_30px_-5px_rgba(15,91,56,0.6)] hover:-translate-y-0.5 transition-all duration-300 flex items-center justify-center gap-2 overflow-hidden"
+                className="group relative w-full sm:w-auto px-6 py-4 rounded-full bg-brand text-white font-extrabold text-sm shadow-[0_8px_25px_-5px_rgba(15,91,56,0.5)] hover:shadow-[0_12px_30px_-5px_rgba(15,91,56,0.6)] hover:-translate-y-0.5 transition-all duration-300 flex items-center justify-center gap-2 overflow-hidden"
               >
                 {/* Button Glow Effect */}
                 <div className="absolute inset-0 bg-gradient-to-r from-transparent via-white/20 to-transparent -translate-x-[150%] group-hover:translate-x-[150%] transition-transform duration-700 ease-in-out"></div>
@@ -93,7 +93,7 @@ export default function Home() {
               <button 
                 className="w-full sm:w-auto px-6 py-4 rounded-full bg-white/80 backdrop-blur-md border border-brand-950/10 text-brand-950 font-extrabold text-sm hover:bg-white hover:shadow-md hover:-translate-y-0.5 transition-all duration-300 flex items-center justify-center gap-2 shadow-sm"
               >
-                See How It Works <PlayCircle className="w-4 h-4 text-brand-DEFAULT" />
+                See How It Works <PlayCircle className="w-4 h-4 text-brand" />
               </button>
             </div>
 
@@ -103,7 +103,7 @@ export default function Home() {
                 <div className="w-10 h-10 rounded-full border-2 border-white bg-gradient-to-br from-blue-100 to-blue-200 flex items-center justify-center text-blue-700 font-black text-[10px] shadow-sm z-30">AR</div>
                 <div className="w-10 h-10 rounded-full border-2 border-white bg-gradient-to-br from-emerald-100 to-emerald-200 flex items-center justify-center text-emerald-700 font-black text-[10px] shadow-sm z-20">SK</div>
                 <div className="w-10 h-10 rounded-full border-2 border-white bg-gradient-to-br from-amber-100 to-amber-200 flex items-center justify-center text-amber-700 font-black text-[10px] shadow-sm z-10">MJ</div>
-                <div className="w-10 h-10 rounded-full border-2 border-white bg-brand-50 flex items-center justify-center text-brand-DEFAULT font-black text-[10px] shadow-sm z-0">+9k</div>
+                <div className="w-10 h-10 rounded-full border-2 border-white bg-brand-50 flex items-center justify-center text-brand font-black text-[10px] shadow-sm z-0">+9k</div>
               </div>
               <div className="flex flex-col">
                 <div className="flex items-center gap-0.5">
@@ -114,9 +114,9 @@ export default function Home() {
             </div>
 
             <div className="hero-element flex flex-wrap items-center gap-x-6 gap-y-3 pt-6 border-t border-brand-900/10">
-              <span className="flex items-center gap-2 text-xs font-bold text-[#1A2E20]"><CheckCircle2 className="w-4 h-4 text-brand-DEFAULT" /> NCERT Aligned</span>
-              <span className="flex items-center gap-2 text-xs font-bold text-[#1A2E20]"><BookOpen className="w-4 h-4 text-brand-DEFAULT" /> Hindi & English</span>
-              <span className="flex items-center gap-2 text-xs font-bold text-[#1A2E20]"><Monitor className="w-4 h-4 text-brand-DEFAULT" /> No Hardware Required</span>
+              <span className="flex items-center gap-2 text-xs font-bold text-[#1A2E20]"><CheckCircle2 className="w-4 h-4 text-brand" /> NCERT Aligned</span>
+              <span className="flex items-center gap-2 text-xs font-bold text-[#1A2E20]"><BookOpen className="w-4 h-4 text-brand" /> Hindi & English</span>
+              <span className="flex items-center gap-2 text-xs font-bold text-[#1A2E20]"><Monitor className="w-4 h-4 text-brand" /> No Hardware Required</span>
             </div>
           </div>
 
@@ -223,7 +223,7 @@ export default function Home() {
 
                   {/* Footer tags */}
                   <div className="sb-animate flex justify-between items-center mt-12 pt-4 border-t border-slate-100 text-[10px] font-bold text-[#1A2E20]">
-                    <span className="flex items-center gap-1.5"><CheckCircle2 className="w-3.5 h-3.5 text-brand-DEFAULT" /> NCERT Aligned</span>
+                    <span className="flex items-center gap-1.5"><CheckCircle2 className="w-3.5 h-3.5 text-brand" /> NCERT Aligned</span>
                     <span className="text-[#4A5D52]">75-inch Smart Screen Ready</span>
                   </div>
 

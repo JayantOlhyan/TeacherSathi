@@ -50,8 +50,8 @@ export default function ResourceShowcase() {
                   onClick={() => setActiveTab(tab.id)}
                   className={`flex items-center gap-2 px-4 py-2.5 rounded-xl font-extrabold text-xs sm:text-sm transition-all whitespace-nowrap cursor-pointer ${
                     isActive
-                      ? "bg-brand-DEFAULT text-white shadow-md shadow-brand-DEFAULT/20"
-                      : "text-ink-3 hover:text-brand-DEFAULT hover:bg-brand-surface/40"
+                      ? "bg-brand text-white shadow-md shadow-brand/20"
+                      : "text-ink-3 hover:text-brand hover:bg-brand-surface/40"
                   }`}
                 >
                   <Icon className="w-4 h-4" />
@@ -69,7 +69,7 @@ export default function ResourceShowcase() {
           <div className="grid grid-cols-1 md:grid-cols-5 gap-4 overflow-x-auto pb-4">
             
             {/* Card 1: Presentation Cover */}
-            <div className="rounded-2xl bg-white border border-slate-200/90 p-4 space-y-3 shadow-card hover:border-brand-DEFAULT transition-all flex flex-col justify-between">
+            <div className="rounded-2xl bg-white border border-slate-200/90 p-4 space-y-3 shadow-card hover:border-brand transition-all flex flex-col justify-between">
               <div className="aspect-[4/3] rounded-xl bg-emerald-950 p-4 text-white flex flex-col justify-between relative overflow-hidden">
                 <span className="text-[10px] font-extrabold uppercase text-emerald-300">CLASS 8 • SCIENCE</span>
                 <div>
@@ -79,27 +79,27 @@ export default function ResourceShowcase() {
               </div>
               <div className="text-xs font-bold text-ink flex items-center justify-between">
                 <span>Cover Title Slide</span>
-                <span className="text-brand-DEFAULT text-[11px]">01 Slide</span>
+                <span className="text-brand text-[11px]">01 Slide</span>
               </div>
             </div>
 
             {/* Card 2: Why Conservation Matters */}
-            <div className="rounded-2xl bg-white border border-slate-200/90 p-4 space-y-3 shadow-card hover:border-brand-DEFAULT transition-all flex flex-col justify-between">
+            <div className="rounded-2xl bg-white border border-slate-200/90 p-4 space-y-3 shadow-card hover:border-brand transition-all flex flex-col justify-between">
               <div className="space-y-2">
                 <h4 className="font-extrabold text-xs text-ink">Why Conservation Matters?</h4>
                 <ul className="space-y-1 text-[11px] text-ink-3 font-medium">
-                  <li className="flex items-start gap-1"><span className="text-brand-DEFAULT font-bold">•</span> Maintains ecological balance</li>
-                  <li className="flex items-start gap-1"><span className="text-brand-DEFAULT font-bold">•</span> Protects biodiversity</li>
-                  <li className="flex items-start gap-1"><span className="text-brand-DEFAULT font-bold">•</span> Ensures resources for future generations</li>
+                  <li className="flex items-start gap-1"><span className="text-brand font-bold">•</span> Maintains ecological balance</li>
+                  <li className="flex items-start gap-1"><span className="text-brand font-bold">•</span> Protects biodiversity</li>
+                  <li className="flex items-start gap-1"><span className="text-brand font-bold">•</span> Ensures resources for future generations</li>
                 </ul>
               </div>
-              <div className="h-16 rounded-xl bg-brand-surface border border-brand-border flex items-center justify-center text-xs font-bold text-brand-DEFAULT">
+              <div className="h-16 rounded-xl bg-brand-surface border border-brand-border flex items-center justify-center text-xs font-bold text-brand">
                 🌱 Seedling Conservation
               </div>
             </div>
 
             {/* Card 3: Food Chain Diagram */}
-            <div className="rounded-2xl bg-white border border-slate-200/90 p-4 space-y-3 shadow-card hover:border-brand-DEFAULT transition-all flex flex-col justify-between">
+            <div className="rounded-2xl bg-white border border-slate-200/90 p-4 space-y-3 shadow-card hover:border-brand transition-all flex flex-col justify-between">
               <h4 className="font-extrabold text-xs text-ink">Food Chain in a Forest</h4>
               <div className="p-3 rounded-xl bg-[#FDFBF7] border border-slate-200 space-y-2 text-center">
                 <div className="flex items-center justify-between text-[11px] font-bold text-ink">
@@ -119,11 +119,11 @@ export default function ResourceShowcase() {
                   </div>
                 </div>
               </div>
-              <span className="text-[11px] font-bold text-brand-DEFAULT block text-center">Interactive Concept Diagram</span>
+              <span className="text-[11px] font-bold text-brand block text-center">Interactive Concept Diagram</span>
             </div>
 
             {/* Card 4: MCQ Quiz Card */}
-            <div className="rounded-2xl bg-white border border-slate-200/90 p-4 space-y-2 shadow-card hover:border-brand-DEFAULT transition-all flex flex-col justify-between text-xs">
+            <div className="rounded-2xl bg-white border border-slate-200/90 p-4 space-y-2 shadow-card hover:border-brand transition-all flex flex-col justify-between text-xs">
               <div className="space-y-1.5">
                 <p className="font-bold text-ink text-[11px]">Which of the following is a major cause of deforestation?</p>
                 <div className="space-y-1 text-[10px]">
@@ -135,11 +135,11 @@ export default function ResourceShowcase() {
                   <div className="p-1.5 rounded bg-slate-50 border">D. Overgrazing</div>
                 </div>
               </div>
-              <span className="text-[11px] font-bold text-brand-DEFAULT">Instant Smartboard Poll</span>
+              <span className="text-[11px] font-bold text-brand">Instant Smartboard Poll</span>
             </div>
 
             {/* Card 5: Short Answer Questions */}
-            <div className="rounded-2xl bg-white border border-slate-200/90 p-4 space-y-2 shadow-card hover:border-brand-DEFAULT transition-all flex flex-col justify-between text-xs">
+            <div className="rounded-2xl bg-white border border-slate-200/90 p-4 space-y-2 shadow-card hover:border-brand transition-all flex flex-col justify-between text-xs">
               <div className="space-y-1.5">
                 <h4 className="font-extrabold text-ink text-[11px]">Short Answer Questions</h4>
                 <ol className="space-y-1 text-[10px] text-ink-3 font-medium list-decimal list-inside">
@@ -148,7 +148,7 @@ export default function ResourceShowcase() {
                   <li>What steps can we take to protect wildlife?</li>
                 </ol>
               </div>
-              <span className="text-[11px] font-bold text-brand-DEFAULT">NCERT Model Answers Included</span>
+              <span className="text-[11px] font-bold text-brand">NCERT Model Answers Included</span>
             </div>
 
           </div>
@@ -157,7 +157,7 @@ export default function ResourceShowcase() {
           <div className="pt-4 text-center">
             <a 
               href="#curriculum"
-              className="inline-flex items-center gap-1.5 text-xs sm:text-sm font-extrabold text-brand-DEFAULT hover:text-brand-600 transition-colors"
+              className="inline-flex items-center gap-1.5 text-xs sm:text-sm font-extrabold text-brand hover:text-brand-600 transition-colors"
             >
               View all resources <ArrowRight className="w-4 h-4" />
             </a>

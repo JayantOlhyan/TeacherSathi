@@ -122,19 +122,19 @@ export default function HowItWorksSteps() {
               className={`step-card bg-white/80 backdrop-blur-xl rounded-[2rem] border border-white/60 p-8 flex flex-col relative group transition-all duration-500 hover:-translate-y-4 hover:shadow-[0_20px_40px_-15px_rgba(15,91,56,0.3)] shadow-lg shadow-brand-900/5 lg:${step.offset}`}
             >
               {/* Top Accent Line */}
-              <div className="absolute top-0 left-8 right-8 h-1 bg-gradient-to-r from-transparent via-brand-DEFAULT to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500 rounded-b-full"></div>
+              <div className="absolute top-0 left-8 right-8 h-1 bg-gradient-to-r from-transparent via-brand to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500 rounded-b-full"></div>
               
               <div className="flex justify-between items-start mb-8">
-                <span className="text-5xl font-black text-[#1A2E20]/10 tracking-tighter group-hover:text-brand-DEFAULT/20 transition-colors duration-500">
+                <span className="text-5xl font-black text-[#1A2E20]/10 tracking-tighter group-hover:text-brand/20 transition-colors duration-500">
                   {step.num}
                 </span>
                 <div className="w-12 h-12 rounded-2xl bg-gradient-to-br from-brand-50 to-emerald-50 border border-brand-100 flex items-center justify-center group-hover:scale-110 group-hover:rotate-3 transition-transform duration-500 shadow-sm">
-                  <step.icon className="w-6 h-6 text-brand-DEFAULT" />
+                  <step.icon className="w-6 h-6 text-brand" />
                 </div>
               </div>
               
               <div className="mt-auto">
-                <h3 className="font-black text-[#1A2E20] text-xl mb-3 tracking-tight group-hover:text-brand-DEFAULT transition-colors">
+                <h3 className="font-black text-[#1A2E20] text-xl mb-3 tracking-tight group-hover:text-brand transition-colors">
                   {step.title}
                 </h3>
                 <p className="text-[#4A5D52] text-sm font-medium leading-relaxed">

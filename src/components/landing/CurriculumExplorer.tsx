@@ -47,7 +47,7 @@ export default function CurriculumExplorer() {
         
         {/* Section Header */}
         <div className="text-center space-y-3 max-w-3xl mx-auto">
-          <span className="inline-flex items-center gap-1.5 px-3.5 py-1 rounded-full text-xs font-extrabold uppercase tracking-wider bg-brand-surface text-brand-DEFAULT border border-brand-border">
+          <span className="inline-flex items-center gap-1.5 px-3.5 py-1 rounded-full text-xs font-extrabold uppercase tracking-wider bg-brand-surface text-brand border border-brand-border">
             <BookOpen className="w-3.5 h-3.5" /> Full NCERT Syllabus Coverage
           </span>
           <h2 className="text-3xl sm:text-4xl font-black text-ink tracking-tight">
@@ -75,7 +75,7 @@ export default function CurriculumExplorer() {
                   }}
                   className={`px-4 py-2 rounded-xl text-xs sm:text-sm font-extrabold transition-all cursor-pointer border ${
                     selectedClass === cls
-                      ? "bg-brand-DEFAULT text-white border-brand-DEFAULT shadow-md shadow-brand-DEFAULT/20"
+                      ? "bg-brand text-white border-brand shadow-md shadow-brand/20"
                       : "bg-brand-surface/50 text-ink-2 border-slate-200 hover:border-brand-border"
                   }`}
                 >
@@ -120,7 +120,7 @@ export default function CurriculumExplorer() {
               <h4 className="font-extrabold text-xs uppercase tracking-wider text-ink-3">
                 {selectedClass} • {selectedSubject} Chapters
               </h4>
-              <span className="text-xs text-brand-DEFAULT font-bold">{currentSubjectData.length} Chapters</span>
+              <span className="text-xs text-brand font-bold">{currentSubjectData.length} Chapters</span>
             </div>
 
             <div className="max-h-[340px] overflow-y-auto pr-1 space-y-2">
@@ -130,12 +130,12 @@ export default function CurriculumExplorer() {
                   onClick={() => setSelectedChapterId(chap.id)}
                   className={`p-3.5 rounded-2xl cursor-pointer border transition-all text-left space-y-1 ${
                     activeChapter.id === chap.id
-                      ? "bg-white border-brand-DEFAULT shadow-md shadow-brand-DEFAULT/10"
+                      ? "bg-white border-brand shadow-md shadow-brand/10"
                       : "bg-white/60 border-slate-200/80 hover:bg-white hover:border-slate-300"
                   }`}
                 >
                   <div className="flex items-center justify-between text-xs">
-                    <span className="font-extrabold text-brand-DEFAULT">Chapter {chap.id}</span>
+                    <span className="font-extrabold text-brand">Chapter {chap.id}</span>
                     {activeChapter.id === chap.id && (
                       <span className="px-2 py-0.5 rounded-md bg-emerald-100 text-brand-dark font-extrabold text-[10px]">Active</span>
                     )}
@@ -150,7 +150,7 @@ export default function CurriculumExplorer() {
           <div className="lg:col-span-7 bg-white rounded-2xl p-6 border border-slate-200 space-y-6 shadow-2xs">
             <div className="space-y-2">
               <div className="flex items-center gap-2">
-                <span className="px-2.5 py-0.5 rounded-md bg-brand-surface text-brand-DEFAULT font-extrabold text-xs uppercase">
+                <span className="px-2.5 py-0.5 rounded-md bg-brand-surface text-brand font-extrabold text-xs uppercase">
                   {selectedClass} • {selectedSubject}
                 </span>
                 <span className="text-xs text-emerald-700 font-bold flex items-center gap-1">
@@ -173,7 +173,7 @@ export default function CurriculumExplorer() {
                   const Icon = res.icon;
                   return (
                     <div key={idx} className="flex items-center gap-2 p-2.5 rounded-xl bg-brand-surface/60 border border-brand-border/40 text-xs font-bold text-ink">
-                      <Icon className="w-4 h-4 text-brand-DEFAULT shrink-0" />
+                      <Icon className="w-4 h-4 text-brand shrink-0" />
                       <span className="truncate">{res.label}</span>
                     </div>
                   );
@@ -186,7 +186,7 @@ export default function CurriculumExplorer() {
               <span className="text-xs text-ink-4 font-semibold">Ready to present in classroom</span>
               <button 
                 onClick={() => window.dispatchEvent(new Event("open-auth-modal"))}
-                className="w-full sm:w-auto px-6 py-3 rounded-xl bg-brand-DEFAULT hover:bg-brand-600 text-white font-extrabold text-sm shadow-md shadow-brand-DEFAULT/20 flex items-center justify-center gap-2 cursor-pointer transition-transform active:scale-95"
+                className="w-full sm:w-auto px-6 py-3 rounded-xl bg-brand hover:bg-brand-600 text-white font-extrabold text-sm shadow-md shadow-brand/20 flex items-center justify-center gap-2 cursor-pointer transition-transform active:scale-95"
               >
                 Start Teaching This Chapter <ArrowRight className="w-4 h-4" />
               </button>

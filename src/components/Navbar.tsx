@@ -271,20 +271,20 @@ export default function Navbar() {
                 {isAuthenticated ? (
                   // Authenticated Links
                   <>
-                    <Link href="/dashboard" className={`relative py-1.5 transition-colors ${pathname === "/dashboard" ? "text-brand-DEFAULT font-black after:absolute after:bottom-0 after:left-0 after:right-0 after:h-[2px] after:bg-brand-DEFAULT after:scale-x-100" : "text-ink-2 hover:text-brand-DEFAULT after:absolute after:bottom-0 after:left-0 after:right-0 after:h-[2px] after:bg-brand-DEFAULT after:scale-x-0 hover:after:scale-x-100 after:transition-transform after:duration-200"}`}>{t("dashboard")}</Link>
-                    <Link href="/content/class-8" className={`relative py-1.5 transition-colors ${pathname?.includes("/content") ? "text-brand-DEFAULT font-black after:absolute after:bottom-0 after:left-0 after:right-0 after:h-[2px] after:bg-brand-DEFAULT after:scale-x-100" : "text-ink-2 hover:text-brand-DEFAULT after:absolute after:bottom-0 after:left-0 after:right-0 after:h-[2px] after:bg-brand-DEFAULT after:scale-x-0 hover:after:scale-x-100 after:transition-transform after:duration-200"}`}>{t("content_library")}</Link>
-                    <Link href="/dashboard/classes" className={`relative py-1.5 transition-colors ${pathname === "/dashboard/classes" ? "text-brand-DEFAULT font-black after:absolute after:bottom-0 after:left-0 after:right-0 after:h-[2px] after:bg-brand-DEFAULT after:scale-x-100" : "text-ink-2 hover:text-brand-DEFAULT after:absolute after:bottom-0 after:left-0 after:right-0 after:h-[2px] after:bg-brand-DEFAULT after:scale-x-0 hover:after:scale-x-100 after:transition-transform after:duration-200"}`}>{t("my_classes")}</Link>
-                    <Link href="/dashboard/reports" className={`relative py-1.5 transition-colors ${pathname === "/dashboard/reports" ? "text-brand-DEFAULT font-black after:absolute after:bottom-0 after:left-0 after:right-0 after:h-[2px] after:bg-brand-DEFAULT after:scale-x-100" : "text-ink-2 hover:text-brand-DEFAULT after:absolute after:bottom-0 after:left-0 after:right-0 after:h-[2px] after:bg-brand-DEFAULT after:scale-x-0 hover:after:scale-x-100 after:transition-transform after:duration-200"}`}>{t("reports")}</Link>
+                    <Link href="/dashboard" className={`relative py-1.5 transition-colors ${pathname === "/dashboard" ? "text-brand font-black after:absolute after:bottom-0 after:left-0 after:right-0 after:h-[2px] after:bg-brand after:scale-x-100" : "text-ink-2 hover:text-brand after:absolute after:bottom-0 after:left-0 after:right-0 after:h-[2px] after:bg-brand after:scale-x-0 hover:after:scale-x-100 after:transition-transform after:duration-200"}`}>{t("dashboard")}</Link>
+                    <Link href="/content/class-8" className={`relative py-1.5 transition-colors ${pathname?.includes("/content") ? "text-brand font-black after:absolute after:bottom-0 after:left-0 after:right-0 after:h-[2px] after:bg-brand after:scale-x-100" : "text-ink-2 hover:text-brand after:absolute after:bottom-0 after:left-0 after:right-0 after:h-[2px] after:bg-brand after:scale-x-0 hover:after:scale-x-100 after:transition-transform after:duration-200"}`}>{t("content_library")}</Link>
+                    <Link href="/dashboard/classes" className={`relative py-1.5 transition-colors ${pathname === "/dashboard/classes" ? "text-brand font-black after:absolute after:bottom-0 after:left-0 after:right-0 after:h-[2px] after:bg-brand after:scale-x-100" : "text-ink-2 hover:text-brand after:absolute after:bottom-0 after:left-0 after:right-0 after:h-[2px] after:bg-brand after:scale-x-0 hover:after:scale-x-100 after:transition-transform after:duration-200"}`}>{t("my_classes")}</Link>
+                    <Link href="/dashboard/reports" className={`relative py-1.5 transition-colors ${pathname === "/dashboard/reports" ? "text-brand font-black after:absolute after:bottom-0 after:left-0 after:right-0 after:h-[2px] after:bg-brand after:scale-x-100" : "text-ink-2 hover:text-brand after:absolute after:bottom-0 after:left-0 after:right-0 after:h-[2px] after:bg-brand after:scale-x-0 hover:after:scale-x-100 after:transition-transform after:duration-200"}`}>{t("reports")}</Link>
                   </>
                 ) : (
                   // Public Links matching reference
                   <>
-                    <Link href="/#features" className="relative py-1.5 text-ink-2 hover:text-brand-DEFAULT transition-all">Features</Link>
-                    <Link href="/#how-it-works" className="relative py-1.5 text-ink-2 hover:text-brand-DEFAULT transition-all">How It Works</Link>
-                    <Link href="/#resources" className="relative py-1.5 text-ink-2 hover:text-brand-DEFAULT transition-all">Resources</Link>
-                    <Link href="/#teacher-tested" className="relative py-1.5 text-ink-2 hover:text-brand-DEFAULT transition-all">Teacher Tested</Link>
-                    <Link href="/#about" className="relative py-1.5 text-ink-2 hover:text-brand-DEFAULT transition-all">About Us</Link>
-                    <Link href="/pricing" className={`relative py-1.5 transition-colors ${pathname === "/pricing" ? "text-brand-DEFAULT font-black" : "text-ink-2 hover:text-brand-DEFAULT"}`}>Pricing</Link>
+                    <Link href="/#features" className="relative py-1.5 text-ink-2 hover:text-brand transition-all">Features</Link>
+                    <Link href="/#how-it-works" className="relative py-1.5 text-ink-2 hover:text-brand transition-all">How It Works</Link>
+                    <Link href="/#resources" className="relative py-1.5 text-ink-2 hover:text-brand transition-all">Resources</Link>
+                    <Link href="/#teacher-tested" className="relative py-1.5 text-ink-2 hover:text-brand transition-all">Teacher Tested</Link>
+                    <Link href="/#about" className="relative py-1.5 text-ink-2 hover:text-brand transition-all">About Us</Link>
+                    <Link href="/pricing" className={`relative py-1.5 transition-colors ${pathname === "/pricing" ? "text-brand font-black" : "text-ink-2 hover:text-brand"}`}>Pricing</Link>
                   </>
                 )}
               </div>
@@ -430,13 +430,13 @@ export default function Navbar() {
                 <div className="flex items-center gap-3">
                   <button 
                     onClick={() => setIsAuthOpen(true)}
-                    className="text-ink-2 hover:text-brand-DEFAULT font-bold text-sm px-3 py-2 transition-colors cursor-pointer"
+                    className="text-ink-2 hover:text-brand font-bold text-sm px-3 py-2 transition-colors cursor-pointer"
                   >
                     Login
                   </button>
                   <button 
                     onClick={() => setIsAuthOpen(true)}
-                    className="bg-brand-DEFAULT hover:bg-brand-600 text-white px-5 py-2.5 rounded-xl font-extrabold text-sm shadow-md shadow-brand-DEFAULT/20 hover:scale-[1.02] active:scale-[0.98] transition-all duration-150 cursor-pointer flex items-center gap-1.5"
+                    className="bg-brand hover:bg-brand-600 text-white px-5 py-2.5 rounded-xl font-extrabold text-sm shadow-md shadow-brand/20 hover:scale-[1.02] active:scale-[0.98] transition-all duration-150 cursor-pointer flex items-center gap-1.5"
                   >
                     Create Your First Lesson
                   </button>

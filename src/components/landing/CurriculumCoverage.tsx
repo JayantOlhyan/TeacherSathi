@@ -103,7 +103,7 @@ export default function CurriculumCoverage() {
               ))}
             </div>
 
-            <button className="px-6 py-3 rounded-xl bg-[#1A2E20] text-white font-bold text-xs flex items-center justify-center gap-2 hover:bg-brand-DEFAULT transition-colors shadow-md">
+            <button className="px-6 py-3 rounded-xl bg-[#1A2E20] text-white font-bold text-xs flex items-center justify-center gap-2 hover:bg-brand transition-colors shadow-md">
               Start Teaching This Chapter <ArrowRight className="w-4 h-4" />
             </button>
           </div>
