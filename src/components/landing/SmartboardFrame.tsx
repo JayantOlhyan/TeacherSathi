@@ -55,7 +55,7 @@ export default function SmartboardFrame({
                 <CheckCircle2 className="w-3.5 h-3.5 text-emerald-500" /> NCERT Core
               </span>
               <span className="hidden sm:flex items-center gap-1.5">
-                <Monitor className="w-3.5 h-3.5 text-emerald-500" /> 75" Native
+                <Monitor className="w-3.5 h-3.5 text-emerald-500" /> 75&quot; Native
               </span>
             </div>
           )}

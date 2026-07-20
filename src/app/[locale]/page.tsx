@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState } from "react";
+import React from "react";
 import { 
   ArrowRight, 
   PlayCircle,
@@ -23,8 +23,8 @@ import HowItWorksSteps from "@/components/landing/HowItWorksSteps";
 import TestimonialGrid from "@/components/landing/TestimonialGrid";
 import SampleResourcesExplorer from "@/components/landing/SampleResourcesExplorer";
 import CurriculumCoverage from "@/components/landing/CurriculumCoverage";
+import InteractiveFeaturesSection from "@/components/landing/InteractiveFeaturesSection";
 import FooterMission from "@/components/landing/FooterMission";
-import Image from "next/image";
 
 export default function Home() {
   return (
@@ -50,7 +50,7 @@ export default function Home() {
               </h1>
               
               <p className="text-lg text-[#2C4A35] font-semibold leading-relaxed max-w-md">
-                Presentations, videos, quizzes, mind maps, question banks and worksheets — built around the chapter you're actually teaching.
+                Presentations, videos, quizzes, mind maps, question banks and worksheets — built around the chapter you&apos;re actually teaching.
               </p>
             </div>
 
@@ -118,7 +118,7 @@ export default function Home() {
                 <div className="flex-1 bg-white rounded-l-3xl p-10 flex flex-col">
                   
                   <div className="mb-10">
-                    <h2 className="text-2xl font-black text-[#1A2E20] mb-1">Let's create your teaching kit</h2>
+                    <h2 className="text-2xl font-black text-[#1A2E20] mb-1">Let&apos;s create your teaching kit</h2>
                     <p className="text-[#4A5D52] text-xs font-semibold">Choose your chapter and generate all resources in seconds.</p>
                   </div>
 
@@ -194,106 +194,8 @@ export default function Home() {
           <TrustStrip />
         </section>
 
-        {/* 4. Features Section */}
-        <section className="grid grid-cols-1 lg:grid-cols-12 gap-12 lg:gap-8 items-center mb-32">
-          {/* Left Column */}
-          <div className="lg:col-span-4 space-y-6 z-20">
-            <h2 className="text-4xl sm:text-5xl font-black text-[#1A2E20] leading-tight tracking-tight">
-              One chapter.<br />Everything you need.
-            </h2>
-            <p className="text-[#4A5D52] font-semibold leading-relaxed">
-              TeacherSathi turns any NCERT chapter into a complete teaching kit that you can use in your classroom immediately.
-            </p>
-            
-            <div className="space-y-4 pt-4">
-              {[
-                "Lesson Presentation",
-                "Explainer Video",
-                "Mind Map",
-                "Interactive Quiz",
-                "Question Bank",
-                "Worksheet"
-              ].map((feature, i) => (
-                <div key={i} className="flex items-center gap-3">
-                  <div className="w-5 h-5 rounded-full bg-brand-DEFAULT flex items-center justify-center shrink-0">
-                    <CheckCircle2 className="w-3.5 h-3.5 text-white" strokeWidth={3} />
-                  </div>
-                  <span className="text-[#1A2E20] font-bold text-sm">{feature}</span>
-                </div>
-              ))}
-            </div>
-
-            <div className="pt-4">
-              <span className="text-brand-DEFAULT text-xl font-bold italic font-serif">All resources. One click.</span>
-            </div>
-          </div>
-
-          {/* Right Column (Smartboard) */}
-          <div className="lg:col-span-8 relative z-10">
-            <div className="flex items-center">
-              <div className="flex-1">
-                <SmartboardFrame>
-                  <div className="w-full h-full bg-[#F3F4F6] p-1.5 flex gap-1.5">
-                    {/* Fake Sidebar for Presentation */}
-                    <div className="w-[120px] bg-white rounded-l-2xl border border-slate-200 flex flex-col gap-2 p-2 hidden sm:flex">
-                      {[1, 2, 3, 4, 5].map((item, idx) => (
-                        <div key={idx} className={`w-full aspect-video rounded-md border-2 flex items-center justify-center text-[8px] font-bold ${idx === 0 ? 'border-brand-DEFAULT bg-brand-50 text-brand-DEFAULT' : 'border-slate-100 bg-slate-50 text-slate-300'}`}>
-                          Slide {item}
-                        </div>
-                      ))}
-                    </div>
-                    {/* Main Slide Area */}
-                    <div className="flex-1 bg-white rounded-2xl sm:rounded-r-2xl border border-slate-200 overflow-hidden relative flex">
-                      <div className="flex-1 p-8 sm:p-12 flex flex-col justify-center">
-                        <div className="text-[10px] font-extrabold text-[#4A5D52] tracking-widest uppercase mb-4">
-                          CLASS 8 - SCIENCE
-                        </div>
-                        <h2 className="text-4xl sm:text-5xl font-black text-[#1A2E20] leading-tight mb-4 tracking-tight">
-                          Conservation of<br />Plants and Animals
-                        </h2>
-                        <p className="text-[#4A5D52] font-medium max-w-sm text-sm">
-                          Understanding the importance of conserving our natural world.
-                        </p>
-                        
-                        <div className="mt-8 flex items-center gap-2">
-                          <CheckCircle2 className="w-4 h-4 text-brand-DEFAULT" />
-                          <span className="text-xs font-bold text-[#1A2E20]">NCERT Aligned</span>
-                        </div>
-                      </div>
-                      
-                      {/* Giraffe Image */}
-                      <div className="w-2/5 relative h-full">
-                         <div className="absolute top-4 left-4 w-6 h-6 rounded-full bg-slate-100 flex items-center justify-center text-slate-400 font-bold text-xs">+</div>
-                         <Image src="/giraffe.jpg" alt="Giraffe" fill className="object-cover object-right" />
-                      </div>
-                    </div>
-                  </div>
-                </SmartboardFrame>
-              </div>
-
-              {/* Vertical Steps Outside */}
-              <div className="hidden xl:flex flex-col gap-6 ml-10">
-                {[
-                  { num: "01", label: "Presentation", active: true },
-                  { num: "02", label: "Video", active: false },
-                  { num: "03", label: "Mind Map", active: false },
-                  { num: "04", label: "Quiz", active: false },
-                  { num: "05", label: "Question Bank", active: false },
-                  { num: "06", label: "Worksheet", active: false }
-                ].map((step, i) => (
-                  <div key={i} className="flex items-center gap-4">
-                    <div className={`w-8 h-8 rounded-full flex items-center justify-center text-[10px] font-black tracking-tighter transition-colors ${step.active ? 'bg-brand-DEFAULT text-white shadow-[0_4px_15px_-3px_rgba(15,91,56,0.4)]' : 'bg-white/80 backdrop-blur-sm border border-slate-200 text-slate-400'}`}>
-                      {step.num}
-                    </div>
-                    <span className={`text-sm font-bold tracking-tight ${step.active ? 'text-brand-900' : 'text-slate-500'}`}>
-                      {step.label}
-                    </span>
-                  </div>
-                ))}
-              </div>
-            </div>
-          </div>
-        </section>
+        {/* 4. Features Section (Interactive Scrollytelling) */}
+        <InteractiveFeaturesSection />
 
         {/* 5. How It Works Section */}
         <section className="mb-32 relative z-20">

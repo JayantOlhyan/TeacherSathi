@@ -8,7 +8,7 @@ import {
   CheckCircle2, Presentation, Video, Network, 
   HelpCircle, FileCheck2, FileText, Sparkles,
   Users, Download, Play, BookOpen, ChevronRight,
-  MonitorPlay, LayoutTemplate, Settings, Share2,
+  MonitorPlay, Settings,
   Printer
 } from "lucide-react";
 
@@ -351,7 +351,7 @@ export default function ScrollytellingSection() {
                           <div className="w-full p-4 rounded-xl bg-emerald-50 border-2 border-emerald-500 text-sm font-black text-brand-900 flex items-center justify-between shadow-sm">
                             <div className="flex items-center">
                               <div className="w-6 h-6 rounded-md bg-emerald-500 text-white flex items-center justify-center text-xs mr-3">B</div>
-                              Increase in earth's temperature
+                              Increase in earth&apos;s temperature
                             </div>
                             <CheckCircle2 className="w-5 h-5 text-emerald-500" />
                           </div>

@@ -10,7 +10,7 @@ export default function FooterMission() {
         <div className="max-w-4xl mx-auto text-center mb-20">
           <Leaf className="w-8 h-8 text-brand-DEFAULT mx-auto mb-6 opacity-80" />
           <h2 className="text-3xl md:text-5xl font-black leading-tight tracking-tight mb-8">
-            "Our mission is to empower every government school teacher with world-class teaching resources, so they can focus on what matters most—<span className="text-brand-400">inspiring the next generation.</span>"
+            &quot;Our mission is to empower every government school teacher with world-class teaching resources, so they can focus on what matters most—<span className="text-brand-400">inspiring the next generation.</span>&quot;
           </h2>
         </div>
 
