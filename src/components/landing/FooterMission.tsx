@@ -39,66 +39,6 @@ export default function FooterMission() {
           </button>
         </div>
 
-        {/* Footer Links */}
-        <div className="grid grid-cols-1 md:grid-cols-4 gap-12 pt-16 border-t border-[#1A2E20]/50 relative z-10">
-          <div className="col-span-1">
-            <div className="flex items-center gap-2 mb-6">
-              <div className="w-8 h-8 rounded bg-brand flex items-center justify-center">
-                <Leaf className="w-5 h-5 text-white" />
-              </div>
-              <span className="font-black text-xl tracking-tight text-white">TeacherSathi</span>
-            </div>
-            <p className="text-[#A3B8AA] text-sm font-medium leading-relaxed">
-              Empowering educators with intelligent tools to create engaging, world-class classrooms.
-            </p>
-          </div>
-          
-          <div>
-            <h4 className="font-black mb-6 text-white tracking-wide uppercase text-xs">Product</h4>
-            <ul className="space-y-4 text-sm font-medium text-[#A3B8AA]">
-              {['Features', 'Pricing', 'Testimonials'].map((link) => (
-                <li key={link}>
-                  <a href="#" className="relative group inline-block">
-                    <span className="relative z-10 transition-colors group-hover:text-white">{link}</span>
-                    <span className="absolute left-0 bottom-0 w-full h-[1px] bg-brand-400 origin-left scale-x-0 group-hover:scale-x-100 transition-transform duration-300 ease-out"></span>
-                  </a>
-                </li>
-              ))}
-            </ul>
-          </div>
-          
-          <div>
-            <h4 className="font-black mb-6 text-white tracking-wide uppercase text-xs">Resources</h4>
-            <ul className="space-y-4 text-sm font-medium text-[#A3B8AA]">
-              {['Blog', 'Help Center', 'Teaching Guidelines', 'NCERT Maps'].map((link) => (
-                <li key={link}>
-                  <a href="#" className="relative group inline-block">
-                    <span className="relative z-10 transition-colors group-hover:text-white">{link}</span>
-                    <span className="absolute left-0 bottom-0 w-full h-[1px] bg-brand-400 origin-left scale-x-0 group-hover:scale-x-100 transition-transform duration-300 ease-out"></span>
-                  </a>
-                </li>
-              ))}
-            </ul>
-          </div>
-          
-          <div>
-            <h4 className="font-black mb-6 text-white tracking-wide uppercase text-xs">Company</h4>
-            <ul className="space-y-4 text-sm font-medium text-[#A3B8AA]">
-              {['About Us', 'Contact', 'Privacy Policy', 'Terms of Service'].map((link) => (
-                <li key={link}>
-                  <a href="#" className="relative group inline-block">
-                    <span className="relative z-10 transition-colors group-hover:text-white">{link}</span>
-                    <span className="absolute left-0 bottom-0 w-full h-[1px] bg-brand-400 origin-left scale-x-0 group-hover:scale-x-100 transition-transform duration-300 ease-out"></span>
-                  </a>
-                </li>
-              ))}
-            </ul>
-          </div>
-        </div>
-
-        <div className="mt-20 text-center text-[#A3B8AA]/60 text-xs font-bold tracking-widest uppercase pb-4">
-          © 2024 TeacherSathi. All rights reserved.
-        </div>
       </div>
     </footer>
   );
