@@ -716,17 +716,18 @@ export const NCERT_SYLLABUS: ClassSyllabus = {
       {"id": 12, "en": "Improvement in Food Resources", "hi": "खाद्य संसाधनों में सुधार", "descEn": "Crop yields, animal husbandry, and agriculture.", "descHi": "फसल की पैदावार, पशुपालन और कृषि।"}
     ],
     "Hindi": [
-      {"id": 1, "en": "दुःख का अधिकार", "hi": "दुःख का अधिकार", "descEn": "A poignant story by Yashpal.", "descHi": "यशपाल की एक मार्मिक कहानी।"},
-      {"id": 2, "en": "एवरेस्ट : मेरी शिखर यात्रा", "hi": "एवरेस्ट : मेरी शिखर यात्रा", "descEn": "Bachendri Pal's journey to Everest.", "descHi": "बछेंद्री पाल की एवरेस्ट यात्रा।"},
-      {"id": 3, "en": "तुम कब जाओगे, अतिथि", "hi": "तुम कब जाओगे, अतिथि", "descEn": "A satirical essay by Sharad Joshi.", "descHi": "शरद जोशी का व्यंग्यात्मक निबंध।"},
-      {"id": 4, "en": "वैज्ञानिक चेतना के वाहक – चंद्रशेखर वेंकट रमन", "hi": "वैज्ञानिक चेतना के वाहक – चंद्रशेखर वेंकट रमन", "descEn": "Biography of C.V. Raman.", "descHi": "सी.वी. रमन की जीवनी।"},
-      {"id": 5, "en": "शुक्रतारे के समान", "hi": "शुक्रतारे के समान", "descEn": "An essay on Mahadev Desai.", "descHi": "महादेव देसाई पर एक निबंध।"},
-      {"id": 6, "en": "कीचड़ का काव्य", "hi": "कीचड़ का काव्य", "descEn": "An essay by Kaka Kalelkar.", "descHi": "काका कालेलकर का निबंध।"},
-      {"id": 7, "en": "रहीम के दोहे", "hi": "रहीम के दोहे", "descEn": "Couplets of Rahim.", "descHi": "रहीम के दोहे।"},
-      {"id": 8, "en": "गीत-अगीत", "hi": "गीत-अगीत", "descEn": "A poem by Ramdhari Singh Dinkar.", "descHi": "रामधारी सिंह दिनकर की एक कविता।"},
-      {"id": 9, "en": "अग्निपथ", "hi": "अग्निपथ", "descEn": "A motivational poem by Harivansh Rai Bachchan.", "descHi": "हरिवंश राय बच्चन की एक प्रेरक कविता।"},
-      {"id": 10, "en": "नए इलाके में / खुशबू रचते हैं हाथ", "hi": "नए इलाके में / खुशबू रचते हैं हाथ", "descEn": "Poems by Arun Kamal.", "descHi": "अरुण कमल की कविताएँ।"},
-      {"id": 11, "en": "बच्चे काम पर जा रहे हैं", "hi": "बच्चे काम पर जा रहे हैं", "descEn": "A poem highlighting child labor.", "descHi": "बाल श्रम को उजागर करने वाली एक कविता।"}
+      {"id": 1, "en": "Do Bailon Ki Katha", "hi": "दो बैलों की कथा", "descEn": "Gadhya Khand: Story by Premchand.", "descHi": "गद्य खंड: प्रेमचंद की कहानी।"},
+      {"id": 2, "en": "Kya Likhoon?", "hi": "क्या लिखूँ?", "descEn": "Gadhya Khand: Essay by Padumlal Punnalal Bakshi.", "descHi": "गद्य खंड: पदुमलाल पुन्नालाल बख्शी का निबंध।"},
+      {"id": 3, "en": "Samvadheen", "hi": "संवादहीन", "descEn": "Gadhya Khand: Story by Shekhar Joshi.", "descHi": "गद्य खंड: शेखर जोशी की कहानी।"},
+      {"id": 4, "en": "Aisi Bhi Baatein Hoti Hain", "hi": "ऐसी भी बातें होती हैं", "descEn": "Gadhya Khand: Interview with Lata Mangeshkar by Yatindra Mishra.", "descHi": "गद्य खंड: लता मंगेशकर से साक्षात्कार - यतींद्र मिश्र।"},
+      {"id": 5, "en": "Aakhiri Chattan Tak", "hi": "आखिरी चट्टान तक", "descEn": "Gadhya Khand: Travelogue by Mohan Rakesh.", "descHi": "गद्य खंड: मोहन राकेश का यात्रा वृत्तांत।"},
+      {"id": 6, "en": "Reedh Ki Haddi", "hi": "रीढ़ की हड्डी", "descEn": "Gadhya Khand: Play by Jagdishchandra Mathur.", "descHi": "गद्य खंड: जगदीशचंद्र माथुर का नाटक।"},
+      {"id": 7, "en": "Main Aur Mera Desh", "hi": "मैं और मेरा देश", "descEn": "Gadhya Khand: Essay by Kanhaiyalal Mishra 'Prabhakar'.", "descHi": "गद्य खंड: कन्हैयालाल मिश्र 'प्रभाकर' का निबंध।"},
+      {"id": 8, "en": "Pad (Raidas)", "hi": "पद (रैदास)", "descEn": "Kavya Khand: Verses by Raidas.", "descHi": "काव्य खंड: रैदास के पद।"},
+      {"id": 9, "en": "Ram-Lakshman-Parashuram Samvad", "hi": "राम-लक्ष्मण-परशुराम संवाद", "descEn": "Kavya Khand: Poem by Tulsidas.", "descHi": "काव्य खंड: तुलसीदास की कविता।"},
+      {"id": 10, "en": "Bharati, Jai, Vijaykare!", "hi": "भारति, जय, विजयकरे!", "descEn": "Kavya Khand: Poem by Suryakant Tripathi 'Nirala'.", "descHi": "काव्य खंड: सूर्यकांत त्रिपाठी 'निराला' की कविता।"},
+      {"id": 11, "en": "Jhansi Ki Rani", "hi": "झाँसी की रानी", "descEn": "Kavya Khand: Poem by Subhadra Kumari Chauhan.", "descHi": "काव्य खंड: सुभद्रा कुमारी चौहान की कविता।"},
+      {"id": 12, "en": "Ghar Ki Yaad", "hi": "घर की याद", "descEn": "Kavya Khand: Poem by Bhawaniprasad Mishra.", "descHi": "काव्य खंड: भवानीप्रसाद मिश्र की कविता।"}
     ],
     "English": [
       {"id": 1, "en": "The Fun They Had", "hi": "वे मज़े जो उन्होंने किए", "descEn": "Beehive: A story about future schools.", "descHi": "भविष्य के स्कूलों के बारे में एक कहानी।"},

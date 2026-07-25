@@ -1,7 +1,7 @@
 "use client";
 
 import React from "react";
-import { Monitor, CheckCircle2 } from "lucide-react";
+import { Monitor, CheckCircle2, Usb, Power, Volume2, Volume1, Menu } from "lucide-react";
 
 interface SmartboardFrameProps {
   children: React.ReactNode;
@@ -12,58 +12,83 @@ interface SmartboardFrameProps {
 export default function SmartboardFrame({
   children,
   className = "",
-  showBadges = true,
+  showBadges = true, // We might not need the badge strip at the bottom anymore since the Samsung frame is strict. We'll leave it as an option below the frame.
 }: SmartboardFrameProps) {
   return (
-    <div className={`relative w-full max-w-6xl mx-auto group ${className}`}>
-      {/* Outer Premium Hardware Frame */}
-      <div className="relative rounded-[28px] sm:rounded-[40px] bg-gradient-to-b from-[#1E2328] to-[#0A0D12] p-[12px] sm:p-[20px] shadow-[0_32px_80px_-16px_rgba(6,46,30,0.4),_0_0_0_1px_rgba(255,255,255,0.05)_inset]">
+    <div className={`relative w-full max-w-6xl mx-auto flex flex-col items-center ${className}`}>
+      
+      {/* 
+        SAMSUNG 75" INTERACTIVE DISPLAY HARDWARE FRAME 
+        Strict compliance: Charcoal bezel, sharp corners, specific bottom bezel hardware.
+      */}
+      <div className="relative w-full bg-[#111827] rounded-sm sm:rounded-md shadow-[0_24px_50px_-12px_rgba(0,0,0,0.5),_0_0_0_1px_rgba(255,255,255,0.05)_inset] flex flex-col p-2 pb-0 overflow-hidden">
         
-        {/* Subtle Metallic Bezel Inner Ring */}
-        <div className="absolute inset-0 rounded-[28px] sm:rounded-[40px] border border-white/10 pointer-events-none z-10" />
+        {/* Top/Side Bezels are thin. We just use padding. */}
         
-        {/* Top Bezel Accessories: Camera array and ambient light sensor */}
-        <div className="absolute top-1 sm:top-2.5 left-1/2 -translate-x-1/2 flex items-center gap-3 z-30">
-          <div className="w-1.5 h-1.5 rounded-full bg-[#05070A] shadow-inner" />
-          <div className="w-12 sm:w-16 h-3 sm:h-4 rounded-full bg-[#05070A] border border-white/5 flex items-center justify-center shadow-inner relative overflow-hidden">
-            <div className="absolute inset-0 bg-gradient-to-r from-transparent via-white/5 to-transparent opacity-50" />
-            <div className="w-1.5 sm:w-2 h-1.5 sm:h-2 rounded-full bg-[#0A0D12] border border-[#1A1F26] flex items-center justify-center">
-              <div className="w-0.5 h-0.5 rounded-full bg-emerald-500 shadow-[0_0_4px_1px_rgba(16,185,129,0.8)] animate-pulse" />
-            </div>
-          </div>
-          <div className="w-1.5 h-1.5 rounded-full bg-[#05070A] shadow-inner" />
-        </div>
-
-        {/* Inner Screen Display (The actual content) */}
-        <div className="relative w-full rounded-[16px] sm:rounded-[24px] bg-[#FFFFFF] overflow-hidden aspect-[16/10] sm:aspect-[16/9] flex flex-col justify-between shadow-[inset_0_2px_12px_rgba(0,0,0,0.08)] z-20 transition-transform duration-700 ease-out group-hover:scale-[1.002]">
-          
-          {/* Subtle Screen Glare / Reflection */}
-          <div className="absolute top-0 left-0 w-[150%] h-[150%] -rotate-45 bg-gradient-to-b from-white/10 to-transparent pointer-events-none z-50 -translate-y-[80%] -translate-x-[20%]" />
-          
+        {/* Inner Screen Display (Strict 16:9, square corners) */}
+        <div className="relative w-full bg-[#F8FAF8] aspect-video flex flex-col justify-between overflow-hidden">
           {children}
         </div>
 
-        {/* Bottom Hardware Bezel Branding */}
-        <div className="mt-3 flex items-center justify-between px-6 text-[10px] sm:text-[11px] text-[#8A96A8] font-semibold tracking-widest uppercase">
-          <div className="flex items-center gap-2">
-            <span className="w-1.5 h-1.5 rounded-full bg-emerald-500 shadow-[0_0_6px_rgba(16,185,129,0.5)] inline-block" />
-            <span className="opacity-80">TeacherSathi IFP</span>
-          </div>
-          {showBadges && (
-            <div className="flex items-center gap-4 opacity-70">
-              <span className="flex items-center gap-1.5">
-                <CheckCircle2 className="w-3.5 h-3.5 text-emerald-500" /> NCERT Core
-              </span>
-              <span className="hidden sm:flex items-center gap-1.5">
-                <Monitor className="w-3.5 h-3.5 text-emerald-500" /> 75&quot; Native
-              </span>
+        {/* Bottom Hardware Bezel */}
+        <div className="relative w-full h-12 sm:h-16 flex items-center justify-between px-6 z-20 shrink-0 bg-[#111827]">
+          
+          {/* Left Side Ports / Sensors */}
+          <div className="flex items-center gap-3 opacity-60">
+            <div className="flex gap-1.5 items-center bg-[#1F2937] px-2 py-1 rounded-[2px] border border-white/5">
+              <div className="w-6 h-1.5 rounded-sm bg-[#000000] shadow-inner flex items-center justify-center">
+                <div className="w-4 h-[1px] bg-white/20"></div>
+              </div>
+              <span className="text-[7px] text-white/70 font-bold uppercase tracking-wider hidden sm:inline">Type-C</span>
             </div>
-          )}
+            <div className="flex gap-1.5 items-center bg-[#1F2937] px-2 py-1 rounded-[2px] border border-white/5">
+               <div className="w-5 h-2 rounded-sm bg-[#000000] shadow-inner"></div>
+               <span className="text-[7px] text-white/70 font-bold uppercase tracking-wider hidden sm:inline">HDMI</span>
+            </div>
+            <div className="flex gap-1.5 items-center bg-[#1F2937] px-2 py-1 rounded-[2px] border border-white/5">
+               <Usb className="w-2.5 h-2.5 text-white/70" />
+               <span className="text-[7px] text-white/70 font-bold uppercase tracking-wider hidden sm:inline">Touch</span>
+            </div>
+          </div>
+
+          {/* Center SAMSUNG Logo */}
+          <div className="absolute left-1/2 -translate-x-1/2 top-1/2 -translate-y-1/2 flex items-center gap-2">
+            <span className="text-white/90 text-xs sm:text-sm font-bold tracking-[0.25em]">SAMSUNG</span>
+          </div>
+
+          {/* Right Side Buttons */}
+          <div className="flex items-center gap-4 sm:gap-6 opacity-60">
+             <Menu className="w-3.5 h-3.5 sm:w-4 sm:h-4 text-white" />
+             <Volume1 className="w-3.5 h-3.5 sm:w-4 sm:h-4 text-white" />
+             <Volume2 className="w-3.5 h-3.5 sm:w-4 sm:h-4 text-white" />
+             {/* Power Button */}
+             <div className="w-6 h-6 sm:w-8 sm:h-8 rounded-full border border-white/20 flex items-center justify-center relative">
+               <Power className="w-3 h-3 sm:w-3.5 sm:h-3.5 text-white/90" />
+               <div className="absolute top-0.5 right-0.5 w-1 h-1 rounded-full bg-red-500 shadow-[0_0_4px_1px_rgba(239,68,68,0.8)]"></div>
+             </div>
+          </div>
+          
         </div>
+
+        {/* Bottom Edge Speaker Grilles */}
+        <div className="absolute bottom-0 left-0 w-full h-[6px] flex justify-between px-16 z-10">
+          <div className="w-[20%] h-full bg-[repeating-linear-gradient(90deg,transparent,transparent_1px,#050505_1px,#050505_2px)] opacity-50"></div>
+          <div className="w-[20%] h-full bg-[repeating-linear-gradient(90deg,transparent,transparent_1px,#050505_1px,#050505_2px)] opacity-50"></div>
+        </div>
+
       </div>
 
-      {/* Premium Stand / Wall Mount Shadow */}
-      <div className="absolute -bottom-16 left-1/2 -translate-x-1/2 w-[90%] h-32 bg-brand-950/10 blur-[60px] rounded-[100%] pointer-events-none -z-10" />
+      {/* External Badges (Below the frame now, so they don't break the realism) */}
+      {showBadges && (
+        <div className="mt-4 flex items-center justify-center gap-6 text-[10px] sm:text-[11px] text-brand font-black tracking-widest uppercase opacity-80">
+          <span className="flex items-center gap-1.5">
+            <CheckCircle2 className="w-4 h-4" /> NCERT Core
+          </span>
+          <span className="hidden sm:flex items-center gap-1.5">
+            <Monitor className="w-4 h-4" /> 75&quot; Native UI
+          </span>
+        </div>
+      )}
     </div>
   );
 }

@@ -13,7 +13,7 @@ export default function DashboardLayout({
   children: React.ReactNode;
 }) {
   return (
-    <div className="h-screen flex bg-gradient-to-br from-[#E8F5E9] via-[#FDFBF7] to-[#F1F8E9] font-sans overflow-hidden">
+    <div className="h-screen flex bg-[#F8FAF8] font-sans overflow-hidden">
       <Sidebar />
       <div className="flex-1 flex flex-col min-w-0">
         <Header />

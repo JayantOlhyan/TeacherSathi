@@ -4,11 +4,12 @@ import React, { useEffect, useRef, useState } from "react";
 import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import SmartboardFrame from "./SmartboardFrame";
+import { MockSidebar } from "./MockSidebar";
 import { 
   CheckCircle2, Presentation, Video, Network, 
   HelpCircle, FileCheck2, FileText, Sparkles,
   Users, Download, Play, BookOpen, ChevronRight,
-  MonitorPlay, Settings,
+  Settings,
   Printer
 } from "lucide-react";
 
@@ -129,30 +130,13 @@ export default function ScrollytellingSection() {
             {/* Center — The Central Smartboard Anchor */}
             <div className="col-span-12 lg:col-span-9 z-10">
               <SmartboardFrame>
-                <div className="relative w-full h-full bg-[#FAFAFA] flex flex-col overflow-hidden font-sans">
+                <div className="relative w-full h-full bg-[#F8FAF8] flex overflow-hidden font-sans">
                   
-                  {/* Fake Browser/App Header */}
-                  <div className="h-12 border-b border-slate-200 bg-white flex items-center justify-between px-4 shrink-0">
-                    <div className="flex items-center gap-4">
-                      <div className="flex items-center gap-1.5">
-                        <div className="w-3 h-3 rounded-full bg-slate-200" />
-                        <div className="w-3 h-3 rounded-full bg-slate-200" />
-                        <div className="w-3 h-3 rounded-full bg-slate-200" />
-                      </div>
-                      <div className="h-6 w-64 bg-slate-100 rounded-md border border-slate-200 flex items-center px-3 text-[10px] text-slate-400 font-medium">
-                        <MonitorPlay className="w-3 h-3 mr-2" /> workspace.teachersathi.in
-                      </div>
-                    </div>
-                    <div className="flex items-center gap-3">
-                      <Settings className="w-4 h-4 text-slate-400" />
-                      <div className="w-7 h-7 rounded-full bg-brand-100 text-brand flex items-center justify-center font-bold text-xs">
-                        T
-                      </div>
-                    </div>
-                  </div>
+                  {/* Mock Sidebar */}
+                  <MockSidebar activeIndex={1} />
 
                   {/* Main Smartboard Content Area - Fading between states */}
-                  <div className="flex-1 relative bg-slate-50/50">
+                  <div className="flex-1 relative bg-[#F8FAF8]">
                     
                     {/* State 1: Select Chapter (0 - 0.12) */}
                     <div className={`absolute inset-0 p-8 transition-opacity duration-500 flex flex-col items-center justify-center ${activeStep === 1 ? 'opacity-100 z-10' : 'opacity-0 z-0'}`}>

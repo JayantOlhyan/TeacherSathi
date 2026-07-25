@@ -4,6 +4,7 @@ import React, { useEffect, useRef, useState } from "react";
 import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import SmartboardFrame from "./SmartboardFrame";
+import { MockSidebar } from "./MockSidebar";
 import Image from "next/image";
 import { CheckCircle2, Play, Settings, Users, Check, Printer, Download } from "lucide-react";
 
@@ -90,19 +91,13 @@ export default function InteractiveFeaturesSection() {
           <div className="lg:col-span-8 relative z-10 flex items-center h-[500px]">
             <div className="flex-1 h-full flex flex-col justify-center">
               <SmartboardFrame>
-                <div className="w-full h-full bg-[#F3F4F6] p-1.5 flex gap-1.5 relative overflow-hidden">
+                <div className="w-full h-full bg-[#F8FAF8] flex relative overflow-hidden">
                   
-                  {/* Fake Sidebar */}
-                  <div className="w-[120px] bg-white rounded-l-2xl border border-slate-200 flex flex-col gap-2 p-2 hidden sm:flex shrink-0 z-20">
-                    {[1, 2, 3, 4, 5].map((item, idx) => (
-                      <div key={idx} className={`w-full aspect-video rounded-md border-2 flex items-center justify-center text-[8px] font-bold ${idx === 0 ? 'border-brand bg-brand-50 text-brand' : 'border-slate-100 bg-slate-50 text-slate-300'}`}>
-                        Slide {item}
-                      </div>
-                    ))}
-                  </div>
+                  {/* Mock Sidebar */}
+                  <MockSidebar activeIndex={1} />
 
-                  {/* Main Slide Area Container */}
-                  <div className="flex-1 bg-white rounded-2xl sm:rounded-r-2xl border border-slate-200 overflow-hidden relative flex z-10">
+                  {/* Main Content Area Container */}
+                  <div className="flex-1 bg-[#F8FAF8] overflow-hidden relative flex z-10">
                     
                     {/* State 1: Presentation */}
                     <div className={`absolute inset-0 flex transition-opacity duration-300 bg-white ${activeStep === 1 ? 'opacity-100 z-10' : 'opacity-0 z-0'}`}>
