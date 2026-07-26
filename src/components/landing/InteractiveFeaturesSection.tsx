@@ -63,27 +63,41 @@ export default function InteractiveFeaturesSection() {
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 lg:gap-8 items-center w-full">
           
           {/* Left Column (Static) */}
-          <div className="lg:col-span-4 space-y-6 z-20">
-            <h2 className="text-4xl sm:text-5xl font-black text-[#1A2E20] leading-tight tracking-tight">
-              One chapter.<br />Everything you need.
-            </h2>
-            <p className="text-[#4A5D52] font-semibold leading-relaxed">
-              TeacherSathi turns any NCERT chapter into a complete teaching kit that you can use in your classroom immediately.
-            </p>
-            
-            <div className="space-y-4 pt-4">
-              {featuresList.map((feature, i) => (
-                <div key={i} className="flex items-center gap-3 transition-opacity duration-300" style={{ opacity: activeStep === i + 1 ? 1 : 0.4 }}>
-                  <div className={`w-5 h-5 rounded-full flex items-center justify-center shrink-0 transition-colors duration-300 ${activeStep === i + 1 ? 'bg-brand' : 'bg-slate-200'}`}>
-                    <CheckCircle2 className={`w-3.5 h-3.5 ${activeStep === i + 1 ? 'text-white' : 'text-slate-400'}`} strokeWidth={3} />
+          <div className="lg:col-span-4 z-20">
+            <div className="bg-white/80 backdrop-blur-xl border border-white/80 p-8 sm:p-9 rounded-3xl shadow-[0_16px_40px_-10px_rgba(15,91,56,0.12)] space-y-6">
+              <h2 className="text-4xl sm:text-5xl font-black text-[#0A2117] leading-tight tracking-tight">
+                One chapter.<br />Everything you need.
+              </h2>
+              <p className="text-[#1C3829] font-bold text-sm sm:text-base leading-relaxed">
+                TeacherSathi turns any NCERT chapter into a complete teaching kit that you can use in your classroom immediately.
+              </p>
+              
+              <div className="space-y-3.5 pt-2">
+                {featuresList.map((feature, i) => (
+                  <div 
+                    key={i} 
+                    className={`flex items-center gap-3 px-3 py-2 rounded-xl transition-all duration-300 ${
+                      activeStep === i + 1 ? 'bg-brand/10 border border-brand/20' : ''
+                    }`}
+                    style={{ opacity: activeStep === i + 1 ? 1 : 0.65 }}
+                  >
+                    <div className={`w-5 h-5 rounded-full flex items-center justify-center shrink-0 transition-colors duration-300 ${
+                      activeStep === i + 1 ? 'bg-brand text-white shadow-sm' : 'bg-slate-200/80 text-slate-500'
+                    }`}>
+                      <CheckCircle2 className="w-3.5 h-3.5" strokeWidth={3} />
+                    </div>
+                    <span className={`font-extrabold text-sm transition-colors duration-300 ${
+                      activeStep === i + 1 ? 'text-[#0A2117]' : 'text-[#2D4A3B]'
+                    }`}>
+                      {feature}
+                    </span>
                   </div>
-                  <span className={`font-bold text-sm transition-colors duration-300 ${activeStep === i + 1 ? 'text-[#1A2E20]' : 'text-slate-500'}`}>{feature}</span>
-                </div>
-              ))}
-            </div>
+                ))}
+              </div>
 
-            <div className="pt-4">
-              <span className="text-brand text-xl font-bold italic font-serif">All resources. One click.</span>
+              <div className="pt-2 border-t border-brand/10">
+                <span className="text-brand text-lg sm:text-xl font-bold italic font-serif">All resources. One click.</span>
+              </div>
             </div>
           </div>
 
