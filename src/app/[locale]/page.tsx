@@ -8,18 +8,12 @@ import {
   CheckCircle2,
   Heart,
   Monitor,
-  Video,
-  Network,
-  HelpCircle,
-  FileCheck2,
-  FileText,
-  Settings,
   BookOpen,
-  LayoutTemplate,
   Star
 } from "lucide-react";
 import JungleBackground from "@/components/landing/JungleBackground";
 import SmartboardFrame from "@/components/landing/SmartboardFrame";
+import InteractiveHeroWorkspace from "@/components/landing/InteractiveHeroWorkspace";
 import TrustStrip from "@/components/landing/TrustStrip";
 import HowItWorksSteps from "@/components/landing/HowItWorksSteps";
 import TestimonialGrid from "@/components/landing/TestimonialGrid";
@@ -30,7 +24,6 @@ import FooterMission from "@/components/landing/FooterMission";
 
 export default function Home() {
   const heroRef = useRef<HTMLDivElement>(null);
-  const smartboardRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
     if (typeof window === "undefined") return;
@@ -134,112 +127,7 @@ export default function Home() {
           {/* Hero Right Smartboard Dashboard */}
           <div className="lg:col-span-7 z-10 relative">
             <SmartboardFrame>
-              <div ref={smartboardRef} className="flex h-full w-full bg-[#F3F4F6] font-sans text-ink">
-                {/* Sidebar */}
-                <div className="sb-animate w-[180px] bg-[#123524] text-white flex flex-col py-6">
-                  <div className="px-6 mb-8 flex items-center gap-2">
-                    <div className="w-8 h-8 rounded bg-white flex items-center justify-center">
-                      <BookOpen className="w-5 h-5 text-[#123524]" />
-                    </div>
-                    <div>
-                      <h1 className="font-black text-sm tracking-tight leading-none">TeacherSathi</h1>
-                      <span className="text-[10px] text-white/70 font-medium">साथी</span>
-                    </div>
-                  </div>
-
-                  <nav className="flex-1 space-y-1 px-3">
-                    <a href="#" className="flex items-center gap-3 px-3 py-2.5 bg-white/10 rounded-lg text-white font-bold text-xs">
-                      <LayoutTemplate className="w-4 h-4" /> Dashboard
-                    </a>
-                    <a href="#" className="flex items-center gap-3 px-3 py-2.5 text-white/70 hover:text-white font-bold text-xs">
-                      <BookOpen className="w-4 h-4" /> My Lessons
-                    </a>
-                    <a href="#" className="flex items-center gap-3 px-3 py-2.5 text-white/70 hover:text-white font-bold text-xs">
-                      <FileText className="w-4 h-4" /> Resources
-                    </a>
-                    <a href="#" className="flex items-center gap-3 px-3 py-2.5 text-white/70 hover:text-white font-bold text-xs">
-                      <HelpCircle className="w-4 h-4" /> Quizzes
-                    </a>
-                    <a href="#" className="flex items-center gap-3 px-3 py-2.5 text-white/70 hover:text-white font-bold text-xs">
-                      <FileCheck2 className="w-4 h-4" /> Worksheets
-                    </a>
-                    <a href="#" className="flex items-center gap-3 px-3 py-2.5 text-white/70 hover:text-white font-bold text-xs mt-auto">
-                      <Settings className="w-4 h-4" /> Settings
-                    </a>
-                  </nav>
-                </div>
-
-                {/* Main Content Area */}
-                <div className="flex-1 bg-white rounded-l-3xl p-10 flex flex-col">
-                  
-                  <div className="sb-animate mb-10">
-                    <h2 className="text-2xl font-black text-[#1A2E20] mb-1">Let&apos;s create your teaching kit</h2>
-                    <p className="text-[#4A5D52] text-xs font-semibold">Choose your chapter and generate all resources in seconds.</p>
-                  </div>
-
-                  {/* Form */}
-                  <div className="space-y-6 mb-12">
-                    <div className="flex gap-4">
-                      <div className="sb-animate flex-1 space-y-1.5">
-                        <label className="text-[10px] font-extrabold text-[#1A2E20] uppercase tracking-widest pl-1">Class</label>
-                        <div className="h-10 border border-slate-200 rounded-lg bg-slate-50 flex items-center px-3 justify-between">
-                          <span className="text-sm font-bold text-[#1A2E20]">8</span>
-                          <span className="text-slate-400 text-xs">▼</span>
-                        </div>
-                      </div>
-                      <div className="sb-animate flex-[1.5] space-y-1.5">
-                        <label className="text-[10px] font-extrabold text-[#1A2E20] uppercase tracking-widest pl-1">Subject</label>
-                        <div className="h-10 border border-slate-200 rounded-lg bg-slate-50 flex items-center px-3 justify-between">
-                          <span className="text-sm font-bold text-[#1A2E20]">Science</span>
-                          <span className="text-slate-400 text-xs">▼</span>
-                        </div>
-                      </div>
-                      <div className="sb-animate flex-[3] space-y-1.5">
-                        <label className="text-[10px] font-extrabold text-[#1A2E20] uppercase tracking-widest pl-1">Chapter</label>
-                        <div className="h-10 border border-slate-200 rounded-lg bg-slate-50 flex items-center px-3 justify-between">
-                          <span className="text-sm font-bold text-[#1A2E20]">Conservation of Plants and Animals</span>
-                          <span className="text-slate-400 text-xs">▼</span>
-                        </div>
-                      </div>
-                    </div>
-                    
-                    <button className="sb-animate w-full py-3.5 rounded-lg bg-[#156B3A] text-white font-black text-sm flex items-center justify-center gap-2 shadow-[0_4px_15px_-3px_rgba(21,107,58,0.4)] hover:bg-[#125c31] transition-colors">
-                      Generate Teaching Kit <span className="text-xl leading-none -mt-1">✨</span>
-                    </button>
-                  </div>
-
-                  {/* What you will get */}
-                  <div className="mt-auto">
-                    <h3 className="sb-animate text-[11px] font-extrabold text-[#1A2E20] uppercase tracking-widest mb-4">What you will get</h3>
-                    
-                    <div className="flex justify-between">
-                      {/* Icons Row */}
-                      {[
-                        { label: "Lesson Presentation", icon: Monitor, color: "text-rose-500", bg: "bg-rose-50" },
-                        { label: "Explainer Video", icon: Video, color: "text-purple-500", bg: "bg-purple-50" },
-                        { label: "Mind Map", icon: Network, color: "text-emerald-500", bg: "bg-emerald-50" },
-                        { label: "Interactive Quiz", icon: HelpCircle, color: "text-amber-500", bg: "bg-amber-50" },
-                        { label: "Question Bank", icon: FileCheck2, color: "text-blue-500", bg: "bg-blue-50" },
-                        { label: "Worksheet", icon: FileText, color: "text-orange-500", bg: "bg-orange-50" }
-                      ].map((item, i) => (
-                        <div key={i} className="sb-animate flex flex-col items-center text-center gap-3 w-16">
-                          <div className={`w-14 h-14 rounded-2xl ${item.bg} flex items-center justify-center shadow-sm border border-slate-100 transition-transform hover:scale-110 hover:-translate-y-1`}>
-                            <item.icon className={`w-6 h-6 ${item.color}`} />
-                          </div>
-                          <span className="text-[9px] font-bold text-[#4A5D52] leading-tight px-1">{item.label}</span>
-                        </div>
-                      ))}
-                    </div>
-                  </div>
-
-                  {/* Footer tags */}
-                  <div className="sb-animate flex justify-between items-center mt-12 pt-4 border-t border-slate-100 text-[10px] font-bold text-[#1A2E20]">
-                    <span className="flex items-center gap-1.5"><CheckCircle2 className="w-3.5 h-3.5 text-brand" /> NCERT Aligned</span>
-                    <span className="text-[#4A5D52]">75-inch Smart Screen Ready</span>
-                  </div>
-
-                </div>
-              </div>
+              <InteractiveHeroWorkspace />
             </SmartboardFrame>
           </div>
         </section>
