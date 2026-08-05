@@ -15,15 +15,15 @@ export default function SampleResourcesExplorer() {
       </div>
 
       {/* Tabs */}
-      <div className="flex flex-wrap justify-center gap-1 p-1 bg-white/80 backdrop-blur-md border border-slate-200 rounded-full mb-10 shadow-sm">
+      <div className="flex flex-wrap justify-center gap-1.5 p-1.5 bg-white/90 backdrop-blur-md border border-slate-200 rounded-2xl sm:rounded-full mb-10 shadow-sm max-w-full overflow-x-auto">
         {tabs.map((tab) => (
           <button
             key={tab}
             onClick={() => setActiveTab(tab)}
-            className={`px-6 py-2 rounded-full text-xs font-bold transition-all ${
+            className={`px-3.5 sm:px-6 py-2 rounded-xl sm:rounded-full text-xs font-bold transition-all shrink-0 cursor-pointer ${
               activeTab === tab 
-                ? "bg-[#1A2E20] text-white shadow-md" 
-                : "text-slate-500 hover:text-[#1A2E20]"
+                ? "bg-[#14532D] text-white shadow-md" 
+                : "text-gray-700 hover:text-[#14532D] hover:bg-gray-100"
             }`}
           >
             {tab}
