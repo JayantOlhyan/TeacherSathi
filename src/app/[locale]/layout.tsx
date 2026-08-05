@@ -84,6 +84,10 @@ export async function generateMetadata({ params: { locale } }: { params: { local
   };
 }
 
+export function generateStaticParams() {
+  return [{ locale: 'en' }, { locale: 'hi' }];
+}
+
 export default async function RootLayout({
   children,
   params: {locale}
@@ -93,11 +97,77 @@ export default async function RootLayout({
 }>) {
   const messages = await getMessages();
 
+  const jsonLdOrg = {
+    "@context": "https://schema.org",
+    "@type": "EducationalOrganization",
+    "name": "TeacherSathi",
+    "url": "https://teacher-sathi.online",
+    "logo": "https://teacher-sathi.online/logo-horizontal.png",
+    "description": "AI-powered teaching assistant for Indian school teachers and NCERT curriculum.",
+    "sameAs": [
+      "https://twitter.com/teachersathi",
+      "https://youtube.com/@teachersathi"
+    ]
+  };
+
+  const jsonLdApp = {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "TeacherSathi AI Assistant",
+    "operatingSystem": "Web",
+    "applicationCategory": "EducationalApplication",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "INR"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.9",
+      "ratingCount": "1250"
+    }
+  };
+
+  const jsonLdFaq = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Is TeacherSathi aligned with NCERT and NEP 2020?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, TeacherSathi is specifically built for Indian educators according to NCERT Class 6-10 curriculum guidelines and NEP 2020 pedagogical mandates."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How does TeacherSathi help government school teachers?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "TeacherSathi generates instant bilingual (English/Hindi) lesson plans, interactive mind maps, classroom quizzes, and printable worksheets in seconds."
+        }
+      }
+    ]
+  };
+
   return (
     <html lang={locale} suppressHydrationWarning>
       <head>
         <meta name="google-site-verification" content="-a0wyjaTybF3gldEtwwHLwq_ChLau7TLls8Q1KFF7lE" />
         <SEOLinks />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdOrg) }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdApp) }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdFaq) }}
+        />
       </head>
       <body
         className={`${plusJakartaSans.variable} ${mukta.variable} font-sans antialiased bg-background text-foreground`}

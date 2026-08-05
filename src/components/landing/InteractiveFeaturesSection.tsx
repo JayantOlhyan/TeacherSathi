@@ -7,11 +7,23 @@ import SmartboardFrame from "./SmartboardFrame";
 import { MockSidebar } from "./MockSidebar";
 import Image from "next/image";
 import { CheckCircle2, Play, Settings, Users, Check, Printer, Download } from "lucide-react";
+import { NCERT_SYLLABUS } from "@/lib/data/ncertSyllabus";
 
 export default function InteractiveFeaturesSection() {
   const containerRef = useRef<HTMLDivElement>(null);
 
   const [activeStep, setActiveStep] = useState(1);
+  const [selectedClass] = useState("Class 8");
+  const [selectedSubject, setSelectedSubject] = useState("Science");
+
+  const subjects = ["Science", "Mathematics", "Social Science", "Hindi"];
+
+  // Get active chapter dynamically based on selection
+  const chapters = NCERT_SYLLABUS[selectedClass]?.[selectedSubject] || [];
+  const currentChapter = chapters[0] || {
+    en: "Conservation of Plants and Animals",
+    descEn: "Understanding the importance of conserving our natural world."
+  };
 
   useEffect(() => {
     if (typeof window === "undefined") return;
@@ -62,17 +74,39 @@ export default function InteractiveFeaturesSection() {
         
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 lg:gap-8 items-center w-full">
           
-          {/* Left Column (Static) */}
+          {/* Left Column */}
           <div className="lg:col-span-4 z-20">
-            <div className="bg-white/80 backdrop-blur-xl border border-white/80 p-8 sm:p-9 rounded-3xl shadow-[0_16px_40px_-10px_rgba(15,91,56,0.12)] space-y-6">
-              <h2 className="text-4xl sm:text-5xl font-black text-[#0A2117] leading-tight tracking-tight">
-                One chapter.<br />Everything you need.
-              </h2>
-              <p className="text-[#1C3829] font-bold text-sm sm:text-base leading-relaxed">
-                TeacherSathi turns any NCERT chapter into a complete teaching kit that you can use in your classroom immediately.
-              </p>
-              
-              <div className="space-y-3.5 pt-2">
+            <div className="bg-white/90 backdrop-blur-xl border border-white/80 p-6 sm:p-8 rounded-3xl shadow-[0_16px_40px_-10px_rgba(15,91,56,0.12)] space-y-5">
+              <div>
+                <span className="text-[10px] font-extrabold tracking-widest text-brand uppercase bg-brand-surface px-2.5 py-1 rounded-md border border-brand-border">
+                  Live Dynamic Preview
+                </span>
+                <h2 className="text-3xl sm:text-4xl font-black text-[#0A2117] leading-tight tracking-tight mt-2">
+                  One chapter.<br />Everything you need.
+                </h2>
+              </div>
+
+              {/* Dynamic Subject Selector */}
+              <div className="space-y-1.5 pt-1">
+                <span className="text-[11px] font-bold uppercase tracking-wider text-slate-500">Select Subject:</span>
+                <div className="flex flex-wrap gap-1.5">
+                  {subjects.map((sub) => (
+                    <button
+                      key={sub}
+                      onClick={() => setSelectedSubject(sub)}
+                      className={`px-3 py-1 rounded-lg text-xs font-bold transition-all cursor-pointer border ${
+                        selectedSubject === sub
+                          ? "bg-brand text-white border-brand shadow-sm"
+                          : "bg-slate-100 text-slate-700 border-slate-200 hover:bg-slate-200"
+                      }`}
+                    >
+                      {sub}
+                    </button>
+                  ))}
+                </div>
+              </div>
+
+              <div className="space-y-2 pt-1">
                 {featuresList.map((feature, i) => (
                   <div 
                     key={i} 
@@ -95,8 +129,9 @@ export default function InteractiveFeaturesSection() {
                 ))}
               </div>
 
-              <div className="pt-2 border-t border-brand/10">
-                <span className="text-brand text-lg sm:text-xl font-bold italic font-serif">All resources. One click.</span>
+              <div className="pt-2 border-t border-brand/10 flex items-center justify-between">
+                <span className="text-brand text-base font-bold italic font-serif">All resources. One click.</span>
+                <span className="text-[10px] font-bold text-emerald-700 bg-emerald-50 px-2 py-0.5 rounded border border-emerald-200">NCERT Aligned</span>
               </div>
             </div>
           </div>
@@ -117,13 +152,13 @@ export default function InteractiveFeaturesSection() {
                     <div className={`absolute inset-0 flex transition-opacity duration-300 bg-white ${activeStep === 1 ? 'opacity-100 z-10' : 'opacity-0 z-0'}`}>
                       <div className="flex-1 p-8 sm:p-12 flex flex-col justify-center">
                         <div className="text-[10px] font-extrabold text-[#4A5D52] tracking-widest uppercase mb-4">
-                          CLASS 8 - SCIENCE
+                          {selectedClass} - {selectedSubject.toUpperCase()}
                         </div>
-                        <h2 className="text-3xl sm:text-5xl font-black text-[#1A2E20] leading-tight mb-4 tracking-tight">
-                          Conservation of<br />Plants and Animals
+                        <h2 className="text-2xl sm:text-4xl font-black text-[#1A2E20] leading-tight mb-4 tracking-tight">
+                          {currentChapter.en}
                         </h2>
-                        <p className="text-[#4A5D52] font-medium max-w-sm text-sm">
-                          Understanding the importance of conserving our natural world.
+                        <p className="text-[#4A5D52] font-medium max-w-sm text-xs sm:text-sm">
+                          {currentChapter.descEn}
                         </p>
                         <div className="mt-8 flex items-center gap-2">
                           <CheckCircle2 className="w-4 h-4 text-brand" />
@@ -131,7 +166,7 @@ export default function InteractiveFeaturesSection() {
                         </div>
                       </div>
                       <div className="w-2/5 relative h-full shrink-0">
-                        <Image src="/giraffe.jpg" alt="Giraffe" fill className="object-cover object-right" />
+                        <Image src="/giraffe.jpg" alt="Illustration" fill className="object-cover object-right" />
                       </div>
                     </div>
 

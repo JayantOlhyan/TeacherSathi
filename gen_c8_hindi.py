@@ -57,3 +57,5 @@ def generate_quizzes():
 
 if __name__ == "__main__":
     generate_quizzes()
+    #python gen_c8_hindi.py
+    #cd public/quizzes  

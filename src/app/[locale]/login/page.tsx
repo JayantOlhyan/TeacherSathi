@@ -8,10 +8,32 @@ import { Button } from "@/components/ui/Button";
 import { Eye, EyeOff, GraduationCap } from "lucide-react";
 import EducatorFAQAccordion from "@/components/EducatorFAQAccordion";
 
+import { supabase } from "@/lib/supabase";
+
 export default function LoginPage() {
   const t = useTranslations("Login");
   const [role, setRole] = useState<"teacher" | "student">("teacher");
   const [showPassword, setShowPassword] = useState(false);
+  const [isGoogleLoading, setIsGoogleLoading] = useState(false);
+
+  const handleGoogleLogin = async () => {
+    if (!supabase) {
+      alert("Supabase client is not initialized.");
+      return;
+    }
+    setIsGoogleLoading(true);
+    const { error } = await supabase.auth.signInWithOAuth({
+      provider: "google",
+      options: {
+        redirectTo: `${window.location.origin}/dashboard`,
+      },
+    });
+    if (error) {
+      console.error("Google login error:", error.message);
+      alert(error.message);
+      setIsGoogleLoading(false);
+    }
+  };
 
   return (
     <div className="min-h-screen flex flex-col font-sans bg-[#F9F9F4]">
@@ -113,9 +135,14 @@ export default function LoginPage() {
             </div>
           </div>
 
-          <Button variant="outline" className="w-full bg-white border-gray-200 hover:bg-gray-50 py-6 rounded-lg text-lg flex items-center justify-center gap-3">
+          <Button 
+            variant="outline" 
+            onClick={handleGoogleLogin}
+            disabled={isGoogleLoading}
+            className="w-full bg-white border-gray-200 hover:bg-gray-50 py-6 rounded-lg text-lg flex items-center justify-center gap-3 cursor-pointer"
+          >
             <Image src="https://www.svgrepo.com/show/475656/google-color.svg" alt="Google" width={24} height={24} />
-            {t('google_login')}
+            {isGoogleLoading ? "Connecting to Google..." : t('google_login')}
           </Button>
 
           <p className="text-center text-sm text-ink-3">

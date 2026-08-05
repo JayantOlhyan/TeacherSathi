@@ -39,6 +39,11 @@ export default function PrivacyPolicyPage() {
           title: "5. Your Rights & Contacts",
           icon: Database,
           body: "You have the right to request a copy of the personal data we store, request modifications, or delete your account entirely at any time. For privacy queries or data deletion requests, contact us at jayantolhyan@khelclan.online."
+        },
+        {
+          title: "6. Digital Personal Data Protection (DPDP) Act 2023 Compliance",
+          icon: Shield,
+          body: "TeacherSathi strictly complies with the Digital Personal Data Protection (DPDP) Act 2023 of India. We act as a Data Fiduciary for school account management and ensure that student data is processed solely with explicit educator/school consent. We do not engage in behavioral tracking or targeted advertising directed at minor students."
         }
       ]
     },
@@ -72,6 +77,11 @@ export default function PrivacyPolicyPage() {
           title: "5. आपके अधिकार और संपर्क",
           icon: Database,
           body: "आपको हमारे द्वारा संग्रहीत व्यक्तिगत डेटा की एक प्रति का अनुरोध करने, संशोधनों का अनुरोध करने, या किसी भी समय अपना खाता पूरी तरह से हटाने का अधिकार है। गोपनीयता प्रश्नों या डेटा हटाने के अनुरोधों के लिए, हमसे jayantolhyan@khelclan.online पर संपर्क करें।"
+        },
+        {
+          title: "6. डिजिटल पर्सनल डेटा प्रोटेक्शन (DPDP) अधिनियम 2023 अनुपालन",
+          icon: Shield,
+          body: "TeacherSathi भारत के डिजिटल पर्सनल डेटा प्रोटेक्शन (DPDP) अधिनियम 2023 का कड़ाई से अनुपालन करता है। हम केवल शिक्षक/स्कूल की स्पष्ट सहमति से ही छात्रों के डेटा को संसाधित करते हैं। हम नाबालिग छात्रों के लक्षित विज्ञापन या व्यवहार ट्रैकिंग में संलग्न नहीं होते हैं।"
         }
       ]
     }

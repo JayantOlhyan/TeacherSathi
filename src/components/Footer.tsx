@@ -93,75 +93,75 @@ export default function Footer() {
             <div className="flex items-center gap-2">
               <Image src="/logo-horizontal-on-dark.png" alt="TeacherSathi AI Lesson Plan & Classroom Quiz Generator Logo for Indian Government Schools" width={160} height={36} className="h-9 w-auto object-contain" />
             </div>
-            <p className="text-white/60 text-sm leading-relaxed">
+            <p className="text-emerald-100/90 text-sm leading-relaxed font-medium">
               {t("tagline")}
             </p>
-            <p className="text-white/40 text-xs">
+            <p className="text-emerald-200/80 text-xs font-semibold">
               {t("made_in")} <Heart className="w-3 h-3 inline text-red-400 fill-red-400" />
             </p>
           </div>
 
           {/* Products & Features */}
           <div className="space-y-4">
-            <h3 className="font-semibold text-xs uppercase tracking-wider text-white/80">Products & Features</h3>
-            <ul className="space-y-2 text-sm">
-              <li><Link href="/dashboard" className="text-white/60 hover:text-white transition-colors">Interactive Dashboard</Link></li>
-              <li><Link href="/dashboard/create" className="text-white/60 hover:text-white transition-colors">AI Content Generation</Link></li>
-              <li><Link href="/dashboard/classes" className="text-white/60 hover:text-white transition-colors">Smart Classes</Link></li>
-              <li><Link href="/dashboard/whiteboard" className="text-white/60 hover:text-white transition-colors">Real-time Whiteboard</Link></li>
-              <li><Link href="/dashboard/activity" className="text-white/60 hover:text-white transition-colors">Activity Logs</Link></li>
-              <li><Link href="/dashboard/reports" className="text-white/60 hover:text-white transition-colors">Reports & Analytics</Link></li>
-              <li><Link href="/pricing" className="text-white/60 hover:text-white transition-colors">Pricing & Plans</Link></li>
+            <h3 className="font-bold text-xs uppercase tracking-wider text-white">Products & Features</h3>
+            <ul className="space-y-2 text-sm font-medium">
+              <li><Link href="/dashboard" className="text-emerald-100 hover:text-white transition-colors">Interactive Dashboard</Link></li>
+              <li><Link href="/dashboard/create" className="text-emerald-100 hover:text-white transition-colors">AI Content Generation</Link></li>
+              <li><Link href="/dashboard/classes" className="text-emerald-100 hover:text-white transition-colors">Smart Classes</Link></li>
+              <li><Link href="/dashboard/whiteboard" className="text-emerald-100 hover:text-white transition-colors">Real-time Whiteboard</Link></li>
+              <li><Link href="/dashboard/activity" className="text-emerald-100 hover:text-white transition-colors">Activity Logs</Link></li>
+              <li><Link href="/dashboard/reports" className="text-emerald-100 hover:text-white transition-colors">Reports & Analytics</Link></li>
+              <li><Link href="/pricing" className="text-emerald-100 hover:text-white transition-colors">Pricing & Plans</Link></li>
             </ul>
           </div>
 
           {/* Learning Resources */}
           <div className="space-y-4">
-            <h3 className="font-semibold text-xs uppercase tracking-wider text-white/80">Learning Resources</h3>
-            <ul className="space-y-2 text-sm">
-              <li><Link href="/resources/ncert" className="text-white/60 hover:text-white transition-colors">NCERT Class 6-10</Link></li>
-              <li><Link href="/resources/lesson-plans" className="text-white/60 hover:text-white transition-colors">AI Lesson Plans</Link></li>
-              <li><Link href="/resources/mind-maps" className="text-white/60 hover:text-white transition-colors">Interactive Mind Maps</Link></li>
-              <li><Link href="/resources/quiz-generator" className="text-white/60 hover:text-white transition-colors">Quiz Generator</Link></li>
-              <li><Link href="/content/class-10/science" className="text-white/60 hover:text-white transition-colors">Science Hub (Class 10)</Link></li>
+            <h3 className="font-bold text-xs uppercase tracking-wider text-white">Learning Resources</h3>
+            <ul className="space-y-2 text-sm font-medium">
+              <li><Link href="/resources/ncert" className="text-emerald-100 hover:text-white transition-colors">NCERT Class 6-10</Link></li>
+              <li><Link href="/resources/lesson-plans" className="text-emerald-100 hover:text-white transition-colors">AI Lesson Plans</Link></li>
+              <li><Link href="/resources/mind-maps" className="text-emerald-100 hover:text-white transition-colors">Interactive Mind Maps</Link></li>
+              <li><Link href="/resources/quiz-generator" className="text-emerald-100 hover:text-white transition-colors">Quiz Generator</Link></li>
+              <li><Link href="/content/class-10/science" className="text-emerald-100 hover:text-white transition-colors">Science Hub (Class 10)</Link></li>
             </ul>
           </div>
 
           {/* Account & Support */}
           <div className="space-y-4">
-            <h3 className="font-semibold text-xs uppercase tracking-wider text-white/80">Account & Support</h3>
-            <ul className="space-y-2 text-sm">
-              <li><Link href="/signup" className="text-white/60 hover:text-white transition-colors">Create Account</Link></li>
-              <li><Link href="/login" className="text-white/60 hover:text-white transition-colors">Member Login</Link></li>
-              <li><Link href="/support" className="text-white/60 hover:text-white transition-colors">Help Center</Link></li>
-              <li><Link href="/support/contact" className="text-white/60 hover:text-white transition-colors">Contact Support</Link></li>
-              <li><Link href="/support/sitemap" className="text-white/60 hover:text-white transition-colors">Site Map</Link></li>
+            <h3 className="font-bold text-xs uppercase tracking-wider text-white">Account & Support</h3>
+            <ul className="space-y-2 text-sm font-medium">
+              <li><Link href="/signup" className="text-emerald-100 hover:text-white transition-colors">Create Account</Link></li>
+              <li><Link href="/login" className="text-emerald-100 hover:text-white transition-colors">Member Login</Link></li>
+              <li><Link href="/support" className="text-emerald-100 hover:text-white transition-colors">Help Center</Link></li>
+              <li><Link href="/support/contact" className="text-emerald-100 hover:text-white transition-colors">Contact Support</Link></li>
+              <li><Link href="/support/sitemap" className="text-emerald-100 hover:text-white transition-colors">Site Map</Link></li>
             </ul>
           </div>
 
           {/* About & Contact */}
           <div className="space-y-4">
-            <h3 className="font-semibold text-xs uppercase tracking-wider text-white/80">About & Contact</h3>
-            <ul className="space-y-2 text-sm mb-4">
-              <li><Link href="/#how-it-works" className="text-white/60 hover:text-white transition-colors">How It Works</Link></li>
-              <li><Link href="/terms" className="text-white/60 hover:text-white transition-colors">Terms of Use</Link></li>
-              <li><Link href="/privacy" className="text-white/60 hover:text-white transition-colors">Privacy Policy</Link></li>
+            <h3 className="font-bold text-xs uppercase tracking-wider text-white">About & Contact</h3>
+            <ul className="space-y-2 text-sm font-medium mb-4">
+              <li><Link href="/#how-it-works" className="text-emerald-100 hover:text-white transition-colors">How It Works</Link></li>
+              <li><Link href="/terms" className="text-emerald-100 hover:text-white transition-colors">Terms of Use</Link></li>
+              <li><Link href="/privacy" className="text-emerald-100 hover:text-white transition-colors">Privacy Policy</Link></li>
             </ul>
-            <ul className="space-y-2 text-sm mt-4 pt-4 border-t border-white/10">
+            <ul className="space-y-2 text-sm font-medium mt-4 pt-4 border-t border-white/10">
               <li>
-                <a href="mailto:jayantolhyan@khelclan.online" className="text-white/60 hover:text-white transition-colors flex items-center gap-2">
-                  <Mail className="w-4 h-4" /> jayantolhyan@khelclan.online
+                <a href="mailto:jayantolhyan@khelclan.online" className="text-emerald-100 hover:text-white transition-colors flex items-center gap-2">
+                  <Mail className="w-4 h-4 text-emerald-300" /> jayantolhyan@khelclan.online
                 </a>
               </li>
               <li>
-                <a href="tel:+919667344125" className="text-white/60 hover:text-white transition-colors flex items-center gap-2">
-                  <Phone className="w-4 h-4" /> +91 96673 44125
+                <a href="tel:+919667344125" className="text-emerald-100 hover:text-white transition-colors flex items-center gap-2">
+                  <Phone className="w-4 h-4 text-emerald-300" /> +91 96673 44125
                 </a>
               </li>
             </ul>
             <div className="flex gap-3 pt-2">
-              <a href="https://twitter.com/teachersathi" target="_blank" rel="noopener noreferrer" className="w-9 h-9 bg-white/10 hover:bg-white/20 rounded-lg flex items-center justify-center transition-colors text-white/70 hover:text-white text-sm font-bold">X</a>
-              <a href="https://youtube.com/@teachersathi" target="_blank" rel="noopener noreferrer" className="w-9 h-9 bg-white/10 hover:bg-white/20 rounded-lg flex items-center justify-center transition-colors text-white/70 hover:text-white text-sm font-bold">YT</a>
+              <a href="https://twitter.com/teachersathi" target="_blank" rel="noopener noreferrer" className="w-9 h-9 bg-white/10 hover:bg-white/20 rounded-lg flex items-center justify-center transition-colors text-white text-sm font-bold">X</a>
+              <a href="https://youtube.com/@teachersathi" target="_blank" rel="noopener noreferrer" className="w-9 h-9 bg-white/10 hover:bg-white/20 rounded-lg flex items-center justify-center transition-colors text-white text-sm font-bold">YT</a>
             </div>
           </div>
         </div>

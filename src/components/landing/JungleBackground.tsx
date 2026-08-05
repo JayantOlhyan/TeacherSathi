@@ -6,14 +6,18 @@ import Image from "next/image";
 export default function JungleBackground() {
   return (
     <div className="fixed inset-0 w-full h-full -z-50 bg-[#E8F3EA] overflow-hidden pointer-events-none">
-      {/* Background Image Layer */}
+      {/* Fast CSS Background Layer for Instant FCP */}
+      <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top_right,_var(--tw-gradient-stops))] from-emerald-100/60 via-[#E8F3EA] to-[#DFEBE1]" />
+
+      {/* Optimized Background Image Layer */}
       <div className="absolute inset-0 w-full h-full">
         <Image
-          src="/jungle-bg.jpg"
-          alt="Lush Jungle Background"
+          src="/jungle-bg.webp"
+          alt="Jungle Background"
           fill
           priority
-          className="object-cover object-top opacity-60"
+          sizes="100vw"
+          className="object-cover object-top opacity-50 transition-opacity duration-500"
         />
       </div>
 
