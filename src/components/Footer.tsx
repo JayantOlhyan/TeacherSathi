@@ -178,6 +178,9 @@ export default function Footer() {
             >
               ACCESSIBILITY
             </button>
+            <span className="inline-flex items-center gap-1 bg-emerald-950/80 text-emerald-300 border border-emerald-500/40 text-[10px] font-bold px-2.5 py-0.5 rounded-full">
+              ⚡ Low-Bandwidth 2G/3G Mode Enabled
+            </span>
           </div>
           <p>{t("bottom_text")}</p>
         </div>

@@ -36,6 +36,11 @@ export default function TermsOfUsePage() {
           body: "You agree not to use our platform to generate spam, upload malicious files, or distribute inappropriate material. AI-generated resources (including videos, quizzes, and mind maps) must be used in accordance with school policies and local regulations. We reserve the right to suspend accounts that violate these rules."
         },
         {
+          title: "5. Zero Data Scraping & AI Model Privacy",
+          icon: ShieldAlert,
+          body: "TeacherSathi enforces a strict zero-data-retention policy. Proprietary teacher lesson plans, classroom prompts, and student assessment data uploaded or generated on our platform are never used to train public artificial intelligence models, scraped by third-party web crawlers, or sold to external data brokers. All data remains encrypted and strictly private under India's Digital Personal Data Protection (DPDP) Act 2023."
+        },
+        {
           title: "5. Limitations & Governing Law",
           icon: Scale,
           body: "TeacherSathi services are provided 'as is' without warranties of any kind. Under no circumstances shall TeacherSathi be liable for any indirect, incidental, or consequential damages. These terms shall be governed by and construed in accordance with the laws of India, without regard to its conflict of law provisions."
