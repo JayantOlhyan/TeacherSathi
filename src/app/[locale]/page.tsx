@@ -234,25 +234,27 @@ export default function Home() {
         </section>
 
         {/* 3. Trust Strip */}
-        <section className="mb-16 mt-4 relative z-20">
+        <section id="about" className="mb-16 mt-4 relative z-20">
           <TrustStrip />
         </section>
 
         {/* 4. Features Section (Interactive Scrollytelling) */}
-        <InteractiveFeaturesSection />
+        <div id="features">
+          <InteractiveFeaturesSection />
+        </div>
 
         {/* 5. How It Works Section */}
-        <section className="mb-32 relative z-20">
+        <section id="how-it-works" className="mb-32 relative z-20">
           <HowItWorksSteps />
         </section>
 
         {/* 6. Testimonials Section */}
-        <section className="mb-32 relative z-20">
+        <section id="teacher-tested" className="mb-32 relative z-20">
           <TestimonialGrid />
         </section>
 
         {/* 7. Sample Resources Interactive Section */}
-        <section className="mb-32 relative z-20">
+        <section id="resources" className="mb-32 relative z-20">
           <SampleResourcesExplorer />
         </section>
 

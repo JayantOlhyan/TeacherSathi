@@ -1,6 +1,7 @@
 "use client";
 
 import React from "react";
+import Image from "next/image";
 import { Monitor, CheckCircle2 } from "lucide-react";
 
 interface SmartboardFrameProps {
@@ -26,10 +27,13 @@ export default function SmartboardFrame({
 
         {/* Real Samsung Hardware Frame PNG Overlay */}
         <div className="absolute inset-0 z-10 pointer-events-none">
-          <img 
+          <Image 
             src="/samsung-frame.png" 
             alt="Samsung Interactive Display Frame" 
+            width={1200}
+            height={750}
             className="w-full h-full object-fill select-none"
+            priority
           />
         </div>
 

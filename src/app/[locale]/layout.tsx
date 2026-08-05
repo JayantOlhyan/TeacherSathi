@@ -4,6 +4,7 @@ import { NextIntlClientProvider } from "next-intl";
 import { getMessages } from "next-intl/server";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
+import MobileStickyCTA from "@/components/MobileStickyCTA";
 import SEOLinks from "@/components/SEOLinks";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import "../globals.css";
@@ -12,12 +13,14 @@ export const dynamic = "force-dynamic";
 
 const plusJakartaSans = Plus_Jakarta_Sans({
   subsets: ["latin"],
+  display: "swap",
   variable: "--font-plus-jakarta-sans",
 });
 
 const mukta = Mukta({
   weight: ["400", "500", "600", "700", "800"],
   subsets: ["devanagari"],
+  display: "swap",
   variable: "--font-mukta",
 });
 
@@ -178,6 +181,7 @@ export default async function RootLayout({
           <Breadcrumbs />
           {children}
           <Footer />
+          <MobileStickyCTA />
         </NextIntlClientProvider>
       </body>
     </html>

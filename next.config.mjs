@@ -9,6 +9,20 @@ const nextConfig = {
     }
     return config;
   },
+  async redirects() {
+    return [
+      {
+        source: '/pricing',
+        destination: '/en/pricing',
+        permanent: true,
+      },
+      {
+        source: '/signup',
+        destination: '/en/signup',
+        permanent: true,
+      },
+    ];
+  },
   images: {
     remotePatterns: [
       {
