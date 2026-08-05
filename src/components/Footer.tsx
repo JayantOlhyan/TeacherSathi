@@ -149,8 +149,8 @@ export default function Footer() {
             </ul>
             <ul className="space-y-2 text-sm font-medium mt-4 pt-4 border-t border-white/10">
               <li>
-                <a href="mailto:jayantolhyan@khelclan.online" className="text-emerald-100 hover:text-white transition-colors flex items-center gap-2">
-                  <Mail className="w-4 h-4 text-emerald-300" /> jayantolhyan@khelclan.online
+                <a href="mailto:support@teacher-sathi.online" className="text-emerald-100 hover:text-white transition-colors flex items-center gap-2 font-bold">
+                  <Mail className="w-4 h-4 text-emerald-300" /> support@teacher-sathi.online
                 </a>
               </li>
               <li>
