@@ -5,6 +5,9 @@ import { getMessages } from "next-intl/server";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import MobileStickyCTA from "@/components/MobileStickyCTA";
+import WhatsAppChatWidget from "@/components/WhatsAppChatWidget";
+import SocialProofToast from "@/components/SocialProofToast";
+import ExitIntentModal from "@/components/ExitIntentModal";
 import SEOLinks from "@/components/SEOLinks";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import "../globals.css";
@@ -182,6 +185,9 @@ export default async function RootLayout({
           {children}
           <Footer />
           <MobileStickyCTA />
+          <WhatsAppChatWidget />
+          <SocialProofToast />
+          <ExitIntentModal />
         </NextIntlClientProvider>
       </body>
     </html>

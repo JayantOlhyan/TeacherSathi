@@ -99,9 +99,20 @@ export default function SampleResourcesExplorer() {
 
       </div>
 
-      <button className="text-[#1A2E20] font-bold text-sm flex items-center gap-1.5 hover:text-brand transition-colors">
-        View all resources <ArrowRight className="w-4 h-4" />
-      </button>
+      <div className="flex flex-col sm:flex-row items-center gap-4">
+        <button
+          onClick={() => alert("Downloading Sample NCERT Class 8 Science Complete Kit PDF!")}
+          className="bg-[#14532D] hover:bg-emerald-800 text-white font-bold text-xs px-6 py-3 rounded-full shadow-md transition-all active:scale-95 flex items-center gap-2 cursor-pointer"
+        >
+          <span>Download Free Class 8 Science Kit (PDF) 📥</span>
+        </button>
+        <button
+          onClick={() => alert("Downloading Sample NCERT Class 10 Maths Revision Kit PDF!")}
+          className="bg-emerald-50 hover:bg-emerald-100 text-emerald-950 font-bold text-xs px-6 py-3 rounded-full border border-emerald-300 transition-all cursor-pointer"
+        >
+          <span>Download Free Class 10 Maths Kit (PDF) 📥</span>
+        </button>
+      </div>
     </div>
   );
 }

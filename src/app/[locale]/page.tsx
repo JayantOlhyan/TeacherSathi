@@ -70,35 +70,43 @@ export default function Home() {
             </div>
 
             <div className="space-y-6">
-              <h1 className="hero-element text-5xl sm:text-6xl md:text-7xl font-black text-[#1A2E20] tracking-tighter leading-[1.05]">
-                Turn any <span className="bg-clip-text text-transparent bg-gradient-to-r from-[#0F5B38] to-[#1a935b]">NCERT chapter</span> into a classroom-ready lesson.
+              <h1 className="hero-element text-4xl sm:text-6xl md:text-7xl font-black text-[#1A2E20] tracking-tighter leading-[1.05]">
+                NCERT AI Lesson Plan Generator &amp; <span className="bg-clip-text text-transparent bg-gradient-to-r from-[#0F5B38] to-[#1a935b]">CBSE Worksheet Creator</span>
               </h1>
               
-              <p className="hero-element text-lg text-[#2C4A35] font-semibold leading-relaxed max-w-md">
-                Presentations, videos, quizzes, mind maps, question banks and worksheets — built around the chapter you&apos;re actually teaching.
+              <p className="hero-element text-base sm:text-lg text-[#2C4A35] font-semibold leading-relaxed max-w-md">
+                Presentations, videos, quizzes, mind maps, question banks and worksheets — generated in seconds for Classes 6 to 10.
               </p>
             </div>
 
-            <div className="hero-element flex flex-col sm:flex-row items-center gap-4 pt-4">
-              <button 
-                onClick={() => window.dispatchEvent(new Event("open-auth-modal"))}
-                className="group relative w-full sm:w-auto px-6 py-4 rounded-full bg-brand text-white font-extrabold text-sm shadow-[0_8px_25px_-5px_rgba(15,91,56,0.5)] hover:shadow-[0_12px_30px_-5px_rgba(15,91,56,0.6)] hover:-translate-y-0.5 transition-all duration-300 flex items-center justify-center gap-2 overflow-hidden"
-              >
-                {/* Button Glow Effect */}
-                <div className="absolute inset-0 bg-gradient-to-r from-transparent via-white/20 to-transparent -translate-x-[150%] group-hover:translate-x-[150%] transition-transform duration-700 ease-in-out"></div>
-                <span className="relative z-10">Create Your First Lesson</span> 
-                <ArrowRight className="relative z-10 w-4 h-4 group-hover:translate-x-1 transition-transform" />
-              </button>
+            <div className="hero-element space-y-2 pt-2">
+              <div className="flex flex-col sm:flex-row items-center gap-4">
+                <a 
+                  href="/signup"
+                  className="group relative w-full sm:w-auto px-7 py-4 rounded-full bg-brand text-white font-black text-sm shadow-[0_8px_25px_-5px_rgba(15,91,56,0.5)] hover:shadow-[0_12px_30px_-5px_rgba(15,91,56,0.6)] hover:-translate-y-0.5 transition-all duration-300 flex items-center justify-center gap-2 overflow-hidden cursor-pointer"
+                >
+                  <div className="absolute inset-0 bg-gradient-to-r from-transparent via-white/20 to-transparent -translate-x-[150%] group-hover:translate-x-[150%] transition-transform duration-700 ease-in-out"></div>
+                  <span className="relative z-10">Generate Free NCERT Lesson Kit Now 🚀</span> 
+                  <ArrowRight className="relative z-10 w-4 h-4 group-hover:translate-x-1 transition-transform" />
+                </a>
 
-              <button 
-                className="w-full sm:w-auto px-6 py-4 rounded-full bg-white/80 backdrop-blur-md border border-brand-950/10 text-brand-950 font-extrabold text-sm hover:bg-white hover:shadow-md hover:-translate-y-0.5 transition-all duration-300 flex items-center justify-center gap-2 shadow-sm"
-              >
-                See How It Works <PlayCircle className="w-4 h-4 text-brand" />
-              </button>
+                <a 
+                  href="#how-it-works"
+                  className="w-full sm:w-auto px-6 py-4 rounded-full bg-white/80 backdrop-blur-md border border-brand-950/10 text-brand-950 font-extrabold text-sm hover:bg-white hover:shadow-md hover:-translate-y-0.5 transition-all duration-300 flex items-center justify-center gap-2 shadow-sm cursor-pointer"
+                >
+                  See How It Works <PlayCircle className="w-4 h-4 text-brand" />
+                </a>
+              </div>
+
+              {/* Trust Statement */}
+              <p className="text-[11px] font-bold text-emerald-800 flex items-center gap-1.5 pl-2 pt-1">
+                <CheckCircle2 className="w-3.5 h-3.5 text-emerald-600 shrink-0" />
+                100% Free for Individual Teachers — No Credit Card Required
+              </p>
             </div>
 
             {/* Social Proof Avatars */}
-            <div className="hero-element flex items-center gap-4 pt-4">
+            <div className="hero-element flex items-center gap-4 pt-2">
               <div className="flex -space-x-3">
                 <div className="w-10 h-10 rounded-full border-2 border-white bg-gradient-to-br from-blue-100 to-blue-200 flex items-center justify-center text-blue-700 font-black text-[10px] shadow-sm z-30">AR</div>
                 <div className="w-10 h-10 rounded-full border-2 border-white bg-gradient-to-br from-emerald-100 to-emerald-200 flex items-center justify-center text-emerald-700 font-black text-[10px] shadow-sm z-20">SK</div>
@@ -109,14 +117,17 @@ export default function Home() {
                 <div className="flex items-center gap-0.5">
                   {[1,2,3,4,5].map(i => <Star key={i} className="w-3 h-3 fill-amber-400 text-amber-400" />)}
                 </div>
-                <span className="text-xs font-bold text-[#2C4A35]">Joined by 10,000+ Teachers</span>
+                <span className="text-xs font-bold text-[#2C4A35]">Joined by 10,000+ Teachers across CBSE &amp; KVS</span>
               </div>
             </div>
 
-            <div className="hero-element flex flex-wrap items-center gap-x-6 gap-y-3 pt-6 border-t border-brand-900/10">
-              <span className="flex items-center gap-2 text-xs font-bold text-[#1A2E20]"><CheckCircle2 className="w-4 h-4 text-brand" /> NCERT Aligned</span>
-              <span className="flex items-center gap-2 text-xs font-bold text-[#1A2E20]"><BookOpen className="w-4 h-4 text-brand" /> Hindi & English</span>
-              <span className="flex items-center gap-2 text-xs font-bold text-[#1A2E20]"><Monitor className="w-4 h-4 text-brand" /> No Hardware Required</span>
+            {/* Hardware Compatibility Micro-copy */}
+            <div className="hero-element flex flex-wrap items-center gap-x-4 gap-y-2 pt-4 border-t border-brand-900/10 text-xs font-bold text-[#1A2E20]">
+              <span className="flex items-center gap-1.5"><CheckCircle2 className="w-4 h-4 text-brand" /> NCERT &amp; NEP 2020 Aligned</span>
+              <span className="flex items-center gap-1.5"><BookOpen className="w-4 h-4 text-brand" /> Bilingual (Hindi &amp; English)</span>
+              <span className="flex items-center gap-1.5 bg-emerald-100/70 text-emerald-950 px-2.5 py-1 rounded-full border border-emerald-300/60">
+                <Monitor className="w-3.5 h-3.5 text-emerald-700" /> Works natively on any 75-inch Smart Screen, Laptop, or Mobile device
+              </span>
             </div>
           </div>
 
