@@ -8,6 +8,7 @@ import MobileStickyCTA from "@/components/MobileStickyCTA";
 import WhatsAppChatWidget from "@/components/WhatsAppChatWidget";
 import SocialProofToast from "@/components/SocialProofToast";
 import ExitIntentModal from "@/components/ExitIntentModal";
+import PWAInstallPrompt from "@/components/PWAInstallPrompt";
 import SEOLinks from "@/components/SEOLinks";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import "../globals.css";
@@ -247,6 +248,7 @@ export default async function RootLayout({
           <WhatsAppChatWidget />
           <SocialProofToast />
           <ExitIntentModal />
+          <PWAInstallPrompt />
         </NextIntlClientProvider>
       </body>
     </html>
