@@ -20,6 +20,7 @@ import TestimonialGrid from "@/components/landing/TestimonialGrid";
 import SampleResourcesExplorer from "@/components/landing/SampleResourcesExplorer";
 import CurriculumCoverage from "@/components/landing/CurriculumCoverage";
 import InteractiveFeaturesSection from "@/components/landing/InteractiveFeaturesSection";
+import TimeSavedCalculator from "@/components/landing/TimeSavedCalculator";
 import FooterMission from "@/components/landing/FooterMission";
 
 export default function Home() {
@@ -158,8 +159,13 @@ export default function Home() {
         </section>
 
         {/* 8. Curriculum Coverage Section */}
-        <section className="mb-32 relative z-20">
+        <section className="mb-16 relative z-20">
           <CurriculumCoverage />
+        </section>
+
+        {/* 9. Interactive Time Saved Calculator Widget */}
+        <section className="mb-32 relative z-20">
+          <TimeSavedCalculator />
         </section>
 
       </main>
