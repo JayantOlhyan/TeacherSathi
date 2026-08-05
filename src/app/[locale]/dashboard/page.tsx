@@ -15,14 +15,22 @@ import {
   Sparkles,
   FileText,
   Calendar,
-  Lightbulb
+  Lightbulb,
+  QrCode
 } from "lucide-react";
+import ClassroomSessionHeader from "@/components/dashboard/ClassroomSessionHeader";
+import SmartboardQRAuthModal from "@/components/auth/SmartboardQRAuthModal";
 
 export default function DashboardPage() {
   // Overlays & Stateful Dialogs
   const [isGenieChatOpen, setIsGenieChatOpen] = useState(false);
   const [isAttentionBellActive, setIsAttentionBellActive] = useState(false);
   const [isUserGuideOpen, setIsUserGuideOpen] = useState(false);
+  const [isQRModalOpen, setIsQRModalOpen] = useState(false);
+  const [activeSession, setActiveSession] = useState<{ durationMins: number; className: string } | null>({
+    durationMins: 45,
+    className: "Class 8 • Science (09:00 - 09:45)",
+  });
   const [teacherName, setTeacherName] = useState("Teacher");
   
   // Genie Chat Logic State
@@ -59,35 +67,25 @@ export default function DashboardPage() {
   }, [isAttentionBellActive]);
 
   const playAttentionBellSound = () => {
+    setIsAttentionBellActive(true);
     if (typeof window === "undefined") return;
     try {
-      const AudioContextClass = window.AudioContext || (window as unknown as Window & { webkitAudioContext: typeof AudioContext }).webkitAudioContext;
-      if (!AudioContextClass) return;
-      
-      const audioCtx = new AudioContextClass();
-      
-      const playChime = (delay: number, pitch: number) => {
-        const osc = audioCtx.createOscillator();
-        const gain = audioCtx.createGain();
+      const Ctx = window.AudioContext || (window as unknown as Window & { webkitAudioContext: typeof AudioContext }).webkitAudioContext;
+      if (!Ctx) return;
+      const ctx = new Ctx();
+      [523.25, 659.25].forEach((freq, i) => {
+        const osc = ctx.createOscillator();
+        const gain = ctx.createGain();
         osc.connect(gain);
-        gain.connect(audioCtx.destination);
-        
-        osc.type = "sine";
-        osc.frequency.setValueAtTime(pitch, audioCtx.currentTime + delay);
-        
-        gain.gain.setValueAtTime(0.4, audioCtx.currentTime + delay);
-        gain.gain.exponentialRampToValueAtTime(0.0001, audioCtx.currentTime + delay + 1.5);
-        
-        osc.start(audioCtx.currentTime + delay);
-        osc.stop(audioCtx.currentTime + delay + 1.5);
-      };
-      
-      playChime(0, 523.25);
-      playChime(0.22, 659.25);
-      
-      setIsAttentionBellActive(true);
+        gain.connect(ctx.destination);
+        osc.frequency.setValueAtTime(freq, ctx.currentTime + i * 0.2);
+        gain.gain.setValueAtTime(0.3, ctx.currentTime + i * 0.2);
+        gain.gain.exponentialRampToValueAtTime(0.001, ctx.currentTime + i * 0.2 + 1.2);
+        osc.start(ctx.currentTime + i * 0.2);
+        osc.stop(ctx.currentTime + i * 0.2 + 1.2);
+      });
     } catch {
-      setIsAttentionBellActive(true);
+      // AudioContext fallback
     }
   };
 
@@ -121,6 +119,15 @@ export default function DashboardPage() {
   return (
     <div className="max-w-7xl mx-auto space-y-8 pb-16 relative">
       
+      {/* Smart Classroom Session Header Bar */}
+      {activeSession && (
+        <ClassroomSessionHeader
+          initialMinutes={activeSession.durationMins}
+          classNameTitle={activeSession.className}
+          onEndSession={() => setActiveSession(null)}
+        />
+      )}
+
       {/* Top Banner: Greeting, Guidance, and Primary Action */}
       <div className="bg-gradient-to-br from-[#14532D] to-[#15803D] text-white p-8 rounded-2xl shadow-lg relative overflow-hidden flex flex-col md:flex-row justify-between items-start md:items-center gap-6">
         <div className="relative z-10 space-y-2">
@@ -134,6 +141,13 @@ export default function DashboardPage() {
           </p>
         </div>
         <div className="relative z-10 flex gap-3 flex-wrap">
+          <button
+            onClick={() => setIsQRModalOpen(true)}
+            className="inline-flex items-center gap-2 bg-amber-400 hover:bg-amber-300 text-gray-950 font-black px-4 py-3 rounded-xl transition-all shadow-md active:scale-95 text-sm cursor-pointer"
+          >
+            <QrCode className="w-4 h-4" />
+            Smartboard 75&quot; QR Auth
+          </button>
           <Link 
             href="/dashboard/create" 
             className="inline-flex items-center gap-2 bg-white text-[#14532D] hover:bg-green-50 font-bold px-5 py-3 rounded-xl transition-all shadow-sm active:scale-95 text-sm cursor-pointer"
@@ -503,6 +517,15 @@ export default function DashboardPage() {
           </div>
         </div>
       )}
+
+      {/* Smartboard 75" QR Auth Modal */}
+      <SmartboardQRAuthModal
+        isOpen={isQRModalOpen}
+        onClose={() => setIsQRModalOpen(false)}
+        onSuccess={(sessionData) => {
+          setActiveSession(sessionData);
+        }}
+      />
 
     </div>
   );
