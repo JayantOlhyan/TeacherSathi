@@ -2,52 +2,52 @@
 
 import React from "react";
 import { Link } from "@/i18n/routing";
-import { CheckCircle2, XCircle, ShieldCheck, Monitor, BookOpen, ArrowLeft, Sparkles } from "lucide-react";
+import { ShieldCheck, Monitor, BookOpen, ArrowLeft, Sparkles } from "lucide-react";
 import EducatorFAQAccordion from "@/components/EducatorFAQAccordion";
 
 export default function CompetitorComparisonPage() {
-  const comparisonMatrix = [
+  const fullLandscapeMatrix = [
     {
-      feature: "NCERT Curriculum Alignment (Classes 6-10)",
-      teacherSathi: true,
-      magicSchool: false,
-      sahayak: "Partial"
+      platform: "MagicSchool AI 🇺🇸",
+      targetMarket: "Global K-12 Teachers",
+      capability: "80+ AI tools, LMS sync",
+      pricing: "Freemium ($13/mo Pro)",
+      vulnerability: "Lacks native NCERT 75\" Smart Screen focus."
     },
     {
-      feature: "75\" Smartboard Display Native Formatting",
-      teacherSathi: true,
-      magicSchool: false,
-      sahayak: false
+      platform: "Eduaide.AI 🇺🇸",
+      targetMarket: "Global K-12 Teachers",
+      capability: "Curriculum design & games",
+      pricing: "Freemium ($6/mo Pro)",
+      vulnerability: "No bilingual Hindi/English NCERT mapping."
     },
     {
-      feature: "Bilingual Generation (Hindi + English + Marathi)",
-      teacherSathi: true,
-      magicSchool: "English Only",
-      sahayak: "Hindi Only"
+      platform: "Sahayak AI 🇮🇳",
+      targetMarket: "Indian Teachers",
+      capability: "Multi-grade rural focus",
+      pricing: "Free / Open Access",
+      vulnerability: "Basic UI; lacks full 6-part Teaching Kit."
     },
     {
-      feature: "DPDP Act 2023 & Indian Data Privacy",
-      teacherSathi: true,
-      magicSchool: false,
-      sahayak: true
+      platform: "Khanmigo 🇺🇸",
+      targetMarket: "US / Global Educators",
+      capability: "Khan Academy integration",
+      pricing: "Free for US / Paid",
+      vulnerability: "Not structured for Indian State Boards."
     },
     {
-      feature: "100% Free for Individual Teachers",
-      teacherSathi: true,
-      magicSchool: "Freemium ($12.99/mo)",
-      sahayak: true
+      platform: "CrazyGoldFish AI 🇮🇳",
+      targetMarket: "Indian CBSE Schools",
+      capability: "Minute-by-minute scripts",
+      pricing: "Paid B2B SaaS",
+      vulnerability: "Expensive B2B sales cycle; non-instant."
     },
     {
-      feature: "Printable Worksheets with Teacher Answer Keys",
-      teacherSathi: true,
-      magicSchool: true,
-      sahayak: false
-    },
-    {
-      feature: "Zero-Hardware Mobile QR Smartboard Sync",
-      teacherSathi: true,
-      magicSchool: false,
-      sahayak: false
+      platform: "TeacherSathi 🇮🇳",
+      targetMarket: "Indian Govt & CBSE Teachers",
+      capability: "NCERT 75\" Smart Screen Kits + 6-Part AI Tools",
+      pricing: "100% Free for Individual Teachers",
+      vulnerability: "Engineered specifically for Indian Educators!"
     }
   ];
 
@@ -63,74 +63,49 @@ export default function CompetitorComparisonPage() {
       <div className="bg-gradient-to-br from-[#14532D] to-[#15803D] text-white p-8 sm:p-12 rounded-3xl shadow-xl text-center space-y-4 relative overflow-hidden">
         <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-white/10 text-xs font-black tracking-widest uppercase backdrop-blur-md">
           <Sparkles className="w-3.5 h-3.5 text-amber-300 fill-amber-300" />
-          Strategic Brand Comparison
+          Competitive Intelligence &amp; Industry Benchmark
         </div>
         <h1 className="text-3xl sm:text-5xl font-black font-serif tracking-tight">
-          Teacher Sathi vs. US Competitors (MagicSchool AI &amp; Sahayak)
+          Teacher Sathi vs Global AI EdTech Platforms
         </h1>
         <p className="text-emerald-100 text-sm sm:text-base font-medium max-w-3xl mx-auto leading-relaxed">
-          Why 10,000+ Indian educators choose Teacher Sathi: engineered exclusively for NCERT curriculum, 75-inch classroom smart displays, and Indian data privacy standards.
+          Comparing Teacher Sathi against MagicSchool AI, Eduaide, Sahayak, Khanmigo, and CrazyGoldFish. Engineered exclusively for NCERT curriculum, 75-inch smartboard displays, and Indian data privacy standards.
         </p>
       </div>
 
-      {/* Comparison Matrix Table */}
+      {/* Full Competitive Landscape Table */}
       <div className="bg-white rounded-3xl border border-gray-200 shadow-xl overflow-hidden">
         <div className="p-6 bg-gray-50 border-b border-gray-200">
-          <h2 className="text-xl font-black text-gray-900 font-serif">Feature Breakdown Matrix</h2>
-          <p className="text-xs text-gray-600 font-medium">Comparing platform capabilities for Indian government and CBSE school classrooms.</p>
+          <h2 className="text-xl font-black text-gray-900 font-serif">Competitive Landscape Matrix</h2>
+          <p className="text-xs text-gray-600 font-medium">Platform positioning breakdown for Indian educators &amp; school directors.</p>
         </div>
 
         <div className="overflow-x-auto">
           <table className="w-full text-left border-collapse">
             <thead>
               <tr className="bg-gray-100/70 border-b border-gray-200 text-xs font-black text-gray-700 uppercase tracking-wider">
-                <th className="py-4 px-6">Capability / Feature</th>
-                <th className="py-4 px-6 text-emerald-900 bg-emerald-100/80">Teacher Sathi 🇮🇳</th>
-                <th className="py-4 px-6">MagicSchool AI 🇺🇸</th>
-                <th className="py-4 px-6">Sahayak AI</th>
+                <th className="py-4 px-6">Platform</th>
+                <th className="py-4 px-6">Target Market</th>
+                <th className="py-4 px-6">Primary Capability</th>
+                <th className="py-4 px-6">Pricing Strategy</th>
+                <th className="py-4 px-6">Vulnerability vs. Teacher Sathi</th>
               </tr>
             </thead>
             <tbody className="divide-y divide-gray-200 text-xs font-semibold">
-              {comparisonMatrix.map((row, idx) => (
-                <tr key={idx} className={idx % 2 === 0 ? "bg-white" : "bg-gray-50/50"}>
-                  <td className="py-4 px-6 font-bold text-gray-900">{row.feature}</td>
-                  <td className="py-4 px-6 bg-emerald-50/60 font-black text-emerald-900">
-                    {row.teacherSathi === true ? (
-                      <span className="inline-flex items-center gap-1 text-emerald-700">
-                        <CheckCircle2 className="w-4 h-4 text-emerald-600" /> Yes (Native)
-                      </span>
-                    ) : (
-                      row.teacherSathi
-                    )}
-                  </td>
-                  <td className="py-4 px-6 text-gray-600">
-                    {row.magicSchool === true ? (
-                      <span className="inline-flex items-center gap-1 text-emerald-600">
-                        <CheckCircle2 className="w-4 h-4" /> Yes
-                      </span>
-                    ) : row.magicSchool === false ? (
-                      <span className="inline-flex items-center gap-1 text-rose-500">
-                        <XCircle className="w-4 h-4" /> No
-                      </span>
-                    ) : (
-                      row.magicSchool
-                    )}
-                  </td>
-                  <td className="py-4 px-6 text-gray-600">
-                    {row.sahayak === true ? (
-                      <span className="inline-flex items-center gap-1 text-emerald-600">
-                        <CheckCircle2 className="w-4 h-4" /> Yes
-                      </span>
-                    ) : row.sahayak === false ? (
-                      <span className="inline-flex items-center gap-1 text-rose-500">
-                        <XCircle className="w-4 h-4" /> No
-                      </span>
-                    ) : (
-                      row.sahayak
-                    )}
-                  </td>
-                </tr>
-              ))}
+              {fullLandscapeMatrix.map((row, idx) => {
+                const isTeacherSathi = row.platform.includes("TeacherSathi");
+                return (
+                  <tr key={idx} className={isTeacherSathi ? "bg-emerald-50/90 font-black border-l-4 border-emerald-600" : idx % 2 === 0 ? "bg-white" : "bg-gray-50/50"}>
+                    <td className="py-4 px-6 font-extrabold text-gray-900">{row.platform}</td>
+                    <td className="py-4 px-6 text-gray-700">{row.targetMarket}</td>
+                    <td className="py-4 px-6 text-gray-800">{row.capability}</td>
+                    <td className="py-4 px-6 text-gray-900 font-bold">{row.pricing}</td>
+                    <td className={`py-4 px-6 ${isTeacherSathi ? "text-emerald-900 font-black" : "text-amber-800"}`}>
+                      {row.vulnerability}
+                    </td>
+                  </tr>
+                );
+              })}
             </tbody>
           </table>
         </div>
