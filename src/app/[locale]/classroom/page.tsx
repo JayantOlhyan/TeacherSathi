@@ -29,6 +29,23 @@ export default function ClassroomKioskPage() {
     setStatus("waiting");
   };
 
+  // Step 2.4: Real-time listener for mobile approval handshake
+  useEffect(() => {
+    if (!sessionId || status === "authenticated") return;
+
+    const checkInterval = setInterval(() => {
+      if (typeof window !== "undefined") {
+        const approvalData = localStorage.getItem(`ts_qr_approved_${sessionId}`);
+        if (approvalData) {
+          setStatus("authenticated");
+          clearInterval(checkInterval);
+        }
+      }
+    }, 1000);
+
+    return () => clearInterval(checkInterval);
+  }, [sessionId, status]);
+
   // 2-minute countdown timer & auto-refresh effect
   useEffect(() => {
     if (status === "authenticated") return;

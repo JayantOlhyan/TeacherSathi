@@ -1,7 +1,8 @@
 "use client";
 
 import React, { useState, useEffect, useCallback } from "react";
-import { Clock, Plus, LogOut, AlertTriangle, ShieldCheck } from "lucide-react";
+import { Clock, Plus, LogOut, AlertTriangle, Activity } from "lucide-react";
+import { activityDetector } from "@/lib/smartActivityDetector";
 
 interface ClassroomSessionHeaderProps {
   initialMinutes?: number;
@@ -18,6 +19,14 @@ export default function ClassroomSessionHeader({
   const [isGracePeriod, setIsGracePeriod] = useState(false);
   const [graceSeconds, setGraceSeconds] = useState(60);
   const [isEnded, setIsEnded] = useState(false);
+  const [activityScore, setActivityScore] = useState(95);
+
+  useEffect(() => {
+    const unsub = activityDetector.subscribe((score: number) => {
+      setActivityScore(score);
+    });
+    return () => unsub();
+  }, []);
 
   const handleAutoTerminate = useCallback(() => {
     setIsEnded(true);
@@ -93,12 +102,12 @@ export default function ClassroomSessionHeader({
           <span className="flex items-center gap-1.5 text-xs sm:text-sm font-bold bg-white/10 border border-white/20 px-3 py-1 rounded-full">
             📖 {classNameTitle}
           </span>
-          <span className="hidden md:inline-flex items-center gap-1 text-xs text-emerald-200 font-semibold">
-            <ShieldCheck className="w-3.5 h-3.5 text-emerald-400" /> Timetable Sync Active
+          <span className="hidden md:inline-flex items-center gap-1 text-xs text-emerald-200 font-semibold bg-emerald-900/50 px-2.5 py-0.5 rounded-full border border-emerald-700/50">
+            <Activity className="w-3.5 h-3.5 text-emerald-300" /> Activity: {activityScore}%
           </span>
         </div>
 
-        <div className="flex items-center gap-3">
+        <div className="flex items-center gap-2 sm:gap-3 flex-wrap">
           {/* Live Timer Pill */}
           <div
             className={`flex items-center gap-2 px-3 py-1 rounded-full font-mono text-xs sm:text-sm font-bold border transition-colors ${
@@ -108,17 +117,35 @@ export default function ClassroomSessionHeader({
             }`}
           >
             <Clock className="w-3.5 h-3.5" />
-            <span>{formatTime(secondsRemaining)} remaining</span>
+            <span>{formatTime(secondsRemaining)} Remaining</span>
           </div>
 
-          {/* Quick Extend Pill */}
-          <button
-            onClick={() => addMinutes(15)}
-            className="flex items-center gap-1 bg-emerald-600 hover:bg-emerald-500 text-white text-xs font-bold px-3 py-1 rounded-full border border-emerald-400/30 transition-all cursor-pointer active:scale-95 shadow-sm"
-            title="Extend class by 15 minutes"
-          >
-            <Plus className="w-3.5 h-3.5" /> +15m
-          </button>
+          {/* Phase 4 Quick Extensions: +10m, +20m, +30m */}
+          <div className="flex items-center gap-1 bg-white/10 p-0.5 rounded-full border border-white/20">
+            <button
+              onClick={() => addMinutes(10)}
+              className="flex items-center gap-0.5 bg-emerald-600 hover:bg-emerald-500 text-white text-xs font-bold px-2.5 py-1 rounded-full transition-all cursor-pointer active:scale-95"
+              title="Extend class by 10 minutes"
+            >
+              <Plus className="w-3 h-3" /> 10m
+            </button>
+
+            <button
+              onClick={() => addMinutes(20)}
+              className="flex items-center gap-0.5 bg-emerald-700 hover:bg-emerald-600 text-white text-xs font-bold px-2.5 py-1 rounded-full transition-all cursor-pointer active:scale-95"
+              title="Extend class by 20 minutes"
+            >
+              <Plus className="w-3 h-3" /> 20m
+            </button>
+
+            <button
+              onClick={() => addMinutes(30)}
+              className="flex items-center gap-0.5 bg-emerald-800 hover:bg-emerald-700 text-white text-xs font-bold px-2.5 py-1 rounded-full transition-all cursor-pointer active:scale-95"
+              title="Extend class by 30 minutes"
+            >
+              <Plus className="w-3 h-3" /> 30m
+            </button>
+          </div>
 
           {/* End Class Button */}
           <button

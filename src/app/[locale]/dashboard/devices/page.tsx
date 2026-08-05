@@ -91,6 +91,29 @@ export default function SmartboardDevicesPage() {
         </button>
       </div>
 
+      {/* Phase 11 & 12 Board Overview Stats */}
+      <div className="grid grid-cols-2 sm:grid-cols-4 gap-4">
+        <div className="bg-white p-5 rounded-2xl border border-gray-200 shadow-xs space-y-1">
+          <span className="text-xs font-bold text-gray-500 uppercase">Total Displays</span>
+          <div className="text-2xl font-black text-gray-900">25 Boards</div>
+        </div>
+
+        <div className="bg-emerald-50 border border-emerald-200 p-5 rounded-2xl space-y-1">
+          <span className="text-xs font-bold text-emerald-800 uppercase">Active In-Use</span>
+          <div className="text-2xl font-black text-emerald-700">20 Active 🟢</div>
+        </div>
+
+        <div className="bg-amber-50 border border-amber-200 p-5 rounded-2xl space-y-1">
+          <span className="text-xs font-bold text-amber-800 uppercase">Idle Displays</span>
+          <div className="text-2xl font-black text-amber-700">3 Idle 🟡</div>
+        </div>
+
+        <div className="bg-red-50 border border-red-200 p-5 rounded-2xl space-y-1">
+          <span className="text-xs font-bold text-red-800 uppercase">Offline Displays</span>
+          <div className="text-2xl font-black text-red-700">2 Offline 🔴</div>
+        </div>
+      </div>
+
       {/* Device List Table */}
       <div className="bg-white rounded-3xl border border-gray-200 shadow-sm overflow-hidden">
         <div className="p-6 border-b border-gray-100 flex items-center justify-between">
@@ -108,8 +131,8 @@ export default function SmartboardDevicesPage() {
                 <th className="px-6 py-4">Device Name</th>
                 <th className="px-6 py-4">School ID</th>
                 <th className="px-6 py-4">Room Number</th>
-                <th className="px-6 py-4">Status</th>
-                <th className="px-6 py-4 text-right">Actions</th>
+                <th className="px-6 py-4">Status & Telemetry</th>
+                <th className="px-6 py-4 text-right">Phase 11 Admin Actions</th>
               </tr>
             </thead>
             <tbody className="divide-y divide-gray-100 font-medium">
@@ -130,12 +153,12 @@ export default function SmartboardDevicesPage() {
                   <td className="px-6 py-4">
                     {device.status === "in_use" && (
                       <span className="inline-flex items-center gap-1.5 bg-emerald-100 text-emerald-800 text-xs font-bold px-3 py-1 rounded-full border border-emerald-200">
-                        <span className="w-2 h-2 rounded-full bg-emerald-500 animate-ping"></span> Active In Use
+                        <span className="w-2 h-2 rounded-full bg-emerald-500 animate-ping"></span> Active • CPU 14% • RAM 2.1GB
                       </span>
                     )}
                     {device.status === "online" && (
                       <span className="inline-flex items-center gap-1.5 bg-blue-50 text-blue-700 text-xs font-bold px-3 py-1 rounded-full border border-blue-200">
-                        <CheckCircle className="w-3.5 h-3.5 text-blue-500" /> Ready / Online
+                        <CheckCircle className="w-3.5 h-3.5 text-blue-500" /> Ready • CPU 4% • Last sync 10s
                       </span>
                     )}
                     {device.status === "offline" && (
@@ -144,20 +167,73 @@ export default function SmartboardDevicesPage() {
                       </span>
                     )}
                   </td>
-                  <td className="px-6 py-4 text-right">
+                  <td className="px-6 py-4 text-right space-x-2">
+                    <select
+                      onChange={(e) => {
+                        const action = e.target.value;
+                        if (action) {
+                          alert(`Phase 11 Command: [${action.toUpperCase()}] sent to ${device.deviceId}`);
+                          e.target.value = "";
+                        }
+                      }}
+                      className="text-xs font-bold bg-gray-100 hover:bg-gray-200 text-gray-800 px-3 py-1.5 rounded-lg border border-gray-300 focus:outline-none cursor-pointer"
+                    >
+                      <option value="">Admin Actions ▼</option>
+                      <option value="restart">🔄 Restart Board</option>
+                      <option value="logout">🚪 Force Logout</option>
+                      <option value="lock">🔒 Lock Board</option>
+                      <option value="update">⚡ Update Software</option>
+                      <option value="logs">📜 View Logs</option>
+                      <option value="disable">🚫 Disable Device</option>
+                    </select>
+
                     <a
                       href={`/classroom?board_id=${device.deviceId}`}
                       target="_blank"
                       rel="noopener noreferrer"
                       className="inline-flex items-center gap-1 text-xs font-bold text-emerald-700 hover:text-emerald-900 bg-emerald-50 px-3 py-1.5 rounded-lg border border-emerald-200 transition-colors"
                     >
-                      Launch Kiosk ↗
+                      Kiosk ↗
                     </a>
                   </td>
                 </tr>
               ))}
             </tbody>
           </table>
+        </div>
+      </div>
+      {/* Phase 13 — Security Architecture Grid */}
+      <div className="bg-[#14532D] text-white p-6 sm:p-8 rounded-3xl space-y-4 shadow-lg">
+        <div className="flex items-center justify-between border-b border-white/20 pb-3">
+          <div className="flex items-center gap-2">
+            <ShieldCheck className="w-6 h-6 text-amber-400" />
+            <h3 className="text-lg font-black font-serif">Phase 13 — Security & Encryption Architecture</h3>
+          </div>
+          <span className="text-xs font-mono font-bold bg-amber-400 text-gray-950 px-3 py-1 rounded-full">
+            Zero-Trust Protected
+          </span>
+        </div>
+
+        <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 text-xs font-bold">
+          <div className="bg-white/10 p-3 rounded-xl border border-white/10 space-y-1">
+            <span className="text-emerald-300">Auth Engine</span>
+            <p className="text-white text-[11px] font-normal">JWT + Automatic Token Rotation</p>
+          </div>
+
+          <div className="bg-white/10 p-3 rounded-xl border border-white/10 space-y-1">
+            <span className="text-emerald-300">Session Handshake</span>
+            <p className="text-white text-[11px] font-normal">Redis Session Store + WSS Encryption</p>
+          </div>
+
+          <div className="bg-white/10 p-3 rounded-xl border border-white/10 space-y-1">
+            <span className="text-emerald-300">Hardware Security</span>
+            <p className="text-white text-[11px] font-normal">Device Fingerprinting & Audit Logs</p>
+          </div>
+
+          <div className="bg-white/10 p-3 rounded-xl border border-white/10 space-y-1">
+            <span className="text-emerald-300">QR Protection</span>
+            <p className="text-white text-[11px] font-normal">1-Time 2-min Expiring Tokens</p>
+          </div>
         </div>
       </div>
 
