@@ -189,8 +189,8 @@ export default function ContactSupportPage() {
                   </div>
                   <div className="space-y-0.5">
                     <p className="text-xs font-bold text-ink-3 uppercase tracking-wider">{currentT.emailUs}</p>
-                    <a href="mailto:jayantolhyan@khelclan.online" className="text-sm font-semibold text-brand hover:underline block">
-                      jayantolhyan@khelclan.online
+                    <a href="mailto:support@teacher-sathi.online" className="text-sm font-semibold text-brand hover:underline block">
+                      support@teacher-sathi.online
                     </a>
                   </div>
                 </div>
