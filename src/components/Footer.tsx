@@ -93,8 +93,8 @@ export default function Footer() {
             <div className="flex items-center gap-2">
               <Image src="/logo-horizontal-on-dark.png" alt="TeacherSathi AI Lesson Plan & Classroom Quiz Generator Logo for Indian Government Schools" width={160} height={36} className="h-9 w-auto object-contain" />
             </div>
-            <p className="text-emerald-100/90 text-sm leading-relaxed font-medium">
-              {t("tagline")}
+            <p className="text-emerald-100/90 text-xs leading-relaxed font-medium">
+              TeacherSathi AI is India&apos;s leading classroom productivity platform, purpose-built to help educators master NCERT curriculum through intelligent automation.
             </p>
             <p className="text-emerald-200/80 text-xs font-semibold">
               {t("made_in")} <Heart className="w-3 h-3 inline text-red-400 fill-red-400" />

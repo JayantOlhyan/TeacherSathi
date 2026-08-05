@@ -300,7 +300,7 @@ export default function InteractiveHeroWorkspace() {
             href="/signup"
             className="bg-[#14532D] hover:bg-emerald-800 text-white font-extrabold px-4 py-2 rounded-xl text-xs flex items-center gap-1.5 shadow-md cursor-pointer transition-transform active:scale-95"
           >
-            <span>Generate Full Kit Now ✨</span>
+            <span>✨ Create My Free Class {selectedClass} {selectedSubject} Kit Now</span>
           </a>
         </div>
 

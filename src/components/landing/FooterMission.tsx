@@ -28,15 +28,21 @@ export default function FooterMission() {
           <div className="absolute top-0 right-0 w-64 h-64 bg-brand-500/20 blur-[80px] rounded-full group-hover:scale-150 transition-transform duration-700 ease-out z-0"></div>
           <div className="absolute bottom-0 left-0 w-48 h-48 bg-emerald-500/20 blur-[60px] rounded-full z-0"></div>
 
-          <div className="text-center md:text-left relative z-10">
-            <h3 className="text-4xl md:text-5xl font-black mb-4 tracking-tight text-white">Start Your Free Trial Today</h3>
-            <p className="text-[#A3B8AA] font-medium text-lg max-w-lg">
-              Join 10,000+ educators transforming their classrooms with TeacherSathi&apos;s intelligent toolkit.
+          <div className="text-center md:text-left relative z-10 space-y-2">
+            <h3 className="text-3xl md:text-4xl font-black tracking-tight text-white font-serif">
+              Get 100% Free Forever Teacher Access
+            </h3>
+            <p className="text-[#A3B8AA] font-semibold text-sm max-w-lg">
+              No Credit Card Required • Join 10,000+ educators transforming their classrooms with TeacherSathi.
             </p>
           </div>
-          <button className="relative z-10 px-8 py-5 rounded-2xl bg-white text-brand-950 font-black text-sm flex items-center gap-3 hover:bg-slate-50 transition-all hover:scale-105 active:scale-95 shrink-0 shadow-[0_0_40px_-10px_rgba(255,255,255,0.4)]">
-            Create Free Account <ArrowRight className="w-5 h-5 text-brand" />
-          </button>
+          <a 
+            href="/signup"
+            className="relative z-10 px-8 py-5 rounded-2xl bg-amber-400 hover:bg-amber-300 text-gray-950 font-black text-sm flex items-center gap-3 transition-all hover:scale-105 active:scale-95 shrink-0 shadow-lg cursor-pointer"
+          >
+            <span>Create Free Account Now 🚀</span>
+            <ArrowRight className="w-5 h-5 text-gray-950" />
+          </a>
         </div>
 
       </div>

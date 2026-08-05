@@ -14,10 +14,10 @@ export default function TrustStrip() {
     <div className="w-full bg-white/95 backdrop-blur-md rounded-[2rem] shadow-md border border-gray-200 flex flex-col xl:flex-row items-center justify-between p-6 px-10 relative z-20">
       
       {/* Left Title */}
-      <div className="xl:border-r border-slate-200 xl:pr-10 mb-6 xl:mb-0 shrink-0 text-center xl:text-left">
-        <h2 className="text-[#1A2E20] font-black text-xl leading-tight font-serif">
-          Trusted across CBSE, KVS &amp;<br />
-          State Board Schools
+      <div className="xl:border-r border-slate-200 xl:pr-10 mb-6 xl:mb-0 shrink-0 text-center xl:text-left max-w-sm">
+        <h2 className="text-[#1A2E20] font-black text-sm leading-snug font-serif">
+          Co-Designed with 500+ KVS &amp; State Educators.<br />
+          <span className="text-emerald-700 font-extrabold text-xs">Tested in 1,200+ Classrooms across MP, Bihar &amp; Rajasthan.</span>
         </h2>
       </div>
 
