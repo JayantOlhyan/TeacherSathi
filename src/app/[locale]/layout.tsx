@@ -155,13 +155,18 @@ export default async function RootLayout({
   const jsonLdApp = {
     "@context": "https://schema.org",
     "@type": "SoftwareApplication",
-    "name": "TeacherSathi AI Lesson Plan Generator",
-    "operatingSystem": "Web, Android, iOS, Windows (75-inch Smartboards)",
+    "name": "TeacherSathi AI",
+    "operatingSystem": "Web, Smart Display, Android, iOS",
     "applicationCategory": "EducationalApplication",
     "offers": {
       "@type": "Offer",
       "price": "0",
       "priceCurrency": "INR"
+    },
+    "description": "AI-powered teaching companion designed for Indian government school teachers to turn NCERT chapters into classroom-ready teaching kits.",
+    "audience": {
+      "@type": "EducationalAudience",
+      "educationalRole": "Teacher"
     },
     "aggregateRating": {
       "@type": "AggregateRating",
@@ -169,6 +174,23 @@ export default async function RootLayout({
       "ratingCount": "1250",
       "bestRating": "5",
       "worstRating": "1"
+    }
+  };
+
+  const jsonLdCourse = {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "NCERT Class 6 to 10 AI Interactive Lesson Kits",
+    "description": "Comprehensive NCERT curriculum lesson plans, mind maps, quizzes, and 75-inch smartboard slide decks for Science, Maths, Social Science, Hindi, and English.",
+    "provider": {
+      "@type": "Organization",
+      "name": "TeacherSathi",
+      "sameAs": "https://teacher-sathi.online"
+    },
+    "hasCourseInstance": {
+      "@type": "CourseInstance",
+      "courseMode": "Online",
+      "inLanguage": ["en", "hi"]
     }
   };
 
@@ -233,6 +255,10 @@ export default async function RootLayout({
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdSpeakable) }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdCourse) }}
         />
       </head>
       <body
