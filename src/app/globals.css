@@ -132,3 +132,22 @@ html.highlight-links-theme button[onClick] {
   }
 }
 
+/* Print-Optimized Stylesheets for Physical NCERT Worksheets & Mind Maps */
+@media print {
+  nav, footer, .mobile-sticky-cta, button, .no-print {
+    display: none !important;
+  }
+  body {
+    background: #ffffff !important;
+    color: #000000 !important;
+    font-size: 12pt !important;
+  }
+  .printable-area {
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    box-shadow: none !important;
+    border: none !important;
+  }
+}
+
