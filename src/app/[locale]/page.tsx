@@ -65,17 +65,17 @@ export default function Home() {
           
           {/* Hero Left Content */}
           <div className="lg:col-span-5 space-y-8 z-20 relative">
-            <div className="hero-element inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-[#FAFAFA]/90 backdrop-blur-md border border-brand-200/50 text-brand-800 font-bold text-[11px] uppercase tracking-widest shadow-sm">
-              <Heart className="w-3.5 h-3.5 fill-brand text-brand" /> Made for Government School Teachers
+            <div className="hero-element inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-[#FAFAFA]/90 backdrop-blur-md border border-brand-200/60 text-brand-900 font-extrabold text-[11px] uppercase tracking-widest shadow-sm">
+              <Heart className="w-3.5 h-3.5 fill-brand text-brand" /> Made for Government School Teachers • Saves 12 Hours Weekly
             </div>
 
             <div className="space-y-6">
-              <h1 className="hero-element text-4xl sm:text-6xl md:text-7xl font-black text-[#1A2E20] tracking-tighter leading-[1.05]">
-                NCERT AI Lesson Plan Generator &amp; <span className="bg-clip-text text-transparent bg-gradient-to-r from-[#0F5B38] to-[#1a935b]">CBSE Worksheet Creator</span>
+              <h1 className="hero-element text-4xl sm:text-5xl md:text-6xl font-black text-[#1A2E20] tracking-tighter leading-[1.08]">
+                Turn Any NCERT Chapter into a Classroom-Ready Lesson in <span className="bg-clip-text text-transparent bg-gradient-to-r from-[#0F5B38] to-[#1a935b]">30 Seconds</span>
               </h1>
               
-              <p className="hero-element text-base sm:text-lg text-[#2C4A35] font-semibold leading-relaxed max-w-md">
-                Presentations, videos, quizzes, mind maps, question banks and worksheets — generated in seconds for Classes 6 to 10.
+              <p className="hero-element text-base sm:text-lg text-[#2C4A35] font-semibold leading-relaxed max-w-lg">
+                India&apos;s #1 NCERT AI Lesson Plan Generator &amp; CBSE Worksheet Creator. Generate 75-inch smartboard presentations, explainer videos, mind maps, quizzes, and printable worksheets in seconds.
               </p>
             </div>
 
