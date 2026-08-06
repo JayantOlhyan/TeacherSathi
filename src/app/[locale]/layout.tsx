@@ -115,6 +115,9 @@ export async function generateMetadata({ params: { locale } }: { params: { local
     },
     verification: {
       google: '-a0wyjaTybF3gldEtwwHLwq_ChLau7TLls8Q1KFF7lE',
+      other: {
+        'msvalidate.01': '8F5A67C29F944D12B18E6F01103E999E',
+      },
     },
   };
 }
@@ -238,6 +241,8 @@ export default async function RootLayout({
   return (
     <html lang={locale} suppressHydrationWarning>
       <head>
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <meta name="google-site-verification" content="-a0wyjaTybF3gldEtwwHLwq_ChLau7TLls8Q1KFF7lE" />
         <SEOLinks />
         <script
@@ -266,9 +271,17 @@ export default async function RootLayout({
         suppressHydrationWarning
       >
         <NextIntlClientProvider messages={messages}>
+          <a 
+            href="#main-content" 
+            className="sr-only focus:not-sr-only focus:absolute focus:top-4 focus:left-4 focus:z-[100] focus:px-4 focus:py-2.5 focus:bg-[#14532D] focus:text-white font-extrabold focus:rounded-xl shadow-2xl focus:ring-2 focus:ring-amber-400"
+          >
+            Skip to Main Content
+          </a>
           <Navbar />
           <Breadcrumbs />
-          {children}
+          <main id="main-content" className="w-full">
+            {children}
+          </main>
           <Footer />
           <MobileStickyCTA />
           <WhatsAppChatWidget />
