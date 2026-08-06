@@ -1,21 +1,58 @@
 "use client";
 
 import React, { useState } from "react";
-import { ArrowRight, Check } from "lucide-react";
+import { Download, Sparkles, Eye, X } from "lucide-react";
 
 export default function SampleResourcesExplorer() {
   const [activeTab, setActiveTab] = useState("Presentation");
+  const [previewKit, setPreviewKit] = useState<string | null>(null);
   
   const tabs = ["Presentation", "Video", "Mind Map", "Quiz", "Question Bank", "Worksheet"];
 
+  const sampleKits = [
+    {
+      id: "class-10-science",
+      title: "Class 10 Science: Light Reflection & Refraction",
+      grade: "Class 10",
+      subject: "Science",
+      type: "Complete 75\" Smartboard Pack",
+      size: "2.4 MB PDF",
+      summary: "Includes 12 HD smartboard slides, bilingual Devanagari mind map, 10 MCQ quiz bank with answer keys, and 1 printable worksheet."
+    },
+    {
+      id: "class-8-science",
+      title: "Class 8 Science: Cell - Structure & Functions",
+      grade: "Class 8",
+      subject: "Science",
+      type: "NEP 2020 Aligned Kit",
+      size: "1.8 MB PDF",
+      summary: "Includes plant vs animal cell 3D diagram slides, short/long question bank, and bilingual Hindi notes."
+    },
+    {
+      id: "class-9-maths",
+      title: "Class 9 Mathematics: Real Numbers & Polynomials",
+      grade: "Class 9",
+      subject: "Mathematics",
+      type: "CBSE Exam Preparation Kit",
+      size: "2.1 MB PDF",
+      summary: "Includes step-by-step formula matrices, 15 practice test questions, and smart classroom problem slates."
+    }
+  ];
+
   return (
     <div className="w-full flex flex-col items-center relative z-20">
-      <div className="text-center mb-8">
-        <h2 className="text-3xl font-black text-[#1A2E20] mb-2 tracking-tight">Explore Sample Resources</h2>
+      <div className="text-center mb-8 space-y-2">
+        <span className="text-[10px] font-black uppercase tracking-widest text-emerald-800 bg-emerald-100 px-3 py-1 rounded-full border border-emerald-200">
+          Free Instant Downloads
+        </span>
+        <h2 className="text-3xl font-black text-[#1A2E20] tracking-tight">Explore &amp; Download Sample NCERT Kits</h2>
+        <p className="text-xs text-slate-600 font-semibold max-w-xl mx-auto">
+          Test drive our pre-formatted 75-inch smartboard packs and printable CBSE worksheets before signing up.
+        </p>
       </div>
 
       {/* Tabs */}
-      <div className="flex flex-wrap justify-center gap-1.5 p-1.5 bg-white/90 backdrop-blur-md border border-slate-200 rounded-2xl sm:rounded-full mb-10 shadow-sm max-w-full overflow-x-auto">
+      <div className="flex flex-wrap justify-center gap-1.5 p-1.5 bg-white/90 backdrop-blur-md border border-slate-200 rounded-2xl sm:rounded-full mb-8 shadow-sm max-w-full overflow-x-auto">
         {tabs.map((tab) => (
           <button
             key={tab}
@@ -31,88 +68,87 @@ export default function SampleResourcesExplorer() {
         ))}
       </div>
 
-      {/* Cards Area */}
-      <div className="grid grid-cols-1 md:grid-cols-4 gap-4 w-full max-w-7xl mb-8">
-        
-        {/* Card 1: Slide */}
-        <div className="bg-white rounded-2xl shadow-sm border border-slate-100 p-6 flex flex-col hover:-translate-y-1 transition-transform">
-          <div className="text-[9px] font-extrabold text-[#4A5D52] tracking-widest uppercase mb-4">
-            Slide 04
-          </div>
-          <h3 className="text-lg font-black text-[#1A2E20] leading-tight mb-4 tracking-tight">
-            Why Conservation<br/>Matters?
-          </h3>
-          <ul className="text-[10px] text-[#4A5D52] font-semibold space-y-3 pl-3 list-disc">
-            <li>Maintain ecological balance</li>
-            <li>Protect biodiversity</li>
-            <li>Ensure resources for future generations</li>
-          </ul>
-        </div>
+      {/* 3 Downloadable Sample Kit Cards */}
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-6 w-full max-w-6xl mb-8">
+        {sampleKits.map((kit) => (
+          <div key={kit.id} className="bg-white rounded-2xl shadow-sm border border-slate-200 p-6 flex flex-col justify-between hover:shadow-md transition-all space-y-4">
+            <div className="space-y-3">
+              <div className="flex justify-between items-start">
+                <span className="text-[10px] font-extrabold text-emerald-900 bg-emerald-50 border border-emerald-200 px-2.5 py-1 rounded-full uppercase">
+                  {kit.type}
+                </span>
+                <span className="text-[10px] font-bold text-slate-400">{kit.size}</span>
+              </div>
 
-        {/* Card 2: Food Chain */}
-        <div className="bg-[#FAFAFA] rounded-2xl shadow-sm border border-slate-100 p-6 flex flex-col items-center justify-center hover:-translate-y-1 transition-transform">
-          <h3 className="text-sm font-black text-[#1A2E20] mb-6">Food Chain in a Forest</h3>
-          <div className="flex items-center gap-3">
-            <div className="text-center">
-              <div className="w-12 h-12 rounded-full bg-emerald-100 mb-2 border border-emerald-200" />
-              <div className="text-[8px] font-bold text-[#4A5D52]">Plants<br/>(Producers)</div>
+              <div>
+                <h3 className="text-base font-black text-slate-900 leading-tight">{kit.title}</h3>
+                <p className="text-xs text-slate-500 mt-2 leading-relaxed font-medium">{kit.summary}</p>
+              </div>
             </div>
-            <ArrowRight className="w-4 h-4 text-slate-300" />
-            <div className="text-center">
-              <div className="w-12 h-12 rounded-full bg-amber-100 mb-2 border border-amber-200" />
-              <div className="text-[8px] font-bold text-[#4A5D52]">Deer<br/>(Consumers)</div>
-            </div>
-            <ArrowRight className="w-4 h-4 text-slate-300" />
-            <div className="text-center">
-              <div className="w-12 h-12 rounded-full bg-orange-100 mb-2 border border-orange-200" />
-              <div className="text-[8px] font-bold text-[#4A5D52]">Tiger<br/>(Top Consumers)</div>
+
+            <div className="pt-4 border-t border-slate-100 flex gap-2">
+              <button
+                onClick={() => setPreviewKit(kit.title)}
+                className="flex-1 py-2.5 px-3 bg-slate-100 hover:bg-slate-200 text-slate-800 rounded-xl text-xs font-bold transition-colors flex items-center justify-center gap-1 cursor-pointer"
+              >
+                <Eye className="w-3.5 h-3.5" /> Preview
+              </button>
+              <button
+                onClick={() => alert(`Downloading Sample PDF: ${kit.title}`)}
+                className="flex-1 py-2.5 px-3 bg-[#14532D] hover:bg-emerald-900 text-white rounded-xl text-xs font-bold transition-colors flex items-center justify-center gap-1 cursor-pointer shadow-sm"
+              >
+                <Download className="w-3.5 h-3.5" /> Download PDF
+              </button>
             </div>
           </div>
-        </div>
-
-        {/* Card 3: Quiz */}
-        <div className="bg-white rounded-2xl shadow-sm border border-slate-100 p-6 flex flex-col hover:-translate-y-1 transition-transform">
-          <h3 className="text-xs font-black text-[#1A2E20] leading-tight mb-4">
-            Which of the following is a major cause of deforestation?
-          </h3>
-          <div className="space-y-2">
-            <div className="text-[9px] font-semibold text-slate-500 py-1.5 px-2">A. Afforestation</div>
-            <div className="text-[9px] font-bold text-emerald-800 py-1.5 px-2 bg-emerald-50 border border-emerald-200 rounded flex justify-between items-center">
-              B. Urbanization <Check className="w-3 h-3 text-emerald-600" />
-            </div>
-            <div className="text-[9px] font-semibold text-slate-500 py-1.5 px-2">C. Forest fires</div>
-            <div className="text-[9px] font-semibold text-slate-500 py-1.5 px-2">D. Overgrazing</div>
-          </div>
-        </div>
-
-        {/* Card 4: Short Answer */}
-        <div className="bg-white rounded-2xl shadow-sm border border-slate-100 p-6 flex flex-col hover:-translate-y-1 transition-transform">
-          <h3 className="text-xs font-black text-[#1A2E20] leading-tight mb-4">
-            Short Answer Question
-          </h3>
-          <ol className="text-[10px] text-[#4A5D52] font-semibold space-y-4 list-decimal pl-3">
-            <li>What is biodiversity?</li>
-            <li>Why should we conserve our forests?</li>
-            <li>What steps can we take to protect wildlife?</li>
-          </ol>
-        </div>
-
+        ))}
       </div>
 
-      <div className="flex flex-col sm:flex-row items-center gap-4">
-        <button
-          onClick={() => alert("Downloading Sample NCERT Class 8 Science Complete Kit PDF!")}
-          className="bg-[#14532D] hover:bg-emerald-800 text-white font-bold text-xs px-6 py-3 rounded-full shadow-md transition-all active:scale-95 flex items-center gap-2 cursor-pointer"
-        >
-          <span>Download Free Class 8 Science Kit (PDF) 📥</span>
-        </button>
-        <button
-          onClick={() => alert("Downloading Sample NCERT Class 10 Maths Revision Kit PDF!")}
-          className="bg-emerald-50 hover:bg-emerald-100 text-emerald-950 font-bold text-xs px-6 py-3 rounded-full border border-emerald-300 transition-all cursor-pointer"
-        >
-          <span>Download Free Class 10 Maths Kit (PDF) 📥</span>
-        </button>
-      </div>
+      {/* Preview Modal */}
+      {previewKit && (
+        <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/60 backdrop-blur-sm p-4">
+          <div className="bg-white rounded-3xl p-6 max-w-lg w-full space-y-4 relative shadow-2xl">
+            <button 
+              onClick={() => setPreviewKit(null)}
+              className="absolute top-4 right-4 p-1 rounded-full hover:bg-slate-100"
+            >
+              <X className="w-5 h-5 text-slate-500" />
+            </button>
+
+            <div className="flex items-center gap-2 text-emerald-800 font-bold text-xs">
+              <Sparkles className="w-4 h-4 text-amber-500" />
+              <span>Sample PDF Preview</span>
+            </div>
+
+            <h3 className="text-lg font-black text-slate-900">{previewKit}</h3>
+            
+            <div className="bg-slate-900 text-emerald-300 p-6 rounded-2xl text-xs space-y-3 font-mono border border-slate-800">
+              <p className="text-white font-bold text-sm">[Sample Smartboard Slide Output]</p>
+              <p>✔ Bilingual Devanagari Hindi &amp; English Typography</p>
+              <p>✔ Pre-formatted for 75-inch smart screens</p>
+              <p>✔ Includes MCQ Quiz with teacher answer keys</p>
+            </div>
+
+            <div className="pt-2 flex justify-end gap-3">
+              <button 
+                onClick={() => setPreviewKit(null)}
+                className="px-4 py-2 bg-slate-100 rounded-xl text-xs font-bold text-slate-700"
+              >
+                Close
+              </button>
+              <button 
+                onClick={() => {
+                  alert(`Downloading ${previewKit}!`);
+                  setPreviewKit(null);
+                }}
+                className="px-5 py-2 bg-emerald-800 text-white rounded-xl text-xs font-bold flex items-center gap-1.5"
+              >
+                <Download className="w-4 h-4" /> Download PDF Now
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
     </div>
   );
 }
