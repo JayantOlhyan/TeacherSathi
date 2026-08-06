@@ -38,7 +38,7 @@ export default function PrivacyPolicyPage() {
         {
           title: "5. Your Rights & Contacts",
           icon: Database,
-          body: "You have the right to request a copy of the personal data we store, request modifications, or delete your account entirely at any time. For privacy queries or data deletion requests, contact us at jayantolhyan@khelclan.online."
+          body: "You have the right to request a copy of the personal data we store, request modifications, or delete your account entirely at any time. For privacy queries or data deletion requests, contact us at khelclan@gmail.com."
         },
         {
           title: "6. Digital Personal Data Protection (DPDP) Act 2023 Compliance",
@@ -76,7 +76,7 @@ export default function PrivacyPolicyPage() {
         {
           title: "5. आपके अधिकार और संपर्क",
           icon: Database,
-          body: "आपको हमारे द्वारा संग्रहीत व्यक्तिगत डेटा की एक प्रति का अनुरोध करने, संशोधनों का अनुरोध करने, या किसी भी समय अपना खाता पूरी तरह से हटाने का अधिकार है। गोपनीयता प्रश्नों या डेटा हटाने के अनुरोधों के लिए, हमसे jayantolhyan@khelclan.online पर संपर्क करें।"
+          body: "आपको हमारे द्वारा संग्रहीत व्यक्तिगत डेटा की एक प्रति का अनुरोध करने, संशोधनों का अनुरोध करने, या किसी भी समय अपना खाता पूरी तरह से हटाने का अधिकार है। गोपनीयता प्रश्नों या डेटा हटाने के अनुरोधों के लिए, हमसे khelclan@gmail.com पर संपर्क करें।"
         },
         {
           title: "6. डिजिटल पर्सनल डेटा प्रोटेक्शन (DPDP) अधिनियम 2023 अनुपालन",

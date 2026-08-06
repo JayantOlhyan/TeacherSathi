@@ -279,7 +279,7 @@ export default function SupportPage() {
               <p className="font-bold uppercase tracking-wider text-xs text-white/50">Direct Contacts</p>
               <div className="flex items-center gap-3 text-white/80 hover:text-white transition-colors">
                 <Mail className="w-5 h-5 text-emerald-400" />
-                <a href="mailto:jayantolhyan@khelclan.online" className="font-medium">jayantolhyan@khelclan.online</a>
+                <a href="mailto:khelclan@gmail.com" className="font-medium">khelclan@gmail.com</a>
               </div>
               <div className="flex items-center gap-3 text-white/80 hover:text-white transition-colors">
                 <Phone className="w-5 h-5 text-emerald-400" />

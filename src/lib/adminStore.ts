@@ -321,7 +321,7 @@ const INITIAL_RESOURCES: Resource[] = [
 ];
 
 const INITIAL_USERS: User[] = [
-  { id: "u-1", email: "founder@teachersathi.org", display_name: "Founder Admin", status: "ACTIVE", roles: ["SUPER_ADMIN"], school_name: "TeacherSathi HQ", last_active: "2026-07-18T21:40:00Z" },
+  { id: "u-1", email: "khelclan@gmail.com", display_name: "Founder Admin", status: "ACTIVE", roles: ["SUPER_ADMIN"], school_name: "TeacherSathi HQ", last_active: "2026-07-18T21:40:00Z" },
   { id: "u-2", email: "manager@teachersathi.org", display_name: "Content Manager", status: "ACTIVE", roles: ["CONTENT_MANAGER"], school_name: "KV School", last_active: "2026-07-18T21:10:00Z" },
   { id: "u-3", email: "reviewer@teachersathi.org", display_name: "Primary Reviewer", status: "ACTIVE", roles: ["REVIEWER"], school_name: "Govt School 1", last_active: "2026-07-17T18:30:00Z" }
 ];
@@ -343,7 +343,7 @@ const INITIAL_ANNOUNCEMENTS: Announcement[] = [
 const INITIAL_SITE_CONTENT = {
   homepage_hero_title: "Empowering Government School Teachers in India",
   homepage_hero_subtitle: "Access high-quality NCERT/CBSE classroom content, smart tools, lessons plans, and quizzes instantly in Hindi and English.",
-  support_email: "support@teachersathi.org",
+  support_email: "khelclan@gmail.com",
   support_phone: "+91 98765 43210",
   faq_list: [
     { q: "Is TeacherSathi free for teachers?", a: "Yes, all standard NCERT lesson plans and worksheets are free to download and use." },
@@ -352,7 +352,7 @@ const INITIAL_SITE_CONTENT = {
 };
 
 const INITIAL_AUDIT: AuditLog[] = [
-  { id: "audit-1", admin_email: "founder@teachersathi.org", action: "SYSTEM_INIT", entity_type: "SYSTEM", entity_id: "SYS", timestamp: "2026-07-18T21:49:00Z", metadata: "Database storage preloaded with core NCERT syllabus data." }
+  { id: "audit-1", admin_email: "khelclan@gmail.com", action: "SYSTEM_INIT", entity_type: "SYSTEM", entity_id: "SYS", timestamp: "2026-07-18T21:49:00Z", metadata: "Database storage preloaded with core NCERT syllabus data." }
 ];
 
 // Helper to access data with LocalStorage fallback
