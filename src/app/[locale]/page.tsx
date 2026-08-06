@@ -59,17 +59,22 @@ export default function Home() {
           
           {/* Hero Left Content */}
           <div className="lg:col-span-5 space-y-8 z-20 relative">
-            <div className="hero-element inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-[#FAFAFA]/90 backdrop-blur-md border border-brand-200/60 text-brand-900 font-extrabold text-[11px] uppercase tracking-widest shadow-sm">
-              <Heart className="w-3.5 h-3.5 fill-brand text-brand" /> 🇮🇳 Empowering India&apos;s Government School Teachers with NEP 2020 Aligned AI
+            <div className="flex flex-wrap items-center gap-2">
+              <div className="hero-element inline-flex items-center gap-2 px-3 py-1 rounded-full bg-[#FAFAFA]/90 backdrop-blur-md border border-brand-200/60 text-brand-900 font-extrabold text-[11px] uppercase tracking-widest shadow-sm">
+                <Heart className="w-3.5 h-3.5 fill-brand text-brand" /> 🇮🇳 NEP 2020 Aligned AI for Teachers
+              </div>
+              <div className="hero-element inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-amber-500/10 border border-amber-500/30 text-amber-900 font-extrabold text-[11px] uppercase tracking-widest shadow-sm">
+                <span>द्विभाषी हिंदी &amp; English</span>
+              </div>
             </div>
 
             <div className="space-y-6">
               <h1 className="hero-element text-4xl sm:text-5xl md:text-6xl font-black text-[#1A2E20] tracking-tighter leading-[1.08]">
-                Convert Any NCERT Chapter into an Interactive Smart Board Kit in <span className="bg-clip-text text-transparent bg-gradient-to-r from-[#0F5B38] to-[#1a935b]">30 Seconds</span>
+                NCERT AI Lesson Plan Generator <span className="bg-clip-text text-transparent bg-gradient-to-r from-[#0F5B38] to-[#1a935b]">&amp; CBSE Worksheet Creator</span>
               </h1>
               
               <p className="hero-element text-base sm:text-lg text-[#2C4A35] font-semibold leading-relaxed max-w-lg">
-                Instantly generate complete bilingual teaching kits—slide decks, HD videos, interactive quizzes, and print-ready worksheets—customized to your syllabus.
+                Instantly convert any NCERT Class 6–10 chapter into bilingual 75-inch smartboard slide decks, HD explainer videos, interactive mind maps, quizzes, and print-ready worksheets in 30 seconds.
               </p>
             </div>
 
@@ -77,16 +82,16 @@ export default function Home() {
               <div className="flex flex-col sm:flex-row items-center gap-4">
                 <a 
                   href="/signup"
-                  className="group relative w-full sm:w-auto px-7 py-4 rounded-full bg-brand text-white font-black text-sm shadow-[0_8px_25px_-5px_rgba(15,91,56,0.5)] hover:shadow-[0_12px_30px_-5px_rgba(15,91,56,0.6)] hover:-translate-y-0.5 transition-all duration-300 flex items-center justify-center gap-2 overflow-hidden cursor-pointer"
+                  className="group relative w-full sm:w-auto px-7 py-4 rounded-full bg-amber-500 hover:bg-amber-600 text-slate-950 font-black text-sm shadow-[0_8px_25px_-5px_rgba(217,119,6,0.5)] hover:shadow-[0_12px_30px_-5px_rgba(217,119,6,0.6)] hover:-translate-y-0.5 transition-all duration-300 flex items-center justify-center gap-2 overflow-hidden cursor-pointer border border-amber-400"
                 >
-                  <div className="absolute inset-0 bg-gradient-to-r from-transparent via-white/20 to-transparent -translate-x-[150%] group-hover:translate-x-[150%] transition-transform duration-700 ease-in-out"></div>
+                  <div className="absolute inset-0 bg-gradient-to-r from-transparent via-white/30 to-transparent -translate-x-[150%] group-hover:translate-x-[150%] transition-transform duration-700 ease-in-out"></div>
                   <span className="relative z-10">Generate Free NCERT Lesson Kit Now 🚀</span> 
                   <ArrowRight className="relative z-10 w-4 h-4 group-hover:translate-x-1 transition-transform" />
                 </a>
 
                 <a 
                   href="#how-it-works"
-                  className="w-full sm:w-auto px-6 py-4 rounded-full bg-white/80 backdrop-blur-md border border-brand-950/10 text-brand-950 font-extrabold text-sm hover:bg-white hover:shadow-md hover:-translate-y-0.5 transition-all duration-300 flex items-center justify-center gap-2 shadow-sm cursor-pointer"
+                  className="w-full sm:w-auto px-6 py-4 rounded-full bg-white/90 backdrop-blur-md border border-brand-950/10 text-brand-950 font-extrabold text-sm hover:bg-white hover:shadow-md hover:-translate-y-0.5 transition-all duration-300 flex items-center justify-center gap-2 shadow-sm cursor-pointer"
                 >
                   See How It Works <PlayCircle className="w-4 h-4 text-brand" />
                 </a>
@@ -95,11 +100,11 @@ export default function Home() {
               {/* Trust Statement */}
               <p className="text-[11px] font-bold text-emerald-800 flex items-center gap-1.5 pl-2 pt-1">
                 <CheckCircle2 className="w-3.5 h-3.5 text-emerald-600 shrink-0" />
-                100% Free for Individual Teachers — No Credit Card Required
+                100% Free Forever for Individual Teachers — No Credit Card Required
               </p>
             </div>
 
-            {/* Social Proof Avatars */}
+            {/* Social Proof Avatars & Active Teacher Count */}
             <div className="hero-element flex items-center gap-4 pt-2">
               <div className="flex -space-x-3">
                 <div className="w-10 h-10 rounded-full border-2 border-white bg-gradient-to-br from-blue-100 to-blue-200 flex items-center justify-center text-blue-700 font-black text-[10px] shadow-sm z-30">AR</div>
@@ -111,11 +116,11 @@ export default function Home() {
                 <div className="flex items-center gap-0.5">
                   {[1,2,3,4,5].map(i => <Star key={i} className="w-3 h-3 fill-amber-400 text-amber-400" />)}
                 </div>
-                <span className="text-xs font-bold text-[#2C4A35]">Joined by 10,000+ Teachers across CBSE &amp; KVS</span>
+                <span className="text-xs font-bold text-[#2C4A35]">Join 10,000+ Teachers across CBSE, KVS &amp; State Boards</span>
               </div>
             </div>
 
-            {/* Hardware Compatibility Micro-copy */}
+            {/* Hardware Compatibility & Low Bandwidth Micro-copy */}
             <div className="hero-element flex flex-wrap items-center gap-x-4 gap-y-2 pt-4 border-t border-brand-900/10 text-xs font-bold text-[#1A2E20]">
               <span className="flex items-center gap-1.5"><CheckCircle2 className="w-4 h-4 text-brand" /> NCERT &amp; NEP 2020 Aligned</span>
               <span className="flex items-center gap-1.5"><BookOpen className="w-4 h-4 text-brand" /> Bilingual (Hindi &amp; English)</span>

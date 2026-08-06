@@ -368,6 +368,25 @@ export default function DashboardPage() {
             </div>
           </section>
 
+          {/* Saved Custom Kits Empty State */}
+          <section className="space-y-3">
+            <h3 className="text-sm font-bold text-slate-400 uppercase tracking-wider">My Custom Kits &amp; Drafts</h3>
+            <div className="bg-white border border-dashed border-slate-300 rounded-2xl p-6 text-center space-y-3">
+              <div className="w-10 h-10 rounded-full bg-emerald-50 text-emerald-700 flex items-center justify-center mx-auto">
+                <BookOpen className="w-5 h-5" />
+              </div>
+              <div>
+                <h4 className="font-extrabold text-slate-800 text-sm">No Saved Drafts Yet</h4>
+                <p className="text-slate-500 text-xs font-semibold mt-1">Generate your first NCERT Class 6–10 teaching pack to see saved kits here.</p>
+              </div>
+              <Link 
+                href="/content/class-8" 
+                className="inline-flex items-center gap-1.5 px-4 py-2 bg-[#14532D] text-white font-extrabold text-xs rounded-xl shadow-sm hover:bg-emerald-900 transition-colors"
+              >
+                <span>Browse NCERT Syllabus Library 📚</span>
+              </Link>
+            </div>
+          </section>
         </div>
 
       </div>

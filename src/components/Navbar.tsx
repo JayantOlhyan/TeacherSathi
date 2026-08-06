@@ -314,6 +314,8 @@ export default function Navbar() {
                         setShowNotifications(!showNotifications);
                         setIsProfileOpen(false);
                       }}
+                      aria-expanded={showNotifications}
+                      aria-label="View notifications"
                       className={`relative p-2 text-gray-650 hover:text-gray-900 transition-all rounded-full hover:bg-slate-100 ${
                         showNotifications ? "bg-slate-100 text-gray-900" : ""
                       }`}
@@ -368,18 +370,21 @@ export default function Navbar() {
 
                   {/* Profile Dropdown Container */}
                   <div className="relative" ref={profileRef}>
-                    <div 
+                    <button 
                       onClick={() => {
                         setIsProfileOpen(!isProfileOpen);
                         setShowNotifications(false);
                       }}
+                      aria-expanded={isProfileOpen}
+                      aria-haspopup="true"
+                      aria-label="User account menu"
                       className="flex items-center gap-2 bg-white p-1 pl-2 pr-4 py-1.5 rounded-full shadow-sm border border-gray-100 cursor-pointer hover:shadow-md hover:border-gray-200 transition-all select-none"
                     >
                       <div className="w-7 h-7 bg-blue-100 text-blue-700 rounded-full flex items-center justify-center font-bold">
                         <User className="w-4 h-4" />
                       </div>
                       <span className="text-sm font-extrabold text-gray-700">{firstName}</span>
-                    </div>
+                    </button>
 
                     {/* Profile Dropdown Menu */}
                     {isProfileOpen && (
@@ -471,17 +476,17 @@ export default function Navbar() {
             <div className="px-4 pt-2 pb-6 space-y-1">
               {isAuthenticated ? (
                 <>
-                  <Link href="/dashboard" className="block px-3 py-3 rounded-lg text-ink-2 hover:bg-brand/5 hover:text-brand font-medium transition-colors">{t("dashboard")}</Link>
-                  <Link href="/content/class-8" className="block px-3 py-3 rounded-lg text-ink-2 hover:bg-brand/5 hover:text-brand font-medium transition-colors">{t("content_library")}</Link>
-                  <Link href="/dashboard/classes" className="block px-3 py-3 rounded-lg text-ink-2 hover:bg-brand/5 hover:text-brand font-medium transition-colors">{t("my_classes")}</Link>
-                  <Link href="/dashboard/reports" className="block px-3 py-3 rounded-lg text-ink-2 hover:bg-brand/5 hover:text-brand font-medium transition-colors">{t("reports")}</Link>
+                  <Link href="/dashboard" className="block min-h-[48px] px-4 py-3 rounded-xl text-ink-2 hover:bg-brand/5 hover:text-brand font-bold transition-colors flex items-center">{t("dashboard")}</Link>
+                  <Link href="/content/class-8" className="block min-h-[48px] px-4 py-3 rounded-xl text-ink-2 hover:bg-brand/5 hover:text-brand font-bold transition-colors flex items-center">{t("content_library")}</Link>
+                  <Link href="/dashboard/classes" className="block min-h-[48px] px-4 py-3 rounded-xl text-ink-2 hover:bg-brand/5 hover:text-brand font-bold transition-colors flex items-center">{t("my_classes")}</Link>
+                  <Link href="/dashboard/reports" className="block min-h-[48px] px-4 py-3 rounded-xl text-ink-2 hover:bg-brand/5 hover:text-brand font-bold transition-colors flex items-center">{t("reports")}</Link>
                   <div className="border-t border-line my-2 pt-2">
                     <button 
                       onClick={() => {
                         setIsOpen(false);
                         setIsAccountOpen(true);
                       }} 
-                      className="w-full flex items-center gap-3 px-3 py-3 rounded-lg text-ink-2 hover:bg-brand/5 hover:text-brand font-medium transition-colors cursor-pointer"
+                      className="w-full min-h-[48px] flex items-center gap-3 px-4 py-3 rounded-xl text-ink-2 hover:bg-brand/5 hover:text-brand font-bold transition-colors cursor-pointer"
                     >
                       <User className="w-5 h-5 opacity-70" /> {t("profile")}
                     </button>
@@ -489,28 +494,28 @@ export default function Navbar() {
                       <Link 
                         href="/admin"
                         onClick={() => setIsOpen(false)}
-                        className="w-full flex items-center gap-3 px-3 py-3 rounded-lg text-emerald-700 hover:bg-emerald-50 font-bold transition-colors cursor-pointer"
+                        className="w-full min-h-[48px] flex items-center gap-3 px-4 py-3 rounded-xl text-emerald-700 hover:bg-emerald-50 font-extrabold transition-colors cursor-pointer"
                       >
                         <Terminal className="w-5 h-5 opacity-70" /> Admin Portal
                       </Link>
                     )}
-                    <button onClick={handleSignOut} className="w-full flex items-center gap-3 px-3 py-3 rounded-lg text-danger hover:bg-danger-bg font-bold text-left transition-colors cursor-pointer">
+                    <button onClick={handleSignOut} className="w-full min-h-[48px] flex items-center gap-3 px-4 py-3 rounded-xl text-danger hover:bg-danger-bg font-extrabold text-left transition-colors cursor-pointer">
                       <LogOut className="w-5 h-5 opacity-70" /> {t("sign_out")}
                     </button>
                   </div>
                 </>
               ) : (
                 <>
-                  <Link href="/#features" className="block px-3 py-3 rounded-lg text-ink-2 hover:bg-brand/5 hover:text-brand font-medium transition-colors">{t("features")}</Link>
-                  <Link href="/pricing" className="block px-3 py-3 rounded-lg text-ink-2 hover:bg-brand/5 hover:text-brand font-medium transition-colors">{t("pricing")}</Link>
-                  <Link href="/#mission" className="block px-3 py-3 rounded-lg text-ink-2 hover:bg-brand/5 hover:text-brand font-medium transition-colors">{t("mission")}</Link>
+                  <Link href="/#features" className="block min-h-[48px] px-4 py-3 rounded-xl text-ink-2 hover:bg-brand/5 hover:text-brand font-bold transition-colors flex items-center">{t("features")}</Link>
+                  <Link href="/pricing" className="block min-h-[48px] px-4 py-3 rounded-xl text-ink-2 hover:bg-brand/5 hover:text-brand font-bold transition-colors flex items-center">{t("pricing")}</Link>
+                  <Link href="/#mission" className="block min-h-[48px] px-4 py-3 rounded-xl text-ink-2 hover:bg-brand/5 hover:text-brand font-bold transition-colors flex items-center">{t("mission")}</Link>
                   <div className="pt-4 mt-2 border-t border-line space-y-3">
                     <button 
                       onClick={() => {
                         setIsOpen(false);
                         setIsAuthOpen(true);
                       }}
-                      className="block w-full text-center bg-[#16A34A] text-white hover:bg-[#128A3E] px-4 py-3 rounded-xl font-bold transition-colors cursor-pointer"
+                      className="block w-full min-h-[48px] text-center bg-[#16A34A] text-white hover:bg-[#128A3E] px-4 py-3 rounded-xl font-bold transition-colors cursor-pointer flex items-center justify-center"
                     >
                       {t("login_signup")}
                     </button>
