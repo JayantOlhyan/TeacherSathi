@@ -1,522 +1,200 @@
-"use client";
-
-import { useState, useEffect } from "react";
-import { useParams } from "next/navigation";
+import React from "react";
+import type { Metadata } from "next";
 import { Link } from "@/i18n/routing";
-import { 
-  Play, 
-  CheckSquare, 
-  MessageSquare, 
-  Download, 
-  FileText, 
-  BrainCircuit, 
-  Clock, 
-  CheckCircle2, 
-  ChevronRight, 
-  X, 
-  Sparkles, 
-  FileCheck, 
-  Tv, 
-  RefreshCw,
-  FolderOpen,
-  Calendar,
-  ArrowUpRight
-} from "lucide-react";
-import { motion, AnimatePresence } from "framer-motion";
 import { getChapterDetails } from "@/lib/data/chapters";
+import { NCERT_SYLLABUS } from "@/lib/data/ncertSyllabus";
+import { ChevronRight, Clock, Download } from "lucide-react";
+import TableOfContents from "@/components/TableOfContents";
+import InternalContextualLinks from "@/components/InternalContextualLinks";
+import ChapterWorkspaceClient from "@/components/chapter/ChapterWorkspaceClient";
 
-export default function ChapterHubPage() {
-  const params = useParams();
-  const grade = (params.grade as string) || "class-10";
-  const subject = (params.subject as string) || "science";
-  const chapter = (params.chapter as string) || "chapter-10";
+interface ChapterPageParams {
+  grade: string;
+  subject: string;
+  chapter: string;
+  locale: string;
+}
+
+export async function generateStaticParams() {
+  const params: Array<{ grade: string; subject: string; chapter: string }> = [];
+
+  Object.keys(NCERT_SYLLABUS).forEach((className) => {
+    const gradeSlug = className.toLowerCase().replace(/\s+/g, '-');
+    const subjects = NCERT_SYLLABUS[className];
+
+    Object.keys(subjects).forEach((subjectName) => {
+      const subjectSlug = subjectName.toLowerCase().replace(/\s+/g, '-');
+      const chapters = subjects[subjectName];
+
+      chapters.forEach((ch) => {
+        params.push({
+          grade: gradeSlug,
+          subject: subjectSlug,
+          chapter: `chapter-${ch.id}`,
+        });
+      });
+    });
+  });
+
+  return params;
+}
+
+export async function generateMetadata({ params }: { params: ChapterPageParams }): Promise<Metadata> {
+  const chapterDetails = getChapterDetails(params.grade, params.subject, params.chapter);
+  const cleanGrade = params.grade.replace("-", " ").toUpperCase();
+  const cleanSubjectName = params.subject.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+  const cleanChapterNum = params.chapter.replace("chapter-", "");
+
+  const title = `NCERT ${cleanGrade} ${cleanSubjectName} Ch ${cleanChapterNum}: ${chapterDetails.title} | TeacherSathi`;
+  const description = `Free NCERT ${cleanGrade} ${cleanSubjectName} Chapter ${cleanChapterNum} (${chapterDetails.title}) AI lesson plans, mind maps, quizzes, and 75-inch smartboard presentations.`;
+
+  return {
+    title,
+    description,
+    keywords: [
+      `ncert ${cleanGrade.toLowerCase()} ${params.subject} chapter ${cleanChapterNum} lesson plan pdf`,
+      `${chapterDetails.title.toLowerCase()} class ${cleanGrade} ncert mind map`,
+      `teachersathi ncert ${cleanGrade.toLowerCase()} ${params.subject} chapter ${cleanChapterNum}`,
+    ],
+    alternates: {
+      canonical: `https://teacher-sathi.online/content/${params.grade}/${params.subject}/${params.chapter}`,
+    },
+    openGraph: {
+      title,
+      description,
+      url: `https://teacher-sathi.online/content/${params.grade}/${params.subject}/${params.chapter}`,
+      siteName: 'TeacherSathi',
+      type: 'article',
+    },
+  };
+}
+
+export default function ChapterHubPage({ params }: { params: ChapterPageParams }) {
+  const grade = params.grade || "class-10";
+  const subject = params.subject || "science";
+  const chapter = params.chapter || "chapter-10";
 
   const chapterDetails = getChapterDetails(grade, subject, chapter);
-
-  const [isProModalOpen, setIsProModalOpen] = useState(false);
-  const [isSmartScreenOpen, setIsSmartScreenOpen] = useState(false);
-  const [smartSlideIndex, setSmartSlideIndex] = useState(0);
-  const [smartTimer, setSmartTimer] = useState(0);
-  const [timerActive, setTimerActive] = useState(false);
-
-  // Smart screen timer
-  useEffect(() => {
-    let interval: NodeJS.Timeout | undefined;
-    if (timerActive) {
-      interval = setInterval(() => {
-        setSmartTimer((prev) => prev + 1);
-      }, 1000);
-    }
-    return () => {
-      if (interval) clearInterval(interval);
-    };
-  }, [timerActive]);
-
-  const formatTimer = (sec: number) => {
-    const mins = Math.floor(sec / 60);
-    const secs = sec % 60;
-    return `${mins.toString().padStart(2, "0")}:${secs.toString().padStart(2, "0")}`;
-  };
 
   const cleanGrade = grade.replace("-", " ").toUpperCase();
   const cleanSubjectName = subject.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
   const cleanChapterNum = chapter.replace("chapter-", "");
 
-  const smartSlides = [
-    {
-      title: "Lesson Plan: Overview of Light",
-      content: "Light travels in a straight line. Reflection occurs when light bounces off a polished surface, while Refraction is the bending of light as it passes from one medium to another.",
-      tip: "🏫 Smart Screen Tip: Ask students to observe their reflection in a metal scale."
-    },
-    {
-      title: "Key Formula Matrix",
-      content: "Mirror Formula: 1/f = 1/v + 1/u \nLens Formula: 1/f = 1/v - 1/u \nMagnification: m = -v/u (mirrors) or m = v/u (lenses)",
-      tip: "📝 Smart Screen Tip: Write down the formulas on the classroom whiteboard and do 1 numeric example."
-    },
-    {
-      title: "Interactive Quick Poll",
-      content: "Q: Which mirror is used by dentists to see a magnified image of teeth? \nA) Convex Mirror \n) Concave Mirror \nC) Plane Mirror",
-      tip: "❓ Smart Screen Tip: Ask students to raise hands or write A/B/C on their slate boards."
-    }
+  const tocItems = [
+    { id: "overview", title: "Chapter Overview & Syllabus Context" },
+    { id: "interactive-tools", title: "Smartboard & Interactive Tools" },
+    { id: "contextual-links", title: "Related AI Generators & Resources" },
+    { id: "faq", title: "Frequently Asked Questions & Voice Search" },
   ];
 
+  const jsonLdFaq = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": `How to make a question paper for NCERT ${cleanGrade} ${cleanSubjectName} Chapter ${cleanChapterNum}?`,
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": `Use TeacherSathi's AI Assessment generator below to generate a formatted printable CBSE test paper for Chapter ${cleanChapterNum} (${chapterDetails.title}) with answer keys in 30 seconds.`
+        }
+      },
+      {
+        "@type": "Question",
+        "name": `Where can I get NCERT ${cleanGrade} ${cleanSubjectName} Chapter ${cleanChapterNum} mind maps in Hindi?`,
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": `TeacherSathi provides bilingual Devanagari Hindi and English high-resolution mind maps for NCERT ${cleanGrade} ${cleanSubjectName} Chapter ${cleanChapterNum} ready for smartboard presentation.`
+        }
+      }
+    ]
+  };
+
   return (
-    <div className="max-w-7xl mx-auto space-y-8 pb-16 relative">
-      
+    <div className="max-w-7xl mx-auto space-y-8 pb-16 relative px-4 sm:px-6">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdFaq) }}
+      />
+
       {/* Top Breadcrumb Context */}
-      <div className="flex items-center gap-2 text-xs font-bold text-gray-400">
+      <div className="flex items-center gap-2 text-xs font-bold text-gray-400 pt-4">
         <Link href="/content" className="hover:text-gray-600 transition-colors">NCERT Library</Link>
         <ChevronRight className="w-3.5 h-3.5" />
         <Link href={`/content/${grade}`} className="hover:text-gray-600 transition-colors">{cleanGrade}</Link>
         <ChevronRight className="w-3.5 h-3.5" />
-        <span className="text-gray-700">{cleanSubjectName}</span>
+        <Link href={`/content/${grade}/${subject}`} className="hover:text-gray-600 transition-colors">{cleanSubjectName}</Link>
+        <ChevronRight className="w-3.5 h-3.5" />
+        <span className="text-gray-700">Ch {cleanChapterNum}</span>
       </div>
 
       {/* Chapter Workspace Main Title Card */}
-      <div className="bg-white p-8 rounded-2xl border border-gray-100 shadow-sm space-y-4">
-        <div className="flex justify-between items-start">
+      <div id="overview" className="bg-white p-6 sm:p-8 rounded-2xl border border-gray-100 shadow-sm space-y-4">
+        <div className="flex flex-col sm:flex-row justify-between items-start gap-4">
           <div className="space-y-1">
-            <span className="text-xs font-extrabold uppercase text-[#14532D] tracking-wider bg-green-50 px-2.5 py-0.5 rounded border border-green-100">Chapter Workspace</span>
-            <h1 className="text-3xl font-extrabold text-gray-900 mt-2 leading-tight">
+            <span className="text-xs font-extrabold uppercase text-[#14532D] tracking-wider bg-green-50 px-2.5 py-0.5 rounded border border-green-100">NCERT Chapter Hub</span>
+            <h1 className="text-2xl sm:text-3xl font-extrabold text-gray-900 mt-2 leading-tight">
               Ch {cleanChapterNum}. {chapterDetails.title}
             </h1>
             {chapterDetails.titleHi && (
-              <h2 className="text-xl font-bold text-amber-800 font-serif">
+              <h2 className="text-lg sm:text-xl font-bold text-amber-800 font-serif">
                 {chapterDetails.titleHi}
               </h2>
             )}
           </div>
           
-          <button className="bg-emerald-50 hover:bg-emerald-100 text-[#14532D] font-bold px-4 py-2.5 rounded-xl text-xs flex items-center gap-1.5 transition-all shadow-sm active:scale-95 cursor-pointer">
+          <button className="bg-emerald-50 hover:bg-emerald-100 text-[#14532D] font-bold px-4 py-2.5 rounded-xl text-xs flex items-center gap-1.5 transition-all shadow-sm active:scale-95 cursor-pointer shrink-0">
             <Download className="w-4 h-4" /> Download Chapter Pack
           </button>
         </div>
 
-        <p className="text-gray-500 text-sm leading-relaxed max-w-4xl font-medium">
-          {chapterDetails.description || "Standard syllabus curriculum mapping for CBSE schools. View resources, draft plans, or trigger slides."}
+        <p className="text-gray-600 text-sm leading-relaxed max-w-4xl font-medium">
+          {chapterDetails.description}
         </p>
 
-        <div className="flex items-center gap-4 pt-2 text-xs font-bold text-gray-400">
-          <span className="flex items-center gap-1.5"><Clock className="w-4 h-4 text-gray-400" /> Estimated Time: {chapterDetails.studyTime || "6 Hours"}</span>
-          <span>•</span>
-          <span className="text-[#14532D]">All AI features unlocked for class context</span>
+        <div className="flex items-center gap-4 pt-2 text-xs font-bold text-gray-500 border-t border-gray-100">
+          <span className="flex items-center gap-1.5"><Clock className="w-4 h-4 text-gray-400" /> Estimated Time: {chapterDetails.studyTime || "2 Hours"}</span>
+          <span>&bull;</span>
+          <span className="text-[#14532D]">Smartboard &amp; Printable PDF Ready</span>
         </div>
       </div>
 
-      {/* Grid Pillars: TEACH, ASSESS, PLAN */}
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-        
-        {/* Column 1: TEACH */}
-        <div className="bg-white p-6 rounded-2xl border border-gray-100 space-y-4 flex flex-col justify-between">
-          <div className="space-y-4">
-            <div className="pb-3 border-b border-gray-50">
-              <h3 className="text-sm font-black text-gray-400 uppercase tracking-widest">1. TEACH</h3>
-              <p className="text-gray-500 text-[11px] font-medium mt-0.5">Instructional delivery tools</p>
-            </div>
-            
-            <div className="space-y-3">
-              {/* Smart Classroom PPT */}
-              <button 
-                onClick={() => setIsSmartScreenOpen(true)}
-                className="w-full flex items-center justify-between p-3.5 bg-gray-50 hover:bg-[#EDF7EF] rounded-xl text-left border border-gray-100 group transition-all cursor-pointer"
-              >
-                <div className="flex items-center gap-3">
-                  <div className="w-9 h-9 bg-white text-[#14532D] border border-gray-100 rounded-lg flex items-center justify-center shrink-0 shadow-sm">
-                    <Tv className="w-4.5 h-4.5" />
-                  </div>
-                  <div>
-                    <h4 className="font-extrabold text-gray-800 text-xs">Smart Classroom PPT</h4>
-                    <p className="text-[10px] text-gray-400 font-semibold mt-0.5">Start slides on classroom TV</p>
-                  </div>
-                </div>
-                <ArrowUpRight className="w-4 h-4 text-gray-400 group-hover:text-[#14532D] transition-colors" />
-              </button>
+      {/* Table of Contents Jump Links */}
+      <TableOfContents items={tocItems} />
 
-              {/* Mind Map */}
-              <button 
-                onClick={() => setIsProModalOpen(true)}
-                className="w-full flex items-center justify-between p-3.5 bg-gray-50 hover:bg-[#EDF7EF] rounded-xl text-left border border-gray-100 group transition-all cursor-pointer"
-              >
-                <div className="flex items-center gap-3">
-                  <div className="w-9 h-9 bg-white text-[#14532D] border border-gray-100 rounded-lg flex items-center justify-center shrink-0 shadow-sm">
-                    <BrainCircuit className="w-4.5 h-4.5" />
-                  </div>
-                  <div>
-                    <h4 className="font-extrabold text-gray-800 text-xs">Concept Mind Map</h4>
-                    <p className="text-[10px] text-gray-400 font-semibold mt-0.5">Visual conceptual maps</p>
-                  </div>
-                </div>
-                <ArrowUpRight className="w-4 h-4 text-gray-400 group-hover:text-[#14532D] transition-colors" />
-              </button>
-
-              {/* Video Resources */}
-              <Link 
-                href={`/content/${grade}/${subject}/${chapter}/video`}
-                className="w-full flex items-center justify-between p-3.5 bg-gray-50 hover:bg-[#EDF7EF] rounded-xl text-left border border-gray-100 group transition-all cursor-pointer block"
-              >
-                <div className="flex items-center gap-3">
-                  <div className="w-9 h-9 bg-white text-[#14532D] border border-gray-100 rounded-lg flex items-center justify-center shrink-0 shadow-sm">
-                    <Play className="w-4.5 h-4.5" />
-                  </div>
-                  <div>
-                    <h4 className="font-extrabold text-gray-800 text-xs">Video Resources</h4>
-                    <p className="text-[10px] text-gray-400 font-semibold mt-0.5">Bilingual science animations</p>
-                  </div>
-                </div>
-                <ArrowUpRight className="w-4 h-4 text-gray-400 group-hover:text-[#14532D] transition-colors" />
-              </Link>
-            </div>
-          </div>
-        </div>
-
-        {/* Column 2: ASSESS */}
-        <div className="bg-white p-6 rounded-2xl border border-gray-100 space-y-4 flex flex-col justify-between">
-          <div className="space-y-4">
-            <div className="pb-3 border-b border-gray-50">
-              <h3 className="text-sm font-black text-gray-400 uppercase tracking-widest">2. ASSESS</h3>
-              <p className="text-gray-500 text-[11px] font-medium mt-0.5">Student comprehension metrics</p>
-            </div>
-
-            <div className="space-y-3">
-              {/* Create Quiz */}
-              <Link 
-                href={`/content/${grade}/${subject}/${chapter}/quiz`}
-                className="w-full flex items-center justify-between p-3.5 bg-gray-50 hover:bg-[#EDF7EF] rounded-xl text-left border border-gray-100 group transition-all cursor-pointer block"
-              >
-                <div className="flex items-center gap-3">
-                  <div className="w-9 h-9 bg-white text-[#14532D] border border-gray-100 rounded-lg flex items-center justify-center shrink-0 shadow-sm">
-                    <CheckSquare className="w-4.5 h-4.5" />
-                  </div>
-                  <div>
-                    <h4 className="font-extrabold text-gray-800 text-xs">Create MCQ Quiz</h4>
-                    <p className="text-[10px] text-gray-400 font-semibold mt-0.5">Bilingual clicker questions</p>
-                  </div>
-                </div>
-                <ArrowUpRight className="w-4 h-4 text-gray-400 group-hover:text-[#14532D] transition-colors" />
-              </Link>
-
-              {/* Generate Test Paper */}
-              <Link 
-                href={`/content/${grade}/${subject}/${chapter}/test`}
-                className="w-full flex items-center justify-between p-3.5 bg-gray-50 hover:bg-[#EDF7EF] rounded-xl text-left border border-gray-100 group transition-all cursor-pointer block"
-              >
-                <div className="flex items-center gap-3">
-                  <div className="w-9 h-9 bg-white text-[#14532D] border border-gray-100 rounded-lg flex items-center justify-center shrink-0 shadow-sm">
-                    <FileText className="w-4.5 h-4.5" />
-                  </div>
-                  <div>
-                    <h4 className="font-extrabold text-gray-800 text-xs">Generate Test Paper</h4>
-                    <p className="text-[10px] text-gray-400 font-semibold mt-0.5">Summative CBSE printable test</p>
-                  </div>
-                </div>
-                <ArrowUpRight className="w-4 h-4 text-gray-400 group-hover:text-[#14532D] transition-colors" />
-              </Link>
-
-              {/* Question Bank */}
-              <Link 
-                href={`/content/${grade}/${subject}/${chapter}/qa`}
-                className="w-full flex items-center justify-between p-3.5 bg-gray-50 hover:bg-[#EDF7EF] rounded-xl text-left border border-gray-100 group transition-all cursor-pointer block"
-              >
-                <div className="flex items-center gap-3">
-                  <div className="w-9 h-9 bg-white text-[#14532D] border border-gray-100 rounded-lg flex items-center justify-center shrink-0 shadow-sm">
-                    <MessageSquare className="w-4.5 h-4.5" />
-                  </div>
-                  <div>
-                    <h4 className="font-extrabold text-gray-800 text-xs">Question Bank</h4>
-                    <p className="text-[10px] text-gray-400 font-semibold mt-0.5">Short/long solved questions</p>
-                  </div>
-                </div>
-                <ArrowUpRight className="w-4 h-4 text-gray-400 group-hover:text-[#14532D] transition-colors" />
-              </Link>
-            </div>
-          </div>
-        </div>
-
-        {/* Column 3: PLAN */}
-        <div className="bg-white p-6 rounded-2xl border border-gray-100 space-y-4 flex flex-col justify-between">
-          <div className="space-y-4">
-            <div className="pb-3 border-b border-gray-50">
-              <h3 className="text-sm font-black text-gray-400 uppercase tracking-widest">3. PLAN</h3>
-              <p className="text-gray-500 text-[11px] font-medium mt-0.5">Curriculum organization logs</p>
-            </div>
-
-            <div className="space-y-3">
-              {/* Lesson Plan */}
-              <Link 
-                href={`/dashboard/create?type=lesson-plan&grade=${grade}&subject=${subject}&chapter=${chapter}`}
-                className="w-full flex items-center justify-between p-3.5 bg-gray-50 hover:bg-[#EDF7EF] rounded-xl text-left border border-gray-100 group transition-all cursor-pointer block"
-              >
-                <div className="flex items-center gap-3">
-                  <div className="w-9 h-9 bg-white text-[#14532D] border border-gray-100 rounded-lg flex items-center justify-center shrink-0 shadow-sm">
-                    <Calendar className="w-4.5 h-4.5" />
-                  </div>
-                  <div>
-                    <h4 className="font-extrabold text-gray-800 text-xs">Create Lesson Plan</h4>
-                    <p className="text-[10px] text-gray-400 font-semibold mt-0.5">Detailed lecture scheduling</p>
-                  </div>
-                </div>
-                <ArrowUpRight className="w-4 h-4 text-gray-400 group-hover:text-[#14532D] transition-colors" />
-              </Link>
-
-              {/* Homework */}
-              <Link 
-                href={`/dashboard/classes?tab=homework`}
-                className="w-full flex items-center justify-between p-3.5 bg-gray-50 hover:bg-[#EDF7EF] rounded-xl text-left border border-gray-100 group transition-all cursor-pointer block"
-              >
-                <div className="flex items-center gap-3">
-                  <div className="w-9 h-9 bg-white text-[#14532D] border border-gray-100 rounded-lg flex items-center justify-center shrink-0 shadow-sm">
-                    <FileCheck className="w-4.5 h-4.5" />
-                  </div>
-                  <div>
-                    <h4 className="font-extrabold text-gray-800 text-xs">Assign Homework</h4>
-                    <p className="text-[10px] text-gray-400 font-semibold mt-0.5">Post homework to workspace</p>
-                  </div>
-                </div>
-                <ArrowUpRight className="w-4 h-4 text-gray-400 group-hover:text-[#14532D] transition-colors" />
-              </Link>
-
-              {/* Worksheet */}
-              <button 
-                onClick={() => setIsProModalOpen(true)}
-                className="w-full flex items-center justify-between p-3.5 bg-gray-50 hover:bg-[#EDF7EF] rounded-xl text-left border border-gray-100 group transition-all cursor-pointer"
-              >
-                <div className="flex items-center gap-3">
-                  <div className="w-9 h-9 bg-white text-[#14532D] border border-gray-100 rounded-lg flex items-center justify-center shrink-0 shadow-sm">
-                    <Download className="w-4.5 h-4.5" />
-                  </div>
-                  <div>
-                    <h4 className="font-extrabold text-gray-800 text-xs">Generate Worksheet</h4>
-                    <p className="text-[10px] text-gray-400 font-semibold mt-0.5">Bilingual print-ready PDF</p>
-                  </div>
-                </div>
-                <ArrowUpRight className="w-4 h-4 text-gray-400 group-hover:text-[#14532D] transition-colors" />
-              </button>
-            </div>
-          </div>
-        </div>
-
+      {/* Interactive Tools Section */}
+      <div id="interactive-tools">
+        <ChapterWorkspaceClient
+          grade={grade}
+          subject={subject}
+          chapter={chapter}
+          chapterDetails={chapterDetails}
+        />
       </div>
 
-      {/* Previously Created Resources */}
-      <section className="space-y-4">
-        <h3 className="text-sm font-black text-gray-400 uppercase tracking-widest px-1">Previously Created Resources</h3>
-        <div className="bg-white border border-gray-100 rounded-2xl divide-y divide-gray-50 overflow-hidden shadow-sm">
-          {[
-            { name: "Ch10_Light_ClassQuiz_July18.json", type: "Quiz", date: "Today, 10:30 AM", size: "14 KB" },
-            { name: "Class10_Science_RayDiagrams_Worksheet.pdf", type: "Worksheet", date: "July 15, 2026", size: "320 KB" },
-            { name: "Ch10_Detailed_LessonPlan.pdf", type: "Lesson Plan", date: "July 12, 2026", size: "115 KB" },
-          ].map((item, idx) => (
-            <div key={idx} className="p-4 flex items-center justify-between gap-4 hover:bg-gray-50/40 transition-all">
-              <div className="flex items-center gap-3 overflow-hidden">
-                <div className="w-9 h-9 bg-green-50 border border-green-100 text-[#14532D] rounded-xl flex items-center justify-center shrink-0">
-                  <FolderOpen className="w-4.5 h-4.5" />
-                </div>
-                <div className="overflow-hidden">
-                  <h4 className="font-bold text-gray-800 text-xs truncate">{item.name}</h4>
-                  <p className="text-[10px] text-gray-400 font-bold uppercase mt-0.5">{item.type} • {item.size} • {item.date}</p>
-                </div>
-              </div>
-              <Link href="/resources" className="text-xs font-bold text-[#14532D] hover:underline whitespace-nowrap">
-                Open Resource
-              </Link>
-            </div>
-          ))}
+      {/* Contextual Internal Links Section */}
+      <div id="contextual-links">
+        <InternalContextualLinks
+          grade={cleanGrade}
+          subject={cleanSubjectName}
+          chapterTitle={chapterDetails.title}
+        />
+      </div>
+
+      {/* FAQ & Voice Search Section */}
+      <div id="faq" className="bg-white rounded-2xl p-6 sm:p-8 border border-gray-100 shadow-sm space-y-4">
+        <h3 className="text-lg font-bold text-gray-900">Frequently Asked Questions — {cleanGrade} {cleanSubjectName} Ch {cleanChapterNum}</h3>
+        <div className="space-y-3 text-xs sm:text-sm text-gray-600">
+          <div>
+            <h4 className="font-bold text-gray-800">Q: How to make a question paper for {cleanGrade} {cleanSubjectName} Chapter {cleanChapterNum}?</h4>
+            <p className="mt-0.5">A: Click on &quot;Generate Test Paper&quot; above to instantly export a formatted printable CBSE test with answer keys tailored to this chapter.</p>
+          </div>
+          <div>
+            <h4 className="font-bold text-gray-800">Q: Are these teaching materials available in Devanagari Hindi?</h4>
+            <p className="mt-0.5">A: Yes, all TeacherSathi NCERT slide decks, mind maps, and quiz questions support bilingual Devanagari Hindi and English.</p>
+          </div>
         </div>
-      </section>
-
-      {/* 🌟 PREMIUM UPGRADE TO PRO MODAL */}
-      <AnimatePresence>
-        {isProModalOpen && (
-          <div className="fixed inset-0 z-50 flex items-center justify-center p-4">
-            <motion.div 
-              initial={{ opacity: 0 }}
-              animate={{ opacity: 1 }}
-              exit={{ opacity: 0 }}
-              onClick={() => setIsProModalOpen(false)}
-              className="absolute inset-0 bg-slate-950/80 backdrop-blur-sm"
-            />
-            
-            <motion.div 
-              initial={{ scale: 0.95, y: 15, opacity: 0 }}
-              animate={{ scale: 1, y: 0, opacity: 1 }}
-              exit={{ scale: 0.95, y: 15, opacity: 0 }}
-              transition={{ type: "spring", stiffness: 300, damping: 25 }}
-              className="bg-slate-900 border border-slate-800 text-white w-full max-w-lg rounded-3xl p-6 sm:p-8 relative z-10 shadow-2xl overflow-hidden"
-            >
-              <div className="absolute top-0 right-0 w-44 h-44 bg-emerald-500/10 rounded-full blur-3xl pointer-events-none" />
-              <button 
-                onClick={() => setIsProModalOpen(false)}
-                className="absolute top-4 right-4 p-1.5 rounded-full hover:bg-white/10 text-slate-400 hover:text-white transition-all"
-              >
-                <X className="w-5 h-5" />
-              </button>
-
-              <div className="space-y-6">
-                <div className="flex items-center gap-3">
-                  <div className="w-10 h-10 bg-amber-400/20 border border-amber-400/30 rounded-xl flex items-center justify-center">
-                    <Sparkles className="w-5 h-5 text-amber-400" />
-                  </div>
-                  <div>
-                    <h3 className="text-xl font-extrabold text-slate-100 font-serif">Unlock TeacherSathi Pro</h3>
-                    <p className="text-xs text-amber-400 font-bold uppercase tracking-wider">Supercharge your teaching companion</p>
-                  </div>
-                </div>
-
-                <div className="space-y-4 border-y border-slate-800 py-5">
-                  <div className="flex gap-3">
-                    <CheckCircle2 className="w-5 h-5 text-emerald-400 shrink-0 mt-0.5" />
-                    <div>
-                      <h5 className="text-sm font-bold text-slate-200">Unlimited Customised Tests</h5>
-                      <p className="text-xs text-slate-400 mt-0.5">Generate worksheets matching Easy, Medium, or Hard parameters in 2 seconds.</p>
-                    </div>
-                  </div>
-                  <div className="flex gap-3">
-                    <CheckCircle2 className="w-5 h-5 text-emerald-400 shrink-0 mt-0.5" />
-                    <div>
-                      <h5 className="text-sm font-bold text-slate-200">High-Resolution Concept Maps</h5>
-                      <p className="text-xs text-slate-400 mt-0.5">Printable vector files to distribute as classroom revision outlines.</p>
-                    </div>
-                  </div>
-                  <div className="flex gap-3">
-                    <CheckCircle2 className="w-5 h-5 text-emerald-400 shrink-0 mt-0.5" />
-                    <div>
-                      <h5 className="text-sm font-bold text-slate-200">Hindi + English Classroom Slates</h5>
-                      <p className="text-xs text-slate-400 mt-0.5">Bilingual quick-review notes designed for direct smartboard mirroring.</p>
-                    </div>
-                  </div>
-                </div>
-
-                <div className="flex items-center justify-between pt-2">
-                  <div className="space-y-0.5">
-                    <span className="text-[10px] font-black uppercase text-slate-500 tracking-widest block">Pro Plan</span>
-                    <span className="text-2xl font-black text-white">₹499<span className="text-sm font-normal text-slate-400"> / month</span></span>
-                  </div>
-                  <button className="bg-emerald-600 hover:bg-emerald-500 active:scale-[0.98] text-white px-6 py-3 rounded-2xl font-extrabold text-sm shadow-lg shadow-emerald-500/20 transition-all">
-                    Upgrade Now
-                  </button>
-                </div>
-              </div>
-            </motion.div>
-          </div>
-        )}
-      </AnimatePresence>
-
-      {/* 📺 INTERACTIVE CLASSROOM SMART SCREEN OVERLAY */}
-      <AnimatePresence>
-        {isSmartScreenOpen && (
-          <div className="fixed inset-0 z-50 bg-[#0C1E12] text-emerald-100 flex flex-col p-6 sm:p-10 select-none overflow-hidden">
-            <div className="absolute inset-0 bg-[linear-gradient(to_right,#09160d_1px,transparent_1px),linear-gradient(to_bottom,#09160d_1px,transparent_1px)] bg-[size:4rem_4rem] opacity-35 z-0" />
-            
-            <div className="flex justify-between items-center border-b border-emerald-900/60 pb-4 relative z-10">
-              <div className="flex items-center gap-3">
-                <Tv className="w-6 h-6 text-emerald-400" />
-                <div>
-                  <h4 className="font-extrabold text-base text-white tracking-wide">SMART SCREEN DISPLAY MODE</h4>
-                  <p className="text-[10px] text-emerald-400 font-bold uppercase tracking-wider">Optimized for Classroom TVs & Projectors</p>
-                </div>
-              </div>
-
-              <div className="flex items-center gap-3 bg-emerald-950/70 border border-emerald-800/40 rounded-xl py-1.5 px-4 shadow-sm">
-                <span className="text-xs font-black uppercase tracking-wider text-emerald-400">Class Timer:</span>
-                <span className="text-lg font-black font-mono text-white">{formatTimer(smartTimer)}</span>
-                <button 
-                  onClick={() => setTimerActive(!timerActive)}
-                  className={`px-3 py-1 rounded-lg text-xs font-bold ${timerActive ? "bg-red-950 text-red-300 border border-red-900" : "bg-emerald-900 text-emerald-200"}`}
-                >
-                  {timerActive ? "Pause" : "Start"}
-                </button>
-                <button 
-                  onClick={() => { setSmartTimer(0); setTimerActive(false); }}
-                  className="p-1 hover:bg-white/10 rounded"
-                >
-                  <RefreshCw className="w-3.5 h-3.5" />
-                </button>
-              </div>
-
-              <button 
-                onClick={() => { setIsSmartScreenOpen(false); setTimerActive(false); }}
-                className="bg-red-900/30 hover:bg-red-950 border border-red-900 text-red-300 px-4 py-2.5 rounded-xl font-bold text-xs flex items-center gap-1.5 transition-all"
-              >
-                <X className="w-4 h-4" /> Exit Smart Mode
-              </button>
-            </div>
-
-            <div className="flex-1 flex flex-col justify-center items-center py-10 relative z-10 max-w-4xl mx-auto w-full text-center">
-              <AnimatePresence mode="wait">
-                <motion.div
-                  key={smartSlideIndex}
-                  initial={{ opacity: 0, x: 50 }}
-                  animate={{ opacity: 1, x: 0 }}
-                  exit={{ opacity: 0, x: -50 }}
-                  transition={{ duration: 0.3 }}
-                  className="space-y-8"
-                >
-                  <h2 className="text-3xl sm:text-5xl font-black text-white font-serif tracking-tight leading-tight">
-                    {smartSlides[smartSlideIndex].title}
-                  </h2>
-                  <p className="text-lg sm:text-2xl text-emerald-100/90 leading-relaxed font-medium whitespace-pre-line max-w-3xl mx-auto bg-emerald-950/30 border border-emerald-900/20 p-6 sm:p-8 rounded-3xl shadow-inner">
-                    {smartSlides[smartSlideIndex].content}
-                  </p>
-                  
-                  <div className="bg-amber-950/40 border border-amber-900/40 text-amber-200 px-6 py-4 rounded-2xl text-sm font-bold flex items-center justify-center gap-2 max-w-2xl mx-auto shadow-sm">
-                    <Sparkles className="w-5 h-5 text-amber-400 shrink-0" />
-                    {smartSlides[smartSlideIndex].tip}
-                  </div>
-                </motion.div>
-              </AnimatePresence>
-            </div>
-
-            <div className="flex justify-between items-center border-t border-emerald-900/60 pt-6 relative z-10">
-              <button 
-                onClick={() => setSmartSlideIndex((prev) => Math.max(0, prev - 1))}
-                disabled={smartSlideIndex === 0}
-                className="bg-emerald-900/50 hover:bg-emerald-900 border border-emerald-800/40 text-emerald-200 px-6 py-3 rounded-2xl font-bold text-sm transition-all disabled:opacity-40"
-              >
-                Back Slide
-              </button>
-              
-              <div className="flex gap-2.5">
-                {smartSlides.map((_, sIdx) => (
-                  <button
-                    key={sIdx}
-                    onClick={() => setSmartSlideIndex(sIdx)}
-                    className={`w-3 h-3 rounded-full transition-all ${smartSlideIndex === sIdx ? "bg-emerald-400 scale-125" : "bg-emerald-800/60 hover:bg-emerald-700"}`}
-                  />
-                ))}
-              </div>
-
-              <button 
-                onClick={() => setSmartSlideIndex((prev) => Math.min(smartSlides.length - 1, prev + 1))}
-                disabled={smartSlideIndex === smartSlides.length - 1}
-                className="bg-emerald-700 hover:bg-emerald-600 border border-emerald-600/40 text-white px-6 py-3 rounded-2xl font-bold text-sm transition-all disabled:opacity-40"
-              >
-                Next Slide
-              </button>
-            </div>
-          </div>
-        )}
-      </AnimatePresence>
-
+      </div>
     </div>
   );
 }
