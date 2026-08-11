@@ -9,6 +9,7 @@ import WhatsAppChatWidget from "@/components/WhatsAppChatWidget";
 import SocialProofToast from "@/components/SocialProofToast";
 import ExitIntentModal from "@/components/ExitIntentModal";
 import PWAInstallPrompt from "@/components/PWAInstallPrompt";
+import NetworkStatusIndicator from "@/components/NetworkStatusIndicator";
 import SEOLinks from "@/components/SEOLinks";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import "../globals.css";
@@ -108,10 +109,11 @@ export async function generateMetadata({ params: { locale } }: { params: { local
       description: 'NCERT AI Lesson Plan Generator & CBSE Worksheet Creator',
       images: ['https://teacher-sathi.online/logo-horizontal.png'],
     },
+    manifest: '/manifest.webmanifest',
     icons: {
       icon: '/favicon-green.png',
       shortcut: '/favicon-green.png',
-      apple: '/favicon-green.png',
+      apple: '/icons/apple-touch-icon.png',
     },
     verification: {
       google: '-a0wyjaTybF3gldEtwwHLwq_ChLau7TLls8Q1KFF7lE',
@@ -288,6 +290,7 @@ export default async function RootLayout({
           <SocialProofToast />
           <ExitIntentModal />
           <PWAInstallPrompt />
+          <NetworkStatusIndicator />
         </NextIntlClientProvider>
       </body>
     </html>
