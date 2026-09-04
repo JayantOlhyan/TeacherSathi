@@ -1,80 +1,139 @@
 # TeacherSathi 🎓 
 
 > **Teachers ka Superpower | शिक्षकों का सुपरपावर**
-> *Built for my mother, a government school teacher.*
+> A bilingual (English/Hindi) digital teaching companion tailored for Indian school educators.
 
-TeacherSathi is a next-generation, AI-powered teaching companion designed specifically for Indian government and private schools. It operates entirely in the browser—no hardware clickers required—and is fully optimized for 75-inch smart classroom displays. With native bilingual support (English/Hindi), TeacherSathi allows educators to generate comprehensive study materials, track student analytics, and assign assessments with ease.
+## 🚀 Project Status
 
----
+**Status: Frontend MVP Prototype**
 
-## 🚀 Features
-
-The MVP focuses on delivering a highly premium, intuitive frontend experience tailored for both teachers and administrative operators.
-
-### 📚 Content Delivery & Interactivity
-- **Choose Chapter (Bookshelf UI)**: A beautifully designed visual bookshelf where subjects are organized by spine colors and premium chapters feature lock overlays.
-- **Chapter Hub**: An 8-card grid dashboard for specific chapters (e.g., *Light — Reflection & Refraction*) offering AI Videos, MCQs, Q&A banks, Mind Maps, and PDFs.
-- **Custom Video Player**: A dark-themed video interface featuring chapter navigation, jump-to timestamps, adjustable playback speed, and a dedicated "Classroom Mode".
-- **Quick MCQ Quiz Engine**: An interactive quiz interface with real-time feedback (correct/incorrect), floating difficulty badges, and celebratory confetti effects.
-- **Chapter Test Environment**: A high-stakes exam UI featuring a 25-question grid navigator, active countdown timer, flagging system, and review functionalities.
-
-### 👩‍🏫 User Dashboards
-- **Teacher Dashboard**: A robust control panel with a sticky-note KPI row tracking students and tests, alongside detailed "My Classes" cards displaying upcoming test progress and recent activity feeds.
-- **Authentication**: Seamless split-screen login and signup pages supporting both Teacher and Student roles, with built-in Google OAuth support.
-- **Landing & Pricing Pages**: High-conversion marketing pages with competitor contrasts (vs. hardware-based solutions) and clear Free/Pro tier breakdowns.
-
-### ⚙️ Admin Tools
-- **Pipeline Control**: A secure, terminal-inspired interface for triggering and monitoring the autonomous AI video generation pipeline. Features real-time job status tracking (Queued, Processing, Done, Failed) and budget analytics.
+TeacherSathi is currently an interactive frontend prototype built with Next.js 14. It is designed to demonstrate high-fidelity UI/UX for smart classrooms. 
+* **Authentication** is implemented using Supabase Auth.
+* **Database/Backend** is not yet implemented. Content data (NCERT syllabus, quizzes) is served via static JSON files, and administrative state is mocked using browser `localStorage`.
+* **AI Pipelines & Payments** (Razorpay) shown in the UI are simulated mocks for demonstration purposes.
 
 ---
 
-## 🛠️ Tech Stack
+## 🎯 Why This Project Exists
 
-- **Framework:** [Next.js 14](https://nextjs.org/) (App Router)
-- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
-- **UI Components:** [Radix UI](https://www.radix-ui.com/) Primitives, [Lucide Icons](https://lucide.dev/)
-- **Internationalization (i18n):** `next-intl` (Cookie-based locale detection for seamless EN/HI switching without URL routing changes)
-- **Backend/Auth SDK:** [Supabase JS](https://supabase.com/)
+TeacherSathi solves the problem of resource fragmentation for Indian educators. Unlike hardware-based smartboard solutions or generic AI tools, TeacherSathi is built to run entirely in the browser, optimized for 75-inch smart classroom displays, providing NCERT-aligned content, bilingual support, and interactive quizzes without requiring complex setups.
 
 ---
 
-## 📂 Project Structure
+## ✨ Features Inventory
+
+### 🟢 IMPLEMENTED (Frontend & Auth Only)
+* **Authentication Flow**: Login/Signup via Email OTP and Google OAuth via Supabase.
+* **Smartboard Kiosk UI**: A Kiosk QR-code interface for smartboard authentication (`/classroom`).
+* **Bilingual UI**: Full Internationalization (i18n) via `next-intl` supporting English and Hindi.
+* **Content Delivery (Mocked Data)**:
+  * **Chapter Hubs**: Displays study time, PDFs, videos, and quizzes for NCERT subjects based on hardcoded JSON data.
+  * **Interactive Quizzes**: Client-side MCQ engine with immediate feedback, confetti effects, and local scoring.
+* **Whiteboard Integration**: In-browser drawing using the `@excalidraw/excalidraw` package.
+* **Premium UI/UX**: High-quality animations via `framer-motion` and `gsap`, utilizing `lucide-react` icons.
+
+### 🟡 PARTIALLY IMPLEMENTED / MOCKED
+* **Admin Dashboard**: Content management, class assignments, and audit logs work visually but only persist data in the browser's `localStorage` (`src/lib/adminStore.ts`).
+* **AI Video Generation Pipeline**: The pipeline control dashboard (`/admin/pipeline`) is a visual mock using hardcoded arrays to simulate backend job processing.
+* **Pricing/Checkout**: Razorpay integration is a frontend alert mock. No actual payment gateway is connected.
+
+### 🔴 PLANNED (Not Yet Implemented)
+* Real backend database (e.g., Supabase Postgres) for user progress, quiz scores, and content generation.
+* Real AI integration for content generation, AI Video, and "Genie Chat".
+* Secure roles and permissions (RBAC) via backend policies.
+
+---
+
+## 🏗️ Architecture
 
 ```text
-teacher-sathi/
-├── src/
-│   ├── app/
-│   │   ├── admin/pipeline/      # Terminal-style autonomous pipeline control
-│   │   ├── content/[grade]/     # Subject/Chapter bookshelf & Hub
-│   │   │   └── [subject]/[chapter]/
-│   │   │       ├── video/       # Custom video player UI
-│   │   │       ├── quiz/        # MCQ Quiz interface
-│   │   │       └── test/        # High-stakes Chapter Test interface
-│   │   ├── dashboard/           # Teacher control panel
-│   │   ├── login/               # Authentication UI
-│   │   ├── pricing/             # Subscription tiers
-│   │   ├── layout.tsx           # Root layout with i18n NextIntlClientProvider
-│   │   └── page.tsx             # Landing Page
-│   ├── components/
-│   │   ├── ui/                  # Reusable Button, Card primitives
-│   │   └── LanguageToggle.tsx   # Cookie-based EN/HI switcher
-│   ├── lib/
-│   │   └── supabase.ts          # Supabase client configuration
-│   └── i18n.ts                  # next-intl configuration
-├── messages/
-│   ├── en.json                  # English localization strings
-│   └── hi.json                  # Hindi localization strings
-└── tailwind.config.ts           # Custom brand colors and marquee animations
+User (Teacher/Student)
+       ↓
+Next.js App Router (React 18)  <-- [Handles Routing, i18n, Animations]
+       ↓
+Client-Side Logic & State
+  ├── Supabase Auth (OAuth/OTP verification)
+  ├── LocalStorage (Admin state persistence)
+  └── Static JSON files (Quizzes, Syllabus data)
 ```
 
 ---
 
-## 💻 Local Setup & Development
+## 💻 Tech Stack
+
+* **Frontend Framework**: Next.js 14.2 (App Router)
+* **Language**: TypeScript
+* **Styling**: Tailwind CSS
+* **Animations**: Framer Motion, GSAP
+* **Icons**: Lucide React
+* **Authentication**: Supabase Auth (`@supabase/supabase-js`)
+* **Internationalization**: `next-intl`
+* **Interactive Tools**: `@excalidraw/excalidraw`
+
+---
+
+## 📂 Repository Structure
+
+Key directories necessary for understanding and modifying the project:
+
+```text
+teacher-sathi/
+├── public/                 # Static assets, icons, offline PWA files
+│   ├── qa/                 # Hardcoded QA JSON files
+│   └── quizzes/            # Hardcoded Quiz JSON files
+├── src/
+│   ├── app/
+│   │   └── [locale]/       # Core application routes (i18n enabled)
+│   │       ├── admin/      # Admin dashboard UIs (localStorage driven)
+│   │       ├── auth/       # Authentication confirmation routes
+│   │       ├── classroom/  # Smartboard Kiosk QR interface
+│   │       ├── content/    # NCERT Content viewer (Video, QA, Quiz)
+│   │       └── dashboard/  # Main Teacher dashboard
+│   ├── components/         # Reusable React UI components
+│   │   ├── admin/          # Admin specific layouts
+│   │   ├── auth/           # Modals and QR implementations
+│   │   └── landing/        # Landing page marketing components
+│   ├── i18n/               # next-intl configuration
+│   └── lib/
+│       ├── data/           # Hardcoded syllabus and chapter data
+│       ├── adminStore.ts   # LocalStorage-based mock database for Admin
+│       └── supabase.ts     # Supabase client initialization
+├── .env.example            # Environment variables template
+├── next.config.mjs         # Next.js configuration
+├── package.json            # Dependencies
+└── tailwind.config.ts      # Tailwind styling configuration
+```
+
+---
+
+## ⚙️ Prerequisites
+
+* **Node.js**: v18+ (verified with Next.js 14 requirements)
+* **Package Manager**: npm (verified via `package-lock.json`)
+* **Supabase Project**: Requires a Supabase account for Authentication.
+
+---
+
+## 🔐 Environment Variables
+
+Create a `.env.local` file based on `.env.example`:
+
+| Variable | Required | Purpose | Example |
+| -------- | -------- | ------- | ------- |
+| `NEXT_PUBLIC_SUPABASE_URL` | Yes | Supabase project URL for Auth | `https://your-project-id.supabase.co` |
+| `NEXT_PUBLIC_SUPABASE_ANON_KEY`| Yes | Supabase public key for Auth | `eyJhbGciOiJIUzI1...` |
+| `NEXT_PUBLIC_RAZORPAY_KEY_ID` | No | Placeholder for future payments | `rzp_test_your_key_id` |
+
+*(Note: The app will run without Supabase, but Authentication features will be disabled/throw warnings.)*
+
+---
+
+## 🛠️ Local Development
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/JayantOlhyan/TeacherSathi.git
-   cd TeacherSathi
+   git clone <repository-url>
+   cd "teacher sathi final"
    ```
 
 2. **Install dependencies:**
@@ -82,28 +141,83 @@ teacher-sathi/
    npm install
    ```
 
-3. **Configure Environment Variables:**
-   Create a `.env.local` file in the root directory and add your Supabase credentials:
-   ```env
-   NEXT_PUBLIC_SUPABASE_URL=your_supabase_project_url
-   NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
-   ```
+3. **Configure environment:**
+   Create `.env.local` and add your Supabase credentials.
 
-4. **Run the development server:**
+4. **Start the development server:**
    ```bash
    npm run dev
    ```
-   Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+5. **Access the application:**
+   Open `http://localhost:3000` in your browser.
 
 ---
 
-## 🌍 Internationalization (i18n) Guide
-TeacherSathi uses `next-intl` for localization. We use a cookie-based approach (`NEXT_LOCALE`) rather than parameterized routing to keep URLs clean (e.g., `/dashboard` instead of `/en/dashboard`). To add new translations, simply update `messages/en.json` and `messages/hi.json`.
+## 🗄️ Database & Authentication
+
+**Database:**
+There is **no backend database** currently connected for application data. All application data (Admin creations, classes, content) is either statically served from `src/lib/data` and `public/` or temporarily saved in the browser's `localStorage`.
+
+**Authentication:**
+The project uses Supabase Auth.
+* Supports OTP via email.
+* Supports Google OAuth.
+* Authentication state is verified on the client side via standard Supabase session checks.
 
 ---
 
-## 🔜 Roadmap (Phase 5 & 6)
-- **State Management:** Connect interactive elements to Zustand/React Query.
-- **Backend Integration:** Implement actual Supabase Auth flow and RLS policies.
-- **Video Logic:** Hook up the YouTube IFrame API to the custom video player interface.
-- **SEO & Polish:** Implement `sitemap.xml`, `robots.txt`, and loading skeleton UIs.
+## 🛡️ Security
+
+**Current Security Implementations:**
+* **Authentication**: Secured by Supabase.
+
+**⚠️ Known Security Limitations:**
+* **No Authorization/RBAC**: Because the admin state is stored in `localStorage` and routes are primarily frontend-driven without API enforcement, there is no true server-side role-based access control (RBAC).
+* **Data Persistence**: Data is easily manipulable by end-users since it resides in `localStorage`. 
+
+*Do not deploy this prototype for real users expecting secure data isolation until a backend is implemented.*
+
+---
+
+## 🧪 Testing
+
+No automated testing framework (Jest, Cypress, Playwright) is currently configured or implemented in the repository.
+
+---
+
+## 🚀 Deployment
+
+The project can be deployed natively to Vercel or Netlify.
+A `netlify.toml` file exists, indicating previous configuration for Netlify deployment.
+
+**Build Command:**
+```bash
+npm run build
+```
+
+---
+
+## ⚠️ Known Limitations
+
+1. **Static Data**: The AI Pipeline, Video generation, Quizzes, and NCERT content are hardcoded representations. 
+2. **State Loss**: Admin configurations (new classes, subjects) will be lost if the user clears their browser cache.
+3. **No Backend API**: There are no `/api` routes or server actions implemented. 
+4. **No Real AI**: Despite "AI-powered" messaging in the UI, no actual LLM or video-generation APIs are integrated.
+
+---
+
+## 🤖 AI / Developer Orientation
+
+If you are an AI agent or a developer tasked with building out the backend:
+
+* **To add a real Database:** Replace `src/lib/adminStore.ts` logic with actual API calls or Server Actions querying a PostgreSQL database.
+* **To implement the AI Pipeline:** You will need to create Next.js API routes (`src/app/api/...`) or Server Actions to handle queueing and generation logic, replacing the hardcoded arrays in `src/app/[locale]/admin/pipeline/page.tsx`.
+* **To add new Content:** Currently, you must manually edit the JSON structures in `src/lib/data/` and `public/quizzes/`.
+* **UI/UX Changes:** The landing page components are highly segmented in `src/components/landing/`. Most dashboard logic is localized within `src/app/[locale]/dashboard`.
+
+---
+
+## 📄 License
+
+*License unknown. No `LICENSE` file is present in the repository.*
