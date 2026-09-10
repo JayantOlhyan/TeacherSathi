@@ -33,9 +33,9 @@
 
 ### TD-04: Smartboard Kiosk Pairing Uses LocalStorage Polling
 - **Severity**: `HIGH`
-- **Location**: [`src/app/[locale]/classroom/page.tsx`](file:///Users/jayantolhyan/Desktop/my%20projects/deployed/teacher%20sathi%20final/src/app/%5Blocale%5D/classroom/page.tsx#L32-L47) & [`src/app/[locale]/auth/qr-confirm/page.tsx`](file:///Users/jayantolhyan/Desktop/my%20projects/deployed/teacher%20sathi%20final/src/app/%5Blocale%5D/auth/qr-confirm/page.tsx#L47-L58)
-- **Status**: **DATA MODEL ESTABLISHED (Phase 1)**; Realtime Channels queued for **Phase 3**.
-- **Resolution**: Database models for `classroom_devices`, `classroom_sessions`, and `remote_actions` created with persistent API endpoints (`/api/classroom`).
+- **Location**: [`src/app/[locale]/classroom/page.tsx`](file:///Users/jayantolhyan/Desktop/my%20projects/deployed/teacher%20sathi%20final/src/app/%5Blocale%5D/classroom/page.tsx) & [`src/app/[locale]/auth/qr-confirm/page.tsx`](file:///Users/jayantolhyan/Desktop/my%20projects/deployed/teacher%20sathi%20final/src/app/%5Blocale%5D/auth/qr-confirm/page.tsx)
+- **Status**: **RESOLVED IN PHASE 3**
+- **Resolution**: Replaced `setInterval` polling and `localStorage.getItem("ts_qr_approved_*")` with Supabase Realtime broadcast channels (`classroom:session:<id>`), cryptographic 5-minute single-use pairing tokens (`classroom_pairings`), sequence-numbered authoritative events (`classroom_events`), and full remote control over presentations, quizzes, synchronized timers, and digital whiteboard.
 
 ---
 
