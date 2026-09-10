@@ -13,32 +13,37 @@ import {
   Check, 
   Loader2, 
   ChevronRight, 
-  ArrowLeft
+  ArrowLeft,
+  AlertCircle,
+  Activity
 } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
 
 const generationMilestones = [
-  "Understanding chapter scope...",
-  "Structuring NCERT content nodes...",
-  "Generating bilingual questions & options...",
-  "Applying cognitive difficulty balance...",
-  "Finalizing resource draft..."
+  "Resolving canonical NCERT curriculum context...",
+  "Constructing pedagogical prompt instructions...",
+  "AI Provider generating structured JSON content...",
+  "Executing Zod schema & educational validation rules...",
+  "Persisting resource to database & resource lifecycle..."
 ];
 
 export default function AssessmentEditorPage() {
   const router = useRouter();
   const [step, setStep] = useState(1);
-  const [resourceType, setResourceType] = useState("");
+  const [resourceType, setResourceType] = useState("quiz");
   const [selectedClass, setSelectedClass] = useState("Class 10");
   const [selectedSubject, setSelectedSubject] = useState("Science");
   const [selectedChapter, setSelectedChapter] = useState("Chapter 10: Light - Reflection & Refraction");
   const [difficulty, setDifficulty] = useState("Medium");
-  const [questionCount, setQuestionCount] = useState(10);
+  const [questionCount, setQuestionCount] = useState(5);
   const [language, setLanguage] = useState("English");
   const [duration, setDuration] = useState(30);
 
   // Generation status tracking
   const [genStep, setGenStep] = useState(0);
+  const [generationError, setGenerationError] = useState<string | null>(null);
+  const [generatedResourceId, setGeneratedResourceId] = useState<string | null>(null);
+  const [isGenerating, setIsGenerating] = useState(false);
 
   // Prefill params from URL if present
   useEffect(() => {
@@ -50,7 +55,7 @@ export default function AssessmentEditorPage() {
       const chapterParam = params.get("chapter");
 
       if (typeParam) {
-        setResourceType(typeParam);
+        setResourceType(typeParam === "presentation" || typeParam === "smart-classroom" ? "presentation" : typeParam);
         setStep(2);
       }
       if (gradeParam) {
@@ -65,29 +70,90 @@ export default function AssessmentEditorPage() {
     }
   }, []);
 
-  // Simulate generation steps in Step 4
-  useEffect(() => {
-    if (step === 4) {
-      const interval = setInterval(() => {
-        setGenStep((prev) => {
-          if (prev < generationMilestones.length - 1) {
-            return prev + 1;
-          } else {
-            clearInterval(interval);
-            // After completion, redirect to classes or resources after a short delay
-            setTimeout(() => {
-              router.push("/resources");
-            }, 1200);
-            return prev;
-          }
-        });
-      }, 1200);
-      return () => clearInterval(interval);
+  const triggerRealGeneration = async () => {
+    setStep(4);
+    setIsGenerating(true);
+    setGenerationError(null);
+    setGenStep(0);
+
+    // Map UI resource type to backend product_type
+    const productTypeMap: Record<string, string> = {
+      quiz: "quiz",
+      "smart-classroom": "presentation",
+      presentation: "presentation",
+      "test-paper": "test-paper",
+      "lesson-plan": "lesson-plan",
+      "mind-map": "mind-map",
+      worksheet: "worksheet",
+      "teaching-activity": "teaching-activity"
+    };
+
+    const productType = productTypeMap[resourceType] || "quiz";
+    const difficultyMap: Record<string, string> = {
+      Easy: "EASY",
+      Medium: "MEDIUM",
+      Hard: "HARD"
+    };
+    const languageMap: Record<string, string> = {
+      English: "en",
+      Hindi: "hi",
+      Bilingual: "bilingual"
+    };
+
+    try {
+      setGenStep(1);
+      
+      const payload = {
+        product_type: productType,
+        grade: selectedClass,
+        subject: selectedSubject,
+        chapter: selectedChapter,
+        difficulty: difficultyMap[difficulty] || "MEDIUM",
+        language: languageMap[language] || "en",
+        quantity: questionCount,
+        duration_mins: duration,
+        slide_count: questionCount,
+        total_marks: questionCount * 2,
+        idempotency_key: `client-${Date.now()}-${Math.random().toString(36).substring(2, 7)}`
+      };
+
+      setGenStep(2);
+
+      const res = await fetch("/api/ai/generate", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(payload)
+      });
+
+      setGenStep(3);
+
+      if (!res.ok) {
+        const errJson = await res.json();
+        throw new Error(errJson.error || `Server responded with status ${res.status}`);
+      }
+
+      const result = await res.json();
+      setGenStep(4);
+      setGeneratedResourceId(result.resource_id || result.telemetry?.generation_id || "res-success");
+      
+      // Successfully completed
+      setTimeout(() => {
+        router.push("/resources");
+      }, 1500);
+    } catch (err: unknown) {
+      const msg = err instanceof Error ? err.message : "Failed to generate resource. Please check server logs or provider quota.";
+      setGenerationError(msg);
+    } finally {
+      setIsGenerating(false);
     }
-  }, [step, router]);
+  };
 
   const handleNext = () => {
-    setStep(prev => prev + 1);
+    if (step === 3) {
+      triggerRealGeneration();
+    } else {
+      setStep(prev => prev + 1);
+    }
   };
 
   const handleBack = () => {
@@ -156,11 +222,12 @@ export default function AssessmentEditorPage() {
               <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
                 {[
                   { id: "quiz", label: "Interactive Quiz", desc: "For live clicker testing", icon: CheckSquare },
-                  { id: "smart-classroom", label: "Presentation", desc: "Interactive teaching slides", icon: Tv },
+                  { id: "presentation", label: "Presentation", desc: "Smartboard teaching slides", icon: Tv },
                   { id: "test-paper", label: "Test Paper", desc: "Summative paper creator", icon: FileText },
                   { id: "lesson-plan", label: "Lesson Plan", desc: "Structured teaching map", icon: ClipboardList },
                   { id: "mind-map", label: "Mind Map", desc: "Concept relational tree", icon: BrainCircuit },
-                  { id: "worksheet", label: "Worksheet", desc: "Print-ready homework files", icon: Download }
+                  { id: "worksheet", label: "Worksheet", desc: "Print-ready homework files", icon: Download },
+                  { id: "teaching-activity", label: "Teaching Activity", desc: "Hands-on lab / classroom demo", icon: Activity }
                 ].map((item) => {
                   const Icon = item.icon;
                   const isSelected = resourceType === item.id;
@@ -169,7 +236,7 @@ export default function AssessmentEditorPage() {
                       key={item.id}
                       onClick={() => {
                         setResourceType(item.id);
-                        handleNext();
+                        setStep(2);
                       }}
                       className={`p-5 rounded-2xl text-left border flex flex-col justify-between min-h-[140px] transition-all cursor-pointer ${
                         isSelected 
@@ -241,6 +308,8 @@ export default function AssessmentEditorPage() {
                     <option value="Chapter 10: Light - Reflection & Refraction">Chapter 10: Light - Reflection & Refraction</option>
                     <option value="Chapter 11: Human Eye & Colorful World">Chapter 11: Human Eye & Colorful World</option>
                     <option value="Chapter 12: Electricity">Chapter 12: Electricity</option>
+                    <option value="Chapter 1: Chemical Reactions and Equations">Chapter 1: Chemical Reactions and Equations</option>
+                    <option value="Chapter 6: Life Processes">Chapter 6: Life Processes</option>
                   </select>
                 </div>
               </div>
@@ -285,6 +354,8 @@ export default function AssessmentEditorPage() {
                     <input 
                       type="number" 
                       value={questionCount}
+                      min={3}
+                      max={20}
                       onChange={(e) => setQuestionCount(parseInt(e.target.value) || 5)}
                       className="w-full px-4 py-2.5 rounded-xl border border-gray-200 focus:outline-none focus:ring-2 focus:ring-green-500/20 focus:border-green-500 text-xs font-semibold"
                     />
@@ -300,6 +371,7 @@ export default function AssessmentEditorPage() {
                       className="w-full px-4 py-2.5 rounded-xl border border-gray-200 focus:outline-none focus:ring-2 focus:ring-green-500/20 focus:border-green-500 text-xs font-semibold bg-white cursor-pointer"
                     >
                       <option value="English">English</option>
+                      <option value="Hindi">Hindi (हिंदी)</option>
                       <option value="Bilingual">Bilingual (English + Hindi)</option>
                     </select>
                   </div>
@@ -308,7 +380,9 @@ export default function AssessmentEditorPage() {
                     <input 
                       type="number" 
                       value={duration}
-                      onChange={(e) => setDuration(parseInt(e.target.value) || 15)}
+                      min={10}
+                      max={120}
+                      onChange={(e) => setDuration(parseInt(e.target.value) || 30)}
                       className="w-full px-4 py-2.5 rounded-xl border border-gray-200 focus:outline-none focus:ring-2 focus:ring-green-500/20 focus:border-green-500 text-xs font-semibold"
                     />
                   </div>
@@ -326,7 +400,7 @@ export default function AssessmentEditorPage() {
             </motion.div>
           )}
 
-          {/* STEP 4: Generate Progress */}
+          {/* STEP 4: Real Generation Progress */}
           {step === 4 && (
             <motion.div 
               key="step-4"
@@ -335,37 +409,65 @@ export default function AssessmentEditorPage() {
               exit={{ opacity: 0, y: -10 }}
               className="space-y-6 py-8 text-center"
             >
-              <div className="w-12 h-12 bg-green-50 rounded-full flex items-center justify-center mx-auto mb-4 border border-green-150 relative">
-                <Loader2 className="w-6 h-6 animate-spin text-[#14532D]" />
-              </div>
-              <h3 className="font-extrabold text-gray-800 text-sm">Generating AI Teaching Resource</h3>
-              <p className="text-[10px] text-gray-400 font-bold uppercase tracking-wider">Please keep this window open</p>
+              {generationError ? (
+                <div className="space-y-4 max-w-md mx-auto">
+                  <div className="w-12 h-12 bg-red-50 text-red-600 rounded-full flex items-center justify-center mx-auto border border-red-100">
+                    <AlertCircle className="w-6 h-6" />
+                  </div>
+                  <h3 className="font-extrabold text-gray-800 text-sm">Generation Failed</h3>
+                  <p className="text-xs text-red-600 bg-red-50/50 p-3 rounded-xl border border-red-100 text-left">
+                    {generationError}
+                  </p>
+                  <button
+                    onClick={triggerRealGeneration}
+                    className="bg-[#14532D] hover:bg-green-800 text-white font-bold px-5 py-2 rounded-xl text-xs cursor-pointer shadow-sm"
+                  >
+                    Retry Generation
+                  </button>
+                </div>
+              ) : (
+                <>
+                  <div className="w-12 h-12 bg-green-50 rounded-full flex items-center justify-center mx-auto mb-4 border border-green-150 relative">
+                    {isGenerating ? (
+                      <Loader2 className="w-6 h-6 animate-spin text-[#14532D]" />
+                    ) : (
+                      <Check className="w-6 h-6 text-green-700 stroke-[3]" />
+                    )}
+                  </div>
+                  <h3 className="font-extrabold text-gray-800 text-sm">
+                    {isGenerating ? "Generating AI Teaching Resource" : "Generation Complete!"}
+                  </h3>
+                  <p className="text-[10px] text-gray-400 font-bold uppercase tracking-wider">
+                    {isGenerating ? "Executing production validation pipeline" : `Saved resource ${generatedResourceId}`}
+                  </p>
 
-              {/* Progress Milestones Tracker */}
-              <div className="max-w-md mx-auto space-y-3 pt-6 text-left">
-                {generationMilestones.map((milestone, idx) => {
-                  const isDone = genStep > idx;
-                  const isActive = genStep === idx;
-                  return (
-                    <div key={idx} className="flex items-center gap-3">
-                      <div className={`w-5 h-5 rounded-full flex items-center justify-center border text-[10px] font-bold ${
-                        isDone 
-                          ? "bg-green-600 border-green-650 text-white" 
-                          : isActive 
-                            ? "bg-amber-100 border-amber-200 text-amber-800 animate-pulse" 
-                            : "bg-gray-50 border-gray-100 text-gray-300"
-                      }`}>
-                        {isDone ? <Check className="w-3.5 h-3.5" /> : idx + 1}
-                      </div>
-                      <span className={`text-xs font-semibold ${
-                        isDone ? "text-gray-800" : isActive ? "text-gray-700 font-bold" : "text-gray-350"
-                      }`}>
-                        {milestone}
-                      </span>
-                    </div>
-                  );
-                })}
-              </div>
+                  {/* Progress Milestones Tracker */}
+                  <div className="max-w-md mx-auto space-y-3 pt-6 text-left">
+                    {generationMilestones.map((milestone, idx) => {
+                      const isDone = genStep > idx;
+                      const isActive = genStep === idx;
+                      return (
+                        <div key={idx} className="flex items-center gap-3">
+                          <div className={`w-5 h-5 rounded-full flex items-center justify-center border text-[10px] font-bold ${
+                            isDone 
+                              ? "bg-green-600 border-green-650 text-white" 
+                              : isActive 
+                                ? "bg-amber-100 border-amber-200 text-amber-800 animate-pulse" 
+                                : "bg-gray-50 border-gray-100 text-gray-300"
+                          }`}>
+                            {isDone ? <Check className="w-3.5 h-3.5" /> : idx + 1}
+                          </div>
+                          <span className={`text-xs font-semibold ${
+                            isDone ? "text-gray-800" : isActive ? "text-gray-700 font-bold" : "text-gray-350"
+                          }`}>
+                            {milestone}
+                          </span>
+                        </div>
+                      );
+                    })}
+                  </div>
+                </>
+              )}
             </motion.div>
           )}
 
