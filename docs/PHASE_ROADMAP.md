@@ -29,14 +29,14 @@
                                ▼
 ┌─────────────────────────────────────────────────────────────┐
 │ PHASE 3: Realtime Kiosk Handshake & Smartboard WebSockets   │
-│ Status: READY TO EXECUTE                                    │
-│ Focus: Replace polling with Supabase Realtime Channels.     │
+│ Status: COMPLETE                                            │
+│ Focus: Supabase Realtime Channels, QR pairing, live control.│
 └─────────────────────────────────────────────────────────────┘
                                │
                                ▼
 ┌─────────────────────────────────────────────────────────────┐
 │ PHASE 4: Payments (Razorpay), RBAC & Institutional B2B      │
-│ Status: QUEUED                                              │
+│ Status: READY TO EXECUTE                                    │
 │ Focus: Razorpay checkout, webhooks, principal dashboard.    │
 └─────────────────────────────────────────────────────────────┘
                                │
