@@ -5,12 +5,14 @@ import { Clock, Plus, LogOut, AlertTriangle, Activity } from "lucide-react";
 import { activityDetector } from "@/lib/smartActivityDetector";
 
 interface ClassroomSessionHeaderProps {
+  sessionId?: string;
   initialMinutes?: number;
   classNameTitle?: string;
   onEndSession?: () => void;
 }
 
 export default function ClassroomSessionHeader({
+  sessionId,
   initialMinutes = 45,
   classNameTitle = "Class 8 • Science",
   onEndSession,
@@ -28,19 +30,24 @@ export default function ClassroomSessionHeader({
     return () => unsub();
   }, []);
 
-  const handleAutoTerminate = useCallback(() => {
+  const handleAutoTerminate = useCallback(async () => {
     setIsEnded(true);
     setIsGracePeriod(false);
-    // Auto-save and clear session
-    if (typeof window !== "undefined") {
-      localStorage.setItem("sathi_last_autosave", new Date().toISOString());
-      if (onEndSession) {
-        onEndSession();
-      } else {
-        window.location.href = "/login";
+
+    if (sessionId) {
+      try {
+        await fetch(`/api/classroom/sessions/${sessionId}/end`, { method: "POST" });
+      } catch {
+        // Non-blocking cleanup
       }
     }
-  }, [onEndSession]);
+
+    if (onEndSession) {
+      onEndSession();
+    } else if (typeof window !== "undefined") {
+      window.location.href = "/dashboard";
+    }
+  }, [sessionId, onEndSession]);
 
   // Countdown timer effect
   useEffect(() => {
