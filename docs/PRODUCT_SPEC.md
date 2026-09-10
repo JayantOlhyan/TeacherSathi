@@ -57,7 +57,7 @@ India has **9.6 million+ school teachers** in government schools (Kendriya Vidya
    - PWA caching with Service Worker (`public/sw.js`) allowing offline review of pre-loaded chapter packs.
    - Exportability of all slide decks and worksheets to static PDF/PPTX formats for zero-internet playback.
 3. **Display-Agnostic Pairing**:
-   - Ephemeral 2-minute dynamic QR codes allowing authentication from any smartphone without requiring specialized casting hardware (Chromecast, Miracast).
+   - Ephemeral 5-minute dynamic cryptographic QR codes allowing secure single-use authentication from any smartphone without requiring specialized casting hardware (Chromecast, Miracast).
 
 ---
 
