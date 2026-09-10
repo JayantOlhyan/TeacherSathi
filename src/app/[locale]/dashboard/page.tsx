@@ -89,7 +89,7 @@ export default function DashboardPage() {
     }
   };
 
-  const handleGenieSubmit = (e?: React.FormEvent, textOverride?: string) => {
+  const handleGenieSubmit = async (e?: React.FormEvent, textOverride?: string) => {
     e?.preventDefault();
     const query = textOverride || chatMessage;
     if (!query.trim()) return;
@@ -99,21 +99,43 @@ export default function DashboardPage() {
     setChatMessage("");
     setIsGenieThinking(true);
 
-    setTimeout(() => {
-      setIsGenieThinking(false);
-      let responseText = "Here is a quick activity recap idea: Ask students to form pairs and sketch a real-world reflection path on their notebooks!";
-      
-      if (query.includes("recap") || query.includes("Ch 10")) {
-        responseText = "Here is a 5-minute recap activity for Ch. 10 Light:\n\n1. **Refraction Ray (2 min)**: Ask a student to draw a light ray crossing from air to glass on the whiteboard.\n2. **Quick MCQ (3 min)**: Fire up our live MCQ Quiz and run Question 1 to instantly grade conceptual clarity!";
-      } else if (query.includes("physics") || query.includes("easy")) {
-        responseText = "Here is an easy Physics MCQ question:\n\n*Question*: The focal length of a flat mirror is:\n*A)* Zero\n*B)* Infinity (Correct)\n*C)* 10 cm\n*D)* -10 cm";
-      } else if (query.includes("clicker")) {
-        responseText = "To pair clickers, click **Register Clickers** in the Action Bar on your Class page. Once the modal opens, ask your students to press any button on their clicker device. They will pair instantly!";
+    try {
+      const res = await fetch("/api/ai/genie", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          prompt: query,
+          grade: "Class 8",
+          subject: "Science",
+          chapter: "Force and Pressure"
+        }),
+      });
+
+      if (!res.ok) {
+        throw new Error(`Genie error (${res.status})`);
+      }
+
+      const data = await res.json();
+      let responseText = data.answer || "Here is a pedagogical recommendation for your class.";
+      if (data.actionable_steps && data.actionable_steps.length > 0) {
+        responseText += "\n\n**Actionable Steps:**\n" + data.actionable_steps.map((s: string) => `• ${s}`).join("\n");
+      }
+      if (data.quick_followups && data.quick_followups.length > 0) {
+        responseText += "\n\n*Suggested Follow-up:* " + data.quick_followups[0];
       }
 
       const genieMsg = { id: messages.length + 2, text: responseText, sender: "genie" };
       setMessages(prev => [...prev, genieMsg]);
-    }, 1000);
+    } catch {
+      const fallbackMsg = {
+        id: messages.length + 2,
+        text: "I could not reach the Saathi Genie AI engine right now. Please verify your connection or AI provider configuration.",
+        sender: "genie"
+      };
+      setMessages(prev => [...prev, fallbackMsg]);
+    } finally {
+      setIsGenieThinking(false);
+    }
   };
 
   return (
