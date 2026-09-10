@@ -1,12 +1,13 @@
 "use client";
 
-import React, { useState, useEffect } from "react";
-import { QrCode, Smartphone, Clock, ChevronDown, ShieldCheck, Sparkles, X } from "lucide-react";
+import React, { useState, useEffect, useCallback } from "react";
+import { QrCode, Smartphone, Clock, ChevronDown, ShieldCheck, Sparkles, X, ExternalLink } from "lucide-react";
+import { useClassroomRealtime } from "@/lib/classroom/useClassroomRealtime";
 
 interface SmartboardQRAuthModalProps {
   isOpen: boolean;
   onClose: () => void;
-  onSuccess: (sessionData: { durationMins: number; className: string }) => void;
+  onSuccess: (sessionData: { sessionId: string; durationMins: number; className: string }) => void;
 }
 
 export default function SmartboardQRAuthModal({
@@ -16,37 +17,77 @@ export default function SmartboardQRAuthModal({
 }: SmartboardQRAuthModalProps) {
   const [duration, setDuration] = useState<number>(45);
   const [isDropdownOpen, setIsDropdownOpen] = useState(false);
+  const [sessionId, setSessionId] = useState<string>("");
   const [sessionToken, setSessionToken] = useState<string>("");
-  const [scannedStatus, setScannedStatus] = useState<"waiting" | "scanned" | "approved">("waiting");
+  const [pairingUrl, setPairingUrl] = useState<string>("");
+  const [isLoading, setIsLoading] = useState(false);
+
+  const initSessionAndToken = useCallback(async () => {
+    setIsLoading(true);
+    try {
+      // 1. Create a live session
+      const sRes = await fetch("/api/classroom/sessions", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          title: `Class 8 • Science (${duration} Mins)`,
+        }),
+      });
+      const sJson = await sRes.json();
+      if (!sRes.ok) throw new Error(sJson.error || "Failed to create session");
+      const newSid = sJson.data.id;
+      setSessionId(newSid);
+
+      // 2. Generate 5-min pairing token
+      const pRes = await fetch(`/api/classroom/sessions/${newSid}/pair`, {
+        method: "POST",
+      });
+      const pJson = await pRes.json();
+      if (!pRes.ok) throw new Error(pJson.error || "Failed to generate pairing token");
+
+      setSessionToken(pJson.data.token);
+      setPairingUrl(pJson.data.pairingUrl);
+    } catch (err) {
+      console.error("Pairing initialization error:", err);
+    } finally {
+      setIsLoading(false);
+    }
+  }, [duration]);
 
   useEffect(() => {
-    if (!isOpen) return;
+    if (isOpen) {
+      initSessionAndToken();
+    } else {
+      setSessionId("");
+      setSessionToken("");
+      setPairingUrl("");
+    }
+  }, [isOpen, initSessionAndToken]);
 
-    // Generate unique session token
-    const token = `ts_qr_${Math.random().toString(36).substring(2, 9)}`;
-    setSessionToken(token);
-    setScannedStatus("waiting");
+  // Real-time listener for smartboard connection
+  const { state } = useClassroomRealtime({
+    sessionId,
+    deviceName: "Teacher Dashboard Modal",
+    role: "CONTROLLER",
+  });
 
-    // Simulate mobile QR scan handshake for preview/testing
-    const timer = setTimeout(() => {
-      setScannedStatus("scanned");
-    }, 4000);
+  const isConnected = state?.session.status === "ACTIVE";
 
-    return () => clearTimeout(timer);
-  }, [isOpen]);
+  useEffect(() => {
+    if (isConnected && sessionId) {
+      const timer = setTimeout(() => {
+        onSuccess({
+          sessionId,
+          durationMins: duration,
+          className: "Class 8 • Science (09:00 - 09:45)",
+        });
+        onClose();
+      }, 1000);
+      return () => clearTimeout(timer);
+    }
+  }, [isConnected, sessionId, duration, onSuccess, onClose]);
 
   if (!isOpen) return null;
-
-  const handleApprove = () => {
-    setScannedStatus("approved");
-    setTimeout(() => {
-      onSuccess({
-        durationMins: duration,
-        className: "Class 8 • Science (09:00 - 09:45)",
-      });
-      onClose();
-    }, 1200);
-  };
 
   return (
     <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/80 backdrop-blur-md p-4 animate-fadeIn">
@@ -70,7 +111,7 @@ export default function SmartboardQRAuthModal({
             Scan to Start Class Session
           </h2>
           <p className="text-xs sm:text-sm text-gray-600 font-medium max-w-sm mx-auto">
-            Scan with your smartphone camera to log in instantly without typing passwords on the big screen.
+            Scan with your smartphone camera or open kiosk to pair instantly without typing passwords on the big screen.
           </p>
         </div>
 
@@ -80,11 +121,11 @@ export default function SmartboardQRAuthModal({
             <div className="flex items-center gap-2">
               <Clock className="w-4 h-4 text-emerald-700" />
               <span className="text-xs font-bold text-emerald-900 uppercase tracking-wider">
-                Recommended Class Duration
+                Class Duration
               </span>
             </div>
             <span className="text-[10px] bg-emerald-600 text-white font-extrabold px-2 py-0.5 rounded-full">
-              Timetable Matched
+              Period 2
             </span>
           </div>
 
@@ -94,7 +135,7 @@ export default function SmartboardQRAuthModal({
                 🕒 {duration} Minutes
               </p>
               <p className="text-xs text-gray-500 font-medium">
-                Based on Period 2: Class 8 Science (09:00 – 09:45)
+                Class 8 Science (09:00 – 09:45)
               </p>
             </div>
 
@@ -131,52 +172,60 @@ export default function SmartboardQRAuthModal({
 
         {/* QR Code Container */}
         <div className="flex flex-col items-center justify-center p-6 bg-gray-50 rounded-2xl border border-dashed border-gray-300 relative">
-          {scannedStatus === "waiting" && (
+          {isLoading ? (
+            <div className="py-12 text-center space-y-3">
+              <div className="w-10 h-10 border-4 border-emerald-600 border-t-transparent rounded-full animate-spin mx-auto"></div>
+              <p className="text-xs font-bold text-gray-600">Generating Secure 5-Minute Pairing Token...</p>
+            </div>
+          ) : isConnected ? (
+            <div className="space-y-3 text-center py-6 animate-fadeIn">
+              <div className="w-16 h-16 bg-emerald-600 text-white rounded-full flex items-center justify-center mx-auto shadow-lg animate-bounce">
+                <ShieldCheck className="w-10 h-10" />
+              </div>
+              <h4 className="text-xl font-black text-emerald-800">Smartboard Connected!</h4>
+              <p className="text-xs text-gray-500 font-bold">
+                Launching {duration}-minute Classroom Session...
+              </p>
+            </div>
+          ) : (
             <div className="space-y-4 text-center">
-              {/* High-visibility SVG Mock QR */}
+              {/* High-visibility SVG QR Container */}
               <div className="w-48 h-48 bg-white p-3 rounded-2xl border-2 border-gray-900 shadow-md mx-auto flex items-center justify-center relative group">
                 <QrCode className="w-40 h-40 text-gray-900" />
                 <div className="absolute inset-0 bg-emerald-500/10 opacity-0 group-hover:opacity-100 transition-opacity rounded-xl flex items-center justify-center">
                   <span className="text-xs font-bold bg-white text-gray-900 px-2 py-1 rounded-md shadow-sm">
-                    Token: {sessionToken}
+                    Token: {sessionToken.substring(0, 10)}...
                   </span>
                 </div>
               </div>
+
               <div className="flex items-center justify-center gap-2 text-xs font-bold text-gray-500 animate-pulse">
-                <Smartphone className="w-4 h-4 text-emerald-600" /> Waiting for teacher scan on mobile...
+                <Smartphone className="w-4 h-4 text-emerald-600" /> Waiting for smartboard/mobile scan...
               </div>
-            </div>
-          )}
 
-          {scannedStatus === "scanned" && (
-            <div className="space-y-4 text-center py-4">
-              <div className="w-16 h-16 bg-emerald-100 rounded-full flex items-center justify-center mx-auto text-emerald-600 animate-bounce">
-                <Smartphone className="w-8 h-8" />
-              </div>
-              <div>
-                <h4 className="text-lg font-black text-gray-900">QR Code Scanned!</h4>
-                <p className="text-xs text-gray-600">
-                  Tap &quot;Approve Login&quot; on your mobile phone to complete authentication.
-                </p>
-              </div>
-              <button
-                onClick={handleApprove}
-                className="bg-emerald-600 hover:bg-emerald-700 text-white font-bold text-sm px-6 py-2.5 rounded-xl shadow-md transition-all cursor-pointer active:scale-95"
-              >
-                Simulate Mobile Approval
-              </button>
-            </div>
-          )}
-
-          {scannedStatus === "approved" && (
-            <div className="space-y-3 text-center py-6">
-              <div className="w-16 h-16 bg-emerald-600 text-white rounded-full flex items-center justify-center mx-auto shadow-lg animate-pulse">
-                <ShieldCheck className="w-10 h-10" />
-              </div>
-              <h4 className="text-xl font-black text-emerald-800">Authentication Confirmed!</h4>
-              <p className="text-xs text-gray-500 font-bold">
-                Launching {duration}-minute Classroom Session...
-              </p>
+              {/* Direct Link to Launch Kiosk for Testing */}
+              {sessionId && (
+                <div className="pt-2 flex flex-col gap-2">
+                  <a
+                    href={`/classroom?sessionId=${sessionId}`}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex items-center justify-center gap-1.5 text-xs font-bold text-emerald-700 hover:text-emerald-900 bg-emerald-50 hover:bg-emerald-100 px-4 py-2 rounded-xl border border-emerald-200 transition-all"
+                  >
+                    <ExternalLink className="w-3.5 h-3.5" /> Launch 75&quot; Smartboard Display Window ↗
+                  </a>
+                  {pairingUrl && (
+                    <a
+                      href={pairingUrl}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="text-[11px] text-gray-500 underline hover:text-gray-800"
+                    >
+                      Open Mobile Pairing Confirmation Link
+                    </a>
+                  )}
+                </div>
+              )}
             </div>
           )}
         </div>
@@ -184,9 +233,9 @@ export default function SmartboardQRAuthModal({
         {/* Security Footer Notice */}
         <div className="flex items-center justify-between text-[11px] text-gray-500 border-t border-gray-100 pt-4 font-medium">
           <span className="flex items-center gap-1 text-emerald-800 font-bold">
-            <ShieldCheck className="w-3.5 h-3.5 text-emerald-600" /> Classroom Continuity Protection Active
+            <ShieldCheck className="w-3.5 h-3.5 text-emerald-600" /> Single-Use Token Security
           </span>
-          <span>Auto-locks after session expiration</span>
+          <span>Expires in 5 minutes</span>
         </div>
 
       </div>
