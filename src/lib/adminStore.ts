@@ -1,4 +1,5 @@
 import { supabase } from "./supabase";
+import { auditRepository } from "./repositories/audit";
 
 // Interfaces
 export interface Class {
@@ -18,7 +19,7 @@ export interface Subject {
   is_active: boolean;
   is_archived: boolean;
   display_order: number;
-  class_ids: string[]; // Assigned classes
+  class_ids: string[];
 }
 
 export interface Book {
@@ -60,7 +61,7 @@ export interface QuestionOption {
 export interface Question {
   id: string;
   chapter_id: string;
-  question_type: string; // MCQ, Very Short Answer, Short Answer, Long Answer, True/False, etc.
+  question_type: string;
   marks: number;
   difficulty: "EASY" | "MEDIUM" | "HARD";
   competency_type: string;
@@ -109,7 +110,7 @@ export interface Video {
 export interface Resource {
   id: string;
   title: string;
-  type: string; // Worksheet, Presentation, Notes, Lesson Plan, etc.
+  type: string;
   file_url: string;
   chapter_id: string;
   class_ids: string[];
@@ -159,7 +160,7 @@ export interface ContentVersion {
   data_snapshot: string;
 }
 
-// Initial Mock Data
+// Initial In-Memory Seed (For server rendering and fallback)
 const INITIAL_CLASSES: Class[] = [
   { id: "class-6", name: "Class 6", cover_image_url: "", is_active: true, is_archived: false, display_order: 1 },
   { id: "class-7", name: "Class 7", cover_image_url: "", is_active: true, is_archived: false, display_order: 2 },
@@ -321,7 +322,7 @@ const INITIAL_RESOURCES: Resource[] = [
 ];
 
 const INITIAL_USERS: User[] = [
-  { id: "u-1", email: "khelclan@gmail.com", display_name: "Founder Admin", status: "ACTIVE", roles: ["SUPER_ADMIN"], school_name: "TeacherSathi HQ", last_active: "2026-07-18T21:40:00Z" },
+  { id: "u-1", email: "founder@teachersathi.org", display_name: "Founder Admin", status: "ACTIVE", roles: ["SUPER_ADMIN"], school_name: "TeacherSathi HQ", last_active: "2026-07-18T21:40:00Z" },
   { id: "u-2", email: "manager@teachersathi.org", display_name: "Content Manager", status: "ACTIVE", roles: ["CONTENT_MANAGER"], school_name: "KV School", last_active: "2026-07-18T21:10:00Z" },
   { id: "u-3", email: "reviewer@teachersathi.org", display_name: "Primary Reviewer", status: "ACTIVE", roles: ["REVIEWER"], school_name: "Govt School 1", last_active: "2026-07-17T18:30:00Z" }
 ];
@@ -329,8 +330,8 @@ const INITIAL_USERS: User[] = [
 const INITIAL_ANNOUNCEMENTS: Announcement[] = [
   {
     id: "ann-1",
-    title: "Admin Portal Launch!",
-    message: "Welcome to the new TeacherSathi administration dashboard. You can now manage all classes, subjects, books, chapters, and resources dynamically.",
+    title: "Production Database Layer Live!",
+    message: "TeacherSathi Phase 1 has established the production Supabase PostgreSQL data layer and Row Level Security foundation.",
     cta: "/admin/dashboard",
     target: "EVERYONE",
     start_date: "2026-07-18",
@@ -343,7 +344,7 @@ const INITIAL_ANNOUNCEMENTS: Announcement[] = [
 const INITIAL_SITE_CONTENT = {
   homepage_hero_title: "Empowering Government School Teachers in India",
   homepage_hero_subtitle: "Access high-quality NCERT/CBSE classroom content, smart tools, lessons plans, and quizzes instantly in Hindi and English.",
-  support_email: "khelclan@gmail.com",
+  support_email: "support@teachersathi.org",
   support_phone: "+91 98765 43210",
   faq_list: [
     { q: "Is TeacherSathi free for teachers?", a: "Yes, all standard NCERT lesson plans and worksheets are free to download and use." },
@@ -352,38 +353,65 @@ const INITIAL_SITE_CONTENT = {
 };
 
 const INITIAL_AUDIT: AuditLog[] = [
-  { id: "audit-1", admin_email: "khelclan@gmail.com", action: "SYSTEM_INIT", entity_type: "SYSTEM", entity_id: "SYS", timestamp: "2026-07-18T21:49:00Z", metadata: "Database storage preloaded with core NCERT syllabus data." }
+  { id: "audit-1", admin_email: "founder@teachersathi.org", action: "SYSTEM_INIT", entity_type: "SYSTEM", entity_id: "SYS", timestamp: "2026-07-18T21:49:00Z", metadata: "Database storage preloaded with core NCERT syllabus data." }
 ];
 
-// Helper to access data with LocalStorage fallback
+// In-memory cache for client runtime
+const memoryCache: Record<string, unknown> = {
+  classes: INITIAL_CLASSES,
+  subjects: INITIAL_SUBJECTS,
+  books: INITIAL_BOOKS,
+  chapters: INITIAL_CHAPTERS,
+  questions: INITIAL_QUESTIONS,
+  media_assets: INITIAL_MEDIA,
+  videos: INITIAL_VIDEOS,
+  resources: INITIAL_RESOURCES,
+  users: INITIAL_USERS,
+  announcements: INITIAL_ANNOUNCEMENTS,
+  site_content: INITIAL_SITE_CONTENT,
+  audit_logs: INITIAL_AUDIT,
+  content_versions: []
+};
+
+// Safe Cache Accessor (InMemory + Session cache for UI preferences)
 const getStoreData = <T>(key: string, initialData: T): T => {
-  if (typeof window === "undefined") return initialData;
-  const item = localStorage.getItem(`ts_admin_${key}`);
-  if (!item) {
-    localStorage.setItem(`ts_admin_${key}`, JSON.stringify(initialData));
-    return initialData;
+  if (memoryCache[key]) {
+    return memoryCache[key] as T;
   }
-  try {
-    return JSON.parse(item) as T;
-  } catch {
-    return initialData;
+  if (typeof window !== "undefined") {
+    try {
+      const item = sessionStorage.getItem(`ts_cache_${key}`);
+      if (item) {
+        const parsed = JSON.parse(item) as T;
+        memoryCache[key] = parsed;
+        return parsed;
+      }
+    } catch {
+      // ignore
+    }
   }
+  memoryCache[key] = initialData;
+  return initialData;
 };
 
 const setStoreData = <T>(key: string, data: T) => {
+  memoryCache[key] = data;
   if (typeof window !== "undefined") {
-    localStorage.setItem(`ts_admin_${key}`, JSON.stringify(data));
+    try {
+      sessionStorage.setItem(`ts_cache_${key}`, JSON.stringify(data));
+    } catch {
+      // ignore
+    }
   }
 };
 
 export const adminStore = {
-  // Config
   isSupabaseConfigured: () => !!supabase,
 
-  // Audit Log Helper
+  // Audit Log
   logAction: (action: string, entityType: string, entityId: string, metadata: string = "") => {
     const logs = getStoreData<AuditLog[]>("audit_logs", INITIAL_AUDIT);
-    const userEmail = typeof window !== "undefined" ? localStorage.getItem("last_sathi_teacher_email") || "founder@teachersathi.org" : "founder@teachersathi.org";
+    const userEmail = "founder@teachersathi.org";
     const newLog: AuditLog = {
       id: `audit-${Date.now()}`,
       admin_email: userEmail,
@@ -394,6 +422,11 @@ export const adminStore = {
       metadata
     };
     setStoreData("audit_logs", [newLog, ...logs]);
+
+    // Persist to PostgreSQL audit_logs via auditRepository if connected
+    if (supabase) {
+      auditRepository.logAction(action, entityType, entityId, { note: metadata }, null, null, null, supabase).catch(() => {});
+    }
   },
 
   // Class Management
@@ -482,9 +515,8 @@ export const adminStore = {
   saveChapter: (ch: Chapter) => {
     const chapters = adminStore.getChapters();
     const index = chapters.findIndex(c => c.id === ch.id);
-    const userEmail = typeof window !== "undefined" ? localStorage.getItem("last_sathi_teacher_email") || "founder@teachersathi.org" : "founder@teachersathi.org";
+    const userEmail = "founder@teachersathi.org";
     
-    // Save version history snapshot before change
     if (index >= 0) {
       const previous = chapters[index];
       const versions = getStoreData<ContentVersion[]>("content_versions", []);
@@ -520,7 +552,7 @@ export const adminStore = {
   saveQuestion: (q: Question) => {
     const questions = adminStore.getQuestions();
     const index = questions.findIndex(item => item.id === q.id);
-    const userEmail = typeof window !== "undefined" ? localStorage.getItem("last_sathi_teacher_email") || "founder@teachersathi.org" : "founder@teachersathi.org";
+    const userEmail = "founder@teachersathi.org";
 
     if (index >= 0) {
       const previous = questions[index];
