@@ -20,6 +20,7 @@ import {
 } from "lucide-react";
 import ClassroomSessionHeader from "@/components/dashboard/ClassroomSessionHeader";
 import SmartboardQRAuthModal from "@/components/auth/SmartboardQRAuthModal";
+import ClassroomControlPanel from "@/components/classroom/ClassroomControlPanel";
 
 export default function DashboardPage() {
   // Overlays & Stateful Dialogs
@@ -27,10 +28,7 @@ export default function DashboardPage() {
   const [isAttentionBellActive, setIsAttentionBellActive] = useState(false);
   const [isUserGuideOpen, setIsUserGuideOpen] = useState(false);
   const [isQRModalOpen, setIsQRModalOpen] = useState(false);
-  const [activeSession, setActiveSession] = useState<{ durationMins: number; className: string } | null>({
-    durationMins: 45,
-    className: "Class 8 • Science (09:00 - 09:45)",
-  });
+  const [activeSession, setActiveSession] = useState<{ sessionId?: string; durationMins: number; className: string } | null>(null);
   const [teacherName, setTeacherName] = useState("Teacher");
   
   // Genie Chat Logic State
@@ -144,9 +142,18 @@ export default function DashboardPage() {
       {/* Smart Classroom Session Header Bar */}
       {activeSession && (
         <ClassroomSessionHeader
+          sessionId={activeSession.sessionId}
           initialMinutes={activeSession.durationMins}
           classNameTitle={activeSession.className}
           onEndSession={() => setActiveSession(null)}
+        />
+      )}
+
+      {/* Live Classroom Remote Control Panel */}
+      {activeSession?.sessionId && (
+        <ClassroomControlPanel
+          sessionId={activeSession.sessionId}
+          onSessionEnded={() => setActiveSession(null)}
         />
       )}
 
