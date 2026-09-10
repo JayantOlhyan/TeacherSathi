@@ -40,7 +40,11 @@ next-env.d.ts
 /TeacherSathi Design System (1)/
 
 # credentials & secrets
+docs/credentials/
+credentials/
 *-backend-*.json
 *.service-account.json
 teachersathi-*.json
+*.key
+*.secret
 
