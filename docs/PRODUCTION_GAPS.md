@@ -26,8 +26,9 @@
 - [x] **Simulation Removal**: Eliminated `setTimeout`-based fake generation and hardcoded substring responses in dashboard and creator views. (Completed in Phase 2)
 
 ### Layer 4: Realtime Classroom Communication
-- [ ] **WebSocket Broadcast Handshake** (Phase 3): Need to replace the 1-second `localStorage` polling in [`/classroom`](file:///Users/jayantolhyan/Desktop/my%20projects/deployed/teacher%20sathi%20final/src/app/%5Blocale%5D/classroom/page.tsx) with Supabase Realtime Broadcast channels.
-- [ ] **Remote Command Dispatcher** (Phase 3): Need WebSocket listeners on the 75" kiosk display to execute remote actions (`NEXT_SLIDE`, `START_QUIZ`, `LOCK_BOARD`) received from the teacher's phone.
+- [x] **WebSocket Broadcast Handshake**: Replaced 1-second `localStorage` polling in [`/classroom`](file:///Users/jayantolhyan/Desktop/my%20projects/deployed/teacher%20sathi%20final/src/app/%5Blocale%5D/classroom/page.tsx) and `/auth/qr-confirm` with real Supabase Realtime broadcast and presence channels. (Completed in Phase 3)
+- [x] **Remote Command Dispatcher**: WebSocket listeners on the 75" kiosk display and teacher control panel execute remote actions (`NEXT_SLIDE`, `PREVIOUS_SLIDE`, `START_QUIZ`, `END_QUIZ`, `START_TIMER`, `LOCK_BOARD`, `CLEAR_WHITEBOARD`) backed by sequence numbers and PostgreSQL persistence. (Completed in Phase 3)
+- [x] **Cryptographic QR Pairing**: 5-minute single-use SHA-256 hashed ephemeral tokens for zero-password smartboard pairing. (Completed in Phase 3)
 
 ### Layer 5: Asset & Media Storage
 - [ ] **Object Storage Bucket**: The Admin Media Library ([`admin/media`](file:///Users/jayantolhyan/Desktop/my%20projects/deployed/teacher%20sathi%20final/src/app/%5Blocale%5D/admin/media/page.tsx)) stores metadata in `localStorage` without actual binary file storage. Need Supabase Storage buckets (`worksheets`, `diagrams`, `media`) with signed URLs.
@@ -39,6 +40,6 @@
 
 ### Layer 7: Quality Assurance & Automated Testing
 - [x] **Test Runner Framework**: Configured Vitest test runner with path alias support (`vitest.config.mts`) and 100% offline mock execution. (Completed in Phase 2)
-- [x] **Comprehensive Test Suites**: 7 test suites (59 unit, schema, validator, pipeline, security, and database tests) passing with 100% success rate. (Completed in Phase 2)
+- [x] **Comprehensive Test Suites**: 12 test suites (81 unit, schema, validator, pipeline, security, database, pairing, state machine, and recovery tests) passing with 100% success rate. (Completed in Phase 3)
 - [ ] **End-to-End Test Suite**: Future Playwright tests validating the core user journeys (signup $\rightarrow$ kit generation $\rightarrow$ smartboard pairing $\rightarrow$ quiz scoring).
 
