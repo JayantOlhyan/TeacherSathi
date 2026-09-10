@@ -22,14 +22,14 @@
                                ▼
 ┌─────────────────────────────────────────────────────────────┐
 │ PHASE 2: Server-Side AI Engine & Generation Pipeline        │
-│ Status: READY TO EXECUTE                                    │
-│ Focus: Gemini/Claude API integration, prompt templates, Zod.│
+│ Status: COMPLETE                                            │
+│ Focus: Provider abstraction, curriculum context, Zod schemas│
 └─────────────────────────────────────────────────────────────┘
                                │
                                ▼
 ┌─────────────────────────────────────────────────────────────┐
 │ PHASE 3: Realtime Kiosk Handshake & Smartboard WebSockets   │
-│ Status: QUEUED                                              │
+│ Status: READY TO EXECUTE                                    │
 │ Focus: Replace polling with Supabase Realtime Channels.     │
 └─────────────────────────────────────────────────────────────┘
                                │
