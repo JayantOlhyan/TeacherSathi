@@ -15,21 +15,19 @@
 ### Layer 2: Server-Side API Architecture
 - [x] **App Router Route Handlers**: Established core server routes under `src/app/api/` (`/api/profile`, `/api/classes`, `/api/curriculum`, `/api/questions`, `/api/resources`, `/api/classroom`). (Completed in Phase 1)
 - [x] **Input Validation**: Zod runtime validation schemas established for all domain mutations in `src/lib/validations/`. (Completed in Phase 1)
-- [ ] **AI Generation Endpoints** (Queued for Phase 2):
-  - `/api/generate/lesson-plan`
-  - `/api/generate/worksheet`
-  - `/api/generate/quiz`
+- [x] **AI Generation Endpoints**: Established production generation endpoints `/api/ai/generate` and `/api/ai/genie` with auth, role gating, rate limiting, and telemetry. (Completed in Phase 2)
 - [ ] **Payments Webhook** (Queued for Phase 4):
   - `/api/payments/razorpay-webhook`
 
 ### Layer 3: Artificial Intelligence Engine
-- [ ] **Live LLM Integration**: Missing server-side SDK calls (Google Gemini 1.5 Flash / Claude 3.5 Sonnet). Currently mocked with simulated delays and static strings.
-- [ ] **Prompt Engineering & Context Injection**: Missing canonical prompt templates with NCERT chapter metadata injection.
-- [ ] **Output Schema Enforcement**: Missing JSON mode and schema validation to ensure generated quizzes contain exactly 4 options and valid answer keys.
+- [x] **Live LLM Integration & Provider Abstraction**: Built provider abstraction with native REST integrations for Google Gemini 1.5 Flash, Anthropic Claude 3.5 Sonnet, and deterministic MockAIProvider for offline testing. (Completed in Phase 2)
+- [x] **Prompt Engineering & Context Injection**: Canonical curriculum resolver extracts Grade, Subject, Book, Chapter, Concepts, and Sample Questions from PostgreSQL to inject pedagogical context. (Completed in Phase 2)
+- [x] **Output Schema Enforcement & Educational Validation**: Structured JSON mode backed by strict Zod schemas for all 8 products, plus deterministic educational checks (marks sum, durations, Devanagari script, smartboard 50-word limit). (Completed in Phase 2)
+- [x] **Simulation Removal**: Eliminated `setTimeout`-based fake generation and hardcoded substring responses in dashboard and creator views. (Completed in Phase 2)
 
 ### Layer 4: Realtime Classroom Communication
-- [ ] **WebSocket Broadcast Handshake**: Need to replace the 1-second `localStorage` polling in [`/classroom`](file:///Users/jayantolhyan/Desktop/my%20projects/deployed/teacher%20sathi%20final/src/app/%5Blocale%5D/classroom/page.tsx) with Supabase Realtime Broadcast channels.
-- [ ] **Remote Command Dispatcher**: Need WebSocket listeners on the 75" kiosk display to execute remote actions (`NEXT_SLIDE`, `START_QUIZ`, `LOCK_BOARD`) received from the teacher's phone.
+- [ ] **WebSocket Broadcast Handshake** (Phase 3): Need to replace the 1-second `localStorage` polling in [`/classroom`](file:///Users/jayantolhyan/Desktop/my%20projects/deployed/teacher%20sathi%20final/src/app/%5Blocale%5D/classroom/page.tsx) with Supabase Realtime Broadcast channels.
+- [ ] **Remote Command Dispatcher** (Phase 3): Need WebSocket listeners on the 75" kiosk display to execute remote actions (`NEXT_SLIDE`, `START_QUIZ`, `LOCK_BOARD`) received from the teacher's phone.
 
 ### Layer 5: Asset & Media Storage
 - [ ] **Object Storage Bucket**: The Admin Media Library ([`admin/media`](file:///Users/jayantolhyan/Desktop/my%20projects/deployed/teacher%20sathi%20final/src/app/%5Blocale%5D/admin/media/page.tsx)) stores metadata in `localStorage` without actual binary file storage. Need Supabase Storage buckets (`worksheets`, `diagrams`, `media`) with signed URLs.
@@ -40,5 +38,7 @@
 - [ ] **Webhook Signature Verification**: Need cryptographic signature verification for Razorpay payment events.
 
 ### Layer 7: Quality Assurance & Automated Testing
-- [ ] **Test Runner Framework**: Missing Vitest / Jest configuration.
-- [ ] **End-to-End Test Suite**: Missing Playwright tests validating the core user journeys (signup $\rightarrow$ kit generation $\rightarrow$ smartboard pairing $\rightarrow$ quiz scoring).
+- [x] **Test Runner Framework**: Configured Vitest test runner with path alias support (`vitest.config.mts`) and 100% offline mock execution. (Completed in Phase 2)
+- [x] **Comprehensive Test Suites**: 7 test suites (59 unit, schema, validator, pipeline, security, and database tests) passing with 100% success rate. (Completed in Phase 2)
+- [ ] **End-to-End Test Suite**: Future Playwright tests validating the core user journeys (signup $\rightarrow$ kit generation $\rightarrow$ smartboard pairing $\rightarrow$ quiz scoring).
+
