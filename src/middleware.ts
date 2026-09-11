@@ -15,8 +15,9 @@ export default async function middleware(request: NextRequest) {
   const { res, user } = await updateSession(request, intlResponse);
 
   // Server-side Route Protection
-  const isProtectedAdmin = pathname.startsWith('/admin');
-  const isProtectedDashboard = pathname.startsWith('/dashboard');
+  const normalizedPath = pathname.replace(/^\/(en|hi)(\/|$)/, '/') || '/';
+  const isProtectedAdmin = normalizedPath.startsWith('/admin') || pathname.startsWith('/admin');
+  const isProtectedDashboard = normalizedPath.startsWith('/dashboard') || pathname.startsWith('/dashboard');
 
   if (isProtectedAdmin || isProtectedDashboard) {
     // Check if user is authenticated via Supabase session OR client auth cookie
@@ -30,7 +31,7 @@ export default async function middleware(request: NextRequest) {
     if (!hasActiveSession && !devBypass) {
       // In unauthenticated state, redirect to login
       const loginUrl = new URL('/login', request.url);
-      loginUrl.searchParams.set('redirectTo', pathname);
+      loginUrl.searchParams.set('redirectTo', normalizedPath);
       return NextResponse.redirect(loginUrl);
     }
   }
