@@ -91,6 +91,8 @@ export default function Navbar() {
     const isMockAuth = localStorage.getItem("mock_authenticated") === "true";
     if (isMockAuth) {
       setIsAuthenticated(true);
+      document.cookie = "ts_auth=true; path=/; max-age=2592000; SameSite=Lax";
+      document.cookie = "mock_authenticated=true; path=/; max-age=2592000; SameSite=Lax";
     }
 
     const isMockAdmin = localStorage.getItem("is_admin_user") === "true" || 
@@ -135,6 +137,8 @@ export default function Navbar() {
     supabase.auth.getSession().then(({ data: { session } }) => {
       if (session) {
         setIsAuthenticated(true);
+        document.cookie = "ts_auth=true; path=/; max-age=2592000; SameSite=Lax";
+        document.cookie = "mock_authenticated=true; path=/; max-age=2592000; SameSite=Lax";
         const user = session.user;
         if (user?.user_metadata?.full_name && !storedName) {
           setDisplayName(user.user_metadata.full_name);
@@ -229,15 +233,19 @@ export default function Navbar() {
 
   const handleSignOut = async () => {
     localStorage.removeItem("mock_authenticated");
+    document.cookie = "ts_auth=; path=/; expires=Thu, 01 Jan 1970 00:00:00 GMT";
+    document.cookie = "mock_authenticated=; path=/; expires=Thu, 01 Jan 1970 00:00:00 GMT";
     setIsAuthenticated(false);
     if (supabase) {
       await supabase.auth.signOut();
     }
-    window.location.reload();
+    window.location.href = "/";
   };
 
   const handleSuccessLogin = () => {
     localStorage.setItem("mock_authenticated", "true");
+    document.cookie = "ts_auth=true; path=/; max-age=2592000; SameSite=Lax";
+    document.cookie = "mock_authenticated=true; path=/; max-age=2592000; SameSite=Lax";
     setIsAuthenticated(true);
     window.location.reload();
   };

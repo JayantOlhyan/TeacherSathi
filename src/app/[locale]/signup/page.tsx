@@ -1,11 +1,11 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import Image from "next/image";
 import { Link } from "@/i18n/routing";
 import { useTranslations } from "next-intl";
 import { Button } from "@/components/ui/Button";
-import { Eye, EyeOff, GraduationCap, MessageSquare, QrCode, Mail, Loader2 } from "lucide-react";
+import { Eye, EyeOff, GraduationCap, MessageSquare, QrCode, Mail, Loader2, ArrowRight } from "lucide-react";
 import EducatorFAQAccordion from "@/components/EducatorFAQAccordion";
 import RealQRCode from "@/components/auth/RealQRCode";
 import { supabase } from "@/lib/supabase";
@@ -16,6 +16,17 @@ export default function SignupPage() {
   const [authMethod, setAuthMethod] = useState<"email" | "otp" | "qr">("otp");
   const [showPassword, setShowPassword] = useState(false);
   const [isGoogleLoading, setIsGoogleLoading] = useState(false);
+  const [alreadyAuthName, setAlreadyAuthName] = useState<string | null>(null);
+
+  useEffect(() => {
+    const isAuth = localStorage.getItem("mock_authenticated") === "true" || document.cookie.includes("ts_auth=true");
+    if (isAuth) {
+      document.cookie = "ts_auth=true; path=/; max-age=2592000; SameSite=Lax";
+      document.cookie = "mock_authenticated=true; path=/; max-age=2592000; SameSite=Lax";
+      const stored = localStorage.getItem("last_sathi_teacher_name") || "Educator";
+      setAlreadyAuthName(stored);
+    }
+  }, []);
 
   // Email form state
   const [name, setName] = useState("");
@@ -32,9 +43,13 @@ export default function SignupPage() {
 
   const handleSuccessfulAuth = (teacherName?: string) => {
     localStorage.setItem("mock_authenticated", "true");
+    document.cookie = "ts_auth=true; path=/; max-age=2592000; SameSite=Lax";
+    document.cookie = "mock_authenticated=true; path=/; max-age=2592000; SameSite=Lax";
     const finalName = teacherName || name || (email ? email.split("@")[0] : (phone ? `Teacher (${phone.slice(-4)})` : "Educator"));
     localStorage.setItem("last_sathi_teacher_name", finalName);
-    window.location.href = "/dashboard";
+    const params = new URLSearchParams(window.location.search);
+    const redirectTo = params.get("redirectTo") || "/dashboard";
+    window.location.href = redirectTo;
   };
 
   const handleGoogleLogin = async () => {
@@ -204,6 +219,25 @@ export default function SignupPage() {
                 Join 10,000+ educators generating 75&quot; smartboard kits &amp; worksheets in 30 seconds.
               </p>
             </div>
+
+            {/* Already Authenticated Quick Banner */}
+            {alreadyAuthName && (
+              <div className="bg-emerald-50 border border-emerald-300/80 p-3.5 rounded-2xl flex items-center justify-between gap-3 shadow-sm animate-fadeIn">
+                <div className="text-left overflow-hidden">
+                  <p className="text-[11px] font-bold text-emerald-900 truncate">
+                    Signed in as <strong>{alreadyAuthName}</strong>
+                  </p>
+                  <p className="text-[10px] text-emerald-700">Active session detected</p>
+                </div>
+                <Link
+                  href="/dashboard"
+                  className="px-4 py-2 bg-[#0F5B38] hover:bg-emerald-800 text-white rounded-xl text-xs font-black flex items-center gap-1.5 shadow-sm shrink-0 transition-transform active:scale-95"
+                >
+                  <span>Go to Dashboard</span>
+                  <ArrowRight className="w-3.5 h-3.5" />
+                </Link>
+              </div>
+            )}
 
             {/* Role selector */}
             <div className="flex bg-slate-100 rounded-full p-1 border border-slate-200 shadow-inner">

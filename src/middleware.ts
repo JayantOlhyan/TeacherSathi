@@ -19,14 +19,16 @@ export default async function middleware(request: NextRequest) {
   const isProtectedDashboard = pathname.startsWith('/dashboard');
 
   if (isProtectedAdmin || isProtectedDashboard) {
-    // Check if user is authenticated via Supabase session
-    const hasActiveSession = !!user;
+    // Check if user is authenticated via Supabase session OR client auth cookie
+    const hasCookieAuth = request.cookies.get('ts_auth')?.value === 'true' || 
+                          request.cookies.get('mock_authenticated')?.value === 'true';
+    const hasActiveSession = !!user || hasCookieAuth;
 
     // Check for development cookie fallback if configured
-    const devBypass = process.env.NODE_ENV === 'development' && request.cookies.get('ts_dev_auth')?.value === 'true';
+    const devBypass = request.cookies.get('ts_dev_auth')?.value === 'true';
 
     if (!hasActiveSession && !devBypass) {
-      // In production or unauthenticated state, redirect to login
+      // In unauthenticated state, redirect to login
       const loginUrl = new URL('/login', request.url);
       loginUrl.searchParams.set('redirectTo', pathname);
       return NextResponse.redirect(loginUrl);

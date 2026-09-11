@@ -51,6 +51,8 @@ export default function AuthModal({ isOpen, onClose, onSuccess }: AuthModalProps
       setSuccess(true);
       
       localStorage.setItem("mock_authenticated", "true");
+      document.cookie = "ts_auth=true; path=/; max-age=2592000; SameSite=Lax";
+      document.cookie = "mock_authenticated=true; path=/; max-age=2592000; SameSite=Lax";
       
       const isCredentialAdmin = email.toLowerCase().includes("admin") || 
                                 email.toLowerCase().includes("founder") || 
@@ -59,6 +61,7 @@ export default function AuthModal({ isOpen, onClose, onSuccess }: AuthModalProps
       
       if (isCredentialAdmin) {
         localStorage.setItem("is_admin_user", "true");
+        document.cookie = "is_admin_user=true; path=/; max-age=2592000; SameSite=Lax";
         localStorage.setItem("last_sathi_teacher_name", name || "Founder Admin");
       } else {
         localStorage.setItem("last_sathi_teacher_name", name || (phone ? `Teacher (${phone.slice(-4)})` : "Educator"));

@@ -49,9 +49,8 @@ export default function PWAInstallPrompt() {
   };
 
   if (!isPromptVisible) return null;
-
   return (
-    <div className="fixed top-4 left-1/2 -translate-x-1/2 z-50 bg-[#14532D] text-white p-3.5 px-5 rounded-full shadow-2xl border border-emerald-400/40 flex items-center gap-3 animate-slideDown max-w-sm w-[90%]">
+    <div className="fixed bottom-5 right-5 z-50 bg-[#14532D] text-white p-3 px-4.5 rounded-2xl sm:rounded-full shadow-2xl border border-emerald-400/40 flex items-center gap-3 max-w-sm w-[calc(100%-2.5rem)] sm:w-auto">
       <div className="w-8 h-8 rounded-full bg-amber-400 text-gray-950 flex items-center justify-center font-black text-xs shrink-0">
         <Sparkles className="w-4 h-4 fill-gray-950" />
       </div>
