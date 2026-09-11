@@ -12,6 +12,8 @@ import PWAInstallPrompt from "@/components/PWAInstallPrompt";
 import NetworkStatusIndicator from "@/components/NetworkStatusIndicator";
 import SEOLinks from "@/components/SEOLinks";
 import Breadcrumbs from "@/components/Breadcrumbs";
+import StartupSplashScreen from "@/components/animations/StartupSplashScreen";
+import PageNavigationProgress from "@/components/animations/PageNavigationProgress";
 import "../globals.css";
 
 export const dynamic = "force-dynamic";
@@ -273,6 +275,8 @@ export default async function RootLayout({
         suppressHydrationWarning
       >
         <NextIntlClientProvider messages={messages}>
+          <StartupSplashScreen />
+          <PageNavigationProgress />
           <a 
             href="#main-content" 
             className="sr-only focus:not-sr-only focus:absolute focus:top-4 focus:left-4 focus:z-[100] focus:px-4 focus:py-2.5 focus:bg-[#14532D] focus:text-white font-extrabold focus:rounded-xl shadow-2xl focus:ring-2 focus:ring-amber-400"
