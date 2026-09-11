@@ -1,15 +1,15 @@
 "use client";
 
 import React from "react";
+import Image from "next/image";
 import { 
   Home, 
   BookOpen, 
-  FileText,
+  FileText, 
   HelpCircle, 
   Settings, 
   User, 
-  ClipboardList,
-  Book
+  ClipboardList
 } from "lucide-react";
 
 const navItems = [
@@ -25,15 +25,15 @@ export function MockSidebar({ activeIndex = 1 }: { activeIndex?: number }) {
   return (
     <aside className="w-[180px] sm:w-[240px] h-full bg-[#166534] flex flex-col z-40 shrink-0">
       {/* Logo Area */}
-      <div className="h-16 flex items-center px-6 border-b border-white/10 shrink-0">
-        <div className="flex items-center gap-3">
-          <div className="w-8 h-8 rounded-lg bg-white flex items-center justify-center shadow-sm">
-            <Book className="w-4 h-4 text-[#166534]" />
-          </div>
-          <div className="flex flex-col">
-            <span className="font-bold text-sm sm:text-base text-white tracking-tight leading-none">TeacherSathi</span>
-          </div>
-        </div>
+      <div className="h-16 flex items-center px-5 border-b border-white/10 shrink-0">
+        <Image
+          src="/logo-horizontal-on-dark.png"
+          alt="TeacherSathi AI"
+          width={140}
+          height={36}
+          className="h-7 w-auto object-contain"
+          priority
+        />
       </div>
 
       {/* Navigation */}

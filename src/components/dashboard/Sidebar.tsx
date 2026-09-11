@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import Image from "next/image";
 import { Link, usePathname } from "@/i18n/routing";
 import { useSearchParams } from "next/navigation";
 import { 
@@ -12,8 +13,7 @@ import {
   ClipboardList,
   HelpCircle,
   Settings,
-  User,
-  Book
+  User
 } from "lucide-react";
 import { AnimatePresence, motion } from "framer-motion";
 
@@ -112,15 +112,16 @@ export function Sidebar() {
         }`}
       >
         {/* Logo Area */}
-        <div className="h-24 flex items-center px-8 border-b border-white/10 shrink-0">
-          <Link href="/" className="flex items-center gap-3">
-            <div className="w-10 h-10 rounded-xl bg-white flex items-center justify-center shadow-sm">
-              <Book className="w-5 h-5 text-[#166534]" />
-            </div>
-            <div className="flex flex-col">
-              <span className="font-bold text-xl text-white tracking-tight">TeacherSathi</span>
-              <span className="text-[10px] font-medium text-emerald-200 uppercase tracking-widest">साथी</span>
-            </div>
+        <div className="h-24 flex items-center px-7 border-b border-white/10 shrink-0">
+          <Link href="/" className="flex items-center hover:opacity-90 transition-opacity">
+            <Image
+              src="/logo-horizontal-on-dark.png"
+              alt="TeacherSathi AI"
+              width={180}
+              height={46}
+              className="h-10 w-auto object-contain"
+              priority
+            />
           </Link>
         </div>
 
