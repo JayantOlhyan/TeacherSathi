@@ -152,6 +152,7 @@ export async function POST(request: NextRequest) {
         size_bytes: Number(size_bytes),
         source: 'UPLOADED',
         filePath: storagePath,
+        language: 'en',
         curriculum_mapping: {
           grade_id,
           subject_id,
