@@ -67,16 +67,27 @@ export const rateLimiter = {
   },
 
   /**
-   * Checks monthly quota from Supabase `ai_usage_tracking` table.
+   * Checks monthly quota from Supabase `ai_usage_tracking` table or entitlement engine.
    * If DB is unavailable or offline, gracefully allows usage.
    */
   async checkMonthlyQuota(
     userId: string,
-    client: SupabaseClient = defaultClient
+    client: SupabaseClient = defaultClient,
+    schoolId?: string | null
   ): Promise<{ allowed: boolean; currentUsage: number; quota: number }> {
     const now = new Date();
     const periodMonth = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, '0')}`;
-    const quota = DEFAULT_MONTHLY_QUOTA;
+    let quota = DEFAULT_MONTHLY_QUOTA;
+
+    if (schoolId) {
+      try {
+        const { entitlementEngine } = await import('@/lib/billing/entitlements');
+        const profile = await entitlementEngine.getSchoolEntitlements(schoolId, client);
+        quota = profile.entitlements.AI_GENERATION_LIMIT || quota;
+      } catch {
+        // Use default quota
+      }
+    }
 
     try {
       const { data, error } = await client
@@ -96,7 +107,7 @@ export const rateLimiter = {
       }
 
       const currentUsage = data.generation_count || 0;
-      const userQuota = data.monthly_quota || quota;
+      const userQuota = schoolId ? quota : (data.monthly_quota || quota);
 
       return {
         allowed: currentUsage < userQuota,
