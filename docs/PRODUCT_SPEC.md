@@ -1,7 +1,7 @@
 # TeacherSathi — Product Specification
 
-> **Version**: 1.6.0-phase6  
-> **Status**: Verified Production Specification (Through Phase 6)  
+> **Version**: 1.9.0-phase9  
+> **Status**: Verified Production Specification (Through Phase 9)  
 > **Target Audience**: Product Architects, Engineering Leads, Full-Stack Developers  
 
 ---
@@ -87,4 +87,45 @@ TeacherSathi operates on a multi-tenant institutional SaaS model with four disti
 4. **Enterprise (`enterprise`, ₹29,999/year)**: Unlimited teacher seats, unlimited AI credits, unlimited smartboards, 10-year data retention, and custom school branding.
 
 All subscriptions are managed via PostgreSQL Row Level Security, HMAC-SHA256 signature-verified checkout flows, 7-day grace windows on delinquent payments, and school-wide quota metering.
+
+---
+
+## 6. Content, Media & Smartboard Delivery Engine (Phase 7)
+
+TeacherSathi provides a multi-tenant educational content authoring and delivery pipeline:
+
+1. **Deterministic Validation Gate**: All educational resources undergo automated scoring (100-pt penalty system) enforcing 75" display readability ($\le 60$ words, $\le 5$ bullets per slide), Devanagari script integrity for Hindi, and graph topology consistency.
+2. **Immutable Resource Versioning**: Publishing captures historical snapshots in `resource_versions` with 1-click rollback, guaranteeing zero layout shifts or disruption during active classroom presentations.
+3. **Fail-Closed Media Security**: Storage uploads enforce server-side magic byte inspection (JPEG, PNG, PDF, WebM, MP4), path traversal prevention, and 60-minute expiring signed URLs for private educational content.
+4. **Smartboard Interactive Kiosk Viewer**: Client-side resilient slide viewer supporting 7 slide archetypes (`TITLE`, `CONTENT`, `IMAGE`, `DIAGRAM`, `QUESTION`, `ACTIVITY`, `SUMMARY`) with Realtime session synchronization.
+5. **Multi-Channel Export**: High-fidelity 16:9 widescreen printable slide decks, A4 worksheets, and standalone vector SVG mind maps.
+
+---
+
+## 7. Institutional Scale, School Networks & District/State Administration (Phase 8)
+
+TeacherSathi supports comprehensive institutional governance across public and private educational hierarchies:
+
+1. **Multi-Tier Jurisdictional Hierarchy**: Orthogonal integration of State (`states`), District (`districts`), School Network (`organizations`), and School (`schools`) layers.
+2. **PostgreSQL Security Definers & RLS**: 6 security definer functions guarantee data isolation between administrative entities, with full isolation for independent schools.
+3. **Student Privacy by Design ($N \ge 10$)**: Mandatory minimum cohort threshold ($N \ge 10$) suppressing scores in small cohorts to prevent deductive student deanonymization.
+4. **Cascading Governance**: 4-tier inheritance engine resolving operational defaults and policies (`Default` $\longleftarrow$ `State` $\longleftarrow$ `District` $\longleftarrow$ `Organization` $\longleftarrow$ `School`).
+5. **Single-Use Cryptographic Invitations**: High-entropy administrative invite tokens (`crypto.randomBytes(32)`) with SHA-256 hash storage and automated role provisioning.
+6. **Institutional Portals**: Dedicated portals for Overview KPIs, School Directory & Onboarding, Academic Intelligence, Multi-School Comparative Benchmarking, Invitations, and Cascading Settings.
+
+---
+
+## 8. Native Mobile & Offline Low-Connectivity Classrooms (Phase 9)
+
+TeacherSathi extends the institutional teaching platform directly into teachers' and students' hands via a native mobile application (`mobile/`):
+
+1. **Native Client Architecture**: Engineered on React Native 0.74 and Expo SDK 51, targeting Android (primary tier) and iOS devices with hardware-accelerated layouts, 60fps animations, and $\ge 48\text{px}$ touch targets.
+2. **5-Tier Offline Storage System**: SQLite storage architecture separating static NCERT curriculum (`cached_curriculum`), downloadable class packs (`cached_class_packs`), dynamic assignments/assessments (`cached_assignments`, `cached_assessments`), transactional mutations (`sync_outbox`, `offline_answers`), and hardware-only secure storage (`expo-secure-store`). Strict 300MB storage ceiling protects low-spec devices.
+3. **Durable Transactional Outbox Sync Engine**: Guaranteed at-least-once synchronization with exponential backoff, random jitter (0–500ms), 5 retry bounds, and auto-dispatch upon connection restoration.
+4. **Deterministic Conflict Resolution Matrix**: Clear rule hierarchy giving client authority on active student answers and server authority on final submissions, published curriculum, and classroom sequence.
+5. **NCERT Offline Class Packs**: Complete single-download chapter bundles (presentations, mindmaps, lesson plans, formative quizzes) with SHA-256 tamper verification for 100% offline classroom teaching.
+6. **Masked Offline Assessment Engine**: Client-side countdown timer, question answer-key masking, and tamper-resistant sealed attempt submissions.
+7. **Smartboard Mobile Remote Co-Pilot**: Pairing code / session consumer with slide forward/backward navigation and screen lock toggling.
+8. **Push Notifications & Deep Link Routing**: Device token registration, unregister on logout, and role-authorized URI scheme (`teacher-sathi://`).
+9. **Shared School Device Data Hygiene**: Hardware SecureStore session storage and instant user data wipe on logout.
 
