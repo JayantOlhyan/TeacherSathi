@@ -40,6 +40,42 @@ export default function DashboardPage() {
 
   const messagesEndRef = useRef<HTMLDivElement>(null);
 
+  const [classAnalytics, setClassAnalytics] = useState<{
+    overallClassMastery: number;
+    needsSupportCount: number;
+    onTrackCount: number;
+    className: string;
+  } | null>(null);
+
+  useEffect(() => {
+    async function fetchDashboardAnalytics() {
+      try {
+        const cRes = await fetch("/api/classes");
+        if (cRes.ok) {
+          const cJson = await cRes.json();
+          if (Array.isArray(cJson.data) && cJson.data.length > 0) {
+            const firstClass = cJson.data[0];
+            const aRes = await fetch(`/api/analytics/class/${firstClass.id}`);
+            if (aRes.ok) {
+              const aJson = await aRes.json();
+              if (aJson.data && aJson.data.studentCount > 0) {
+                setClassAnalytics({
+                  overallClassMastery: aJson.data.overallClassMastery,
+                  needsSupportCount: aJson.data.studentGroupings.needsSupport.length,
+                  onTrackCount: aJson.data.studentGroupings.onTrack.length,
+                  className: `${firstClass.name} (${firstClass.section})`,
+                });
+              }
+            }
+          }
+        }
+      } catch (err) {
+        console.error("Failed to load dashboard analytics:", err);
+      }
+    }
+    fetchDashboardAnalytics();
+  }, []);
+
   useEffect(() => {
     const storedName = localStorage.getItem("last_sathi_teacher_name");
     if (storedName && storedName.trim() !== "" && storedName !== "null" && storedName !== "undefined") {
@@ -220,15 +256,15 @@ export default function DashboardPage() {
         <h3 className="text-sm font-bold text-gray-400 uppercase tracking-wider">Quick Creation Shortcuts</h3>
         <div className="grid grid-cols-2 md:grid-cols-5 gap-4">
           {[
-            { label: "Create Quiz", type: "quiz", bg: "from-blue-500 to-blue-600", shadow: "shadow-blue-500/10" },
-            { label: "Create PPT", type: "smart-classroom", bg: "from-emerald-500 to-teal-500", shadow: "shadow-emerald-500/10" },
-            { label: "Create Test", type: "test-paper", bg: "from-purple-500 to-purple-600", shadow: "shadow-purple-500/10" },
-            { label: "Create Lesson Plan", type: "lesson-plan", bg: "from-amber-500 to-orange-500", shadow: "shadow-amber-500/10" },
-            { label: "Create Mind Map", type: "mind-map", bg: "from-rose-500 to-pink-500", shadow: "shadow-rose-500/10" },
+            { label: "Create Assessment", href: "/dashboard/assessments/create", bg: "from-[#14532D] to-emerald-800", shadow: "shadow-emerald-900/10" },
+            { label: "Create Quiz", href: "/dashboard/create?type=quiz", bg: "from-blue-500 to-blue-600", shadow: "shadow-blue-500/10" },
+            { label: "Create PPT", href: "/dashboard/create?type=smart-classroom", bg: "from-emerald-500 to-teal-500", shadow: "shadow-emerald-500/10" },
+            { label: "Create Test", href: "/dashboard/create?type=test-paper", bg: "from-purple-500 to-purple-600", shadow: "shadow-purple-500/10" },
+            { label: "Create Lesson Plan", href: "/dashboard/create?type=lesson-plan", bg: "from-amber-500 to-orange-500", shadow: "shadow-amber-500/10" },
           ].map((action, idx) => (
             <Link 
               key={idx}
-              href={`/dashboard/create?type=${action.type}`} 
+              href={action.href} 
               className={`bg-gradient-to-br ${action.bg} p-4 rounded-xl text-white shadow-lg ${action.shadow} hover:-translate-y-0.5 transition-all flex flex-col justify-between min-h-[100px] cursor-pointer`}
             >
               <span className="font-extrabold text-sm leading-snug">{action.label}</span>
@@ -338,34 +374,53 @@ export default function DashboardPage() {
           <section className="space-y-3">
             <h3 className="text-sm font-bold text-gray-400 uppercase tracking-wider">Class Performance</h3>
             <div className="bg-white border border-gray-100 p-5 rounded-2xl space-y-4">
-              <div className="flex justify-between items-center">
-                <span className="text-xs font-bold text-gray-500 uppercase">Average accuracy</span>
-                <span className="text-lg font-black text-emerald-700">76%</span>
-              </div>
-              
-              <div className="space-y-2">
-                <div className="flex justify-between text-xs font-semibold">
-                  <span className="text-gray-500">Mastery (Strong)</span>
-                  <span className="text-gray-800">18 Students</span>
-                </div>
-                <div className="w-full bg-gray-100 h-1.5 rounded-full overflow-hidden">
-                  <div className="bg-emerald-600 h-full rounded-full" style={{ width: "60%" }} />
-                </div>
-              </div>
+              {classAnalytics ? (
+                <>
+                  <div className="flex justify-between items-center">
+                    <span className="text-xs font-bold text-gray-500 uppercase">Class Mastery ({classAnalytics.className})</span>
+                    <span className="text-lg font-black text-emerald-700">{classAnalytics.overallClassMastery}%</span>
+                  </div>
+                  
+                  <div className="space-y-2">
+                    <div className="flex justify-between text-xs font-semibold">
+                      <span className="text-gray-500">On Track / Strong</span>
+                      <span className="text-gray-800">{classAnalytics.onTrackCount} Students</span>
+                    </div>
+                    <div className="w-full bg-gray-100 h-1.5 rounded-full overflow-hidden">
+                      <div
+                        className="bg-emerald-600 h-full rounded-full"
+                        style={{
+                          width: `${Math.min(100, (classAnalytics.onTrackCount / Math.max(1, classAnalytics.onTrackCount + classAnalytics.needsSupportCount)) * 100)}%`
+                        }}
+                      />
+                    </div>
+                  </div>
 
-              <div className="space-y-2">
-                <div className="flex justify-between text-xs font-semibold">
-                  <span className="text-gray-500">Needs Attention</span>
-                  <span className="text-amber-700">6 Students</span>
+                  <div className="space-y-2">
+                    <div className="flex justify-between text-xs font-semibold">
+                      <span className="text-gray-500">Needs Support</span>
+                      <span className="text-amber-700">{classAnalytics.needsSupportCount} Students</span>
+                    </div>
+                    <div className="w-full bg-gray-100 h-1.5 rounded-full overflow-hidden">
+                      <div
+                        className="bg-amber-500 h-full rounded-full"
+                        style={{
+                          width: `${Math.min(100, (classAnalytics.needsSupportCount / Math.max(1, classAnalytics.onTrackCount + classAnalytics.needsSupportCount)) * 100)}%`
+                        }}
+                      />
+                    </div>
+                  </div>
+                </>
+              ) : (
+                <div className="text-center py-2">
+                  <p className="text-xs text-gray-500 font-medium">No assessment evidence recorded yet.</p>
+                  <p className="text-[11px] text-gray-400 mt-1">Assign assessments to view diagnostics.</p>
                 </div>
-                <div className="w-full bg-gray-100 h-1.5 rounded-full overflow-hidden">
-                  <div className="bg-amber-500 h-full rounded-full" style={{ width: "25%" }} />
-                </div>
-              </div>
+              )}
 
               <div className="pt-3 border-t border-gray-50 text-center">
-                <Link href="/dashboard/reports" className="inline-flex items-center gap-1 text-xs font-bold text-[#14532D] hover:underline">
-                  View Analytics Report
+                <Link href="/dashboard/analytics" className="inline-flex items-center gap-1 text-xs font-bold text-[#14532D] hover:underline">
+                  Open Diagnostic Analytics Hub
                   <ArrowRight className="w-3.5 h-3.5" />
                 </Link>
               </div>
