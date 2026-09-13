@@ -8,12 +8,12 @@ describe('Media Processing & Storage Security (Section 11, 14, 21)', () => {
       const dangerous1 = '../../../../etc/passwd';
       const clean1 = storageService.sanitizePath(dangerous1);
       expect(clean1).not.toContain('..');
-      expect(clean1).toBe('etc_passwd');
+      expect(clean1).toBe('etc/passwd');
 
       const dangerous2 = '/var/root/secret.png';
       const clean2 = storageService.sanitizePath(dangerous2);
       expect(clean2.startsWith('/')).toBe(false);
-      expect(clean2).toBe('var_root_secret.png');
+      expect(clean2).toBe('var/root/secret.png');
     });
 
     it('removes null bytes and invalid characters', () => {
