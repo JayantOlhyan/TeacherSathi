@@ -27,7 +27,7 @@ export interface MediaAssetRecord {
   description: string | null;
   duration: number | null;
   thumbnailUrl: string | null;
-  source: 'UPLOAD' | 'EXTERNAL' | 'PLATFORM';
+  source: 'UPLOAD' | 'UPLOADED' | 'EXTERNAL' | 'PLATFORM';
   sourceUrl: string | null;
   filePath: string | null;
   mimeType: string;
