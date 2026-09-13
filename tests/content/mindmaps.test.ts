@@ -73,6 +73,7 @@ describe('NCERT Mind Map Engine & Topology Validation (Section 3, 7)', () => {
       central_node_id: 'node-root',
       nodes: [
         { id: 'node-root', label: 'Root Concept', type: 'CONCEPT' as const },
+        { id: 'node-valid-child', label: 'Valid Concept', type: 'SUB_CONCEPT' as const },
       ],
       edges: [
         { id: 'e-ghost', source: 'node-root', target: 'ghost-node-999' },
