@@ -80,7 +80,7 @@ export const PresentationSlideSchema = z.object({
   activity_prompt: z.string().optional(),
   speaker_notes: z.string().optional().default(''),
 });
-export type PresentationSlide = z.infer<typeof PresentationSlideSchema>;
+export type PresentationSlide = z.input<typeof PresentationSlideSchema>;
 
 export const PresentationContentSchema = z.object({
   title: z.string().min(1),
@@ -203,7 +203,7 @@ export type TeachingActivityContent = z.infer<typeof TeachingActivityContentSche
 // 5. MEDIA ASSET & JOB SCHEMAS
 // =============================================================================
 
-export const MediaSourceSchema = z.enum(['UPLOAD', 'EXTERNAL', 'PLATFORM']);
+export const MediaSourceSchema = z.enum(['UPLOAD', 'UPLOADED', 'EXTERNAL', 'PLATFORM']);
 export type MediaSource = z.infer<typeof MediaSourceSchema>;
 
 export const MediaStatusSchema = z.enum(['UPLOADING', 'PROCESSING', 'READY', 'FAILED']);
@@ -237,36 +237,36 @@ export type MediaUploadInput = z.infer<typeof MediaUploadInputSchema>;
 // =============================================================================
 
 export const CreateResourceInputSchema = z.object({
-  title: z.string().min(3),
-  description: z.string().optional(),
+  title: z.string().min(1),
+  description: z.string().optional().nullable(),
   resource_type: ResourceTypeSchema,
   grade_id: z.string().uuid().optional().nullable(),
   subject_id: z.string().uuid().optional().nullable(),
   book_id: z.string().uuid().optional().nullable(),
   chapter_id: z.string().uuid().optional().nullable(),
   concept_ids: z.array(z.string().uuid()).optional().default([]),
-  language: z.enum(['en', 'hi', 'bilingual']).default('en'),
-  content: z.record(z.string(), z.unknown()).default({}),
+  language: z.string().optional().default('en'),
+  content: z.record(z.string(), z.unknown()).optional().default({}),
   metadata: z.record(z.string(), z.unknown()).optional().default({}),
   status: ResourceStatusSchema.optional().default('DRAFT'),
 });
-export type CreateResourceInput = z.infer<typeof CreateResourceInputSchema>;
+export type CreateResourceInput = z.input<typeof CreateResourceInputSchema>;
 
 export const UpdateResourceInputSchema = z.object({
-  title: z.string().min(3).optional(),
+  title: z.string().min(1).optional(),
   description: z.string().optional().nullable(),
   grade_id: z.string().uuid().optional().nullable(),
   subject_id: z.string().uuid().optional().nullable(),
   book_id: z.string().uuid().optional().nullable(),
   chapter_id: z.string().uuid().optional().nullable(),
   concept_ids: z.array(z.string().uuid()).optional(),
-  language: z.enum(['en', 'hi', 'bilingual']).optional(),
+  language: z.string().optional(),
   content: z.record(z.string(), z.unknown()).optional(),
   metadata: z.record(z.string(), z.unknown()).optional(),
   status: ResourceStatusSchema.optional(),
   change_summary: z.string().optional(),
 });
-export type UpdateResourceInput = z.infer<typeof UpdateResourceInputSchema>;
+export type UpdateResourceInput = z.input<typeof UpdateResourceInputSchema>;
 
 export const ResourceQuerySchema = z.object({
   page: z.coerce.number().int().min(1).default(1),
