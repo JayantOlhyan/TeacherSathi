@@ -11,17 +11,21 @@ import {
   Menu, 
   X, 
   ClipboardList,
-  HelpCircle,
   Settings,
-  User
+  User,
+  CheckSquare,
+  BarChart3,
+  CreditCard
 } from "lucide-react";
 import { AnimatePresence, motion } from "framer-motion";
 
 const navItems = [
   { name: "Dashboard", href: "/dashboard", icon: Home },
+  { name: "Assessments", href: "/dashboard/assessments", icon: CheckSquare },
+  { name: "Analytics", href: "/dashboard/analytics", icon: BarChart3 },
+  { name: "Billing", href: "/dashboard/admin/billing", icon: CreditCard },
   { name: "My Lessons", href: "/dashboard/classes", icon: BookOpen },
   { name: "Resources", href: "/resources", icon: FileText },
-  { name: "Quizzes", href: "/dashboard/classes?tab=quizzes", icon: HelpCircle },
   { name: "Worksheets", href: "/dashboard/create?type=test-paper", icon: ClipboardList },
   { name: "Settings", href: "/dashboard/settings", icon: Settings },
 ];
