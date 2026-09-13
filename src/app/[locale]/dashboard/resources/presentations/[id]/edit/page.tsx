@@ -5,19 +5,13 @@ import { Link } from "@/i18n/routing";
 import { 
   ArrowLeft, 
   Save, 
-  Play, 
   Plus, 
   Trash2, 
   ChevronUp, 
   ChevronDown, 
   AlertTriangle, 
   CheckCircle2, 
-  HelpCircle, 
-  Users, 
-  Image as ImageIcon, 
-  Code2, 
-  Sparkles,
-  Tv
+  HelpCircle 
 } from "lucide-react";
 import type { PresentationSlide, SlideType, PresentationContent } from "@/lib/validations/resources";
 import { SmartboardSlideViewer } from "@/components/classroom/SmartboardSlideViewer";
@@ -50,9 +44,13 @@ export default function PresentationEditorPage({ params }: PageProps) {
         } else {
           setSlides([
             {
+              id: "slide-1",
+              slide_number: 1,
               type: "TITLE",
               title: data.title || "Lesson Introduction",
               subtitle: "NCERT Curriculum Presentation",
+              bullets: [],
+              speaker_notes: "",
             },
           ]);
         }
@@ -102,10 +100,13 @@ export default function PresentationEditorPage({ params }: PageProps) {
 
   const handleAddSlide = (type: SlideType = "CONTENT") => {
     const newSlide: PresentationSlide = {
+      id: `slide-${Date.now()}`,
+      slide_number: slides.length + 1,
       type,
       title: type === "TITLE" ? "Topic Title" : type === "QUESTION" ? "Formative Question" : "Concept Key Points",
       subtitle: type === "CONTENT" ? "Concept Explanation" : undefined,
-      bullets: type === "CONTENT" || type === "SUMMARY" ? ["First core learning point", "Second core learning point"] : undefined,
+      bullets: type === "CONTENT" || type === "SUMMARY" ? ["First core learning point", "Second core learning point"] : [],
+      speaker_notes: "",
       question_text: type === "QUESTION" ? "Enter your multiple-choice question here" : undefined,
       question_options: type === "QUESTION" ? ["Option A", "Option B", "Option C", "Option D"] : undefined,
       correct_option_index: type === "QUESTION" ? 0 : undefined,
@@ -187,7 +188,7 @@ export default function PresentationEditorPage({ params }: PageProps) {
               className="font-serif font-black text-lg text-gray-900 bg-transparent border-b border-transparent hover:border-gray-300 focus:border-emerald-600 focus:outline-none px-1"
             />
             <span className="text-[11px] font-mono text-gray-400 block px-1">
-              75" Smartboard Interactive Canvas • {slides.length} Slides
+              75&quot; Smartboard Interactive Canvas • {slides.length} Slides
             </span>
           </div>
         </div>
@@ -208,7 +209,7 @@ export default function PresentationEditorPage({ params }: PageProps) {
                 viewMode === "PREVIEW" ? "bg-white text-gray-900 shadow-2xs" : "text-gray-600 hover:text-gray-900"
               }`}
             >
-              Smartboard 75" Preview
+              Smartboard 75&quot; Preview
             </button>
           </div>
 
@@ -353,7 +354,7 @@ export default function PresentationEditorPage({ params }: PageProps) {
               <div className="bg-amber-50 border border-amber-200 rounded-2xl p-4 flex items-start gap-3">
                 <AlertTriangle className="w-5 h-5 text-amber-600 flex-shrink-0 mt-0.5" />
                 <div className="space-y-1 text-xs text-amber-900">
-                  <p className="font-bold">Smartboard 75" Readability Alert</p>
+                  <p className="font-bold">Smartboard 75&quot; Readability Alert</p>
                   <p>
                     {isTooLong && `Slide has ${wordCount} words (recommended: max 60 words for back-row visibility). `}
                     {tooManyBullets && `Slide has ${bulletsCount} bullets (recommended: max 5 bullets per slide).`}
