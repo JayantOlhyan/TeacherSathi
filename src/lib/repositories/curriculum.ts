@@ -154,5 +154,26 @@ export const curriculumRepository = {
     }
 
     return [];
+  },
+
+  async getChapterById(
+    chapterId: string,
+    client: SupabaseClient = defaultClient
+  ): Promise<(ChapterRecord & { concepts?: ConceptRecord[] }) | null> {
+    try {
+      const { data, error } = await client
+        .from('chapters')
+        .select('*, concepts(*)')
+        .eq('id', chapterId)
+        .maybeSingle();
+
+      if (!error && data) {
+        return data as unknown as (ChapterRecord & { concepts?: ConceptRecord[] });
+      }
+    } catch {
+      // Fallback
+    }
+
+    return null;
   }
 };
