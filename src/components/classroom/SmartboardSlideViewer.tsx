@@ -9,7 +9,6 @@ import {
   Code2, 
   CheckCircle2, 
   BookOpen, 
-  ListChecks, 
   Sparkles 
 } from 'lucide-react';
 
@@ -108,6 +107,7 @@ export function SmartboardSlideViewer({
             </h2>
             <div className="bg-white/5 border border-white/10 rounded-3xl p-6 sm:p-10 flex flex-col items-center justify-center min-h-[300px] sm:min-h-[380px] relative overflow-hidden">
               {slide.image_url ? (
+                /* eslint-disable-next-line @next/next/no-img-element */
                 <img
                   src={slide.image_url}
                   alt={slide.title}
@@ -238,7 +238,7 @@ export function SmartboardSlideViewer({
 
       {/* Smartboard Footer */}
       <div className="border-t border-white/10 pt-4 flex items-center justify-between text-xs text-white/50 flex-shrink-0 font-mono">
-        <span>TeacherSathi Smartboard Engine (75" Kiosk Display)</span>
+        <span>TeacherSathi Smartboard Engine (75&quot; Kiosk Display)</span>
         <span>NCERT Canonical Alignment Guarantee</span>
       </div>
     </div>
