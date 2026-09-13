@@ -256,3 +256,43 @@ export const SaathiGenieResponseSchema = z.object({
 });
 
 export type SaathiGenieResponse = z.infer<typeof SaathiGenieResponseSchema>;
+
+// =============================================================================
+// 9. AI INTERVENTION & REMEDIATION SCHEMA (PHASE 5)
+// =============================================================================
+
+export const InterventionStepSchema = z.object({
+  step_number: z.number().int().positive(),
+  title: z.string().min(2),
+  duration_mins: z.number().int().positive(),
+  teacher_actions: z.string().min(5),
+  student_actions: z.string().min(5),
+});
+
+export const InterventionPracticeQuestionSchema = z.object({
+  question_number: z.number().int().positive(),
+  question_text: z.string().min(5),
+  options: z.array(z.object({
+    id: z.enum(['A', 'B', 'C', 'D']),
+    text: z.string().min(1),
+    is_correct: z.boolean(),
+  })).length(4),
+  correct_answer: z.enum(['A', 'B', 'C', 'D']),
+  explanation: z.string().min(5),
+});
+
+export const InterventionActivitySchema = z.object({
+  title: z.string().min(3),
+  concept_name: z.string().min(2),
+  grade: z.string().min(1),
+  subject: z.string().min(1),
+  chapter: z.string().min(1),
+  duration_mins: z.number().int().min(10).max(30).default(15),
+  misconceptions_addressed: z.array(z.string().min(3)).min(1),
+  remediation_steps: z.array(InterventionStepSchema).min(2),
+  visual_anchor: z.string().min(5),
+  practice_questions: z.array(InterventionPracticeQuestionSchema).min(3),
+  success_criteria: z.string().min(5),
+});
+
+export type InterventionActivity = z.infer<typeof InterventionActivitySchema>;
