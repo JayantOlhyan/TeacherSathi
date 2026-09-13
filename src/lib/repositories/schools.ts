@@ -15,6 +15,9 @@ export interface SchoolRecord {
   contact_phone: string | null;
   subscription_tier: 'FREE' | 'PRO_SCHOOL' | 'ENTERPRISE';
   is_active: boolean;
+  state_id?: string | null;
+  district_id?: string | null;
+  organization_id?: string | null;
   created_at: string;
   updated_at: string;
 }
