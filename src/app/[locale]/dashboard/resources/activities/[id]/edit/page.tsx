@@ -10,9 +10,7 @@ import {
   Trash2, 
   Clock, 
   CheckCircle2, 
-  AlertTriangle,
-  BookOpen,
-  Sparkles
+  AlertTriangle
 } from "lucide-react";
 import type { TeachingActivityContent, ActivityArchetype } from "@/lib/validations/resources";
 
@@ -72,7 +70,16 @@ export default function TeachingActivityEditorPage({ params }: PageProps) {
           setDurationMinutes(content.duration_minutes || 20);
           setLearningObjectives(content.learning_objectives?.length ? content.learning_objectives : [""]);
           setMaterialsNeeded(content.materials_needed?.length ? content.materials_needed : [""]);
-          if (content.procedure?.length) setProcedure(content.procedure);
+          if (content.procedure?.length) {
+            setProcedure(
+              content.procedure.map((p, i) => ({
+                phase: p.phase || `PHASE ${i + 1}`,
+                duration_minutes: p.duration_minutes || p.duration_mins || 5,
+                teacher_instruction: p.teacher_instruction || p.teacher_prompt || "",
+                student_action: p.student_action || "",
+              }))
+            );
+          }
           setAssessmentStrategy(content.assessment_strategy || "");
           setDifferentiation(content.differentiation || "");
         }
