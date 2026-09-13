@@ -7,16 +7,8 @@ import {
   History, 
   RotateCcw, 
   Download, 
-  Play, 
-  CheckCircle2, 
   AlertTriangle, 
-  FileText, 
-  Sparkles,
-  Share2,
-  Lock,
-  Layers,
-  Calendar,
-  UserCheck
+  Layers
 } from "lucide-react";
 import type { ResourceRecord, ResourceVersionRecord } from "@/lib/repositories/resources";
 
