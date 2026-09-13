@@ -1,10 +1,25 @@
 import { z } from 'zod';
 
 // Roles & Enums
-export const UserRoleSchema = z.enum(['SUPER_ADMIN', 'SCHOOL_ADMIN', 'TEACHER', 'STUDENT']);
+export const UserRoleSchema = z.enum([
+  'SUPER_ADMIN',
+  'STATE_ADMIN',
+  'DISTRICT_ADMIN',
+  'ORG_ADMIN',
+  'SCHOOL_ADMIN',
+  'TEACHER',
+  'STUDENT',
+]);
 export const SchoolBoardSchema = z.enum(['CBSE', 'KVS', 'JNV', 'STATE_BOARD', 'ICSE', 'OTHER']);
 export const SubscriptionTierSchema = z.enum(['FREE', 'PRO_SCHOOL', 'ENTERPRISE']);
-export const MembershipRoleSchema = z.enum(['SCHOOL_ADMIN', 'TEACHER', 'STUDENT']);
+export const MembershipRoleSchema = z.enum([
+  'STATE_ADMIN',
+  'DISTRICT_ADMIN',
+  'ORG_ADMIN',
+  'SCHOOL_ADMIN',
+  'TEACHER',
+  'STUDENT',
+]);
 export const MemberStatusSchema = z.enum(['ACTIVE', 'PENDING', 'SUSPENDED']);
 export const PublicationStatusSchema = z.enum(['DRAFT', 'IN_REVIEW', 'APPROVED', 'PUBLISHED', 'ARCHIVED']);
 export const SectionTierSchema = z.enum(['SECTION_A', 'SECTION_B', 'SECTION_C']);
