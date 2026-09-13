@@ -6,7 +6,7 @@ export interface ProfileRecord {
   id: string;
   email: string;
   full_name: string;
-  role: 'SUPER_ADMIN' | 'SCHOOL_ADMIN' | 'TEACHER' | 'STUDENT';
+  role: 'SUPER_ADMIN' | 'STATE_ADMIN' | 'DISTRICT_ADMIN' | 'ORG_ADMIN' | 'SCHOOL_ADMIN' | 'TEACHER' | 'STUDENT';
   school_id: string | null;
   preferred_language: string;
   avatar_url: string | null;
