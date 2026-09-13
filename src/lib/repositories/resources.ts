@@ -171,8 +171,8 @@ export const resourcesRepository = {
     // Run initial deterministic validation
     const validation = contentValidator.validateContent(
       input.resource_type,
-      input.content,
-      input.language
+      input.content || {},
+      input.language || 'en'
     );
 
     const { data, error } = await client
