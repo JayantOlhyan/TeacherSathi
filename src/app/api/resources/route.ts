@@ -2,6 +2,7 @@ import { NextResponse, type NextRequest } from 'next/server';
 import { createClient } from '@/lib/supabase/server';
 import { resourcesRepository } from '@/lib/repositories/resources';
 import { auditRepository } from '@/lib/repositories/audit';
+import { CreateResourceInputSchema, ResourceQuerySchema } from '@/lib/validations/resources';
 
 export async function GET(request: NextRequest) {
   try {
@@ -12,11 +13,56 @@ export async function GET(request: NextRequest) {
       return NextResponse.json({ error: 'Unauthorized' }, { status: 401 });
     }
 
-    const { searchParams } = new URL(request.url);
-    const type = searchParams.get('type') as 'LESSON_PLAN' | 'WORKSHEET' | 'PRESENTATION' | 'MIND_MAP' | 'DOCUMENT' | null;
+    const { data: profile } = await supabase
+      .from('profiles')
+      .select('id, role, school_id')
+      .eq('id', user.id)
+      .single();
 
-    const resources = await resourcesRepository.getResourcesByOwner(user.id, type || undefined, supabase);
-    return NextResponse.json({ data: resources });
+    const userRole = (profile?.role || 'TEACHER').toUpperCase();
+    const schoolId = profile?.school_id || null;
+
+    const url = new URL(request.url);
+    const rawParams = Object.fromEntries(url.searchParams.entries());
+    const parsedQuery = ResourceQuerySchema.safeParse(rawParams);
+
+    if (!parsedQuery.success) {
+      return NextResponse.json({ error: 'Invalid query parameters', details: parsedQuery.error.issues }, { status: 400 });
+    }
+
+    const query = parsedQuery.data;
+
+    let result;
+    if (userRole === 'STUDENT') {
+      // Students can only browse published resources
+      result = await resourcesRepository.getResources({
+        ...query,
+        schoolId,
+        publishedOnly: true,
+      }, supabase);
+    } else if (userRole === 'SCHOOL_ADMIN') {
+      // School admins see all school resources
+      result = await resourcesRepository.getResources({
+        ...query,
+        schoolId,
+      }, supabase);
+    } else {
+      // Teachers see their own resources or published school resources
+      result = await resourcesRepository.getResources({
+        ...query,
+        ownerId: user.id,
+      }, supabase);
+    }
+
+    return NextResponse.json({
+      data: result.resources,
+      pagination: {
+        total: result.total,
+        page: result.page,
+        limit: result.limit,
+        totalPages: result.totalPages,
+      },
+    });
   } catch (err: unknown) {
     const message = err instanceof Error ? err.message : 'Internal server error';
     return NextResponse.json({ error: message }, { status: 500 });
@@ -32,11 +78,30 @@ export async function POST(request: NextRequest) {
       return NextResponse.json({ error: 'Unauthorized' }, { status: 401 });
     }
 
-    const body = await request.json();
-    const newResource = await resourcesRepository.createResource({
-      ...body,
-      owner_id: user.id
-    }, supabase);
+    const { data: profile } = await supabase
+      .from('profiles')
+      .select('id, role, school_id')
+      .eq('id', user.id)
+      .single();
+
+    const userRole = (profile?.role || 'TEACHER').toUpperCase();
+    if (userRole === 'STUDENT') {
+      return NextResponse.json({ error: 'Students cannot author educational resources' }, { status: 403 });
+    }
+
+    const rawBody = await request.json();
+    const parsed = CreateResourceInputSchema.safeParse(rawBody);
+
+    if (!parsed.success) {
+      return NextResponse.json({ error: 'Validation failed', details: parsed.error.issues }, { status: 400 });
+    }
+
+    const newResource = await resourcesRepository.createResource(
+      user.id,
+      profile?.school_id || null,
+      parsed.data,
+      supabase
+    );
 
     await auditRepository.logAction(
       'CREATE_RESOURCE',
@@ -50,78 +115,6 @@ export async function POST(request: NextRequest) {
     );
 
     return NextResponse.json({ data: newResource }, { status: 201 });
-  } catch (err: unknown) {
-    const message = err instanceof Error ? err.message : 'Internal server error';
-    return NextResponse.json({ error: message }, { status: 400 });
-  }
-}
-
-export async function PATCH(request: NextRequest) {
-  try {
-    const supabase = createClient();
-    const { data: { user }, error: authError } = await supabase.auth.getUser();
-
-    if (authError || !user) {
-      return NextResponse.json({ error: 'Unauthorized' }, { status: 401 });
-    }
-
-    const body = await request.json();
-    const { id, status } = body;
-
-    if (!id || !status) {
-      return NextResponse.json({ error: 'Resource ID and status are required' }, { status: 400 });
-    }
-
-    const updated = await resourcesRepository.updateResourceStatus(id, status, supabase);
-
-    await auditRepository.logAction(
-      'UPDATE_RESOURCE_STATUS',
-      'RESOURCE',
-      id,
-      { new_status: status },
-      user.id,
-      request.headers.get('x-forwarded-for') || null,
-      request.headers.get('user-agent') || null,
-      supabase
-    );
-
-    return NextResponse.json({ data: updated });
-  } catch (err: unknown) {
-    const message = err instanceof Error ? err.message : 'Internal server error';
-    return NextResponse.json({ error: message }, { status: 400 });
-  }
-}
-
-export async function DELETE(request: NextRequest) {
-  try {
-    const supabase = createClient();
-    const { data: { user }, error: authError } = await supabase.auth.getUser();
-
-    if (authError || !user) {
-      return NextResponse.json({ error: 'Unauthorized' }, { status: 401 });
-    }
-
-    const { searchParams } = new URL(request.url);
-    const id = searchParams.get('id');
-
-    if (!id) {
-      return NextResponse.json({ error: 'Resource ID is required' }, { status: 400 });
-    }
-
-    await resourcesRepository.archiveResource(id, supabase);
-
-    await auditRepository.logAction(
-      'ARCHIVE_RESOURCE',
-      'RESOURCE',
-      id,
-      {},
-      user.id,
-      request.headers.get('x-forwarded-for') || null,
-      request.headers.get('user-agent') || null,
-      supabase
-    );
-
-    return NextResponse.json({ success: true });
   } catch (err: unknown) {
     const message = err instanceof Error ? err.message : 'Internal server error';
     return NextResponse.json({ error: message }, { status: 400 });
