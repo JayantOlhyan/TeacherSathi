@@ -189,11 +189,12 @@ export const contentValidator = {
       }
 
       // 5. Language script check
-      if (language === 'hi' && textCorpus.length > 10) {
+      if (language === 'hi') {
         const hasDevanagari = /[\u0900-\u097F]/.test(textCorpus);
         if (!hasDevanagari) {
           warnings.push({
-            rule: 'MISSING_DEVANAGARI_SCRIPT',
+            rule: 'HINDI_SCRIPT_MISSING',
+            code: 'HINDI_SCRIPT_MISSING',
             message: `Slide ${slideNum} is set to Hindi but contains no Devanagari script characters.`,
             severity: 'WARNING',
             slide_number: slideNum,
@@ -214,6 +215,7 @@ export const contentValidator = {
     if (!mindMap.nodes || mindMap.nodes.length < 2) {
       errors.push({
         rule: 'INSUFFICIENT_NODES',
+        code: 'INSUFFICIENT_NODES',
         message: 'Mind map must contain at least 2 nodes.',
         severity: 'ERROR',
       });
@@ -226,6 +228,7 @@ export const contentValidator = {
     if (!mindMap.central_node_id || !nodeIds.has(mindMap.central_node_id)) {
       errors.push({
         rule: 'INVALID_CENTRAL_NODE',
+        code: 'INVALID_CENTRAL_NODE',
         message: 'Mind map central_node_id is missing or does not match any node in nodes list.',
         severity: 'ERROR',
       });
@@ -238,7 +241,8 @@ export const contentValidator = {
     edges.forEach((edge, idx) => {
       if (!nodeIds.has(edge.source)) {
         errors.push({
-          rule: 'DANGLING_EDGE_SOURCE',
+          rule: 'INVALID_EDGE',
+          code: 'INVALID_EDGE',
           message: `Edge ${idx + 1} source "${edge.source}" does not exist.`,
           severity: 'ERROR',
         });
@@ -248,7 +252,8 @@ export const contentValidator = {
 
       if (!nodeIds.has(edge.target)) {
         errors.push({
-          rule: 'DANGLING_EDGE_TARGET',
+          rule: 'INVALID_EDGE',
+          code: 'INVALID_EDGE',
           message: `Edge ${idx + 1} target "${edge.target}" does not exist.`,
           severity: 'ERROR',
         });
@@ -257,10 +262,11 @@ export const contentValidator = {
       }
 
       if (edge.source === edge.target) {
-        warnings.push({
-          rule: 'SELF_REFERENCING_EDGE',
+        errors.push({
+          rule: 'SELF_LOOP',
+          code: 'SELF_LOOP',
           message: `Edge ${idx + 1} connects node "${edge.source}" to itself.`,
-          severity: 'WARNING',
+          severity: 'ERROR',
         });
       }
     });
@@ -270,6 +276,7 @@ export const contentValidator = {
       if (!connectedNodeIds.has(node.id)) {
         warnings.push({
           rule: 'ORPHAN_NODE',
+          code: 'ORPHAN_NODE',
           message: `Node "${node.label}" (ID: ${node.id}) is disconnected from the mind map graph.`,
           severity: 'WARNING',
         });
@@ -285,35 +292,39 @@ export const contentValidator = {
     errors: ContentValidationError[],
     warnings: ContentValidationError[]
   ): void {
-    if (!activity.title || activity.title.trim().length < 3) {
-      errors.push({
-        rule: 'INVALID_TITLE',
-        message: 'Activity title must be at least 3 characters long.',
-        severity: 'ERROR',
+    const duration = activity.duration_minutes || activity.duration_mins || 0;
+    if (duration > 45) {
+      warnings.push({
+        rule: 'EXCESSIVE_DURATION',
+        code: 'EXCESSIVE_DURATION',
+        message: `Activity duration of ${duration} minutes may exceed standard period time.`,
+        severity: 'WARNING',
       });
     }
 
-    if (!activity.objective || activity.objective.trim().length < 5) {
-      errors.push({
-        rule: 'MISSING_OBJECTIVE',
-        message: 'Activity must specify a clear pedagogical learning objective.',
-        severity: 'ERROR',
-      });
-    }
+    const steps = (activity.procedure || activity.teacher_steps || []) as Array<{
+      teacher_instruction?: string;
+      teacher_prompt?: string;
+    }>;
 
-    if (!activity.teacher_steps || activity.teacher_steps.length === 0) {
+    if (steps.length === 0) {
       errors.push({
         rule: 'NO_TEACHER_STEPS',
-        message: 'Activity must specify at least one step for the teacher.',
+        code: 'NO_TEACHER_STEPS',
+        message: 'Activity must specify at least one instructional step for the teacher.',
         severity: 'ERROR',
       });
-    }
-
-    if (activity.duration_mins > 45) {
-      warnings.push({
-        rule: 'LONG_ACTIVITY_DURATION',
-        message: `Activity duration of ${activity.duration_mins} minutes may exceed standard period time.`,
-        severity: 'WARNING',
+    } else {
+      steps.forEach((step, idx) => {
+        const prompt = step.teacher_instruction || step.teacher_prompt || '';
+        if (!prompt || prompt.trim().length === 0) {
+          errors.push({
+            rule: 'EMPTY_PROCEDURE_STEP',
+            code: 'EMPTY_PROCEDURE_STEP',
+            message: `Procedure step ${idx + 1} does not have teacher instruction.`,
+            severity: 'ERROR',
+          });
+        }
       });
     }
   },
