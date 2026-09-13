@@ -18,6 +18,73 @@ import {
 } from "lucide-react";
 import { useClassroomRealtime } from "@/lib/classroom/useClassroomRealtime";
 import WhiteboardCanvas from "@/components/whiteboard/WhiteboardCanvas";
+import { SmartboardSlideViewer } from "@/components/classroom/SmartboardSlideViewer";
+import type { PresentationSlide } from "@/lib/validations/resources";
+
+const DEFAULT_PRESENTATION_SLIDES: PresentationSlide[] = [
+  {
+    type: "TITLE",
+    title: "Crop Production and Management",
+    subtitle: "NCERT Class 8 Science • Chapter 1",
+    body: "Comprehensive Smartboard module covering agricultural practices, soil prep, and modern irrigation.",
+  },
+  {
+    type: "CONTENT",
+    title: "Key Agricultural Practices",
+    subtitle: "Sequential Steps for High-Yield Farming",
+    bullets: [
+      "Preparation of Soil (Tilling and Ploughing to aerate roots)",
+      "Selection and Sowing of high-yielding, clean seeds",
+      "Adding Manure and Fertilisers to replenish nitrogen & minerals",
+      "Irrigation (Scheduling water delivery according to crop stage)",
+      "Weeding and Protection from Pests",
+      "Harvesting and Safe Storage in silos/granaries",
+    ],
+  },
+  {
+    type: "IMAGE",
+    title: "Modern Irrigation: Drip System",
+    body: "Water falls drop-by-drop directly at the position of the roots. Ideal for regions with acute water scarcity.",
+  },
+  {
+    type: "DIAGRAM",
+    title: "The Nitrogen Cycle in Nature",
+    body: "Circulation of atmospheric nitrogen through living organisms and soil chemistry.",
+    diagram_code: `Atmospheric Nitrogen (N2)
+  ├──> Biological Fixation (Rhizobium in leguminous roots & Cyanobacteria)
+  ├──> Lightning Fixation (Nitrates in rainwater)
+  ├──> Soil Nitrates & Nitrites (Plant absorption)
+  └──> Decomposer Bacteria ──> Denitrifying Bacteria ──> N2 released back`,
+  },
+  {
+    type: "QUESTION",
+    title: "Formative Check: Soil Enrichment",
+    question_text: "Which of the following organic fertilizers improves both soil texture and water retention capacity?",
+    question_options: ["Urea (Synthetic)", "Decomposed Manure", "Ammonium Sulphate", "Potash"],
+    correct_option_index: 1,
+  },
+  {
+    type: "ACTIVITY",
+    title: "Class Activity: Seed Quality Test",
+    activity_prompt: "Place a handful of gram seeds in a beaker of water. Observe and note down why damaged hollow seeds float while healthy seeds sink.",
+    bullets: [
+      "Take a 250ml glass beaker and fill half with clean water",
+      "Drop 20 gram seeds and stir gently",
+      "Wait 2 minutes and observe which seeds sink and which float",
+      "Discuss with your partner why damaged seeds become lighter",
+    ],
+  },
+  {
+    type: "SUMMARY",
+    title: "Chapter 1 Summary & Revision",
+    bullets: [
+      "Kharif crops: Sown in rainy season (June–Sept) e.g., Paddy, Maize.",
+      "Rabi crops: Grown in winter (Oct–March) e.g., Wheat, Mustard, Gram.",
+      "Organic manure is superior to chemical fertilisers for soil sustainability.",
+      "Drip irrigation provides maximum water efficiency with zero runoff loss.",
+    ],
+  },
+];
 
 export default function ClassroomKioskPage() {
   const [boardId, setBoardId] = useState("Board-001");
@@ -27,6 +94,7 @@ export default function ClassroomKioskPage() {
   const [secondsRemaining, setSecondsRemaining] = useState(300);
   const [isInitializing, setIsInitializing] = useState(true);
   const [activeTab, setActiveTab] = useState<"content" | "whiteboard">("content");
+  const [presentationSlides, setPresentationSlides] = useState<PresentationSlide[]>(DEFAULT_PRESENTATION_SLIDES);
 
   const timerIntervalRef = useRef<NodeJS.Timeout | null>(null);
 
@@ -70,6 +138,23 @@ export default function ClassroomKioskPage() {
     deviceName: `Smartboard 75" (${boardId})`,
     role: "DISPLAY",
   });
+
+  // Fetch real presentation slides if a custom presentation is active
+  useEffect(() => {
+    const pid = state?.presentation.presentationId;
+    if (pid && pid !== "pres-crop-production" && pid !== "pres-default" && pid !== "pres-1") {
+      fetch(`/api/presentations/${pid}`)
+        .then((res) => (res.ok ? res.json() : null))
+        .then((json) => {
+          if (json?.data?.content?.slides?.length) {
+            setPresentationSlides(json.data.content.slides);
+          }
+        })
+        .catch(() => {});
+    } else {
+      setPresentationSlides(DEFAULT_PRESENTATION_SLIDES);
+    }
+  }, [state?.presentation.presentationId]);
 
   // Request new pairing token from server
   const requestPairingToken = useCallback(async () => {
@@ -398,14 +483,25 @@ export default function ClassroomKioskPage() {
                         </span>
                       </div>
 
-                      <div className="space-y-4 py-8">
-                        <h2 className="text-3xl sm:text-5xl font-black font-serif text-white tracking-tight leading-tight">
-                          {state.presentation.title || "NCERT Concept Overview"}
-                        </h2>
-                        <div className="bg-white/5 border border-white/10 rounded-3xl p-8 text-lg sm:text-2xl text-emerald-100 font-medium leading-relaxed">
-                          Slide {state.presentation.slideIndex + 1} content actively synchronized with teacher device.
-                        </div>
-                      </div>
+                      {/* Smartboard Polymorphic Slide Viewer */}
+                      {(() => {
+                        const currentSlideIndex = Math.min(
+                          presentationSlides.length - 1,
+                          Math.max(0, state.presentation.slideIndex)
+                        );
+                        const currentSlide = presentationSlides[currentSlideIndex] || presentationSlides[0];
+
+                        return (
+                          <div className="w-full rounded-3xl overflow-hidden border border-white/10 shadow-2xl my-2 min-h-[440px] flex flex-col">
+                            <SmartboardSlideViewer
+                              slide={currentSlide}
+                              slideIndex={currentSlideIndex}
+                              totalSlides={presentationSlides.length}
+                              presentationTitle={state.presentation.title || "NCERT Concept Overview"}
+                            />
+                          </div>
+                        );
+                      })()}
 
                       <div className="flex items-center justify-between pt-6 border-t border-white/10">
                         <button
