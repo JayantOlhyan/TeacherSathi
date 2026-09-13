@@ -1,11 +1,46 @@
-import { PresentationContent, MindMapContent } from '@/lib/validations/resources';
+export interface PresentationExportData {
+  title?: string;
+  theme?: string;
+  slides?: Array<{
+    type?: string;
+    title?: string;
+    subtitle?: string;
+    body?: string;
+    bullets?: string[];
+    image_url?: string;
+    diagram_code?: string;
+    question_text?: string;
+    question_options?: string[];
+    correct_option_index?: number;
+    activity_prompt?: string;
+    speaker_notes?: string;
+  }>;
+}
+
+export interface MindMapExportData {
+  title?: string;
+  central_node_id?: string;
+  nodes?: Array<{
+    id: string;
+    label: string;
+    type?: string;
+    color?: string;
+  }>;
+  edges?: Array<{
+    id: string;
+    source: string;
+    target: string;
+    label?: string;
+    style?: string;
+  }>;
+}
 
 export const exportService = {
   /**
    * Generates a 16:9 widescreen printable HTML document for presentations.
    * Uses CSS page-breaks and high-contrast smartboard styling for clean browser "Save to PDF".
    */
-  exportPresentationToPdf(presentation: PresentationContent): { html: string; title: string } {
+  exportPresentationToPdf(presentation: PresentationExportData): { html: string; title: string } {
     const title = presentation.title || 'Presentation';
 
     const slidesHtml = (presentation.slides || []).map((slide, idx) => {
@@ -53,11 +88,11 @@ export const exportService = {
           <div>
             <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 2px solid #10b981; padding-bottom: 16px; margin-bottom: 32px;">
               <span style="font-size: 14px; font-weight: 800; color: #059669; text-transform: uppercase; letter-spacing: 1px;">TeacherSathi Smartboard</span>
-              <span style="font-size: 14px; font-weight: bold; color: #64748b;">Slide ${idx + 1} of ${presentation.slides.length}</span>
+              <span style="font-size: 14px; font-weight: bold; color: #64748b;">Slide ${idx + 1} of ${(presentation.slides || []).length}</span>
             </div>
             
             <h1 style="font-size: 40px; font-weight: 900; margin: 0 0 16px 0; color: #064e3b; line-height: 1.2;">
-              ${escapeHtml(slide.title)}
+              ${escapeHtml(slide.title || '')}
             </h1>
             
             ${slide.subtitle ? `<h3 style="font-size: 24px; font-weight: 500; color: #047857; margin: 0 0 24px 0;">${escapeHtml(slide.subtitle)}</h3>` : ''}
@@ -111,7 +146,7 @@ export const exportService = {
   /**
    * Generates a vector SVG export of an interactive mind map.
    */
-  exportMindMapToSvg(mindMap: MindMapContent): { svg: string; title: string } {
+  exportMindMapToSvg(mindMap: MindMapExportData): { svg: string; title: string } {
     const title = mindMap.title || 'Mind Map';
     const width = 1200;
     const height = 800;
