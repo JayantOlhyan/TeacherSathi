@@ -63,9 +63,23 @@
                                │
                                ▼
 ┌─────────────────────────────────────────────────────────────┐
-│ PHASE 7: End-to-End Hardening, Cross-Device PWA & Launch    │
-│ Status: READY TO EXECUTE (NEXT)                             │
-│ Focus: Playwright tests, offline PWA queues, launch prep.   │
+│ PHASE 7: Advanced Content, Media & Video Production Pipeline│
+│ Status: COMPLETE                                            │
+│ Focus: Slide studio, 75" kiosk viewer, mind maps, exports.  │
+└─────────────────────────────────────────────────────────────┘
+                               │
+                               ▼
+┌─────────────────────────────────────────────────────────────┐
+│ PHASE 8: Scale, School Networks & District/State Admin      │
+│ Status: COMPLETE                                            │
+│ Focus: Multi-tenant, RLS, N>=10 privacy, cascading settings.│
+└─────────────────────────────────────────────────────────────┘
+                               │
+                               ▼
+┌─────────────────────────────────────────────────────────────┐
+│ PHASE 9: Native Mobile + Offline / Low-Connectivity Exper. │
+│ Status: COMPLETE                                            │
+│ Focus: React Native, Expo SQLite, offline packs, sync engine│
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -146,10 +160,50 @@
 - Student Learning Journey (`/student/progress`) with assigned practice checks and resolved mastery badges.
 - 171 automated tests across 31 test files passing with 100% success rate.
 
-### Phase 7: End-to-End Hardening, Cross-Device PWA & Launch Readiness (Next)
-- Automated Playwright E2E testing suite covering core user journeys (signup $\rightarrow$ kit gen $\rightarrow$ smartboard pairing $\rightarrow$ assessment $\rightarrow$ concept analytics $\rightarrow$ closed-loop reassessment $\rightarrow$ checkout).
-- Institutional Lead Capture API & CRM dispatch integration.
-- Offline PWA queue synchronization and service worker background sync.
-- Core Web Vitals optimization and 2G/3G network throttle verification.
+### Phase 7: Advanced Content, Media & Video Production Pipeline (Completed)
+- Production PostgreSQL migration `20260911000010_advanced_content_and_media_pipeline.sql`.
+- Enums: `resource_type`, `resource_status`.
+- Extended canonical `resources` table with `content` (JSONB), `version`, `validation_score`, `validation_errors`.
+- Tables: `resource_versions` (immutable snapshots, rollback), `resource_usage` (audit/telemetry), `media_assets`, `media_jobs`.
+- Zod validation schemas for 7 presentation slide types, 10 teaching activity archetypes, mind map graph topologies.
+- Deterministic 100-point penalty content validator with 75" smartboard readability bounds ($\le 60$ words, $\le 5$ bullets) and Hindi Devanagari script verification.
+- Fail-closed storage service with magic byte inspection (JPEG, PNG, PDF, WebM, MP4), traversal sanitization, and pre-signed URLs.
+- Multi-channel export service producing 16:9 widescreen printable HTML/PDF, vector SVG mind maps, and A4 worksheets.
+- Complete API layer: `/api/resources/*`, `/api/media/*`, `/api/presentations/*`, `/api/mindmaps/*`, `/api/activities/*`.
+- 75" kiosk-ready interactive smartboard presentation viewer (`SmartboardSlideViewer`) integrated into `/classroom`.
+- Teacher resource studio: Resource Library (`/dashboard/resources`), Resource Detail & Rollback (`/dashboard/resources/[id]`), Presentation Studio (`.../presentations/[id]/edit`), Mind Map Studio (`.../mindmaps/[id]/edit`), Teaching Activity Studio (`.../activities/[id]/edit`).
+- 210 automated unit and integration tests across 40 test files passing with 100% success rate. 0 lint warnings, 0 type errors, clean production build.
 
+### Phase 8: Scale, School Networks & District/State Administration (Completed)
+- Production PostgreSQL migration `20260911000011_institutional_scale_and_administration.sql`.
+- Enums: `institutional_scope`, `organization_type`, `invitation_status`.
+- Roles: `STATE_ADMIN`, `DISTRICT_ADMIN`, `ORG_ADMIN`.
+- Tables: `states`, `districts`, `organizations`, `state_members`, `district_members`, `organization_members`, `institutional_settings`, `institutional_invitations`, `daily_school_metrics`.
+- Extended `schools` table with `state_id`, `district_id`, `organization_id` foreign keys and performance indexes.
+- 6 PostgreSQL Security Definer helper functions (`is_state_admin`, `is_district_admin`, `is_organization_admin`, `is_state_admin_of_school`, `is_district_admin_of_school`, `is_org_admin_of_school`).
+- Row-Level Security (RLS) policies guaranteeing multi-tenant isolation and complete privacy for independent standalone schools.
+- Strict Student Privacy by Design ($N \ge 10$ minimum cohort sample size masking, protecting students from deductive identification).
+- 4-Tier Cascading Governance Resolution engine (`Default` $\leftarrow$ `State` $\leftarrow$ `District` $\leftarrow$ `Organization` $\leftarrow$ `School`).
+- Cryptographic single-use administrative invitations (`crypto.randomBytes(32)` tokens, SHA-256 hash storage, automatic expiry).
+- 14 REST Route Handlers under `/api/admin/institutional/*` (states, districts, organizations, schools directory & onboarding, scope overview KPIs, academic intelligence, adoption, resources, comparative benchmarking, invitations, settings, report exports).
+- Institutional Web Portals: Overview Dashboard (`/admin/institutional`), School Directory (`/admin/institutional/schools`), Academic Hub (`/admin/institutional/academic`), School Comparison Tool (`/admin/institutional/compare`), Invitations Manager (`/admin/institutional/invitations`), Cascading Governance Settings (`/admin/institutional/settings`).
+- Navigation sidebar integration with dynamic capability gating.
+- 267 automated unit and integration tests across 49 test files passing with 100% success rate. 0 lint warnings, 0 type errors, clean Next.js production build.
+
+### Phase 9: Native Mobile + Offline / Low-Connectivity Experience (Completed)
+- Native React Native 0.74 + Expo SDK 51 application workspace (`mobile/`) targeting Android and iOS.
+- Production PostgreSQL migration `20260911000012_mobile_offline_and_notifications.sql`:
+  - `notification_type` enum (`ASSIGNMENT_NEW`, `ASSIGNMENT_DUE`, `ASSESSMENT_PUBLISHED`, `RESULT_AVAILABLE`, `ANNOUNCEMENT`, `CLASSROOM_INVITE`, `SYNC_ALERT`).
+  - `notifications`, `mobile_devices`, and `app_version_configs` tables with RLS and composite indexes.
+- 5 Storage Tiers with strict 300MB device storage ceiling enforcement (`PERSISTENT_STATIC`, `DOWNLOADABLE_BUNDLE`, `AUTHORIZED_DYNAMIC`, `TRANSACTIONAL_OUTBOX`, `NON_CACHEABLE`).
+- Transactional Outbox Sync Engine (`SyncEngine`) with exponential backoff, random jitter (0–500ms), 5 max attempts, and automatic reconnect dispatch.
+- Deterministic Conflict Resolution Matrix (`conflictResolver`) ensuring strict server authority over grading and monotonic classroom event sequencing.
+- Offline NCERT Class Pack production pipeline (`/api/mobile/class-pack/[chapterId]`) bundling presentations, mindmaps, lesson plans, and formative quizzes with SHA-256 tamper verification.
+- Masked offline assessment player (`AssessmentEngine`) preventing client-side key inspection and enforcing tamper sealing upon submission.
+- Smartboard remote controller (`ClassroomService`) with live slide navigation, screen locking, and quick quiz triggers.
+- Push & in-app notification subsystem with role-gated deep linking (`NotificationService`).
+- Shared school device data hygiene (`authService.logout()`) purging sensitive local answers and outbox queues while preserving public NCERT packs.
+- Bilingual English and Hindi localization (`mobile/src/localization/index.ts`).
+- 45 automated mobile tests across 11 test files in `tests/mobile/`.
+- 312 total automated tests across 60 test files passing with 100% success rate. 0 lint warnings, 0 type errors, clean Next.js production build.
 
