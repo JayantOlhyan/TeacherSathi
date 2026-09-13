@@ -50,6 +50,7 @@ export default function AdminDashboard() {
   ];
 
   const quickActions = [
+    { title: "SaaS Billing & MRR", desc: "View institutional subscriptions & revenue", href: "/admin/billing", color: "hover:border-emerald-500/50" },
     { title: "Add Chapter", desc: "Create a new NCERT chapter node", href: "/admin/content/chapters", color: "hover:border-purple-500/50" },
     { title: "Add Question", desc: "Create a single test question", href: "/admin/questions", color: "hover:border-amber-500/50" },
     { title: "Bulk Import", desc: "Upload CSV/JSON question sheets", href: "/admin/questions/import", color: "hover:border-emerald-500/50" },
