@@ -1,6 +1,6 @@
 # TeacherSathi — Actual Implementation Matrix
 
-> **Status**: Verified Production Matrix (Through Phase 6)  
+> **Status**: Verified Production Matrix (Through Phase 8)  
 > **Rule**: Rigorous technical classification based strictly on active codebase inspection.
 
 ---
@@ -41,12 +41,40 @@
 | **Student Learning Progress** | `src/app/[locale]/student/progress` | IMPLEMENTED | Real Mastery & Assigned Reassessments | `/api/analytics/student/[id]` | Lucide | No |
 | **Academic Analytics APIs** | `src/app/api/analytics/*` (6 routes) | IMPLEMENTED | Real 65/35 Engine, Audit & RLS | Supabase `student_concept_mastery`, etc. | Next.js App Router | No |
 | **Interventions CRUD APIs** | `src/app/api/interventions/*` (4 routes) | IMPLEMENTED | Real Draft, Approve, Assign | Supabase `interventions` | Next.js App Router | No |
-| **Server-Side API Routes (`/api/*`)**| `src/app/api/*` (47 routes) | IMPLEMENTED | Real Handlers & RLS | Supabase PostgreSQL + Auth | Next.js App Router | No |
-| **Automated Test Suite** | Repository root (31 test files) | IMPLEMENTED | Vitest Runner (171 tests) | Server & Mock Test Fixtures | Vitest | No |
+| **Server-Side API Routes (`/api/*`)**| `src/app/api/*` (63 routes) | IMPLEMENTED | Real Handlers & RLS | Supabase PostgreSQL + Auth | Next.js App Router | No |
+| **Automated Test Suite** | Repository root (40 test files) | IMPLEMENTED | Vitest Runner (210 tests) | Server & Mock Test Fixtures | Vitest | No |
 | **Pricing & Checkout** | `src/app/[locale]/pricing/page.tsx` | IMPLEMENTED | Real Razorpay SDK + Mock Fallback | `/api/billing/checkout` & `/verify` | `lucide-react`, Razorpay | No |
 | **School Admin Billing Hub** | `src/app/[locale]/dashboard/admin/billing` | IMPLEMENTED | Real Subscription & Quota Hub | `/api/billing/subscription`, `/usage` | `lucide-react` | No |
 | **Super Admin SaaS Operations**| `src/app/[locale]/admin/billing` | IMPLEMENTED | Real MRR/ARR & Delinquency View | `/api/billing/admin/overview` | `lucide-react` | No |
 | **Billing Webhooks & Idempotency**| `src/app/api/billing/webhook` | IMPLEMENTED | Real HMAC-SHA256 & Ledger | Supabase `processed_webhook_events` | Crypto, PostgreSQL | No |
 | **Progressive Web App (PWA)** | `public/sw.js`, `manifest.webmanifest` | IMPLEMENTED | Real Service Worker | Browser Cache API | Service Worker API | No |
 | **Global Security Headers** | `next.config.mjs` | IMPLEMENTED | Real HTTP Headers | Next.js config engine | Native Next.js | No |
+| **Resource Library & Hub** | `src/app/[locale]/dashboard/resources/page.tsx` | IMPLEMENTED | Real Library & Multi-Filter | `/api/resources` | `lucide-react` | No |
+| **Resource Detail & Rollback** | `src/app/[locale]/dashboard/resources/[id]/page.tsx` | IMPLEMENTED | Real Scorecard & Rollback | `/api/resources/[id]/restore` | `lucide-react` | No |
+| **Presentation Slide Studio** | `src/app/[locale]/dashboard/resources/presentations/[id]/edit` | IMPLEMENTED | Real 7-Archetype Studio | `/api/presentations/[id]` | `lucide-react` | No |
+| **Concept Mind Map Studio** | `src/app/[locale]/dashboard/resources/mindmaps/[id]/edit` | IMPLEMENTED | Real Vector Topology Studio | `/api/mindmaps/[id]` | SVG, `lucide-react` | No |
+| **Pedagogical Activity Studio** | `src/app/[locale]/dashboard/resources/activities/[id]/edit` | IMPLEMENTED | Real 10-Archetype Studio | `/api/activities/[id]` | `lucide-react` | No |
+| **Smartboard Slide Viewer** | `src/components/classroom/SmartboardSlideViewer.tsx` | IMPLEMENTED | Real 75" Kiosk Display | Realtime Classroom Sync | Tailwind, Lucide | No |
+| **Fail-Closed Media Pipeline** | `src/app/api/media/*` | IMPLEMENTED | Real Magic Bytes & Traversal Defense | Supabase Storage & `media_jobs` | Node Crypto, Zod | No |
+| **Multi-Channel Export Engine** | `src/app/api/resources/[id]/export` | IMPLEMENTED | Real 16:9 PDF, A4 & SVG Export | `exportService.ts` | CSS Paged Media | No |
+| **Institutional Overview Dashboard** | `src/app/[locale]/admin/institutional/page.tsx` | IMPLEMENTED | Real Scope Aggregations | `/api/admin/institutional/overview` | `lucide-react` | No |
+| **School Directory & Onboarding** | `src/app/[locale]/admin/institutional/schools` | IMPLEMENTED | Real Multi-Tier Hierarchy | `/api/admin/institutional/schools` | `lucide-react` | No |
+| **Academic Intelligence Hub (N>=10)**| `src/app/[locale]/admin/institutional/academic` | IMPLEMENTED | Real Mastery & Privacy Masking | `/api/admin/institutional/academic` | `lucide-react` | No |
+| **Multi-School Comparison Matrix** | `src/app/[locale]/admin/institutional/compare` | IMPLEMENTED | Real Side-by-Side Benchmarking | `/api/admin/institutional/compare` | `lucide-react` | No |
+| **Cryptographic Invitations Portal** | `src/app/[locale]/admin/institutional/invitations`| IMPLEMENTED | Real SHA-256 Single-Use Tokens | `/api/admin/institutional/invitations` | `lucide-react`, Node Crypto | No |
+| **Cascading Governance Settings** | `src/app/[locale]/admin/institutional/settings` | IMPLEMENTED | Real 4-Tier Inheritance Resolver| `/api/admin/institutional/settings` | `lucide-react` | No |
+| **Institutional APIs (14 Routes)** | `src/app/api/admin/institutional/*` | IMPLEMENTED | Real PostgreSQL RLS & Services | Supabase PostgreSQL + Auth | Next.js App Router | No |
+| **Institutional Automated Test Suite**| `tests/institution/*` (9 test files) | IMPLEMENTED | Vitest Runner (57 tests) | Server & Mock Test Fixtures | Vitest | No |
+| **Native Mobile App (Android/iOS)** | `mobile/App.tsx`, `src/navigation/*` | IMPLEMENTED | Real Native Expo 51 + React Native 0.74 | Mobile SQLite & REST API | React Native, Expo | No |
+| **Mobile SQLite Offline Storage** | `mobile/src/database/databaseManager.ts` | IMPLEMENTED | Real 5-Tier Storage & SQLite Tables | Expo SQLite (`in.teachersathi.app`) | Expo SQLite | No |
+| **Transactional Outbox Sync Engine** | `mobile/src/sync/syncEngine.ts` | IMPLEMENTED | Real Backoff (2-60s) + Jitter + Outbox | Supabase `/api/attempts/*` & SQLite | NetInfo, Fetch | No |
+| **Deterministic Conflict Resolver** | `mobile/src/sync/conflictResolver.ts` | IMPLEMENTED | Real Server Authority & Sequence Rules | Client timestamps & server state | TypeScript | No |
+| **Offline NCERT Class Pack Downloader**| `mobile/src/services/classPackService.ts`| IMPLEMENTED | Real SHA-256 Verified Offline Bundles| `/api/mobile/class-pack/[chapterId]` | Crypto, SQLite | No |
+| **Masked Offline Assessment Player** | `mobile/src/services/assessmentEngine.ts`| IMPLEMENTED | Real Timer + Sealed Outbox Submission| Local SQLite masked packages | TypeScript | No |
+| **Smartboard Mobile Remote Co-Pilot** | `mobile/src/services/classroomService.ts`| IMPLEMENTED | Real Remote Slide & Screen Locking | `/api/classroom/pair/consume`, `/events` | Realtime API | No |
+| **Push Notification & Deep Linking** | `mobile/src/services/notificationService.ts`| IMPLEMENTED | Real Device Registration & URL Dispatch| `/api/notifications/devices` | Expo Notifications | No |
+| **Hardware SecureStore Auth Session** | `mobile/src/services/authService.ts` | IMPLEMENTED | Real Keychain Storage & Shared Wipe | `expo-secure-store` | Hardware Keystore | No |
+| **Mobile App Version Check Gate** | `src/app/api/mobile/version-check` | IMPLEMENTED | Real Semver Gating & UPDATE_REQUIRED | Supabase `app_version_configs` | Next.js App Router | No |
+| **Mobile Automated Test Suite** | `tests/mobile/*` (11 test files) | IMPLEMENTED | Vitest Runner (45 tests) | Headless Mock & SQLite Fixtures | Vitest | No |
+| **Total Automated Regression Suite** | Repository root (60 test files) | IMPLEMENTED | Vitest Runner (312 tests passing) | Full Platform Test Suites | Vitest | No |
 
