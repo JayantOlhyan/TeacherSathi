@@ -19,19 +19,17 @@ describe('Multi-Tenant Content Isolation & Publishing Gates (Section 13, 16)', (
               filtered = filtered.filter((r) => r.owner_id === callerId || (r.school_id === callerSchoolId && r.status === 'PUBLISHED'));
             }
 
-            return {
+            const queryObj: any = {
               eq(col: string, val: any) {
                 filtered = filtered.filter((r) => r[col] === val);
-                return {
-                  maybeSingle: async () => ({ data: filtered[0] || null, error: null }),
-                  single: async () => ({ data: filtered[0] || null, error: filtered[0] ? null : { message: 'Not found' } }),
-                  order: () => Promise.resolve({ data: filtered, error: null }),
-                };
+                return queryObj;
               },
-              order: () => ({
-                range: () => Promise.resolve({ data: filtered, count: filtered.length, error: null }),
-              }),
+              maybeSingle: async () => ({ data: filtered[0] || null, error: null }),
+              single: async () => ({ data: filtered[0] || null, error: filtered[0] ? null : { message: 'Not found' } }),
+              order: () => queryObj,
+              range: () => Promise.resolve({ data: filtered, count: filtered.length, error: null }),
             };
+            return queryObj;
           },
           insert(rows: any[]) {
             return {
