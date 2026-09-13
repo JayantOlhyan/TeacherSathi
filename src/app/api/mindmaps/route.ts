@@ -14,7 +14,7 @@ const CreateMindMapSchema = z.object({
   concept_ids: z.array(z.string().uuid()).default([]),
   language: z.string().default('en'),
   content: MindMapContentSchema,
-  metadata: z.record(z.unknown()).default({}),
+  metadata: z.record(z.string(), z.unknown()).default({}),
 });
 
 export async function GET(request: NextRequest) {
