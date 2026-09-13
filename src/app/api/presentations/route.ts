@@ -14,7 +14,7 @@ const CreatePresentationSchema = z.object({
   concept_ids: z.array(z.string().uuid()).default([]),
   language: z.string().default('en'),
   content: PresentationContentSchema,
-  metadata: z.record(z.unknown()).default({}),
+  metadata: z.record(z.string(), z.unknown()).default({}),
 });
 
 export async function GET(request: NextRequest) {
