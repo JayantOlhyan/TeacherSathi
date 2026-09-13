@@ -1,124 +1,167 @@
 "use client";
 
-import { useState } from "react";
-import { TrendingUp, Users, Award, BookOpen, Download, Calendar, Filter, ChevronDown, Check } from "lucide-react";
+import { useState, useEffect } from "react";
+import { Link } from "@/i18n/routing";
+import {
+  TrendingUp,
+  BookOpen,
+  BrainCircuit,
+  Calendar
+} from "lucide-react";
 import { Button } from "@/components/ui/Button";
 
-export default function ReportsPage() {
-  const [selectedClass, setSelectedClass] = useState("Class 10-A");
+interface AssessmentItem {
+  id: string;
+  title: string;
+  assessment_type: string;
+  grade_id: string;
+  subject_id: string;
+  total_marks: number;
+  duration_minutes: number;
+  status: string;
+  created_at: string;
+}
 
-  const reports = [
-    { name: "First Term Science MCQ Quiz", date: "May 28, 2026", avgScore: "84%", completed: "24/24 students", type: "Quiz", status: "Completed" },
-    { name: "Unit 3 Reflection Practice Test", date: "May 25, 2026", avgScore: "76%", completed: "22/24 students", type: "Test", status: "Completed" },
-    { name: "Monthly Physics Progress Board", date: "May 15, 2026", avgScore: "81%", completed: "24/24 students", type: "Milestone", status: "Synced" },
-    { name: "Phonemic Early Literacy Diagnostic", date: "May 08, 2026", avgScore: "92%", completed: "18/20 students", type: "Diagnostic", status: "Completed" }
-  ];
+export default function ReportsPage() {
+  const [assessments, setAssessments] = useState<AssessmentItem[]>([]);
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    async function loadAssessments() {
+      try {
+        const res = await fetch("/api/assessments");
+        if (res.ok) {
+          const json = await res.json();
+          setAssessments(json.data || []);
+        }
+      } catch (err) {
+        console.error("Failed to load assessments for reports:", err);
+      } finally {
+        setLoading(false);
+      }
+    }
+    loadAssessments();
+  }, []);
 
   return (
-    <div className="max-w-6xl mx-auto space-y-8 pb-12">
-      
+    <div className="max-w-6xl mx-auto space-y-8 pb-16">
       {/* Header Section */}
-      <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 bg-white p-6 rounded-2xl shadow-sm border border-gray-100">
+      <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 bg-white p-6 sm:p-8 rounded-3xl shadow-sm border border-gray-100">
         <div>
-          <h1 className="text-2xl sm:text-3xl font-extrabold text-gray-800">Learning & Performance Reports</h1>
-          <p className="text-gray-600 mt-2 text-sm leading-relaxed">
-            Analyze real-time student grades, review NCERT quiz analytics, evaluate classroom learning progress, and export diagnostic progress reports tailored for Indian government school educators.
+          <span className="bg-emerald-50 text-emerald-800 text-xs font-black uppercase tracking-wider px-3 py-1 rounded-lg border border-emerald-200/60">
+            Assessment & Diagnostic Ledger
+          </span>
+          <h1 className="text-2xl sm:text-3xl font-black text-gray-900 mt-2">Learning & Performance Reports</h1>
+          <p className="text-gray-600 mt-1 text-sm max-w-2xl">
+            Review completed classroom examinations, question-level item difficulty diagnostics, and official school grade ledgers.
           </p>
         </div>
 
-        <Button className="bg-[#16A34A] hover:bg-cta-hover text-white px-5 py-2.5 rounded-xl font-bold shadow-md flex items-center gap-2 transition-all">
-          <Download className="w-4 h-4" /> Export School Report
-        </Button>
+        <Link href="/dashboard/analytics">
+          <Button className="bg-[#14532D] hover:bg-[#0f4022] text-white px-5 py-2.5 rounded-xl font-bold shadow-sm flex items-center gap-2 transition-all text-xs">
+            <BrainCircuit className="w-4 h-4 text-amber-300" /> Open Concept Mastery Hub
+          </Button>
+        </Link>
       </div>
 
-      {/* Summary Cards */}
-      <div className="grid grid-cols-1 sm:grid-cols-4 gap-6">
-        {[
-          { label: "Class Average", value: "83.2%", desc: "+2.4% vs last month", icon: TrendingUp, color: "text-[#16A34A] bg-[#EDF7EF]" },
-          { label: "Total Students Active", value: "42 Active", desc: "100% participation", icon: Users, color: "text-blue-600 bg-blue-50" },
-          { label: "Excellence Badges", value: "18 Issued", desc: "Awarded for top performance", icon: Award, color: "text-amber-600 bg-amber-50" },
-          { label: "Tests Analyzed", value: "8 Completed", desc: "Instant AI diagnostics done", icon: BookOpen, color: "text-purple-600 bg-purple-50" },
-        ].map((card, idx) => (
-          <div key={idx} className="bg-white rounded-2xl p-5 border border-gray-100 shadow-sm flex items-start gap-4 hover:shadow-md transition-shadow">
-            <div className={`w-10 h-10 rounded-lg flex items-center justify-center shrink-0 ${card.color}`}>
-              <card.icon className="w-5 h-5" />
-            </div>
-            <div>
-              <p className="text-xs font-semibold text-gray-500">{card.label}</p>
-              <p className="text-xl font-bold text-gray-800 mt-0.5">{card.value}</p>
-              <p className="text-[10px] text-gray-400 mt-1 font-medium">{card.desc}</p>
-            </div>
-          </div>
-        ))}
+      {/* Concept Mastery Callout Banner */}
+      <div className="bg-gradient-to-r from-emerald-900 to-green-800 p-6 rounded-3xl text-white shadow-sm flex flex-col sm:flex-row sm:items-center justify-between gap-4">
+        <div className="space-y-1">
+          <h3 className="text-lg font-extrabold flex items-center gap-2">
+            <TrendingUp className="w-5 h-5 text-emerald-300" /> New: Pedagogical Concept Mastery Analytics
+          </h3>
+          <p className="text-xs text-emerald-100 max-w-xl">
+            Go beyond simple percentage scores. View fine-grained concept diagnostics, student cohorts needing support, and launch 1-click AI remedial interventions.
+          </p>
+        </div>
+        <Link href="/dashboard/analytics">
+          <Button className="bg-white text-[#14532D] hover:bg-emerald-50 font-black text-xs px-5 py-2.5 rounded-xl shrink-0">
+            Explore Concept Analytics →
+          </Button>
+        </Link>
       </div>
 
-      {/* Main Reports Table Panel */}
+      {/* Assessments Summary Table */}
       <div className="bg-white rounded-3xl p-6 sm:p-8 border border-gray-100 shadow-sm space-y-6">
-        
-        {/* Filter controls */}
         <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4">
-          <div className="flex items-center gap-2">
-            <Filter className="w-4 h-4 text-gray-400" />
-            <span className="text-sm font-semibold text-gray-600">Filters:</span>
-            
-            <div className="relative">
-              <select 
-                value={selectedClass} 
-                onChange={(e) => setSelectedClass(e.target.value)}
-                className="appearance-none bg-cream border border-line rounded-xl px-4 py-2 pr-8 text-xs font-bold text-[#14532D] focus:outline-none focus:ring-2 focus:ring-green-500/20 cursor-pointer"
-              >
-                <option>Class 10-A</option>
-                <option>Class 10-B</option>
-                <option>Class 9 Science</option>
-              </select>
-              <ChevronDown className="w-3.5 h-3.5 text-gray-500 absolute right-3 top-1/2 -translate-y-1/2 pointer-events-none" />
-            </div>
+          <div>
+            <h2 className="text-lg font-black text-gray-900">Completed & Published Assessments</h2>
+            <p className="text-xs text-gray-500 mt-0.5">
+              Click &quot;View Item Diagnostics&quot; to inspect question error rates and student score distributions.
+            </p>
           </div>
-
           <div className="flex items-center gap-2 text-xs font-bold text-gray-400">
-            <Calendar className="w-4 h-4" />
-            Academic Year: 2026-27
+            <Calendar className="w-4 h-4" /> Academic Year 2026-27
           </div>
         </div>
 
-        {/* Table representation */}
-        <div className="overflow-x-auto">
-          <table className="w-full text-left border-collapse">
-            <thead>
-              <tr className="border-b border-gray-100 text-gray-500 text-xs font-extrabold uppercase tracking-wider">
-                <th className="py-4 px-4">Report Name</th>
-                <th className="py-4 px-4">Date Conducted</th>
-                <th className="py-4 px-4">Class Score Avg</th>
-                <th className="py-4 px-4">Submissions</th>
-                <th className="py-4 px-4">Assessment Type</th>
-                <th className="py-4 px-4 text-right">Status</th>
-              </tr>
-            </thead>
-            <tbody className="divide-y divide-gray-50">
-              {reports.map((rep, idx) => (
-                <tr key={idx} className="hover:bg-[#FDFBF7] transition-all text-sm group">
-                  <td className="py-4 px-4 font-bold text-gray-800 group-hover:text-[#14532D] transition-colors">{rep.name}</td>
-                  <td className="py-4 px-4 text-gray-500 font-semibold">{rep.date}</td>
-                  <td className="py-4 px-4">
-                    <span className="bg-[#EDF7EF] border border-[#AEDCBA] text-[#16A34A] text-xs font-bold px-2.5 py-1 rounded-full">
-                      {rep.avgScore}
-                    </span>
-                  </td>
-                  <td className="py-4 px-4 text-gray-600 font-medium">{rep.completed}</td>
-                  <td className="py-4 px-4 text-gray-400 font-semibold">{rep.type}</td>
-                  <td className="py-4 px-4 text-right">
-                    <span className="inline-flex items-center gap-1 text-xs font-bold text-emerald-600 bg-emerald-50 border border-emerald-100 rounded-full px-2 py-0.5">
-                      <Check className="w-3 h-3 stroke-[3]" /> {rep.status}
-                    </span>
-                  </td>
+        {loading ? (
+          <div className="py-12 text-center text-sm font-bold text-gray-500">
+            Loading assessment records...
+          </div>
+        ) : assessments.length === 0 ? (
+          <div className="py-12 text-center space-y-3">
+            <BookOpen className="w-10 h-10 text-gray-300 mx-auto" />
+            <p className="text-sm font-bold text-gray-600">No assessments created or completed yet.</p>
+            <Link href="/dashboard/assessments/create">
+              <Button className="bg-[#14532D] text-white text-xs font-bold px-4 py-2 rounded-xl mt-2">
+                Create First Assessment
+              </Button>
+            </Link>
+          </div>
+        ) : (
+          <div className="overflow-x-auto">
+            <table className="w-full text-left border-collapse">
+              <thead>
+                <tr className="border-b border-gray-100 text-gray-400 text-xs font-bold uppercase tracking-wider">
+                  <th className="py-3 px-4">Assessment Title</th>
+                  <th className="py-3 px-4">Curriculum</th>
+                  <th className="py-3 px-4">Type</th>
+                  <th className="py-3 px-4">Marks & Time</th>
+                  <th className="py-3 px-4">Status</th>
+                  <th className="py-3 px-4 text-right">Action</th>
                 </tr>
-              ))}
-            </tbody>
-          </table>
-        </div>
-
+              </thead>
+              <tbody className="divide-y divide-gray-50 text-sm">
+                {assessments.map((a) => (
+                  <tr key={a.id} className="hover:bg-[#FDFBF7] transition-all">
+                    <td className="py-4 px-4 font-bold text-gray-800">
+                      {a.title}
+                    </td>
+                    <td className="py-4 px-4 text-xs font-semibold text-gray-600">
+                      {a.grade_id} • {a.subject_id}
+                    </td>
+                    <td className="py-4 px-4 text-xs font-semibold text-gray-500">
+                      {a.assessment_type.replace(/_/g, " ")}
+                    </td>
+                    <td className="py-4 px-4 text-xs font-bold text-gray-700">
+                      {a.total_marks} Marks • {a.duration_minutes}m
+                    </td>
+                    <td className="py-4 px-4">
+                      <span className={`text-[11px] font-bold px-2.5 py-0.5 rounded-full ${
+                        a.status === "PUBLISHED" ? "bg-emerald-100 text-emerald-800" : "bg-gray-100 text-gray-700"
+                      }`}>
+                        {a.status}
+                      </span>
+                    </td>
+                    <td className="py-4 px-4 text-right">
+                      <Link href={`/dashboard/assessments/${a.id}/results`}>
+                        <Button
+                          size="sm"
+                          variant="outline"
+                          className="text-xs font-bold border-gray-200 hover:bg-gray-50 rounded-xl"
+                        >
+                          Item Diagnostics
+                        </Button>
+                      </Link>
+                    </td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        )}
       </div>
-
     </div>
   );
 }
