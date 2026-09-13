@@ -198,3 +198,13 @@ export const RemoteActionCreateSchema = z.object({
   action_type: RemoteActionTypeSchema,
   payload: z.record(z.string(), z.unknown()).default({}),
 });
+
+// Phase 4 Assessments
+export * from './assessment';
+
+// Phase 5 Academic Intelligence & Analytics
+export * from './analytics';
+
+// Phase 5 SaaS Billing & Subscriptions
+export * from './billing';
+
