@@ -78,12 +78,12 @@
 
 ---
 
-### TD-10: Automated Test Coverage
+#### TD-10: Automated Test Coverage
 - **Severity**: `LOW`
 - **Location**: Repository root
-- **Status**: **RESOLVED FOR UNIT/INTEGRATION IN PHASES 2, 3, 4, 5, & 6**
-- **Resolution**: Configured Vitest runner with 171 automated tests across 31 test files covering AI pipeline, database repositories, RLS policies, classroom state machines, assessment grading/security, mastery calculations, confidence ratings, difficulty analysis, gap state lifecycles, billing entitlements, state transitions, webhooks, data quality, and closed-loop interventions.
-- **Remaining Task**: End-to-end Playwright UI test suite scheduled for Phase 7.
+- **Status**: **RESOLVED FOR UNIT/INTEGRATION IN PHASES 2, 3, 4, 5, 6, 7 & 8**
+- **Resolution**: Configured Vitest runner with 267 automated tests across 49 test files covering AI pipeline, database repositories, RLS policies, classroom state machines, assessment grading/security, mastery calculations, confidence ratings, difficulty analysis, gap state lifecycles, billing entitlements, state transitions, webhooks, data quality, closed-loop interventions, rich content schemas, version snapshots, fail-closed media uploads, multi-channel exports, institutional RBAC, RLS boundary isolation, hierarchy schemas, reporting engines, academic aggregation, student privacy masking, cryptographic invitations, and cascading settings resolution.
+- **Remaining Task**: End-to-end Playwright UI test suite scheduled for Phase 9.
 
 ---
 
@@ -116,4 +116,36 @@
 - **Location**: `src/lib/repositories/interventions.ts`, `src/lib/services/mastery.ts`
 - **Status**: **RESOLVED IN PHASE 6**
 - **Resolution**: Closed the pedagogical loop by provisioning the `interventions` table, requiring teacher review (`DRAFT` $\to$ `APPROVED`), auto-generating a formal reassessment assessment and assignment (`assessments` + `assignments`), and automatically transitioning learning gaps from `IN_REMEDIATION` to `IMPROVING` (60-74%) and `RESOLVED` ($\ge 75\%$) upon submission of the reassessment.
+
+---
+
+### TD-15: Hardcoded Static Presentations in Smartboard Classroom
+- **Severity**: `HIGH`
+- **Location**: `src/app/[locale]/classroom/page.tsx`
+- **Status**: **RESOLVED IN PHASE 7**
+- **Resolution**: Replaced static presentation cards with polymorphic `SmartboardSlideViewer` component supporting 7 slide archetypes (`TITLE`, `CONTENT`, `IMAGE`, `DIAGRAM`, `QUESTION`, `ACTIVITY`, `SUMMARY`), fullscreen kiosk controls, formative question answer reveals, and authoritative Realtime classroom event synchronization.
+
+---
+
+### TD-16: Unvalidated Media Ingestion & Lack of Immutable Content Lineage
+- **Severity**: `HIGH`
+- **Location**: Storage and content management
+- **Status**: **RESOLVED IN PHASE 7**
+- **Resolution**: Deployed fail-closed storage service with magic byte inspection (JPEG, PNG, PDF, WebM, MP4), path traversal prevention, and 60-minute signed URLs. Implemented immutable version snapshotting on publish (`resource_versions`) with 1-click rollback, protecting active classroom sessions from live layout shifts.
+
+---
+
+### TD-17: Isolated Single-School Architecture Lacking Institutional Scale
+- **Severity**: `CRITICAL`
+- **Location**: Multi-school, network, district, and state governance
+- **Status**: **RESOLVED IN PHASE 8**
+- **Resolution**: Deployed multi-tier relational hierarchy (`states`, `districts`, `organizations`, `schools`), 6 PostgreSQL security definer functions, 12 RLS policies ensuring cross-tenant isolation and independent school privacy, 4-tier cascading settings inheritance, $N \ge 10$ student privacy protection, cryptographic single-use invitation tokens, 14 REST API endpoints, and comprehensive institutional portals.
+
+---
+
+### TD-18: Online-Only Mobile Dependency & Unreliable Classroom Connectivity
+- **Severity**: `CRITICAL`
+- **Location**: Mobile experience and low-connectivity rural/semi-urban Indian classrooms
+- **Status**: **RESOLVED IN PHASE 9**
+- **Resolution**: Built native React Native 0.74 + Expo SDK 51 mobile client (`mobile/`) with 5 SQLite storage tiers, transactional outbox sync engine with jittered exponential backoff (2–60s), deterministic conflict resolution matrix, downloadable NCERT Class Packs with SHA-256 tamper verification, masked offline assessment player, smartboard mobile remote co-pilot, hardware keychain session security, and shared device data wipe. Verified with 11 automated test suites (45 tests) bringing total repository test count to 312 tests passing 100%.
 
