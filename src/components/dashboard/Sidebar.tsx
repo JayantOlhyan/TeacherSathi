@@ -15,12 +15,14 @@ import {
   User,
   CheckSquare,
   BarChart3,
-  CreditCard
+  CreditCard,
+  Building2
 } from "lucide-react";
 import { AnimatePresence, motion } from "framer-motion";
 
 const navItems = [
   { name: "Dashboard", href: "/dashboard", icon: Home },
+  { name: "Institutions", href: "/admin/institutional", icon: Building2 },
   { name: "Assessments", href: "/dashboard/assessments", icon: CheckSquare },
   { name: "Analytics", href: "/dashboard/analytics", icon: BarChart3 },
   { name: "Billing", href: "/dashboard/admin/billing", icon: CreditCard },
