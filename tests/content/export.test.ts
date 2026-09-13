@@ -29,7 +29,7 @@ describe('Export System: 16:9 PDF, Vector SVG & Printables (Section 15)', () => 
 
     const { html, title } = exportService.exportPresentationToPdf(presentation);
 
-    expect(title).toBe('The Solar System');
+    expect(title).toBe('Solar System Exploration');
     expect(html).toContain('<!DOCTYPE html>');
     expect(html).toContain('page-break-after: always');
     expect(html).toContain('16in 9in landscape');
