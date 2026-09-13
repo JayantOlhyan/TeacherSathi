@@ -63,5 +63,38 @@
 
 ### Layer 8: Quality Assurance & Automated Testing
 - [x] **Test Runner Framework**: Configured Vitest test runner with path alias support (`vitest.config.mts`) and 100% offline mock execution. (Completed in Phase 2)
-- [x] **Comprehensive Test Suites**: 31 test files with 171 unit, schema, validator, pipeline, security, database, pairing, state machine, grading, mastery, confidence, difficulty, billing, webhook, data quality, and closed-loop intervention tests passing with 100% success rate. (Completed in Phase 6)
-- [ ] **End-to-End Test Suite**: Future Playwright tests validating the core user journeys (signup $\rightarrow$ kit generation $\rightarrow$ smartboard pairing $\rightarrow$ assessment scoring $\rightarrow$ concept mastery update $\rightarrow$ closed-loop reassessment). (Queued for Phase 7)
+- [x] **Comprehensive Test Suites**: 49 test files with 267 unit, schema, validator, pipeline, security, database, pairing, state machine, grading, mastery, confidence, difficulty, billing, webhook, data quality, content authoring, versioning, media upload, export, institutional RBAC, RLS, hierarchy, reporting, academic aggregation, privacy, and invitation tests passing with 100% success rate. (Completed in Phase 8)
+- [ ] **End-to-End Test Suite**: Future Playwright tests validating the core user journeys (signup $\rightarrow$ kit generation $\rightarrow$ smartboard pairing $\rightarrow$ assessment scoring $\rightarrow$ concept mastery update $\rightarrow$ closed-loop reassessment $\rightarrow$ institutional governance). (Queued for Phase 9)
+
+### Layer 9: Rich Content, Media & Smartboard Delivery Pipeline
+- [x] **Extended Resource Repository**: Extended canonical `resources` schema with `content` (JSONB), `version`, `validation_score`, `validation_errors` plus `resource_versions`, `resource_usage`, `media_assets`, `media_jobs`. (Completed in Phase 7)
+- [x] **Deterministic Readability & Quality Gate**: 100-point penalty system enforcing 75" smartboard readability bounds ($\le 60$ words, $\le 5$ bullets) and Hindi Devanagari script integrity. (Completed in Phase 7)
+- [x] **Fail-Closed Media Security**: Pre-signed uploads, path traversal sanitization, server-side magic byte inspection (JPEG, PNG, PDF, WebM, MP4), and 60-min signed URLs. (Completed in Phase 7)
+- [x] **Immutable Version Snapshots & 1-Click Rollback**: Zero-disruption snapshots on publish and active classroom presentation binding. (Completed in Phase 7)
+- [x] **Smartboard Kiosk Slide Viewer**: Polymorphic 7-archetype slide renderer with answer reveals, timers, and Realtime event synchronization. (Completed in Phase 7)
+- [x] **Teacher Resource Studio**: Multi-filter library, detailed scorecard view, interactive presentation editor, vector mind map canvas, and 10-archetype activity planner. (Completed in Phase 7)
+- [x] **Multi-Channel Export Engine**: 16:9 widescreen printable slide decks, A4 worksheets, and vector SVG mind maps. (Completed in Phase 7)
+
+### Layer 10: Scale, School Networks & Institutional Administration
+- [x] **Multi-Tier Relational Model**: Provisioned `states`, `districts`, `organizations`, and membership tables linking orthogonally to `schools`. (Completed in Phase 8)
+- [x] **Strict Tenant Isolation & Security Definers**: 6 PostgreSQL security definer functions and 12 RLS policies ensuring isolation across states, districts, and networks while preserving independent school privacy. (Completed in Phase 8)
+- [x] **Student Privacy by Design ($N \ge 10$)**: Minimum sample masking across all institutional summaries and exports, preventing individual student deanonymization. (Completed in Phase 8)
+- [x] **Cascading Governance Engine**: 4-tier inheritance engine (`Default` $\leftarrow$ `State` $\leftarrow$ `District` $\leftarrow$ `Organization` $\leftarrow$ `School`) resolving effective settings. (Completed in Phase 8)
+- [x] **Cryptographic Member Invitations**: Single-use high-entropy tokens (`crypto.randomBytes(32)`), SHA-256 hash storage, automatic expiry, and role provisioning. (Completed in Phase 8)
+- [x] **14 Institutional REST API Endpoints**: Directory, onboarding, overview KPIs, academic intelligence, adoption, resources, comparison, invitations, settings, and reports export. (Completed in Phase 8)
+- [x] **Institutional Web Portals**: Scope-aware overview dashboard, paginated school directory, academic hub, 2-10 school comparative matrix, invitations manager, and governance settings editor. (Completed in Phase 8)
+
+### Layer 11: Native Mobile, Offline Experience & Low-Connectivity Classrooms
+- [x] **Native Mobile Workspace**: Built dedicated React Native 0.74 + Expo SDK 51 application targeting Android (primary) and iOS. (Completed in Phase 9)
+- [x] **5-Tier Local Storage System**: Implemented SQLite-backed storage model separating static curriculum, class pack bundles, dynamic assessments, and outbox mutations with strict 300MB budget. (Completed in Phase 9)
+- [x] **Transactional Outbox Sync Engine**: Durable local queue with jittered exponential backoff (2s–60s), 5 retry bounds, and auto-dispatch upon reconnection. (Completed in Phase 9)
+- [x] **Deterministic Conflict Resolution Matrix**: Standardized resolution rules giving client authority on active student answers and server authority on final submissions, published curriculum, and classroom sequence. (Completed in Phase 9)
+- [x] **NCERT Offline Class Packs**: Complete chapter bundles (slides, mindmaps, activities, diagnostic quizzes) with SHA-256 tamper verification. (Completed in Phase 9)
+- [x] **Masked Offline Assessment Player**: Client-side countdown timer, question answer-key masking, and tamper-resistant sealed attempt submissions. (Completed in Phase 9)
+- [x] **Smartboard Mobile Remote Co-Pilot**: Pairing code / session consumer with slide forward/backward navigation and screen lock toggling. (Completed in Phase 9)
+- [x] **Push Notifications & Deep Link Routing**: Device token registration, unregister on logout, and role-authorized URI scheme (`teacher-sathi://`). (Completed in Phase 9)
+- [x] **Shared School Device Hygiene**: Hardware SecureStore session storage and instant user data wipe on logout. (Completed in Phase 9)
+- [x] **Mobile Automated Test Coverage**: 11 test suites (45 tests) in `tests/mobile/`, bringing total repository test count to 312 tests (60 files) with 100% passing rate. (Completed in Phase 9)
+
+
+
