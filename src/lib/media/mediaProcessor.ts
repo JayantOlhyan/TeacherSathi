@@ -39,7 +39,7 @@ export const mediaProcessor = {
 
     // SVG: Text XML check
     if (declaredMimeType === 'image/svg+xml') {
-      const header = String.fromCharCode(...buffer.slice(0, 50)).toLowerCase();
+      const header = Array.from(buffer.slice(0, 50)).map((b) => String.fromCharCode(b)).join('').toLowerCase();
       return header.includes('<svg') || header.includes('<?xml');
     }
 
