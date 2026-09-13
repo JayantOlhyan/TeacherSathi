@@ -6,7 +6,6 @@ import {
   BookOpen, 
   PlusCircle, 
   Search, 
-  Filter, 
   Play, 
   GitBranch, 
   Users, 
@@ -15,16 +14,10 @@ import {
   CheckCircle2, 
   AlertTriangle, 
   Trash2, 
-  Download, 
-  ExternalLink,
-  Sparkles,
-  UploadCloud,
-  ChevronRight,
-  MoreVertical,
-  Globe
+  Sparkles
 } from "lucide-react";
 import type { ResourceRecord } from "@/lib/repositories/resources";
-import type { ResourceType, ResourceStatus } from "@/lib/validations/resources";
+import type { ResourceType } from "@/lib/validations/resources";
 
 export default function ResourcesLibraryPage() {
   const [resources, setResources] = useState<ResourceRecord[]>([]);
@@ -461,7 +454,7 @@ export default function ResourcesLibraryPage() {
                   </div>
 
                   <div className="flex items-center gap-1">
-                    {!isPublished && (
+                    {!isPublished ? (
                       <button
                         onClick={() => handlePublish(res.id)}
                         disabled={actionLoading === res.id}
@@ -469,7 +462,16 @@ export default function ResourcesLibraryPage() {
                       >
                         Publish
                       </button>
-                    )}
+                    ) : res.status !== "ARCHIVED" ? (
+                      <button
+                        onClick={() => handleArchive(res.id)}
+                        disabled={actionLoading === res.id}
+                        className="px-2.5 py-1.5 rounded-lg hover:bg-amber-50 text-gray-400 hover:text-amber-700 text-xs font-semibold transition-all"
+                        title="Archive resource"
+                      >
+                        Archive
+                      </button>
+                    ) : null}
                     <button
                       onClick={() => handleDelete(res.id)}
                       disabled={actionLoading === res.id}
