@@ -10,10 +10,7 @@ import {
   Trash2, 
   Download, 
   CheckCircle2, 
-  AlertTriangle,
-  ZoomIn,
-  ZoomOut,
-  Sparkles
+  AlertTriangle
 } from "lucide-react";
 import type { MindMapContent, MindMapNode, MindMapEdge } from "@/lib/validations/resources";
 
@@ -52,6 +49,8 @@ export default function MindMapEditorPage({ params }: PageProps) {
             label: data.title || "Central Concept",
             type: "CONCEPT",
             color: "#059669",
+            x: 0,
+            y: 0,
           };
           setNodes([root]);
           setEdges([]);
@@ -112,12 +111,15 @@ export default function MindMapEditorPage({ params }: PageProps) {
       type: "SUB_CONCEPT",
       parent_id: selectedNodeId,
       color: "#2563eb",
+      x: 0,
+      y: 0,
     };
     const newEdge: MindMapEdge = {
       id: `edge-${selectedNodeId}-${newId}`,
       source: selectedNodeId,
       target: newId,
       label: "relates to",
+      style: "SOLID",
     };
 
     setNodes([...nodes, newNode]);
