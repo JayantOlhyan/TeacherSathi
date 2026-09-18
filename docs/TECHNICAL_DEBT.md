@@ -1,6 +1,6 @@
 # TeacherSathi — Technical Debt & Architectural Risk Register
 
-> **Status**: Comprehensive Living Audit (Updated through Phase 5)  
+> **Status**: Comprehensive Living Audit (Updated through Phase 10)  
 > **Rule**: Rigorous, unvarnished documentation of existing technical debt.
 
 ---
@@ -149,3 +149,58 @@
 - **Status**: **RESOLVED IN PHASE 9**
 - **Resolution**: Built native React Native 0.74 + Expo SDK 51 mobile client (`mobile/`) with 5 SQLite storage tiers, transactional outbox sync engine with jittered exponential backoff (2–60s), deterministic conflict resolution matrix, downloadable NCERT Class Packs with SHA-256 tamper verification, masked offline assessment player, smartboard mobile remote co-pilot, hardware keychain session security, and shared device data wipe. Verified with 11 automated test suites (45 tests) bringing total repository test count to 312 tests passing 100%.
 
+---
+
+### TD-19: Unindexed High-Frequency Query Paths & Large Scale Degradation
+- **Severity**: `HIGH`
+- **Location**: Database layer (`assessment_attempts`, `attempt_answers`, `student_concept_mastery`, `learning_gaps`, `classroom_events`)
+- **Status**: **RESOLVED IN PHASE 10**
+- **Resolution**: Deployed 10 composite B-tree performance indexes in `supabase/migrations/20260911000013_platform_hardening_and_dead_letters.sql` optimized for 10M+ assessments and 100M+ events. Configured 8s statement timeout budget and PgBouncer transaction-mode connection pooling.
+
+---
+
+### TD-20: Missing Centralized Multi-Tier Rate Limiting & Abuse Protection
+- **Severity**: `HIGH`
+- **Location**: API gateway and mutation endpoints
+- **Status**: **RESOLVED IN PHASE 10**
+- **Resolution**: Implemented in-memory sliding-window log rate limiter with 7 distinct boundaries (`AUTH`, `AI_GENERATE`, `ATTEMPT_AUTOSAVE`, `ATTEMPT_SUBMIT`, `MEDIA_UPLOAD`, `MOBILE_SYNC`, `ADMIN_ACTIONS`). Added heuristic abuse detector with 5-strike auth lockout (15-min freeze) and 5-second duplicate submission replay guard.
+
+---
+
+### TD-21: Silent AI Mock Fallback in Production & Unmetered Cost Ceilings
+- **Severity**: `HIGH`
+- **Location**: `src/lib/ai/providers/index.ts`, `src/lib/ai/resilience.ts`
+- **Status**: **RESOLVED IN PHASE 10**
+- **Resolution**: Enforced fail-closed policy (`assertProductionSafety()`) throwing hard 503 errors rather than silently generating mock AI completions when API keys are missing in production. Implemented daily INR spending caps per school (₹5,000) and teacher (₹200) with timeout guards.
+
+---
+
+### TD-22: Background Job Failures Lacking Dead-Letter Queue (DLQ)
+- **Severity**: `HIGH`
+- **Location**: Background pipelines (sync processing, media transcode, bulk report generation)
+- **Status**: **RESOLVED IN PHASE 10**
+- **Resolution**: Created `src/lib/jobs/deadLetterQueue.ts` providing standard job lifecycle, jittered exponential backoff (1s base, 2x factor), 3-retry bounds, and quarantine table `job_dead_letters` with full operator requeue and purge controls.
+
+---
+
+### TD-23: Unsanitized SVG XML Uploads & XSS/XXE Vulnerability
+- **Severity**: `HIGH`
+- **Location**: Storage ingestion and media processing (`src/lib/security/svgSanitizer.ts`)
+- **Status**: **RESOLVED IN PHASE 10**
+- **Resolution**: Built strict SVG XML sanitizer stripping `<script>`, `<foreignObject>`, inline `on*` event handlers, `javascript:` URIs, and `<!ENTITY>` external definitions before storage ingestion or client rendering.
+
+---
+
+### TD-24: Unstructured Console Logging & PII Exposure Risk
+- **Severity**: `MEDIUM`
+- **Location**: `src/lib/observability/logger.ts`, `src/lib/observability/metrics.ts`
+- **Status**: **RESOLVED IN PHASE 10**
+- **Resolution**: Implemented structured JSON logging with recursive PII scrubbing (redacting Aadhaar, 10-digit Indian phone numbers, emails, passwords, auth tokens, and API keys) and circular reference protection. Built in-memory telemetry metrics buffer tracking p50/p95/p99 latency percentiles and error distributions.
+
+---
+
+### TD-25: Monolithic Releases Lacking Hierarchical Feature Flags & Kill-Switches
+- **Severity**: `HIGH`
+- **Location**: Platform deployment and feature activation
+- **Status**: **RESOLVED IN PHASE 10**
+- **Resolution**: Built hierarchical feature flag engine (`src/lib/services/featureFlags.ts`) supporting scoping across `PLATFORM` $\to$ `STATE` $\to$ `DISTRICT` $\to$ `ORGANIZATION` $\to$ `SCHOOL`, deterministic percentage rollout hashing, explicit target whitelists, and emergency instant kill-switches. Provisioned Platform Operations Console (`/admin/operations`) with full audit logging.
