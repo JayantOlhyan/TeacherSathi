@@ -1,32 +1,56 @@
 "use client";
 
 import { useState, useEffect } from "react";
+import { usePathname } from "@/i18n/routing";
 import { Download, Sparkles, X, CheckCircle2 } from "lucide-react";
 
 export default function ExitIntentModal() {
+  const pathname = usePathname();
   const [isOpen, setIsOpen] = useState(false);
   const [hasTriggered, setHasTriggered] = useState(false);
 
+  // Only show on marketing / prospective routes, never interrupt authenticated workspaces or exams
+  const hideRoutes = ["/dashboard", "/admin", "/classroom", "/student", "/video", "/test", "/quiz", "/login", "/signup"];
+  const shouldHide = hideRoutes.some((route) => pathname === route || pathname?.startsWith(route));
+
   useEffect(() => {
+    if (typeof window === "undefined" || shouldHide) return;
+
+    const isDismissed = sessionStorage.getItem("sathi_exit_intent_dismissed") === "true";
+    if (isDismissed) {
+      setHasTriggered(true);
+      return;
+    }
+
     const handleMouseLeave = (e: MouseEvent) => {
       if (e.clientY <= 0 && !hasTriggered) {
         setIsOpen(true);
         setHasTriggered(true);
+        sessionStorage.setItem("sathi_exit_intent_dismissed", "true");
       }
     };
 
     document.addEventListener("mouseleave", handleMouseLeave);
     return () => document.removeEventListener("mouseleave", handleMouseLeave);
-  }, [hasTriggered]);
+  }, [hasTriggered, shouldHide]);
 
-  if (!isOpen) return null;
+  const handleClose = () => {
+    setIsOpen(false);
+    if (typeof window !== "undefined") {
+      sessionStorage.setItem("sathi_exit_intent_dismissed", "true");
+    }
+  };
+
+  if (shouldHide || !isOpen) return null;
+
 
   return (
     <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/70 backdrop-blur-sm p-4 animate-fadeIn">
       <div className="bg-white rounded-3xl p-6 sm:p-8 max-w-md w-full border-2 border-emerald-500 shadow-2xl space-y-5 text-gray-900 relative">
         <button
-          onClick={() => setIsOpen(false)}
+          onClick={handleClose}
           className="absolute top-5 right-5 p-2 text-gray-400 hover:text-gray-700 bg-gray-100 rounded-full transition-colors cursor-pointer"
+          aria-label="Close modal"
         >
           <X className="w-5 h-5" />
         </button>
@@ -59,7 +83,7 @@ export default function ExitIntentModal() {
         <button
           onClick={() => {
             alert("Downloading Free NCERT Class 10 Science Revision Kit Bundle PDF!");
-            setIsOpen(false);
+            handleClose();
           }}
           className="w-full py-4 rounded-xl bg-[#14532D] hover:bg-emerald-800 text-white font-bold text-sm shadow-md transition-all active:scale-95 cursor-pointer flex items-center justify-center gap-2"
         >
