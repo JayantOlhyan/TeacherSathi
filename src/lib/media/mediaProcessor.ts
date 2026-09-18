@@ -1,6 +1,7 @@
 import { SupabaseClient } from '@supabase/supabase-js';
 import { supabase as defaultClient } from '@/lib/supabase/client';
 import { MediaMetadata } from './types';
+import { isSvgClean } from '@/lib/security/svgSanitizer';
 
 export const mediaProcessor = {
   /**
@@ -37,10 +38,16 @@ export const mediaProcessor = {
       }
     }
 
-    // SVG: Text XML check
+    // SVG: Text XML and security threat check
     if (declaredMimeType === 'image/svg+xml') {
-      const header = Array.from(buffer.slice(0, 50)).map((b) => String.fromCharCode(b)).join('').toLowerCase();
-      return header.includes('<svg') || header.includes('<?xml');
+      const header = Array.from(buffer.slice(0, 100)).map((b) => String.fromCharCode(b)).join('').toLowerCase();
+      if (!header.includes('<svg') && !header.includes('<?xml')) return false;
+      try {
+        const text = new TextDecoder('utf-8', { fatal: false }).decode(buffer);
+        return isSvgClean(text);
+      } catch {
+        return false;
+      }
     }
 
     return true;
