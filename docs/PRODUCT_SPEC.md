@@ -1,7 +1,7 @@
 # TeacherSathi — Product Specification
 
-> **Version**: 1.9.0-phase9  
-> **Status**: Verified Production Specification (Through Phase 9)  
+> **Version**: 1.10.0-phase10  
+> **Status**: Verified Production Specification (Through Phase 10)  
 > **Target Audience**: Product Architects, Engineering Leads, Full-Stack Developers  
 
 ---
@@ -128,4 +128,56 @@ TeacherSathi extends the institutional teaching platform directly into teachers'
 7. **Smartboard Mobile Remote Co-Pilot**: Pairing code / session consumer with slide forward/backward navigation and screen lock toggling.
 8. **Push Notifications & Deep Link Routing**: Device token registration, unregister on logout, and role-authorized URI scheme (`teacher-sathi://`).
 9. **Shared School Device Data Hygiene**: Hardware SecureStore session storage and instant user data wipe on logout.
+
+---
+
+## 9. Platform Intelligence, Scale Hardening & Government Deployment (Phase 10)
+
+Phase 10 transforms TeacherSathi into an operationally resilient, observable, secure, and performant institutional platform ready for state and national government-scale deployments:
+
+1. **High-Performance Capacity Architecture**:
+   - Engineered and modeled for baseline scale: **10,000 schools**, **100,000 teachers**, **1,000,000 students**, **10,000,000+ assessments**, and **100,000,000+ telemetry/audit events**.
+   - Deployed 10 composite B-tree indexes across high-traffic tables (`assessment_attempts`, `attempt_answers`, `student_concept_mastery`, `learning_gaps`, `classroom_events`, `job_dead_letters`).
+   - Strict 8-second database statement timeout budget and PgBouncer transaction-mode connection pooling (100–250 pooled backend connections serving thousands of client requests).
+2. **Global Standardized Error Model**:
+   - Strongly typed `ApiError` class with standard machine-readable codes (`UNAUTHORIZED`, `RATE_LIMIT_EXCEEDED`, `SERVICE_DEGRADED`, etc.).
+   - Standardized `x-request-id` correlation IDs propagated end-to-end across mobile clients, web browsers, API route handlers, background tasks, and database queries for instant distributed tracing.
+3. **Centralized Multi-Tier Rate Limiting & Abuse Protection**:
+   - Sliding-window log rate limiter managing 7 distinct system boundaries:
+     - `AUTH`: 5 requests / 60 seconds (prevents credential stuffing)
+     - `AI_GENERATE`: 10 requests / 60 seconds (prevents LLM quota exhaustion)
+     - `ATTEMPT_AUTOSAVE`: 60 requests / 60 seconds (accommodates high-frequency student test autosaves)
+     - `ATTEMPT_SUBMIT`: 3 requests / 60 seconds (prevents duplicate submission races)
+     - `MEDIA_UPLOAD`: 10 requests / 60 seconds (prevents bandwidth saturation)
+     - `MOBILE_SYNC`: 30 requests / 60 seconds (supports bursts of offline outbox syncs)
+     - `ADMIN_ACTIONS`: 20 requests / 60 seconds (protects institutional bulk mutations)
+   - Heuristic abuse guards: 5 consecutive failed login attempts trigger an automatic 15-minute lockout; identical submission attempts within 5 seconds are blocked as replays.
+4. **Strict SVG XML Sanitizer**:
+   - Multi-stage XML parser and sanitizer stripping malicious `<script>`, `<foreignObject>`, inline `on*` event handlers, `javascript:` protocol links, and XXE `<!ENTITY>` declarations before asset ingestion or rendering.
+5. **Background Job Dead-Letter Queue (DLQ)**:
+   - Resilient background task lifecycle with jittered exponential backoff (1s base, 2x multiplier, random jitter) and max 3 retry attempts.
+   - Automatically quarantines persistently failing tasks to `job_dead_letters` table.
+   - Provides operator inspection, manual requeueing, and bulk purge capabilities via `/admin/operations`.
+6. **Production AI Resilience & Fail-Closed Safety**:
+   - Hard fail-closed policy (`assertProductionSafety()`) throwing explicit 503 Service Unavailable errors rather than silently generating mock answers in production when credentials are missing or revoked.
+   - Daily spending ceilings in INR: ₹5,000/day per school and ₹200/day per teacher.
+   - Hard timeout enforcement (15s per generation) preventing thread pool hanging.
+7. **Structured Machine-Readable Observability**:
+   - High-throughput JSON logging (`logger.ts`) with recursive PII/secret redaction for Aadhaar numbers, Indian mobile numbers, email addresses, passwords, Bearer tokens, and API keys.
+   - In-memory telemetry buffer tracking request latency percentiles ($p_{50}$, $p_{95}$, $p_{99}$), error rate distributions, DLQ depth, and cumulative AI expenditure in INR.
+8. **Container Health Check Probes**:
+   - `/api/health`: Comprehensive system probe returning deep subsystem health (`LIVE`, `READY`, `DEGRADED`) across PostgreSQL, AI providers, media storage, and DLQ.
+   - `/api/health/live`: Lightweight container liveness probe (200 OK, `LIVE`).
+   - `/api/health/ready`: Traffic ingress readiness probe testing live database connectivity.
+9. **Hierarchical Feature Flags & Emergency Kill-Switches**:
+   - 5-tier hierarchical scoping (`PLATFORM` $\to$ `STATE` $\to$ `DISTRICT` $\to$ `ORGANIZATION` $\to$ `SCHOOL`).
+   - Deterministic SHA-256 percentage rollout hashing (0–100%) and explicit entity target whitelists.
+   - Global emergency kill-switch capability for immediate feature disabling without redeployment.
+10. **Platform Operations Console (`/admin/operations`)**:
+    - Dedicated web console for SREs and platform administrators featuring real-time health scorecards, subsystem status cards, DLQ inspection with 1-click retry and purge, and live feature flag toggles with immutable operator audit logging.
+11. **Data Governance Aligned with DPDP Act 2023 & Disaster Recovery**:
+    - Rigorous student data privacy governance with authoritative permanence for academic records (attempts, grades, certificates never deleted on subscription expiration).
+    - Clear retention schedules for ephemeral logs (30 days), dead letters (14 days), and raw telemetry (90 days).
+    - Disaster recovery architecture targeting **RPO $\le 15$ minutes** and **RTO $\le 2$ hours** via continuous PostgreSQL WAL streaming and daily physical base snapshots.
+
 
