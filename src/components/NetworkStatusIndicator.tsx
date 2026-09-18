@@ -46,8 +46,8 @@ export default function NetworkStatusIndicator() {
 
   return (
     <div 
-      className={`fixed bottom-24 right-4 z-50 transition-all duration-300 transform ${
-        showNotification ? "translate-y-0 opacity-100" : "translate-y-4 opacity-0 pointer-events-none"
+      className={`fixed top-5 left-1/2 -translate-x-1/2 z-50 transition-all duration-300 transform pointer-events-auto ${
+        showNotification ? "translate-y-0 opacity-100" : "-translate-y-4 opacity-0 pointer-events-none"
       }`}
     >
       {!isOnline ? (
