@@ -1,6 +1,6 @@
 # TeacherSathi — Production Gaps Inventory
 
-> **Status**: Living Production Audit (Updated through Phase 5)  
+> **Status**: Living Production Audit (Updated through Phase 10)  
 > **Purpose**: Definitive checklist of missing production systems required to graduate from MVP Prototype to Production Reality.
 
 ---
@@ -95,6 +95,19 @@
 - [x] **Push Notifications & Deep Link Routing**: Device token registration, unregister on logout, and role-authorized URI scheme (`teacher-sathi://`). (Completed in Phase 9)
 - [x] **Shared School Device Hygiene**: Hardware SecureStore session storage and instant user data wipe on logout. (Completed in Phase 9)
 - [x] **Mobile Automated Test Coverage**: 11 test suites (45 tests) in `tests/mobile/`, bringing total repository test count to 312 tests (60 files) with 100% passing rate. (Completed in Phase 9)
+- [ ] **End-to-End Test Suite**: Future Playwright tests validating the core mobile-to-web flows. (Queued)
 
-
-
+### Layer 12: Platform Intelligence, Scale Hardening & Government Deployment
+- [x] **Database Scale Audit & Composite Indexing**: Deployed 10 composite performance indexes across high-traffic tables (`assessment_attempts`, `attempt_answers`, `student_concept_mastery`, `learning_gaps`, `classroom_events`, `job_dead_letters`). Added connection pooling guidance and 8s statement timeouts. (Completed in Phase 10)
+- [x] **Global Standardized Error Model**: Provisioned `ApiError` class, `createErrorResponse()`, correlation IDs (`x-request-id`) propagation across client/server/database, and structured RFC-compliant JSON responses. (Completed in Phase 10)
+- [x] **Centralized Multi-Tier Rate Limiting**: Built in-memory sliding-window log limiter with 7 distinct boundaries (`AUTH`, `AI_GENERATE`, `ATTEMPT_AUTOSAVE`, `ATTEMPT_SUBMIT`, `MEDIA_UPLOAD`, `MOBILE_SYNC`, `ADMIN_ACTIONS`) returning standard `RateLimit-*` and `Retry-After` headers. (Completed in Phase 10)
+- [x] **Heuristic Abuse & Replay Protection**: Provisioned automated 5-strike auth lockout (15-min freeze) and 5-second duplicate submission replay guard. (Completed in Phase 10)
+- [x] **Strict SVG XML Sanitizer**: Built anti-XSS and anti-XXE sanitizer stripping `<script>`, `<foreignObject>`, inline `on*` event handlers, `javascript:` URIs, and `<!ENTITY>` declarations before asset ingestion or rendering. (Completed in Phase 10)
+- [x] **Background Job Dead-Letter Queue (DLQ)**: Built reliable job lifecycle engine with jittered exponential backoff, max retry bounds (3 attempts), automatic quarantine to `job_dead_letters`, and operator retry/purge management. (Completed in Phase 10)
+- [x] **Production AI Resilience & Fail-Closed Guard**: Hardened AI provider factory to fail closed in production (disabling mock fallbacks), enforced strict timeout bounds, and implemented INR budget ceilings per school (₹5,000/day) and teacher (₹200/day). (Completed in Phase 10)
+- [x] **Structured JSON Logging with PII Scrubbing**: Deployed `logger.ts` producing machine-readable JSON with recursive redaction of Aadhaar numbers, phone numbers, email addresses, passwords, tokens, and API keys. (Completed in Phase 10)
+- [x] **Platform Telemetry & Metrics Buffer**: Deployed in-memory telemetry buffer tracking request latency percentiles (p50, p95, p99), error counters, DLQ depth, and cumulative AI costs in INR. (Completed in Phase 10)
+- [x] **Tri-State Health Check Probes**: Deployed `/api/health` (deep dependency probe), `/api/health/live` (Kubernetes liveness probe), and `/api/health/ready` (Kubernetes readiness probe). (Completed in Phase 10)
+- [x] **Hierarchical Feature Flags Engine**: Built multi-tier flag evaluation (`PLATFORM` $\to$ `STATE` $\to$ `DISTRICT` $\to$ `ORGANIZATION` $\to$ `SCHOOL`) with deterministic percentage hashing, target ID overrides, and emergency instant kill-switches. (Completed in Phase 10)
+- [x] **Platform Operations Console**: Built admin interface (`/admin/operations`) and supporting APIs for real-time telemetry inspection, DLQ quarantine management, and feature flag controls with audit logging. (Completed in Phase 10)
+- [x] **Platform Hardening Test Suites**: 12 dedicated automated test suites (45 tests) in `tests/platform/`, bringing total repository test count to 357 tests (72 test suites) passing with 100% success rate. (Completed in Phase 10)
