@@ -1,11 +1,37 @@
 "use client";
 
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
+import { usePathname } from "@/i18n/routing";
 import { X } from "lucide-react";
 
 export default function WhatsAppChatWidget() {
-  const [showTooltip, setShowTooltip] = useState(true);
+  const pathname = usePathname();
+  const [showTooltip, setShowTooltip] = useState(false);
   const whatsappUrl = "https://wa.me/919667344125?text=Hello%20Teacher%20Sathi%20Team%2C%20I%20need%20assistance%20with%20creating%20NCERT%20lesson%20kits.";
+
+  // Hide on distraction-free classroom presentation and examination pages
+  const hideRoutes = ["/classroom", "/video", "/test", "/quiz"];
+  const shouldHide = hideRoutes.some((route) => pathname === route || pathname?.startsWith(route));
+
+  useEffect(() => {
+    if (typeof window === "undefined" || shouldHide) return;
+    const isDismissed = sessionStorage.getItem("sathi_support_tooltip_dismissed") === "true";
+    if (!isDismissed) {
+      const timer = setTimeout(() => {
+        setShowTooltip(true);
+      }, 3500);
+      return () => clearTimeout(timer);
+    }
+  }, [shouldHide]);
+
+  const handleDismissTooltip = () => {
+    setShowTooltip(false);
+    if (typeof window !== "undefined") {
+      sessionStorage.setItem("sathi_support_tooltip_dismissed", "true");
+    }
+  };
+
+  if (shouldHide) return null;
 
   return (
     <div className="fixed bottom-20 right-4 sm:bottom-6 sm:right-6 z-40 flex flex-col items-end gap-2 pointer-events-auto">
@@ -15,10 +41,10 @@ export default function WhatsAppChatWidget() {
           <div className="w-8 h-8 rounded-full bg-emerald-100 flex items-center justify-center shrink-0 text-emerald-800 font-bold text-xs">
             👩‍🏫
           </div>
-          <div className="space-y-0.5 text-left">
+          <div className="space-y-0.5 text-left flex-1 min-w-0">
             <div className="flex items-center gap-1.5">
               <span className="text-[11px] font-black text-slate-900">Sathi Teacher Desk</span>
-              <span className="flex h-1.5 w-1.5 relative">
+              <span className="flex h-1.5 w-1.5 relative shrink-0">
                 <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75" />
                 <span className="relative inline-flex rounded-full h-1.5 w-1.5 bg-emerald-500" />
               </span>
@@ -28,8 +54,8 @@ export default function WhatsAppChatWidget() {
             </p>
           </div>
           <button 
-            onClick={() => setShowTooltip(false)}
-            className="text-slate-400 hover:text-slate-600 p-0.5 -mr-1 -mt-1 cursor-pointer"
+            onClick={handleDismissTooltip}
+            className="text-slate-400 hover:text-slate-600 p-0.5 -mr-1 -mt-1 cursor-pointer shrink-0 transition-colors"
             aria-label="Close notification"
           >
             <X className="w-3.5 h-3.5" />
@@ -66,3 +92,4 @@ export default function WhatsAppChatWidget() {
     </div>
   );
 }
+
