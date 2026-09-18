@@ -81,6 +81,13 @@
 │ Status: COMPLETE                                            │
 │ Focus: React Native, Expo SQLite, offline packs, sync engine│
 └─────────────────────────────────────────────────────────────┘
+                               │
+                               ▼
+┌─────────────────────────────────────────────────────────────┐
+│ PHASE 10: Platform Intelligence, Scale Hardening & Gov Deploy│
+│ Status: COMPLETE                                            │
+│ Focus: Reliability, DLQ, Rate Limiting, Threat Model, SRE   │
+└─────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -206,4 +213,23 @@
 - Bilingual English and Hindi localization (`mobile/src/localization/index.ts`).
 - 45 automated mobile tests across 11 test files in `tests/mobile/`.
 - 312 total automated tests across 60 test files passing with 100% success rate. 0 lint warnings, 0 type errors, clean Next.js production build.
+
+### Phase 10: Platform Intelligence, Scale Hardening & Government Deployment (Completed)
+- Production PostgreSQL migration `20260911000013_platform_hardening_and_dead_letters.sql`:
+  - 10 composite performance indexes for point lookups across attempts, answers, mastery, events, and jobs.
+  - `job_dead_letters` table for quarantined background jobs with operator requeue/purge controls.
+  - `feature_flags` table with hierarchical scopes (`PLATFORM`, `STATE`, `DISTRICT`, `ORGANIZATION`, `SCHOOL`) and percentage rollouts.
+  - `operator_audit_logs` table for immutable recording of all administrative interventions.
+- Standardized Global Error Model (`src/lib/errors/apiError.ts`) with safe correlation ID propagation (`x-request-id`).
+- Centralized sliding-window rate limiter (`src/lib/security/rateLimiter.ts`) protecting 7 critical boundaries (`AUTH`, `AI_GENERATE`, `ATTEMPT_AUTOSAVE`, `ATTEMPT_SUBMIT`, `MEDIA_UPLOAD`, `MOBILE_SYNC`, `ADMIN_ACTIONS`).
+- Heuristic abuse protection (`src/lib/security/abuseDetector.ts`): 5-strike progressive auth lockouts and 5-second submission replay guards.
+- Strict SVG XML sanitizer (`src/lib/security/svgSanitizer.ts`) blocking stored XSS, script injection, and XXE attacks across media uploads and exports.
+- Production AI fail-closed enforcement (`src/lib/ai/resilience.ts` & `src/lib/ai/providers/index.ts`) preventing synthetic mock fallbacks in production, with daily INR budget ceilings.
+- Structured machine-readable JSON logging (`src/lib/observability/logger.ts`) with PII and secret scrubbing.
+- Telemetry & metrics collector (`src/lib/observability/metrics.ts`) with latency percentiles (p50, p95, p99) and queue tracking.
+- System health endpoints: `/api/health`, `/api/health/live`, `/api/health/ready`.
+- Platform Operations Console (`/admin/operations`) with live telemetry, DLQ job manager, and feature flag controls.
+- 17 government-grade architecture, threat model, SLA, and disaster recovery documents in `docs/`.
+- 12 new automated test suites in `tests/platform/` covering rate limiting, abuse, DLQ, AI resilience, SVG security, feature flags, load simulation, and chaos testing.
+- **357 total automated tests across 72 test suites passing with 100% success rate**. 0 lint warnings, 0 type errors, clean Next.js production build.
 
