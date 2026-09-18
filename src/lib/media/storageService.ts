@@ -1,5 +1,6 @@
 import { SupabaseClient } from '@supabase/supabase-js';
 import { supabase as defaultClient } from '@/lib/supabase/client';
+import { sanitizeSvg } from '@/lib/security/svgSanitizer';
 
 export type StorageBucket = 'teacher-resources' | 'presentation-assets' | 'video-assets' | 'thumbnails';
 
@@ -54,6 +55,16 @@ export const storageService = {
     if (sizeBytes > maxAllowed) {
       const maxMb = Math.round(maxAllowed / (1024 * 1024));
       throw new Error(`File size (${(sizeBytes / (1024 * 1024)).toFixed(1)}MB) exceeds maximum allowed for bucket ${bucket} (${maxMb}MB).`);
+    }
+  },
+
+  /**
+   * Strictly validates SVG XML to prevent XSS, script injection, and XXE vulnerabilities.
+   */
+  validateSvgContent(rawSvg: string): void {
+    const result = sanitizeSvg(rawSvg);
+    if (!result.isValid || result.threatsDetected.length > 0) {
+      throw new Error(`Unsafe SVG content rejected: ${result.threatsDetected.join('; ')}`);
     }
   },
 
