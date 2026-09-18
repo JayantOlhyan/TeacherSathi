@@ -76,5 +76,17 @@
 | **Hardware SecureStore Auth Session** | `mobile/src/services/authService.ts` | IMPLEMENTED | Real Keychain Storage & Shared Wipe | `expo-secure-store` | Hardware Keystore | No |
 | **Mobile App Version Check Gate** | `src/app/api/mobile/version-check` | IMPLEMENTED | Real Semver Gating & UPDATE_REQUIRED | Supabase `app_version_configs` | Next.js App Router | No |
 | **Mobile Automated Test Suite** | `tests/mobile/*` (11 test files) | IMPLEMENTED | Vitest Runner (45 tests) | Headless Mock & SQLite Fixtures | Vitest | No |
-| **Total Automated Regression Suite** | Repository root (60 test files) | IMPLEMENTED | Vitest Runner (312 tests passing) | Full Platform Test Suites | Vitest | No |
+| **Global Error Model & Correlation IDs**| `src/lib/errors/apiError.ts` | IMPLEMENTED | Real ApiError Hierarchy & x-request-id | Global Error Handler & Middleware | TypeScript | No |
+| **Structured JSON Logger & Redaction** | `src/lib/observability/logger.ts` | IMPLEMENTED | Machine-readable JSON + PII Redaction | Console stream / centralized aggregator | TypeScript | No |
+| **Telemetry & Latency Histograms** | `src/lib/observability/metrics.ts` | IMPLEMENTED | Rolling p50/p95/p99 + INR Cost Tracker | In-memory rolling buffer | TypeScript | No |
+| **Centralized Multi-Tier Rate Limiting**| `src/lib/security/rateLimiter.ts` | IMPLEMENTED | Sliding-Window 7 Security Boundaries | Memory / Redis-ready Adapter | TypeScript | No |
+| **Heuristic Abuse & Replay Protection**| `src/lib/security/abuseDetector.ts` | IMPLEMENTED | 5-Strike Lockout & 5s Replay Detection | Client IPs / Hashes | TypeScript | No |
+| **Strict SVG Sanitizer (Anti-XSS/XXE)**| `src/lib/security/svgSanitizer.ts` | IMPLEMENTED | XML Entity & Script Tag Neutralizer | Regex & Tag Parser | TypeScript | No |
+| **Background Job DLQ & Backoff** | `src/lib/jobs/deadLetterQueue.ts` | IMPLEMENTED | 3 Retries + Exponential Jitter + DLQ | PostgreSQL `job_dead_letters` | Supabase SSR | No |
+| **AI Provider Fail-Closed Engine** | `src/lib/ai/resilience.ts` | IMPLEMENTED | Production Fail-Closed + Quota Guards | Gemini / Anthropic APIs | TypeScript | No |
+| **System Health Check Probes** | `src/app/api/health/*` (3 routes) | IMPLEMENTED | /health, /health/live, /health/ready | PostgreSQL + Telemetry Collector | Next.js App Router | No |
+| **Hierarchical Feature Flags Engine** | `src/lib/services/featureFlags.ts` | IMPLEMENTED | 5 Scopes + Percentage Hash Rollout | PostgreSQL `feature_flags` | Supabase SSR | No |
+| **Platform Operations Console UI** | `src/app/[locale]/admin/operations` | IMPLEMENTED | Restricted Operator Control Console | `/api/admin/operations/*` | Lucide, Tailwind | No |
+| **Platform Test Suite (Phase 10)** | `tests/platform/*` (12 test files) | IMPLEMENTED | Vitest Runner (45 tests) | Unit, Load, Chaos & Security Fixtures | Vitest | No |
+| **Total Automated Regression Suite** | Repository root (72 test files) | IMPLEMENTED | Vitest Runner (357 tests passing) | Full Platform Test Suites (Phases 0-10)| Vitest | No |
 
