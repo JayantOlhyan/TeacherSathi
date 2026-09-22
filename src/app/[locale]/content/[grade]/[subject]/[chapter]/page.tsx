@@ -117,15 +117,17 @@ export default function ChapterHubPage({ params }: { params: ChapterPageParams }
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdFaq) }}
       />
 
-      {/* Top Breadcrumb Context */}
-      <div className="flex items-center gap-2 text-xs font-bold text-gray-400 pt-4">
-        <Link href="/content" className="hover:text-gray-600 transition-colors">NCERT Library</Link>
-        <ChevronRight className="w-3.5 h-3.5" />
-        <Link href={`/content/${grade}`} className="hover:text-gray-600 transition-colors">{cleanGrade}</Link>
-        <ChevronRight className="w-3.5 h-3.5" />
-        <Link href={`/content/${grade}/${subject}`} className="hover:text-gray-600 transition-colors">{cleanSubjectName}</Link>
-        <ChevronRight className="w-3.5 h-3.5" />
-        <span className="text-gray-700">Ch {cleanChapterNum}</span>
+      {/* Top Breadcrumb Context (UX-016) */}
+      <div className="flex items-center gap-2 text-xs font-bold text-gray-500 pt-4 flex-wrap">
+        <Link href="/dashboard" className="hover:text-emerald-800 transition-colors">Dashboard</Link>
+        <ChevronRight className="w-3.5 h-3.5 text-gray-400" />
+        <Link href="/content" className="hover:text-emerald-800 transition-colors">Curriculum</Link>
+        <ChevronRight className="w-3.5 h-3.5 text-gray-400" />
+        <Link href={`/content/${grade}`} className="hover:text-emerald-800 transition-colors">{cleanGrade}</Link>
+        <ChevronRight className="w-3.5 h-3.5 text-gray-400" />
+        <Link href={`/content/${grade}/${subject}`} className="hover:text-emerald-800 transition-colors">{cleanSubjectName}</Link>
+        <ChevronRight className="w-3.5 h-3.5 text-gray-400" />
+        <span className="text-gray-800 font-extrabold">Ch {cleanChapterNum}</span>
       </div>
 
       {/* Chapter Workspace Main Title Card */}
