@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import { Tv, Plus, CheckCircle, ShieldCheck, AlertCircle } from "lucide-react";
+import { AlertDialog } from "@/components/ui/Dialog";
 
 interface SmartboardDevice {
   deviceId: string;
@@ -44,6 +45,7 @@ export default function SmartboardDevicesPage() {
   const [newDeviceName, setNewDeviceName] = useState("");
   const [newRoomNumber, setNewRoomNumber] = useState("");
   const [newSchoolId, setNewSchoolId] = useState("UDISE-060201");
+  const [alertMsg, setAlertMsg] = useState<{ isOpen: boolean; message: string } | null>(null);
 
   const handleRegisterDevice = (e: React.FormEvent) => {
     e.preventDefault();
@@ -132,7 +134,7 @@ export default function SmartboardDevicesPage() {
                 <th className="px-6 py-4">School ID</th>
                 <th className="px-6 py-4">Room Number</th>
                 <th className="px-6 py-4">Status & Telemetry</th>
-                <th className="px-6 py-4 text-right">Phase 11 Admin Actions</th>
+                <th className="px-6 py-4 text-right">Device Actions</th>
               </tr>
             </thead>
             <tbody className="divide-y divide-gray-100 font-medium">
@@ -172,7 +174,10 @@ export default function SmartboardDevicesPage() {
                       onChange={(e) => {
                         const action = e.target.value;
                         if (action) {
-                          alert(`Phase 11 Command: [${action.toUpperCase()}] sent to ${device.deviceId}`);
+                          setAlertMsg({
+                            isOpen: true,
+                            message: `Device command [${action.toUpperCase()}] successfully dispatched to ${device.deviceId}.`,
+                          });
                           e.target.value = "";
                         }
                       }}
@@ -207,7 +212,7 @@ export default function SmartboardDevicesPage() {
         <div className="flex items-center justify-between border-b border-white/20 pb-3">
           <div className="flex items-center gap-2">
             <ShieldCheck className="w-6 h-6 text-amber-400" />
-            <h3 className="text-lg font-black font-serif">Phase 13 — Security & Encryption Architecture</h3>
+            <h3 className="text-lg font-black font-serif">Hardware Security & Encryption Architecture</h3>
           </div>
           <span className="text-xs font-mono font-bold bg-amber-400 text-gray-950 px-3 py-1 rounded-full">
             Zero-Trust Protected
@@ -305,6 +310,14 @@ export default function SmartboardDevicesPage() {
         </div>
       )}
 
+      {/* Device Command Feedback Modal (UX-010) */}
+      <AlertDialog
+        isOpen={!!alertMsg?.isOpen}
+        onClose={() => setAlertMsg(null)}
+        title="Smartboard Telemetry"
+        message={alertMsg?.message || ""}
+        variant="info"
+      />
     </div>
   );
 }
