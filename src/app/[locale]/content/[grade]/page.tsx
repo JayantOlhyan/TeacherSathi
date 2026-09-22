@@ -118,8 +118,17 @@ export default function ClassContentPage({ params }: { params: { grade: string }
   }, [activeSubject, searchQuery]);
 
   return (
-    <div className="max-w-7xl mx-auto space-y-8 pb-16 relative">
+    <div className="max-w-7xl mx-auto space-y-6 pb-16 relative">
       
+      {/* Top Breadcrumb Context (UX-016) */}
+      <div className="flex items-center gap-2 text-xs font-bold text-gray-500 pt-1">
+        <Link href="/dashboard" className="hover:text-emerald-800 transition-colors">Dashboard</Link>
+        <ChevronRight className="w-3.5 h-3.5 text-gray-400" />
+        <Link href="/content" className="hover:text-emerald-800 transition-colors">Curriculum</Link>
+        <ChevronRight className="w-3.5 h-3.5 text-gray-400" />
+        <span className="text-gray-800 font-extrabold">{activeClass}</span>
+      </div>
+
       {/* NCERT Header banner */}
       <div className="bg-gradient-to-br from-[#1E291E] to-[#14532D] text-white p-8 rounded-2xl shadow-lg space-y-4 relative overflow-hidden">
         <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-white/10 text-xs font-semibold text-emerald-300">
