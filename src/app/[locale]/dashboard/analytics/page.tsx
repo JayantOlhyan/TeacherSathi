@@ -371,7 +371,7 @@ export default function TeacherAnalyticsPage() {
             <span className="bg-emerald-50 text-emerald-800 text-xs font-black uppercase tracking-wider px-3 py-1 rounded-lg border border-emerald-200/60">
               Academic Intelligence
             </span>
-            <span className="text-xs font-bold text-emerald-700">Phase 6 Production Engine</span>
+            <span className="text-xs font-bold text-emerald-700">Real-Time Insights</span>
           </div>
           <h1 className="text-2xl sm:text-3xl font-black text-gray-900 mt-2">
             Class Diagnostic, Concept Mastery & Intervention Hub
