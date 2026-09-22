@@ -13,7 +13,6 @@ import {
   PenTool,
   BarChart3,
   Send,
-  Loader2,
   Lightbulb,
   ArrowRight,
   PlusCircle
@@ -24,6 +23,7 @@ import { getChapterResources, type TeachingIntent } from "@/lib/data/chapterReso
 import { ResourceCard } from "@/components/resources/ResourceCard";
 import { ResourcePreviewModal } from "@/components/resources/ResourcePreviewModal";
 import type { StoredResourceItem } from "@/lib/services/recentResources";
+import { SaathiPanel, SaathiTrigger } from "@/components/saathi";
 
 interface ChapterWorkspaceClientProps {
   grade: string;
@@ -45,13 +45,15 @@ export default function ChapterWorkspaceClient({
 }: ChapterWorkspaceClientProps) {
   const [isProModalOpen, setIsProModalOpen] = useState(false);
   const [saathiQuery, setSaathiQuery] = useState("");
-  const [saathiResponse, setSaathiResponse] = useState<string | null>(null);
-  const [isSaathiThinking, setIsSaathiThinking] = useState(false);
 
   // Intent filter & preview modal
   const [selectedIntent, setSelectedIntent] = useState<TeachingIntent | "ALL">("ALL");
   const [previewResource, setPreviewResource] = useState<StoredResourceItem | null>(null);
   const [isPreviewOpen, setIsPreviewOpen] = useState(false);
+
+  // Saathi Co-Pilot Panel State (Phase 16)
+  const [isSaathiPanelOpen, setIsSaathiPanelOpen] = useState(false);
+  const [initialSaathiPrompt, setInitialSaathiPrompt] = useState<string | undefined>(undefined);
 
   // Sync active chapter into global Teaching Context on mount
   useEffect(() => {
@@ -90,38 +92,6 @@ export default function ChapterWorkspaceClient({
     if (selectedIntent === "ALL") return chapterResources;
     return chapterResources.filter((r) => r.intent === selectedIntent);
   }, [chapterResources, selectedIntent]);
-
-  const handleAskSaathi = async (promptText?: string) => {
-    const query = promptText || saathiQuery;
-    if (!query.trim()) return;
-
-    setIsSaathiThinking(true);
-    setSaathiResponse(null);
-
-    try {
-      const res = await fetch("/api/ai/genie", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          prompt: query,
-          grade,
-          subject,
-          chapter: chapterDetails.title,
-        }),
-      });
-
-      if (res.ok) {
-        const data = await res.json();
-        setSaathiResponse(data.answer || "Here is a pedagogical tip tailored to this chapter.");
-      } else {
-        setSaathiResponse("Try asking students to pair up for 2 minutes to summarize today's concept in their own words.");
-      }
-    } catch {
-      setSaathiResponse("Focus on active questioning: ask students to identify 2 examples from daily life connected to this concept.");
-    } finally {
-      setIsSaathiThinking(false);
-    }
-  };
 
   const contextualPrompts = [
     `5-min recap activity for ${chapterDetails.title}`,
@@ -168,6 +138,14 @@ export default function ChapterWorkspaceClient({
             <PenTool className="w-4 h-4 text-emerald-300" />
             Open Whiteboard
           </Link>
+          <SaathiTrigger
+            variant="pill"
+            onClick={() => {
+              setInitialSaathiPrompt(undefined);
+              setIsSaathiPanelOpen(true);
+            }}
+            className="bg-white/20 hover:bg-white/30 text-white border-white/30 text-xs py-2.5 px-4"
+          />
         </div>
         <div className="absolute right-0 bottom-0 top-0 w-1/3 bg-[radial-gradient(circle_at_right,rgba(255,255,255,0.08),transparent_70%)] pointer-events-none" />
       </div>
@@ -356,7 +334,7 @@ export default function ChapterWorkspaceClient({
           </p>
         </div>
 
-        {/* Pillar 5: Contextual Ask Saathi (UX-022) */}
+        {/* Pillar 5: Contextual Ask Saathi (Phase 16) */}
         <div className="bg-white p-6 rounded-2xl border border-gray-100 shadow-sm space-y-4 flex flex-col justify-between">
           <div className="space-y-3">
             <div className="flex justify-between items-center border-b border-gray-50 pb-3">
@@ -364,7 +342,15 @@ export default function ChapterWorkspaceClient({
                 <Sparkles className="w-4.5 h-4.5 text-amber-500" />
                 <h3 className="text-sm font-extrabold text-gray-800 uppercase tracking-wider">Ask Saathi About This Chapter</h3>
               </div>
-              <span className="text-[10px] font-bold text-gray-400 uppercase">Contextual Assistant</span>
+              <button
+                onClick={() => {
+                  setInitialSaathiPrompt(undefined);
+                  setIsSaathiPanelOpen(true);
+                }}
+                className="text-[11px] font-bold text-emerald-700 hover:text-emerald-900 bg-emerald-50 px-2.5 py-1 rounded-lg border border-emerald-200 transition-colors cursor-pointer"
+              >
+                Open Co-Pilot &rarr;
+              </button>
             </div>
 
             {/* Prompt Chips */}
@@ -373,8 +359,8 @@ export default function ChapterWorkspaceClient({
                 <button
                   key={idx}
                   onClick={() => {
-                    setSaathiQuery(prompt);
-                    handleAskSaathi(prompt);
+                    setInitialSaathiPrompt(prompt);
+                    setIsSaathiPanelOpen(true);
                   }}
                   className="text-[11px] font-medium bg-gray-50 hover:bg-emerald-50 hover:text-emerald-800 border border-gray-200 hover:border-emerald-300 px-3 py-1.5 rounded-lg transition-all text-left cursor-pointer"
                 >
@@ -383,29 +369,22 @@ export default function ChapterWorkspaceClient({
               ))}
             </div>
 
-            {/* AI Response Display */}
-            {isSaathiThinking && (
-              <div className="p-3.5 bg-emerald-50/60 border border-emerald-100 rounded-xl text-xs text-emerald-800 font-semibold flex items-center gap-2">
-                <Loader2 className="w-4 h-4 animate-spin text-[#14532D]" />
-                Saathi is formulating chapter recommendations...
+            <div className="p-3.5 bg-emerald-50/50 border border-emerald-100 rounded-xl text-xs text-emerald-900 leading-relaxed font-medium flex items-center justify-between gap-3">
+              <div className="flex items-center gap-2">
+                <Lightbulb className="w-4 h-4 text-amber-500 shrink-0" />
+                <span>Tap any quick prompt chip above or type below to open the Saathi Co-Pilot drawer.</span>
               </div>
-            )}
-
-            {saathiResponse && !isSaathiThinking && (
-              <div className="p-3.5 bg-emerald-50/50 border border-emerald-100 rounded-xl text-xs text-gray-800 leading-relaxed font-medium space-y-1">
-                <div className="flex items-center gap-1.5 font-bold text-[#14532D] text-[11px]">
-                  <Lightbulb className="w-3.5 h-3.5 text-amber-500" />
-                  Saathi Suggestion:
-                </div>
-                <p>{saathiResponse}</p>
-              </div>
-            )}
+            </div>
           </div>
 
           <form
             onSubmit={(e) => {
               e.preventDefault();
-              handleAskSaathi();
+              if (saathiQuery.trim()) {
+                setInitialSaathiPrompt(saathiQuery);
+                setIsSaathiPanelOpen(true);
+                setSaathiQuery("");
+              }
             }}
             className="flex gap-2 pt-2"
           >
@@ -418,7 +397,7 @@ export default function ChapterWorkspaceClient({
             />
             <button
               type="submit"
-              disabled={isSaathiThinking || !saathiQuery.trim()}
+              disabled={!saathiQuery.trim()}
               className="bg-[#14532D] hover:bg-emerald-900 disabled:opacity-50 text-white px-4 py-2.5 rounded-xl flex items-center justify-center cursor-pointer transition-all active:scale-95"
             >
               <Send className="w-4 h-4" />
@@ -511,6 +490,22 @@ export default function ChapterWorkspaceClient({
           </div>
         )}
       </AnimatePresence>
+
+      {/* Unified Saathi Co-Pilot Panel (Phase 16) */}
+      <SaathiPanel
+        isOpen={isSaathiPanelOpen}
+        onClose={() => setIsSaathiPanelOpen(false)}
+        context={{
+          grade,
+          gradeName: grade.replace("-", " ").replace(/\b\w/g, (l) => l.toUpperCase()),
+          subject,
+          subjectName: subject.charAt(0).toUpperCase() + subject.slice(1),
+          chapter,
+          chapterTitle: chapterDetails.title,
+          screen: 'workspace',
+        }}
+        initialPrompt={initialSaathiPrompt}
+      />
 
     </div>
   );

@@ -20,6 +20,8 @@ import {
   Users
 } from "lucide-react";
 import { Button } from "@/components/ui/Button";
+import { SaathiPanel, SaathiTrigger } from "@/components/saathi";
+import type { SaathiContext } from "@/lib/ai/saathiContext";
 
 interface ClassOption {
   id: string;
@@ -149,6 +151,64 @@ export default function TeacherAnalyticsPage() {
 
   // Active Interventions List
   const [classInterventions, setClassInterventions] = useState<InterventionRecordItem[]>([]);
+
+  // Saathi Co-Pilot State
+  const [isSaathiOpen, setIsSaathiOpen] = useState(false);
+  const [saathiContext, setSaathiContext] = useState<SaathiContext>({
+    screen: "analytics",
+  });
+  const [saathiInitialPrompt, setSaathiInitialPrompt] = useState<string | undefined>();
+
+  const handleOpenSaathiOnGap = (gap: {
+    conceptId: string;
+    conceptNameEn: string;
+    averageMasteryScore: number;
+    affectedStudentsCount: number;
+    recommendedAction?: string;
+  }) => {
+    const selectedClass = classes.find((c) => c.id === selectedClassId);
+    const selectedChapter = chapters.find((ch) => ch.id === selectedChapterId);
+    const totalStudents = report?.studentCount || 35;
+    const incorrectCount = gap.affectedStudentsCount;
+    const incorrectPercentage = Math.round((incorrectCount / Math.max(totalStudents, 1)) * 100);
+
+    setSaathiContext({
+      grade: selectedClass?.grade_id || "class-8",
+      gradeName: selectedClass?.name || "Class 8",
+      subject: "science",
+      subjectName: "Science",
+      chapter: selectedChapter?.id || "chapter-3",
+      chapterTitle: selectedChapter?.title_en || "Heat & Temperature",
+      learningGapId: gap.conceptId,
+      conceptName: gap.conceptNameEn,
+      screen: "analytics",
+      observedData: {
+        totalStudents,
+        incorrectCount,
+        incorrectPercentage,
+        keyMisconception: gap.conceptNameEn,
+      },
+    });
+    setSaathiInitialPrompt(`Suggest a 10-minute micro-lesson intervention for the learning gap on ${gap.conceptNameEn}`);
+    setIsSaathiOpen(true);
+  };
+
+  const handleOpenGeneralSaathi = () => {
+    const selectedClass = classes.find((c) => c.id === selectedClassId);
+    const selectedChapter = chapters.find((ch) => ch.id === selectedChapterId);
+
+    setSaathiContext({
+      grade: selectedClass?.grade_id || "class-8",
+      gradeName: selectedClass?.name || "Class 8",
+      subject: "science",
+      subjectName: "Science",
+      chapter: selectedChapter?.id,
+      chapterTitle: selectedChapter?.title_en,
+      screen: "analytics",
+    });
+    setSaathiInitialPrompt(undefined);
+    setIsSaathiOpen(true);
+  };
 
   // 1. Load Classes on Mount
   useEffect(() => {
@@ -426,6 +486,14 @@ export default function TeacherAnalyticsPage() {
             <RefreshCw className={`w-3.5 h-3.5 ${recomputing ? "animate-spin text-emerald-600" : "text-gray-600"}`} />
             {recomputing ? "Syncing..." : "Sync Analytics"}
           </Button>
+
+          {/* Saathi Co-Pilot Trigger */}
+          <SaathiTrigger
+            onClick={handleOpenGeneralSaathi}
+            label="Ask Saathi"
+            variant="pill"
+            className="shadow-xs py-2.5"
+          />
         </div>
       </div>
 
@@ -558,7 +626,7 @@ export default function TeacherAnalyticsPage() {
                       </p>
                     </div>
 
-                    <div className="pt-2 border-t border-red-100/60 flex items-center justify-between gap-2">
+                    <div className="pt-2 border-t border-red-100/60 flex flex-wrap items-center justify-between gap-1.5">
                       <Button
                         onClick={() => {
                           const concept = report.conceptMasteries.find((c) => c.conceptId === gap.conceptId);
@@ -566,9 +634,18 @@ export default function TeacherAnalyticsPage() {
                         }}
                         size="sm"
                         variant="outline"
-                        className="text-[11px] font-bold border-red-200 text-red-800 hover:bg-red-100/50 rounded-xl px-2.5 py-1"
+                        className="text-[11px] font-bold border-red-200 text-red-800 hover:bg-red-100/50 rounded-xl px-2 py-1"
                       >
                         <Users className="w-3 h-3 mr-1" /> Students
+                      </Button>
+
+                      <Button
+                        onClick={() => handleOpenSaathiOnGap(gap)}
+                        size="sm"
+                        className="bg-purple-600 hover:bg-purple-700 text-white text-[11px] font-bold px-2.5 py-1 rounded-xl shadow-xs flex items-center gap-1 cursor-pointer"
+                      >
+                        <Sparkles className="w-3 h-3 text-purple-200" />
+                        Ask Saathi
                       </Button>
 
                       <Button
@@ -577,7 +654,7 @@ export default function TeacherAnalyticsPage() {
                           if (concept) handleOpenRemediation(concept);
                         }}
                         size="sm"
-                        className="bg-red-600 hover:bg-red-700 text-white text-[11px] font-bold px-3 py-1 rounded-xl shadow-xs flex items-center gap-1.5"
+                        className="bg-red-600 hover:bg-red-700 text-white text-[11px] font-bold px-2.5 py-1 rounded-xl shadow-xs flex items-center gap-1"
                       >
                         <Sparkles className="w-3 h-3 text-amber-200" />
                         Remediate
@@ -789,14 +866,51 @@ export default function TeacherAnalyticsPage() {
                         <span className="capitalize">{c.observedDifficulty.toLowerCase()}</span>
                       </td>
                       <td className="py-4 px-4 text-right">
-                        <Button
-                          onClick={() => handleOpenRemediation(c)}
-                          size="sm"
-                          className="bg-[#14532D] hover:bg-[#0f4022] text-white text-xs font-bold px-3 py-1.5 rounded-xl shadow-xs inline-flex items-center gap-1.5"
-                        >
-                          <Sparkles className="w-3.5 h-3.5 text-amber-300" />
-                          Remediate
-                        </Button>
+                        <div className="flex items-center justify-end gap-1.5">
+                          <Button
+                            onClick={() => {
+                              const totalStudents = report?.studentCount || 35;
+                              const incorrectCount = c.studentsNeedingSupportCount;
+                              const incorrectPercentage = Math.round((incorrectCount / Math.max(totalStudents, 1)) * 100);
+                              const selectedClass = classes.find((cl) => cl.id === selectedClassId);
+                              const selectedChapter = chapters.find((ch) => ch.id === selectedChapterId);
+
+                              setSaathiContext({
+                                grade: selectedClass?.grade_id || "class-8",
+                                gradeName: selectedClass?.name || "Class 8",
+                                subject: "science",
+                                subjectName: "Science",
+                                chapter: selectedChapter?.id || c.chapterId,
+                                chapterTitle: selectedChapter?.title_en || c.chapterTitleEn,
+                                learningGapId: c.conceptId,
+                                conceptName: c.conceptNameEn,
+                                screen: "analytics",
+                                observedData: {
+                                  totalStudents,
+                                  incorrectCount,
+                                  incorrectPercentage,
+                                  keyMisconception: c.conceptNameEn,
+                                },
+                              });
+                              setSaathiInitialPrompt(`Suggest a targeted remediation intervention for ${c.conceptNameEn}`);
+                              setIsSaathiOpen(true);
+                            }}
+                            size="sm"
+                            variant="outline"
+                            className="border-purple-200 text-purple-800 hover:bg-purple-50 text-xs font-bold px-2.5 py-1.5 rounded-xl inline-flex items-center gap-1 cursor-pointer"
+                          >
+                            <Sparkles className="w-3 h-3 text-purple-600" />
+                            Saathi
+                          </Button>
+                          <Button
+                            onClick={() => handleOpenRemediation(c)}
+                            size="sm"
+                            className="bg-[#14532D] hover:bg-[#0f4022] text-white text-xs font-bold px-3 py-1.5 rounded-xl shadow-xs inline-flex items-center gap-1.5"
+                          >
+                            <Sparkles className="w-3.5 h-3.5 text-amber-300" />
+                            Remediate
+                          </Button>
+                        </div>
                       </td>
                     </tr>
                   ))}
@@ -1047,6 +1161,23 @@ export default function TeacherAnalyticsPage() {
           </div>
         </div>
       )}
+
+      {/* Saathi Co-Pilot Slide-over Panel */}
+      <SaathiPanel
+        isOpen={isSaathiOpen}
+        onClose={() => setIsSaathiOpen(false)}
+        context={saathiContext}
+        initialPrompt={saathiInitialPrompt}
+        onApplyResponse={() => {
+          setActionSuccessMessage("Intervention plan approved and added to teacher workspace!");
+          if (saathiContext.learningGapId && report) {
+            const concept = report.conceptMasteries.find((c) => c.conceptId === saathiContext.learningGapId);
+            if (concept && !currentInterventionId) {
+              handleOpenRemediation(concept);
+            }
+          }
+        }}
+      />
     </div>
   );
 }

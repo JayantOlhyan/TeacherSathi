@@ -124,6 +124,14 @@
 │ Focus: Standalone kiosk, distance readability, touch bar,   │
 │        whiteboard, quiz polling, Saathi assistant co-pilot  │
 └─────────────────────────────────────────────────────────────┘
+                               │
+                               ▼
+┌─────────────────────────────────────────────────────────────┐
+│ PHASE 16: Saathi / Teacher Co-Pilot UX                      │
+│ Status: COMPLETE                                            │
+│ Focus: Teacher decides, Saathi assists, 5 panels, context   │
+│        hierarchy, dual-card analytics, Hindi/Hinglish       │
+└─────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -376,5 +384,29 @@
 - **Safe Session Conclusion (UX-013)**:
   - Non-blocking `ConfirmDialog` guarding "End Class" action, preserving active drawings and navigating safely back to `returnUrl` (Chapter Workspace) with all query parameters intact.
 - **Quality & Verification**: 0 TypeScript errors (`tsc --noEmit`), 0 ESLint errors, **367 total automated tests across 73 test suites passing with 100% success rate**, clean Next.js production build.
+
+### Phase 16: Saathi / Teacher Co-Pilot UX (Completed)
+- Canonical Architecture Deliverable: `docs/PHASE_16_SAATHI_COPILOT_UX.md`.
+- **Core Product Principle Implementation**:
+  - `Teacher decides → Saathi understands context → Saathi prepares or suggests → Teacher reviews → Teacher decides whether to use → TeacherSathi executes`.
+  - Consequential AI actions are always delivered as **Drafts** with explicit teacher review, edit, and approval controls.
+- **Shared AI Co-Pilot Architecture**:
+  - `src/lib/ai/saathiContext.ts`: Hierarchical context resolver (`resolveContextBadges`: `Grade → Subject → Chapter → Slide/Gap`) and context-driven dynamic quick action prompt chips (`getContextualPrompts`).
+  - `src/lib/ai/saathiService.ts`: AI service integration with `/api/ai/genie`, automated bilingual detection (`isHindiOrHinglish`), and NCERT-grounded offline fallback engine.
+  - `src/components/saathi/SaathiContextBadge.tsx`: Visual context pill component.
+  - `src/components/saathi/SaathiPromptChips.tsx`: 1-tap horizontal scrolling prompt chips.
+  - `src/components/saathi/SaathiResponseCard.tsx`: Structured response card (Answer, Why This Helps, Try This with Students, Teacher Action Controls, Provenance Tag).
+  - `src/components/saathi/SaathiTrigger.tsx`: Accessible triggers for Workspace, Classroom, and Analytics.
+  - `src/components/saathi/SaathiPanel.tsx`: Unified slide-over assistant drawer.
+- **The 5 Canonical Panel Implementations**:
+  - **Panel 1: Teacher Workspace (`/content/...`)**: Integrated `SaathiPanel`, hero trigger, context badges, and preparation chips into `ChapterWorkspaceClient.tsx`.
+  - **Panel 2: Resource Studio Co-Pilot (`/dashboard/create`)**: Refined 3-step generation stepper (`Describe → Generate → Review`), milestone progress indicators, and prominent Draft Authority trust banner.
+  - **Panel 3: 75" Classroom Co-Pilot (`SaathiClassroomDrawer.tsx`)**: Compact side drawer keeping the active presentation slide 100% visible on the smartboard without resetting slide or whiteboard state.
+  - **Panel 4: Diagnostic Analytics & Learning-Gap Workflow (`/dashboard/analytics`)**: Strict dual-card separation of **Observed Data** (Amber card with empirical metrics) from **Suggested Intervention** (Purple card with 10-minute micro-lesson draft), with `[Approve & Add to Plan]`, `[Edit Draft]`, and `[Try Another Approach]`.
+  - **Panel 5: Bilingual Hindi / Hinglish Assistance**: Automated detection of Devanagari script and colloquial Romanized Hinglish queries, returning culturally grounded analogies and simple conversational Hindi explanations.
+- **Quality & Verification**:
+  - Dedicated automated test suite: `tests/ai/saathi-copilot.test.ts` (14 unit and integration tests passing).
+  - **381 total automated tests across 74 test suites passing with 100% success rate**.
+  - 0 TypeScript errors (`tsc --noEmit`), 0 lint warnings, clean Next.js production build.
 
 

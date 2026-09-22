@@ -21,16 +21,17 @@ import {
   CheckCircle2,
   BookOpen,
   Layers,
-  Clock
+  Clock,
+  ShieldCheck
 } from "lucide-react";
 import { addRecentResource } from "@/lib/services/recentResources";
 
 const teacherProgressMilestones = [
-  "Understanding your chapter and NCERT learning goals...",
-  "Planning the pedagogical flow and classroom objectives...",
-  "Creating classroom-ready content with Saathi AI...",
-  "Verifying educational accuracy and difficulty balance...",
-  "Draft ready for your teacher review!"
+  "Understanding your chapter...",
+  "Aligning with NCERT learning outcomes...",
+  "Creating age-appropriate content...",
+  "Checking accuracy and clarity...",
+  "Almost ready for your review!"
 ];
 
 interface ApiDraftContent {
@@ -683,6 +684,12 @@ export default function ResourceCreationStudioPage() {
                     </div>
                   );
                 })}
+              </div>
+
+              {/* Trust & Teacher Authority Callout (Phase 16) */}
+              <div className="pt-4 border-t border-gray-100 flex items-center justify-center gap-2 text-xs text-gray-600 font-medium">
+                <ShieldCheck className="w-4 h-4 text-emerald-600 shrink-0" />
+                <span>This will be a draft for you to review and edit. You remain the final decision-maker.</span>
               </div>
             </div>
           )}
