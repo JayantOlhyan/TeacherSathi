@@ -20,11 +20,11 @@ import {
 import { motion, AnimatePresence } from "framer-motion";
 
 const generationMilestones = [
-  "Resolving canonical NCERT curriculum context...",
-  "Constructing pedagogical prompt instructions...",
-  "AI Provider generating structured JSON content...",
-  "Executing Zod schema & educational validation rules...",
-  "Persisting resource to database & resource lifecycle..."
+  "Connecting to NCERT curriculum guidelines...",
+  "Structuring learning objectives & key concepts...",
+  "Crafting classroom material with Saathi AI...",
+  "Verifying curriculum accuracy & difficulty level...",
+  "Saving ready-to-teach resource to your library..."
 ];
 
 export default function AssessmentEditorPage() {
@@ -44,8 +44,14 @@ export default function AssessmentEditorPage() {
   const [generationError, setGenerationError] = useState<string | null>(null);
   const [generatedResourceId, setGeneratedResourceId] = useState<string | null>(null);
   const [isGenerating, setIsGenerating] = useState(false);
+  const [activeContext, setActiveContext] = useState<{
+    grade: string;
+    subject: string;
+    chapter: string;
+    returnUrl?: string;
+  } | null>(null);
 
-  // Prefill params from URL if present
+  // Prefill params from URL if present (UX-020: Zero Redundant Inputs)
   useEffect(() => {
     if (typeof window !== "undefined") {
       const params = new URLSearchParams(window.location.search);
@@ -53,19 +59,29 @@ export default function AssessmentEditorPage() {
       const gradeParam = params.get("grade");
       const subjectParam = params.get("subject");
       const chapterParam = params.get("chapter");
+      const returnParam = params.get("returnUrl");
 
-      if (typeParam) {
+      if (gradeParam && subjectParam && chapterParam) {
+        const cleanG = gradeParam.replace("class-", "Class ");
+        const cleanS = subjectParam.charAt(0).toUpperCase() + subjectParam.slice(1);
+        const cleanC = chapterParam.replace("chapter-", "Chapter ");
+        setSelectedClass(cleanG);
+        setSelectedSubject(cleanS);
+        setSelectedChapter(cleanC);
+        setActiveContext({
+          grade: cleanG,
+          subject: cleanS,
+          chapter: cleanC,
+          returnUrl: returnParam || undefined,
+        });
+
+        if (typeParam) {
+          setResourceType(typeParam === "presentation" || typeParam === "smart-classroom" ? "presentation" : typeParam);
+          setStep(3); // Jump directly to Step 3: Customize Setup!
+        }
+      } else if (typeParam) {
         setResourceType(typeParam === "presentation" || typeParam === "smart-classroom" ? "presentation" : typeParam);
         setStep(2);
-      }
-      if (gradeParam) {
-        setSelectedClass(gradeParam.replace("class-", "Class "));
-      }
-      if (subjectParam) {
-        setSelectedSubject(subjectParam.charAt(0).toUpperCase() + subjectParam.slice(1));
-      }
-      if (chapterParam) {
-        setSelectedChapter(chapterParam.replace("chapter-", "Chapter "));
       }
     }
   }, []);
@@ -138,7 +154,7 @@ export default function AssessmentEditorPage() {
       
       // Successfully completed
       setTimeout(() => {
-        router.push("/resources");
+        router.push(activeContext?.returnUrl || "/dashboard/resources");
       }, 1500);
     } catch (err: unknown) {
       const msg = err instanceof Error ? err.message : "Failed to generate resource. Please check server logs or provider quota.";
@@ -335,6 +351,25 @@ export default function AssessmentEditorPage() {
               className="space-y-6"
             >
               <h2 className="text-sm font-black text-gray-400 uppercase tracking-widest mb-4">Step 3 — Customize Specifications</h2>
+
+              {activeContext && (
+                <div className="bg-emerald-50 border border-emerald-200/80 p-4 rounded-xl flex items-center justify-between mb-4">
+                  <div className="flex items-center gap-2.5">
+                    <span className="w-2.5 h-2.5 rounded-full bg-emerald-600 animate-pulse" />
+                    <div>
+                      <span className="text-[10px] font-black text-emerald-950 uppercase tracking-wider">Active Teaching Context (UX-020)</span>
+                      <p className="text-xs text-emerald-800 font-bold mt-0.5">{activeContext.grade} &bull; {activeContext.subject} &bull; {activeContext.chapter}</p>
+                    </div>
+                  </div>
+                  <button
+                    onClick={() => setStep(2)}
+                    className="text-xs font-bold text-emerald-800 hover:text-emerald-950 underline cursor-pointer"
+                  >
+                    Change Context
+                  </button>
+                </div>
+              )}
+
               <div className="space-y-4">
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
                   <div>
@@ -438,7 +473,7 @@ export default function AssessmentEditorPage() {
                     {isGenerating ? "Generating AI Teaching Resource" : "Generation Complete!"}
                   </h3>
                   <p className="text-[10px] text-gray-400 font-bold uppercase tracking-wider">
-                    {isGenerating ? "Executing production validation pipeline" : `Saved resource ${generatedResourceId}`}
+                    {isGenerating ? "Tailoring content for your classroom" : `Resource Ready (${generatedResourceId})`}
                   </p>
 
                   {/* Progress Milestones Tracker */}
