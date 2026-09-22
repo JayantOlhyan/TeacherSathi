@@ -88,6 +88,27 @@
 │ Status: COMPLETE                                            │
 │ Focus: Reliability, DLQ, Rate Limiting, Threat Model, SRE   │
 └─────────────────────────────────────────────────────────────┘
+                               │
+                               ▼
+┌─────────────────────────────────────────────────────────────┐
+│ PHASE 11: UX Audit, Human Experience & Usability Baseline   │
+│ Status: COMPLETE                                            │
+│ Focus: 20 Workflows, 75" Smartboard, Issue Register, Baseline│
+└─────────────────────────────────────────────────────────────┘
+                               │
+                               ▼
+┌─────────────────────────────────────────────────────────────┐
+│ PHASE 12: Design System, Visual Consistency & UI Foundation │
+│ Status: COMPLETE                                            │
+│ Focus: Tokens, UI components, settings, smartboard tokens   │
+└─────────────────────────────────────────────────────────────┘
+                               │
+                               ▼
+┌─────────────────────────────────────────────────────────────┐
+│ PHASE 13: Unified Teacher Workspace UX                      │
+│ Status: COMPLETE                                            │
+│ Focus: Teaching context, 5 action pillars, 0 redundant input│
+└─────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -232,4 +253,60 @@
 - 17 government-grade architecture, threat model, SLA, and disaster recovery documents in `docs/`.
 - 12 new automated test suites in `tests/platform/` covering rate limiting, abuse, DLQ, AI resilience, SVG security, feature flags, load simulation, and chaos testing.
 - **357 total automated tests across 72 test suites passing with 100% success rate**. 0 lint warnings, 0 type errors, clean Next.js production build.
+ 
+### Phase 11: UX Audit, Human Experience & Usability Baseline (Completed)
+- Complete human-centered UX and usability audit of TeacherSathi across 20 distinct user workflows.
+- Audited all major user types: Teacher (primary), 75-inch Classroom Smartboard User, Student in Classroom, Individual Student, First-time User, and School Administrator.
+- Deep 75-inch smartboard analysis evaluating touch target ergonomics (>=64px requirement), viewing distance legibility (1080p, 1440p, 4K UHD), and standalone kiosk usability.
+- Compared implementation against reference operational paradigms: Teacher Workspace (Plan • Prepare • Personalize) vs Classroom Mode (Teach • Engage • Assess).
+- Core UX principles audit across 14 dimensions (Clarity, Next Action, Minimum Effort, No Redundant Input, Consistency, Feedback, Error Prevention, Error Recovery, Cognitive Load, Teacher Control, Classroom Readability, Touch Usability, Progressive Disclosure, Trust).
+- Comprehensive 27-issue structured register (`docs/PHASE_11_ISSUE_REGISTER.md`) with P0/P1/P2/P3 severity classifications.
+- Delivery of authoritative 27-section audit specification: `docs/PHASE_11_UX_AUDIT.md`.
+- Explicit forward mapping of structural and usability fixes to subsequent Phases 12 through 18.
+
+### Phase 12: Design System, Visual Consistency & UI Foundation (Completed)
+- Canonical Design System Specification deliverable: `docs/PHASE_12_DESIGN_SYSTEM.md`.
+- **Design System Tokens & Architecture**: Semantic color system, 4px grid spacing, consistent border radii scale, elevation levels, and strict iconography standards in `tailwind.config.ts` and `src/app/globals.css`.
+- **Foundational Component Inventory**:
+  - `src/components/ui/Button.tsx`: Accessible variants, loading states, and 75" classroom sizes (>=64px touch target).
+  - `src/components/ui/Card.tsx`: Standardized container with uniform padding and semantic variants (`default`, `interactive`, `lesson`, `resource`, `assessment`, `recommendation`, `classroom`).
+  - `src/components/ui/Badge.tsx`: Semantic status badges (`brand`, `success`, `warning`, `danger`, `info`, `classroom`).
+  - `src/components/ui/Input.tsx`: Accessible inputs with labels, helper text, error states, and Hindi font line-height normalization.
+  - `src/components/ui/Dialog.tsx`: Non-blocking `ConfirmDialog` and `AlertDialog` replacing browser `window.confirm()` and `alert()`.
+  - `src/components/ui/Toast.tsx`: Non-intrusive toast notification provider and `useToast` hook.
+  - `src/components/ui/ClassroomTouchBar.tsx`: 75" Smartboard tactile dock with >=64px touch targets and global keyboard arrow listeners.
+  - `src/components/ui/SaathiCallout.tsx`: Assistant tip callout box enforcing Teacher = Decision Maker, Saathi = Assistant.
+  - `src/components/ui/StateView.tsx`: Standardized empty/loading/error/offline state presentation with 8s slow connection timeout handling.
+- **Audit Findings Resolved**:
+  - **UX-001**: Created `/dashboard/settings` route with user profile, school UDISE, theme, and language preferences.
+  - **UX-005**: Fixed broken Sidebar links for Question Bank and Worksheets to point to `/dashboard/resources`.
+  - **UX-006**: Role-gated Institutions and Billing navigation links for school administrators only.
+  - **UX-008**: Cleaned internal technical jargon across creation milestones, smartboard footers, and analytics.
+  - **UX-009**: Upgraded `SmartboardSlideViewer.tsx` to 75" distance-legible typography scale (captions >= 20px, body >= 28px, headings >= 44px).
+  - **UX-010**: Replaced blocking native `window.confirm()` and `alert()` in assessments, resources, and devices screens.
+  - **UX-011**: Standardized 64px tactile touch targets for classroom controls in `ClassroomTouchBar`.
+  - **UX-012**: Replaced "Silence Bell" with gentle "Attention Chime" and pedagogical tooltips.
+  - **UX-019**: Added Whiteboard to dashboard navigation.
+  - **UX-021**: Replaced reflective green-black glare gradient with low-glare slate tokens (`#0B131E`).
+  - **UX-023**: Standardized border radii to `rounded-xl` across dashboard cards.
+  - **UX-024**: Standardized icon stroke width to 2 across navigation.
+  - **UX-025**: Integrated global keyboard arrow navigation for smartboard slides.
+  - **UX-027**: Added 8-second slow connection timeout handling and pedagogical error recovery in `StateView`.
+- **Quality & Verification**: 0 TypeScript errors, 0 ESLint errors, all 357 Vitest automated tests passing across 72 test suites, clean Next.js production build.
+
+### Phase 13: Unified Teacher Workspace UX (Completed)
+- Canonical Architecture Deliverable: `docs/PHASE_13_TEACHER_WORKSPACE_UX.md`.
+- **Global Teaching Context Engine** (`src/lib/context/teachingContext.ts`): Client-safe synchronous context management with localStorage persistence and custom event bus syncing Dashboard, Chapter Workspace, AI Studio, and Classroom Mode.
+- **Audit Findings Systematically Resolved**:
+  - **UX-002**: Fixed broken curriculum discovery by adding "Curriculum" (`/content`) to `Sidebar.tsx` core navigation and creating a 5-class quick explorer grid on the Dashboard.
+  - **UX-003**: Completely eliminated the fake 3-slide mock modal in `ChapterWorkspaceClient.tsx`; promoted a primary tactile hero action **"Start Class on Smartboard"** targeting the real 75" `/classroom` system.
+  - **UX-005**: Standardized creation completion redirect to target `/dashboard/resources` or `returnUrl`.
+  - **UX-013**: Established the Teacher Workspace vs. Classroom Mode paradigm with bidirectional context transfer, `returnUrl` preservation, an `← Exit to Workspace` header link, and a `Return to Chapter Workspace` button upon session conclusion.
+  - **UX-016**: Standardized strict hierarchical breadcrumbs across all curriculum routes (`Dashboard` → `Curriculum` → `Class {N}` → `{Subject}` → `Ch {N}`).
+  - **UX-017**: Eliminated analytics cognitive overload in the Chapter Workspace with a concise "Class Insights" card (Mastery %, on-track vs support counts, pedagogical tip) and deep-link to full analytics.
+  - **UX-018**: Removed the hardcoded Class 10-A assumption across `dashboard/page.tsx` and `dashboard/classes/page.tsx`, enabling seamless switching across Classes 6-A, 7-A, 8-A, 9-B, and 10-A with dual actions ("Teach / Curriculum" & "Roster / Code").
+  - **UX-020**: Eliminated redundant form inputs in `/dashboard/create` and `/dashboard/assessments/create` by inheriting active context from URL parameters, showing an "Active Context" banner, and skipping redundant class/subject selection steps.
+  - **UX-022**: Contextualized Saathi AI assistance with 4 chapter-specific prompt chips (recap activity, misconceptions, Indian applications, Hindi notes).
+- **Chapter Workspace 5 Action Pillars**: Restructured into Prepare, Teach, Assess, Understand, and Ask Saathi.
+- **Quality & Verification**: 0 TypeScript errors (`tsc --noEmit`), 0 ESLint errors, all 357 Vitest automated tests passing across 72 test suites, clean Next.js production build.
 
