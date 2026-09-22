@@ -116,6 +116,14 @@
 │ Status: COMPLETE                                            │
 │ Focus: Teaching intent, draft review, preview modal, handoff│
 └─────────────────────────────────────────────────────────────┘
+                               │
+                               ▼
+┌─────────────────────────────────────────────────────────────┐
+│ PHASE 15: 75-Inch Classroom Experience                      │
+│ Status: COMPLETE                                            │
+│ Focus: Standalone kiosk, distance readability, touch bar,   │
+│        whiteboard, quiz polling, Saathi assistant co-pilot  │
+└─────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -341,4 +349,32 @@
   - **UX-015**: Created client-side Recent & Saved resources state ledger.
   - **UX-020**: Implemented zero redundant inputs across all resource generation and preview flows.
 - **Quality & Verification**: 0 TypeScript errors (`tsc --noEmit`), 0 ESLint errors, all 357 Vitest automated tests passing across 72 test suites, clean Next.js production build.
+
+### Phase 15: 75-Inch Classroom Experience (Completed)
+- Canonical Architecture Deliverable: `docs/PHASE_15_CLASSROOM_UX.md`.
+- **Standalone 75" Smartboard Operation (UX-004)**:
+  - Eliminated the mandatory mobile QR code blocking screen on `/classroom`.
+  - Introduced prominent, front-and-center primary action: **"Start Lesson on this Display"** (≥64px height, emerald, text-xl font-black).
+  - Relegated phone pairing to an optional collapsible panel ("Pair Teacher Mobile Remote — Optional"). Educators can teach immediately with zero phone or second-device dependency.
+  - On-screen chapter preset switcher (Class 8 Science Ch 1, Class 6 Science Ch 2, Class 10 Science Ch 1).
+- **6–10m Distance Legibility Scale (UX-009)**:
+  - Calibrated typography scale across all 7 polymorphic slide types in `SmartboardSlideViewer.tsx` (headings ≥48px to 72px, subheadings ≥28px, body & bullets ≥24px, counters/badges ≥18px).
+- **Touch-First Usability & Dedicated Classroom Whiteboard (UX-011)**:
+  - Guaranteed minimum ≥64px × 64px hitboxes for all in-class buttons on `ClassroomTouchBar` and headers.
+  - Built `src/components/classroom/ClassroomWhiteboard.tsx`: high-performance HTML5 vector touch canvas with Pen, Marker, Eraser, 6 high-contrast colors, 3 stroke weights, undo/redo, clear, grid lines, and blackboard/whiteboard surface toggling.
+- **Anti-Glare & Daylight High-Contrast Themes (UX-021)**:
+  - 1-tap theme switcher between **Anti-Glare Dark Slate** (`#0B131E`) and **High-Contrast Daylight Mode** (`#F8FAFC`).
+  - Strict WCAG AAA contrast ratio compliance (≥7:1) for back-row legibility under bright classroom lighting.
+- **Global Hardware Remote Clicker & Keyboard Shortcuts (UX-025)**:
+  - Global `keydown` listeners for physical presentation clickers: `ArrowRight` / `Space` / `PageDown` (next slide), `ArrowLeft` / `PageUp` (previous slide), `w` (whiteboard), `q` (quiz), `s` (Saathi assistant), `Escape` (dismiss drawer).
+- **In-Class Modes & Saathi Pedagogical Co-Pilot**:
+  - `SmartboardSlideViewer.tsx`: Presentation mode with slide counter, next/prev, and distance-readable typography.
+  - `ClassroomWhiteboard.tsx`: Interactive whiteboard mode toggled seamlessly without losing slide index.
+  - Formative Clicker Quiz Mode: 4 large touch option tiles (A, B, C, D) ≥72px tall, live student hands voting counter, and teacher-controlled answer reveal.
+  - `SaathiClassroomDrawer.tsx`: Slide-over pedagogical assistant providing contextual teaching recommendations, cognitive rationale, teacher prompts, simple Hindi translation, and rural analogies.
+  - `ClassroomResourceDrawer.tsx`: Quick slide deck thumbnail navigator, lesson notes, and concept mind maps.
+- **Safe Session Conclusion (UX-013)**:
+  - Non-blocking `ConfirmDialog` guarding "End Class" action, preserving active drawings and navigating safely back to `returnUrl` (Chapter Workspace) with all query parameters intact.
+- **Quality & Verification**: 0 TypeScript errors (`tsc --noEmit`), 0 ESLint errors, **367 total automated tests across 73 test suites passing with 100% success rate**, clean Next.js production build.
+
 

@@ -10,7 +10,9 @@ import {
   Sparkles, 
   LogOut,
   Maximize2,
-  Minimize2
+  Minimize2,
+  Sun,
+  Moon
 } from "lucide-react";
 
 export interface ClassroomTouchBarProps {
@@ -23,6 +25,7 @@ export interface ClassroomTouchBarProps {
   onOpenResources?: () => void;
   onAskSaathi?: () => void;
   onEndClass?: () => void;
+  onToggleTheme?: () => void;
   isQuizActive?: boolean;
   isWhiteboardActive?: boolean;
   theme?: "dark" | "light";
@@ -39,6 +42,7 @@ export function ClassroomTouchBar({
   onOpenResources,
   onAskSaathi,
   onEndClass,
+  onToggleTheme,
   isQuizActive = false,
   isWhiteboardActive = false,
   theme = "dark",
@@ -87,20 +91,20 @@ export function ClassroomTouchBar({
   return (
     <nav
       aria-label="Classroom Smartboard Controls"
-      className={`w-full flex-shrink-0 flex items-center justify-between px-6 sm:px-10 py-3.5 border-t select-none transition-colors duration-200 ${
+      className={`w-full flex-shrink-0 flex items-center justify-between px-6 sm:px-10 py-3.5 border-t select-none transition-colors duration-200 z-30 ${
         isDark
           ? "bg-[#080D14] border-[#1E293B] text-slate-100"
-          : "bg-white border-slate-200 text-slate-900 shadow-lg"
+          : "bg-white border-slate-200 text-slate-900 shadow-xl"
       } ${className}`}
     >
-      {/* Left: Secondary Tools (Whiteboard, Quiz, Resources) */}
+      {/* Left: Secondary Tools (Whiteboard, Quiz, Resources, Saathi) — All >= 64px (UX-011) */}
       <div className="flex items-center gap-3">
         {onOpenWhiteboard && (
           <button
             onClick={onOpenWhiteboard}
-            className={`min-h-[56px] sm:min-h-[64px] px-5 sm:px-6 rounded-2xl font-extrabold text-sm sm:text-base flex items-center gap-2.5 transition-all active:scale-95 border cursor-pointer ${
+            className={`min-h-[64px] px-5 sm:px-6 rounded-2xl font-extrabold text-sm sm:text-base flex items-center gap-2.5 transition-all active:scale-95 border cursor-pointer ${
               isWhiteboardActive
-                ? "bg-emerald-600 text-white border-emerald-400 shadow-md"
+                ? "bg-emerald-600 text-white border-emerald-400 shadow-md ring-2 ring-emerald-400/30"
                 : isDark
                 ? "bg-[#131F30] hover:bg-[#1E2D44] text-emerald-300 border-[#20334D]"
                 : "bg-emerald-50 hover:bg-emerald-100 text-emerald-800 border-emerald-200"
@@ -114,25 +118,25 @@ export function ClassroomTouchBar({
         {onOpenResources && (
           <button
             onClick={onOpenResources}
-            className={`min-h-[56px] sm:min-h-[64px] px-5 sm:px-6 rounded-2xl font-extrabold text-sm sm:text-base flex items-center gap-2.5 transition-all active:scale-95 border cursor-pointer ${
+            className={`min-h-[64px] px-5 sm:px-6 rounded-2xl font-extrabold text-sm sm:text-base flex items-center gap-2.5 transition-all active:scale-95 border cursor-pointer ${
               !isWhiteboardActive && !isQuizActive
-                ? "bg-blue-600 text-white border-blue-400 shadow-md"
+                ? "bg-blue-600 text-white border-blue-400 shadow-md ring-2 ring-blue-400/30"
                 : isDark
                 ? "bg-[#131F30] hover:bg-[#1E2D44] text-blue-300 border-[#20334D]"
                 : "bg-blue-50 hover:bg-blue-100 text-blue-800 border-blue-200"
             }`}
           >
             <FileText className="w-5 h-5 text-blue-400" />
-            <span className="hidden sm:inline">Slides</span>
+            <span className="hidden sm:inline">Resources</span>
           </button>
         )}
 
         {onStartQuiz && (
           <button
             onClick={onStartQuiz}
-            className={`min-h-[56px] sm:min-h-[64px] px-5 sm:px-6 rounded-2xl font-extrabold text-sm sm:text-base flex items-center gap-2.5 transition-all active:scale-95 border cursor-pointer ${
+            className={`min-h-[64px] px-5 sm:px-6 rounded-2xl font-extrabold text-sm sm:text-base flex items-center gap-2.5 transition-all active:scale-95 border cursor-pointer ${
               isQuizActive
-                ? "bg-purple-600 text-white border-purple-400 shadow-md"
+                ? "bg-purple-600 text-white border-purple-400 shadow-md ring-2 ring-purple-400/30"
                 : isDark
                 ? "bg-[#131F30] hover:bg-[#1E2D44] text-purple-300 border-[#20334D]"
                 : "bg-purple-50 hover:bg-purple-100 text-purple-800 border-purple-200"
@@ -146,7 +150,7 @@ export function ClassroomTouchBar({
         {onAskSaathi && (
           <button
             onClick={onAskSaathi}
-            className={`min-h-[56px] sm:min-h-[64px] px-5 sm:px-6 rounded-2xl font-extrabold text-sm sm:text-base flex items-center gap-2.5 transition-all active:scale-95 border cursor-pointer ${
+            className={`min-h-[64px] px-5 sm:px-6 rounded-2xl font-extrabold text-sm sm:text-base flex items-center gap-2.5 transition-all active:scale-95 border cursor-pointer ${
               isDark
                 ? "bg-[#131F30] hover:bg-[#1E2D44] text-amber-300 border-[#20334D]"
                 : "bg-amber-50 hover:bg-amber-100 text-amber-800 border-amber-200"
@@ -164,7 +168,7 @@ export function ClassroomTouchBar({
           onClick={onPrevSlide}
           disabled={currentSlide <= 1}
           aria-label="Previous Slide"
-          className={`min-h-[56px] sm:min-h-[64px] min-w-[56px] sm:min-w-[64px] px-5 rounded-2xl font-bold flex items-center justify-center gap-2 transition-all active:scale-95 border disabled:opacity-30 disabled:pointer-events-none cursor-pointer ${
+          className={`min-h-[64px] min-w-[64px] px-6 rounded-2xl font-bold flex items-center justify-center gap-2 transition-all active:scale-95 border disabled:opacity-30 disabled:pointer-events-none cursor-pointer ${
             isDark
               ? "bg-[#1E293B] hover:bg-[#334155] text-white border-slate-700"
               : "bg-slate-100 hover:bg-slate-200 text-slate-800 border-slate-300"
@@ -174,8 +178,8 @@ export function ClassroomTouchBar({
           <span className="hidden md:inline text-base">Prev</span>
         </button>
 
-        <div className="text-center px-2">
-          <span className="font-mono text-base sm:text-xl font-black tracking-wider block">
+        <div className="text-center px-3">
+          <span className="font-mono text-lg sm:text-2xl font-black tracking-wider block">
             Slide {currentSlide} / {totalSlides}
           </span>
         </div>
@@ -184,34 +188,49 @@ export function ClassroomTouchBar({
           onClick={onNextSlide}
           disabled={currentSlide >= totalSlides}
           aria-label="Next Slide"
-          className="min-h-[56px] sm:min-h-[64px] min-w-[56px] sm:min-w-[64px] px-6 rounded-2xl font-black flex items-center justify-center gap-2 transition-all active:scale-95 bg-emerald-600 hover:bg-emerald-500 active:bg-emerald-700 text-white border-2 border-emerald-400/50 shadow-lg disabled:opacity-30 disabled:pointer-events-none cursor-pointer text-base sm:text-lg"
+          className="min-h-[64px] min-w-[64px] px-8 rounded-2xl font-black flex items-center justify-center gap-2 transition-all active:scale-95 bg-emerald-600 hover:bg-emerald-500 active:bg-emerald-700 text-white border-2 border-emerald-400/50 shadow-xl disabled:opacity-30 disabled:pointer-events-none cursor-pointer text-base sm:text-lg"
         >
           <span>Next</span>
           <ChevronRight className="w-6 h-6" />
         </button>
       </div>
 
-      {/* Right: Fullscreen & End Class */}
+      {/* Right: Theme Toggle, Fullscreen & End Class */}
       <div className="flex items-center gap-3">
+        {onToggleTheme && (
+          <button
+            onClick={onToggleTheme}
+            title={isDark ? "Switch to High-Contrast Light Mode" : "Switch to Anti-Glare Dark Mode"}
+            aria-label={isDark ? "Switch to Light Mode" : "Switch to Dark Mode"}
+            className={`min-h-[64px] min-w-[64px] rounded-2xl flex items-center justify-center border transition-all active:scale-95 cursor-pointer ${
+              isDark
+                ? "bg-[#131F30] hover:bg-[#1E2D44] text-amber-400 border-[#20334D]"
+                : "bg-slate-100 hover:bg-slate-200 text-indigo-600 border-slate-300"
+            }`}
+          >
+            {isDark ? <Sun className="w-6 h-6" /> : <Moon className="w-6 h-6" />}
+          </button>
+        )}
+
         <button
           onClick={toggleFullscreen}
           title={isFullscreen ? "Exit Fullscreen" : "Fullscreen Presentation"}
           aria-label={isFullscreen ? "Exit Fullscreen" : "Fullscreen Presentation"}
-          className={`min-h-[56px] sm:min-h-[64px] min-w-[56px] sm:min-w-[64px] rounded-2xl flex items-center justify-center border transition-all active:scale-95 cursor-pointer ${
+          className={`min-h-[64px] min-w-[64px] rounded-2xl flex items-center justify-center border transition-all active:scale-95 cursor-pointer ${
             isDark
               ? "bg-[#131F30] hover:bg-[#1E2D44] text-slate-300 border-[#20334D]"
               : "bg-slate-100 hover:bg-slate-200 text-slate-700 border-slate-300"
           }`}
         >
-          {isFullscreen ? <Minimize2 className="w-5 h-5" /> : <Maximize2 className="w-5 h-5" />}
+          {isFullscreen ? <Minimize2 className="w-6 h-6" /> : <Maximize2 className="w-6 h-6" />}
         </button>
 
         {onEndClass && (
           <button
             onClick={onEndClass}
-            className="min-h-[56px] sm:min-h-[64px] px-5 sm:px-6 rounded-2xl font-bold text-sm sm:text-base flex items-center gap-2 bg-red-600/90 hover:bg-red-500 active:bg-red-700 text-white border border-red-400/30 transition-all active:scale-95 cursor-pointer"
+            className="min-h-[64px] px-6 rounded-2xl font-black text-sm sm:text-base flex items-center gap-2 bg-red-600 hover:bg-red-500 active:bg-red-700 text-white border border-red-400/40 transition-all active:scale-95 cursor-pointer shadow-md"
           >
-            <LogOut className="w-4 h-4" />
+            <LogOut className="w-5 h-5" />
             <span className="hidden md:inline">End Class</span>
           </button>
         )}
