@@ -109,6 +109,13 @@
 │ Status: COMPLETE                                            │
 │ Focus: Teaching context, 5 action pillars, 0 redundant input│
 └─────────────────────────────────────────────────────────────┘
+                               │
+                               ▼
+┌─────────────────────────────────────────────────────────────┐
+│ PHASE 14: Content & Resource Experience                     │
+│ Status: COMPLETE                                            │
+│ Focus: Teaching intent, draft review, preview modal, handoff│
+└─────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -308,5 +315,30 @@
   - **UX-020**: Eliminated redundant form inputs in `/dashboard/create` and `/dashboard/assessments/create` by inheriting active context from URL parameters, showing an "Active Context" banner, and skipping redundant class/subject selection steps.
   - **UX-022**: Contextualized Saathi AI assistance with 4 chapter-specific prompt chips (recap activity, misconceptions, Indian applications, Hindi notes).
 - **Chapter Workspace 5 Action Pillars**: Restructured into Prepare, Teach, Assess, Understand, and Ask Saathi.
+- **Quality & Verification**: 0 TypeScript errors (`tsc --noEmit`), 0 ESLint errors, all 357 Vitest automated tests passing across 72 test suites, clean Next.js production build.
+
+### Phase 14: Content & Resource Experience (Completed)
+- Canonical Architecture Deliverable: `docs/PHASE_14_CONTENT_RESOURCE_UX.md`.
+- **Teaching Intent Model Over File Types**: Reorganized resources into **Prepare**, **Teach**, **Practice**, and **Assess** across Chapter Workspace, Resource Studio, and AI Creation Studio. Technical file types (`PRESENTATION`, `WORKSHEET`, `QUIZ`) relegated to secondary metadata.
+- **Canonical Chapter Resources Engine** (`src/lib/data/chapterResources.ts`): High-contrast NCERT-aligned slide decks, tiered printable worksheets, formative clicker quizzes, and think-pair-share classroom activities.
+- **Standardized UI Foundation**:
+  - `src/components/resources/ResourceCard.tsx`: Standardized card displaying purpose, duration, slide/question count, curriculum tags, bookmark save toggle, and dual actions (`Preview` / `Teach`).
+  - `src/components/resources/ResourcePreviewModal.tsx`: Instant interactive modal preview with slide carousel, `< Prev / Next >` controls, tabs for pedagogy & standards, and direct `Use in Class` handoff.
+  - `src/lib/services/recentResources.ts`: Client-safe localStorage service for Recent & Saved resources with reactive custom DOM event synchronization.
+- **Resource Studio Re-Architecture** (`src/app/[locale]/dashboard/resources/page.tsx`):
+  - Active Teaching Context hero banner inheriting Class, Subject, and Chapter without re-selection.
+  - 4 library navigation tabs: *For Current Chapter*, *Recent Resources*, *Saved*, and *All Resources*.
+  - Natural teacher query search and category filter pills (`All`, `Lesson Slides`, `Worksheet`, `Quiz`, `Activity`, `Video`).
+- **Full Resource Inspection Page** (`src/app/[locale]/dashboard/resources/[id]/page.tsx`): Upgraded technical snapshot page into full visual preview with tabs for Preview, Pedagogical Details, NCERT Alignment, and Version History audit rollback.
+- **Intent-Based AI Studio & Review-Before-Use Flow** (`src/app/[locale]/dashboard/create/page.tsx`):
+  - Step 1: Tell me what to create (6 intent tiles + inherited context banner).
+  - Step 2: Customize Setup (difficulty, language, duration, item count).
+  - Step 3: Teacher-facing progress milestones (replacing pipeline jargon).
+  - Step 4: Review Your Resource (live draft preview with `Regenerate`, `Edit`, `Save to Resources`, and `Use in Class`).
+- **Audit Findings Systematically Resolved**:
+  - **UX-003**: Connected chapter presentations directly to the real 75" `/classroom` system.
+  - **UX-005**: Fixed creation redirects and preserved bidirectional `returnUrl` navigation.
+  - **UX-015**: Created client-side Recent & Saved resources state ledger.
+  - **UX-020**: Implemented zero redundant inputs across all resource generation and preview flows.
 - **Quality & Verification**: 0 TypeScript errors (`tsc --noEmit`), 0 ESLint errors, all 357 Vitest automated tests passing across 72 test suites, clean Next.js production build.
 
