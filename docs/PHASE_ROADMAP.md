@@ -132,6 +132,15 @@
 │ Focus: Teacher decides, Saathi assists, 5 panels, context   │
 │        hierarchy, dual-card analytics, Hindi/Hinglish       │
 └─────────────────────────────────────────────────────────────┘
+                               │
+                               ▼
+┌─────────────────────────────────────────────────────────────┐
+│ PHASE 17: Classroom Interaction & Assessment UX             │
+│ Status: COMPLETE                                            │
+│ Focus: 5-Stage Formative Cycle, 75" Touch Display,          │
+│        Live Response Distribution, 3-Column Pedagogy,       │
+│        Re-teach & Recheck Mastery Loop                      │
+└─────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -408,5 +417,23 @@
   - Dedicated automated test suite: `tests/ai/saathi-copilot.test.ts` (14 unit and integration tests passing).
   - **381 total automated tests across 74 test suites passing with 100% success rate**.
   - 0 TypeScript errors (`tsc --noEmit`), 0 lint warnings, clean Next.js production build.
+
+### Phase 17: Classroom Interaction & Assessment UX (Completed)
+- Canonical Architecture Deliverable: `docs/PHASE_17_CLASSROOM_INTERACTION_ASSESSMENT_UX.md`.
+- **Core Pedagogical Principle**:
+  - `TEACH → ASK → OBSERVE → ASSESS → UNDERSTAND → RESPOND → CONTINUE TEACHING`.
+  - Formative assessment functions as a natural, touch-first extension of teaching on the 75-inch smartboard rather than a high-stakes examination portal.
+- **The 5 Canonical Panel Implementations (Reference Specification: `media_1790114569081.jpg`)**:
+  - **Panel 1: Quick Check Hub ("Let's check your understanding!")**: Contextual NCERT chapter badge with 4 launch modalities (`Start Quick Check`, `Use Existing Quiz`, `Create a Question with Saathi`, `Exit Ticket`).
+  - **Panel 2: 75" Question Display**: 2x2 high-contrast grid with bold tactile option cards (A Red, B Blue, C Green, D Orange), $\ge 100\text{px}$ touch targets, 6–10m distance legibility, and isolated teacher controls (`[Pause Responses]`, `[Reveal Answer]`, `[View Distribution]`) preventing premature answer leaks.
+  - **Panel 3: Live Response Distribution**: Real-time response bar charts displaying student counts and percentages (e.g., $18/24$ students, $75\%$), supporting both automated clicker input and manual show-of-hands increment/decrement counters.
+  - **Panel 4: Observed Data → Saathi Insight → Suggested Intervention**: Strict 3-column pedagogical architecture separating empirical facts (Amber) from AI cognitive misconception analysis (Purple) and concrete 2–5 min actions (Green), with `[Use This Suggestion]`, `[Open Whiteboard]`, and `[Try Another Suggestion]`.
+  - **Panel 5: Re-teach & Recheck Loop with Mastery Tracking**: Step 1 (Visual comparison diagram with whiteboard annotations) $\to$ Step 2 (Quick recheck question) $\to$ Step 3 (Mastery metric e.g. $22/24$ students, $92\%$), concluding with seamless `[Continue to Next Slide →]` transition.
+- **Bilingual & Daylight Support**: High-accuracy English/Hindi translations toggleable without losing student votes; anti-glare daylight theme (#F8FAFC) alongside dark smartboard mode (#0B131E).
+- **Quality & Verification**:
+  - Dedicated automated test suite: `tests/classroom/classroom-interaction-assessment.test.ts` (16 tests passing).
+  - **397 total automated tests across 75 test suites passing with 100% success rate**.
+  - 0 TypeScript errors (`tsc --noEmit`), 0 lint warnings (`next lint`), clean Next.js production build.
+
 
 

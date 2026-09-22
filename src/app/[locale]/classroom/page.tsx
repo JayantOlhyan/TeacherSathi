@@ -14,17 +14,13 @@ import {
   BookOpen,
   PenTool,
   Sun,
-  Moon,
-  Plus,
-  Minus,
-  CheckCircle2,
-  Eye,
-  Check
+  Moon
 } from "lucide-react";
 import { useClassroomRealtime } from "@/lib/classroom/useClassroomRealtime";
 import { SmartboardSlideViewer } from "@/components/classroom/SmartboardSlideViewer";
 import { ClassroomTouchBar } from "@/components/ui/ClassroomTouchBar";
 import { ClassroomWhiteboard } from "@/components/classroom/ClassroomWhiteboard";
+import { ClassroomQuickCheck } from "@/components/classroom/ClassroomQuickCheck";
 import { SaathiClassroomDrawer } from "@/components/classroom/SaathiClassroomDrawer";
 import { ClassroomResourceDrawer } from "@/components/classroom/ClassroomResourceDrawer";
 import { ConfirmDialog } from "@/components/ui/Dialog";
@@ -216,10 +212,15 @@ export default function ClassroomKioskPage() {
   const [isResourceDrawerOpen, setIsResourceDrawerOpen] = useState(false);
   const [isConfirmEndOpen, setIsConfirmEndOpen] = useState(false);
 
-  // Formative Quiz Polling State
-  const [quizPollCounts, setQuizPollCounts] = useState<{ [optIdx: number]: number }>({ 0: 0, 1: 0, 2: 0, 3: 0 });
-  const [selectedQuizOption, setSelectedQuizOption] = useState<number | null>(null);
-  const [isQuizAnswerRevealed, setIsQuizAnswerRevealed] = useState(false);
+  // Curriculum Context for Slides, Quick Checks & Resources (Phase 17)
+  const [curriculumContext, setCurriculumContext] = useState({
+    grade: "class-8",
+    gradeName: "Class 8",
+    subject: "science",
+    subjectName: "Science",
+    chapter: "chapter-1",
+    title: "Crop Production and Management",
+  });
 
   const timerIntervalRef = useRef<NodeJS.Timeout | null>(null);
 
@@ -236,25 +237,37 @@ export default function ClassroomKioskPage() {
       const titleParam = params.get("title");
       const gradeParam = params.get("grade");
       const subjectParam = params.get("subject");
+      const chapterParam = params.get("chapter");
 
       let computedTitle = "Grade 8 • Science — Live Smartboard Session";
-      if (titleParam) {
-        const cleanGrade = gradeParam ? gradeParam.replace("class-", "Class ") : "";
-        const cleanSub = subjectParam ? subjectParam.charAt(0).toUpperCase() + subjectParam.slice(1) : "";
-        computedTitle = `${cleanGrade ? cleanGrade + " • " : ""}${cleanSub ? cleanSub + " — " : ""}${titleParam}`;
+      if (titleParam || gradeParam || subjectParam) {
+        const cleanGrade = gradeParam ? gradeParam.replace("class-", "Class ") : "Class 8";
+        const cleanSub = subjectParam ? subjectParam.charAt(0).toUpperCase() + subjectParam.slice(1) : "Science";
+        computedTitle = `${cleanGrade ? cleanGrade + " • " : ""}${cleanSub ? cleanSub + " — " : ""}${titleParam || PRESET_CHAPTERS[0].title}`;
         setSessionTitle(computedTitle);
 
-        setPresentationSlides((prev) => {
-          const updated = [...prev];
-          if (updated[0]) {
-            updated[0] = {
-              ...updated[0],
-              title: titleParam,
-              subtitle: `NCERT ${cleanGrade} ${cleanSub}`,
-            };
-          }
-          return updated;
+        setCurriculumContext({
+          grade: gradeParam || "class-8",
+          gradeName: cleanGrade,
+          subject: subjectParam || "science",
+          subjectName: cleanSub,
+          chapter: chapterParam || "chapter-1",
+          title: titleParam || PRESET_CHAPTERS[0].title,
         });
+
+        if (titleParam) {
+          setPresentationSlides((prev) => {
+            const updated = [...prev];
+            if (updated[0]) {
+              updated[0] = {
+                ...updated[0],
+                title: titleParam,
+                subtitle: `NCERT ${cleanGrade} ${cleanSub}`,
+              };
+            }
+            return updated;
+          });
+        }
       }
 
       const existingSessionId = params.get("sessionId") || params.get("session_id");
@@ -464,6 +477,14 @@ export default function ClassroomKioskPage() {
     setSessionTitle(`${preset.grade} • ${preset.subject} — ${preset.title}`);
     setPresentationSlides(preset.slides);
     setCurrentSlideIndex(0);
+    setCurriculumContext({
+      grade: preset.grade.toLowerCase().replace(" ", "-"),
+      gradeName: preset.grade,
+      subject: preset.subject.toLowerCase(),
+      subjectName: preset.subject,
+      chapter: preset.chapter.toLowerCase().replace(" ", "-"),
+      title: preset.title,
+    });
   };
 
   // Safe End Classroom with Confirmation Dialog (UX-013)
@@ -859,168 +880,28 @@ export default function ClassroomKioskPage() {
               </div>
             )}
 
-            {/* VIEWPORT MODE 3: FORMATIVE CLICKER QUIZ WITH CLASSROOM POLLING */}
+            {/* VIEWPORT MODE 3: CLASSROOM INTERACTION & QUICK CHECK HUB (Phase 17) */}
             {activeTab === "quiz" && (
-              <div
-                className={`flex-1 w-full h-full min-h-0 flex flex-col justify-between p-8 sm:p-14 select-none overflow-y-auto ${
-                  isDark ? "bg-[#0B131E] text-slate-100" : "bg-[#F8FAFC] text-slate-900"
-                }`}
-              >
-                <div className="space-y-6 max-w-5xl mx-auto w-full">
-                  <div className="flex items-center justify-between">
-                    <div
-                      className={`inline-flex items-center gap-2 text-base font-black px-4 py-2 rounded-full border ${
-                        isDark
-                          ? "bg-purple-500/20 text-purple-300 border-purple-400/40"
-                          : "bg-purple-100 text-purple-800 border-purple-300"
-                      }`}
-                    >
-                      <HelpCircle className="w-5 h-5 text-purple-500" />
-                      Classroom Formative Clicker Quiz
-                    </div>
-
-                    <button
-                      onClick={() => setIsQuizAnswerRevealed(!isQuizAnswerRevealed)}
-                      className={`min-h-[56px] px-6 rounded-2xl font-black text-base flex items-center gap-2 border transition-all cursor-pointer ${
-                        isQuizAnswerRevealed
-                          ? "bg-emerald-600 text-white border-emerald-400 shadow-md"
-                          : isDark
-                          ? "bg-slate-800 hover:bg-slate-700 text-slate-200 border-slate-700"
-                          : "bg-white hover:bg-slate-100 text-slate-800 border-slate-300 shadow-sm"
-                      }`}
-                    >
-                      <Eye className="w-5 h-5" />
-                      <span>{isQuizAnswerRevealed ? "Hide Answer" : "Teacher: Reveal Correct Answer"}</span>
-                    </button>
-                  </div>
-
-                  <h2 className="text-4xl sm:text-5xl md:text-6xl font-black font-serif leading-tight">
-                    Concept Check: Crop Production & Management
-                  </h2>
-
-                  <p className={`text-2xl sm:text-3xl font-medium ${isDark ? "text-slate-300" : "text-slate-700"}`}>
-                    Which of the following agricultural practices is primarily carried out to replenish soil with nitrogen naturally?
-                  </p>
-
-                  {/* 4 Large Touch Option Cards (>= 72px tall) */}
-                  <div className="grid grid-cols-1 sm:grid-cols-2 gap-5 pt-4">
-                    {[
-                      { letter: "A", text: "Continuous synthetic chemical fertilizing", correct: false },
-                      { letter: "B", text: "Crop Rotation with leguminous plants", correct: true },
-                      { letter: "C", text: "Excessive canal flood irrigation", correct: false },
-                      { letter: "D", text: "Deep harvesting with combine threshers", correct: false },
-                    ].map((opt, idx) => {
-                      const isCorrect = isQuizAnswerRevealed && opt.correct;
-                      const isChosen = selectedQuizOption === idx;
-                      const pollCount = quizPollCounts[idx] || 0;
-
-                      return (
-                        <div
-                          key={idx}
-                          className={`p-6 rounded-2xl border flex flex-col justify-between gap-4 transition-all min-h-[96px] ${
-                            isCorrect
-                              ? "bg-emerald-600 text-white border-emerald-400 ring-4 ring-emerald-400/30 shadow-xl"
-                              : isChosen
-                              ? isDark
-                                ? "bg-slate-800 text-emerald-300 border-emerald-400 ring-2 ring-emerald-400/40"
-                                : "bg-emerald-50 text-[#0F5B38] border-emerald-400 ring-2 ring-emerald-400/40"
-                              : isDark
-                              ? "bg-slate-900/80 border-slate-700 hover:border-slate-500"
-                              : "bg-white border-slate-300 shadow-sm"
-                          }`}
-                        >
-                          <div
-                            onClick={() => setSelectedQuizOption(idx)}
-                            className="flex items-center gap-4 cursor-pointer"
-                          >
-                            <span
-                              className={`w-14 h-14 rounded-2xl flex items-center justify-center font-black text-2xl flex-shrink-0 border ${
-                                isCorrect
-                                  ? "bg-white text-emerald-700 border-white"
-                                  : isDark
-                                  ? "bg-purple-500/20 text-purple-300 border-purple-400/40"
-                                  : "bg-purple-100 text-purple-800 border-purple-300"
-                              }`}
-                            >
-                              {opt.letter}
-                            </span>
-                            <span className="text-xl sm:text-2xl font-bold leading-snug flex-1">
-                              {opt.text}
-                            </span>
-                            {isCorrect && <Check className="w-8 h-8 text-white flex-shrink-0" />}
-                          </div>
-
-                          {/* Classroom Student Hands Polling Counter */}
-                          <div className="flex items-center justify-between pt-3 border-t border-white/10 text-sm font-bold">
-                            <span className={isCorrect ? "text-white" : isDark ? "text-slate-400" : "text-slate-600"}>
-                              Student Hands: <strong className="font-mono text-base">{pollCount}</strong>
-                            </span>
-                            <div className="flex items-center gap-2">
-                              <button
-                                onClick={() =>
-                                  setQuizPollCounts((prev) => ({
-                                    ...prev,
-                                    [idx]: Math.max(0, (prev[idx] || 0) - 1),
-                                  }))
-                                }
-                                className="w-9 h-9 rounded-xl bg-black/20 hover:bg-black/30 flex items-center justify-center text-current cursor-pointer active:scale-95"
-                              >
-                                <Minus className="w-4 h-4" />
-                              </button>
-                              <button
-                                onClick={() =>
-                                  setQuizPollCounts((prev) => ({
-                                    ...prev,
-                                    [idx]: (prev[idx] || 0) + 1,
-                                  }))
-                                }
-                                className="w-9 h-9 rounded-xl bg-emerald-500 text-white flex items-center justify-center cursor-pointer active:scale-95"
-                              >
-                                <Plus className="w-4 h-4" />
-                              </button>
-                            </div>
-                          </div>
-                        </div>
-                      );
-                    })}
-                  </div>
-
-                  {isQuizAnswerRevealed && (
-                    <div
-                      className={`p-6 rounded-2xl border space-y-2 animate-fadeIn ${
-                        isDark ? "bg-emerald-950/30 border-emerald-500/40" : "bg-emerald-50 border-emerald-300"
-                      }`}
-                    >
-                      <div className="flex items-center gap-2 text-emerald-500 font-black text-sm uppercase tracking-wider">
-                        <CheckCircle2 className="w-5 h-5" />
-                        <span>NCERT Learning Explanation</span>
-                      </div>
-                      <p className={`text-xl font-bold leading-relaxed ${isDark ? "text-emerald-100" : "text-emerald-950"}`}>
-                        Leguminous plants (pulses, beans, peas) harbor Rhizobium bacteria in their root nodules, which fix atmospheric nitrogen into nitrates and replenish the soil naturally without chemical runoff.
-                      </p>
-                    </div>
-                  )}
-                </div>
-
-                <div className="pt-6 border-t border-slate-700/60 flex items-center justify-between">
-                  <button
-                    onClick={() => setActiveTab("content")}
-                    className="min-h-[56px] px-6 rounded-2xl bg-slate-800 hover:bg-slate-700 text-white font-bold text-base cursor-pointer"
-                  >
-                    &larr; Back to Slides
-                  </button>
-                  <button
-                    onClick={() => {
-                      setQuizPollCounts({ 0: 0, 1: 0, 2: 0, 3: 0 });
-                      setSelectedQuizOption(null);
-                      setIsQuizAnswerRevealed(false);
-                    }}
-                    className="min-h-[56px] px-6 rounded-2xl bg-slate-800 hover:bg-slate-700 text-slate-300 font-bold text-base cursor-pointer"
-                  >
-                    Reset Poll Counts
-                  </button>
-                </div>
-              </div>
+              <ClassroomQuickCheck
+                isOpen={true}
+                isDark={isDark}
+                grade={curriculumContext.grade}
+                gradeName={curriculumContext.gradeName}
+                subject={curriculumContext.subject}
+                subjectName={curriculumContext.subjectName}
+                chapter={curriculumContext.chapter}
+                chapterTitle={curriculumContext.title}
+                currentSlideIndex={currentSlideIndex}
+                totalStudents={24}
+                onClose={() => setActiveTab("content")}
+                onOpenWhiteboard={() => setActiveTab("whiteboard")}
+                onOpenSaathi={() => {
+                  setIsSaathiDrawerOpen(true);
+                }}
+                onViewAnalytics={() => {
+                  window.location.href = `/dashboard/analytics?grade=${curriculumContext.grade}&subject=${curriculumContext.subject}&chapter=${curriculumContext.chapter}`;
+                }}
+              />
             )}
 
           </div>
