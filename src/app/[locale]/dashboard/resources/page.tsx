@@ -18,6 +18,7 @@ import {
 } from "lucide-react";
 import type { ResourceRecord } from "@/lib/repositories/resources";
 import type { ResourceType } from "@/lib/validations/resources";
+import { ConfirmDialog, AlertDialog } from "@/components/ui/Dialog";
 
 export default function ResourcesLibraryPage() {
   const [resources, setResources] = useState<ResourceRecord[]>([]);
@@ -27,6 +28,33 @@ export default function ResourcesLibraryPage() {
   const [statusFilter, setStatusFilter] = useState<string>("ALL");
   const [languageFilter, setLanguageFilter] = useState<string>("ALL");
   const [actionLoading, setActionLoading] = useState<string | null>(null);
+
+  // Dialog states replacing native alert/confirm (UX-010)
+  const [confirmDialog, setConfirmDialog] = useState<{
+    isOpen: boolean;
+    title: string;
+    description: string;
+    confirmLabel?: string;
+    variant?: "danger" | "primary" | "warning";
+    onConfirm: () => void | Promise<void>;
+  }>({
+    isOpen: false,
+    title: "",
+    description: "",
+    onConfirm: () => {},
+  });
+
+  const [alertDialog, setAlertDialog] = useState<{
+    isOpen: boolean;
+    title: string;
+    message: string;
+    variant?: "success" | "danger" | "info";
+  }>({
+    isOpen: false,
+    title: "",
+    message: "",
+    variant: "info",
+  });
 
   // New Resource Modal State
   const [isCreateModalOpen, setIsCreateModalOpen] = useState(false);
@@ -69,39 +97,67 @@ export default function ResourcesLibraryPage() {
         await fetchResources();
       } else {
         const json = await res.json();
-        alert(json.error || "Failed to publish resource. Check validation errors.");
+        setAlertDialog({
+          isOpen: true,
+          title: "Publishing Error",
+          message: json.error || "Failed to publish resource. Check validation errors.",
+          variant: "danger",
+        });
       }
     } catch {
-      alert("Network error during publishing");
+      setAlertDialog({
+        isOpen: true,
+        title: "Network Error",
+        message: "Network error occurred while publishing the resource.",
+        variant: "danger",
+      });
     } finally {
       setActionLoading(null);
     }
   };
 
-  const handleArchive = async (id: string) => {
-    if (!confirm("Are you sure you want to archive this resource?")) return;
-    setActionLoading(id);
-    try {
-      const res = await fetch(`/api/resources/${id}/archive`, { method: "POST" });
-      if (res.ok) {
-        await fetchResources();
-      }
-    } finally {
-      setActionLoading(null);
-    }
+  const handleArchive = (id: string) => {
+    setConfirmDialog({
+      isOpen: true,
+      title: "Archive Resource",
+      description: "Are you sure you want to archive this resource? It will be hidden from the active classroom library.",
+      confirmLabel: "Archive",
+      variant: "warning",
+      onConfirm: async () => {
+        setActionLoading(id);
+        try {
+          const res = await fetch(`/api/resources/${id}/archive`, { method: "POST" });
+          if (res.ok) {
+            await fetchResources();
+          }
+        } finally {
+          setActionLoading(null);
+          setConfirmDialog((prev) => ({ ...prev, isOpen: false }));
+        }
+      },
+    });
   };
 
-  const handleDelete = async (id: string) => {
-    if (!confirm("Are you sure you want to permanently delete this resource?")) return;
-    setActionLoading(id);
-    try {
-      const res = await fetch(`/api/resources/${id}`, { method: "DELETE" });
-      if (res.ok) {
-        await fetchResources();
-      }
-    } finally {
-      setActionLoading(null);
-    }
+  const handleDelete = (id: string) => {
+    setConfirmDialog({
+      isOpen: true,
+      title: "Delete Resource Permanently",
+      description: "Are you sure you want to permanently delete this resource? This action cannot be undone.",
+      confirmLabel: "Delete Permanently",
+      variant: "danger",
+      onConfirm: async () => {
+        setActionLoading(id);
+        try {
+          const res = await fetch(`/api/resources/${id}`, { method: "DELETE" });
+          if (res.ok) {
+            await fetchResources();
+          }
+        } finally {
+          setActionLoading(null);
+          setConfirmDialog((prev) => ({ ...prev, isOpen: false }));
+        }
+      },
+    });
   };
 
   const handleCreateResource = async (e: React.FormEvent) => {
@@ -194,10 +250,20 @@ export default function ResourcesLibraryPage() {
         await fetchResources();
       } else {
         const json = await res.json();
-        alert(json.error || "Failed to create resource");
+        setAlertDialog({
+          isOpen: true,
+          title: "Resource Creation Failed",
+          message: json.error || "Failed to create resource. Please review the form fields.",
+          variant: "danger",
+        });
       }
     } catch {
-      alert("Error creating resource");
+      setAlertDialog({
+        isOpen: true,
+        title: "Creation Error",
+        message: "An unexpected error occurred while creating the resource.",
+        variant: "danger",
+      });
     } finally {
       setIsSubmitting(false);
     }
@@ -597,6 +663,25 @@ export default function ResourcesLibraryPage() {
           </div>
         </div>
       )}
+
+      {/* Non-blocking confirm and alert dialogs (UX-010) */}
+      <ConfirmDialog
+        isOpen={confirmDialog.isOpen}
+        title={confirmDialog.title}
+        description={confirmDialog.description}
+        confirmLabel={confirmDialog.confirmLabel}
+        variant={confirmDialog.variant}
+        onConfirm={confirmDialog.onConfirm}
+        onCancel={() => setConfirmDialog((prev) => ({ ...prev, isOpen: false }))}
+      />
+
+      <AlertDialog
+        isOpen={alertDialog.isOpen}
+        title={alertDialog.title}
+        message={alertDialog.message}
+        variant={alertDialog.variant}
+        onClose={() => setAlertDialog((prev) => ({ ...prev, isOpen: false }))}
+      />
     </div>
   );
 }
