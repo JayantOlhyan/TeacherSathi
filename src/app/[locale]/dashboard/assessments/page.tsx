@@ -12,6 +12,7 @@ import {
   CheckCircle2
 } from "lucide-react";
 import { type AssessmentRecord } from "@/lib/repositories/assessments";
+import { ConfirmDialog, AlertDialog } from "@/components/ui/Dialog";
 
 export default function TeacherAssessmentsListPage() {
   const [assessments, setAssessments] = useState<AssessmentRecord[]>([]);
@@ -22,6 +23,18 @@ export default function TeacherAssessmentsListPage() {
   const [selectedClassId, setSelectedClassId] = useState("");
   const [dueDate, setDueDate] = useState("");
   const [isAssigning, setIsAssigning] = useState(false);
+  const [deleteConfirmId, setDeleteConfirmId] = useState<string | null>(null);
+  const [alertInfo, setAlertInfo] = useState<{
+    isOpen: boolean;
+    title: string;
+    message: string;
+    variant?: "info" | "success" | "danger";
+  }>({
+    isOpen: false,
+    title: "",
+    message: "",
+    variant: "info",
+  });
 
   // Load teacher assessments
   const fetchAssessments = async () => {
@@ -67,15 +80,21 @@ export default function TeacherAssessmentsListPage() {
     }
   };
 
-  const handleDelete = async (id: string) => {
-    if (!window.confirm("Are you sure you want to delete this draft assessment?")) return;
+  const handleDelete = (id: string) => {
+    setDeleteConfirmId(id);
+  };
+
+  const confirmDelete = async () => {
+    if (!deleteConfirmId) return;
     try {
-      const res = await fetch(`/api/assessments/${id}`, { method: "DELETE" });
+      const res = await fetch(`/api/assessments/${deleteConfirmId}`, { method: "DELETE" });
       if (res.ok) {
         fetchAssessments();
       }
     } catch {
       // fallback
+    } finally {
+      setDeleteConfirmId(null);
     }
   };
 
@@ -93,7 +112,12 @@ export default function TeacherAssessmentsListPage() {
       });
       if (res.ok) {
         setAssignModalAssessmentId(null);
-        alert("Assessment successfully assigned to class!");
+        setAlertInfo({
+          isOpen: true,
+          title: "Assessment Assigned",
+          message: "Assessment has been successfully assigned to your selected class.",
+          variant: "success",
+        });
       }
     } catch {
       // fallback
@@ -321,6 +345,25 @@ export default function TeacherAssessmentsListPage() {
           </div>
         </div>
       )}
+
+      {/* Confirm and Alert Modals replacing native browser dialogs (UX-010) */}
+      <ConfirmDialog
+        isOpen={!!deleteConfirmId}
+        onCancel={() => setDeleteConfirmId(null)}
+        onConfirm={confirmDelete}
+        title="Delete Draft Assessment"
+        description="Are you sure you want to delete this draft assessment? This action cannot be undone."
+        confirmLabel="Delete Draft"
+        variant="danger"
+      />
+
+      <AlertDialog
+        isOpen={alertInfo.isOpen}
+        onClose={() => setAlertInfo((prev) => ({ ...prev, isOpen: false }))}
+        title={alertInfo.title}
+        message={alertInfo.message}
+        variant={alertInfo.variant}
+      />
     </div>
   );
 }
