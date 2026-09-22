@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import Image from "next/image";
 import { Link, usePathname } from "@/i18n/routing";
 import { useSearchParams } from "next/navigation";
@@ -11,25 +11,32 @@ import {
   Menu, 
   X, 
   ClipboardList,
+  PenTool,
   Settings,
   User,
   CheckSquare,
   BarChart3,
   CreditCard,
-  Building2
+  Building2,
+  Compass
 } from "lucide-react";
 import { AnimatePresence, motion } from "framer-motion";
 
-const navItems = [
+const coreNavItems = [
   { name: "Dashboard", href: "/dashboard", icon: Home },
-  { name: "Institutions", href: "/admin/institutional", icon: Building2 },
+  { name: "Curriculum", href: "/content", icon: Compass },
+  { name: "My Classes", href: "/dashboard/classes", icon: BookOpen },
+  { name: "Resources", href: "/dashboard/resources", icon: FileText },
   { name: "Assessments", href: "/dashboard/assessments", icon: CheckSquare },
+  { name: "Whiteboard", href: "/dashboard/whiteboard", icon: PenTool },
   { name: "Analytics", href: "/dashboard/analytics", icon: BarChart3 },
-  { name: "Billing", href: "/dashboard/admin/billing", icon: CreditCard },
-  { name: "My Lessons", href: "/dashboard/classes", icon: BookOpen },
-  { name: "Resources", href: "/resources", icon: FileText },
   { name: "Worksheets", href: "/dashboard/create?type=test-paper", icon: ClipboardList },
   { name: "Settings", href: "/dashboard/settings", icon: Settings },
+];
+
+const adminNavItems = [
+  { name: "Institutions", href: "/admin/institutional", icon: Building2 },
+  { name: "Billing", href: "/dashboard/admin/billing", icon: CreditCard },
 ];
 
 export function Sidebar() {
@@ -39,9 +46,25 @@ export function Sidebar() {
   const tabParam = searchParams.get("tab");
 
   const [mobileOpen, setMobileOpen] = useState(false);
+  const [isAdmin, setIsAdmin] = useState(false);
+
+  useEffect(() => {
+    if (typeof window !== "undefined") {
+      const storedName = localStorage.getItem("last_sathi_teacher_name");
+      const isMockAdmin = localStorage.getItem("is_admin_user") === "true" || 
+                          (storedName && (
+                            storedName.toLowerCase().includes("admin") || 
+                            storedName.toLowerCase().includes("founder")
+                          )) ||
+                          window.location.hostname === "localhost";
+      setIsAdmin(!!isMockAdmin);
+    }
+  }, []);
+
+  const navItems = isAdmin ? [...coreNavItems, ...adminNavItems] : coreNavItems;
 
   const renderNavList = () => (
-    <nav className="flex-1 px-4 py-6 space-y-2 overflow-y-auto">
+    <nav className="flex-1 px-4 py-6 space-y-1.5 overflow-y-auto">
       {navItems.map((item) => {
         const isQueryItem = item.href.includes("?");
         let isActive = false;
@@ -72,14 +95,14 @@ export function Sidebar() {
             key={item.name}
             href={item.href}
             onClick={() => setMobileOpen(false)}
-            className={`flex items-center gap-4 px-4 py-3.5 rounded-xl transition-all duration-200 group ${
+            className={`flex items-center gap-3.5 px-4 py-3 rounded-xl transition-all duration-150 group text-sm ${
               isActive 
-                ? "bg-white/10 text-white font-bold" 
-                : "text-emerald-50 hover:bg-white/5 hover:text-white font-medium"
+                ? "bg-white/15 text-white font-bold shadow-2xs" 
+                : "text-emerald-100/90 hover:bg-white/10 hover:text-white font-medium"
             }`}
           >
-            <item.icon className={`w-5 h-5 shrink-0 ${isActive ? "text-white" : "text-emerald-200 group-hover:text-emerald-100"}`} strokeWidth={isActive ? 2.5 : 2} />
-            <span className="text-base tracking-wide">{item.name}</span>
+            <item.icon className={`w-5 h-5 shrink-0 ${isActive ? "text-white" : "text-emerald-300 group-hover:text-emerald-100"}`} strokeWidth={2} />
+            <span className="tracking-wide">{item.name}</span>
           </Link>
         );
       })}
