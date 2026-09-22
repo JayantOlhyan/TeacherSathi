@@ -16,11 +16,14 @@ import {
   FileText,
   Calendar,
   Lightbulb,
-  QrCode
+  QrCode,
+  Compass,
+  Tv
 } from "lucide-react";
 import ClassroomSessionHeader from "@/components/dashboard/ClassroomSessionHeader";
 import SmartboardQRAuthModal from "@/components/auth/SmartboardQRAuthModal";
 import ClassroomControlPanel from "@/components/classroom/ClassroomControlPanel";
+import { useTeachingContext } from "@/lib/context/teachingContext";
 
 export default function DashboardPage() {
   // Overlays & Stateful Dialogs
@@ -40,6 +43,15 @@ export default function DashboardPage() {
 
   const messagesEndRef = useRef<HTMLDivElement>(null);
 
+  const { context: teachingCtx } = useTeachingContext();
+
+  const [classesList, setClassesList] = useState([
+    { id: "cls-8a", name: "Class 8-A", grade_id: "class-8", section: "A", subject: "Science", count: 42, activeTopic: "Crop Production & Management" },
+    { id: "cls-9b", name: "Class 9-B", grade_id: "class-9", section: "B", subject: "Science", count: 38, activeTopic: "Matter in Our Surroundings" },
+    { id: "cls-10a", name: "Class 10-A", grade_id: "class-10", section: "A", subject: "Science", count: 40, activeTopic: "Light - Reflection & Refraction" },
+    { id: "cls-7a", name: "Class 7-A", grade_id: "class-7", section: "A", subject: "Science", count: 35, activeTopic: "Nutrition in Plants" },
+  ]);
+
   const [classAnalytics, setClassAnalytics] = useState<{
     overallClassMastery: number;
     needsSupportCount: number;
@@ -54,6 +66,17 @@ export default function DashboardPage() {
         if (cRes.ok) {
           const cJson = await cRes.json();
           if (Array.isArray(cJson.data) && cJson.data.length > 0) {
+            const mapped = cJson.data.map((c: { id?: string; name?: string; grade_id?: string; section?: string; count?: number; subject?: string; activeTopic?: string }, idx: number) => ({
+              id: c.id || `cls-${idx}`,
+              name: c.name || `Class ${idx + 6}`,
+              grade_id: c.grade_id || `class-${idx + 6}`,
+              section: c.section || "A",
+              count: c.count || 36 + (idx * 2),
+              subject: c.subject || "Science",
+              activeTopic: c.activeTopic || (idx === 0 ? "Crop Production & Management" : "NCERT Curriculum Pack"),
+            }));
+            setClassesList(mapped);
+
             const firstClass = cJson.data[0];
             const aRes = await fetch(`/api/analytics/class/${firstClass.id}`);
             if (aRes.ok) {
@@ -222,29 +245,30 @@ export default function DashboardPage() {
           </Link>
           <button 
             onClick={playAttentionBellSound}
-            className="inline-flex items-center gap-2 bg-red-600 hover:bg-red-700 text-white font-bold px-4 py-3 rounded-xl transition-all shadow-sm active:scale-95 text-sm cursor-pointer"
+            title="Sound gentle classroom attention chime"
+            className="inline-flex items-center gap-2 bg-emerald-700/80 hover:bg-emerald-600 text-white font-bold px-4 py-3 rounded-xl transition-all shadow-sm active:scale-95 text-sm cursor-pointer border border-emerald-500/40"
           >
             <Bell className="w-4 h-4" />
-            Silence Bell
+            Attention Chime
           </button>
         </div>
         <div className="absolute right-0 bottom-0 top-0 w-1/3 bg-[radial-gradient(circle_at_right,rgba(255,255,255,0.08),transparent_70%)] pointer-events-none" />
       </div>
 
-      {/* Got a Doubt Banner */}
-      <div className="glass-panel rounded-2xl p-6 flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4">
+      {/* Got a Doubt Banner - Standardized Saathi Assistant Callout */}
+      <div className="bg-white rounded-2xl border border-gray-100 p-5 shadow-sm flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4">
         <div className="space-y-1">
-          <h2 className="text-lg font-bold text-gray-800 flex items-center gap-2">
-            <Lightbulb className="w-5 h-5 text-amber-500" />
-            Got a Quick Doubt or Need a Lesson Spark?
+          <h2 className="text-base font-extrabold text-gray-800 flex items-center gap-2">
+            <Lightbulb className="w-5 h-5 text-amber-500 shrink-0" />
+            Got a Lesson Question or Need an Activity Idea?
           </h2>
           <p className="text-gray-500 text-xs font-medium">
-            Saathi Genie is ready to help you construct immediate 5-minute activities, recap questions, or explain clicker operations.
+            Saathi Genie is ready to help you construct immediate 5-minute activities, recap questions, or classroom discussion sparks.
           </p>
         </div>
         <button 
           onClick={() => setIsGenieChatOpen(true)}
-          className="bg-[#14532D] hover:bg-green-800 text-white font-bold px-5 py-2.5 rounded-xl transition-all active:scale-95 text-xs shadow-sm cursor-pointer flex items-center gap-2"
+          className="bg-[#0F5B38] hover:bg-[#0C4B2E] text-white font-bold px-5 py-2.5 rounded-xl transition-all active:scale-95 text-xs shadow-sm cursor-pointer flex items-center gap-2 shrink-0"
         >
           <MessageSquare className="w-4 h-4" />
           Ask Saathi Genie
@@ -282,56 +306,123 @@ export default function DashboardPage() {
         {/* Left Column (Span 2) */}
         <div className="lg:col-span-2 space-y-8">
           
-          {/* Continue Teaching */}
+          {/* Continue Teaching (UX-002, UX-018) */}
           <section className="space-y-3">
-            <h3 className="text-sm font-bold text-gray-400 uppercase tracking-wider">Continue Teaching</h3>
-            <div className="bg-white border border-gray-100 p-5 rounded-2xl flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4 hover:shadow-sm transition-all">
+            <div className="flex justify-between items-center">
+              <h3 className="text-sm font-bold text-gray-400 uppercase tracking-wider">Continue Teaching</h3>
+              <Link 
+                href={`/content/${teachingCtx.grade || 'class-8'}/${teachingCtx.subject || 'science'}/${teachingCtx.chapter || 'chapter-1'}`}
+                className="text-xs font-bold text-[#14532D] hover:underline"
+              >
+                Open Chapter Workspace &rarr;
+              </Link>
+            </div>
+            <div className="bg-white border border-emerald-100 p-6 rounded-2xl flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4 hover:shadow-md transition-all shadow-xs">
               <div className="flex gap-4 items-center">
-                <div className="w-12 h-12 bg-emerald-50 text-emerald-700 rounded-xl flex items-center justify-center font-bold text-sm shrink-0">
-                  Ch 10
+                <div className="w-14 h-14 bg-emerald-50 text-[#14532D] rounded-2xl flex flex-col items-center justify-center font-black text-sm shrink-0 border border-emerald-100">
+                  <span className="text-[10px] uppercase font-bold text-emerald-600">Ch</span>
+                  <span className="text-base">{teachingCtx.chapterNumber || 1}</span>
                 </div>
                 <div>
-                  <h4 className="font-extrabold text-gray-800 text-sm">Light - Reflection & Refraction</h4>
-                  <p className="text-gray-400 text-xs font-semibold mt-0.5">Class 10-A • Science • 3/5 slides completed</p>
+                  <div className="flex items-center gap-2">
+                    <span className="text-[11px] font-extrabold uppercase px-2 py-0.5 rounded-full bg-emerald-100 text-emerald-800">
+                      {teachingCtx.gradeName || "Class 8"} &bull; {teachingCtx.subjectName || "Science"}
+                    </span>
+                    <span className="text-[11px] text-gray-400 font-semibold">
+                      {teachingCtx.completedTopics ?? 4}/{teachingCtx.totalTopics ?? 7} topics
+                    </span>
+                  </div>
+                  <h4 className="font-extrabold text-gray-900 text-base mt-1">
+                    {teachingCtx.chapterTitle || "Crop Production and Management"}
+                  </h4>
+                  {teachingCtx.chapterTitleHi && (
+                    <p className="text-xs font-serif text-amber-800 mt-0.5">{teachingCtx.chapterTitleHi}</p>
+                  )}
                 </div>
               </div>
-              <Link 
-                href="/content/class-10/science/chapter-10" 
-                className="inline-flex items-center gap-1.5 text-xs font-bold text-[#14532D] hover:underline whitespace-nowrap"
-              >
-                Resume Presentation
-                <ArrowRight className="w-3.5 h-3.5" />
-              </Link>
+
+              <div className="flex items-center gap-2.5 w-full sm:w-auto">
+                <Link 
+                  href={`/classroom?grade=${teachingCtx.grade || 'class-8'}&subject=${teachingCtx.subject || 'science'}&chapter=${teachingCtx.chapter || 'chapter-1'}&title=${encodeURIComponent(teachingCtx.chapterTitle || 'Lesson')}&returnUrl=${encodeURIComponent(`/content/${teachingCtx.grade || 'class-8'}/${teachingCtx.subject || 'science'}/${teachingCtx.chapter || 'chapter-1'}`)}`}
+                  className="flex-1 sm:flex-none inline-flex items-center justify-center gap-2 bg-[#14532D] hover:bg-emerald-900 text-white font-black px-4 py-2.5 rounded-xl text-xs transition-all shadow-sm active:scale-95 cursor-pointer whitespace-nowrap"
+                >
+                  <Tv className="w-4 h-4" />
+                  Start Class
+                </Link>
+                <Link 
+                  href={`/content/${teachingCtx.grade || 'class-8'}/${teachingCtx.subject || 'science'}/${teachingCtx.chapter || 'chapter-1'}`}
+                  className="flex-1 sm:flex-none inline-flex items-center justify-center gap-1.5 bg-gray-50 hover:bg-emerald-50 text-gray-700 hover:text-[#14532D] font-bold px-4 py-2.5 rounded-xl text-xs transition-all border border-gray-200 active:scale-95 cursor-pointer whitespace-nowrap"
+                >
+                  Workspace
+                  <ArrowRight className="w-3.5 h-3.5" />
+                </Link>
+              </div>
             </div>
           </section>
 
-          {/* My Classes */}
+          {/* NCERT Curriculum Quick Explorer (UX-002) */}
+          <section className="space-y-3">
+            <div className="flex justify-between items-center">
+              <h3 className="text-sm font-bold text-gray-400 uppercase tracking-wider flex items-center gap-2">
+                <Compass className="w-4 h-4 text-[#14532D]" />
+                Browse Curriculum
+              </h3>
+              <Link href="/content" className="text-xs font-bold text-[#14532D] hover:underline">
+                View All NCERT Syllabi &rarr;
+              </Link>
+            </div>
+            <div className="grid grid-cols-2 sm:grid-cols-5 gap-3">
+              {[
+                { grade: "Class 6", id: "class-6" },
+                { grade: "Class 7", id: "class-7" },
+                { grade: "Class 8", id: "class-8" },
+                { grade: "Class 9", id: "class-9" },
+                { grade: "Class 10", id: "class-10" },
+              ].map((c) => (
+                <Link
+                  key={c.id}
+                  href={`/content/${c.id}`}
+                  className="p-3 bg-white border border-gray-150 hover:border-emerald-300 hover:shadow-xs rounded-xl transition-all group block text-center"
+                >
+                  <div className="text-xs font-black text-gray-800 group-hover:text-[#14532D] transition-colors">{c.grade}</div>
+                  <div className="text-[10px] text-gray-400 font-semibold mt-0.5">Syllabus &rarr;</div>
+                </Link>
+              ))}
+            </div>
+          </section>
+
+          {/* My Classes (UX-018) */}
           <section className="space-y-3">
             <div className="flex justify-between items-center">
               <h3 className="text-sm font-bold text-gray-400 uppercase tracking-wider">My Classes</h3>
               <Link href="/dashboard/classes" className="text-xs font-bold text-[#14532D] hover:underline">
-                Manage Classes
+                Manage All Classes
               </Link>
             </div>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-              {[
-                { grade: "Class 10-A", subject: "Science", count: 42, active: "Reflection Quiz active", bg: "bg-blue-50/50 text-blue-700 border-blue-100" },
-                { grade: "Class 9-B", subject: "Science", count: 38, active: "No active assessment", bg: "bg-purple-50/50 text-purple-700 border-purple-100" },
-              ].map((c, idx) => (
-                <div key={idx} className="bg-white border border-gray-100 p-5 rounded-2xl space-y-4 hover:shadow-sm transition-all">
+              {classesList.map((c) => (
+                <div key={c.id} className="bg-white border border-gray-100 p-5 rounded-2xl space-y-4 hover:shadow-sm transition-all">
                   <div className="flex justify-between items-start">
                     <div>
-                      <h4 className="font-extrabold text-gray-800 text-sm">{c.grade}</h4>
-                      <p className="text-gray-400 text-xs font-semibold">{c.subject}</p>
+                      <h4 className="font-extrabold text-gray-800 text-sm">{c.name}</h4>
+                      <p className="text-gray-400 text-xs font-semibold">{c.subject} &bull; Section {c.section}</p>
                     </div>
                     <span className="text-xs font-bold px-2.5 py-1 rounded-full bg-gray-50 border border-gray-100 text-gray-600 flex items-center gap-1">
                       <Users className="w-3.5 h-3.5" /> {c.count}
                     </span>
                   </div>
                   <div className="pt-3 border-t border-gray-50 flex items-center justify-between text-xs">
-                    <span className="text-gray-400 font-medium truncate">{c.active}</span>
-                    <Link href={`/dashboard/classes?class=${idx === 0 ? "10A" : "9B"}`} className="text-[#14532D] font-bold hover:underline shrink-0">
-                      Open Workspace
+                    <Link 
+                      href={`/content/${c.grade_id}`} 
+                      className="text-[#14532D] font-bold hover:underline inline-flex items-center gap-1"
+                    >
+                      Teach / Curriculum &rarr;
+                    </Link>
+                    <Link 
+                      href={`/dashboard/classes?classId=${c.id}`} 
+                      className="text-gray-500 hover:text-gray-800 font-semibold"
+                    >
+                      Roster &bull; Code
                     </Link>
                   </div>
                 </div>
@@ -444,7 +535,7 @@ export default function DashboardPage() {
                       <p className="text-gray-400 text-[10px] font-semibold mt-0.5">{res.type} • {res.size}</p>
                     </div>
                   </div>
-                  <Link href="/resources" className="text-[10px] font-bold text-[#14532D] hover:underline shrink-0">
+                  <Link href="/dashboard/resources" className="text-[10px] font-bold text-[#0F5B38] hover:underline shrink-0">
                     Open
                   </Link>
                 </div>
