@@ -1,30 +1,29 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState, useEffect, useMemo } from "react";
 import { Link } from "@/i18n/routing";
 import { 
-  Play, 
   CheckSquare, 
-  MessageSquare, 
   Download, 
-  FileText, 
-  BrainCircuit, 
   CheckCircle2, 
   X, 
   Sparkles, 
-  FileCheck, 
   Tv, 
   Calendar,
-  ArrowUpRight,
   PenTool,
   BarChart3,
   Send,
   Loader2,
   Lightbulb,
-  ArrowRight
+  ArrowRight,
+  PlusCircle
 } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
 import { setTeachingContext } from "@/lib/context/teachingContext";
+import { getChapterResources, type TeachingIntent } from "@/lib/data/chapterResources";
+import { ResourceCard } from "@/components/resources/ResourceCard";
+import { ResourcePreviewModal } from "@/components/resources/ResourcePreviewModal";
+import type { StoredResourceItem } from "@/lib/services/recentResources";
 
 interface ChapterWorkspaceClientProps {
   grade: string;
@@ -49,10 +48,15 @@ export default function ChapterWorkspaceClient({
   const [saathiResponse, setSaathiResponse] = useState<string | null>(null);
   const [isSaathiThinking, setIsSaathiThinking] = useState(false);
 
+  // Intent filter & preview modal
+  const [selectedIntent, setSelectedIntent] = useState<TeachingIntent | "ALL">("ALL");
+  const [previewResource, setPreviewResource] = useState<StoredResourceItem | null>(null);
+  const [isPreviewOpen, setIsPreviewOpen] = useState(false);
+
   // Sync active chapter into global Teaching Context on mount
   useEffect(() => {
-    const chNum = parseInt(chapter.replace(/\D/g, "")) || 1;
-    const cleanGrade = grade.replace("-", " ").replace(/\b\w/g, l => l.toUpperCase());
+    const chNum = parseInt(chapter.replace(/\D/g, ""), 10) || 1;
+    const cleanGrade = grade.replace("-", " ").replace(/\b\w/g, (l) => l.toUpperCase());
     const cleanSub = subject.charAt(0).toUpperCase() + subject.slice(1);
 
     setTeachingContext({
@@ -70,7 +74,22 @@ export default function ChapterWorkspaceClient({
     });
   }, [grade, subject, chapter, chapterDetails]);
 
-  const classroomLaunchUrl = `/classroom?grade=${grade}&subject=${subject}&chapter=${chapter}&title=${encodeURIComponent(chapterDetails.title)}&returnUrl=${encodeURIComponent(`/content/${grade}/${subject}/${chapter}`)}`;
+  const classroomLaunchUrl = `/classroom?grade=${grade}&subject=${subject}&chapter=${chapter}&title=${encodeURIComponent(
+    chapterDetails.title
+  )}&returnUrl=${encodeURIComponent(`/content/${grade}/${subject}/${chapter}`)}`;
+
+  const createResourceUrl = `/dashboard/create?grade=${grade}&subject=${subject}&chapter=${chapter}&returnUrl=${encodeURIComponent(
+    `/content/${grade}/${subject}/${chapter}`
+  )}`;
+
+  const chapterResources = useMemo(() => {
+    return getChapterResources(grade, subject, chapter);
+  }, [grade, subject, chapter]);
+
+  const filteredResources = useMemo(() => {
+    if (selectedIntent === "ALL") return chapterResources;
+    return chapterResources.filter((r) => r.intent === selectedIntent);
+  }, [chapterResources, selectedIntent]);
 
   const handleAskSaathi = async (promptText?: string) => {
     const query = promptText || saathiQuery;
@@ -111,6 +130,11 @@ export default function ChapterWorkspaceClient({
     `Bilingual Hindi notes for classroom discussion`,
   ];
 
+  const handleOpenPreview = (item: StoredResourceItem) => {
+    setPreviewResource(item);
+    setIsPreviewOpen(true);
+  };
+
   return (
     <div className="space-y-8 relative">
       
@@ -148,214 +172,152 @@ export default function ChapterWorkspaceClient({
         <div className="absolute right-0 bottom-0 top-0 w-1/3 bg-[radial-gradient(circle_at_right,rgba(255,255,255,0.08),transparent_70%)] pointer-events-none" />
       </div>
 
-      {/* Grid Pillars: PREPARE, TEACH, ASSESS */}
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-        
-        {/* Column 1: PREPARE */}
-        <div className="bg-white p-6 rounded-2xl border border-gray-100 space-y-4 flex flex-col justify-between shadow-sm">
-          <div className="space-y-4">
-            <div className="pb-3 border-b border-gray-50 flex justify-between items-center">
-              <div>
-                <h3 className="text-sm font-black text-gray-400 uppercase tracking-widest">1. PREPARE</h3>
-                <p className="text-gray-500 text-[11px] font-medium mt-0.5">Lesson structure &amp; materials</p>
-              </div>
-              <span className="text-[10px] font-extrabold uppercase px-2 py-0.5 rounded bg-emerald-50 text-emerald-800">Ready</span>
-            </div>
-            
-            <div className="space-y-2.5">
-              <Link 
-                href={`/dashboard/create?type=lesson-plan&grade=${grade}&subject=${subject}&chapter=${chapter}`}
-                className="w-full flex items-center justify-between p-3.5 bg-gray-50 hover:bg-[#EDF7EF] rounded-xl text-left border border-gray-100 group transition-all cursor-pointer block"
-              >
-                <div className="flex items-center gap-3">
-                  <div className="w-9 h-9 bg-white text-[#14532D] border border-gray-100 rounded-lg flex items-center justify-center shrink-0 shadow-xs">
-                    <Calendar className="w-4.5 h-4.5" />
-                  </div>
-                  <div>
-                    <h4 className="font-extrabold text-gray-800 text-xs">AI Lesson Plan</h4>
-                    <p className="text-[10px] text-gray-400 font-semibold mt-0.5">Structured teaching roadmap</p>
-                  </div>
-                </div>
-                <ArrowUpRight className="w-4 h-4 text-gray-400 group-hover:text-[#14532D] transition-colors" />
-              </Link>
-
-              <button 
-                onClick={() => setIsProModalOpen(true)}
-                className="w-full flex items-center justify-between p-3.5 bg-gray-50 hover:bg-[#EDF7EF] rounded-xl text-left border border-gray-100 group transition-all cursor-pointer"
-              >
-                <div className="flex items-center gap-3">
-                  <div className="w-9 h-9 bg-white text-[#14532D] border border-gray-100 rounded-lg flex items-center justify-center shrink-0 shadow-xs">
-                    <BrainCircuit className="w-4.5 h-4.5" />
-                  </div>
-                  <div>
-                    <h4 className="font-extrabold text-gray-800 text-xs">Concept Mind Map</h4>
-                    <p className="text-[10px] text-gray-400 font-semibold mt-0.5">Visual concept breakdown</p>
-                  </div>
-                </div>
-                <ArrowUpRight className="w-4 h-4 text-gray-400 group-hover:text-[#14532D] transition-colors" />
-              </button>
-
-              <Link 
-                href={`/dashboard/create?type=worksheet&grade=${grade}&subject=${subject}&chapter=${chapter}`}
-                className="w-full flex items-center justify-between p-3.5 bg-gray-50 hover:bg-[#EDF7EF] rounded-xl text-left border border-gray-100 group transition-all cursor-pointer block"
-              >
-                <div className="flex items-center gap-3">
-                  <div className="w-9 h-9 bg-white text-[#14532D] border border-gray-100 rounded-lg flex items-center justify-center shrink-0 shadow-xs">
-                    <Download className="w-4.5 h-4.5" />
-                  </div>
-                  <div>
-                    <h4 className="font-extrabold text-gray-800 text-xs">Printable Worksheet</h4>
-                    <p className="text-[10px] text-gray-400 font-semibold mt-0.5">Bilingual homework file</p>
-                  </div>
-                </div>
-                <ArrowUpRight className="w-4 h-4 text-gray-400 group-hover:text-[#14532D] transition-colors" />
-              </Link>
-
-              <Link 
-                href={`/content/${grade}/${subject}/${chapter}/qa`}
-                className="w-full flex items-center justify-between p-3.5 bg-gray-50 hover:bg-[#EDF7EF] rounded-xl text-left border border-gray-100 group transition-all cursor-pointer block"
-              >
-                <div className="flex items-center gap-3">
-                  <div className="w-9 h-9 bg-white text-[#14532D] border border-gray-100 rounded-lg flex items-center justify-center shrink-0 shadow-xs">
-                    <MessageSquare className="w-4.5 h-4.5" />
-                  </div>
-                  <div>
-                    <h4 className="font-extrabold text-gray-800 text-xs">Question &amp; Answer Bank</h4>
-                    <p className="text-[10px] text-gray-400 font-semibold mt-0.5">Canonical NCERT solutions</p>
-                  </div>
-                </div>
-                <ArrowUpRight className="w-4 h-4 text-gray-400 group-hover:text-[#14532D] transition-colors" />
-              </Link>
-            </div>
+      {/* CHAPTER RESOURCE HUB: 4 Intent Pillars (Mockup Screen 1) */}
+      <div className="space-y-4">
+        <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3">
+          <div>
+            <h3 className="text-lg sm:text-xl font-black font-serif text-gray-900 tracking-tight">
+              Teaching Resources for this Chapter
+            </h3>
+            <p className="text-xs text-gray-500">
+              Curriculum-aligned materials organized around how you prepare, teach, practice, and assess.
+            </p>
           </div>
+
+          <Link
+            href={createResourceUrl}
+            className="px-4 py-2 rounded-xl bg-emerald-700 hover:bg-emerald-800 text-white font-bold text-xs flex items-center gap-1.5 shadow-2xs transition-all w-fit cursor-pointer"
+          >
+            <PlusCircle className="w-4 h-4" /> Create New Resource
+          </Link>
         </div>
 
-        {/* Column 2: TEACH */}
-        <div className="bg-white p-6 rounded-2xl border border-gray-100 space-y-4 flex flex-col justify-between shadow-sm">
-          <div className="space-y-4">
-            <div className="pb-3 border-b border-gray-50 flex justify-between items-center">
-              <div>
-                <h3 className="text-sm font-black text-gray-400 uppercase tracking-widest">2. TEACH</h3>
-                <p className="text-gray-500 text-[11px] font-medium mt-0.5">Classroom delivery tools</p>
+        {/* 4 Intent Cards Grid (Screen 1) */}
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+          
+          {/* Prepare */}
+          <div
+            onClick={() => setSelectedIntent(selectedIntent === "PREPARE" ? "ALL" : "PREPARE")}
+            className={`p-5 rounded-2xl border transition-all cursor-pointer flex flex-col justify-between space-y-3 ${
+              selectedIntent === "PREPARE"
+                ? "bg-emerald-50 border-emerald-600 ring-2 ring-emerald-500/20 shadow-xs"
+                : "bg-white border-gray-200 hover:border-emerald-300 hover:shadow-2xs"
+            }`}
+          >
+            <div className="space-y-2">
+              <div className="w-9 h-9 rounded-xl bg-emerald-100 text-emerald-800 flex items-center justify-center">
+                <Calendar className="w-5 h-5" />
               </div>
-              <span className="text-[10px] font-extrabold uppercase px-2 py-0.5 rounded bg-emerald-50 text-emerald-800">Live</span>
+              <h4 className="font-extrabold text-sm text-gray-900">Prepare</h4>
+              <p className="text-xs text-gray-500 leading-relaxed">
+                Lesson plans, teaching notes &amp; concept mind maps
+              </p>
             </div>
-            
-            <div className="space-y-2.5">
-              <Link 
-                href={classroomLaunchUrl}
-                className="w-full flex items-center justify-between p-3.5 bg-emerald-50/60 hover:bg-[#EDF7EF] rounded-xl text-left border border-emerald-200 group transition-all cursor-pointer block shadow-2xs"
-              >
-                <div className="flex items-center gap-3">
-                  <div className="w-9 h-9 bg-[#14532D] text-white rounded-lg flex items-center justify-center shrink-0 shadow-xs">
-                    <Tv className="w-4.5 h-4.5" />
-                  </div>
-                  <div>
-                    <h4 className="font-black text-[#14532D] text-xs">Start Smartboard Class</h4>
-                    <p className="text-[10px] text-emerald-800 font-semibold mt-0.5">75&quot; TV presentation deck</p>
-                  </div>
-                </div>
-                <ArrowRight className="w-4 h-4 text-[#14532D] group-hover:translate-x-0.5 transition-transform" />
-              </Link>
-
-              <Link 
-                href="/dashboard/whiteboard"
-                className="w-full flex items-center justify-between p-3.5 bg-gray-50 hover:bg-[#EDF7EF] rounded-xl text-left border border-gray-100 group transition-all cursor-pointer block"
-              >
-                <div className="flex items-center gap-3">
-                  <div className="w-9 h-9 bg-white text-[#14532D] border border-gray-100 rounded-lg flex items-center justify-center shrink-0 shadow-xs">
-                    <PenTool className="w-4.5 h-4.5" />
-                  </div>
-                  <div>
-                    <h4 className="font-extrabold text-gray-800 text-xs">Digital Whiteboard</h4>
-                    <p className="text-[10px] text-gray-400 font-semibold mt-0.5">Interactive stylus drawing &amp; math</p>
-                  </div>
-                </div>
-                <ArrowUpRight className="w-4 h-4 text-gray-400 group-hover:text-[#14532D] transition-colors" />
-              </Link>
-
-              <Link 
-                href={`/content/${grade}/${subject}/${chapter}/video`}
-                className="w-full flex items-center justify-between p-3.5 bg-gray-50 hover:bg-[#EDF7EF] rounded-xl text-left border border-gray-100 group transition-all cursor-pointer block"
-              >
-                <div className="flex items-center gap-3">
-                  <div className="w-9 h-9 bg-white text-[#14532D] border border-gray-100 rounded-lg flex items-center justify-center shrink-0 shadow-xs">
-                    <Play className="w-4.5 h-4.5" />
-                  </div>
-                  <div>
-                    <h4 className="font-extrabold text-gray-800 text-xs">Video Resources</h4>
-                    <p className="text-[10px] text-gray-400 font-semibold mt-0.5">Bilingual chapter animations</p>
-                  </div>
-                </div>
-                <ArrowUpRight className="w-4 h-4 text-gray-400 group-hover:text-[#14532D] transition-colors" />
-              </Link>
+            <div className="pt-2 border-t border-gray-100 flex items-center justify-between text-xs font-bold text-emerald-800">
+              <span>{chapterResources.filter((r) => r.intent === "PREPARE").length} resources</span>
+              <ArrowRight className="w-3.5 h-3.5" />
             </div>
           </div>
-        </div>
 
-        {/* Column 3: ASSESS */}
-        <div className="bg-white p-6 rounded-2xl border border-gray-100 space-y-4 flex flex-col justify-between shadow-sm">
-          <div className="space-y-4">
-            <div className="pb-3 border-b border-gray-50 flex justify-between items-center">
-              <div>
-                <h3 className="text-sm font-black text-gray-400 uppercase tracking-widest">3. ASSESS</h3>
-                <p className="text-gray-500 text-[11px] font-medium mt-0.5">Formative evaluation tools</p>
+          {/* Teach */}
+          <div
+            onClick={() => setSelectedIntent(selectedIntent === "TEACH" ? "ALL" : "TEACH")}
+            className={`p-5 rounded-2xl border transition-all cursor-pointer flex flex-col justify-between space-y-3 ${
+              selectedIntent === "TEACH"
+                ? "bg-blue-50 border-blue-600 ring-2 ring-blue-500/20 shadow-xs"
+                : "bg-white border-gray-200 hover:border-blue-300 hover:shadow-2xs"
+            }`}
+          >
+            <div className="space-y-2">
+              <div className="w-9 h-9 rounded-xl bg-blue-100 text-blue-800 flex items-center justify-center">
+                <Tv className="w-5 h-5" />
               </div>
-              <span className="text-[10px] font-extrabold uppercase px-2 py-0.5 rounded bg-blue-50 text-blue-800">Quiz</span>
+              <h4 className="font-extrabold text-sm text-gray-900">Teach</h4>
+              <p className="text-xs text-gray-500 leading-relaxed">
+                Smartboard slides, activities, diagrams &amp; videos
+              </p>
             </div>
-
-            <div className="space-y-2.5">
-              <Link 
-                href={`/dashboard/assessments/create?type=MCQ_QUIZ&grade=${grade}&subject=${subject}&chapter=${chapter}`}
-                className="w-full flex items-center justify-between p-3.5 bg-gray-50 hover:bg-[#EDF7EF] rounded-xl text-left border border-gray-100 group transition-all cursor-pointer block"
-              >
-                <div className="flex items-center gap-3">
-                  <div className="w-9 h-9 bg-white text-[#14532D] border border-gray-100 rounded-lg flex items-center justify-center shrink-0 shadow-xs">
-                    <CheckSquare className="w-4.5 h-4.5" />
-                  </div>
-                  <div>
-                    <h4 className="font-extrabold text-gray-800 text-xs">Create MCQ Quiz</h4>
-                    <p className="text-[10px] text-gray-400 font-semibold mt-0.5">Clicker formative evaluation</p>
-                  </div>
-                </div>
-                <ArrowUpRight className="w-4 h-4 text-gray-400 group-hover:text-[#14532D] transition-colors" />
-              </Link>
-
-              <Link 
-                href={`/dashboard/assessments/create?type=TEST_PAPER&grade=${grade}&subject=${subject}&chapter=${chapter}`}
-                className="w-full flex items-center justify-between p-3.5 bg-gray-50 hover:bg-[#EDF7EF] rounded-xl text-left border border-gray-100 group transition-all cursor-pointer block"
-              >
-                <div className="flex items-center gap-3">
-                  <div className="w-9 h-9 bg-white text-[#14532D] border border-gray-100 rounded-lg flex items-center justify-center shrink-0 shadow-xs">
-                    <FileText className="w-4.5 h-4.5" />
-                  </div>
-                  <div>
-                    <h4 className="font-extrabold text-gray-800 text-xs">Generate Test Paper</h4>
-                    <p className="text-[10px] text-gray-400 font-semibold mt-0.5">Summative CBSE printable test</p>
-                  </div>
-                </div>
-                <ArrowUpRight className="w-4 h-4 text-gray-400 group-hover:text-[#14532D] transition-colors" />
-              </Link>
-
-              <Link 
-                href="/dashboard/classes?tab=homework"
-                className="w-full flex items-center justify-between p-3.5 bg-gray-50 hover:bg-[#EDF7EF] rounded-xl text-left border border-gray-100 group transition-all cursor-pointer block"
-              >
-                <div className="flex items-center gap-3">
-                  <div className="w-9 h-9 bg-white text-[#14532D] border border-gray-100 rounded-lg flex items-center justify-center shrink-0 shadow-xs">
-                    <FileCheck className="w-4.5 h-4.5" />
-                  </div>
-                  <div>
-                    <h4 className="font-extrabold text-gray-800 text-xs">Assign Homework</h4>
-                    <p className="text-[10px] text-gray-400 font-semibold mt-0.5">Post to student class roster</p>
-                  </div>
-                </div>
-                <ArrowUpRight className="w-4 h-4 text-gray-400 group-hover:text-[#14532D] transition-colors" />
-              </Link>
+            <div className="pt-2 border-t border-gray-100 flex items-center justify-between text-xs font-bold text-blue-800">
+              <span>{chapterResources.filter((r) => r.intent === "TEACH").length} resources</span>
+              <ArrowRight className="w-3.5 h-3.5" />
             </div>
           </div>
+
+          {/* Practice */}
+          <div
+            onClick={() => setSelectedIntent(selectedIntent === "PRACTICE" ? "ALL" : "PRACTICE")}
+            className={`p-5 rounded-2xl border transition-all cursor-pointer flex flex-col justify-between space-y-3 ${
+              selectedIntent === "PRACTICE"
+                ? "bg-purple-50 border-purple-600 ring-2 ring-purple-500/20 shadow-xs"
+                : "bg-white border-gray-200 hover:border-purple-300 hover:shadow-2xs"
+            }`}
+          >
+            <div className="space-y-2">
+              <div className="w-9 h-9 rounded-xl bg-purple-100 text-purple-800 flex items-center justify-center">
+                <Download className="w-5 h-5" />
+              </div>
+              <h4 className="font-extrabold text-sm text-gray-900">Practice</h4>
+              <p className="text-xs text-gray-500 leading-relaxed">
+                Worksheets, practice questions &amp; question bank
+              </p>
+            </div>
+            <div className="pt-2 border-t border-gray-100 flex items-center justify-between text-xs font-bold text-purple-800">
+              <span>{chapterResources.filter((r) => r.intent === "PRACTICE").length} resources</span>
+              <ArrowRight className="w-3.5 h-3.5" />
+            </div>
+          </div>
+
+          {/* Assess */}
+          <div
+            onClick={() => setSelectedIntent(selectedIntent === "ASSESS" ? "ALL" : "ASSESS")}
+            className={`p-5 rounded-2xl border transition-all cursor-pointer flex flex-col justify-between space-y-3 ${
+              selectedIntent === "ASSESS"
+                ? "bg-amber-50 border-amber-600 ring-2 ring-amber-500/20 shadow-xs"
+                : "bg-white border-gray-200 hover:border-amber-300 hover:shadow-2xs"
+            }`}
+          >
+            <div className="space-y-2">
+              <div className="w-9 h-9 rounded-xl bg-amber-100 text-amber-800 flex items-center justify-center">
+                <CheckSquare className="w-5 h-5" />
+              </div>
+              <h4 className="font-extrabold text-sm text-gray-900">Assess</h4>
+              <p className="text-xs text-gray-500 leading-relaxed">
+                Formative quizzes, exit tickets &amp; test papers
+              </p>
+            </div>
+            <div className="pt-2 border-t border-gray-100 flex items-center justify-between text-xs font-bold text-amber-800">
+              <span>{chapterResources.filter((r) => r.intent === "ASSESS").length} resources</span>
+              <ArrowRight className="w-3.5 h-3.5" />
+            </div>
+          </div>
+
         </div>
 
+        {/* Selected Intent Filter Pill Reset */}
+        {selectedIntent !== "ALL" && (
+          <div className="flex items-center gap-2 pt-1">
+            <span className="text-xs text-gray-500 font-medium">
+              Showing resources for <strong>{selectedIntent}</strong>
+            </span>
+            <button
+              onClick={() => setSelectedIntent("ALL")}
+              className="text-xs font-bold text-emerald-700 hover:underline cursor-pointer"
+            >
+              Show All ({chapterResources.length})
+            </button>
+          </div>
+        )}
+
+        {/* Resource Cards Grid */}
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 pt-2">
+          {filteredResources.map((res) => (
+            <ResourceCard
+              key={res.id}
+              resource={res}
+              onPreview={handleOpenPreview}
+            />
+          ))}
+        </div>
       </div>
 
       {/* Pillar 4 & 5: UNDERSTAND (Class Insights UX-017) & ASK SAATHI (UX-022) */}
@@ -385,12 +347,12 @@ export default function ChapterWorkspaceClient({
             <div className="p-4 bg-amber-50/50 border border-amber-100 rounded-xl space-y-1">
               <span className="text-[10px] font-bold uppercase text-amber-700 tracking-wider">Need Reinforcement</span>
               <div className="text-2xl font-black text-amber-700">6</div>
-              <p className="text-[11px] text-amber-800/80 font-medium">struggling with irrigation methods</p>
+              <p className="text-[11px] text-amber-800/80 font-medium">struggling with foundational concepts</p>
             </div>
           </div>
 
           <p className="text-xs text-gray-500 font-medium leading-relaxed bg-gray-50 p-3 rounded-xl">
-            💡 <strong className="text-gray-700">Teaching Recommendation:</strong> Review the difference between drip and sprinkler irrigation before starting formative quizzes.
+            💡 <strong className="text-gray-700">Teaching Recommendation:</strong> Review the core mechanisms in Slide 2 before initiating the formative quiz.
           </p>
         </div>
 
@@ -465,6 +427,13 @@ export default function ChapterWorkspaceClient({
         </div>
 
       </div>
+
+      {/* Interactive Resource Preview Modal */}
+      <ResourcePreviewModal
+        resource={previewResource}
+        isOpen={isPreviewOpen}
+        onClose={() => setIsPreviewOpen(false)}
+      />
 
       {/* Pro Modal */}
       <AnimatePresence>
