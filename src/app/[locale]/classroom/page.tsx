@@ -19,6 +19,7 @@ import {
 import { useClassroomRealtime } from "@/lib/classroom/useClassroomRealtime";
 import WhiteboardCanvas from "@/components/whiteboard/WhiteboardCanvas";
 import { SmartboardSlideViewer } from "@/components/classroom/SmartboardSlideViewer";
+import { ClassroomTouchBar } from "@/components/ui/ClassroomTouchBar";
 import type { PresentationSlide } from "@/lib/validations/resources";
 
 const DEFAULT_PRESENTATION_SLIDES: PresentationSlide[] = [
@@ -95,6 +96,8 @@ export default function ClassroomKioskPage() {
   const [isInitializing, setIsInitializing] = useState(true);
   const [activeTab, setActiveTab] = useState<"content" | "whiteboard">("content");
   const [presentationSlides, setPresentationSlides] = useState<PresentationSlide[]>(DEFAULT_PRESENTATION_SLIDES);
+  const [returnUrl, setReturnUrl] = useState("/dashboard");
+  const [sessionTitle, setSessionTitle] = useState("Grade 8 • Science — Live Smartboard Session");
 
   const timerIntervalRef = useRef<NodeJS.Timeout | null>(null);
 
@@ -104,6 +107,33 @@ export default function ClassroomKioskPage() {
       const params = new URLSearchParams(window.location.search);
       const bid = params.get("board_id") || "Board-001";
       setBoardId(bid);
+
+      const ret = params.get("returnUrl") || "/dashboard";
+      setReturnUrl(ret);
+
+      const titleParam = params.get("title");
+      const gradeParam = params.get("grade");
+      const subjectParam = params.get("subject");
+
+      let computedTitle = "Grade 8 • Science — Live Smartboard Session";
+      if (titleParam) {
+        const cleanGrade = gradeParam ? gradeParam.replace("class-", "Class ") : "";
+        const cleanSub = subjectParam ? subjectParam.charAt(0).toUpperCase() + subjectParam.slice(1) : "";
+        computedTitle = `${cleanGrade ? cleanGrade + " • " : ""}${cleanSub ? cleanSub + " — " : ""}${titleParam}`;
+        setSessionTitle(computedTitle);
+
+        setPresentationSlides((prev) => {
+          const updated = [...prev];
+          if (updated[0]) {
+            updated[0] = {
+              ...updated[0],
+              title: titleParam,
+              subtitle: `NCERT ${cleanGrade} ${cleanSub}`,
+            };
+          }
+          return updated;
+        });
+      }
 
       const existingSessionId = params.get("sessionId") || params.get("session_id");
       if (existingSessionId) {
@@ -115,7 +145,7 @@ export default function ClassroomKioskPage() {
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({
-            title: "Grade 8 • Science — Live Smartboard Session",
+            title: computedTitle,
           }),
         })
           .then((res) => res.json())
@@ -231,7 +261,7 @@ export default function ClassroomKioskPage() {
 
   if (isInitializing) {
     return (
-      <div className="min-h-screen bg-[#0D2416] text-white flex items-center justify-center font-sans">
+      <div className="min-h-screen bg-[#0B131E] text-slate-100 flex items-center justify-center font-sans">
         <div className="flex flex-col items-center gap-4">
           <div className="w-12 h-12 border-4 border-emerald-400 border-t-transparent rounded-full animate-spin"></div>
           <p className="text-emerald-300 font-bold text-sm tracking-wide">
@@ -247,7 +277,7 @@ export default function ClassroomKioskPage() {
   const isPairing = !state || state.session.status === "WAITING" || state.session.status === "PAIRING";
 
   return (
-    <div className="min-h-screen bg-[#0B1E13] text-white flex flex-col font-sans select-none overflow-hidden relative">
+    <div className="min-h-screen bg-[#0B131E] text-slate-100 flex flex-col font-sans select-none overflow-hidden relative">
       
       {/* Reconnection Alert Banner */}
       {connectionStatus !== "connected" && isSessionActive && (
@@ -267,7 +297,7 @@ export default function ClassroomKioskPage() {
       )}
 
       {/* Top 75" High-Contrast Smartboard Navbar */}
-      <header className="px-8 py-4 border-b border-white/10 flex items-center justify-between bg-black/40 backdrop-blur-md flex-shrink-0">
+      <header className="px-8 py-4 border-b border-slate-800 flex items-center justify-between bg-[#080D14]/90 backdrop-blur-md flex-shrink-0">
         <div className="flex items-center gap-4">
           <div className="w-11 h-11 bg-emerald-500/20 border border-emerald-400/30 rounded-2xl flex items-center justify-center text-emerald-400 font-bold shadow-inner">
             <Tv className="w-6 h-6" />
@@ -281,8 +311,8 @@ export default function ClassroomKioskPage() {
                 75&quot; IFP Kiosk
               </span>
             </div>
-            <p className="text-xs text-emerald-400/90 font-medium">
-              {boardId} • Room 102 • Government Senior Secondary School
+            <p className="text-xs text-slate-400 font-medium">
+              {boardId} • Room 102 • {sessionTitle}
             </p>
           </div>
         </div>
@@ -310,6 +340,14 @@ export default function ClassroomKioskPage() {
             )}
           </div>
 
+          {/* Exit to Workspace Button */}
+          <a
+            href={returnUrl}
+            className="text-xs text-slate-300 hover:text-white px-3 py-1.5 rounded-lg border border-slate-700/80 hover:bg-white/10 transition-colors"
+          >
+            &larr; Exit to Workspace
+          </a>
+
           {/* Device Verification Pill */}
           <span className="hidden sm:inline-flex items-center gap-1.5 bg-emerald-500/10 text-emerald-300 text-xs font-bold px-3 py-1.5 rounded-full border border-emerald-400/20">
             <ShieldCheck className="w-4 h-4 text-emerald-400" /> Auth Verified
@@ -331,15 +369,23 @@ export default function ClassroomKioskPage() {
                 Classroom Session Concluded
               </h2>
               <p className="text-sm text-emerald-200/80 font-medium">
-                The educator has permanently ended this smartboard session. All classroom controls and paired devices have been revoked.
+                The educator has concluded this smartboard session. All classroom controls and paired devices have been revoked.
               </p>
             </div>
-            <button
-              onClick={() => window.location.reload()}
-              className="bg-emerald-600 hover:bg-emerald-500 text-white font-black text-sm px-6 py-3 rounded-xl transition-all shadow-md active:scale-95 cursor-pointer"
-            >
-              Start New Smartboard Session
-            </button>
+            <div className="flex items-center gap-3">
+              <a
+                href={returnUrl}
+                className="bg-emerald-600 hover:bg-emerald-500 text-white font-black text-sm px-6 py-3 rounded-xl transition-all shadow-md active:scale-95 cursor-pointer"
+              >
+                Return to Chapter Workspace
+              </a>
+              <button
+                onClick={() => window.location.reload()}
+                className="bg-slate-800 hover:bg-slate-700 text-white font-bold text-sm px-6 py-3 rounded-xl transition-all border border-slate-700 active:scale-95 cursor-pointer"
+              >
+                Start New Session
+              </button>
+            </div>
           </div>
         )}
 
@@ -503,7 +549,7 @@ export default function ClassroomKioskPage() {
                         );
                       })()}
 
-                      <div className="flex items-center justify-between pt-6 border-t border-white/10">
+                      <div className="flex items-center justify-between pt-6 border-t border-slate-700/60">
                         <button
                           onClick={() =>
                             sendCommand("PREVIOUS_SLIDE", {
@@ -512,9 +558,9 @@ export default function ClassroomKioskPage() {
                             })
                           }
                           disabled={state.presentation.slideIndex === 0}
-                          className="px-6 py-3 rounded-xl bg-white/10 hover:bg-white/20 disabled:opacity-30 text-white font-bold text-sm flex items-center gap-2 cursor-pointer transition-all"
+                          className="min-h-[56px] px-6 rounded-2xl bg-slate-800 hover:bg-slate-700 disabled:opacity-30 text-white font-bold text-base flex items-center gap-2.5 cursor-pointer transition-all border border-slate-700 active:scale-95"
                         >
-                          <ChevronLeft className="w-5 h-5" /> Previous Slide
+                          <ChevronLeft className="w-6 h-6" /> Previous Slide
                         </button>
                         <button
                           onClick={() =>
@@ -527,23 +573,23 @@ export default function ClassroomKioskPage() {
                             })
                           }
                           disabled={state.presentation.slideIndex >= state.presentation.totalSlides - 1}
-                          className="px-6 py-3 rounded-xl bg-emerald-500 hover:bg-emerald-400 disabled:opacity-30 text-gray-950 font-black text-sm flex items-center gap-2 cursor-pointer transition-all shadow-lg"
+                          className="min-h-[56px] px-8 rounded-2xl bg-emerald-600 hover:bg-emerald-500 active:bg-emerald-700 disabled:opacity-30 text-white font-black text-base flex items-center gap-2.5 cursor-pointer transition-all shadow-lg border border-emerald-400/40 active:scale-95"
                         >
-                          Next Slide <ChevronRight className="w-5 h-5" />
+                          Next Slide <ChevronRight className="w-6 h-6" />
                         </button>
                       </div>
                     </div>
                   ) : state.quiz.isActive ? (
                     /* Case 2: Active Quiz */
                     <div className="space-y-6 max-w-3xl mx-auto w-full text-center py-6">
-                      <div className="inline-flex items-center gap-2 bg-amber-400/20 text-amber-300 text-xs font-black px-4 py-1.5 rounded-full border border-amber-400/30">
-                        <HelpCircle className="w-4 h-4 text-amber-400" />
+                      <div className="inline-flex items-center gap-2 bg-amber-400/20 text-amber-300 text-sm font-black px-4 py-1.5 rounded-full border border-amber-400/30">
+                        <HelpCircle className="w-5 h-5 text-amber-400" />
                         Classroom Clicker Quiz Active
                       </div>
-                      <h2 className="text-3xl sm:text-4xl font-black font-serif text-white">
+                      <h2 className="text-3xl sm:text-5xl font-black font-serif text-white">
                         Concept Check: Crop Production
                       </h2>
-                      <p className="text-emerald-200 text-base font-medium">
+                      <p className="text-emerald-200 text-xl font-medium">
                         Which of the following is a Kharif crop grown during rainy season?
                       </p>
 
@@ -552,7 +598,7 @@ export default function ClassroomKioskPage() {
                           (opt, idx) => (
                             <div
                               key={idx}
-                              className="p-5 rounded-2xl bg-white/10 border border-white/20 hover:border-emerald-400 text-white font-bold text-lg transition-all"
+                              className="p-6 rounded-2xl bg-slate-800/80 border border-slate-700 hover:border-emerald-400 text-white font-bold text-xl min-h-[64px] flex items-center transition-all cursor-pointer"
                             >
                               {opt}
                             </div>
@@ -570,7 +616,7 @@ export default function ClassroomKioskPage() {
                         <h2 className="text-3xl font-black font-serif text-white">
                           Smartboard Ready & Connected
                         </h2>
-                        <p className="text-sm text-emerald-200/80 font-medium">
+                        <p className="text-base text-slate-300 font-medium leading-relaxed">
                           Use your teacher control panel on your mobile or laptop to launch presentations, quizzes, worksheets, or digital whiteboard.
                         </p>
                       </div>
@@ -584,13 +630,13 @@ export default function ClassroomKioskPage() {
                               slideIndex: 0,
                             })
                           }
-                          className="bg-emerald-500 hover:bg-emerald-400 text-gray-950 font-black text-xs px-5 py-3 rounded-xl transition-all shadow-md active:scale-95 cursor-pointer flex items-center gap-2"
+                          className="min-h-[56px] bg-emerald-600 hover:bg-emerald-500 text-white font-black text-sm px-6 rounded-2xl transition-all shadow-md active:scale-95 cursor-pointer flex items-center gap-2"
                         >
-                          <Play className="w-4 h-4" /> Launch Sample Presentation
+                          <Play className="w-5 h-5" /> Launch Sample Presentation
                         </button>
                         <button
                           onClick={() => setActiveTab("whiteboard")}
-                          className="bg-white/10 hover:bg-white/20 text-white font-bold text-xs px-5 py-3 rounded-xl transition-all border border-white/20 cursor-pointer"
+                          className="min-h-[56px] bg-slate-800 hover:bg-slate-700 text-white font-bold text-sm px-6 rounded-2xl transition-all border border-slate-700 cursor-pointer active:scale-95"
                         >
                           Open Whiteboard
                         </button>
@@ -608,17 +654,53 @@ export default function ClassroomKioskPage() {
 
       </main>
 
-      {/* Footer Instructions & Authoritative Metadata */}
-      <footer className="px-8 py-3.5 border-t border-white/10 flex items-center justify-between text-xs text-emerald-200/60 font-medium bg-black/40 flex-shrink-0">
-        <div className="flex items-center gap-4">
-          <span>Session: <strong className="text-white font-mono">{sessionId || "None"}</strong></span>
-          <span>Sequence: <strong className="text-emerald-400 font-mono">#{state?.sequenceNumber || 1000}</strong></span>
-        </div>
-        <div className="flex items-center gap-4">
-          <span>75&quot; IFP Touch Panel Engine</span>
-          <span>PostgreSQL Authoritative Sync Active</span>
-        </div>
-      </footer>
+      {/* 75" Smartboard Tactile Bottom Dock (UX-011, UX-025) */}
+      {isSessionActive && (
+        <ClassroomTouchBar
+          currentSlide={(state?.presentation.slideIndex ?? 0) + 1}
+          totalSlides={state?.presentation.totalSlides || presentationSlides.length || 1}
+          onNextSlide={() =>
+            sendCommand("NEXT_SLIDE", {
+              presentationId: state?.presentation.presentationId || "pres-1",
+              slideIndex: Math.min(
+                (state?.presentation.totalSlides || presentationSlides.length || 1) - 1,
+                (state?.presentation.slideIndex ?? 0) + 1
+              ),
+            })
+          }
+          onPrevSlide={() =>
+            sendCommand("PREVIOUS_SLIDE", {
+              presentationId: state?.presentation.presentationId || "pres-1",
+              slideIndex: Math.max(0, (state?.presentation.slideIndex ?? 0) - 1),
+            })
+          }
+          onOpenWhiteboard={() => setActiveTab(activeTab === "whiteboard" ? "content" : "whiteboard")}
+          onStartQuiz={() =>
+            sendCommand(state?.quiz.isActive ? "END_QUIZ" : "START_QUIZ", {
+              quizId: "quiz-crop-1",
+              questionIndex: 0,
+            })
+          }
+          isQuizActive={state?.quiz.isActive}
+          isWhiteboardActive={activeTab === "whiteboard"}
+          onEndClass={() => sendCommand("SESSION_ENDED", {})}
+          theme="dark"
+        />
+      )}
+
+      {/* Standby / Pairing Pedagogical Status Footer (UX-008) */}
+      {!isSessionActive && (
+        <footer className="px-8 py-3.5 border-t border-slate-800 flex items-center justify-between text-xs sm:text-sm text-slate-400 font-medium bg-[#080D14] flex-shrink-0">
+          <div className="flex items-center gap-4">
+            <span>Display: <strong className="text-slate-200 font-sans">{boardId}</strong></span>
+            <span>Status: <strong className="text-emerald-400 font-sans">{isSessionEnded ? "Class Concluded" : "Ready for Educator Pairing"}</strong></span>
+          </div>
+          <div className="flex items-center gap-4">
+            <span>TeacherSathi Smartboard</span>
+            <span>NCERT Canonical Alignment</span>
+          </div>
+        </footer>
+      )}
 
     </div>
   );
