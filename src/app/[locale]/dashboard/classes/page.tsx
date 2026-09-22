@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useEffect } from "react";
+import { Link } from "@/i18n/routing";
 import { 
   Download, 
   QrCode, 
@@ -18,11 +19,33 @@ import {
   LineChart,
   Calendar,
   Sparkles,
-  FileText
+  FileText,
+  Compass,
+  BookOpen
 } from "lucide-react";
 import Image from "next/image";
 
+interface ClassOption {
+  id: string;
+  name: string;
+  grade_id: string;
+  section: string;
+  subject: string;
+  udise: string;
+  code: string;
+}
+
+const DEFAULT_CLASSES: ClassOption[] = [
+  { id: "cls-8a", name: "Class 8-A", grade_id: "class-8", section: "A", subject: "Science", udise: "UDISE-060208", code: "SATHI-8A" },
+  { id: "cls-9b", name: "Class 9-B", grade_id: "class-9", section: "B", subject: "Science", udise: "UDISE-060209", code: "SATHI-9B" },
+  { id: "cls-10a", name: "Class 10-A", grade_id: "class-10", section: "A", subject: "Science", udise: "UDISE-060210", code: "X7K-9P2" },
+  { id: "cls-7a", name: "Class 7-A", grade_id: "class-7", section: "A", subject: "Science", udise: "UDISE-060207", code: "SATHI-7A" },
+  { id: "cls-6a", name: "Class 6-A", grade_id: "class-6", section: "A", subject: "Science", udise: "UDISE-060206", code: "SATHI-6A" },
+];
+
 export default function MyClassPage() {
+  const [classes, setClasses] = useState<ClassOption[]>(DEFAULT_CLASSES);
+  const [selectedClassId, setSelectedClassId] = useState<string>("cls-8a");
   const [activeTab, setActiveTab] = useState("students");
   const [students, setStudents] = useState(() => 
     Array.from({ length: 24 }).map((_, i) => ({
@@ -47,7 +70,7 @@ export default function MyClassPage() {
 
   const [toastMessage, setToastMessage] = useState<string | null>(null);
 
-  // Read tab parameter from URL query if exists
+  // Read tab and class parameters from URL query if exists
   useEffect(() => {
     if (typeof window !== "undefined") {
       const params = new URLSearchParams(window.location.search);
@@ -57,6 +80,38 @@ export default function MyClassPage() {
       } else if (tabParam === "homework") {
         setActiveTab("homework");
       }
+
+      const classParam = params.get("classId") || params.get("class");
+      if (classParam) {
+        if (classParam === "10A" || classParam === "cls-10a") setSelectedClassId("cls-10a");
+        else if (classParam === "9B" || classParam === "cls-9b") setSelectedClassId("cls-9b");
+        else if (classParam === "8A" || classParam === "cls-8a") setSelectedClassId("cls-8a");
+        else if (classParam === "7A" || classParam === "cls-7a") setSelectedClassId("cls-7a");
+        else if (classParam === "6A" || classParam === "cls-6a") setSelectedClassId("cls-6a");
+        else setSelectedClassId(classParam);
+      }
+
+      fetch("/api/classes")
+        .then((res) => (res.ok ? res.json() : null))
+        .then((json) => {
+          if (json?.data && Array.isArray(json.data) && json.data.length > 0) {
+            const mapped: ClassOption[] = json.data.map((c: { id?: string; name?: string; grade_id?: string; section?: string; subject?: string }, idx: number) => ({
+              id: c.id || `cls-${idx}`,
+              name: c.name || `Class ${idx + 6}`,
+              grade_id: c.grade_id || `class-${idx + 6}`,
+              section: c.section || "A",
+              subject: c.subject || "Science",
+              udise: `UDISE-06020${idx + 6}`,
+              code: `SATHI-${idx + 6}${c.section || "A"}`,
+            }));
+            setClasses(mapped);
+            if (classParam) {
+              const matched = mapped.find(m => m.id === classParam || m.name.toLowerCase().includes(classParam.toLowerCase()));
+              if (matched) setSelectedClassId(matched.id);
+            }
+          }
+        })
+        .catch(() => {});
     }
   }, []);
 
@@ -153,35 +208,81 @@ export default function MyClassPage() {
         </div>
       )}
 
-      {/* Header Section */}
-      <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 bg-white p-6 rounded-2xl shadow-sm border border-gray-100">
-        <div>
-          <div className="flex items-center gap-2">
-            <span className="text-xs font-bold uppercase tracking-wider text-green-700 bg-green-50 px-2 py-0.5 rounded border border-green-100">Workspace</span>
-          </div>
-          <h1 className="text-2xl sm:text-3xl font-extrabold text-gray-800 mt-2 flex items-center gap-3">
-            Class 10-A Workspace
-            <span className="bg-emerald-100 text-emerald-800 text-xs font-bold px-2.5 py-0.5 rounded-full">Science</span>
-          </h1>
-          <p className="text-gray-500 mt-1 text-xs font-semibold leading-relaxed">
-            UDISE Code: UDISE-060201 • Active Subject: General Science (Physics/Chemistry)
-          </p>
-        </div>
+      {/* Class Switcher Bar (UX-018: Multiclass Support) */}
+      {(() => {
+        const activeClass = classes.find((c) => c.id === selectedClassId) || classes[0];
+        return (
+          <>
+            <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 bg-white p-3.5 rounded-2xl border border-gray-150 shadow-2xs">
+              <div className="flex items-center gap-2 overflow-x-auto pb-1 sm:pb-0">
+                <span className="text-xs font-bold text-gray-500 uppercase tracking-wide shrink-0">Class:</span>
+                {classes.map((cls) => {
+                  const isSelected = cls.id === activeClass.id;
+                  return (
+                    <button
+                      key={cls.id}
+                      onClick={() => setSelectedClassId(cls.id)}
+                      className={`px-3 py-1.5 rounded-xl text-xs font-bold transition-all cursor-pointer whitespace-nowrap ${
+                        isSelected
+                          ? "bg-[#14532D] text-white shadow-xs"
+                          : "bg-gray-50 text-gray-700 border border-gray-200 hover:border-emerald-300 hover:bg-emerald-50/50"
+                      }`}
+                    >
+                      {cls.name}
+                    </button>
+                  );
+                })}
+              </div>
 
-        <div className="flex flex-wrap items-center gap-3">
-          <div className="bg-blue-50 border border-blue-100 px-4 py-2 rounded-xl flex items-center gap-3">
-            <span className="text-blue-900 font-semibold text-xs">Access Code:</span>
-            <span className="text-blue-700 font-bold tracking-widest text-base">X7K-9P2</span>
-          </div>
-          
-          <button 
-            onClick={() => setToastMessage("Student QR login sheet loaded.")}
-            className="bg-white border border-gray-200 text-gray-700 hover:bg-gray-50 px-4 py-2 rounded-xl text-xs font-bold flex items-center gap-2 transition-colors cursor-pointer"
-          >
-            <QrCode className="w-4 h-4" /> QR Sheet
-          </button>
-        </div>
-      </div>
+              <Link
+                href={`/content/${activeClass.grade_id}`}
+                className="inline-flex items-center gap-1.5 bg-emerald-50 hover:bg-emerald-100 text-[#14532D] border border-emerald-200 px-3.5 py-1.5 rounded-xl text-xs font-extrabold transition-all cursor-pointer whitespace-nowrap self-start sm:self-auto"
+              >
+                <BookOpen className="w-3.5 h-3.5" />
+                View {activeClass.name} Curriculum &rarr;
+              </Link>
+            </div>
+
+            {/* Header Section */}
+            <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 bg-white p-6 rounded-2xl shadow-sm border border-gray-100">
+              <div>
+                <div className="flex items-center gap-2">
+                  <span className="text-xs font-bold uppercase tracking-wider text-green-700 bg-green-50 px-2 py-0.5 rounded border border-green-100">Class Workspace</span>
+                  <span className="text-xs text-gray-400 font-semibold">&bull; Section {activeClass.section}</span>
+                </div>
+                <h1 className="text-2xl sm:text-3xl font-extrabold text-gray-800 mt-2 flex items-center gap-3">
+                  {activeClass.name} Workspace
+                  <span className="bg-emerald-100 text-emerald-800 text-xs font-bold px-2.5 py-0.5 rounded-full">{activeClass.subject}</span>
+                </h1>
+                <p className="text-gray-500 mt-1 text-xs font-semibold leading-relaxed">
+                  UDISE Code: {activeClass.udise} &bull; Active Subject: {activeClass.subject} &bull; NCERT Aligned
+                </p>
+              </div>
+
+              <div className="flex flex-wrap items-center gap-3">
+                <div className="bg-blue-50 border border-blue-100 px-4 py-2 rounded-xl flex items-center gap-3">
+                  <span className="text-blue-900 font-semibold text-xs">Access Code:</span>
+                  <span className="text-blue-700 font-bold tracking-widest text-base">{activeClass.code}</span>
+                </div>
+                
+                <button 
+                  onClick={() => setToastMessage(`Student QR login sheet loaded for ${activeClass.name}.`)}
+                  className="bg-white border border-gray-200 text-gray-700 hover:bg-gray-50 px-4 py-2 rounded-xl text-xs font-bold flex items-center gap-2 transition-colors cursor-pointer"
+                >
+                  <QrCode className="w-4 h-4" /> QR Sheet
+                </button>
+
+                <Link
+                  href={`/content/${activeClass.grade_id}`}
+                  className="bg-[#14532D] hover:bg-emerald-900 text-white px-4 py-2 rounded-xl text-xs font-bold flex items-center gap-1.5 transition-colors cursor-pointer shadow-xs"
+                >
+                  <Compass className="w-4 h-4" /> Teach Class
+                </Link>
+              </div>
+            </div>
+          </>
+        );
+      })()}
 
       {/* Tabs Layout */}
       <div className="flex border-b border-gray-200 gap-6">
