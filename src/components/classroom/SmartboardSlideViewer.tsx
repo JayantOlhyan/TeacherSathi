@@ -26,20 +26,20 @@ export function SmartboardSlideViewer({
   presentationTitle,
 }: SmartboardSlideViewerProps) {
   return (
-    <div className="w-full h-full flex flex-col justify-between p-8 sm:p-14 bg-gradient-to-br from-gray-950 via-[#0a1f13] to-[#04130a] text-white select-none">
+    <div className="w-full h-full flex flex-col justify-between p-8 sm:p-14 bg-[#0B131E] text-slate-100 select-none">
       {/* Smartboard Header Bar */}
-      <div className="flex items-center justify-between border-b border-white/10 pb-4 flex-shrink-0">
-        <div className="flex items-center gap-3">
-          <div className="w-3 h-3 rounded-full bg-emerald-400 animate-pulse" />
-          <span className="text-xs uppercase tracking-widest text-emerald-400 font-extrabold flex items-center gap-1.5">
-            <BookOpen className="w-4 h-4" /> {presentationTitle}
+      <div className="flex items-center justify-between border-b border-slate-700/60 pb-5 flex-shrink-0">
+        <div className="flex items-center gap-3.5">
+          <div className="w-3.5 h-3.5 rounded-full bg-emerald-400 animate-pulse" />
+          <span className="text-sm sm:text-base uppercase tracking-wider text-emerald-400 font-extrabold flex items-center gap-2">
+            <BookOpen className="w-5 h-5" /> {presentationTitle}
           </span>
-          <span className="bg-emerald-950/80 text-emerald-300 border border-emerald-500/30 text-[11px] font-bold px-2.5 py-0.5 rounded-full uppercase tracking-wider">
+          <span className="bg-emerald-950/80 text-emerald-300 border border-emerald-500/40 text-xs sm:text-sm font-bold px-3 py-1 rounded-full uppercase tracking-wider">
             {slide.type}
           </span>
         </div>
         <div className="flex items-center gap-2">
-          <span className="font-mono text-xs sm:text-sm font-bold text-white bg-white/10 px-3.5 py-1 rounded-full border border-white/10">
+          <span className="font-mono text-sm sm:text-base font-bold text-slate-100 bg-slate-800/80 px-4 py-1.5 rounded-full border border-slate-700">
             Slide {slideIndex + 1} / {totalSlides}
           </span>
         </div>
@@ -50,20 +50,20 @@ export function SmartboardSlideViewer({
         {/* Type 1: TITLE SLIDE */}
         {slide.type === 'TITLE' && (
           <div className="text-center space-y-6 max-w-4xl mx-auto py-8 animate-fadeIn">
-            <div className="inline-flex items-center gap-2 bg-emerald-500/20 text-emerald-300 text-xs sm:text-sm font-black px-4 py-1.5 rounded-full border border-emerald-400/30">
-              <Sparkles className="w-4 h-4 text-emerald-400" />
+            <div className="inline-flex items-center gap-2 bg-emerald-500/20 text-emerald-300 text-sm sm:text-base font-extrabold px-4 py-2 rounded-full border border-emerald-400/30">
+              <Sparkles className="w-5 h-5 text-emerald-400" />
               NCERT Curriculum Classroom Module
             </div>
             <h1 className="text-4xl sm:text-6xl md:text-7xl font-black font-serif text-white tracking-tight leading-tight">
               {slide.title}
             </h1>
             {slide.subtitle && (
-              <p className="text-xl sm:text-3xl text-emerald-200 font-medium max-w-3xl mx-auto leading-relaxed">
+              <p className="text-2xl sm:text-3xl text-emerald-300 font-semibold max-w-3xl mx-auto leading-relaxed">
                 {slide.subtitle}
               </p>
             )}
             {slide.body && (
-              <p className="text-base sm:text-xl text-gray-300 max-w-2xl mx-auto leading-normal">
+              <p className="text-xl sm:text-2xl text-slate-300 max-w-2xl mx-auto leading-relaxed">
                 {slide.body}
               </p>
             )}
@@ -77,20 +77,20 @@ export function SmartboardSlideViewer({
               {slide.title}
             </h2>
             {slide.subtitle && (
-              <p className="text-lg sm:text-2xl text-emerald-300 font-semibold">
+              <p className="text-xl sm:text-2xl text-emerald-300 font-semibold">
                 {slide.subtitle}
               </p>
             )}
             {slide.body && (
-              <p className="text-lg sm:text-2xl text-gray-200 font-normal leading-relaxed">
+              <p className="text-xl sm:text-2xl text-slate-200 font-normal leading-relaxed">
                 {slide.body}
               </p>
             )}
             {slide.bullets && slide.bullets.length > 0 && (
-              <ul className="space-y-4 pt-2">
+              <ul className="space-y-5 pt-3">
                 {slide.bullets.map((bullet, idx) => (
-                  <li key={idx} className="flex items-start gap-3.5 text-lg sm:text-2xl text-emerald-100 font-medium leading-relaxed">
-                    <span className="w-2.5 h-2.5 rounded-full bg-emerald-400 mt-3 flex-shrink-0" />
+                  <li key={idx} className="flex items-start gap-4 text-xl sm:text-2xl text-slate-100 font-medium leading-relaxed">
+                    <span className="w-3 h-3 rounded-full bg-emerald-400 mt-2.5 flex-shrink-0" />
                     <span>{bullet}</span>
                   </li>
                 ))}
@@ -105,22 +105,22 @@ export function SmartboardSlideViewer({
             <h2 className="text-3xl sm:text-5xl font-black font-serif text-white tracking-tight">
               {slide.title}
             </h2>
-            <div className="bg-white/5 border border-white/10 rounded-3xl p-6 sm:p-10 flex flex-col items-center justify-center min-h-[300px] sm:min-h-[380px] relative overflow-hidden">
+            <div className="bg-slate-900/60 border border-slate-700/60 rounded-3xl p-6 sm:p-10 flex flex-col items-center justify-center min-h-[320px] sm:min-h-[400px] relative overflow-hidden">
               {slide.image_url ? (
                 /* eslint-disable-next-line @next/next/no-img-element */
                 <img
                   src={slide.image_url}
                   alt={slide.title}
-                  className="max-h-[360px] w-auto object-contain rounded-2xl shadow-xl"
+                  className="max-h-[380px] w-auto object-contain rounded-2xl shadow-xl"
                 />
               ) : (
                 <div className="flex flex-col items-center gap-4 text-emerald-300/60">
-                  <ImageIcon className="w-20 h-20" />
-                  <p className="text-base sm:text-lg font-medium">Curriculum Visual / Diagram Asset</p>
+                  <ImageIcon className="w-24 h-24" />
+                  <p className="text-lg sm:text-xl font-medium">Curriculum Visual / Diagram Asset</p>
                 </div>
               )}
               {slide.body && (
-                <p className="mt-4 text-base sm:text-xl text-center text-emerald-200 max-w-2xl">
+                <p className="mt-5 text-xl sm:text-2xl text-center text-slate-200 max-w-2xl leading-relaxed">
                   {slide.body}
                 </p>
               )}
@@ -135,11 +135,11 @@ export function SmartboardSlideViewer({
               {slide.title}
             </h2>
             {slide.body && (
-              <p className="text-lg sm:text-xl text-gray-300">{slide.body}</p>
+              <p className="text-xl sm:text-2xl text-slate-300 leading-relaxed">{slide.body}</p>
             )}
-            <div className="bg-black/60 border border-emerald-500/30 rounded-2xl p-6 sm:p-8 font-mono text-base sm:text-xl text-emerald-300 overflow-x-auto shadow-2xl">
-              <div className="flex items-center gap-2 mb-4 text-xs text-emerald-400/70 border-b border-emerald-500/20 pb-2">
-                <Code2 className="w-4 h-4" /> Concept Syntax & Diagram Flow
+            <div className="bg-[#070C14] border border-slate-700/80 rounded-2xl p-6 sm:p-8 font-mono text-lg sm:text-2xl text-emerald-300 overflow-x-auto shadow-2xl">
+              <div className="flex items-center gap-2 mb-4 text-sm sm:text-base text-emerald-400/80 border-b border-slate-800 pb-2">
+                <Code2 className="w-5 h-5" /> Concept Syntax & Diagram Flow
               </div>
               <pre className="whitespace-pre-wrap">{slide.diagram_code || '// Concept relationship flow'}</pre>
             </div>
@@ -149,21 +149,21 @@ export function SmartboardSlideViewer({
         {/* Type 5: QUESTION SLIDE */}
         {slide.type === 'QUESTION' && (
           <div className="space-y-6 max-w-4xl mx-auto w-full animate-fadeIn">
-            <div className="inline-flex items-center gap-2 bg-amber-400/20 text-amber-300 text-xs sm:text-sm font-black px-4 py-1.5 rounded-full border border-amber-400/30">
-              <HelpCircle className="w-4 h-4 text-amber-400" />
+            <div className="inline-flex items-center gap-2 bg-amber-500/20 text-amber-300 text-sm sm:text-base font-extrabold px-4 py-2 rounded-full border border-amber-400/40">
+              <HelpCircle className="w-5 h-5 text-amber-400" />
               Classroom Clicker Question
             </div>
-            <h2 className="text-2xl sm:text-4xl font-black font-serif text-white leading-snug">
+            <h2 className="text-3xl sm:text-5xl font-black font-serif text-white leading-snug">
               {slide.question_text || slide.title}
             </h2>
             {slide.question_options && slide.question_options.length > 0 && (
-              <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 pt-4">
+              <div className="grid grid-cols-1 sm:grid-cols-2 gap-5 pt-4">
                 {slide.question_options.map((option, idx) => (
                   <div
                     key={idx}
-                    className="p-5 sm:p-6 rounded-2xl bg-white/5 hover:bg-white/10 border border-white/10 text-lg sm:text-2xl font-medium text-white flex items-center gap-4 transition-all"
+                    className="p-6 sm:p-7 rounded-2xl bg-slate-900/70 hover:bg-slate-800/90 border border-slate-700 text-xl sm:text-2xl font-medium text-slate-100 flex items-center gap-4 transition-all min-h-[64px]"
                   >
-                    <span className="w-10 h-10 rounded-xl bg-emerald-500/20 text-emerald-300 border border-emerald-400/30 flex items-center justify-center font-black text-lg flex-shrink-0">
+                    <span className="w-12 h-12 rounded-xl bg-emerald-500/20 text-emerald-300 border border-emerald-400/40 flex items-center justify-center font-black text-xl flex-shrink-0">
                       {String.fromCharCode(65 + idx)}
                     </span>
                     <span>{option}</span>
@@ -177,27 +177,27 @@ export function SmartboardSlideViewer({
         {/* Type 6: ACTIVITY SLIDE */}
         {slide.type === 'ACTIVITY' && (
           <div className="space-y-6 max-w-4xl mx-auto w-full animate-fadeIn">
-            <div className="inline-flex items-center gap-2 bg-amber-500/20 text-amber-300 text-xs sm:text-sm font-black px-4 py-1.5 rounded-full border border-amber-400/30">
-              <Users className="w-4 h-4 text-amber-400" />
+            <div className="inline-flex items-center gap-2 bg-amber-500/20 text-amber-300 text-sm sm:text-base font-extrabold px-4 py-2 rounded-full border border-amber-400/40">
+              <Users className="w-5 h-5 text-amber-400" />
               Collaborative Classroom Activity
             </div>
             <h2 className="text-3xl sm:text-5xl font-black font-serif text-white">
               {slide.title}
             </h2>
-            <div className="bg-amber-950/30 border border-amber-500/30 rounded-3xl p-6 sm:p-10 space-y-4">
-              <p className="text-xl sm:text-3xl font-medium text-amber-100 leading-relaxed">
+            <div className="bg-amber-950/20 border border-amber-500/30 rounded-3xl p-6 sm:p-10 space-y-5">
+              <p className="text-2xl sm:text-4xl font-medium text-amber-100 leading-relaxed">
                 {slide.activity_prompt || slide.body}
               </p>
               {slide.bullets && slide.bullets.length > 0 && (
-                <div className="pt-2 space-y-2">
-                  <span className="text-xs uppercase tracking-wider font-extrabold text-amber-300">
+                <div className="pt-3 space-y-3">
+                  <span className="text-sm sm:text-base uppercase tracking-wider font-extrabold text-amber-300 block">
                     Instructions for Students:
                   </span>
-                  <ul className="space-y-2">
+                  <ul className="space-y-3">
                     {slide.bullets.map((b, i) => (
-                      <li key={i} className="text-base sm:text-xl text-amber-200/90 flex items-start gap-3">
-                        <span className="w-2 h-2 rounded-full bg-amber-400 mt-2.5 flex-shrink-0" />
-                        {b}
+                      <li key={i} className="text-xl sm:text-2xl text-amber-200/95 flex items-start gap-3.5">
+                        <span className="w-2.5 h-2.5 rounded-full bg-amber-400 mt-2.5 flex-shrink-0" />
+                        <span>{b}</span>
                       </li>
                     ))}
                   </ul>
@@ -210,36 +210,36 @@ export function SmartboardSlideViewer({
         {/* Type 7: SUMMARY SLIDE */}
         {slide.type === 'SUMMARY' && (
           <div className="space-y-6 max-w-4xl mx-auto w-full animate-fadeIn">
-            <div className="inline-flex items-center gap-2 bg-emerald-500/20 text-emerald-300 text-xs sm:text-sm font-black px-4 py-1.5 rounded-full border border-emerald-400/30">
-              <CheckCircle2 className="w-4 h-4 text-emerald-400" />
+            <div className="inline-flex items-center gap-2 bg-emerald-500/20 text-emerald-300 text-sm sm:text-base font-extrabold px-4 py-2 rounded-full border border-emerald-400/40">
+              <CheckCircle2 className="w-5 h-5 text-emerald-400" />
               Chapter Summary & Key Takeaways
             </div>
             <h2 className="text-3xl sm:text-5xl font-black font-serif text-white">
               {slide.title}
             </h2>
             {slide.bullets && slide.bullets.length > 0 ? (
-              <div className="space-y-4 pt-2">
+              <div className="space-y-4 pt-3">
                 {slide.bullets.map((point, idx) => (
                   <div
                     key={idx}
-                    className="p-4 sm:p-5 rounded-2xl bg-white/5 border border-white/10 flex items-start gap-4 text-lg sm:text-2xl text-emerald-100 font-medium"
+                    className="p-5 sm:p-6 rounded-2xl bg-slate-900/60 border border-slate-700/70 flex items-start gap-4 text-xl sm:text-2xl text-slate-100 font-medium"
                   >
-                    <CheckCircle2 className="w-6 h-6 text-emerald-400 flex-shrink-0 mt-1" />
+                    <CheckCircle2 className="w-7 h-7 text-emerald-400 flex-shrink-0 mt-0.5" />
                     <span>{point}</span>
                   </div>
                 ))}
               </div>
             ) : (
-              <p className="text-lg sm:text-2xl text-gray-200">{slide.body}</p>
+              <p className="text-xl sm:text-2xl text-slate-200 leading-relaxed">{slide.body}</p>
             )}
           </div>
         )}
       </div>
 
       {/* Smartboard Footer */}
-      <div className="border-t border-white/10 pt-4 flex items-center justify-between text-xs text-white/50 flex-shrink-0 font-mono">
-        <span>TeacherSathi Smartboard Engine (75&quot; Kiosk Display)</span>
-        <span>NCERT Canonical Alignment Guarantee</span>
+      <div className="border-t border-slate-700/60 pt-5 flex items-center justify-between text-sm sm:text-base text-slate-400 flex-shrink-0 font-medium">
+        <span>TeacherSathi Smartboard (75&quot; Display)</span>
+        <span>NCERT Canonical Alignment</span>
       </div>
     </div>
   );
