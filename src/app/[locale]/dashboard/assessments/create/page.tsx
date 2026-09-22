@@ -56,6 +56,43 @@ export default function AssessmentBuilderPage() {
   const [durationMinutes, setDurationMinutes] = useState(30);
   const [passingMarks, setPassingMarks] = useState<number>(12);
   const [instructions, setInstructions] = useState<string>("Read each question carefully.\nChoose the most accurate answer.");
+  const [activeContext, setActiveContext] = useState<{
+    grade: string;
+    subject: string;
+    chapter: string;
+  } | null>(null);
+
+  // Prefill params from URL (UX-020: Zero Redundant Inputs)
+  useEffect(() => {
+    if (typeof window !== "undefined") {
+      const params = new URLSearchParams(window.location.search);
+      const gradeParam = params.get("grade");
+      const subjectParam = params.get("subject");
+      const chapterParam = params.get("chapter");
+      const typeParam = params.get("type");
+
+      if (gradeParam) setGradeId(gradeParam);
+      if (subjectParam) setSubjectId(subjectParam);
+      if (chapterParam) setChapterId(chapterParam);
+      if (typeParam && ["MCQ_QUIZ", "TEST_PAPER", "WORKSHEET", "ASSIGNMENT"].includes(typeParam)) {
+        setAssessmentType(typeParam as "MCQ_QUIZ" | "TEST_PAPER" | "WORKSHEET" | "ASSIGNMENT");
+      }
+
+      if (gradeParam && subjectParam) {
+        const cleanG = gradeParam.replace("class-", "Class ");
+        const cleanS = subjectParam.charAt(0).toUpperCase() + subjectParam.slice(1);
+        const cleanC = chapterParam ? chapterParam.replace("chapter-", "Chapter ") : "";
+        setActiveContext({
+          grade: cleanG,
+          subject: cleanS,
+          chapter: cleanC,
+        });
+
+        const typeLabel = typeParam === "TEST_PAPER" ? "Test Paper" : "MCQ Quiz";
+        setTitle(`${cleanG} ${cleanS}${cleanC ? " — " + cleanC : ""} ${typeLabel}`);
+      }
+    }
+  }, []);
 
   // Step 2: Questions
   const [availableQuestions, setAvailableQuestions] = useState<CanonicalQuestionItem[]>([]);
@@ -342,6 +379,21 @@ export default function AssessmentBuilderPage() {
       {step === 1 && (
         <div className="bg-white p-6 rounded-2xl border border-gray-100 shadow-sm space-y-6">
           <h2 className="text-base font-bold text-gray-800 border-b pb-3">Assessment Specification</h2>
+
+          {activeContext && (
+            <div className="bg-emerald-50 border border-emerald-200 p-4 rounded-xl flex items-center justify-between">
+              <div className="flex items-center gap-2.5">
+                <span className="w-2.5 h-2.5 rounded-full bg-emerald-600 animate-pulse" />
+                <div>
+                  <span className="text-[10px] font-black text-emerald-950 uppercase tracking-wider">Inherited Teaching Context (UX-020)</span>
+                  <p className="text-xs text-emerald-800 font-bold mt-0.5">{activeContext.grade} &bull; {activeContext.subject} {activeContext.chapter ? `• ${activeContext.chapter}` : ""}</p>
+                </div>
+              </div>
+              <span className="text-xs font-semibold text-emerald-700 bg-white/70 px-2.5 py-1 rounded-md border border-emerald-200">
+                Context Active
+              </span>
+            </div>
+          )}
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             <div className="space-y-1 md:col-span-2">
