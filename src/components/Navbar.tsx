@@ -58,7 +58,7 @@ export default function Navbar() {
   const [supportMessage, setSupportMessage] = useState("");
 
   // Hidden on focused routes
-  const hideNavbarExactOrEnd = ["/video", "/test", "/quiz"];
+  const hideNavbarExactOrEnd = ["/video", "/test", "/quiz", "/classroom", "/demo"];
   const hideNavbarStart = ["/admin", "/dashboard", "/content", "/resources"];
   const shouldHide = 
     hideNavbarExactOrEnd.some((route) => pathname === route || pathname?.endsWith(route)) ||

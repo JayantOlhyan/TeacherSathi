@@ -253,8 +253,8 @@ export function ClassroomWhiteboard({ initialTheme = 'dark' }: ClassroomWhiteboa
 
   const handleClear = () => {
     if (strokes.length === 0) return;
+    setRedoStack(strokes); // Preserve in redo stack so accidental clearing can be undone immediately
     setStrokes([]);
-    setRedoStack([]);
   };
 
   return (
@@ -276,6 +276,7 @@ export function ClassroomWhiteboard({ initialTheme = 'dark' }: ClassroomWhiteboa
         <div className="flex items-center gap-2.5">
           <button
             onClick={() => setActiveTool('pen')}
+            aria-label="Draw with Pen Tool"
             className={`min-h-[58px] sm:min-h-[64px] px-5 sm:px-6 rounded-2xl font-black text-base flex items-center gap-2.5 border transition-all active:scale-95 cursor-pointer ${
               activeTool === 'pen'
                 ? 'bg-emerald-600 text-white border-emerald-400 shadow-lg'
@@ -290,6 +291,7 @@ export function ClassroomWhiteboard({ initialTheme = 'dark' }: ClassroomWhiteboa
 
           <button
             onClick={() => setActiveTool('highlighter')}
+            aria-label="Highlight with Marker Tool"
             className={`min-h-[58px] sm:min-h-[64px] px-5 sm:px-6 rounded-2xl font-black text-base flex items-center gap-2.5 border transition-all active:scale-95 cursor-pointer ${
               activeTool === 'highlighter'
                 ? 'bg-amber-500 text-white border-amber-300 shadow-lg'
@@ -304,6 +306,7 @@ export function ClassroomWhiteboard({ initialTheme = 'dark' }: ClassroomWhiteboa
 
           <button
             onClick={() => setActiveTool('eraser')}
+            aria-label="Erase with Whiteboard Eraser"
             className={`min-h-[58px] sm:min-h-[64px] px-5 sm:px-6 rounded-2xl font-black text-base flex items-center gap-2.5 border transition-all active:scale-95 cursor-pointer ${
               activeTool === 'eraser'
                 ? 'bg-rose-600 text-white border-rose-400 shadow-lg'
@@ -328,6 +331,7 @@ export function ClassroomWhiteboard({ initialTheme = 'dark' }: ClassroomWhiteboa
                   key={col.name}
                   onClick={() => setActiveColor(val)}
                   title={col.name}
+                  aria-label={`Select color ${col.name}`}
                   className={`w-11 h-11 sm:w-12 sm:h-12 rounded-full transition-transform active:scale-90 flex items-center justify-center border-2 cursor-pointer ${
                     isSelected
                       ? 'scale-115 border-white ring-4 ring-emerald-500/40 shadow-lg'
@@ -351,6 +355,7 @@ export function ClassroomWhiteboard({ initialTheme = 'dark' }: ClassroomWhiteboa
               <button
                 key={sw.label}
                 onClick={() => setStrokeWidth(sw.value)}
+                aria-label={`Select ${sw.label} stroke thickness`}
                 className={`min-h-[48px] px-3.5 rounded-xl font-bold text-xs flex items-center gap-2 border transition-all cursor-pointer ${
                   strokeWidth === sw.value
                     ? 'bg-emerald-600 text-white border-emerald-400'
@@ -372,6 +377,7 @@ export function ClassroomWhiteboard({ initialTheme = 'dark' }: ClassroomWhiteboa
             onClick={handleUndo}
             disabled={strokes.length === 0}
             title="Undo"
+            aria-label="Undo last whiteboard stroke"
             className="min-h-[58px] sm:min-h-[64px] min-w-[58px] sm:min-w-[64px] rounded-2xl flex items-center justify-center border transition-all active:scale-95 disabled:opacity-30 disabled:pointer-events-none cursor-pointer bg-slate-800/80 text-white border-slate-700 hover:bg-slate-700"
           >
             <RotateCcw className="w-5 h-5" />
@@ -381,6 +387,7 @@ export function ClassroomWhiteboard({ initialTheme = 'dark' }: ClassroomWhiteboa
             onClick={handleRedo}
             disabled={redoStack.length === 0}
             title="Redo"
+            aria-label="Redo whiteboard stroke"
             className="min-h-[58px] sm:min-h-[64px] min-w-[58px] sm:min-w-[64px] rounded-2xl flex items-center justify-center border transition-all active:scale-95 disabled:opacity-30 disabled:pointer-events-none cursor-pointer bg-slate-800/80 text-white border-slate-700 hover:bg-slate-700"
           >
             <RotateCw className="w-5 h-5" />
@@ -389,6 +396,7 @@ export function ClassroomWhiteboard({ initialTheme = 'dark' }: ClassroomWhiteboa
           <button
             onClick={() => setShowGrid(!showGrid)}
             title="Toggle Grid Lines"
+            aria-label="Toggle grid lines"
             className={`min-h-[58px] sm:min-h-[64px] min-w-[58px] sm:min-w-[64px] rounded-2xl flex items-center justify-center border transition-all active:scale-95 cursor-pointer ${
               showGrid
                 ? 'bg-emerald-600 text-white border-emerald-400'
@@ -401,6 +409,7 @@ export function ClassroomWhiteboard({ initialTheme = 'dark' }: ClassroomWhiteboa
           <button
             onClick={() => setBoardTheme(isDark ? 'light' : 'dark')}
             title="Toggle Blackboard / Whiteboard"
+            aria-label={isDark ? "Switch to white background" : "Switch to dark background"}
             className="min-h-[58px] sm:min-h-[64px] min-w-[58px] sm:min-w-[64px] rounded-2xl flex items-center justify-center border transition-all active:scale-95 cursor-pointer bg-slate-800/80 text-slate-300 border-slate-700 hover:bg-slate-700"
           >
             {isDark ? <Sun className="w-5 h-5 text-amber-400" /> : <Moon className="w-5 h-5 text-indigo-400" />}
@@ -410,6 +419,7 @@ export function ClassroomWhiteboard({ initialTheme = 'dark' }: ClassroomWhiteboa
             onClick={handleClear}
             disabled={strokes.length === 0}
             title="Clear Whiteboard"
+            aria-label="Clear whiteboard canvas"
             className="min-h-[58px] sm:min-h-[64px] px-4 rounded-2xl font-bold text-sm flex items-center gap-2 border transition-all active:scale-95 disabled:opacity-30 disabled:pointer-events-none cursor-pointer bg-rose-600/20 text-rose-300 border-rose-500/40 hover:bg-rose-600/40"
           >
             <Trash2 className="w-5 h-5" />

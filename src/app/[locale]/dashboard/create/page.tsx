@@ -93,6 +93,8 @@ export default function ResourceCreationStudioPage() {
 
   // Generation & Review State
   const [genStep, setGenStep] = useState(0);
+  const [isGenerating, setIsGenerating] = useState(false);
+  const [isSaving, setIsSaving] = useState(false);
   const [generationError, setGenerationError] = useState<string | null>(null);
   const [generatedDraft, setGeneratedDraft] = useState<GeneratedDraft | null>(null);
   const [selectedSlideIndex, setSelectedSlideIndex] = useState(0);
@@ -187,6 +189,8 @@ export default function ResourceCreationStudioPage() {
   ];
 
   const handleStartGeneration = async () => {
+    if (isGenerating) return;
+    setIsGenerating(true);
     setStep(3); // Progress State
     setGenerationError(null);
     setGenStep(0);
@@ -323,12 +327,19 @@ export default function ResourceCreationStudioPage() {
     } catch (err: unknown) {
       console.error(err);
       setGenerationError("We couldn't finish creating this resource right now. Your request parameters have been preserved.");
+    } finally {
+      setIsGenerating(false);
     }
   };
 
   const handleSaveToResources = () => {
+    if (isSaving) return;
+    setIsSaving(true);
     setSaveSuccessMessage("Saved draft to your Resource Studio library!");
-    setTimeout(() => setSaveSuccessMessage(null), 3000);
+    setTimeout(() => {
+      setSaveSuccessMessage(null);
+      setIsSaving(false);
+    }, 2500);
   };
 
   const teachUrl = `/classroom?grade=${slugGrade}&subject=${slugSubject}&chapter=${slugChapter}&title=${encodeURIComponent(
@@ -608,9 +619,10 @@ export default function ResourceCreationStudioPage() {
             </button>
             <button
               onClick={handleStartGeneration}
-              className="px-6 py-2.5 rounded-xl bg-emerald-700 hover:bg-emerald-800 text-white font-bold text-xs flex items-center gap-2 shadow-sm transition-all cursor-pointer"
+              disabled={isGenerating}
+              className="px-6 py-2.5 rounded-xl bg-emerald-700 hover:bg-emerald-800 disabled:opacity-50 disabled:cursor-not-allowed text-white font-bold text-xs flex items-center gap-2 shadow-sm transition-all cursor-pointer"
             >
-              <Sparkles className="w-4 h-4 text-amber-300" /> Generate with Saathi AI
+              <Sparkles className="w-4 h-4 text-amber-300" /> {isGenerating ? "Preparing Draft..." : "Generate with Saathi AI"}
             </button>
           </div>
         </div>
@@ -635,9 +647,10 @@ export default function ResourceCreationStudioPage() {
                 </button>
                 <button
                   onClick={handleStartGeneration}
-                  className="px-5 py-2 rounded-xl bg-emerald-700 text-white text-xs font-bold hover:bg-emerald-800 cursor-pointer"
+                  disabled={isGenerating}
+                  className="px-5 py-2 rounded-xl bg-emerald-700 text-white text-xs font-bold hover:bg-emerald-800 disabled:opacity-50 disabled:cursor-not-allowed cursor-pointer"
                 >
-                  Retry Generation
+                  {isGenerating ? "Retrying..." : "Retry Generation"}
                 </button>
               </div>
             </div>
@@ -845,9 +858,10 @@ export default function ResourceCreationStudioPage() {
             <div className="flex items-center gap-2 w-full sm:w-auto">
               <button
                 onClick={handleStartGeneration}
-                className="flex-1 sm:flex-none px-4 py-2.5 rounded-xl border border-gray-200 hover:bg-gray-50 text-gray-700 font-bold text-xs flex items-center justify-center gap-1.5 transition-all cursor-pointer"
+                disabled={isGenerating}
+                className="flex-1 sm:flex-none px-4 py-2.5 rounded-xl border border-gray-200 hover:bg-gray-50 disabled:opacity-50 disabled:cursor-not-allowed text-gray-700 font-bold text-xs flex items-center justify-center gap-1.5 transition-all cursor-pointer"
               >
-                <RotateCcw className="w-3.5 h-3.5 text-gray-500" /> Regenerate
+                <RotateCcw className={`w-3.5 h-3.5 text-gray-500 ${isGenerating ? "animate-spin" : ""}`} /> {isGenerating ? "Regenerating..." : "Regenerate"}
               </button>
               <button
                 onClick={() => setStep(2)}
@@ -857,9 +871,10 @@ export default function ResourceCreationStudioPage() {
               </button>
               <button
                 onClick={handleSaveToResources}
-                className="flex-1 sm:flex-none px-4 py-2.5 rounded-xl border border-emerald-200 bg-emerald-50 hover:bg-emerald-100 text-emerald-800 font-bold text-xs flex items-center justify-center gap-1.5 transition-all cursor-pointer"
+                disabled={isSaving}
+                className="flex-1 sm:flex-none px-4 py-2.5 rounded-xl border border-emerald-200 bg-emerald-50 hover:bg-emerald-100 disabled:opacity-50 disabled:cursor-not-allowed text-emerald-800 font-bold text-xs flex items-center justify-center gap-1.5 transition-all cursor-pointer"
               >
-                <Bookmark className="w-3.5 h-3.5 text-emerald-700" /> Save to Resources
+                <Bookmark className="w-3.5 h-3.5 text-emerald-700" /> {isSaving ? "Saving..." : "Save to Resources"}
               </button>
             </div>
 

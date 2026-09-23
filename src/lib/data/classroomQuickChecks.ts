@@ -334,3 +334,5 @@ export function getChapterQuickCheck(
     },
   };
 }
+
+export const CLASSROOM_QUICK_CHECKS = CANONICAL_QUICK_CHECKS;

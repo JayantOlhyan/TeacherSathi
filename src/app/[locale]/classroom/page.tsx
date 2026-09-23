@@ -293,8 +293,60 @@ export default function ClassroomKioskPage() {
             setIsInitializing(false);
           });
       }
+
+      // Phase 18 Resilience: Restore in-class progress on accidental refresh
+      try {
+        const savedSlide = sessionStorage.getItem("ts_classroom_slide");
+        if (savedSlide !== null) {
+          const parsed = parseInt(savedSlide, 10);
+          if (!isNaN(parsed) && parsed >= 0) {
+            setCurrentSlideIndex(parsed);
+          }
+        }
+        const savedTab = sessionStorage.getItem("ts_classroom_tab");
+        if (savedTab === "content" || savedTab === "whiteboard" || savedTab === "quiz") {
+          setActiveTab(savedTab as "content" | "whiteboard" | "quiz");
+        }
+        const savedStandalone = sessionStorage.getItem("ts_classroom_standalone");
+        if (savedStandalone === "true") {
+          setIsStandaloneActive(true);
+        }
+      } catch {
+        // Handled safely in private browsing
+      }
     }
   }, []);
+
+  // Phase 18 Resilience: Persist state continuously
+  useEffect(() => {
+    if (typeof window !== "undefined") {
+      try {
+        sessionStorage.setItem("ts_classroom_slide", String(currentSlideIndex));
+      } catch {
+        // Safe failover
+      }
+    }
+  }, [currentSlideIndex]);
+
+  useEffect(() => {
+    if (typeof window !== "undefined") {
+      try {
+        sessionStorage.setItem("ts_classroom_tab", activeTab);
+      } catch {
+        // Safe failover
+      }
+    }
+  }, [activeTab]);
+
+  useEffect(() => {
+    if (typeof window !== "undefined" && isStandaloneActive) {
+      try {
+        sessionStorage.setItem("ts_classroom_standalone", "true");
+      } catch {
+        // Safe failover
+      }
+    }
+  }, [isStandaloneActive]);
 
   // Real-time classroom connection
   const { state, connectionStatus, sendCommand } = useClassroomRealtime({
@@ -487,8 +539,17 @@ export default function ClassroomKioskPage() {
     });
   };
 
-  // Safe End Classroom with Confirmation Dialog (UX-013)
+  // Safe End Classroom with Confirmation Dialog (UX-013 & Phase 18 cleanup)
   const handleConfirmEndSession = async () => {
+    if (typeof window !== "undefined") {
+      try {
+        sessionStorage.removeItem("ts_classroom_slide");
+        sessionStorage.removeItem("ts_classroom_tab");
+        sessionStorage.removeItem("ts_classroom_standalone");
+      } catch {
+        // Safe failover
+      }
+    }
     if (sessionId) {
       try {
         await fetch(`/api/classroom/sessions/${sessionId}/end`, { method: "POST" });
@@ -873,12 +934,10 @@ export default function ClassroomKioskPage() {
               </div>
             )}
 
-            {/* VIEWPORT MODE 2: INTERACTIVE WHITEBOARD (ClassroomWhiteboard with >= 64px Touch Targets) */}
-            {activeTab === "whiteboard" && (
-              <div className="flex-1 w-full h-full min-h-0 flex flex-col relative">
-                <ClassroomWhiteboard initialTheme={classroomTheme} />
-              </div>
-            )}
+            {/* VIEWPORT MODE 2: INTERACTIVE WHITEBOARD (ClassroomWhiteboard with DOM state preservation) */}
+            <div className={`flex-1 w-full h-full min-h-0 flex flex-col relative ${activeTab === "whiteboard" ? "" : "hidden"}`}>
+              <ClassroomWhiteboard initialTheme={classroomTheme} />
+            </div>
 
             {/* VIEWPORT MODE 3: CLASSROOM INTERACTION & QUICK CHECK HUB (Phase 17) */}
             {activeTab === "quiz" && (

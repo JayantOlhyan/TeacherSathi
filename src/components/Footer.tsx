@@ -10,7 +10,7 @@ export default function Footer() {
   const t = useTranslations("Footer");
   const locale = useLocale();
   const pathname = usePathname();
-  const hideFooterExactOrEnd = ["/video", "/test", "/quiz"];
+  const hideFooterExactOrEnd = ["/video", "/test", "/quiz", "/classroom", "/demo"];
   const hideFooterStart = ["/admin", "/dashboard"];
   const shouldHide = 
     hideFooterExactOrEnd.some((route) => pathname === route || pathname?.endsWith(route)) ||

@@ -38,7 +38,13 @@ export default function Breadcrumbs() {
 
   // Hide breadcrumbs on homepage, login, and signup routes
   const cleanPath = pathname.replace(/^\/(en|hi)(?=\/|$)/, "") || "/";
-  if (cleanPath === "/" || cleanPath.startsWith("/login") || cleanPath.startsWith("/signup")) {
+  if (
+    cleanPath === "/" ||
+    cleanPath.startsWith("/login") ||
+    cleanPath.startsWith("/signup") ||
+    cleanPath.startsWith("/classroom") ||
+    cleanPath.startsWith("/demo")
+  ) {
     return null;
   }
 

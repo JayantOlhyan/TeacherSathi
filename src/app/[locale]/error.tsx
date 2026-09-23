@@ -40,19 +40,19 @@ export default function ErrorPage({
         </div>
 
         {/* Error Badge */}
-        <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-red-100/80 border border-red-200 text-red-700 text-xs font-bold uppercase tracking-widest mb-6 shadow-sm">
-          <span className="w-2 h-2 rounded-full bg-red-600 animate-pulse" />
-          Error 500 • Server Glitch
+        <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-emerald-100/80 border border-emerald-200 text-emerald-800 text-xs font-bold uppercase tracking-widest mb-6 shadow-sm">
+          <span className="w-2 h-2 rounded-full bg-emerald-600 animate-pulse" />
+          Lesson Session Protected
         </div>
 
         {/* Heading */}
         <h1 className="text-3xl sm:text-5xl font-black text-[#1C2B1C] tracking-tight leading-tight sm:leading-tight">
-          Oops! Our servers are taking a quick break.
+          We couldn&apos;t load this page right now.
         </h1>
 
         {/* Subtext */}
         <p className="mt-4 text-base sm:text-lg text-[#5E6C5A] max-w-xl mx-auto leading-relaxed font-normal">
-          We encountered an unexpected technical hiccup. Our engineering team has been notified and is fixing the wires right now!
+          Your curriculum context and recent work parameters have been preserved. Let&apos;s try loading this view again.
         </p>
 
         {/* Action Buttons */}
@@ -67,10 +67,10 @@ export default function ErrorPage({
             Try Again
           </button>
           <Link 
-            href="/" 
+            href="/dashboard" 
             className="w-full sm:w-auto inline-flex items-center justify-center gap-2.5 px-8 py-4 rounded-2xl bg-white hover:bg-[#F0F4EC] text-[#1C2B1C] font-bold text-base border border-[#DCE4D7] shadow-sm hover:-translate-y-0.5 active:translate-y-0 transition-all duration-200"
           >
-            Back to Home
+            Go to Dashboard
           </Link>
         </div>
       </div>

@@ -102,6 +102,7 @@ export function ClassroomTouchBar({
         {onOpenWhiteboard && (
           <button
             onClick={onOpenWhiteboard}
+            aria-label="Open Interactive Whiteboard"
             className={`min-h-[64px] px-5 sm:px-6 rounded-2xl font-extrabold text-sm sm:text-base flex items-center gap-2.5 transition-all active:scale-95 border cursor-pointer ${
               isWhiteboardActive
                 ? "bg-emerald-600 text-white border-emerald-400 shadow-md ring-2 ring-emerald-400/30"
@@ -118,6 +119,7 @@ export function ClassroomTouchBar({
         {onOpenResources && (
           <button
             onClick={onOpenResources}
+            aria-label="View Lesson Resources"
             className={`min-h-[64px] px-5 sm:px-6 rounded-2xl font-extrabold text-sm sm:text-base flex items-center gap-2.5 transition-all active:scale-95 border cursor-pointer ${
               !isWhiteboardActive && !isQuizActive
                 ? "bg-blue-600 text-white border-blue-400 shadow-md ring-2 ring-blue-400/30"
@@ -134,6 +136,7 @@ export function ClassroomTouchBar({
         {onStartQuiz && (
           <button
             onClick={onStartQuiz}
+            aria-label="Start Quick Check Quiz"
             className={`min-h-[64px] px-5 sm:px-6 rounded-2xl font-extrabold text-sm sm:text-base flex items-center gap-2.5 transition-all active:scale-95 border cursor-pointer ${
               isQuizActive
                 ? "bg-purple-600 text-white border-purple-400 shadow-md ring-2 ring-purple-400/30"
@@ -150,6 +153,7 @@ export function ClassroomTouchBar({
         {onAskSaathi && (
           <button
             onClick={onAskSaathi}
+            aria-label="Ask Saathi Co-Pilot"
             className={`min-h-[64px] px-5 sm:px-6 rounded-2xl font-extrabold text-sm sm:text-base flex items-center gap-2.5 transition-all active:scale-95 border cursor-pointer ${
               isDark
                 ? "bg-[#131F30] hover:bg-[#1E2D44] text-amber-300 border-[#20334D]"
@@ -228,6 +232,7 @@ export function ClassroomTouchBar({
         {onEndClass && (
           <button
             onClick={onEndClass}
+            aria-label="End Classroom Session"
             className="min-h-[64px] px-6 rounded-2xl font-black text-sm sm:text-base flex items-center gap-2 bg-red-600 hover:bg-red-500 active:bg-red-700 text-white border border-red-400/40 transition-all active:scale-95 cursor-pointer shadow-md"
           >
             <LogOut className="w-5 h-5" />

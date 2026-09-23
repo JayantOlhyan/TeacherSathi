@@ -141,6 +141,15 @@
 │        Live Response Distribution, 3-Column Pedagogy,       │
 │        Re-teach & Recheck Mastery Loop                      │
 └─────────────────────────────────────────────────────────────┘
+                               │
+                               ▼
+┌─────────────────────────────────────────────────────────────┐
+│ PHASE 18: Reliability, Accessibility & Exhibition Polish    │
+│ Status: COMPLETE                                            │
+│ Focus: Standardized Pedagogical Error Language,             │
+│        Teacher Work Protection, Reduced Motion, A11y Labels,│
+│        Deterministic Exhibition & Demo Mode (/demo)         │
+└─────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -427,13 +436,33 @@
   - **Panel 1: Quick Check Hub ("Let's check your understanding!")**: Contextual NCERT chapter badge with 4 launch modalities (`Start Quick Check`, `Use Existing Quiz`, `Create a Question with Saathi`, `Exit Ticket`).
   - **Panel 2: 75" Question Display**: 2x2 high-contrast grid with bold tactile option cards (A Red, B Blue, C Green, D Orange), $\ge 100\text{px}$ touch targets, 6–10m distance legibility, and isolated teacher controls (`[Pause Responses]`, `[Reveal Answer]`, `[View Distribution]`) preventing premature answer leaks.
   - **Panel 3: Live Response Distribution**: Real-time response bar charts displaying student counts and percentages (e.g., $18/24$ students, $75\%$), supporting both automated clicker input and manual show-of-hands increment/decrement counters.
-  - **Panel 4: Observed Data → Saathi Insight → Suggested Intervention**: Strict 3-column pedagogical architecture separating empirical facts (Amber) from AI cognitive misconception analysis (Purple) and concrete 2–5 min actions (Green), with `[Use This Suggestion]`, `[Open Whiteboard]`, and `[Try Another Suggestion]`.
-  - **Panel 5: Re-teach & Recheck Loop with Mastery Tracking**: Step 1 (Visual comparison diagram with whiteboard annotations) $\to$ Step 2 (Quick recheck question) $\to$ Step 3 (Mastery metric e.g. $22/24$ students, $92\%$), concluding with seamless `[Continue to Next Slide →]` transition.
-- **Bilingual & Daylight Support**: High-accuracy English/Hindi translations toggleable without losing student votes; anti-glare daylight theme (#F8FAFC) alongside dark smartboard mode (#0B131E).
+### Phase 18: Reliability, Accessibility & Exhibition Polish (Completed)
+- Canonical Architecture Deliverable: `docs/PHASE_18_RELIABILITY_ACCESSIBILITY_EXHIBITION.md`.
+- **Core Philosophy**: FAST, CLEAR, CALM, RELIABLE, ACCESSIBLE, PREDICTABLE.
+- **Key Deliverables**:
+  - **Standardized Pedagogical Error Language**:
+    - Replaced all technical jargon ("500", "Server Glitch", stack traces) with polite, reassuring error boundaries.
+    - `src/app/[locale]/error.tsx` (Root: "Lesson Session Protected").
+    - `src/app/[locale]/classroom/error.tsx` (75" Smartboard Recovery Mode).
+    - `src/app/[locale]/content/error.tsx` (Curriculum Continuity Active).
+    - `src/app/[locale]/dashboard/error.tsx` (Teaching Data Protected).
+    - `src/app/[locale]/classroom/loading.tsx` (75" Classroom Loading Surface).
+  - **Teacher Work Protection & Resilience**:
+    - AI generation & save duplicate click prevention locks (`isGenerating`, `isSaving` guards and disabled buttons in `dashboard/create/page.tsx`).
+    - Accidental whiteboard canvas clear protection (strokes saved to redo stack for instant 1-tap undo).
+    - Whiteboard DOM state preservation across tab switches (kept mounted with CSS display toggle).
+    - Accidental browser refresh recovery via real-time `sessionStorage` mirroring of slide and active tab.
+  - **Accessibility & Tactile Polish**:
+    - Appended `@media (prefers-reduced-motion: reduce)` in `src/app/globals.css`.
+    - Explicit accessible `aria-label`s on 100% of tactile touch controls in `ClassroomTouchBar` and `ClassroomWhiteboard`.
+    - $\ge 64$px touch targets for classroom displays and $\ge 48$px for desktop/tablet.
+    - Distraction-free route hiding on `/classroom` and `/demo` in Navbar, Footer, and Breadcrumbs.
+  - **Deterministic Exhibition / Demo Mode (`/demo`)**:
+    - Publicly accessible, offline-resilient 8-stage interactive tour of the complete TeacherSathi loop.
+    - Transparent "Demonstration Mode • Simulated Classroom Data" banner.
+    - 1-tap `[Reset Demo]` button restoring initial state deterministically.
+    - 60-second guided auto-play tour with manual step jumps.
 - **Quality & Verification**:
-  - Dedicated automated test suite: `tests/classroom/classroom-interaction-assessment.test.ts` (16 tests passing).
-  - **397 total automated tests across 75 test suites passing with 100% success rate**.
-  - 0 TypeScript errors (`tsc --noEmit`), 0 lint warnings (`next lint`), clean Next.js production build.
-
-
-
+  - Dedicated automated test suite: `tests/reliability/phase18-reliability-accessibility.test.ts` (17 tests passing).
+  - **414 total automated tests across 76 test suites passing with 100% success rate**.
+  - 0 TypeScript errors (`tsc --noEmit`), 0 lint errors (`npm run lint`), clean Next.js production build (`npm run build`).
