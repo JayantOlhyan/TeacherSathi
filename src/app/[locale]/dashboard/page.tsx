@@ -18,7 +18,10 @@ import {
   Lightbulb,
   QrCode,
   Compass,
-  Tv
+  Tv,
+  Search,
+  PenTool,
+  CheckSquare
 } from "lucide-react";
 import ClassroomSessionHeader from "@/components/dashboard/ClassroomSessionHeader";
 import SmartboardQRAuthModal from "@/components/auth/SmartboardQRAuthModal";
@@ -51,6 +54,70 @@ export default function DashboardPage() {
     { id: "cls-10a", name: "Class 10-A", grade_id: "class-10", section: "A", subject: "Science", count: 40, activeTopic: "Light - Reflection & Refraction" },
     { id: "cls-7a", name: "Class 7-A", grade_id: "class-7", section: "A", subject: "Science", count: 35, activeTopic: "Nutrition in Plants" },
   ]);
+
+  const [selectedClassId, setSelectedClassId] = useState<string>("cls-8a");
+
+  const classChapterMeta: Record<string, {
+    gradeSlug: string;
+    gradeName: string;
+    subjectSlug: string;
+    subjectName: string;
+    chapterSlug: string;
+    chapterNum: number;
+    title: string;
+    titleHi: string;
+    totalTopics: number;
+    completedTopics: number;
+  }> = {
+    "cls-8a": {
+      gradeSlug: "class-8",
+      gradeName: "Class 8",
+      subjectSlug: "science",
+      subjectName: "Science",
+      chapterSlug: "chapter-1",
+      chapterNum: 1,
+      title: "Crop Production and Management",
+      titleHi: "फसल उत्पादन एवं प्रबंध",
+      totalTopics: 7,
+      completedTopics: 4,
+    },
+    "cls-9b": {
+      gradeSlug: "class-9",
+      gradeName: "Class 9",
+      subjectSlug: "science",
+      subjectName: "Science",
+      chapterSlug: "chapter-1",
+      chapterNum: 1,
+      title: "Matter in Our Surroundings",
+      titleHi: "हमारे आस-पास के पदार्थ",
+      totalTopics: 6,
+      completedTopics: 3,
+    },
+    "cls-10a": {
+      gradeSlug: "class-10",
+      gradeName: "Class 10",
+      subjectSlug: "science",
+      subjectName: "Science",
+      chapterSlug: "chapter-10",
+      chapterNum: 10,
+      title: "Light - Reflection & Refraction",
+      titleHi: "प्रकाश - परावर्तन तथा अपवर्तन",
+      totalTopics: 8,
+      completedTopics: 5,
+    },
+    "cls-7a": {
+      gradeSlug: "class-7",
+      gradeName: "Class 7",
+      subjectSlug: "science",
+      subjectName: "Science",
+      chapterSlug: "chapter-1",
+      chapterNum: 1,
+      title: "Nutrition in Plants",
+      titleHi: "पादपों में पोषण",
+      totalTopics: 5,
+      completedTopics: 2,
+    },
+  };
 
   const [classAnalytics, setClassAnalytics] = useState<{
     overallClassMastery: number;
@@ -255,6 +322,41 @@ export default function DashboardPage() {
         <div className="absolute right-0 bottom-0 top-0 w-1/3 bg-[radial-gradient(circle_at_right,rgba(255,255,255,0.08),transparent_70%)] pointer-events-none" />
       </div>
 
+      {/* Sahaj Global Search Trigger (1-Tap Jump to any of 345 NCERT Chapters & Tools) */}
+      <div 
+        onClick={() => window.dispatchEvent(new Event("open-search"))}
+        className="bg-white hover:bg-emerald-50/50 border border-emerald-100 hover:border-emerald-300 p-3 sm:p-4 rounded-2xl shadow-xs transition-all cursor-pointer flex items-center justify-between gap-4 group"
+        role="button"
+        tabIndex={0}
+        onKeyDown={(e) => {
+          if (e.key === "Enter" || e.key === " ") {
+            e.preventDefault();
+            window.dispatchEvent(new Event("open-search"));
+          }
+        }}
+        aria-label="Search all 345 NCERT chapters and tools"
+      >
+        <div className="flex items-center gap-3.5 min-w-0">
+          <div className="w-10 h-10 rounded-xl bg-emerald-100/70 text-emerald-800 flex items-center justify-center shrink-0 group-hover:bg-emerald-800 group-hover:text-white transition-colors">
+            <Search className="w-5 h-5 stroke-[2.5]" />
+          </div>
+          <div className="min-w-0">
+            <p className="font-extrabold text-gray-800 text-sm group-hover:text-emerald-950 truncate">
+              Search any NCERT chapter, topic, or quiz... (e.g. &ldquo;Class 8 Force&rdquo;, &ldquo;फसल&rdquo;, &ldquo;Light&rdquo;)
+            </p>
+            <p className="text-gray-400 text-xs font-semibold truncate hidden sm:block">
+              Jump immediately to 75&quot; slides, quizzes, worksheets, or whiteboard without navigating
+            </p>
+          </div>
+        </div>
+        <div className="flex items-center gap-2 shrink-0">
+          <span className="text-xs font-bold text-emerald-800 hidden md:inline">Quick Jump</span>
+          <kbd className="inline-flex items-center gap-1 px-2.5 py-1 text-xs font-black text-gray-600 bg-gray-100 border border-gray-300 rounded-lg shadow-2xs">
+            ⌘K
+          </kbd>
+        </div>
+      </div>
+
       {/* Got a Doubt Banner - Standardized Saathi Assistant Callout */}
       <div className="bg-white rounded-2xl border border-gray-100 p-5 shadow-sm flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4">
         <div className="space-y-1">
@@ -306,59 +408,136 @@ export default function DashboardPage() {
         {/* Left Column (Span 2) */}
         <div className="lg:col-span-2 space-y-8">
           
-          {/* Continue Teaching (UX-002, UX-018) */}
-          <section className="space-y-3">
-            <div className="flex justify-between items-center">
-              <h3 className="text-sm font-bold text-gray-400 uppercase tracking-wider">Continue Teaching</h3>
-              <Link 
-                href={`/content/${teachingCtx.grade || 'class-8'}/${teachingCtx.subject || 'science'}/${teachingCtx.chapter || 'chapter-1'}`}
-                className="text-xs font-bold text-[#14532D] hover:underline"
-              >
-                Open Chapter Workspace &rarr;
-              </Link>
-            </div>
-            <div className="bg-white border border-emerald-100 p-6 rounded-2xl flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4 hover:shadow-md transition-all shadow-xs">
-              <div className="flex gap-4 items-center">
-                <div className="w-14 h-14 bg-emerald-50 text-[#14532D] rounded-2xl flex flex-col items-center justify-center font-black text-sm shrink-0 border border-emerald-100">
-                  <span className="text-[10px] uppercase font-bold text-emerald-600">Ch</span>
-                  <span className="text-base">{teachingCtx.chapterNumber || 1}</span>
-                </div>
-                <div>
-                  <div className="flex items-center gap-2">
-                    <span className="text-[11px] font-extrabold uppercase px-2 py-0.5 rounded-full bg-emerald-100 text-emerald-800">
-                      {teachingCtx.gradeName || "Class 8"} &bull; {teachingCtx.subjectName || "Science"}
-                    </span>
-                    <span className="text-[11px] text-gray-400 font-semibold">
-                      {teachingCtx.completedTopics ?? 4}/{teachingCtx.totalTopics ?? 7} topics
-                    </span>
-                  </div>
-                  <h4 className="font-extrabold text-gray-900 text-base mt-1">
-                    {teachingCtx.chapterTitle || "Crop Production and Management"}
-                  </h4>
-                  {teachingCtx.chapterTitleHi && (
-                    <p className="text-xs font-serif text-amber-800 mt-0.5">{teachingCtx.chapterTitleHi}</p>
-                  )}
-                </div>
-              </div>
+          {/* Today's Teaching Cockpit (UX-002, UX-018 - Project Sahaj) */}
+          {(() => {
+            const activeClass = classesList.find((c) => c.id === selectedClassId) || classesList[0];
+            const activeMeta = classChapterMeta[selectedClassId] || {
+              gradeSlug: teachingCtx.grade || "class-8",
+              gradeName: teachingCtx.gradeName || "Class 8",
+              subjectSlug: teachingCtx.subject || "science",
+              subjectName: teachingCtx.subjectName || "Science",
+              chapterSlug: teachingCtx.chapter || "chapter-1",
+              chapterNum: teachingCtx.chapterNumber || 1,
+              title: teachingCtx.chapterTitle || "Crop Production and Management",
+              titleHi: teachingCtx.chapterTitleHi || "फसल उत्पादन एवं प्रबंध",
+              totalTopics: teachingCtx.totalTopics || 7,
+              completedTopics: teachingCtx.completedTopics || 4,
+            };
 
-              <div className="flex items-center gap-2.5 w-full sm:w-auto">
-                <Link 
-                  href={`/classroom?grade=${teachingCtx.grade || 'class-8'}&subject=${teachingCtx.subject || 'science'}&chapter=${teachingCtx.chapter || 'chapter-1'}&title=${encodeURIComponent(teachingCtx.chapterTitle || 'Lesson')}&returnUrl=${encodeURIComponent(`/content/${teachingCtx.grade || 'class-8'}/${teachingCtx.subject || 'science'}/${teachingCtx.chapter || 'chapter-1'}`)}`}
-                  className="flex-1 sm:flex-none inline-flex items-center justify-center gap-2 bg-[#14532D] hover:bg-emerald-900 text-white font-black px-4 py-2.5 rounded-xl text-xs transition-all shadow-sm active:scale-95 cursor-pointer whitespace-nowrap"
-                >
-                  <Tv className="w-4 h-4" />
-                  Start Class
-                </Link>
-                <Link 
-                  href={`/content/${teachingCtx.grade || 'class-8'}/${teachingCtx.subject || 'science'}/${teachingCtx.chapter || 'chapter-1'}`}
-                  className="flex-1 sm:flex-none inline-flex items-center justify-center gap-1.5 bg-gray-50 hover:bg-emerald-50 text-gray-700 hover:text-[#14532D] font-bold px-4 py-2.5 rounded-xl text-xs transition-all border border-gray-200 active:scale-95 cursor-pointer whitespace-nowrap"
-                >
-                  Workspace
-                  <ArrowRight className="w-3.5 h-3.5" />
-                </Link>
-              </div>
-            </div>
-          </section>
+            const classroomUrl = `/classroom?grade=${activeMeta.gradeSlug}&subject=${activeMeta.subjectSlug}&chapter=${activeMeta.chapterSlug}&title=${encodeURIComponent(
+              activeMeta.title
+            )}&returnUrl=${encodeURIComponent(`/content/${activeMeta.gradeSlug}/${activeMeta.subjectSlug}/${activeMeta.chapterSlug}`)}`;
+
+            const workspaceUrl = `/content/${activeMeta.gradeSlug}/${activeMeta.subjectSlug}/${activeMeta.chapterSlug}`;
+            const quizUrl = `${workspaceUrl}/quiz`;
+            const whiteboardUrl = `/dashboard/whiteboard`;
+            const worksheetUrl = `/dashboard/create?type=test-paper&grade=${activeMeta.gradeSlug}&subject=${activeMeta.subjectSlug}&chapter=${activeMeta.chapterSlug}`;
+
+            return (
+              <section className="space-y-3">
+                <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-2">
+                  <div>
+                    <h3 className="text-sm font-black text-gray-800 uppercase tracking-wider flex items-center gap-2">
+                      <span className="w-2.5 h-2.5 rounded-full bg-emerald-500 animate-pulse"></span>
+                      Today&apos;s Teaching Cockpit
+                    </h3>
+                    <p className="text-xs text-gray-400 font-medium">Select your current period to launch class materials in 1 tap</p>
+                  </div>
+
+                  {/* Class Switcher Tabs */}
+                  <div className="flex items-center gap-1.5 overflow-x-auto no-scrollbar py-0.5">
+                    {classesList.map((cls) => {
+                      const isSelected = cls.id === selectedClassId;
+                      return (
+                        <button
+                          key={cls.id}
+                          onClick={() => setSelectedClassId(cls.id)}
+                          className={`px-3 py-1.5 rounded-xl font-black text-xs transition-all whitespace-nowrap cursor-pointer ${
+                            isSelected 
+                              ? "bg-emerald-800 text-white shadow-xs" 
+                              : "bg-gray-100 hover:bg-gray-200 text-gray-600"
+                          }`}
+                        >
+                          {cls.name}
+                        </button>
+                      );
+                    })}
+                  </div>
+                </div>
+
+                <div className="bg-white border-2 border-emerald-100 hover:border-emerald-200 p-6 rounded-2xl shadow-xs transition-all space-y-5">
+                  <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4">
+                    <div className="flex gap-4 items-center">
+                      <div className="w-16 h-16 bg-emerald-50 text-[#14532D] rounded-2xl flex flex-col items-center justify-center font-black shrink-0 border border-emerald-200 shadow-2xs">
+                        <span className="text-[10px] uppercase font-bold text-emerald-600">Ch</span>
+                        <span className="text-xl leading-none">{activeMeta.chapterNum}</span>
+                      </div>
+                      <div>
+                        <div className="flex items-center gap-2 flex-wrap">
+                          <span className="text-xs font-black uppercase px-2.5 py-0.5 rounded-full bg-emerald-100 text-emerald-800">
+                            {activeClass.name} &bull; {activeMeta.subjectName}
+                          </span>
+                          <span className="text-xs text-gray-400 font-semibold">
+                            {activeMeta.completedTopics}/{activeMeta.totalTopics} topics &bull; {activeClass.count} students
+                          </span>
+                        </div>
+                        <h4 className="font-black text-gray-900 text-lg sm:text-xl mt-1 leading-snug">
+                          {activeMeta.title}
+                        </h4>
+                        {activeMeta.titleHi && (
+                          <p className="text-sm font-serif text-amber-800 font-medium mt-0.5">
+                            {activeMeta.titleHi}
+                          </p>
+                        )}
+                      </div>
+                    </div>
+
+                    <div className="w-full sm:w-auto">
+                      <Link 
+                        href={classroomUrl}
+                        className="w-full sm:w-auto inline-flex items-center justify-center gap-2.5 bg-[#14532D] hover:bg-emerald-900 text-white font-black px-6 py-3.5 rounded-xl text-sm transition-all shadow-md active:scale-95 cursor-pointer whitespace-nowrap"
+                      >
+                        <Tv className="w-5 h-5 text-amber-300" />
+                        Launch 75&quot; Smartboard Class
+                      </Link>
+                    </div>
+                  </div>
+
+                  {/* Fast Action Row */}
+                  <div className="pt-3 border-t border-gray-100 grid grid-cols-2 sm:grid-cols-4 gap-2 text-xs">
+                    <Link
+                      href={workspaceUrl}
+                      className="flex items-center justify-center gap-1.5 p-2 rounded-xl bg-gray-50 hover:bg-emerald-50 text-gray-700 hover:text-emerald-900 font-bold transition-colors border border-gray-200"
+                    >
+                      <BookOpen className="w-3.5 h-3.5" />
+                      Workspace
+                    </Link>
+                    <Link
+                      href={quizUrl}
+                      className="flex items-center justify-center gap-1.5 p-2 rounded-xl bg-blue-50/70 hover:bg-blue-100 text-blue-800 font-bold transition-colors border border-blue-200"
+                    >
+                      <CheckSquare className="w-3.5 h-3.5" />
+                      Quick Quiz
+                    </Link>
+                    <Link
+                      href={whiteboardUrl}
+                      className="flex items-center justify-center gap-1.5 p-2 rounded-xl bg-purple-50/70 hover:bg-purple-100 text-purple-800 font-bold transition-colors border border-purple-200"
+                    >
+                      <PenTool className="w-3.5 h-3.5" />
+                      Whiteboard
+                    </Link>
+                    <Link
+                      href={worksheetUrl}
+                      className="flex items-center justify-center gap-1.5 p-2 rounded-xl bg-amber-50/70 hover:bg-amber-100 text-amber-800 font-bold transition-colors border border-amber-200"
+                    >
+                      <FileText className="w-3.5 h-3.5" />
+                      Worksheet
+                    </Link>
+                  </div>
+                </div>
+              </section>
+            );
+          })()}
 
           {/* NCERT Curriculum Quick Explorer (UX-002) */}
           <section className="space-y-3">

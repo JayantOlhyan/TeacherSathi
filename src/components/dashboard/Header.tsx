@@ -2,9 +2,10 @@
 
 import { useEffect, useState, useRef } from "react";
 import { createPortal } from "react-dom";
-import { Bell, RefreshCw, User, LogOut, Settings, HelpCircle, Check, X, ChevronDown, ChevronUp, Mail, Terminal } from "lucide-react";
+import { Bell, RefreshCw, User, LogOut, Settings, HelpCircle, Check, X, ChevronDown, ChevronUp, Mail, Terminal, Search } from "lucide-react";
 import { Link } from "@/i18n/routing";
 import { supabase } from "@/lib/supabase";
+import { GlobalCommandSearch } from "@/components/search/GlobalCommandSearch";
 
 export function Header() {
   const [displayName, setDisplayName] = useState("Teacher");
@@ -14,6 +15,7 @@ export function Header() {
   const [showProfileMenu, setShowProfileMenu] = useState(false);
   const [toastMessage, setToastMessage] = useState<string | null>(null);
   const [isAdmin, setIsAdmin] = useState(false);
+  const [isSearchOpen, setIsSearchOpen] = useState(false);
 
   const [mounted, setMounted] = useState(false);
 
@@ -73,12 +75,22 @@ export function Header() {
       setProfileLang(storedLang);
     }
 
-    // Sidebar event triggers
+    // Sidebar and search event triggers
     const handleOpenHelp = () => setIsHelpOpen(true);
     const handleOpenSettings = () => setIsAccountOpen(true);
+    const handleOpenSearch = () => setIsSearchOpen(true);
+
+    const handleGlobalKeyDown = (e: KeyboardEvent) => {
+      if ((e.metaKey || e.ctrlKey) && e.key.toLowerCase() === "k") {
+        e.preventDefault();
+        setIsSearchOpen((prev) => !prev);
+      }
+    };
 
     window.addEventListener("open-help", handleOpenHelp);
     window.addEventListener("open-settings", handleOpenSettings);
+    window.addEventListener("open-search", handleOpenSearch);
+    window.addEventListener("keydown", handleGlobalKeyDown);
 
     if (!supabase) return;
     supabase.auth.getUser().then(({ data: { user } }) => {
@@ -102,6 +114,8 @@ export function Header() {
     return () => {
       window.removeEventListener("open-help", handleOpenHelp);
       window.removeEventListener("open-settings", handleOpenSettings);
+      window.removeEventListener("open-search", handleOpenSearch);
+      window.removeEventListener("keydown", handleGlobalKeyDown);
     };
   }, []);
 
@@ -198,6 +212,24 @@ export function Header() {
       <div className="flex flex-col">
         <p className="text-lg sm:text-2xl font-bold text-gray-800">{firstName}&apos;s Classroom</p>
         <div className="text-xs sm:text-sm text-gray-500 font-medium hidden sm:block">Home / Dashboard</div>
+      </div>
+
+      {/* Global Quick Search (⌘K / Ctrl+K) */}
+      <div className="flex-1 max-w-md mx-3 sm:mx-6">
+        <button
+          onClick={() => setIsSearchOpen(true)}
+          className="w-full flex items-center justify-between gap-2.5 px-3 sm:px-4 py-2 sm:py-2.5 rounded-xl bg-gray-100/90 hover:bg-gray-200/80 text-gray-600 hover:text-gray-900 transition-all border border-gray-200/80 text-xs sm:text-sm font-medium cursor-pointer shadow-2xs group"
+          aria-label="Open search (Press Command+K)"
+        >
+          <div className="flex items-center gap-2.5 truncate">
+            <Search className="w-4 h-4 text-emerald-800 group-hover:scale-110 transition-transform shrink-0" />
+            <span className="hidden sm:inline text-gray-500 font-normal truncate">Search NCERT, chapters, quizzes...</span>
+            <span className="sm:hidden text-gray-500 font-normal">Search...</span>
+          </div>
+          <kbd className="hidden md:inline-flex items-center gap-0.5 px-1.5 py-0.5 text-[10px] font-extrabold text-gray-500 bg-white border border-gray-300 rounded shadow-2xs shrink-0">
+            ⌘K
+          </kbd>
+        </button>
       </div>
 
       <div className="flex items-center gap-3 sm:gap-6">
@@ -511,6 +543,9 @@ export function Header() {
         </div>,
         document.body
       )}
+
+      {/* Global Command Search Dialog */}
+      <GlobalCommandSearch isOpen={isSearchOpen} onClose={() => setIsSearchOpen(false)} />
 
     </header>
   );

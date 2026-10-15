@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState, useEffect, useCallback } from "react";
 import { Link } from "@/i18n/routing";
 import { ArrowLeft, Eye, HelpCircle, 
   Video, FolderOpen, History, Settings2, Plus, CheckCircle2, Trash2, Edit3, Save, RotateCw, Globe, Check,
@@ -68,11 +68,7 @@ export default function ChapterWorkspacePage({ params }: { params: { chapterId: 
   const [rType, setRType] = useState("Worksheet");
   const [rUrl, setRUrl] = useState("");
 
-  useEffect(() => {
-    loadWorkspace();
-  }, [chapterId]);
-
-  const loadWorkspace = () => {
+  const loadWorkspace = useCallback(() => {
     const ch = adminStore.getChapters().find(c => c.id === chapterId);
     if (!ch) return;
     setChapter(ch);
@@ -93,7 +89,11 @@ export default function ChapterWorkspacePage({ params }: { params: { chapterId: 
     setVideos(adminStore.getVideos().filter(v => v.chapter_id === chapterId));
     setResources(adminStore.getResources().filter(r => r.chapter_id === chapterId));
     setVersions(adminStore.getContentVersions(chapterId));
-  };
+  }, [chapterId]);
+
+  useEffect(() => {
+    loadWorkspace();
+  }, [loadWorkspace]);
 
   const handleSaveChanges = (e: React.FormEvent) => {
     e.preventDefault();

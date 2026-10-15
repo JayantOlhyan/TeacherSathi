@@ -15,13 +15,17 @@ import {
   Send,
   Lightbulb,
   ArrowRight,
-  PlusCircle
+  PlusCircle,
+  MessageCircle,
+  Printer
 } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
 import { setTeachingContext } from "@/lib/context/teachingContext";
 import { getChapterResources, type TeachingIntent } from "@/lib/data/chapterResources";
 import { ResourceCard } from "@/components/resources/ResourceCard";
 import { ResourcePreviewModal } from "@/components/resources/ResourcePreviewModal";
+import { WhatsAppShareModal } from "@/components/resources/WhatsAppShareModal";
+import { PrintWorksheetModal } from "@/components/resources/PrintWorksheetModal";
 import type { StoredResourceItem } from "@/lib/services/recentResources";
 import { SaathiPanel, SaathiTrigger } from "@/components/saathi";
 
@@ -54,6 +58,10 @@ export default function ChapterWorkspaceClient({
   // Saathi Co-Pilot Panel State (Phase 16)
   const [isSaathiPanelOpen, setIsSaathiPanelOpen] = useState(false);
   const [initialSaathiPrompt, setInitialSaathiPrompt] = useState<string | undefined>(undefined);
+
+  // Track 3 Usability: WhatsApp Share & Print Dialogs
+  const [isWhatsAppOpen, setIsWhatsAppOpen] = useState(false);
+  const [isPrintOpen, setIsPrintOpen] = useState(false);
 
   // Sync active chapter into global Teaching Context on mount
   useEffect(() => {
@@ -162,12 +170,32 @@ export default function ChapterWorkspaceClient({
             </p>
           </div>
 
-          <Link
-            href={createResourceUrl}
-            className="px-4 py-2 rounded-xl bg-emerald-700 hover:bg-emerald-800 text-white font-bold text-xs flex items-center gap-1.5 shadow-2xs transition-all w-fit cursor-pointer"
-          >
-            <PlusCircle className="w-4 h-4" /> Create New Resource
-          </Link>
+          <div className="flex items-center gap-2 flex-wrap">
+            <button
+              type="button"
+              onClick={() => setIsWhatsAppOpen(true)}
+              className="px-3.5 py-2 rounded-xl bg-emerald-50 hover:bg-emerald-100 border border-emerald-300 text-emerald-800 font-bold text-xs flex items-center gap-1.5 transition-all cursor-pointer shadow-2xs"
+              title="Share Chapter Homework / Material on WhatsApp"
+            >
+              <MessageCircle className="w-3.5 h-3.5 text-[#25D366]" />
+              <span>Share WhatsApp</span>
+            </button>
+            <button
+              type="button"
+              onClick={() => setIsPrintOpen(true)}
+              className="px-3.5 py-2 rounded-xl bg-slate-50 hover:bg-slate-100 border border-slate-300 text-slate-800 font-bold text-xs flex items-center gap-1.5 transition-all cursor-pointer shadow-2xs"
+              title="Print Xerox A4 Worksheet"
+            >
+              <Printer className="w-3.5 h-3.5 text-slate-700" />
+              <span>Print Xerox</span>
+            </button>
+            <Link
+              href={createResourceUrl}
+              className="px-4 py-2 rounded-xl bg-emerald-700 hover:bg-emerald-800 text-white font-bold text-xs flex items-center gap-1.5 shadow-2xs transition-all w-fit cursor-pointer"
+            >
+              <PlusCircle className="w-4 h-4" /> Create Resource
+            </Link>
+          </div>
         </div>
 
         {/* 4 Intent Cards Grid (Screen 1) */}
@@ -505,6 +533,26 @@ export default function ChapterWorkspaceClient({
           screen: 'workspace',
         }}
         initialPrompt={initialSaathiPrompt}
+      />
+
+      {/* Track 3: 1-Tap WhatsApp Share Hub */}
+      <WhatsAppShareModal
+        isOpen={isWhatsAppOpen}
+        onClose={() => setIsWhatsAppOpen(false)}
+        resourceTitle={chapterDetails.title}
+        grade={grade}
+        subject={subject}
+        chapter={chapter}
+      />
+
+      {/* Track 3: Print-Ready Xerox A4 Worksheet */}
+      <PrintWorksheetModal
+        isOpen={isPrintOpen}
+        onClose={() => setIsPrintOpen(false)}
+        title={chapterDetails.title}
+        grade={grade}
+        subject={subject}
+        chapter={chapter}
       />
 
     </div>

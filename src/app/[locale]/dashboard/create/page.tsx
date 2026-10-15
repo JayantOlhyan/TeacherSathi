@@ -22,9 +22,17 @@ import {
   BookOpen,
   Layers,
   Clock,
-  ShieldCheck
+  ShieldCheck,
+  MessageCircle,
+  Printer,
+  Zap,
+  Trash2,
+  Plus,
+  Eye
 } from "lucide-react";
 import { addRecentResource } from "@/lib/services/recentResources";
+import { WhatsAppShareModal } from "@/components/resources/WhatsAppShareModal";
+import { PrintWorksheetModal } from "@/components/resources/PrintWorksheetModal";
 
 const teacherProgressMilestones = [
   "Understanding your chapter...",
@@ -99,6 +107,100 @@ export default function ResourceCreationStudioPage() {
   const [generatedDraft, setGeneratedDraft] = useState<GeneratedDraft | null>(null);
   const [selectedSlideIndex, setSelectedSlideIndex] = useState(0);
   const [saveSuccessMessage, setSaveSuccessMessage] = useState<string | null>(null);
+  const [isEditingSlide, setIsEditingSlide] = useState(false);
+
+  // In-place slide editing handlers
+  const handleUpdateSlideTitle = (newTitle: string) => {
+    if (!generatedDraft || !generatedDraft.slides) return;
+    const newSlides = [...generatedDraft.slides];
+    newSlides[selectedSlideIndex] = {
+      ...newSlides[selectedSlideIndex],
+      title: newTitle,
+    };
+    setGeneratedDraft({ ...generatedDraft, slides: newSlides });
+  };
+
+  const handleUpdateSlideSubtitle = (newSub: string) => {
+    if (!generatedDraft || !generatedDraft.slides) return;
+    const newSlides = [...generatedDraft.slides];
+    newSlides[selectedSlideIndex] = {
+      ...newSlides[selectedSlideIndex],
+      subtitle: newSub,
+    };
+    setGeneratedDraft({ ...generatedDraft, slides: newSlides });
+  };
+
+  const handleUpdateBullet = (bIndex: number, text: string) => {
+    if (!generatedDraft || !generatedDraft.slides) return;
+    const newSlides = [...generatedDraft.slides];
+    const bullets = [...(newSlides[selectedSlideIndex].bullets || [])];
+    bullets[bIndex] = text;
+    newSlides[selectedSlideIndex] = {
+      ...newSlides[selectedSlideIndex],
+      bullets,
+    };
+    setGeneratedDraft({ ...generatedDraft, slides: newSlides });
+  };
+
+  const handleDeleteBullet = (bIndex: number) => {
+    if (!generatedDraft || !generatedDraft.slides) return;
+    const newSlides = [...generatedDraft.slides];
+    const bullets = (newSlides[selectedSlideIndex].bullets || []).filter((_, idx) => idx !== bIndex);
+    newSlides[selectedSlideIndex] = {
+      ...newSlides[selectedSlideIndex],
+      bullets,
+    };
+    setGeneratedDraft({ ...generatedDraft, slides: newSlides });
+  };
+
+  const handleAddBullet = () => {
+    if (!generatedDraft || !generatedDraft.slides) return;
+    const newSlides = [...generatedDraft.slides];
+    const bullets = [...(newSlides[selectedSlideIndex].bullets || []), ""];
+    newSlides[selectedSlideIndex] = {
+      ...newSlides[selectedSlideIndex],
+      bullets,
+    };
+    setGeneratedDraft({ ...generatedDraft, slides: newSlides });
+  };
+
+  const handleUpdateQuestion = (qIndex: number, newQ: string) => {
+    if (!generatedDraft || !generatedDraft.questions) return;
+    const newQuestions = [...generatedDraft.questions];
+    newQuestions[qIndex] = { ...newQuestions[qIndex], question: newQ };
+    setGeneratedDraft({ ...generatedDraft, questions: newQuestions });
+  };
+
+  const handleUpdateAnswer = (qIndex: number, newAns: string) => {
+    if (!generatedDraft || !generatedDraft.questions) return;
+    const newQuestions = [...generatedDraft.questions];
+    newQuestions[qIndex] = { ...newQuestions[qIndex], answer: newAns };
+    setGeneratedDraft({ ...generatedDraft, questions: newQuestions });
+  };
+
+  // Track 3 Usability: WhatsApp Share & Print Dialogs
+  const [isWhatsAppOpen, setIsWhatsAppOpen] = useState(false);
+  const [isPrintOpen, setIsPrintOpen] = useState(false);
+
+  const handleApplyPresetAndGenerate = (preset: "recap" | "full" | "worksheet") => {
+    if (preset === "recap") {
+      setResourceIntent("slides");
+      setDuration(15);
+      setItemCount(5);
+      setDifficulty("Easy");
+    } else if (preset === "full") {
+      setResourceIntent("slides");
+      setDuration(40);
+      setItemCount(8);
+      setDifficulty("Medium");
+    } else if (preset === "worksheet") {
+      setResourceIntent("worksheet");
+      setDuration(30);
+      setItemCount(8);
+      setDifficulty("Medium");
+    }
+    setStep(2);
+  };
 
   // Prefill params from URL on mount (UX-020: Zero Redundant Inputs)
   useEffect(() => {
@@ -428,10 +530,95 @@ export default function ResourceCreationStudioPage() {
             </Link>
           </div>
 
+          {/* Track 3: 1-Click Ready Presets (1-क्लिक प्रीसेट) */}
+          <div className="space-y-2.5">
+            <div className="flex items-center justify-between">
+              <span className="text-xs font-bold text-gray-700 uppercase tracking-wider flex items-center gap-1.5">
+                <Zap className="w-3.5 h-3.5 text-amber-500 fill-amber-500" />
+                1-Click Ready Presets (त्वरित चयन)
+              </span>
+              <span className="text-[11px] text-gray-500 font-medium">Pre-configured for instant classroom use</span>
+            </div>
+
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-3">
+              <button
+                type="button"
+                onClick={() => handleApplyPresetAndGenerate("recap")}
+                className="p-4 rounded-2xl border border-amber-200 bg-gradient-to-br from-amber-50/70 to-orange-50/40 hover:border-amber-400 hover:shadow-xs transition-all text-left flex flex-col justify-between group cursor-pointer"
+              >
+                <div>
+                  <div className="flex items-center justify-between mb-2">
+                    <span className="text-lg">⚡</span>
+                    <span className="text-[10px] font-extrabold bg-amber-100 text-amber-800 px-2 py-0.5 rounded-full uppercase">
+                      5 Mins
+                    </span>
+                  </div>
+                  <h4 className="text-xs font-black text-gray-900 group-hover:text-amber-800">
+                    Quick Chapter Recap
+                  </h4>
+                  <p className="text-[11px] text-gray-500 mt-1 leading-relaxed">
+                    5 high-impact visual recap slides designed for zero-period or start-of-class revision.
+                  </p>
+                </div>
+                <div className="pt-2 mt-2 border-t border-amber-100 flex items-center text-[11px] font-bold text-amber-700">
+                  <span>Use Preset →</span>
+                </div>
+              </button>
+
+              <button
+                type="button"
+                onClick={() => handleApplyPresetAndGenerate("full")}
+                className="p-4 rounded-2xl border border-emerald-200 bg-gradient-to-br from-emerald-50/70 to-teal-50/40 hover:border-emerald-400 hover:shadow-xs transition-all text-left flex flex-col justify-between group cursor-pointer"
+              >
+                <div>
+                  <div className="flex items-center justify-between mb-2">
+                    <span className="text-lg">📖</span>
+                    <span className="text-[10px] font-extrabold bg-emerald-100 text-emerald-800 px-2 py-0.5 rounded-full uppercase">
+                      40 Mins
+                    </span>
+                  </div>
+                  <h4 className="text-xs font-black text-gray-900 group-hover:text-emerald-800">
+                    Full 40-Min Lesson Deck
+                  </h4>
+                  <p className="text-[11px] text-gray-500 mt-1 leading-relaxed">
+                    Complete 8-slide presentation with concepts, live activity &amp; clicker question.
+                  </p>
+                </div>
+                <div className="pt-2 mt-2 border-t border-emerald-100 flex items-center text-[11px] font-bold text-emerald-700">
+                  <span>Use Preset →</span>
+                </div>
+              </button>
+
+              <button
+                type="button"
+                onClick={() => handleApplyPresetAndGenerate("worksheet")}
+                className="p-4 rounded-2xl border border-blue-200 bg-gradient-to-br from-blue-50/70 to-indigo-50/40 hover:border-blue-400 hover:shadow-xs transition-all text-left flex flex-col justify-between group cursor-pointer"
+              >
+                <div>
+                  <div className="flex items-center justify-between mb-2">
+                    <span className="text-lg">📝</span>
+                    <span className="text-[10px] font-extrabold bg-blue-100 text-blue-800 px-2 py-0.5 rounded-full uppercase">
+                      A4 Xerox Ready
+                    </span>
+                  </div>
+                  <h4 className="text-xs font-black text-gray-900 group-hover:text-blue-800">
+                    Printable Homework Sheet
+                  </h4>
+                  <p className="text-[11px] text-gray-500 mt-1 leading-relaxed">
+                    8 balanced questions with school header, marks scheme &amp; teacher answer key.
+                  </p>
+                </div>
+                <div className="pt-2 mt-2 border-t border-blue-100 flex items-center text-[11px] font-bold text-blue-700">
+                  <span>Use Preset →</span>
+                </div>
+              </button>
+            </div>
+          </div>
+
           {/* 6 Intent Cards Grid */}
           <div className="space-y-3">
             <h2 className="text-base font-bold text-gray-900">
-              What would you like to create?
+              Or Customize From Scratch
             </h2>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
@@ -758,54 +945,184 @@ export default function ResourceCreationStudioPage() {
           {/* Live Draft Preview Area */}
           <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
             
-            {/* Left/Center 2 Cols: Interactive Draft Slide/Content Preview */}
+            {/* Left/Center 2 Cols: Interactive Draft Slide/Content Preview & In-Place Editor */}
             <div className="lg:col-span-2 space-y-4">
-              <div className="aspect-video bg-gradient-to-br from-emerald-950 via-[#14532D] to-gray-900 rounded-3xl text-white p-6 sm:p-10 shadow-lg flex flex-col justify-between border border-emerald-700/50 relative overflow-hidden">
-                <div className="space-y-2">
-                  <span className="text-[11px] font-bold uppercase tracking-wider text-emerald-300">
-                    Draft Slide {selectedSlideIndex + 1} of {(generatedDraft.slides || []).length}
-                  </span>
-                  <h3 className="text-xl sm:text-2xl font-black font-serif tracking-tight">
-                    {generatedDraft.slides?.[selectedSlideIndex]?.title}
-                  </h3>
-                  {generatedDraft.slides?.[selectedSlideIndex]?.subtitle && (
-                    <p className="text-xs text-emerald-100/90">
-                      {generatedDraft.slides[selectedSlideIndex].subtitle}
-                    </p>
-                  )}
-                </div>
-
-                <div className="space-y-2 bg-black/25 backdrop-blur-xs p-4 rounded-xl border border-white/10 my-4">
-                  {generatedDraft.slides?.[selectedSlideIndex]?.bullets?.map((b, i) => (
-                    <div key={i} className="flex items-start gap-2 text-xs sm:text-sm text-white/95">
-                      <span className="w-1.5 h-1.5 rounded-full bg-amber-400 mt-1.5 shrink-0" />
-                      <span>{b}</span>
+              {generatedDraft.slides && generatedDraft.slides.length > 0 ? (
+                <>
+                  <div className="aspect-video bg-gradient-to-br from-emerald-950 via-[#14532D] to-gray-900 rounded-3xl text-white p-6 sm:p-8 shadow-lg flex flex-col justify-between border border-emerald-700/50 relative overflow-hidden">
+                    <div className="flex items-center justify-between pb-2 border-b border-white/10 shrink-0">
+                      <span className="text-[11px] font-bold uppercase tracking-wider text-emerald-300">
+                        Draft Slide {selectedSlideIndex + 1} of {generatedDraft.slides.length}
+                      </span>
+                      <button
+                        type="button"
+                        onClick={() => setIsEditingSlide(!isEditingSlide)}
+                        className="px-2.5 py-1 rounded-lg bg-emerald-800/80 hover:bg-emerald-700 text-white font-bold text-xs flex items-center gap-1.5 transition-all border border-emerald-600/50 cursor-pointer shadow-xs"
+                      >
+                        {isEditingSlide ? (
+                          <>
+                            <Eye className="w-3.5 h-3.5" /> Preview Slide
+                          </>
+                        ) : (
+                          <>
+                            <Edit3 className="w-3.5 h-3.5" /> Edit Slide
+                          </>
+                        )}
+                      </button>
                     </div>
-                  ))}
-                </div>
 
-                <div className="flex items-center justify-between text-[11px] text-emerald-200/80 pt-2 border-t border-white/10">
-                  <span>Draft generated by Saathi AI</span>
-                  <span>Editable prior to classroom broadcast</span>
-                </div>
-              </div>
+                    {isEditingSlide ? (
+                      <div className="space-y-3 py-2 overflow-y-auto max-h-[300px] sm:max-h-[350px] pr-1">
+                        <div className="space-y-1">
+                          <label className="text-[10px] font-black uppercase tracking-wider text-emerald-300">
+                            Slide Title
+                          </label>
+                          <input
+                            type="text"
+                            value={generatedDraft.slides[selectedSlideIndex]?.title || ""}
+                            onChange={(e) => handleUpdateSlideTitle(e.target.value)}
+                            className="w-full px-3 py-1.5 rounded-lg bg-black/40 border border-emerald-500/50 text-white text-base font-bold focus:outline-hidden focus:border-emerald-400"
+                            placeholder="Slide title..."
+                          />
+                        </div>
 
-              {/* Slide Selector Buttons */}
-              <div className="flex items-center gap-2 overflow-x-auto pb-1">
-                {generatedDraft.slides?.map((_, idx) => (
-                  <button
-                    key={idx}
-                    onClick={() => setSelectedSlideIndex(idx)}
-                    className={`px-3 py-1.5 rounded-lg text-xs font-bold border transition-all cursor-pointer whitespace-nowrap ${
-                      selectedSlideIndex === idx
-                        ? "bg-emerald-700 text-white border-emerald-700"
-                        : "bg-white border-gray-200 text-gray-600 hover:bg-gray-50"
-                    }`}
-                  >
-                    Slide {idx + 1}
-                  </button>
-                ))}
-              </div>
+                        <div className="space-y-1">
+                          <label className="text-[10px] font-black uppercase tracking-wider text-emerald-300">
+                            Subtitle (Optional)
+                          </label>
+                          <input
+                            type="text"
+                            value={generatedDraft.slides[selectedSlideIndex]?.subtitle || ""}
+                            onChange={(e) => handleUpdateSlideSubtitle(e.target.value)}
+                            className="w-full px-3 py-1.5 rounded-lg bg-black/40 border border-emerald-500/40 text-emerald-100 text-xs font-medium focus:outline-hidden focus:border-emerald-400"
+                            placeholder="Slide subtitle..."
+                          />
+                        </div>
+
+                        <div className="space-y-1.5">
+                          <div className="flex items-center justify-between">
+                            <label className="text-[10px] font-black uppercase tracking-wider text-emerald-300">
+                              Key Points / Bullets
+                            </label>
+                            <button
+                              type="button"
+                              onClick={handleAddBullet}
+                              className="text-[11px] font-bold text-amber-300 hover:text-amber-200 flex items-center gap-1 cursor-pointer"
+                            >
+                              <Plus className="w-3 h-3" /> Add Point
+                            </button>
+                          </div>
+
+                          <div className="space-y-2">
+                            {generatedDraft.slides[selectedSlideIndex]?.bullets?.map((b, i) => (
+                              <div key={i} className="flex items-center gap-2">
+                                <span className="w-1.5 h-1.5 rounded-full bg-amber-400 shrink-0" />
+                                <input
+                                  type="text"
+                                  value={b}
+                                  onChange={(e) => handleUpdateBullet(i, e.target.value)}
+                                  className="flex-1 px-2.5 py-1 rounded-lg bg-black/40 border border-white/20 text-white text-xs focus:outline-hidden focus:border-emerald-400"
+                                />
+                                <button
+                                  type="button"
+                                  onClick={() => handleDeleteBullet(i)}
+                                  className="p-1 text-red-400 hover:text-red-300 rounded cursor-pointer"
+                                  title="Delete point"
+                                >
+                                  <Trash2 className="w-3.5 h-3.5" />
+                                </button>
+                              </div>
+                            ))}
+                          </div>
+                        </div>
+                      </div>
+                    ) : (
+                      <>
+                        <div className="space-y-2 pt-2">
+                          <h3 className="text-xl sm:text-2xl font-black font-serif tracking-tight">
+                            {generatedDraft.slides[selectedSlideIndex]?.title}
+                          </h3>
+                          {generatedDraft.slides[selectedSlideIndex]?.subtitle && (
+                            <p className="text-xs text-emerald-100/90">
+                              {generatedDraft.slides[selectedSlideIndex].subtitle}
+                            </p>
+                          )}
+                        </div>
+
+                        <div className="space-y-2 bg-black/25 backdrop-blur-xs p-4 rounded-xl border border-white/10 my-3">
+                          {generatedDraft.slides[selectedSlideIndex]?.bullets?.map((b, i) => (
+                            <div key={i} className="flex items-start gap-2 text-xs sm:text-sm text-white/95">
+                              <span className="w-1.5 h-1.5 rounded-full bg-amber-400 mt-1.5 shrink-0" />
+                              <span>{b}</span>
+                            </div>
+                          ))}
+                        </div>
+                      </>
+                    )}
+
+                    <div className="flex items-center justify-between text-[11px] text-emerald-200/80 pt-2 border-t border-white/10 shrink-0">
+                      <span>Draft generated by Saathi AI</span>
+                      <span>Editable prior to classroom broadcast</span>
+                    </div>
+                  </div>
+
+                  {/* Slide Selector Buttons */}
+                  <div className="flex items-center gap-2 overflow-x-auto pb-1">
+                    {generatedDraft.slides.map((_, idx) => (
+                      <button
+                        key={idx}
+                        onClick={() => {
+                          setSelectedSlideIndex(idx);
+                        }}
+                        className={`px-3 py-1.5 rounded-lg text-xs font-bold border transition-all cursor-pointer whitespace-nowrap ${
+                          selectedSlideIndex === idx
+                            ? "bg-emerald-700 text-white border-emerald-700"
+                            : "bg-white border-gray-200 text-gray-600 hover:bg-gray-50"
+                        }`}
+                      >
+                        Slide {idx + 1}
+                      </button>
+                    ))}
+                  </div>
+                </>
+              ) : generatedDraft.questions && generatedDraft.questions.length > 0 ? (
+                <div className="bg-white rounded-3xl border border-gray-200 p-6 shadow-sm space-y-4">
+                  <div className="flex items-center justify-between border-b border-gray-100 pb-3">
+                    <h3 className="text-sm font-bold uppercase tracking-wider text-gray-800">
+                      Draft Assessment Questions ({generatedDraft.questions.length})
+                    </h3>
+                    <span className="text-xs text-emerald-700 font-bold bg-emerald-50 px-2.5 py-1 rounded-lg">
+                      Editable Prior to Print &amp; WhatsApp Share
+                    </span>
+                  </div>
+                  <div className="space-y-3.5 max-h-[460px] overflow-y-auto pr-1">
+                    {generatedDraft.questions.map((q, qIdx) => (
+                      <div key={qIdx} className="p-3.5 rounded-xl bg-gray-50 border border-gray-200 space-y-2">
+                        <div className="flex items-start gap-2">
+                          <span className="font-bold text-xs text-gray-700 shrink-0">Q{qIdx + 1}.</span>
+                          <input
+                            type="text"
+                            value={q.question}
+                            onChange={(e) => handleUpdateQuestion(qIdx, e.target.value)}
+                            className="flex-1 px-2.5 py-1 text-xs bg-white border border-gray-300 rounded-lg font-bold text-gray-900 focus:outline-hidden focus:border-emerald-600"
+                          />
+                        </div>
+                        {q.answer && (
+                          <div className="flex items-start gap-2 pl-6">
+                            <span className="text-[11px] font-bold text-emerald-800 shrink-0">Ans:</span>
+                            <input
+                              type="text"
+                              value={q.answer}
+                              onChange={(e) => handleUpdateAnswer(qIdx, e.target.value)}
+                              className="flex-1 px-2.5 py-1 text-xs bg-white border border-emerald-300 rounded-lg text-emerald-900 focus:outline-hidden focus:border-emerald-600"
+                            />
+                          </div>
+                        )}
+                      </div>
+                    ))}
+                  </div>
+                </div>
+              ) : null}
             </div>
 
             {/* Right Column: Resource Summary & Next Steps (Mockup Screen 5) */}
@@ -874,7 +1191,23 @@ export default function ResourceCreationStudioPage() {
                 disabled={isSaving}
                 className="flex-1 sm:flex-none px-4 py-2.5 rounded-xl border border-emerald-200 bg-emerald-50 hover:bg-emerald-100 disabled:opacity-50 disabled:cursor-not-allowed text-emerald-800 font-bold text-xs flex items-center justify-center gap-1.5 transition-all cursor-pointer"
               >
-                <Bookmark className="w-3.5 h-3.5 text-emerald-700" /> {isSaving ? "Saving..." : "Save to Resources"}
+                <Bookmark className="w-3.5 h-3.5 text-emerald-700" /> {isSaving ? "Saving..." : "Save"}
+              </button>
+              <button
+                type="button"
+                onClick={() => setIsWhatsAppOpen(true)}
+                className="flex-1 sm:flex-none px-4 py-2.5 rounded-xl border border-[#25D366]/40 bg-[#25D366]/10 hover:bg-[#25D366]/20 text-[#128C7E] font-bold text-xs flex items-center justify-center gap-1.5 transition-all cursor-pointer"
+                title="Share link & instructions to WhatsApp class group"
+              >
+                <MessageCircle className="w-3.5 h-3.5 text-[#25D366]" /> WhatsApp
+              </button>
+              <button
+                type="button"
+                onClick={() => setIsPrintOpen(true)}
+                className="flex-1 sm:flex-none px-4 py-2.5 rounded-xl border border-slate-300 bg-slate-50 hover:bg-slate-100 text-slate-800 font-bold text-xs flex items-center justify-center gap-1.5 transition-all cursor-pointer"
+                title="Open ink-saver A4 Xerox print dialog"
+              >
+                <Printer className="w-3.5 h-3.5 text-slate-700" /> Print Xerox
               </button>
             </div>
 
@@ -890,6 +1223,33 @@ export default function ResourceCreationStudioPage() {
 
         </div>
       )}
+
+      {/* Track 3: 1-Tap WhatsApp Share Modal */}
+      <WhatsAppShareModal
+        isOpen={isWhatsAppOpen}
+        onClose={() => setIsWhatsAppOpen(false)}
+        resourceTitle={generatedDraft?.title || selectedChapter}
+        resourceType={generatedDraft?.resourceType}
+        grade={selectedClass}
+        subject={selectedSubject}
+        chapter={selectedChapter}
+      />
+
+      {/* Track 3: Print-Ready Xerox A4 Worksheet Modal */}
+      <PrintWorksheetModal
+        isOpen={isPrintOpen}
+        onClose={() => setIsPrintOpen(false)}
+        title={generatedDraft?.title || selectedChapter}
+        grade={selectedClass}
+        subject={selectedSubject}
+        chapter={selectedChapter}
+        questions={generatedDraft?.questions?.map((q, idx) => ({
+          question: q.question,
+          options: q.options,
+          answer: q.answer,
+          marks: idx < 4 ? 1 : idx < 7 ? 3 : 5,
+        }))}
+      />
 
     </div>
   );

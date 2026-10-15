@@ -15,10 +15,14 @@ import {
   Layers, 
   Clock, 
   Copy, 
-  BookOpen
+  BookOpen,
+  MessageCircle,
+  Printer
 } from "lucide-react";
 import type { StoredResourceItem } from "@/lib/services/recentResources";
 import { isResourceSaved, toggleSaveResource, addRecentResource } from "@/lib/services/recentResources";
+import { WhatsAppShareModal } from "./WhatsAppShareModal";
+import { PrintWorksheetModal } from "./PrintWorksheetModal";
 
 interface ResourcePreviewModalProps {
   resource: StoredResourceItem | null;
@@ -31,6 +35,8 @@ export function ResourcePreviewModal({ resource, isOpen, onClose }: ResourcePrev
   const [currentSlideIndex, setCurrentSlideIndex] = useState(0);
   const [saved, setSaved] = useState(() => (resource ? isResourceSaved(resource.id) : false));
   const [copied, setCopied] = useState(false);
+  const [isWhatsAppOpen, setIsWhatsAppOpen] = useState(false);
+  const [isPrintOpen, setIsPrintOpen] = useState(false);
 
   if (!isOpen || !resource) return null;
 
@@ -128,6 +134,26 @@ export function ResourcePreviewModal({ resource, isOpen, onClose }: ResourcePrev
             >
               <Share2 className="w-3.5 h-3.5" />
               {copied ? "Link Copied!" : "Share"}
+            </button>
+
+            <button
+              type="button"
+              onClick={() => setIsWhatsAppOpen(true)}
+              className="px-3 py-1.5 rounded-xl border border-[#25D366]/40 bg-[#25D366]/10 hover:bg-[#25D366]/20 text-[#128C7E] text-xs font-bold flex items-center gap-1.5 transition-all cursor-pointer"
+              title="Share on WhatsApp class group"
+            >
+              <MessageCircle className="w-3.5 h-3.5 text-[#25D366]" />
+              WhatsApp
+            </button>
+
+            <button
+              type="button"
+              onClick={() => setIsPrintOpen(true)}
+              className="px-3 py-1.5 rounded-xl border border-gray-200 bg-white hover:bg-gray-50 text-gray-700 text-xs font-bold flex items-center gap-1.5 transition-all cursor-pointer"
+              title="Print Xerox A4 worksheet"
+            >
+              <Printer className="w-3.5 h-3.5 text-slate-700" />
+              Print
             </button>
 
             <button
@@ -392,6 +418,29 @@ export function ResourcePreviewModal({ resource, isOpen, onClose }: ResourcePrev
         </div>
 
       </div>
+
+      {/* 1-Tap WhatsApp Share Hub */}
+      <WhatsAppShareModal
+        isOpen={isWhatsAppOpen}
+        onClose={() => setIsWhatsAppOpen(false)}
+        resourceTitle={resource.title}
+        resourceType={resource.type}
+        grade={resource.gradeName || resource.grade}
+        subject={resource.subjectName || resource.subject}
+        chapter={resource.chapterName || resource.chapter}
+        shareUrl={typeof window !== "undefined" ? window.location.origin + (resource.previewUrl || `/dashboard/resources/${resource.id}`) : undefined}
+      />
+
+      {/* Print-Ready Xerox A4 Worksheet */}
+      <PrintWorksheetModal
+        isOpen={isPrintOpen}
+        onClose={() => setIsPrintOpen(false)}
+        title={resource.title}
+        grade={resource.gradeName || resource.grade}
+        subject={resource.subjectName || resource.subject}
+        chapter={resource.chapterName || resource.chapter}
+      />
+
     </div>
   );
 }
