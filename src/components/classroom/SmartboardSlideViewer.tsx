@@ -2,6 +2,7 @@
 
 import React, { useState } from 'react';
 import { PresentationSlide } from '@/lib/validations/resources';
+import { renderCurriculumText } from '@/lib/classroom/curriculumFormatter';
 import { 
   HelpCircle, 
   Users, 
@@ -11,7 +12,11 @@ import {
   BookOpen, 
   Sparkles,
   Eye,
-  Check
+  Check,
+  RotateCcw,
+  Plus,
+  Minus,
+  BarChart2
 } from 'lucide-react';
 
 export interface SmartboardSlideViewerProps {
@@ -20,6 +25,7 @@ export interface SmartboardSlideViewerProps {
   totalSlides: number;
   presentationTitle: string;
   theme?: 'dark' | 'light';
+  isHindiMode?: boolean;
   onOptionSelect?: (optionIndex: number) => void;
 }
 
@@ -29,10 +35,13 @@ export function SmartboardSlideViewer({
   totalSlides,
   presentationTitle,
   theme = 'dark',
+  isHindiMode = false,
   onOptionSelect,
 }: SmartboardSlideViewerProps) {
   const [selectedOption, setSelectedOption] = useState<number | null>(null);
   const [showAnswer, setShowAnswer] = useState<boolean>(false);
+  const [isTallyActive, setIsTallyActive] = useState<boolean>(false);
+  const [handTally, setHandTally] = useState<Record<number, number>>({ 0: 0, 1: 0, 2: 0, 3: 0 });
 
   const isDark = theme === 'dark';
 
@@ -112,7 +121,7 @@ export function SmartboardSlideViewer({
                 isDark ? 'text-white' : 'text-slate-900'
               }`}
             >
-              {slide.title}
+              {renderCurriculumText(slide.title)}
             </h1>
             {slide.subtitle && (
               <p
@@ -120,7 +129,7 @@ export function SmartboardSlideViewer({
                   isDark ? 'text-emerald-300' : 'text-[#0F5B38]'
                 }`}
               >
-                {slide.subtitle}
+                {renderCurriculumText(slide.subtitle)}
               </p>
             )}
             {slide.body && (
@@ -129,7 +138,7 @@ export function SmartboardSlideViewer({
                   isDark ? 'text-slate-300' : 'text-slate-700'
                 }`}
               >
-                {slide.body}
+                {renderCurriculumText(slide.body)}
               </p>
             )}
           </div>
@@ -143,7 +152,7 @@ export function SmartboardSlideViewer({
                 isDark ? 'text-white' : 'text-slate-900'
               }`}
             >
-              {slide.title}
+              {renderCurriculumText(slide.title)}
             </h2>
             {slide.subtitle && (
               <p
@@ -151,7 +160,7 @@ export function SmartboardSlideViewer({
                   isDark ? 'text-emerald-300' : 'text-[#0F5B38]'
                 }`}
               >
-                {slide.subtitle}
+                {renderCurriculumText(slide.subtitle)}
               </p>
             )}
             {slide.body && (
@@ -160,7 +169,7 @@ export function SmartboardSlideViewer({
                   isDark ? 'text-slate-200' : 'text-slate-700'
                 }`}
               >
-                {slide.body}
+                {renderCurriculumText(slide.body)}
               </p>
             )}
             {slide.bullets && slide.bullets.length > 0 && (
@@ -177,7 +186,7 @@ export function SmartboardSlideViewer({
                         isDark ? 'bg-emerald-400' : 'bg-[#0F5B38]'
                       }`}
                     />
-                    <span>{bullet}</span>
+                    <span>{renderCurriculumText(bullet)}</span>
                   </li>
                 ))}
               </ul>
@@ -193,7 +202,7 @@ export function SmartboardSlideViewer({
                 isDark ? 'text-white' : 'text-slate-900'
               }`}
             >
-              {slide.title}
+              {renderCurriculumText(slide.title)}
             </h2>
             <div
               className={`rounded-3xl p-6 sm:p-10 flex flex-col items-center justify-center min-h-[340px] sm:min-h-[420px] relative overflow-hidden border ${
@@ -225,7 +234,7 @@ export function SmartboardSlideViewer({
                     isDark ? 'text-slate-200' : 'text-slate-800'
                   }`}
                 >
-                  {slide.body}
+                  {renderCurriculumText(slide.body)}
                 </p>
               )}
             </div>
@@ -240,7 +249,7 @@ export function SmartboardSlideViewer({
                 isDark ? 'text-white' : 'text-slate-900'
               }`}
             >
-              {slide.title}
+              {renderCurriculumText(slide.title)}
             </h2>
             {slide.body && (
               <p
@@ -248,7 +257,7 @@ export function SmartboardSlideViewer({
                   isDark ? 'text-slate-300' : 'text-slate-700'
                 }`}
               >
-                {slide.body}
+                {renderCurriculumText(slide.body)}
               </p>
             )}
             <div
@@ -268,88 +277,188 @@ export function SmartboardSlideViewer({
           </div>
         )}
 
-        {/* Type 5: QUESTION SLIDE (Clicker with Large Tactile Targets >= 72px) */}
-        {slide.type === 'QUESTION' && (
-          <div className="space-y-6 max-w-5xl mx-auto w-full animate-fadeIn">
-            <div className="flex items-center justify-between gap-4">
-              <div
-                className={`inline-flex items-center gap-2 text-base sm:text-lg font-black px-4 py-2 rounded-full border ${
-                  isDark
-                    ? 'bg-amber-500/20 text-amber-300 border-amber-400/40'
-                    : 'bg-amber-100 text-[#92400E] border-amber-300'
-                }`}
-              >
-                <HelpCircle className="w-6 h-6 text-amber-500" />
-                Classroom Concept Check Question
-              </div>
+        {/* Type 5: QUESTION SLIDE (Clicker & Show of Hands Tally >= 72px) */}
+        {slide.type === 'QUESTION' && (() => {
+          const totalHands = Object.values(handTally).reduce((a, b) => a + b, 0);
 
-              {typeof slide.correct_option_index === 'number' && (
-                <button
-                  onClick={() => setShowAnswer(!showAnswer)}
-                  className={`min-h-[48px] px-4 rounded-xl font-bold text-sm sm:text-base flex items-center gap-2 transition-all border cursor-pointer ${
-                    showAnswer
-                      ? 'bg-emerald-600 text-white border-emerald-400'
-                      : isDark
-                      ? 'bg-slate-800 hover:bg-slate-700 text-slate-200 border-slate-700'
-                      : 'bg-white hover:bg-slate-100 text-slate-800 border-slate-300'
+          const incrementHand = (e: React.MouseEvent, idx: number) => {
+            e.stopPropagation();
+            setHandTally((prev) => ({ ...prev, [idx]: (prev[idx] || 0) + 1 }));
+          };
+
+          const decrementHand = (e: React.MouseEvent, idx: number) => {
+            e.stopPropagation();
+            setHandTally((prev) => ({ ...prev, [idx]: Math.max(0, (prev[idx] || 0) - 1) }));
+          };
+
+          const resetHands = (e: React.MouseEvent) => {
+            e.stopPropagation();
+            setHandTally({ 0: 0, 1: 0, 2: 0, 3: 0 });
+          };
+
+          return (
+            <div className="space-y-6 max-w-5xl mx-auto w-full animate-fadeIn">
+              <div className="flex items-center justify-between gap-4 flex-wrap">
+                <div
+                  className={`inline-flex items-center gap-2 text-base sm:text-lg font-black px-4 py-2 rounded-full border ${
+                    isDark
+                      ? 'bg-amber-500/20 text-amber-300 border-amber-400/40'
+                      : 'bg-amber-100 text-[#92400E] border-amber-300'
                   }`}
                 >
-                  <Eye className="w-4 h-4" />
-                  <span>{showAnswer ? 'Hide Answer' : 'Teacher: Reveal Answer'}</span>
-                </button>
-              )}
-            </div>
+                  <HelpCircle className="w-6 h-6 text-amber-500" />
+                  {isHindiMode ? 'अवधारणा प्रश्न • Concept Check' : 'Classroom Concept Check Question'}
+                </div>
 
-            <h2
-              className={`text-3xl sm:text-5xl md:text-6xl font-black font-serif leading-snug ${
-                isDark ? 'text-white' : 'text-slate-900'
-              }`}
-            >
-              {slide.question_text || slide.title}
-            </h2>
+                <div className="flex items-center gap-2.5">
+                  <button
+                    onClick={() => setIsTallyActive(!isTallyActive)}
+                    className={`min-h-[48px] px-4 rounded-xl font-bold text-sm sm:text-base flex items-center gap-2 transition-all border cursor-pointer ${
+                      isTallyActive
+                        ? 'bg-amber-600 text-white border-amber-400 shadow-md'
+                        : isDark
+                        ? 'bg-slate-800 hover:bg-slate-700 text-slate-200 border-slate-700'
+                        : 'bg-white hover:bg-slate-100 text-slate-800 border-slate-300'
+                    }`}
+                  >
+                    <BarChart2 className="w-4 h-4" />
+                    <span>{isTallyActive ? 'Hide Tally' : '✋ Show of Hands'}</span>
+                  </button>
 
-            {slide.question_options && slide.question_options.length > 0 && (
-              <div className="grid grid-cols-1 sm:grid-cols-2 gap-5 pt-4">
-                {slide.question_options.map((option, idx) => {
-                  const isCorrect = showAnswer && slide.correct_option_index === idx;
-                  const isChosen = selectedOption === idx;
-
-                  return (
+                  {isTallyActive && totalHands > 0 && (
                     <button
-                      key={idx}
-                      onClick={() => handleOptionClick(idx)}
-                      className={`p-6 sm:p-7 rounded-2xl border text-xl sm:text-2xl font-bold flex items-center gap-5 transition-all min-h-[72px] text-left cursor-pointer active:scale-98 ${
-                        isCorrect
-                          ? 'bg-emerald-600 text-white border-emerald-400 ring-4 ring-emerald-400/30 shadow-xl'
-                          : isChosen
-                          ? isDark
-                            ? 'bg-slate-800 text-emerald-300 border-emerald-400 ring-2 ring-emerald-400/40'
-                            : 'bg-emerald-50 text-[#0F5B38] border-emerald-400 ring-2 ring-emerald-400/40'
+                      onClick={resetHands}
+                      className="min-h-[48px] px-3 rounded-xl font-bold text-xs flex items-center gap-1.5 transition-all bg-slate-800 hover:bg-slate-700 text-slate-300 border border-slate-700 cursor-pointer"
+                      title="Reset vote count"
+                    >
+                      <RotateCcw className="w-3.5 h-3.5" />
+                      Reset
+                    </button>
+                  )}
+
+                  {typeof slide.correct_option_index === 'number' && (
+                    <button
+                      onClick={() => setShowAnswer(!showAnswer)}
+                      className={`min-h-[48px] px-4 rounded-xl font-bold text-sm sm:text-base flex items-center gap-2 transition-all border cursor-pointer ${
+                        showAnswer
+                          ? 'bg-emerald-600 text-white border-emerald-400'
                           : isDark
-                          ? 'bg-slate-900/80 hover:bg-slate-800 text-slate-100 border-slate-700 hover:border-emerald-400/50'
-                          : 'bg-white hover:bg-slate-50 text-slate-900 border-slate-300 hover:border-emerald-500 shadow-sm'
+                          ? 'bg-slate-800 hover:bg-slate-700 text-slate-200 border-slate-700'
+                          : 'bg-white hover:bg-slate-100 text-slate-800 border-slate-300'
                       }`}
                     >
-                      <span
-                        className={`w-14 h-14 rounded-2xl flex items-center justify-center font-black text-2xl flex-shrink-0 border ${
+                      <Eye className="w-4 h-4" />
+                      <span>{showAnswer ? 'Hide Answer' : 'Teacher: Reveal Answer'}</span>
+                    </button>
+                  )}
+                </div>
+              </div>
+
+              <h2
+                className={`text-3xl sm:text-5xl md:text-6xl font-black font-serif leading-snug ${
+                  isDark ? 'text-white' : 'text-slate-900'
+                }`}
+              >
+                {renderCurriculumText(slide.question_text || slide.title)}
+              </h2>
+
+              {isTallyActive && (
+                <div className="flex items-center justify-between px-4 py-2 rounded-xl bg-amber-500/10 border border-amber-500/20 text-xs sm:text-sm font-bold text-amber-400">
+                  <span>✋ Tap + / - on option tiles to count raised hands</span>
+                  <span className="font-mono font-black">{totalHands} Total Student Hands Counted</span>
+                </div>
+              )}
+
+              {slide.question_options && slide.question_options.length > 0 && (
+                <div className="grid grid-cols-1 sm:grid-cols-2 gap-5 pt-2">
+                  {slide.question_options.map((option, idx) => {
+                    const isCorrect = showAnswer && slide.correct_option_index === idx;
+                    const isChosen = selectedOption === idx;
+                    const votes = handTally[idx] || 0;
+                    const pct = totalHands > 0 ? Math.round((votes / totalHands) * 100) : 0;
+
+                    return (
+                      <div
+                        key={idx}
+                        onClick={() => handleOptionClick(idx)}
+                        className={`p-5 sm:p-6 rounded-2xl border text-xl sm:text-2xl font-bold flex flex-col justify-between transition-all min-h-[90px] text-left cursor-pointer active:scale-98 ${
                           isCorrect
-                            ? 'bg-white text-emerald-700 border-white'
+                            ? 'bg-emerald-600 text-white border-emerald-400 ring-4 ring-emerald-400/30 shadow-xl'
+                            : isChosen
+                            ? isDark
+                              ? 'bg-slate-800 text-emerald-300 border-emerald-400 ring-2 ring-emerald-400/40'
+                              : 'bg-emerald-50 text-[#0F5B38] border-emerald-400 ring-2 ring-emerald-400/40'
                             : isDark
-                            ? 'bg-emerald-500/20 text-emerald-300 border-emerald-400/40'
-                            : 'bg-emerald-100 text-[#0F5B38] border-emerald-300'
+                            ? 'bg-slate-900/80 hover:bg-slate-800 text-slate-100 border-slate-700 hover:border-emerald-400/50'
+                            : 'bg-white hover:bg-slate-50 text-slate-900 border-slate-300 hover:border-emerald-500 shadow-sm'
                         }`}
                       >
-                        {String.fromCharCode(65 + idx)}
-                      </span>
-                      <span className="flex-1 leading-snug">{option}</span>
-                      {isCorrect && <Check className="w-8 h-8 text-white flex-shrink-0" />}
-                    </button>
-                  );
-                })}
-              </div>
-            )}
-          </div>
-        )}
+                        <div className="flex items-center gap-4 w-full">
+                          <span
+                            className={`w-12 h-12 rounded-2xl flex items-center justify-center font-black text-xl flex-shrink-0 border ${
+                              isCorrect
+                                ? 'bg-white text-emerald-700 border-white'
+                                : isDark
+                                ? 'bg-emerald-500/20 text-emerald-300 border-emerald-400/40'
+                                : 'bg-emerald-100 text-[#0F5B38] border-emerald-300'
+                            }`}
+                          >
+                            {String.fromCharCode(65 + idx)}
+                          </span>
+                          <span className="flex-1 leading-snug">{renderCurriculumText(option)}</span>
+                          {isCorrect && <Check className="w-8 h-8 text-white flex-shrink-0" />}
+
+                          {/* Show of Hands Tally +/- Control */}
+                          {isTallyActive && (
+                            <div 
+                              className="flex items-center gap-1.5 shrink-0 bg-black/30 p-1 rounded-xl border border-white/10" 
+                              onClick={(e) => e.stopPropagation()}
+                            >
+                              <button
+                                onClick={(e) => decrementHand(e, idx)}
+                                className="w-8 h-8 rounded-lg bg-slate-800 hover:bg-slate-700 text-white font-black flex items-center justify-center cursor-pointer active:scale-95"
+                                aria-label="Subtract 1 hand"
+                              >
+                                <Minus className="w-4 h-4" />
+                              </button>
+                              <div className="text-center px-1 min-w-[36px]">
+                                <span className="font-mono font-black text-base block leading-none">
+                                  {votes}
+                                </span>
+                                <span className="text-[10px] text-slate-400 font-bold">
+                                  {pct}%
+                                </span>
+                              </div>
+                              <button
+                                onClick={(e) => incrementHand(e, idx)}
+                                className="w-8 h-8 rounded-lg bg-emerald-600 hover:bg-emerald-500 text-white font-black flex items-center justify-center cursor-pointer active:scale-95"
+                                aria-label="Add 1 hand"
+                              >
+                                <Plus className="w-4 h-4" />
+                              </button>
+                            </div>
+                          )}
+                        </div>
+
+                        {/* Visual Percentage Distribution Bar */}
+                        {isTallyActive && totalHands > 0 && (
+                          <div className="w-full mt-3 pt-2 border-t border-white/10">
+                            <div className="w-full h-2 rounded-full bg-slate-800/60 overflow-hidden">
+                              <div
+                                className="h-full bg-emerald-400 transition-all duration-300"
+                                style={{ width: `${pct}%` }}
+                              />
+                            </div>
+                          </div>
+                        )}
+                      </div>
+                    );
+                  })}
+                </div>
+              )}
+            </div>
+          );
+        })()}
 
         {/* Type 6: ACTIVITY SLIDE */}
         {slide.type === 'ACTIVITY' && (
@@ -369,7 +478,7 @@ export function SmartboardSlideViewer({
                 isDark ? 'text-white' : 'text-slate-900'
               }`}
             >
-              {slide.title}
+              {renderCurriculumText(slide.title)}
             </h2>
             <div
               className={`rounded-3xl p-6 sm:p-10 space-y-5 border ${
@@ -383,7 +492,7 @@ export function SmartboardSlideViewer({
                   isDark ? 'text-amber-100' : 'text-amber-950'
                 }`}
               >
-                {slide.activity_prompt || slide.body}
+                {renderCurriculumText(slide.activity_prompt || slide.body)}
               </p>
               {slide.bullets && slide.bullets.length > 0 && (
                 <div className="pt-4 space-y-4">
@@ -403,7 +512,7 @@ export function SmartboardSlideViewer({
                         }`}
                       >
                         <span className="w-3 h-3 rounded-full bg-amber-500 mt-2.5 flex-shrink-0" />
-                        <span>{b}</span>
+                        <span>{renderCurriculumText(b)}</span>
                       </li>
                     ))}
                   </ul>
@@ -431,7 +540,7 @@ export function SmartboardSlideViewer({
                 isDark ? 'text-white' : 'text-slate-900'
               }`}
             >
-              {slide.title}
+              {renderCurriculumText(slide.title)}
             </h2>
             {slide.bullets && slide.bullets.length > 0 ? (
               <div className="space-y-4 pt-3">
@@ -445,7 +554,7 @@ export function SmartboardSlideViewer({
                     }`}
                   >
                     <CheckCircle2 className="w-8 h-8 text-emerald-500 flex-shrink-0 mt-1" />
-                    <span>{point}</span>
+                    <span>{renderCurriculumText(point)}</span>
                   </div>
                 ))}
               </div>
@@ -455,7 +564,7 @@ export function SmartboardSlideViewer({
                   isDark ? 'text-slate-200' : 'text-slate-800'
                 }`}
               >
-                {slide.body}
+                {renderCurriculumText(slide.body)}
               </p>
             )}
           </div>

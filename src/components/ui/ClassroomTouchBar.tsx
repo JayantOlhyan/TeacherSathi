@@ -12,7 +12,11 @@ import {
   Maximize2,
   Minimize2,
   Sun,
-  Moon
+  Moon,
+  Clock,
+  Users,
+  Languages,
+  EyeOff
 } from "lucide-react";
 
 export interface ClassroomTouchBarProps {
@@ -24,10 +28,16 @@ export interface ClassroomTouchBarProps {
   onOpenWhiteboard?: () => void;
   onOpenResources?: () => void;
   onAskSaathi?: () => void;
+  onOpenTimer?: () => void;
+  onOpenStudentPicker?: () => void;
   onEndClass?: () => void;
   onToggleTheme?: () => void;
+  onToggleHindi?: () => void;
+  onToggleBlackout?: () => void;
   isQuizActive?: boolean;
   isWhiteboardActive?: boolean;
+  isHindiMode?: boolean;
+  isBlackoutActive?: boolean;
   theme?: "dark" | "light";
   className?: string;
 }
@@ -41,16 +51,41 @@ export function ClassroomTouchBar({
   onOpenWhiteboard,
   onOpenResources,
   onAskSaathi,
+  onOpenTimer,
+  onOpenStudentPicker,
   onEndClass,
   onToggleTheme,
+  onToggleHindi,
+  onToggleBlackout,
   isQuizActive = false,
   isWhiteboardActive = false,
+  isHindiMode = false,
+  isBlackoutActive = false,
   theme = "dark",
   className = "",
 }: ClassroomTouchBarProps) {
   const [isFullscreen, setIsFullscreen] = React.useState(false);
 
-  // Global Keyboard Navigation (Addressing UX-025)
+  // Sync state with native browser fullscreen changes
+  React.useEffect(() => {
+    const handleFullscreenChange = () => {
+      setIsFullscreen(Boolean(document.fullscreenElement));
+    };
+    document.addEventListener("fullscreenchange", handleFullscreenChange);
+    return () => document.removeEventListener("fullscreenchange", handleFullscreenChange);
+  }, []);
+
+  const toggleFullscreen = React.useCallback(() => {
+    if (!document.fullscreenElement) {
+      document.documentElement.requestFullscreen().catch(() => {});
+    } else {
+      if (document.exitFullscreen) {
+        document.exitFullscreen().catch(() => {});
+      }
+    }
+  }, []);
+
+  // Global Hardware Clicker & Keyboard Navigation (UX-025 & Classroom Kiosk)
   React.useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
       // Don't intercept if focus is inside an input or textarea
@@ -61,30 +96,66 @@ export function ClassroomTouchBar({
         return;
       }
 
+      // Next Slide (Standard Clicker & Arrows)
       if (e.key === "ArrowRight" || e.key === "Space" || e.key === "PageDown") {
         e.preventDefault();
         onNextSlide();
-      } else if (e.key === "ArrowLeft" || e.key === "PageUp") {
+      } 
+      // Previous Slide (Standard Clicker & Arrows)
+      else if (e.key === "ArrowLeft" || e.key === "PageUp") {
         e.preventDefault();
         onPrevSlide();
+      }
+      // Blank/Blackout Screen (Clicker 'B' or '.' button)
+      else if ((e.key === "b" || e.key === "B" || e.key === ".") && onToggleBlackout) {
+        e.preventDefault();
+        onToggleBlackout();
+      }
+      // Toggle Whiteboard (Key W)
+      else if ((e.key === "w" || e.key === "W") && onOpenWhiteboard) {
+        e.preventDefault();
+        onOpenWhiteboard();
+      }
+      // Toggle Activity Timer (Key T)
+      else if ((e.key === "t" || e.key === "T") && onOpenTimer) {
+        e.preventDefault();
+        onOpenTimer();
+      }
+      // Pick Random Student (Key S)
+      else if ((e.key === "s" || e.key === "S") && onOpenStudentPicker) {
+        e.preventDefault();
+        onOpenStudentPicker();
+      }
+      // Toggle Quiz (Key Q)
+      else if ((e.key === "q" || e.key === "Q") && onStartQuiz) {
+        e.preventDefault();
+        onStartQuiz();
+      }
+      // Toggle Hindi/Vernacular (Key H)
+      else if ((e.key === "h" || e.key === "H") && onToggleHindi) {
+        e.preventDefault();
+        onToggleHindi();
+      }
+      // Toggle Fullscreen (Key F)
+      else if (e.key === "f" || e.key === "F") {
+        e.preventDefault();
+        toggleFullscreen();
       }
     };
 
     window.addEventListener("keydown", handleKeyDown);
     return () => window.removeEventListener("keydown", handleKeyDown);
-  }, [onNextSlide, onPrevSlide]);
-
-  const toggleFullscreen = () => {
-    if (!document.fullscreenElement) {
-      document.documentElement.requestFullscreen().catch(() => {});
-      setIsFullscreen(true);
-    } else {
-      if (document.exitFullscreen) {
-        document.exitFullscreen().catch(() => {});
-        setIsFullscreen(false);
-      }
-    }
-  };
+  }, [
+    onNextSlide, 
+    onPrevSlide, 
+    onToggleBlackout, 
+    onOpenWhiteboard, 
+    onOpenTimer, 
+    onOpenStudentPicker, 
+    onStartQuiz, 
+    onToggleHindi, 
+    toggleFullscreen
+  ]);
 
   const isDark = theme === "dark";
 
@@ -164,6 +235,36 @@ export function ClassroomTouchBar({
             <span className="hidden sm:inline">Ask Saathi</span>
           </button>
         )}
+
+        {onOpenTimer && (
+          <button
+            onClick={onOpenTimer}
+            aria-label="Open Activity Countdown Timer"
+            className={`min-h-[64px] px-4 sm:px-5 rounded-2xl font-extrabold text-sm sm:text-base flex items-center gap-2 transition-all active:scale-95 border cursor-pointer ${
+              isDark
+                ? "bg-[#131F30] hover:bg-[#1E2D44] text-amber-300 border-[#20334D]"
+                : "bg-amber-50 hover:bg-amber-100 text-amber-800 border-amber-200"
+            }`}
+          >
+            <Clock className="w-5 h-5 text-amber-400" />
+            <span className="hidden lg:inline">Timer</span>
+          </button>
+        )}
+
+        {onOpenStudentPicker && (
+          <button
+            onClick={onOpenStudentPicker}
+            aria-label="Pick Random Student"
+            className={`min-h-[64px] px-4 sm:px-5 rounded-2xl font-extrabold text-sm sm:text-base flex items-center gap-2 transition-all active:scale-95 border cursor-pointer ${
+              isDark
+                ? "bg-[#131F30] hover:bg-[#1E2D44] text-indigo-300 border-[#20334D]"
+                : "bg-indigo-50 hover:bg-indigo-100 text-indigo-800 border-indigo-200"
+            }`}
+          >
+            <Users className="w-5 h-5 text-indigo-400" />
+            <span className="hidden lg:inline">Call Student</span>
+          </button>
+        )}
       </div>
 
       {/* Center: Slide Navigation (Primary Tactile Target >= 64px) */}
@@ -199,8 +300,26 @@ export function ClassroomTouchBar({
         </button>
       </div>
 
-      {/* Right: Theme Toggle, Fullscreen & End Class */}
+      {/* Right: Theme Toggle, Language Flip, Fullscreen & End Class */}
       <div className="flex items-center gap-3">
+        {onToggleHindi && (
+          <button
+            onClick={onToggleHindi}
+            title={isHindiMode ? "Switch to English" : "Switch to Hindi (हिंदी)"}
+            aria-label={isHindiMode ? "Switch to English" : "Switch to Hindi"}
+            className={`min-h-[64px] px-4 rounded-2xl flex items-center justify-center gap-1.5 border transition-all active:scale-95 cursor-pointer font-bold ${
+              isHindiMode
+                ? "bg-amber-500 text-slate-950 border-amber-400 shadow-md font-black"
+                : isDark
+                ? "bg-[#131F30] hover:bg-[#1E2D44] text-slate-200 border-[#20334D]"
+                : "bg-slate-100 hover:bg-slate-200 text-slate-800 border-slate-300"
+            }`}
+          >
+            <Languages className="w-5 h-5 text-amber-400" />
+            <span className="text-sm font-extrabold">{isHindiMode ? "हिंदी" : "EN"}</span>
+          </button>
+        )}
+
         {onToggleTheme && (
           <button
             onClick={onToggleTheme}
@@ -213,6 +332,23 @@ export function ClassroomTouchBar({
             }`}
           >
             {isDark ? <Sun className="w-6 h-6" /> : <Moon className="w-6 h-6" />}
+          </button>
+        )}
+
+        {onToggleBlackout && (
+          <button
+            onClick={onToggleBlackout}
+            title={isBlackoutActive ? "Resume Screen (Clicker 'B')" : "Pause Screen / Blackout (Clicker 'B')"}
+            aria-label={isBlackoutActive ? "Resume Screen" : "Pause Screen"}
+            className={`min-h-[64px] min-w-[64px] rounded-2xl flex items-center justify-center border transition-all active:scale-95 cursor-pointer ${
+              isBlackoutActive
+                ? "bg-amber-600 text-white border-amber-400 shadow-lg ring-2 ring-amber-400/30"
+                : isDark
+                ? "bg-[#131F30] hover:bg-[#1E2D44] text-slate-300 border-[#20334D]"
+                : "bg-slate-100 hover:bg-slate-200 text-slate-700 border-slate-300"
+            }`}
+          >
+            <EyeOff className="w-6 h-6" />
           </button>
         )}
 

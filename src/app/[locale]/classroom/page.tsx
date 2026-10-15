@@ -14,7 +14,8 @@ import {
   BookOpen,
   PenTool,
   Sun,
-  Moon
+  Moon,
+  EyeOff
 } from "lucide-react";
 import { useClassroomRealtime } from "@/lib/classroom/useClassroomRealtime";
 import { SmartboardSlideViewer } from "@/components/classroom/SmartboardSlideViewer";
@@ -23,6 +24,8 @@ import { ClassroomWhiteboard } from "@/components/classroom/ClassroomWhiteboard"
 import { ClassroomQuickCheck } from "@/components/classroom/ClassroomQuickCheck";
 import { SaathiClassroomDrawer } from "@/components/classroom/SaathiClassroomDrawer";
 import { ClassroomResourceDrawer } from "@/components/classroom/ClassroomResourceDrawer";
+import { ClassroomTimerModal } from "@/components/classroom/ClassroomTimerModal";
+import { ClassroomStudentPicker } from "@/components/classroom/ClassroomStudentPicker";
 import { ConfirmDialog } from "@/components/ui/Dialog";
 import type { PresentationSlide } from "@/lib/validations/resources";
 
@@ -211,6 +214,10 @@ export default function ClassroomKioskPage() {
   const [isSaathiDrawerOpen, setIsSaathiDrawerOpen] = useState(false);
   const [isResourceDrawerOpen, setIsResourceDrawerOpen] = useState(false);
   const [isConfirmEndOpen, setIsConfirmEndOpen] = useState(false);
+  const [isTimerModalOpen, setIsTimerModalOpen] = useState(false);
+  const [isStudentPickerOpen, setIsStudentPickerOpen] = useState(false);
+  const [isHindiMode, setIsHindiMode] = useState(false);
+  const [isBlackoutActive, setIsBlackoutActive] = useState(false);
 
   // Curriculum Context for Slides, Quick Checks & Resources (Phase 17)
   const [curriculumContext, setCurriculumContext] = useState({
@@ -930,6 +937,7 @@ export default function ClassroomKioskPage() {
                   totalSlides={presentationSlides.length}
                   presentationTitle={sessionTitle}
                   theme={classroomTheme}
+                  isHindiMode={isHindiMode}
                 />
               </div>
             )}
@@ -963,6 +971,31 @@ export default function ClassroomKioskPage() {
               />
             )}
 
+            {/* Clicker & Focus Blackout / Screen Pause Overlay */}
+            {isBlackoutActive && (
+              <div
+                onClick={() => setIsBlackoutActive(false)}
+                className="absolute inset-0 z-40 bg-slate-950/95 backdrop-blur-md flex flex-col items-center justify-center p-8 text-center cursor-pointer select-none animate-fadeIn"
+                role="region"
+                aria-label="Screen paused for teacher discussion. Tap to resume."
+              >
+                <div className="w-20 h-20 rounded-3xl bg-amber-500/20 text-amber-400 border border-amber-500/40 flex items-center justify-center mb-6 shadow-2xl">
+                  <EyeOff className="w-10 h-10" />
+                </div>
+                <h2 className="text-4xl sm:text-5xl md:text-6xl font-black font-serif text-white tracking-tight mb-4">
+                  {isHindiMode ? "शिक्षक पर ध्यान केंद्रित करें" : "Focus on Teacher"}
+                </h2>
+                <p className="text-lg sm:text-2xl text-slate-300 font-medium max-w-2xl mb-8">
+                  {isHindiMode
+                    ? "प्रस्तुति स्क्रीन को चर्चा के लिए अस्थायी रूप से रोका गया है।"
+                    : "Presentation display is paused for active classroom discussion."}
+                </p>
+                <div className="px-6 py-3 rounded-2xl bg-amber-500 hover:bg-amber-400 text-slate-950 font-black text-sm sm:text-base flex items-center gap-2 shadow-xl transition-all">
+                  <span>{isHindiMode ? "स्पर्श करके पुनः प्रारंभ करें (Key 'B')" : "Tap Anywhere to Resume (Key 'B')"}</span>
+                </div>
+              </div>
+            )}
+
           </div>
         )}
 
@@ -979,7 +1012,13 @@ export default function ClassroomKioskPage() {
           onOpenResources={() => setIsResourceDrawerOpen(true)}
           onStartQuiz={() => setActiveTab(activeTab === "quiz" ? "content" : "quiz")}
           onAskSaathi={() => setIsSaathiDrawerOpen(true)}
+          onOpenTimer={() => setIsTimerModalOpen(true)}
+          onOpenStudentPicker={() => setIsStudentPickerOpen(true)}
           onToggleTheme={() => setClassroomTheme(isDark ? "light" : "dark")}
+          onToggleHindi={() => setIsHindiMode((prev) => !prev)}
+          onToggleBlackout={() => setIsBlackoutActive((prev) => !prev)}
+          isHindiMode={isHindiMode}
+          isBlackoutActive={isBlackoutActive}
           isQuizActive={activeTab === "quiz"}
           isWhiteboardActive={activeTab === "whiteboard"}
           onEndClass={() => setIsConfirmEndOpen(true)}
@@ -1023,6 +1062,20 @@ export default function ClassroomKioskPage() {
         currentSlideIndex={currentSlideIndex}
         onSelectSlide={(idx) => setCurrentSlideIndex(idx)}
         chapterTitle={sessionTitle}
+        theme={classroomTheme}
+      />
+
+      {/* Interactive Activity Countdown Timer (UX-026) */}
+      <ClassroomTimerModal
+        isOpen={isTimerModalOpen}
+        onClose={() => setIsTimerModalOpen(false)}
+        theme={classroomTheme}
+      />
+
+      {/* Random Student Caller Modal (UX-027) */}
+      <ClassroomStudentPicker
+        isOpen={isStudentPickerOpen}
+        onClose={() => setIsStudentPickerOpen(false)}
         theme={classroomTheme}
       />
 
