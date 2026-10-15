@@ -115,7 +115,7 @@ export default function TestimonialGrid() {
 
             <div className="space-y-1">
               <span className="text-[10px] font-extrabold uppercase tracking-widest text-emerald-400">Verified Video Testimonial</span>
-              <h3 className="text-lg font-black text-white">{selectedVideo.name} — {selectedVideo.school}</h3>
+              <h3 className="text-lg font-black text-white">{selectedVideo.name} ({selectedVideo.school})</h3>
             </div>
 
             <div className="relative aspect-video w-full bg-black rounded-2xl overflow-hidden flex items-center justify-center border border-slate-800">

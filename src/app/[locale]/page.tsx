@@ -13,13 +13,14 @@ import {
 } from "lucide-react";
 import JungleBackground from "@/components/landing/JungleBackground";
 import SmartboardFrame from "@/components/landing/SmartboardFrame";
-import InteractiveHeroWorkspace from "@/components/landing/InteractiveHeroWorkspace";
+import HeroSmartboardSurface from "@/components/landing/HeroSmartboardSurface";
+import TensionComparison from "@/components/landing/TensionComparison";
+import MetamorphicBoardConsole from "@/components/landing/MetamorphicBoardConsole";
 import TrustStrip from "@/components/landing/TrustStrip";
 import HowItWorksSteps from "@/components/landing/HowItWorksSteps";
 import TestimonialGrid from "@/components/landing/TestimonialGrid";
 import SampleResourcesExplorer from "@/components/landing/SampleResourcesExplorer";
 import CurriculumCoverage from "@/components/landing/CurriculumCoverage";
-import InteractiveFeaturesSection from "@/components/landing/InteractiveFeaturesSection";
 import TimeSavedCalculator from "@/components/landing/TimeSavedCalculator";
 import FooterMission from "@/components/landing/FooterMission";
 
@@ -33,13 +34,13 @@ export default function Home() {
       // Hero text entrance
       gsap.fromTo(".hero-element", 
         { y: 30, opacity: 0 },
-        { y: 0, opacity: 1, duration: 1, stagger: 0.15, ease: "power3.out", delay: 0.2 }
+        { y: 0, opacity: 1, duration: 0.8, stagger: 0.12, ease: "power3.out", delay: 0.15 }
       );
 
-      // Smartboard UI staggered entrance
+      // Smartboard UI entrance
       gsap.fromTo(".sb-animate",
-        { y: 20, opacity: 0, scale: 0.95 },
-        { y: 0, opacity: 1, scale: 1, duration: 0.8, stagger: 0.1, ease: "back.out(1.2)", delay: 0.6 }
+        { y: 20, opacity: 0, scale: 0.98 },
+        { y: 0, opacity: 1, scale: 1, duration: 0.8, ease: "power2.out", delay: 0.4 }
       );
     }, heroRef);
 
@@ -49,16 +50,16 @@ export default function Home() {
   return (
     <div className="relative min-h-screen flex flex-col font-sans text-ink overflow-x-hidden selection:bg-brand selection:text-white">
       
-      {/* 1. Global Background */}
+      {/* 1. Global Atmospheric Mesh Background */}
       <JungleBackground />
 
-      <main className="relative flex-1 w-full z-10 pt-20 pb-24 px-4 sm:px-6 lg:px-8 max-w-[1400px] mx-auto">
+      <main className="relative flex-1 w-full z-10 pt-16 sm:pt-20 pb-24 px-4 sm:px-6 lg:px-8 max-w-[1400px] mx-auto">
 
-        {/* 2. Hero Section */}
-        <section ref={heroRef} className="grid grid-cols-1 lg:grid-cols-12 gap-12 lg:gap-8 items-center min-h-[85vh]">
+        {/* 2. Act 1: Dimensional Hero Surface */}
+        <section ref={heroRef} className="grid grid-cols-1 lg:grid-cols-12 gap-12 lg:gap-8 items-center min-h-[85vh] mb-12">
           
           {/* Hero Left Content */}
-          <div className="lg:col-span-5 space-y-8 z-20 relative">
+          <div className="lg:col-span-5 space-y-7 z-20 relative">
             <div className="flex flex-wrap items-center gap-2">
               <div className="hero-element inline-flex items-center gap-2 px-3 py-1 rounded-full bg-[#FAFAFA]/90 backdrop-blur-md border border-brand-200/60 text-brand-900 font-extrabold text-[11px] uppercase tracking-widest shadow-sm">
                 <Heart className="w-3.5 h-3.5 fill-brand text-brand" /> 🇮🇳 NEP 2020 Aligned AI for Teachers
@@ -68,17 +69,17 @@ export default function Home() {
               </div>
             </div>
 
-            <div className="space-y-6">
+            <div className="space-y-5">
               <h1 className="hero-element text-4xl sm:text-5xl md:text-6xl font-black text-[#1A2E20] tracking-tighter leading-[1.08]">
                 NCERT AI Lesson Plan Generator <span className="bg-clip-text text-transparent bg-gradient-to-r from-[#0F5B38] to-[#1a935b]">&amp; CBSE Worksheet Creator</span>
               </h1>
               
               <p className="hero-element text-base sm:text-lg text-[#2C4A35] font-semibold leading-relaxed max-w-lg">
-                Instantly convert any NCERT Class 6–10 chapter into bilingual 75-inch smartboard slide decks, HD explainer videos, interactive mind maps, quizzes, and print-ready worksheets in 30 seconds.
+                Instantly convert any NCERT Class 6 to 10 chapter into bilingual 75-inch smartboard slide decks, HD explainer videos, interactive mind maps, quizzes, and print-ready worksheets in 30 seconds.
               </p>
             </div>
 
-            <div className="hero-element space-y-2 pt-2">
+            <div className="hero-element space-y-2 pt-1">
               <div className="flex flex-col sm:flex-row items-center gap-4">
                 <a 
                   href="/signup"
@@ -90,17 +91,17 @@ export default function Home() {
                 </a>
 
                 <a 
-                  href="#how-it-works"
+                  href="#metamorphic-console"
                   className="w-full sm:w-auto px-6 py-4 rounded-full bg-white/90 backdrop-blur-md border border-brand-950/10 text-brand-950 font-extrabold text-sm hover:bg-white hover:shadow-md hover:-translate-y-0.5 transition-all duration-300 flex items-center justify-center gap-2 shadow-sm cursor-pointer"
                 >
-                  See How It Works <PlayCircle className="w-4 h-4 text-brand" />
+                  Explore Live Console <PlayCircle className="w-4 h-4 text-brand" />
                 </a>
               </div>
 
-              {/* Trust Statement */}
+              {/* Trust Statement (Free Forever) */}
               <p className="text-[11px] font-bold text-emerald-800 flex items-center gap-1.5 pl-2 pt-1">
                 <CheckCircle2 className="w-3.5 h-3.5 text-emerald-600 shrink-0" />
-                100% Free Forever for Individual Teachers — No Credit Card Required
+                100% Free Forever for Individual Teachers (No Credit Card Required)
               </p>
             </div>
 
@@ -130,52 +131,59 @@ export default function Home() {
             </div>
           </div>
 
-          {/* Hero Right Smartboard Dashboard */}
-          <div className="lg:col-span-7 z-10 relative">
+          {/* Hero Right: 75-inch Smartboard Hardware Live Surface */}
+          <div className="lg:col-span-7 z-10 relative sb-animate">
             <SmartboardFrame>
-              <InteractiveHeroWorkspace />
+              <HeroSmartboardSurface />
             </SmartboardFrame>
           </div>
         </section>
 
-        {/* 3. Trust Strip */}
-        <section id="about" className="mb-16 mt-4 relative z-20">
+        {/* 3. Verified Boards & Trust Strip */}
+        <section id="about" className="mb-14 relative z-20">
           <TrustStrip />
         </section>
 
-        {/* 4. Features Section (Interactive Scrollytelling) */}
-        <div id="features">
-          <InteractiveFeaturesSection />
+        {/* 4. Act 2: The Honest Tension (Empirical Manual vs AI Comparison) */}
+        <section className="mb-16 relative z-20">
+          <TensionComparison />
+        </section>
+
+        {/* 5. Act 3: The Engineered Peak (The Metamorphic Live Smartboard Console) */}
+        <div id="features" className="mb-20">
+          <MetamorphicBoardConsole />
         </div>
 
-        {/* 5. How It Works Section */}
-        <section id="how-it-works" className="mb-32 relative z-20">
+        {/* 6. Act 4: How It Works (Pedagogical Workflow Steps) */}
+        <section id="how-it-works" className="mb-24 relative z-20">
           <HowItWorksSteps />
         </section>
 
-        {/* 6. Testimonials Section */}
-        <section id="teacher-tested" className="mb-32 relative z-20">
+        {/* 7. Act 5: Real Verified Educator Feedback */}
+        <section id="teacher-tested" className="mb-24 relative z-20">
           <TestimonialGrid />
         </section>
 
-        {/* 7. Sample Resources Interactive Section */}
-        <section id="resources" className="mb-32 relative z-20">
+        {/* 8. Act 6: Interactive Sample Resources Explorer */}
+        <section id="resources" className="mb-24 relative z-20">
           <SampleResourcesExplorer />
         </section>
 
-        {/* 8. Curriculum Coverage Section */}
+        {/* 9. Act 7: Full Curriculum Coverage */}
         <section className="mb-16 relative z-20">
           <CurriculumCoverage />
         </section>
 
-        {/* 9. Interactive Time Saved Calculator Widget */}
-        <section className="mb-32 relative z-20">
+        {/* 10. Act 8: Interactive Time Saved Calculator */}
+        <section className="mb-24 relative z-20">
           <TimeSavedCalculator />
         </section>
 
       </main>
 
+      {/* 11. Resolved Mission & Free Commitment Close */}
       <FooterMission />
     </div>
   );
 }
+

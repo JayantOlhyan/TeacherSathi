@@ -15,7 +15,7 @@ export default function FooterMission() {
           <Quote className="absolute -bottom-12 -right-12 w-32 h-32 text-brand/10 rotate-180 -z-10" />
           <Leaf className="w-8 h-8 text-brand mx-auto mb-8 opacity-80" />
           <h2 className="text-3xl md:text-5xl font-black leading-tight tracking-tighter mb-8 text-slate-100 relative z-10">
-            &quot;Our mission is to empower every government school teacher with world-class teaching resources, so they can focus on what matters most—<span className="text-brand-400 bg-clip-text text-transparent bg-gradient-to-r from-brand-400 to-emerald-300">inspiring the next generation.</span>&quot;
+            &quot;Our mission is to empower every government school teacher with world-class teaching resources, so they can focus on what matters most: <span className="text-brand-400 bg-clip-text text-transparent bg-gradient-to-r from-brand-400 to-emerald-300">inspiring the next generation.</span>&quot;
           </h2>
         </div>
 

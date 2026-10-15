@@ -175,3 +175,40 @@ body {
   }
 }
 
+/* ============================================================================
+   Scroll-Craft Design System Tokens (Live Surface Grammar)
+   ========================================================================== */
+:root {
+  --sc-canvas: #F7FAF8;
+  --sc-surface: #FFFFFF;
+  --sc-ink: #1A2E20;
+  --sc-ink-soft: #425B4C;
+  --sc-accent: #0F5B38;
+  --sc-accent-ink: #FFFFFF;
+  --sc-amber: #D97706;
+  --sc-amber-ink: #0A1F14;
+  --sc-border: #D2E3D6;
+  --sc-border-subtle: #E5EBE5;
+  --sc-hairline: color-mix(in oklab, var(--sc-ink) 10%, transparent);
+
+  --sc-track-tight: -0.03em;
+  --sc-track-normal: -0.005em;
+  --sc-leading-none: 1.04;
+  --sc-leading-tight: 1.16;
+  --sc-leading-body: 1.62;
+
+  --sc-ease-out: cubic-bezier(0.23, 1, 0.32, 1);
+  --sc-ease-in-out: cubic-bezier(0.77, 0, 0.175, 1);
+}
+
+::selection {
+  background: #0F5B38;
+  color: #FFFFFF;
+}
+
+/* Scroll-craft live hardware bevel & surface styles */
+.sc-smartboard-hardware {
+  box-shadow: 0 30px 80px -20px rgba(6, 46, 30, 0.35), 0 0 0 1px rgba(255, 255, 255, 0.08);
+}
+
+
